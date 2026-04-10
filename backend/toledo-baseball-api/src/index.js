@@ -10,6 +10,7 @@ const RECENT_FORM_DEFAULT_GAMES = 5;
 const LIVE_SCOREBOARD_LIMIT = 12;
 const SCHOOL_SEARCH_LIMIT = 16;
 const NATIONAL_PLAYER_CACHE_TTL_MS = 1000 * 60 * 15;
+const NATIONAL_PLAYER_MAX_PAGES_PER_SPEC = 2;
 
 const NATIONAL_PLAYER_STAT_SPECS = [
   { id: 200, role: "Hitter", key: "battingAverage", label: "Batting Average", field: "BA" },
@@ -1743,7 +1744,8 @@ async function mapWithConcurrency(items, concurrency, worker) {
 
 async function fetchNationalStatPages(env, spec) {
   const firstPage = await fetchJson(`${baseUrl(env)}/stats/baseball/d1/current/individual/${spec.id}`);
-  const pages = readInt(firstPage.pages, 1, 1, 50);
+  const totalPages = readInt(firstPage.pages, 1, 1, 50);
+  const pages = Math.min(totalPages, NATIONAL_PLAYER_MAX_PAGES_PER_SPEC);
   const rows = [...(firstPage.data || [])];
 
   if (pages > 1) {
@@ -1759,6 +1761,8 @@ async function fetchNationalStatPages(env, spec) {
   return {
     spec,
     updated: compactText(firstPage.updated || ""),
+    pagesFetched: pages,
+    totalPages,
     rows,
   };
 }
@@ -1895,11 +1899,15 @@ function finalizeNationalPlayer(record) {
 async function buildNationalPlayerBoard(env) {
   const playerMap = new Map();
   const updatedSet = new Set();
+  const truncatedCategories = [];
 
   for (const spec of NATIONAL_PLAYER_STAT_SPECS) {
     const leaderboard = await fetchNationalStatPages(env, spec);
     if (leaderboard.updated) {
       updatedSet.add(leaderboard.updated);
+    }
+    if (leaderboard.totalPages > leaderboard.pagesFetched) {
+      truncatedCategories.push(spec.label);
     }
 
     for (const row of leaderboard.rows) {
@@ -1934,7 +1942,9 @@ async function buildNationalPlayerBoard(env) {
     source: "NCAA wrapper individual stats leaderboards",
     generatedAt: new Date().toISOString(),
     note:
-      "This national board is built from NCAA individual leaderboard categories, so it covers tracked national stat qualifiers and leaders rather than every rostered player in Division I.",
+      truncatedCategories.length
+        ? `This national board is built from NCAA individual leaderboard categories and is capped at ${NATIONAL_PLAYER_MAX_PAGES_PER_SPEC} pages per category to stay within Cloudflare Worker limits. Truncated categories: ${truncatedCategories.join(", ")}.`
+        : "This national board is built from NCAA individual leaderboard categories, so it covers tracked national stat qualifiers and leaders rather than every rostered player in Division I.",
     trackedCategories: {
       Hitter: NATIONAL_PLAYER_STAT_SPECS.filter((spec) => spec.role === "Hitter").map((spec) => spec.label),
       Pitcher: NATIONAL_PLAYER_STAT_SPECS.filter((spec) => spec.role === "Pitcher").map((spec) => spec.label),

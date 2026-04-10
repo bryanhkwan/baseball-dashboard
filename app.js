@@ -1160,9 +1160,6 @@ function renderPlayerBoardMeta() {
 
   if (state.playerBoard.loading) {
     playersPanelSubEl.textContent = mode.loadingText;
-    playerBoardSchoolPillEl.textContent = mode.scopeLabel;
-    playerBoardGamePillEl.textContent = mode.sourceLabel;
-    playerBoardCountPillEl.textContent = "Players: Loading...";
     playerResultsMetaEl.textContent = mode.loadingLabel;
     playersFootnoteEl.textContent = mode.defaultFootnote;
     playerPagePrevEl.disabled = true;
@@ -1172,9 +1169,6 @@ function renderPlayerBoardMeta() {
 
   if (state.playerBoard.error) {
     playersPanelSubEl.textContent = mode.errorText;
-    playerBoardSchoolPillEl.textContent = mode.scopeLabel;
-    playerBoardGamePillEl.textContent = "Sources: Unavailable";
-    playerBoardCountPillEl.textContent = "Players: Board unavailable";
     playerResultsMetaEl.textContent = "Unified player board unavailable";
     playersFootnoteEl.textContent = state.playerBoard.error;
     playerPagePrevEl.disabled = true;
@@ -1184,9 +1178,6 @@ function renderPlayerBoardMeta() {
 
   if (!payload) {
     playersPanelSubEl.textContent = "Waiting for the unified player board.";
-    playerBoardSchoolPillEl.textContent = mode.scopeLabel;
-    playerBoardGamePillEl.textContent = mode.sourceLabel;
-    playerBoardCountPillEl.textContent = "Players: 0";
     playerResultsMetaEl.textContent = mode.waitingLabel;
     playersFootnoteEl.textContent = mode.waitingNote;
     playerPagePrevEl.disabled = true;
@@ -1197,9 +1188,7 @@ function renderPlayerBoardMeta() {
   const roleCounts = payload.roleCounts || { Hitter: 0, Pitcher: 0 };
 
   playersPanelSubEl.textContent = mode.readyText;
-  playerBoardSchoolPillEl.textContent = mode.scopeLabel;
-  playerBoardGamePillEl.textContent = `Sources: ${payload.boardCoverage || mode.sourceLabel.replace("Sources: ", "")}`;
-  playerBoardCountPillEl.textContent = `Players: ${payload.totalPlayers || payload.playerCount || 0} (${roleCounts.Hitter || 0} hitters / ${
+  playerResultsMetaEl.textContent = `${payload.totalPlayers || payload.playerCount || 0} players (${roleCounts.Hitter || 0} hitters / ${
     roleCounts.Pitcher || 0
   } pitchers)`;
   playersFootnoteEl.textContent =
