@@ -1,96 +1,45 @@
-import { mkdir, writeFile } from "node:fs/promises";
+import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import process from "node:process";
 import { fileURLToPath } from "node:url";
+import schoolManifest from "../data/school-manifest.baseball.json" with { type: "json" };
 
 const SCRIPT_DIR = path.dirname(fileURLToPath(import.meta.url));
 const REPO_ROOT = path.resolve(SCRIPT_DIR, "..");
 
-const TEAM_PRESETS = {
-  toledo: {
-    key: "toledo",
-    season: 2026,
-    schoolSlug: "toledo",
-    schoolName: "Toledo",
-    schoolLongName: "University of Toledo",
-    schoolSiteBase: "https://utrockets.com",
-    rosterPath: "/sports/baseball/roster",
-    statsPath: "/sports/baseball/stats/2026",
-    espnTeamId: "445",
-  },
-  "wake-forest": {
-    key: "wake-forest",
-    season: 2026,
-    schoolSlug: "wake-forest",
-    schoolName: "Wake Forest",
-    schoolLongName: "Wake Forest University",
-    schoolSiteBase: "https://godeacs.com",
-    rosterPath: "/sports/baseball/roster",
-    statsPath: "/sports/baseball/stats/2026",
-    espnTeamId: "97",
-  },
-  tcu: {
-    key: "tcu",
-    season: 2026,
-    schoolSlug: "tcu",
-    schoolName: "TCU",
-    schoolLongName: "Texas Christian University",
-    schoolSiteBase: "https://gofrogs.com",
-    rosterPath: "/sports/baseball/roster",
-    statsPath: "/sports/baseball/stats/2026",
-    espnTeamId: "198",
-  },
-  houston: {
-    key: "houston",
-    season: 2026,
-    schoolSlug: "houston",
-    schoolName: "Houston",
-    schoolLongName: "University of Houston",
-    schoolSiteBase: "https://uhcougars.com",
-    rosterPath: "/sports/baseball/roster",
-    statsPath: "/sports/baseball/stats/2026",
-    espnTeamId: "124",
-  },
-  "middle-tennessee": {
-    key: "middle-tennessee",
-    season: 2026,
-    schoolSlug: "middle-tenn",
-    schoolName: "Middle Tennessee",
-    schoolLongName: "Middle Tennessee State University",
-    schoolSiteBase: "https://goblueraiders.com",
-    rosterPath: "/sports/baseball/roster",
-    statsPath: "/sports/baseball/stats/2026",
-    espnTeamId: "177",
-  },
-  missouri: {
-    key: "missouri",
-    season: 2026,
-    schoolSlug: "missouri",
-    schoolName: "Missouri",
-    schoolLongName: "University of Missouri",
-    schoolSiteBase: "https://mutigers.com",
-    rosterPath: "/sports/baseball/roster",
-    statsPath: "/sports/baseball/stats/2026",
-    espnTeamId: "91",
-  },
-  "sam-houston": {
-    key: "sam-houston",
-    season: 2026,
-    schoolSlug: "sam-houston-st",
-    schoolName: "Sam Houston",
-    schoolLongName: "Sam Houston State University",
-    schoolSiteBase: "https://gobearkats.com",
-    rosterPath: "/sports/baseball/roster",
-    statsPath: "/sports/baseball/stats/2026",
-    espnTeamId: "190",
-  },
-};
+let schoolManifestData = schoolManifest;
+let TEAM_PRESETS = Object.fromEntries(
+  (schoolManifestData.teams || []).map((team) => [String(team.key || "").toLowerCase(), team]),
+);
+
+function setManifestData(nextManifest) {
+  schoolManifestData = nextManifest;
+  TEAM_PRESETS = Object.fromEntries(
+    (schoolManifestData.teams || []).map((team) => [String(team.key || "").toLowerCase(), team]),
+  );
+}
+
+async function loadManifestFromPath(manifestPath) {
+  const resolvedPath = path.resolve(process.cwd(), manifestPath);
+  const raw = await readFile(resolvedPath, "utf8");
+  return JSON.parse(raw);
+}
+
+function isManifestTeamReady(team = {}) {
+  return (
+    team.enabled !== false &&
+    Boolean(team.schoolSiteBase) &&
+    Boolean(team.rosterPath) &&
+    Boolean(team.statsPath)
+  );
+}
 
 function parseArgs(argv) {
   const options = {
     team: "toledo",
-    season: 2026,
+    season: null,
     output: "",
+    manifest: "",
   };
 
   for (let index = 2; index < argv.length; index += 1) {
@@ -116,6 +65,12 @@ function parseArgs(argv) {
       index += 1;
       continue;
     }
+
+    if (token === "--manifest") {
+      options.manifest = argv[index + 1] || options.manifest;
+      index += 1;
+      continue;
+    }
   }
 
   return options;
@@ -124,14 +79,15 @@ function parseArgs(argv) {
 function resolveTeamConfig(options) {
   const requestedTeam = String(options.team || "").toLowerCase();
   if (requestedTeam === "all" || requestedTeam === "sidearm-pool") {
+    const readyTeams = Object.values(TEAM_PRESETS).filter(isManifestTeamReady);
     return {
       mode: "all",
-      season: options.season || 2026,
+      season: options.season || schoolManifestData.defaultSeason || 2026,
       outputPath:
         options.output ||
-        path.join(REPO_ROOT, "data", "generated", `sidearm-pool-baseball-${options.season || 2026}.json`),
-      teamConfigs: Object.values(TEAM_PRESETS).map((preset) => {
-        const season = options.season || preset.season;
+        path.join(REPO_ROOT, "data", "generated", `sidearm-pool-baseball-${options.season || schoolManifestData.defaultSeason || 2026}.json`),
+      teamConfigs: readyTeams.map((preset) => {
+        const season = options.season || preset.season || schoolManifestData.defaultSeason || 2026;
         return {
           ...preset,
           season,
@@ -145,10 +101,16 @@ function resolveTeamConfig(options) {
   const preset = TEAM_PRESETS[requestedTeam];
 
   if (!preset) {
-    throw new Error(`Unknown team preset "${options.team}". Add it to TEAM_PRESETS before running this script.`);
+    throw new Error(`Unknown team preset "${options.team}". Add it to data/school-manifest.baseball.json before running this script.`);
   }
 
-  const season = options.season || preset.season;
+  if (!isManifestTeamReady(preset)) {
+    throw new Error(
+      `Team preset "${options.team}" is not ready for ingest yet. Fill in schoolSiteBase, rosterPath, statsPath, and keep enabled=true in the manifest.`,
+    );
+  }
+
+  const season = options.season || preset.season || schoolManifestData.defaultSeason || 2026;
   return {
     mode: "single",
     ...preset,
@@ -1117,6 +1079,12 @@ async function generateSchoolDataset(config) {
 
 async function main() {
   const options = parseArgs(process.argv);
+  if (options.manifest) {
+    setManifestData(await loadManifestFromPath(options.manifest));
+    if (!options.season) {
+      options.season = schoolManifestData.defaultSeason || 2026;
+    }
+  }
   const resolved = resolveTeamConfig(options);
 
   if (resolved.mode === "all") {

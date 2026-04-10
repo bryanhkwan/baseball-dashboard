@@ -10,7 +10,7 @@ This repo is now set up as the first Toledo-first baseball dashboard scaffold.
 - a backend scaffold now exists under `backend/toledo-baseball-api`
 - the overview now wires into live NCAA-backed Toledo identity, recent or upcoming game data, and a verified Toledo boxscore player list
 - a real-data explorer now lets you search live schools, inspect recent and upcoming games, browse a live scoreboard sample, and open real game detail payloads
-- the Players page now uses a unified static-first player board built from the generated Toledo and transfer-pool datasets
+- the Players page now uses a backend-served paginated player universe with row click-through into a full player profile card
 
 ## Baseball basics
 
@@ -103,20 +103,20 @@ To power the live Toledo cards and Games views, run:
 
 Notes:
 
-- the hosted `Players` board stays static-first even when the backend is enabled
-- the backend is meant for live Overview and Games data
+- the backend now powers `Players`, `Overview`, and `Games`
+- the generated Toledo and sidearm-pool datasets seed the backend player-universe service
 - the older NCAA national leaderboard route still exists in the Worker, but it is no longer part of the normal player-page load path
 
 If the worker is not running, the dashboard falls back to the static shell.
 
-## Hosted static mode
+## Hosted mode
 
-When this repo is hosted on GitHub Pages, the frontend now defaults to a static-first mode:
+When this repo is hosted on GitHub Pages, the frontend is wired to the deployed Worker by default:
 
 - `Players` opens first
-- the unified player board uses the committed generated datasets
+- `Players` uses the backend player-universe endpoints
 - live backend calls are used for `Overview` and `Games`
-- `Players` stays static-first so refreshes do not hit the heavy national-player route
+- the committed generated datasets still matter because they seed the stored player universe the Worker serves
 
 To turn the live backend on later, set `window.BASEBALL_API_BASE` or `data-api-base` in the HTML to your deployed Worker URL.
 
@@ -175,14 +175,38 @@ And it writes:
 
 The current generated free pool covers 7 schools and 263 players.
 
-Inside the app, the `Players` page now uses one unified player board.
+Inside the app, those generated datasets now seed the backend-owned player universe.
 
-That board merges:
+That universe merges:
 
 - Toledo's real school-site season roster
 - the broader free generated transfer-target pool
+- the backend national player board when the NCAA wrapper is reachable
 
 This keeps the baseball UX closer to the basketball dashboard: one main player list on the left, one full profile on the right, and no source sub-tabs inside the player workflow.
+
+## Manifest expansion
+
+The school ingest layer is now manifest-driven.
+
+Base manifest:
+
+- `data/school-manifest.baseball.json`
+
+Expanded discovery manifest:
+
+- `data/school-manifest.baseball.expanded.json`
+
+To refresh the expanded manifest from the NCAA school index, recent D1 baseball scoreboards, and national leaderboards, run:
+
+1. `node scripts/expand-baseball-manifest.mjs --write`
+
+The current expanded manifest discovers 338 candidate baseball schools, with 7 ready Sidearm ingests and 331 discovered entries left disabled until their site paths are configured.
+
+The dataset generator now accepts a manifest override and only ingests entries that are actually ready:
+
+1. `node scripts/generate-baseball-dataset.mjs --manifest data/school-manifest.baseball.expanded.json --team toledo`
+2. `node scripts/generate-baseball-dataset.mjs --manifest data/school-manifest.baseball.expanded.json --team all`
 
 ## Files
 
@@ -193,6 +217,9 @@ This keeps the baseball UX closer to the basketball dashboard: one main player l
 - `backend/toledo-baseball-api/wrangler.jsonc`: Worker config
 - `backend/toledo-baseball-api/README.md`: backend notes
 - `scripts/generate-baseball-dataset.mjs`: Toledo-first free roster and stats ingest
+- `scripts/expand-baseball-manifest.mjs`: NCAA-backed manifest discovery and expansion
+- `data/school-manifest.baseball.json`: ready-school ingest manifest
+- `data/school-manifest.baseball.expanded.json`: generated expanded baseball school manifest
 - `data/generated/toledo-baseball-2026.json`: generated Toledo player dataset
 - `data/generated/toledo-baseball-2026.js`: browser-loadable Toledo dataset bundle for the Players UI
 - `data/generated/sidearm-pool-baseball-2026.json`: combined multi-school generated player pool

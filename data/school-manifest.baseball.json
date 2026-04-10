@@ -1,0 +1,138 @@
+{
+  "defaultSeason": 2026,
+  "teams": [
+    {
+      "key": "toledo",
+      "season": 2026,
+      "schoolSlug": "toledo",
+      "schoolName": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
+      "schoolSiteBase": "https://utrockets.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026",
+      "espnTeamId": "445",
+      "discovery": {
+        "sources": [
+          "seed-manifest"
+        ]
+      }
+    },
+    {
+      "key": "wake-forest",
+      "season": 2026,
+      "schoolSlug": "wake-forest",
+      "schoolName": "Wake Forest",
+      "schoolLongName": "Wake Forest University",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
+      "schoolSiteBase": "https://godeacs.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026",
+      "espnTeamId": "97",
+      "discovery": {
+        "sources": [
+          "seed-manifest"
+        ]
+      }
+    },
+    {
+      "key": "tcu",
+      "season": 2026,
+      "schoolSlug": "tcu",
+      "schoolName": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
+      "schoolSiteBase": "https://gofrogs.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026",
+      "espnTeamId": "198",
+      "discovery": {
+        "sources": [
+          "seed-manifest"
+        ]
+      }
+    },
+    {
+      "key": "houston",
+      "season": 2026,
+      "schoolSlug": "houston",
+      "schoolName": "Houston",
+      "schoolLongName": "University of Houston",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
+      "schoolSiteBase": "https://uhcougars.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026",
+      "espnTeamId": "124",
+      "discovery": {
+        "sources": [
+          "seed-manifest"
+        ]
+      }
+    },
+    {
+      "key": "middle-tennessee",
+      "season": 2026,
+      "schoolSlug": "middle-tenn",
+      "schoolName": "Middle Tennessee",
+      "schoolLongName": "Middle Tennessee State University",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
+      "schoolSiteBase": "https://goblueraiders.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026",
+      "espnTeamId": "177",
+      "discovery": {
+        "sources": [
+          "seed-manifest"
+        ]
+      }
+    },
+    {
+      "key": "missouri",
+      "season": 2026,
+      "schoolSlug": "missouri",
+      "schoolName": "Missouri",
+      "schoolLongName": "University of Missouri",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
+      "schoolSiteBase": "https://mutigers.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026",
+      "espnTeamId": "91",
+      "discovery": {
+        "sources": [
+          "seed-manifest"
+        ]
+      }
+    },
+    {
+      "key": "sam-houston",
+      "season": 2026,
+      "schoolSlug": "sam-houston-st",
+      "schoolName": "Sam Houston",
+      "schoolLongName": "Sam Houston State University",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
+      "schoolSiteBase": "https://gobearkats.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026",
+      "espnTeamId": "190",
+      "discovery": {
+        "sources": [
+          "seed-manifest"
+        ]
+      }
+    }
+  ]
+}

@@ -266,6 +266,9 @@ const state = {
     syncing: false,
     error: "",
     payload: null,
+    selectedPlayer: null,
+    selectedPlayerLoading: false,
+    selectedPlayerError: "",
     sourceKey: DEFAULT_PLAYER_BOARD_SOURCE,
     searchQuery: "",
     page: 1,
@@ -332,8 +335,10 @@ const pageDataState = {
   scoreboardLoaded: false,
 };
 let schoolSearchTimer = 0;
+let playerSearchTimer = 0;
 let selectedSchoolRequestId = 0;
 let playerBoardRequestId = 0;
+let playerDetailRequestId = 0;
 
 function showDashboardPage(targetId) {
   document.querySelectorAll('.pageNavBtn').forEach(function(btn) {
@@ -836,57 +841,26 @@ function getActivePlayerBoard() {
 }
 
 function getAvailablePlayers() {
-  return getActivePlayerBoard()?.players || [];
+  return getActivePlayerBoard()?.data || [];
 }
 
 function getFilteredPlayers() {
-  const availablePlayers = getAvailablePlayers();
-  const normalizedSearch = state.playerBoard.searchQuery.trim().toLowerCase();
-  const filtered =
-    state.roleFilter === "All"
-      ? [...availablePlayers]
-      : availablePlayers.filter((player) => player.role === state.roleFilter);
-
-  const searched = normalizedSearch
-    ? filtered.filter((player) => {
-        const haystack = [player.name, player.school, player.position, player.classYear, player.role]
-          .filter(Boolean)
-          .join(" ")
-          .toLowerCase();
-        return haystack.includes(normalizedSearch);
-      })
-    : filtered;
-
-  searched.sort((left, right) => {
-    if (state.sortKey === "name") {
-      return left.name.localeCompare(right.name);
-    }
-    if (state.sortKey === "position") {
-      return left.position.localeCompare(right.position);
-    }
-    return right.score - left.score;
-  });
-
-  if (!searched.some((player) => player.id === state.selectedPlayerId) && searched[0]) {
-    state.selectedPlayerId = searched[0].id;
-  }
-  if (!searched.length) {
-    state.selectedPlayerId = "";
-  }
-
-  return searched;
+  return getAvailablePlayers();
 }
 
 function getPlayerPagination(filteredPlayers) {
-  const pageSize = state.playerBoard.pageSize;
-  const totalPages = Math.max(1, Math.ceil(filteredPlayers.length / pageSize));
-  state.playerBoard.page = clamp(state.playerBoard.page, 1, totalPages);
-  const startIndex = (state.playerBoard.page - 1) * pageSize;
-  const visiblePlayers = filteredPlayers.slice(startIndex, startIndex + pageSize);
+  const payload = getActivePlayerBoard();
+  const page = payload?.page || state.playerBoard.page || 1;
+  const pageSize = payload?.pageSize || state.playerBoard.pageSize;
+  const totalPages = payload?.totalPages || 1;
+  const totalPlayers = payload?.totalPlayers || filteredPlayers.length;
+  const startIndex = totalPlayers ? (page - 1) * pageSize : 0;
+  const visiblePlayers = filteredPlayers;
   return {
-    page: state.playerBoard.page,
+    page,
     pageSize,
     totalPages,
+    totalPlayers,
     startIndex,
     visiblePlayers,
   };
@@ -1155,19 +1129,19 @@ function getPlayerBoardMode() {
     isUnified: true,
     isLiveSchool: false,
     scopeLabel: "Coverage: Unified player board",
-    sourceLabel: "Sources: Toledo + transfer pool",
-    loadingLabel: "Building unified player board...",
+    sourceLabel: "Sources: stored universe + national API",
+    loadingLabel: "Loading full player universe...",
     waitingLabel: "Unified player board waiting",
     waitingNote:
-      "The Players tab is the main scouting board. It merges Toledo season data with the broader free transfer pool.",
+      "The Players tab is the main scouting board. It reads from the backend player-universe service rather than a frontend-only dataset.",
     loadingText:
-      "Building the unified player board from Toledo season data and the generated transfer-target pool.",
+      "Loading the backend player universe with server-side search, sorting, and pagination.",
     errorText:
-      "The unified player board could not load, so the Players screen cannot show player profiles until at least one data source is available.",
+      "The backend player universe could not load, so the Players screen cannot show full player profiles right now.",
     readyText:
-      "Unified player board loaded. Search by player or school, filter hitters or pitchers, and click any row to open the full profile on the right.",
+      "Full player universe loaded. Search by player or school, filter hitters or pitchers, and click any row to open the full profile on the right.",
     defaultFootnote:
-      "This board merges Toledo season roster data with the broader free transfer-target pool.",
+      "This board is served from the backend player universe so the browser only loads one page of players at a time.",
     placeholder: "Search player, school, or position...",
   };
 }
@@ -1205,16 +1179,11 @@ function renderPlayerBoardMeta() {
 
   const roleCounts = payload.roleCounts || { Hitter: 0, Pitcher: 0 };
 
-  playersPanelSubEl.textContent = state.playerBoard.syncing
-    ? "Showing local players first while the API-backed national board loads in the background."
-    : mode.readyText;
-  playerResultsMetaEl.textContent = state.playerBoard.syncing
-    ? `${payload.totalPlayers || payload.playerCount || 0} players loaded so far — expanding with API data...`
-    : `${payload.totalPlayers || payload.playerCount || 0} players (${roleCounts.Hitter || 0} hitters / ${
-        roleCounts.Pitcher || 0
-      } pitchers)`;
-  playersFootnoteEl.textContent =
-    payload.note || mode.defaultFootnote;
+  playersPanelSubEl.textContent = mode.readyText;
+  playerResultsMetaEl.textContent = `${payload.totalPlayers || payload.playerCount || 0} players (${roleCounts.Hitter || 0} hitters / ${
+    roleCounts.Pitcher || 0
+  } pitchers)`;
+  playersFootnoteEl.textContent = payload.note || mode.defaultFootnote;
   playerSearchEl.placeholder = mode.placeholder;
 }
 
@@ -1224,7 +1193,7 @@ function renderPlayers() {
 
   if (state.playerBoard.loading && !state.playerBoard.payload) {
     playerTableBodyEl.innerHTML =
-      '<tr><td colspan="6"><div class="tableStatus">Building the unified player board from Toledo season data, the transfer pool, and API-backed national players...</div></td></tr>';
+      '<tr><td colspan="6"><div class="tableStatus">Loading the backend player universe and the first page of players...</div></td></tr>';
     playerDetailEl.innerHTML = '<div class="statusNote">Loading player profile...</div>';
     return;
   }
@@ -1241,12 +1210,9 @@ function renderPlayers() {
   const filteredPlayers = getFilteredPlayers();
   const pagination = getPlayerPagination(filteredPlayers);
   const visiblePlayers = pagination.visiblePlayers;
-  if (!visiblePlayers.some((player) => player.id === state.selectedPlayerId) && visiblePlayers[0]) {
-    state.selectedPlayerId = visiblePlayers[0].id;
-  }
 
-  playerResultsMetaEl.textContent = filteredPlayers.length
-    ? `${pagination.startIndex + 1}-${pagination.startIndex + visiblePlayers.length} of ${filteredPlayers.length} players`
+  playerResultsMetaEl.textContent = pagination.totalPlayers
+    ? `${pagination.startIndex + 1}-${pagination.startIndex + visiblePlayers.length} of ${pagination.totalPlayers} players`
     : "0 players";
   playerPagePrevEl.disabled = pagination.page <= 1;
   playerPageNextEl.disabled = pagination.page >= pagination.totalPages;
@@ -1256,10 +1222,7 @@ function renderPlayers() {
       ? `No ${state.roleFilter.toLowerCase()}s match the current search or filter.`
       : "No players were returned yet.";
     playerTableBodyEl.innerHTML = `<tr><td colspan="6"><div class="tableStatus">${escapeHtml(emptyReason)}</div></td></tr>`;
-    playerDetailEl.innerHTML = `<div class="statusNote">${escapeHtml(
-      getActivePlayerBoard()?.note ||
-        "Run the Toledo and transfer-pool generators to rebuild the main player board.",
-    )}</div>`;
+    playerDetailEl.innerHTML = `<div class="statusNote">${escapeHtml(getActivePlayerBoard()?.note || mode.defaultFootnote)}</div>`;
     return;
   }
 
@@ -1283,11 +1246,21 @@ function renderPlayers() {
     )
     .join("");
 
-  const selectedPlayer = filteredPlayers.find((player) => player.id === state.selectedPlayerId) || filteredPlayers[0];
+  const selectedPlayer = state.playerBoard.selectedPlayer || null;
   const payload = getActivePlayerBoard();
 
+  if (state.playerBoard.selectedPlayerLoading && !selectedPlayer) {
+    playerDetailEl.innerHTML = '<div class="statusNote">Loading player profile...</div>';
+    return;
+  }
+
+  if (state.playerBoard.selectedPlayerError) {
+    playerDetailEl.innerHTML = `<div class="statusNote error">${escapeHtml(state.playerBoard.selectedPlayerError)}</div>`;
+    return;
+  }
+
   if (!selectedPlayer) {
-    playerDetailEl.innerHTML = '<div class="statusNote">No players match the current filter.</div>';
+    playerDetailEl.innerHTML = '<div class="statusNote">Select a player row to open the full profile.</div>';
     return;
   }
 
@@ -2262,6 +2235,60 @@ async function fetchDashboardJson(path, options = {}) {
   throw lastError || new Error(`Data request failed for ${path}`);
 }
 
+function buildPlayerBoardPath() {
+  const params = new URLSearchParams();
+  params.set("page", String(state.playerBoard.page));
+  params.set("pageSize", String(state.playerBoard.pageSize));
+  params.set("sort", state.sortKey);
+  if (state.playerBoard.searchQuery.trim()) {
+    params.set("query", state.playerBoard.searchQuery.trim());
+  }
+  if (state.roleFilter !== "All") {
+    params.set("role", state.roleFilter);
+  }
+  return `/api/players?${params.toString()}`;
+}
+
+async function loadPlayerDetail(playerId, options = {}) {
+  const requestId = ++playerDetailRequestId;
+  state.selectedPlayerId = playerId;
+  state.playerBoard.selectedPlayerLoading = true;
+  state.playerBoard.selectedPlayerError = "";
+
+  if (state.playerBoard.selectedPlayer?.id !== playerId) {
+    state.playerBoard.selectedPlayer = null;
+  }
+
+  if (options.renderInterim !== false) {
+    renderPlayers();
+  }
+
+  try {
+    const payload = await fetchDashboardJson(`/api/players/${encodeURIComponent(playerId)}`, {
+      apiBases: getPlayerApiBaseCandidates(),
+    });
+    if (requestId !== playerDetailRequestId) {
+      return;
+    }
+    state.playerBoard.selectedPlayer = payload.data || null;
+    state.playerBoard.selectedPlayerError = "";
+  } catch (error) {
+    if (requestId !== playerDetailRequestId) {
+      return;
+    }
+    state.playerBoard.selectedPlayerError = error instanceof Error ? error.message : String(error);
+    state.playerBoard.selectedPlayer = null;
+  } finally {
+    if (requestId !== playerDetailRequestId) {
+      return;
+    }
+    state.playerBoard.selectedPlayerLoading = false;
+    if (options.renderInterim !== false) {
+      renderPlayers();
+    }
+  }
+}
+
 async function loadOverviewAndDefaultSchool() {
   state.overview.loading = true;
   state.explorer.selectedSchoolLoading = true;
@@ -2311,104 +2338,20 @@ async function loadPlayerBoard(options = {}) {
   const requestId = ++playerBoardRequestId;
   state.playerBoard.sourceKey = PLAYER_BOARD_SOURCES.UNIFIED;
   state.playerBoard.loading = true;
-  state.playerBoard.syncing = false;
   state.playerBoard.error = "";
-  state.playerBoard.payload = null;
+  state.playerBoard.selectedPlayerError = "";
+  if (options.resetPayload !== false) {
+    state.playerBoard.payload = null;
+  }
 
   if (options.renderInterim !== false) {
     renderPlayers();
   }
 
   try {
-    const sourcePayloads = [];
-    const toledoPayload = getGeneratedToledoPlayerBoardPayload();
-    const generatedPoolPayload = getGeneratedSidearmPoolPayload();
-    const existingSelection = state.selectedPlayerId;
-
-    if (toledoPayload?.players?.length) {
-      sourcePayloads.push({
-        label: "Toledo season roster",
-        countKey: "toledoSeasonRoster",
-        payload: toledoPayload,
-      });
-    }
-
-    if (generatedPoolPayload?.players?.length) {
-      sourcePayloads.push({
-        label: "Transfer targets pool",
-        countKey: "transferTargetsPool",
-        payload: generatedPoolPayload,
-      });
-    }
-
-    if (sourcePayloads.length) {
-      const localPayload = buildUnifiedPlayerBoardPayload(sourcePayloads, {
-        note:
-          "Showing Toledo season roster and generated transfer-target pool while the API-backed national board loads.",
-      });
-      localPayload.boardCoverage = summarizeUnifiedSources(localPayload.boardCounts);
-
-      if (requestId !== playerBoardRequestId) {
-        return;
-      }
-
-      state.playerBoard.payload = localPayload;
-      state.playerBoard.error = "";
-      state.playerBoard.loading = false;
-      state.playerBoard.syncing = LIVE_API_ENABLED;
-      state.selectedPlayerId = localPayload.players?.some((player) => player.id === existingSelection)
-        ? existingSelection
-        : localPayload.players?.[0]?.id || "";
-
-      if (options.renderInterim !== false) {
-        renderPlayers();
-      }
-    }
-
-    let nationalPayload = null;
-    let nationalError = "";
-
-    if (LIVE_API_ENABLED) {
-      try {
-        nationalPayload = await fetchDashboardJson("/api/players/national-board", {
-          apiBases: getPlayerApiBaseCandidates(),
-        });
-        if (nationalPayload?.players?.length) {
-          sourcePayloads.push({
-            label: "National API board",
-            countKey: "nationalBoard",
-            payload: nationalPayload,
-          });
-        } else {
-          nationalPayload = null;
-          nationalError = "National API returned no players.";
-        }
-      } catch (error) {
-        nationalError = error instanceof Error ? error.message : String(error);
-      }
-    } else {
-      nationalError = LIVE_API_UNAVAILABLE_MESSAGE;
-    }
-
-    if (!sourcePayloads.length) {
-      throw new Error(
-        nationalError ||
-          "No player data sources are available. Run the local dataset generators and make sure the player API is reachable.",
-      );
-    }
-
-    const noteParts = [
-      sourcePayloads.some((source) => source.countKey === "nationalBoard")
-        ? "Unified board combines Toledo season roster data, the generated transfer-target pool, and the API-backed national player board."
-        : "Unified board combines Toledo season roster data with the generated transfer-target pool.",
-      nationalPayload?.note || "",
-      !nationalPayload && nationalError ? `National API unavailable right now: ${nationalError}` : "",
-    ].filter(Boolean);
-
-    const payload = buildUnifiedPlayerBoardPayload(sourcePayloads, {
-      note: noteParts.join(" "),
+    const payload = await fetchDashboardJson(buildPlayerBoardPath(), {
+      apiBases: getPlayerApiBaseCandidates(),
     });
-    payload.boardCoverage = summarizeUnifiedSources(payload.boardCounts, nationalError);
 
     if (requestId !== playerBoardRequestId) {
       return;
@@ -2416,25 +2359,36 @@ async function loadPlayerBoard(options = {}) {
     state.playerBoard.payload = payload;
     state.playerBoard.error = "";
     state.playerBoard.loading = false;
-    state.playerBoard.syncing = false;
-    state.selectedPlayerId = payload.players?.some((player) => player.id === existingSelection)
-      ? existingSelection
-      : payload.players?.[0]?.id || "";
+    const nextSelectedId = payload.data?.some((player) => player.id === state.selectedPlayerId)
+      ? state.selectedPlayerId
+      : payload.data?.[0]?.id || "";
+    state.selectedPlayerId = nextSelectedId;
+
+    if (!nextSelectedId) {
+      state.playerBoard.selectedPlayer = null;
+      state.playerBoard.selectedPlayerLoading = false;
+      if (options.renderInterim !== false) {
+        renderPlayers();
+      }
+      return;
+    }
+
+    await loadPlayerDetail(nextSelectedId, { renderInterim: options.renderInterim });
   } catch (error) {
     if (requestId !== playerBoardRequestId) {
       return;
     }
     state.playerBoard.error = error instanceof Error ? error.message : String(error);
     state.playerBoard.payload = null;
+    state.playerBoard.selectedPlayer = null;
+    state.playerBoard.selectedPlayerError = "";
     state.playerBoard.loading = false;
-    state.playerBoard.syncing = false;
     state.selectedPlayerId = "";
   } finally {
     if (requestId !== playerBoardRequestId) {
       return;
     }
     state.playerBoard.loading = false;
-    state.playerBoard.syncing = false;
     if (options.renderInterim !== false) {
       renderPlayers();
     }
@@ -2530,29 +2484,32 @@ roleFilterEl.addEventListener("click", (event) => {
   [...roleFilterEl.querySelectorAll("button")].forEach((node) => {
     node.classList.toggle("active", node === button);
   });
-  renderPlayers();
+  loadPlayerBoard();
 });
 
 sortSelectEl.addEventListener("change", (event) => {
   state.sortKey = event.target.value;
   state.playerBoard.page = 1;
-  renderPlayers();
+  loadPlayerBoard();
 });
 
 playerSearchEl.addEventListener("input", (event) => {
   state.playerBoard.searchQuery = event.target.value.trim();
   state.playerBoard.page = 1;
-  renderPlayers();
+  clearTimeout(playerSearchTimer);
+  playerSearchTimer = window.setTimeout(() => {
+    loadPlayerBoard();
+  }, 180);
 });
 
 playerPagePrevEl.addEventListener("click", () => {
   state.playerBoard.page = Math.max(1, state.playerBoard.page - 1);
-  renderPlayers();
+  loadPlayerBoard();
 });
 
 playerPageNextEl.addEventListener("click", () => {
   state.playerBoard.page += 1;
-  renderPlayers();
+  loadPlayerBoard();
 });
 
 playerTableBodyEl.addEventListener("click", (event) => {
@@ -2560,8 +2517,11 @@ playerTableBodyEl.addEventListener("click", (event) => {
   if (!row) {
     return;
   }
-  state.selectedPlayerId = row.dataset.playerId;
-  renderPlayers();
+  const playerId = row.dataset.playerId;
+  if (!playerId || playerId === state.selectedPlayerId) {
+    return;
+  }
+  loadPlayerDetail(playerId);
 });
 
 schoolSearchEl.addEventListener("input", (event) => {

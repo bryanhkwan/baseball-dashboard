@@ -1,3 +1,5 @@
+import { buildPlayerUniverse, getUniversePlayerById, queryPlayerUniverse } from "./player-universe.js";
+
 const NCAA_API_BASE = "https://ncaa-api.henrygd.me";
 const ET_TIMEZONE = "America/New_York";
 const DEFAULT_SCHOOL_SLUG = "toledo";
@@ -11,6 +13,7 @@ const LIVE_SCOREBOARD_LIMIT = 12;
 const SCHOOL_SEARCH_LIMIT = 16;
 const NATIONAL_PLAYER_CACHE_TTL_MS = 1000 * 60 * 15;
 const NATIONAL_PLAYER_MAX_PAGES_PER_SPEC = 2;
+const PLAYER_UNIVERSE_CACHE_TTL_MS = 1000 * 60 * 15;
 
 const NATIONAL_PLAYER_STAT_SPECS = [
   { id: 200, role: "Hitter", key: "battingAverage", label: "Batting Average", field: "BA" },
@@ -30,6 +33,12 @@ const NATIONAL_PLAYER_STAT_SPECS = [
 ];
 
 let nationalPlayerBoardCache = {
+  generatedAt: "",
+  expiresAt: 0,
+  payload: null,
+};
+
+let playerUniverseCache = {
   generatedAt: "",
   expiresAt: 0,
   payload: null,
@@ -1971,6 +1980,29 @@ async function getNationalPlayerBoard(env) {
   return payload;
 }
 
+async function getStoredPlayerUniverse(env) {
+  const now = Date.now();
+  if (playerUniverseCache.payload && playerUniverseCache.expiresAt > now) {
+    return playerUniverseCache.payload;
+  }
+
+  let nationalPayload = null;
+  let nationalError = "";
+  try {
+    nationalPayload = await getNationalPlayerBoard(env);
+  } catch (error) {
+    nationalError = error instanceof Error ? error.message : String(error);
+  }
+
+  const payload = buildPlayerUniverse({ nationalPayload, nationalError });
+  playerUniverseCache = {
+    generatedAt: payload.generatedAt,
+    expiresAt: now + PLAYER_UNIVERSE_CACHE_TTL_MS,
+    payload,
+  };
+  return payload;
+}
+
 function buildCoverage(latestBoxscore, schoolName = DEFAULT_SCHOOL_NAME) {
   const schoolTeamPlayers = latestBoxscore?.schoolTeam?.players || [];
   const verifiedNames = schoolTeamPlayers.slice(0, 5).map((player) => `${player.name} (${player.position || "UTIL"})`);
@@ -2461,6 +2493,8 @@ export default {
             },
           ],
           nextEndpoints: [
+            "/api/players",
+            "/api/players/:id",
             "/api/schools?query=",
             "/api/schools/:slug/live-summary",
             "/api/schools/:slug/recent-form",
@@ -2491,6 +2525,36 @@ export default {
       if (url.pathname === "/api/players/national-board") {
         const payload = await getNationalPlayerBoard(env);
         return json(payload);
+      }
+
+      if (url.pathname === "/api/players") {
+        const universe = await getStoredPlayerUniverse(env);
+        const payload = queryPlayerUniverse(universe, {
+          query: url.searchParams.get("query") || "",
+          role: url.searchParams.get("role") || "All",
+          position: url.searchParams.get("position") || "",
+          sort: url.searchParams.get("sort") || "score",
+          page: readInt(url.searchParams.get("page"), 1, 1, 100000),
+          pageSize: readInt(url.searchParams.get("pageSize"), 40, 10, 100),
+        });
+        return json(payload);
+      }
+
+      const playerMatch = url.pathname.match(/^\/api\/players\/([^/]+)$/);
+      if (playerMatch) {
+        const playerId = decodeURIComponent(playerMatch[1]);
+        const universe = await getStoredPlayerUniverse(env);
+        const player = getUniversePlayerById(universe, playerId);
+        if (!player) {
+          return notFound(`Player "${playerId}" was not found in the stored player universe.`);
+        }
+        return json({
+          source: universe.source,
+          generatedAt: universe.generatedAt,
+          boardCoverage: universe.boardCoverage,
+          note: universe.note,
+          data: player,
+        });
       }
 
       if (url.pathname === "/api/schools") {
