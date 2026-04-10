@@ -1,0 +1,365 @@
+<!doctype html>
+<html lang="en" data-api-base="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Toledo Baseball Operations Dashboard</title>
+  <meta
+    name="description"
+    content="Toledo-first college baseball dashboard scaffold with player scoring, team needs, and a coaching-friendly shell."
+  />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="appHeader">
+    <div class="appHeaderMain">
+      <div class="appIntro">
+        <div class="appTagRow">
+          <span class="appTag appTagPrimary">Toledo Baseball Ops</span>
+        </div>
+        <h1>Toledo Baseball Dashboard</h1>
+        <p class="sub">
+          Game results, player profiles, and recruiting tools — all in one place for Toledo baseball coaches.
+        </p>
+      </div>
+      <div class="appControlRail">
+        <span class="appUserMeta">Default school: Toledo</span>
+      </div>
+    </div>
+  </header>
+
+  <nav class="pageNav">
+    <button class="pageNavBtn" data-page="pageOverview">Overview</button>
+    <button class="pageNavBtn" data-page="pageTeams">Games</button>
+    <button class="pageNavBtn active" data-page="pagePlayers">Players</button>
+    <button class="pageNavBtn" data-page="pageTargets">Recruiting</button>
+    <button class="pageNavBtn" data-page="pageMethodology">How Scores Work</button>
+  </nav>
+
+  <main class="wrap">
+
+    <!-- ═══ OVERVIEW PAGE ═══ -->
+    <div id="pageOverview" class="dashPage" style="display:none">
+      <section class="opsHero">
+        <div class="opsHeroCopy">
+          <div class="opsEyebrow">Toledo Baseball</div>
+          <div class="opsHeroTitleRow">
+            <h2 class="opsHeroTitle">Operations Overview</h2>
+          </div>
+          <p class="opsHeroText">
+            The big split is <b>hitters</b> and <b>pitchers</b>, but field positions matter for roster building.
+            This dashboard makes it easy for coaches to scout, compare, and track recruiting needs.
+          </p>
+          <div class="opsHeroTags">
+            <span class="opsHeroTag">Pitcher</span>
+            <span class="opsHeroTag">Catcher</span>
+            <span class="opsHeroTag">1B</span>
+            <span class="opsHeroTag">2B</span>
+            <span class="opsHeroTag">3B</span>
+            <span class="opsHeroTag">SS</span>
+            <span class="opsHeroTag">LF</span>
+            <span class="opsHeroTag">CF</span>
+            <span class="opsHeroTag">RF</span>
+            <span class="opsHeroTag">DH</span>
+          </div>
+        </div>
+        <div class="opsHeroAside">
+          <div class="opsHeroInsight">
+            <div class="opsHeroInsightLabel">How scores work</div>
+            <div class="opsHeroInsightText">
+              Every player gets a <b>0–100 score</b> based on their stats. The score tells you at a glance how strong a recruit fits your needs:
+            </div>
+            <div class="scoreTierList">
+              <div class="scoreTier scoreTier--priority"><strong>80+</strong> Priority — recruit now</div>
+              <div class="scoreTier scoreTier--pursue"><strong>68–79</strong> Pursue — strong fit</div>
+              <div class="scoreTier scoreTier--monitor"><strong>55–67</strong> Monitor — keep watching</div>
+              <div class="scoreTier scoreTier--depth"><strong>&lt;55</strong> Depth — specialist need</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="topbar">
+        <div class="badge" id="school-badge"><strong>School</strong> Toledo</div>
+        <div class="badge" id="source-badge"><strong>Primary source</strong> NCAA-backed</div>
+        <div class="badge" id="latest-result-badge"><strong>Latest</strong> Checking live feed</div>
+        <div class="badge" id="next-game-badge"><strong>Next</strong> Checking live feed</div>
+      </section>
+
+      <div class="grid overviewMainGrid">
+        <section class="card">
+          <div class="panelHead">Quick Stats</div>
+          <div class="panelBody">
+            <div class="kpis" id="metric-grid"></div>
+            <div class="divider"></div>
+            <div class="overviewGrid">
+              <article class="infoCard">
+                <div class="infoCardTitle">Positions</div>
+                <ul class="compactList">
+                  <li><b>Pitchers</b>: starters, relievers, closers</li>
+                  <li><b>Infield</b>: 1B, 2B, 3B, shortstop</li>
+                  <li><b>Outfield</b>: LF, CF, RF</li>
+                  <li><b>Catcher</b>: defense + game-calling</li>
+                  <li><b>DH</b>: lineup-only bat</li>
+                </ul>
+              </article>
+              <article class="infoCard">
+                <div class="infoCardTitle">Data coverage</div>
+                <ul class="compactList" id="source-list"></ul>
+              </article>
+              <article class="infoCard">
+                <div class="infoCardTitle">Toledo schedule window</div>
+                <div class="liveGameStack" id="live-window"></div>
+              </article>
+            </div>
+          </div>
+        </section>
+
+        <aside class="rightstack">
+          <section class="card">
+            <div class="panelHead">Baseball Guide</div>
+            <div class="panelBody">
+              <div class="guideStack">
+                <div class="guideCard">
+                  <div class="guideTitle">Hitters</div>
+                  <div class="guideText">Scored on how often they get on base, how much power they show, contact consistency, walk-to-strikeout discipline, and baserunning.</div>
+                </div>
+                <div class="guideCard">
+                  <div class="guideTitle">Pitchers</div>
+                  <div class="guideText">Scored on keeping runs off the board, getting strikeouts, limiting walks, and keeping hitters from extra-base damage.</div>
+                </div>
+                <div class="guideCard">
+                  <div class="guideTitle">Reading the score</div>
+                  <div class="guideText">80+ is a Priority recruit. 68–79 means Pursue. 55–67 means Monitor. Below 55 is a depth or specialist fit.</div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <section class="card">
+            <div class="panelHead">Live Toledo Check</div>
+            <div class="panelBody">
+              <div class="identityCard" id="toledo-identity"></div>
+              <div class="divider"></div>
+              <div class="verifiedPlayersPanel">
+                <div class="infoCardTitle">Latest verified Toledo boxscore players</div>
+                <div class="verifiedPlayerList" id="verified-players"></div>
+              </div>
+            </div>
+          </section>
+        </aside>
+      </div>
+    </div>
+
+    <!-- ═══ TEAMS PAGE ═══ -->
+    <div id="pageTeams" class="dashPage" style="display:none">
+      <section class="opsHero opsHero--compact">
+        <div class="opsHeroCopy">
+          <div class="opsEyebrow">Program Intelligence</div>
+          <div class="opsHeroTitleRow">
+            <h2 class="opsHeroTitle">Team Hub</h2>
+            <span class="opsHeroBadge">Games &amp; Programs</span>
+          </div>
+          <p class="opsHeroText">
+            Search any program, review its schedule context, and open live game detail — all in one place.
+          </p>
+        </div>
+        <div class="opsHeroAside">
+          <div class="opsHeroInsight">
+            <div class="opsHeroInsightLabel">Workflow note</div>
+            <div class="opsHeroInsightText">Pick a school to load its program overview and schedule window. Click any game to open the full box score and play-by-play breakdown below.</div>
+          </div>
+        </div>
+      </section>
+
+      <div class="gamesHubPage">
+
+        <!-- 1. School Search -->
+        <div class="card thSearchCard">
+          <div class="thLabel">Find a program</div>
+          <label class="searchField" style="margin-top:8px;max-width:480px">
+            <span>Search schools</span>
+            <input
+              id="school-search"
+              type="text"
+              placeholder="Toledo, Michigan, Vanderbilt..."
+              autocomplete="off"
+            />
+          </label>
+          <div class="statusNote" id="school-search-meta" style="margin-top:8px"></div>
+          <div class="schoolList" id="school-results" style="margin-top:10px;max-height:300px;overflow-y:auto"></div>
+        </div>
+
+        <!-- 2. Program Overview -->
+        <div class="thSection">
+          <div class="thSectionHead">Program Overview</div>
+          <div class="thSectionSub">Selected program details, latest boxscore, and recent form.</div>
+          <section class="card explorerPanel" id="selected-school-summary">
+            <div class="statusNote">Search for a school above to load program details.</div>
+          </section>
+        </div>
+
+        <!-- 3. Schedule Window -->
+        <div class="thSection">
+          <div class="thSectionHead">Schedule Window <span class="thSectionMeta" id="selected-school-meta"></span></div>
+          <div class="thSectionSub">Recent results and upcoming games. Click any card to open game detail below.</div>
+          <div class="card" style="padding:16px">
+            <div class="schoolGamesGrid" id="selected-school-games">
+              <div class="statusNote">Select a school to see its schedule window.</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 4. National Scoreboard -->
+        <div class="thSection">
+          <div class="thSectionHead">National Scoreboard <span class="thSectionMeta" id="scoreboard-meta"></span></div>
+          <div class="thSectionSub">Live D1 baseball board — click any game to open it in the detail section below.</div>
+          <div class="card" style="padding:16px">
+            <div class="gameListGrid" id="scoreboard-list">
+              <div class="statusNote">Checking live game feed...</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 5. Game Detail -->
+        <div class="thSection">
+          <div class="thSectionHead">Game Detail</div>
+          <div class="thSectionSub">Box score, linescore, play-by-play analysis, and player sample for the selected game.</div>
+          <section class="card explorerPanel" id="game-detail">
+            <div class="statusNote">Select a game from the schedule window or scoreboard to view details.</div>
+          </section>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- ═══ PLAYERS PAGE ═══ -->
+    <div id="pagePlayers" class="dashPage">
+      <section class="card playersBoardCard">
+        <div class="playersBoardMeta row" style="justify-content:space-between;align-items:flex-end">
+          <div>
+              <div class="opsEyebrow">Player Profiles</div>
+            <div class="playersPanelTitle">Players</div>
+            <div class="playersPanelSub" id="players-panel-sub">
+              Search the player universe, filter hitters or pitchers, and click any row to open the full player profile.
+            </div>
+          </div>
+          <div class="playersViewControl">
+            <label class="searchField compactSearch">
+              <span>Search</span>
+              <input id="player-search" type="text" placeholder="Search player, team, role, or position..." autocomplete="off" />
+            </label>
+            <div class="seg" id="role-filter">
+              <button class="active" data-role="All" type="button">All</button>
+              <button data-role="Hitter" type="button">Hitters</button>
+              <button data-role="Pitcher" type="button">Pitchers</button>
+            </div>
+            <label class="sortLabel">
+              <span>Sort</span>
+              <select id="sort-select">
+                <option value="score">Score</option>
+                <option value="name">Name</option>
+                <option value="position">Position</option>
+              </select>
+            </label>
+          </div>
+        </div>
+
+        <div class="playersTableMeta">
+          <div class="statusNote" id="player-results-meta">Building unified player board...</div>
+          <div class="tablePager">
+            <button class="secondary" id="player-page-prev" type="button">Prev</button>
+            <button class="secondary" id="player-page-next" type="button">Next</button>
+          </div>
+        </div>
+
+        <div class="grid" id="playersGrid">
+          <div class="card playerSideCard" style="padding:0">
+            <div class="playersTableShell scrollY">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Player</th>
+                    <th>Team</th>
+                    <th>Role</th>
+                    <th>Pos</th>
+                    <th class="playersPerfHead">Score</th>
+                    <th>Fit</th>
+                  </tr>
+                </thead>
+                <tbody id="player-table-body"></tbody>
+              </table>
+            </div>
+            <div class="playersBoardFootnote hint" id="players-footnote"></div>
+          </div>
+
+          <div class="rightstack playerProfileRail">
+            <section class="card detailCard" id="player-detail" aria-live="polite"></section>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <!-- ═══ TARGETS PAGE ═══ -->
+    <div id="pageTargets" class="dashPage" style="display:none">
+      <section class="card">
+        <div class="panelHead">Recruiting Targets</div>
+        <div class="panelBody">
+          <div class="playersPanelTitle">Start with needs, not random names</div>
+          <div class="playersPanelSub" style="margin-bottom:14px">
+            Define Toledo needs by archetype and map candidates into those buckets.
+          </div>
+          <div class="targetGrid" id="target-grid"></div>
+        </div>
+      </section>
+    </div>
+
+    <!-- ═══ METHODOLOGY PAGE ═══ -->
+    <div id="pageMethodology" class="dashPage" style="display:none">
+      <section class="card">
+        <div class="panelHead">How Scores Are Calculated</div>
+        <div class="panelBody">
+          <div class="overviewGrid">
+            <article class="infoCard">
+              <div class="infoCardTitle">Hitter score (0–100)</div>
+              <ul class="compactList">
+                <li><b>32% On-base:</b> How often they reach base (OBP)</li>
+                <li><b>26% Power:</b> How hard/far they hit (SLG)</li>
+                <li><b>18% Contact:</b> How consistent their hitting is (AVG)</li>
+                <li><b>14% Discipline:</b> Walks vs. strikeouts (BB:K)</li>
+                <li><b>10% Speed:</b> Stolen bases and baserunning</li>
+              </ul>
+            </article>
+            <article class="infoCard">
+              <div class="infoCardTitle">Pitcher score (0–100)</div>
+              <ul class="compactList">
+                <li><b>30% Run prevention:</b> Keeps runs off the board (ERA)</li>
+                <li><b>24% Traffic control:</b> Limits runners on base (WHIP)</li>
+                <li><b>20% Strikeouts:</b> Gets batters out via strikeout (K/9)</li>
+                <li><b>16% Command:</b> Strikes vs. walks ratio (K:BB)</li>
+                <li><b>10% Damage control:</b> Prevents home runs (HR/9)</li>
+              </ul>
+            </article>
+            <article class="infoCard">
+              <div class="infoCardTitle">Fit thresholds</div>
+              <ul class="compactList">
+                <li><b>Priority (80+)</b>: Top-tier fit — recruit immediately</li>
+                <li><b>Pursue (68–79)</b>: Strong candidate — make contact</li>
+                <li><b>Monitor (55–67)</b>: Developing player — track over the season</li>
+                <li><b>Depth (&lt;55)</b>: Specialist or depth role — situation-dependent</li>
+              </ul>
+            </article>
+          </div>
+        </div>
+      </section>
+    </div>
+
+  </main>
+
+  <script src="data/generated/toledo-baseball-2026.js"></script>
+  <script src="data/generated/sidearm-pool-baseball-2026.js"></script>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

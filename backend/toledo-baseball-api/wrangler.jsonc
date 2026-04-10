@@ -1,0 +1,8 @@
+{
+  "name": "toledo-baseball-api",
+  "main": "src/index.js",
+  "compatibility_date": "2026-04-09",
+  "vars": {
+    "NCAA_API_BASE": "https://ncaa-api.henrygd.me"
+  }
+}

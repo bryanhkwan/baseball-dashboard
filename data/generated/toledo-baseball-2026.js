@@ -1,0 +1,7386 @@
+window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
+window.__BASEBALL_DATASETS__.toledo2026 = {
+  "generatedAt": "2026-04-09T18:55:02.295Z",
+  "season": 2026,
+  "school": {
+    "slug": "toledo",
+    "name": "Toledo",
+    "longName": "University of Toledo",
+    "ncaaVerified": true,
+    "ncaaRecord": {
+      "slug": "toledo",
+      "name": "Toledo",
+      "long": "University of Toledo"
+    },
+    "espnTeamId": "445",
+    "espnDisplayName": "Toledo Rockets",
+    "espnSlug": "toledo-rockets",
+    "rosterUrl": "https://utrockets.com/sports/baseball/roster",
+    "statsUrl": "https://utrockets.com/sports/baseball/stats/2026",
+    "pdfUrl": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/utrockets.com/stats/baseball/2026/pdf/cume.pdf"
+  },
+  "sources": {
+    "roster": "Toledo Athletics roster",
+    "stats": "Toledo Athletics cumulative stats",
+    "espn": "ESPN team identity verified, but Toledo's public roster feed did not match the current 2026 school-site roster",
+    "ncaa": "NCAA school index"
+  },
+  "coverage": {
+    "rosterPlayers": 35,
+    "espnRosterPlayers": 26,
+    "playersWithHittingStats": 17,
+    "playersWithPitchingStats": 16,
+    "playersWithFieldingStats": 29,
+    "mergedPlayersWithAnyStats": 33,
+    "matchedEspnPlayers": 0,
+    "unmatchedStatRows": {
+      "hitting": [],
+      "pitching": [],
+      "fielding": []
+    }
+  },
+  "teamSummary": {
+    "record": "15-17, 11-4",
+    "battingAverage": ".300",
+    "earnedRunAverage": "6.21",
+    "wins": "15",
+    "losses": "17",
+    "hitting": {
+      "atBats": "1075",
+      "runsScored": "246",
+      "hits": "322",
+      "runsBattedIn": "225",
+      "doubles": "78",
+      "triples": "6",
+      "homeRuns": "24",
+      "walks": "146",
+      "intentionalWalks": "5",
+      "strikeouts": "214",
+      "strikeoutsLooking": "61",
+      "hitByPitch": "72",
+      "stolenBases": "57",
+      "caughtStealing": "15",
+      "sacrificeHits": "12",
+      "sacrificeFlies": "16",
+      "reachedOnCatchersInteference": "1",
+      "reachedOnError": "0",
+      "reachesOnAFieldersChoice": "0",
+      "groundOuts": "261",
+      "flyOuts": "272",
+      "groundedIntoDoublePlay": "18",
+      "pickedOff": "6",
+      "doublePlaysHitInto": "22",
+      "triplePlaysHitInto": "0"
+    },
+    "fielding": {
+      "putouts": "791",
+      "assists": "254",
+      "errors": "28",
+      "passedBalls": "13",
+      "catchersInterference": "0",
+      "stolenBasesAgainst": "79",
+      "caughtStealingBy": "13",
+      "involvedInDoublePlays": "13",
+      "involvedInTriplePlays": "0",
+      "totalChances": "1073",
+      "fieldingPercentage": ".974"
+    },
+    "pitching": {
+      "orderOfAppearance": "0",
+      "wins": "15",
+      "saves": "6",
+      "losses": "17",
+      "gamesStarted": "0",
+      "gamesCompleted": "0",
+      "shutouts": "1",
+      "creditForCombinedShutout": "0",
+      "inningsPitched": "263.2",
+      "hitsAllowed": "282",
+      "runsAllowed": "203",
+      "earnedRunsAllowed": "182",
+      "walksAllowed": "148",
+      "strikeouts": "285",
+      "battersFaced": "1237",
+      "opponentAtBats": "1038",
+      "doublesAllowed": "48",
+      "triplesAllowed": "6",
+      "homerunsAllowed": "24",
+      "wildPitches": "43",
+      "balks": "3",
+      "hitBatters": "37",
+      "strikeoutsLooking": "84",
+      "intentionalWalks": "3",
+      "inheritedRunners": "3",
+      "inheritedRunnersThatScored": "2",
+      "sacrificeHitsAllowed": "5",
+      "sacrificeFliesAllowed": "9",
+      "catchersInterferenceAllowed": "0",
+      "pitches": "4737",
+      "flyouts": "243",
+      "groundouts": "226",
+      "teamUnearnedRuns": "0",
+      "saveRecord": "1",
+      "pickoff": "3"
+    }
+  },
+  "players": [
+    {
+      "id": "toledo-10273",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Drew Tajblik",
+      "normalizedName": "drew tajblik",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF/OF",
+      "positionLong": "Infielder/Outfielder",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "1",
+      "hometown": "Genoa, Ohio",
+      "highSchool": "Millbury Lake",
+      "previousSchool": "",
+      "hometownHighSchool": "Genoa, Ohio / Millbury Lake",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/drew-tajblik/10273",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Drew_Tajblik_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10273",
+      "sources": [
+        "Toledo Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Drew Tajblik gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF/OF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Toledo Athletics roster"
+      }
+    },
+    {
+      "id": "toledo-10274",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Branston Lindquist",
+      "normalizedName": "branston lindquist",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "3",
+      "hometown": "Jamestown, N.Y.",
+      "highSchool": "St. Mary's",
+      "previousSchool": "",
+      "hometownHighSchool": "Jamestown, N.Y. / St. Mary's",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/branston-lindquist/10274",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Branston_Lindquist_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10274",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "10274",
+        "name": "Branston Lindquist",
+        "normalizedName": "branston lindquist",
+        "jersey": "3",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/branston-lindquist/10274",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Branston_Lindquist_cropped.jpg",
+        "gamesPlayed": 2,
+        "gamesStarted": 0,
+        "battingAverage": 0,
+        "onBasePercentage": 0.333,
+        "sluggingPercentage": 0,
+        "ops": 0.333,
+        "atBats": 2,
+        "runs": 1,
+        "hits": 0,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 0,
+        "totalBases": 0,
+        "walks": 1,
+        "hitByPitch": 0,
+        "strikeouts": 2,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 1,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 3,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "10274",
+        "name": "Branston Lindquist",
+        "normalizedName": "branston lindquist",
+        "jersey": "3",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/branston-lindquist/10274",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Branston_Lindquist_cropped.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 1,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 1
+      },
+      "evaluation": {
+        "score": 14,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 29.44444444444444,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 33.33333333333333,
+          "Speed": 0
+        },
+        "summary": "Branston Lindquist gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .000",
+          "OBP .333",
+          "SLG .000"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".000"
+          },
+          {
+            "label": "OBP",
+            "value": ".333"
+          },
+          {
+            "label": "SLG",
+            "value": ".000"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "C",
+          "FR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10275",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Ryan Sudbrook",
+      "normalizedName": "ryan sudbrook",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "4",
+      "hometown": "Avon, Ohio",
+      "highSchool": "Avon",
+      "previousSchool": "",
+      "hometownHighSchool": "Avon, Ohio / Avon",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/ryan-sudbrook/10275",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Ryan_Sudbrook_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10275",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "10275",
+        "name": "Ryan Sudbrook",
+        "normalizedName": "ryan sudbrook",
+        "jersey": "4",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/ryan-sudbrook/10275",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Ryan_Sudbrook_cropped.jpg",
+        "gamesPlayed": 14,
+        "gamesStarted": 9,
+        "battingAverage": 0.154,
+        "onBasePercentage": 0.371,
+        "sluggingPercentage": 0.192,
+        "ops": 0.563,
+        "atBats": 26,
+        "runs": 7,
+        "hits": 4,
+        "doubles": 1,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 0,
+        "totalBases": 5,
+        "walks": 6,
+        "hitByPitch": 3,
+        "strikeouts": 7,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 1,
+        "putouts": 11,
+        "assists": 12,
+        "errors": 2,
+        "plateAppearances": 36,
+        "caughtStealing": 0,
+        "pickedOff": 1
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "10275",
+        "name": "Ryan Sudbrook",
+        "normalizedName": "ryan sudbrook",
+        "jersey": "4",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/ryan-sudbrook/10275",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Ryan_Sudbrook_cropped.jpg",
+        "gamesPlayed": 10,
+        "gamesStarted": 8,
+        "putouts": 11,
+        "assists": 12,
+        "errors": 2,
+        "fieldingPercentage": 0.92,
+        "doublePlays": 3,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 25
+      },
+      "evaluation": {
+        "score": 27,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 50.55555555555554,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 73.01587301587298,
+          "Speed": 3.3333333333333335
+        },
+        "summary": "Ryan Sudbrook gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .154",
+          "OBP .371",
+          "SLG .192"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".154"
+          },
+          {
+            "label": "OBP",
+            "value": ".371"
+          },
+          {
+            "label": "SLG",
+            "value": ".192"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10267",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Charlie Scholvin",
+      "normalizedName": "charlie scholvin",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "INF",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "5",
+      "hometown": "Lewis Center, Ohio",
+      "highSchool": "Olentangy Orange",
+      "previousSchool": "",
+      "hometownHighSchool": "Lewis Center, Ohio / Olentangy Orange",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/charlie-scholvin/10267",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Charlie_Scholvin_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10267",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "10267",
+        "name": "Charlie Scholvin",
+        "normalizedName": "charlie scholvin",
+        "jersey": "5",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/charlie-scholvin/10267",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Charlie_Scholvin_cropped.jpg",
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "battingAverage": 0.358,
+        "onBasePercentage": 0.478,
+        "sluggingPercentage": 0.48,
+        "ops": 0.958,
+        "atBats": 123,
+        "runs": 37,
+        "hits": 44,
+        "doubles": 7,
+        "triples": 1,
+        "homeRuns": 2,
+        "runsBattedIn": 31,
+        "totalBases": 59,
+        "walks": 19,
+        "hitByPitch": 12,
+        "strikeouts": 14,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 3,
+        "sacrificeFlies": 3,
+        "sacrificeHits": 2,
+        "stolenBases": 19,
+        "stolenBasesAttempts": 21,
+        "putouts": 35,
+        "assists": 65,
+        "errors": 3,
+        "plateAppearances": 182,
+        "caughtStealing": 2,
+        "pickedOff": 1
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "10267",
+        "name": "Charlie Scholvin",
+        "normalizedName": "charlie scholvin",
+        "jersey": "5",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/charlie-scholvin/10267",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Charlie_Scholvin_cropped.jpg",
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "putouts": 35,
+        "assists": 65,
+        "errors": 3,
+        "fieldingPercentage": 0.971,
+        "doublePlays": 7,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 103
+      },
+      "evaluation": {
+        "score": 79,
+        "fit": {
+          "label": "Pursue",
+          "className": "fit-pursue"
+        },
+        "components": {
+          "On-base": 100,
+          "Power": 42.10526315789473,
+          "Contact": 86.25,
+          "Discipline": 100,
+          "Speed": 63.33333333333333
+        },
+        "summary": "Charlie Scholvin profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .358",
+          "OBP .478",
+          "SLG .480"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".358"
+          },
+          {
+            "label": "OBP",
+            "value": ".478"
+          },
+          {
+            "label": "SLG",
+            "value": ".480"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "31"
+          },
+          {
+            "label": "SB",
+            "value": "19"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10276",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Preston Zumwalt",
+      "normalizedName": "preston zumwalt",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "6",
+      "hometown": "Tipp City, Ohio",
+      "highSchool": "Tippecanoe",
+      "previousSchool": "",
+      "hometownHighSchool": "Tipp City, Ohio / Tippecanoe",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/preston-zumwalt/10276",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Preston_Zumwalt_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10276",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "10276",
+        "name": "Preston Zumwalt",
+        "normalizedName": "preston zumwalt",
+        "jersey": "6",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/preston-zumwalt/10276",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Preston_Zumwalt_cropped.jpg",
+        "gamesPlayed": 11,
+        "gamesStarted": 5,
+        "battingAverage": 0.211,
+        "onBasePercentage": 0.348,
+        "sluggingPercentage": 0.316,
+        "ops": 0.664,
+        "atBats": 19,
+        "runs": 4,
+        "hits": 4,
+        "doubles": 2,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 5,
+        "totalBases": 6,
+        "walks": 3,
+        "hitByPitch": 1,
+        "strikeouts": 6,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 24,
+        "assists": 3,
+        "errors": 0,
+        "plateAppearances": 23,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "10276",
+        "name": "Preston Zumwalt",
+        "normalizedName": "preston zumwalt",
+        "jersey": "6",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/preston-zumwalt/10276",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Preston_Zumwalt_cropped.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 5,
+        "putouts": 24,
+        "assists": 3,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 2,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 27
+      },
+      "evaluation": {
+        "score": 17,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 37.77777777777775,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 33.33333333333333,
+          "Speed": 0
+        },
+        "summary": "Preston Zumwalt gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .211",
+          "OBP .348",
+          "SLG .316"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".211"
+          },
+          {
+            "label": "OBP",
+            "value": ".348"
+          },
+          {
+            "label": "SLG",
+            "value": ".316"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "5"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10277",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Cade Baker",
+      "normalizedName": "cade baker",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "7",
+      "hometown": "Whitney, Texas",
+      "highSchool": "Whitney",
+      "previousSchool": "Alvin College (TX)",
+      "hometownHighSchool": "Whitney, Texas / Whitney",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/cade-baker/10277",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Cade_Baker_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10277",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "10277",
+        "name": "Cade Baker",
+        "normalizedName": "cade baker",
+        "jersey": "7",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/cade-baker/10277",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Cade_Baker_cropped.jpg",
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "battingAverage": 0.346,
+        "onBasePercentage": 0.438,
+        "sluggingPercentage": 0.5,
+        "ops": 0.938,
+        "atBats": 136,
+        "runs": 34,
+        "hits": 47,
+        "doubles": 12,
+        "triples": 0,
+        "homeRuns": 3,
+        "runsBattedIn": 14,
+        "totalBases": 68,
+        "walks": 7,
+        "hitByPitch": 16,
+        "strikeouts": 14,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 2,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 0,
+        "stolenBases": 13,
+        "stolenBasesAttempts": 14,
+        "putouts": 75,
+        "assists": 2,
+        "errors": 0,
+        "plateAppearances": 175,
+        "caughtStealing": 1,
+        "pickedOff": 2
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "10277",
+        "name": "Cade Baker",
+        "normalizedName": "cade baker",
+        "jersey": "7",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/cade-baker/10277",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Cade_Baker_cropped.jpg",
+        "gamesPlayed": 30,
+        "gamesStarted": 30,
+        "putouts": 75,
+        "assists": 2,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 77
+      },
+      "evaluation": {
+        "score": 64,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "components": {
+          "On-base": 87.77777777777777,
+          "Power": 47.36842105263158,
+          "Contact": 78.74999999999999,
+          "Discipline": 33.33333333333333,
+          "Speed": 43.333333333333336
+        },
+        "summary": "Cade Baker profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .346",
+          "OBP .438",
+          "SLG .500"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".346"
+          },
+          {
+            "label": "OBP",
+            "value": ".438"
+          },
+          {
+            "label": "SLG",
+            "value": ".500"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "14"
+          },
+          {
+            "label": "SB",
+            "value": "13"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10269",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Troy Sudbrook",
+      "normalizedName": "troy sudbrook",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "INF",
+      "classYear": "R-JR",
+      "handedness": "L/R",
+      "jersey": "8",
+      "hometown": "Avon, Ohio",
+      "highSchool": "Avon",
+      "previousSchool": "",
+      "hometownHighSchool": "Avon, Ohio / Avon",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/troy-sudbrook/10269",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Troy_Sudbrook_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10269",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "10269",
+        "name": "Troy Sudbrook",
+        "normalizedName": "troy sudbrook",
+        "jersey": "8",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/troy-sudbrook/10269",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Troy_Sudbrook_cropped.jpg",
+        "gamesPlayed": 31,
+        "gamesStarted": 31,
+        "battingAverage": 0.365,
+        "onBasePercentage": 0.472,
+        "sluggingPercentage": 0.722,
+        "ops": 1.194,
+        "atBats": 115,
+        "runs": 33,
+        "hits": 42,
+        "doubles": 19,
+        "triples": 2,
+        "homeRuns": 6,
+        "runsBattedIn": 44,
+        "totalBases": 83,
+        "walks": 17,
+        "hitByPitch": 9,
+        "strikeouts": 20,
+        "intentionalWalks": 4,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 3,
+        "sacrificeHits": 3,
+        "stolenBases": 5,
+        "stolenBasesAttempts": 9,
+        "putouts": 18,
+        "assists": 54,
+        "errors": 3,
+        "plateAppearances": 161,
+        "caughtStealing": 4,
+        "pickedOff": 1
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "10269",
+        "name": "Troy Sudbrook",
+        "normalizedName": "troy sudbrook",
+        "jersey": "8",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/troy-sudbrook/10269",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Troy_Sudbrook_cropped.jpg",
+        "gamesPlayed": 27,
+        "gamesStarted": 27,
+        "putouts": 18,
+        "assists": 54,
+        "errors": 3,
+        "fieldingPercentage": 0.96,
+        "doublePlays": 4,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 75
+      },
+      "evaluation": {
+        "score": 86,
+        "fit": {
+          "label": "Priority",
+          "className": "fit-priority"
+        },
+        "components": {
+          "On-base": 100,
+          "Power": 100,
+          "Contact": 90.62499999999999,
+          "Discipline": 72.2222222222222,
+          "Speed": 16.666666666666664
+        },
+        "summary": "Troy Sudbrook profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .365",
+          "OBP .472",
+          "SLG .722"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".365"
+          },
+          {
+            "label": "OBP",
+            "value": ".472"
+          },
+          {
+            "label": "SLG",
+            "value": ".722"
+          },
+          {
+            "label": "HR",
+            "value": "6"
+          },
+          {
+            "label": "RBI",
+            "value": "44"
+          },
+          {
+            "label": "SB",
+            "value": "5"
+          }
+        ],
+        "metaLine": "R-JR / L/R",
+        "detailBadges": [
+          "INF",
+          "R-JR",
+          "L/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10278",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Cole Meyer",
+      "normalizedName": "cole meyer",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "GR",
+      "handedness": "R/R",
+      "jersey": "9",
+      "hometown": "Savannah, Ga.",
+      "highSchool": "Savannah Country Day",
+      "previousSchool": "Chattahoochee Valley",
+      "hometownHighSchool": "Savannah, Ga. / Savannah Country Day",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/cole-meyer/10278",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Cole_Meyer_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10278",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "10278",
+        "name": "Cole Meyer",
+        "normalizedName": "cole meyer",
+        "jersey": "9",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/cole-meyer/10278",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Cole_Meyer_cropped.jpg",
+        "gamesPlayed": 24,
+        "gamesStarted": 13,
+        "battingAverage": 0.281,
+        "onBasePercentage": 0.521,
+        "sluggingPercentage": 0.406,
+        "ops": 0.927,
+        "atBats": 32,
+        "runs": 11,
+        "hits": 9,
+        "doubles": 1,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 8,
+        "totalBases": 13,
+        "walks": 13,
+        "hitByPitch": 3,
+        "strikeouts": 10,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 2,
+        "putouts": 0,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 51,
+        "caughtStealing": 1,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 59,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "components": {
+          "On-base": 100,
+          "Power": 22.631578947368432,
+          "Contact": 38.125000000000014,
+          "Discipline": 100,
+          "Speed": 3.3333333333333335
+        },
+        "summary": "Cole Meyer profiles as a OF piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .281",
+          "OBP .521",
+          "SLG .406"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".281"
+          },
+          {
+            "label": "OBP",
+            "value": ".521"
+          },
+          {
+            "label": "SLG",
+            "value": ".406"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "8"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "OF",
+          "GR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10279",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Carson McCaleb",
+      "normalizedName": "carson mccaleb",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "JR",
+      "handedness": "S/R",
+      "jersey": "10",
+      "hometown": "Lake Saint Louis, Mo.",
+      "highSchool": "Timberland",
+      "previousSchool": "Mineral Area CC",
+      "hometownHighSchool": "Lake Saint Louis, Mo. / Timberland",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/carson-mccaleb/10279",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Nate_Langbehn_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10279",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "10279",
+        "name": "Carson McCaleb",
+        "normalizedName": "carson mccaleb",
+        "jersey": "10",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/carson-mccaleb/10279",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Nate_Langbehn_cropped.jpg",
+        "gamesPlayed": 17,
+        "gamesStarted": 12,
+        "battingAverage": 0.349,
+        "onBasePercentage": 0.42,
+        "sluggingPercentage": 0.535,
+        "ops": 0.955,
+        "atBats": 43,
+        "runs": 8,
+        "hits": 15,
+        "doubles": 2,
+        "triples": 0,
+        "homeRuns": 2,
+        "runsBattedIn": 11,
+        "totalBases": 23,
+        "walks": 5,
+        "hitByPitch": 1,
+        "strikeouts": 10,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 1,
+        "putouts": 60,
+        "assists": 8,
+        "errors": 1,
+        "plateAppearances": 52,
+        "caughtStealing": 1,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "10279",
+        "name": "Carson McCaleb",
+        "normalizedName": "carson mccaleb",
+        "jersey": "10",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/carson-mccaleb/10279",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Nate_Langbehn_cropped.jpg",
+        "gamesPlayed": 11,
+        "gamesStarted": 8,
+        "putouts": 60,
+        "assists": 8,
+        "errors": 1,
+        "fieldingPercentage": 0.986,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 23,
+        "caughtStealingBy": 2,
+        "stolenBasesPercentage": 0.92,
+        "passedBalls": 4,
+        "catchersInterference": 0,
+        "totalChances": 69
+      },
+      "evaluation": {
+        "score": 59,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "components": {
+          "On-base": 77.77777777777776,
+          "Power": 56.57894736842106,
+          "Contact": 80.62499999999999,
+          "Discipline": 33.33333333333333,
+          "Speed": 0
+        },
+        "summary": "Carson McCaleb profiles as a C piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .349",
+          "OBP .420",
+          "SLG .535"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".349"
+          },
+          {
+            "label": "OBP",
+            "value": ".420"
+          },
+          {
+            "label": "SLG",
+            "value": ".535"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "11"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / S/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "S/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10280",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Jacob Payne",
+      "normalizedName": "jacob payne",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C/1B",
+      "positionLong": "Catcher/First Baseman",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "11",
+      "hometown": "Panama City, Fla.",
+      "highSchool": "Mosley",
+      "previousSchool": "Gulf Coast State College (FL)",
+      "hometownHighSchool": "Panama City, Fla. / Mosley",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/jacob-payne/10280",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Jacob_Payne_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10280",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "10280",
+        "name": "Jacob Payne",
+        "normalizedName": "jacob payne",
+        "jersey": "11",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/jacob-payne/10280",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Jacob_Payne_cropped.jpg",
+        "gamesPlayed": 27,
+        "gamesStarted": 24,
+        "battingAverage": 0.349,
+        "onBasePercentage": 0.472,
+        "sluggingPercentage": 0.57,
+        "ops": 1.042,
+        "atBats": 86,
+        "runs": 24,
+        "hits": 30,
+        "doubles": 8,
+        "triples": 1,
+        "homeRuns": 3,
+        "runsBattedIn": 30,
+        "totalBases": 49,
+        "walks": 12,
+        "hitByPitch": 9,
+        "strikeouts": 22,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 205,
+        "assists": 20,
+        "errors": 5,
+        "plateAppearances": 108,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "10280",
+        "name": "Jacob Payne",
+        "normalizedName": "jacob payne",
+        "jersey": "11",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/jacob-payne/10280",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Jacob_Payne_cropped.jpg",
+        "gamesPlayed": 25,
+        "gamesStarted": 23,
+        "putouts": 205,
+        "assists": 20,
+        "errors": 5,
+        "fieldingPercentage": 0.978,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 48,
+        "caughtStealingBy": 11,
+        "stolenBasesPercentage": 0.814,
+        "passedBalls": 6,
+        "catchersInterference": 0,
+        "totalChances": 230
+      },
+      "evaluation": {
+        "score": 69,
+        "fit": {
+          "label": "Pursue",
+          "className": "fit-pursue"
+        },
+        "components": {
+          "On-base": 100,
+          "Power": 65.78947368421052,
+          "Contact": 80.62499999999999,
+          "Discipline": 38.38383838383837,
+          "Speed": 0
+        },
+        "summary": "Jacob Payne profiles as a C/1B piece who gets on base at a high clip and brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .349",
+          "OBP .472",
+          "SLG .570"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".349"
+          },
+          {
+            "label": "OBP",
+            "value": ".472"
+          },
+          {
+            "label": "SLG",
+            "value": ".570"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "30"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C/1B",
+          "JR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10271",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "JP Wagner",
+      "normalizedName": "jp wagner",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "INF",
+      "classYear": "JR",
+      "handedness": "L/R",
+      "jersey": "12",
+      "hometown": "Toledo, Ohio",
+      "highSchool": "St. John's Jesuit",
+      "previousSchool": "",
+      "hometownHighSchool": "Toledo, Ohio / St. John's Jesuit",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/jp-wagner/10271",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/JP_Wagner_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10271",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "10271",
+        "name": "JP Wagner",
+        "normalizedName": "jp wagner",
+        "jersey": "12",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/jp-wagner/10271",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/JP_Wagner_cropped.jpg",
+        "gamesPlayed": 19,
+        "gamesStarted": 10,
+        "battingAverage": 0.174,
+        "onBasePercentage": 0.406,
+        "sluggingPercentage": 0.261,
+        "ops": 0.667,
+        "atBats": 23,
+        "runs": 2,
+        "hits": 4,
+        "doubles": 0,
+        "triples": 1,
+        "homeRuns": 0,
+        "runsBattedIn": 6,
+        "totalBases": 6,
+        "walks": 3,
+        "hitByPitch": 6,
+        "strikeouts": 3,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 3,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 41,
+        "assists": 11,
+        "errors": 2,
+        "plateAppearances": 35,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "10271",
+        "name": "JP Wagner",
+        "normalizedName": "jp wagner",
+        "jersey": "12",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/jp-wagner/10271",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/JP_Wagner_cropped.jpg",
+        "gamesPlayed": 14,
+        "gamesStarted": 9,
+        "putouts": 41,
+        "assists": 11,
+        "errors": 2,
+        "fieldingPercentage": 0.963,
+        "doublePlays": 3,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 54
+      },
+      "evaluation": {
+        "score": 35,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 70,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 88.88888888888889,
+          "Speed": 0
+        },
+        "summary": "JP Wagner profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .174",
+          "OBP .406",
+          "SLG .261"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".174"
+          },
+          {
+            "label": "OBP",
+            "value": ".406"
+          },
+          {
+            "label": "SLG",
+            "value": ".261"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "6"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "L/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10281",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Hayden Frey",
+      "normalizedName": "hayden frey",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "L/L",
+      "jersey": "13",
+      "hometown": "Troy, Ohio",
+      "highSchool": "Troy",
+      "previousSchool": "",
+      "hometownHighSchool": "Troy, Ohio / Troy",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/hayden-frey/10281",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Hayden_Frey_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10281",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "10281",
+        "name": "Hayden Frey",
+        "normalizedName": "hayden frey",
+        "jersey": "13",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/hayden-frey/10281",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Hayden_Frey_cropped.jpg",
+        "gamesPlayed": 8,
+        "gamesStarted": 4,
+        "appearances": 8,
+        "gamesCompleted": 1,
+        "earnedRunAverage": 2.87,
+        "whip": 1.3,
+        "wins": 3,
+        "losses": 0,
+        "saves": 1,
+        "shutouts": 0,
+        "inningsPitched": 37.666666666666664,
+        "inningsPitchedDisplay": "37.2",
+        "hitsAllowed": 33,
+        "runsAllowed": 12,
+        "earnedRunsAllowed": 12,
+        "walksAllowed": 16,
+        "strikeouts": 30,
+        "doublesAllowed": 3,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 140,
+        "wildPitches": 0,
+        "hitBatters": 6,
+        "balks": 1,
+        "opponentsBattingAverage": 0.236,
+        "walksHits": 49
+      },
+      "fieldingStats": {
+        "rosterBioId": "10281",
+        "name": "Hayden Frey",
+        "normalizedName": "hayden frey",
+        "jersey": "13",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/hayden-frey/10281",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Hayden_Frey_cropped.jpg",
+        "gamesPlayed": 6,
+        "gamesStarted": 4,
+        "putouts": 5,
+        "assists": 4,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 7,
+        "caughtStealingBy": 2,
+        "stolenBasesPercentage": 0.778,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 9
+      },
+      "evaluation": {
+        "score": 9,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 28.801287208366855,
+          "Command": 17.5,
+          "Damage suppression": 0
+        },
+        "summary": "Hayden Frey looks like a LHP option who limits runs.",
+        "summaryMetrics": [
+          "ERA 2.87",
+          "WHIP 1.30",
+          "K/9 7.2"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "2.87"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.30"
+          },
+          {
+            "label": "K/9",
+            "value": "7.2"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.72"
+          },
+          {
+            "label": "IP",
+            "value": "37.7"
+          }
+        ],
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10282",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Saborn Campbell",
+      "normalizedName": "saborn campbell",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "GR",
+      "handedness": "R/R",
+      "jersey": "14",
+      "hometown": "Bloomfield Hills, Mich.",
+      "highSchool": "Detroit Country Day",
+      "previousSchool": "Stanford University",
+      "hometownHighSchool": "Bloomfield Hills, Mich. / Detroit Country Day",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/saborn-campbell/10282",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Saborn_Campbell.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10282",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "10282",
+        "name": "Saborn Campbell",
+        "normalizedName": "saborn campbell",
+        "jersey": "14",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/saborn-campbell/10282",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Saborn_Campbell.jpg",
+        "gamesPlayed": 25,
+        "gamesStarted": 21,
+        "battingAverage": 0.253,
+        "onBasePercentage": 0.385,
+        "sluggingPercentage": 0.266,
+        "ops": 0.651,
+        "atBats": 79,
+        "runs": 19,
+        "hits": 20,
+        "doubles": 1,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 6,
+        "totalBases": 21,
+        "walks": 15,
+        "hitByPitch": 2,
+        "strikeouts": 15,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 1,
+        "stolenBases": 6,
+        "stolenBasesAttempts": 8,
+        "putouts": 40,
+        "assists": 0,
+        "errors": 1,
+        "plateAppearances": 107,
+        "caughtStealing": 2,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "10282",
+        "name": "Saborn Campbell",
+        "normalizedName": "saborn campbell",
+        "jersey": "14",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/saborn-campbell/10282",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Saborn_Campbell.jpg",
+        "gamesPlayed": 18,
+        "gamesStarted": 16,
+        "putouts": 40,
+        "assists": 0,
+        "errors": 1,
+        "fieldingPercentage": 0.976,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 41
+      },
+      "evaluation": {
+        "score": 37,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 58.33333333333333,
+          "Power": 0,
+          "Contact": 20.625,
+          "Discipline": 88.88888888888889,
+          "Speed": 20
+        },
+        "summary": "Saborn Campbell profiles as a OF piece who controls at-bats.",
+        "summaryMetrics": [
+          "AVG .253",
+          "OBP .385",
+          "SLG .266"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".253"
+          },
+          {
+            "label": "OBP",
+            "value": ".385"
+          },
+          {
+            "label": "SLG",
+            "value": ".266"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "6"
+          },
+          {
+            "label": "SB",
+            "value": "6"
+          }
+        ],
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "OF",
+          "GR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10283",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Alex McCranie",
+      "normalizedName": "alex mccranie",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "15",
+      "hometown": "Pensacola, Fla.",
+      "highSchool": "Pace",
+      "previousSchool": "Gulf Coast State College (FL)",
+      "hometownHighSchool": "Pensacola, Fla. / Pace",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/alex-mccranie/10283",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Alex_McCranie_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10283",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "10283",
+        "name": "Alex McCranie",
+        "normalizedName": "alex mccranie",
+        "jersey": "15",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/alex-mccranie/10283",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Alex_McCranie_cropped.jpg",
+        "gamesPlayed": 30,
+        "gamesStarted": 28,
+        "battingAverage": 0.269,
+        "onBasePercentage": 0.375,
+        "sluggingPercentage": 0.365,
+        "ops": 0.74,
+        "atBats": 104,
+        "runs": 22,
+        "hits": 28,
+        "doubles": 7,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 18,
+        "totalBases": 38,
+        "walks": 15,
+        "hitByPitch": 5,
+        "strikeouts": 17,
+        "intentionalWalks": 1,
+        "groundedIntoDoublePlay": 5,
+        "sacrificeFlies": 4,
+        "sacrificeHits": 1,
+        "stolenBases": 3,
+        "stolenBasesAttempts": 5,
+        "putouts": 31,
+        "assists": 43,
+        "errors": 5,
+        "plateAppearances": 136,
+        "caughtStealing": 2,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "10283",
+        "name": "Alex McCranie",
+        "normalizedName": "alex mccranie",
+        "jersey": "15",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/alex-mccranie/10283",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Alex_McCranie_cropped.jpg",
+        "gamesPlayed": 23,
+        "gamesStarted": 22,
+        "putouts": 31,
+        "assists": 43,
+        "errors": 5,
+        "fieldingPercentage": 0.937,
+        "doublePlays": 6,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 79
+      },
+      "evaluation": {
+        "score": 37,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 52.77777777777777,
+          "Power": 11.842105263157892,
+          "Contact": 30.625000000000007,
+          "Discipline": 75.81699346405227,
+          "Speed": 10
+        },
+        "summary": "Alex McCranie gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .269",
+          "OBP .375",
+          "SLG .365"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".269"
+          },
+          {
+            "label": "OBP",
+            "value": ".375"
+          },
+          {
+            "label": "SLG",
+            "value": ".365"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "18"
+          },
+          {
+            "label": "SB",
+            "value": "3"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10272",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Luke Walton",
+      "normalizedName": "luke walton",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "OF",
+      "classYear": "R-JR",
+      "handedness": "L/L",
+      "jersey": "16",
+      "hometown": "Sandusky, Ohio",
+      "highSchool": "Perkins",
+      "previousSchool": "",
+      "hometownHighSchool": "Sandusky, Ohio / Perkins",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/luke-walton/10272",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Luke_Walton_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10272",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "10272",
+        "name": "Luke Walton",
+        "normalizedName": "luke walton",
+        "jersey": "16",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/luke-walton/10272",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Luke_Walton_cropped.jpg",
+        "gamesPlayed": 30,
+        "gamesStarted": 22,
+        "battingAverage": 0.236,
+        "onBasePercentage": 0.355,
+        "sluggingPercentage": 0.36,
+        "ops": 0.715,
+        "atBats": 89,
+        "runs": 14,
+        "hits": 21,
+        "doubles": 3,
+        "triples": 1,
+        "homeRuns": 2,
+        "runsBattedIn": 16,
+        "totalBases": 32,
+        "walks": 15,
+        "hitByPitch": 2,
+        "strikeouts": 22,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 2,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 8,
+        "assists": 1,
+        "errors": 0,
+        "plateAppearances": 107,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "10272",
+        "name": "Luke Walton",
+        "normalizedName": "luke walton",
+        "jersey": "16",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/luke-walton/10272",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Luke_Walton_cropped.jpg",
+        "gamesPlayed": 5,
+        "gamesStarted": 5,
+        "putouts": 8,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 9
+      },
+      "evaluation": {
+        "score": 25,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 41.66666666666664,
+          "Power": 10.526315789473681,
+          "Contact": 9.999999999999991,
+          "Discipline": 53.53535353535352,
+          "Speed": 0
+        },
+        "summary": "Luke Walton gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .236",
+          "OBP .355",
+          "SLG .360"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".236"
+          },
+          {
+            "label": "OBP",
+            "value": ".355"
+          },
+          {
+            "label": "SLG",
+            "value": ".360"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "16"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "R-JR / L/L",
+        "detailBadges": [
+          "OF",
+          "R-JR",
+          "L/L",
+          "Hitter"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10284",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Liam Arsich",
+      "normalizedName": "liam arsich",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "17",
+      "hometown": "Mokena, Ill.",
+      "highSchool": "Lincoln-Way Central",
+      "previousSchool": "",
+      "hometownHighSchool": "Mokena, Ill. / Lincoln-Way Central",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/liam-arsich/10284",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Liam_Arsich_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10284",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "10284",
+        "name": "Liam Arsich",
+        "normalizedName": "liam arsich",
+        "jersey": "17",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/liam-arsich/10284",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Liam_Arsich_cropped.jpg",
+        "gamesPlayed": 27,
+        "gamesStarted": 25,
+        "battingAverage": 0.271,
+        "onBasePercentage": 0.349,
+        "sluggingPercentage": 0.385,
+        "ops": 0.734,
+        "atBats": 96,
+        "runs": 16,
+        "hits": 26,
+        "doubles": 8,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 16,
+        "totalBases": 37,
+        "walks": 9,
+        "hitByPitch": 3,
+        "strikeouts": 25,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 2,
+        "stolenBases": 8,
+        "stolenBasesAttempts": 9,
+        "putouts": 46,
+        "assists": 1,
+        "errors": 0,
+        "plateAppearances": 121,
+        "caughtStealing": 1,
+        "pickedOff": 1
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "10284",
+        "name": "Liam Arsich",
+        "normalizedName": "liam arsich",
+        "jersey": "17",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/liam-arsich/10284",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Liam_Arsich_cropped.jpg",
+        "gamesPlayed": 21,
+        "gamesStarted": 21,
+        "putouts": 46,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 47
+      },
+      "evaluation": {
+        "score": 28,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 38.33333333333331,
+          "Power": 17.10526315789474,
+          "Contact": 31.875000000000007,
+          "Discipline": 17.77777777777777,
+          "Speed": 26.666666666666668
+        },
+        "summary": "Liam Arsich profiles as a OF piece who adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .271",
+          "OBP .349",
+          "SLG .385"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".271"
+          },
+          {
+            "label": "OBP",
+            "value": ".349"
+          },
+          {
+            "label": "SLG",
+            "value": ".385"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "16"
+          },
+          {
+            "label": "SB",
+            "value": "8"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10260",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Braden Curry",
+      "normalizedName": "braden curry",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "19",
+      "hometown": "Whitehouse, Ohio",
+      "highSchool": "Anthony Wayne",
+      "previousSchool": "",
+      "hometownHighSchool": "Whitehouse, Ohio / Anthony Wayne",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/braden-curry/10260",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Braden_Curry_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10260",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "10260",
+        "name": "Braden Curry",
+        "normalizedName": "braden curry",
+        "jersey": "19",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/braden-curry/10260",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Braden_Curry_cropped.jpg",
+        "gamesPlayed": 12,
+        "gamesStarted": 0,
+        "appearances": 12,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 9.16,
+        "whip": 2.36,
+        "wins": 0,
+        "losses": 2,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 18.666666666666668,
+        "inningsPitchedDisplay": "18.2",
+        "hitsAllowed": 15,
+        "runsAllowed": 19,
+        "earnedRunsAllowed": 19,
+        "walksAllowed": 29,
+        "strikeouts": 30,
+        "doublesAllowed": 3,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 66,
+        "wildPitches": 8,
+        "hitBatters": 4,
+        "balks": 0,
+        "opponentsBattingAverage": 0.227,
+        "walksHits": 44
+      },
+      "fieldingStats": {
+        "rosterBioId": "10260",
+        "name": "Braden Curry",
+        "normalizedName": "braden curry",
+        "jersey": "19",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/braden-curry/10260",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Braden_Curry_cropped.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 1,
+        "errors": 1,
+        "fieldingPercentage": 0.5,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 11,
+        "caughtStealingBy": 2,
+        "stolenBasesPercentage": 0.846,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 2
+      },
+      "evaluation": {
+        "score": 19,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 95.12987012987011,
+          "Command": 0.6896551724137945,
+          "Damage suppression": 0
+        },
+        "summary": "Braden Curry looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 9.16",
+          "WHIP 2.36",
+          "K/9 14.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "9.16"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.36"
+          },
+          {
+            "label": "K/9",
+            "value": "14.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "14.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.45"
+          },
+          {
+            "label": "IP",
+            "value": "18.7"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10259",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Cole Cahill",
+      "normalizedName": "cole cahill",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "1B/OF",
+      "positionLong": "1B/OF",
+      "classYear": "JR",
+      "handedness": "L/L",
+      "jersey": "20",
+      "hometown": "Lewis Center, Ohio",
+      "highSchool": "Olentangy Orange",
+      "previousSchool": "",
+      "hometownHighSchool": "Lewis Center, Ohio / Olentangy Orange",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/cole-cahill/10259",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Cole_Cahill_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10259",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "10259",
+        "name": "Cole Cahill",
+        "normalizedName": "cole cahill",
+        "jersey": "20",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/cole-cahill/10259",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Cole_Cahill_cropped.jpg",
+        "gamesPlayed": 24,
+        "gamesStarted": 16,
+        "battingAverage": 0.303,
+        "onBasePercentage": 0.338,
+        "sluggingPercentage": 0.424,
+        "ops": 0.762,
+        "atBats": 66,
+        "runs": 7,
+        "hits": 20,
+        "doubles": 5,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 13,
+        "totalBases": 28,
+        "walks": 4,
+        "hitByPitch": 0,
+        "strikeouts": 10,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 0,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 2,
+        "putouts": 129,
+        "assists": 10,
+        "errors": 3,
+        "plateAppearances": 74,
+        "caughtStealing": 1,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "10259",
+        "name": "Cole Cahill",
+        "normalizedName": "cole cahill",
+        "jersey": "20",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/cole-cahill/10259",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Cole_Cahill_cropped.jpg",
+        "gamesPlayed": 24,
+        "gamesStarted": 16,
+        "putouts": 129,
+        "assists": 10,
+        "errors": 3,
+        "fieldingPercentage": 0.979,
+        "doublePlays": 6,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 142
+      },
+      "evaluation": {
+        "score": 30,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 32.22222222222222,
+          "Power": 27.368421052631575,
+          "Contact": 51.87499999999999,
+          "Discipline": 22.22222222222222,
+          "Speed": 3.3333333333333335
+        },
+        "summary": "Cole Cahill gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .303",
+          "OBP .338",
+          "SLG .424"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".303"
+          },
+          {
+            "label": "OBP",
+            "value": ".338"
+          },
+          {
+            "label": "SLG",
+            "value": ".424"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "13"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "1B/OF",
+          "JR",
+          "L/L",
+          "Hitter"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10285",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Deron Swanson",
+      "normalizedName": "deron swanson",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "GR",
+      "handedness": "L/L",
+      "jersey": "21",
+      "hometown": "Fort Wayne, Ind.",
+      "highSchool": "Snider",
+      "previousSchool": "Indiana University",
+      "hometownHighSchool": "Fort Wayne, Ind. / Snider",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/deron-swanson/10285",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Deron_Swanson_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10285",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "10285",
+        "name": "Deron Swanson",
+        "normalizedName": "deron swanson",
+        "jersey": "21",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/deron-swanson/10285",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Deron_Swanson_cropped.jpg",
+        "gamesPlayed": 9,
+        "gamesStarted": 5,
+        "appearances": 9,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 5.67,
+        "whip": 1.41,
+        "wins": 2,
+        "losses": 4,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 33.333333333333336,
+        "inningsPitchedDisplay": "33.1",
+        "hitsAllowed": 39,
+        "runsAllowed": 25,
+        "earnedRunsAllowed": 21,
+        "walksAllowed": 8,
+        "strikeouts": 30,
+        "doublesAllowed": 4,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 133,
+        "wildPitches": 4,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.293,
+        "walksHits": 47
+      },
+      "fieldingStats": {
+        "rosterBioId": "10285",
+        "name": "Deron Swanson",
+        "normalizedName": "deron swanson",
+        "jersey": "21",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/deron-swanson/10285",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Deron_Swanson_cropped.jpg",
+        "gamesPlayed": 5,
+        "gamesStarted": 4,
+        "putouts": 3,
+        "assists": 3,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 4,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 6
+      },
+      "evaluation": {
+        "score": 16,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 37.272727272727266,
+          "Command": 55.00000000000001,
+          "Damage suppression": 0
+        },
+        "summary": "Deron Swanson looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA 5.67",
+          "WHIP 1.41",
+          "K/9 8.1"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.67"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.41"
+          },
+          {
+            "label": "K/9",
+            "value": "8.1"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.27"
+          },
+          {
+            "label": "IP",
+            "value": "33.3"
+          }
+        ],
+        "metaLine": "GR / L/L",
+        "detailBadges": [
+          "LHP",
+          "GR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10286",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Michael Fliss",
+      "normalizedName": "michael fliss",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "R-FR",
+      "handedness": "N/A",
+      "jersey": "22",
+      "hometown": "Indianapolis. Ind.",
+      "highSchool": "North Central",
+      "previousSchool": "University of Cincinnati",
+      "hometownHighSchool": "Indianapolis. Ind. / North Central",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/michael-fliss/10286",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Michael_Fliss_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10286",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "10286",
+        "name": "Michael Fliss",
+        "normalizedName": "michael fliss",
+        "jersey": "22",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/michael-fliss/10286",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Michael_Fliss_cropped.jpg",
+        "gamesPlayed": 12,
+        "gamesStarted": 3,
+        "appearances": 12,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 7.96,
+        "whip": 1.96,
+        "wins": 0,
+        "losses": 1,
+        "saves": 2,
+        "shutouts": 0,
+        "inningsPitched": 26,
+        "inningsPitchedDisplay": "26.0",
+        "hitsAllowed": 36,
+        "runsAllowed": 23,
+        "earnedRunsAllowed": 23,
+        "walksAllowed": 15,
+        "strikeouts": 32,
+        "doublesAllowed": 7,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 105,
+        "wildPitches": 6,
+        "hitBatters": 3,
+        "balks": 0,
+        "opponentsBattingAverage": 0.343,
+        "walksHits": 51
+      },
+      "fieldingStats": {
+        "rosterBioId": "10286",
+        "name": "Michael Fliss",
+        "normalizedName": "michael fliss",
+        "jersey": "22",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/michael-fliss/10286",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Michael_Fliss_cropped.jpg",
+        "gamesPlayed": 5,
+        "gamesStarted": 2,
+        "putouts": 0,
+        "assists": 3,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 5,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": 0.833,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 3
+      },
+      "evaluation": {
+        "score": 16,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 64.33566433566433,
+          "Command": 22.666666666666664,
+          "Damage suppression": 0
+        },
+        "summary": "Michael Fliss looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 7.96",
+          "WHIP 1.96",
+          "K/9 11.1"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "7.96"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.96"
+          },
+          {
+            "label": "K/9",
+            "value": "11.1"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.35"
+          },
+          {
+            "label": "IP",
+            "value": "26.0"
+          }
+        ],
+        "metaLine": "R-FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "R-FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10270",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Jacob Tabor",
+      "normalizedName": "jacob tabor",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "LHP",
+      "classYear": "JR",
+      "handedness": "R/L",
+      "jersey": "23",
+      "hometown": "Lewis Center, Ohio",
+      "highSchool": "Olentangy Orange",
+      "previousSchool": "",
+      "hometownHighSchool": "Lewis Center, Ohio / Olentangy Orange",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/jacob-tabor/10270",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Jacob_Tabor_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10270",
+      "sources": [
+        "Toledo Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Jacob Tabor looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / R/L",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "R/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Toledo Athletics roster"
+      }
+    },
+    {
+      "id": "toledo-10287",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Arturo Ormaza",
+      "normalizedName": "arturo ormaza",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "R-JR",
+      "handedness": "L/L",
+      "jersey": "24",
+      "hometown": "Miami, Fla.",
+      "highSchool": "Felix Varela",
+      "previousSchool": "College of Central Florida",
+      "hometownHighSchool": "Miami, Fla. / Felix Varela",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/arturo-ormaza/10287",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Arturo_Ormaza_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10287",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "10287",
+        "name": "Arturo Ormaza",
+        "normalizedName": "arturo ormaza",
+        "jersey": "24",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/arturo-ormaza/10287",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Arturo_Ormaza_cropped.jpg",
+        "gamesPlayed": 10,
+        "gamesStarted": 0,
+        "appearances": 10,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 5.02,
+        "whip": 1.6,
+        "wins": 0,
+        "losses": 1,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 14.333333333333334,
+        "inningsPitchedDisplay": "14.1",
+        "hitsAllowed": 14,
+        "runsAllowed": 10,
+        "earnedRunsAllowed": 8,
+        "walksAllowed": 9,
+        "strikeouts": 15,
+        "doublesAllowed": 2,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 56,
+        "wildPitches": 5,
+        "hitBatters": 4,
+        "balks": 0,
+        "opponentsBattingAverage": 0.25,
+        "walksHits": 23
+      },
+      "fieldingStats": {
+        "rosterBioId": "10287",
+        "name": "Arturo Ormaza",
+        "normalizedName": "arturo ormaza",
+        "jersey": "24",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/arturo-ormaza/10287",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Arturo_Ormaza_cropped.jpg",
+        "gamesPlayed": 4,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 2,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 3,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 2
+      },
+      "evaluation": {
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 49.26004228329809,
+          "Command": 13.333333333333336,
+          "Damage suppression": 0
+        },
+        "summary": "Arturo Ormaza looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 5.02",
+          "WHIP 1.60",
+          "K/9 9.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.02"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.60"
+          },
+          {
+            "label": "K/9",
+            "value": "9.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.63"
+          },
+          {
+            "label": "IP",
+            "value": "14.3"
+          }
+        ],
+        "metaLine": "R-JR / L/L",
+        "detailBadges": [
+          "LHP",
+          "R-JR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10288",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Cole Giesige",
+      "normalizedName": "cole giesige",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "SR",
+      "handedness": "L/L",
+      "jersey": "25",
+      "hometown": "Lambertville, Mich.",
+      "highSchool": "Whiteford",
+      "previousSchool": "Albion College",
+      "hometownHighSchool": "Lambertville, Mich. / Whiteford",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/cole-giesige/10288",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Cole_Giesige_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10288",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "10288",
+        "name": "Cole Giesige",
+        "normalizedName": "cole giesige",
+        "jersey": "25",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/cole-giesige/10288",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Cole_Giesige_cropped.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 2,
+        "appearances": 7,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 14.67,
+        "whip": 2.35,
+        "wins": 0,
+        "losses": 3,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 15.333333333333334,
+        "inningsPitchedDisplay": "15.1",
+        "hitsAllowed": 29,
+        "runsAllowed": 30,
+        "earnedRunsAllowed": 25,
+        "walksAllowed": 7,
+        "strikeouts": 14,
+        "doublesAllowed": 6,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 7,
+        "opponentsAtBats": 75,
+        "wildPitches": 1,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.387,
+        "walksHits": 36
+      },
+      "fieldingStats": {
+        "rosterBioId": "10288",
+        "name": "Cole Giesige",
+        "normalizedName": "cole giesige",
+        "jersey": "25",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/cole-giesige/10288",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Cole_Giesige_cropped.jpg",
+        "gamesPlayed": 4,
+        "gamesStarted": 1,
+        "putouts": 0,
+        "assists": 2,
+        "errors": 1,
+        "fieldingPercentage": 0.667,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 3,
+        "caughtStealingBy": 2,
+        "stolenBasesPercentage": 0.6,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 3
+      },
+      "evaluation": {
+        "score": 11,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 38.3399209486166,
+          "Command": 20,
+          "Damage suppression": 0
+        },
+        "summary": "Cole Giesige gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 14.67",
+          "WHIP 2.35",
+          "K/9 8.2"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "14.67"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.35"
+          },
+          {
+            "label": "K/9",
+            "value": "8.2"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.1"
+          },
+          {
+            "label": "HR/9",
+            "value": "4.11"
+          },
+          {
+            "label": "IP",
+            "value": "15.3"
+          }
+        ],
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10289",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Luke Riha",
+      "normalizedName": "luke riha",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "26",
+      "hometown": "Fort Wayne, Ind.",
+      "highSchool": "Homestead",
+      "previousSchool": "",
+      "hometownHighSchool": "Fort Wayne, Ind. / Homestead",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/luke-riha/10289",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Luke_Riha_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10289",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "10289",
+        "name": "Luke Riha",
+        "normalizedName": "luke riha",
+        "jersey": "26",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/luke-riha/10289",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Luke_Riha_cropped.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "appearances": 1,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 108,
+        "whip": 9,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 0.3333333333333333,
+        "inningsPitchedDisplay": "0.1",
+        "hitsAllowed": 3,
+        "runsAllowed": 4,
+        "earnedRunsAllowed": 4,
+        "walksAllowed": 0,
+        "strikeouts": 0,
+        "doublesAllowed": 0,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 4,
+        "wildPitches": 0,
+        "hitBatters": 1,
+        "balks": 0,
+        "opponentsBattingAverage": 0.75,
+        "walksHits": 3
+      },
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Luke Riha looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA 108.00",
+          "WHIP 9.00",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "108.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "9.00"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.3"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10264",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Nathan Leininger",
+      "normalizedName": "nathan leininger",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "27",
+      "hometown": "Powell, Ohio",
+      "highSchool": "Olentangy Liberty",
+      "previousSchool": "",
+      "hometownHighSchool": "Powell, Ohio / Olentangy Liberty",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/nathan-leininger/10264",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Nathan_Leininger_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10264",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "10264",
+        "name": "Nathan Leininger",
+        "normalizedName": "nathan leininger",
+        "jersey": "27",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/nathan-leininger/10264",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Nathan_Leininger_cropped.jpg",
+        "gamesPlayed": 8,
+        "gamesStarted": 8,
+        "appearances": 8,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 2.23,
+        "whip": 1.01,
+        "wins": 6,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 48.333333333333336,
+        "inningsPitchedDisplay": "48.1",
+        "hitsAllowed": 31,
+        "runsAllowed": 14,
+        "earnedRunsAllowed": 12,
+        "walksAllowed": 18,
+        "strikeouts": 48,
+        "doublesAllowed": 3,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 174,
+        "wildPitches": 5,
+        "hitBatters": 1,
+        "balks": 1,
+        "opponentsBattingAverage": 0.178,
+        "walksHits": 49
+      },
+      "fieldingStats": {
+        "rosterBioId": "10264",
+        "name": "Nathan Leininger",
+        "normalizedName": "nathan leininger",
+        "jersey": "27",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/nathan-leininger/10264",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Nathan_Leininger_cropped.jpg",
+        "gamesPlayed": 8,
+        "gamesStarted": 8,
+        "putouts": 10,
+        "assists": 3,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 11,
+        "caughtStealingBy": 2,
+        "stolenBasesPercentage": 0.846,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 13
+      },
+      "evaluation": {
+        "score": 14,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 44.89028213166144,
+          "Command": 33.33333333333333,
+          "Damage suppression": 0
+        },
+        "summary": "Nathan Leininger looks like a RHP option who limits runs and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 2.23",
+          "WHIP 1.01",
+          "K/9 8.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "2.23"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.01"
+          },
+          {
+            "label": "K/9",
+            "value": "8.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.56"
+          },
+          {
+            "label": "IP",
+            "value": "48.3"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10265",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Ty O'Brien",
+      "normalizedName": "ty o brien",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "C",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "28",
+      "hometown": "Bowling Green, Ohio",
+      "highSchool": "Otsego",
+      "previousSchool": "",
+      "hometownHighSchool": "Bowling Green, Ohio / Otsego",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/ty-obrien/10265",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Ty_O_Brien_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10265",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "10265",
+        "name": "Ty O'Brien",
+        "normalizedName": "ty o brien",
+        "jersey": "28",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/ty-o-brien/10265",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Ty_O_Brien_cropped.jpg",
+        "gamesPlayed": 6,
+        "gamesStarted": 1,
+        "battingAverage": 0.286,
+        "onBasePercentage": 0.286,
+        "sluggingPercentage": 0.714,
+        "ops": 1,
+        "atBats": 7,
+        "runs": 1,
+        "hits": 2,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 2,
+        "totalBases": 5,
+        "walks": 0,
+        "hitByPitch": 0,
+        "strikeouts": 3,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 14,
+        "assists": 2,
+        "errors": 0,
+        "plateAppearances": 7,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "10265",
+        "name": "Ty O'Brien",
+        "normalizedName": "ty o brien",
+        "jersey": "28",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/ty-o-brien/10265",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Ty_O_Brien_cropped.jpg",
+        "gamesPlayed": 4,
+        "gamesStarted": 1,
+        "putouts": 14,
+        "assists": 2,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 8,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 3,
+        "catchersInterference": 0,
+        "totalChances": 16
+      },
+      "evaluation": {
+        "score": 34,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 3.3333333333333055,
+          "Power": 100,
+          "Contact": 41.24999999999998,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Ty O'Brien profiles as a C piece who brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .286",
+          "OBP .286",
+          "SLG .714"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".286"
+          },
+          {
+            "label": "OBP",
+            "value": ".286"
+          },
+          {
+            "label": "SLG",
+            "value": ".714"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "2"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "C",
+          "SO",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10290",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Nate Langbehn",
+      "normalizedName": "nate langbehn",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "R-FR",
+      "handedness": "R/R",
+      "jersey": "30",
+      "hometown": "Rothschild, Wis.",
+      "highSchool": "DC Everest",
+      "previousSchool": "Wichita State",
+      "hometownHighSchool": "Rothschild, Wis. / DC Everest",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/nate-langbehn/10290",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Carson_McCaleb_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10290",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "10290",
+        "name": "Nate Langbehn",
+        "normalizedName": "nate langbehn",
+        "jersey": "30",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/nate-langbehn/10290",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Carson_McCaleb_cropped.jpg",
+        "gamesPlayed": 11,
+        "gamesStarted": 0,
+        "appearances": 11,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 3.74,
+        "whip": 1.25,
+        "wins": 1,
+        "losses": 0,
+        "saves": 2,
+        "shutouts": 0,
+        "inningsPitched": 21.666666666666668,
+        "inningsPitchedDisplay": "21.2",
+        "hitsAllowed": 15,
+        "runsAllowed": 9,
+        "earnedRunsAllowed": 9,
+        "walksAllowed": 12,
+        "strikeouts": 33,
+        "doublesAllowed": 2,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 79,
+        "wildPitches": 1,
+        "hitBatters": 1,
+        "balks": 1,
+        "opponentsBattingAverage": 0.19,
+        "walksHits": 27
+      },
+      "fieldingStats": {
+        "rosterBioId": "10290",
+        "name": "Nate Langbehn",
+        "normalizedName": "nate langbehn",
+        "jersey": "30",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/nate-langbehn/10290",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Carson_McCaleb_cropped.jpg",
+        "gamesPlayed": 6,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 2,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 6,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 2
+      },
+      "evaluation": {
+        "score": 23,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 88.25174825174824,
+          "Command": 35,
+          "Damage suppression": 0
+        },
+        "summary": "Nate Langbehn looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 3.74",
+          "WHIP 1.25",
+          "K/9 13.7"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.74"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.25"
+          },
+          {
+            "label": "K/9",
+            "value": "13.7"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.42"
+          },
+          {
+            "label": "IP",
+            "value": "21.7"
+          }
+        ],
+        "metaLine": "R-FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10291",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "John Hojnowski",
+      "normalizedName": "john hojnowski",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "31",
+      "hometown": "Brownstown, Mich.",
+      "highSchool": "Carlson",
+      "previousSchool": "Spring Arbor University",
+      "hometownHighSchool": "Brownstown, Mich. / Carlson",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/john-hojnowski/10291",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/John_Hojnowski_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10291",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "10291",
+        "name": "John Hojnowski",
+        "normalizedName": "john hojnowski",
+        "jersey": "31",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/john-hojnowski/10291",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/John_Hojnowski_cropped.jpg",
+        "gamesPlayed": 8,
+        "gamesStarted": 2,
+        "appearances": 8,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 9.77,
+        "whip": 1.72,
+        "wins": 0,
+        "losses": 2,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 15.666666666666666,
+        "inningsPitchedDisplay": "15.2",
+        "hitsAllowed": 18,
+        "runsAllowed": 19,
+        "earnedRunsAllowed": 17,
+        "walksAllowed": 9,
+        "strikeouts": 19,
+        "doublesAllowed": 5,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 65,
+        "wildPitches": 1,
+        "hitBatters": 7,
+        "balks": 0,
+        "opponentsBattingAverage": 0.277,
+        "walksHits": 27
+      },
+      "fieldingStats": {
+        "rosterBioId": "10291",
+        "name": "John Hojnowski",
+        "normalizedName": "john hojnowski",
+        "jersey": "31",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/john-hojnowski/10291",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/John_Hojnowski_cropped.jpg",
+        "gamesPlayed": 2,
+        "gamesStarted": 1,
+        "putouts": 0,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 3,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 1
+      },
+      "evaluation": {
+        "score": 16,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 62.862669245647986,
+          "Command": 22.222222222222225,
+          "Damage suppression": 0
+        },
+        "summary": "John Hojnowski looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 9.77",
+          "WHIP 1.72",
+          "K/9 10.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "9.77"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.72"
+          },
+          {
+            "label": "K/9",
+            "value": "10.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.15"
+          },
+          {
+            "label": "IP",
+            "value": "15.7"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10263",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Ryan Kennedy",
+      "normalizedName": "ryan kennedy",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "R-SO",
+      "handedness": "R/R",
+      "jersey": "32",
+      "hometown": "Manassas, Va.",
+      "highSchool": "Charles J. Colgan Sr.",
+      "previousSchool": "Virginia Tech",
+      "hometownHighSchool": "Manassas, Va. / Charles J. Colgan Sr.",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/ryan-kennedy/10263",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Ryan_Kennedy_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10263",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "10263",
+        "name": "Ryan Kennedy",
+        "normalizedName": "ryan kennedy",
+        "jersey": "32",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/ryan-kennedy/10263",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Ryan_Kennedy_cropped.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 1,
+        "appearances": 1,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 0,
+        "whip": 1,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 1,
+        "inningsPitchedDisplay": "1.0",
+        "hitsAllowed": 0,
+        "runsAllowed": 0,
+        "earnedRunsAllowed": 0,
+        "walksAllowed": 1,
+        "strikeouts": 0,
+        "doublesAllowed": 0,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 3,
+        "wildPitches": 0,
+        "hitBatters": 1,
+        "balks": 0,
+        "opponentsBattingAverage": 0,
+        "walksHits": 1
+      },
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Ryan Kennedy looks like a RHP option who limits runs and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 0.00",
+          "WHIP 1.00",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "0.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.00"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "9.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "1.0"
+          }
+        ],
+        "metaLine": "R-SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10292",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Sam Rufenacht",
+      "normalizedName": "sam rufenacht",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "L/L",
+      "jersey": "34",
+      "hometown": "New Philadelphia, Ohio",
+      "highSchool": "New Philadelphia",
+      "previousSchool": "",
+      "hometownHighSchool": "New Philadelphia, Ohio / New Philadelphia",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/sam-rufenacht/10292",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Sam_Rufenacht_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10292",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "10292",
+        "name": "Sam Rufenacht",
+        "normalizedName": "sam rufenacht",
+        "jersey": "34",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/sam-rufenacht/10292",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Sam_Rufenacht_cropped.jpg",
+        "gamesPlayed": 4,
+        "gamesStarted": 0,
+        "appearances": 4,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 10.8,
+        "whip": 2.7,
+        "wins": 1,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 3.3333333333333335,
+        "inningsPitchedDisplay": "3.1",
+        "hitsAllowed": 5,
+        "runsAllowed": 4,
+        "earnedRunsAllowed": 4,
+        "walksAllowed": 4,
+        "strikeouts": 4,
+        "doublesAllowed": 1,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 14,
+        "wildPitches": 2,
+        "hitBatters": 0,
+        "balks": 0,
+        "opponentsBattingAverage": 0.357,
+        "walksHits": 9
+      },
+      "fieldingStats": {
+        "rosterBioId": "10292",
+        "name": "Sam Rufenacht",
+        "normalizedName": "sam rufenacht",
+        "jersey": "34",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/sam-rufenacht/10292",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Sam_Rufenacht_cropped.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 0,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 5,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": 0.833,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 0
+      },
+      "evaluation": {
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 61.818181818181806,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Sam Rufenacht looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 10.80",
+          "WHIP 2.70",
+          "K/9 10.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "10.80"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.70"
+          },
+          {
+            "label": "K/9",
+            "value": "10.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "10.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "2.70"
+          },
+          {
+            "label": "IP",
+            "value": "3.3"
+          }
+        ],
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10266",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Brady Sasse",
+      "normalizedName": "brady sasse",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "35",
+      "hometown": "North Royalton, Ohio",
+      "highSchool": "North Royalton",
+      "previousSchool": "",
+      "hometownHighSchool": "North Royalton, Ohio / North Royalton",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/brady-sasse/10266",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Brady_Sasse_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10266",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "10266",
+        "name": "Brady Sasse",
+        "normalizedName": "brady sasse",
+        "jersey": "35",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/brady-sasse/10266",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Brady_Sasse_cropped.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 3,
+        "appearances": 3,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 2.25,
+        "whip": 1.13,
+        "wins": 1,
+        "losses": 1,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 16,
+        "inningsPitchedDisplay": "16.0",
+        "hitsAllowed": 13,
+        "runsAllowed": 5,
+        "earnedRunsAllowed": 4,
+        "walksAllowed": 5,
+        "strikeouts": 16,
+        "doublesAllowed": 5,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 57,
+        "wildPitches": 0,
+        "hitBatters": 1,
+        "balks": 0,
+        "opponentsBattingAverage": 0.228,
+        "walksHits": 18
+      },
+      "fieldingStats": {
+        "rosterBioId": "10266",
+        "name": "Brady Sasse",
+        "normalizedName": "brady sasse",
+        "jersey": "35",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/brady-sasse/10266",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Brady_Sasse_cropped.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 3,
+        "putouts": 1,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 1,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": 0.5,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 2
+      },
+      "evaluation": {
+        "score": 16,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 45.45454545454545,
+          "Command": 44.00000000000001,
+          "Damage suppression": 0
+        },
+        "summary": "Brady Sasse looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 2.25",
+          "WHIP 1.13",
+          "K/9 9.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "2.25"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.13"
+          },
+          {
+            "label": "K/9",
+            "value": "9.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "16.0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10262",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Ryan Hughes",
+      "normalizedName": "ryan hughes",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "R-JR",
+      "handedness": "R/R",
+      "jersey": "36",
+      "hometown": "Cave Creek, Ariz.",
+      "highSchool": "Cactus Shadow",
+      "previousSchool": "Loyola Marymount",
+      "hometownHighSchool": "Cave Creek, Ariz. / Cactus Shadow",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/ryan-hughes/10262",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Ryan_Hughes_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10262",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "10262",
+        "name": "Ryan Hughes",
+        "normalizedName": "ryan hughes",
+        "jersey": "36",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/ryan-hughes/10262",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Ryan_Hughes_cropped.jpg",
+        "gamesPlayed": 5,
+        "gamesStarted": 4,
+        "appearances": 5,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 13.5,
+        "whip": 3.38,
+        "wins": 1,
+        "losses": 3,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 10.666666666666666,
+        "inningsPitchedDisplay": "10.2",
+        "hitsAllowed": 24,
+        "runsAllowed": 21,
+        "earnedRunsAllowed": 16,
+        "walksAllowed": 12,
+        "strikeouts": 12,
+        "doublesAllowed": 6,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 56,
+        "wildPitches": 8,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.429,
+        "walksHits": 36
+      },
+      "fieldingStats": {
+        "rosterBioId": "10262",
+        "name": "Ryan Hughes",
+        "normalizedName": "ryan hughes",
+        "jersey": "36",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/ryan-hughes/10262",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Ryan_Hughes_cropped.jpg",
+        "gamesPlayed": 2,
+        "gamesStarted": 2,
+        "putouts": 0,
+        "assists": 0,
+        "errors": 1,
+        "fieldingPercentage": 0,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 2,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": 0.667,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 1
+      },
+      "evaluation": {
+        "score": 11,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 55.68181818181818,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Ryan Hughes looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 13.50",
+          "WHIP 3.38",
+          "K/9 10.1"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "13.50"
+          },
+          {
+            "label": "WHIP",
+            "value": "3.38"
+          },
+          {
+            "label": "K/9",
+            "value": "10.1"
+          },
+          {
+            "label": "BB/9",
+            "value": "10.1"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.84"
+          },
+          {
+            "label": "IP",
+            "value": "10.7"
+          }
+        ],
+        "metaLine": "R-JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10261",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Matt Hubbard",
+      "normalizedName": "matt hubbard",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "41",
+      "hometown": "Perrysburg, Ohio",
+      "highSchool": "Perrysburg",
+      "previousSchool": "",
+      "hometownHighSchool": "Perrysburg, Ohio / Perrysburg",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/matt-hubbard/10261",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Matt_Hubbard_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10261",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "10261",
+        "name": "Matt Hubbard",
+        "normalizedName": "matt hubbard",
+        "jersey": "41",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/matt-hubbard/10261",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Matt_Hubbard_cropped.jpg",
+        "gamesPlayed": 2,
+        "gamesStarted": 0,
+        "appearances": 2,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 54,
+        "whip": 5.25,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 1.3333333333333333,
+        "inningsPitchedDisplay": "1.1",
+        "hitsAllowed": 7,
+        "runsAllowed": 8,
+        "earnedRunsAllowed": 8,
+        "walksAllowed": 0,
+        "strikeouts": 2,
+        "doublesAllowed": 1,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 11,
+        "wildPitches": 1,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.636,
+        "walksHits": 7
+      },
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 33,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 86.36363636363636,
+          "Command": 100,
+          "Damage suppression": 0
+        },
+        "summary": "Matt Hubbard looks like a RHP option who misses bats and throws enough strikes.",
+        "summaryMetrics": [
+          "ERA 54.00",
+          "WHIP 5.25",
+          "K/9 13.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "54.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "5.25"
+          },
+          {
+            "label": "K/9",
+            "value": "13.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "1.3"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10293",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Jackson Hiatt",
+      "normalizedName": "jackson hiatt",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "1B/RHP",
+      "positionLong": "First Baseman/Right-Handed Pitcher",
+      "classYear": "R-JR",
+      "handedness": "R/R",
+      "jersey": "44",
+      "hometown": "Pensacola, Fla.",
+      "highSchool": "Pensacola Catholic",
+      "previousSchool": "University of South Alabama",
+      "hometownHighSchool": "Pensacola, Fla. / Pensacola Catholic",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/jackson-hiatt/10293",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Jackson_Hiatt_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10293",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "10293",
+        "name": "Jackson Hiatt",
+        "normalizedName": "jackson hiatt",
+        "jersey": "44",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/jackson-hiatt/10293",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Jackson_Hiatt_cropped.jpg",
+        "gamesPlayed": 13,
+        "gamesStarted": 7,
+        "battingAverage": 0.207,
+        "onBasePercentage": 0.258,
+        "sluggingPercentage": 0.379,
+        "ops": 0.637,
+        "atBats": 29,
+        "runs": 6,
+        "hits": 6,
+        "doubles": 2,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 5,
+        "totalBases": 11,
+        "walks": 2,
+        "hitByPitch": 0,
+        "strikeouts": 14,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 34,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 31,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "10293",
+        "name": "Jackson Hiatt",
+        "normalizedName": "jackson hiatt",
+        "jersey": "44",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/jackson-hiatt/10293",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Jackson_Hiatt_cropped.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 6,
+        "putouts": 34,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 2,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 34
+      },
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Jackson Hiatt looks like a 1B/RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "R-JR / R/R",
+        "detailBadges": [
+          "1B/RHP",
+          "R-JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    },
+    {
+      "id": "toledo-10294",
+      "schoolSlug": "toledo",
+      "school": "Toledo",
+      "schoolLongName": "University of Toledo",
+      "name": "Henry Johnson",
+      "normalizedName": "henry johnson",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "L/L",
+      "jersey": "45",
+      "hometown": "Glen Ellyn, Ill.",
+      "highSchool": "Glenbard West",
+      "previousSchool": "",
+      "hometownHighSchool": "Glen Ellyn, Ill. / Glenbard West",
+      "profileUrl": "https://utrockets.com/sports/baseball/roster/henry-johnson/10294",
+      "imageUrl": "https://utrockets.com/images/2025/12/15/Henry_Johnson_cropped.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10294",
+      "sources": [
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "10294",
+        "name": "Henry Johnson",
+        "normalizedName": "henry johnson",
+        "jersey": "45",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/henry-johnson/10294",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Henry_Johnson_cropped.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "appearances": 1,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 0,
+        "whip": 0,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 0,
+        "inningsPitchedDisplay": "0.0",
+        "hitsAllowed": 0,
+        "runsAllowed": 0,
+        "earnedRunsAllowed": 0,
+        "walksAllowed": 3,
+        "strikeouts": 0,
+        "doublesAllowed": 0,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 0,
+        "wildPitches": 1,
+        "hitBatters": 0,
+        "balks": 0,
+        "opponentsBattingAverage": 0,
+        "walksHits": 3
+      },
+      "fieldingStats": {
+        "rosterBioId": "10294",
+        "name": "Henry Johnson",
+        "normalizedName": "henry johnson",
+        "jersey": "45",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/henry-johnson/10294",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Henry_Johnson_cropped.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 0,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 2,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 0
+      },
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Henry Johnson looks like a LHP option who limits runs and throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 0.00",
+          "WHIP 0.00",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "0.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "0.00"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
+      }
+    }
+  ],
+  "playerBoard": {
+    "source": "Toledo Athletics roster + cumulative stats / ESPN roster",
+    "note": "This Toledo-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Toledo's public ESPN roster feed did not line up cleanly with the current school-site roster.",
+    "totalPlayers": 35,
+    "roleCounts": {
+      "Hitter": 17,
+      "Pitcher": 18
+    },
+    "players": [
+      {
+        "id": "toledo-10273",
+        "name": "Drew Tajblik",
+        "school": "Toledo",
+        "role": "Hitter",
+        "position": "INF/OF",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Drew Tajblik gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF/OF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster"
+        ],
+        "sourceSummary": "Toledo Athletics roster",
+        "schoolSlug": "toledo",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/drew-tajblik/10273",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10274",
+        "name": "Branston Lindquist",
+        "school": "Toledo",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 14,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Branston Lindquist gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .000",
+          "OBP .333",
+          "SLG .000"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".000"
+          },
+          {
+            "label": "OBP",
+            "value": ".333"
+          },
+          {
+            "label": "SLG",
+            "value": ".000"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 29.44444444444444,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 33.33333333333333,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "C",
+          "FR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/branston-lindquist/10274",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10275",
+        "name": "Ryan Sudbrook",
+        "school": "Toledo",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 27,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ryan Sudbrook gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .154",
+          "OBP .371",
+          "SLG .192"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".154"
+          },
+          {
+            "label": "OBP",
+            "value": ".371"
+          },
+          {
+            "label": "SLG",
+            "value": ".192"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 50.55555555555554,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 73.01587301587298,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/ryan-sudbrook/10275",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10267",
+        "name": "Charlie Scholvin",
+        "school": "Toledo",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 79,
+        "fit": {
+          "label": "Pursue",
+          "className": "fit-pursue"
+        },
+        "summary": "Charlie Scholvin profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .358",
+          "OBP .478",
+          "SLG .480"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".358"
+          },
+          {
+            "label": "OBP",
+            "value": ".478"
+          },
+          {
+            "label": "SLG",
+            "value": ".480"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "31"
+          },
+          {
+            "label": "SB",
+            "value": "19"
+          }
+        ],
+        "components": {
+          "On-base": 100,
+          "Power": 42.10526315789473,
+          "Contact": 86.25,
+          "Discipline": 100,
+          "Speed": 63.33333333333333
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/charlie-scholvin/10267",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10276",
+        "name": "Preston Zumwalt",
+        "school": "Toledo",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 17,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Preston Zumwalt gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .211",
+          "OBP .348",
+          "SLG .316"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".211"
+          },
+          {
+            "label": "OBP",
+            "value": ".348"
+          },
+          {
+            "label": "SLG",
+            "value": ".316"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "5"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 37.77777777777775,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 33.33333333333333,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/preston-zumwalt/10276",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10277",
+        "name": "Cade Baker",
+        "school": "Toledo",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 64,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "summary": "Cade Baker profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .346",
+          "OBP .438",
+          "SLG .500"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".346"
+          },
+          {
+            "label": "OBP",
+            "value": ".438"
+          },
+          {
+            "label": "SLG",
+            "value": ".500"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "14"
+          },
+          {
+            "label": "SB",
+            "value": "13"
+          }
+        ],
+        "components": {
+          "On-base": 87.77777777777777,
+          "Power": 47.36842105263158,
+          "Contact": 78.74999999999999,
+          "Discipline": 33.33333333333333,
+          "Speed": 43.333333333333336
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/cade-baker/10277",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10269",
+        "name": "Troy Sudbrook",
+        "school": "Toledo",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "R-JR",
+        "handedness": "L/R",
+        "score": 86,
+        "fit": {
+          "label": "Priority",
+          "className": "fit-priority"
+        },
+        "summary": "Troy Sudbrook profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .365",
+          "OBP .472",
+          "SLG .722"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".365"
+          },
+          {
+            "label": "OBP",
+            "value": ".472"
+          },
+          {
+            "label": "SLG",
+            "value": ".722"
+          },
+          {
+            "label": "HR",
+            "value": "6"
+          },
+          {
+            "label": "RBI",
+            "value": "44"
+          },
+          {
+            "label": "SB",
+            "value": "5"
+          }
+        ],
+        "components": {
+          "On-base": 100,
+          "Power": 100,
+          "Contact": 90.62499999999999,
+          "Discipline": 72.2222222222222,
+          "Speed": 16.666666666666664
+        },
+        "metaLine": "R-JR / L/R",
+        "detailBadges": [
+          "INF",
+          "R-JR",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/troy-sudbrook/10269",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10278",
+        "name": "Cole Meyer",
+        "school": "Toledo",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 59,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "summary": "Cole Meyer profiles as a OF piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .281",
+          "OBP .521",
+          "SLG .406"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".281"
+          },
+          {
+            "label": "OBP",
+            "value": ".521"
+          },
+          {
+            "label": "SLG",
+            "value": ".406"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "8"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 100,
+          "Power": 22.631578947368432,
+          "Contact": 38.125000000000014,
+          "Discipline": 100,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "OF",
+          "GR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/cole-meyer/10278",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10279",
+        "name": "Carson McCaleb",
+        "school": "Toledo",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "JR",
+        "handedness": "S/R",
+        "score": 59,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "summary": "Carson McCaleb profiles as a C piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .349",
+          "OBP .420",
+          "SLG .535"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".349"
+          },
+          {
+            "label": "OBP",
+            "value": ".420"
+          },
+          {
+            "label": "SLG",
+            "value": ".535"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "11"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 77.77777777777776,
+          "Power": 56.57894736842106,
+          "Contact": 80.62499999999999,
+          "Discipline": 33.33333333333333,
+          "Speed": 0
+        },
+        "metaLine": "JR / S/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "S/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/carson-mccaleb/10279",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10280",
+        "name": "Jacob Payne",
+        "school": "Toledo",
+        "role": "Hitter",
+        "position": "C/1B",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 69,
+        "fit": {
+          "label": "Pursue",
+          "className": "fit-pursue"
+        },
+        "summary": "Jacob Payne profiles as a C/1B piece who gets on base at a high clip and brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .349",
+          "OBP .472",
+          "SLG .570"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".349"
+          },
+          {
+            "label": "OBP",
+            "value": ".472"
+          },
+          {
+            "label": "SLG",
+            "value": ".570"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "30"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 100,
+          "Power": 65.78947368421052,
+          "Contact": 80.62499999999999,
+          "Discipline": 38.38383838383837,
+          "Speed": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C/1B",
+          "JR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/jacob-payne/10280",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10271",
+        "name": "JP Wagner",
+        "school": "Toledo",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "JR",
+        "handedness": "L/R",
+        "score": 35,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "JP Wagner profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .174",
+          "OBP .406",
+          "SLG .261"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".174"
+          },
+          {
+            "label": "OBP",
+            "value": ".406"
+          },
+          {
+            "label": "SLG",
+            "value": ".261"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "6"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 70,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 88.88888888888889,
+          "Speed": 0
+        },
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/jp-wagner/10271",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10281",
+        "name": "Hayden Frey",
+        "school": "Toledo",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "L/L",
+        "score": 9,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Hayden Frey looks like a LHP option who limits runs.",
+        "summaryMetrics": [
+          "ERA 2.87",
+          "WHIP 1.30",
+          "K/9 7.2"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "2.87"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.30"
+          },
+          {
+            "label": "K/9",
+            "value": "7.2"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.72"
+          },
+          {
+            "label": "IP",
+            "value": "37.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 28.801287208366855,
+          "Command": 17.5,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/hayden-frey/10281",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10282",
+        "name": "Saborn Campbell",
+        "school": "Toledo",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 37,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Saborn Campbell profiles as a OF piece who controls at-bats.",
+        "summaryMetrics": [
+          "AVG .253",
+          "OBP .385",
+          "SLG .266"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".253"
+          },
+          {
+            "label": "OBP",
+            "value": ".385"
+          },
+          {
+            "label": "SLG",
+            "value": ".266"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "6"
+          },
+          {
+            "label": "SB",
+            "value": "6"
+          }
+        ],
+        "components": {
+          "On-base": 58.33333333333333,
+          "Power": 0,
+          "Contact": 20.625,
+          "Discipline": 88.88888888888889,
+          "Speed": 20
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "OF",
+          "GR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/saborn-campbell/10282",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10283",
+        "name": "Alex McCranie",
+        "school": "Toledo",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 37,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Alex McCranie gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .269",
+          "OBP .375",
+          "SLG .365"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".269"
+          },
+          {
+            "label": "OBP",
+            "value": ".375"
+          },
+          {
+            "label": "SLG",
+            "value": ".365"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "18"
+          },
+          {
+            "label": "SB",
+            "value": "3"
+          }
+        ],
+        "components": {
+          "On-base": 52.77777777777777,
+          "Power": 11.842105263157892,
+          "Contact": 30.625000000000007,
+          "Discipline": 75.81699346405227,
+          "Speed": 10
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/alex-mccranie/10283",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10272",
+        "name": "Luke Walton",
+        "school": "Toledo",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "R-JR",
+        "handedness": "L/L",
+        "score": 25,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Luke Walton gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .236",
+          "OBP .355",
+          "SLG .360"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".236"
+          },
+          {
+            "label": "OBP",
+            "value": ".355"
+          },
+          {
+            "label": "SLG",
+            "value": ".360"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "16"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 41.66666666666664,
+          "Power": 10.526315789473681,
+          "Contact": 9.999999999999991,
+          "Discipline": 53.53535353535352,
+          "Speed": 0
+        },
+        "metaLine": "R-JR / L/L",
+        "detailBadges": [
+          "OF",
+          "R-JR",
+          "L/L",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/luke-walton/10272",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10284",
+        "name": "Liam Arsich",
+        "school": "Toledo",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 28,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Liam Arsich profiles as a OF piece who adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .271",
+          "OBP .349",
+          "SLG .385"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".271"
+          },
+          {
+            "label": "OBP",
+            "value": ".349"
+          },
+          {
+            "label": "SLG",
+            "value": ".385"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "16"
+          },
+          {
+            "label": "SB",
+            "value": "8"
+          }
+        ],
+        "components": {
+          "On-base": 38.33333333333331,
+          "Power": 17.10526315789474,
+          "Contact": 31.875000000000007,
+          "Discipline": 17.77777777777777,
+          "Speed": 26.666666666666668
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/liam-arsich/10284",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10260",
+        "name": "Braden Curry",
+        "school": "Toledo",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 19,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Braden Curry looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 9.16",
+          "WHIP 2.36",
+          "K/9 14.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "9.16"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.36"
+          },
+          {
+            "label": "K/9",
+            "value": "14.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "14.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.45"
+          },
+          {
+            "label": "IP",
+            "value": "18.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 95.12987012987011,
+          "Command": 0.6896551724137945,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/braden-curry/10260",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10259",
+        "name": "Cole Cahill",
+        "school": "Toledo",
+        "role": "Hitter",
+        "position": "1B/OF",
+        "classYear": "JR",
+        "handedness": "L/L",
+        "score": 30,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cole Cahill gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .303",
+          "OBP .338",
+          "SLG .424"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".303"
+          },
+          {
+            "label": "OBP",
+            "value": ".338"
+          },
+          {
+            "label": "SLG",
+            "value": ".424"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "13"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 32.22222222222222,
+          "Power": 27.368421052631575,
+          "Contact": 51.87499999999999,
+          "Discipline": 22.22222222222222,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "1B/OF",
+          "JR",
+          "L/L",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/cole-cahill/10259",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10285",
+        "name": "Deron Swanson",
+        "school": "Toledo",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "GR",
+        "handedness": "L/L",
+        "score": 16,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Deron Swanson looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA 5.67",
+          "WHIP 1.41",
+          "K/9 8.1"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.67"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.41"
+          },
+          {
+            "label": "K/9",
+            "value": "8.1"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.27"
+          },
+          {
+            "label": "IP",
+            "value": "33.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 37.272727272727266,
+          "Command": 55.00000000000001,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / L/L",
+        "detailBadges": [
+          "LHP",
+          "GR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/deron-swanson/10285",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10286",
+        "name": "Michael Fliss",
+        "school": "Toledo",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-FR",
+        "handedness": "N/A",
+        "score": 16,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Michael Fliss looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 7.96",
+          "WHIP 1.96",
+          "K/9 11.1"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "7.96"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.96"
+          },
+          {
+            "label": "K/9",
+            "value": "11.1"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.35"
+          },
+          {
+            "label": "IP",
+            "value": "26.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 64.33566433566433,
+          "Command": 22.666666666666664,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "R-FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/michael-fliss/10286",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10270",
+        "name": "Jacob Tabor",
+        "school": "Toledo",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "JR",
+        "handedness": "R/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jacob Tabor looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/L",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "R/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster"
+        ],
+        "sourceSummary": "Toledo Athletics roster",
+        "schoolSlug": "toledo",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/jacob-tabor/10270",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10287",
+        "name": "Arturo Ormaza",
+        "school": "Toledo",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "R-JR",
+        "handedness": "L/L",
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Arturo Ormaza looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 5.02",
+          "WHIP 1.60",
+          "K/9 9.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.02"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.60"
+          },
+          {
+            "label": "K/9",
+            "value": "9.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.63"
+          },
+          {
+            "label": "IP",
+            "value": "14.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 49.26004228329809,
+          "Command": 13.333333333333336,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-JR / L/L",
+        "detailBadges": [
+          "LHP",
+          "R-JR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/arturo-ormaza/10287",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10288",
+        "name": "Cole Giesige",
+        "school": "Toledo",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SR",
+        "handedness": "L/L",
+        "score": 11,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cole Giesige gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 14.67",
+          "WHIP 2.35",
+          "K/9 8.2"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "14.67"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.35"
+          },
+          {
+            "label": "K/9",
+            "value": "8.2"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.1"
+          },
+          {
+            "label": "HR/9",
+            "value": "4.11"
+          },
+          {
+            "label": "IP",
+            "value": "15.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 38.3399209486166,
+          "Command": 20,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/cole-giesige/10288",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10289",
+        "name": "Luke Riha",
+        "school": "Toledo",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Luke Riha looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA 108.00",
+          "WHIP 9.00",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "108.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "9.00"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/luke-riha/10289",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10264",
+        "name": "Nathan Leininger",
+        "school": "Toledo",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 14,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nathan Leininger looks like a RHP option who limits runs and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 2.23",
+          "WHIP 1.01",
+          "K/9 8.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "2.23"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.01"
+          },
+          {
+            "label": "K/9",
+            "value": "8.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.56"
+          },
+          {
+            "label": "IP",
+            "value": "48.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 44.89028213166144,
+          "Command": 33.33333333333333,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/nathan-leininger/10264",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10265",
+        "name": "Ty O'Brien",
+        "school": "Toledo",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 34,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ty O'Brien profiles as a C piece who brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .286",
+          "OBP .286",
+          "SLG .714"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".286"
+          },
+          {
+            "label": "OBP",
+            "value": ".286"
+          },
+          {
+            "label": "SLG",
+            "value": ".714"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "2"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 3.3333333333333055,
+          "Power": 100,
+          "Contact": 41.24999999999998,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "C",
+          "SO",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/ty-obrien/10265",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10290",
+        "name": "Nate Langbehn",
+        "school": "Toledo",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-FR",
+        "handedness": "R/R",
+        "score": 23,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nate Langbehn looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 3.74",
+          "WHIP 1.25",
+          "K/9 13.7"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.74"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.25"
+          },
+          {
+            "label": "K/9",
+            "value": "13.7"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.42"
+          },
+          {
+            "label": "IP",
+            "value": "21.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 88.25174825174824,
+          "Command": 35,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/nate-langbehn/10290",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10291",
+        "name": "John Hojnowski",
+        "school": "Toledo",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 16,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "John Hojnowski looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 9.77",
+          "WHIP 1.72",
+          "K/9 10.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "9.77"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.72"
+          },
+          {
+            "label": "K/9",
+            "value": "10.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.15"
+          },
+          {
+            "label": "IP",
+            "value": "15.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 62.862669245647986,
+          "Command": 22.222222222222225,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/john-hojnowski/10291",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10263",
+        "name": "Ryan Kennedy",
+        "school": "Toledo",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ryan Kennedy looks like a RHP option who limits runs and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 0.00",
+          "WHIP 1.00",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "0.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.00"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "9.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "1.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/ryan-kennedy/10263",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10292",
+        "name": "Sam Rufenacht",
+        "school": "Toledo",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "L/L",
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Sam Rufenacht looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 10.80",
+          "WHIP 2.70",
+          "K/9 10.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "10.80"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.70"
+          },
+          {
+            "label": "K/9",
+            "value": "10.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "10.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "2.70"
+          },
+          {
+            "label": "IP",
+            "value": "3.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 61.818181818181806,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/sam-rufenacht/10292",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10266",
+        "name": "Brady Sasse",
+        "school": "Toledo",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 16,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brady Sasse looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 2.25",
+          "WHIP 1.13",
+          "K/9 9.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "2.25"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.13"
+          },
+          {
+            "label": "K/9",
+            "value": "9.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "16.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 45.45454545454545,
+          "Command": 44.00000000000001,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/brady-sasse/10266",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10262",
+        "name": "Ryan Hughes",
+        "school": "Toledo",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-JR",
+        "handedness": "R/R",
+        "score": 11,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ryan Hughes looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 13.50",
+          "WHIP 3.38",
+          "K/9 10.1"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "13.50"
+          },
+          {
+            "label": "WHIP",
+            "value": "3.38"
+          },
+          {
+            "label": "K/9",
+            "value": "10.1"
+          },
+          {
+            "label": "BB/9",
+            "value": "10.1"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.84"
+          },
+          {
+            "label": "IP",
+            "value": "10.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 55.68181818181818,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/ryan-hughes/10262",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10261",
+        "name": "Matt Hubbard",
+        "school": "Toledo",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 33,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matt Hubbard looks like a RHP option who misses bats and throws enough strikes.",
+        "summaryMetrics": [
+          "ERA 54.00",
+          "WHIP 5.25",
+          "K/9 13.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "54.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "5.25"
+          },
+          {
+            "label": "K/9",
+            "value": "13.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "1.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 86.36363636363636,
+          "Command": 100,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/matt-hubbard/10261",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10293",
+        "name": "Jackson Hiatt",
+        "school": "Toledo",
+        "role": "Pitcher",
+        "position": "1B/RHP",
+        "classYear": "R-JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jackson Hiatt looks like a 1B/RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-JR / R/R",
+        "detailBadges": [
+          "1B/RHP",
+          "R-JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/jackson-hiatt/10293",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "toledo-10294",
+        "name": "Henry Johnson",
+        "school": "Toledo",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Henry Johnson looks like a LHP option who limits runs and throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 0.00",
+          "WHIP 0.00",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "0.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "0.00"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
+        ],
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "schoolSlug": "toledo",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/henry-johnson/10294",
+        "espnAthleteId": ""
+      }
+    ]
+  }
+};
+window.__TOLEDO_BASEBALL_DATASET__ = window.__BASEBALL_DATASETS__.toledo2026;
