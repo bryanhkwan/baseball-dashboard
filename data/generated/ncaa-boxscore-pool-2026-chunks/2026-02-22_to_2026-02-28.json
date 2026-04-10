@@ -1,0 +1,2896 @@
+{
+  "generatedAt": "2026-04-10T05:25:32.884Z",
+  "season": 2026,
+  "source": "NCAA D1 baseball scoreboards and boxscores",
+  "note": "This compact pool aggregates NCAA boxscores across the requested date range so the backend can serve a broader player universe without depending on leaderboard-only coverage.",
+  "coverage": {
+    "startDate": "2026-02-22",
+    "endDate": "2026-02-28",
+    "daysRequested": 7,
+    "scoreboardDaysLoaded": 7,
+    "scoreboardFailures": [],
+    "uniqueGamesDiscovered": 574,
+    "boxscoresLoaded": 0,
+    "boxscoreFailures": [
+      {
+        "gameId": "6540352",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540400",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540448",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540562",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540617",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540668",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540779",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540829",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540884",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540974",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541029",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541035",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541052",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541183",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541214",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541236",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541241",
+        "date": "2026-02-22",
+        "message": "Request failed for https://ncaa-api.henrygd.me/game/6541241/boxscore: 502"
+      },
+      {
+        "gameId": "6541353",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541407",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541434",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541435",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541508",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541577",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541595",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541663",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541673",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541724",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541805",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541938",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542010",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542107",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542215",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542218",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542296",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542345",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542497",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542591",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542632",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542679",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542753",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542896",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543081",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543175",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543280",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543398",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543553",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543723",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543813",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543960",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544102",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544188",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544208",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544426",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544857",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545206",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545283",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545297",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545531",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545598",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545730",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545841",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545926",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545995",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546142",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546545",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546709",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546784",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546926",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547064",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547353",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547561",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547591",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547858",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548199",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548272",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548436",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548739",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548806",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548902",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548970",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549184",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549292",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549305",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549563",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549662",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549736",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549867",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550032",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550046",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550127",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550148",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550195",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550328",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550345",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550692",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550753",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550856",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551000",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551020",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551115",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551121",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551253",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551306",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551338",
+        "date": "2026-02-22",
+        "message": "Request failed for https://ncaa-api.henrygd.me/game/6551338/boxscore: 502"
+      },
+      {
+        "gameId": "6551410",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551697",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551911",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551950",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552115",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552254",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552307",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552665",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6584983",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6585693",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6586630",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6587536",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6587549",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6588456",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6588595",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6590081",
+        "date": "2026-02-22",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541509",
+        "date": "2026-02-23",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543962",
+        "date": "2026-02-23",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545299",
+        "date": "2026-02-23",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550533",
+        "date": "2026-02-23",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6588596",
+        "date": "2026-02-23",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540353",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540618",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540669",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540728",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540975",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541244",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541354",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541409",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541510",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541664",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541726",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541806",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542011",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542116",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542159",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542423",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542556",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542592",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542680",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542754",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542898",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543179",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543282",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543474",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543555",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543815",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544103",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544190",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544941",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545040",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545112",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545843",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546214",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546664",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546713",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546822",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547355",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547709",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548201",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548280",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548610",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548807",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548904",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549128",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549129",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549186",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549309",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549311",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550048",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550277",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550330",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550347",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551895",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552117",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552222",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552416",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6584908",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6585342",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6587495",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6587603",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6587640",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6588457",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6588565",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6589502",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6589933",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6590114",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6591699",
+        "date": "2026-02-24",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540354",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540459",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540508",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540670",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540885",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540976",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541186",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541665",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542297",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542389",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542413",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542426",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542557",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542593",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542681",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542855",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542982",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543177",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543337",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544683",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544943",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545042",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545114",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545666",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546001",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546547",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546786",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548746",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550658",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551219",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551897",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552072",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552456",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552550",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6584909",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6585646",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6585798",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6587496",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6588346",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6588566",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6591373",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6592091",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6592446",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6592603",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6592604",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6592611",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6592622",
+        "date": "2026-02-25",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541436",
+        "date": "2026-02-26",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542755",
+        "date": "2026-02-26",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543725",
+        "date": "2026-02-26",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545301",
+        "date": "2026-02-26",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546717",
+        "date": "2026-02-26",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547174",
+        "date": "2026-02-26",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548126",
+        "date": "2026-02-26",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552404",
+        "date": "2026-02-26",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540401",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540460",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540509",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540563",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540619",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540671",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540780",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540831",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540886",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540933",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540977",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541036",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541055",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541187",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541250",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541410",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541437",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541511",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541578",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541598",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541666",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541674",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541728",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541856",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541868",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541869",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541939",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542012",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542023",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542025",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542109",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542117",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542161",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542219",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542346",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542390",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542427",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542498",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542558",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542594",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542633",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542682",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542756",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542818",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542900",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542984",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543083",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543339",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543556",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543596",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543727",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543817",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543994",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544051",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544192",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544428",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544451",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544685",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544788",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544861",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544945",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545026",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545044",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545116",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545304",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545322",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545458",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545667",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545742",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545845",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545927",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546003",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546144",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546216",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546305",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546387",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546474",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546508",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546553",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546722",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546788",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546929",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546976",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547054",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547068",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547177",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547309",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547448",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547563",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547717",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547988",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548128",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548518",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548574",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548906",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548989",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549022",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549131",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549188",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549235",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549288",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549315",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549476",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549666",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549784",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549853",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549875",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550035",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550154",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550280",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550400",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550757",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550790",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551123",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551221",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551308",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551414",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551596",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551727",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551756",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551784",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551808",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551913",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551919",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551957",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552074",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552183",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552406",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552420",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552516",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552747",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552821",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6584903",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6585694",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6585930",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6587583",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6588109",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6588458",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6588567",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6589149",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6589495",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6589964",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6590046",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6592814",
+        "date": "2026-02-27",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540402",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540461",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540510",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540564",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540565",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540620",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540672",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540781",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540832",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540934",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6540978",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541037",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541060",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541188",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541215",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541216",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541252",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541355",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541356",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541411",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541438",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541439",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541512",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541513",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541579",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541580",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541601",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541667",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541675",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541729",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541858",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6541940",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542014",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542027",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542110",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542118",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542162",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542220",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542347",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542391",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542429",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542499",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542559",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542595",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542634",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542635",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542683",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542712",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542713",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542757",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542820",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542902",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6542986",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543085",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543341",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543558",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543598",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543729",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543819",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543996",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6543998",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544053",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544055",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544194",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544430",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544455",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544459",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544597",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544687",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544727",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544790",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544859",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6544947",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545028",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545046",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545118",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545208",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545306",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545326",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545460",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545533",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545669",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545681",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545743",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545847",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6545929",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546005",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546146",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546148",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546218",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546307",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546388",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546390",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546476",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546510",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546555",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546726",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546790",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6546931",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547070",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547072",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547178",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547219",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547221",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547311",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547313",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547458",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547565",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547719",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547860",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547862",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6547990",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548221",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548282",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548286",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548520",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548522",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548576",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548578",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548616",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548908",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548910",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6548991",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549028",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549133",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549190",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549237",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549294",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549319",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549478",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549565",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549668",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549788",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549863",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6549880",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550039",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550158",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550278",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550402",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550759",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550796",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6550925",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551022",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551127",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551312",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551342",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551418",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551488",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551729",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551810",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551915",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6551961",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552076",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552133",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552422",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552518",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552520",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552587",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6552589",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6584254",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6585695",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6585839",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6585843",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6585931",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6587365",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6588108",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6588277",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6588278",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6588460",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6588568",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6589965",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6589966",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6590047",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6592880",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6592881",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6592894",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6592926",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6592927",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6592948",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6592960",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6593000",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6593027",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      },
+      {
+        "gameId": "6593029",
+        "date": "2026-02-28",
+        "message": "aliasKeyMap is not defined"
+      }
+    ],
+    "schoolsCovered": 0,
+    "playersCovered": 0,
+    "roleCounts": {
+      "Hitter": 0,
+      "Pitcher": 0
+    }
+  },
+  "schools": {},
+  "hitters": [],
+  "pitchers": []
+}

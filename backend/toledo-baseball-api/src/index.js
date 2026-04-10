@@ -2495,6 +2495,7 @@ export default {
           nextEndpoints: [
             "/api/players",
             "/api/players/:id",
+            "/api/players/coverage",
             "/api/schools?query=",
             "/api/schools/:slug/live-summary",
             "/api/schools/:slug/recent-form",
@@ -2525,6 +2526,17 @@ export default {
       if (url.pathname === "/api/players/national-board") {
         const payload = await getNationalPlayerBoard(env);
         return json(payload);
+      }
+
+      if (url.pathname === "/api/players/coverage") {
+        const universe = await getStoredPlayerUniverse(env);
+        return json({
+          source: universe.source,
+          generatedAt: universe.generatedAt,
+          boardCoverage: universe.boardCoverage,
+          note: universe.note,
+          data: universe.schoolCoverage,
+        });
       }
 
       if (url.pathname === "/api/players") {

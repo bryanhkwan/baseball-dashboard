@@ -120,6 +120,27 @@
     .tablePager{display:flex;gap:8px;align-items:center}
     .playersTableShell{border-radius:18px;background:rgba(5,11,20,.34);border:1px solid rgba(255,255,255,.06);box-shadow:inset 0 1px 0 rgba(255,255,255,.03)}
     .playersBoardFootnote{margin-top:0;padding:14px 16px;border-radius:14px;background:rgba(255,255,255,.025);border:1px solid rgba(255,255,255,.05);opacity:.9}
+    .playerCoveragePanel{display:grid;gap:14px;padding:16px 18px;border-radius:18px;background:rgba(255,255,255,.025);border:1px solid rgba(255,255,255,.06);box-shadow:inset 0 1px 0 rgba(255,255,255,.02)}
+    .playerCoverageHeader{display:flex;justify-content:space-between;gap:12px;align-items:flex-start}
+    .playerCoverageKpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:10px}
+    .coverageKpi{display:grid;gap:4px;padding:12px 14px;border-radius:14px;border:1px solid rgba(255,255,255,.05);background:rgba(255,255,255,.03)}
+    .coverageKpiLabel{font-size:10px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+    .coverageKpiValue{font-size:22px;font-weight:800;color:#f7fbff;letter-spacing:-.02em}
+    .coverageKpiMeta{font-size:11px;line-height:1.5;color:var(--muted)}
+    .playerCoverageMeta{font-size:11px;line-height:1.6;color:var(--muted)}
+    .playerCoverageList{display:grid;gap:10px;max-height:360px;overflow:auto;padding-right:4px}
+    .coverageSchoolRow{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(0,1fr) auto;gap:14px;align-items:start;padding:12px 14px;border-radius:14px;border:1px solid rgba(255,255,255,.05);background:rgba(5,11,20,.28)}
+    .coverageSchoolMain{display:grid;gap:4px;min-width:0}
+    .coverageSchoolTitle{font-size:13px;font-weight:800;color:#f7fbff}
+    .coverageSchoolMeta{font-size:11px;line-height:1.55;color:var(--muted)}
+    .coverageSchoolStats{display:flex;flex-wrap:wrap;gap:8px;align-content:flex-start}
+    .coverageSchoolStats span{display:inline-flex;align-items:center;padding:6px 9px;border-radius:999px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.05);font-size:10.5px;color:#dce6f4}
+    .coverageSchoolSources{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:6px}
+    .coverageStatusChip,.coverageSourceChip{display:inline-flex;align-items:center;justify-content:center;min-height:26px;padding:0 10px;border-radius:999px;font-size:10px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;border:1px solid rgba(255,255,255,.08)}
+    .coverageSourceChip{color:#dce6f4;background:rgba(255,255,255,.05)}
+    .coverageStatusChip.is-full-roster{color:#7ff0bb;background:rgba(52,211,153,.14);border-color:rgba(52,211,153,.28)}
+    .coverageStatusChip.is-boxscore-only{color:#fde68a;background:rgba(250,204,21,.14);border-color:rgba(250,204,21,.26)}
+    .coverageStatusChip.is-leaderboard-only{color:#dce6f4;background:rgba(96,165,250,.12);border-color:rgba(96,165,250,.22)}
     table{width:100%;border-collapse:separate;border-spacing:0;overflow:hidden;border-radius:var(--r);border:1px solid rgba(255,255,255,.08);background:rgba(5,11,20,.22);box-shadow:inset 0 1px 0 rgba(255,255,255,.02)}
     th,td{padding:10px 10px;border-bottom:1px solid var(--line2);font-size:11.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
     td{color:#dce6f4}
@@ -238,6 +259,10 @@
     .schoolRowMain,.gameListMain{display:grid;gap:4px}
     .schoolRowTitle,.gameListTitle,.gameDetailTitle{font-size:13px;font-weight:800;color:#f7fbff}
     .schoolRowSlug,.gameListMeta,.teamRecord,.linescoreLabel,.detailListMeta{font-size:11px;line-height:1.5;color:var(--muted)}
+    @media (max-width: 980px){
+      .coverageSchoolRow{grid-template-columns:1fr}
+      .coverageSchoolSources{justify-content:flex-start}
+    }
     .schoolSummaryHeader{display:flex;justify-content:space-between;gap:12px;align-items:flex-start}
     .schoolSummaryTitle{font-size:22px;font-weight:800;letter-spacing:-.03em;color:#f7fbff}
     .schoolSummarySub{margin-top:6px;font-size:12px;line-height:1.65;color:var(--muted)}

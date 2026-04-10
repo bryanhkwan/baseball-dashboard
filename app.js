@@ -266,6 +266,9 @@ const state = {
     syncing: false,
     error: "",
     payload: null,
+    coverage: null,
+    coverageLoading: false,
+    coverageError: "",
     selectedPlayer: null,
     selectedPlayerLoading: false,
     selectedPlayerError: "",
@@ -301,6 +304,8 @@ const playersPanelSubEl = document.querySelector("#players-panel-sub");
 const playersFootnoteEl = document.querySelector("#players-footnote");
 const playerSearchEl = document.querySelector("#player-search");
 const playerResultsMetaEl = document.querySelector("#player-results-meta");
+const playerCoverageSummaryEl = document.querySelector("#player-coverage-summary");
+const playerCoverageGridEl = document.querySelector("#player-coverage-grid");
 const playerPagePrevEl = document.querySelector("#player-page-prev");
 const playerPageNextEl = document.querySelector("#player-page-next");
 const targetGridEl = document.querySelector("#target-grid");
@@ -329,6 +334,7 @@ const LIVE_API_UNAVAILABLE_MESSAGE =
   "Live baseball API is not configured for this hosted build. The static player board still works, but live Overview and Games data stay off until you add a backend URL.";
 const pageDataState = {
   playerBoardLoaded: false,
+  playerCoverageLoaded: false,
   overviewLoaded: false,
   schoolSearchLoaded: false,
   selectedSchoolLoaded: false,
@@ -338,6 +344,7 @@ let schoolSearchTimer = 0;
 let playerSearchTimer = 0;
 let selectedSchoolRequestId = 0;
 let playerBoardRequestId = 0;
+let playerCoverageRequestId = 0;
 let playerDetailRequestId = 0;
 
 function showDashboardPage(targetId) {
@@ -415,6 +422,10 @@ function ensurePageDataLoaded(targetId) {
     if (!pageDataState.playerBoardLoaded) {
       pageDataState.playerBoardLoaded = true;
       loadPlayerBoard();
+    }
+    if (!pageDataState.playerCoverageLoaded) {
+      pageDataState.playerCoverageLoaded = true;
+      loadPlayerCoverage();
     }
     return;
   }
@@ -1146,6 +1157,92 @@ function getPlayerBoardMode() {
   };
 }
 
+function formatCoverageNumber(value) {
+  return Number(value || 0).toLocaleString("en-US");
+}
+
+function renderPlayerCoverage() {
+  if (!playerCoverageSummaryEl || !playerCoverageGridEl) {
+    return;
+  }
+
+  const payload = state.playerBoard.coverage;
+
+  if (state.playerBoard.coverageLoading && !payload) {
+    playerCoverageSummaryEl.innerHTML = '<div class="statusNote">Loading school coverage snapshot...</div>';
+    playerCoverageGridEl.innerHTML = "";
+    return;
+  }
+
+  if (state.playerBoard.coverageError) {
+    playerCoverageSummaryEl.innerHTML = `<div class="statusNote error">${escapeHtml(state.playerBoard.coverageError)}</div>`;
+    playerCoverageGridEl.innerHTML = "";
+    return;
+  }
+
+  if (!payload) {
+    playerCoverageSummaryEl.innerHTML = '<div class="statusNote">Coverage snapshot has not loaded yet.</div>';
+    playerCoverageGridEl.innerHTML = "";
+    return;
+  }
+
+  const summary = payload.summary || {};
+  playerCoverageSummaryEl.innerHTML = `
+    <div class="playerCoverageKpis">
+      <article class="coverageKpi">
+        <span class="coverageKpiLabel">Full roster schools</span>
+        <strong class="coverageKpiValue">${formatCoverageNumber(summary.fullRosterSchools)}</strong>
+        <span class="coverageKpiMeta">Schools with school-site roster coverage.</span>
+      </article>
+      <article class="coverageKpi">
+        <span class="coverageKpiLabel">Boxscore only</span>
+        <strong class="coverageKpiValue">${formatCoverageNumber(summary.boxscoreOnlySchools)}</strong>
+        <span class="coverageKpiMeta">Schools only visible through tracked NCAA boxscores.</span>
+      </article>
+      <article class="coverageKpi">
+        <span class="coverageKpiLabel">Leaderboard only</span>
+        <strong class="coverageKpiValue">${formatCoverageNumber(summary.leaderboardOnlySchools)}</strong>
+        <span class="coverageKpiMeta">Schools that only surface through NCAA leaderboard rows.</span>
+      </article>
+      <article class="coverageKpi">
+        <span class="coverageKpiLabel">Covered schools</span>
+        <strong class="coverageKpiValue">${formatCoverageNumber(summary.totalCoveredSchools)}</strong>
+        <span class="coverageKpiMeta">Unified school footprint across every current source.</span>
+      </article>
+    </div>
+    <div class="playerCoverageMeta">${escapeHtml(payload.boardCoverage || state.playerBoard.payload?.boardCoverage || "")}</div>
+  `;
+
+  const schools = payload.schools || [];
+  playerCoverageGridEl.innerHTML = schools.length
+    ? schools
+        .map(
+          (school) => `
+            <article class="coverageSchoolRow">
+              <div class="coverageSchoolMain">
+                <div class="coverageSchoolTitle">${escapeHtml(school.name)}</div>
+                <div class="coverageSchoolMeta">${escapeHtml(school.longName || school.name)}</div>
+                <div class="coverageSchoolMeta">${escapeHtml(school.sourceNote || school.sourceSummary || "")}</div>
+              </div>
+              <div class="coverageSchoolStats">
+                <span>${formatCoverageNumber(school.universePlayers)} merged players</span>
+                <span>${formatCoverageNumber(school.playerCounts?.fullRoster)} roster</span>
+                <span>${formatCoverageNumber(school.playerCounts?.boxscore)} boxscore</span>
+                <span>${formatCoverageNumber(school.playerCounts?.leaderboard)} leaderboard</span>
+              </div>
+              <div class="coverageSchoolSources">
+                <span class="coverageStatusChip is-${escapeHtml(school.status)}">${escapeHtml(school.statusLabel)}</span>
+                ${(school.sources || [])
+                  .map((source) => `<span class="coverageSourceChip">${escapeHtml(source)}</span>`)
+                  .join("")}
+              </div>
+            </article>
+          `,
+        )
+        .join("")
+    : '<div class="statusNote">No school coverage snapshot is available yet.</div>';
+}
+
 function renderPlayerBoardMeta() {
   const payload = getActivePlayerBoard();
   const mode = getPlayerBoardMode();
@@ -1189,6 +1286,7 @@ function renderPlayerBoardMeta() {
 
 function renderPlayers() {
   renderPlayerBoardMeta();
+  renderPlayerCoverage();
   const mode = getPlayerBoardMode();
 
   if (state.playerBoard.loading && !state.playerBoard.payload) {
@@ -2392,6 +2490,40 @@ async function loadPlayerBoard(options = {}) {
     if (options.renderInterim !== false) {
       renderPlayers();
     }
+  }
+}
+
+async function loadPlayerCoverage() {
+  const requestId = ++playerCoverageRequestId;
+  state.playerBoard.coverageLoading = true;
+  state.playerBoard.coverageError = "";
+  renderPlayerCoverage();
+
+  try {
+    const payload = await fetchDashboardJson("/api/players/coverage", {
+      apiBases: getPlayerApiBaseCandidates(),
+    });
+
+    if (requestId !== playerCoverageRequestId) {
+      return;
+    }
+
+    state.playerBoard.coverage = payload.data || null;
+    state.playerBoard.coverageError = "";
+  } catch (error) {
+    if (requestId !== playerCoverageRequestId) {
+      return;
+    }
+
+    state.playerBoard.coverage = null;
+    state.playerBoard.coverageError = error instanceof Error ? error.message : String(error);
+  } finally {
+    if (requestId !== playerCoverageRequestId) {
+      return;
+    }
+
+    state.playerBoard.coverageLoading = false;
+    renderPlayerCoverage();
   }
 }
 

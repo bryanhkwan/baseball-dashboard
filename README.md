@@ -181,9 +181,85 @@ That universe merges:
 
 - Toledo's real school-site season roster
 - the broader free generated transfer-target pool
+- the expanded school-site roster-only pool
+- the season NCAA boxscore pool snapshot
 - the backend national player board when the NCAA wrapper is reachable
 
 This keeps the baseball UX closer to the basketball dashboard: one main player list on the left, one full profile on the right, and no source sub-tabs inside the player workflow.
+
+## NCAA boxscore expansion
+
+There is now a second expansion path for player coverage that does not depend on hand-curating athletics-site manifests for every school.
+
+Script:
+
+- `scripts/generate-ncaa-boxscore-pool.mjs`
+
+Current generated file:
+
+- `data/generated/ncaa-boxscore-pool-2026.json`
+
+What it does:
+
+- walks a date range of D1 baseball scoreboards
+- fetches every reachable boxscore in that window
+- aggregates compact hitter and pitcher season coverage
+- feeds that pool into the backend player-universe builder at runtime
+
+Current local validation with the compactified season snapshot:
+
+- `14788` total players without the national board
+- `14869` total players with the national board enabled
+- `351` schools covered inside the NCAA boxscore pool snapshot itself
+- `14702` compacted NCAA boxscore pool players
+- board coverage string: `35 Toledo season • 263 transfer pool • 14702 NCAA boxscore pool • 838 national API`
+
+Run it with:
+
+1. `node scripts/generate-ncaa-boxscore-pool.mjs --start-date 2026-02-01 --end-date 2026-04-09 --output data/generated/ncaa-boxscore-pool-2026.json`
+2. `node scripts/validate-player-universe.mjs`
+3. `node scripts/validate-player-universe.mjs --include-national`
+
+For resumable date-chunk backfill instead of one long season walk, use:
+
+1. `node scripts/backfill-ncaa-boxscore-pool.mjs --start-date 2026-02-01 --end-date 2026-04-09 --chunk-days 7 --output data/generated/ncaa-boxscore-pool-2026.json`
+
+That writes chunk files under `data/generated/ncaa-boxscore-pool-2026-chunks/` and reuses completed windows on reruns unless you pass `--force`.
+
+If you already have an older raw `players` snapshot on disk and want to migrate it to the compact `schools / hitters / pitchers` schema without rerunning the network walk, use:
+
+1. `node scripts/compactify-ncaa-boxscore-pool.mjs --input data/generated/ncaa-boxscore-pool-2026.json --output data/generated/ncaa-boxscore-pool-2026.json`
+
+## School-site roster pool
+
+There is now a second school-site ingest path that only needs the roster page, so players can be covered before they appear in a reachable NCAA boxscore.
+
+Script:
+
+- `scripts/generate-sidearm-roster-pool.mjs`
+
+Current generated file:
+
+- `data/generated/sidearm-roster-pool-baseball-2026.json`
+
+What it does:
+
+- reads the expanded baseball manifest
+- fetches each ready public roster page
+- emits a compact roster-only pool for backend merge-time inflation
+- gives the coverage dashboard a clear full-roster school list even when season stats pages are absent
+
+Run it with:
+
+1. `node scripts/generate-sidearm-roster-pool.mjs --manifest data/school-manifest.baseball.expanded.json --team all --output data/generated/sidearm-roster-pool-baseball-2026.json`
+
+The Players page now also includes a coverage dashboard that classifies schools as `full-roster`, `boxscore-only`, or `leaderboard-only`.
+
+Important limitation:
+
+- this is much broader than the old leaderboard-only path, but it still is not literally every rostered player in Division I because the public NCAA wrapper does not expose a clean all-rosters feed for every school
+- the boxscore pool covers players who appeared in reachable NCAA boxscores during the ingest window
+- players who have not appeared in a tracked boxscore yet can still be missing unless that school is also covered by a full school-site ingest
 
 ## Manifest expansion
 
@@ -217,6 +293,10 @@ The dataset generator now accepts a manifest override and only ingests entries t
 - `backend/toledo-baseball-api/wrangler.jsonc`: Worker config
 - `backend/toledo-baseball-api/README.md`: backend notes
 - `scripts/generate-baseball-dataset.mjs`: Toledo-first free roster and stats ingest
+- `scripts/generate-sidearm-roster-pool.mjs`: compact school-site roster-only ingest
+- `scripts/generate-ncaa-boxscore-pool.mjs`: season NCAA boxscore coverage expansion
+- `scripts/backfill-ncaa-boxscore-pool.mjs`: resumable chunked NCAA boxscore backfill orchestrator
+- `scripts/validate-player-universe.mjs`: local merged-universe validation harness
 - `scripts/expand-baseball-manifest.mjs`: NCAA-backed manifest discovery and expansion
 - `data/school-manifest.baseball.json`: ready-school ingest manifest
 - `data/school-manifest.baseball.expanded.json`: generated expanded baseball school manifest
@@ -224,3 +304,5 @@ The dataset generator now accepts a manifest override and only ingests entries t
 - `data/generated/toledo-baseball-2026.js`: browser-loadable Toledo dataset bundle for the Players UI
 - `data/generated/sidearm-pool-baseball-2026.json`: combined multi-school generated player pool
 - `data/generated/sidearm-pool-baseball-2026.js`: browser-loadable generated pool bundle for the Players UI
+- `data/generated/sidearm-roster-pool-baseball-2026.json`: compact school-site roster-only pool used by backend coverage merge
+- `data/generated/ncaa-boxscore-pool-2026.json`: compact season boxscore coverage snapshot used by the backend player universe
