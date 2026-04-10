@@ -10,6 +10,7 @@ const DEFAULT_SEASON = 2026;
 const DEFAULT_CONCURRENCY = 1;
 const DEFAULT_RETRIES = 3;
 const DEFAULT_RETRY_DELAY_MS = 750;
+const DEFAULT_FETCH_TIMEOUT_MS = 15000;
 
 function parseArgs(argv) {
   const today = new Date();
@@ -20,6 +21,7 @@ function parseArgs(argv) {
     concurrency: DEFAULT_CONCURRENCY,
     retries: DEFAULT_RETRIES,
     retryDelayMs: DEFAULT_RETRY_DELAY_MS,
+    fetchTimeoutMs: DEFAULT_FETCH_TIMEOUT_MS,
     output: path.join(REPO_ROOT, "data", "generated", `ncaa-boxscore-pool-${DEFAULT_SEASON}.json`),
   };
 
@@ -81,6 +83,15 @@ function parseArgs(argv) {
       const parsed = Number.parseInt(argv[index + 1] || "", 10);
       if (!Number.isNaN(parsed) && parsed >= 0) {
         options.retryDelayMs = parsed;
+      }
+      index += 1;
+      continue;
+    }
+
+    if (token === "--fetch-timeout-ms") {
+      const parsed = Number.parseInt(argv[index + 1] || "", 10);
+      if (!Number.isNaN(parsed) && parsed > 0) {
+        options.fetchTimeoutMs = parsed;
       }
       index += 1;
     }
@@ -244,9 +255,13 @@ function sleep(ms) {
 async function fetchJson(url, options = {}) {
   const retries = Number.isFinite(options.retries) ? options.retries : DEFAULT_RETRIES;
   const retryDelayMs = Number.isFinite(options.retryDelayMs) ? options.retryDelayMs : DEFAULT_RETRY_DELAY_MS;
+  const fetchTimeoutMs = Number.isFinite(options.fetchTimeoutMs) ? options.fetchTimeoutMs : DEFAULT_FETCH_TIMEOUT_MS;
   let lastError = null;
 
   for (let attempt = 0; attempt <= retries; attempt += 1) {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), fetchTimeoutMs);
+
     try {
       const response = await fetch(url, {
         headers: {
@@ -254,7 +269,9 @@ async function fetchJson(url, options = {}) {
           accept: "application/json,text/plain,*/*",
           "accept-encoding": "identity",
         },
+        signal: controller.signal,
       });
+      clearTimeout(timeoutId);
 
       if (!response.ok) {
         const error = new Error(`Request failed for ${url}: ${response.status}`);
@@ -264,10 +281,13 @@ async function fetchJson(url, options = {}) {
 
       return response.json();
     } catch (error) {
+      clearTimeout(timeoutId);
       lastError = error;
       const status = error?.status;
       const message = error instanceof Error ? error.message : String(error);
       const retryable =
+        error?.name === "AbortError" ||
+        message.includes("aborted") ||
         message.includes("fetch failed") ||
         status === 428 ||
         status === 429 ||
@@ -732,6 +752,8 @@ async function main() {
   const games = [...gameMap.values()].sort((left, right) => `${left.date}:${left.gameId}`.localeCompare(`${right.date}:${right.gameId}`));
   const boxscoreFailures = [];
   const playerMap = new Map();
+  const aliasKeyMap = new Map();
+  let boxscoresProcessed = 0;
   await forEachWithConcurrency(games, Math.min(options.concurrency, 4), async (game) => {
     try {
       const payload = await fetchJson(`${NCAA_API_BASE}/game/${game.gameId}/boxscore`, options);
@@ -776,6 +798,11 @@ async function main() {
       }
     } catch (error) {
       boxscoreFailures.push({ gameId: game.gameId, date: game.date, message: error instanceof Error ? error.message : String(error) });
+    } finally {
+      boxscoresProcessed += 1;
+      if (boxscoresProcessed % 50 === 0 || boxscoresProcessed === games.length) {
+        console.log(`Processed ${boxscoresProcessed}/${games.length} boxscores for ${options.startDate} -> ${options.endDate}`);
+      }
     }
   });
 

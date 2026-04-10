@@ -177,6 +177,24 @@ async function readJson(filePath) {
   return JSON.parse(raw);
 }
 
+function validateChunkPayload(payload = {}, chunk = {}) {
+  const hittersLength = Array.isArray(payload.hitters) ? payload.hitters.length : 0;
+  const pitchersLength = Array.isArray(payload.pitchers) ? payload.pitchers.length : 0;
+  const uniqueGamesDiscovered = Number(payload.coverage?.uniqueGamesDiscovered || 0);
+  const boxscoresLoaded = Number(payload.coverage?.boxscoresLoaded || 0);
+  const failures = Array.isArray(payload.coverage?.boxscoreFailures) ? payload.coverage.boxscoreFailures.length : 0;
+
+  if (!Array.isArray(payload.hitters) || !Array.isArray(payload.pitchers)) {
+    throw new Error(`Chunk ${chunk.startDate || "?"} -> ${chunk.endDate || "?"} is not in compact hitters/pitchers format.`);
+  }
+
+  if (uniqueGamesDiscovered > 0 && boxscoresLoaded === 0 && hittersLength + pitchersLength === 0 && failures > 0) {
+    throw new Error(
+      `Chunk ${chunk.startDate || "?"} -> ${chunk.endDate || "?"} discovered ${uniqueGamesDiscovered} games but produced no players; refusing to merge a likely invalid chunk.`,
+    );
+  }
+}
+
 function roundTo(value, decimals = 3) {
   if (!Number.isFinite(value)) {
     return 0;
@@ -485,15 +503,32 @@ async function main() {
   for (const chunk of chunks) {
     const chunkFileName = `${chunk.startDate}_to_${chunk.endDate}.json`;
     const chunkPath = path.join(options.chunkDir, chunkFileName);
+    const shouldGenerateChunk = !options.skipExisting || !(await fileExists(chunkPath));
 
-    if (!options.skipExisting || !(await fileExists(chunkPath))) {
+    if (shouldGenerateChunk) {
       console.log(`Generating chunk ${chunk.startDate} -> ${chunk.endDate}`);
       await runChunk(chunk, chunkPath, options);
     } else {
       console.log(`Reusing existing chunk ${chunk.startDate} -> ${chunk.endDate}`);
     }
 
-    const payload = await readJson(chunkPath);
+    let payload = await readJson(chunkPath);
+
+    try {
+      validateChunkPayload(payload, chunk);
+    } catch (error) {
+      if (shouldGenerateChunk) {
+        throw error;
+      }
+
+      console.warn(
+        `Existing chunk ${chunk.startDate} -> ${chunk.endDate} failed validation (${error instanceof Error ? error.message : String(error)}). Regenerating.`,
+      );
+      await runChunk(chunk, chunkPath, options);
+      payload = await readJson(chunkPath);
+      validateChunkPayload(payload, chunk);
+    }
+
     payloads.push(payload);
     chunkSummaries.push({
       startDate: payload.coverage?.startDate || chunk.startDate,
