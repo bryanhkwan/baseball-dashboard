@@ -10,7 +10,7 @@ This repo is now set up as the first Toledo-first baseball dashboard scaffold.
 - a backend scaffold now exists under `backend/toledo-baseball-api`
 - the overview now wires into live NCAA-backed Toledo identity, recent or upcoming game data, and a verified Toledo boxscore player list
 - a real-data explorer now lets you search live schools, inspect recent and upcoming games, browse a live scoreboard sample, and open real game detail payloads
-- the Players page now uses a national NCAA leaderboard-backed player database instead of a single-school boxscore board
+- the Players page now uses a unified static-first player board built from the generated Toledo and transfer-pool datasets
 
 ## Baseball basics
 
@@ -86,22 +86,26 @@ The safest low-priority setup for this project is:
 
 That means the hosted site can still show the unified player board from the committed generated datasets without spending Cloudflare Worker requests on every page load.
 
-Live Overview, Games, school search, scoreboard, and NCAA national leader enrichment only turn on after you explicitly configure a backend API URL.
+Live Overview, Games, school search, and scoreboard only turn on after you explicitly configure a backend API URL.
+
+The current deployed baseball Worker URL is:
+
+- `https://toledo-baseball-api.bryanhkwan.workers.dev`
 
 ## Local live data
 
 The frontend now tries to call the local Worker at `http://127.0.0.1:8787` when you open the static app locally.
 
-To power the live Toledo cards and the national player board, run:
+To power the live Toledo cards and Games views, run:
 
 1. `cd backend/toledo-baseball-api`
 2. `npx wrangler dev`
 
 Notes:
 
-- the first national `Players` load is heavier because the worker aggregates multiple NCAA national leaderboard pages
-- after that first build, the worker keeps the national board in memory for faster local reloads
-- the national player board currently covers NCAA leaderboard-tracked Division I players and qualifiers, not every rostered player in the country
+- the hosted `Players` board stays static-first even when the backend is enabled
+- the backend is meant for live Overview and Games data
+- the older NCAA national leaderboard route still exists in the Worker, but it is no longer part of the normal player-page load path
 
 If the worker is not running, the dashboard falls back to the static shell.
 
@@ -111,7 +115,8 @@ When this repo is hosted on GitHub Pages, the frontend now defaults to a static-
 
 - `Players` opens first
 - the unified player board uses the committed generated datasets
-- no live baseball API calls are made unless you explicitly configure a backend URL
+- live backend calls are used for `Overview` and `Games`
+- `Players` stays static-first so refreshes do not hit the heavy national-player route
 
 To turn the live backend on later, set `window.BASEBALL_API_BASE` or `data-api-base` in the HTML to your deployed Worker URL.
 
@@ -176,7 +181,6 @@ That board merges:
 
 - Toledo's real school-site season roster
 - the broader free generated transfer-target pool
-- the worker-backed NCAA national leader board when available
 
 This keeps the baseball UX closer to the basketball dashboard: one main player list on the left, one full profile on the right, and no source sub-tabs inside the player workflow.
 

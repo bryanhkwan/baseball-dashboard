@@ -377,12 +377,12 @@ function isLikelyLocalHostname(hostname) {
 }
 
 function resolveApiBase() {
+  if (window.location.protocol === "file:" || isLikelyLocalHostname(window.location.hostname)) {
+    return "http://127.0.0.1:8787";
+  }
   const explicit = window.BASEBALL_API_BASE || document.documentElement.dataset.apiBase;
   if (typeof explicit === "string" && explicit.trim()) {
     return explicit.replace(/\/$/, "");
-  }
-  if (window.location.protocol === "file:" || isLikelyLocalHostname(window.location.hostname)) {
-    return "http://127.0.0.1:8787";
   }
   return "";
 }
@@ -762,9 +762,6 @@ function summarizeUnifiedSources(boardCounts = {}, nationalError = "") {
   if (boardCounts.transferTargetsPool) {
     parts.push(`${boardCounts.transferTargetsPool} transfer pool`);
   }
-  if (boardCounts.nationalLeaders) {
-    parts.push(`${boardCounts.nationalLeaders} national leaders`);
-  }
   if (!parts.length) {
     return nationalError ? `Sources unavailable: ${nationalError}` : "Sources unavailable";
   }
@@ -776,7 +773,6 @@ function buildUnifiedPlayerBoardPayload(sourcePayloads, options = {}) {
   const boardCounts = {
     toledoSeasonRoster: 0,
     transferTargetsPool: 0,
-    nationalLeaders: 0,
   };
 
   sourcePayloads.forEach(({ label, countKey, payload }) => {
@@ -927,9 +923,9 @@ function getPlayerSourceDefinitions() {
       label: "Unified Player Board",
       eyebrow: "Main scouting view",
       summary:
-        "This board merges Toledo season data, the broader free transfer-target pool, and national leader data when the worker is available. It is the main player universe for the baseball dashboard.",
+        "This board merges Toledo season data with the broader free transfer-target pool. It is the main player universe for the baseball dashboard.",
       bestUse: "Use for everyday player scouting",
-      caution: "National leaders are merged in when available",
+      caution: "Live backend is used for Games and Overview, not the Players board",
     },
   };
 }
@@ -1141,19 +1137,19 @@ function getPlayerBoardMode() {
     isUnified: true,
     isLiveSchool: false,
     scopeLabel: "Coverage: Unified player board",
-    sourceLabel: "Sources: Toledo + transfer pool + national leaders",
+    sourceLabel: "Sources: Toledo + transfer pool",
     loadingLabel: "Building unified player board...",
     waitingLabel: "Unified player board waiting",
     waitingNote:
-      "The Players tab is the main scouting board. It merges Toledo season data, the broader free transfer pool, and national leader data when available.",
+      "The Players tab is the main scouting board. It merges Toledo season data with the broader free transfer pool.",
     loadingText:
-      "Building the unified player board from Toledo season data, the generated transfer-target pool, and national leaders when the worker is available.",
+      "Building the unified player board from Toledo season data and the generated transfer-target pool.",
     errorText:
       "The unified player board could not load, so the Players screen cannot show player profiles until at least one data source is available.",
     readyText:
       "Unified player board loaded. Search by player or school, filter hitters or pitchers, and click any row to open the full profile on the right.",
     defaultFootnote:
-      "This board merges Toledo season roster data, the broader free transfer-target pool, and national leader data when available.",
+      "This board merges Toledo season roster data with the broader free transfer-target pool.",
     placeholder: "Search player, school, or position...",
   };
 }
@@ -1164,6 +1160,9 @@ function renderPlayerBoardMeta() {
 
   if (state.playerBoard.loading) {
     playersPanelSubEl.textContent = mode.loadingText;
+    playerBoardSchoolPillEl.textContent = mode.scopeLabel;
+    playerBoardGamePillEl.textContent = mode.sourceLabel;
+    playerBoardCountPillEl.textContent = "Players: Loading...";
     playerResultsMetaEl.textContent = mode.loadingLabel;
     playersFootnoteEl.textContent = mode.defaultFootnote;
     playerPagePrevEl.disabled = true;
@@ -1173,6 +1172,9 @@ function renderPlayerBoardMeta() {
 
   if (state.playerBoard.error) {
     playersPanelSubEl.textContent = mode.errorText;
+    playerBoardSchoolPillEl.textContent = mode.scopeLabel;
+    playerBoardGamePillEl.textContent = "Sources: Unavailable";
+    playerBoardCountPillEl.textContent = "Players: Board unavailable";
     playerResultsMetaEl.textContent = "Unified player board unavailable";
     playersFootnoteEl.textContent = state.playerBoard.error;
     playerPagePrevEl.disabled = true;
@@ -1182,6 +1184,9 @@ function renderPlayerBoardMeta() {
 
   if (!payload) {
     playersPanelSubEl.textContent = "Waiting for the unified player board.";
+    playerBoardSchoolPillEl.textContent = mode.scopeLabel;
+    playerBoardGamePillEl.textContent = mode.sourceLabel;
+    playerBoardCountPillEl.textContent = "Players: 0";
     playerResultsMetaEl.textContent = mode.waitingLabel;
     playersFootnoteEl.textContent = mode.waitingNote;
     playerPagePrevEl.disabled = true;
@@ -1192,6 +1197,11 @@ function renderPlayerBoardMeta() {
   const roleCounts = payload.roleCounts || { Hitter: 0, Pitcher: 0 };
 
   playersPanelSubEl.textContent = mode.readyText;
+  playerBoardSchoolPillEl.textContent = mode.scopeLabel;
+  playerBoardGamePillEl.textContent = `Sources: ${payload.boardCoverage || mode.sourceLabel.replace("Sources: ", "")}`;
+  playerBoardCountPillEl.textContent = `Players: ${payload.totalPlayers || payload.playerCount || 0} (${roleCounts.Hitter || 0} hitters / ${
+    roleCounts.Pitcher || 0
+  } pitchers)`;
   playersFootnoteEl.textContent =
     payload.note || mode.defaultFootnote;
   playerSearchEl.placeholder = mode.placeholder;
@@ -1203,7 +1213,7 @@ function renderPlayers() {
 
   if (state.playerBoard.loading) {
     playerTableBodyEl.innerHTML =
-      '<tr><td colspan="6"><div class="tableStatus">Building the unified player board from Toledo season data, the transfer pool, and national leader data when available...</div></td></tr>';
+      '<tr><td colspan="6"><div class="tableStatus">Building the unified player board from Toledo season data and the transfer pool...</div></td></tr>';
     playerDetailEl.innerHTML = '<div class="statusNote">Loading player profile...</div>';
     return;
   }
@@ -1237,7 +1247,7 @@ function renderPlayers() {
     playerTableBodyEl.innerHTML = `<tr><td colspan="6"><div class="tableStatus">${escapeHtml(emptyReason)}</div></td></tr>`;
     playerDetailEl.innerHTML = `<div class="statusNote">${escapeHtml(
       getActivePlayerBoard()?.note ||
-        "Run the Toledo and transfer-pool generators, then make sure the worker is reachable for national leader data.",
+        "Run the Toledo and transfer-pool generators to rebuild the main player board.",
     )}</div>`;
     return;
   }
@@ -2307,40 +2317,23 @@ async function loadPlayerBoard(options = {}) {
       });
     }
 
-    let nationalError = "";
-    if (LIVE_API_ENABLED) {
-      try {
-        const nationalPayload = await fetchDashboardJson("/api/players/national-board");
-        if (nationalPayload?.players?.length) {
-          sourcePayloads.push({
-            label: "National leaders",
-            countKey: "nationalLeaders",
-            payload: nationalPayload,
-          });
-        }
-      } catch (error) {
-        nationalError = error instanceof Error ? error.message : String(error);
-      }
-    } else {
-      nationalError = LIVE_API_UNAVAILABLE_MESSAGE;
-    }
-
     if (!sourcePayloads.length) {
       throw new Error(
-        nationalError ||
-          "No player data sources are available. Run the local dataset generators and make sure the worker is reachable.",
+        "No player data sources are available. Run the local dataset generators and refresh the page.",
       );
     }
 
     const noteParts = [
-      "Unified board combines Toledo season roster data, the generated transfer-target pool, and national leader data when available.",
-      nationalError ? `National leaders unavailable right now: ${nationalError}` : "",
+      "Unified board combines Toledo season roster data with the generated transfer-target pool.",
+      LIVE_API_ENABLED
+        ? "Live backend calls are reserved for Overview and Games so the Players board stays cheap to load."
+        : "",
     ].filter(Boolean);
 
     const payload = buildUnifiedPlayerBoardPayload(sourcePayloads, {
       note: noteParts.join(" "),
     });
-    payload.boardCoverage = summarizeUnifiedSources(payload.boardCounts, nationalError);
+    payload.boardCoverage = summarizeUnifiedSources(payload.boardCounts);
 
     if (requestId !== playerBoardRequestId) {
       return;

@@ -60,9 +60,13 @@ The safest deployment path is:
 
 1. host the frontend on GitHub Pages
 2. keep the frontend static-first
-3. only deploy this Worker when you actually want live Overview, Games, school search, scoreboard, and national leader enrichment
+3. only deploy this Worker when you actually want live Overview, Games, school search, and scoreboard data
 
 That keeps baseball from quietly consuming Cloudflare Worker requests while the project is still low priority.
+
+Current deployed URL:
+
+- `https://toledo-baseball-api.bryanhkwan.workers.dev`
 
 ## Recommended flow
 
