@@ -263,6 +263,7 @@ const state = {
   },
   playerBoard: {
     loading: true,
+    syncing: false,
     error: "",
     payload: null,
     sourceKey: DEFAULT_PLAYER_BOARD_SOURCE,
@@ -376,15 +377,32 @@ function isLikelyLocalHostname(hostname) {
   );
 }
 
+function getExplicitApiBase() {
+  const explicit = window.BASEBALL_API_BASE || document.documentElement.dataset.apiBase;
+  return typeof explicit === "string" && explicit.trim() ? explicit.replace(/\/$/, "") : "";
+}
+
 function resolveApiBase() {
+  const explicit = getExplicitApiBase();
+  if (explicit) {
+    return explicit;
+  }
   if (window.location.protocol === "file:" || isLikelyLocalHostname(window.location.hostname)) {
     return "http://127.0.0.1:8787";
   }
-  const explicit = window.BASEBALL_API_BASE || document.documentElement.dataset.apiBase;
-  if (typeof explicit === "string" && explicit.trim()) {
-    return explicit.replace(/\/$/, "");
-  }
   return "";
+}
+
+function getPlayerApiBaseCandidates() {
+  const candidates = [API_BASE];
+  if (window.location.protocol === "file:" || isLikelyLocalHostname(window.location.hostname)) {
+    candidates.push("http://127.0.0.1:8787");
+  }
+  const explicit = getExplicitApiBase();
+  if (explicit) {
+    candidates.push(explicit);
+  }
+  return uniqueItems(candidates);
 }
 
 function ensurePageDataLoaded(targetId) {
@@ -762,6 +780,9 @@ function summarizeUnifiedSources(boardCounts = {}, nationalError = "") {
   if (boardCounts.transferTargetsPool) {
     parts.push(`${boardCounts.transferTargetsPool} transfer pool`);
   }
+  if (boardCounts.nationalBoard) {
+    parts.push(`${boardCounts.nationalBoard} national API`);
+  }
   if (!parts.length) {
     return nationalError ? `Sources unavailable: ${nationalError}` : "Sources unavailable";
   }
@@ -770,14 +791,11 @@ function summarizeUnifiedSources(boardCounts = {}, nationalError = "") {
 
 function buildUnifiedPlayerBoardPayload(sourcePayloads, options = {}) {
   const playerMap = new Map();
-  const boardCounts = {
-    toledoSeasonRoster: 0,
-    transferTargetsPool: 0,
-  };
+  const boardCounts = {};
 
   sourcePayloads.forEach(({ label, countKey, payload }) => {
     (payload?.players || []).forEach((player) => {
-      boardCounts[countKey] += 1;
+      boardCounts[countKey] = (boardCounts[countKey] || 0) + 1;
       const taggedPlayer = attachBoardOrigin(player, label);
       const key = getPlayerMergeKey(taggedPlayer);
       playerMap.set(key, mergeUnifiedPlayers(playerMap.get(key), taggedPlayer));
@@ -1158,7 +1176,7 @@ function renderPlayerBoardMeta() {
   const payload = getActivePlayerBoard();
   const mode = getPlayerBoardMode();
 
-  if (state.playerBoard.loading) {
+  if (state.playerBoard.loading && !payload) {
     playersPanelSubEl.textContent = mode.loadingText;
     playerResultsMetaEl.textContent = mode.loadingLabel;
     playersFootnoteEl.textContent = mode.defaultFootnote;
@@ -1187,10 +1205,14 @@ function renderPlayerBoardMeta() {
 
   const roleCounts = payload.roleCounts || { Hitter: 0, Pitcher: 0 };
 
-  playersPanelSubEl.textContent = mode.readyText;
-  playerResultsMetaEl.textContent = `${payload.totalPlayers || payload.playerCount || 0} players (${roleCounts.Hitter || 0} hitters / ${
-    roleCounts.Pitcher || 0
-  } pitchers)`;
+  playersPanelSubEl.textContent = state.playerBoard.syncing
+    ? "Showing local players first while the API-backed national board loads in the background."
+    : mode.readyText;
+  playerResultsMetaEl.textContent = state.playerBoard.syncing
+    ? `${payload.totalPlayers || payload.playerCount || 0} players loaded so far — expanding with API data...`
+    : `${payload.totalPlayers || payload.playerCount || 0} players (${roleCounts.Hitter || 0} hitters / ${
+        roleCounts.Pitcher || 0
+      } pitchers)`;
   playersFootnoteEl.textContent =
     payload.note || mode.defaultFootnote;
   playerSearchEl.placeholder = mode.placeholder;
@@ -1200,9 +1222,9 @@ function renderPlayers() {
   renderPlayerBoardMeta();
   const mode = getPlayerBoardMode();
 
-  if (state.playerBoard.loading) {
+  if (state.playerBoard.loading && !state.playerBoard.payload) {
     playerTableBodyEl.innerHTML =
-      '<tr><td colspan="6"><div class="tableStatus">Building the unified player board from Toledo season data and the transfer pool...</div></td></tr>';
+      '<tr><td colspan="6"><div class="tableStatus">Building the unified player board from Toledo season data, the transfer pool, and API-backed national players...</div></td></tr>';
     playerDetailEl.innerHTML = '<div class="statusNote">Loading player profile...</div>';
     return;
   }
@@ -2211,22 +2233,33 @@ function render() {
   renderTargets();
 }
 
-async function fetchDashboardJson(path) {
-  if (!LIVE_API_ENABLED) {
+async function fetchDashboardJson(path, options = {}) {
+  const apiBases = uniqueItems(options.apiBases || [API_BASE]);
+  if (!apiBases.length) {
     throw new Error(LIVE_API_UNAVAILABLE_MESSAGE);
   }
-  const response = await fetch(`${API_BASE}${path}`);
-  if (!response.ok) {
-    let message = `Data request failed (${response.status})`;
+
+  let lastError = null;
+  for (const apiBase of apiBases) {
     try {
-      const body = await response.json();
-      if (typeof body.error === "string" && body.error) {
-        message = body.error;
+      const response = await fetch(`${apiBase}${path}`);
+      if (!response.ok) {
+        let message = `Data request failed (${response.status})`;
+        try {
+          const body = await response.json();
+          if (typeof body.error === "string" && body.error) {
+            message = body.error;
+          }
+        } catch (_) {}
+        throw new Error(message);
       }
-    } catch (_) {}
-    throw new Error(message);
+      return response.json();
+    } catch (error) {
+      lastError = error;
+    }
   }
-  return response.json();
+
+  throw lastError || new Error(`Data request failed for ${path}`);
 }
 
 async function loadOverviewAndDefaultSchool() {
@@ -2278,6 +2311,7 @@ async function loadPlayerBoard(options = {}) {
   const requestId = ++playerBoardRequestId;
   state.playerBoard.sourceKey = PLAYER_BOARD_SOURCES.UNIFIED;
   state.playerBoard.loading = true;
+  state.playerBoard.syncing = false;
   state.playerBoard.error = "";
   state.playerBoard.payload = null;
 
@@ -2289,6 +2323,7 @@ async function loadPlayerBoard(options = {}) {
     const sourcePayloads = [];
     const toledoPayload = getGeneratedToledoPlayerBoardPayload();
     const generatedPoolPayload = getGeneratedSidearmPoolPayload();
+    const existingSelection = state.selectedPlayerId;
 
     if (toledoPayload?.players?.length) {
       sourcePayloads.push({
@@ -2306,42 +2341,100 @@ async function loadPlayerBoard(options = {}) {
       });
     }
 
+    if (sourcePayloads.length) {
+      const localPayload = buildUnifiedPlayerBoardPayload(sourcePayloads, {
+        note:
+          "Showing Toledo season roster and generated transfer-target pool while the API-backed national board loads.",
+      });
+      localPayload.boardCoverage = summarizeUnifiedSources(localPayload.boardCounts);
+
+      if (requestId !== playerBoardRequestId) {
+        return;
+      }
+
+      state.playerBoard.payload = localPayload;
+      state.playerBoard.error = "";
+      state.playerBoard.loading = false;
+      state.playerBoard.syncing = LIVE_API_ENABLED;
+      state.selectedPlayerId = localPayload.players?.some((player) => player.id === existingSelection)
+        ? existingSelection
+        : localPayload.players?.[0]?.id || "";
+
+      if (options.renderInterim !== false) {
+        renderPlayers();
+      }
+    }
+
+    let nationalPayload = null;
+    let nationalError = "";
+
+    if (LIVE_API_ENABLED) {
+      try {
+        nationalPayload = await fetchDashboardJson("/api/players/national-board", {
+          apiBases: getPlayerApiBaseCandidates(),
+        });
+        if (nationalPayload?.players?.length) {
+          sourcePayloads.push({
+            label: "National API board",
+            countKey: "nationalBoard",
+            payload: nationalPayload,
+          });
+        } else {
+          nationalPayload = null;
+          nationalError = "National API returned no players.";
+        }
+      } catch (error) {
+        nationalError = error instanceof Error ? error.message : String(error);
+      }
+    } else {
+      nationalError = LIVE_API_UNAVAILABLE_MESSAGE;
+    }
+
     if (!sourcePayloads.length) {
       throw new Error(
-        "No player data sources are available. Run the local dataset generators and refresh the page.",
+        nationalError ||
+          "No player data sources are available. Run the local dataset generators and make sure the player API is reachable.",
       );
     }
 
     const noteParts = [
-      "Unified board combines Toledo season roster data with the generated transfer-target pool.",
-      LIVE_API_ENABLED
-        ? "Live backend calls are reserved for Overview and Games so the Players board stays cheap to load."
-        : "",
+      sourcePayloads.some((source) => source.countKey === "nationalBoard")
+        ? "Unified board combines Toledo season roster data, the generated transfer-target pool, and the API-backed national player board."
+        : "Unified board combines Toledo season roster data with the generated transfer-target pool.",
+      nationalPayload?.note || "",
+      !nationalPayload && nationalError ? `National API unavailable right now: ${nationalError}` : "",
     ].filter(Boolean);
 
     const payload = buildUnifiedPlayerBoardPayload(sourcePayloads, {
       note: noteParts.join(" "),
     });
-    payload.boardCoverage = summarizeUnifiedSources(payload.boardCounts);
+    payload.boardCoverage = summarizeUnifiedSources(payload.boardCounts, nationalError);
 
     if (requestId !== playerBoardRequestId) {
       return;
     }
     state.playerBoard.payload = payload;
     state.playerBoard.error = "";
-    state.selectedPlayerId = payload.players?.[0]?.id || "";
+    state.playerBoard.loading = false;
+    state.playerBoard.syncing = false;
+    state.selectedPlayerId = payload.players?.some((player) => player.id === existingSelection)
+      ? existingSelection
+      : payload.players?.[0]?.id || "";
   } catch (error) {
     if (requestId !== playerBoardRequestId) {
       return;
     }
     state.playerBoard.error = error instanceof Error ? error.message : String(error);
     state.playerBoard.payload = null;
+    state.playerBoard.loading = false;
+    state.playerBoard.syncing = false;
     state.selectedPlayerId = "";
   } finally {
     if (requestId !== playerBoardRequestId) {
       return;
     }
     state.playerBoard.loading = false;
+    state.playerBoard.syncing = false;
     if (options.renderInterim !== false) {
       renderPlayers();
     }
