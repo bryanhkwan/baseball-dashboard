@@ -4,16 +4,20 @@ const NCAA_API_BASE = "https://ncaa-api.henrygd.me";
 const ET_TIMEZONE = "America/New_York";
 const DEFAULT_SCHOOL_SLUG = "toledo";
 const DEFAULT_SCHOOL_NAME = "Toledo";
-const RECENT_LOOKBACK_DAYS = 3;
-const UPCOMING_LOOKAHEAD_DAYS = 7;
+const RECENT_LOOKBACK_DAYS = 2;
+const UPCOMING_LOOKAHEAD_DAYS = 5;
 const BOX_SCORE_LOOKBACK_DAYS = 14;
-const RECENT_FORM_LOOKBACK_DAYS = 28;
-const RECENT_FORM_DEFAULT_GAMES = 5;
+const RECENT_FORM_LOOKBACK_DAYS = 10;
+const RECENT_FORM_DEFAULT_GAMES = 3;
+const OPPONENT_SCOUT_LOOKBACK_DAYS = 6;
+const OPPONENT_SCOUT_DEFAULT_GAMES = 3;
 const LIVE_SCOREBOARD_LIMIT = 12;
 const SCHOOL_SEARCH_LIMIT = 16;
 const NATIONAL_PLAYER_CACHE_TTL_MS = 1000 * 60 * 15;
 const NATIONAL_PLAYER_MAX_PAGES_PER_SPEC = 2;
 const PLAYER_UNIVERSE_CACHE_TTL_MS = 1000 * 60 * 15;
+const MEMORY_CACHE_TTL_MS = 1000 * 60 * 10;
+const SCHOOLS_INDEX_CACHE_TTL_MS = 1000 * 60 * 60 * 6;
 
 const NATIONAL_PLAYER_STAT_SPECS = [
   { id: 200, role: "Hitter", key: "battingAverage", label: "Batting Average", field: "BA" },
@@ -43,6 +47,20 @@ let playerUniverseCache = {
   expiresAt: 0,
   payload: null,
 };
+
+let schoolsIndexCache = {
+  expiresAt: 0,
+  payload: null,
+};
+
+const scoreboardDateCache = new Map();
+const gameSummaryCache = new Map();
+const normalizedBoxscoreCache = new Map();
+const normalizedPlayByPlayCache = new Map();
+const gameLiveSummaryCache = new Map();
+const schoolGamesWindowCache = new Map();
+const recentFormCache = new Map();
+const opponentScoutCache = new Map();
 
 const demoPlayers = [
   {
@@ -82,6 +100,39 @@ const positions = [
   { group: "Outfield", items: ["LF", "CF", "RF"] },
   { group: "Lineup-only role", items: ["DH"] },
 ];
+
+function readTimedCache(cache, key) {
+  const entry = cache.get(key);
+  if (!entry) {
+    return null;
+  }
+  if (entry.expiresAt <= Date.now()) {
+    cache.delete(key);
+    return null;
+  }
+  return entry.payload;
+}
+
+function writeTimedCache(cache, key, payload, ttlMs = MEMORY_CACHE_TTL_MS) {
+  cache.set(key, {
+    expiresAt: Date.now() + ttlMs,
+    payload,
+  });
+  return payload;
+}
+
+function readObjectCache(cache) {
+  if (!cache.payload || cache.expiresAt <= Date.now()) {
+    return null;
+  }
+  return cache.payload;
+}
+
+function writeObjectCache(cache, payload, ttlMs = MEMORY_CACHE_TTL_MS) {
+  cache.payload = payload;
+  cache.expiresAt = Date.now() + ttlMs;
+  return payload;
+}
 
 function json(data, init = {}) {
   const headers = new Headers(init.headers || {});
@@ -1144,9 +1195,167 @@ function createRecentFormAggregate() {
       hits: 0,
       walks: 0,
       strikeouts: 0,
+      stolenBases: 0,
+      walksAllowed: 0,
+      pitchingStrikeouts: 0,
     },
     eventTotals: createPbpEventTotals(),
   };
+}
+
+function createEmptyInningProfile() {
+  return {
+    runsFor: {},
+    runsAgainst: {},
+  };
+}
+
+function normalizeInningLabel(value = "") {
+  const raw = String(value || "").trim();
+  const match = raw.match(/(\d+)/);
+  if (match) {
+    return String(Number.parseInt(match[1], 10));
+  }
+  return raw || "?";
+}
+
+function mergeInningProfile(target, source = {}) {
+  for (const key of Object.keys(source.runsFor || {})) {
+    target.runsFor[key] = (target.runsFor[key] || 0) + Number(source.runsFor[key] || 0);
+  }
+  for (const key of Object.keys(source.runsAgainst || {})) {
+    target.runsAgainst[key] = (target.runsAgainst[key] || 0) + Number(source.runsAgainst[key] || 0);
+  }
+}
+
+function buildInningProfile(analysis = null, schoolTeamId = "") {
+  const profile = createEmptyInningProfile();
+  for (const event of analysis?.scoringTimeline || []) {
+    const inning = normalizeInningLabel(event.periodDisplay || event.periodNumber);
+    if (!inning) {
+      continue;
+    }
+    if (String(event.teamId || "") === String(schoolTeamId || "")) {
+      profile.runsFor[inning] = (profile.runsFor[inning] || 0) + Number(event.runsScored || 0);
+    } else {
+      profile.runsAgainst[inning] = (profile.runsAgainst[inning] || 0) + Number(event.runsScored || 0);
+    }
+  }
+  return profile;
+}
+
+function inningSortValue(label = "") {
+  const parsed = Number.parseInt(String(label || ""), 10);
+  if (Number.isFinite(parsed)) {
+    return parsed;
+  }
+  return 999;
+}
+
+function finalizeInningProfile(profile = {}, gameCount = 1) {
+  const innings = [...new Set([...Object.keys(profile.runsFor || {}), ...Object.keys(profile.runsAgainst || {})])]
+    .sort((left, right) => {
+      const sortDelta = inningSortValue(left) - inningSortValue(right);
+      return sortDelta !== 0 ? sortDelta : String(left).localeCompare(String(right));
+    });
+
+  const runsForTotals = innings.map((inning) => Number(profile.runsFor?.[inning] || 0));
+  const runsAgainstTotals = innings.map((inning) => Number(profile.runsAgainst?.[inning] || 0));
+  const runsForPerGame = runsForTotals.map((value) => roundTo(value / Math.max(gameCount, 1), 1));
+  const runsAgainstPerGame = runsAgainstTotals.map((value) => roundTo(value / Math.max(gameCount, 1), 1));
+  const strongestScoringIndex = runsForTotals.reduce(
+    (bestIndex, value, index, values) => (value > (values[bestIndex] || 0) ? index : bestIndex),
+    0,
+  );
+  const weakestRunPreventionIndex = runsAgainstTotals.reduce(
+    (bestIndex, value, index, values) => (value > (values[bestIndex] || 0) ? index : bestIndex),
+    0,
+  );
+
+  return {
+    innings,
+    runsForTotals,
+    runsAgainstTotals,
+    runsForPerGame,
+    runsAgainstPerGame,
+    maxValue: Math.max(...runsForTotals, ...runsAgainstTotals, 0),
+    strongestScoringInning: innings[strongestScoringIndex]
+      ? {
+          inning: innings[strongestScoringIndex],
+          totalRuns: runsForTotals[strongestScoringIndex],
+          runsPerGame: runsForPerGame[strongestScoringIndex],
+        }
+      : null,
+    weakestRunPreventionInning: innings[weakestRunPreventionIndex]
+      ? {
+          inning: innings[weakestRunPreventionIndex],
+          totalRuns: runsAgainstTotals[weakestRunPreventionIndex],
+          runsPerGame: runsAgainstPerGame[weakestRunPreventionIndex],
+        }
+      : null,
+  };
+}
+
+function extractPitcherUsage(team = null, gameDate = "", gameId = "") {
+  return (team?.players || [])
+    .filter((player) => hasPitchingLine(player))
+    .map((player) => {
+      const stats = player.pitcherStats || {};
+      const inningsPitchedRaw = String(stats.inningsPitched || "0");
+      const inningsPitched = parseInningsPitched(inningsPitchedRaw);
+      const strikeouts = parseNumericStat(stats.strikeouts);
+      const walksAllowed = parseNumericStat(stats.walksAllowed);
+      const hitsAllowed = parseNumericStat(stats.hitsAllowed);
+      const battersFaced = parseNumericStat(stats.battersFaced);
+      const earnedRunsAllowed = parseNumericStat(stats.earnedRunsAllowed);
+      return {
+        playerId: slugifyKey(player.name || "pitcher"),
+        name: player.name || "Unknown Pitcher",
+        starter: Boolean(player.starter),
+        inningsPitchedRaw,
+        inningsPitched,
+        strikeouts,
+        walksAllowed,
+        hitsAllowed,
+        earnedRunsAllowed,
+        battersFaced,
+        gameDate,
+        gameId,
+        keyLine: `${inningsPitchedRaw} IP / ${strikeouts} K / ${walksAllowed} BB / ${hitsAllowed} H`,
+      };
+    });
+}
+
+function createStaffUsageRecord(row = {}) {
+  return {
+    playerId: row.playerId || slugifyKey(row.name || "pitcher"),
+    name: row.name || "Unknown Pitcher",
+    starts: row.starter ? 1 : 0,
+    appearances: 0,
+    inningsPitched: 0,
+    strikeouts: 0,
+    walksAllowed: 0,
+    hitsAllowed: 0,
+    earnedRunsAllowed: 0,
+    battersFaced: 0,
+    lastGameDate: "",
+    lastGameId: "",
+    latestKeyLine: "",
+  };
+}
+
+function mergeStaffUsageRecord(target, row = {}) {
+  target.appearances += 1;
+  target.starts += row.starter ? 1 : 0;
+  target.inningsPitched = roundTo(target.inningsPitched + Number(row.inningsPitched || 0), 1);
+  target.strikeouts += Number(row.strikeouts || 0);
+  target.walksAllowed += Number(row.walksAllowed || 0);
+  target.hitsAllowed += Number(row.hitsAllowed || 0);
+  target.earnedRunsAllowed += Number(row.earnedRunsAllowed || 0);
+  target.battersFaced += Number(row.battersFaced || 0);
+  target.lastGameDate = row.gameDate || target.lastGameDate;
+  target.lastGameId = row.gameId || target.lastGameId;
+  target.latestKeyLine = row.keyLine || target.latestKeyLine;
 }
 
 function createEmptyRecentForm(school, requestedGames, note) {
@@ -1160,6 +1369,8 @@ function createEmptyRecentForm(school, requestedGames, note) {
     games: [],
     aggregate: createRecentFormAggregate(),
     topPlayers: [],
+    staffUsage: [],
+    inningProfile: finalizeInningProfile(createEmptyInningProfile(), 1),
     insights: [],
     note,
   };
@@ -1233,6 +1444,8 @@ function summarizeSchoolGamePerspective(gameMeta, schoolSlug, gameData) {
     boxscoreTeams.find((team) => String(team.teamId || "") === String(schoolSummaryTeam?.teamId || "")) ||
     null;
   const schoolAnalysisTeam = getSchoolAnalysisTeam(gameData?.analysis, schoolSlug, schoolSummaryTeam?.teamId);
+  const inningProfile = buildInningProfile(gameData?.analysis, schoolSummaryTeam?.teamId);
+  const pitcherUsage = extractPitcherUsage(schoolBoxscoreTeam, gameMeta?.date || "", gameMeta?.gameId || "");
 
   const runsScored = Number(schoolSummaryTeam?.score ?? schoolAnalysisTeam?.finalScore ?? 0);
   const runsAllowed = Number(opponentSummaryTeam?.score ?? 0);
@@ -1261,6 +1474,8 @@ function summarizeSchoolGamePerspective(gameMeta, schoolSlug, gameData) {
       ...player,
       counts: clonePbpEventTotals(player.counts || {}),
     })),
+    inningProfile,
+    pitcherUsage,
     analysisNote: gameData?.analysis?.note || "",
   };
 }
@@ -1296,6 +1511,12 @@ function buildRecentFormInsights(aggregate, games, topPlayers) {
 
 async function getSchoolRecentForm(env, schoolSlug, options = {}) {
   const requestedGames = options.gameCount ?? RECENT_FORM_DEFAULT_GAMES;
+  const lookbackDays = options.lookbackDays ?? RECENT_FORM_LOOKBACK_DAYS;
+  const cacheKey = `${normalizeSlug(schoolSlug)}|${requestedGames}|${lookbackDays}`;
+  const cached = readTimedCache(recentFormCache, cacheKey);
+  if (cached) {
+    return cached;
+  }
   const school = options.school || (await getSchoolIdentity(env, schoolSlug));
   if (!school) {
     return null;
@@ -1306,7 +1527,7 @@ async function getSchoolRecentForm(env, schoolSlug, options = {}) {
 
   if (!gamesWindow || recentFinalGames.length < requestedGames) {
     gamesWindow = await getSchoolGamesWindow(env, school.slug, {
-      lookbackDays: options.lookbackDays ?? RECENT_FORM_LOOKBACK_DAYS,
+      lookbackDays,
       lookaheadDays: 0,
     });
     recentFinalGames = (gamesWindow.recentGames || []).filter((game) => normalizeSlug(game.gameState) === "final");
@@ -1314,7 +1535,11 @@ async function getSchoolRecentForm(env, schoolSlug, options = {}) {
 
   const selectedGames = recentFinalGames.slice(-requestedGames);
   if (!selectedGames.length) {
-    return createEmptyRecentForm(school, requestedGames, "No recent final games were available for the selected school.");
+    return writeTimedCache(
+      recentFormCache,
+      cacheKey,
+      createEmptyRecentForm(school, requestedGames, "No recent final games were available for the selected school."),
+    );
   }
 
   const gameSummaries = await mapWithConcurrency(selectedGames, 2, async (game) => {
@@ -1324,6 +1549,8 @@ async function getSchoolRecentForm(env, schoolSlug, options = {}) {
 
   const aggregate = createRecentFormAggregate();
   const playerMap = new Map();
+  const pitcherMap = new Map();
+  const inningProfile = createEmptyInningProfile();
 
   for (const game of gameSummaries) {
     if (game.result === "W") {
@@ -1360,11 +1587,24 @@ async function getSchoolRecentForm(env, schoolSlug, options = {}) {
   const gameCount = gameSummaries.length;
   aggregate.averages.runsScored = roundTo(aggregate.totals.runsScored / gameCount, 1);
   aggregate.averages.runsAllowed = roundTo(aggregate.totals.runsAllowed / gameCount, 1);
-  aggregate.averages.runDifferential = roundTo(aggregate.totals.runDifferential / gameCount, 1);
-  aggregate.averages.hits = roundTo(aggregate.totals.hits / gameCount, 1);
-  aggregate.averages.walks = roundTo(aggregate.totals.walks / gameCount, 1);
-  aggregate.averages.strikeouts = roundTo(aggregate.totals.strikeouts / gameCount, 1);
-  aggregate.totals.inningsPitched = roundTo(aggregate.totals.inningsPitched, 1);
+    aggregate.averages.runDifferential = roundTo(aggregate.totals.runDifferential / gameCount, 1);
+    aggregate.averages.hits = roundTo(aggregate.totals.hits / gameCount, 1);
+    aggregate.averages.walks = roundTo(aggregate.totals.walks / gameCount, 1);
+    aggregate.averages.strikeouts = roundTo(aggregate.totals.strikeouts / gameCount, 1);
+    aggregate.averages.stolenBases = roundTo(aggregate.totals.stolenBases / gameCount, 1);
+    aggregate.averages.walksAllowed = roundTo(aggregate.totals.walksAllowed / gameCount, 1);
+    aggregate.averages.pitchingStrikeouts = roundTo(aggregate.totals.pitchingStrikeouts / gameCount, 1);
+    aggregate.totals.inningsPitched = roundTo(aggregate.totals.inningsPitched, 1);
+
+  for (const game of gameSummaries) {
+    mergeInningProfile(inningProfile, game.inningProfile || {});
+    for (const pitcher of game.pitcherUsage || []) {
+      const key = slugifyKey(pitcher.name || pitcher.playerId || "pitcher");
+      const record = pitcherMap.get(key) || createStaffUsageRecord(pitcher);
+      mergeStaffUsageRecord(record, pitcher);
+      pitcherMap.set(key, record);
+    }
+  }
 
   const topPlayers = [...playerMap.values()]
     .map((player) => ({
@@ -1385,7 +1625,25 @@ async function getSchoolRecentForm(env, schoolSlug, options = {}) {
     })
     .slice(0, 8);
 
-  return {
+  const staffUsage = [...pitcherMap.values()]
+    .sort((left, right) => {
+      if (right.inningsPitched !== left.inningsPitched) {
+        return right.inningsPitched - left.inningsPitched;
+      }
+      if (right.appearances !== left.appearances) {
+        return right.appearances - left.appearances;
+      }
+      return left.name.localeCompare(right.name);
+    })
+    .slice(0, 8)
+    .map((pitcher) => ({
+      ...pitcher,
+      inningsPitched: roundTo(pitcher.inningsPitched, 1),
+      inningsPerAppearance: roundTo(pitcher.inningsPitched / Math.max(pitcher.appearances, 1), 1),
+      keyLine: `${roundTo(pitcher.inningsPitched, 1)} IP / ${pitcher.strikeouts} K / ${pitcher.walksAllowed} BB / ${pitcher.hitsAllowed} H`,
+    }));
+
+  return writeTimedCache(recentFormCache, cacheKey, {
     available: true,
     source: "NCAA wrapper recent form",
     school,
@@ -1395,9 +1653,306 @@ async function getSchoolRecentForm(env, schoolSlug, options = {}) {
     games: [...gameSummaries].reverse(),
     aggregate,
     topPlayers,
+    staffUsage,
+    inningProfile: finalizeInningProfile(inningProfile, gameCount),
     insights: buildRecentFormInsights(aggregate, gameSummaries, topPlayers),
     note: "Aggregated from recent final games using normalized boxscores and play-by-play-derived event summaries.",
+  });
+}
+
+function formatScoutNumber(value, decimals = 1) {
+  const numeric = Number(value || 0);
+  return Number.isInteger(numeric) || decimals === 0 ? String(Math.round(numeric)) : numeric.toFixed(decimals);
+}
+
+function getScoutAdvantage(schoolValue, opponentValue, higherBetter = true, threshold = 0.25) {
+  const schoolBetter = higherBetter ? schoolValue - opponentValue : opponentValue - schoolValue;
+  const opponentBetter = higherBetter ? opponentValue - schoolValue : schoolValue - opponentValue;
+  if (Math.abs(schoolValue - opponentValue) <= threshold) {
+    return "even";
+  }
+  if (schoolBetter > 0) {
+    return "school";
+  }
+  if (opponentBetter > 0) {
+    return "opponent";
+  }
+  return "even";
+}
+
+function buildScoutCompareMetrics(schoolRecentForm, opponentRecentForm) {
+  const schoolAggregate = schoolRecentForm?.aggregate || createRecentFormAggregate();
+  const opponentAggregate = opponentRecentForm?.aggregate || createRecentFormAggregate();
+  const schoolGames = Math.max(Number(schoolRecentForm?.includedGames || 0), 1);
+  const opponentGames = Math.max(Number(opponentRecentForm?.includedGames || 0), 1);
+  const schoolExtraBaseRate = schoolAggregate.eventTotals.extraBaseHits / schoolGames;
+  const opponentExtraBaseRate = opponentAggregate.eventTotals.extraBaseHits / opponentGames;
+  const schoolFreeBaseRate = schoolAggregate.eventTotals.freeBases / schoolGames;
+  const opponentFreeBaseRate = opponentAggregate.eventTotals.freeBases / opponentGames;
+
+  const metrics = [
+    {
+      label: "Runs / game",
+      schoolValue: Number(schoolAggregate.averages.runsScored || 0),
+      opponentValue: Number(opponentAggregate.averages.runsScored || 0),
+      higherBetter: true,
+      note: "Current scoring pace over the recent final-game sample.",
+    },
+    {
+      label: "Runs allowed / game",
+      schoolValue: Number(schoolAggregate.averages.runsAllowed || 0),
+      opponentValue: Number(opponentAggregate.averages.runsAllowed || 0),
+      higherBetter: false,
+      note: "Lower is better here — this is the quickest run-prevention read.",
+    },
+    {
+      label: "XBH pressure / game",
+      schoolValue: schoolExtraBaseRate,
+      opponentValue: opponentExtraBaseRate,
+      higherBetter: true,
+      note: "Extra-base-hit events from tracked play-by-play.",
+    },
+    {
+      label: "Free bases / game",
+      schoolValue: schoolFreeBaseRate,
+      opponentValue: opponentFreeBaseRate,
+      higherBetter: true,
+      note: "Walks, hit batters, and other free-base events created.",
+    },
+    {
+      label: "Staff K / game",
+      schoolValue: Number(schoolAggregate.averages.pitchingStrikeouts || 0),
+      opponentValue: Number(opponentAggregate.averages.pitchingStrikeouts || 0),
+      higherBetter: true,
+      note: "Strikeout volume from the recent pitching sample.",
+    },
+    {
+      label: "Walks allowed / game",
+      schoolValue: Number(schoolAggregate.averages.walksAllowed || 0),
+      opponentValue: Number(opponentAggregate.averages.walksAllowed || 0),
+      higherBetter: false,
+      note: "Lower is better — free passes often become attack points.",
+    },
+  ];
+
+  return metrics.map((metric) => ({
+    ...metric,
+    schoolDisplay: formatScoutNumber(metric.schoolValue),
+    opponentDisplay: formatScoutNumber(metric.opponentValue),
+    advantage: getScoutAdvantage(metric.schoolValue, metric.opponentValue, metric.higherBetter),
+  }));
+}
+
+function buildOpponentWeaknessFlags(opponentRecentForm) {
+  if (!opponentRecentForm?.available) {
+    return [];
+  }
+
+  const aggregate = opponentRecentForm.aggregate || createRecentFormAggregate();
+  const games = Math.max(Number(opponentRecentForm.includedGames || 0), 1);
+  const weaknessFlags = [];
+  const runsAllowed = Number(aggregate.averages.runsAllowed || 0);
+  const runsScored = Number(aggregate.averages.runsScored || 0);
+  const walksAllowed = Number(aggregate.averages.walksAllowed || 0);
+  const strikeouts = Number(aggregate.averages.strikeouts || 0);
+  const extraBaseRate = aggregate.eventTotals.extraBaseHits / games;
+  const freeBaseRate = aggregate.eventTotals.freeBases / games;
+  const weakInning = opponentRecentForm.inningProfile?.weakestRunPreventionInning || null;
+
+  if (runsAllowed >= 6) {
+    weaknessFlags.push({
+      title: "Run prevention leak",
+      detail: `They have allowed ${formatScoutNumber(runsAllowed)} runs per game in the recent sample.`,
+      emphasis: "attack",
+    });
+  }
+  if (walksAllowed >= 4) {
+    weaknessFlags.push({
+      title: "Free bases available",
+      detail: `Opponents are getting ${formatScoutNumber(walksAllowed)} walks per game against this staff.`,
+      emphasis: "attack",
+    });
+  }
+  if (runsScored <= 4.2) {
+    weaknessFlags.push({
+      title: "Offense can stall",
+      detail: `They are scoring only ${formatScoutNumber(runsScored)} runs per game right now.`,
+      emphasis: "watch",
+    });
+  }
+  if (extraBaseRate <= 2.2) {
+    weaknessFlags.push({
+      title: "Limited damage profile",
+      detail: `Only ${formatScoutNumber(extraBaseRate)} extra-base-hit events per game in tracked PBP.`,
+      emphasis: "watch",
+    });
+  }
+  if (strikeouts >= 8.5 && freeBaseRate <= 3.2) {
+    weaknessFlags.push({
+      title: "Swing-and-miss offense",
+      detail: `They are averaging ${formatScoutNumber(strikeouts)} strikeouts per game without offsetting it with many free bases.`,
+      emphasis: "watch",
+    });
+  }
+  if (weakInning?.runsPerGame >= 1.2) {
+    weaknessFlags.push({
+      title: `Inning ${weakInning.inning} vulnerability`,
+      detail: `They are allowing ${formatScoutNumber(weakInning.runsPerGame)} runs per game in inning ${weakInning.inning}.`,
+      emphasis: "attack",
+    });
+  }
+
+  if (!weaknessFlags.length) {
+    weaknessFlags.push({
+      title: "No soft spot yet",
+      detail: "The recent sample is balanced enough that coaches should lean more on matchup video and personnel eval.",
+      emphasis: "steady",
+    });
+  }
+
+  return weaknessFlags.slice(0, 4);
+}
+
+function buildOpponentScoutInsights(school, opponent, compareMetrics, weaknessFlags, opponentRecentForm) {
+  const insights = [];
+  const schoolEdges = compareMetrics.filter((metric) => metric.advantage === "school").slice(0, 2);
+  const opponentEdges = compareMetrics.filter((metric) => metric.advantage === "opponent").slice(0, 2);
+
+  if (schoolEdges.length) {
+    insights.push(
+      `${school.name || school.slug} holds the cleaner recent edge in ${schoolEdges.map((metric) => metric.label.toLowerCase()).join(" and ")}.`,
+    );
+  }
+  if (opponentEdges.length) {
+    insights.push(
+      `${opponent.name || opponent.slug} has been stronger in ${opponentEdges.map((metric) => metric.label.toLowerCase()).join(" and ")} over the recent sample.`,
+    );
+  }
+  if (weaknessFlags[0]) {
+    insights.push(`${opponent.name || opponent.slug} weakness to pressure first: ${weaknessFlags[0].title.toLowerCase()}.`);
+  }
+  if (opponentRecentForm?.topPlayers?.[0]) {
+    insights.push(
+      `${opponentRecentForm.topPlayers[0].name} is the top recent impact threat with ${opponentRecentForm.topPlayers[0].keyLine}.`,
+    );
+  }
+
+  return insights.slice(0, 4);
+}
+
+async function getSchoolOpponentScout(env, schoolSlug, options = {}) {
+  const scoutGameCount = options.gameCount ?? OPPONENT_SCOUT_DEFAULT_GAMES;
+  const scoutLookbackDays = options.lookbackDays ?? OPPONENT_SCOUT_LOOKBACK_DAYS;
+  const cacheKey = `${normalizeSlug(schoolSlug)}|${scoutGameCount}|${scoutLookbackDays}`;
+  const cached = readTimedCache(opponentScoutCache, cacheKey);
+  if (cached) {
+    return cached;
+  }
+  const school = options.school || (await getSchoolIdentity(env, schoolSlug));
+  if (!school) {
+    return null;
+  }
+
+  const gamesWindow =
+    options.gamesWindow ||
+    (await getSchoolGamesWindow(env, school.slug, {
+      lookbackDays: scoutLookbackDays,
+      lookaheadDays: UPCOMING_LOOKAHEAD_DAYS,
+    }));
+  const recentForm =
+    options.recentForm ||
+    (await getSchoolRecentForm(env, school.slug, {
+      school,
+      recentWindow: gamesWindow,
+      gameCount: scoutGameCount,
+      lookbackDays: scoutLookbackDays,
+    }));
+
+  const nextGame = gamesWindow?.nextGame || null;
+  const opponentSlug = normalizeSlug(nextGame?.opponent?.seo || "");
+  if (!nextGame || !opponentSlug) {
+    return writeTimedCache(opponentScoutCache, cacheKey, {
+      available: false,
+      source: "NCAA wrapper opponent scout",
+      school,
+      opponent: null,
+      compareMetrics: [],
+      weaknessFlags: [],
+      dangerPlayers: [],
+      staffUsage: { school: recentForm?.staffUsage || [], opponent: [] },
+      inningHeatmap: null,
+      insights: [],
+      note: "No upcoming opponent is available in the current schedule window.",
+    });
+  }
+
+  const opponentSchool = (await getSchoolIdentity(env, opponentSlug)) || {
+    slug: opponentSlug,
+    name: nextGame.opponent?.short || opponentSlug,
+    long: nextGame.opponent?.full || nextGame.opponent?.short || opponentSlug,
   };
+  const opponentRecentForm = await getSchoolRecentForm(env, opponentSlug, {
+    school: opponentSchool,
+    gameCount: scoutGameCount,
+    lookbackDays: scoutLookbackDays,
+  });
+  const compareMetrics = buildScoutCompareMetrics(recentForm, opponentRecentForm);
+  const weaknessFlags = buildOpponentWeaknessFlags(opponentRecentForm);
+  const inningSet = [
+    ...(recentForm?.inningProfile?.innings || []),
+    ...(opponentRecentForm?.inningProfile?.innings || []),
+  ];
+  const innings = [...new Set(inningSet)].sort((left, right) => {
+    const sortDelta = inningSortValue(left) - inningSortValue(right);
+    return sortDelta !== 0 ? sortDelta : String(left).localeCompare(String(right));
+  });
+  const schoolInningMap = new Map((recentForm?.inningProfile?.innings || []).map((inning, index) => [inning, index]));
+  const opponentInningMap = new Map((opponentRecentForm?.inningProfile?.innings || []).map((inning, index) => [inning, index]));
+  const inningHeatmap = innings.length
+    ? {
+        innings,
+        schoolScored: innings.map((inning) => recentForm?.inningProfile?.runsForPerGame?.[schoolInningMap.get(inning)] || 0),
+        schoolAllowed: innings.map((inning) => recentForm?.inningProfile?.runsAgainstPerGame?.[schoolInningMap.get(inning)] || 0),
+        opponentScored: innings.map(
+          (inning) => opponentRecentForm?.inningProfile?.runsForPerGame?.[opponentInningMap.get(inning)] || 0,
+        ),
+        opponentAllowed: innings.map(
+          (inning) => opponentRecentForm?.inningProfile?.runsAgainstPerGame?.[opponentInningMap.get(inning)] || 0,
+        ),
+        maxValue: Math.max(
+          ...(innings.map((inning) => recentForm?.inningProfile?.runsForPerGame?.[schoolInningMap.get(inning)] || 0)),
+          ...(innings.map((inning) => recentForm?.inningProfile?.runsAgainstPerGame?.[schoolInningMap.get(inning)] || 0)),
+          ...(innings.map((inning) => opponentRecentForm?.inningProfile?.runsForPerGame?.[opponentInningMap.get(inning)] || 0)),
+          ...(innings.map((inning) => opponentRecentForm?.inningProfile?.runsAgainstPerGame?.[opponentInningMap.get(inning)] || 0)),
+          0,
+        ),
+      }
+    : null;
+
+  return writeTimedCache(opponentScoutCache, cacheKey, {
+    available: true,
+    source: "NCAA wrapper opponent scout",
+    school,
+    opponent: opponentSchool,
+    nextGame: {
+      gameId: nextGame.gameId,
+      date: nextGame.date,
+      startTime: nextGame.startTime,
+      venueLabel: nextGame.isSchoolHome ? "vs" : "at",
+      opponent: nextGame.opponent?.short || opponentSchool.name,
+      title: `${nextGame.isSchoolHome ? "vs" : "at"} ${nextGame.opponent?.short || opponentSchool.name}`,
+    },
+    compareMetrics,
+    weaknessFlags,
+    dangerPlayers: (opponentRecentForm?.topPlayers || []).slice(0, 4),
+    staffUsage: {
+      school: (recentForm?.staffUsage || []).slice(0, 4),
+      opponent: (opponentRecentForm?.staffUsage || []).slice(0, 4),
+    },
+    inningHeatmap,
+    insights: buildOpponentScoutInsights(school, opponentSchool, compareMetrics, weaknessFlags, opponentRecentForm),
+    note: "Built from each team's recent-form sample, normalized boxscores, and play-by-play-derived event summaries.",
+  });
 }
 
 function buildLatestGameImpactMap(game = null) {
@@ -2030,7 +2585,12 @@ function buildCoverage(latestBoxscore, schoolName = DEFAULT_SCHOOL_NAME) {
 }
 
 async function getSchoolsIndex(env) {
-  return fetchJson(`${baseUrl(env)}/schools-index`);
+  const cached = readObjectCache(schoolsIndexCache);
+  if (cached) {
+    return cached;
+  }
+  const schools = await fetchJson(`${baseUrl(env)}/schools-index`);
+  return writeObjectCache(schoolsIndexCache, schools, SCHOOLS_INDEX_CACHE_TTL_MS);
 }
 
 async function getSchoolIdentity(env, schoolSlug) {
@@ -2084,7 +2644,12 @@ function featuredSchoolsFromGames(games, limit) {
 }
 
 async function getScoreboardForDate(env, date) {
-  return fetchJson(`${baseUrl(env)}/scoreboard/baseball/d1/${date}/all-conf`);
+  const cached = readTimedCache(scoreboardDateCache, date);
+  if (cached) {
+    return cached;
+  }
+  const scoreboard = await fetchJson(`${baseUrl(env)}/scoreboard/baseball/d1/${date}/all-conf`);
+  return writeTimedCache(scoreboardDateCache, date, scoreboard);
 }
 
 async function getNormalizedScoreboard(env, date) {
@@ -2121,6 +2686,11 @@ async function getNormalizedScoreboard(env, date) {
 async function getSchoolGamesWindow(env, schoolSlug, options = {}) {
   const lookbackDays = options.lookbackDays ?? RECENT_LOOKBACK_DAYS;
   const lookaheadDays = options.lookaheadDays ?? UPCOMING_LOOKAHEAD_DAYS;
+  const cacheKey = `${normalizeSlug(schoolSlug)}|${lookbackDays}|${lookaheadDays}`;
+  const cached = readTimedCache(schoolGamesWindowCache, cacheKey);
+  if (cached) {
+    return cached;
+  }
   const today = new Date();
   const dateRequests = [];
 
@@ -2157,7 +2727,7 @@ async function getSchoolGamesWindow(env, schoolSlug, options = {}) {
     [...recentGames].reverse().find((game) => game.gameState === "final") || recentGames[recentGames.length - 1] || null;
   const nextGame = upcomingGames.find((game) => game.gameState !== "final") || upcomingGames[0] || null;
 
-  return {
+  return writeTimedCache(schoolGamesWindowCache, cacheKey, {
     generatedAt: new Date().toISOString(),
     windowStart: dateRequests[0]?.date || null,
     windowEnd: dateRequests[dateRequests.length - 1]?.date || null,
@@ -2166,29 +2736,49 @@ async function getSchoolGamesWindow(env, schoolSlug, options = {}) {
     latestResult,
     nextGame,
     errors,
-  };
+  });
 }
 
 async function getNormalizedBoxscore(env, gameId) {
+  const cacheKey = String(gameId);
+  const cached = readTimedCache(normalizedBoxscoreCache, cacheKey);
+  if (cached) {
+    return cached;
+  }
   const boxscore = await fetchJson(`${baseUrl(env)}/game/${gameId}/boxscore`);
-  return normalizeBoxscore(boxscore);
+  return writeTimedCache(normalizedBoxscoreCache, cacheKey, normalizeBoxscore(boxscore));
 }
 
 async function getNormalizedPlayByPlay(env, gameId) {
+  const cacheKey = String(gameId);
+  const cached = readTimedCache(normalizedPlayByPlayCache, cacheKey);
+  if (cached) {
+    return cached;
+  }
   const playByPlay = await fetchJson(`${baseUrl(env)}/game/${gameId}/play-by-play`);
-  return normalizePlayByPlay(playByPlay);
+  return writeTimedCache(normalizedPlayByPlayCache, cacheKey, normalizePlayByPlay(playByPlay));
 }
 
 async function getGameSummary(env, gameId) {
+  const cacheKey = String(gameId);
+  const cached = readTimedCache(gameSummaryCache, cacheKey);
+  if (cached) {
+    return cached;
+  }
   const payload = await fetchJson(`${baseUrl(env)}/game/${gameId}`);
   const summary = normalizeGameSummaryPayload(payload);
   if (!summary) {
     throw new Error("Game summary was empty");
   }
-  return summary;
+  return writeTimedCache(gameSummaryCache, cacheKey, summary);
 }
 
 async function getGameLiveSummary(env, gameId) {
+  const cacheKey = String(gameId);
+  const cached = readTimedCache(gameLiveSummaryCache, cacheKey);
+  if (cached) {
+    return cached;
+  }
   const summary = await getGameSummary(env, gameId);
   let boxscore = null;
   let analysis = null;
@@ -2226,11 +2816,11 @@ async function getGameLiveSummary(env, gameId) {
     analysis = buildGameAnalysis(summary, boxscore?.error ? null : boxscore, null);
   }
 
-  return {
+  return writeTimedCache(gameLiveSummaryCache, cacheKey, {
     summary,
     boxscore,
     analysis,
-  };
+  });
 }
 
 async function getLatestSchoolBoxscoreDetails(env, schoolSlug, recentWindow) {
@@ -2425,7 +3015,10 @@ async function getSchoolLiveSummary(env, schoolSlug) {
     return null;
   }
 
-  const gamesWindow = await getSchoolGamesWindow(env, school.slug);
+  const gamesWindow = await getSchoolGamesWindow(env, school.slug, {
+    lookbackDays: Math.max(RECENT_LOOKBACK_DAYS, RECENT_FORM_LOOKBACK_DAYS),
+    lookaheadDays: UPCOMING_LOOKAHEAD_DAYS,
+  });
   const latestBoxscore = await getLatestSchoolBoxscore(env, school.slug, gamesWindow);
   let recentForm = null;
 
@@ -2498,6 +3091,7 @@ export default {
             "/api/players/coverage",
             "/api/schools?query=",
             "/api/schools/:slug/live-summary",
+            "/api/schools/:slug/opponent-scout",
             "/api/schools/:slug/recent-form",
             "/api/schools/:slug/player-board",
             "/api/players/national-board",
@@ -2612,6 +3206,19 @@ export default {
           return notFound(`School "${schoolSlug}" was not found in the NCAA school index.`);
         }
         return json(recentForm);
+      }
+
+      const schoolOpponentScoutMatch = url.pathname.match(/^\/api\/schools\/([^/]+)\/opponent-scout$/);
+      if (schoolOpponentScoutMatch) {
+        const schoolSlug = decodeURIComponent(schoolOpponentScoutMatch[1]);
+        const scout = await getSchoolOpponentScout(env, schoolSlug, {
+          gameCount: readInt(url.searchParams.get("games"), OPPONENT_SCOUT_DEFAULT_GAMES, 1, 5),
+          lookbackDays: readInt(url.searchParams.get("lookback"), OPPONENT_SCOUT_LOOKBACK_DAYS, 3, 14),
+        });
+        if (!scout) {
+          return notFound(`School "${schoolSlug}" was not found in the NCAA school index.`);
+        }
+        return json(scout);
       }
 
       const schoolPlayerBoardMatch = url.pathname.match(/^\/api\/schools\/([^/]+)\/player-board$/);

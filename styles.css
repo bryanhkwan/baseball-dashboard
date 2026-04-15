@@ -312,6 +312,31 @@
     .analysisTimeline{display:grid;gap:10px}
     .momentumSpark{display:flex;gap:4px;align-items:flex-end;height:40px;margin-top:8px}
     .momentumBar{width:8px;border-radius:2px;opacity:0.95}
+    .scoutPanel{display:grid;gap:16px;margin-top:2px}
+    .scoutCompareGrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:12px}
+    .scoutCompareCard{padding:14px;border-radius:14px;border:1px solid rgba(255,255,255,.06);background:rgba(255,255,255,.03);display:grid;gap:10px}
+    .scoutCompareCard span{font-size:10px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+    .scoutCompareValues{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+    .scoutCompareValues strong{display:block;font-size:18px;color:#f7fbff}
+    .scoutCompareValues small,.scoutCompareFooter small{font-size:11px;line-height:1.5;color:var(--muted)}
+    .scoutCompareFooter{display:grid;gap:8px}
+    .scoutEdgeChip{display:inline-flex;align-items:center;justify-content:center;min-height:30px;padding:0 10px;border-radius:999px;border:1px solid rgba(255,255,255,.08);background:rgba(255,255,255,.04);font-size:10px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:#dce6f4}
+    .scoutEdgeChip.is-school{border-color:rgba(82,211,153,.22);background:rgba(82,211,153,.12);color:#9bf5c8}
+    .scoutEdgeChip.is-opponent{border-color:rgba(248,113,113,.2);background:rgba(248,113,113,.12);color:#fecaca}
+    .scoutEdgeChip.is-even{border-color:rgba(255,255,255,.08);background:rgba(255,255,255,.04);color:#dce6f4}
+    .scoutWeaknessCard--attack{border-color:rgba(248,113,113,.16);background:rgba(248,113,113,.08)}
+    .scoutWeaknessCard--watch{border-color:rgba(250,204,21,.14);background:rgba(250,204,21,.08)}
+    .scoutWeaknessCard--steady{border-color:rgba(255,255,255,.08);background:rgba(255,255,255,.03)}
+    .scoutHeatmapCard{padding:14px;border-radius:16px;border:1px solid rgba(255,255,255,.06);background:rgba(255,255,255,.03);display:grid;gap:8px}
+    .scoutHeatmapRow{display:grid;grid-template-columns:minmax(150px,1.3fr) repeat(auto-fit,minmax(42px,1fr));gap:8px;align-items:center}
+    .scoutHeatmapRow--head{margin-bottom:4px}
+    .scoutHeatmapLabel{font-size:11px;font-weight:700;color:#dce6f4}
+    .scoutHeatCell{display:flex;align-items:center;justify-content:center;min-height:36px;border-radius:10px;border:1px solid rgba(255,255,255,.05);font-size:11px;font-weight:700;color:#f7fbff}
+    .scoutHeatCell--head{background:rgba(18,31,52,.85);color:#9db1ce;font-size:10px;font-weight:800;letter-spacing:.08em;text-transform:uppercase}
+    @media (max-width: 720px){
+      .scoutHeatmapRow{grid-template-columns:120px repeat(auto-fit,minmax(34px,1fr))}
+      .scoutHeatCell{min-height:32px;font-size:10px}
+    }
     /* Score tier list in the hero aside */
     .scoreTierList{display:grid;gap:8px;margin-top:14px}
     .scoreTier{display:flex;align-items:center;gap:10px;padding:9px 13px;border-radius:10px;font-size:12px;color:#dce6f4;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.06)}

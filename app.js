@@ -287,6 +287,9 @@ const state = {
     selectedSchoolLoading: true,
     selectedSchoolError: "",
     selectedSchoolSummary: null,
+    opponentScoutLoading: false,
+    opponentScoutError: "",
+    opponentScout: null,
     scoreboardLoading: true,
     scoreboardError: "",
     scoreboard: null,
@@ -353,6 +356,7 @@ const pageDataState = {
 let schoolSearchTimer = 0;
 let playerSearchTimer = 0;
 let selectedSchoolRequestId = 0;
+let selectedSchoolOpponentScoutRequestId = 0;
 let playerBoardRequestId = 0;
 let playerCoverageRequestId = 0;
 let playerDetailRequestId = 0;
@@ -2214,6 +2218,7 @@ function renderSelectedSchoolSummary() {
   const batterTotals = schoolTeam.teamStats?.batterTotals || null;
   const pitcherTotals = schoolTeam.teamStats?.pitcherTotals || null;
   const recentForm = summary.recentForm || null;
+  const nextOpponentScout = state.explorer.opponentScout || null;
   const gameCards = [...recentGames.slice(-3), ...upcomingGames.slice(0, 4)];
 
   selectedSchoolMetaEl.textContent = `${summary.windowStart || ""} to ${summary.windowEnd || ""}`.trim();
@@ -2313,6 +2318,13 @@ function renderSelectedSchoolSummary() {
     }
 
       ${renderRecentFormSummary(recentForm)}
+      ${
+        state.explorer.opponentScoutLoading
+          ? '<div class="analysisSectionTitle">Next opponent scout</div><div class="statusNote">Building the opponent scout report...</div>'
+          : state.explorer.opponentScoutError
+            ? `<div class="analysisSectionTitle">Next opponent scout</div><div class="statusNote error">${escapeHtml(state.explorer.opponentScoutError)}</div>`
+            : renderOpponentScout(nextOpponentScout, school.name || school.slug || "Selected school")
+      }
   `;
 
   selectedSchoolGamesEl.innerHTML = gameCards.length
@@ -2473,6 +2485,10 @@ function renderRecentFormSummary(recentForm) {
   const record = aggregate.record || {};
   const games = recentForm.games || [];
   const topPlayers = recentForm.topPlayers || [];
+  const inningProfile = recentForm.inningProfile || null;
+  const strongestScoringInning = inningProfile?.strongestScoringInning || null;
+  const weakestRunPreventionInning = inningProfile?.weakestRunPreventionInning || null;
+  const staffUsage = recentForm.staffUsage || [];
 
   return `
     <div class="analysisSectionTitle">Recent form</div>
@@ -2511,6 +2527,37 @@ function renderRecentFormSummary(recentForm) {
                 `,
               )
               .join("")}
+          </div>
+        `
+        : ""
+    }
+
+    ${
+      strongestScoringInning || weakestRunPreventionInning || staffUsage.length
+        ? `
+          <div class="teamSampleGrid">
+            <article class="teamSampleCard">
+              <h4>Inning trend read</h4>
+              <div class="analysisMiniList">
+                <div class="analysisMiniRow">
+                  <span>Best scoring inning</span>
+                  <strong>${escapeHtml(
+                    strongestScoringInning
+                      ? `Inning ${strongestScoringInning.inning} (${formatScoutMetricValue(strongestScoringInning.runsPerGame)} R/game)`
+                      : "No clear edge yet",
+                  )}</strong>
+                </div>
+                <div class="analysisMiniRow">
+                  <span>Biggest prevention leak</span>
+                  <strong>${escapeHtml(
+                    weakestRunPreventionInning
+                      ? `Inning ${weakestRunPreventionInning.inning} (${formatScoutMetricValue(weakestRunPreventionInning.runsPerGame)} RA/game)`
+                      : "No soft inning yet",
+                  )}</strong>
+                </div>
+              </div>
+            </article>
+            ${renderScoutStaffCards("Recent staff workload", staffUsage.slice(0, 4), "No recent pitching workload was returned.")}
           </div>
         `
         : ""
@@ -2584,6 +2631,224 @@ function renderRecentFormSummary(recentForm) {
         `
         : ""
     }
+  `;
+}
+
+function formatScoutMetricValue(value) {
+  const numeric = Number(value || 0);
+  return Number.isInteger(numeric) ? String(numeric) : numeric.toFixed(1);
+}
+
+function getScoutAdvantageLabel(advantage, schoolName, opponentName) {
+  if (advantage === "school") {
+    return `${schoolName} edge`;
+  }
+  if (advantage === "opponent") {
+    return `${opponentName} edge`;
+  }
+  return "Even";
+}
+
+function buildHeatCellStyle(value, maxValue, hue = "255,210,0") {
+  const opacity = maxValue > 0 ? 0.16 + (Number(value || 0) / maxValue) * 0.52 : 0.12;
+  return `background:rgba(${hue},${Math.min(opacity, 0.82).toFixed(2)})`;
+}
+
+function renderScoutHeatmapRow(label, values = [], maxValue = 0, hue = "255,210,0") {
+  return `
+    <div class="scoutHeatmapRow">
+      <div class="scoutHeatmapLabel">${escapeHtml(label)}</div>
+      ${values
+        .map(
+          (value) => `
+            <div class="scoutHeatCell" style="${buildHeatCellStyle(value, maxValue, hue)}">
+              ${escapeHtml(formatScoutMetricValue(value))}
+            </div>
+          `,
+        )
+        .join("")}
+    </div>
+  `;
+}
+
+function renderScoutStaffCards(title, staffUsage = [], emptyMessage = "No recent staff usage was returned.") {
+  if (!staffUsage.length) {
+    return `
+      <article class="teamSampleCard">
+        <h4>${escapeHtml(title)}</h4>
+        <div class="detailListMeta">${escapeHtml(emptyMessage)}</div>
+      </article>
+    `;
+  }
+
+  return `
+    <article class="teamSampleCard">
+      <h4>${escapeHtml(title)}</h4>
+      <div class="analysisMiniList">
+        ${staffUsage
+          .map(
+            (pitcher) => `
+              <div class="analysisMiniRow">
+                <span>${escapeHtml(pitcher.name)}</span>
+                <strong>${escapeHtml(pitcher.keyLine)}</strong>
+              </div>
+            `,
+          )
+          .join("")}
+      </div>
+    </article>
+  `;
+}
+
+function renderOpponentScout(scout, schoolName = "Toledo") {
+  if (!scout) {
+    return "";
+  }
+
+  if (!scout.available) {
+    return `
+      <div class="analysisSectionTitle">Next opponent scout</div>
+      <div class="statusNote">${escapeHtml(scout.note || "Upcoming opponent scout is not available yet.")}</div>
+    `;
+  }
+
+  const opponentName = scout.opponent?.name || scout.opponent?.long || scout.nextGame?.opponent || "Opponent";
+  const compareMetrics = scout.compareMetrics || [];
+  const weaknessFlags = scout.weaknessFlags || [];
+  const dangerPlayers = scout.dangerPlayers || [];
+  const heatmap = scout.inningHeatmap || null;
+  const maxHeatValue = Number(heatmap?.maxValue || 0);
+
+  return `
+    <div class="analysisSectionTitle">Next opponent scout</div>
+    <section class="scoutPanel">
+      <div class="schoolSummaryHeader">
+        <div>
+          <div class="identityEyebrow">Series preview</div>
+          <div class="schoolSummaryTitle">${escapeHtml(`${scout.nextGame?.venueLabel || "vs"} ${opponentName}`)}</div>
+          <div class="schoolSummarySub">
+            ${escapeHtml(
+              [scout.nextGame?.date || "", scout.nextGame?.startTime || "", scout.note || ""].filter(Boolean).join(" / "),
+            )}
+          </div>
+        </div>
+        <span class="identitySlug">${escapeHtml(scout.opponent?.slug || "")}</span>
+      </div>
+
+      ${
+        scout.insights?.length
+          ? `
+            <div class="analysisInsightList">
+              ${scout.insights
+                .map((insight) => `<div class="analysisInsightCard">${escapeHtml(insight)}</div>`)
+                .join("")}
+            </div>
+          `
+          : ""
+      }
+
+      ${
+        compareMetrics.length
+          ? `
+            <div class="analysisSectionTitle">Matchup compare</div>
+            <div class="scoutCompareGrid">
+              ${compareMetrics
+                .map(
+                  (metric) => `
+                    <article class="scoutCompareCard">
+                      <span>${escapeHtml(metric.label)}</span>
+                      <div class="scoutCompareValues">
+                        <div>
+                          <strong>${escapeHtml(metric.schoolDisplay)}</strong>
+                          <small>${escapeHtml(schoolName)}</small>
+                        </div>
+                        <div>
+                          <strong>${escapeHtml(metric.opponentDisplay)}</strong>
+                          <small>${escapeHtml(opponentName)}</small>
+                        </div>
+                      </div>
+                      <div class="scoutCompareFooter">
+                        <span class="scoutEdgeChip is-${escapeHtml(metric.advantage)}">${escapeHtml(
+                          getScoutAdvantageLabel(metric.advantage, schoolName, opponentName),
+                        )}</span>
+                        <small>${escapeHtml(metric.note || "")}</small>
+                      </div>
+                    </article>
+                  `,
+                )
+                .join("")}
+            </div>
+          `
+          : ""
+      }
+
+      <div class="analysisSectionTitle">Attack points</div>
+      <div class="teamSampleGrid">
+        ${
+          weaknessFlags.length
+            ? weaknessFlags
+                .map(
+                  (flag) => `
+                    <article class="teamSampleCard scoutWeaknessCard scoutWeaknessCard--${escapeHtml(flag.emphasis || "watch")}">
+                      <h4>${escapeHtml(flag.title)}</h4>
+                      <div class="detailListMeta">${escapeHtml(flag.detail)}</div>
+                    </article>
+                  `,
+                )
+                .join("")
+            : '<div class="statusNote">No clear weakness flags were returned.</div>'
+        }
+      </div>
+
+      <div class="analysisSectionTitle">Danger players</div>
+      <div class="analysisPlayerGrid">
+        ${
+          dangerPlayers.length
+            ? dangerPlayers
+                .map(
+                  (player) => `
+                    <article class="analysisPlayerCard">
+                      <div class="analysisPlayerTop">
+                        <div>
+                          <div class="analysisPlayerName">${escapeHtml(player.name)}</div>
+                          <div class="analysisPlayerMeta">${escapeHtml(`${player.gamesTracked} tracked game${player.gamesTracked === 1 ? "" : "s"}`)}</div>
+                        </div>
+                        <span class="analysisImpactScore">${escapeHtml(player.impactScore)}</span>
+                      </div>
+                      <div class="detailListMeta">${escapeHtml(player.keyLine || "Recent impact")}</div>
+                      ${player.highlights?.[0] ? `<div class="guideText">${escapeHtml(player.highlights[0])}</div>` : ""}
+                    </article>
+                  `,
+                )
+                .join("")
+            : '<div class="statusNote">No opponent danger players were surfaced from the recent-form sample.</div>'
+        }
+      </div>
+
+      ${
+        heatmap
+          ? `
+            <div class="analysisSectionTitle">Inning pressure map</div>
+            <div class="scoutHeatmapCard">
+              <div class="scoutHeatmapRow scoutHeatmapRow--head">
+                <div class="scoutHeatmapLabel">Split</div>
+                ${heatmap.innings.map((inning) => `<div class="scoutHeatCell scoutHeatCell--head">${escapeHtml(inning)}</div>`).join("")}
+              </div>
+              ${renderScoutHeatmapRow(`${schoolName} scored`, heatmap.schoolScored, maxHeatValue, "82,211,153")}
+              ${renderScoutHeatmapRow(`${schoolName} allowed`, heatmap.schoolAllowed, maxHeatValue, "248,113,113")}
+              ${renderScoutHeatmapRow(`${opponentName} scored`, heatmap.opponentScored, maxHeatValue, "255,210,0")}
+              ${renderScoutHeatmapRow(`${opponentName} allowed`, heatmap.opponentAllowed, maxHeatValue, "36,79,143")}
+            </div>
+          `
+          : ""
+      }
+
+      <div class="analysisSectionTitle">Recent staff usage</div>
+      <div class="teamSampleGrid">
+        ${renderScoutStaffCards(`${schoolName} recent workload`, scout.staffUsage?.school || [], "No recent Toledo pitching usage was returned.")}
+        ${renderScoutStaffCards(`${opponentName} recent workload`, scout.staffUsage?.opponent || [], "No opponent pitching usage was returned.")}
+      </div>
+    </section>
   `;
 }
 
@@ -3218,6 +3483,9 @@ async function loadSelectedSchoolSummary(schoolSlug) {
   state.explorer.selectedSchoolSlug = schoolSlug;
   state.explorer.selectedSchoolLoading = true;
   state.explorer.selectedSchoolError = "";
+  state.explorer.opponentScout = null;
+  state.explorer.opponentScoutError = "";
+  state.explorer.opponentScoutLoading = false;
   renderExplorer();
 
   try {
@@ -3227,6 +3495,7 @@ async function loadSelectedSchoolSummary(schoolSlug) {
       }
       state.explorer.selectedSchoolSummary = state.overview.summary;
       state.explorer.selectedSchoolError = "";
+      loadSelectedSchoolOpponentScout(schoolSlug, { renderInterim: false });
     } else {
       const summary = await fetchDashboardJson(`/api/schools/${encodeURIComponent(schoolSlug)}/live-summary`);
       if (requestId !== selectedSchoolRequestId) {
@@ -3234,18 +3503,59 @@ async function loadSelectedSchoolSummary(schoolSlug) {
       }
       state.explorer.selectedSchoolSummary = summary;
       state.explorer.selectedSchoolError = "";
+      loadSelectedSchoolOpponentScout(schoolSlug, { renderInterim: false });
     }
   } catch (error) {
     if (requestId !== selectedSchoolRequestId) {
       return;
     }
     state.explorer.selectedSchoolError = error instanceof Error ? error.message : String(error);
+    state.explorer.opponentScout = null;
+    state.explorer.opponentScoutError = "";
+    state.explorer.opponentScoutLoading = false;
   } finally {
     if (requestId !== selectedSchoolRequestId) {
       return;
     }
     state.explorer.selectedSchoolLoading = false;
     render();
+  }
+}
+
+async function loadSelectedSchoolOpponentScout(schoolSlug, options = {}) {
+  const requestId = ++selectedSchoolOpponentScoutRequestId;
+  state.explorer.opponentScoutLoading = true;
+  state.explorer.opponentScoutError = "";
+  state.explorer.opponentScout = null;
+
+  if (options.renderInterim !== false) {
+    renderSelectedSchoolSummary();
+  }
+
+  try {
+    const params = new URLSearchParams();
+    params.set("games", "3");
+    params.set("lookback", "6");
+    const payload = await fetchDashboardJson(
+      `/api/schools/${encodeURIComponent(schoolSlug)}/opponent-scout?${params.toString()}`,
+    );
+    if (requestId !== selectedSchoolOpponentScoutRequestId || schoolSlug !== state.explorer.selectedSchoolSlug) {
+      return;
+    }
+    state.explorer.opponentScout = payload;
+    state.explorer.opponentScoutError = "";
+  } catch (error) {
+    if (requestId !== selectedSchoolOpponentScoutRequestId || schoolSlug !== state.explorer.selectedSchoolSlug) {
+      return;
+    }
+    state.explorer.opponentScoutError = error instanceof Error ? error.message : String(error);
+    state.explorer.opponentScout = null;
+  } finally {
+    if (requestId !== selectedSchoolOpponentScoutRequestId || schoolSlug !== state.explorer.selectedSchoolSlug) {
+      return;
+    }
+    state.explorer.opponentScoutLoading = false;
+    renderSelectedSchoolSummary();
   }
 }
 
