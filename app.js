@@ -480,6 +480,14 @@ function clamp(value, min, max) {
   return Math.min(max, Math.max(min, value));
 }
 
+function roundTo(value, decimals = 1) {
+  if (!Number.isFinite(Number(value))) {
+    return 0;
+  }
+  const factor = 10 ** decimals;
+  return Math.round(Number(value) * factor) / factor;
+}
+
 function scale(value, min, max) {
   return ((clamp(value, min, max) - min) / (max - min)) * 100;
 }
@@ -1550,20 +1558,26 @@ function closePlayerProfile() {
   setPlayerProfileModalOpen(false);
 }
 
-function openPlayerProfile(playerId) {
+function openPlayerProfile(playerOrId) {
+  const directPlayer =
+    playerOrId && typeof playerOrId === "object" && !Array.isArray(playerOrId) ? playerOrId : null;
+  const playerId = directPlayer?.id || String(playerOrId || "");
   if (!playerId) {
     return;
   }
-  const playerFromPage = findPlayerInCurrentPage(playerId);
+  const playerFromPage = directPlayer || findPlayerInCurrentPage(playerId);
   state.selectedPlayerId = playerId;
   state.playerBoard.selectedPlayerError = "";
   if (playerFromPage) {
+    state.playerBoard.selectedPlayerLoading = false;
     state.playerBoard.selectedPlayer = playerFromPage;
   }
   setPlayerProfileModalOpen(true);
+  renderPlayerProfileModal();
   renderPlayers();
   if (hasRichPlayerDetail(playerFromPage)) {
     state.playerBoard.selectedPlayerLoading = false;
+    renderPlayerProfileModal();
     return;
   }
   if (playerId === state.selectedPlayerId && state.playerBoard.selectedPlayer?.id === playerId && !playerFromPage) {
@@ -1625,7 +1639,7 @@ function renderPlayerProfileModal() {
     playerProfileModalLinkEl.removeAttribute("href");
   }
 
-  if (state.playerBoard.selectedPlayerLoading && !state.playerBoard.selectedPlayer) {
+  if (state.playerBoard.selectedPlayerLoading && !selectedPlayer) {
     playerProfileModalBodyEl.innerHTML = '<div class="statusNote">Loading player profile...</div>';
     return;
   }
@@ -1635,12 +1649,18 @@ function renderPlayerProfileModal() {
     return;
   }
 
-  if (!state.playerBoard.selectedPlayer) {
+  if (!selectedPlayer) {
     playerProfileModalBodyEl.innerHTML = '<div class="statusNote">Player detail is not available yet.</div>';
     return;
   }
 
-  playerProfileModalBodyEl.innerHTML = renderPlayerProfileBody(state.playerBoard.selectedPlayer, payload, getPlayerBoardMode());
+  try {
+    playerProfileModalBodyEl.innerHTML = renderPlayerProfileBody(selectedPlayer, payload, getPlayerBoardMode());
+  } catch (error) {
+    console.error("Failed to render player profile modal", error, selectedPlayer);
+    const message = error instanceof Error ? error.message : String(error);
+    playerProfileModalBodyEl.innerHTML = `<div class="statusNote error">We couldn't render this player profile yet. ${escapeHtml(message)}</div>`;
+  }
 }
 
 function renderSourceChecks() {
@@ -2012,29 +2032,7 @@ function renderPlayers() {
   const selectedPlayer = state.playerBoard.selectedPlayer || null;
   const payload = getActivePlayerBoard();
 
-  if (state.playerBoard.selectedPlayerLoading && !selectedPlayer) {
-    if (playerProfileModalBodyEl) {
-      playerProfileModalBodyEl.innerHTML = '<div class="statusNote">Loading player profile...</div>';
-    }
-    renderPlayerProfileModal();
-    return;
-  }
-
-  if (state.playerBoard.selectedPlayerError) {
-    if (playerProfileModalBodyEl) {
-      playerProfileModalBodyEl.innerHTML = `<div class="statusNote error">${escapeHtml(state.playerBoard.selectedPlayerError)}</div>`;
-    }
-    renderPlayerProfileModal();
-    return;
-  }
-
-  if (!selectedPlayer) {
-    renderPlayerProfileModal();
-    return;
-  }
-
   if (playerProfileModalBodyEl) {
-    playerProfileModalBodyEl.innerHTML = renderPlayerProfileBody(selectedPlayer, payload, mode);
     renderPlayerProfileModal();
     return;
   }
