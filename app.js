@@ -276,6 +276,7 @@ const state = {
     searchQuery: "",
     page: 1,
     pageSize: 40,
+    profileOpen: false,
   },
   explorer: {
     schoolQuery: "",
@@ -299,7 +300,6 @@ const state = {
 const sourceListEl = document.querySelector("#source-list");
 const metricGridEl = document.querySelector("#metric-grid");
 const playerTableBodyEl = document.querySelector("#player-table-body");
-const playerDetailEl = document.querySelector("#player-detail");
 const playersPanelSubEl = document.querySelector("#players-panel-sub");
 const playersFootnoteEl = document.querySelector("#players-footnote");
 const playerSearchEl = document.querySelector("#player-search");
@@ -327,6 +327,16 @@ const selectedSchoolMetaEl = document.querySelector("#selected-school-meta");
 const scoreboardMetaEl = document.querySelector("#scoreboard-meta");
 const scoreboardListEl = document.querySelector("#scoreboard-list");
 const gameDetailEl = document.querySelector("#game-detail");
+const playerProfileModalBackEl = document.querySelector("#playerProfileModalBack");
+const playerProfileModalCloseEl = document.querySelector("#playerProfileModalClose");
+const playerProfileModalBodyEl = document.querySelector("#playerProfileModalBody");
+const playerProfileModalTitleEl = document.querySelector("#playerProfileModalTitle");
+const playerProfileModalEyebrowEl = document.querySelector("#playerProfileModalEyebrow");
+const playerProfileModalSubEl = document.querySelector("#playerProfileModalSub");
+const playerProfileModalMetaEl = document.querySelector("#playerProfileModalMeta");
+const playerProfileAvatarEl = document.querySelector("#playerProfileAvatar");
+const playerProfileModalLinkEl = document.querySelector("#playerProfileModalLink");
+const playerDetailEl = playerProfileModalBodyEl;
 
 const API_BASE = resolveApiBase();
 const LIVE_API_ENABLED = Boolean(API_BASE);
@@ -360,6 +370,9 @@ function showDashboardPage(targetId) {
     target.style.animation = 'none';
     target.offsetHeight;
     target.style.animation = '';
+  }
+  if (targetId !== "pagePlayers" && state.playerBoard.profileOpen) {
+    closePlayerProfile();
   }
   ensurePageDataLoaded(targetId);
   window.scrollTo(0, 0);
@@ -855,6 +868,14 @@ function getAvailablePlayers() {
   return getActivePlayerBoard()?.data || [];
 }
 
+function findPlayerInCurrentPage(playerId = "") {
+  return getAvailablePlayers().find((player) => player.id === playerId) || null;
+}
+
+function hasRichPlayerDetail(player = {}) {
+  return Boolean(player && Object.keys(player.components || {}).length && (player.statCards || []).length);
+}
+
 function getFilteredPlayers() {
   return getAvailablePlayers();
 }
@@ -981,6 +1002,645 @@ function renderPlayerProfileSnapshot(player, payload) {
       <div class="detailListMeta">${escapeHtml(sourceLine)}</div>
     </div>
   `;
+}
+
+function buildPlayerInitials(name = "") {
+  const parts = String(name || "")
+    .trim()
+    .split(/\s+/)
+    .filter(Boolean)
+    .slice(0, 2);
+  if (!parts.length) {
+    return "--";
+  }
+  return parts.map((part) => part[0]?.toUpperCase() || "").join("");
+}
+
+function parseStatCardNumber(value) {
+  if (value == null) {
+    return Number.NaN;
+  }
+  const normalized = String(value).trim().replace(/,/g, "");
+  if (!normalized || normalized === "--" || normalized === "N/A") {
+    return Number.NaN;
+  }
+  const parsed = Number(normalized);
+  return Number.isFinite(parsed) ? parsed : Number.NaN;
+}
+
+function getPlayerStatCardMap(player = {}) {
+  const map = new Map();
+  for (const card of player.statCards || []) {
+    if (!card?.label) {
+      continue;
+    }
+    map.set(card.label, card.value);
+  }
+  return map;
+}
+
+function readPlayerStatValue(player, labels = []) {
+  const statMap = getPlayerStatCardMap(player);
+  for (const label of labels) {
+    const value = statMap.get(label);
+    if (value != null && value !== "") {
+      return value;
+    }
+  }
+  return "";
+}
+
+function readPlayerStatNumber(player, labels = []) {
+  for (const label of labels) {
+    const numericValue = parseStatCardNumber(readPlayerStatValue(player, [label]));
+    if (Number.isFinite(numericValue)) {
+      return numericValue;
+    }
+  }
+  return Number.NaN;
+}
+
+function getPlayerComponentEntries(player = {}) {
+  return Object.entries(player.components || {})
+    .map(([label, value]) => [label, Number(value)])
+    .filter(([, value]) => Number.isFinite(value))
+    .sort((left, right) => right[1] - left[1]);
+}
+
+function getPlayerRadarEntries(player = {}) {
+  return Object.entries(player.components || {})
+    .map(([label, value]) => [label, Number(value)])
+    .filter(([, value]) => Number.isFinite(value))
+    .slice(0, 5);
+}
+
+function getRadarLabelShort(label = "") {
+  return (
+    {
+      "On-base": "On-Base",
+      Power: "Power",
+      Contact: "Contact",
+      Discipline: "Discipline",
+      Speed: "Speed",
+      Production: "Production",
+      "Base pressure": "Pressure",
+      Impact: "Impact",
+      Defense: "Defense",
+      "Run prevention": "Run Prev",
+      "Traffic control": "Traffic",
+      "Miss bats": "Miss Bats",
+      Command: "Command",
+      "Damage suppression": "Damage",
+      Workload: "Workload",
+      Results: "Results",
+      "Result value": "Results",
+    }[label] || label
+  );
+}
+
+function buildRadarPolygonPoints(entries, centerX, centerY, radius, scaleFactor = 1) {
+  const angleStep = (Math.PI * 2) / Math.max(entries.length, 1);
+  return entries
+    .map(([, value], index) => {
+      const angle = -Math.PI / 2 + angleStep * index;
+      const scaledRadius = radius * scaleFactor * clamp(Number(value) / 100, 0, 1);
+      const x = centerX + Math.cos(angle) * scaledRadius;
+      const y = centerY + Math.sin(angle) * scaledRadius;
+      return `${roundTo(x, 1)},${roundTo(y, 1)}`;
+    })
+    .join(" ");
+}
+
+function renderRadarAxisLabel(label, index, count, centerX, centerY, radius) {
+  const angle = -Math.PI / 2 + ((Math.PI * 2) / Math.max(count, 1)) * index;
+  const labelRadius = radius + 26;
+  const x = centerX + Math.cos(angle) * labelRadius;
+  const y = centerY + Math.sin(angle) * labelRadius;
+  const anchor = Math.abs(Math.cos(angle)) < 0.18 ? "middle" : Math.cos(angle) > 0 ? "start" : "end";
+  const lines = getRadarLabelShort(label).split(" ");
+  const startY = y - ((lines.length - 1) * 6);
+
+  return `
+    <text x="${roundTo(x, 1)}" y="${roundTo(startY, 1)}" text-anchor="${anchor}" class="playerRadarLabel">
+      ${lines
+        .map(
+          (line, lineIndex) =>
+            `<tspan x="${roundTo(x, 1)}" dy="${lineIndex === 0 ? 0 : 12}">${escapeHtml(line)}</tspan>`,
+        )
+        .join("")}
+    </text>
+  `;
+}
+
+function renderPlayerRadarChart(player = {}) {
+  const entries = getPlayerRadarEntries(player);
+  if (!entries.length) {
+    return `
+      <div class="playerRadarEmpty">
+        <div class="statusNote">Radar chart unavailable until the profile has component grades.</div>
+      </div>
+    `;
+  }
+
+  const centerX = 180;
+  const centerY = 170;
+  const radius = 108;
+  const levels = [0.25, 0.5, 0.75, 1];
+  const angleStep = (Math.PI * 2) / Math.max(entries.length, 1);
+
+  const axisLines = entries
+    .map((_, index) => {
+      const angle = -Math.PI / 2 + angleStep * index;
+      const x = centerX + Math.cos(angle) * radius;
+      const y = centerY + Math.sin(angle) * radius;
+      return `<line x1="${centerX}" y1="${centerY}" x2="${roundTo(x, 1)}" y2="${roundTo(y, 1)}" class="playerRadarAxis" />`;
+    })
+    .join("");
+
+  const gridPolygons = levels
+    .map((level, index) => {
+      const points = buildRadarPolygonPoints(entries, centerX, centerY, radius, level);
+      return `<polygon points="${points}" class="playerRadarGrid ${index === levels.length - 1 ? "is-outer" : ""}" />`;
+    })
+    .join("");
+
+  const dataPolygon = buildRadarPolygonPoints(entries, centerX, centerY, radius, 1);
+  const labels = entries
+    .map(([label], index) => renderRadarAxisLabel(label, index, entries.length, centerX, centerY, radius))
+    .join("");
+
+  const averageScore = Math.round(
+    entries.reduce((sum, [, value]) => sum + Number(value), 0) / Math.max(entries.length, 1),
+  );
+  const sortedValues = entries.map(([, value]) => Number(value)).sort((a, b) => b - a);
+  const spread = Math.round((sortedValues[0] || 0) - (sortedValues[sortedValues.length - 1] || 0));
+  const shapeLabel = spread <= 16 ? "Balanced" : spread <= 30 ? "Leaning" : "Spiky";
+
+  return `
+    <div class="playerRadarWrap">
+      <div class="playerRadarSvgShell">
+        <svg viewBox="0 0 360 340" class="playerRadarSvg" aria-label="${escapeHtml(player.name || "Player")} profile radar chart">
+          <defs>
+            <linearGradient id="playerRadarFill" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stop-color="#FFD200" stop-opacity="0.55" />
+              <stop offset="100%" stop-color="#244f8f" stop-opacity="0.72" />
+            </linearGradient>
+          </defs>
+          ${gridPolygons}
+          ${axisLines}
+          <polygon points="${dataPolygon}" class="playerRadarDataFill" />
+          <polygon points="${dataPolygon}" class="playerRadarDataStroke" />
+          ${entries
+            .map(([, value], index) => {
+              const angle = -Math.PI / 2 + angleStep * index;
+              const scaledRadius = radius * clamp(Number(value) / 100, 0, 1);
+              const x = centerX + Math.cos(angle) * scaledRadius;
+              const y = centerY + Math.sin(angle) * scaledRadius;
+              return `<circle cx="${roundTo(x, 1)}" cy="${roundTo(y, 1)}" r="4.5" class="playerRadarPoint" />`;
+            })
+            .join("")}
+          ${labels}
+        </svg>
+      </div>
+      <div class="playerRadarLegend">
+        <div class="playerRadarLegendKpis">
+          <div class="playerRadarLegendKpi">
+            <span>Average grade</span>
+            <strong>${averageScore}/100</strong>
+          </div>
+          <div class="playerRadarLegendKpi">
+            <span>Profile shape</span>
+            <strong>${shapeLabel}</strong>
+          </div>
+        </div>
+        <div class="playerRadarLegendRows">
+          ${entries
+            .map(
+              ([label, value]) => `
+                <div class="playerRadarLegendRow">
+                  <span>${escapeHtml(label)}</span>
+                  <strong>${Math.round(value)}</strong>
+                </div>
+              `,
+            )
+            .join("")}
+        </div>
+      </div>
+    </div>
+  `;
+}
+
+function getPlayerCoverageRead(player = {}) {
+  const boardOrigins = player.boardOrigins || [];
+  const rosterOnly = (player.detailBadges || []).some((badge) => /roster-only/i.test(String(badge)));
+  if (rosterOnly) {
+    return "Roster-only coverage";
+  }
+  if (boardOrigins.includes("National API board")) {
+    return "National benchmark coverage";
+  }
+  if (boardOrigins.includes("NCAA boxscore pool")) {
+    return "Tracked game coverage";
+  }
+  if (boardOrigins.includes("Toledo season roster")) {
+    return "Season roster coverage";
+  }
+  return boardOrigins[0] || "Unified board coverage";
+}
+
+function buildPlayerArchetype(player = {}) {
+  const role = player.role === "Pitcher" ? "Pitcher" : "Hitter";
+  const components = Object.fromEntries(getPlayerComponentEntries(player));
+  const onBase = Number(components["On-base"] ?? components["Base pressure"] ?? 0);
+  const impact = Number(components.Impact ?? components.Power ?? 0);
+  const contact = Number(components.Contact ?? components.Production ?? 0);
+  const speed = Number(components.Speed ?? 0);
+  const discipline = Number(components.Discipline ?? 0);
+  const defense = Number(components.Defense ?? 0);
+  const runPrevention = Number(components["Run prevention"] ?? 0);
+  const missBats = Number(components["Miss bats"] ?? 0);
+  const command = Number(components.Command ?? 0);
+  const traffic = Number(components["Traffic control"] ?? 0);
+  const workload = Number(components.Workload ?? components.Results ?? components["Result value"] ?? 0);
+
+  if (role === "Hitter") {
+    if (impact >= 72 && onBase >= 62) {
+      return {
+        title: "Impact bat",
+        note: "Profiles like a middle-order hitter who can do damage without being an empty-power profile.",
+        usage: "Best used as a lineup bat you expect to create run-scoring swings, not just fill a defensive spot.",
+      };
+    }
+    if (onBase >= 74 && (discipline >= 65 || speed >= 60)) {
+      return {
+        title: "Table setter",
+        note: "Gets on base, keeps at-bats under control, and can pressure defenses before the middle of the order hits.",
+        usage: "Most useful near the top of the lineup or as a pace-setter in a contact-heavy offense.",
+      };
+    }
+    if (contact >= 68 && speed >= 58) {
+      return {
+        title: "Pressure-contact bat",
+        note: "Wins with contact quality, pace, and enough athletic pressure to help the offense in multiple ways.",
+        usage: "Useful when coaches want a playable bat that can move runners and stress defenders.",
+      };
+    }
+    if (defense >= 68 && onBase >= 54) {
+      return {
+        title: "Two-way regular",
+        note: "Not built around one loud carrying tool, but stable enough across phases to support winning lineups.",
+        usage: "Projects as a steady everyday piece if the defensive home is real.",
+      };
+    }
+    return {
+      title: "Development bat",
+      note: "The profile has one or two workable traits, but the complete offensive shape still needs more certainty.",
+      usage: "More watch-list than plug-and-play until one carrying offensive trait shows up consistently.",
+    };
+  }
+
+  if (missBats >= 74 && command >= 62) {
+    return {
+      title: "Bat-missing strike thrower",
+      note: "This is the kind of arm coaches trust because the stuff misses bats and the control profile does not fight the outing.",
+      usage: "Can work in real leverage and is worth pursuing quickly if the role fit checks out.",
+    };
+  }
+  if (runPrevention >= 72 && traffic >= 66) {
+    return {
+      title: "Run suppressor",
+      note: "Limits damage, keeps traffic manageable, and looks built to stay on the mound rather than nibble through trouble.",
+      usage: "Fits staffs that need dependable innings more than pure radar-gun upside.",
+    };
+  }
+  if (workload >= 62 && runPrevention >= 55) {
+    return {
+      title: "Starter-volume profile",
+      note: "Carries enough workload shape to matter across a weekend, even if the pure swing-and-miss ceiling is still developing.",
+      usage: "Useful when Toledo needs stability and series innings more than one-inning flash.",
+    };
+  }
+  if (missBats >= 68 && workload < 52) {
+    return {
+      title: "Late-inning arm",
+      note: "The miss-bat trait is the carrying tool, which usually translates best in shorter bursts or leverage pockets.",
+      usage: "Projects best in relief unless command and workload both take a step.",
+    };
+  }
+  return {
+    title: "Pitching depth profile",
+    note: "There are workable ingredients here, but coaches would still want role clarity before treating this as a rotation or leverage lock.",
+    usage: "More role-dependent than certainty-driven right now.",
+  };
+}
+
+function buildPlayerCoachCards(player = {}, payload = null) {
+  const components = getPlayerComponentEntries(player);
+  const strongest = components[0];
+  const support = components[1];
+  const weakest = components[components.length - 1];
+  const archetype = buildPlayerArchetype(player);
+  const coverageRead = getPlayerCoverageRead(player);
+  const hasRecentTrend = Boolean(player.recentTrend?.gamesTracked);
+  const hasLatestImpact = Boolean(player.latestGameImpact?.impactScore);
+  const coverageWarning = coverageRead === "Roster-only coverage";
+
+  const watchText = coverageWarning
+    ? "This player is visible in roster data, but coaches still need game or season-stat confirmation before treating the score as a real recruiting signal."
+    : weakest
+      ? `${weakest[0]} is the softest part of the profile right now, so that is the first place to pressure-test on video or live eval.`
+      : "There is not enough tracked data yet to isolate a clear soft spot.";
+
+  const nextStepText =
+    player.role === "Pitcher"
+      ? hasLatestImpact
+        ? "Cross-check the recent outing notes against season command and role usage before pushing this arm up the board."
+        : "Verify whether the arm is a starter, bulk option, or leverage reliever before assigning Toledo value."
+      : hasRecentTrend
+        ? "Check whether the recent trend matches the season offensive shape before treating this as a sustainable bat."
+        : "Validate defensive home and offensive role together so the bat is not being graded in a vacuum.";
+
+  return [
+    {
+      label: "Profile type",
+      title: archetype.title,
+      text: archetype.note,
+    },
+    {
+      label: "Best translation",
+      title: strongest ? `${strongest[0]} first` : "Traits still thin",
+      text: strongest
+        ? `${COMPONENT_HELP[strongest[0]] || strongest[0]} drives the profile now${support ? `, with ${support[0].toLowerCase()} as the support tool.` : "."}`
+        : "There is not enough tracked performance to name a clear carrying tool yet.",
+    },
+    {
+      label: "Coach watch",
+      title: weakest ? weakest[0] : "Coverage check",
+      text: watchText,
+    },
+    {
+      label: "Next eval step",
+      title: coverageRead,
+      text: `${nextStepText}${payload?.boardCoverage ? ` Board context: ${payload.boardCoverage}.` : ""}`,
+    },
+  ];
+}
+
+function buildPlayerInsightCards(player = {}) {
+  const components = getPlayerComponentEntries(player);
+  const strongest = components[0];
+  const support = components[1];
+  const weakest = components[components.length - 1];
+  const coverageRead = getPlayerCoverageRead(player);
+
+  return [
+    {
+      label: "Top tool",
+      value: strongest ? `${strongest[0]} ${Math.round(strongest[1])}/100` : "Awaiting data",
+      note: strongest ? COMPONENT_HELP[strongest[0]] || strongest[0] : "No component grades were returned.",
+    },
+    {
+      label: "Support tool",
+      value: support ? `${support[0]} ${Math.round(support[1])}/100` : "Thin sample",
+      note: support ? COMPONENT_HELP[support[0]] || support[0] : "A second dependable trait has not separated yet.",
+    },
+    {
+      label: "Watch item",
+      value: weakest ? `${weakest[0]} ${Math.round(weakest[1])}/100` : "Coverage review",
+      note: weakest ? `This is the softest piece of the profile today.` : "Start by verifying role and workload.",
+    },
+    {
+      label: "Coverage",
+      value: coverageRead,
+      note: player.sourceSummary || "Unified player board",
+    },
+  ];
+}
+
+function renderPlayerProfileBody(player, payload, mode) {
+  const coachCards = buildPlayerCoachCards(player, payload);
+  const insightCards = buildPlayerInsightCards(player);
+
+  return `
+    <section class="playerProfileHero">
+      <article class="playerProfileHeroCard">
+        <div class="playerProfileHeroTop">
+          <div>
+            <p class="eyebrow">${escapeHtml(player.role === "Pitcher" ? "Pitcher profile" : "Hitter profile")}</p>
+            <h3 class="playersPanelTitle">${escapeHtml(player.name)}</h3>
+            <div class="detailListMeta">${escapeHtml([player.school, player.role, player.position].filter(Boolean).join(" / "))}</div>
+          </div>
+          <div class="playerProfileScoreStack">
+            <span class="scoreBadge scoreBadgeLarge">${escapeHtml(player.score)}</span>
+            <span class="fitChip ${player.fit.className}">${escapeHtml(player.fit.label)}</span>
+          </div>
+        </div>
+        <p class="playerProfileHeroSummary">${escapeHtml(player.summary || "Player summary unavailable.")}</p>
+        <div class="detailMeta">
+          ${(player.detailBadges || [])
+            .map((badge) => `<span>${escapeHtml(badge)}</span>`)
+            .join("")}
+        </div>
+      </article>
+      <article class="playerProfileHeroCard">
+        <div class="playerProfileSectionTitle">Profile shape</div>
+        ${renderPlayerRadarChart(player)}
+        <div class="playerProfileSectionTitle">Coach translation</div>
+        <div class="playerProfileInsightGrid">
+          ${insightCards
+            .map(
+              (card) => `
+                <div class="playerProfileInsightCard">
+                  <span>${escapeHtml(card.label)}</span>
+                  <strong>${escapeHtml(card.value)}</strong>
+                  <small>${escapeHtml(card.note)}</small>
+                </div>
+              `,
+            )
+            .join("")}
+        </div>
+      </article>
+    </section>
+
+    <section class="playerProfileCoachGrid">
+      ${coachCards
+        .map(
+          (card) => `
+            <article class="playerProfileCoachCard">
+              <div class="playerProfileCoachLabel">${escapeHtml(card.label)}</div>
+              <div class="playerProfileCoachTitle">${escapeHtml(card.title)}</div>
+              <div class="playerProfileCoachText">${escapeHtml(card.text)}</div>
+            </article>
+          `,
+        )
+        .join("")}
+    </section>
+
+    <section class="playerProfileSection">
+      ${renderPlayerProfileSnapshot(player, payload)}
+    </section>
+
+    ${
+      player.statCards?.length
+        ? `
+          <section class="playerProfileSection">
+            <div class="playerProfileSectionTitle">Key stats</div>
+            <div class="playerStatGrid">
+              ${player.statCards
+                .map(
+                  (card) => `
+                    <div class="playerStatCard">
+                      <span>${escapeHtml(STAT_LABEL_MAP[card.label] || card.label)}</span>
+                      <strong>${escapeHtml(card.value)}</strong>
+                    </div>
+                  `,
+                )
+                .join("")}
+            </div>
+          </section>
+        `
+        : ""
+    }
+
+    <section class="playerProfileSection">
+      <div class="playerProfileSectionTitle">Score breakdown</div>
+      <div class="breakdownList">
+        ${Object.entries(player.components || {})
+          .map(
+            ([label, value]) => `
+              <div class="breakdownRow">
+                <header>
+                  <span>${escapeHtml(label)}${COMPONENT_HELP[label] ? ` <span class="breakdownHelp">${escapeHtml(COMPONENT_HELP[label])}</span>` : ""}</span>
+                  <strong>${Math.round(value)}/100</strong>
+                </header>
+                <div class="breakdownTrack">
+                  <div class="breakdownFill" style="width:${Math.round(value)}%"></div>
+                </div>
+              </div>
+            `,
+          )
+          .join("")}
+      </div>
+    </section>
+
+    ${renderPlayerImpactSections(player, payload, mode)}
+
+    <section class="playerProfileSourceBlock">
+      <div class="detailSummaryTop">
+        <strong>${escapeHtml(player.score)}/100</strong>
+        <span class="fitChip ${player.fit.className} fitChipSmall">${escapeHtml(player.fit.label)}</span>
+      </div>
+      <p class="detailText">${escapeHtml(FIT_EXPLANATIONS[player.fit.label] || player.fit.label)}</p>
+      <div class="detailListMeta">${escapeHtml((player.summaryMetrics || []).join(" / "))}</div>
+      ${player.sourceSummary ? `<div class="detailText">${escapeHtml(player.sourceSummary)}</div>` : ""}
+    </section>
+  `;
+}
+
+function setPlayerProfileModalOpen(isOpen) {
+  state.playerBoard.profileOpen = Boolean(isOpen);
+  if (playerProfileModalBackEl) {
+    playerProfileModalBackEl.classList.toggle("is-open", state.playerBoard.profileOpen);
+    playerProfileModalBackEl.setAttribute("aria-hidden", state.playerBoard.profileOpen ? "false" : "true");
+  }
+  document.body.classList.toggle("modalOpen", state.playerBoard.profileOpen);
+}
+
+function closePlayerProfile() {
+  setPlayerProfileModalOpen(false);
+}
+
+function openPlayerProfile(playerId) {
+  if (!playerId) {
+    return;
+  }
+  const playerFromPage = findPlayerInCurrentPage(playerId);
+  state.selectedPlayerId = playerId;
+  state.playerBoard.selectedPlayerError = "";
+  if (playerFromPage) {
+    state.playerBoard.selectedPlayer = playerFromPage;
+  }
+  setPlayerProfileModalOpen(true);
+  renderPlayers();
+  if (hasRichPlayerDetail(playerFromPage)) {
+    state.playerBoard.selectedPlayerLoading = false;
+    return;
+  }
+  if (playerId === state.selectedPlayerId && state.playerBoard.selectedPlayer?.id === playerId && !playerFromPage) {
+    renderPlayers();
+    return;
+  }
+  loadPlayerDetail(playerId);
+}
+
+function renderPlayerProfileModal() {
+  if (!playerProfileModalBackEl || !playerProfileModalBodyEl) {
+    return;
+  }
+
+  if (!state.playerBoard.profileOpen) {
+    setPlayerProfileModalOpen(false);
+    return;
+  }
+
+  const payload = getActivePlayerBoard();
+  const tablePlayer = (payload?.data || []).find((player) => player.id === state.selectedPlayerId) || null;
+  const selectedPlayer = state.playerBoard.selectedPlayer || tablePlayer;
+  const headerPlayer = selectedPlayer || tablePlayer;
+
+  setPlayerProfileModalOpen(true);
+
+  if (!headerPlayer) {
+    playerProfileModalEyebrowEl.textContent = "Player profile";
+    playerProfileModalTitleEl.textContent = "Player";
+    playerProfileModalSubEl.textContent = "Profile unavailable";
+    playerProfileModalMetaEl.innerHTML = "";
+    playerProfileAvatarEl.textContent = "--";
+    playerProfileModalBodyEl.innerHTML = '<div class="statusNote">Select a player to open the profile card.</div>';
+    playerProfileModalLinkEl.hidden = true;
+    return;
+  }
+
+  playerProfileModalEyebrowEl.textContent = headerPlayer.role === "Pitcher" ? "Pitcher profile" : "Hitter profile";
+  playerProfileModalTitleEl.textContent = headerPlayer.name || "Player";
+  playerProfileModalSubEl.textContent = [headerPlayer.school, headerPlayer.role, headerPlayer.position, headerPlayer.metaLine]
+    .filter(Boolean)
+    .join(" / ");
+  playerProfileModalMetaEl.innerHTML = (headerPlayer.detailBadges || [])
+    .slice(0, 6)
+    .map((badge) => `<span>${escapeHtml(badge)}</span>`)
+    .join("");
+
+  if (headerPlayer.imageUrl) {
+    playerProfileAvatarEl.innerHTML = `<img src="${escapeHtml(headerPlayer.imageUrl)}" alt="${escapeHtml(headerPlayer.name || "Player")}" loading="lazy" />`;
+  } else {
+    playerProfileAvatarEl.textContent = buildPlayerInitials(headerPlayer.name);
+  }
+
+  if (headerPlayer.profileUrl) {
+    playerProfileModalLinkEl.hidden = false;
+    playerProfileModalLinkEl.href = headerPlayer.profileUrl;
+  } else {
+    playerProfileModalLinkEl.hidden = true;
+    playerProfileModalLinkEl.removeAttribute("href");
+  }
+
+  if (state.playerBoard.selectedPlayerLoading && !state.playerBoard.selectedPlayer) {
+    playerProfileModalBodyEl.innerHTML = '<div class="statusNote">Loading player profile...</div>';
+    return;
+  }
+
+  if (state.playerBoard.selectedPlayerError) {
+    playerProfileModalBodyEl.innerHTML = `<div class="statusNote error">${escapeHtml(state.playerBoard.selectedPlayerError)}</div>`;
+    return;
+  }
+
+  if (!state.playerBoard.selectedPlayer) {
+    playerProfileModalBodyEl.innerHTML = '<div class="statusNote">Player detail is not available yet.</div>';
+    return;
+  }
+
+  playerProfileModalBodyEl.innerHTML = renderPlayerProfileBody(state.playerBoard.selectedPlayer, payload, getPlayerBoardMode());
 }
 
 function renderSourceChecks() {
@@ -1150,9 +1810,9 @@ function getPlayerBoardMode() {
     errorText:
       "The backend player universe could not load, so the Players screen cannot show full player profiles right now.",
     readyText:
-      "Full player universe loaded. Search by player or school, filter hitters or pitchers, and click any row to open the full profile on the right.",
+      "Full player universe loaded. Search by player or school, filter hitters or pitchers, and click any row to open the full player profile card.",
     defaultFootnote:
-      "This board is served from the backend player universe so the browser only loads one page of players at a time.",
+      "This board is served from the backend player universe so the browser only loads one page of players at a time, while profiles open in a separate card.",
     placeholder: "Search player, school, or position...",
   };
 }
@@ -1292,7 +1952,7 @@ function renderPlayers() {
   if (state.playerBoard.loading && !state.playerBoard.payload) {
     playerTableBodyEl.innerHTML =
       '<tr><td colspan="6"><div class="tableStatus">Loading the backend player universe and the first page of players...</div></td></tr>';
-    playerDetailEl.innerHTML = '<div class="statusNote">Loading player profile...</div>';
+    renderPlayerProfileModal();
     return;
   }
 
@@ -1300,8 +1960,7 @@ function renderPlayers() {
     playerTableBodyEl.innerHTML = `<tr><td colspan="6"><div class="tableStatus error">${escapeHtml(
       state.playerBoard.error,
     )}</div></td></tr>`;
-    playerDetailEl.innerHTML =
-      '<div class="statusNote error">The unified player board is unavailable until at least one player data source is reachable.</div>';
+    renderPlayerProfileModal();
     return;
   }
 
@@ -1320,14 +1979,20 @@ function renderPlayers() {
       ? `No ${state.roleFilter.toLowerCase()}s match the current search or filter.`
       : "No players were returned yet.";
     playerTableBodyEl.innerHTML = `<tr><td colspan="6"><div class="tableStatus">${escapeHtml(emptyReason)}</div></td></tr>`;
-    playerDetailEl.innerHTML = `<div class="statusNote">${escapeHtml(getActivePlayerBoard()?.note || mode.defaultFootnote)}</div>`;
+    renderPlayerProfileModal();
     return;
   }
 
   playerTableBodyEl.innerHTML = visiblePlayers
     .map(
       (player) => `
-        <tr data-player-id="${escapeHtml(player.id)}" class="${player.id === state.selectedPlayerId ? "is-selected" : ""}">
+        <tr
+          data-player-id="${escapeHtml(player.id)}"
+          class="${player.id === state.selectedPlayerId ? "is-selected" : ""}"
+          tabindex="0"
+          role="button"
+          aria-label="Open profile for ${escapeHtml(player.name)}"
+        >
           <td>
             <div class="playerNameCell">
               <strong>${escapeHtml(player.name)}</strong>
@@ -1348,17 +2013,29 @@ function renderPlayers() {
   const payload = getActivePlayerBoard();
 
   if (state.playerBoard.selectedPlayerLoading && !selectedPlayer) {
-    playerDetailEl.innerHTML = '<div class="statusNote">Loading player profile...</div>';
+    if (playerProfileModalBodyEl) {
+      playerProfileModalBodyEl.innerHTML = '<div class="statusNote">Loading player profile...</div>';
+    }
+    renderPlayerProfileModal();
     return;
   }
 
   if (state.playerBoard.selectedPlayerError) {
-    playerDetailEl.innerHTML = `<div class="statusNote error">${escapeHtml(state.playerBoard.selectedPlayerError)}</div>`;
+    if (playerProfileModalBodyEl) {
+      playerProfileModalBodyEl.innerHTML = `<div class="statusNote error">${escapeHtml(state.playerBoard.selectedPlayerError)}</div>`;
+    }
+    renderPlayerProfileModal();
     return;
   }
 
   if (!selectedPlayer) {
-    playerDetailEl.innerHTML = '<div class="statusNote">Select a player row to open the full profile.</div>';
+    renderPlayerProfileModal();
+    return;
+  }
+
+  if (playerProfileModalBodyEl) {
+    playerProfileModalBodyEl.innerHTML = renderPlayerProfileBody(selectedPlayer, payload, mode);
+    renderPlayerProfileModal();
     return;
   }
 
@@ -2457,10 +3134,7 @@ async function loadPlayerBoard(options = {}) {
     state.playerBoard.payload = payload;
     state.playerBoard.error = "";
     state.playerBoard.loading = false;
-    const nextSelectedId = payload.data?.some((player) => player.id === state.selectedPlayerId)
-      ? state.selectedPlayerId
-      : payload.data?.[0]?.id || "";
-    state.selectedPlayerId = nextSelectedId;
+    const nextSelectedId = state.selectedPlayerId || "";
 
     if (!nextSelectedId) {
       state.playerBoard.selectedPlayer = null;
@@ -2471,7 +3145,21 @@ async function loadPlayerBoard(options = {}) {
       return;
     }
 
-    await loadPlayerDetail(nextSelectedId, { renderInterim: options.renderInterim });
+    if (state.playerBoard.selectedPlayer?.id === nextSelectedId) {
+      if (options.renderInterim !== false) {
+        renderPlayers();
+      }
+      return;
+    }
+
+    if (state.playerBoard.profileOpen) {
+      await loadPlayerDetail(nextSelectedId, { renderInterim: options.renderInterim });
+      return;
+    }
+
+    if (options.renderInterim !== false) {
+      renderPlayers();
+    }
   } catch (error) {
     if (requestId !== playerBoardRequestId) {
       return;
@@ -2650,10 +3338,26 @@ playerTableBodyEl.addEventListener("click", (event) => {
     return;
   }
   const playerId = row.dataset.playerId;
-  if (!playerId || playerId === state.selectedPlayerId) {
+  if (!playerId) {
     return;
   }
-  loadPlayerDetail(playerId);
+  openPlayerProfile(playerId);
+});
+
+playerTableBodyEl.addEventListener("keydown", (event) => {
+  if (event.key !== "Enter" && event.key !== " ") {
+    return;
+  }
+  const row = event.target.closest("tr[data-player-id]");
+  if (!row) {
+    return;
+  }
+  event.preventDefault();
+  const playerId = row.dataset.playerId;
+  if (!playerId) {
+    return;
+  }
+  openPlayerProfile(playerId);
 });
 
 schoolSearchEl.addEventListener("input", (event) => {
@@ -2710,6 +3414,24 @@ document.addEventListener("click", (event) => {
     loadSchoolResults();
   } else if (action === "retry-scoreboard") {
     loadScoreboard();
+  }
+});
+
+if (playerProfileModalCloseEl) {
+  playerProfileModalCloseEl.addEventListener("click", closePlayerProfile);
+}
+
+if (playerProfileModalBackEl) {
+  playerProfileModalBackEl.addEventListener("click", (event) => {
+    if (event.target === playerProfileModalBackEl) {
+      closePlayerProfile();
+    }
+  });
+}
+
+document.addEventListener("keydown", (event) => {
+  if (event.key === "Escape" && state.playerBoard.profileOpen) {
+    closePlayerProfile();
   }
 });
 

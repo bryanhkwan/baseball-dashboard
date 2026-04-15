@@ -290,7 +290,7 @@
           <div class="playerCoverageList" id="player-coverage-grid"></div>
         </section>
 
-        <div class="grid" id="playersGrid">
+        <div class="grid playersTableOnly" id="playersGrid">
           <div class="card playerSideCard" style="padding:0">
             <div class="playersTableShell scrollY">
               <table>
@@ -308,10 +308,6 @@
               </table>
             </div>
             <div class="playersBoardFootnote hint" id="players-footnote"></div>
-          </div>
-
-          <div class="rightstack playerProfileRail">
-            <section class="card detailCard" id="player-detail" aria-live="polite"></section>
           </div>
         </div>
       </section>
@@ -372,6 +368,29 @@
     </div>
 
   </main>
+
+  <div class="playerProfileModalBack" id="playerProfileModalBack" aria-hidden="true">
+    <div class="playerProfileModal" role="dialog" aria-modal="true" aria-labelledby="playerProfileModalTitle">
+      <div class="playerProfileModalHead">
+        <div class="playerProfileModalHeadMain">
+          <div class="playerProfileAvatar" id="playerProfileAvatar" aria-hidden="true">--</div>
+          <div class="playerProfileModalIdentity">
+            <div class="eyebrow" id="playerProfileModalEyebrow">Player profile</div>
+            <h3 class="playerProfileModalTitle" id="playerProfileModalTitle">Player</h3>
+            <div class="playerProfileModalSub" id="playerProfileModalSub">School / role / position</div>
+            <div class="detailMeta playerProfileModalMeta" id="playerProfileModalMeta"></div>
+          </div>
+        </div>
+        <div class="playerProfileModalActions">
+          <a class="secondary playerProfileModalLink" id="playerProfileModalLink" href="#" target="_blank" rel="noopener noreferrer" hidden>School bio</a>
+          <button class="close" id="playerProfileModalClose" type="button">Close</button>
+        </div>
+      </div>
+      <div class="playerProfileModalBody" id="playerProfileModalBody">
+        <div class="statusNote">Select a player to open the profile card.</div>
+      </div>
+    </div>
+  </div>
 
   <script src="data/generated/toledo-baseball-2026.js?v=20260410-3"></script>
   <script src="data/generated/sidearm-pool-baseball-2026.js?v=20260410-3"></script>

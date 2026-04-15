@@ -23,6 +23,7 @@
         radial-gradient(circle at 50% 115%, rgba(255,210,0,.05) 0%, transparent 40%),
         linear-gradient(180deg, #08101c 0%, #07111d 20%, #0a1221 100%);
       background-attachment:fixed;min-height:100vh;overflow-x:hidden}
+    body.modalOpen{overflow:hidden}
     ::-webkit-scrollbar{width:6px;height:6px}
     ::-webkit-scrollbar-track{background:transparent}
     ::-webkit-scrollbar-thumb{background:rgba(255,255,255,.1);border-radius:6px}
@@ -91,6 +92,7 @@
     .appShellBtn.secondary{background:rgba(255,255,255,.03);border:1px solid var(--line);color:var(--muted)}
     .grid{display:grid;grid-template-columns:1fr 340px;gap:16px}
     .grid>*{min-width:0}
+    .playersTableOnly{grid-template-columns:minmax(0,1fr)}
     .rightstack{display:flex;flex-direction:column;gap:16px;min-width:0}
     .card{background:linear-gradient(180deg, rgba(13,24,43,.92) 0%, rgba(10,18,31,.86) 100%);border:1px solid rgba(255,255,255,.07);border-top:1px solid rgba(var(--accent-rgb),.22);border-radius:var(--r);padding:22px;box-shadow:0 16px 40px rgba(0,0,0,.18),0 4px 12px rgba(0,0,0,.16);overflow:hidden;position:relative}
     .card::before{content:'';position:absolute;inset:0 0 auto 0;height:1px;background:linear-gradient(90deg, rgba(255,210,0,.34), rgba(255,255,255,0));pointer-events:none}
@@ -147,6 +149,7 @@
     th{position:sticky;top:0;background:linear-gradient(180deg, rgba(18,31,52,.98) 0%, rgba(9,17,30,.98) 100%);text-align:left;color:#9db1ce;z-index:1;font-weight:700;font-size:10px;text-transform:uppercase;letter-spacing:.7px;border-bottom:1px solid rgba(var(--accent-rgb),.18)!important;box-shadow:inset 0 -1px 0 rgba(var(--accent-rgb),.14)}
     tbody tr:nth-child(even) td{background:rgba(255,255,255,.016)}
     tbody tr:hover td{background:rgba(var(--accent-rgb),.04)!important}
+    tbody tr[data-player-id]{cursor:pointer}
     tr.is-selected td{background:rgba(var(--accent-rgb),.07)!important}
     th.playersPerfHead{color:var(--accent);background:linear-gradient(180deg,rgba(var(--accent-rgb),.14),rgba(5,11,20,.98))}
     .scrollY{max-height:560px;overflow:auto;border-radius:var(--r);border:1px solid var(--line);background:rgba(5,11,20,.2);box-shadow:inset 0 1px 0 rgba(255,255,255,.02)}
@@ -161,8 +164,6 @@
     .fit-pursue{color:#fde68a;background:rgba(250,204,21,.14);border:1px solid rgba(250,204,21,.26)}
     .fit-monitor{color:#dce6f4;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1)}
     .fit-depth{color:#fecaca;background:rgba(248,113,113,.12);border:1px solid rgba(248,113,113,.22)}
-    .playerProfileRail{align-self:start}
-    .detailCard{padding:20px}
     .eyebrow{font-size:10px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
     .detailTopline{display:flex;justify-content:space-between;gap:12px;align-items:flex-start}
     .detailScoreRail{display:grid;gap:8px;justify-items:end}
@@ -330,7 +331,62 @@
     .detailSummaryTop{display:flex;align-items:center;gap:10px;margin-bottom:8px}
     .detailSummaryTop strong{font-size:17px;color:#f7fbff}
     .fitChipSmall{min-height:24px;padding:0 9px;font-size:10px}
-    @media(min-width:1101px){.playerProfileRail .detailCard{position:sticky;top:calc(var(--header-h) + var(--nav-h) + 24px)}}
+    .playerProfileModalBack{position:fixed;inset:0;display:none;align-items:flex-start;justify-content:center;padding:28px 20px;background:rgba(3,9,17,.72);backdrop-filter:blur(8px);z-index:80}
+    .playerProfileModalBack.is-open{display:flex}
+    .playerProfileModal{width:min(1180px,100%);max-height:calc(100vh - 56px);display:grid;grid-template-rows:auto minmax(0,1fr);border-radius:24px;border:1px solid rgba(255,255,255,.08);background:
+      radial-gradient(circle at top left, rgba(255,210,0,.12), transparent 24%),
+      linear-gradient(180deg, rgba(13,24,43,.97) 0%, rgba(8,15,26,.98) 100%);
+      box-shadow:0 32px 80px rgba(0,0,0,.45),0 12px 32px rgba(0,0,0,.24);overflow:hidden}
+    .playerProfileModalHead{display:flex;justify-content:space-between;gap:20px;align-items:flex-start;padding:24px 26px 18px;border-bottom:1px solid rgba(255,255,255,.06)}
+    .playerProfileModalHeadMain{display:flex;gap:16px;align-items:flex-start;min-width:0}
+    .playerProfileModalIdentity{min-width:0}
+    .playerProfileAvatar{width:78px;height:78px;border-radius:20px;flex:0 0 auto;display:flex;align-items:center;justify-content:center;overflow:hidden;background:linear-gradient(135deg, rgba(var(--accent-rgb),.18), rgba(36,79,143,.32));border:1px solid rgba(255,255,255,.08);font-size:24px;font-weight:800;color:#f7fbff;letter-spacing:.04em}
+    .playerProfileAvatar img{width:100%;height:100%;object-fit:cover;display:block}
+    .playerProfileModalTitle{font-size:30px;font-weight:800;letter-spacing:-.04em;color:#f7fbff;line-height:1.02}
+    .playerProfileModalSub{margin-top:6px;font-size:13px;line-height:1.6;color:#d7e2f1}
+    .playerProfileModalMeta{margin-top:12px}
+    .playerProfileModalActions{display:flex;gap:10px;align-items:flex-start;flex-wrap:wrap;justify-content:flex-end}
+    .playerProfileModalLink{display:inline-flex;align-items:center;justify-content:center;padding:9px 14px;min-height:38px}
+    .playerProfileModalBody{overflow:auto;padding:24px 26px 28px}
+    .playerProfileHero{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(280px,.85fr);gap:16px;margin-bottom:18px}
+    .playerProfileHeroCard,.playerProfileCoachCard,.playerProfileInsightCard{padding:18px;border-radius:18px;border:1px solid rgba(255,255,255,.06);background:rgba(255,255,255,.03)}
+    .playerProfileHeroTop{display:flex;justify-content:space-between;gap:16px;align-items:flex-start}
+    .playerProfileHeroSummary{margin-top:12px;font-size:13px;line-height:1.75;color:#d5e0ee}
+    .playerProfileScoreStack{display:grid;gap:10px;justify-items:end}
+    .playerProfileCoachGrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;margin:18px 0}
+    .playerProfileCoachCard{display:grid;gap:10px}
+    .playerProfileCoachLabel{font-size:10px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
+    .playerProfileCoachTitle{font-size:15px;font-weight:800;color:#f7fbff}
+    .playerProfileCoachText{font-size:12px;line-height:1.7;color:var(--muted)}
+    .playerProfileSection{margin-top:18px}
+    .playerProfileSection:first-child{margin-top:0}
+    .playerProfileSectionTitle{margin-bottom:10px;font-size:11px;font-weight:800;letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
+    .playerProfileInsightGrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px}
+    .playerProfileInsightCard{display:grid;gap:6px}
+    .playerProfileInsightCard span{font-size:10px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+    .playerProfileInsightCard strong{font-size:16px;color:#f7fbff}
+    .playerProfileInsightCard small{font-size:11px;line-height:1.55;color:var(--muted)}
+    .playerRadarWrap{display:grid;grid-template-columns:minmax(0,1fr) 180px;gap:14px;align-items:center;margin-bottom:16px}
+    .playerRadarSvgShell{border-radius:18px;padding:12px;background:radial-gradient(circle at top left, rgba(255,210,0,.08), transparent 32%),rgba(255,255,255,.02);border:1px solid rgba(255,255,255,.05)}
+    .playerRadarSvg{width:100%;height:auto;display:block;overflow:visible}
+    .playerRadarGrid{fill:rgba(255,255,255,.02);stroke:rgba(255,255,255,.09);stroke-width:1}
+    .playerRadarGrid.is-outer{stroke:rgba(var(--accent-rgb),.28)}
+    .playerRadarAxis{stroke:rgba(255,255,255,.12);stroke-width:1}
+    .playerRadarDataFill{fill:rgba(255,210,0,.18);stroke:none}
+    .playerRadarDataStroke{fill:none;stroke:var(--accent);stroke-width:2.5;filter:drop-shadow(0 0 10px rgba(255,210,0,.16))}
+    .playerRadarPoint{fill:#f7fbff;stroke:var(--accent);stroke-width:2}
+    .playerRadarLabel{fill:#d7e2f1;font-size:10px;font-weight:800;letter-spacing:.05em;text-transform:uppercase}
+    .playerRadarLegend{display:grid;gap:10px}
+    .playerRadarLegendKpis{display:grid;gap:8px}
+    .playerRadarLegendKpi{display:grid;gap:3px;padding:10px 12px;border-radius:14px;background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.05)}
+    .playerRadarLegendKpi span{font-size:10px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+    .playerRadarLegendKpi strong{font-size:15px;color:#f7fbff}
+    .playerRadarLegendRows{display:grid;gap:8px}
+    .playerRadarLegendRow{display:flex;justify-content:space-between;gap:12px;align-items:center;padding:8px 10px;border-radius:12px;background:rgba(255,255,255,.025);border:1px solid rgba(255,255,255,.04);font-size:11px;color:#dce6f4}
+    .playerRadarLegendRow strong{color:var(--accent);font-size:12px}
+    .playerRadarEmpty{padding:18px;border-radius:16px;border:1px dashed rgba(255,255,255,.12);background:rgba(255,255,255,.02);margin-bottom:16px}
+    .playerProfileSourceBlock{margin-top:18px;padding:14px 16px;border-radius:16px;background:rgba(255,255,255,.03);border:1px solid rgba(255,255,255,.05)}
+    .playerProfileSourceBlock .detailText{margin-top:8px}
     @media(max-width:1100px){.grid{grid-template-columns:1fr}.opsHero{grid-template-columns:1fr}.explorerLayout{grid-template-columns:1fr}}
     @media(max-width:720px){
       header{padding:18px 18px 14px}
@@ -340,4 +396,10 @@
       .targetCard dl{grid-template-columns:1fr}
       .sortLabel{flex-direction:column;align-items:flex-start}
       .identityRow,.liveGameMeta,.analysisCardTop,.analysisPlayerTop,.analysisTimelineTop,.analysisMiniRow{flex-direction:column;align-items:flex-start}
+      .playerProfileModalBack{padding:12px}
+      .playerProfileModal{max-height:calc(100vh - 24px)}
+      .playerProfileModalHead,.playerProfileHero,.playerProfileHeroTop{grid-template-columns:1fr;flex-direction:column}
+      .playerProfileModalActions{justify-content:flex-start}
+      .playerProfileModalTitle{font-size:24px}
+      .playerRadarWrap{grid-template-columns:1fr}
     }
