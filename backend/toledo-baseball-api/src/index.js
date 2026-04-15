@@ -1,6 +1,14 @@
 import { buildPlayerUniverse, getUniversePlayerById, queryPlayerUniverse } from "./player-universe.js";
+import macStandingsSnapshot from "./generated/mac-baseball-standings.js";
 
 const NCAA_API_BASE = "https://ncaa-api.henrygd.me";
+const ESPN_SITE_API_BASE = "https://site.api.espn.com/apis/site/v2/sports/baseball/college-baseball";
+const ESPN_CORE_API_BASE = "https://sports.core.api.espn.com/v2/sports/baseball/leagues/college-baseball";
+const ESPN_DIVISION_I_GROUP_ID = 26;
+const MAC_STANDINGS_URL = "https://getsomemaction.com/standings.aspx?path=baseball";
+const MAC_STANDINGS_MIRROR_URL = "https://r.jina.ai/http://getsomemaction.com/standings.aspx?path=baseball";
+const MAC_STANDINGS_SNAPSHOT_URL =
+  "https://raw.githubusercontent.com/bryanhkwan/baseball-dashboard/main/backend/toledo-baseball-api/src/generated/mac-baseball-standings.json";
 const ET_TIMEZONE = "America/New_York";
 const DEFAULT_SCHOOL_SLUG = "toledo";
 const DEFAULT_SCHOOL_NAME = "Toledo";
@@ -18,6 +26,21 @@ const NATIONAL_PLAYER_MAX_PAGES_PER_SPEC = 2;
 const PLAYER_UNIVERSE_CACHE_TTL_MS = 1000 * 60 * 15;
 const MEMORY_CACHE_TTL_MS = 1000 * 60 * 10;
 const SCHOOLS_INDEX_CACHE_TTL_MS = 1000 * 60 * 60 * 6;
+const MAC_STANDINGS_CACHE_TTL_MS = 1000 * 60 * 60 * 24 * 7;
+const MAC_BASEBALL_MEMBER_SCHOOLS = [
+  { name: "Akron", long: "Akron" },
+  { name: "Ball State", long: "Ball State" },
+  { name: "Bowling Green", long: "Bowling Green" },
+  { name: "Central Michigan", long: "Central Michigan" },
+  { name: "Eastern Michigan", long: "Eastern Michigan" },
+  { name: "Kent State", long: "Kent State" },
+  { name: "Massachusetts", long: "Massachusetts" },
+  { name: "Miami", long: "Miami (OH)" },
+  { name: "Northern Illinois", long: "Northern Illinois" },
+  { name: "Ohio", long: "Ohio" },
+  { name: "Toledo", long: "Toledo" },
+  { name: "Western Michigan", long: "Western Michigan" },
+];
 
 const NATIONAL_PLAYER_STAT_SPECS = [
   { id: 200, role: "Hitter", key: "battingAverage", label: "Batting Average", field: "BA" },
@@ -53,6 +76,21 @@ let schoolsIndexCache = {
   payload: null,
 };
 
+let espnTeamsDirectoryCache = {
+  expiresAt: 0,
+  payload: null,
+};
+
+let espnConferenceGroupsCache = {
+  expiresAt: 0,
+  payload: null,
+};
+
+let macStandingsCache = {
+  expiresAt: 0,
+  payload: null,
+};
+
 const scoreboardDateCache = new Map();
 const gameSummaryCache = new Map();
 const normalizedBoxscoreCache = new Map();
@@ -61,6 +99,9 @@ const gameLiveSummaryCache = new Map();
 const schoolGamesWindowCache = new Map();
 const recentFormCache = new Map();
 const opponentScoutCache = new Map();
+const espnTeamScheduleCache = new Map();
+const espnConferenceStandingsCache = new Map();
+const schoolConferenceStandingsCache = new Map();
 
 const demoPlayers = [
   {
@@ -178,8 +219,60 @@ async function fetchJson(url, init) {
   return response.json();
 }
 
+async function fetchText(url, init) {
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), 12000);
+  let response;
+  const requestInit = { ...init, signal: controller.signal };
+  if (String(url || "") === MAC_STANDINGS_URL) {
+    requestInit.headers = {
+      ...(init?.headers || {}),
+      "accept":
+        "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+      "accept-language": "en-US,en;q=0.9",
+      "user-agent":
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
+    };
+    requestInit.redirect = "follow";
+    requestInit.cf = {
+      cacheTtl: Math.floor(MAC_STANDINGS_CACHE_TTL_MS / 1000),
+      cacheEverything: true,
+    };
+  }
+  try {
+    response = await fetch(url, requestInit);
+  } catch (err) {
+    clearTimeout(timeoutId);
+    if (err && err.name === "AbortError") {
+      throw new Error("Standings source timed out before responding.");
+    }
+    throw err;
+  }
+  clearTimeout(timeoutId);
+  if (!response.ok) {
+    throw new Error(`Standings source request failed: ${response.status}`);
+  }
+  return response.text();
+}
+
 function baseUrl(env) {
   return env?.NCAA_API_BASE || NCAA_API_BASE;
+}
+
+function macStandingsSnapshotUrl(env) {
+  return env?.MAC_STANDINGS_SNAPSHOT_URL || MAC_STANDINGS_SNAPSHOT_URL;
+}
+
+function espnSiteUrl(path) {
+  return `${ESPN_SITE_API_BASE}${path}`;
+}
+
+function espnCoreUrl(path) {
+  return `${ESPN_CORE_API_BASE}${path}`;
+}
+
+function currentSeasonYear() {
+  return new Date().getUTCFullYear();
 }
 
 function readInt(value, fallback, min, max) {
@@ -209,6 +302,26 @@ function formatEtDate(date) {
 
 function normalizeSlug(value = "") {
   return String(value || "").trim().toLowerCase();
+}
+
+function normalizeNameKey(value = "") {
+  return String(value || "")
+    .toLowerCase()
+    .replace(/\b(the|university|college|campus|at)\b/g, " ")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim()
+    .replace(/\s+/g, " ");
+}
+
+function stripHtml(value = "") {
+  return String(value || "")
+    .replace(/<[^>]*>/g, " ")
+    .replace(/&nbsp;/gi, " ")
+    .replace(/&amp;/gi, "&")
+    .replace(/&#39;/g, "'")
+    .replace(/&quot;/gi, '"')
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 function normalizeSchool(school, fallback = {}) {
@@ -2603,6 +2716,698 @@ async function getSchoolIdentity(env, schoolSlug) {
   return normalizeSchool(match);
 }
 
+function normalizeMacStandingRow(rowHtml, index) {
+  const cellMatches = [...String(rowHtml || "").matchAll(/<td class="hide-on-medium-down"[^>]*>([\s\S]*?)<\/td>/gi)];
+  const cells = cellMatches.map((match) => stripHtml(match[1]));
+  if (cells.length < 9) {
+    return null;
+  }
+
+  const [schoolName, conferenceRecord, conferencePct, overallRecord, overallPct, homeRecord, awayRecord, neutralRecord, streak] =
+    cells;
+
+  return {
+    rank: index + 1,
+    teamId: normalizeSlug(schoolName),
+    displayName: schoolName,
+    fullName: schoolName,
+    abbreviation: "",
+    logo: "",
+    conferenceRecord,
+    conferencePct,
+    overallRecord,
+    overallPct,
+    homeRecord,
+    awayRecord,
+    neutralRecord,
+    streak,
+  };
+}
+
+function stripMarkdownLink(value = "") {
+  const match = String(value || "").match(/\[([^\]]+)\]\([^)]+\)/);
+  return (match ? match[1] : value).trim();
+}
+
+function normalizeMacStandingMarkdownRow(line = "", index) {
+  const parts = String(line || "")
+    .split("|")
+    .map((part) => part.trim())
+    .filter(Boolean);
+  if (parts.length < 13 || parts[0] === "---") {
+    return null;
+  }
+
+  return {
+    rank: index + 1,
+    teamId: normalizeSlug(stripMarkdownLink(parts[0])),
+    displayName: stripMarkdownLink(parts[0]),
+    fullName: stripMarkdownLink(parts[0]),
+    abbreviation: "",
+    logo: "",
+    conferenceRecord: parts[2],
+    conferencePct: parts[4],
+    overallRecord: parts[5],
+    overallPct: parts[8],
+    homeRecord: parts[9],
+    awayRecord: parts[10],
+    neutralRecord: parts[11],
+    streak: parts[12],
+  };
+}
+
+async function getMacStandingsFromMirror() {
+  const markdown = await fetchText(MAC_STANDINGS_MIRROR_URL);
+  const lines = markdown.split("\n");
+  const headerIndex = lines.findIndex((line) => line.includes("| School | School | Conf |"));
+  const firstDataIndex = lines.findIndex((line) => /^\|\s*\[/.test(line.trim()));
+  const tableStart = headerIndex !== -1 ? headerIndex + 2 : firstDataIndex;
+  if (tableStart === -1) {
+    throw new Error("MAC standings mirror did not include any recognizable baseball table rows.");
+  }
+
+  const tableLines = [];
+  for (let index = tableStart; index < lines.length; index += 1) {
+    const line = lines[index].trim();
+    if (!line.startsWith("|")) {
+      if (tableLines.length) {
+        break;
+      }
+      continue;
+    }
+    if (!/^\|\s*\[/.test(line) && tableLines.length === 0) {
+      break;
+    }
+    tableLines.push(line);
+  }
+
+  const table = tableLines.map((line, index) => normalizeMacStandingMarkdownRow(line, index)).filter(Boolean);
+  if (!table.length) {
+    throw new Error("MAC standings mirror did not include any baseball table rows.");
+  }
+
+  return {
+    source: "Mid-American Conference standings page",
+    fetchedAt: new Date().toISOString(),
+    conference: {
+      id: "mac",
+      name: "Mid-American Conference",
+      shortName: "MAC",
+    },
+    table,
+    note:
+      "Read from the official MAC baseball standings page through a mirrored text endpoint and cached weekly in the backend.",
+  };
+}
+
+async function getMacStandingsFromRepoSnapshot(env) {
+  const raw = await fetchText(macStandingsSnapshotUrl(env), {
+    headers: {
+      accept: "application/json,text/plain;q=0.9,*/*;q=0.8",
+    },
+    cf: {
+      cacheTtl: Math.floor(MAC_STANDINGS_CACHE_TTL_MS / 1000),
+      cacheEverything: true,
+    },
+  });
+
+  const snapshot = JSON.parse(raw);
+  if (!snapshot?.table?.length) {
+    throw new Error("Repository snapshot did not include any MAC standings rows.");
+  }
+
+  return {
+    ...snapshot,
+    note:
+      "Loaded from the weekly official MAC standings snapshot stored in the repo and cached for one week in the backend.",
+  };
+}
+
+async function getMacStandingsTable(env) {
+  const cached = readObjectCache(macStandingsCache);
+  if (cached) {
+    return cached;
+  }
+
+  try {
+    const html = await fetchText(MAC_STANDINGS_URL);
+    const tableMatch = html.match(/<table[^>]*sidearm-standings-table[^>]*>([\s\S]*?)<\/table>/i);
+    if (!tableMatch) {
+      throw new Error("MAC baseball standings table was not found on getsomemaction.com.");
+    }
+
+    const bodyMatch = tableMatch[1].match(/<tbody[^>]*>([\s\S]*?)<\/tbody>/i);
+    if (!bodyMatch) {
+      throw new Error("MAC baseball standings rows were not found on getsomemaction.com.");
+    }
+
+    const rowMatches = [...bodyMatch[1].matchAll(/<tr>([\s\S]*?)<\/tr>/gi)];
+    const table = rowMatches
+      .map((match, index) => normalizeMacStandingRow(match[1], index))
+      .filter(Boolean);
+
+    const payload = {
+      source: "Mid-American Conference standings page",
+      fetchedAt: new Date().toISOString(),
+      conference: {
+        id: "mac",
+        name: "Mid-American Conference",
+        shortName: "MAC",
+      },
+      table,
+      note:
+        "Scraped from the official MAC baseball standings page and cached for one week in the Worker runtime before refreshing.",
+    };
+
+    return writeObjectCache(macStandingsCache, payload, MAC_STANDINGS_CACHE_TTL_MS);
+  } catch (error) {
+    try {
+      const payload = await getMacStandingsFromMirror();
+      return writeObjectCache(macStandingsCache, payload, MAC_STANDINGS_CACHE_TTL_MS);
+    } catch (mirrorError) {
+      try {
+        const payload = await getMacStandingsFromRepoSnapshot(env);
+        payload.warning = `Direct scrape: ${error instanceof Error ? error.message : String(error)}. Mirror scrape: ${
+          mirrorError instanceof Error ? mirrorError.message : String(mirrorError)
+        }.`;
+        return writeObjectCache(macStandingsCache, payload, MAC_STANDINGS_CACHE_TTL_MS);
+      } catch (repoSnapshotError) {
+        if (macStandingsSnapshot?.table?.length) {
+          const payload = {
+            ...macStandingsSnapshot,
+            note:
+              "Live MAC standings scraping is currently unavailable from the deployed Worker, so the backend is serving the bundled official snapshot instead.",
+            warning:
+              `Direct scrape: ${error instanceof Error ? error.message : String(error)}. Mirror scrape: ${
+                mirrorError instanceof Error ? mirrorError.message : String(mirrorError)
+              }. Repo snapshot: ${
+                repoSnapshotError instanceof Error ? repoSnapshotError.message : String(repoSnapshotError)
+              }.`,
+          };
+          return writeObjectCache(macStandingsCache, payload, MAC_STANDINGS_CACHE_TTL_MS);
+        }
+        const table = await buildMacStandingsFromEspn();
+        const payload = {
+          source: "Computed MAC standings from ESPN schedules",
+          fetchedAt: new Date().toISOString(),
+          conference: {
+            id: "mac",
+            name: "Mid-American Conference",
+            shortName: "MAC",
+          },
+          table,
+          note:
+            "The official MAC standings page and weekly snapshot were unavailable, so this table is computed from ESPN team schedules and cached weekly instead.",
+          warning:
+            `Direct scrape: ${error instanceof Error ? error.message : String(error)}. Mirror scrape: ${
+              mirrorError instanceof Error ? mirrorError.message : String(mirrorError)
+            }. Repo snapshot: ${
+              repoSnapshotError instanceof Error ? repoSnapshotError.message : String(repoSnapshotError)
+            }.`,
+        };
+        return writeObjectCache(macStandingsCache, payload, MAC_STANDINGS_CACHE_TTL_MS);
+      }
+    }
+  }
+}
+
+async function getMacConferenceStandings(env, schoolSlug) {
+  const school = await getSchoolIdentity(env, schoolSlug);
+  if (!school) {
+    return null;
+  }
+
+  const payload = await getMacStandingsTable(env);
+  const schoolKeys = getSchoolKeyVariants(school);
+  const schoolEntry =
+    payload.table.find((entry) => schoolKeys.some((key) => key === normalizeNameKey(entry.displayName))) || null;
+
+  if (!schoolEntry) {
+    return null;
+  }
+
+  return {
+    available: true,
+    source: "Mid-American Conference standings page",
+    format: "mac",
+    school,
+    conference: payload.conference,
+    schoolEntry,
+    table: payload.table,
+    note: payload.note,
+  };
+}
+
+function normalizeEspnRef(url = "") {
+  return String(url || "").replace(/^http:/i, "https:");
+}
+
+function extractEspnTeamId(ref = "") {
+  const match = String(ref || "").match(/\/teams\/(\d+)\?/i);
+  return match ? String(match[1]) : "";
+}
+
+function getEspnTeamVariants(team = {}) {
+  const slugBase = String(team.slug || "")
+    .split("-")
+    .slice(0, -1)
+    .join(" ");
+  return [
+    team.location,
+    team.shortDisplayName,
+    team.displayName,
+    team.nickname,
+    slugBase,
+    team.slug,
+    team.abbreviation,
+  ]
+    .map(normalizeNameKey)
+    .filter(Boolean);
+}
+
+function getSchoolKeyVariants(school = {}) {
+  const longName = String(school.long || "");
+  const shortName = String(school.name || "");
+  return [
+    school.slug,
+    shortName,
+    longName,
+    longName.replace(/^University of\s+/i, ""),
+    longName.replace(/^The\s+/i, ""),
+    longName.replace(/\s+University$/i, ""),
+  ]
+    .map(normalizeNameKey)
+    .filter(Boolean);
+}
+
+async function getEspnTeamsDirectory() {
+  const cached = readObjectCache(espnTeamsDirectoryCache);
+  if (cached) {
+    return cached;
+  }
+
+  const payload = await fetchJson(espnSiteUrl(`/teams?limit=400`));
+  const teams = (((payload?.sports || [])[0]?.leagues || [])[0]?.teams || [])
+    .map((entry) => entry?.team || null)
+    .filter(Boolean)
+    .map((team) => ({
+      id: String(team.id || ""),
+      slug: team.slug || "",
+      abbreviation: team.abbreviation || "",
+      displayName: team.displayName || "",
+      shortDisplayName: team.shortDisplayName || team.displayName || "",
+      nickname: team.nickname || "",
+      location: team.location || "",
+      logo: (team.logos || []).find((logo) => (logo.rel || []).includes("full"))?.href || "",
+      variants: getEspnTeamVariants(team),
+    }));
+
+  const byId = Object.fromEntries(teams.map((team) => [team.id, team]));
+  return writeObjectCache(
+    espnTeamsDirectoryCache,
+    {
+      teams,
+      byId,
+    },
+    SCHOOLS_INDEX_CACHE_TTL_MS,
+  );
+}
+
+async function getEspnTeamSchedule(teamId) {
+  const cacheKey = String(teamId || "");
+  const cached = readTimedCache(espnTeamScheduleCache, cacheKey);
+  if (cached) {
+    return cached;
+  }
+  const payload = await fetchJson(espnSiteUrl(`/teams/${cacheKey}/schedule`));
+  return writeTimedCache(espnTeamScheduleCache, cacheKey, payload, MAC_STANDINGS_CACHE_TTL_MS);
+}
+
+async function getMacEspnTeams() {
+  const { teams } = await getEspnTeamsDirectory();
+  return MAC_BASEBALL_MEMBER_SCHOOLS.map((school) => {
+    const matched = findBestEspnTeamForSchool(teams, school);
+    return matched
+      ? {
+          ...matched,
+          canonicalName: school.name,
+        }
+      : null;
+  }).filter(Boolean);
+}
+
+function buildRecordString(wins = 0, losses = 0, ties = 0) {
+  return `${wins}-${losses}${ties ? `-${ties}` : ""}`;
+}
+
+function buildPercentString(wins = 0, losses = 0, ties = 0) {
+  const games = wins + losses + ties;
+  if (!games) {
+    return ".000";
+  }
+  const pct = (wins + ties * 0.5) / games;
+  return pct.toFixed(3).replace(/^0/, "");
+}
+
+function createMacComputedRecord(team) {
+  return {
+    teamId: team.id,
+    displayName: team.shortDisplayName || team.displayName || team.canonicalName,
+    fullName: team.displayName || team.canonicalName,
+    abbreviation: team.abbreviation || "",
+    logo: team.logo || "",
+    conferenceWins: 0,
+    conferenceLosses: 0,
+    conferenceTies: 0,
+    overallWins: 0,
+    overallLosses: 0,
+    overallTies: 0,
+    homeWins: 0,
+    homeLosses: 0,
+    homeTies: 0,
+    awayWins: 0,
+    awayLosses: 0,
+    awayTies: 0,
+    neutralWins: 0,
+    neutralLosses: 0,
+    neutralTies: 0,
+    recentResults: [],
+  };
+}
+
+function applyGameResult(record, scope, result) {
+  if (scope === "conference") {
+    if (result === "W") record.conferenceWins += 1;
+    else if (result === "L") record.conferenceLosses += 1;
+    else record.conferenceTies += 1;
+    return;
+  }
+  if (scope === "overall") {
+    if (result === "W") record.overallWins += 1;
+    else if (result === "L") record.overallLosses += 1;
+    else record.overallTies += 1;
+    return;
+  }
+  if (scope === "home") {
+    if (result === "W") record.homeWins += 1;
+    else if (result === "L") record.homeLosses += 1;
+    else record.homeTies += 1;
+    return;
+  }
+  if (scope === "away") {
+    if (result === "W") record.awayWins += 1;
+    else if (result === "L") record.awayLosses += 1;
+    else record.awayTies += 1;
+    return;
+  }
+  if (scope === "neutral") {
+    if (result === "W") record.neutralWins += 1;
+    else if (result === "L") record.neutralLosses += 1;
+    else record.neutralTies += 1;
+  }
+}
+
+function finalizeComputedMacRecord(record, index) {
+  const streakSource = [...record.recentResults].sort((left, right) => new Date(right.date) - new Date(left.date));
+  let streakType = "";
+  let streakCount = 0;
+  for (const game of streakSource) {
+    if (!streakType) {
+      streakType = game.result;
+      streakCount = 1;
+      continue;
+    }
+    if (game.result !== streakType) {
+      break;
+    }
+    streakCount += 1;
+  }
+
+  return {
+    rank: index + 1,
+    teamId: record.teamId,
+    displayName: record.displayName,
+    fullName: record.fullName,
+    abbreviation: record.abbreviation,
+    logo: record.logo,
+    conferenceRecord: buildRecordString(record.conferenceWins, record.conferenceLosses, record.conferenceTies),
+    conferencePct: buildPercentString(record.conferenceWins, record.conferenceLosses, record.conferenceTies),
+    overallRecord: buildRecordString(record.overallWins, record.overallLosses, record.overallTies),
+    overallPct: buildPercentString(record.overallWins, record.overallLosses, record.overallTies),
+    homeRecord: buildRecordString(record.homeWins, record.homeLosses, record.homeTies),
+    awayRecord: buildRecordString(record.awayWins, record.awayLosses, record.awayTies),
+    neutralRecord: buildRecordString(record.neutralWins, record.neutralLosses, record.neutralTies),
+    streak: streakType ? `${streakType}${streakCount}` : "--",
+    overallPctValue:
+      (record.overallWins + record.overallTies * 0.5) /
+      Math.max(record.overallWins + record.overallLosses + record.overallTies, 1),
+    conferencePctValue:
+      (record.conferenceWins + record.conferenceTies * 0.5) /
+      Math.max(record.conferenceWins + record.conferenceLosses + record.conferenceTies, 1),
+  };
+}
+
+async function buildMacStandingsFromEspn() {
+  const macTeams = await getMacEspnTeams();
+  const macTeamIds = new Set(macTeams.map((team) => String(team.id)));
+  const rows = await mapWithConcurrency(macTeams, 3, async (team) => {
+    const schedule = await getEspnTeamSchedule(team.id);
+    const events = (schedule.events || []).filter((event) => Number(event?.seasonType?.type) === 2);
+    const record = createMacComputedRecord(team);
+
+    for (const event of events) {
+      const competition = event?.competitions?.[0];
+      if (!competition?.status?.type?.completed) {
+        continue;
+      }
+      const competitors = competition.competitors || [];
+      const teamSide = competitors.find((entry) => String(entry?.team?.id || "") === String(team.id));
+      const opponentSide = competitors.find((entry) => String(entry?.team?.id || "") !== String(team.id));
+      if (!teamSide || !opponentSide) {
+        continue;
+      }
+
+      const teamScore = Number(teamSide?.score?.value);
+      const opponentScore = Number(opponentSide?.score?.value);
+      if (!Number.isFinite(teamScore) || !Number.isFinite(opponentScore)) {
+        continue;
+      }
+
+      const result = teamScore > opponentScore ? "W" : teamScore < opponentScore ? "L" : "T";
+      applyGameResult(record, "overall", result);
+
+      if (competition.neutralSite) {
+        applyGameResult(record, "neutral", result);
+      } else if (teamSide.homeAway === "home") {
+        applyGameResult(record, "home", result);
+      } else {
+        applyGameResult(record, "away", result);
+      }
+
+      if (macTeamIds.has(String(opponentSide?.team?.id || ""))) {
+        applyGameResult(record, "conference", result);
+      }
+
+      record.recentResults.push({
+        date: event.date,
+        result,
+      });
+    }
+
+    return record;
+  });
+
+  return rows
+    .map((record, index) => finalizeComputedMacRecord(record, index))
+    .sort((left, right) => {
+      if (right.conferencePctValue !== left.conferencePctValue) {
+        return right.conferencePctValue - left.conferencePctValue;
+      }
+      if (right.overallPctValue !== left.overallPctValue) {
+        return right.overallPctValue - left.overallPctValue;
+      }
+      return left.displayName.localeCompare(right.displayName);
+    })
+    .map((entry, index) => ({
+      ...entry,
+      rank: index + 1,
+    }));
+}
+
+function findBestEspnTeamForSchool(teams = [], school = {}) {
+  const schoolKeys = getSchoolKeyVariants(school);
+  let bestMatch = null;
+  let bestScore = 0;
+
+  for (const team of teams) {
+    let score = 0;
+    for (const schoolKey of schoolKeys) {
+      for (const variant of team.variants || []) {
+        if (!schoolKey || !variant) {
+          continue;
+        }
+        if (variant === schoolKey) {
+          score = Math.max(score, 10);
+        } else if (variant.includes(schoolKey) || schoolKey.includes(variant)) {
+          score = Math.max(score, 6);
+        }
+      }
+    }
+
+    if (score > bestScore) {
+      bestScore = score;
+      bestMatch = team;
+    }
+  }
+
+  return bestScore >= 6 ? bestMatch : null;
+}
+
+async function getEspnConferenceGroups() {
+  const cached = readObjectCache(espnConferenceGroupsCache);
+  if (cached) {
+    return cached;
+  }
+
+  const seasonYear = currentSeasonYear();
+  const childrenPayload = await fetchJson(
+    espnCoreUrl(`/seasons/${seasonYear}/types/1/groups/${ESPN_DIVISION_I_GROUP_ID}/children?lang=en&region=us`),
+  );
+  const groups = await mapWithConcurrency(childrenPayload.items || [], 4, async (item) => {
+    const group = await fetchJson(normalizeEspnRef(item.$ref));
+    return {
+      id: String(group.id || ""),
+      name: group.name || "",
+      shortName: group.shortName || group.abbreviation || group.name || "",
+      isConference: Boolean(group.isConference),
+    };
+  });
+
+  return writeObjectCache(
+    espnConferenceGroupsCache,
+    groups.filter((group) => group.isConference && group.id),
+    SCHOOLS_INDEX_CACHE_TTL_MS,
+  );
+}
+
+function readEspnStandingStat(record = {}, statName = "") {
+  return (record.stats || []).find((stat) => stat.name === statName) || null;
+}
+
+function normalizeEspnStandingEntry(entry, index, teamsById) {
+  const teamId = extractEspnTeamId(entry?.team?.$ref);
+  const team = teamsById?.[teamId] || {};
+  const record = entry?.records || {};
+  const gamesBehind = readEspnStandingStat(record, "gamesBehind");
+  const streak = readEspnStandingStat(record, "streak");
+  const leagueWinPercent = readEspnStandingStat(record, "leagueWinPercent");
+  const runDifferential = readEspnStandingStat(record, "pointDifferential");
+
+  return {
+    rank: index + 1,
+    teamId,
+    displayName: team.shortDisplayName || team.displayName || team.location || teamId,
+    fullName: team.displayName || team.shortDisplayName || teamId,
+    abbreviation: team.abbreviation || "",
+    logo: team.logo || "",
+    overallRecord: record.summary || record.displayValue || "",
+    leagueWinPct: leagueWinPercent?.displayValue || "",
+    gamesBack: gamesBehind?.displayValue || "-",
+    streak: streak?.displayValue || "",
+    runDifferential: runDifferential?.displayValue || "",
+  };
+}
+
+async function getEspnConferenceStandings(groupId, teamsById) {
+  const cacheKey = String(groupId || "");
+  const cached = readTimedCache(espnConferenceStandingsCache, cacheKey);
+  if (cached) {
+    return cached;
+  }
+
+  const seasonYear = currentSeasonYear();
+  const payload = await fetchJson(
+    espnCoreUrl(`/seasons/${seasonYear}/types/2/groups/${cacheKey}/standings/0?lang=en&region=us`),
+  );
+  const standings = (payload.standings || []).map((entry, index) => normalizeEspnStandingEntry(entry, index, teamsById));
+  return writeTimedCache(espnConferenceStandingsCache, cacheKey, standings);
+}
+
+async function getSchoolConferenceStandings(env, schoolSlug) {
+  const cacheKey = normalizeSlug(schoolSlug);
+  const cached = readTimedCache(schoolConferenceStandingsCache, cacheKey);
+  if (cached) {
+    return cached;
+  }
+
+  const macPayload = await getMacConferenceStandings(env, schoolSlug);
+  if (macPayload?.available) {
+    return writeTimedCache(schoolConferenceStandingsCache, cacheKey, macPayload, MAC_STANDINGS_CACHE_TTL_MS);
+  }
+
+  const school = await getSchoolIdentity(env, schoolSlug);
+  if (!school) {
+    return null;
+  }
+
+  const { teams, byId } = await getEspnTeamsDirectory();
+  const matchedTeam = findBestEspnTeamForSchool(teams, school);
+  if (!matchedTeam) {
+    return writeTimedCache(schoolConferenceStandingsCache, cacheKey, {
+      available: false,
+      source: "ESPN core standings",
+      format: "unavailable",
+      school,
+      conference: null,
+      table: [],
+      schoolEntry: null,
+      note: "No ESPN college baseball team mapping was found for this school.",
+    });
+  }
+
+  const conferenceGroups = await getEspnConferenceGroups();
+  const standingsGroups = await mapWithConcurrency(conferenceGroups, 3, async (group) => ({
+    ...group,
+    table: await getEspnConferenceStandings(group.id, byId),
+  }));
+
+  const matchedGroup =
+    standingsGroups.find((group) => group.table.some((entry) => entry.teamId === matchedTeam.id)) || null;
+
+  if (!matchedGroup) {
+    return writeTimedCache(schoolConferenceStandingsCache, cacheKey, {
+      available: false,
+      source: "ESPN core standings",
+      format: "unavailable",
+      school,
+      espnTeam: matchedTeam,
+      conference: null,
+      table: [],
+      schoolEntry: null,
+      note:
+        `${school.name || school.slug} does not appear in ESPN's current college baseball conference standings feed. This usually means the program is outside a conference table in this source.`,
+    });
+  }
+
+  const schoolEntry = matchedGroup.table.find((entry) => entry.teamId === matchedTeam.id) || null;
+  return writeTimedCache(schoolConferenceStandingsCache, cacheKey, {
+    available: true,
+    source: "ESPN core standings",
+    format: "espn",
+    school,
+    espnTeam: matchedTeam,
+    conference: {
+      id: matchedGroup.id,
+      name: matchedGroup.name,
+      shortName: matchedGroup.shortName,
+    },
+    schoolEntry,
+    table: matchedGroup.table,
+    note:
+      "ESPN college baseball standings expose overall record, league win percentage, games back, streak, and run differential. The feed does not currently return a clean conference W-L column here.",
+  });
+}
+
 function schoolMatchesQuery(school, query) {
   const normalizedQuery = normalizeSlug(query);
   const haystack = [school.slug, school.name, school.long].map(normalizeSlug).join(" ");
@@ -3091,6 +3896,7 @@ export default {
             "/api/players/coverage",
             "/api/schools?query=",
             "/api/schools/:slug/live-summary",
+            "/api/schools/:slug/standings",
             "/api/schools/:slug/opponent-scout",
             "/api/schools/:slug/recent-form",
             "/api/schools/:slug/player-board",
@@ -3195,6 +4001,16 @@ export default {
           return notFound(`School "${schoolSlug}" was not found in the NCAA school index.`);
         }
         return json(summary);
+      }
+
+      const schoolStandingsMatch = url.pathname.match(/^\/api\/schools\/([^/]+)\/standings$/);
+      if (schoolStandingsMatch) {
+        const schoolSlug = decodeURIComponent(schoolStandingsMatch[1]);
+        const standings = await getSchoolConferenceStandings(env, schoolSlug);
+        if (!standings) {
+          return notFound(`School "${schoolSlug}" was not found in the NCAA school index.`);
+        }
+        return json(standings);
       }
 
       const schoolRecentFormMatch = url.pathname.match(/^\/api\/schools\/([^/]+)\/recent-form$/);

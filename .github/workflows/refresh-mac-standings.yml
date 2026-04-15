@@ -1,0 +1,37 @@
+name: Refresh MAC Standings Snapshot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 12 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-mac-standings:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Refresh official MAC standings snapshot
+        run: node scripts/fetch-mac-standings.mjs
+
+      - name: Commit updated standings snapshot
+        run: |
+          if git diff --quiet -- backend/toledo-baseball-api/src/generated/mac-baseball-standings.js backend/toledo-baseball-api/src/generated/mac-baseball-standings.json data/generated/mac-baseball-standings.json; then
+            echo "No MAC standings changes detected."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add backend/toledo-baseball-api/src/generated/mac-baseball-standings.js backend/toledo-baseball-api/src/generated/mac-baseball-standings.json data/generated/mac-baseball-standings.json
+          git commit -m "chore: refresh MAC baseball standings snapshot"
+          git push

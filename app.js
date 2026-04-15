@@ -287,6 +287,9 @@ const state = {
     selectedSchoolLoading: true,
     selectedSchoolError: "",
     selectedSchoolSummary: null,
+    standingsLoading: false,
+    standingsError: "",
+    standings: null,
     opponentScoutLoading: false,
     opponentScoutError: "",
     opponentScout: null,
@@ -356,6 +359,7 @@ const pageDataState = {
 let schoolSearchTimer = 0;
 let playerSearchTimer = 0;
 let selectedSchoolRequestId = 0;
+let selectedSchoolStandingsRequestId = 0;
 let selectedSchoolOpponentScoutRequestId = 0;
 let playerBoardRequestId = 0;
 let playerCoverageRequestId = 0;
@@ -2218,6 +2222,7 @@ function renderSelectedSchoolSummary() {
   const batterTotals = schoolTeam.teamStats?.batterTotals || null;
   const pitcherTotals = schoolTeam.teamStats?.pitcherTotals || null;
   const recentForm = summary.recentForm || null;
+  const standings = state.explorer.standings || null;
   const nextOpponentScout = state.explorer.opponentScout || null;
   const gameCards = [...recentGames.slice(-3), ...upcomingGames.slice(0, 4)];
 
@@ -2318,6 +2323,13 @@ function renderSelectedSchoolSummary() {
     }
 
       ${renderRecentFormSummary(recentForm)}
+      ${
+        state.explorer.standingsLoading
+          ? '<div class="analysisSectionTitle">Conference standings</div><div class="statusNote">Loading the current conference table...</div>'
+          : state.explorer.standingsError
+            ? `<div class="analysisSectionTitle">Conference standings</div><div class="statusNote error">${escapeHtml(state.explorer.standingsError)}</div>`
+            : renderConferenceStandings(standings, school.name || school.slug || "Selected school")
+      }
       ${
         state.explorer.opponentScoutLoading
           ? '<div class="analysisSectionTitle">Next opponent scout</div><div class="statusNote">Building the opponent scout report...</div>'
@@ -2631,6 +2643,185 @@ function renderRecentFormSummary(recentForm) {
         `
         : ""
     }
+  `;
+}
+
+function renderConferenceStandings(standings, schoolName = "Selected school") {
+  if (!standings) {
+    return "";
+  }
+
+  if (!standings.available) {
+    return `
+      <div class="analysisSectionTitle">Conference standings</div>
+      <div class="statusNote">${escapeHtml(standings.note || "Conference standings are not available for this school right now.")}</div>
+    `;
+  }
+
+  const table = standings.table || [];
+  const conferenceName = standings.conference?.name || "Conference";
+  const schoolEntry = standings.schoolEntry || null;
+  const format = standings.format || "espn";
+
+  if (format === "mac") {
+    return `
+      <div class="analysisSectionTitle">Conference standings</div>
+      <section class="scoutPanel">
+        <div class="schoolSummaryHeader">
+          <div>
+            <div class="identityEyebrow">League table</div>
+            <div class="schoolSummaryTitle">${escapeHtml(conferenceName)}</div>
+            <div class="schoolSummarySub">${escapeHtml(
+              standings.note || "Official MAC baseball standings, cached weekly in the backend.",
+            )}</div>
+          </div>
+          <span class="identitySlug">${escapeHtml(standings.conference?.shortName || "")}</span>
+        </div>
+
+        ${
+          schoolEntry
+            ? `
+              <div class="miniStatGrid">
+                <div class="miniStatCard">
+                  <span>${escapeHtml(schoolName)} place</span>
+                  <strong>${escapeHtml(`#${schoolEntry.rank}`)}</strong>
+                  <div class="detailListMeta">${escapeHtml(schoolEntry.displayName || schoolName)}</div>
+                </div>
+                <div class="miniStatCard">
+                  <span>MAC record</span>
+                  <strong>${escapeHtml(schoolEntry.conferenceRecord || "--")}</strong>
+                  <div class="detailListMeta">${escapeHtml(`${schoolEntry.conferencePct || "--"} conference pct`)}</div>
+                </div>
+                <div class="miniStatCard">
+                  <span>Overall</span>
+                  <strong>${escapeHtml(schoolEntry.overallRecord || "--")}</strong>
+                  <div class="detailListMeta">${escapeHtml(`${schoolEntry.overallPct || "--"} overall pct`)}</div>
+                </div>
+                <div class="miniStatCard">
+                  <span>Trend</span>
+                  <strong>${escapeHtml(schoolEntry.streak || "--")}</strong>
+                  <div class="detailListMeta">${escapeHtml(`${schoolEntry.homeRecord || "--"} home / ${schoolEntry.awayRecord || "--"} away`)}</div>
+                </div>
+              </div>
+            `
+            : ""
+        }
+
+        <div class="standingsTableCard">
+          <div class="standingsTableHead standingsTableHead--mac">
+            <span>RK</span>
+            <span>TEAM</span>
+            <span>MAC</span>
+            <span>CPCT</span>
+            <span>OVER</span>
+            <span>PCT</span>
+            <span>HOME</span>
+            <span>AWAY</span>
+            <span>NEUT</span>
+            <span>STRK</span>
+          </div>
+          <div class="standingsTableBody">
+            ${table
+              .map(
+                (entry) => `
+                  <div class="standingsRow standingsRow--mac ${entry.teamId === schoolEntry?.teamId ? "is-selected" : ""}">
+                    <span class="standingsRank">${escapeHtml(entry.rank)}</span>
+                    <span class="standingsTeamCell">
+                      <strong>${escapeHtml(entry.displayName)}</strong>
+                    </span>
+                    <span>${escapeHtml(entry.conferenceRecord || "--")}</span>
+                    <span>${escapeHtml(entry.conferencePct || "--")}</span>
+                    <span>${escapeHtml(entry.overallRecord || "--")}</span>
+                    <span>${escapeHtml(entry.overallPct || "--")}</span>
+                    <span>${escapeHtml(entry.homeRecord || "--")}</span>
+                    <span>${escapeHtml(entry.awayRecord || "--")}</span>
+                    <span>${escapeHtml(entry.neutralRecord || "--")}</span>
+                    <span>${escapeHtml(entry.streak || "--")}</span>
+                  </div>
+                `,
+              )
+              .join("")}
+          </div>
+        </div>
+      </section>
+    `;
+  }
+
+  return `
+    <div class="analysisSectionTitle">Conference standings</div>
+    <section class="scoutPanel">
+      <div class="schoolSummaryHeader">
+        <div>
+          <div class="identityEyebrow">League table</div>
+          <div class="schoolSummaryTitle">${escapeHtml(conferenceName)}</div>
+          <div class="schoolSummarySub">${escapeHtml(
+            standings.note || "Overall record, league win percentage, games back, streak, and run differential.",
+          )}</div>
+        </div>
+        <span class="identitySlug">${escapeHtml(standings.conference?.shortName || "")}</span>
+      </div>
+
+      ${
+        schoolEntry
+          ? `
+            <div class="miniStatGrid">
+              <div class="miniStatCard">
+                <span>${escapeHtml(schoolName)} place</span>
+                <strong>${escapeHtml(`#${schoolEntry.rank}`)}</strong>
+                <div class="detailListMeta">${escapeHtml(schoolEntry.fullName || schoolEntry.displayName || schoolName)}</div>
+              </div>
+              <div class="miniStatCard">
+                <span>Overall</span>
+                <strong>${escapeHtml(schoolEntry.overallRecord || "--")}</strong>
+                <div class="detailListMeta">ESPN standings summary</div>
+              </div>
+              <div class="miniStatCard">
+                <span>League pct</span>
+                <strong>${escapeHtml(schoolEntry.leagueWinPct || "--")}</strong>
+                <div class="detailListMeta">${escapeHtml(`${schoolEntry.gamesBack || "-"} GB`)}</div>
+              </div>
+              <div class="miniStatCard">
+                <span>Trend</span>
+                <strong>${escapeHtml(schoolEntry.streak || "--")}</strong>
+                <div class="detailListMeta">${escapeHtml(`${schoolEntry.runDifferential || "--"} run diff`)}</div>
+              </div>
+            </div>
+          `
+          : ""
+      }
+
+      <div class="standingsTableCard">
+        <div class="standingsTableHead">
+          <span>RK</span>
+          <span>TEAM</span>
+          <span>OVER</span>
+          <span>LPCT</span>
+          <span>GB</span>
+          <span>STRK</span>
+          <span>DIFF</span>
+        </div>
+        <div class="standingsTableBody">
+          ${table
+            .map(
+              (entry) => `
+                <div class="standingsRow ${entry.teamId === schoolEntry?.teamId ? "is-selected" : ""}">
+                  <span class="standingsRank">${escapeHtml(entry.rank)}</span>
+                  <span class="standingsTeamCell">
+                    ${entry.logo ? `<img class="standingsLogo" src="${escapeHtml(entry.logo)}" alt="${escapeHtml(entry.displayName)} logo" />` : ""}
+                    <strong>${escapeHtml(entry.displayName)}</strong>
+                  </span>
+                  <span>${escapeHtml(entry.overallRecord || "--")}</span>
+                  <span>${escapeHtml(entry.leagueWinPct || "--")}</span>
+                  <span>${escapeHtml(entry.gamesBack || "-")}</span>
+                  <span>${escapeHtml(entry.streak || "--")}</span>
+                  <span>${escapeHtml(entry.runDifferential || "--")}</span>
+                </div>
+              `,
+            )
+            .join("")}
+        </div>
+      </div>
+    </section>
   `;
 }
 
@@ -3483,6 +3674,9 @@ async function loadSelectedSchoolSummary(schoolSlug) {
   state.explorer.selectedSchoolSlug = schoolSlug;
   state.explorer.selectedSchoolLoading = true;
   state.explorer.selectedSchoolError = "";
+  state.explorer.standings = null;
+  state.explorer.standingsError = "";
+  state.explorer.standingsLoading = false;
   state.explorer.opponentScout = null;
   state.explorer.opponentScoutError = "";
   state.explorer.opponentScoutLoading = false;
@@ -3495,6 +3689,7 @@ async function loadSelectedSchoolSummary(schoolSlug) {
       }
       state.explorer.selectedSchoolSummary = state.overview.summary;
       state.explorer.selectedSchoolError = "";
+      loadSelectedSchoolStandings(schoolSlug, { renderInterim: false });
       loadSelectedSchoolOpponentScout(schoolSlug, { renderInterim: false });
     } else {
       const summary = await fetchDashboardJson(`/api/schools/${encodeURIComponent(schoolSlug)}/live-summary`);
@@ -3503,6 +3698,7 @@ async function loadSelectedSchoolSummary(schoolSlug) {
       }
       state.explorer.selectedSchoolSummary = summary;
       state.explorer.selectedSchoolError = "";
+      loadSelectedSchoolStandings(schoolSlug, { renderInterim: false });
       loadSelectedSchoolOpponentScout(schoolSlug, { renderInterim: false });
     }
   } catch (error) {
@@ -3519,6 +3715,38 @@ async function loadSelectedSchoolSummary(schoolSlug) {
     }
     state.explorer.selectedSchoolLoading = false;
     render();
+  }
+}
+
+async function loadSelectedSchoolStandings(schoolSlug, options = {}) {
+  const requestId = ++selectedSchoolStandingsRequestId;
+  state.explorer.standingsLoading = true;
+  state.explorer.standingsError = "";
+  state.explorer.standings = null;
+
+  if (options.renderInterim !== false) {
+    renderSelectedSchoolSummary();
+  }
+
+  try {
+    const payload = await fetchDashboardJson(`/api/schools/${encodeURIComponent(schoolSlug)}/standings`);
+    if (requestId !== selectedSchoolStandingsRequestId || schoolSlug !== state.explorer.selectedSchoolSlug) {
+      return;
+    }
+    state.explorer.standings = payload;
+    state.explorer.standingsError = "";
+  } catch (error) {
+    if (requestId !== selectedSchoolStandingsRequestId || schoolSlug !== state.explorer.selectedSchoolSlug) {
+      return;
+    }
+    state.explorer.standingsError = error instanceof Error ? error.message : String(error);
+    state.explorer.standings = null;
+  } finally {
+    if (requestId !== selectedSchoolStandingsRequestId || schoolSlug !== state.explorer.selectedSchoolSlug) {
+      return;
+    }
+    state.explorer.standingsLoading = false;
+    renderSelectedSchoolSummary();
   }
 }
 
