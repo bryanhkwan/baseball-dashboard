@@ -735,6 +735,28 @@ function mergePlayerStatCards(primaryCards = [], secondaryCards = []) {
   return [...cardMap.values()];
 }
 
+/** Same board labels as backend `player-universe.js` — school cumulative stats beat NCAA boxscore rollups. */
+const OFFICIAL_SCHOOL_STATS_ORIGINS = new Set([
+  "Toledo season roster",
+  "Transfer targets pool",
+  "Full roster pool",
+]);
+
+function playerHasOfficialSchoolStats(player = {}) {
+  return (player.boardOrigins || []).some((origin) => OFFICIAL_SCHOOL_STATS_ORIGINS.has(origin));
+}
+
+function playerHasOfficialCumulativeStats(player = {}) {
+  if (!playerHasOfficialSchoolStats(player)) {
+    return false;
+  }
+  const labels = new Set((player.statCards || []).map((c) => c.label));
+  if (player.role === "Pitcher") {
+    return labels.has("ERA") || labels.has("IP") || labels.has("WHIP");
+  }
+  return labels.has("AVG") || labels.has("OBP") || labels.has("SLG");
+}
+
 function playerProfileRichness(player = {}) {
   return (
     (player.statCards?.length || 0) * 3 +
@@ -746,6 +768,45 @@ function playerProfileRichness(player = {}) {
     (Number.isFinite(player.nationalRank) ? 3 : 0) +
     (player.summary ? Math.min(3, Math.round(player.summary.length / 80)) : 0)
   );
+}
+
+function chooseMergePrimary(existing, incoming) {
+  const existingOfficial = playerHasOfficialCumulativeStats(existing);
+  const incomingOfficial = playerHasOfficialCumulativeStats(incoming);
+  if (existingOfficial !== incomingOfficial) {
+    return incomingOfficial
+      ? { primary: incoming, secondary: existing }
+      : { primary: existing, secondary: incoming };
+  }
+  const incomingWins = playerProfileRichness(incoming) > playerProfileRichness(existing);
+  return incomingWins ? { primary: incoming, secondary: existing } : { primary: existing, secondary: incoming };
+}
+
+function mergeMetaLineParts(primary = {}, secondary = {}) {
+  const parts = [
+    ...String(primary.metaLine || "")
+      .split(" / ")
+      .map((s) => s.trim())
+      .filter(Boolean),
+    ...String(secondary.metaLine || "")
+      .split(" / ")
+      .map((s) => s.trim())
+      .filter(Boolean),
+  ];
+  return uniqueItems(parts).join(" / ");
+}
+
+function filterConflictingSecondaryMetrics(secondaryMetrics = [], primaryHasOfficialCumulative = false) {
+  if (!primaryHasOfficialCumulative) {
+    return secondaryMetrics;
+  }
+  return secondaryMetrics.filter((line) => {
+    const s = String(line || "").trim();
+    if (!s) {
+      return false;
+    }
+    return !/^(AVG|OBP|SLG|OPS|ERA|WHIP)\s/i.test(s);
+  });
 }
 
 function normalizeUnifiedFit(fit = {}) {
@@ -776,6 +837,7 @@ function attachBoardOrigin(player, boardLabel) {
     ...player,
     fit: normalizeUnifiedFit(player.fit),
     boardOrigins: uniqueItems([...(player.boardOrigins || []), boardLabel]),
+    sourcePlayerIds: uniqueItems([...(player.sourcePlayerIds || []), player.id]),
   };
 }
 
@@ -784,9 +846,7 @@ function mergeUnifiedPlayers(existing, incoming) {
     return incoming;
   }
 
-  const incomingWins = playerProfileRichness(incoming) > playerProfileRichness(existing);
-  const primary = incomingWins ? incoming : existing;
-  const secondary = incomingWins ? existing : incoming;
+  const { primary, secondary } = chooseMergePrimary(existing, incoming);
   const merged = {
     ...secondary,
     ...primary,
@@ -794,12 +854,26 @@ function mergeUnifiedPlayers(existing, incoming) {
 
   merged.boardOrigins = uniqueItems([...(existing.boardOrigins || []), ...(incoming.boardOrigins || [])]);
   merged.detailBadges = uniqueItems([...(primary.detailBadges || []), ...(secondary.detailBadges || [])]);
-  merged.summaryMetrics = uniqueItems([...(primary.summaryMetrics || []), ...(secondary.summaryMetrics || [])]).slice(0, 8);
-  merged.statCards = mergePlayerStatCards(primary.statCards || [], secondary.statCards || []);
+  const primaryHasOfficialCumulative = playerHasOfficialCumulativeStats(primary);
+  merged.summaryMetrics = uniqueItems([
+    ...(primary.summaryMetrics || []),
+    ...filterConflictingSecondaryMetrics(secondary.summaryMetrics || [], primaryHasOfficialCumulative),
+  ]).slice(0, 8);
+  merged.statCards = primaryHasOfficialCumulative
+    ? [...(primary.statCards || [])]
+    : mergePlayerStatCards(primary.statCards || [], secondary.statCards || []);
   merged.components =
     Object.keys(primary.components || {}).length >= Object.keys(secondary.components || {}).length
       ? primary.components || {}
       : secondary.components || {};
+  merged.sourcePlayerIds = uniqueItems([...(existing.sourcePlayerIds || []), ...(incoming.sourcePlayerIds || [])]);
+
+  merged.metaLine = mergeMetaLineParts(primary, secondary);
+
+  merged.latestTrackedGame = primary.latestTrackedGame || secondary.latestTrackedGame;
+  merged.latestGameImpact = primary.latestGameImpact || secondary.latestGameImpact;
+  merged.recentTrend = primary.recentTrend || secondary.recentTrend;
+  merged.sourceGame = primary.sourceGame || secondary.sourceGame;
 
   const nationalRanks = [existing.nationalRank, incoming.nationalRank].filter(Number.isFinite);
   if (nationalRanks.length) {
@@ -824,6 +898,12 @@ function summarizeUnifiedSources(boardCounts = {}, nationalError = "") {
   }
   if (boardCounts.transferTargetsPool) {
     parts.push(`${boardCounts.transferTargetsPool} transfer pool`);
+  }
+  if (boardCounts.fullRosterPool) {
+    parts.push(`${boardCounts.fullRosterPool} full roster pool`);
+  }
+  if (boardCounts.ncaaBoxscorePool) {
+    parts.push(`${boardCounts.ncaaBoxscorePool} NCAA boxscore pool`);
   }
   if (boardCounts.nationalBoard) {
     parts.push(`${boardCounts.nationalBoard} national API`);
