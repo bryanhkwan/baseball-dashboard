@@ -4106,6 +4106,7 @@ export default {
           role: url.searchParams.get("role") || "All",
           position: url.searchParams.get("position") || "",
           sort: url.searchParams.get("sort") || "score",
+          officialOnly: url.searchParams.get("officialOnly") || "",
           page: readInt(url.searchParams.get("page"), 1, 1, 100000),
           pageSize: readInt(url.searchParams.get("pageSize"), 40, 10, 100),
         });

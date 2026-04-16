@@ -276,6 +276,7 @@ const state = {
     searchQuery: "",
     page: 1,
     pageSize: 40,
+    officialOnly: false,
     profileOpen: false,
   },
   explorer: {
@@ -317,6 +318,7 @@ const playerPageNextEl = document.querySelector("#player-page-next");
 const targetGridEl = document.querySelector("#target-grid");
 const roleFilterEl = document.querySelector("#role-filter");
 const sortSelectEl = document.querySelector("#sort-select");
+const playerOfficialToggleEl = document.querySelector("#player-official-toggle");
 const liveWindowEl = document.querySelector("#live-window");
 const toledoIdentityEl = document.querySelector("#toledo-identity");
 const verifiedPlayersEl = document.querySelector("#verified-players");
@@ -364,6 +366,15 @@ let selectedSchoolOpponentScoutRequestId = 0;
 let playerBoardRequestId = 0;
 let playerCoverageRequestId = 0;
 let playerDetailRequestId = 0;
+
+function syncPlayerOfficialToggle() {
+  if (!playerOfficialToggleEl) {
+    return;
+  }
+  const pressed = Boolean(state.playerBoard.officialOnly);
+  playerOfficialToggleEl.classList.toggle("active", pressed);
+  playerOfficialToggleEl.setAttribute("aria-pressed", pressed ? "true" : "false");
+}
 
 function showDashboardPage(targetId) {
   document.querySelectorAll('.pageNavBtn').forEach(function(btn) {
@@ -1197,6 +1208,9 @@ function buildPlayerBoardFootnote(payload, fallbackText) {
   }
   if (rebuiltAt && rebuiltAt !== dataUpdated) {
     parts.push(`Unified board rebuilt ${rebuiltAt}.`);
+  }
+  if (payload?.officialOnly) {
+    parts.push("Showing official season stats only.");
   }
   if (snapshotFetchedAt) {
     parts.push(`Snapshot fetched ${snapshotFetchedAt}.`);
@@ -2085,7 +2099,7 @@ function getPlayerBoardMode() {
     errorText:
       "The backend player universe could not load, so the Players screen cannot show full player profiles right now.",
     readyText:
-      "Full player universe loaded. Search by player or school, filter hitters or pitchers, and click any row to open the full player profile card.",
+      "Full player universe loaded. Search by player or school, filter hitters or pitchers, toggle official season stats only, and click any row to open the full player profile card.",
     defaultFootnote:
       "This board is served from the backend player universe so the browser only loads one page of players at a time, while profiles open in a separate card.",
     placeholder: "Search player, school, or position...",
@@ -2209,12 +2223,15 @@ function renderPlayerBoardMeta() {
     return;
   }
 
-  const roleCounts = payload.roleCounts || { Hitter: 0, Pitcher: 0 };
+  const roleCounts = payload.filteredRoleCounts || payload.roleCounts || { Hitter: 0, Pitcher: 0 };
+  const officialOnlySuffix = payload.officialOnly ? " • official season stats only" : "";
 
-  playersPanelSubEl.textContent = mode.readyText;
+  playersPanelSubEl.textContent = payload.officialOnly
+    ? "Full player universe loaded. Showing only players whose season stats come from official school cumulative stat pages."
+    : mode.readyText;
   playerResultsMetaEl.textContent = `${payload.totalPlayers || payload.playerCount || 0} players (${roleCounts.Hitter || 0} hitters / ${
     roleCounts.Pitcher || 0
-  } pitchers)`;
+  } pitchers)${officialOnlySuffix}`;
   playersFootnoteEl.textContent = buildPlayerBoardFootnote(payload, mode.defaultFootnote);
   playerSearchEl.placeholder = mode.placeholder;
 }
@@ -2240,18 +2257,24 @@ function renderPlayers() {
   }
 
   const filteredPlayers = getFilteredPlayers();
+  const payload = getActivePlayerBoard();
   const pagination = getPlayerPagination(filteredPlayers);
   const visiblePlayers = pagination.visiblePlayers;
+  const officialOnlyActive = Boolean(payload?.officialOnly);
+  const officialOnlySuffix = officialOnlyActive ? " • official season stats only" : "";
 
   playerResultsMetaEl.textContent = pagination.totalPlayers
-    ? `${pagination.startIndex + 1}-${pagination.startIndex + visiblePlayers.length} of ${pagination.totalPlayers} players`
-    : "0 players";
+    ? `${pagination.startIndex + 1}-${pagination.startIndex + visiblePlayers.length} of ${pagination.totalPlayers} players${officialOnlySuffix}`
+    : officialOnlyActive
+      ? "0 official-season players"
+      : "0 players";
   playerPagePrevEl.disabled = pagination.page <= 1;
   playerPageNextEl.disabled = pagination.page >= pagination.totalPages;
 
   if (!filteredPlayers.length) {
-    const emptyReason = getActivePlayerBoard()?.totalPlayers
-      ? `No ${state.roleFilter.toLowerCase()}s match the current search or filter.`
+    const roleLabel = state.roleFilter === "All" ? "players" : `${state.roleFilter.toLowerCase()}s`;
+    const emptyReason = payload
+      ? `No ${officialOnlyActive ? "official-season " : ""}${roleLabel} match the current search or filter.`
       : "No players were returned yet.";
     playerTableBodyEl.innerHTML = `<tr><td colspan="6"><div class="tableStatus">${escapeHtml(emptyReason)}</div></td></tr>`;
     renderPlayerProfileModal();
@@ -2290,7 +2313,6 @@ function renderPlayers() {
     .join("");
 
   const selectedPlayer = state.playerBoard.selectedPlayer || null;
-  const payload = getActivePlayerBoard();
 
   if (playerProfileModalBodyEl) {
     renderPlayerProfileModal();
@@ -3727,6 +3749,9 @@ function buildPlayerBoardPath() {
   if (state.roleFilter !== "All") {
     params.set("role", state.roleFilter);
   }
+  if (state.playerBoard.officialOnly) {
+    params.set("officialOnly", "1");
+  }
   return `/api/players?${params.toString()}`;
 }
 
@@ -4095,6 +4120,15 @@ roleFilterEl.addEventListener("click", (event) => {
   loadPlayerBoard();
 });
 
+if (playerOfficialToggleEl) {
+  playerOfficialToggleEl.addEventListener("click", () => {
+    state.playerBoard.officialOnly = !state.playerBoard.officialOnly;
+    state.playerBoard.page = 1;
+    syncPlayerOfficialToggle();
+    loadPlayerBoard();
+  });
+}
+
 sortSelectEl.addEventListener("change", (event) => {
   state.sortKey = event.target.value;
   state.playerBoard.page = 1;
@@ -4223,6 +4257,7 @@ document.addEventListener("keydown", (event) => {
   }
 });
 
+syncPlayerOfficialToggle();
 initPageNav();
 render();
 showDashboardPage("pagePlayers");

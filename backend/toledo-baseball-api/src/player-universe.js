@@ -14,6 +14,10 @@ function clamp(value, min, max) {
   return Math.min(max, Math.max(min, value));
 }
 
+function readBooleanFlag(value) {
+  return ["1", "true", "yes", "on"].includes(String(value || "").trim().toLowerCase());
+}
+
 function scale(value, min, max) {
   if (!Number.isFinite(value) || max === min) {
     return 0;
@@ -1312,12 +1316,17 @@ export function queryPlayerUniverse(universe, options = {}) {
   const role = String(options.role || "All");
   const position = String(options.position || "").trim().toLowerCase();
   const sort = String(options.sort || "score");
+  const officialOnly = readBooleanFlag(options.officialOnly);
   const pageSize = clamp(Number.parseInt(String(options.pageSize || "40"), 10) || 40, 10, 100);
 
   let filtered = role === "All" ? [...(universe.players || [])] : (universe.players || []).filter((player) => player.role === role);
 
   if (position) {
     filtered = filtered.filter((player) => String(player.position || "").toLowerCase().includes(position));
+  }
+
+  if (officialOnly) {
+    filtered = filtered.filter((player) => player.isOfficialStats);
   }
 
   if (query) {
@@ -1339,6 +1348,14 @@ export function queryPlayerUniverse(universe, options = {}) {
     }
     return right.score - left.score;
   });
+
+  const filteredRoleCounts = filtered.reduce(
+    (counts, player) => {
+      counts[player.role] = (counts[player.role] || 0) + 1;
+      return counts;
+    },
+    { Hitter: 0, Pitcher: 0 },
+  );
 
   const totalPlayers = filtered.length;
   const totalPages = Math.max(1, Math.ceil(totalPlayers / pageSize));
@@ -1391,8 +1408,10 @@ export function queryPlayerUniverse(universe, options = {}) {
     query,
     role,
     sort,
+    officialOnly,
     boardCoverage: universe.boardCoverage,
     roleCounts: universe.roleCounts,
+    filteredRoleCounts,
     note: universe.note,
     snapshotSource: universe.snapshotSource || "",
     sourceSnapshots: universe.sourceSnapshots || [],

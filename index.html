@@ -243,7 +243,7 @@
               <div class="opsEyebrow">Player Profiles</div>
             <div class="playersPanelTitle">Players</div>
             <div class="playersPanelSub" id="players-panel-sub">
-              Search the player universe, filter hitters or pitchers, and click any row to open the full player profile.
+              Search the player universe, filter hitters or pitchers, toggle official season stats only, and click any row to open the full player profile.
             </div>
           </div>
           <div class="playersViewControl">
@@ -256,6 +256,15 @@
               <button data-role="Hitter" type="button">Hitters</button>
               <button data-role="Pitcher" type="button">Pitchers</button>
             </div>
+            <button
+              class="secondary playerFilterToggle"
+              id="player-official-toggle"
+              type="button"
+              aria-pressed="false"
+              title="Limit the board to players with official cumulative season stats from school sites."
+            >
+              Official season stats only
+            </button>
             <label class="sortLabel">
               <span>Sort</span>
               <select id="sort-select">
