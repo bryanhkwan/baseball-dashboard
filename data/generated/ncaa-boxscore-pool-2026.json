@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-16T16:07:44.779Z",
+  "generatedAt": "2026-04-16T17:51:46.656Z",
   "season": 2026,
   "source": "NCAA D1 baseball scoreboards and boxscores",
   "note": "This compact pool was built from chunked NCAA boxscore backfill windows so failed dates can be retried incrementally instead of restarting the full season walk.",
