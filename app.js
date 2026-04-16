@@ -774,9 +774,21 @@ function computePlayerCoverageTier(player = {}) {
   const hasBoxscore = origins.includes("NCAA boxscore pool");
   const hasLeaderboard = origins.includes("National API board");
 
-  if (hasOfficial && playerHasOfficialCumulativeStats(player)) {
+  const schoolSiteSeasonLine =
+    player.displayedStatsFromSchoolSite === true ||
+    (player.displayedStatsFromSchoolSite !== false &&
+      hasOfficial &&
+      !hasBoxscore &&
+      playerHasOfficialCumulativeStats(player));
+
+  if (schoolSiteSeasonLine) {
     return "official-cumulative";
   }
+
+  if (hasOfficial && playerHasOfficialCumulativeStats(player) && hasBoxscore) {
+    return hasLeaderboard ? "mixed-tracked" : "boxscore-only";
+  }
+
   if (hasOfficial) {
     return "official-roster";
   }
@@ -3715,10 +3727,15 @@ async function fetchDashboardJson(path, options = {}) {
     throw new Error(LIVE_API_UNAVAILABLE_MESSAGE);
   }
 
+  const fetchInit = {};
+  if (options.cache) {
+    fetchInit.cache = options.cache;
+  }
+
   let lastError = null;
   for (const apiBase of apiBases) {
     try {
-      const response = await fetch(`${apiBase}${path}`);
+      const response = await fetch(`${apiBase}${path}`, fetchInit);
       if (!response.ok) {
         let message = `Data request failed (${response.status})`;
         try {
@@ -3857,6 +3874,7 @@ async function loadPlayerBoard(options = {}) {
   try {
     const payload = await fetchDashboardJson(buildPlayerBoardPath(), {
       apiBases: getPlayerApiBaseCandidates(),
+      cache: state.playerBoard.officialOnly ? "no-store" : "default",
     });
 
     if (requestId !== playerBoardRequestId) {

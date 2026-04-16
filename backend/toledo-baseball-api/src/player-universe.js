@@ -646,9 +646,21 @@ function computePlayerCoverageTier(player = {}) {
   const hasBoxscore = origins.includes("NCAA boxscore pool");
   const hasLeaderboard = origins.includes("National API board");
 
-  if (hasOfficial && playerHasOfficialCumulativeStats(player)) {
+  const schoolSiteSeasonLine =
+    player.displayedStatsFromSchoolSite === true ||
+    (player.displayedStatsFromSchoolSite !== false &&
+      hasOfficial &&
+      !hasBoxscore &&
+      playerHasOfficialCumulativeStats(player));
+
+  if (schoolSiteSeasonLine) {
     return "official-cumulative";
   }
+
+  if (hasOfficial && playerHasOfficialCumulativeStats(player) && hasBoxscore) {
+    return hasLeaderboard ? "mixed-tracked" : "boxscore-only";
+  }
+
   if (hasOfficial) {
     return "official-roster";
   }
@@ -820,7 +832,10 @@ function attachBoardOrigin(player, boardLabel) {
 
 function mergeUnifiedPlayers(existing, incoming) {
   if (!existing) {
-    return incoming;
+    return decoratePlayerCoverage({
+      ...incoming,
+      displayedStatsFromSchoolSite: playerHasOfficialCumulativeStats(incoming),
+    });
   }
 
   const { primary, secondary } = chooseMergePrimary(existing, incoming);
@@ -828,6 +843,8 @@ function mergeUnifiedPlayers(existing, incoming) {
     ...secondary,
     ...primary,
   };
+
+  merged.displayedStatsFromSchoolSite = playerHasOfficialCumulativeStats(primary);
 
   merged.boardOrigins = uniqueItems([...(existing.boardOrigins || []), ...(incoming.boardOrigins || [])]);
   merged.detailBadges = uniqueItems([...(primary.detailBadges || []), ...(secondary.detailBadges || [])]);
@@ -1326,7 +1343,7 @@ export function queryPlayerUniverse(universe, options = {}) {
   }
 
   if (officialOnly) {
-    filtered = filtered.filter((player) => player.isOfficialStats);
+    filtered = filtered.filter((player) => player.coverageTier === "official-cumulative");
   }
 
   if (query) {
