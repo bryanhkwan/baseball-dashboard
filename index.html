@@ -11,7 +11,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=20260415-4">
+  <link rel="stylesheet" href="styles.css?v=20260416-3">
 </head>
 <body>
   <header class="appHeader">
@@ -278,10 +278,6 @@
 
         <div class="playersTableMeta">
           <div class="statusNote" id="player-results-meta">Building unified player board...</div>
-          <div class="tablePager">
-            <button class="secondary" id="player-page-prev" type="button">Prev</button>
-            <button class="secondary" id="player-page-next" type="button">Next</button>
-          </div>
         </div>
 
         <section class="playerCoveragePanel" aria-live="polite">
@@ -317,6 +313,10 @@
               </table>
             </div>
             <div class="playersBoardFootnote hint" id="players-footnote"></div>
+            <div class="tablePager playersTablePagerBottom">
+              <button class="secondary" id="player-page-prev" type="button">Prev</button>
+              <button class="secondary" id="player-page-next" type="button">Next</button>
+            </div>
           </div>
         </div>
       </section>

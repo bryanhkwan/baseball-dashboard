@@ -121,8 +121,9 @@
     .sortLabel{display:flex;align-items:center;gap:8px}
     .playersSnapshotStrip{margin-top:0}
     .chipRow{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px}
-    .playersTableMeta{display:flex;justify-content:space-between;gap:12px;align-items:center;margin-top:10px}
+    .playersTableMeta{display:flex;justify-content:flex-start;gap:12px;align-items:center;margin-top:10px}
     .tablePager{display:flex;gap:8px;align-items:center}
+    .playersTablePagerBottom{justify-content:flex-end;margin-top:10px;padding:0 12px 12px}
     .playersTableShell{border-radius:18px;background:rgba(5,11,20,.34);border:1px solid rgba(255,255,255,.06);box-shadow:inset 0 1px 0 rgba(255,255,255,.03)}
     .playersBoardFootnote{margin-top:0;padding:14px 16px;border-radius:14px;background:rgba(255,255,255,.025);border:1px solid rgba(255,255,255,.05);opacity:.9}
     .playerCoveragePanel{display:grid;gap:14px;padding:16px 18px;border-radius:18px;background:rgba(255,255,255,.025);border:1px solid rgba(255,255,255,.06);box-shadow:inset 0 1px 0 rgba(255,255,255,.02)}
