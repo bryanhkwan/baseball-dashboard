@@ -1,0 +1,37 @@
+name: Refresh Player Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 10 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-player-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Refresh stored 2026 player snapshots
+        run: node scripts/refresh-player-data.mjs --season 2026 --manifest data/school-manifest.baseball.expanded.json --start-date 2026-02-01
+
+      - name: Commit refreshed player data
+        run: |
+          if git diff --quiet -- data/generated; then
+            echo "No player data changes detected."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/generated
+          git commit -m "chore: refresh baseball player data"
+          git push

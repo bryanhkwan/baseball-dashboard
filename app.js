@@ -965,7 +965,7 @@ function getPlayerSourceDefinitions() {
       summary:
         "This board merges Toledo season data with the broader free transfer-target pool. It is the main player universe for the baseball dashboard.",
       bestUse: "Use for everyday player scouting",
-      caution: "Live backend is used for Games and Overview, not the Players board",
+      caution: "Player stats come from stored 2026 season snapshots plus the NCAA coverage pool, not from live game polling.",
     },
   };
 }
@@ -974,15 +974,44 @@ function getPlayerSourceDefinition(sourceKey = state.playerBoard.sourceKey) {
   return getPlayerSourceDefinitions()[sourceKey] || getPlayerSourceDefinitions()[PLAYER_BOARD_SOURCES.UNIFIED];
 }
 
+function formatBoardDate(value) {
+  if (!value) {
+    return "";
+  }
+  const parsed = new Date(value);
+  if (Number.isNaN(parsed.getTime())) {
+    return "";
+  }
+  return parsed.toLocaleDateString("en-US", {
+    month: "short",
+    day: "numeric",
+    year: "numeric",
+  });
+}
+
+function buildPlayerBoardFootnote(payload, fallbackText) {
+  const dataUpdated = formatBoardDate(payload?.dataGeneratedAt || payload?.generatedAt);
+  const rebuiltAt = formatBoardDate(payload?.rebuiltAt);
+  const parts = [];
+
+  if (dataUpdated) {
+    parts.push(`Player data updated ${dataUpdated}.`);
+  }
+  if (rebuiltAt && rebuiltAt !== dataUpdated) {
+    parts.push(`Unified board rebuilt ${rebuiltAt}.`);
+  }
+  if (payload?.note) {
+    parts.push(payload.note);
+  }
+
+  return parts.join(" ") || fallbackText;
+}
+
 function renderPlayerProfileSnapshot(player, payload) {
   const sourceDefinition = getPlayerSourceDefinition();
-  const boardContext = payload?.generatedAt
-    ? `Updated ${new Date(payload.generatedAt).toLocaleDateString("en-US", {
-        month: "short",
-        day: "numeric",
-        year: "numeric",
-      })}`
-    : "Current board context";
+  const boardContextDate = formatBoardDate(payload?.dataGeneratedAt || payload?.generatedAt);
+  const boardContext = boardContextDate ? `Data updated ${boardContextDate}` : "Current board context";
+  const boardDetailLine = [payload?.boardCoverage, payload?.snapshotSource].filter(Boolean).join(" • ") || sourceDefinition.caution;
   const sourceLine =
     player.sourceSummary ||
     payload?.source ||
@@ -1009,7 +1038,7 @@ function renderPlayerProfileSnapshot(player, payload) {
       <div class="miniStatCard">
         <span>Eval window</span>
         <strong>${escapeHtml(boardContext || "Current board")}</strong>
-        <div class="detailListMeta">${escapeHtml(payload?.boardCoverage || sourceDefinition.caution)}</div>
+        <div class="detailListMeta">${escapeHtml(boardDetailLine)}</div>
       </div>
     </div>
     <div class="playerProfileContext">
@@ -1968,7 +1997,7 @@ function renderPlayerBoardMeta() {
   playerResultsMetaEl.textContent = `${payload.totalPlayers || payload.playerCount || 0} players (${roleCounts.Hitter || 0} hitters / ${
     roleCounts.Pitcher || 0
   } pitchers)`;
-  playersFootnoteEl.textContent = payload.note || mode.defaultFootnote;
+  playersFootnoteEl.textContent = buildPlayerBoardFootnote(payload, mode.defaultFootnote);
   playerSearchEl.placeholder = mode.placeholder;
 }
 

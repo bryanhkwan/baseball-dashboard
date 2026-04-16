@@ -24,9 +24,18 @@ const SCHOOL_SEARCH_LIMIT = 16;
 const NATIONAL_PLAYER_CACHE_TTL_MS = 1000 * 60 * 15;
 const NATIONAL_PLAYER_MAX_PAGES_PER_SPEC = 2;
 const PLAYER_UNIVERSE_CACHE_TTL_MS = 1000 * 60 * 15;
+const PLAYER_SNAPSHOT_CACHE_TTL_MS = 1000 * 60 * 15;
 const MEMORY_CACHE_TTL_MS = 1000 * 60 * 10;
 const SCHOOLS_INDEX_CACHE_TTL_MS = 1000 * 60 * 60 * 6;
 const MAC_STANDINGS_CACHE_TTL_MS = 1000 * 60 * 60 * 24 * 7;
+const PLAYER_SNAPSHOT_BASE_URL =
+  "https://raw.githubusercontent.com/bryanhkwan/baseball-dashboard/main/data/generated";
+const PLAYER_SNAPSHOT_FILES = {
+  toledoDataset: "toledo-baseball-2026.json",
+  sidearmPoolDataset: "sidearm-pool-baseball-2026.json",
+  sidearmRosterPoolDataset: "sidearm-roster-pool-baseball-2026.json",
+  ncaaBoxscorePoolDataset: "ncaa-boxscore-pool-2026.json",
+};
 const MAC_BASEBALL_MEMBER_SCHOOLS = [
   { name: "Akron", long: "Akron" },
   { name: "Ball State", long: "Ball State" },
@@ -67,6 +76,11 @@ let nationalPlayerBoardCache = {
 
 let playerUniverseCache = {
   generatedAt: "",
+  expiresAt: 0,
+  payload: null,
+};
+
+let playerSnapshotDatasetsCache = {
   expiresAt: 0,
   payload: null,
 };
@@ -257,6 +271,82 @@ async function fetchText(url, init) {
 
 function baseUrl(env) {
   return env?.NCAA_API_BASE || NCAA_API_BASE;
+}
+
+function isLikelyLocalHostname(hostname = "") {
+  return (
+    hostname === "127.0.0.1" ||
+    hostname === "0.0.0.0" ||
+    hostname === "localhost" ||
+    hostname.endsWith(".local")
+  );
+}
+
+function getPlayerSnapshotBaseUrl(env) {
+  return String(env?.PLAYER_SNAPSHOT_BASE_URL || PLAYER_SNAPSHOT_BASE_URL || "").replace(/\/$/, "");
+}
+
+function shouldUseRemotePlayerSnapshots(env, requestUrl = "") {
+  if (!env?.PLAYER_SNAPSHOT_BASE_URL) {
+    return false;
+  }
+
+  try {
+    const url = new URL(requestUrl);
+    if (url.protocol === "http:" && isLikelyLocalHostname(url.hostname)) {
+      return false;
+    }
+  } catch (_) {}
+
+  return true;
+}
+
+async function fetchPlayerSnapshotDatasets(env) {
+  const snapshotBaseUrl = getPlayerSnapshotBaseUrl(env);
+  const entries = await Promise.all(
+    Object.entries(PLAYER_SNAPSHOT_FILES).map(async ([key, fileName]) => [
+      key,
+      await fetchJson(`${snapshotBaseUrl}/${fileName}`, {
+        cf: {
+          cacheTtl: Math.floor(PLAYER_SNAPSHOT_CACHE_TTL_MS / 1000),
+          cacheEverything: true,
+        },
+      }),
+    ]),
+  );
+
+  return {
+    ...Object.fromEntries(entries),
+    snapshotSource: `GitHub raw snapshots (${snapshotBaseUrl})`,
+    snapshotWarning: "",
+  };
+}
+
+async function getPlayerSnapshotDatasets(env, options = {}) {
+  if (!shouldUseRemotePlayerSnapshots(env, options.requestUrl)) {
+    return {
+      snapshotSource: "Embedded repository snapshots",
+      snapshotWarning: "",
+    };
+  }
+
+  const cached = readObjectCache(playerSnapshotDatasetsCache);
+  if (cached) {
+    return cached;
+  }
+
+  try {
+    const payload = await fetchPlayerSnapshotDatasets(env);
+    return writeObjectCache(playerSnapshotDatasetsCache, payload, PLAYER_SNAPSHOT_CACHE_TTL_MS);
+  } catch (error) {
+    const payload = {
+      snapshotSource: "Embedded repository snapshots",
+      snapshotWarning: `Remote player snapshot refresh unavailable right now: ${
+        error instanceof Error ? error.message : String(error)
+      } Using embedded repository files instead.`,
+    };
+    return writeObjectCache(playerSnapshotDatasetsCache, payload, PLAYER_SNAPSHOT_CACHE_TTL_MS);
+  }
 }
 
 function macStandingsSnapshotUrl(env) {
@@ -2648,12 +2738,13 @@ async function getNationalPlayerBoard(env) {
   return payload;
 }
 
-async function getStoredPlayerUniverse(env) {
+async function getStoredPlayerUniverse(env, options = {}) {
   const now = Date.now();
   if (playerUniverseCache.payload && playerUniverseCache.expiresAt > now) {
     return playerUniverseCache.payload;
   }
 
+  const datasets = await getPlayerSnapshotDatasets(env, options);
   let nationalPayload = null;
   let nationalError = "";
   try {
@@ -2662,7 +2753,7 @@ async function getStoredPlayerUniverse(env) {
     nationalError = error instanceof Error ? error.message : String(error);
   }
 
-  const payload = buildPlayerUniverse({ nationalPayload, nationalError });
+  const payload = buildPlayerUniverse({ nationalPayload, nationalError, datasets });
   playerUniverseCache = {
     generatedAt: payload.generatedAt,
     expiresAt: now + PLAYER_UNIVERSE_CACHE_TTL_MS,
@@ -3878,6 +3969,11 @@ export default {
       if (url.pathname === "/api/meta/sources") {
         return json({
           defaultSchool: DEFAULT_SCHOOL_NAME,
+          playerSnapshots: {
+            sourceBaseUrl: getPlayerSnapshotBaseUrl(env),
+            refreshCadence: "Daily scheduled GitHub refresh plus manual workflow dispatch.",
+            apiCacheTtlMinutes: Math.round(PLAYER_UNIVERSE_CACHE_TTL_MS / 60000),
+          },
           sources: [
             {
               name: "NCAA wrapper",
@@ -3929,18 +4025,22 @@ export default {
       }
 
       if (url.pathname === "/api/players/coverage") {
-        const universe = await getStoredPlayerUniverse(env);
+        const universe = await getStoredPlayerUniverse(env, { requestUrl: request.url });
         return json({
           source: universe.source,
           generatedAt: universe.generatedAt,
+          dataGeneratedAt: universe.dataGeneratedAt || universe.generatedAt,
+          rebuiltAt: universe.rebuiltAt || universe.generatedAt,
           boardCoverage: universe.boardCoverage,
           note: universe.note,
+          snapshotSource: universe.snapshotSource || "",
+          sourceSnapshots: universe.sourceSnapshots || [],
           data: universe.schoolCoverage,
         });
       }
 
       if (url.pathname === "/api/players") {
-        const universe = await getStoredPlayerUniverse(env);
+        const universe = await getStoredPlayerUniverse(env, { requestUrl: request.url });
         const payload = queryPlayerUniverse(universe, {
           query: url.searchParams.get("query") || "",
           role: url.searchParams.get("role") || "All",
@@ -3955,7 +4055,7 @@ export default {
       const playerMatch = url.pathname.match(/^\/api\/players\/([^/]+)$/);
       if (playerMatch) {
         const playerId = decodeURIComponent(playerMatch[1]);
-        const universe = await getStoredPlayerUniverse(env);
+        const universe = await getStoredPlayerUniverse(env, { requestUrl: request.url });
         const player = getUniversePlayerById(universe, playerId);
         if (!player) {
           return notFound(`Player "${playerId}" was not found in the stored player universe.`);
@@ -3963,8 +4063,12 @@ export default {
         return json({
           source: universe.source,
           generatedAt: universe.generatedAt,
+          dataGeneratedAt: universe.dataGeneratedAt || universe.generatedAt,
+          rebuiltAt: universe.rebuiltAt || universe.generatedAt,
           boardCoverage: universe.boardCoverage,
           note: universe.note,
+          snapshotSource: universe.snapshotSource || "",
+          sourceSnapshots: universe.sourceSnapshots || [],
           data: player,
         });
       }

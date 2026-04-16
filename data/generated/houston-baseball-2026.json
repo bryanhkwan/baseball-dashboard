@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-09T18:55:08.015Z",
+  "generatedAt": "2026-04-16T16:07:32.896Z",
   "season": 2026,
   "school": {
     "slug": "houston",
@@ -27,7 +27,7 @@
   "coverage": {
     "rosterPlayers": 39,
     "espnRosterPlayers": 100,
-    "playersWithHittingStats": 18,
+    "playersWithHittingStats": 19,
     "playersWithPitchingStats": 16,
     "playersWithFieldingStats": 30,
     "mergedPlayersWithAnyStats": 34,
@@ -43,84 +43,84 @@
     }
   },
   "teamSummary": {
-    "record": "16-15, 3-9",
-    "battingAverage": ".277",
-    "earnedRunAverage": "6.17",
+    "record": "16-19, 3-12",
+    "battingAverage": ".270",
+    "earnedRunAverage": "6.11",
     "wins": "16",
-    "losses": "15",
+    "losses": "19",
     "hitting": {
-      "atBats": "1018",
-      "runsScored": "207",
-      "hits": "282",
-      "runsBattedIn": "177",
-      "doubles": "61",
+      "atBats": "1146",
+      "runsScored": "214",
+      "hits": "309",
+      "runsBattedIn": "184",
+      "doubles": "65",
       "triples": "7",
-      "homeRuns": "36",
-      "walks": "157",
+      "homeRuns": "39",
+      "walks": "171",
       "intentionalWalks": "5",
-      "strikeouts": "231",
-      "strikeoutsLooking": "27",
-      "hitByPitch": "50",
-      "stolenBases": "43",
-      "caughtStealing": "16",
+      "strikeouts": "258",
+      "strikeoutsLooking": "39",
+      "hitByPitch": "56",
+      "stolenBases": "46",
+      "caughtStealing": "17",
       "sacrificeHits": "17",
       "sacrificeFlies": "12",
       "reachedOnCatchersInteference": "1",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "208",
-      "flyOuts": "287",
-      "groundedIntoDoublePlay": "27",
-      "pickedOff": "5",
-      "doublePlaysHitInto": "28",
+      "groundOuts": "239",
+      "flyOuts": "327",
+      "groundedIntoDoublePlay": "34",
+      "pickedOff": "6",
+      "doublePlaysHitInto": "35",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "809",
-      "assists": "303",
-      "errors": "34",
+      "putouts": "914",
+      "assists": "334",
+      "errors": "38",
       "passedBalls": "3",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "58",
+      "stolenBasesAgainst": "62",
       "caughtStealingBy": "10",
       "involvedInDoublePlays": "26",
       "involvedInTriplePlays": "0",
-      "totalChances": "1146",
+      "totalChances": "1286",
       "fieldingPercentage": ".970"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "16",
-      "saves": "23",
-      "losses": "15",
+      "saves": "26",
+      "losses": "19",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "0",
       "creditForCombinedShutout": "1",
-      "inningsPitched": "269.2",
-      "hitsAllowed": "276",
-      "runsAllowed": "212",
-      "earnedRunsAllowed": "185",
-      "walksAllowed": "142",
-      "strikeouts": "253",
-      "battersFaced": "1242",
-      "opponentAtBats": "1034",
-      "doublesAllowed": "60",
-      "triplesAllowed": "4",
-      "homerunsAllowed": "25",
-      "wildPitches": "34",
+      "inningsPitched": "304.2",
+      "hitsAllowed": "317",
+      "runsAllowed": "237",
+      "earnedRunsAllowed": "207",
+      "walksAllowed": "150",
+      "strikeouts": "287",
+      "battersFaced": "1402",
+      "opponentAtBats": "1179",
+      "doublesAllowed": "68",
+      "triplesAllowed": "5",
+      "homerunsAllowed": "31",
+      "wildPitches": "35",
       "balks": "0",
-      "hitBatters": "40",
-      "strikeoutsLooking": "28",
+      "hitBatters": "45",
+      "strikeoutsLooking": "40",
       "intentionalWalks": "1",
-      "inheritedRunners": "78",
-      "inheritedRunnersThatScored": "41",
-      "sacrificeHitsAllowed": "10",
+      "inheritedRunners": "84",
+      "inheritedRunnersThatScored": "44",
+      "sacrificeHitsAllowed": "12",
       "sacrificeFliesAllowed": "16",
       "catchersInterferenceAllowed": "0",
-      "pitches": "4847",
-      "flyouts": "234",
-      "groundouts": "275",
+      "pitches": "5406",
+      "flyouts": "271",
+      "groundouts": "305",
       "teamUnearnedRuns": "0",
       "saveRecord": "7",
       "pickoff": "3"
@@ -165,13 +165,13 @@
         "jersey": "0",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/easton-winfield/9688",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Winfield_Easton_067.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 10,
-        "battingAverage": 0.222,
-        "onBasePercentage": 0.349,
-        "sluggingPercentage": 0.417,
-        "ops": 0.766,
-        "atBats": 36,
+        "gamesPlayed": 17,
+        "gamesStarted": 11,
+        "battingAverage": 0.211,
+        "onBasePercentage": 0.333,
+        "sluggingPercentage": 0.395,
+        "ops": 0.728,
+        "atBats": 38,
         "runs": 9,
         "hits": 8,
         "doubles": 1,
@@ -181,7 +181,7 @@
         "totalBases": 15,
         "walks": 7,
         "hitByPitch": 0,
-        "strikeouts": 14,
+        "strikeouts": 15,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
@@ -191,43 +191,43 @@
         "putouts": 0,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 49,
+        "plateAppearances": 51,
         "caughtStealing": 2,
         "pickedOff": 0
       },
       "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
-        "score": 24,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 38.33333333333331,
-          "Power": 25.52631578947368,
-          "Contact": 1.250000000000001,
-          "Discipline": 33.33333333333333,
+          "On-base": 29.44444444444444,
+          "Power": 19.736842105263165,
+          "Contact": 0,
+          "Discipline": 29.629629629629623,
           "Speed": 6.666666666666667
         },
         "summary": "Easton Winfield gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .222",
-          "OBP .349",
-          "SLG .417"
+          "AVG .211",
+          "OBP .333",
+          "SLG .395"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".222"
+            "value": ".211"
           },
           {
             "label": "OBP",
-            "value": ".349"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".417"
+            "value": ".395"
           },
           {
             "label": "HR",
@@ -580,33 +580,33 @@
         "jersey": "3",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/tre-broussard/9591",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Broussard_Tre_071.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 20,
-        "battingAverage": 0.392,
-        "onBasePercentage": 0.485,
-        "sluggingPercentage": 0.62,
-        "ops": 1.105,
-        "atBats": 79,
-        "runs": 16,
-        "hits": 31,
+        "gamesPlayed": 26,
+        "gamesStarted": 24,
+        "battingAverage": 0.34,
+        "onBasePercentage": 0.439,
+        "sluggingPercentage": 0.532,
+        "ops": 0.971,
+        "atBats": 94,
+        "runs": 17,
+        "hits": 32,
         "doubles": 7,
         "triples": 1,
         "homeRuns": 3,
         "runsBattedIn": 19,
-        "totalBases": 49,
-        "walks": 14,
+        "totalBases": 50,
+        "walks": 16,
         "hitByPitch": 2,
-        "strikeouts": 16,
+        "strikeouts": 17,
         "intentionalWalks": 2,
-        "groundedIntoDoublePlay": 0,
+        "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
-        "stolenBases": 10,
-        "stolenBasesAttempts": 10,
-        "putouts": 23,
+        "stolenBases": 11,
+        "stolenBasesAttempts": 11,
+        "putouts": 34,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 107,
+        "plateAppearances": 125,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -618,51 +618,51 @@
         "jersey": "3",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/tre-broussard/9591",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Broussard_Tre_071.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 9,
-        "putouts": 23,
+        "gamesPlayed": 13,
+        "gamesStarted": 13,
+        "putouts": 34,
         "assists": 0,
         "errors": 1,
-        "fieldingPercentage": 0.958,
+        "fieldingPercentage": 0.971,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 24
+        "totalChances": 35
       },
       "evaluation": {
-        "score": 84,
+        "score": 71,
         "fit": {
-          "label": "Priority",
-          "className": "fit-priority"
+          "label": "Pursue",
+          "className": "fit-pursue"
         },
         "components": {
-          "On-base": 100,
-          "Power": 78.94736842105264,
-          "Contact": 100,
-          "Discipline": 74.99999999999999,
-          "Speed": 33.33333333333333
+          "On-base": 88.33333333333331,
+          "Power": 55.78947368421054,
+          "Contact": 75.00000000000001,
+          "Discipline": 82.35294117647058,
+          "Speed": 36.666666666666664
         },
-        "summary": "Tre Broussard profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
+        "summary": "Tre Broussard profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .392",
-          "OBP .485",
-          "SLG .620"
+          "AVG .340",
+          "OBP .439",
+          "SLG .532"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".392"
+            "value": ".340"
           },
           {
             "label": "OBP",
-            "value": ".485"
+            "value": ".439"
           },
           {
             "label": "SLG",
-            "value": ".620"
+            "value": ".532"
           },
           {
             "label": "HR",
@@ -674,7 +674,7 @@
           },
           {
             "label": "SB",
-            "value": "10"
+            "value": "11"
           }
         ],
         "metaLine": "JR / N/A",
@@ -725,33 +725,33 @@
         "jersey": "4",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/riley-jackson/9597",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Jackson_Riley_316.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 25,
-        "battingAverage": 0.276,
-        "onBasePercentage": 0.406,
-        "sluggingPercentage": 0.598,
-        "ops": 1.004,
-        "atBats": 87,
+        "gamesPlayed": 32,
+        "gamesStarted": 29,
+        "battingAverage": 0.27,
+        "onBasePercentage": 0.397,
+        "sluggingPercentage": 0.56,
+        "ops": 0.957,
+        "atBats": 100,
         "runs": 17,
-        "hits": 24,
-        "doubles": 7,
+        "hits": 27,
+        "doubles": 8,
         "triples": 0,
         "homeRuns": 7,
         "runsBattedIn": 20,
-        "totalBases": 52,
-        "walks": 14,
+        "totalBases": 56,
+        "walks": 16,
         "hitByPitch": 5,
-        "strikeouts": 20,
+        "strikeouts": 23,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 195,
-        "assists": 17,
+        "putouts": 226,
+        "assists": 20,
         "errors": 2,
-        "plateAppearances": 106,
+        "plateAppearances": 121,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -763,51 +763,51 @@
         "jersey": "4",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/riley-jackson/9597",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Jackson_Riley_316.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 25,
-        "putouts": 195,
-        "assists": 17,
+        "gamesPlayed": 31,
+        "gamesStarted": 29,
+        "putouts": 226,
+        "assists": 20,
         "errors": 2,
-        "fieldingPercentage": 0.991,
+        "fieldingPercentage": 0.992,
         "doublePlays": 4,
-        "stolenBasesAgainst": 30,
+        "stolenBasesAgainst": 34,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.938,
+        "stolenBasesPercentage": 0.944,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 214
+        "totalChances": 248
       },
       "evaluation": {
-        "score": 55,
+        "score": 51,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 70,
-          "Power": 73.15789473684211,
-          "Contact": 35.000000000000014,
-          "Discipline": 55.555555555555536,
+          "On-base": 65,
+          "Power": 63.157894736842124,
+          "Contact": 31.25000000000001,
+          "Discipline": 55.07246376811593,
           "Speed": 0
         },
-        "summary": "Riley Jackson profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Riley Jackson profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .276",
-          "OBP .406",
-          "SLG .598"
+          "AVG .270",
+          "OBP .397",
+          "SLG .560"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".276"
+            "value": ".270"
           },
           {
             "label": "OBP",
-            "value": ".406"
+            "value": ".397"
           },
           {
             "label": "SLG",
-            "value": ".598"
+            "value": ".560"
           },
           {
             "label": "HR",
@@ -870,13 +870,13 @@
         "jersey": "5",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/irvin-weems-iii/9709",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Weems_Irvin_257.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 3,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.357,
-        "sluggingPercentage": 0.333,
-        "ops": 0.69,
-        "atBats": 12,
+        "gamesPlayed": 20,
+        "gamesStarted": 4,
+        "battingAverage": 0.167,
+        "onBasePercentage": 0.286,
+        "sluggingPercentage": 0.222,
+        "ops": 0.508,
+        "atBats": 18,
         "runs": 3,
         "hits": 3,
         "doubles": 1,
@@ -884,19 +884,19 @@
         "homeRuns": 0,
         "runsBattedIn": 1,
         "totalBases": 4,
-        "walks": 1,
+        "walks": 2,
         "hitByPitch": 1,
-        "strikeouts": 4,
+        "strikeouts": 8,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 6,
+        "putouts": 8,
         "assists": 1,
         "errors": 1,
-        "plateAppearances": 17,
+        "plateAppearances": 24,
         "caughtStealing": 1,
         "pickedOff": 2
       },
@@ -908,51 +908,51 @@
         "jersey": "5",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/irvin-weems-iii/9709",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Weems_Irvin_257.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 2,
-        "putouts": 6,
+        "gamesPlayed": 7,
+        "gamesStarted": 3,
+        "putouts": 8,
         "assists": 1,
         "errors": 1,
-        "fieldingPercentage": 0.875,
+        "fieldingPercentage": 0.9,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 8
+        "totalChances": 10
       },
       "evaluation": {
-        "score": 19,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 42.77777777777775,
-          "Power": 3.421052631578951,
-          "Contact": 18.75,
+          "On-base": 3.3333333333333055,
+          "Power": 0,
+          "Contact": 0,
           "Discipline": 5.555555555555554,
           "Speed": 3.3333333333333335
         },
         "summary": "Irvin Weems III gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .357",
-          "SLG .333"
+          "AVG .167",
+          "OBP .286",
+          "SLG .222"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".167"
           },
           {
             "label": "OBP",
-            "value": ".357"
+            "value": ".286"
           },
           {
             "label": "SLG",
-            "value": ".333"
+            "value": ".222"
           },
           {
             "label": "HR",
@@ -1015,33 +1015,33 @@
         "jersey": "7",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/xavier-perez/9601",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Perez_Xavier_249.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
-        "battingAverage": 0.301,
-        "onBasePercentage": 0.399,
-        "sluggingPercentage": 0.585,
-        "ops": 0.984,
-        "atBats": 123,
-        "runs": 30,
-        "hits": 37,
-        "doubles": 5,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "battingAverage": 0.311,
+        "onBasePercentage": 0.419,
+        "sluggingPercentage": 0.6,
+        "ops": 1.019,
+        "atBats": 135,
+        "runs": 32,
+        "hits": 42,
+        "doubles": 6,
         "triples": 3,
-        "homeRuns": 8,
-        "runsBattedIn": 26,
-        "totalBases": 72,
-        "walks": 16,
-        "hitByPitch": 4,
-        "strikeouts": 28,
+        "homeRuns": 9,
+        "runsBattedIn": 28,
+        "totalBases": 81,
+        "walks": 19,
+        "hitByPitch": 6,
+        "strikeouts": 30,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 0,
         "sacrificeHits": 3,
         "stolenBases": 6,
         "stolenBasesAttempts": 7,
-        "putouts": 54,
-        "assists": 4,
+        "putouts": 58,
+        "assists": 5,
         "errors": 1,
-        "plateAppearances": 154,
+        "plateAppearances": 171,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1053,59 +1053,59 @@
         "jersey": "7",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/xavier-perez/9601",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Perez_Xavier_249.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 25,
-        "putouts": 54,
-        "assists": 4,
+        "gamesPlayed": 27,
+        "gamesStarted": 27,
+        "putouts": 58,
+        "assists": 5,
         "errors": 1,
-        "fieldingPercentage": 0.983,
+        "fieldingPercentage": 0.984,
         "doublePlays": 2,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 59
+        "totalChances": 64
       },
       "evaluation": {
-        "score": 56,
+        "score": 63,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 66.11111111111111,
-          "Power": 69.73684210526315,
-          "Contact": 50.624999999999986,
-          "Discipline": 41.26984126984126,
+          "On-base": 77.2222222222222,
+          "Power": 73.6842105263158,
+          "Contact": 56.875,
+          "Discipline": 48.14814814814813,
           "Speed": 20
         },
-        "summary": "Xavier Perez profiles as a OF/1B piece who brings real extra-base damage.",
+        "summary": "Xavier Perez profiles as a OF/1B piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .301",
-          "OBP .399",
-          "SLG .585"
+          "AVG .311",
+          "OBP .419",
+          "SLG .600"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".301"
+            "value": ".311"
           },
           {
             "label": "OBP",
-            "value": ".399"
+            "value": ".419"
           },
           {
             "label": "SLG",
-            "value": ".585"
+            "value": ".600"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "26"
+            "value": "28"
           },
           {
             "label": "SB",
@@ -1161,32 +1161,32 @@
         "jersey": "8",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/alex-solis/9606",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Solis_Alexander_177.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 14,
         "gamesStarted": 1,
-        "appearances": 12,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.25,
-        "whip": 1.29,
+        "earnedRunAverage": 5.54,
+        "whip": 1.35,
         "wins": 2,
-        "losses": 1,
+        "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 24,
-        "inningsPitchedDisplay": "24.0",
-        "hitsAllowed": 22,
-        "runsAllowed": 15,
-        "earnedRunsAllowed": 14,
-        "walksAllowed": 9,
+        "inningsPitched": 26,
+        "inningsPitchedDisplay": "26.0",
+        "hitsAllowed": 25,
+        "runsAllowed": 17,
+        "earnedRunsAllowed": 16,
+        "walksAllowed": 10,
         "strikeouts": 24,
         "doublesAllowed": 5,
-        "triplesAllowed": 2,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 87,
+        "triplesAllowed": 3,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 96,
         "wildPitches": 3,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.253,
-        "walksHits": 31
+        "opponentsBattingAverage": 0.26,
+        "walksHits": 35
       },
       "fieldingStats": {
         "rosterBioId": "9606",
@@ -1210,7 +1210,7 @@
         "totalChances": 6
       },
       "evaluation": {
-        "score": 14,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1218,40 +1218,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 33.33333333333333,
+          "Miss bats": 39.16083916083917,
+          "Command": 27.999999999999996,
           "Damage suppression": 0
         },
-        "summary": "Alex Solis looks like a RHP option who misses bats.",
+        "summary": "Alex Solis gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.25",
-          "WHIP 1.29",
-          "K/9 9.0"
+          "ERA 5.54",
+          "WHIP 1.35",
+          "K/9 8.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.25"
+            "value": "5.54"
           },
           {
             "label": "WHIP",
-            "value": "1.29"
+            "value": "1.35"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "8.3"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "3.5"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "0.35"
           },
           {
             "label": "IP",
-            "value": "24.0"
+            "value": "26.0"
           }
         ],
         "metaLine": "JR / N/A",
@@ -1390,33 +1390,33 @@
         "jersey": "11",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/tyler-cox/9594",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Cox_Tyler_254.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 30,
-        "battingAverage": 0.3,
-        "onBasePercentage": 0.408,
-        "sluggingPercentage": 0.37,
-        "ops": 0.778,
-        "atBats": 100,
-        "runs": 19,
-        "hits": 30,
+        "gamesPlayed": 35,
+        "gamesStarted": 34,
+        "battingAverage": 0.319,
+        "onBasePercentage": 0.42,
+        "sluggingPercentage": 0.379,
+        "ops": 0.799,
+        "atBats": 116,
+        "runs": 21,
+        "hits": 37,
         "doubles": 2,
         "triples": 1,
         "homeRuns": 1,
         "runsBattedIn": 14,
-        "totalBases": 37,
-        "walks": 15,
-        "hitByPitch": 4,
-        "strikeouts": 7,
+        "totalBases": 44,
+        "walks": 16,
+        "hitByPitch": 5,
+        "strikeouts": 8,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 1,
         "sacrificeHits": 8,
         "stolenBases": 3,
         "stolenBasesAttempts": 5,
-        "putouts": 31,
-        "assists": 81,
+        "putouts": 38,
+        "assists": 92,
         "errors": 5,
-        "plateAppearances": 135,
+        "plateAppearances": 153,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1428,51 +1428,51 @@
         "jersey": "11",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/tyler-cox/9594",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Cox_Tyler_254.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 30,
-        "putouts": 31,
-        "assists": 81,
+        "gamesPlayed": 34,
+        "gamesStarted": 34,
+        "putouts": 38,
+        "assists": 92,
         "errors": 5,
-        "fieldingPercentage": 0.957,
+        "fieldingPercentage": 0.963,
         "doublePlays": 15,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 117
+        "totalChances": 135
       },
       "evaluation": {
-        "score": 50,
+        "score": 55,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 71.11111111111109,
-          "Power": 13.157894736842104,
-          "Contact": 49.999999999999986,
+          "On-base": 77.77777777777776,
+          "Power": 15.526315789473685,
+          "Contact": 61.875,
           "Discipline": 100,
           "Speed": 10
         },
         "summary": "Tyler Cox profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .408",
-          "SLG .370"
+          "AVG .319",
+          "OBP .420",
+          "SLG .379"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": ".319"
           },
           {
             "label": "OBP",
-            "value": ".408"
+            "value": ".420"
           },
           {
             "label": "SLG",
-            "value": ".370"
+            "value": ".379"
           },
           {
             "label": "HR",
@@ -1535,33 +1535,33 @@
         "jersey": "12",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/cade-climie/9593",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Climie_Cade_230.jpg",
-        "gamesPlayed": 20,
-        "gamesStarted": 10,
-        "battingAverage": 0.292,
-        "onBasePercentage": 0.393,
-        "sluggingPercentage": 0.604,
-        "ops": 0.997,
-        "atBats": 48,
-        "runs": 7,
-        "hits": 14,
-        "doubles": 7,
+        "gamesPlayed": 24,
+        "gamesStarted": 14,
+        "battingAverage": 0.306,
+        "onBasePercentage": 0.403,
+        "sluggingPercentage": 0.613,
+        "ops": 1.016,
+        "atBats": 62,
+        "runs": 8,
+        "hits": 19,
+        "doubles": 8,
         "triples": 1,
-        "homeRuns": 2,
-        "runsBattedIn": 8,
-        "totalBases": 29,
-        "walks": 7,
+        "homeRuns": 3,
+        "runsBattedIn": 12,
+        "totalBases": 38,
+        "walks": 9,
         "hitByPitch": 1,
-        "strikeouts": 13,
+        "strikeouts": 15,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
+        "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 54,
-        "assists": 9,
+        "putouts": 74,
+        "assists": 10,
         "errors": 2,
-        "plateAppearances": 58,
+        "plateAppearances": 74,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -1573,59 +1573,59 @@
         "jersey": "12",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/cade-climie/9593",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Climie_Cade_230.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 9,
-        "putouts": 54,
-        "assists": 9,
+        "gamesPlayed": 15,
+        "gamesStarted": 12,
+        "putouts": 74,
+        "assists": 10,
         "errors": 2,
-        "fieldingPercentage": 0.969,
+        "fieldingPercentage": 0.977,
         "doublePlays": 9,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 65
+        "totalChances": 86
       },
       "evaluation": {
-        "score": 53,
+        "score": 58,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 62.77777777777778,
-          "Power": 74.73684210526315,
-          "Contact": 44.999999999999986,
-          "Discipline": 37.606837606837594,
+          "On-base": 68.33333333333333,
+          "Power": 77.10526315789474,
+          "Contact": 53.75,
+          "Discipline": 44.444444444444436,
           "Speed": 3.3333333333333335
         },
-        "summary": "Cade Climie profiles as a INF piece who brings real extra-base damage.",
+        "summary": "Cade Climie profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .292",
-          "OBP .393",
-          "SLG .604"
+          "AVG .306",
+          "OBP .403",
+          "SLG .613"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".306"
           },
           {
             "label": "OBP",
-            "value": ".393"
+            "value": ".403"
           },
           {
             "label": "SLG",
-            "value": ".604"
+            "value": ".613"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "3"
           },
           {
             "label": "RBI",
-            "value": "8"
+            "value": "12"
           },
           {
             "label": "SB",
@@ -1968,32 +1968,32 @@
         "jersey": "17",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/connor-udland/9691",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Udland_Connor_141.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 5,
-        "appearances": 10,
+        "gamesPlayed": 11,
+        "gamesStarted": 6,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.28,
-        "whip": 1.38,
+        "earnedRunAverage": 5.23,
+        "whip": 1.52,
         "wins": 2,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 29,
-        "inningsPitchedDisplay": "29.0",
-        "hitsAllowed": 26,
-        "runsAllowed": 19,
-        "earnedRunsAllowed": 17,
-        "walksAllowed": 14,
+        "inningsPitched": 31,
+        "inningsPitchedDisplay": "31.0",
+        "hitsAllowed": 31,
+        "runsAllowed": 20,
+        "earnedRunsAllowed": 18,
+        "walksAllowed": 16,
         "strikeouts": 35,
-        "doublesAllowed": 6,
+        "doublesAllowed": 8,
         "triplesAllowed": 0,
         "homeRunsAllowed": 6,
-        "opponentsAtBats": 112,
+        "opponentsAtBats": 122,
         "wildPitches": 2,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.232,
-        "walksHits": 40
+        "opponentsBattingAverage": 0.254,
+        "walksHits": 47
       },
       "fieldingStats": {
         "rosterBioId": "9691",
@@ -2017,7 +2017,7 @@
         "totalChances": 4
       },
       "evaluation": {
-        "score": 17,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2025,40 +2025,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 62.38244514106584,
-          "Command": 30,
+          "Miss bats": 56.011730205278596,
+          "Command": 23.75,
           "Damage suppression": 0
         },
         "summary": "Connor Udland looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.28",
-          "WHIP 1.38",
-          "K/9 10.9"
+          "ERA 5.23",
+          "WHIP 1.52",
+          "K/9 10.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.28"
+            "value": "5.23"
           },
           {
             "label": "WHIP",
-            "value": "1.38"
+            "value": "1.52"
           },
           {
             "label": "K/9",
-            "value": "10.9"
+            "value": "10.2"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "4.6"
           },
           {
             "label": "HR/9",
-            "value": "1.86"
+            "value": "1.74"
           },
           {
             "label": "IP",
-            "value": "29.0"
+            "value": "31.0"
           }
         ],
         "metaLine": "FR / N/A",
@@ -2109,13 +2109,13 @@
         "jersey": "18",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/mcclane-helton/9692",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Helton_McClane_206.jpg",
-        "gamesPlayed": 24,
+        "gamesPlayed": 27,
         "gamesStarted": 21,
-        "battingAverage": 0.254,
-        "onBasePercentage": 0.436,
-        "sluggingPercentage": 0.352,
-        "ops": 0.788,
-        "atBats": 71,
+        "battingAverage": 0.24,
+        "onBasePercentage": 0.418,
+        "sluggingPercentage": 0.333,
+        "ops": 0.751,
+        "atBats": 75,
         "runs": 18,
         "hits": 18,
         "doubles": 7,
@@ -2125,17 +2125,17 @@
         "totalBases": 25,
         "walks": 20,
         "hitByPitch": 3,
-        "strikeouts": 24,
+        "strikeouts": 25,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 7,
         "stolenBasesAttempts": 8,
-        "putouts": 104,
+        "putouts": 106,
         "assists": 4,
         "errors": 3,
-        "plateAppearances": 104,
+        "plateAppearances": 108,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -2147,9 +2147,9 @@
         "jersey": "18",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/mcclane-helton/9692",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Helton_McClane_206.jpg",
-        "gamesPlayed": 20,
+        "gamesPlayed": 21,
         "gamesStarted": 18,
-        "putouts": 104,
+        "putouts": 106,
         "assists": 4,
         "errors": 3,
         "fieldingPercentage": 0.973,
@@ -2159,39 +2159,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 111
+        "totalChances": 113
       },
       "evaluation": {
-        "score": 46,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 86.66666666666666,
-          "Power": 8.421052631578942,
-          "Contact": 21.250000000000004,
-          "Discipline": 70.37037037037037,
+          "On-base": 76.66666666666664,
+          "Power": 3.421052631578951,
+          "Contact": 12.499999999999993,
+          "Discipline": 66.66666666666666,
           "Speed": 23.333333333333332
         },
         "summary": "McClane Helton profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .254",
-          "OBP .436",
-          "SLG .352"
+          "AVG .240",
+          "OBP .418",
+          "SLG .333"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".254"
+            "value": ".240"
           },
           {
             "label": "OBP",
-            "value": ".436"
+            "value": ".418"
           },
           {
             "label": "SLG",
-            "value": ".352"
+            "value": ".333"
           },
           {
             "label": "HR",
@@ -2255,32 +2255,32 @@
         "jersey": "19",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/harrison-boushele/9590",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Boushele_Harrison_023.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 11,
         "gamesStarted": 0,
-        "appearances": 9,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 8.44,
-        "whip": 1.88,
+        "earnedRunAverage": 7.53,
+        "whip": 1.81,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 10.666666666666666,
-        "inningsPitchedDisplay": "10.2",
-        "hitsAllowed": 13,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 10,
+        "inningsPitched": 14.333333333333334,
+        "inningsPitchedDisplay": "14.1",
+        "hitsAllowed": 19,
+        "runsAllowed": 15,
+        "earnedRunsAllowed": 12,
         "walksAllowed": 7,
-        "strikeouts": 15,
-        "doublesAllowed": 4,
+        "strikeouts": 17,
+        "doublesAllowed": 5,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 45,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 62,
         "wildPitches": 2,
-        "hitBatters": 2,
+        "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.289,
-        "walksHits": 20
+        "opponentsBattingAverage": 0.306,
+        "walksHits": 26
       },
       "fieldingStats": {
         "rosterBioId": "9590",
@@ -2289,22 +2289,22 @@
         "jersey": "19",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/harrison-boushele/9590",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Boushele_Harrison_023.jpg",
-        "gamesPlayed": 2,
+        "gamesPlayed": 3,
         "gamesStarted": 0,
         "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
+        "assists": 2,
+        "errors": 1,
+        "fieldingPercentage": 0.667,
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 1
+        "totalChances": 3
       },
       "evaluation": {
-        "score": 19,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2312,40 +2312,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 78.69318181818183,
-          "Command": 22.857142857142858,
+          "Miss bats": 60.676532769556026,
+          "Command": 28.57142857142857,
           "Damage suppression": 0
         },
         "summary": "Harrison Boushele looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 8.44",
-          "WHIP 1.88",
-          "K/9 12.7"
+          "ERA 7.53",
+          "WHIP 1.81",
+          "K/9 10.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.44"
+            "value": "7.53"
           },
           {
             "label": "WHIP",
-            "value": "1.88"
+            "value": "1.81"
           },
           {
             "label": "K/9",
-            "value": "12.7"
+            "value": "10.7"
           },
           {
             "label": "BB/9",
-            "value": "5.9"
+            "value": "4.4"
           },
           {
             "label": "HR/9",
-            "value": "0.84"
+            "value": "1.26"
           },
           {
             "label": "IP",
-            "value": "10.7"
+            "value": "14.3"
           }
         ],
         "metaLine": "SR / N/A",
@@ -2397,32 +2397,32 @@
         "jersey": "20",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/tyler-bryan/9693",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Bryan_Tyler_068.jpg",
-        "gamesPlayed": 14,
+        "gamesPlayed": 16,
         "gamesStarted": 0,
-        "appearances": 14,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 9.53,
-        "whip": 2,
+        "earnedRunAverage": 8.84,
+        "whip": 1.91,
         "wins": 1,
         "losses": 2,
         "saves": 3,
         "shutouts": 0,
-        "inningsPitched": 17,
-        "inningsPitchedDisplay": "17.0",
-        "hitsAllowed": 19,
-        "runsAllowed": 19,
-        "earnedRunsAllowed": 18,
+        "inningsPitched": 19.333333333333332,
+        "inningsPitchedDisplay": "19.1",
+        "hitsAllowed": 22,
+        "runsAllowed": 21,
+        "earnedRunsAllowed": 19,
         "walksAllowed": 15,
-        "strikeouts": 16,
+        "strikeouts": 18,
         "doublesAllowed": 4,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 62,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 73,
         "wildPitches": 2,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.306,
-        "walksHits": 34
+        "opponentsBattingAverage": 0.301,
+        "walksHits": 37
       },
       "fieldingStats": {
         "rosterBioId": "9693",
@@ -2431,9 +2431,9 @@
         "jersey": "20",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/tyler-bryan/9693",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Bryan_Tyler_068.jpg",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 0,
-        "putouts": 1,
+        "putouts": 2,
         "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -2443,10 +2443,10 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 3
+        "totalChances": 4
       },
       "evaluation": {
-        "score": 8,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2454,40 +2454,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 40.64171122994652,
-          "Command": 1.333333333333333,
+          "Miss bats": 39.811912225705335,
+          "Command": 3.9999999999999996,
           "Damage suppression": 0
         },
         "summary": "Tyler Bryan gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.53",
-          "WHIP 2.00",
-          "K/9 8.5"
+          "ERA 8.84",
+          "WHIP 1.91",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.53"
+            "value": "8.84"
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "1.91"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "7.9"
+            "value": "7.0"
           },
           {
             "label": "HR/9",
-            "value": "0.53"
+            "value": "0.93"
           },
           {
             "label": "IP",
-            "value": "17.0"
+            "value": "19.3"
           }
         ],
         "metaLine": "SR / N/A",
@@ -2538,33 +2538,33 @@
         "jersey": "21",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/antonelli-savattere/9710",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Savattere_Antsonelli_216.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 26,
-        "battingAverage": 0.276,
-        "onBasePercentage": 0.394,
-        "sluggingPercentage": 0.31,
-        "ops": 0.704,
-        "atBats": 87,
+        "gamesPlayed": 34,
+        "gamesStarted": 30,
+        "battingAverage": 0.253,
+        "onBasePercentage": 0.379,
+        "sluggingPercentage": 0.283,
+        "ops": 0.662,
+        "atBats": 99,
         "runs": 9,
-        "hits": 24,
+        "hits": 25,
         "doubles": 3,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 17,
-        "totalBases": 27,
-        "walks": 11,
-        "hitByPitch": 8,
-        "strikeouts": 14,
+        "totalBases": 28,
+        "walks": 12,
+        "hitByPitch": 10,
+        "strikeouts": 16,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 4,
+        "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 3,
         "sacrificeHits": 2,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 4,
-        "putouts": 42,
-        "assists": 62,
+        "stolenBases": 4,
+        "stolenBasesAttempts": 5,
+        "putouts": 45,
+        "assists": 68,
         "errors": 2,
-        "plateAppearances": 116,
+        "plateAppearances": 132,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -2576,51 +2576,51 @@
         "jersey": "21",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/antonelli-savattere/9710",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Savattere_Antsonelli_216.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 25,
-        "putouts": 42,
-        "assists": 62,
+        "gamesPlayed": 32,
+        "gamesStarted": 29,
+        "putouts": 45,
+        "assists": 68,
         "errors": 2,
-        "fieldingPercentage": 0.981,
+        "fieldingPercentage": 0.983,
         "doublePlays": 14,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 106
+        "totalChances": 115
       },
       "evaluation": {
-        "score": 37,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 63.33333333333333,
+          "On-base": 54.99999999999999,
           "Power": 0,
-          "Contact": 35.000000000000014,
-          "Discipline": 65.07936507936506,
-          "Speed": 10
+          "Contact": 20.625,
+          "Discipline": 61.11111111111111,
+          "Speed": 13.333333333333334
         },
         "summary": "Antonelli Savattere gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .276",
-          "OBP .394",
-          "SLG .310"
+          "AVG .253",
+          "OBP .379",
+          "SLG .283"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".276"
+            "value": ".253"
           },
           {
             "label": "OBP",
-            "value": ".394"
+            "value": ".379"
           },
           {
             "label": "SLG",
-            "value": ".310"
+            "value": ".283"
           },
           {
             "label": "HR",
@@ -2632,7 +2632,7 @@
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "4"
           }
         ],
         "metaLine": "SR / N/A",
@@ -2684,36 +2684,36 @@
         "jersey": "23",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/diego-luzardo/9599",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Luzardo_Diego_002.jpg",
-        "gamesPlayed": 1,
+        "gamesPlayed": 2,
         "gamesStarted": 0,
-        "appearances": 1,
+        "appearances": 2,
         "gamesCompleted": 0,
-        "earnedRunAverage": 99,
-        "whip": 0,
+        "earnedRunAverage": 40.5,
+        "whip": 4.5,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 0,
-        "inningsPitchedDisplay": "0.0",
+        "inningsPitched": 0.6666666666666666,
+        "inningsPitchedDisplay": "0.2",
         "hitsAllowed": 2,
         "runsAllowed": 3,
         "earnedRunsAllowed": 3,
         "walksAllowed": 1,
-        "strikeouts": 0,
+        "strikeouts": 1,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 2,
+        "opponentsAtBats": 4,
         "wildPitches": 0,
         "hitBatters": 0,
         "balks": 0,
-        "opponentsBattingAverage": 1,
+        "opponentsBattingAverage": 0.5,
         "walksHits": 3
       },
       "fieldingStats": null,
       "evaluation": {
-        "score": 0,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2721,32 +2721,32 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 0,
+          "Miss bats": 86.36363636363636,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Diego Luzardo looks like a RHP option who throws enough strikes and keeps traffic under control.",
+        "summary": "Diego Luzardo looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 99.00",
-          "WHIP 0.00",
-          "K/9 0.0"
+          "ERA 40.50",
+          "WHIP 4.50",
+          "K/9 13.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "99.00"
+            "value": "40.50"
           },
           {
             "label": "WHIP",
-            "value": "0.00"
+            "value": "4.50"
           },
           {
             "label": "K/9",
-            "value": "0.0"
+            "value": "13.5"
           },
           {
             "label": "BB/9",
-            "value": "0.0"
+            "value": "13.5"
           },
           {
             "label": "HR/9",
@@ -2754,7 +2754,7 @@
           },
           {
             "label": "IP",
-            "value": "0.0"
+            "value": "0.7"
           }
         ],
         "metaLine": "JR / N/A",
@@ -2805,33 +2805,33 @@
         "jersey": "24",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/blake-fields/9694",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Fields_Blake_241.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
-        "battingAverage": 0.262,
-        "onBasePercentage": 0.406,
-        "sluggingPercentage": 0.327,
-        "ops": 0.733,
-        "atBats": 107,
+        "gamesPlayed": 35,
+        "gamesStarted": 34,
+        "battingAverage": 0.256,
+        "onBasePercentage": 0.396,
+        "sluggingPercentage": 0.325,
+        "ops": 0.721,
+        "atBats": 117,
         "runs": 25,
-        "hits": 28,
-        "doubles": 7,
+        "hits": 30,
+        "doubles": 8,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 13,
-        "totalBases": 35,
-        "walks": 21,
+        "totalBases": 38,
+        "walks": 22,
         "hitByPitch": 7,
-        "strikeouts": 16,
+        "strikeouts": 17,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
+        "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 9,
-        "putouts": 58,
+        "putouts": 66,
         "assists": 2,
         "errors": 0,
-        "plateAppearances": 152,
+        "plateAppearances": 163,
         "caughtStealing": 5,
         "pickedOff": 0
       },
@@ -2843,9 +2843,9 @@
         "jersey": "24",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/blake-fields/9694",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Fields_Blake_241.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 27,
-        "putouts": 58,
+        "gamesPlayed": 30,
+        "gamesStarted": 30,
+        "putouts": 66,
         "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -2855,39 +2855,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 60
+        "totalChances": 68
       },
       "evaluation": {
-        "score": 43,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 70,
-          "Power": 1.8421052631578967,
-          "Contact": 26.250000000000007,
+          "On-base": 64.44444444444444,
+          "Power": 1.315789473684212,
+          "Contact": 22.500000000000004,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },
-        "summary": "Blake Fields profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Blake Fields profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .262",
-          "OBP .406",
-          "SLG .327"
+          "AVG .256",
+          "OBP .396",
+          "SLG .325"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".262"
+            "value": ".256"
           },
           {
             "label": "OBP",
-            "value": ".406"
+            "value": ".396"
           },
           {
             "label": "SLG",
-            "value": ".327"
+            "value": ".325"
           },
           {
             "label": "HR",
@@ -2919,7 +2919,7 @@
       "schoolLongName": "University of Houston",
       "name": "Caleb Kimble",
       "normalizedName": "caleb kimble",
-      "compositeRole": "Pitcher",
+      "compositeRole": "Two-Way",
       "role": "Pitcher",
       "position": "OF/P",
       "positionLong": "Outfielder",
@@ -2943,7 +2943,43 @@
         "Houston Athletics roster",
         "Houston cumulative stats"
       ],
-      "hittingStats": null,
+      "hittingStats": {
+        "rosterBioId": "9695",
+        "name": "Caleb Kimble",
+        "normalizedName": "caleb kimble",
+        "jersey": "25",
+        "profileUrl": "https://uhcougars.com/sports/baseball/roster/caleb-kimble/9695",
+        "imageUrl": "https://uhcougars.com/images/2025/9/5/Kimble_Caleb_153.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 2,
+        "battingAverage": 0,
+        "onBasePercentage": 0,
+        "sluggingPercentage": 0,
+        "ops": 0,
+        "atBats": 3,
+        "runs": 0,
+        "hits": 0,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 0,
+        "totalBases": 0,
+        "walks": 0,
+        "hitByPitch": 0,
+        "strikeouts": 1,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 1,
+        "putouts": 2,
+        "assists": 1,
+        "errors": 1,
+        "plateAppearances": 4,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
       "pitchingStats": {
         "rosterBioId": "9695",
         "name": "Caleb Kimble",
@@ -2951,32 +2987,32 @@
         "jersey": "25",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/caleb-kimble/9695",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Kimble_Caleb_153.jpg",
-        "gamesPlayed": 5,
+        "gamesPlayed": 7,
         "gamesStarted": 2,
-        "appearances": 5,
+        "appearances": 7,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.79,
-        "whip": 1.5,
+        "earnedRunAverage": 5.25,
+        "whip": 1.33,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 9.333333333333334,
-        "inningsPitchedDisplay": "9.1",
-        "hitsAllowed": 6,
-        "runsAllowed": 6,
-        "earnedRunsAllowed": 6,
-        "walksAllowed": 8,
-        "strikeouts": 8,
+        "inningsPitched": 12,
+        "inningsPitchedDisplay": "12.0",
+        "hitsAllowed": 7,
+        "runsAllowed": 7,
+        "earnedRunsAllowed": 7,
+        "walksAllowed": 9,
+        "strikeouts": 12,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 33,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 41,
         "wildPitches": 4,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.182,
-        "walksHits": 14
+        "opponentsBattingAverage": 0.171,
+        "walksHits": 16
       },
       "fieldingStats": {
         "rosterBioId": "9695",
@@ -2985,22 +3021,22 @@
         "jersey": "25",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/caleb-kimble/9695",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Kimble_Caleb_153.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 1,
-        "putouts": 1,
+        "gamesPlayed": 2,
+        "gamesStarted": 2,
+        "putouts": 2,
         "assists": 1,
         "errors": 1,
-        "fieldingPercentage": 0.667,
+        "fieldingPercentage": 0.75,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 3
+        "totalChances": 4
       },
       "evaluation": {
-        "score": 7,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3008,40 +3044,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 33.76623376623376,
-          "Command": 0,
+          "Miss bats": 45.45454545454545,
+          "Command": 6.666666666666665,
           "Damage suppression": 0
         },
-        "summary": "Caleb Kimble gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Caleb Kimble looks like a OF/P option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.79",
-          "WHIP 1.50",
-          "K/9 7.7"
+          "ERA 5.25",
+          "WHIP 1.33",
+          "K/9 9.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.79"
+            "value": "5.25"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.33"
           },
           {
             "label": "K/9",
-            "value": "7.7"
+            "value": "9.0"
           },
           {
             "label": "BB/9",
-            "value": "7.7"
+            "value": "6.8"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "0.75"
           },
           {
             "label": "IP",
-            "value": "9.3"
+            "value": "12.0"
           }
         ],
         "metaLine": "FR / N/A",
@@ -3049,7 +3085,7 @@
           "OF/P",
           "FR",
           "N/A",
-          "Pitcher"
+          "Two-Way"
         ],
         "sourceSummary": "Houston Athletics roster + Houston cumulative stats"
       }
@@ -3092,13 +3128,13 @@
         "jersey": "26",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/dylan-maxcey/9696",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Maxcey_Dylan_066.jpg",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 16,
-        "battingAverage": 0.281,
-        "onBasePercentage": 0.382,
-        "sluggingPercentage": 0.421,
-        "ops": 0.803,
-        "atBats": 57,
+        "battingAverage": 0.276,
+        "onBasePercentage": 0.377,
+        "sluggingPercentage": 0.414,
+        "ops": 0.791,
+        "atBats": 58,
         "runs": 12,
         "hits": 16,
         "doubles": 2,
@@ -3118,7 +3154,7 @@
         "putouts": 135,
         "assists": 12,
         "errors": 1,
-        "plateAppearances": 71,
+        "plateAppearances": 72,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3145,36 +3181,36 @@
         "totalChances": 148
       },
       "evaluation": {
-        "score": 40,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 56.66666666666666,
-          "Power": 26.57894736842105,
-          "Contact": 38.125000000000014,
+          "On-base": 53.88888888888887,
+          "Power": 24.736842105263154,
+          "Contact": 35.000000000000014,
           "Discipline": 55.555555555555536,
           "Speed": 0
         },
         "summary": "Dylan Maxcey gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .281",
-          "OBP .382",
-          "SLG .421"
+          "AVG .276",
+          "OBP .377",
+          "SLG .414"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".281"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".382"
+            "value": ".377"
           },
           {
             "label": "SLG",
-            "value": ".421"
+            "value": ".414"
           },
           {
             "label": "HR",
@@ -3238,32 +3274,32 @@
         "jersey": "27",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/paul-schmitz/9604",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Schmitz_Paul_164.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 8,
-        "appearances": 8,
+        "gamesPlayed": 9,
+        "gamesStarted": 9,
+        "appearances": 9,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.82,
-        "whip": 1.77,
+        "earnedRunAverage": 6.57,
+        "whip": 1.65,
         "wins": 2,
-        "losses": 3,
+        "losses": 4,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 31.666666666666668,
-        "inningsPitchedDisplay": "31.2",
-        "hitsAllowed": 36,
-        "runsAllowed": 27,
-        "earnedRunsAllowed": 24,
+        "inningsPitched": 37,
+        "inningsPitchedDisplay": "37.0",
+        "hitsAllowed": 41,
+        "runsAllowed": 30,
+        "earnedRunsAllowed": 27,
         "walksAllowed": 20,
-        "strikeouts": 27,
-        "doublesAllowed": 10,
+        "strikeouts": 34,
+        "doublesAllowed": 12,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 120,
+        "opponentsAtBats": 140,
         "wildPitches": 3,
         "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.3,
-        "walksHits": 56
+        "opponentsBattingAverage": 0.293,
+        "walksHits": 61
       },
       "fieldingStats": {
         "rosterBioId": "9604",
@@ -3287,7 +3323,7 @@
         "totalChances": 7
       },
       "evaluation": {
-        "score": 8,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3295,40 +3331,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 33.39712918660286,
-          "Command": 6.999999999999998,
+          "Miss bats": 38.82063882063882,
+          "Command": 13.999999999999998,
           "Damage suppression": 0
         },
         "summary": "Paul Schmitz gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.82",
-          "WHIP 1.77",
-          "K/9 7.7"
+          "ERA 6.57",
+          "WHIP 1.65",
+          "K/9 8.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.82"
+            "value": "6.57"
           },
           {
             "label": "WHIP",
-            "value": "1.77"
+            "value": "1.65"
           },
           {
             "label": "K/9",
-            "value": "7.7"
+            "value": "8.3"
           },
           {
             "label": "BB/9",
-            "value": "5.7"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
-            "value": "0.28"
+            "value": "0.24"
           },
           {
             "label": "IP",
-            "value": "31.7"
+            "value": "37.0"
           }
         ],
         "metaLine": "SR / N/A",
@@ -3380,31 +3416,31 @@
         "jersey": "28",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/max-mccraray/9705",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/McCraray_Max_091.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 12,
         "gamesStarted": 0,
-        "appearances": 10,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.15,
-        "whip": 1.15,
+        "earnedRunAverage": 3.6,
+        "whip": 1,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 4.333333333333333,
-        "inningsPitchedDisplay": "4.1",
+        "inningsPitched": 5,
+        "inningsPitchedDisplay": "5.0",
         "hitsAllowed": 3,
         "runsAllowed": 2,
         "earnedRunsAllowed": 2,
         "walksAllowed": 2,
-        "strikeouts": 3,
+        "strikeouts": 4,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 15,
+        "opponentsAtBats": 17,
         "wildPitches": 0,
         "hitBatters": 0,
         "balks": 0,
-        "opponentsBattingAverage": 0.2,
+        "opponentsBattingAverage": 0.176,
         "walksHits": 5
       },
       "fieldingStats": {
@@ -3414,9 +3450,9 @@
         "jersey": "28",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/max-mccraray/9705",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/McCraray_Max_091.jpg",
-        "gamesPlayed": 1,
+        "gamesPlayed": 2,
         "gamesStarted": 0,
-        "putouts": 1,
+        "putouts": 2,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -3426,10 +3462,10 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 1
+        "totalChances": 2
       },
       "evaluation": {
-        "score": 6,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3437,40 +3473,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 20.27972027972028,
-          "Command": 10,
+          "Miss bats": 29.090909090909093,
+          "Command": 20,
           "Damage suppression": 0
         },
-        "summary": "Max McCraray looks like a LHP option who keeps traffic under control.",
+        "summary": "Max McCraray looks like a LHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.15",
-          "WHIP 1.15",
-          "K/9 6.2"
+          "ERA 3.60",
+          "WHIP 1.00",
+          "K/9 7.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.15"
+            "value": "3.60"
           },
           {
             "label": "WHIP",
-            "value": "1.15"
+            "value": "1.00"
           },
           {
             "label": "K/9",
-            "value": "6.2"
+            "value": "7.2"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "2.08"
+            "value": "1.80"
           },
           {
             "label": "IP",
-            "value": "4.3"
+            "value": "5.0"
           }
         ],
         "metaLine": "FR / N/A",
@@ -3522,32 +3558,32 @@
         "jersey": "29",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/ryne-rodriguez/9697",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Rodriguez_Ryne_065.jpg",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 0,
-        "appearances": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.75,
-        "whip": 1.19,
+        "earnedRunAverage": 3.86,
+        "whip": 1.24,
         "wins": 1,
         "losses": 0,
         "saves": 3,
         "shutouts": 0,
-        "inningsPitched": 36,
-        "inningsPitchedDisplay": "36.0",
-        "hitsAllowed": 28,
-        "runsAllowed": 17,
-        "earnedRunsAllowed": 15,
+        "inningsPitched": 39.666666666666664,
+        "inningsPitchedDisplay": "39.2",
+        "hitsAllowed": 34,
+        "runsAllowed": 20,
+        "earnedRunsAllowed": 17,
         "walksAllowed": 15,
-        "strikeouts": 39,
-        "doublesAllowed": 5,
+        "strikeouts": 43,
+        "doublesAllowed": 6,
         "triplesAllowed": 1,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 125,
+        "opponentsAtBats": 143,
         "wildPitches": 1,
-        "hitBatters": 6,
+        "hitBatters": 7,
         "balks": 0,
-        "opponentsBattingAverage": 0.224,
-        "walksHits": 43
+        "opponentsBattingAverage": 0.238,
+        "walksHits": 49
       },
       "fieldingStats": {
         "rosterBioId": "9697",
@@ -3556,19 +3592,19 @@
         "jersey": "29",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/ryne-rodriguez/9697",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Rodriguez_Ryne_065.jpg",
-        "gamesPlayed": 5,
+        "gamesPlayed": 6,
         "gamesStarted": 0,
         "putouts": 2,
         "assists": 8,
-        "errors": 0,
-        "fieldingPercentage": 1,
+        "errors": 1,
+        "fieldingPercentage": 0.909,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 10
+        "totalChances": 11
       },
       "evaluation": {
         "score": 16,
@@ -3579,24 +3615,24 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 52.27272727272727,
-          "Command": 32,
+          "Miss bats": 52.33002291825822,
+          "Command": 37.333333333333336,
           "Damage suppression": 0
         },
         "summary": "Ryne Rodriguez looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.75",
-          "WHIP 1.19",
+          "ERA 3.86",
+          "WHIP 1.24",
           "K/9 9.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.75"
+            "value": "3.86"
           },
           {
             "label": "WHIP",
-            "value": "1.19"
+            "value": "1.24"
           },
           {
             "label": "K/9",
@@ -3604,15 +3640,15 @@
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
-            "value": "0.50"
+            "value": "0.45"
           },
           {
             "label": "IP",
-            "value": "36.0"
+            "value": "39.7"
           }
         ],
         "metaLine": "SR / N/A",
@@ -3751,13 +3787,13 @@
         "jersey": "32",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/justin-cherrington/9699",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Cherrington_Justin_127.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 12,
         "gamesStarted": 3,
-        "battingAverage": 0.286,
-        "onBasePercentage": 0.444,
-        "sluggingPercentage": 0.5,
-        "ops": 0.944,
-        "atBats": 14,
+        "battingAverage": 0.25,
+        "onBasePercentage": 0.4,
+        "sluggingPercentage": 0.438,
+        "ops": 0.838,
+        "atBats": 16,
         "runs": 3,
         "hits": 4,
         "doubles": 0,
@@ -3767,17 +3803,17 @@
         "totalBases": 7,
         "walks": 2,
         "hitByPitch": 2,
-        "strikeouts": 6,
+        "strikeouts": 7,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 20,
+        "putouts": 21,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 20,
+        "plateAppearances": 22,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -3789,9 +3825,9 @@
         "jersey": "32",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/justin-cherrington/9699",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Cherrington_Justin_127.jpg",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 2,
-        "putouts": 20,
+        "putouts": 21,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -3801,39 +3837,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 20
+        "totalChances": 21
       },
       "evaluation": {
-        "score": 51,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 91.1111111111111,
-          "Power": 47.36842105263158,
-          "Contact": 41.24999999999998,
-          "Discipline": 14.814814814814808,
+          "On-base": 66.66666666666666,
+          "Power": 31.05263157894737,
+          "Contact": 18.75,
+          "Discipline": 9.523809523809518,
           "Speed": 0
         },
         "summary": "Justin Cherrington profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .444",
-          "SLG .500"
+          "AVG .250",
+          "OBP .400",
+          "SLG .438"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".444"
+            "value": ".400"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".438"
           },
           {
             "label": "HR",
@@ -3897,32 +3933,32 @@
         "jersey": "33",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/chris-scinta/9605",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Scinta_Chris_026.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 13,
         "gamesStarted": 2,
-        "appearances": 11,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.17,
-        "whip": 1.59,
+        "earnedRunAverage": 8.34,
+        "whip": 1.68,
         "wins": 1,
         "losses": 3,
         "saves": 2,
         "shutouts": 0,
-        "inningsPitched": 21.333333333333332,
-        "inningsPitchedDisplay": "21.1",
-        "hitsAllowed": 25,
-        "runsAllowed": 19,
-        "earnedRunsAllowed": 17,
-        "walksAllowed": 9,
-        "strikeouts": 17,
-        "doublesAllowed": 2,
+        "inningsPitched": 22.666666666666668,
+        "inningsPitchedDisplay": "22.2",
+        "hitsAllowed": 27,
+        "runsAllowed": 23,
+        "earnedRunsAllowed": 21,
+        "walksAllowed": 11,
+        "strikeouts": 19,
+        "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 86,
+        "opponentsAtBats": 92,
         "wildPitches": 3,
-        "hitBatters": 3,
+        "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.291,
-        "walksHits": 34
+        "opponentsBattingAverage": 0.293,
+        "walksHits": 38
       },
       "fieldingStats": {
         "rosterBioId": "9605",
@@ -3931,16 +3967,16 @@
         "jersey": "33",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/chris-scinta/9605",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Scinta_Chris_026.jpg",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 2,
         "putouts": 1,
         "assists": 4,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 0,
+        "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
+        "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -3954,40 +3990,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 28.83522727272727,
-          "Command": 17.777777777777775,
+          "Miss bats": 32.219251336898395,
+          "Command": 14.545454545454545,
           "Damage suppression": 0
         },
         "summary": "Chris Scinta gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.17",
-          "WHIP 1.59",
-          "K/9 7.2"
+          "ERA 8.34",
+          "WHIP 1.68",
+          "K/9 7.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.17"
+            "value": "8.34"
           },
           {
             "label": "WHIP",
-            "value": "1.59"
+            "value": "1.68"
           },
           {
             "label": "K/9",
-            "value": "7.2"
+            "value": "7.5"
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "4.4"
           },
           {
             "label": "HR/9",
-            "value": "0.42"
+            "value": "0.40"
           },
           {
             "label": "IP",
-            "value": "21.3"
+            "value": "22.7"
           }
         ],
         "metaLine": "SR / N/A",
@@ -4038,13 +4074,13 @@
         "jersey": "34",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/mikey-vanderheyden/9817",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Vanderheyden_Mikey_048.jpg",
-        "gamesPlayed": 1,
+        "gamesPlayed": 2,
         "gamesStarted": 1,
         "battingAverage": 0,
         "onBasePercentage": 0,
         "sluggingPercentage": 0,
         "ops": 0,
-        "atBats": 2,
+        "atBats": 3,
         "runs": 0,
         "hits": 0,
         "doubles": 0,
@@ -4054,17 +4090,17 @@
         "totalBases": 0,
         "walks": 0,
         "hitByPitch": 0,
-        "strikeouts": 0,
+        "strikeouts": 1,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 4,
+        "putouts": 9,
         "assists": 1,
         "errors": 2,
-        "plateAppearances": 2,
+        "plateAppearances": 3,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4076,19 +4112,19 @@
         "jersey": "34",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/mikey-vanderheyden/9817",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Vanderheyden_Mikey_048.jpg",
-        "gamesPlayed": 1,
+        "gamesPlayed": 2,
         "gamesStarted": 1,
-        "putouts": 4,
+        "putouts": 9,
         "assists": 1,
         "errors": 2,
-        "fieldingPercentage": 0.714,
+        "fieldingPercentage": 0.833,
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 7
+        "totalChances": 12
       },
       "evaluation": {
         "score": 0,
@@ -4184,32 +4220,32 @@
         "jersey": "35",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/caden-cooper/9701",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Cooper_Caden_135.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 3,
-        "appearances": 13,
+        "gamesPlayed": 15,
+        "gamesStarted": 4,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.66,
-        "whip": 1.6,
+        "earnedRunAverage": 4.63,
+        "whip": 1.5,
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 19.333333333333332,
-        "inningsPitchedDisplay": "19.1",
-        "hitsAllowed": 20,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 10,
-        "walksAllowed": 11,
-        "strikeouts": 18,
+        "inningsPitched": 23.333333333333332,
+        "inningsPitchedDisplay": "23.1",
+        "hitsAllowed": 23,
+        "runsAllowed": 15,
+        "earnedRunsAllowed": 12,
+        "walksAllowed": 12,
+        "strikeouts": 22,
         "doublesAllowed": 6,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 78,
-        "wildPitches": 3,
+        "opponentsAtBats": 94,
+        "wildPitches": 4,
         "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.256,
-        "walksHits": 31
+        "opponentsBattingAverage": 0.245,
+        "walksHits": 35
       },
       "fieldingStats": {
         "rosterBioId": "9701",
@@ -4233,7 +4269,7 @@
         "totalChances": 1
       },
       "evaluation": {
-        "score": 10,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4241,40 +4277,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.811912225705335,
-          "Command": 12.727272727272734,
+          "Miss bats": 40.77922077922078,
+          "Command": 16.666666666666664,
           "Damage suppression": 0
         },
         "summary": "Caden Cooper gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.66",
-          "WHIP 1.60",
-          "K/9 8.4"
+          "ERA 4.63",
+          "WHIP 1.50",
+          "K/9 8.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.66"
+            "value": "4.63"
           },
           {
             "label": "WHIP",
-            "value": "1.60"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "8.4"
+            "value": "8.5"
           },
           {
             "label": "BB/9",
-            "value": "5.1"
+            "value": "4.6"
           },
           {
             "label": "HR/9",
-            "value": "0.47"
+            "value": "0.39"
           },
           {
             "label": "IP",
-            "value": "19.3"
+            "value": "23.3"
           }
         ],
         "metaLine": "FR / N/A",
@@ -4745,13 +4781,13 @@
         "jersey": "44",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/carsten-sabathia-iii/9603",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Sabathia_Carsten_248.jpg",
-        "gamesPlayed": 21,
-        "gamesStarted": 14,
-        "battingAverage": 0.304,
-        "onBasePercentage": 0.371,
-        "sluggingPercentage": 0.607,
-        "ops": 0.978,
-        "atBats": 56,
+        "gamesPlayed": 23,
+        "gamesStarted": 16,
+        "battingAverage": 0.283,
+        "onBasePercentage": 0.348,
+        "sluggingPercentage": 0.567,
+        "ops": 0.915,
+        "atBats": 60,
         "runs": 10,
         "hits": 17,
         "doubles": 2,
@@ -4761,17 +4797,17 @@
         "totalBases": 34,
         "walks": 4,
         "hitByPitch": 2,
-        "strikeouts": 15,
+        "strikeouts": 17,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 43,
-        "assists": 4,
+        "putouts": 50,
+        "assists": 5,
         "errors": 0,
-        "plateAppearances": 62,
+        "plateAppearances": 66,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4783,10 +4819,10 @@
         "jersey": "44",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/carsten-sabathia-iii/9603",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Sabathia_Carsten_248.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 5,
-        "putouts": 43,
-        "assists": 4,
+        "gamesPlayed": 9,
+        "gamesStarted": 6,
+        "putouts": 50,
+        "assists": 5,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 3,
@@ -4795,39 +4831,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 47
+        "totalChances": 55
       },
       "evaluation": {
-        "score": 46,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 50.55555555555554,
-          "Power": 75.52631578947368,
-          "Contact": 52.49999999999999,
-          "Discipline": 7.407407407407404,
+          "On-base": 37.77777777777775,
+          "Power": 64.99999999999999,
+          "Contact": 39.374999999999986,
+          "Discipline": 3.9215686274509785,
           "Speed": 0
         },
         "summary": "Carsten Sabathia III profiles as a INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .304",
-          "OBP .371",
-          "SLG .607"
+          "AVG .283",
+          "OBP .348",
+          "SLG .567"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".304"
+            "value": ".283"
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": ".348"
           },
           {
             "label": "SLG",
-            "value": ".607"
+            "value": ".567"
           },
           {
             "label": "HR",
@@ -4979,32 +5015,32 @@
         "jersey": "50",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/richie-roman/9602",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Roman_Richie_144.jpg",
-        "gamesPlayed": 5,
+        "gamesPlayed": 6,
         "gamesStarted": 2,
-        "appearances": 5,
+        "appearances": 6,
         "gamesCompleted": 0,
-        "earnedRunAverage": 1.35,
-        "whip": 0.83,
+        "earnedRunAverage": 2.4,
+        "whip": 0.93,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 13.333333333333334,
-        "inningsPitchedDisplay": "13.1",
-        "hitsAllowed": 7,
-        "runsAllowed": 3,
-        "earnedRunsAllowed": 2,
+        "inningsPitched": 15,
+        "inningsPitchedDisplay": "15.0",
+        "hitsAllowed": 10,
+        "runsAllowed": 5,
+        "earnedRunsAllowed": 4,
         "walksAllowed": 4,
-        "strikeouts": 14,
-        "doublesAllowed": 1,
+        "strikeouts": 15,
+        "doublesAllowed": 2,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 46,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 54,
         "wildPitches": 0,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.152,
-        "walksHits": 11
+        "opponentsBattingAverage": 0.185,
+        "walksHits": 14
       },
       "fieldingStats": {
         "rosterBioId": "9602",
@@ -5036,40 +5072,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 49.54545454545454,
-          "Command": 50,
+          "Miss bats": 45.45454545454545,
+          "Command": 55.00000000000001,
           "Damage suppression": 0
         },
         "summary": "Richie Roman looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.35",
-          "WHIP 0.83",
-          "K/9 9.4"
+          "ERA 2.40",
+          "WHIP 0.93",
+          "K/9 9.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.35"
+            "value": "2.40"
           },
           {
             "label": "WHIP",
-            "value": "0.83"
+            "value": "0.93"
           },
           {
             "label": "K/9",
-            "value": "9.4"
+            "value": "9.0"
           },
           {
             "label": "BB/9",
-            "value": "2.7"
+            "value": "2.4"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "0.60"
           },
           {
             "label": "IP",
-            "value": "13.3"
+            "value": "15.0"
           }
         ],
         "metaLine": "JR / N/A",
@@ -5120,35 +5156,35 @@
         "jersey": "51",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/jackson-lalima/9598",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Lalima_Jackson_235.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 30,
-        "battingAverage": 0.238,
-        "onBasePercentage": 0.325,
-        "sluggingPercentage": 0.495,
-        "ops": 0.82,
-        "atBats": 105,
-        "runs": 19,
-        "hits": 25,
+        "gamesPlayed": 34,
+        "gamesStarted": 34,
+        "battingAverage": 0.237,
+        "onBasePercentage": 0.326,
+        "sluggingPercentage": 0.492,
+        "ops": 0.818,
+        "atBats": 118,
+        "runs": 20,
+        "hits": 28,
         "doubles": 10,
         "triples": 1,
-        "homeRuns": 5,
-        "runsBattedIn": 18,
-        "totalBases": 52,
-        "walks": 9,
-        "hitByPitch": 5,
-        "strikeouts": 32,
+        "homeRuns": 6,
+        "runsBattedIn": 19,
+        "totalBases": 58,
+        "walks": 10,
+        "hitByPitch": 6,
+        "strikeouts": 36,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 3,
-        "stolenBasesAttempts": 4,
-        "putouts": 21,
-        "assists": 60,
-        "errors": 8,
-        "plateAppearances": 125,
-        "caughtStealing": 1,
-        "pickedOff": 0
+        "stolenBasesAttempts": 5,
+        "putouts": 22,
+        "assists": 67,
+        "errors": 10,
+        "plateAppearances": 142,
+        "caughtStealing": 2,
+        "pickedOff": 1
       },
       "pitchingStats": null,
       "fieldingStats": {
@@ -5158,19 +5194,19 @@
         "jersey": "51",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/jackson-lalima/9598",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Lalima_Jackson_235.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 28,
-        "putouts": 21,
-        "assists": 60,
-        "errors": 8,
-        "fieldingPercentage": 0.91,
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "putouts": 22,
+        "assists": 67,
+        "errors": 10,
+        "fieldingPercentage": 0.899,
         "doublePlays": 6,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 89
+        "totalChances": 99
       },
       "evaluation": {
         "score": 24,
@@ -5179,38 +5215,38 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 24.999999999999993,
-          "Power": 46.05263157894737,
-          "Contact": 11.249999999999991,
-          "Discipline": 9.027777777777775,
+          "On-base": 25.555555555555546,
+          "Power": 45.26315789473684,
+          "Contact": 10.624999999999991,
+          "Discipline": 8.641975308641975,
           "Speed": 10
         },
         "summary": "Jackson LaLima gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .238",
-          "OBP .325",
-          "SLG .495"
+          "AVG .237",
+          "OBP .326",
+          "SLG .492"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".238"
+            "value": ".237"
           },
           {
             "label": "OBP",
-            "value": ".325"
+            "value": ".326"
           },
           {
             "label": "SLG",
-            "value": ".495"
+            "value": ".492"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "19"
           },
           {
             "label": "SB",
@@ -5266,32 +5302,32 @@
         "jersey": "95",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/kendall-hoffman/9596",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Hoffman_Kendall_150.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 8,
-        "appearances": 9,
+        "gamesPlayed": 10,
+        "gamesStarted": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.85,
-        "whip": 1.31,
+        "earnedRunAverage": 4.7,
+        "whip": 1.27,
         "wins": 1,
-        "losses": 3,
+        "losses": 4,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 39,
-        "inningsPitchedDisplay": "39.0",
-        "hitsAllowed": 40,
-        "runsAllowed": 29,
-        "earnedRunsAllowed": 21,
-        "walksAllowed": 11,
-        "strikeouts": 26,
+        "inningsPitched": 44,
+        "inningsPitchedDisplay": "44.0",
+        "hitsAllowed": 44,
+        "runsAllowed": 32,
+        "earnedRunsAllowed": 23,
+        "walksAllowed": 12,
+        "strikeouts": 32,
         "doublesAllowed": 7,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 7,
-        "opponentsAtBats": 156,
+        "homeRunsAllowed": 8,
+        "opponentsAtBats": 174,
         "wildPitches": 6,
-        "hitBatters": 9,
+        "hitBatters": 10,
         "balks": 0,
-        "opponentsBattingAverage": 0.256,
-        "walksHits": 51
+        "opponentsBattingAverage": 0.253,
+        "walksHits": 56
       },
       "fieldingStats": {
         "rosterBioId": "9596",
@@ -5315,7 +5351,7 @@
         "totalChances": 3
       },
       "evaluation": {
-        "score": 8,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5323,28 +5359,28 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 18.181818181818183,
-          "Command": 27.272727272727277,
+          "Miss bats": 23.1404958677686,
+          "Command": 33.333333333333336,
           "Damage suppression": 0
         },
         "summary": "Kendall Hoffman looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.85",
-          "WHIP 1.31",
-          "K/9 6.0"
+          "ERA 4.70",
+          "WHIP 1.27",
+          "K/9 6.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.85"
+            "value": "4.70"
           },
           {
             "label": "WHIP",
-            "value": "1.31"
+            "value": "1.27"
           },
           {
             "label": "K/9",
-            "value": "6.0"
+            "value": "6.5"
           },
           {
             "label": "BB/9",
@@ -5352,11 +5388,11 @@
           },
           {
             "label": "HR/9",
-            "value": "1.62"
+            "value": "1.64"
           },
           {
             "label": "IP",
-            "value": "39.0"
+            "value": "44.0"
           }
         ],
         "metaLine": "SO / N/A",
@@ -5387,29 +5423,29 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 24,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Easton Winfield gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .222",
-          "OBP .349",
-          "SLG .417"
+          "AVG .211",
+          "OBP .333",
+          "SLG .395"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".222"
+            "value": ".211"
           },
           {
             "label": "OBP",
-            "value": ".349"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".417"
+            "value": ".395"
           },
           {
             "label": "HR",
@@ -5425,10 +5461,10 @@
           }
         ],
         "components": {
-          "On-base": 38.33333333333331,
-          "Power": 25.52631578947368,
-          "Contact": 1.250000000000001,
-          "Discipline": 33.33333333333333,
+          "On-base": 29.44444444444444,
+          "Power": 19.736842105263165,
+          "Contact": 0,
+          "Discipline": 29.629629629629623,
           "Speed": 6.666666666666667
         },
         "metaLine": "JR / N/A",
@@ -5594,29 +5630,29 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 84,
+        "score": 71,
         "fit": {
-          "label": "Priority",
-          "className": "fit-priority"
+          "label": "Pursue",
+          "className": "fit-pursue"
         },
-        "summary": "Tre Broussard profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
+        "summary": "Tre Broussard profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .392",
-          "OBP .485",
-          "SLG .620"
+          "AVG .340",
+          "OBP .439",
+          "SLG .532"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".392"
+            "value": ".340"
           },
           {
             "label": "OBP",
-            "value": ".485"
+            "value": ".439"
           },
           {
             "label": "SLG",
-            "value": ".620"
+            "value": ".532"
           },
           {
             "label": "HR",
@@ -5628,15 +5664,15 @@
           },
           {
             "label": "SB",
-            "value": "10"
+            "value": "11"
           }
         ],
         "components": {
-          "On-base": 100,
-          "Power": 78.94736842105264,
-          "Contact": 100,
-          "Discipline": 74.99999999999999,
-          "Speed": 33.33333333333333
+          "On-base": 88.33333333333331,
+          "Power": 55.78947368421054,
+          "Contact": 75.00000000000001,
+          "Discipline": 82.35294117647058,
+          "Speed": 36.666666666666664
         },
         "metaLine": "JR / N/A",
         "detailBadges": [
@@ -5663,29 +5699,29 @@
         "position": "C",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 55,
+        "score": 51,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Riley Jackson profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Riley Jackson profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .276",
-          "OBP .406",
-          "SLG .598"
+          "AVG .270",
+          "OBP .397",
+          "SLG .560"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".276"
+            "value": ".270"
           },
           {
             "label": "OBP",
-            "value": ".406"
+            "value": ".397"
           },
           {
             "label": "SLG",
-            "value": ".598"
+            "value": ".560"
           },
           {
             "label": "HR",
@@ -5701,10 +5737,10 @@
           }
         ],
         "components": {
-          "On-base": 70,
-          "Power": 73.15789473684211,
-          "Contact": 35.000000000000014,
-          "Discipline": 55.555555555555536,
+          "On-base": 65,
+          "Power": 63.157894736842124,
+          "Contact": 31.25000000000001,
+          "Discipline": 55.07246376811593,
           "Speed": 0
         },
         "metaLine": "JR / N/A",
@@ -5732,29 +5768,29 @@
         "position": "OF",
         "classYear": "R-SR",
         "handedness": "N/A",
-        "score": 19,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Irvin Weems III gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .357",
-          "SLG .333"
+          "AVG .167",
+          "OBP .286",
+          "SLG .222"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".167"
           },
           {
             "label": "OBP",
-            "value": ".357"
+            "value": ".286"
           },
           {
             "label": "SLG",
-            "value": ".333"
+            "value": ".222"
           },
           {
             "label": "HR",
@@ -5770,9 +5806,9 @@
           }
         ],
         "components": {
-          "On-base": 42.77777777777775,
-          "Power": 3.421052631578951,
-          "Contact": 18.75,
+          "On-base": 3.3333333333333055,
+          "Power": 0,
+          "Contact": 0,
           "Discipline": 5.555555555555554,
           "Speed": 3.3333333333333335
         },
@@ -5801,37 +5837,37 @@
         "position": "OF/1B",
         "classYear": "R-SO",
         "handedness": "N/A",
-        "score": 56,
+        "score": 63,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
-        "summary": "Xavier Perez profiles as a OF/1B piece who brings real extra-base damage.",
+        "summary": "Xavier Perez profiles as a OF/1B piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .301",
-          "OBP .399",
-          "SLG .585"
+          "AVG .311",
+          "OBP .419",
+          "SLG .600"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".301"
+            "value": ".311"
           },
           {
             "label": "OBP",
-            "value": ".399"
+            "value": ".419"
           },
           {
             "label": "SLG",
-            "value": ".585"
+            "value": ".600"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "26"
+            "value": "28"
           },
           {
             "label": "SB",
@@ -5839,10 +5875,10 @@
           }
         ],
         "components": {
-          "On-base": 66.11111111111111,
-          "Power": 69.73684210526315,
-          "Contact": 50.624999999999986,
-          "Discipline": 41.26984126984126,
+          "On-base": 77.2222222222222,
+          "Power": 73.6842105263158,
+          "Contact": 56.875,
+          "Discipline": 48.14814814814813,
           "Speed": 20
         },
         "metaLine": "R-SO / N/A",
@@ -5870,48 +5906,48 @@
         "position": "RHP",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 14,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Alex Solis looks like a RHP option who misses bats.",
+        "summary": "Alex Solis gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.25",
-          "WHIP 1.29",
-          "K/9 9.0"
+          "ERA 5.54",
+          "WHIP 1.35",
+          "K/9 8.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.25"
+            "value": "5.54"
           },
           {
             "label": "WHIP",
-            "value": "1.29"
+            "value": "1.35"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "8.3"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "3.5"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "0.35"
           },
           {
             "label": "IP",
-            "value": "24.0"
+            "value": "26.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 33.33333333333333,
+          "Miss bats": 39.16083916083917,
+          "Command": 27.999999999999996,
           "Damage suppression": 0
         },
         "metaLine": "JR / N/A",
@@ -6007,29 +6043,29 @@
         "position": "INF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 50,
+        "score": 55,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Tyler Cox profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .408",
-          "SLG .370"
+          "AVG .319",
+          "OBP .420",
+          "SLG .379"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": ".319"
           },
           {
             "label": "OBP",
-            "value": ".408"
+            "value": ".420"
           },
           {
             "label": "SLG",
-            "value": ".370"
+            "value": ".379"
           },
           {
             "label": "HR",
@@ -6045,9 +6081,9 @@
           }
         ],
         "components": {
-          "On-base": 71.11111111111109,
-          "Power": 13.157894736842104,
-          "Contact": 49.999999999999986,
+          "On-base": 77.77777777777776,
+          "Power": 15.526315789473685,
+          "Contact": 61.875,
           "Discipline": 100,
           "Speed": 10
         },
@@ -6076,37 +6112,37 @@
         "position": "INF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 53,
+        "score": 58,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
-        "summary": "Cade Climie profiles as a INF piece who brings real extra-base damage.",
+        "summary": "Cade Climie profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .292",
-          "OBP .393",
-          "SLG .604"
+          "AVG .306",
+          "OBP .403",
+          "SLG .613"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".306"
           },
           {
             "label": "OBP",
-            "value": ".393"
+            "value": ".403"
           },
           {
             "label": "SLG",
-            "value": ".604"
+            "value": ".613"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "3"
           },
           {
             "label": "RBI",
-            "value": "8"
+            "value": "12"
           },
           {
             "label": "SB",
@@ -6114,10 +6150,10 @@
           }
         ],
         "components": {
-          "On-base": 62.77777777777778,
-          "Power": 74.73684210526315,
-          "Contact": 44.999999999999986,
-          "Discipline": 37.606837606837594,
+          "On-base": 68.33333333333333,
+          "Power": 77.10526315789474,
+          "Contact": 53.75,
+          "Discipline": 44.444444444444436,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / N/A",
@@ -6283,48 +6319,48 @@
         "position": "RHP",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 17,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Connor Udland looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.28",
-          "WHIP 1.38",
-          "K/9 10.9"
+          "ERA 5.23",
+          "WHIP 1.52",
+          "K/9 10.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.28"
+            "value": "5.23"
           },
           {
             "label": "WHIP",
-            "value": "1.38"
+            "value": "1.52"
           },
           {
             "label": "K/9",
-            "value": "10.9"
+            "value": "10.2"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "4.6"
           },
           {
             "label": "HR/9",
-            "value": "1.86"
+            "value": "1.74"
           },
           {
             "label": "IP",
-            "value": "29.0"
+            "value": "31.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 62.38244514106584,
-          "Command": 30,
+          "Miss bats": 56.011730205278596,
+          "Command": 23.75,
           "Damage suppression": 0
         },
         "metaLine": "FR / N/A",
@@ -6352,29 +6388,29 @@
         "position": "OF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 46,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "McClane Helton profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .254",
-          "OBP .436",
-          "SLG .352"
+          "AVG .240",
+          "OBP .418",
+          "SLG .333"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".254"
+            "value": ".240"
           },
           {
             "label": "OBP",
-            "value": ".436"
+            "value": ".418"
           },
           {
             "label": "SLG",
-            "value": ".352"
+            "value": ".333"
           },
           {
             "label": "HR",
@@ -6390,10 +6426,10 @@
           }
         ],
         "components": {
-          "On-base": 86.66666666666666,
-          "Power": 8.421052631578942,
-          "Contact": 21.250000000000004,
-          "Discipline": 70.37037037037037,
+          "On-base": 76.66666666666664,
+          "Power": 3.421052631578951,
+          "Contact": 12.499999999999993,
+          "Discipline": 66.66666666666666,
           "Speed": 23.333333333333332
         },
         "metaLine": "SO / N/A",
@@ -6421,48 +6457,48 @@
         "position": "RHP",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 19,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Harrison Boushele looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 8.44",
-          "WHIP 1.88",
-          "K/9 12.7"
+          "ERA 7.53",
+          "WHIP 1.81",
+          "K/9 10.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.44"
+            "value": "7.53"
           },
           {
             "label": "WHIP",
-            "value": "1.88"
+            "value": "1.81"
           },
           {
             "label": "K/9",
-            "value": "12.7"
+            "value": "10.7"
           },
           {
             "label": "BB/9",
-            "value": "5.9"
+            "value": "4.4"
           },
           {
             "label": "HR/9",
-            "value": "0.84"
+            "value": "1.26"
           },
           {
             "label": "IP",
-            "value": "10.7"
+            "value": "14.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 78.69318181818183,
-          "Command": 22.857142857142858,
+          "Miss bats": 60.676532769556026,
+          "Command": 28.57142857142857,
           "Damage suppression": 0
         },
         "metaLine": "SR / N/A",
@@ -6490,48 +6526,48 @@
         "position": "RHP",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 8,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tyler Bryan gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.53",
-          "WHIP 2.00",
-          "K/9 8.5"
+          "ERA 8.84",
+          "WHIP 1.91",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.53"
+            "value": "8.84"
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "1.91"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "7.9"
+            "value": "7.0"
           },
           {
             "label": "HR/9",
-            "value": "0.53"
+            "value": "0.93"
           },
           {
             "label": "IP",
-            "value": "17.0"
+            "value": "19.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 40.64171122994652,
-          "Command": 1.333333333333333,
+          "Miss bats": 39.811912225705335,
+          "Command": 3.9999999999999996,
           "Damage suppression": 0
         },
         "metaLine": "SR / N/A",
@@ -6559,29 +6595,29 @@
         "position": "INF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 37,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Antonelli Savattere gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .276",
-          "OBP .394",
-          "SLG .310"
+          "AVG .253",
+          "OBP .379",
+          "SLG .283"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".276"
+            "value": ".253"
           },
           {
             "label": "OBP",
-            "value": ".394"
+            "value": ".379"
           },
           {
             "label": "SLG",
-            "value": ".310"
+            "value": ".283"
           },
           {
             "label": "HR",
@@ -6593,15 +6629,15 @@
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "4"
           }
         ],
         "components": {
-          "On-base": 63.33333333333333,
+          "On-base": 54.99999999999999,
           "Power": 0,
-          "Contact": 35.000000000000014,
-          "Discipline": 65.07936507936506,
-          "Speed": 10
+          "Contact": 20.625,
+          "Discipline": 61.11111111111111,
+          "Speed": 13.333333333333334
         },
         "metaLine": "SR / N/A",
         "detailBadges": [
@@ -6628,33 +6664,33 @@
         "position": "RHP",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 0,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Diego Luzardo looks like a RHP option who throws enough strikes and keeps traffic under control.",
+        "summary": "Diego Luzardo looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 99.00",
-          "WHIP 0.00",
-          "K/9 0.0"
+          "ERA 40.50",
+          "WHIP 4.50",
+          "K/9 13.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "99.00"
+            "value": "40.50"
           },
           {
             "label": "WHIP",
-            "value": "0.00"
+            "value": "4.50"
           },
           {
             "label": "K/9",
-            "value": "0.0"
+            "value": "13.5"
           },
           {
             "label": "BB/9",
-            "value": "0.0"
+            "value": "13.5"
           },
           {
             "label": "HR/9",
@@ -6662,13 +6698,13 @@
           },
           {
             "label": "IP",
-            "value": "0.0"
+            "value": "0.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 0,
+          "Miss bats": 86.36363636363636,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -6697,29 +6733,29 @@
         "position": "INF",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 43,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Blake Fields profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Blake Fields profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .262",
-          "OBP .406",
-          "SLG .327"
+          "AVG .256",
+          "OBP .396",
+          "SLG .325"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".262"
+            "value": ".256"
           },
           {
             "label": "OBP",
-            "value": ".406"
+            "value": ".396"
           },
           {
             "label": "SLG",
-            "value": ".327"
+            "value": ".325"
           },
           {
             "label": "HR",
@@ -6735,9 +6771,9 @@
           }
         ],
         "components": {
-          "On-base": 70,
-          "Power": 1.8421052631578967,
-          "Contact": 26.250000000000007,
+          "On-base": 64.44444444444444,
+          "Power": 1.315789473684212,
+          "Contact": 22.500000000000004,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },
@@ -6766,48 +6802,48 @@
         "position": "OF/P",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 7,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Caleb Kimble gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Caleb Kimble looks like a OF/P option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.79",
-          "WHIP 1.50",
-          "K/9 7.7"
+          "ERA 5.25",
+          "WHIP 1.33",
+          "K/9 9.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.79"
+            "value": "5.25"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.33"
           },
           {
             "label": "K/9",
-            "value": "7.7"
+            "value": "9.0"
           },
           {
             "label": "BB/9",
-            "value": "7.7"
+            "value": "6.8"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "0.75"
           },
           {
             "label": "IP",
-            "value": "9.3"
+            "value": "12.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 33.76623376623376,
-          "Command": 0,
+          "Miss bats": 45.45454545454545,
+          "Command": 6.666666666666665,
           "Damage suppression": 0
         },
         "metaLine": "FR / N/A",
@@ -6815,7 +6851,7 @@
           "OF/P",
           "FR",
           "N/A",
-          "Pitcher"
+          "Two-Way"
         ],
         "leaderboards": [
           "Houston Athletics roster",
@@ -6823,7 +6859,7 @@
         ],
         "sourceSummary": "Houston Athletics roster + Houston cumulative stats",
         "schoolSlug": "houston",
-        "compositeRole": "Pitcher",
+        "compositeRole": "Two-Way",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/caleb-kimble/9695",
         "espnAthleteId": ""
       },
@@ -6835,29 +6871,29 @@
         "position": "C",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 40,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dylan Maxcey gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .281",
-          "OBP .382",
-          "SLG .421"
+          "AVG .276",
+          "OBP .377",
+          "SLG .414"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".281"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".382"
+            "value": ".377"
           },
           {
             "label": "SLG",
-            "value": ".421"
+            "value": ".414"
           },
           {
             "label": "HR",
@@ -6873,9 +6909,9 @@
           }
         ],
         "components": {
-          "On-base": 56.66666666666666,
-          "Power": 26.57894736842105,
-          "Contact": 38.125000000000014,
+          "On-base": 53.88888888888887,
+          "Power": 24.736842105263154,
+          "Contact": 35.000000000000014,
           "Discipline": 55.555555555555536,
           "Speed": 0
         },
@@ -6904,48 +6940,48 @@
         "position": "RHP",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 8,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Paul Schmitz gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.82",
-          "WHIP 1.77",
-          "K/9 7.7"
+          "ERA 6.57",
+          "WHIP 1.65",
+          "K/9 8.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.82"
+            "value": "6.57"
           },
           {
             "label": "WHIP",
-            "value": "1.77"
+            "value": "1.65"
           },
           {
             "label": "K/9",
-            "value": "7.7"
+            "value": "8.3"
           },
           {
             "label": "BB/9",
-            "value": "5.7"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
-            "value": "0.28"
+            "value": "0.24"
           },
           {
             "label": "IP",
-            "value": "31.7"
+            "value": "37.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 33.39712918660286,
-          "Command": 6.999999999999998,
+          "Miss bats": 38.82063882063882,
+          "Command": 13.999999999999998,
           "Damage suppression": 0
         },
         "metaLine": "SR / N/A",
@@ -6973,48 +7009,48 @@
         "position": "LHP",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 6,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Max McCraray looks like a LHP option who keeps traffic under control.",
+        "summary": "Max McCraray looks like a LHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.15",
-          "WHIP 1.15",
-          "K/9 6.2"
+          "ERA 3.60",
+          "WHIP 1.00",
+          "K/9 7.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.15"
+            "value": "3.60"
           },
           {
             "label": "WHIP",
-            "value": "1.15"
+            "value": "1.00"
           },
           {
             "label": "K/9",
-            "value": "6.2"
+            "value": "7.2"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "2.08"
+            "value": "1.80"
           },
           {
             "label": "IP",
-            "value": "4.3"
+            "value": "5.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 20.27972027972028,
-          "Command": 10,
+          "Miss bats": 29.090909090909093,
+          "Command": 20,
           "Damage suppression": 0
         },
         "metaLine": "FR / N/A",
@@ -7049,18 +7085,18 @@
         },
         "summary": "Ryne Rodriguez looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.75",
-          "WHIP 1.19",
+          "ERA 3.86",
+          "WHIP 1.24",
           "K/9 9.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.75"
+            "value": "3.86"
           },
           {
             "label": "WHIP",
-            "value": "1.19"
+            "value": "1.24"
           },
           {
             "label": "K/9",
@@ -7068,22 +7104,22 @@
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
-            "value": "0.50"
+            "value": "0.45"
           },
           {
             "label": "IP",
-            "value": "36.0"
+            "value": "39.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 52.27272727272727,
-          "Command": 32,
+          "Miss bats": 52.33002291825822,
+          "Command": 37.333333333333336,
           "Damage suppression": 0
         },
         "metaLine": "SR / N/A",
@@ -7179,29 +7215,29 @@
         "position": "INF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 51,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Justin Cherrington profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .444",
-          "SLG .500"
+          "AVG .250",
+          "OBP .400",
+          "SLG .438"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".444"
+            "value": ".400"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".438"
           },
           {
             "label": "HR",
@@ -7217,10 +7253,10 @@
           }
         ],
         "components": {
-          "On-base": 91.1111111111111,
-          "Power": 47.36842105263158,
-          "Contact": 41.24999999999998,
-          "Discipline": 14.814814814814808,
+          "On-base": 66.66666666666666,
+          "Power": 31.05263157894737,
+          "Contact": 18.75,
+          "Discipline": 9.523809523809518,
           "Speed": 0
         },
         "metaLine": "SO / N/A",
@@ -7255,41 +7291,41 @@
         },
         "summary": "Chris Scinta gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.17",
-          "WHIP 1.59",
-          "K/9 7.2"
+          "ERA 8.34",
+          "WHIP 1.68",
+          "K/9 7.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.17"
+            "value": "8.34"
           },
           {
             "label": "WHIP",
-            "value": "1.59"
+            "value": "1.68"
           },
           {
             "label": "K/9",
-            "value": "7.2"
+            "value": "7.5"
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "4.4"
           },
           {
             "label": "HR/9",
-            "value": "0.42"
+            "value": "0.40"
           },
           {
             "label": "IP",
-            "value": "21.3"
+            "value": "22.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 28.83522727272727,
-          "Command": 17.777777777777775,
+          "Miss bats": 32.219251336898395,
+          "Command": 14.545454545454545,
           "Damage suppression": 0
         },
         "metaLine": "SR / N/A",
@@ -7386,48 +7422,48 @@
         "position": "RHP",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 10,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Caden Cooper gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.66",
-          "WHIP 1.60",
-          "K/9 8.4"
+          "ERA 4.63",
+          "WHIP 1.50",
+          "K/9 8.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.66"
+            "value": "4.63"
           },
           {
             "label": "WHIP",
-            "value": "1.60"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "8.4"
+            "value": "8.5"
           },
           {
             "label": "BB/9",
-            "value": "5.1"
+            "value": "4.6"
           },
           {
             "label": "HR/9",
-            "value": "0.47"
+            "value": "0.39"
           },
           {
             "label": "IP",
-            "value": "19.3"
+            "value": "23.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.811912225705335,
-          "Command": 12.727272727272734,
+          "Miss bats": 40.77922077922078,
+          "Command": 16.666666666666664,
           "Damage suppression": 0
         },
         "metaLine": "FR / N/A",
@@ -7729,29 +7765,29 @@
         "position": "INF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 46,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Carsten Sabathia III profiles as a INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .304",
-          "OBP .371",
-          "SLG .607"
+          "AVG .283",
+          "OBP .348",
+          "SLG .567"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".304"
+            "value": ".283"
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": ".348"
           },
           {
             "label": "SLG",
-            "value": ".607"
+            "value": ".567"
           },
           {
             "label": "HR",
@@ -7767,10 +7803,10 @@
           }
         ],
         "components": {
-          "On-base": 50.55555555555554,
-          "Power": 75.52631578947368,
-          "Contact": 52.49999999999999,
-          "Discipline": 7.407407407407404,
+          "On-base": 37.77777777777775,
+          "Power": 64.99999999999999,
+          "Contact": 39.374999999999986,
+          "Discipline": 3.9215686274509785,
           "Speed": 0
         },
         "metaLine": "SR / N/A",
@@ -7873,41 +7909,41 @@
         },
         "summary": "Richie Roman looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.35",
-          "WHIP 0.83",
-          "K/9 9.4"
+          "ERA 2.40",
+          "WHIP 0.93",
+          "K/9 9.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.35"
+            "value": "2.40"
           },
           {
             "label": "WHIP",
-            "value": "0.83"
+            "value": "0.93"
           },
           {
             "label": "K/9",
-            "value": "9.4"
+            "value": "9.0"
           },
           {
             "label": "BB/9",
-            "value": "2.7"
+            "value": "2.4"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "0.60"
           },
           {
             "label": "IP",
-            "value": "13.3"
+            "value": "15.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 49.54545454545454,
-          "Command": 50,
+          "Miss bats": 45.45454545454545,
+          "Command": 55.00000000000001,
           "Damage suppression": 0
         },
         "metaLine": "JR / N/A",
@@ -7942,30 +7978,30 @@
         },
         "summary": "Jackson LaLima gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .238",
-          "OBP .325",
-          "SLG .495"
+          "AVG .237",
+          "OBP .326",
+          "SLG .492"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".238"
+            "value": ".237"
           },
           {
             "label": "OBP",
-            "value": ".325"
+            "value": ".326"
           },
           {
             "label": "SLG",
-            "value": ".495"
+            "value": ".492"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "19"
           },
           {
             "label": "SB",
@@ -7973,10 +8009,10 @@
           }
         ],
         "components": {
-          "On-base": 24.999999999999993,
-          "Power": 46.05263157894737,
-          "Contact": 11.249999999999991,
-          "Discipline": 9.027777777777775,
+          "On-base": 25.555555555555546,
+          "Power": 45.26315789473684,
+          "Contact": 10.624999999999991,
+          "Discipline": 8.641975308641975,
           "Speed": 10
         },
         "metaLine": "SO / N/A",
@@ -8004,29 +8040,29 @@
         "position": "RHP",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 8,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Kendall Hoffman looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.85",
-          "WHIP 1.31",
-          "K/9 6.0"
+          "ERA 4.70",
+          "WHIP 1.27",
+          "K/9 6.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.85"
+            "value": "4.70"
           },
           {
             "label": "WHIP",
-            "value": "1.31"
+            "value": "1.27"
           },
           {
             "label": "K/9",
-            "value": "6.0"
+            "value": "6.5"
           },
           {
             "label": "BB/9",
@@ -8034,18 +8070,18 @@
           },
           {
             "label": "HR/9",
-            "value": "1.62"
+            "value": "1.64"
           },
           {
             "label": "IP",
-            "value": "39.0"
+            "value": "44.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 18.181818181818183,
-          "Command": 27.272727272727277,
+          "Miss bats": 23.1404958677686,
+          "Command": 33.333333333333336,
           "Damage suppression": 0
         },
         "metaLine": "SO / N/A",

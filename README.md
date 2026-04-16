@@ -187,6 +187,23 @@ That universe merges:
 
 This keeps the baseball UX closer to the basketball dashboard: one main player list on the left, one full profile on the right, and no source sub-tabs inside the player workflow.
 
+## Player refresh cadence
+
+The stored player snapshots are season-specific and currently pinned to `2026`:
+
+- school-site stat ingests hit `/sports/baseball/stats/2026`
+- the NCAA boxscore pool is built with `--season 2026`
+
+One-shot refresh command:
+
+1. `node scripts/refresh-player-data.mjs --season 2026 --start-date 2026-02-01`
+
+Automation:
+
+- `.github/workflows/refresh-player-data.yml` refreshes the stored player snapshots daily and also supports manual dispatch
+- the Worker now pulls those generated player snapshots from the repo's raw GitHub URLs and caches them for 15 minutes
+- the merged player universe and the national player board are each cached in-memory for 15 minutes inside the Worker
+
 ## NCAA boxscore expansion
 
 There is now a second expansion path for player coverage that does not depend on hand-curating athletics-site manifests for every school.
@@ -296,6 +313,7 @@ The dataset generator now accepts a manifest override and only ingests entries t
 - `scripts/generate-sidearm-roster-pool.mjs`: compact school-site roster-only ingest
 - `scripts/generate-ncaa-boxscore-pool.mjs`: season NCAA boxscore coverage expansion
 - `scripts/backfill-ncaa-boxscore-pool.mjs`: resumable chunked NCAA boxscore backfill orchestrator
+- `scripts/refresh-player-data.mjs`: one-shot refresh for the stored 2026 player datasets and validation
 - `scripts/validate-player-universe.mjs`: local merged-universe validation harness
 - `scripts/expand-baseball-manifest.mjs`: NCAA-backed manifest discovery and expansion
 - `data/school-manifest.baseball.json`: ready-school ingest manifest

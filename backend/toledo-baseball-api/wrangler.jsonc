@@ -3,6 +3,7 @@
   "main": "src/index.js",
   "compatibility_date": "2026-04-09",
   "vars": {
-    "NCAA_API_BASE": "https://ncaa-api.henrygd.me"
+    "NCAA_API_BASE": "https://ncaa-api.henrygd.me",
+    "PLAYER_SNAPSHOT_BASE_URL": "https://raw.githubusercontent.com/bryanhkwan/baseball-dashboard/main/data/generated"
   }
 }

@@ -1,7 +1,7 @@
-import toledoDataset from "../../../data/generated/toledo-baseball-2026.json" with { type: "json" };
-import sidearmPoolDataset from "../../../data/generated/sidearm-pool-baseball-2026.json" with { type: "json" };
-import sidearmRosterPoolDataset from "../../../data/generated/sidearm-roster-pool-baseball-2026.json" with { type: "json" };
-import ncaaBoxscorePoolDataset from "../../../data/generated/ncaa-boxscore-pool-2026.json" with { type: "json" };
+import embeddedToledoDataset from "../../../data/generated/toledo-baseball-2026.json" with { type: "json" };
+import embeddedSidearmPoolDataset from "../../../data/generated/sidearm-pool-baseball-2026.json" with { type: "json" };
+import embeddedSidearmRosterPoolDataset from "../../../data/generated/sidearm-roster-pool-baseball-2026.json" with { type: "json" };
+import embeddedNcaaBoxscorePoolDataset from "../../../data/generated/ncaa-boxscore-pool-2026.json" with { type: "json" };
 
 function normalizeKeyPart(value = "") {
   return String(value || "")
@@ -38,6 +38,39 @@ function roundTo(value, decimals = 1) {
   }
   const factor = 10 ** decimals;
   return Math.round(value * factor) / factor;
+}
+
+function resolveDataset(overrideDataset, embeddedDataset) {
+  return overrideDataset && typeof overrideDataset === "object" ? overrideDataset : embeddedDataset;
+}
+
+function resolveLocalDatasets(datasets = {}) {
+  return {
+    toledoDataset: resolveDataset(datasets.toledoDataset, embeddedToledoDataset),
+    sidearmPoolDataset: resolveDataset(datasets.sidearmPoolDataset, embeddedSidearmPoolDataset),
+    sidearmRosterPoolDataset: resolveDataset(datasets.sidearmRosterPoolDataset, embeddedSidearmRosterPoolDataset),
+    ncaaBoxscorePoolDataset: resolveDataset(datasets.ncaaBoxscorePoolDataset, embeddedNcaaBoxscorePoolDataset),
+  };
+}
+
+function normalizeIsoTimestamp(value = "") {
+  const timestamp = Date.parse(String(value || ""));
+  return Number.isFinite(timestamp) ? timestamp : 0;
+}
+
+function getLatestTimestamp(values = [], fallback = new Date().toISOString()) {
+  let latestValue = "";
+  let latestTimestamp = 0;
+
+  values.forEach((value) => {
+    const timestamp = normalizeIsoTimestamp(value);
+    if (timestamp >= latestTimestamp) {
+      latestTimestamp = timestamp;
+      latestValue = value;
+    }
+  });
+
+  return latestValue || fallback;
 }
 
 function fitLabel(score) {
@@ -681,9 +714,15 @@ function summarizeUniverseSources(boardCounts = {}, nationalError = "") {
   return parts.join(" • ");
 }
 
-function getLocalPlayerSourcePayloads() {
+function getLocalPlayerSourcePayloads(datasets = {}) {
   const sourcePayloads = [];
   const fullRosterSchoolSlugs = new Set();
+  const {
+    toledoDataset,
+    sidearmPoolDataset,
+    sidearmRosterPoolDataset,
+    ncaaBoxscorePoolDataset,
+  } = resolveLocalDatasets(datasets);
 
   if (toledoDataset?.playerBoard?.players?.length) {
     if (toledoDataset.school?.slug) {
@@ -757,6 +796,19 @@ function getLocalPlayerSourcePayloads() {
   }
 
   return sourcePayloads;
+}
+
+function buildSourceSnapshots(sourcePayloads = []) {
+  return sourcePayloads
+    .map(({ label, countKey, payload }) => ({
+      label,
+      countKey,
+      generatedAt: payload?.generatedAt || "",
+      playerCount: payload?.players?.length || 0,
+      source: payload?.source || "",
+    }))
+    .filter((snapshot) => snapshot.generatedAt || snapshot.playerCount > 0)
+    .sort((left, right) => normalizeIsoTimestamp(right.generatedAt) - normalizeIsoTimestamp(left.generatedAt));
 }
 
 function getCoverageSourceType(countKey = "") {
@@ -841,7 +893,7 @@ function seedCoverageSchools(schoolMap, payload = {}, sourceType = "") {
   }
 }
 
-function buildSchoolCoverage(sourcePayloads = [], players = [], boardCoverage = "", note = "", boardCounts = {}) {
+function buildSchoolCoverage(sourcePayloads = [], players = [], boardCoverage = "", note = "", boardCounts = {}, freshness = {}) {
   const schoolMap = new Map();
 
   sourcePayloads.forEach(({ countKey, payload }) => {
@@ -971,7 +1023,8 @@ function buildSchoolCoverage(sourcePayloads = [], players = [], boardCoverage = 
   );
 
   return {
-    generatedAt: new Date().toISOString(),
+    generatedAt: freshness.dataGeneratedAt || new Date().toISOString(),
+    rebuiltAt: freshness.rebuiltAt || new Date().toISOString(),
     boardCoverage,
     note,
     summary,
@@ -979,10 +1032,12 @@ function buildSchoolCoverage(sourcePayloads = [], players = [], boardCoverage = 
   };
 }
 
-export function buildPlayerUniverse({ nationalPayload = null, nationalError = "" } = {}) {
+export function buildPlayerUniverse({ nationalPayload = null, nationalError = "", datasets = null } = {}) {
   const playerMap = new Map();
   const boardCounts = {};
-  const sourcePayloads = getLocalPlayerSourcePayloads();
+  const sourcePayloads = getLocalPlayerSourcePayloads(datasets || {});
+  const snapshotSource = datasets?.snapshotSource || "Embedded repository snapshots";
+  const snapshotWarning = datasets?.snapshotWarning || "";
 
   if (nationalPayload?.players?.length) {
     sourcePayloads.push({
@@ -1041,21 +1096,35 @@ export function buildPlayerUniverse({ nationalPayload = null, nationalError = ""
                 ? "Unified player universe merges stored school datasets with the API-backed national player board."
                 : "Unified player universe is using stored school datasets only right now.",
     nationalPayload?.note || "",
+    snapshotWarning,
     !nationalPayload && nationalError ? `National API unavailable right now: ${nationalError}` : "",
   ]
     .filter(Boolean)
     .join(" ");
 
-  const schoolCoverage = buildSchoolCoverage(sourcePayloads, players, boardCoverage, note, boardCounts);
+  const rebuiltAt = new Date().toISOString();
+  const sourceSnapshots = buildSourceSnapshots(sourcePayloads);
+  const dataGeneratedAt = getLatestTimestamp(
+    [...sourceSnapshots.map((snapshot) => snapshot.generatedAt), nationalPayload?.generatedAt || ""],
+    rebuiltAt,
+  );
+  const schoolCoverage = buildSchoolCoverage(sourcePayloads, players, boardCoverage, note, boardCounts, {
+    dataGeneratedAt,
+    rebuiltAt,
+  });
 
   return {
     source: "Stored player universe",
-    generatedAt: new Date().toISOString(),
+    generatedAt: dataGeneratedAt,
+    dataGeneratedAt,
+    rebuiltAt,
     totalPlayers: players.length,
     roleCounts,
     boardCounts,
     boardCoverage,
     note,
+    snapshotSource,
+    sourceSnapshots,
     schoolCoverage,
     players,
   };
@@ -1129,6 +1198,8 @@ export function queryPlayerUniverse(universe, options = {}) {
   return {
     source: universe.source,
     generatedAt: universe.generatedAt,
+    dataGeneratedAt: universe.dataGeneratedAt || universe.generatedAt,
+    rebuiltAt: universe.rebuiltAt || universe.generatedAt,
     totalPlayers,
     totalPages,
     page,
@@ -1139,6 +1210,8 @@ export function queryPlayerUniverse(universe, options = {}) {
     boardCoverage: universe.boardCoverage,
     roleCounts: universe.roleCounts,
     note: universe.note,
+    snapshotSource: universe.snapshotSource || "",
+    sourceSnapshots: universe.sourceSnapshots || [],
     data,
   };
 }
