@@ -258,7 +258,16 @@ function mapWithConcurrency(items, concurrency, worker) {
 }
 
 function isRosterReady(team = {}) {
-  return team.enabled !== false && Boolean(team.schoolSiteBase) && Boolean(team.rosterPath);
+  if (team.enabled === false) {
+    return false;
+  }
+  if (!team.schoolSiteBase || !team.rosterPath) {
+    return false;
+  }
+  // Roster pool currently uses the Sidearm Nuxt parser; adapter-agnostic pools
+  // can be added alongside as new adapters land.
+  const adapter = String(team.adapter || "").trim().toLowerCase();
+  return adapter === "" || adapter === "sidearm";
 }
 
 function resolveTargetTeams(options) {

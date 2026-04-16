@@ -2,6 +2,11 @@ name: Refresh Player Data
 
 on:
   workflow_dispatch:
+    inputs:
+      promote_sidearm:
+        description: "Probe the Sidearm candidate domain map and auto-promote newly reachable schools in the manifest before ingesting."
+        required: false
+        default: "false"
   schedule:
     - cron: "15 10 * * *"
 
@@ -22,16 +27,50 @@ jobs:
           node-version: "22"
 
       - name: Refresh stored 2026 player snapshots
-        run: node scripts/refresh-player-data.mjs --season 2026 --manifest data/school-manifest.baseball.expanded.json --start-date 2026-02-01
+        env:
+          PROMOTE_SIDEARM: ${{ github.event.inputs.promote_sidearm }}
+        run: |
+          extra_args=""
+          if [ "${PROMOTE_SIDEARM:-false}" = "true" ]; then
+            extra_args="--promote-sidearm"
+          fi
+          node scripts/refresh-player-data.mjs \
+            --season 2026 \
+            --manifest data/school-manifest.baseball.expanded.json \
+            --start-date 2026-02-01 \
+            $extra_args
 
       - name: Commit refreshed player data
+        id: commit
         run: |
-          if git diff --quiet -- data/generated; then
-            echo "No player data changes detected."
+          if git diff --quiet -- data/generated data/school-manifest.baseball.expanded.json; then
+            echo "No player data or manifest changes detected."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/generated
+          git add data/generated data/school-manifest.baseball.expanded.json
           git commit -m "chore: refresh baseball player data"
           git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Invalidate Worker snapshot cache
+        if: steps.commit.outputs.changed == 'true' && env.WORKER_BASE_URL != '' && env.ADMIN_REFRESH_TOKEN != ''
+        env:
+          WORKER_BASE_URL: ${{ secrets.WORKER_BASE_URL }}
+          ADMIN_REFRESH_TOKEN: ${{ secrets.ADMIN_REFRESH_TOKEN }}
+        run: |
+          echo "Asking the Worker to flush its in-memory player cache so the freshly pushed snapshots are picked up on the next request."
+          # Give the GitHub raw CDN a moment to propagate the new commit before
+          # the Worker re-fetches snapshots.
+          sleep 45
+          http_status=$(curl -s -o /tmp/invalidate.json -w "%{http_code}" \
+            -X POST "${WORKER_BASE_URL%/}/api/admin/invalidate-snapshot-cache" \
+            -H "x-admin-token: ${ADMIN_REFRESH_TOKEN}" \
+            -H "content-type: application/json")
+          echo "Worker response status: $http_status"
+          cat /tmp/invalidate.json || true
+          if [ "$http_status" -ge 400 ]; then
+            echo "::warning::Worker cache invalidation returned HTTP $http_status; refresh will still propagate within the 5-minute cache window."
+          fi

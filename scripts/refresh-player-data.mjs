@@ -12,6 +12,8 @@ function parseArgs(argv) {
     endDate: "",
     manifest: DEFAULT_MANIFEST,
     skipValidate: false,
+    promoteSidearm: false,
+    promoteCandidates: "data/sidearm-candidate-domains.json",
   };
 
   for (let index = 2; index < argv.length; index += 1) {
@@ -46,6 +48,17 @@ function parseArgs(argv) {
 
     if (token === "--skip-validate") {
       options.skipValidate = true;
+      continue;
+    }
+
+    if (token === "--promote-sidearm") {
+      options.promoteSidearm = true;
+      continue;
+    }
+
+    if (token === "--promote-candidates") {
+      options.promoteCandidates = argv[index + 1] || options.promoteCandidates;
+      index += 1;
     }
   }
 
@@ -85,6 +98,18 @@ function main() {
   const startDate = options.startDate || `${season}-02-01`;
   const endDate = options.endDate || getTodayForTimezone(DEFAULT_TIMEZONE);
 
+  if (options.promoteSidearm) {
+    runNodeScript("scripts/promote-sidearm-schools.mjs", [
+      "--manifest",
+      options.manifest,
+      "--candidates",
+      options.promoteCandidates,
+      "--season",
+      String(season),
+      "--write",
+    ]);
+  }
+
   runNodeScript("scripts/generate-baseball-dataset.mjs", [
     "--manifest",
     options.manifest,
@@ -120,6 +145,7 @@ function main() {
 
   if (!options.skipValidate) {
     runNodeScript("scripts/validate-player-universe.mjs", []);
+    runNodeScript("scripts/validate-stat-accuracy.mjs", []);
   }
 }
 

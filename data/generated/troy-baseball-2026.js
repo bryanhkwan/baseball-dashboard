@@ -1,0 +1,7662 @@
+window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
+window.__BASEBALL_DATASETS__.troy2026 = {
+  "generatedAt": "2026-04-16T19:22:41.595Z",
+  "season": 2026,
+  "school": {
+    "slug": "troy",
+    "name": "Troy",
+    "longName": "Troy University",
+    "ncaaVerified": true,
+    "ncaaRecord": {
+      "slug": "troy",
+      "name": "Troy",
+      "long": "Troy University"
+    },
+    "espnDisplayName": "",
+    "espnSlug": "",
+    "rosterUrl": "https://troytrojans.com/sports/baseball/roster",
+    "statsUrl": "https://troytrojans.com/sports/baseball/stats/2026",
+    "pdfUrl": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/troytrojans.com/stats/baseball/2026/pdf/cume.pdf"
+  },
+  "sources": {
+    "roster": "Troy Athletics roster",
+    "stats": "Troy Athletics cumulative stats",
+    "espn": "ESPN team identity verified, but Troy's public roster feed did not match the current 2026 school-site roster",
+    "ncaa": "NCAA school index"
+  },
+  "coverage": {
+    "rosterPlayers": 36,
+    "espnRosterPlayers": 0,
+    "playersWithHittingStats": 17,
+    "playersWithPitchingStats": 19,
+    "playersWithFieldingStats": 30,
+    "mergedPlayersWithAnyStats": 34,
+    "matchedEspnPlayers": 0,
+    "unmatchedStatRows": {
+      "hitting": [],
+      "pitching": [],
+      "fielding": []
+    }
+  },
+  "teamSummary": {
+    "record": "18-19, 8-7",
+    "battingAverage": ".282",
+    "earnedRunAverage": "5.74",
+    "wins": "18",
+    "losses": "19",
+    "hitting": {
+      "atBats": "1243",
+      "runsScored": "250",
+      "hits": "350",
+      "runsBattedIn": "230",
+      "doubles": "78",
+      "triples": "7",
+      "homeRuns": "37",
+      "walks": "178",
+      "intentionalWalks": "3",
+      "strikeouts": "295",
+      "strikeoutsLooking": "44",
+      "hitByPitch": "65",
+      "stolenBases": "28",
+      "caughtStealing": "10",
+      "sacrificeHits": "13",
+      "sacrificeFlies": "17",
+      "reachedOnCatchersInteference": "0",
+      "reachedOnError": "0",
+      "reachesOnAFieldersChoice": "0",
+      "groundOuts": "248",
+      "flyOuts": "339",
+      "groundedIntoDoublePlay": "26",
+      "pickedOff": "1",
+      "doublePlaysHitInto": "26",
+      "triplePlaysHitInto": "0"
+    },
+    "fielding": {
+      "putouts": "946",
+      "assists": "316",
+      "errors": "32",
+      "passedBalls": "7",
+      "catchersInterference": "1",
+      "stolenBasesAgainst": "28",
+      "caughtStealingBy": "5",
+      "involvedInDoublePlays": "28",
+      "involvedInTriplePlays": "0",
+      "totalChances": "1294",
+      "fieldingPercentage": ".975"
+    },
+    "pitching": {
+      "orderOfAppearance": "0",
+      "wins": "18",
+      "saves": "28",
+      "losses": "19",
+      "gamesStarted": "0",
+      "gamesCompleted": "0",
+      "shutouts": "0",
+      "creditForCombinedShutout": "0",
+      "inningsPitched": "315.1",
+      "hitsAllowed": "335",
+      "runsAllowed": "222",
+      "earnedRunsAllowed": "201",
+      "walksAllowed": "154",
+      "strikeouts": "346",
+      "battersFaced": "1455",
+      "opponentAtBats": "1228",
+      "doublesAllowed": "63",
+      "triplesAllowed": "4",
+      "homerunsAllowed": "48",
+      "wildPitches": "29",
+      "balks": "1",
+      "hitBatters": "45",
+      "strikeoutsLooking": "59",
+      "intentionalWalks": "2",
+      "inheritedRunners": "60",
+      "inheritedRunnersThatScored": "23",
+      "sacrificeHitsAllowed": "11",
+      "sacrificeFliesAllowed": "16",
+      "catchersInterferenceAllowed": "1",
+      "pitches": "5478",
+      "flyouts": "274",
+      "groundouts": "275",
+      "teamUnearnedRuns": "0",
+      "saveRecord": "8",
+      "pickoff": "0"
+    }
+  },
+  "players": [
+    {
+      "id": "troy-11886",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Steven Meier",
+      "normalizedName": "steven meier",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "L/L",
+      "jersey": "1",
+      "hometown": "Kennewick, Wash.",
+      "highSchool": "Southridge HS",
+      "previousSchool": "Old Dominion",
+      "hometownHighSchool": "Kennewick, Wash. / Southridge HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/steven-meier/11886",
+      "imageUrl": "https://troytrojans.com/images/2026/1/24/2026_Troy_BSB_Headshots-35_d0EGy.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11886",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11886",
+        "name": "Steven Meier",
+        "normalizedName": "steven meier",
+        "jersey": "1",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/steven-meier/11886",
+        "imageUrl": "https://troytrojans.com/images/2026/1/24/2026_Troy_BSB_Headshots-35_d0EGy.jpg",
+        "gamesPlayed": 29,
+        "gamesStarted": 29,
+        "battingAverage": 0.265,
+        "onBasePercentage": 0.432,
+        "sluggingPercentage": 0.49,
+        "ops": 0.922,
+        "atBats": 102,
+        "runs": 23,
+        "hits": 27,
+        "doubles": 2,
+        "triples": 3,
+        "homeRuns": 5,
+        "runsBattedIn": 24,
+        "totalBases": 50,
+        "walks": 20,
+        "hitByPitch": 10,
+        "strikeouts": 30,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 2,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 2,
+        "stolenBases": 7,
+        "stolenBasesAttempts": 9,
+        "putouts": 57,
+        "assists": 1,
+        "errors": 0,
+        "plateAppearances": 145,
+        "caughtStealing": 2,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11886",
+        "name": "Steven Meier",
+        "normalizedName": "steven meier",
+        "jersey": "1",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/steven-meier/11886",
+        "imageUrl": "https://troytrojans.com/images/2026/1/24/2026_Troy_BSB_Headshots-35_d0EGy.jpg",
+        "gamesPlayed": 26,
+        "gamesStarted": 26,
+        "putouts": 57,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 58
+      },
+      "evaluation": {
+        "score": 53,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 84.44444444444443,
+          "Power": 44.73684210526316,
+          "Contact": 28.125000000000007,
+          "Discipline": 51.85185185185184,
+          "Speed": 23.333333333333332
+        },
+        "summary": "Steven Meier profiles as a OF piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .265",
+          "OBP .432",
+          "SLG .490"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".265"
+          },
+          {
+            "label": "OBP",
+            "value": ".432"
+          },
+          {
+            "label": "SLG",
+            "value": ".490"
+          },
+          {
+            "label": "HR",
+            "value": "5"
+          },
+          {
+            "label": "RBI",
+            "value": "24"
+          },
+          {
+            "label": "SB",
+            "value": "7"
+          }
+        ],
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "L/L",
+          "Hitter"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11887",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Aaron Piasecki",
+      "normalizedName": "aaron piasecki",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "L/R",
+      "jersey": "2",
+      "hometown": "Muskegon, Mich.",
+      "highSchool": "Mona Shores HS",
+      "previousSchool": "Central Michigan",
+      "hometownHighSchool": "Muskegon, Mich. / Mona Shores HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/aaron-piasecki/11887",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/02_Piasecki_WOaZc.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11887",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11887",
+        "name": "Aaron Piasecki",
+        "normalizedName": "aaron piasecki",
+        "jersey": "2",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/aaron-piasecki/11887",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/02_Piasecki_WOaZc.jpg",
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "battingAverage": 0.309,
+        "onBasePercentage": 0.455,
+        "sluggingPercentage": 0.485,
+        "ops": 0.94,
+        "atBats": 136,
+        "runs": 30,
+        "hits": 42,
+        "doubles": 9,
+        "triples": 0,
+        "homeRuns": 5,
+        "runsBattedIn": 22,
+        "totalBases": 66,
+        "walks": 26,
+        "hitByPitch": 12,
+        "strikeouts": 16,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 3,
+        "sacrificeFlies": 2,
+        "sacrificeHits": 0,
+        "stolenBases": 5,
+        "stolenBasesAttempts": 5,
+        "putouts": 66,
+        "assists": 27,
+        "errors": 4,
+        "plateAppearances": 181,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11887",
+        "name": "Aaron Piasecki",
+        "normalizedName": "aaron piasecki",
+        "jersey": "2",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/aaron-piasecki/11887",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/02_Piasecki_WOaZc.jpg",
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "putouts": 66,
+        "assists": 27,
+        "errors": 4,
+        "fieldingPercentage": 0.959,
+        "doublePlays": 5,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 97
+      },
+      "evaluation": {
+        "score": 68,
+        "fit": {
+          "label": "Pursue",
+          "className": "fit-pursue"
+        },
+        "components": {
+          "On-base": 97.22222222222221,
+          "Power": 43.42105263157895,
+          "Contact": 55.62499999999999,
+          "Discipline": 100,
+          "Speed": 16.666666666666664
+        },
+        "summary": "Aaron Piasecki profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .309",
+          "OBP .455",
+          "SLG .485"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".309"
+          },
+          {
+            "label": "OBP",
+            "value": ".455"
+          },
+          {
+            "label": "SLG",
+            "value": ".485"
+          },
+          {
+            "label": "HR",
+            "value": "5"
+          },
+          {
+            "label": "RBI",
+            "value": "22"
+          },
+          {
+            "label": "SB",
+            "value": "5"
+          }
+        ],
+        "metaLine": "SR / L/R",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "L/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11888",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Cole Garner",
+      "normalizedName": "cole garner",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "3",
+      "hometown": "LaGrange, Ga.",
+      "highSchool": "LaGrange HS",
+      "previousSchool": "Chipola College",
+      "hometownHighSchool": "LaGrange, Ga. / LaGrange HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/cole-garner/11888",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/03_Garner_Cole_gzso4.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11888",
+      "sources": [
+        "Troy Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Cole Garner gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Troy Athletics roster"
+      }
+    },
+    {
+      "id": "troy-11889",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Nolan Book",
+      "normalizedName": "nolan book",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "4",
+      "hometown": "Lancaster, Pa.",
+      "highSchool": "Manheim Central HS",
+      "previousSchool": "Mount St. Mary's",
+      "hometownHighSchool": "Lancaster, Pa. / Manheim Central HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/nolan-book/11889",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/04_Book_6skJj.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11889",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11889",
+        "name": "Nolan Book",
+        "normalizedName": "nolan book",
+        "jersey": "4",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/nolan-book/11889",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/04_Book_6skJj.jpg",
+        "gamesPlayed": 32,
+        "gamesStarted": 30,
+        "battingAverage": 0.28,
+        "onBasePercentage": 0.397,
+        "sluggingPercentage": 0.38,
+        "ops": 0.777,
+        "atBats": 100,
+        "runs": 17,
+        "hits": 28,
+        "doubles": 7,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 20,
+        "totalBases": 38,
+        "walks": 14,
+        "hitByPitch": 6,
+        "strikeouts": 31,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 1,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 2,
+        "putouts": 39,
+        "assists": 92,
+        "errors": 4,
+        "plateAppearances": 125,
+        "caughtStealing": 1,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11889",
+        "name": "Nolan Book",
+        "normalizedName": "nolan book",
+        "jersey": "4",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/nolan-book/11889",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/04_Book_6skJj.jpg",
+        "gamesPlayed": 30,
+        "gamesStarted": 30,
+        "putouts": 39,
+        "assists": 92,
+        "errors": 4,
+        "fieldingPercentage": 0.97,
+        "doublePlays": 17,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 135
+      },
+      "evaluation": {
+        "score": 36,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 65,
+          "Power": 15.789473684210527,
+          "Contact": 37.500000000000014,
+          "Discipline": 27.95698924731182,
+          "Speed": 3.3333333333333335
+        },
+        "summary": "Nolan Book gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .280",
+          "OBP .397",
+          "SLG .380"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".280"
+          },
+          {
+            "label": "OBP",
+            "value": ".397"
+          },
+          {
+            "label": "SLG",
+            "value": ".380"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "20"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11890",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Jimmy Janicki",
+      "normalizedName": "jimmy janicki",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "5",
+      "hometown": "Downers Grove, Ill.",
+      "highSchool": "Downers Grove North HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Downers Grove, Ill. / Downers Grove North HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/jimmy-janicki/11890",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/05_Janicki_M7a2N.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11890",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11890",
+        "name": "Jimmy Janicki",
+        "normalizedName": "jimmy janicki",
+        "jersey": "5",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/jimmy-janicki/11890",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/05_Janicki_M7a2N.jpg",
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "battingAverage": 0.34,
+        "onBasePercentage": 0.418,
+        "sluggingPercentage": 0.639,
+        "ops": 1.057,
+        "atBats": 147,
+        "runs": 32,
+        "hits": 50,
+        "doubles": 12,
+        "triples": 1,
+        "homeRuns": 10,
+        "runsBattedIn": 48,
+        "totalBases": 94,
+        "walks": 17,
+        "hitByPitch": 4,
+        "strikeouts": 26,
+        "intentionalWalks": 1,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 2,
+        "sacrificeHits": 0,
+        "stolenBases": 2,
+        "stolenBasesAttempts": 4,
+        "putouts": 271,
+        "assists": 24,
+        "errors": 4,
+        "plateAppearances": 176,
+        "caughtStealing": 2,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11890",
+        "name": "Jimmy Janicki",
+        "normalizedName": "jimmy janicki",
+        "jersey": "5",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/jimmy-janicki/11890",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/05_Janicki_M7a2N.jpg",
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "putouts": 271,
+        "assists": 24,
+        "errors": 4,
+        "fieldingPercentage": 0.987,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 20,
+        "caughtStealingBy": 4,
+        "stolenBasesPercentage": 0.833,
+        "passedBalls": 7,
+        "catchersInterference": 1,
+        "totalChances": 299
+      },
+      "evaluation": {
+        "score": 68,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "components": {
+          "On-base": 76.66666666666664,
+          "Power": 83.94736842105264,
+          "Contact": 75.00000000000001,
+          "Discipline": 50.42735042735041,
+          "Speed": 6.666666666666667
+        },
+        "summary": "Jimmy Janicki profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .340",
+          "OBP .418",
+          "SLG .639"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".340"
+          },
+          {
+            "label": "OBP",
+            "value": ".418"
+          },
+          {
+            "label": "SLG",
+            "value": ".639"
+          },
+          {
+            "label": "HR",
+            "value": "10"
+          },
+          {
+            "label": "RBI",
+            "value": "48"
+          },
+          {
+            "label": "SB",
+            "value": "2"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "C",
+          "SO",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11891",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Brady Richardson",
+      "normalizedName": "brady richardson",
+      "compositeRole": "Two-Way",
+      "role": "Pitcher",
+      "position": "INF/RHP",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "6",
+      "hometown": "Elba, Ala.",
+      "highSchool": "Enterprise HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Elba, Ala. / Enterprise HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/brady-richardson/11891",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/06_Richardson_adF3j.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11891",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11891",
+        "name": "Brady Richardson",
+        "normalizedName": "brady richardson",
+        "jersey": "6",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/brady-richardson/11891",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/06_Richardson_adF3j.jpg",
+        "gamesPlayed": 5,
+        "gamesStarted": 0,
+        "battingAverage": 0,
+        "onBasePercentage": 0,
+        "sluggingPercentage": 0,
+        "ops": 0,
+        "atBats": 2,
+        "runs": 0,
+        "hits": 0,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 0,
+        "totalBases": 0,
+        "walks": 0,
+        "hitByPitch": 0,
+        "strikeouts": 1,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 0,
+        "assists": 1,
+        "errors": 0,
+        "plateAppearances": 2,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": {
+        "rosterBioId": "11891",
+        "name": "Brady Richardson",
+        "normalizedName": "brady richardson",
+        "jersey": "6",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/brady-richardson/11891",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/06_Richardson_adF3j.jpg",
+        "gamesPlayed": 10,
+        "gamesStarted": 1,
+        "appearances": 10,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 6.08,
+        "whip": 1.43,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 13.333333333333334,
+        "inningsPitchedDisplay": "13.1",
+        "hitsAllowed": 13,
+        "runsAllowed": 9,
+        "earnedRunsAllowed": 9,
+        "walksAllowed": 6,
+        "strikeouts": 10,
+        "doublesAllowed": 2,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 49,
+        "wildPitches": 3,
+        "hitBatters": 0,
+        "balks": 0,
+        "opponentsBattingAverage": 0.265,
+        "walksHits": 19
+      },
+      "fieldingStats": {
+        "rosterBioId": "11891",
+        "name": "Brady Richardson",
+        "normalizedName": "brady richardson",
+        "jersey": "6",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/brady-richardson/11891",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/06_Richardson_adF3j.jpg",
+        "gamesPlayed": 5,
+        "gamesStarted": 1,
+        "putouts": 0,
+        "assists": 6,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 6
+      },
+      "evaluation": {
+        "score": 7,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 25,
+          "Command": 13.333333333333336,
+          "Damage suppression": 0
+        },
+        "summary": "Brady Richardson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 6.08",
+          "WHIP 1.43",
+          "K/9 6.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.08"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.43"
+          },
+          {
+            "label": "K/9",
+            "value": "6.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.67"
+          },
+          {
+            "label": "IP",
+            "value": "13.3"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF/RHP",
+          "FR",
+          "R/R",
+          "Two-Way"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11892",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Gavin Schrader",
+      "normalizedName": "gavin schrader",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "L/L",
+      "jersey": "7",
+      "hometown": "Batavia, N.Y.",
+      "highSchool": "Notre Dame HS",
+      "previousSchool": "Niagara",
+      "hometownHighSchool": "Batavia, N.Y. / Notre Dame HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/gavin-schrader/11892",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/07_Schrader_imagc.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11892",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11892",
+        "name": "Gavin Schrader",
+        "normalizedName": "gavin schrader",
+        "jersey": "7",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/gavin-schrader/11892",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/07_Schrader_imagc.jpg",
+        "gamesPlayed": 16,
+        "gamesStarted": 10,
+        "battingAverage": 0.257,
+        "onBasePercentage": 0.316,
+        "sluggingPercentage": 0.314,
+        "ops": 0.63,
+        "atBats": 35,
+        "runs": 1,
+        "hits": 9,
+        "doubles": 2,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 2,
+        "totalBases": 11,
+        "walks": 1,
+        "hitByPitch": 2,
+        "strikeouts": 7,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 2,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 38,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11892",
+        "name": "Gavin Schrader",
+        "normalizedName": "gavin schrader",
+        "jersey": "7",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/gavin-schrader/11892",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/07_Schrader_imagc.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 1,
+        "putouts": 2,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 2
+      },
+      "evaluation": {
+        "score": 11,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 19.999999999999986,
+          "Power": 0,
+          "Contact": 23.125000000000004,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Gavin Schrader gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .257",
+          "OBP .316",
+          "SLG .314"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".257"
+          },
+          {
+            "label": "OBP",
+            "value": ".316"
+          },
+          {
+            "label": "SLG",
+            "value": ".314"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "2"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "L/L",
+          "Hitter"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11893",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Jabe Boroff",
+      "normalizedName": "jabe boroff",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C/UTL",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "8",
+      "hometown": "Pike Road, Ala.",
+      "highSchool": "Macon East Academy",
+      "previousSchool": "Enterprise State CC",
+      "hometownHighSchool": "Pike Road, Ala. / Macon East Academy",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/jabe-boroff/11893",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/08_Boroff_Jabe_NKrv0.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11893",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11893",
+        "name": "Jabe Boroff",
+        "normalizedName": "jabe boroff",
+        "jersey": "8",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/jabe-boroff/11893",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/08_Boroff_Jabe_NKrv0.jpg",
+        "gamesPlayed": 14,
+        "gamesStarted": 8,
+        "battingAverage": 0.133,
+        "onBasePercentage": 0.182,
+        "sluggingPercentage": 0.267,
+        "ops": 0.449,
+        "atBats": 30,
+        "runs": 3,
+        "hits": 4,
+        "doubles": 1,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 3,
+        "totalBases": 8,
+        "walks": 1,
+        "hitByPitch": 1,
+        "strikeouts": 13,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 8,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 33,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11893",
+        "name": "Jabe Boroff",
+        "normalizedName": "jabe boroff",
+        "jersey": "8",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/jabe-boroff/11893",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/08_Boroff_Jabe_NKrv0.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 1,
+        "putouts": 8,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 8
+      },
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Jabe Boroff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .133",
+          "OBP .182",
+          "SLG .267"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".133"
+          },
+          {
+            "label": "OBP",
+            "value": ".182"
+          },
+          {
+            "label": "SLG",
+            "value": ".267"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "3"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C/UTL",
+          "JR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11894",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Brock Tapper",
+      "normalizedName": "brock tapper",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "L/L",
+      "jersey": "10",
+      "hometown": "Nesbit, Miss.",
+      "highSchool": "DeSoto Central HS",
+      "previousSchool": "Northwest Florida State",
+      "hometownHighSchool": "Nesbit, Miss. / DeSoto Central HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/brock-tapper/11894",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/10_Tapper_3trNQ.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11894",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "11894",
+        "name": "Brock Tapper",
+        "normalizedName": "brock tapper",
+        "jersey": "10",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/brock-tapper/11894",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/10_Tapper_3trNQ.jpg",
+        "gamesPlayed": 11,
+        "gamesStarted": 3,
+        "appearances": 11,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 5.82,
+        "whip": 2.29,
+        "wins": 1,
+        "losses": 1,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 17,
+        "inningsPitchedDisplay": "17.0",
+        "hitsAllowed": 23,
+        "runsAllowed": 14,
+        "earnedRunsAllowed": 11,
+        "walksAllowed": 16,
+        "strikeouts": 18,
+        "doublesAllowed": 6,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 71,
+        "wildPitches": 1,
+        "hitBatters": 1,
+        "balks": 0,
+        "opponentsBattingAverage": 0.324,
+        "walksHits": 39
+      },
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 10,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 50.26737967914438,
+          "Command": 2.5,
+          "Damage suppression": 0
+        },
+        "summary": "Brock Tapper looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 5.82",
+          "WHIP 2.29",
+          "K/9 9.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.82"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.29"
+          },
+          {
+            "label": "K/9",
+            "value": "9.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "8.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.06"
+          },
+          {
+            "label": "IP",
+            "value": "17.0"
+          }
+        ],
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11895",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Lucas Litteral",
+      "normalizedName": "lucas litteral",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "R/L",
+      "jersey": "11",
+      "hometown": "Paintsville, Ky.",
+      "highSchool": "Magoffin County HS",
+      "previousSchool": "Western Kentucky",
+      "hometownHighSchool": "Paintsville, Ky. / Magoffin County HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/lucas-litteral/11895",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/11_Litteral_6sfep.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11895",
+      "sources": [
+        "Troy Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Lucas Litteral looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / R/L",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "R/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Troy Athletics roster"
+      }
+    },
+    {
+      "id": "troy-11896",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Tate Farquhar",
+      "normalizedName": "tate farquhar",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "L/R",
+      "jersey": "12",
+      "hometown": "Highland, Mich.",
+      "highSchool": "Lakeland HS",
+      "previousSchool": "Michigan State",
+      "hometownHighSchool": "Highland, Mich. / Lakeland HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/tate-farquhar/11896",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/12_Farquhar_Tate_oa5TY.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11896",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "11896",
+        "name": "Tate Farquhar",
+        "normalizedName": "tate farquhar",
+        "jersey": "12",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/tate-farquhar/11896",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/12_Farquhar_Tate_oa5TY.jpg",
+        "gamesPlayed": 2,
+        "gamesStarted": 0,
+        "appearances": 2,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 47.25,
+        "whip": 6.75,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 1.3333333333333333,
+        "inningsPitchedDisplay": "1.1",
+        "hitsAllowed": 8,
+        "runsAllowed": 7,
+        "earnedRunsAllowed": 7,
+        "walksAllowed": 1,
+        "strikeouts": 1,
+        "doublesAllowed": 2,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 11,
+        "wildPitches": 0,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.727,
+        "walksHits": 9
+      },
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 5,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 25,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Tate Farquhar gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 47.25",
+          "WHIP 6.75",
+          "K/9 6.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "47.25"
+          },
+          {
+            "label": "WHIP",
+            "value": "6.75"
+          },
+          {
+            "label": "K/9",
+            "value": "6.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "6.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "13.50"
+          },
+          {
+            "label": "IP",
+            "value": "1.3"
+          }
+        ],
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "L/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11898",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Zaid Diaz",
+      "normalizedName": "zaid diaz",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "L/L",
+      "jersey": "14",
+      "hometown": "Miramar, Fla.",
+      "highSchool": "Elite Squad Academy",
+      "previousSchool": "Chipola College",
+      "hometownHighSchool": "Miramar, Fla. / Elite Squad Academy",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/zaid-diaz/11898",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/14_Diaz_Zaid_t9pOi.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11898",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11898",
+        "name": "Zaid Diaz",
+        "normalizedName": "zaid diaz",
+        "jersey": "14",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/zaid-diaz/11898",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/14_Diaz_Zaid_t9pOi.jpg",
+        "gamesPlayed": 14,
+        "gamesStarted": 11,
+        "battingAverage": 0.184,
+        "onBasePercentage": 0.333,
+        "sluggingPercentage": 0.289,
+        "ops": 0.622,
+        "atBats": 38,
+        "runs": 7,
+        "hits": 7,
+        "doubles": 1,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 4,
+        "totalBases": 11,
+        "walks": 7,
+        "hitByPitch": 2,
+        "strikeouts": 13,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 4,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 1,
+        "putouts": 13,
+        "assists": 1,
+        "errors": 0,
+        "plateAppearances": 54,
+        "caughtStealing": 1,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11898",
+        "name": "Zaid Diaz",
+        "normalizedName": "zaid diaz",
+        "jersey": "14",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/zaid-diaz/11898",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/14_Diaz_Zaid_t9pOi.jpg",
+        "gamesPlayed": 9,
+        "gamesStarted": 7,
+        "putouts": 13,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 14
+      },
+      "evaluation": {
+        "score": 15,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 29.44444444444444,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 37.606837606837594,
+          "Speed": 0
+        },
+        "summary": "Zaid Diaz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .184",
+          "OBP .333",
+          "SLG .289"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".184"
+          },
+          {
+            "label": "OBP",
+            "value": ".333"
+          },
+          {
+            "label": "SLG",
+            "value": ".289"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "4"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "L/L",
+          "Hitter"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11899",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Tommy Egan",
+      "normalizedName": "tommy egan",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "15",
+      "hometown": "Chicago, Ill.",
+      "highSchool": "Mt. Carmel HS",
+      "previousSchool": "Illinois-Chicago",
+      "hometownHighSchool": "Chicago, Ill. / Mt. Carmel HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/tommy-egan/11899",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/15_Egan_1tmFW.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11899",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "11899",
+        "name": "Tommy Egan",
+        "normalizedName": "tommy egan",
+        "jersey": "15",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/tommy-egan/11899",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/15_Egan_1tmFW.jpg",
+        "gamesPlayed": 9,
+        "gamesStarted": 9,
+        "appearances": 9,
+        "gamesCompleted": 1,
+        "earnedRunAverage": 4.34,
+        "whip": 1.2,
+        "wins": 4,
+        "losses": 1,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 47.666666666666664,
+        "inningsPitchedDisplay": "47.2",
+        "hitsAllowed": 44,
+        "runsAllowed": 26,
+        "earnedRunsAllowed": 23,
+        "walksAllowed": 13,
+        "strikeouts": 63,
+        "doublesAllowed": 9,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 180,
+        "wildPitches": 3,
+        "hitBatters": 8,
+        "balks": 1,
+        "opponentsBattingAverage": 0.244,
+        "walksHits": 57
+      },
+      "fieldingStats": {
+        "rosterBioId": "11899",
+        "name": "Tommy Egan",
+        "normalizedName": "tommy egan",
+        "jersey": "15",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/tommy-egan/11899",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/15_Egan_1tmFW.jpg",
+        "gamesPlayed": 6,
+        "gamesStarted": 6,
+        "putouts": 2,
+        "assists": 3,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 1,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 5
+      },
+      "evaluation": {
+        "score": 27,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 71.77368086458995,
+          "Command": 76.92307692307692,
+          "Damage suppression": 0
+        },
+        "summary": "Tommy Egan looks like a RHP option who misses bats and throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 4.34",
+          "WHIP 1.20",
+          "K/9 11.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.34"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.20"
+          },
+          {
+            "label": "K/9",
+            "value": "11.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.57"
+          },
+          {
+            "label": "IP",
+            "value": "47.7"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11900",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Hayden Smith",
+      "normalizedName": "hayden smith",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "L/L",
+      "jersey": "16",
+      "hometown": "Nicholasville, Ky.",
+      "highSchool": "West Jessamine HS",
+      "previousSchool": "Kentucky",
+      "hometownHighSchool": "Nicholasville, Ky. / West Jessamine HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/hayden-smith/11900",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/16_Smith_Hayden_o6x20.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11900",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "11900",
+        "name": "Hayden Smith",
+        "normalizedName": "hayden smith",
+        "jersey": "16",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/hayden-smith/11900",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/16_Smith_Hayden_o6x20.jpg",
+        "gamesPlayed": 9,
+        "gamesStarted": 0,
+        "appearances": 9,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 4.4,
+        "whip": 1.53,
+        "wins": 1,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 14.333333333333334,
+        "inningsPitchedDisplay": "14.1",
+        "hitsAllowed": 14,
+        "runsAllowed": 7,
+        "earnedRunsAllowed": 7,
+        "walksAllowed": 8,
+        "strikeouts": 12,
+        "doublesAllowed": 1,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 55,
+        "wildPitches": 2,
+        "hitBatters": 4,
+        "balks": 0,
+        "opponentsBattingAverage": 0.255,
+        "walksHits": 22
+      },
+      "fieldingStats": {
+        "rosterBioId": "11900",
+        "name": "Hayden Smith",
+        "normalizedName": "hayden smith",
+        "jersey": "16",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/hayden-smith/11900",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/16_Smith_Hayden_o6x20.jpg",
+        "gamesPlayed": 2,
+        "gamesStarted": 0,
+        "putouts": 1,
+        "assists": 0,
+        "errors": 1,
+        "fieldingPercentage": 0.5,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 2
+      },
+      "evaluation": {
+        "score": 8,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 32.13530655391121,
+          "Command": 10,
+          "Damage suppression": 0
+        },
+        "summary": "Hayden Smith gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 4.40",
+          "WHIP 1.53",
+          "K/9 7.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.40"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.53"
+          },
+          {
+            "label": "K/9",
+            "value": "7.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.26"
+          },
+          {
+            "label": "IP",
+            "value": "14.3"
+          }
+        ],
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11901",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Zach Crotchfelt",
+      "normalizedName": "zach crotchfelt",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "L/L",
+      "jersey": "17",
+      "hometown": "Jackson, N.J.",
+      "highSchool": "Jackson Memorial HS",
+      "previousSchool": "Texas Tech",
+      "hometownHighSchool": "Jackson, N.J. / Jackson Memorial HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/zach-crotchfelt/11901",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/17_Crotchfelt_Zach_LPbJq.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11901",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "11901",
+        "name": "Zach Crotchfelt",
+        "normalizedName": "zach crotchfelt",
+        "jersey": "17",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/zach-crotchfelt/11901",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/17_Crotchfelt_Zach_LPbJq.jpg",
+        "gamesPlayed": 15,
+        "gamesStarted": 0,
+        "appearances": 15,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 5.04,
+        "whip": 1.52,
+        "wins": 1,
+        "losses": 2,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 30.333333333333332,
+        "inningsPitchedDisplay": "30.1",
+        "hitsAllowed": 32,
+        "runsAllowed": 17,
+        "earnedRunsAllowed": 17,
+        "walksAllowed": 14,
+        "strikeouts": 38,
+        "doublesAllowed": 6,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 5,
+        "opponentsAtBats": 116,
+        "wildPitches": 1,
+        "hitBatters": 3,
+        "balks": 0,
+        "opponentsBattingAverage": 0.276,
+        "walksHits": 46
+      },
+      "fieldingStats": {
+        "rosterBioId": "11901",
+        "name": "Zach Crotchfelt",
+        "normalizedName": "zach crotchfelt",
+        "jersey": "17",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/zach-crotchfelt/11901",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/17_Crotchfelt_Zach_LPbJq.jpg",
+        "gamesPlayed": 6,
+        "gamesStarted": 0,
+        "putouts": 1,
+        "assists": 7,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 2,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 8
+      },
+      "evaluation": {
+        "score": 19,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 66.13386613386614,
+          "Command": 34.285714285714285,
+          "Damage suppression": 0
+        },
+        "summary": "Zach Crotchfelt looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 5.04",
+          "WHIP 1.52",
+          "K/9 11.3"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.04"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.52"
+          },
+          {
+            "label": "K/9",
+            "value": "11.3"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.48"
+          },
+          {
+            "label": "IP",
+            "value": "30.3"
+          }
+        ],
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11902",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Caden Reeves",
+      "normalizedName": "caden reeves",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "18",
+      "hometown": "Chapin, S.C.",
+      "highSchool": "Chapin HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Chapin, S.C. / Chapin HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/caden-reeves/11902",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/18_Reeves_9wI8A.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11902",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11902",
+        "name": "Caden Reeves",
+        "normalizedName": "caden reeves",
+        "jersey": "18",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/caden-reeves/11902",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/18_Reeves_9wI8A.jpg",
+        "gamesPlayed": 12,
+        "gamesStarted": 8,
+        "battingAverage": 0.115,
+        "onBasePercentage": 0.281,
+        "sluggingPercentage": 0.385,
+        "ops": 0.666,
+        "atBats": 26,
+        "runs": 4,
+        "hits": 3,
+        "doubles": 1,
+        "triples": 0,
+        "homeRuns": 2,
+        "runsBattedIn": 7,
+        "totalBases": 10,
+        "walks": 4,
+        "hitByPitch": 2,
+        "strikeouts": 14,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 2,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 66,
+        "assists": 3,
+        "errors": 1,
+        "plateAppearances": 32,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11902",
+        "name": "Caden Reeves",
+        "normalizedName": "caden reeves",
+        "jersey": "18",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/caden-reeves/11902",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/18_Reeves_9wI8A.jpg",
+        "gamesPlayed": 9,
+        "gamesStarted": 7,
+        "putouts": 66,
+        "assists": 3,
+        "errors": 1,
+        "fieldingPercentage": 0.986,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 7,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": 0.875,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 70
+      },
+      "evaluation": {
+        "score": 6,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0.5555555555555561,
+          "Power": 17.10526315789474,
+          "Contact": 0,
+          "Discipline": 9.523809523809518,
+          "Speed": 0
+        },
+        "summary": "Caden Reeves gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .115",
+          "OBP .281",
+          "SLG .385"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".115"
+          },
+          {
+            "label": "OBP",
+            "value": ".281"
+          },
+          {
+            "label": "SLG",
+            "value": ".385"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "7"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "C",
+          "FR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11904",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Blake Dean",
+      "normalizedName": "blake dean",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "21",
+      "hometown": "Acworth, Ga.",
+      "highSchool": "North Cobb Christian",
+      "previousSchool": "Kansas State",
+      "hometownHighSchool": "Acworth, Ga. / North Cobb Christian",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/blake-dean/11904",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/21_Dean_0jOb9.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11904",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "11904",
+        "name": "Blake Dean",
+        "normalizedName": "blake dean",
+        "jersey": "21",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/blake-dean/11904",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/21_Dean_0jOb9.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 1,
+        "appearances": 7,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 12.91,
+        "whip": 2.35,
+        "wins": 1,
+        "losses": 1,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 7.666666666666667,
+        "inningsPitchedDisplay": "7.2",
+        "hitsAllowed": 11,
+        "runsAllowed": 11,
+        "earnedRunsAllowed": 11,
+        "walksAllowed": 7,
+        "strikeouts": 15,
+        "doublesAllowed": 3,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 33,
+        "wildPitches": 0,
+        "hitBatters": 4,
+        "balks": 0,
+        "opponentsBattingAverage": 0.333,
+        "walksHits": 18
+      },
+      "fieldingStats": {
+        "rosterBioId": "11904",
+        "name": "Blake Dean",
+        "normalizedName": "blake dean",
+        "jersey": "21",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/blake-dean/11904",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/21_Dean_0jOb9.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 1,
+        "putouts": 0,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 0,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 1,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 0
+      },
+      "evaluation": {
+        "score": 24,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 100,
+          "Command": 22.857142857142858,
+          "Damage suppression": 0
+        },
+        "summary": "Blake Dean looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 12.91",
+          "WHIP 2.35",
+          "K/9 17.6"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "12.91"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.35"
+          },
+          {
+            "label": "K/9",
+            "value": "17.6"
+          },
+          {
+            "label": "BB/9",
+            "value": "8.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "2.35"
+          },
+          {
+            "label": "IP",
+            "value": "7.7"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11905",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Drew Nelson",
+      "normalizedName": "drew nelson",
+      "compositeRole": "Two-Way",
+      "role": "Pitcher",
+      "position": "LHP/UTL",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "L/L",
+      "jersey": "22",
+      "hometown": "Troy, Ala.",
+      "highSchool": "Pike Liberal Arts School",
+      "previousSchool": "Auburn",
+      "hometownHighSchool": "Troy, Ala. / Pike Liberal Arts School",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/drew-nelson/11905",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/22_Nelson_Drew_jNEBG.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11905",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11905",
+        "name": "Drew Nelson",
+        "normalizedName": "drew nelson",
+        "jersey": "22",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/drew-nelson/11905",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/22_Nelson_Drew_jNEBG.jpg",
+        "gamesPlayed": 37,
+        "gamesStarted": 36,
+        "battingAverage": 0.328,
+        "onBasePercentage": 0.399,
+        "sluggingPercentage": 0.45,
+        "ops": 0.849,
+        "atBats": 131,
+        "runs": 26,
+        "hits": 43,
+        "doubles": 11,
+        "triples": 1,
+        "homeRuns": 1,
+        "runsBattedIn": 19,
+        "totalBases": 59,
+        "walks": 16,
+        "hitByPitch": 2,
+        "strikeouts": 28,
+        "intentionalWalks": 2,
+        "groundedIntoDoublePlay": 2,
+        "sacrificeFlies": 4,
+        "sacrificeHits": 1,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 1,
+        "putouts": 57,
+        "assists": 2,
+        "errors": 1,
+        "plateAppearances": 155,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": {
+        "rosterBioId": "11905",
+        "name": "Drew Nelson",
+        "normalizedName": "drew nelson",
+        "jersey": "22",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/drew-nelson/11905",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/22_Nelson_Drew_jNEBG.jpg",
+        "gamesPlayed": 5,
+        "gamesStarted": 1,
+        "appearances": 5,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 2.08,
+        "whip": 0.92,
+        "wins": 1,
+        "losses": 1,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 8.666666666666666,
+        "inningsPitchedDisplay": "8.2",
+        "hitsAllowed": 5,
+        "runsAllowed": 2,
+        "earnedRunsAllowed": 2,
+        "walksAllowed": 3,
+        "strikeouts": 13,
+        "doublesAllowed": 1,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 31,
+        "wildPitches": 1,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.161,
+        "walksHits": 8
+      },
+      "fieldingStats": {
+        "rosterBioId": "11905",
+        "name": "Drew Nelson",
+        "normalizedName": "drew nelson",
+        "jersey": "22",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/drew-nelson/11905",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/22_Nelson_Drew_jNEBG.jpg",
+        "gamesPlayed": 26,
+        "gamesStarted": 26,
+        "putouts": 57,
+        "assists": 2,
+        "errors": 1,
+        "fieldingPercentage": 0.983,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 60
+      },
+      "evaluation": {
+        "score": 28,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 86.36363636363637,
+          "Command": 66.66666666666667,
+          "Damage suppression": 0
+        },
+        "summary": "Drew Nelson looks like a LHP/UTL option who limits runs and misses bats and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 2.08",
+          "WHIP 0.92",
+          "K/9 13.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "2.08"
+          },
+          {
+            "label": "WHIP",
+            "value": "0.92"
+          },
+          {
+            "label": "K/9",
+            "value": "13.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.1"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "8.7"
+          }
+        ],
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "LHP/UTL",
+          "SR",
+          "L/L",
+          "Two-Way"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11906",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Houston Markham",
+      "normalizedName": "houston markham",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "L/R",
+      "jersey": "23",
+      "hometown": "Pike Road, Ala.",
+      "highSchool": "Pike Road HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Pike Road, Ala. / Pike Road HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/houston-markham/11906",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/23_Markham_Houston_BA3j8.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11906",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11906",
+        "name": "Houston Markham",
+        "normalizedName": "houston markham",
+        "jersey": "23",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/houston-markham/11906",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/23_Markham_Houston_BA3j8.jpg",
+        "gamesPlayed": 24,
+        "gamesStarted": 8,
+        "battingAverage": 0.298,
+        "onBasePercentage": 0.346,
+        "sluggingPercentage": 0.362,
+        "ops": 0.708,
+        "atBats": 47,
+        "runs": 11,
+        "hits": 14,
+        "doubles": 3,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 4,
+        "totalBases": 17,
+        "walks": 1,
+        "hitByPitch": 3,
+        "strikeouts": 11,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 1,
+        "stolenBases": 3,
+        "stolenBasesAttempts": 4,
+        "putouts": 13,
+        "assists": 0,
+        "errors": 1,
+        "plateAppearances": 58,
+        "caughtStealing": 1,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11906",
+        "name": "Houston Markham",
+        "normalizedName": "houston markham",
+        "jersey": "23",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/houston-markham/11906",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/23_Markham_Houston_BA3j8.jpg",
+        "gamesPlayed": 8,
+        "gamesStarted": 5,
+        "putouts": 13,
+        "assists": 0,
+        "errors": 1,
+        "fieldingPercentage": 0.929,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 14
+      },
+      "evaluation": {
+        "score": 24,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 36.666666666666636,
+          "Power": 11.052631578947365,
+          "Contact": 48.749999999999986,
+          "Discipline": 0,
+          "Speed": 10
+        },
+        "summary": "Houston Markham gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .298",
+          "OBP .346",
+          "SLG .362"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".298"
+          },
+          {
+            "label": "OBP",
+            "value": ".346"
+          },
+          {
+            "label": "SLG",
+            "value": ".362"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "4"
+          },
+          {
+            "label": "SB",
+            "value": "3"
+          }
+        ],
+        "metaLine": "SO / L/R",
+        "detailBadges": [
+          "OF",
+          "SO",
+          "L/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11907",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Matt Dill",
+      "normalizedName": "matt dill",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "26",
+      "hometown": "Dayton, Tenn.",
+      "highSchool": "Baylor School",
+      "previousSchool": "",
+      "hometownHighSchool": "Dayton, Tenn. / Baylor School",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/matt-dill/11907",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/26_Dill_Matt_g2Rao.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11907",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "11907",
+        "name": "Matt Dill",
+        "normalizedName": "matt dill",
+        "jersey": "26",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/matt-dill/11907",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/26_Dill_Matt_g2Rao.jpg",
+        "gamesPlayed": 10,
+        "gamesStarted": 5,
+        "appearances": 10,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 6.27,
+        "whip": 1.77,
+        "wins": 2,
+        "losses": 2,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 18.666666666666668,
+        "inningsPitchedDisplay": "18.2",
+        "hitsAllowed": 25,
+        "runsAllowed": 15,
+        "earnedRunsAllowed": 13,
+        "walksAllowed": 8,
+        "strikeouts": 14,
+        "doublesAllowed": 4,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 79,
+        "wildPitches": 0,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.316,
+        "walksHits": 33
+      },
+      "fieldingStats": {
+        "rosterBioId": "11907",
+        "name": "Matt Dill",
+        "normalizedName": "matt dill",
+        "jersey": "26",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/matt-dill/11907",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/26_Dill_Matt_g2Rao.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 3,
+        "putouts": 0,
+        "assists": 4,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 4
+      },
+      "evaluation": {
+        "score": 7,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 25,
+          "Command": 15.000000000000005,
+          "Damage suppression": 0
+        },
+        "summary": "Matt Dill gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 6.27",
+          "WHIP 1.77",
+          "K/9 6.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.27"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.77"
+          },
+          {
+            "label": "K/9",
+            "value": "6.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.9"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.96"
+          },
+          {
+            "label": "IP",
+            "value": "18.7"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11908",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Dylan Alonso",
+      "normalizedName": "dylan alonso",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "27",
+      "hometown": "Tiger, Ga.",
+      "highSchool": "Rabun Gap-Nacoochee School",
+      "previousSchool": "Columbia State CC",
+      "hometownHighSchool": "Tiger, Ga. / Rabun Gap-Nacoochee School",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/dylan-alonso/11908",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/27_Alonso_BIik3.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11908",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "11908",
+        "name": "Dylan Alonso",
+        "normalizedName": "dylan alonso",
+        "jersey": "27",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/dylan-alonso/11908",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/27_Alonso_BIik3.jpg",
+        "gamesPlayed": 14,
+        "gamesStarted": 3,
+        "appearances": 14,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 5.68,
+        "whip": 1.58,
+        "wins": 3,
+        "losses": 3,
+        "saves": 5,
+        "shutouts": 0,
+        "inningsPitched": 25.333333333333332,
+        "inningsPitchedDisplay": "25.1",
+        "hitsAllowed": 26,
+        "runsAllowed": 22,
+        "earnedRunsAllowed": 16,
+        "walksAllowed": 14,
+        "strikeouts": 30,
+        "doublesAllowed": 4,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 4,
+        "opponentsAtBats": 98,
+        "wildPitches": 6,
+        "hitBatters": 3,
+        "balks": 0,
+        "opponentsBattingAverage": 0.265,
+        "walksHits": 40
+      },
+      "fieldingStats": {
+        "rosterBioId": "11908",
+        "name": "Dylan Alonso",
+        "normalizedName": "dylan alonso",
+        "jersey": "27",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/dylan-alonso/11908",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/27_Alonso_BIik3.jpg",
+        "gamesPlayed": 2,
+        "gamesStarted": 1,
+        "putouts": 0,
+        "assists": 2,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 2
+      },
+      "evaluation": {
+        "score": 16,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 60.52631578947369,
+          "Command": 22.857142857142858,
+          "Damage suppression": 0
+        },
+        "summary": "Dylan Alonso looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 5.68",
+          "WHIP 1.58",
+          "K/9 10.7"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.68"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.58"
+          },
+          {
+            "label": "K/9",
+            "value": "10.7"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.42"
+          },
+          {
+            "label": "IP",
+            "value": "25.3"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11909",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Jackson Lucas",
+      "normalizedName": "jackson lucas",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "L/L",
+      "jersey": "28",
+      "hometown": "Osprey, Fla.",
+      "highSchool": "Venice HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Osprey, Fla. / Venice HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/jackson-lucas/11909",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/28_Lucas_Jackson_iJcwl.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11909",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "11909",
+        "name": "Jackson Lucas",
+        "normalizedName": "jackson lucas",
+        "jersey": "28",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/jackson-lucas/11909",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/28_Lucas_Jackson_iJcwl.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 0,
+        "appearances": 7,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 6,
+        "whip": 1.5,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 6,
+        "inningsPitchedDisplay": "6.0",
+        "hitsAllowed": 6,
+        "runsAllowed": 5,
+        "earnedRunsAllowed": 4,
+        "walksAllowed": 3,
+        "strikeouts": 9,
+        "doublesAllowed": 2,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 23,
+        "wildPitches": 0,
+        "hitBatters": 3,
+        "balks": 0,
+        "opponentsBattingAverage": 0.261,
+        "walksHits": 9
+      },
+      "fieldingStats": {
+        "rosterBioId": "11909",
+        "name": "Jackson Lucas",
+        "normalizedName": "jackson lucas",
+        "jersey": "28",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/jackson-lucas/11909",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/28_Lucas_Jackson_iJcwl.jpg",
+        "gamesPlayed": 2,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 0,
+        "errors": 2,
+        "fieldingPercentage": 0,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 2
+      },
+      "evaluation": {
+        "score": 24,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 86.36363636363636,
+          "Command": 40,
+          "Damage suppression": 0
+        },
+        "summary": "Jackson Lucas looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 6.00",
+          "WHIP 1.50",
+          "K/9 13.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.50"
+          },
+          {
+            "label": "K/9",
+            "value": "13.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.50"
+          },
+          {
+            "label": "IP",
+            "value": "6.0"
+          }
+        ],
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11910",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Dylan King",
+      "normalizedName": "dylan king",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "29",
+      "hometown": "Leola, Pa.",
+      "highSchool": "Manheim Township HS",
+      "previousSchool": "Dyersburg State CC",
+      "hometownHighSchool": "Leola, Pa. / Manheim Township HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/dylan-king/11910",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/29_King_GiSUb.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11910",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "11910",
+        "name": "Dylan King",
+        "normalizedName": "dylan king",
+        "jersey": "29",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/dylan-king/11910",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/29_King_GiSUb.jpg",
+        "gamesPlayed": 6,
+        "gamesStarted": 0,
+        "appearances": 6,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 10.8,
+        "whip": 2.4,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 5,
+        "inningsPitchedDisplay": "5.0",
+        "hitsAllowed": 6,
+        "runsAllowed": 6,
+        "earnedRunsAllowed": 6,
+        "walksAllowed": 6,
+        "strikeouts": 5,
+        "doublesAllowed": 2,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 19,
+        "wildPitches": 1,
+        "hitBatters": 1,
+        "balks": 0,
+        "opponentsBattingAverage": 0.316,
+        "walksHits": 12
+      },
+      "fieldingStats": {
+        "rosterBioId": "11910",
+        "name": "Dylan King",
+        "normalizedName": "dylan king",
+        "jersey": "29",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/dylan-king/11910",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/29_King_GiSUb.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 0,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 1,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 0
+      },
+      "evaluation": {
+        "score": 9,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 45.45454545454545,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Dylan King looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 10.80",
+          "WHIP 2.40",
+          "K/9 9.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "10.80"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.40"
+          },
+          {
+            "label": "K/9",
+            "value": "9.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "10.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "3.60"
+          },
+          {
+            "label": "IP",
+            "value": "5.0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11911",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Cooper Ellingworth",
+      "normalizedName": "cooper ellingworth",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "30",
+      "hometown": "Orlando, Fla.",
+      "highSchool": "Boone HS",
+      "previousSchool": "USC Upstate",
+      "hometownHighSchool": "Orlando, Fla. / Boone HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/cooper-ellingworth/11911",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/30_Ellingworth_Cooper_mBvbF.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11911",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "11911",
+        "name": "Cooper Ellingworth",
+        "normalizedName": "cooper ellingworth",
+        "jersey": "30",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/cooper-ellingworth/11911",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/30_Ellingworth_Cooper_mBvbF.jpg",
+        "gamesPlayed": 17,
+        "gamesStarted": 0,
+        "appearances": 17,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 5.93,
+        "whip": 1.65,
+        "wins": 1,
+        "losses": 3,
+        "saves": 3,
+        "shutouts": 0,
+        "inningsPitched": 27.333333333333332,
+        "inningsPitchedDisplay": "27.1",
+        "hitsAllowed": 31,
+        "runsAllowed": 18,
+        "earnedRunsAllowed": 18,
+        "walksAllowed": 14,
+        "strikeouts": 30,
+        "doublesAllowed": 8,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 5,
+        "opponentsAtBats": 108,
+        "wildPitches": 3,
+        "hitBatters": 4,
+        "balks": 0,
+        "opponentsBattingAverage": 0.287,
+        "walksHits": 45
+      },
+      "fieldingStats": {
+        "rosterBioId": "11911",
+        "name": "Cooper Ellingworth",
+        "normalizedName": "cooper ellingworth",
+        "jersey": "30",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/cooper-ellingworth/11911",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/30_Ellingworth_Cooper_mBvbF.jpg",
+        "gamesPlayed": 5,
+        "gamesStarted": 0,
+        "putouts": 1,
+        "assists": 2,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 1,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": 0.5,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 3
+      },
+      "evaluation": {
+        "score": 14,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 53.43680709534369,
+          "Command": 22.857142857142858,
+          "Damage suppression": 0
+        },
+        "summary": "Cooper Ellingworth looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 5.93",
+          "WHIP 1.65",
+          "K/9 9.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.93"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.65"
+          },
+          {
+            "label": "K/9",
+            "value": "9.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.6"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.65"
+          },
+          {
+            "label": "IP",
+            "value": "27.3"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11912",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Benjamin Stubbs",
+      "normalizedName": "benjamin stubbs",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "L/L",
+      "jersey": "31",
+      "hometown": "Macon, Ga.",
+      "highSchool": "Tattnall Square Academy",
+      "previousSchool": "Flagler",
+      "hometownHighSchool": "Macon, Ga. / Tattnall Square Academy",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/benjamin-stubbs/11912",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/31_Stubbs_Ben.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11912",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "11912",
+        "name": "Benjamin Stubbs",
+        "normalizedName": "benjamin stubbs",
+        "jersey": "31",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/benjamin-stubbs/11912",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/31_Stubbs_Ben.jpg",
+        "gamesPlayed": 9,
+        "gamesStarted": 9,
+        "appearances": 9,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 3.12,
+        "whip": 1.12,
+        "wins": 3,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 49,
+        "inningsPitchedDisplay": "49.0",
+        "hitsAllowed": 41,
+        "runsAllowed": 19,
+        "earnedRunsAllowed": 17,
+        "walksAllowed": 14,
+        "strikeouts": 48,
+        "doublesAllowed": 4,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 5,
+        "opponentsAtBats": 186,
+        "wildPitches": 3,
+        "hitBatters": 3,
+        "balks": 0,
+        "opponentsBattingAverage": 0.22,
+        "walksHits": 55
+      },
+      "fieldingStats": {
+        "rosterBioId": "11912",
+        "name": "Benjamin Stubbs",
+        "normalizedName": "benjamin stubbs",
+        "jersey": "31",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/benjamin-stubbs/11912",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/31_Stubbs_Ben.jpg",
+        "gamesPlayed": 4,
+        "gamesStarted": 4,
+        "putouts": 1,
+        "assists": 4,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 5
+      },
+      "evaluation": {
+        "score": 17,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 43.78478664192949,
+          "Command": 48.57142857142856,
+          "Damage suppression": 0
+        },
+        "summary": "Benjamin Stubbs looks like a LHP option who limits runs and throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 3.12",
+          "WHIP 1.12",
+          "K/9 8.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.12"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.12"
+          },
+          {
+            "label": "K/9",
+            "value": "8.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.6"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.92"
+          },
+          {
+            "label": "IP",
+            "value": "49.0"
+          }
+        ],
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11913",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Josh Pyne",
+      "normalizedName": "josh pyne",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "R-SR",
+      "handedness": "R/R",
+      "jersey": "32",
+      "hometown": "Bloomfield, Ind.",
+      "highSchool": "Linton-Stockton HS",
+      "previousSchool": "Indiana",
+      "hometownHighSchool": "Bloomfield, Ind. / Linton-Stockton HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/josh-pyne/11913",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/32_Pyne_Josh_GTgga.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11913",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11913",
+        "name": "Josh Pyne",
+        "normalizedName": "josh pyne",
+        "jersey": "32",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/josh-pyne/11913",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/32_Pyne_Josh_GTgga.jpg",
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "battingAverage": 0.338,
+        "onBasePercentage": 0.408,
+        "sluggingPercentage": 0.532,
+        "ops": 0.94,
+        "atBats": 139,
+        "runs": 33,
+        "hits": 47,
+        "doubles": 15,
+        "triples": 0,
+        "homeRuns": 4,
+        "runsBattedIn": 22,
+        "totalBases": 74,
+        "walks": 13,
+        "hitByPitch": 4,
+        "strikeouts": 27,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 2,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 1,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 4,
+        "putouts": 14,
+        "assists": 43,
+        "errors": 5,
+        "plateAppearances": 165,
+        "caughtStealing": 3,
+        "pickedOff": 1
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11913",
+        "name": "Josh Pyne",
+        "normalizedName": "josh pyne",
+        "jersey": "32",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/josh-pyne/11913",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/32_Pyne_Josh_GTgga.jpg",
+        "gamesPlayed": 27,
+        "gamesStarted": 27,
+        "putouts": 14,
+        "assists": 43,
+        "errors": 5,
+        "fieldingPercentage": 0.919,
+        "doublePlays": 5,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 62
+      },
+      "evaluation": {
+        "score": 55,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "components": {
+          "On-base": 71.11111111111109,
+          "Power": 55.78947368421054,
+          "Contact": 73.75000000000001,
+          "Discipline": 31.275720164609044,
+          "Speed": 3.3333333333333335
+        },
+        "summary": "Josh Pyne profiles as a INF piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .338",
+          "OBP .408",
+          "SLG .532"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".338"
+          },
+          {
+            "label": "OBP",
+            "value": ".408"
+          },
+          {
+            "label": "SLG",
+            "value": ".532"
+          },
+          {
+            "label": "HR",
+            "value": "4"
+          },
+          {
+            "label": "RBI",
+            "value": "22"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "metaLine": "R-SR / R/R",
+        "detailBadges": [
+          "INF",
+          "R-SR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11914",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Ty McGraw",
+      "normalizedName": "ty mcgraw",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "R-FR",
+      "handedness": "L/R",
+      "jersey": "33",
+      "hometown": "Gardendale, Ala.",
+      "highSchool": "Gardendale HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Gardendale, Ala. / Gardendale HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/ty-mcgraw/11914",
+      "imageUrl": "https://troytrojans.com/images/2026/1/22/33_McGraw_Ty.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11914",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11914",
+        "name": "Ty McGraw",
+        "normalizedName": "ty mcgraw",
+        "jersey": "33",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/ty-mcgraw/11914",
+        "imageUrl": "https://troytrojans.com/images/2026/1/22/33_McGraw_Ty.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 1,
+        "battingAverage": 0.111,
+        "onBasePercentage": 0.273,
+        "sluggingPercentage": 0.111,
+        "ops": 0.384,
+        "atBats": 9,
+        "runs": 1,
+        "hits": 1,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 1,
+        "totalBases": 1,
+        "walks": 0,
+        "hitByPitch": 2,
+        "strikeouts": 5,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 2,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 11,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11914",
+        "name": "Ty McGraw",
+        "normalizedName": "ty mcgraw",
+        "jersey": "33",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/ty-mcgraw/11914",
+        "imageUrl": "https://troytrojans.com/images/2026/1/22/33_McGraw_Ty.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 2,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 2
+      },
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Ty McGraw gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .111",
+          "OBP .273",
+          "SLG .111"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".111"
+          },
+          {
+            "label": "OBP",
+            "value": ".273"
+          },
+          {
+            "label": "SLG",
+            "value": ".111"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "1"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "R-FR / L/R",
+        "detailBadges": [
+          "INF",
+          "R-FR",
+          "L/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11915",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Blake Cavill",
+      "normalizedName": "blake cavill",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "L/R",
+      "jersey": "34",
+      "hometown": "Sydney, Australia",
+      "highSchool": "Holsworthy HS",
+      "previousSchool": "Western Kentucky",
+      "hometownHighSchool": "Sydney, Australia / Holsworthy HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/blake-cavill/11915",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/34_Cavill_pkiLe.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11915",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11915",
+        "name": "Blake Cavill",
+        "normalizedName": "blake cavill",
+        "jersey": "34",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/blake-cavill/11915",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/34_Cavill_pkiLe.jpg",
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "battingAverage": 0.252,
+        "onBasePercentage": 0.422,
+        "sluggingPercentage": 0.386,
+        "ops": 0.808,
+        "atBats": 127,
+        "runs": 31,
+        "hits": 32,
+        "doubles": 5,
+        "triples": 0,
+        "homeRuns": 4,
+        "runsBattedIn": 21,
+        "totalBases": 49,
+        "walks": 27,
+        "hitByPitch": 11,
+        "strikeouts": 22,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 4,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 1,
+        "stolenBases": 2,
+        "stolenBasesAttempts": 2,
+        "putouts": 259,
+        "assists": 15,
+        "errors": 2,
+        "plateAppearances": 169,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11915",
+        "name": "Blake Cavill",
+        "normalizedName": "blake cavill",
+        "jersey": "34",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/blake-cavill/11915",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/34_Cavill_pkiLe.jpg",
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "putouts": 259,
+        "assists": 15,
+        "errors": 2,
+        "fieldingPercentage": 0.993,
+        "doublePlays": 24,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 276
+      },
+      "evaluation": {
+        "score": 48,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 78.88888888888886,
+          "Power": 17.368421052631582,
+          "Contact": 20,
+          "Discipline": 100,
+          "Speed": 6.666666666666667
+        },
+        "summary": "Blake Cavill profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .252",
+          "OBP .422",
+          "SLG .386"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".252"
+          },
+          {
+            "label": "OBP",
+            "value": ".422"
+          },
+          {
+            "label": "SLG",
+            "value": ".386"
+          },
+          {
+            "label": "HR",
+            "value": "4"
+          },
+          {
+            "label": "RBI",
+            "value": "21"
+          },
+          {
+            "label": "SB",
+            "value": "2"
+          }
+        ],
+        "metaLine": "SR / L/R",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "L/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11916",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Matteo Pare",
+      "normalizedName": "matteo pare",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "35",
+      "hometown": "LaSalle, Ontario",
+      "highSchool": "TNXL Academy",
+      "previousSchool": "Pensacola State College",
+      "hometownHighSchool": "LaSalle, Ontario / TNXL Academy",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/matteo-pare/11916",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/35_Pare_Matteo_QIQ4k.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11916",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "11916",
+        "name": "Matteo Pare",
+        "normalizedName": "matteo pare",
+        "jersey": "35",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/matteo-pare/11916",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/35_Pare_Matteo_QIQ4k.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 0,
+        "appearances": 3,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 27,
+        "whip": 4.13,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 2.6666666666666665,
+        "inningsPitchedDisplay": "2.2",
+        "hitsAllowed": 6,
+        "runsAllowed": 9,
+        "earnedRunsAllowed": 8,
+        "walksAllowed": 5,
+        "strikeouts": 3,
+        "doublesAllowed": 2,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 13,
+        "wildPitches": 0,
+        "hitBatters": 1,
+        "balks": 0,
+        "opponentsBattingAverage": 0.462,
+        "walksHits": 11
+      },
+      "fieldingStats": {
+        "rosterBioId": "11916",
+        "name": "Matteo Pare",
+        "normalizedName": "matteo pare",
+        "jersey": "35",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/matteo-pare/11916",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/35_Pare_Matteo_QIQ4k.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 0,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 2,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 0
+      },
+      "evaluation": {
+        "score": 11,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 55.68181818181818,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Matteo Pare looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 27.00",
+          "WHIP 4.13",
+          "K/9 10.1"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "27.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "4.13"
+          },
+          {
+            "label": "K/9",
+            "value": "10.1"
+          },
+          {
+            "label": "BB/9",
+            "value": "16.9"
+          },
+          {
+            "label": "HR/9",
+            "value": "6.75"
+          },
+          {
+            "label": "IP",
+            "value": "2.7"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11917",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Chase Cartron",
+      "normalizedName": "chase cartron",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "L/L",
+      "jersey": "36",
+      "hometown": "Huntsville, Ala.",
+      "highSchool": "Huntsville HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Huntsville, Ala. / Huntsville HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/chase-cartron/11917",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/36_Cartron_19XNE.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11917",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "11917",
+        "name": "Chase Cartron",
+        "normalizedName": "chase cartron",
+        "jersey": "36",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/chase-cartron/11917",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/36_Cartron_19XNE.jpg",
+        "gamesPlayed": 6,
+        "gamesStarted": 1,
+        "appearances": 6,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 7.2,
+        "whip": 1.8,
+        "wins": 0,
+        "losses": 1,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 5,
+        "inningsPitchedDisplay": "5.0",
+        "hitsAllowed": 4,
+        "runsAllowed": 4,
+        "earnedRunsAllowed": 4,
+        "walksAllowed": 5,
+        "strikeouts": 6,
+        "doublesAllowed": 1,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 17,
+        "wildPitches": 2,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.235,
+        "walksHits": 9
+      },
+      "fieldingStats": {
+        "rosterBioId": "11917",
+        "name": "Chase Cartron",
+        "normalizedName": "chase cartron",
+        "jersey": "36",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/chase-cartron/11917",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/36_Cartron_19XNE.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 1,
+        "putouts": 0,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 0,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 2,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 0
+      },
+      "evaluation": {
+        "score": 13,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 61.81818181818183,
+          "Command": 4.0000000000000036,
+          "Damage suppression": 0
+        },
+        "summary": "Chase Cartron looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 7.20",
+          "WHIP 1.80",
+          "K/9 10.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "7.20"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.80"
+          },
+          {
+            "label": "K/9",
+            "value": "10.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "9.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "5.0"
+          }
+        ],
+        "metaLine": "SO / L/L",
+        "detailBadges": [
+          "LHP",
+          "SO",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11918",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Sean Darnell",
+      "normalizedName": "sean darnell",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "L/R",
+      "jersey": "37",
+      "hometown": "Wetumpka, Ala.",
+      "highSchool": "Elmore County HS",
+      "previousSchool": "Wallace-Dothan CC",
+      "hometownHighSchool": "Wetumpka, Ala. / Elmore County HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/sean-darnell/11918",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/37_Darnell_Sean_mnR9F.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11918",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11918",
+        "name": "Sean Darnell",
+        "normalizedName": "sean darnell",
+        "jersey": "37",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/sean-darnell/11918",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/37_Darnell_Sean_mnR9F.jpg",
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "battingAverage": 0.264,
+        "onBasePercentage": 0.376,
+        "sluggingPercentage": 0.388,
+        "ops": 0.764,
+        "atBats": 129,
+        "runs": 24,
+        "hits": 34,
+        "doubles": 6,
+        "triples": 2,
+        "homeRuns": 2,
+        "runsBattedIn": 27,
+        "totalBases": 50,
+        "walks": 22,
+        "hitByPitch": 3,
+        "strikeouts": 32,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 3,
+        "sacrificeHits": 2,
+        "stolenBases": 4,
+        "stolenBasesAttempts": 4,
+        "putouts": 63,
+        "assists": 75,
+        "errors": 6,
+        "plateAppearances": 163,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11918",
+        "name": "Sean Darnell",
+        "normalizedName": "sean darnell",
+        "jersey": "37",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/sean-darnell/11918",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/37_Darnell_Sean_mnR9F.jpg",
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "putouts": 63,
+        "assists": 75,
+        "errors": 6,
+        "fieldingPercentage": 0.958,
+        "doublePlays": 20,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 144
+      },
+      "evaluation": {
+        "score": 36,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 53.33333333333332,
+          "Power": 17.894736842105267,
+          "Contact": 27.500000000000007,
+          "Discipline": 54.166666666666664,
+          "Speed": 13.333333333333334
+        },
+        "summary": "Sean Darnell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .264",
+          "OBP .376",
+          "SLG .388"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".264"
+          },
+          {
+            "label": "OBP",
+            "value": ".376"
+          },
+          {
+            "label": "SLG",
+            "value": ".388"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "27"
+          },
+          {
+            "label": "SB",
+            "value": "4"
+          }
+        ],
+        "metaLine": "SR / L/R",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "L/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11919",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Nate Criswell",
+      "normalizedName": "nate criswell",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "38",
+      "hometown": "Oakdale, Calif.",
+      "highSchool": "Oakdale HS",
+      "previousSchool": "Modesto JC",
+      "hometownHighSchool": "Oakdale, Calif. / Oakdale HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/nate-criswell/11919",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/38_Criswell_Nate_aqJIE.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11919",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "11919",
+        "name": "Nate Criswell",
+        "normalizedName": "nate criswell",
+        "jersey": "38",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/nate-criswell/11919",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/38_Criswell_Nate_aqJIE.jpg",
+        "gamesPlayed": 2,
+        "gamesStarted": 0,
+        "appearances": 2,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 4.5,
+        "whip": 1.5,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 2,
+        "inningsPitchedDisplay": "2.0",
+        "hitsAllowed": 2,
+        "runsAllowed": 1,
+        "earnedRunsAllowed": 1,
+        "walksAllowed": 1,
+        "strikeouts": 1,
+        "doublesAllowed": 0,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 8,
+        "wildPitches": 1,
+        "hitBatters": 0,
+        "balks": 0,
+        "opponentsBattingAverage": 0.25,
+        "walksHits": 3
+      },
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 1,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 4.545454545454546,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Nate Criswell gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 4.50",
+          "WHIP 1.50",
+          "K/9 4.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.50"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.50"
+          },
+          {
+            "label": "K/9",
+            "value": "4.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "2.0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11920",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Nico Azpilcueta",
+      "normalizedName": "nico azpilcueta",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF/OF",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "40",
+      "hometown": "Sherman Oaks, Calif.",
+      "highSchool": "Crespi Carmelite HS",
+      "previousSchool": "Stony Brook",
+      "hometownHighSchool": "Sherman Oaks, Calif. / Crespi Carmelite HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/nico-azpilcueta/11920",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/40_Azpilcueta_Nico_5T022.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11920",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11920",
+        "name": "Nico Azpilcueta",
+        "normalizedName": "nico azpilcueta",
+        "jersey": "40",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/nico-azpilcueta/11920",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/40_Azpilcueta_Nico_5T022.jpg",
+        "gamesPlayed": 14,
+        "gamesStarted": 8,
+        "battingAverage": 0.2,
+        "onBasePercentage": 0.25,
+        "sluggingPercentage": 0.4,
+        "ops": 0.65,
+        "atBats": 30,
+        "runs": 4,
+        "hits": 6,
+        "doubles": 3,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 5,
+        "totalBases": 12,
+        "walks": 1,
+        "hitByPitch": 1,
+        "strikeouts": 14,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 3,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 1,
+        "putouts": 4,
+        "assists": 1,
+        "errors": 0,
+        "plateAppearances": 33,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11920",
+        "name": "Nico Azpilcueta",
+        "normalizedName": "nico azpilcueta",
+        "jersey": "40",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/nico-azpilcueta/11920",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/40_Azpilcueta_Nico_5T022.jpg",
+        "gamesPlayed": 4,
+        "gamesStarted": 3,
+        "putouts": 4,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 5
+      },
+      "evaluation": {
+        "score": 6,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 21.052631578947377,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 3.3333333333333335
+        },
+        "summary": "Nico Azpilcueta gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .200",
+          "OBP .250",
+          "SLG .400"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".200"
+          },
+          {
+            "label": "OBP",
+            "value": ".250"
+          },
+          {
+            "label": "SLG",
+            "value": ".400"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "5"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "INF/OF",
+          "SR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11922",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Dillon Kuehl",
+      "normalizedName": "dillon kuehl",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "L/L",
+      "jersey": "44",
+      "hometown": "Urbandale, Iowa",
+      "highSchool": "Urbandale HS",
+      "previousSchool": "Des Moines Area CC",
+      "hometownHighSchool": "Urbandale, Iowa / Urbandale HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/dillon-kuehl/11922",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/44_Kuehl_Dillon_XWGdZ.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11922",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11922",
+        "name": "Dillon Kuehl",
+        "normalizedName": "dillon kuehl",
+        "jersey": "44",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/dillon-kuehl/11922",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/44_Kuehl_Dillon_XWGdZ.jpg",
+        "gamesPlayed": 11,
+        "gamesStarted": 4,
+        "battingAverage": 0.2,
+        "onBasePercentage": 0.478,
+        "sluggingPercentage": 0.2,
+        "ops": 0.678,
+        "atBats": 15,
+        "runs": 3,
+        "hits": 3,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 1,
+        "totalBases": 3,
+        "walks": 8,
+        "hitByPitch": 0,
+        "strikeouts": 5,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 1,
+        "putouts": 5,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 24,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11922",
+        "name": "Dillon Kuehl",
+        "normalizedName": "dillon kuehl",
+        "jersey": "44",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/dillon-kuehl/11922",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/44_Kuehl_Dillon_XWGdZ.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 2,
+        "putouts": 5,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 5
+      },
+      "evaluation": {
+        "score": 46,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 100,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 100,
+          "Speed": 3.3333333333333335
+        },
+        "summary": "Dillon Kuehl profiles as a OF piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .200",
+          "OBP .478",
+          "SLG .200"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".200"
+          },
+          {
+            "label": "OBP",
+            "value": ".478"
+          },
+          {
+            "label": "SLG",
+            "value": ".200"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "1"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "L/L",
+          "Hitter"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11921",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Judah Buckner",
+      "normalizedName": "judah buckner",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "45",
+      "hometown": "Starkville, Miss.",
+      "highSchool": "Starkville Christian",
+      "previousSchool": "West Alabama",
+      "hometownHighSchool": "Starkville, Miss. / Starkville Christian",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/judah-buckner/11921",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/45_Buckner_WKFsY.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11921",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "11921",
+        "name": "Judah Buckner",
+        "normalizedName": "judah buckner",
+        "jersey": "45",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/judah-buckner/11921",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/45_Buckner_WKFsY.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "appearances": 1,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 99,
+        "whip": 0,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 0,
+        "inningsPitchedDisplay": "0.0",
+        "hitsAllowed": 3,
+        "runsAllowed": 2,
+        "earnedRunsAllowed": 2,
+        "walksAllowed": 1,
+        "strikeouts": 0,
+        "doublesAllowed": 0,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 3,
+        "wildPitches": 1,
+        "hitBatters": 0,
+        "balks": 0,
+        "opponentsBattingAverage": 1,
+        "walksHits": 4
+      },
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Judah Buckner looks like a RHP option who throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 99.00",
+          "WHIP 0.00",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "99.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "0.00"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    },
+    {
+      "id": "troy-11923",
+      "schoolSlug": "troy",
+      "school": "Troy",
+      "schoolLongName": "Troy University",
+      "name": "Noah Thigpen",
+      "normalizedName": "noah thigpen",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "47",
+      "hometown": "Lake Park, Ga.",
+      "highSchool": "Lowndes HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Lake Park, Ga. / Lowndes HS",
+      "profileUrl": "https://troytrojans.com/sports/baseball/roster/noah-thigpen/11923",
+      "imageUrl": "https://troytrojans.com/images/2026/1/7/47_Thigpen_Noah_vbJqa.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11923",
+      "sources": [
+        "Troy Athletics roster",
+        "Troy cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "11923",
+        "name": "Noah Thigpen",
+        "normalizedName": "noah thigpen",
+        "jersey": "47",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/noah-thigpen/11923",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/47_Thigpen_Noah_vbJqa.jpg",
+        "gamesPlayed": 11,
+        "gamesStarted": 4,
+        "appearances": 11,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 6.62,
+        "whip": 1.47,
+        "wins": 0,
+        "losses": 4,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 34,
+        "inningsPitchedDisplay": "34.0",
+        "hitsAllowed": 35,
+        "runsAllowed": 28,
+        "earnedRunsAllowed": 25,
+        "walksAllowed": 15,
+        "strikeouts": 30,
+        "doublesAllowed": 6,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 10,
+        "opponentsAtBats": 128,
+        "wildPitches": 1,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.273,
+        "walksHits": 50
+      },
+      "fieldingStats": {
+        "rosterBioId": "11923",
+        "name": "Noah Thigpen",
+        "normalizedName": "noah thigpen",
+        "jersey": "47",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/noah-thigpen/11923",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/47_Thigpen_Noah_vbJqa.jpg",
+        "gamesPlayed": 5,
+        "gamesStarted": 3,
+        "putouts": 1,
+        "assists": 4,
+        "errors": 1,
+        "fieldingPercentage": 0.833,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 6
+      },
+      "evaluation": {
+        "score": 10,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 35.8288770053476,
+          "Command": 20,
+          "Damage suppression": 0
+        },
+        "summary": "Noah Thigpen gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 6.62",
+          "WHIP 1.47",
+          "K/9 7.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.62"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.47"
+          },
+          {
+            "label": "K/9",
+            "value": "7.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "2.65"
+          },
+          {
+            "label": "IP",
+            "value": "34.0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats"
+      }
+    }
+  ],
+  "playerBoard": {
+    "source": "Troy Athletics roster + cumulative stats / ESPN roster",
+    "note": "This Troy-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Troy's public ESPN roster feed did not line up cleanly with the current school-site roster.",
+    "totalPlayers": 36,
+    "roleCounts": {
+      "Hitter": 16,
+      "Pitcher": 20
+    },
+    "players": [
+      {
+        "id": "troy-11886",
+        "name": "Steven Meier",
+        "school": "Troy",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SR",
+        "handedness": "L/L",
+        "score": 53,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Steven Meier profiles as a OF piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .265",
+          "OBP .432",
+          "SLG .490"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".265"
+          },
+          {
+            "label": "OBP",
+            "value": ".432"
+          },
+          {
+            "label": "SLG",
+            "value": ".490"
+          },
+          {
+            "label": "HR",
+            "value": "5"
+          },
+          {
+            "label": "RBI",
+            "value": "24"
+          },
+          {
+            "label": "SB",
+            "value": "7"
+          }
+        ],
+        "components": {
+          "On-base": 84.44444444444443,
+          "Power": 44.73684210526316,
+          "Contact": 28.125000000000007,
+          "Discipline": 51.85185185185184,
+          "Speed": 23.333333333333332
+        },
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "L/L",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/steven-meier/11886",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11887",
+        "name": "Aaron Piasecki",
+        "school": "Troy",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SR",
+        "handedness": "L/R",
+        "score": 68,
+        "fit": {
+          "label": "Pursue",
+          "className": "fit-pursue"
+        },
+        "summary": "Aaron Piasecki profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .309",
+          "OBP .455",
+          "SLG .485"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".309"
+          },
+          {
+            "label": "OBP",
+            "value": ".455"
+          },
+          {
+            "label": "SLG",
+            "value": ".485"
+          },
+          {
+            "label": "HR",
+            "value": "5"
+          },
+          {
+            "label": "RBI",
+            "value": "22"
+          },
+          {
+            "label": "SB",
+            "value": "5"
+          }
+        ],
+        "components": {
+          "On-base": 97.22222222222221,
+          "Power": 43.42105263157895,
+          "Contact": 55.62499999999999,
+          "Discipline": 100,
+          "Speed": 16.666666666666664
+        },
+        "metaLine": "SR / L/R",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/aaron-piasecki/11887",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11888",
+        "name": "Cole Garner",
+        "school": "Troy",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cole Garner gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster"
+        ],
+        "sourceSummary": "Troy Athletics roster",
+        "schoolSlug": "troy",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/cole-garner/11888",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11889",
+        "name": "Nolan Book",
+        "school": "Troy",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 36,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nolan Book gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .280",
+          "OBP .397",
+          "SLG .380"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".280"
+          },
+          {
+            "label": "OBP",
+            "value": ".397"
+          },
+          {
+            "label": "SLG",
+            "value": ".380"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "20"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 65,
+          "Power": 15.789473684210527,
+          "Contact": 37.500000000000014,
+          "Discipline": 27.95698924731182,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/nolan-book/11889",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11890",
+        "name": "Jimmy Janicki",
+        "school": "Troy",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 68,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "summary": "Jimmy Janicki profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .340",
+          "OBP .418",
+          "SLG .639"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".340"
+          },
+          {
+            "label": "OBP",
+            "value": ".418"
+          },
+          {
+            "label": "SLG",
+            "value": ".639"
+          },
+          {
+            "label": "HR",
+            "value": "10"
+          },
+          {
+            "label": "RBI",
+            "value": "48"
+          },
+          {
+            "label": "SB",
+            "value": "2"
+          }
+        ],
+        "components": {
+          "On-base": 76.66666666666664,
+          "Power": 83.94736842105264,
+          "Contact": 75.00000000000001,
+          "Discipline": 50.42735042735041,
+          "Speed": 6.666666666666667
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "C",
+          "SO",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/jimmy-janicki/11890",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11891",
+        "name": "Brady Richardson",
+        "school": "Troy",
+        "role": "Pitcher",
+        "position": "INF/RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 7,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brady Richardson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 6.08",
+          "WHIP 1.43",
+          "K/9 6.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.08"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.43"
+          },
+          {
+            "label": "K/9",
+            "value": "6.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.67"
+          },
+          {
+            "label": "IP",
+            "value": "13.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 25,
+          "Command": 13.333333333333336,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF/RHP",
+          "FR",
+          "R/R",
+          "Two-Way"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Two-Way",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/brady-richardson/11891",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11892",
+        "name": "Gavin Schrader",
+        "school": "Troy",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SR",
+        "handedness": "L/L",
+        "score": 11,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Gavin Schrader gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .257",
+          "OBP .316",
+          "SLG .314"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".257"
+          },
+          {
+            "label": "OBP",
+            "value": ".316"
+          },
+          {
+            "label": "SLG",
+            "value": ".314"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "2"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 19.999999999999986,
+          "Power": 0,
+          "Contact": 23.125000000000004,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "L/L",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/gavin-schrader/11892",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11893",
+        "name": "Jabe Boroff",
+        "school": "Troy",
+        "role": "Hitter",
+        "position": "C/UTL",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jabe Boroff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .133",
+          "OBP .182",
+          "SLG .267"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".133"
+          },
+          {
+            "label": "OBP",
+            "value": ".182"
+          },
+          {
+            "label": "SLG",
+            "value": ".267"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "3"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C/UTL",
+          "JR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/jabe-boroff/11893",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11894",
+        "name": "Brock Tapper",
+        "school": "Troy",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SR",
+        "handedness": "L/L",
+        "score": 10,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brock Tapper looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 5.82",
+          "WHIP 2.29",
+          "K/9 9.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.82"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.29"
+          },
+          {
+            "label": "K/9",
+            "value": "9.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "8.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.06"
+          },
+          {
+            "label": "IP",
+            "value": "17.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 50.26737967914438,
+          "Command": 2.5,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/brock-tapper/11894",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11895",
+        "name": "Lucas Litteral",
+        "school": "Troy",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SR",
+        "handedness": "R/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Lucas Litteral looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/L",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "R/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster"
+        ],
+        "sourceSummary": "Troy Athletics roster",
+        "schoolSlug": "troy",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/lucas-litteral/11895",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11896",
+        "name": "Tate Farquhar",
+        "school": "Troy",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "L/R",
+        "score": 5,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Tate Farquhar gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 47.25",
+          "WHIP 6.75",
+          "K/9 6.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "47.25"
+          },
+          {
+            "label": "WHIP",
+            "value": "6.75"
+          },
+          {
+            "label": "K/9",
+            "value": "6.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "6.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "13.50"
+          },
+          {
+            "label": "IP",
+            "value": "1.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 25,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "L/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/tate-farquhar/11896",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11898",
+        "name": "Zaid Diaz",
+        "school": "Troy",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "JR",
+        "handedness": "L/L",
+        "score": 15,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Zaid Diaz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .184",
+          "OBP .333",
+          "SLG .289"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".184"
+          },
+          {
+            "label": "OBP",
+            "value": ".333"
+          },
+          {
+            "label": "SLG",
+            "value": ".289"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "4"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 29.44444444444444,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 37.606837606837594,
+          "Speed": 0
+        },
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "L/L",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/zaid-diaz/11898",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11899",
+        "name": "Tommy Egan",
+        "school": "Troy",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 27,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Tommy Egan looks like a RHP option who misses bats and throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 4.34",
+          "WHIP 1.20",
+          "K/9 11.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.34"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.20"
+          },
+          {
+            "label": "K/9",
+            "value": "11.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.57"
+          },
+          {
+            "label": "IP",
+            "value": "47.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 71.77368086458995,
+          "Command": 76.92307692307692,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/tommy-egan/11899",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11900",
+        "name": "Hayden Smith",
+        "school": "Troy",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "JR",
+        "handedness": "L/L",
+        "score": 8,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Hayden Smith gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 4.40",
+          "WHIP 1.53",
+          "K/9 7.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.40"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.53"
+          },
+          {
+            "label": "K/9",
+            "value": "7.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.26"
+          },
+          {
+            "label": "IP",
+            "value": "14.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 32.13530655391121,
+          "Command": 10,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/hayden-smith/11900",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11901",
+        "name": "Zach Crotchfelt",
+        "school": "Troy",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SR",
+        "handedness": "L/L",
+        "score": 19,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Zach Crotchfelt looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 5.04",
+          "WHIP 1.52",
+          "K/9 11.3"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.04"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.52"
+          },
+          {
+            "label": "K/9",
+            "value": "11.3"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.48"
+          },
+          {
+            "label": "IP",
+            "value": "30.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 66.13386613386614,
+          "Command": 34.285714285714285,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/zach-crotchfelt/11901",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11902",
+        "name": "Caden Reeves",
+        "school": "Troy",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 6,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Caden Reeves gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .115",
+          "OBP .281",
+          "SLG .385"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".115"
+          },
+          {
+            "label": "OBP",
+            "value": ".281"
+          },
+          {
+            "label": "SLG",
+            "value": ".385"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "7"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0.5555555555555561,
+          "Power": 17.10526315789474,
+          "Contact": 0,
+          "Discipline": 9.523809523809518,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "C",
+          "FR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/caden-reeves/11902",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11904",
+        "name": "Blake Dean",
+        "school": "Troy",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 24,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Blake Dean looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 12.91",
+          "WHIP 2.35",
+          "K/9 17.6"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "12.91"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.35"
+          },
+          {
+            "label": "K/9",
+            "value": "17.6"
+          },
+          {
+            "label": "BB/9",
+            "value": "8.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "2.35"
+          },
+          {
+            "label": "IP",
+            "value": "7.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 100,
+          "Command": 22.857142857142858,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/blake-dean/11904",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11905",
+        "name": "Drew Nelson",
+        "school": "Troy",
+        "role": "Pitcher",
+        "position": "LHP/UTL",
+        "classYear": "SR",
+        "handedness": "L/L",
+        "score": 28,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Drew Nelson looks like a LHP/UTL option who limits runs and misses bats and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 2.08",
+          "WHIP 0.92",
+          "K/9 13.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "2.08"
+          },
+          {
+            "label": "WHIP",
+            "value": "0.92"
+          },
+          {
+            "label": "K/9",
+            "value": "13.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.1"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "8.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 86.36363636363637,
+          "Command": 66.66666666666667,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "LHP/UTL",
+          "SR",
+          "L/L",
+          "Two-Way"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Two-Way",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/drew-nelson/11905",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11906",
+        "name": "Houston Markham",
+        "school": "Troy",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SO",
+        "handedness": "L/R",
+        "score": 24,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Houston Markham gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .298",
+          "OBP .346",
+          "SLG .362"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".298"
+          },
+          {
+            "label": "OBP",
+            "value": ".346"
+          },
+          {
+            "label": "SLG",
+            "value": ".362"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "4"
+          },
+          {
+            "label": "SB",
+            "value": "3"
+          }
+        ],
+        "components": {
+          "On-base": 36.666666666666636,
+          "Power": 11.052631578947365,
+          "Contact": 48.749999999999986,
+          "Discipline": 0,
+          "Speed": 10
+        },
+        "metaLine": "SO / L/R",
+        "detailBadges": [
+          "OF",
+          "SO",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/houston-markham/11906",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11907",
+        "name": "Matt Dill",
+        "school": "Troy",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 7,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matt Dill gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 6.27",
+          "WHIP 1.77",
+          "K/9 6.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.27"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.77"
+          },
+          {
+            "label": "K/9",
+            "value": "6.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.9"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.96"
+          },
+          {
+            "label": "IP",
+            "value": "18.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 25,
+          "Command": 15.000000000000005,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/matt-dill/11907",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11908",
+        "name": "Dylan Alonso",
+        "school": "Troy",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 16,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Dylan Alonso looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 5.68",
+          "WHIP 1.58",
+          "K/9 10.7"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.68"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.58"
+          },
+          {
+            "label": "K/9",
+            "value": "10.7"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.42"
+          },
+          {
+            "label": "IP",
+            "value": "25.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 60.52631578947369,
+          "Command": 22.857142857142858,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/dylan-alonso/11908",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11909",
+        "name": "Jackson Lucas",
+        "school": "Troy",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "L/L",
+        "score": 24,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jackson Lucas looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 6.00",
+          "WHIP 1.50",
+          "K/9 13.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.50"
+          },
+          {
+            "label": "K/9",
+            "value": "13.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.50"
+          },
+          {
+            "label": "IP",
+            "value": "6.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 86.36363636363636,
+          "Command": 40,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/jackson-lucas/11909",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11910",
+        "name": "Dylan King",
+        "school": "Troy",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 9,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Dylan King looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 10.80",
+          "WHIP 2.40",
+          "K/9 9.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "10.80"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.40"
+          },
+          {
+            "label": "K/9",
+            "value": "9.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "10.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "3.60"
+          },
+          {
+            "label": "IP",
+            "value": "5.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 45.45454545454545,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/dylan-king/11910",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11911",
+        "name": "Cooper Ellingworth",
+        "school": "Troy",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 14,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cooper Ellingworth looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 5.93",
+          "WHIP 1.65",
+          "K/9 9.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.93"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.65"
+          },
+          {
+            "label": "K/9",
+            "value": "9.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.6"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.65"
+          },
+          {
+            "label": "IP",
+            "value": "27.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 53.43680709534369,
+          "Command": 22.857142857142858,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/cooper-ellingworth/11911",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11912",
+        "name": "Benjamin Stubbs",
+        "school": "Troy",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SR",
+        "handedness": "L/L",
+        "score": 17,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Benjamin Stubbs looks like a LHP option who limits runs and throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 3.12",
+          "WHIP 1.12",
+          "K/9 8.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.12"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.12"
+          },
+          {
+            "label": "K/9",
+            "value": "8.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.6"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.92"
+          },
+          {
+            "label": "IP",
+            "value": "49.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 43.78478664192949,
+          "Command": 48.57142857142856,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/benjamin-stubbs/11912",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11913",
+        "name": "Josh Pyne",
+        "school": "Troy",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "R-SR",
+        "handedness": "R/R",
+        "score": 55,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "summary": "Josh Pyne profiles as a INF piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .338",
+          "OBP .408",
+          "SLG .532"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".338"
+          },
+          {
+            "label": "OBP",
+            "value": ".408"
+          },
+          {
+            "label": "SLG",
+            "value": ".532"
+          },
+          {
+            "label": "HR",
+            "value": "4"
+          },
+          {
+            "label": "RBI",
+            "value": "22"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 71.11111111111109,
+          "Power": 55.78947368421054,
+          "Contact": 73.75000000000001,
+          "Discipline": 31.275720164609044,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "R-SR / R/R",
+        "detailBadges": [
+          "INF",
+          "R-SR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/josh-pyne/11913",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11914",
+        "name": "Ty McGraw",
+        "school": "Troy",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "R-FR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ty McGraw gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .111",
+          "OBP .273",
+          "SLG .111"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".111"
+          },
+          {
+            "label": "OBP",
+            "value": ".273"
+          },
+          {
+            "label": "SLG",
+            "value": ".111"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "1"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "R-FR / L/R",
+        "detailBadges": [
+          "INF",
+          "R-FR",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/ty-mcgraw/11914",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11915",
+        "name": "Blake Cavill",
+        "school": "Troy",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SR",
+        "handedness": "L/R",
+        "score": 48,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Blake Cavill profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .252",
+          "OBP .422",
+          "SLG .386"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".252"
+          },
+          {
+            "label": "OBP",
+            "value": ".422"
+          },
+          {
+            "label": "SLG",
+            "value": ".386"
+          },
+          {
+            "label": "HR",
+            "value": "4"
+          },
+          {
+            "label": "RBI",
+            "value": "21"
+          },
+          {
+            "label": "SB",
+            "value": "2"
+          }
+        ],
+        "components": {
+          "On-base": 78.88888888888886,
+          "Power": 17.368421052631582,
+          "Contact": 20,
+          "Discipline": 100,
+          "Speed": 6.666666666666667
+        },
+        "metaLine": "SR / L/R",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/blake-cavill/11915",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11916",
+        "name": "Matteo Pare",
+        "school": "Troy",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 11,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matteo Pare looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 27.00",
+          "WHIP 4.13",
+          "K/9 10.1"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "27.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "4.13"
+          },
+          {
+            "label": "K/9",
+            "value": "10.1"
+          },
+          {
+            "label": "BB/9",
+            "value": "16.9"
+          },
+          {
+            "label": "HR/9",
+            "value": "6.75"
+          },
+          {
+            "label": "IP",
+            "value": "2.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 55.68181818181818,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/matteo-pare/11916",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11917",
+        "name": "Chase Cartron",
+        "school": "Troy",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SO",
+        "handedness": "L/L",
+        "score": 13,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Chase Cartron looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 7.20",
+          "WHIP 1.80",
+          "K/9 10.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "7.20"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.80"
+          },
+          {
+            "label": "K/9",
+            "value": "10.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "9.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "5.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 61.81818181818183,
+          "Command": 4.0000000000000036,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / L/L",
+        "detailBadges": [
+          "LHP",
+          "SO",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/chase-cartron/11917",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11918",
+        "name": "Sean Darnell",
+        "school": "Troy",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SR",
+        "handedness": "L/R",
+        "score": 36,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Sean Darnell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .264",
+          "OBP .376",
+          "SLG .388"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".264"
+          },
+          {
+            "label": "OBP",
+            "value": ".376"
+          },
+          {
+            "label": "SLG",
+            "value": ".388"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "27"
+          },
+          {
+            "label": "SB",
+            "value": "4"
+          }
+        ],
+        "components": {
+          "On-base": 53.33333333333332,
+          "Power": 17.894736842105267,
+          "Contact": 27.500000000000007,
+          "Discipline": 54.166666666666664,
+          "Speed": 13.333333333333334
+        },
+        "metaLine": "SR / L/R",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/sean-darnell/11918",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11919",
+        "name": "Nate Criswell",
+        "school": "Troy",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 1,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nate Criswell gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 4.50",
+          "WHIP 1.50",
+          "K/9 4.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.50"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.50"
+          },
+          {
+            "label": "K/9",
+            "value": "4.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "2.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 4.545454545454546,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/nate-criswell/11919",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11920",
+        "name": "Nico Azpilcueta",
+        "school": "Troy",
+        "role": "Hitter",
+        "position": "INF/OF",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 6,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nico Azpilcueta gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .200",
+          "OBP .250",
+          "SLG .400"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".200"
+          },
+          {
+            "label": "OBP",
+            "value": ".250"
+          },
+          {
+            "label": "SLG",
+            "value": ".400"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "5"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 21.052631578947377,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "INF/OF",
+          "SR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/nico-azpilcueta/11920",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11922",
+        "name": "Dillon Kuehl",
+        "school": "Troy",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SR",
+        "handedness": "L/L",
+        "score": 46,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Dillon Kuehl profiles as a OF piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .200",
+          "OBP .478",
+          "SLG .200"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".200"
+          },
+          {
+            "label": "OBP",
+            "value": ".478"
+          },
+          {
+            "label": "SLG",
+            "value": ".200"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "1"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 100,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 100,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "L/L",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/dillon-kuehl/11922",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11921",
+        "name": "Judah Buckner",
+        "school": "Troy",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Judah Buckner looks like a RHP option who throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 99.00",
+          "WHIP 0.00",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "99.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "0.00"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/judah-buckner/11921",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "troy-11923",
+        "name": "Noah Thigpen",
+        "school": "Troy",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 10,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Noah Thigpen gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 6.62",
+          "WHIP 1.47",
+          "K/9 7.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.62"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.47"
+          },
+          {
+            "label": "K/9",
+            "value": "7.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "2.65"
+          },
+          {
+            "label": "IP",
+            "value": "34.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 35.8288770053476,
+          "Command": 20,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Troy Athletics roster",
+          "Troy cumulative stats"
+        ],
+        "sourceSummary": "Troy Athletics roster + Troy cumulative stats",
+        "schoolSlug": "troy",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/noah-thigpen/11923",
+        "espnAthleteId": ""
+      }
+    ]
+  }
+};
+

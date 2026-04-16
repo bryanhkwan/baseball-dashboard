@@ -298,6 +298,7 @@ function buildBoxscorePoolHitter(player = {}) {
     ],
     components,
     sourceSummary: `NCAA season boxscore pool (${gamesLabel})`,
+    gamesTracked: Number(player.gamesTracked || 0),
     latestTrackedGame: {
       gameId: player.latestGameId || "",
       description: player.latestGameDescription || "",
@@ -378,6 +379,7 @@ function buildBoxscorePoolPitcher(player = {}) {
     ],
     components,
     sourceSummary: `NCAA season boxscore pool (${gamesLabel})`,
+    gamesTracked: Number(player.gamesTracked || 0),
     latestTrackedGame: {
       gameId: player.latestGameId || "",
       description: player.latestGameDescription || "",
@@ -630,6 +632,90 @@ function playerHasOfficialCumulativeStats(player = {}) {
   return labels.has("AVG") || labels.has("OBP") || labels.has("SLG");
 }
 
+/**
+ * Return an explicit coverage tier for the player so the UI can label
+ * official season stats differently from tracked-game / leaderboard rollups.
+ */
+function computePlayerCoverageTier(player = {}) {
+  const origins = player.boardOrigins || [];
+  const hasOfficial = origins.some((origin) => OFFICIAL_SCHOOL_STATS_ORIGINS.has(origin));
+  const hasBoxscore = origins.includes("NCAA boxscore pool");
+  const hasLeaderboard = origins.includes("National API board");
+
+  if (hasOfficial && playerHasOfficialCumulativeStats(player)) {
+    return "official-cumulative";
+  }
+  if (hasOfficial) {
+    return "official-roster";
+  }
+  if (hasBoxscore && hasLeaderboard) {
+    return "mixed-tracked";
+  }
+  if (hasBoxscore) {
+    return "boxscore-only";
+  }
+  if (hasLeaderboard) {
+    return "leaderboard-only";
+  }
+  return "unknown";
+}
+
+const COVERAGE_TIER_LABELS = {
+  "official-cumulative": "Official season stats",
+  "official-roster": "Official roster (no season stats)",
+  "boxscore-only": "Tracked games only",
+  "leaderboard-only": "Leaderboard only",
+  "mixed-tracked": "Tracked games + leaderboard",
+  unknown: "Unified coverage",
+};
+
+const COVERAGE_TIER_NOTES = {
+  "official-cumulative":
+    "Stats are pulled from the school's official cumulative season page and treated as authoritative.",
+  "official-roster":
+    "Only the school-site roster is available right now, so no season line is published yet.",
+  "boxscore-only":
+    "This player is only surfaced through NCAA boxscores we have tracked, so stats reflect tracked games and not the full official season line.",
+  "leaderboard-only":
+    "This player is only showing up in the national leaderboard feed, so the profile is based on leaderboard totals and not a school-site ingest.",
+  "mixed-tracked":
+    "Coverage is reconstructed from tracked NCAA boxscores and leaderboard rows, not a school-site cumulative stats ingest.",
+  unknown: "Unified coverage drawn from the available sources.",
+};
+
+function getCoverageTierLabel(tier = "unknown") {
+  return COVERAGE_TIER_LABELS[tier] || COVERAGE_TIER_LABELS.unknown;
+}
+
+function getCoverageTierNote(tier = "unknown") {
+  return COVERAGE_TIER_NOTES[tier] || COVERAGE_TIER_NOTES.unknown;
+}
+
+function getPrimaryStatSource(player = {}, tier = "unknown") {
+  const origins = player.boardOrigins || [];
+
+  if (tier === "official-cumulative" || tier === "official-roster") {
+    const officialOrigin = origins.find((origin) => OFFICIAL_SCHOOL_STATS_ORIGINS.has(origin));
+    return officialOrigin || "Official school-site ingest";
+  }
+
+  if (tier === "boxscore-only" || tier === "mixed-tracked") {
+    const trackedCount = Number(
+      player.latestTrackedGame?.gamesTracked || player.gamesTracked || 0,
+    );
+    if (trackedCount > 0) {
+      return `NCAA season boxscore (${trackedCount} tracked game${trackedCount === 1 ? "" : "s"})`;
+    }
+    return "NCAA season boxscore";
+  }
+
+  if (tier === "leaderboard-only") {
+    return "NCAA national leaderboard feed";
+  }
+
+  return origins[0] || "Unified player board";
+}
+
 function chooseMergePrimary(existing, incoming) {
   const existingOfficial = playerHasOfficialCumulativeStats(existing);
   const incomingOfficial = playerHasOfficialCumulativeStats(incoming);
@@ -706,13 +792,26 @@ function normalizeUnifiedFit(fit = {}) {
   };
 }
 
-function attachBoardOrigin(player, boardLabel) {
+function decoratePlayerCoverage(player = {}) {
+  const tier = computePlayerCoverageTier(player);
   return {
+    ...player,
+    coverageTier: tier,
+    coverageTierLabel: getCoverageTierLabel(tier),
+    coverageTierNote: getCoverageTierNote(tier),
+    primaryStatSource: getPrimaryStatSource(player, tier),
+    isOfficialStats: tier === "official-cumulative",
+  };
+}
+
+function attachBoardOrigin(player, boardLabel) {
+  const tagged = {
     ...player,
     fit: normalizeUnifiedFit(player.fit),
     boardOrigins: uniqueItems([...(player.boardOrigins || []), boardLabel]),
     sourcePlayerIds: uniqueItems([...(player.sourcePlayerIds || []), player.id]),
   };
+  return decoratePlayerCoverage(tagged);
 }
 
 function mergeUnifiedPlayers(existing, incoming) {
@@ -762,7 +861,7 @@ function mergeUnifiedPlayers(existing, incoming) {
     merged.sourceSummary = `Available on: ${merged.boardOrigins.join(" • ")}`;
   }
 
-  return merged;
+  return decoratePlayerCoverage(merged);
 }
 
 function summarizeUniverseSources(boardCounts = {}, nationalError = "") {
@@ -1112,6 +1211,8 @@ export function buildPlayerUniverse({ nationalPayload = null, nationalError = ""
   const sourcePayloads = getLocalPlayerSourcePayloads(datasets || {});
   const snapshotSource = datasets?.snapshotSource || "Embedded repository snapshots";
   const snapshotWarning = datasets?.snapshotWarning || "";
+  const snapshotFetchedAt = datasets?.snapshotFetchedAt || "";
+  const snapshotCacheBucket = datasets?.snapshotCacheBucket ?? null;
 
   if (nationalPayload?.players?.length) {
     sourcePayloads.push({
@@ -1198,6 +1299,8 @@ export function buildPlayerUniverse({ nationalPayload = null, nationalError = ""
     boardCoverage,
     note,
     snapshotSource,
+    snapshotFetchedAt,
+    snapshotCacheBucket,
     sourceSnapshots,
     schoolCoverage,
     players,
@@ -1260,6 +1363,13 @@ export function queryPlayerUniverse(universe, options = {}) {
     components: player.components,
     boardOrigins: player.boardOrigins,
     sourceSummary: player.sourceSummary,
+    coverageTier: player.coverageTier,
+    coverageTierLabel: player.coverageTierLabel,
+    coverageTierNote: player.coverageTierNote,
+    primaryStatSource: player.primaryStatSource,
+    isOfficialStats: player.isOfficialStats,
+    gamesTracked: player.gamesTracked,
+    latestTrackedGame: player.latestTrackedGame,
     profileUrl: player.profileUrl,
     imageUrl: player.imageUrl,
     latestGameImpact: player.latestGameImpact,

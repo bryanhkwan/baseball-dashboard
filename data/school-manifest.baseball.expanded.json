@@ -353,9 +353,9 @@
       "schoolSlug": "abilene-christian",
       "schoolName": "Abilene Christian",
       "schoolLongName": "Abilene Christian University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -391,7 +391,10 @@
           "Abilene Christian"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.885Z",
+      "schoolSiteBase": "https://acusports.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "air-force",
@@ -443,9 +446,9 @@
       "schoolSlug": "akron",
       "schoolName": "Akron",
       "schoolLongName": "University of Akron",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -480,7 +483,10 @@
           "Akron"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.886Z",
+      "schoolSiteBase": "https://gozips.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "alabama",
@@ -488,9 +494,9 @@
       "schoolSlug": "alabama",
       "schoolName": "Alabama",
       "schoolLongName": "University of Alabama",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -529,7 +535,10 @@
           "Alabama"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.886Z",
+      "schoolSiteBase": "https://rolltide.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "alabama-am",
@@ -1243,9 +1252,9 @@
       "schoolSlug": "baylor",
       "schoolName": "Baylor",
       "schoolLongName": "Baylor University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -1282,7 +1291,10 @@
           "Baylor"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.886Z",
+      "schoolSiteBase": "https://baylorbears.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "bellarmine",
@@ -1464,9 +1476,9 @@
       "schoolSlug": "boston-college",
       "schoolName": "Boston College",
       "schoolLongName": "Boston College",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -1506,7 +1518,10 @@
           "Boston College"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.886Z",
+      "schoolSiteBase": "https://bceagles.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "bowling-green",
@@ -1514,9 +1529,9 @@
       "schoolSlug": "bowling-green",
       "schoolName": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -1552,7 +1567,10 @@
           "Bowling Green"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.886Z",
+      "schoolSiteBase": "https://bgsufalcons.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "bradley",
@@ -1646,9 +1664,9 @@
       "schoolSlug": "brown",
       "schoolName": "Brown",
       "schoolLongName": "Brown University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -1679,7 +1697,10 @@
           "Brown"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.886Z",
+      "schoolSiteBase": "https://brownbears.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "bryant",
@@ -1731,9 +1752,9 @@
       "schoolSlug": "bucknell",
       "schoolName": "Bucknell",
       "schoolLongName": "Bucknell University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -1766,7 +1787,10 @@
           "Bucknell"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.886Z",
+      "schoolSiteBase": "https://bucknellbison.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "butler",
@@ -1915,9 +1939,9 @@
       "schoolSlug": "cal-poly",
       "schoolName": "Cal Poly",
       "schoolLongName": "Cal Poly",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -1953,7 +1977,10 @@
           "Cal Poly"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.886Z",
+      "schoolSiteBase": "https://gopoly.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "cal-st-fullerton",
@@ -2388,9 +2415,9 @@
       "schoolSlug": "charlotte",
       "schoolName": "Charlotte",
       "schoolLongName": "UNC Charlotte",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -2427,7 +2454,10 @@
           "Charlotte"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.886Z",
+      "schoolSiteBase": "https://charlotte49ers.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "cincinnati",
@@ -2687,9 +2717,9 @@
       "schoolSlug": "columbia",
       "schoolName": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "scoreboard"
@@ -2711,7 +2741,10 @@
         ],
         "lastSeenDate": "2026-04-14"
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.886Z",
+      "schoolSiteBase": "https://gocolumbialions.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "uconn",
@@ -2719,9 +2752,9 @@
       "schoolSlug": "uconn",
       "schoolName": "Connecticut",
       "schoolLongName": "University of Connecticut",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -2760,7 +2793,10 @@
           "UConn"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.886Z",
+      "schoolSiteBase": "https://uconnhuskies.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "coppin-st",
@@ -2842,9 +2878,9 @@
       "schoolSlug": "creighton",
       "schoolName": "Creighton",
       "schoolLongName": "Creighton University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "scoreboard"
@@ -2871,7 +2907,10 @@
         ],
         "lastSeenDate": "2026-04-14"
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.886Z",
+      "schoolSiteBase": "https://gocreighton.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "bakersfield",
@@ -2971,9 +3010,9 @@
       "schoolSlug": "dartmouth",
       "schoolName": "Dartmouth",
       "schoolLongName": "Dartmouth College",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -3003,7 +3042,10 @@
           "Dartmouth"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://dartmouthsports.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "davidson",
@@ -3011,9 +3053,9 @@
       "schoolSlug": "davidson",
       "schoolName": "Davidson",
       "schoolLongName": "Davidson College",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -3047,7 +3089,10 @@
           "Davidson"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://davidsonwildcats.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "dayton",
@@ -3102,9 +3147,9 @@
       "schoolSlug": "delaware",
       "schoolName": "Delaware",
       "schoolLongName": "University of Delaware",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "scoreboard"
@@ -3130,7 +3175,10 @@
         ],
         "lastSeenDate": "2026-04-14"
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://bluehens.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "delaware-st",
@@ -3181,9 +3229,9 @@
       "schoolSlug": "duke",
       "schoolName": "Duke",
       "schoolLongName": "Duke University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -3220,7 +3268,10 @@
           "Duke"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://goduke.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "east-carolina",
@@ -3228,9 +3279,9 @@
       "schoolSlug": "east-carolina",
       "schoolName": "East Carolina",
       "schoolLongName": "East Carolina University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -3268,7 +3319,10 @@
           "East Carolina"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://ecupirates.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "east-tenn-st",
@@ -3735,9 +3789,9 @@
       "schoolSlug": "florida",
       "schoolName": "Florida",
       "schoolLongName": "University of Florida",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -3776,7 +3830,10 @@
           "Florida"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://floridagators.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "florida-am",
@@ -4095,9 +4152,9 @@
       "schoolSlug": "george-washington",
       "schoolName": "George Washington",
       "schoolLongName": "George Washington University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -4131,7 +4188,10 @@
           "George Washington"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://gwsports.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "georgetown",
@@ -4187,9 +4247,9 @@
       "schoolSlug": "georgia",
       "schoolName": "Georgia",
       "schoolLongName": "University of Georgia",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -4231,7 +4291,10 @@
           "Georgia"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://georgiadogs.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "ga-southern",
@@ -4454,9 +4517,9 @@
       "schoolSlug": "grand-canyon",
       "schoolName": "Grand Canyon",
       "schoolLongName": "Grand Canyon University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "scoreboard"
@@ -4480,7 +4543,10 @@
         ],
         "lastSeenDate": "2026-04-12"
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://gculopes.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "harvard",
@@ -4897,9 +4963,9 @@
       "schoolSlug": "indiana",
       "schoolName": "Indiana",
       "schoolLongName": "Indiana University, Bloomington",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "scoreboard"
@@ -4926,7 +4992,10 @@
         ],
         "lastSeenDate": "2026-04-15"
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://iuhoosiers.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "indiana-st",
@@ -5203,9 +5272,9 @@
       "schoolSlug": "james-madison",
       "schoolName": "James Madison",
       "schoolLongName": "James Madison University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -5241,7 +5310,10 @@
           "James Madison"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://jmusports.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "kansas",
@@ -5249,9 +5321,9 @@
       "schoolSlug": "kansas",
       "schoolName": "Kansas",
       "schoolLongName": "University of Kansas",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -5288,7 +5360,10 @@
           "Kansas"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://kuathletics.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "kansas-st",
@@ -5755,9 +5830,9 @@
       "schoolSlug": "lehigh",
       "schoolName": "Lehigh",
       "schoolLongName": "Lehigh University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "scoreboard"
@@ -5781,7 +5856,10 @@
         ],
         "lastSeenDate": "2026-04-14"
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://lehighsports.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "liberty",
@@ -5789,9 +5867,9 @@
       "schoolSlug": "liberty",
       "schoolName": "Liberty",
       "schoolLongName": "Liberty University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -5829,7 +5907,10 @@
           "Liberty"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://liberty.edu/flames",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "lindenwood-mo",
@@ -6167,9 +6248,9 @@
       "schoolSlug": "louisville",
       "schoolName": "Louisville",
       "schoolLongName": "University of Louisville",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -6208,7 +6289,10 @@
           "Louisville"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://gocards.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "lourdes",
@@ -6480,9 +6564,9 @@
       "schoolSlug": "marshall",
       "schoolName": "Marshall",
       "schoolLongName": "Marshall University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -6518,7 +6602,10 @@
           "Marshall"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://herdzone.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "maryland",
@@ -6619,9 +6706,9 @@
       "schoolSlug": "massachusetts",
       "schoolName": "Mass-Amherst",
       "schoolLongName": "University of Massachusetts",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -6655,7 +6742,10 @@
           "Massachusetts"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://umassathletics.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "umass-lowell",
@@ -6811,9 +6901,9 @@
       "schoolSlug": "memphis",
       "schoolName": "Memphis",
       "schoolLongName": "University of Memphis",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -6848,7 +6938,10 @@
           "Memphis"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://gotigersgo.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "mercer",
@@ -6856,9 +6949,9 @@
       "schoolSlug": "mercer",
       "schoolName": "Mercer",
       "schoolLongName": "Mercer University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -6896,7 +6989,10 @@
           "Mercer"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://mercerbears.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "mercyhurst",
@@ -7032,9 +7128,9 @@
       "schoolSlug": "miami-oh",
       "schoolName": "Miami (OH)",
       "schoolLongName": "Miami University (Ohio)",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -7073,7 +7169,10 @@
           "Miami (OH)"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://miamiredhawks.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "michigan",
@@ -7081,9 +7180,9 @@
       "schoolSlug": "michigan",
       "schoolName": "Michigan",
       "schoolLongName": "University of Michigan",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -7123,7 +7222,10 @@
           "Michigan"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://mgoblue.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "michigan-st",
@@ -7238,9 +7340,9 @@
       "schoolSlug": "minnesota",
       "schoolName": "Minnesota",
       "schoolLongName": "University of Minnesota",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -7273,7 +7375,10 @@
           "Minnesota"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://gophersports.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "ole-miss",
@@ -7281,9 +7386,9 @@
       "schoolSlug": "ole-miss",
       "schoolName": "Mississippi",
       "schoolLongName": "University of Mississippi",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -7319,7 +7424,10 @@
           "Ole Miss"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://olemisssports.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "mississippi-st",
@@ -8157,9 +8265,9 @@
       "schoolSlug": "north-carolina",
       "schoolName": "North Carolina",
       "schoolLongName": "University of North Carolina",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -8196,7 +8304,10 @@
           "North Carolina"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://goheels.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "nc-at",
@@ -8326,9 +8437,9 @@
       "schoolSlug": "north-florida",
       "schoolName": "North Florida",
       "schoolLongName": "University of North Florida",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -8363,7 +8474,10 @@
           "North Florida"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://unfospreys.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "northeastern",
@@ -8534,9 +8648,9 @@
       "schoolSlug": "northwestern",
       "schoolName": "Northwestern",
       "schoolLongName": "Northwestern University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "scoreboard"
@@ -8562,7 +8676,10 @@
         ],
         "lastSeenDate": "2026-04-14"
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://nusports.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "northwestern-st",
@@ -8787,9 +8904,9 @@
       "schoolSlug": "oklahoma",
       "schoolName": "Oklahoma",
       "schoolLongName": "University of Oklahoma",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -8827,7 +8944,10 @@
           "Oklahoma"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://soonersports.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "oklahoma-st",
@@ -9010,9 +9130,9 @@
       "schoolSlug": "oregon",
       "schoolName": "Oregon",
       "schoolLongName": "University of Oregon",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -9052,7 +9172,10 @@
           "Oregon"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://goducks.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "oregon-st",
@@ -9261,9 +9384,9 @@
       "schoolSlug": "pepperdine",
       "schoolName": "Pepperdine",
       "schoolLongName": "Pepperdine University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -9298,7 +9421,10 @@
           "Pepperdine"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://pepperdinewaves.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "pittsburgh",
@@ -9306,9 +9432,9 @@
       "schoolSlug": "pittsburgh",
       "schoolName": "Pittsburgh",
       "schoolLongName": "University of Pittsburgh",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -9345,7 +9471,10 @@
           "Pittsburgh"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://pittsburghpanthers.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "portland",
@@ -9479,9 +9608,9 @@
       "schoolSlug": "princeton",
       "schoolName": "Princeton",
       "schoolLongName": "Princeton University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "scoreboard"
@@ -9502,7 +9631,10 @@
         ],
         "lastSeenDate": "2026-04-15"
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://goprincetontigers.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "purdue",
@@ -9603,9 +9735,9 @@
       "schoolSlug": "quinnipiac",
       "schoolName": "Quinnipiac",
       "schoolLongName": "Quinnipiac University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -9640,7 +9772,10 @@
           "Quinnipiac"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://gobobcats.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "radford",
@@ -9737,9 +9872,9 @@
       "schoolSlug": "rice",
       "schoolName": "Rice",
       "schoolLongName": "Rice University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -9774,7 +9909,10 @@
           "Rice"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://riceowls.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "richmond",
@@ -9782,9 +9920,9 @@
       "schoolSlug": "richmond",
       "schoolName": "Richmond",
       "schoolLongName": "University of Richmond",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -9822,7 +9960,10 @@
           "Richmond"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://richmondspiders.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "rider",
@@ -9900,9 +10041,9 @@
       "schoolSlug": "rutgers",
       "schoolName": "Rutgers",
       "schoolLongName": "Rutgers University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -9939,7 +10080,10 @@
           "Rutgers"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://scarletknights.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "sacramento-st",
@@ -9995,9 +10139,9 @@
       "schoolSlug": "sacred-heart",
       "schoolName": "Sacred Heart",
       "schoolLongName": "Sacred Heart University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -10028,7 +10172,10 @@
           "Sacred Heart"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://sacredheartpioneers.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "saint-josephs",
@@ -10324,9 +10471,9 @@
       "schoolSlug": "san-francisco",
       "schoolName": "San Francisco",
       "schoolLongName": "University of San Francisco",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -10361,7 +10508,10 @@
           "San Francisco"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://usfdons.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "san-jose-st",
@@ -10504,9 +10654,9 @@
       "schoolSlug": "seton-hall",
       "schoolName": "Seton Hall",
       "schoolLongName": "Seton Hall University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -10536,7 +10686,10 @@
           "Seton Hall"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://shupirates.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "siena",
@@ -10971,9 +11124,9 @@
       "schoolSlug": "southern-california",
       "schoolName": "Southern California",
       "schoolLongName": "University of Southern California",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -11011,7 +11164,10 @@
           "Southern California"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://usctrojans.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "southern-ill",
@@ -11339,9 +11495,9 @@
       "schoolSlug": "st-thomas-mn",
       "schoolName": "St. Thomas (MN)",
       "schoolLongName": "University of St. Thomas (Minn.)",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -11370,7 +11526,10 @@
           "St. Thomas (MN)"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://tommiesports.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "st-xavier",
@@ -11441,9 +11600,9 @@
       "schoolSlug": "stephen-f-austin",
       "schoolName": "Stephen F. Austin",
       "schoolLongName": "Stephen F. Austin State University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -11478,7 +11637,10 @@
           "SFA"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://sfajacks.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "stetson",
@@ -11735,9 +11897,9 @@
       "schoolSlug": "tennessee",
       "schoolName": "Tennessee",
       "schoolLongName": "University of Tennessee",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -11773,7 +11935,10 @@
           "Tennessee"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://utsports.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "tennessee-tech",
@@ -11826,9 +11991,9 @@
       "schoolSlug": "texas",
       "schoolName": "Texas",
       "schoolLongName": "University of Texas",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -11867,7 +12032,10 @@
           "Texas"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://texassports.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "texas-am",
@@ -11875,9 +12043,9 @@
       "schoolSlug": "texas-am",
       "schoolName": "Texas A&M",
       "schoolLongName": "Texas A&M University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -11916,7 +12084,10 @@
           "Texas A&M"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://12thman.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "texas-arlington",
@@ -12175,9 +12346,9 @@
       "schoolSlug": "texas-tech",
       "schoolName": "Texas Tech",
       "schoolLongName": "Texas Tech University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -12215,7 +12386,10 @@
           "Texas Tech"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://texastech.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "am-corpus-chris",
@@ -12357,9 +12531,9 @@
       "schoolSlug": "troy",
       "schoolName": "Troy",
       "schoolLongName": "Troy University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -12397,7 +12571,10 @@
           "Troy"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://troytrojans.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "tulane",
@@ -12405,9 +12582,9 @@
       "schoolSlug": "tulane",
       "schoolName": "Tulane",
       "schoolLongName": "Tulane University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -12442,7 +12619,10 @@
           "Tulane"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://tulanegreenwave.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "tuskegee",
@@ -12471,9 +12651,9 @@
       "schoolSlug": "uab",
       "schoolName": "UAB",
       "schoolLongName": "UAB",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -12508,7 +12688,10 @@
           "UAB"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://uabsports.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "uc-davis",
@@ -12775,9 +12958,9 @@
       "schoolSlug": "ucla",
       "schoolName": "UCLA",
       "schoolLongName": "UCLA",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -12817,7 +13000,10 @@
           "UCLA"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://uclabruins.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "uiw",
@@ -13066,9 +13252,9 @@
       "schoolSlug": "utah",
       "schoolName": "Utah",
       "schoolLongName": "University of Utah",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -13102,7 +13288,10 @@
           "Utah"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://utahutes.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "utah-tech",
@@ -13580,9 +13769,9 @@
       "schoolSlug": "washington",
       "schoolName": "Washington",
       "schoolLongName": "University of Washington",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -13618,7 +13807,10 @@
           "Washington"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://gohuskies.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "washington-st",
@@ -13730,9 +13922,9 @@
       "schoolSlug": "west-virginia",
       "schoolName": "West Virginia",
       "schoolLongName": "West Virginia University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -13771,7 +13963,10 @@
           "West Virginia"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://wvusports.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "western-caro",
@@ -14194,9 +14389,9 @@
       "schoolSlug": "xavier",
       "schoolName": "Xavier",
       "schoolLongName": "Xavier University",
-      "enabled": false,
-      "status": "discovered",
-      "adapter": "unknown",
+      "enabled": true,
+      "status": "ready",
+      "adapter": "sidearm",
       "discovery": {
         "sources": [
           "leaderboard",
@@ -14232,7 +14427,10 @@
           "Xavier"
         ]
       },
-      "notes": "Fill in schoolSiteBase, rosterPath, and statsPath before enabling ingest."
+      "notes": "Auto-promoted by promote-sidearm-schools.mjs on 2026-04-16T19:21:06.887Z",
+      "schoolSiteBase": "https://goxavier.com",
+      "rosterPath": "/sports/baseball/roster",
+      "statsPath": "/sports/baseball/stats/2026"
     },
     {
       "key": "yale",

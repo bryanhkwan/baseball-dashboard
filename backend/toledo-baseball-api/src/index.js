@@ -23,8 +23,10 @@ const LIVE_SCOREBOARD_LIMIT = 12;
 const SCHOOL_SEARCH_LIMIT = 16;
 const NATIONAL_PLAYER_CACHE_TTL_MS = 1000 * 60 * 15;
 const NATIONAL_PLAYER_MAX_PAGES_PER_SPEC = 2;
-const PLAYER_UNIVERSE_CACHE_TTL_MS = 1000 * 60 * 15;
-const PLAYER_SNAPSHOT_CACHE_TTL_MS = 1000 * 60 * 15;
+const PLAYER_UNIVERSE_CACHE_TTL_MS = 1000 * 60 * 5;
+const PLAYER_SNAPSHOT_CACHE_TTL_MS = 1000 * 60 * 5;
+const PLAYER_SNAPSHOT_BUST_BUCKET_MS = 1000 * 60 * 5;
+const PLAYER_API_BROWSER_CACHE_SECONDS = 60;
 const MEMORY_CACHE_TTL_MS = 1000 * 60 * 10;
 const SCHOOLS_INDEX_CACHE_TTL_MS = 1000 * 60 * 60 * 6;
 const MAC_STANDINGS_CACHE_TTL_MS = 1000 * 60 * 60 * 24 * 7;
@@ -193,12 +195,42 @@ function json(data, init = {}) {
   const headers = new Headers(init.headers || {});
   headers.set("content-type", "application/json; charset=utf-8");
   headers.set("access-control-allow-origin", "*");
-  headers.set("access-control-allow-methods", "GET,OPTIONS");
-  headers.set("access-control-allow-headers", "content-type,authorization");
+  headers.set("access-control-allow-methods", "GET,POST,OPTIONS");
+  headers.set("access-control-allow-headers", "content-type,authorization,x-admin-token");
   return new Response(JSON.stringify(data, null, 2), {
     ...init,
     headers,
   });
+}
+
+function jsonWithCache(data, maxAgeSeconds = PLAYER_API_BROWSER_CACHE_SECONDS, init = {}) {
+  const headers = new Headers(init.headers || {});
+  headers.set(
+    "cache-control",
+    `public, max-age=${Math.max(0, Math.floor(maxAgeSeconds))}, stale-while-revalidate=60`,
+  );
+  return json(data, { ...init, headers });
+}
+
+function resolveAdminRefreshToken(env) {
+  return String(env?.ADMIN_REFRESH_TOKEN || env?.REFRESH_TOKEN || "").trim();
+}
+
+function isAuthorizedAdmin(request, env) {
+  const expected = resolveAdminRefreshToken(env);
+  if (!expected) {
+    return false;
+  }
+  const headerToken =
+    request.headers.get("x-admin-token") ||
+    (request.headers.get("authorization") || "").replace(/^Bearer\s+/i, "").trim();
+  return Boolean(headerToken) && headerToken === expected;
+}
+
+function invalidatePlayerCaches() {
+  playerUniverseCache = { generatedAt: "", expiresAt: 0, payload: null };
+  playerSnapshotDatasetsCache = { expiresAt: 0, payload: null };
+  nationalPlayerBoardCache = { generatedAt: "", expiresAt: 0, payload: null };
 }
 
 function notFound(message = "Not found") {
@@ -301,12 +333,20 @@ function shouldUseRemotePlayerSnapshots(env, requestUrl = "") {
   return true;
 }
 
+function getSnapshotCacheBustBucket() {
+  // Rotates the Cloudflare edge-cache key every PLAYER_SNAPSHOT_BUST_BUCKET_MS so
+  // a new data commit on GitHub propagates to the Worker within one bucket
+  // window, instead of being held by the stale CDN cache for up to an hour.
+  return Math.floor(Date.now() / PLAYER_SNAPSHOT_BUST_BUCKET_MS);
+}
+
 async function fetchPlayerSnapshotDatasets(env) {
   const snapshotBaseUrl = getPlayerSnapshotBaseUrl(env);
+  const bust = getSnapshotCacheBustBucket();
   const entries = await Promise.all(
     Object.entries(PLAYER_SNAPSHOT_FILES).map(async ([key, fileName]) => [
       key,
-      await fetchJson(`${snapshotBaseUrl}/${fileName}`, {
+      await fetchJson(`${snapshotBaseUrl}/${fileName}?_bucket=${bust}`, {
         cf: {
           cacheTtl: Math.floor(PLAYER_SNAPSHOT_CACHE_TTL_MS / 1000),
           cacheEverything: true,
@@ -319,6 +359,8 @@ async function fetchPlayerSnapshotDatasets(env) {
     ...Object.fromEntries(entries),
     snapshotSource: `GitHub raw snapshots (${snapshotBaseUrl})`,
     snapshotWarning: "",
+    snapshotFetchedAt: new Date().toISOString(),
+    snapshotCacheBucket: bust,
   };
 }
 
@@ -3967,12 +4009,15 @@ export default {
       }
 
       if (url.pathname === "/api/meta/sources") {
-        return json({
+        return jsonWithCache({
           defaultSchool: DEFAULT_SCHOOL_NAME,
           playerSnapshots: {
             sourceBaseUrl: getPlayerSnapshotBaseUrl(env),
             refreshCadence: "Daily scheduled GitHub refresh plus manual workflow dispatch.",
             apiCacheTtlMinutes: Math.round(PLAYER_UNIVERSE_CACHE_TTL_MS / 60000),
+            snapshotCacheTtlMinutes: Math.round(PLAYER_SNAPSHOT_CACHE_TTL_MS / 60000),
+            snapshotCacheBucketMinutes: Math.round(PLAYER_SNAPSHOT_BUST_BUCKET_MS / 60000),
+            adminInvalidateEndpoint: "/api/admin/invalidate-snapshot-cache",
           },
           sources: [
             {
@@ -4021,12 +4066,25 @@ export default {
 
       if (url.pathname === "/api/players/national-board") {
         const payload = await getNationalPlayerBoard(env);
-        return json(payload);
+        return jsonWithCache(payload);
+      }
+
+      if (url.pathname === "/api/admin/invalidate-snapshot-cache" && request.method === "POST") {
+        if (!isAuthorizedAdmin(request, env)) {
+          return json({ error: "unauthorized" }, { status: 401 });
+        }
+        invalidatePlayerCaches();
+        return json({
+          ok: true,
+          invalidatedAt: new Date().toISOString(),
+          snapshotCacheTtlMs: PLAYER_SNAPSHOT_CACHE_TTL_MS,
+          playerUniverseCacheTtlMs: PLAYER_UNIVERSE_CACHE_TTL_MS,
+        });
       }
 
       if (url.pathname === "/api/players/coverage") {
         const universe = await getStoredPlayerUniverse(env, { requestUrl: request.url });
-        return json({
+        return jsonWithCache({
           source: universe.source,
           generatedAt: universe.generatedAt,
           dataGeneratedAt: universe.dataGeneratedAt || universe.generatedAt,
@@ -4034,6 +4092,8 @@ export default {
           boardCoverage: universe.boardCoverage,
           note: universe.note,
           snapshotSource: universe.snapshotSource || "",
+          snapshotFetchedAt: universe.snapshotFetchedAt || "",
+          snapshotCacheBucket: universe.snapshotCacheBucket || null,
           sourceSnapshots: universe.sourceSnapshots || [],
           data: universe.schoolCoverage,
         });
@@ -4049,7 +4109,11 @@ export default {
           page: readInt(url.searchParams.get("page"), 1, 1, 100000),
           pageSize: readInt(url.searchParams.get("pageSize"), 40, 10, 100),
         });
-        return json(payload);
+        return jsonWithCache({
+          ...payload,
+          snapshotFetchedAt: universe.snapshotFetchedAt || "",
+          snapshotCacheBucket: universe.snapshotCacheBucket || null,
+        });
       }
 
       const playerMatch = url.pathname.match(/^\/api\/players\/([^/]+)$/);
@@ -4060,7 +4124,7 @@ export default {
         if (!player) {
           return notFound(`Player "${playerId}" was not found in the stored player universe.`);
         }
-        return json({
+        return jsonWithCache({
           source: universe.source,
           generatedAt: universe.generatedAt,
           dataGeneratedAt: universe.dataGeneratedAt || universe.generatedAt,
@@ -4068,6 +4132,8 @@ export default {
           boardCoverage: universe.boardCoverage,
           note: universe.note,
           snapshotSource: universe.snapshotSource || "",
+          snapshotFetchedAt: universe.snapshotFetchedAt || "",
+          snapshotCacheBucket: universe.snapshotCacheBucket || null,
           sourceSnapshots: universe.sourceSnapshots || [],
           data: player,
         });

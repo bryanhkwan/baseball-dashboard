@@ -25,13 +25,41 @@ async function loadManifestFromPath(manifestPath) {
   return JSON.parse(raw);
 }
 
+/**
+ * Adapter registry. Maps `team.adapter` -> a handler that knows how to fetch
+ * and parse a school's roster and cumulative stats feed. Register additional
+ * adapters here (e.g. Presto, Streamline, Prestosports) so new schools can be
+ * added via manifest entries without touching merge / scoring logic.
+ */
+const INGEST_ADAPTERS = {
+  sidearm: {
+    label: "Sidearm (Nuxt)",
+    isReady: (team) =>
+      Boolean(team?.schoolSiteBase) && Boolean(team?.rosterPath) && Boolean(team?.statsPath),
+    buildRosterUrl: (config) => new URL(config.rosterPath, config.schoolSiteBase).toString(),
+    buildStatsUrl: (config) => new URL(config.statsPath, config.schoolSiteBase).toString(),
+    fetchRoster: (config) => fetchText(new URL(config.rosterPath, config.schoolSiteBase).toString()),
+    fetchStats: (config) => fetchText(new URL(config.statsPath, config.schoolSiteBase).toString()),
+    parseRoster: (html, config) => parseSidearmRosterPage(html, config),
+    parseStats: (html, config) => parseSidearmStatsPage(html, config),
+  },
+};
+
+function getIngestAdapter(adapterName = "") {
+  const name = String(adapterName || "").trim().toLowerCase();
+  return INGEST_ADAPTERS[name] || null;
+}
+
 function isManifestTeamReady(team = {}) {
-  return (
-    team.enabled !== false &&
-    Boolean(team.schoolSiteBase) &&
-    Boolean(team.rosterPath) &&
-    Boolean(team.statsPath)
-  );
+  if (team.enabled === false) {
+    return false;
+  }
+  const adapter = getIngestAdapter(team.adapter);
+  if (!adapter) {
+    // Unknown adapter => not ready for ingest until a matching adapter is added.
+    return false;
+  }
+  return Boolean(adapter.isReady(team));
 }
 
 function parseArgs(argv) {
@@ -1051,18 +1079,27 @@ function printSummary(outputPath, bundlePath, dataset) {
 }
 
 async function generateSchoolDataset(config) {
-  const rosterUrl = new URL(config.rosterPath, config.schoolSiteBase).toString();
-  const statsUrl = new URL(config.statsPath, config.schoolSiteBase).toString();
+  const adapter = getIngestAdapter(config.adapter);
+  if (!adapter) {
+    throw new Error(
+      `No ingest adapter is registered for "${config.adapter || "unknown"}" (school "${config.schoolName || config.key}"). Register a new entry in INGEST_ADAPTERS before enabling this team.`,
+    );
+  }
+  if (!adapter.isReady(config)) {
+    throw new Error(
+      `Adapter "${adapter.label}" is missing required manifest fields for school "${config.schoolName || config.key}".`,
+    );
+  }
 
-  const [ncaaSchool, espnTeamBundle, rosterHtml, statsHtml] = await Promise.all([
+  const [ncaaSchool, espnTeamBundle, rosterPayload, statsPayload] = await Promise.all([
     fetchNcaaSchoolRecord(config),
     fetchEspnTeamBundle(config),
-    fetchText(rosterUrl),
-    fetchText(statsUrl),
+    adapter.fetchRoster(config),
+    adapter.fetchStats(config),
   ]);
 
-  const rosterBundle = parseSidearmRosterPage(rosterHtml, config);
-  const statsBundle = parseSidearmStatsPage(statsHtml, config);
+  const rosterBundle = adapter.parseRoster(rosterPayload, config);
+  const statsBundle = adapter.parseStats(statsPayload, config);
   const dataset = buildDataset({
     config,
     ncaaSchool,

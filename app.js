@@ -757,6 +757,105 @@ function playerHasOfficialCumulativeStats(player = {}) {
   return labels.has("AVG") || labels.has("OBP") || labels.has("SLG");
 }
 
+function computePlayerCoverageTier(player = {}) {
+  const origins = player.boardOrigins || [];
+  const hasOfficial = origins.some((origin) => OFFICIAL_SCHOOL_STATS_ORIGINS.has(origin));
+  const hasBoxscore = origins.includes("NCAA boxscore pool");
+  const hasLeaderboard = origins.includes("National API board");
+
+  if (hasOfficial && playerHasOfficialCumulativeStats(player)) {
+    return "official-cumulative";
+  }
+  if (hasOfficial) {
+    return "official-roster";
+  }
+  if (hasBoxscore && hasLeaderboard) {
+    return "mixed-tracked";
+  }
+  if (hasBoxscore) {
+    return "boxscore-only";
+  }
+  if (hasLeaderboard) {
+    return "leaderboard-only";
+  }
+  return "unknown";
+}
+
+const COVERAGE_TIER_LABELS = {
+  "official-cumulative": "Official season stats",
+  "official-roster": "Official roster (no season stats)",
+  "boxscore-only": "Tracked games only",
+  "leaderboard-only": "Leaderboard only",
+  "mixed-tracked": "Tracked games + leaderboard",
+  unknown: "Unified coverage",
+};
+
+const COVERAGE_TIER_NOTES = {
+  "official-cumulative":
+    "Stats are pulled from the school's official cumulative season page and treated as authoritative.",
+  "official-roster":
+    "Only the school-site roster is available right now, so no season line is published yet.",
+  "boxscore-only":
+    "This player is only surfaced through NCAA boxscores we have tracked, so stats reflect tracked games and not the full official season line.",
+  "leaderboard-only":
+    "This player is only showing up in the national leaderboard feed, so the profile is based on leaderboard totals and not a school-site ingest.",
+  "mixed-tracked":
+    "Coverage is reconstructed from tracked NCAA boxscores and leaderboard rows, not a school-site cumulative stats ingest.",
+  unknown: "Unified coverage drawn from the available sources.",
+};
+
+function getCoverageTierLabel(tier = "unknown") {
+  return COVERAGE_TIER_LABELS[tier] || COVERAGE_TIER_LABELS.unknown;
+}
+
+function getCoverageTierNote(tier = "unknown") {
+  return COVERAGE_TIER_NOTES[tier] || COVERAGE_TIER_NOTES.unknown;
+}
+
+function getPrimaryStatSource(player = {}, tier = "unknown") {
+  const origins = player.boardOrigins || [];
+  if (tier === "official-cumulative" || tier === "official-roster") {
+    const officialOrigin = origins.find((origin) => OFFICIAL_SCHOOL_STATS_ORIGINS.has(origin));
+    return officialOrigin || "Official school-site ingest";
+  }
+  if (tier === "boxscore-only" || tier === "mixed-tracked") {
+    const trackedCount = Number(
+      player.latestTrackedGame?.gamesTracked || player.gamesTracked || 0,
+    );
+    if (trackedCount > 0) {
+      return `NCAA season boxscore (${trackedCount} tracked game${trackedCount === 1 ? "" : "s"})`;
+    }
+    return "NCAA season boxscore";
+  }
+  if (tier === "leaderboard-only") {
+    return "NCAA national leaderboard feed";
+  }
+  return origins[0] || "Unified player board";
+}
+
+function getCoverageTierChipClass(tier = "unknown") {
+  return {
+    "official-cumulative": "is-full-roster",
+    "official-roster": "is-full-roster",
+    "boxscore-only": "is-boxscore-only",
+    "mixed-tracked": "is-boxscore-only",
+    "leaderboard-only": "is-leaderboard-only",
+    unknown: "is-leaderboard-only",
+  }[tier] || "is-leaderboard-only";
+}
+
+function decoratePlayerCoverage(player = {}) {
+  const tier = computePlayerCoverageTier(player);
+  return {
+    ...player,
+    coverageTier: tier,
+    coverageTierLabel: getCoverageTierLabel(tier),
+    coverageTierNote: getCoverageTierNote(tier),
+    primaryStatSource: getPrimaryStatSource(player, tier),
+    isOfficialStats: tier === "official-cumulative",
+  };
+}
+
 function playerProfileRichness(player = {}) {
   return (
     (player.statCards?.length || 0) * 3 +
@@ -833,12 +932,13 @@ function normalizeUnifiedFit(fit = {}) {
 }
 
 function attachBoardOrigin(player, boardLabel) {
-  return {
+  const tagged = {
     ...player,
     fit: normalizeUnifiedFit(player.fit),
     boardOrigins: uniqueItems([...(player.boardOrigins || []), boardLabel]),
     sourcePlayerIds: uniqueItems([...(player.sourcePlayerIds || []), player.id]),
   };
+  return decoratePlayerCoverage(tagged);
 }
 
 function mergeUnifiedPlayers(existing, incoming) {
@@ -888,7 +988,7 @@ function mergeUnifiedPlayers(existing, incoming) {
     merged.sourceSummary = `Available on: ${merged.boardOrigins.join(" • ")}`;
   }
 
-  return merged;
+  return decoratePlayerCoverage(merged);
 }
 
 function summarizeUnifiedSources(boardCounts = {}, nationalError = "") {
@@ -1069,9 +1169,27 @@ function formatBoardDate(value) {
   });
 }
 
+function formatBoardTimestamp(value) {
+  if (!value) {
+    return "";
+  }
+  const parsed = new Date(value);
+  if (Number.isNaN(parsed.getTime())) {
+    return "";
+  }
+  return parsed.toLocaleString("en-US", {
+    month: "short",
+    day: "numeric",
+    year: "numeric",
+    hour: "numeric",
+    minute: "2-digit",
+  });
+}
+
 function buildPlayerBoardFootnote(payload, fallbackText) {
   const dataUpdated = formatBoardDate(payload?.dataGeneratedAt || payload?.generatedAt);
   const rebuiltAt = formatBoardDate(payload?.rebuiltAt);
+  const snapshotFetchedAt = formatBoardTimestamp(payload?.snapshotFetchedAt);
   const parts = [];
 
   if (dataUpdated) {
@@ -1079,6 +1197,9 @@ function buildPlayerBoardFootnote(payload, fallbackText) {
   }
   if (rebuiltAt && rebuiltAt !== dataUpdated) {
     parts.push(`Unified board rebuilt ${rebuiltAt}.`);
+  }
+  if (snapshotFetchedAt) {
+    parts.push(`Snapshot fetched ${snapshotFetchedAt}.`);
   }
   if (payload?.note) {
     parts.push(payload.note);
@@ -1097,6 +1218,11 @@ function renderPlayerProfileSnapshot(player, payload) {
     payload?.source ||
     sourceDefinition.label;
 
+  const coverageTierLabel = player.coverageTierLabel || "Unified coverage";
+  const coverageTierChipClass = getCoverageTierChipClass(player.coverageTier || "unknown");
+  const primaryStatSource = player.primaryStatSource || player.boardOrigins?.[0] || sourceDefinition.label;
+  const coverageTierNote = player.coverageTierNote || sourceDefinition.summary;
+
   return `
     <div class="statSectionLabel">Profile snapshot</div>
     <div class="miniStatGrid playerProfileGrid">
@@ -1111,9 +1237,11 @@ function renderPlayerProfileSnapshot(player, payload) {
         <div class="detailListMeta">${escapeHtml(player.metaLine || "Current board context")}</div>
       </div>
       <div class="miniStatCard">
-        <span>Board</span>
-        <strong>${escapeHtml(sourceDefinition.label)}</strong>
-        <div class="detailListMeta">${escapeHtml(player.boardOrigins?.join(" • ") || sourceDefinition.bestUse)}</div>
+        <span>Primary stat source</span>
+        <strong>
+          <span class="coverageStatusChip ${coverageTierChipClass}">${escapeHtml(coverageTierLabel)}</span>
+        </strong>
+        <div class="detailListMeta">${escapeHtml(primaryStatSource)}</div>
       </div>
       <div class="miniStatCard">
         <span>Eval window</span>
@@ -1123,7 +1251,7 @@ function renderPlayerProfileSnapshot(player, payload) {
     </div>
     <div class="playerProfileContext">
       <strong>Why this profile looks this way</strong>
-      <p class="detailText">${escapeHtml(sourceDefinition.summary)}</p>
+      <p class="detailText">${escapeHtml(coverageTierNote)}</p>
       <div class="detailListMeta">${escapeHtml(sourceLine)}</div>
     </div>
   `;
@@ -1561,6 +1689,16 @@ function renderPlayerProfileBody(player, payload, mode) {
           </div>
         </div>
         <p class="playerProfileHeroSummary">${escapeHtml(player.summary || "Player summary unavailable.")}</p>
+        ${
+          player.coverageTierLabel
+            ? `
+              <div class="playerProfileSourceBanner">
+                <span class="coverageStatusChip ${getCoverageTierChipClass(player.coverageTier)}">${escapeHtml(player.coverageTierLabel)}</span>
+                <span class="detailListMeta">${escapeHtml(player.primaryStatSource || "")}</span>
+              </div>
+            `
+            : ""
+        }
         <div class="detailMeta">
           ${(player.detailBadges || [])
             .map((badge) => `<span>${escapeHtml(badge)}</span>`)
@@ -2134,6 +2272,11 @@ function renderPlayers() {
             <div class="playerNameCell">
               <strong>${escapeHtml(player.name)}</strong>
               <span class="playerMeta">${escapeHtml(player.metaLine || player.summaryMetrics?.[0] || "")}</span>
+              ${
+                player.coverageTierLabel
+                  ? `<span class="coverageStatusChip ${getCoverageTierChipClass(player.coverageTier)}" title="${escapeHtml(player.coverageTierNote || "")}">${escapeHtml(player.coverageTierLabel)}</span>`
+                  : ""
+              }
             </div>
           </td>
           <td>${escapeHtml(player.school || "--")}</td>
