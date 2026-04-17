@@ -1,0 +1,6549 @@
+{
+  "generatedAt": "2026-04-17T11:13:11.722Z",
+  "season": 2026,
+  "school": {
+    "slug": "charlotte",
+    "name": "Charlotte",
+    "longName": "UNC Charlotte",
+    "ncaaVerified": true,
+    "ncaaRecord": {
+      "slug": "charlotte",
+      "name": "Charlotte",
+      "long": "UNC Charlotte"
+    },
+    "espnDisplayName": "",
+    "espnSlug": "",
+    "rosterUrl": "https://charlotte49ers.com/sports/baseball/roster",
+    "statsUrl": "https://charlotte49ers.com/sports/baseball/stats/2026",
+    "pdfUrl": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/uncc.sidearmsports.com/stats/baseball/2026/pdf/cume.pdf"
+  },
+  "sources": {
+    "roster": "Charlotte Athletics roster",
+    "stats": "Charlotte Athletics cumulative stats",
+    "espn": "ESPN team identity verified, but Charlotte's public roster feed did not match the current 2026 school-site roster",
+    "ncaa": "NCAA school index"
+  },
+  "coverage": {
+    "rosterPlayers": 31,
+    "espnRosterPlayers": 0,
+    "playersWithHittingStats": 13,
+    "playersWithPitchingStats": 16,
+    "playersWithFieldingStats": 26,
+    "mergedPlayersWithAnyStats": 28,
+    "matchedEspnPlayers": 0,
+    "unmatchedStatRows": {
+      "hitting": [
+        "Carson Bayne"
+      ],
+      "pitching": [],
+      "fielding": [
+        "Carson Bayne"
+      ]
+    }
+  },
+  "teamSummary": {
+    "record": "18-18, 3-9",
+    "battingAverage": ".303",
+    "earnedRunAverage": "5.74",
+    "wins": "18",
+    "losses": "18",
+    "hitting": {
+      "atBats": "1219",
+      "runsScored": "253",
+      "hits": "369",
+      "runsBattedIn": "229",
+      "doubles": "66",
+      "triples": "7",
+      "homeRuns": "43",
+      "walks": "164",
+      "intentionalWalks": "0",
+      "strikeouts": "261",
+      "strikeoutsLooking": "73",
+      "hitByPitch": "46",
+      "stolenBases": "36",
+      "caughtStealing": "5",
+      "sacrificeHits": "13",
+      "sacrificeFlies": "18",
+      "reachedOnCatchersInteference": "0",
+      "reachedOnError": "0",
+      "reachesOnAFieldersChoice": "0",
+      "groundOuts": "280",
+      "flyOuts": "310",
+      "groundedIntoDoublePlay": "22",
+      "pickedOff": "4",
+      "doublePlaysHitInto": "31",
+      "triplePlaysHitInto": "1"
+    },
+    "fielding": {
+      "putouts": "912",
+      "assists": "324",
+      "errors": "34",
+      "passedBalls": "1",
+      "catchersInterference": "0",
+      "stolenBasesAgainst": "46",
+      "caughtStealingBy": "17",
+      "involvedInDoublePlays": "26",
+      "involvedInTriplePlays": "0",
+      "totalChances": "1270",
+      "fieldingPercentage": ".973"
+    },
+    "pitching": {
+      "orderOfAppearance": "0",
+      "wins": "18",
+      "saves": "5",
+      "losses": "18",
+      "gamesStarted": "0",
+      "gamesCompleted": "0",
+      "shutouts": "4",
+      "creditForCombinedShutout": "0",
+      "inningsPitched": "304.0",
+      "hitsAllowed": "332",
+      "runsAllowed": "214",
+      "earnedRunsAllowed": "194",
+      "walksAllowed": "159",
+      "strikeouts": "311",
+      "battersFaced": "1407",
+      "opponentAtBats": "1189",
+      "doublesAllowed": "65",
+      "triplesAllowed": "8",
+      "homerunsAllowed": "27",
+      "wildPitches": "25",
+      "balks": "6",
+      "hitBatters": "33",
+      "strikeoutsLooking": "100",
+      "intentionalWalks": "5",
+      "inheritedRunners": "0",
+      "inheritedRunnersThatScored": "0",
+      "sacrificeHitsAllowed": "18",
+      "sacrificeFliesAllowed": "8",
+      "catchersInterferenceAllowed": "0",
+      "pitches": "5420",
+      "flyouts": "258",
+      "groundouts": "290",
+      "teamUnearnedRuns": "1",
+      "saveRecord": "5",
+      "pickoff": "7"
+    }
+  },
+  "players": [
+    {
+      "id": "charlotte-13079",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Juan Rivera",
+      "normalizedName": "juan rivera",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "INF",
+      "classYear": "SR",
+      "handedness": "L/R",
+      "jersey": "2",
+      "hometown": "Mission, Texas",
+      "highSchool": "Sharyland Pioneer",
+      "previousSchool": "UTRGV / Dodge City CC",
+      "hometownHighSchool": "Mission, Texas / Sharyland Pioneer",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/juan-rivera/13079",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/RIVERA_JUAN.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13079",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "13079",
+        "name": "Juan Rivera",
+        "normalizedName": "juan rivera",
+        "jersey": "2",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/juan-rivera/13079",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/RIVERA_JUAN.jpg",
+        "gamesPlayed": 10,
+        "gamesStarted": 2,
+        "battingAverage": 0.091,
+        "onBasePercentage": 0.091,
+        "sluggingPercentage": 0.091,
+        "ops": 0.182,
+        "atBats": 11,
+        "runs": 2,
+        "hits": 1,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 0,
+        "totalBases": 1,
+        "walks": 0,
+        "hitByPitch": 0,
+        "strikeouts": 1,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 1,
+        "putouts": 4,
+        "assists": 3,
+        "errors": 0,
+        "plateAppearances": 12,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "13079",
+        "name": "Juan Rivera",
+        "normalizedName": "juan rivera",
+        "jersey": "2",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/juan-rivera/13079",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/RIVERA_JUAN.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 1,
+        "putouts": 4,
+        "assists": 3,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 7
+      },
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 3.3333333333333335
+        },
+        "summary": "Juan Rivera gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .091",
+          "OBP .091",
+          "SLG .091"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".091"
+          },
+          {
+            "label": "OBP",
+            "value": ".091"
+          },
+          {
+            "label": "SLG",
+            "value": ".091"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "metaLine": "SR / L/R",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "L/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13067",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Adrian Jimenez",
+      "normalizedName": "adrian jimenez",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "INF",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "3",
+      "hometown": "Lilburn, Ga.",
+      "highSchool": "Parkview",
+      "previousSchool": "VCU",
+      "hometownHighSchool": "Lilburn, Ga. / Parkview",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/adrian-jimenez/13067",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/JIMENEZ_ADRIAN.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13067",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "13067",
+        "name": "Adrian Jimenez",
+        "normalizedName": "adrian jimenez",
+        "jersey": "3",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/adrian-jimenez/13067",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/JIMENEZ_ADRIAN.jpg",
+        "gamesPlayed": 36,
+        "gamesStarted": 35,
+        "battingAverage": 0.248,
+        "onBasePercentage": 0.366,
+        "sluggingPercentage": 0.35,
+        "ops": 0.716,
+        "atBats": 117,
+        "runs": 18,
+        "hits": 29,
+        "doubles": 5,
+        "triples": 2,
+        "homeRuns": 1,
+        "runsBattedIn": 14,
+        "totalBases": 41,
+        "walks": 18,
+        "hitByPitch": 5,
+        "strikeouts": 18,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 3,
+        "sacrificeFlies": 2,
+        "sacrificeHits": 3,
+        "stolenBases": 2,
+        "stolenBasesAttempts": 2,
+        "putouts": 33,
+        "assists": 64,
+        "errors": 6,
+        "plateAppearances": 147,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "13067",
+        "name": "Adrian Jimenez",
+        "normalizedName": "adrian jimenez",
+        "jersey": "3",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/adrian-jimenez/13067",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/JIMENEZ_ADRIAN.jpg",
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "putouts": 33,
+        "assists": 64,
+        "errors": 6,
+        "fieldingPercentage": 0.942,
+        "doublePlays": 8,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 103
+      },
+      "evaluation": {
+        "score": 34,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 47.77777777777776,
+          "Power": 7.8947368421052575,
+          "Contact": 17.5,
+          "Discipline": 88.88888888888889,
+          "Speed": 6.666666666666667
+        },
+        "summary": "Adrian Jimenez profiles as a INF piece who controls at-bats.",
+        "summaryMetrics": [
+          "AVG .248",
+          "OBP .366",
+          "SLG .350"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".248"
+          },
+          {
+            "label": "OBP",
+            "value": ".366"
+          },
+          {
+            "label": "SLG",
+            "value": ".350"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "14"
+          },
+          {
+            "label": "SB",
+            "value": "2"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13083",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Johnny Sutryk",
+      "normalizedName": "johnny sutryk",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "OF",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "6",
+      "hometown": "Virginia Beach, Va.",
+      "highSchool": "IMG Academy",
+      "previousSchool": "",
+      "hometownHighSchool": "Virginia Beach, Va. / IMG Academy",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/johnny-sutryk/13083",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/SUTRYK_JOHNNY.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13083",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "13083",
+        "name": "Johnny Sutryk",
+        "normalizedName": "johnny sutryk",
+        "jersey": "6",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/johnny-sutryk/13083",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/SUTRYK_JOHNNY.jpg",
+        "gamesPlayed": 26,
+        "gamesStarted": 14,
+        "battingAverage": 0.196,
+        "onBasePercentage": 0.255,
+        "sluggingPercentage": 0.392,
+        "ops": 0.647,
+        "atBats": 51,
+        "runs": 10,
+        "hits": 10,
+        "doubles": 1,
+        "triples": 0,
+        "homeRuns": 3,
+        "runsBattedIn": 9,
+        "totalBases": 20,
+        "walks": 3,
+        "hitByPitch": 1,
+        "strikeouts": 19,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 2,
+        "stolenBases": 4,
+        "stolenBasesAttempts": 4,
+        "putouts": 24,
+        "assists": 3,
+        "errors": 0,
+        "plateAppearances": 61,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "13083",
+        "name": "Johnny Sutryk",
+        "normalizedName": "johnny sutryk",
+        "jersey": "6",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/johnny-sutryk/13083",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/SUTRYK_JOHNNY.jpg",
+        "gamesPlayed": 13,
+        "gamesStarted": 11,
+        "putouts": 24,
+        "assists": 3,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 27
+      },
+      "evaluation": {
+        "score": 6,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 18.947368421052634,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 13.333333333333334
+        },
+        "summary": "Johnny Sutryk gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .196",
+          "OBP .255",
+          "SLG .392"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".196"
+          },
+          {
+            "label": "OBP",
+            "value": ".255"
+          },
+          {
+            "label": "SLG",
+            "value": ".392"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "9"
+          },
+          {
+            "label": "SB",
+            "value": "4"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13073",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Robert Nedry",
+      "normalizedName": "robert nedry",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "INF",
+      "classYear": "JR",
+      "handedness": "L/R",
+      "jersey": "8",
+      "hometown": "Lighthouse Point, Fla.",
+      "highSchool": "Westminster Academy",
+      "previousSchool": "NC State / Santa Fe College",
+      "hometownHighSchool": "Lighthouse Point, Fla. / Westminster Academy",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/robert-nedry/13073",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/NEDRY_ROBERT.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13073",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "13073",
+        "name": "Robert Nedry",
+        "normalizedName": "robert nedry",
+        "jersey": "8",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/robert-nedry/13073",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/NEDRY_ROBERT.jpg",
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "battingAverage": 0.291,
+        "onBasePercentage": 0.419,
+        "sluggingPercentage": 0.425,
+        "ops": 0.844,
+        "atBats": 127,
+        "runs": 22,
+        "hits": 37,
+        "doubles": 6,
+        "triples": 1,
+        "homeRuns": 3,
+        "runsBattedIn": 18,
+        "totalBases": 54,
+        "walks": 22,
+        "hitByPitch": 6,
+        "strikeouts": 32,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 2,
+        "stolenBases": 6,
+        "stolenBasesAttempts": 8,
+        "putouts": 41,
+        "assists": 62,
+        "errors": 8,
+        "plateAppearances": 167,
+        "caughtStealing": 2,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "13073",
+        "name": "Robert Nedry",
+        "normalizedName": "robert nedry",
+        "jersey": "8",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/robert-nedry/13073",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/NEDRY_ROBERT.jpg",
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "putouts": 41,
+        "assists": 62,
+        "errors": 8,
+        "fieldingPercentage": 0.928,
+        "doublePlays": 12,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 111
+      },
+      "evaluation": {
+        "score": 49,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 77.2222222222222,
+          "Power": 27.631578947368418,
+          "Contact": 44.374999999999986,
+          "Discipline": 54.166666666666664,
+          "Speed": 20
+        },
+        "summary": "Robert Nedry profiles as a INF piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .291",
+          "OBP .419",
+          "SLG .425"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".291"
+          },
+          {
+            "label": "OBP",
+            "value": ".419"
+          },
+          {
+            "label": "SLG",
+            "value": ".425"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "18"
+          },
+          {
+            "label": "SB",
+            "value": "6"
+          }
+        ],
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "L/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13061",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Alec DeMartino",
+      "normalizedName": "alec demartino",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "OF",
+      "classYear": "GR",
+      "handedness": "R/R",
+      "jersey": "9",
+      "hometown": "Raleigh, N.C.",
+      "highSchool": "Millbrook",
+      "previousSchool": "UNCW",
+      "hometownHighSchool": "Raleigh, N.C. / Millbrook",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/alec-demartino/13061",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/DEMARTINO_ALEC.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13061",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "13061",
+        "name": "Alec DeMartino",
+        "normalizedName": "alec demartino",
+        "jersey": "9",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/alec-demartino/13061",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/DEMARTINO_ALEC.jpg",
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "battingAverage": 0.318,
+        "onBasePercentage": 0.441,
+        "sluggingPercentage": 0.561,
+        "ops": 1.002,
+        "atBats": 132,
+        "runs": 27,
+        "hits": 42,
+        "doubles": 10,
+        "triples": 2,
+        "homeRuns": 6,
+        "runsBattedIn": 30,
+        "totalBases": 74,
+        "walks": 28,
+        "hitByPitch": 1,
+        "strikeouts": 38,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 5,
+        "stolenBasesAttempts": 6,
+        "putouts": 60,
+        "assists": 2,
+        "errors": 3,
+        "plateAppearances": 168,
+        "caughtStealing": 1,
+        "pickedOff": 2
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "13061",
+        "name": "Alec DeMartino",
+        "normalizedName": "alec demartino",
+        "jersey": "9",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/alec-demartino/13061",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/DEMARTINO_ALEC.jpg",
+        "gamesPlayed": 30,
+        "gamesStarted": 30,
+        "putouts": 60,
+        "assists": 2,
+        "errors": 3,
+        "fieldingPercentage": 0.954,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 65
+      },
+      "evaluation": {
+        "score": 66,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "components": {
+          "On-base": 89.44444444444444,
+          "Power": 63.421052631578966,
+          "Contact": 61.25000000000001,
+          "Discipline": 59.64912280701752,
+          "Speed": 16.666666666666664
+        },
+        "summary": "Alec DeMartino profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .318",
+          "OBP .441",
+          "SLG .561"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".318"
+          },
+          {
+            "label": "OBP",
+            "value": ".441"
+          },
+          {
+            "label": "SLG",
+            "value": ".561"
+          },
+          {
+            "label": "HR",
+            "value": "6"
+          },
+          {
+            "label": "RBI",
+            "value": "30"
+          },
+          {
+            "label": "SB",
+            "value": "5"
+          }
+        ],
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "OF",
+          "GR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13064",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Jacob Gholston",
+      "normalizedName": "jacob gholston",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "11",
+      "hometown": "Flower Mound, Texas",
+      "highSchool": "Flower Mound",
+      "previousSchool": "Oklahoma",
+      "hometownHighSchool": "Flower Mound, Texas / Flower Mound",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/jacob-gholston/13064",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/GHOLSTON_JACOB.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13064",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "13064",
+        "name": "Jacob Gholston",
+        "normalizedName": "jacob gholston",
+        "jersey": "11",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/jacob-gholston/13064",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/GHOLSTON_JACOB.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "appearances": 1,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 99,
+        "whip": 0,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 0,
+        "inningsPitchedDisplay": "0.0",
+        "hitsAllowed": 2,
+        "runsAllowed": 2,
+        "earnedRunsAllowed": 2,
+        "walksAllowed": 2,
+        "strikeouts": 0,
+        "doublesAllowed": 1,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 2,
+        "wildPitches": 1,
+        "hitBatters": 1,
+        "balks": 0,
+        "opponentsBattingAverage": 1,
+        "walksHits": 4
+      },
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Jacob Gholston looks like a RHP option who throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 99.00",
+          "WHIP 0.00",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "99.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "0.00"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13057",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Chase Carson",
+      "normalizedName": "chase carson",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "LHP",
+      "classYear": "GR",
+      "handedness": "L/L",
+      "jersey": "12",
+      "hometown": "Topeka, Kan.",
+      "highSchool": "Shawnee Heights HS",
+      "previousSchool": "State Fair CC",
+      "hometownHighSchool": "Topeka, Kan. / Shawnee Heights HS",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/chase-carson/13057",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/CARSON_CHASE.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13057",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "13057",
+        "name": "Chase Carson",
+        "normalizedName": "chase carson",
+        "jersey": "12",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/chase-carson/13057",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/CARSON_CHASE.jpg",
+        "gamesPlayed": 19,
+        "gamesStarted": 1,
+        "appearances": 19,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 5.55,
+        "whip": 1.63,
+        "wins": 2,
+        "losses": 2,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 35.666666666666664,
+        "inningsPitchedDisplay": "35.2",
+        "hitsAllowed": 42,
+        "runsAllowed": 26,
+        "earnedRunsAllowed": 22,
+        "walksAllowed": 16,
+        "strikeouts": 35,
+        "doublesAllowed": 7,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 146,
+        "wildPitches": 2,
+        "hitBatters": 4,
+        "balks": 1,
+        "opponentsBattingAverage": 0.288,
+        "walksHits": 58
+      },
+      "fieldingStats": {
+        "rosterBioId": "13057",
+        "name": "Chase Carson",
+        "normalizedName": "chase carson",
+        "jersey": "12",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/chase-carson/13057",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/CARSON_CHASE.jpg",
+        "gamesPlayed": 9,
+        "gamesStarted": 0,
+        "putouts": 1,
+        "assists": 9,
+        "errors": 2,
+        "fieldingPercentage": 0.833,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 1,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": 0.5,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 12
+      },
+      "evaluation": {
+        "score": 13,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 43.925233644859816,
+          "Command": 23.75,
+          "Damage suppression": 0
+        },
+        "summary": "Chase Carson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 5.55",
+          "WHIP 1.63",
+          "K/9 8.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.55"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.63"
+          },
+          {
+            "label": "K/9",
+            "value": "8.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.76"
+          },
+          {
+            "label": "IP",
+            "value": "35.7"
+          }
+        ],
+        "metaLine": "GR / L/L",
+        "detailBadges": [
+          "LHP",
+          "GR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13082",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Cale Stricklin",
+      "normalizedName": "cale stricklin",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "C",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "13",
+      "hometown": "Watkinsville, Ga.",
+      "highSchool": "North Oconee",
+      "previousSchool": "Auburn",
+      "hometownHighSchool": "Watkinsville, Ga. / North Oconee",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/cale-stricklin/13082",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/STRICKLIN_CALE.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13082",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "13082",
+        "name": "Cale Stricklin",
+        "normalizedName": "cale stricklin",
+        "jersey": "13",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/cale-stricklin/13082",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/STRICKLIN_CALE.jpg",
+        "gamesPlayed": 34,
+        "gamesStarted": 33,
+        "battingAverage": 0.336,
+        "onBasePercentage": 0.395,
+        "sluggingPercentage": 0.473,
+        "ops": 0.868,
+        "atBats": 110,
+        "runs": 20,
+        "hits": 37,
+        "doubles": 6,
+        "triples": 0,
+        "homeRuns": 3,
+        "runsBattedIn": 25,
+        "totalBases": 52,
+        "walks": 9,
+        "hitByPitch": 5,
+        "strikeouts": 19,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 3,
+        "sacrificeFlies": 5,
+        "sacrificeHits": 4,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 285,
+        "assists": 32,
+        "errors": 0,
+        "plateAppearances": 133,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "13082",
+        "name": "Cale Stricklin",
+        "normalizedName": "cale stricklin",
+        "jersey": "13",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/cale-stricklin/13082",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/STRICKLIN_CALE.jpg",
+        "gamesPlayed": 34,
+        "gamesStarted": 33,
+        "putouts": 285,
+        "assists": 32,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 2,
+        "stolenBasesAgainst": 40,
+        "caughtStealingBy": 13,
+        "stolenBasesPercentage": 0.755,
+        "passedBalls": 1,
+        "catchersInterference": 0,
+        "totalChances": 317
+      },
+      "evaluation": {
+        "score": 48,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 63.888888888888886,
+          "Power": 40.26315789473684,
+          "Contact": 72.50000000000001,
+          "Discipline": 30.409356725146193,
+          "Speed": 0
+        },
+        "summary": "Cale Stricklin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .336",
+          "OBP .395",
+          "SLG .473"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".336"
+          },
+          {
+            "label": "OBP",
+            "value": ".395"
+          },
+          {
+            "label": "SLG",
+            "value": ".473"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "25"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13068",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Wesley Jones",
+      "normalizedName": "wesley jones",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "17",
+      "hometown": "Charlotte, N.C.",
+      "highSchool": "Charlotte Christian",
+      "previousSchool": "",
+      "hometownHighSchool": "Charlotte, N.C. / Charlotte Christian",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/wesley-jones/13068",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/JONES_WESLEY.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13068",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "13068",
+        "name": "Wesley Jones",
+        "normalizedName": "wesley jones",
+        "jersey": "17",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/wesley-jones/13068",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/JONES_WESLEY.jpg",
+        "gamesPlayed": 11,
+        "gamesStarted": 6,
+        "appearances": 11,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 8.35,
+        "whip": 1.69,
+        "wins": 2,
+        "losses": 2,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 18.333333333333332,
+        "inningsPitchedDisplay": "18.1",
+        "hitsAllowed": 23,
+        "runsAllowed": 17,
+        "earnedRunsAllowed": 17,
+        "walksAllowed": 8,
+        "strikeouts": 19,
+        "doublesAllowed": 5,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 4,
+        "opponentsAtBats": 75,
+        "wildPitches": 1,
+        "hitBatters": 0,
+        "balks": 1,
+        "opponentsBattingAverage": 0.307,
+        "walksHits": 31
+      },
+      "fieldingStats": {
+        "rosterBioId": "13068",
+        "name": "Wesley Jones",
+        "normalizedName": "wesley jones",
+        "jersey": "17",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/wesley-jones/13068",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/JONES_WESLEY.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 4,
+        "putouts": 1,
+        "assists": 2,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 2,
+        "caughtStealingBy": 2,
+        "stolenBasesPercentage": 0.5,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 3
+      },
+      "evaluation": {
+        "score": 14,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 48.42975206611571,
+          "Command": 27.500000000000004,
+          "Damage suppression": 0
+        },
+        "summary": "Wesley Jones looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 8.35",
+          "WHIP 1.69",
+          "K/9 9.3"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "8.35"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.69"
+          },
+          {
+            "label": "K/9",
+            "value": "9.3"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.9"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.96"
+          },
+          {
+            "label": "IP",
+            "value": "18.3"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13055",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Dawson Bryce",
+      "normalizedName": "dawson bryce",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "INF",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "18",
+      "hometown": "Taunton, Mass.",
+      "highSchool": "Taunton HS",
+      "previousSchool": "Merrimack",
+      "hometownHighSchool": "Taunton, Mass. / Taunton HS",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/dawson-bryce/13055",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/BRYCE_DAWSON.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13055",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "13055",
+        "name": "Dawson Bryce",
+        "normalizedName": "dawson bryce",
+        "jersey": "18",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/dawson-bryce/13055",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/BRYCE_DAWSON.jpg",
+        "gamesPlayed": 23,
+        "gamesStarted": 23,
+        "battingAverage": 0.316,
+        "onBasePercentage": 0.373,
+        "sluggingPercentage": 0.505,
+        "ops": 0.878,
+        "atBats": 95,
+        "runs": 19,
+        "hits": 30,
+        "doubles": 7,
+        "triples": 1,
+        "homeRuns": 3,
+        "runsBattedIn": 20,
+        "totalBases": 48,
+        "walks": 8,
+        "hitByPitch": 3,
+        "strikeouts": 17,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 4,
+        "sacrificeFlies": 4,
+        "sacrificeHits": 0,
+        "stolenBases": 5,
+        "stolenBasesAttempts": 5,
+        "putouts": 12,
+        "assists": 46,
+        "errors": 3,
+        "plateAppearances": 115,
+        "caughtStealing": 0,
+        "pickedOff": 1
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "13055",
+        "name": "Dawson Bryce",
+        "normalizedName": "dawson bryce",
+        "jersey": "18",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/dawson-bryce/13055",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/BRYCE_DAWSON.jpg",
+        "gamesPlayed": 19,
+        "gamesStarted": 19,
+        "putouts": 12,
+        "assists": 46,
+        "errors": 3,
+        "fieldingPercentage": 0.951,
+        "doublePlays": 10,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 61
+      },
+      "evaluation": {
+        "score": 46,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 51.66666666666665,
+          "Power": 48.684210526315795,
+          "Contact": 60,
+          "Discipline": 30.065359477124176,
+          "Speed": 16.666666666666664
+        },
+        "summary": "Dawson Bryce gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .316",
+          "OBP .373",
+          "SLG .505"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".316"
+          },
+          {
+            "label": "OBP",
+            "value": ".373"
+          },
+          {
+            "label": "SLG",
+            "value": ".505"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "20"
+          },
+          {
+            "label": "SB",
+            "value": "5"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13069",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Dylan Koontz",
+      "normalizedName": "dylan koontz",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "INF",
+      "classYear": "GR",
+      "handedness": "L/R",
+      "jersey": "20",
+      "hometown": "Huntersville, N.C.",
+      "highSchool": "Hough",
+      "previousSchool": "Campbell / Kentucky",
+      "hometownHighSchool": "Huntersville, N.C. / Hough",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/dylan-koontz/13069",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/KOONTZ_DYLAN.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13069",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "13069",
+        "name": "Dylan Koontz",
+        "normalizedName": "dylan koontz",
+        "jersey": "20",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/dylan-koontz/13069",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/KOONTZ_DYLAN.jpg",
+        "gamesPlayed": 36,
+        "gamesStarted": 34,
+        "battingAverage": 0.311,
+        "onBasePercentage": 0.462,
+        "sluggingPercentage": 0.59,
+        "ops": 1.052,
+        "atBats": 122,
+        "runs": 33,
+        "hits": 38,
+        "doubles": 4,
+        "triples": 0,
+        "homeRuns": 10,
+        "runsBattedIn": 36,
+        "totalBases": 72,
+        "walks": 21,
+        "hitByPitch": 13,
+        "strikeouts": 29,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 2,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 1,
+        "putouts": 15,
+        "assists": 2,
+        "errors": 0,
+        "plateAppearances": 157,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "13069",
+        "name": "Dylan Koontz",
+        "normalizedName": "dylan koontz",
+        "jersey": "20",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/dylan-koontz/13069",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/KOONTZ_DYLAN.jpg",
+        "gamesPlayed": 2,
+        "gamesStarted": 2,
+        "putouts": 15,
+        "assists": 2,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 17
+      },
+      "evaluation": {
+        "score": 69,
+        "fit": {
+          "label": "Pursue",
+          "className": "fit-pursue"
+        },
+        "components": {
+          "On-base": 100,
+          "Power": 71.05263157894737,
+          "Contact": 56.875,
+          "Discipline": 58.237547892720286,
+          "Speed": 3.3333333333333335
+        },
+        "summary": "Dylan Koontz profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .311",
+          "OBP .462",
+          "SLG .590"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".311"
+          },
+          {
+            "label": "OBP",
+            "value": ".462"
+          },
+          {
+            "label": "SLG",
+            "value": ".590"
+          },
+          {
+            "label": "HR",
+            "value": "10"
+          },
+          {
+            "label": "RBI",
+            "value": "36"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "metaLine": "GR / L/R",
+        "detailBadges": [
+          "INF",
+          "GR",
+          "L/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13081",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Adam Stanton",
+      "normalizedName": "adam stanton",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "5TH",
+      "handedness": "R/R",
+      "jersey": "21",
+      "hometown": "Eagan, Minn.",
+      "highSchool": "Eagan HS",
+      "previousSchool": "Iowa Western",
+      "hometownHighSchool": "Eagan, Minn. / Eagan HS",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/adam-stanton/13081",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/STANTON_ADAM.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13081",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "13081",
+        "name": "Adam Stanton",
+        "normalizedName": "adam stanton",
+        "jersey": "21",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/adam-stanton/13081",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/STANTON_ADAM.jpg",
+        "gamesPlayed": 16,
+        "gamesStarted": 0,
+        "appearances": 16,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 3.09,
+        "whip": 1.19,
+        "wins": 1,
+        "losses": 1,
+        "saves": 2,
+        "shutouts": 0,
+        "inningsPitched": 32,
+        "inningsPitchedDisplay": "32.0",
+        "hitsAllowed": 30,
+        "runsAllowed": 13,
+        "earnedRunsAllowed": 11,
+        "walksAllowed": 8,
+        "strikeouts": 26,
+        "doublesAllowed": 3,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 124,
+        "wildPitches": 0,
+        "hitBatters": 4,
+        "balks": 2,
+        "opponentsBattingAverage": 0.242,
+        "walksHits": 38
+      },
+      "fieldingStats": {
+        "rosterBioId": "13081",
+        "name": "Adam Stanton",
+        "normalizedName": "adam stanton",
+        "jersey": "21",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/adam-stanton/13081",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/STANTON_ADAM.jpg",
+        "gamesPlayed": 6,
+        "gamesStarted": 0,
+        "putouts": 5,
+        "assists": 2,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 4,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 7
+      },
+      "evaluation": {
+        "score": 13,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 30.113636363636363,
+          "Command": 45,
+          "Damage suppression": 0
+        },
+        "summary": "Adam Stanton looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 3.09",
+          "WHIP 1.19",
+          "K/9 7.3"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.09"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.19"
+          },
+          {
+            "label": "K/9",
+            "value": "7.3"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.3"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.28"
+          },
+          {
+            "label": "IP",
+            "value": "32.0"
+          }
+        ],
+        "metaLine": "5TH / R/R",
+        "detailBadges": [
+          "RHP",
+          "5TH",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13065",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Cody Gunderson",
+      "normalizedName": "cody gunderson",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C/1B",
+      "positionLong": "C/1B",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "22",
+      "hometown": "St. Malo, Manitoba, Canada",
+      "highSchool": "Institute College St. Pierre",
+      "previousSchool": "Hutchinson CC",
+      "hometownHighSchool": "St. Malo, Manitoba, Canada / Institute College St. Pierre",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/cody-gunderson/13065",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/GUNDERSON_CODY.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13065",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "13065",
+        "name": "Cody Gunderson",
+        "normalizedName": "cody gunderson",
+        "jersey": "22",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/cody-gunderson/13065",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/GUNDERSON_CODY.jpg",
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "battingAverage": 0.326,
+        "onBasePercentage": 0.405,
+        "sluggingPercentage": 0.556,
+        "ops": 0.961,
+        "atBats": 144,
+        "runs": 33,
+        "hits": 47,
+        "doubles": 12,
+        "triples": 0,
+        "homeRuns": 7,
+        "runsBattedIn": 26,
+        "totalBases": 80,
+        "walks": 13,
+        "hitByPitch": 8,
+        "strikeouts": 27,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 4,
+        "sacrificeFlies": 3,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 252,
+        "assists": 29,
+        "errors": 3,
+        "plateAppearances": 168,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "13065",
+        "name": "Cody Gunderson",
+        "normalizedName": "cody gunderson",
+        "jersey": "22",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/cody-gunderson/13065",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/GUNDERSON_CODY.jpg",
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "putouts": 252,
+        "assists": 29,
+        "errors": 3,
+        "fieldingPercentage": 0.989,
+        "doublePlays": 19,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 284
+      },
+      "evaluation": {
+        "score": 55,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 69.44444444444444,
+          "Power": 62.105263157894754,
+          "Contact": 66.25000000000001,
+          "Discipline": 31.275720164609044,
+          "Speed": 0
+        },
+        "summary": "Cody Gunderson profiles as a C/1B piece who gets on base at a high clip and brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .326",
+          "OBP .405",
+          "SLG .556"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".326"
+          },
+          {
+            "label": "OBP",
+            "value": ".405"
+          },
+          {
+            "label": "SLG",
+            "value": ".556"
+          },
+          {
+            "label": "HR",
+            "value": "7"
+          },
+          {
+            "label": "RBI",
+            "value": "26"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "C/1B",
+          "SR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13074",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Spencer Nolan",
+      "normalizedName": "spencer nolan",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "UTL",
+      "positionLong": "UTL",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "23",
+      "hometown": "Wilmington, N.C.",
+      "highSchool": "Hoggard HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Wilmington, N.C. / Hoggard HS",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/spencer-nolan/13074",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/NOLAN_SPENCER.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13074",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "13074",
+        "name": "Spencer Nolan",
+        "normalizedName": "spencer nolan",
+        "jersey": "23",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/spencer-nolan/13074",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/NOLAN_SPENCER.jpg",
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "battingAverage": 0.329,
+        "onBasePercentage": 0.407,
+        "sluggingPercentage": 0.426,
+        "ops": 0.833,
+        "atBats": 155,
+        "runs": 34,
+        "hits": 51,
+        "doubles": 10,
+        "triples": 1,
+        "homeRuns": 1,
+        "runsBattedIn": 19,
+        "totalBases": 66,
+        "walks": 18,
+        "hitByPitch": 3,
+        "strikeouts": 26,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 3,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 1,
+        "stolenBases": 9,
+        "stolenBasesAttempts": 10,
+        "putouts": 76,
+        "assists": 39,
+        "errors": 2,
+        "plateAppearances": 189,
+        "caughtStealing": 1,
+        "pickedOff": 1
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "13074",
+        "name": "Spencer Nolan",
+        "normalizedName": "spencer nolan",
+        "jersey": "23",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/spencer-nolan/13074",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/NOLAN_SPENCER.jpg",
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "putouts": 76,
+        "assists": 39,
+        "errors": 2,
+        "fieldingPercentage": 0.983,
+        "doublePlays": 4,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 117
+      },
+      "evaluation": {
+        "score": 53,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 70.55555555555553,
+          "Power": 27.89473684210526,
+          "Contact": 68.125,
+          "Discipline": 54.700854700854684,
+          "Speed": 30
+        },
+        "summary": "Spencer Nolan profiles as a UTL piece who gets on base at a high clip and adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .329",
+          "OBP .407",
+          "SLG .426"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".329"
+          },
+          {
+            "label": "OBP",
+            "value": ".407"
+          },
+          {
+            "label": "SLG",
+            "value": ".426"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "19"
+          },
+          {
+            "label": "SB",
+            "value": "9"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "UTL",
+          "SR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13056",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "AJ Camp",
+      "normalizedName": "aj camp",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "LHP",
+      "classYear": "R-SO",
+      "handedness": "S/L",
+      "jersey": "24",
+      "hometown": "Stallings, N.C.",
+      "highSchool": "Combine Academy",
+      "previousSchool": "Wake Forest",
+      "hometownHighSchool": "Stallings, N.C. / Combine Academy",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/aj-camp/13056",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/CAMP_AJ.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13056",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "13056",
+        "name": "AJ Camp",
+        "normalizedName": "aj camp",
+        "jersey": "24",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/aj-camp/13056",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/CAMP_AJ.jpg",
+        "gamesPlayed": 17,
+        "gamesStarted": 0,
+        "appearances": 17,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 4.64,
+        "whip": 1.45,
+        "wins": 1,
+        "losses": 1,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 21.333333333333332,
+        "inningsPitchedDisplay": "21.1",
+        "hitsAllowed": 21,
+        "runsAllowed": 12,
+        "earnedRunsAllowed": 11,
+        "walksAllowed": 10,
+        "strikeouts": 27,
+        "doublesAllowed": 2,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 78,
+        "wildPitches": 2,
+        "hitBatters": 3,
+        "balks": 0,
+        "opponentsBattingAverage": 0.269,
+        "walksHits": 31
+      },
+      "fieldingStats": {
+        "rosterBioId": "13056",
+        "name": "AJ Camp",
+        "normalizedName": "aj camp",
+        "jersey": "24",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/aj-camp/13056",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/CAMP_AJ.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 0,
+        "putouts": 1,
+        "assists": 3,
+        "errors": 1,
+        "fieldingPercentage": 0.8,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 4,
+        "caughtStealingBy": 2,
+        "stolenBasesPercentage": 0.667,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 5
+      },
+      "evaluation": {
+        "score": 19,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 67.1875,
+          "Command": 34,
+          "Damage suppression": 0
+        },
+        "summary": "AJ Camp looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 4.64",
+          "WHIP 1.45",
+          "K/9 11.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.64"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.45"
+          },
+          {
+            "label": "K/9",
+            "value": "11.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.27"
+          },
+          {
+            "label": "IP",
+            "value": "21.3"
+          }
+        ],
+        "metaLine": "R-SO / S/L",
+        "detailBadges": [
+          "LHP",
+          "R-SO",
+          "S/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13085",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Jaden Winter",
+      "normalizedName": "jaden winter",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "GR",
+      "handedness": "R/R",
+      "jersey": "25",
+      "hometown": "Apex, N.C.",
+      "highSchool": "Pro 5 Baseball Academy",
+      "previousSchool": "East Carolina",
+      "hometownHighSchool": "Apex, N.C. / Pro 5 Baseball Academy",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/jaden-winter/13085",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/WINTER_JADEN.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13085",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "13085",
+        "name": "Jaden Winter",
+        "normalizedName": "jaden winter",
+        "jersey": "25",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/jaden-winter/13085",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/WINTER_JADEN.jpg",
+        "gamesPlayed": 8,
+        "gamesStarted": 0,
+        "appearances": 8,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 4.91,
+        "whip": 1.43,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 14.666666666666666,
+        "inningsPitchedDisplay": "14.2",
+        "hitsAllowed": 17,
+        "runsAllowed": 9,
+        "earnedRunsAllowed": 8,
+        "walksAllowed": 4,
+        "strikeouts": 11,
+        "doublesAllowed": 2,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 60,
+        "wildPitches": 3,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.283,
+        "walksHits": 21
+      },
+      "fieldingStats": {
+        "rosterBioId": "13085",
+        "name": "Jaden Winter",
+        "normalizedName": "jaden winter",
+        "jersey": "25",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/jaden-winter/13085",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/WINTER_JADEN.jpg",
+        "gamesPlayed": 2,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 2,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 4,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 2
+      },
+      "evaluation": {
+        "score": 11,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 25,
+          "Command": 35,
+          "Damage suppression": 0
+        },
+        "summary": "Jaden Winter looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA 4.91",
+          "WHIP 1.43",
+          "K/9 6.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.91"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.43"
+          },
+          {
+            "label": "K/9",
+            "value": "6.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "14.7"
+          }
+        ],
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13066",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Todd Hudson",
+      "normalizedName": "todd hudson",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "OF",
+      "classYear": "SR",
+      "handedness": "L/R",
+      "jersey": "27",
+      "hometown": "Lexington, S.C.",
+      "highSchool": "River Bluff",
+      "previousSchool": "Liberty / Miami",
+      "hometownHighSchool": "Lexington, S.C. / River Bluff",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/todd-hudson/13066",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/HUDSON_TODD.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13066",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "13066",
+        "name": "Todd Hudson",
+        "normalizedName": "todd hudson",
+        "jersey": "27",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/todd-hudson/13066",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/HUDSON_TODD.jpg",
+        "gamesPlayed": 33,
+        "gamesStarted": 30,
+        "battingAverage": 0.347,
+        "onBasePercentage": 0.432,
+        "sluggingPercentage": 0.534,
+        "ops": 0.966,
+        "atBats": 118,
+        "runs": 27,
+        "hits": 41,
+        "doubles": 4,
+        "triples": 0,
+        "homeRuns": 6,
+        "runsBattedIn": 29,
+        "totalBases": 63,
+        "walks": 19,
+        "hitByPitch": 0,
+        "strikeouts": 19,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 2,
+        "sacrificeHits": 1,
+        "stolenBases": 3,
+        "stolenBasesAttempts": 4,
+        "putouts": 54,
+        "assists": 2,
+        "errors": 1,
+        "plateAppearances": 145,
+        "caughtStealing": 1,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "13066",
+        "name": "Todd Hudson",
+        "normalizedName": "todd hudson",
+        "jersey": "27",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/todd-hudson/13066",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/HUDSON_TODD.jpg",
+        "gamesPlayed": 28,
+        "gamesStarted": 28,
+        "putouts": 54,
+        "assists": 2,
+        "errors": 1,
+        "fieldingPercentage": 0.982,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 57
+      },
+      "evaluation": {
+        "score": 69,
+        "fit": {
+          "label": "Pursue",
+          "className": "fit-pursue"
+        },
+        "components": {
+          "On-base": 84.44444444444443,
+          "Power": 56.31578947368422,
+          "Contact": 79.37499999999999,
+          "Discipline": 88.88888888888889,
+          "Speed": 10
+        },
+        "summary": "Todd Hudson profiles as a OF piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .347",
+          "OBP .432",
+          "SLG .534"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".347"
+          },
+          {
+            "label": "OBP",
+            "value": ".432"
+          },
+          {
+            "label": "SLG",
+            "value": ".534"
+          },
+          {
+            "label": "HR",
+            "value": "6"
+          },
+          {
+            "label": "RBI",
+            "value": "29"
+          },
+          {
+            "label": "SB",
+            "value": "3"
+          }
+        ],
+        "metaLine": "SR / L/R",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "L/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13058",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Ryan Combs",
+      "normalizedName": "ryan combs",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "28",
+      "hometown": "Sarasota, Fla.",
+      "highSchool": "Lake Ranch",
+      "previousSchool": "Polk State / Tennessee",
+      "hometownHighSchool": "Sarasota, Fla. / Lake Ranch",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/ryan-combs/13058",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/COMBS_RYAN.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13058",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "13058",
+        "name": "Ryan Combs",
+        "normalizedName": "ryan combs",
+        "jersey": "28",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/ryan-combs/13058",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/COMBS_RYAN.jpg",
+        "gamesPlayed": 14,
+        "gamesStarted": 0,
+        "appearances": 14,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 8.16,
+        "whip": 2.16,
+        "wins": 1,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 14.333333333333334,
+        "inningsPitchedDisplay": "14.1",
+        "hitsAllowed": 22,
+        "runsAllowed": 13,
+        "earnedRunsAllowed": 13,
+        "walksAllowed": 9,
+        "strikeouts": 24,
+        "doublesAllowed": 7,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 62,
+        "wildPitches": 1,
+        "hitBatters": 1,
+        "balks": 2,
+        "opponentsBattingAverage": 0.355,
+        "walksHits": 31
+      },
+      "fieldingStats": {
+        "rosterBioId": "13058",
+        "name": "Ryan Combs",
+        "normalizedName": "ryan combs",
+        "jersey": "28",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/ryan-combs/13058",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/COMBS_RYAN.jpg",
+        "gamesPlayed": 4,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 2,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 3,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 2
+      },
+      "evaluation": {
+        "score": 25,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 100,
+          "Command": 33.333333333333336,
+          "Damage suppression": 0
+        },
+        "summary": "Ryan Combs looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 8.16",
+          "WHIP 2.16",
+          "K/9 15.1"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "8.16"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.16"
+          },
+          {
+            "label": "K/9",
+            "value": "15.1"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.88"
+          },
+          {
+            "label": "IP",
+            "value": "14.3"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13084",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Joseph Taylor",
+      "normalizedName": "joseph taylor",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "29",
+      "hometown": "Apex, N.C.",
+      "highSchool": "Pro 5 Baseball Academy",
+      "previousSchool": "",
+      "hometownHighSchool": "Apex, N.C. / Pro 5 Baseball Academy",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/joseph-taylor/13084",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/TAYLOR_JOSEPH.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13084",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "13084",
+        "name": "Joseph Taylor",
+        "normalizedName": "joseph taylor",
+        "jersey": "29",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/joseph-taylor/13084",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/TAYLOR_JOSEPH.jpg",
+        "gamesPlayed": 16,
+        "gamesStarted": 1,
+        "appearances": 16,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 6.23,
+        "whip": 1.74,
+        "wins": 4,
+        "losses": 4,
+        "saves": 2,
+        "shutouts": 0,
+        "inningsPitched": 39,
+        "inningsPitchedDisplay": "39.0",
+        "hitsAllowed": 42,
+        "runsAllowed": 28,
+        "earnedRunsAllowed": 27,
+        "walksAllowed": 26,
+        "strikeouts": 45,
+        "doublesAllowed": 7,
+        "triplesAllowed": 3,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 153,
+        "wildPitches": 5,
+        "hitBatters": 3,
+        "balks": 0,
+        "opponentsBattingAverage": 0.275,
+        "walksHits": 68
+      },
+      "fieldingStats": {
+        "rosterBioId": "13084",
+        "name": "Joseph Taylor",
+        "normalizedName": "joseph taylor",
+        "jersey": "29",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/joseph-taylor/13084",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/TAYLOR_JOSEPH.jpg",
+        "gamesPlayed": 10,
+        "gamesStarted": 1,
+        "putouts": 2,
+        "assists": 7,
+        "errors": 2,
+        "fieldingPercentage": 0.818,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 5,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": 0.833,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 11
+      },
+      "evaluation": {
+        "score": 14,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 58.04195804195804,
+          "Command": 14.615384615384617,
+          "Damage suppression": 0
+        },
+        "summary": "Joseph Taylor looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 6.23",
+          "WHIP 1.74",
+          "K/9 10.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.23"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.74"
+          },
+          {
+            "label": "K/9",
+            "value": "10.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "6.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.23"
+          },
+          {
+            "label": "IP",
+            "value": "39.0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13059",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Eddie Copper",
+      "normalizedName": "eddie copper",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "R-SO",
+      "handedness": "R/R",
+      "jersey": "30",
+      "hometown": "Ivyland, Pa.",
+      "highSchool": "P27 Academy",
+      "previousSchool": "South Carolina",
+      "hometownHighSchool": "Ivyland, Pa. / P27 Academy",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/eddie-copper/13059",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/COPPER_EDDIE.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13059",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "13059",
+        "name": "Eddie Copper",
+        "normalizedName": "eddie copper",
+        "jersey": "30",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/eddie-copper/13059",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/COPPER_EDDIE.jpg",
+        "gamesPlayed": 9,
+        "gamesStarted": 9,
+        "appearances": 9,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 4.03,
+        "whip": 1.37,
+        "wins": 3,
+        "losses": 2,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 38,
+        "inningsPitchedDisplay": "38.0",
+        "hitsAllowed": 29,
+        "runsAllowed": 18,
+        "earnedRunsAllowed": 17,
+        "walksAllowed": 23,
+        "strikeouts": 40,
+        "doublesAllowed": 5,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 132,
+        "wildPitches": 4,
+        "hitBatters": 4,
+        "balks": 0,
+        "opponentsBattingAverage": 0.22,
+        "walksHits": 52
+      },
+      "fieldingStats": {
+        "rosterBioId": "13059",
+        "name": "Eddie Copper",
+        "normalizedName": "eddie copper",
+        "jersey": "30",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/eddie-copper/13059",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/COPPER_EDDIE.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 7,
+        "putouts": 1,
+        "assists": 6,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 8,
+        "caughtStealingBy": 3,
+        "stolenBasesPercentage": 0.727,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 7
+      },
+      "evaluation": {
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 49.76076555023923,
+          "Command": 14.782608695652169,
+          "Damage suppression": 0
+        },
+        "summary": "Eddie Copper looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 4.03",
+          "WHIP 1.37",
+          "K/9 9.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.03"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.37"
+          },
+          {
+            "label": "K/9",
+            "value": "9.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.47"
+          },
+          {
+            "label": "IP",
+            "value": "38.0"
+          }
+        ],
+        "metaLine": "R-SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13072",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Drew Munn",
+      "normalizedName": "drew munn",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "32",
+      "hometown": "Huntington, N.Y.",
+      "highSchool": "Cold Spring Harbor",
+      "previousSchool": "Central Connecticut State",
+      "hometownHighSchool": "Huntington, N.Y. / Cold Spring Harbor",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/drew-munn/13072",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/MUNN_DREW.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13072",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "13072",
+        "name": "Drew Munn",
+        "normalizedName": "drew munn",
+        "jersey": "32",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/drew-munn/13072",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/MUNN_DREW.jpg",
+        "gamesPlayed": 10,
+        "gamesStarted": 7,
+        "appearances": 10,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 5.68,
+        "whip": 1.52,
+        "wins": 3,
+        "losses": 2,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 31.666666666666668,
+        "inningsPitchedDisplay": "31.2",
+        "hitsAllowed": 36,
+        "runsAllowed": 23,
+        "earnedRunsAllowed": 20,
+        "walksAllowed": 12,
+        "strikeouts": 21,
+        "doublesAllowed": 8,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 4,
+        "opponentsAtBats": 123,
+        "wildPitches": 0,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.293,
+        "walksHits": 48
+      },
+      "fieldingStats": {
+        "rosterBioId": "13072",
+        "name": "Drew Munn",
+        "normalizedName": "drew munn",
+        "jersey": "32",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/drew-munn/13072",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/MUNN_DREW.jpg",
+        "gamesPlayed": 6,
+        "gamesStarted": 5,
+        "putouts": 3,
+        "assists": 1,
+        "errors": 1,
+        "fieldingPercentage": 0.8,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 1,
+        "caughtStealingBy": 3,
+        "stolenBasesPercentage": 0.25,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 5
+      },
+      "evaluation": {
+        "score": 6,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 17.894736842105257,
+          "Command": 14.999999999999996,
+          "Damage suppression": 0
+        },
+        "summary": "Drew Munn gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 5.68",
+          "WHIP 1.52",
+          "K/9 6.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.68"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.52"
+          },
+          {
+            "label": "K/9",
+            "value": "6.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.14"
+          },
+          {
+            "label": "IP",
+            "value": "31.7"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13076",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Chayse Oxborrow",
+      "normalizedName": "chayse oxborrow",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "LHP",
+      "classYear": "JR",
+      "handedness": "R/L",
+      "jersey": "34",
+      "hometown": "Preston, Idaho",
+      "highSchool": "Preston",
+      "previousSchool": "Lower Columbia College",
+      "hometownHighSchool": "Preston, Idaho / Preston",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/chayse-oxborrow/13076",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/OXBORROW_CHAYSE.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13076",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "13076",
+        "name": "Chayse Oxborrow",
+        "normalizedName": "chayse oxborrow",
+        "jersey": "34",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/chayse-oxborrow/13076",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/OXBORROW_CHAYSE.jpg",
+        "gamesPlayed": 12,
+        "gamesStarted": 7,
+        "appearances": 12,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 5.76,
+        "whip": 1.56,
+        "wins": 1,
+        "losses": 1,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 25,
+        "inningsPitchedDisplay": "25.0",
+        "hitsAllowed": 28,
+        "runsAllowed": 16,
+        "earnedRunsAllowed": 16,
+        "walksAllowed": 11,
+        "strikeouts": 31,
+        "doublesAllowed": 9,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 98,
+        "wildPitches": 0,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.286,
+        "walksHits": 39
+      },
+      "fieldingStats": {
+        "rosterBioId": "13076",
+        "name": "Chayse Oxborrow",
+        "normalizedName": "chayse oxborrow",
+        "jersey": "34",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/chayse-oxborrow/13076",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/OXBORROW_CHAYSE.jpg",
+        "gamesPlayed": 6,
+        "gamesStarted": 5,
+        "putouts": 1,
+        "assists": 3,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 4,
+        "caughtStealingBy": 3,
+        "stolenBasesPercentage": 0.571,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 4
+      },
+      "evaluation": {
+        "score": 19,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 65.0909090909091,
+          "Command": 36.36363636363637,
+          "Damage suppression": 0
+        },
+        "summary": "Chayse Oxborrow looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 5.76",
+          "WHIP 1.56",
+          "K/9 11.2"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.76"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.56"
+          },
+          {
+            "label": "K/9",
+            "value": "11.2"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.72"
+          },
+          {
+            "label": "IP",
+            "value": "25.0"
+          }
+        ],
+        "metaLine": "JR / R/L",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "R/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13070",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Andrew Kribbs",
+      "normalizedName": "andrew kribbs",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "35",
+      "hometown": "Knoxville, Tenn.",
+      "highSchool": "CAK HS",
+      "previousSchool": "Cleveland State CC",
+      "hometownHighSchool": "Knoxville, Tenn. / CAK HS",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/andrew-kribbs/13070",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/KRIBBS_ANDREW.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13070",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "13070",
+        "name": "Andrew Kribbs",
+        "normalizedName": "andrew kribbs",
+        "jersey": "35",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/andrew-kribbs/13070",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/KRIBBS_ANDREW.jpg",
+        "gamesPlayed": 6,
+        "gamesStarted": 2,
+        "appearances": 6,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 10.5,
+        "whip": 3,
+        "wins": 0,
+        "losses": 2,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 6,
+        "inningsPitchedDisplay": "6.0",
+        "hitsAllowed": 5,
+        "runsAllowed": 12,
+        "earnedRunsAllowed": 7,
+        "walksAllowed": 13,
+        "strikeouts": 7,
+        "doublesAllowed": 2,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 22,
+        "wildPitches": 4,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.227,
+        "walksHits": 18
+      },
+      "fieldingStats": {
+        "rosterBioId": "13070",
+        "name": "Andrew Kribbs",
+        "normalizedName": "andrew kribbs",
+        "jersey": "35",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/andrew-kribbs/13070",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/KRIBBS_ANDREW.jpg",
+        "gamesPlayed": 4,
+        "gamesStarted": 2,
+        "putouts": 1,
+        "assists": 0,
+        "errors": 1,
+        "fieldingPercentage": 0.5,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 4,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": 0.8,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 2
+      },
+      "evaluation": {
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 59.09090909090909,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Andrew Kribbs looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 10.50",
+          "WHIP 3.00",
+          "K/9 10.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "10.50"
+          },
+          {
+            "label": "WHIP",
+            "value": "3.00"
+          },
+          {
+            "label": "K/9",
+            "value": "10.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "19.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.50"
+          },
+          {
+            "label": "IP",
+            "value": "6.0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13053",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Adam Baker",
+      "normalizedName": "adam baker",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "R-SO",
+      "handedness": "R/R",
+      "jersey": "36",
+      "hometown": "Knoxville, Tenn.",
+      "highSchool": "Hardin Valley",
+      "previousSchool": "Cleveland State CC",
+      "hometownHighSchool": "Knoxville, Tenn. / Hardin Valley",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/adam-baker/13053",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/BAKER_ADAM.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13053",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "13053",
+        "name": "Adam Baker",
+        "normalizedName": "adam baker",
+        "jersey": "36",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/adam-baker/13053",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/BAKER_ADAM.jpg",
+        "gamesPlayed": 4,
+        "gamesStarted": 2,
+        "appearances": 4,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 4.76,
+        "whip": 1.41,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 5.666666666666667,
+        "inningsPitchedDisplay": "5.2",
+        "hitsAllowed": 4,
+        "runsAllowed": 3,
+        "earnedRunsAllowed": 3,
+        "walksAllowed": 4,
+        "strikeouts": 5,
+        "doublesAllowed": 1,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 20,
+        "wildPitches": 1,
+        "hitBatters": 1,
+        "balks": 0,
+        "opponentsBattingAverage": 0.2,
+        "walksHits": 8
+      },
+      "fieldingStats": {
+        "rosterBioId": "13053",
+        "name": "Adam Baker",
+        "normalizedName": "adam baker",
+        "jersey": "36",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/adam-baker/13053",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/BAKER_ADAM.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 1,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 1
+      },
+      "evaluation": {
+        "score": 8,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 35.828877005347586,
+          "Command": 5,
+          "Damage suppression": 0
+        },
+        "summary": "Adam Baker gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 4.76",
+          "WHIP 1.41",
+          "K/9 7.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.76"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.41"
+          },
+          {
+            "label": "K/9",
+            "value": "7.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "6.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "5.7"
+          }
+        ],
+        "metaLine": "R-SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13062",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Trip DoVale",
+      "normalizedName": "trip dovale",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "38",
+      "hometown": "Roswell, Ga.",
+      "highSchool": "Roswell HS",
+      "previousSchool": "Georgia Highlands",
+      "hometownHighSchool": "Roswell, Ga. / Roswell HS",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/trip-dovale/13062",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/DOVALE_TRIP.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13062",
+      "sources": [
+        "Charlotte Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Trip DoVale looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Charlotte Athletics roster"
+      }
+    },
+    {
+      "id": "charlotte-13063",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Bradley Farris",
+      "normalizedName": "bradley farris",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "C",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "39",
+      "hometown": "Valparaiso, Ind.",
+      "highSchool": "Morgan Township",
+      "previousSchool": "",
+      "hometownHighSchool": "Valparaiso, Ind. / Morgan Township",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/bradley-farris/13063",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/FARRIS_BRADLEY.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13063",
+      "sources": [
+        "Charlotte Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Bradley Farris gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "C",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Charlotte Athletics roster"
+      }
+    },
+    {
+      "id": "charlotte-13075",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Aaron Orozco",
+      "normalizedName": "aaron orozco",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "C",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "40",
+      "hometown": "West Palm Beach, Fla.",
+      "highSchool": "St. Andrews",
+      "previousSchool": "",
+      "hometownHighSchool": "West Palm Beach, Fla. / St. Andrews",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/aaron-orozco/13075",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/OROZCO_AARON.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13075",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "13075",
+        "name": "Aaron Orozco",
+        "normalizedName": "aaron orozco",
+        "jersey": "40",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/aaron-orozco/13075",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/OROZCO_AARON.jpg",
+        "gamesPlayed": 11,
+        "gamesStarted": 3,
+        "battingAverage": 0.214,
+        "onBasePercentage": 0.294,
+        "sluggingPercentage": 0.214,
+        "ops": 0.508,
+        "atBats": 14,
+        "runs": 3,
+        "hits": 3,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 2,
+        "totalBases": 3,
+        "walks": 2,
+        "hitByPitch": 0,
+        "strikeouts": 7,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 28,
+        "assists": 1,
+        "errors": 0,
+        "plateAppearances": 17,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "13075",
+        "name": "Aaron Orozco",
+        "normalizedName": "aaron orozco",
+        "jersey": "40",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/aaron-orozco/13075",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/OROZCO_AARON.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 3,
+        "putouts": 28,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 5,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 29
+      },
+      "evaluation": {
+        "score": 4,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 7.777777777777755,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 9.523809523809518,
+          "Speed": 0
+        },
+        "summary": "Aaron Orozco gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .214",
+          "OBP .294",
+          "SLG .214"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".214"
+          },
+          {
+            "label": "OBP",
+            "value": ".294"
+          },
+          {
+            "label": "SLG",
+            "value": ".214"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "2"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "C",
+          "FR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13071",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Walker Morgan",
+      "normalizedName": "walker morgan",
+      "compositeRole": "Two-Way",
+      "role": "Pitcher",
+      "position": "INF/RHP",
+      "positionLong": "INF/RHP",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "44",
+      "hometown": "Montgomery, Ala.",
+      "highSchool": "Homelife Academy",
+      "previousSchool": "Walters State",
+      "hometownHighSchool": "Montgomery, Ala. / Homelife Academy",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/walker-morgan/13071",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/MORGAN_WALKER.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13071",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "13071",
+        "name": "Walker Morgan",
+        "normalizedName": "walker morgan",
+        "jersey": "44",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/walker-morgan/13071",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/MORGAN_WALKER.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 1,
+        "battingAverage": 0.286,
+        "onBasePercentage": 0.286,
+        "sluggingPercentage": 0.429,
+        "ops": 0.715,
+        "atBats": 7,
+        "runs": 2,
+        "hits": 2,
+        "doubles": 1,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 1,
+        "totalBases": 3,
+        "walks": 0,
+        "hitByPitch": 0,
+        "strikeouts": 4,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 0,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 7,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": {
+        "rosterBioId": "13071",
+        "name": "Walker Morgan",
+        "normalizedName": "walker morgan",
+        "jersey": "44",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/walker-morgan/13071",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/MORGAN_WALKER.jpg",
+        "gamesPlayed": 2,
+        "gamesStarted": 0,
+        "appearances": 2,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 0,
+        "whip": 0,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 1,
+        "inningsPitchedDisplay": "1.0",
+        "hitsAllowed": 0,
+        "runsAllowed": 0,
+        "earnedRunsAllowed": 0,
+        "walksAllowed": 0,
+        "strikeouts": 0,
+        "doublesAllowed": 0,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 2,
+        "wildPitches": 0,
+        "hitBatters": 0,
+        "balks": 0,
+        "opponentsBattingAverage": 0,
+        "walksHits": 0
+      },
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Walker Morgan looks like a INF/RHP option who limits runs and throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 0.00",
+          "WHIP 0.00",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "0.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "0.00"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "1.0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "INF/RHP",
+          "JR",
+          "R/R",
+          "Two-Way"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13077",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Sebastian Perez",
+      "normalizedName": "sebastian perez",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "45",
+      "hometown": "Southwest Ranches, Fla.",
+      "highSchool": "West Broward HS",
+      "previousSchool": "Miami / College of Central Florida",
+      "hometownHighSchool": "Southwest Ranches, Fla. / West Broward HS",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/sebastian-perez/13077",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/PEREZ_SEBASTIAN.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13077",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "13077",
+        "name": "Sebastian Perez",
+        "normalizedName": "sebastian perez",
+        "jersey": "45",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/sebastian-perez/13077",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/PEREZ_SEBASTIAN.jpg",
+        "gamesPlayed": 14,
+        "gamesStarted": 1,
+        "appearances": 14,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 8.14,
+        "whip": 2,
+        "wins": 0,
+        "losses": 1,
+        "saves": 1,
+        "shutouts": 0,
+        "inningsPitched": 21,
+        "inningsPitchedDisplay": "21.0",
+        "hitsAllowed": 29,
+        "runsAllowed": 20,
+        "earnedRunsAllowed": 19,
+        "walksAllowed": 13,
+        "strikeouts": 19,
+        "doublesAllowed": 6,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 89,
+        "wildPitches": 1,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.326,
+        "walksHits": 42
+      },
+      "fieldingStats": {
+        "rosterBioId": "13077",
+        "name": "Sebastian Perez",
+        "normalizedName": "sebastian perez",
+        "jersey": "45",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/sebastian-perez/13077",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/PEREZ_SEBASTIAN.jpg",
+        "gamesPlayed": 6,
+        "gamesStarted": 0,
+        "putouts": 2,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 4,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": 0.8,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 3
+      },
+      "evaluation": {
+        "score": 9,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 37.662337662337656,
+          "Command": 9.230769230769228,
+          "Damage suppression": 0
+        },
+        "summary": "Sebastian Perez gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 8.14",
+          "WHIP 2.00",
+          "K/9 8.1"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "8.14"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.00"
+          },
+          {
+            "label": "K/9",
+            "value": "8.1"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.6"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.29"
+          },
+          {
+            "label": "IP",
+            "value": "21.0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13080",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Hunter Sloop",
+      "normalizedName": "hunter sloop",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "R-JR",
+      "handedness": "R/R",
+      "jersey": "47",
+      "hometown": "Mount Pleasant, N.C.",
+      "highSchool": "P27",
+      "previousSchool": "Tennessee",
+      "hometownHighSchool": "Mount Pleasant, N.C. / P27",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/hunter-sloop/13080",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/SLOOP_HUNTER.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13080",
+      "sources": [
+        "Charlotte Athletics roster",
+        "Charlotte cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "13080",
+        "name": "Hunter Sloop",
+        "normalizedName": "hunter sloop",
+        "jersey": "47",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/hunter-sloop/13080",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/SLOOP_HUNTER.jpg",
+        "gamesPlayed": 2,
+        "gamesStarted": 0,
+        "appearances": 2,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 54,
+        "whip": 6,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 0.3333333333333333,
+        "inningsPitchedDisplay": "0.1",
+        "hitsAllowed": 2,
+        "runsAllowed": 2,
+        "earnedRunsAllowed": 2,
+        "walksAllowed": 0,
+        "strikeouts": 1,
+        "doublesAllowed": 0,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 3,
+        "wildPitches": 0,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.667,
+        "walksHits": 2
+      },
+      "fieldingStats": {
+        "rosterBioId": "13080",
+        "name": "Hunter Sloop",
+        "normalizedName": "hunter sloop",
+        "jersey": "47",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/hunter-sloop/13080",
+        "imageUrl": "https://charlotte49ers.com/images/2025/9/26/SLOOP_HUNTER.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 0,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 1,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 0
+      },
+      "evaluation": {
+        "score": 36,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 100,
+          "Command": 100,
+          "Damage suppression": 0
+        },
+        "summary": "Hunter Sloop looks like a RHP option who misses bats and throws enough strikes.",
+        "summaryMetrics": [
+          "ERA 54.00",
+          "WHIP 6.00",
+          "K/9 27.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "54.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "6.00"
+          },
+          {
+            "label": "K/9",
+            "value": "27.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.3"
+          }
+        ],
+        "metaLine": "R-JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats"
+      }
+    },
+    {
+      "id": "charlotte-13052",
+      "schoolSlug": "charlotte",
+      "school": "Charlotte",
+      "schoolLongName": "UNC Charlotte",
+      "name": "Andrew Alberts",
+      "normalizedName": "andrew alberts",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "LHP",
+      "classYear": "R-SO",
+      "handedness": "L/L",
+      "jersey": "51",
+      "hometown": "Jupiter, Fla.",
+      "highSchool": "Pinnacle",
+      "previousSchool": "Olympia College / Manhattan",
+      "hometownHighSchool": "Jupiter, Fla. / Pinnacle",
+      "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/andrew-alberts/13052",
+      "imageUrl": "https://charlotte49ers.com/images/2025/9/26/ALBERTS_ANDREW.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13052",
+      "sources": [
+        "Charlotte Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Andrew Alberts looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "R-SO / L/L",
+        "detailBadges": [
+          "LHP",
+          "R-SO",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Charlotte Athletics roster"
+      }
+    }
+  ],
+  "playerBoard": {
+    "source": "Charlotte Athletics roster + cumulative stats / ESPN roster",
+    "note": "This Charlotte-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Charlotte's public ESPN roster feed did not line up cleanly with the current school-site roster.",
+    "totalPlayers": 31,
+    "roleCounts": {
+      "Hitter": 13,
+      "Pitcher": 18
+    },
+    "players": [
+      {
+        "id": "charlotte-13079",
+        "name": "Juan Rivera",
+        "school": "Charlotte",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Juan Rivera gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .091",
+          "OBP .091",
+          "SLG .091"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".091"
+          },
+          {
+            "label": "OBP",
+            "value": ".091"
+          },
+          {
+            "label": "SLG",
+            "value": ".091"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "SR / L/R",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/juan-rivera/13079",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13067",
+        "name": "Adrian Jimenez",
+        "school": "Charlotte",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 34,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Adrian Jimenez profiles as a INF piece who controls at-bats.",
+        "summaryMetrics": [
+          "AVG .248",
+          "OBP .366",
+          "SLG .350"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".248"
+          },
+          {
+            "label": "OBP",
+            "value": ".366"
+          },
+          {
+            "label": "SLG",
+            "value": ".350"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "14"
+          },
+          {
+            "label": "SB",
+            "value": "2"
+          }
+        ],
+        "components": {
+          "On-base": 47.77777777777776,
+          "Power": 7.8947368421052575,
+          "Contact": 17.5,
+          "Discipline": 88.88888888888889,
+          "Speed": 6.666666666666667
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/adrian-jimenez/13067",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13083",
+        "name": "Johnny Sutryk",
+        "school": "Charlotte",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 6,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Johnny Sutryk gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .196",
+          "OBP .255",
+          "SLG .392"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".196"
+          },
+          {
+            "label": "OBP",
+            "value": ".255"
+          },
+          {
+            "label": "SLG",
+            "value": ".392"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "9"
+          },
+          {
+            "label": "SB",
+            "value": "4"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 18.947368421052634,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 13.333333333333334
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/johnny-sutryk/13083",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13073",
+        "name": "Robert Nedry",
+        "school": "Charlotte",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "JR",
+        "handedness": "L/R",
+        "score": 49,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Robert Nedry profiles as a INF piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .291",
+          "OBP .419",
+          "SLG .425"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".291"
+          },
+          {
+            "label": "OBP",
+            "value": ".419"
+          },
+          {
+            "label": "SLG",
+            "value": ".425"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "18"
+          },
+          {
+            "label": "SB",
+            "value": "6"
+          }
+        ],
+        "components": {
+          "On-base": 77.2222222222222,
+          "Power": 27.631578947368418,
+          "Contact": 44.374999999999986,
+          "Discipline": 54.166666666666664,
+          "Speed": 20
+        },
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/robert-nedry/13073",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13061",
+        "name": "Alec DeMartino",
+        "school": "Charlotte",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 66,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "summary": "Alec DeMartino profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .318",
+          "OBP .441",
+          "SLG .561"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".318"
+          },
+          {
+            "label": "OBP",
+            "value": ".441"
+          },
+          {
+            "label": "SLG",
+            "value": ".561"
+          },
+          {
+            "label": "HR",
+            "value": "6"
+          },
+          {
+            "label": "RBI",
+            "value": "30"
+          },
+          {
+            "label": "SB",
+            "value": "5"
+          }
+        ],
+        "components": {
+          "On-base": 89.44444444444444,
+          "Power": 63.421052631578966,
+          "Contact": 61.25000000000001,
+          "Discipline": 59.64912280701752,
+          "Speed": 16.666666666666664
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "OF",
+          "GR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/alec-demartino/13061",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13064",
+        "name": "Jacob Gholston",
+        "school": "Charlotte",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jacob Gholston looks like a RHP option who throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 99.00",
+          "WHIP 0.00",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "99.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "0.00"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/jacob-gholston/13064",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13057",
+        "name": "Chase Carson",
+        "school": "Charlotte",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "GR",
+        "handedness": "L/L",
+        "score": 13,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Chase Carson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 5.55",
+          "WHIP 1.63",
+          "K/9 8.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.55"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.63"
+          },
+          {
+            "label": "K/9",
+            "value": "8.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.76"
+          },
+          {
+            "label": "IP",
+            "value": "35.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 43.925233644859816,
+          "Command": 23.75,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / L/L",
+        "detailBadges": [
+          "LHP",
+          "GR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/chase-carson/13057",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13082",
+        "name": "Cale Stricklin",
+        "school": "Charlotte",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 48,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cale Stricklin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .336",
+          "OBP .395",
+          "SLG .473"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".336"
+          },
+          {
+            "label": "OBP",
+            "value": ".395"
+          },
+          {
+            "label": "SLG",
+            "value": ".473"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "25"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 63.888888888888886,
+          "Power": 40.26315789473684,
+          "Contact": 72.50000000000001,
+          "Discipline": 30.409356725146193,
+          "Speed": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/cale-stricklin/13082",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13068",
+        "name": "Wesley Jones",
+        "school": "Charlotte",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 14,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Wesley Jones looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 8.35",
+          "WHIP 1.69",
+          "K/9 9.3"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "8.35"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.69"
+          },
+          {
+            "label": "K/9",
+            "value": "9.3"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.9"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.96"
+          },
+          {
+            "label": "IP",
+            "value": "18.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 48.42975206611571,
+          "Command": 27.500000000000004,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/wesley-jones/13068",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13055",
+        "name": "Dawson Bryce",
+        "school": "Charlotte",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 46,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Dawson Bryce gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .316",
+          "OBP .373",
+          "SLG .505"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".316"
+          },
+          {
+            "label": "OBP",
+            "value": ".373"
+          },
+          {
+            "label": "SLG",
+            "value": ".505"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "20"
+          },
+          {
+            "label": "SB",
+            "value": "5"
+          }
+        ],
+        "components": {
+          "On-base": 51.66666666666665,
+          "Power": 48.684210526315795,
+          "Contact": 60,
+          "Discipline": 30.065359477124176,
+          "Speed": 16.666666666666664
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/dawson-bryce/13055",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13069",
+        "name": "Dylan Koontz",
+        "school": "Charlotte",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "GR",
+        "handedness": "L/R",
+        "score": 69,
+        "fit": {
+          "label": "Pursue",
+          "className": "fit-pursue"
+        },
+        "summary": "Dylan Koontz profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .311",
+          "OBP .462",
+          "SLG .590"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".311"
+          },
+          {
+            "label": "OBP",
+            "value": ".462"
+          },
+          {
+            "label": "SLG",
+            "value": ".590"
+          },
+          {
+            "label": "HR",
+            "value": "10"
+          },
+          {
+            "label": "RBI",
+            "value": "36"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 100,
+          "Power": 71.05263157894737,
+          "Contact": 56.875,
+          "Discipline": 58.237547892720286,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "GR / L/R",
+        "detailBadges": [
+          "INF",
+          "GR",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/dylan-koontz/13069",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13081",
+        "name": "Adam Stanton",
+        "school": "Charlotte",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "5TH",
+        "handedness": "R/R",
+        "score": 13,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Adam Stanton looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 3.09",
+          "WHIP 1.19",
+          "K/9 7.3"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.09"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.19"
+          },
+          {
+            "label": "K/9",
+            "value": "7.3"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.3"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.28"
+          },
+          {
+            "label": "IP",
+            "value": "32.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 30.113636363636363,
+          "Command": 45,
+          "Damage suppression": 0
+        },
+        "metaLine": "5TH / R/R",
+        "detailBadges": [
+          "RHP",
+          "5TH",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/adam-stanton/13081",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13065",
+        "name": "Cody Gunderson",
+        "school": "Charlotte",
+        "role": "Hitter",
+        "position": "C/1B",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 55,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cody Gunderson profiles as a C/1B piece who gets on base at a high clip and brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .326",
+          "OBP .405",
+          "SLG .556"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".326"
+          },
+          {
+            "label": "OBP",
+            "value": ".405"
+          },
+          {
+            "label": "SLG",
+            "value": ".556"
+          },
+          {
+            "label": "HR",
+            "value": "7"
+          },
+          {
+            "label": "RBI",
+            "value": "26"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 69.44444444444444,
+          "Power": 62.105263157894754,
+          "Contact": 66.25000000000001,
+          "Discipline": 31.275720164609044,
+          "Speed": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "C/1B",
+          "SR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/cody-gunderson/13065",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13074",
+        "name": "Spencer Nolan",
+        "school": "Charlotte",
+        "role": "Hitter",
+        "position": "UTL",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 53,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Spencer Nolan profiles as a UTL piece who gets on base at a high clip and adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .329",
+          "OBP .407",
+          "SLG .426"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".329"
+          },
+          {
+            "label": "OBP",
+            "value": ".407"
+          },
+          {
+            "label": "SLG",
+            "value": ".426"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "19"
+          },
+          {
+            "label": "SB",
+            "value": "9"
+          }
+        ],
+        "components": {
+          "On-base": 70.55555555555553,
+          "Power": 27.89473684210526,
+          "Contact": 68.125,
+          "Discipline": 54.700854700854684,
+          "Speed": 30
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "UTL",
+          "SR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/spencer-nolan/13074",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13056",
+        "name": "AJ Camp",
+        "school": "Charlotte",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "R-SO",
+        "handedness": "S/L",
+        "score": 19,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "AJ Camp looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 4.64",
+          "WHIP 1.45",
+          "K/9 11.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.64"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.45"
+          },
+          {
+            "label": "K/9",
+            "value": "11.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.27"
+          },
+          {
+            "label": "IP",
+            "value": "21.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 67.1875,
+          "Command": 34,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-SO / S/L",
+        "detailBadges": [
+          "LHP",
+          "R-SO",
+          "S/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/aj-camp/13056",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13085",
+        "name": "Jaden Winter",
+        "school": "Charlotte",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 11,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jaden Winter looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA 4.91",
+          "WHIP 1.43",
+          "K/9 6.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.91"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.43"
+          },
+          {
+            "label": "K/9",
+            "value": "6.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "14.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 25,
+          "Command": 35,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/jaden-winter/13085",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13066",
+        "name": "Todd Hudson",
+        "school": "Charlotte",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SR",
+        "handedness": "L/R",
+        "score": 69,
+        "fit": {
+          "label": "Pursue",
+          "className": "fit-pursue"
+        },
+        "summary": "Todd Hudson profiles as a OF piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .347",
+          "OBP .432",
+          "SLG .534"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".347"
+          },
+          {
+            "label": "OBP",
+            "value": ".432"
+          },
+          {
+            "label": "SLG",
+            "value": ".534"
+          },
+          {
+            "label": "HR",
+            "value": "6"
+          },
+          {
+            "label": "RBI",
+            "value": "29"
+          },
+          {
+            "label": "SB",
+            "value": "3"
+          }
+        ],
+        "components": {
+          "On-base": 84.44444444444443,
+          "Power": 56.31578947368422,
+          "Contact": 79.37499999999999,
+          "Discipline": 88.88888888888889,
+          "Speed": 10
+        },
+        "metaLine": "SR / L/R",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/todd-hudson/13066",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13058",
+        "name": "Ryan Combs",
+        "school": "Charlotte",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 25,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ryan Combs looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 8.16",
+          "WHIP 2.16",
+          "K/9 15.1"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "8.16"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.16"
+          },
+          {
+            "label": "K/9",
+            "value": "15.1"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.88"
+          },
+          {
+            "label": "IP",
+            "value": "14.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 100,
+          "Command": 33.333333333333336,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/ryan-combs/13058",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13084",
+        "name": "Joseph Taylor",
+        "school": "Charlotte",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 14,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Joseph Taylor looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 6.23",
+          "WHIP 1.74",
+          "K/9 10.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.23"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.74"
+          },
+          {
+            "label": "K/9",
+            "value": "10.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "6.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.23"
+          },
+          {
+            "label": "IP",
+            "value": "39.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 58.04195804195804,
+          "Command": 14.615384615384617,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/joseph-taylor/13084",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13059",
+        "name": "Eddie Copper",
+        "school": "Charlotte",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-SO",
+        "handedness": "R/R",
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Eddie Copper looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 4.03",
+          "WHIP 1.37",
+          "K/9 9.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.03"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.37"
+          },
+          {
+            "label": "K/9",
+            "value": "9.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.47"
+          },
+          {
+            "label": "IP",
+            "value": "38.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 49.76076555023923,
+          "Command": 14.782608695652169,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/eddie-copper/13059",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13072",
+        "name": "Drew Munn",
+        "school": "Charlotte",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 6,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Drew Munn gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 5.68",
+          "WHIP 1.52",
+          "K/9 6.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.68"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.52"
+          },
+          {
+            "label": "K/9",
+            "value": "6.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.14"
+          },
+          {
+            "label": "IP",
+            "value": "31.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 17.894736842105257,
+          "Command": 14.999999999999996,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/drew-munn/13072",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13076",
+        "name": "Chayse Oxborrow",
+        "school": "Charlotte",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "JR",
+        "handedness": "R/L",
+        "score": 19,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Chayse Oxborrow looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 5.76",
+          "WHIP 1.56",
+          "K/9 11.2"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.76"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.56"
+          },
+          {
+            "label": "K/9",
+            "value": "11.2"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.72"
+          },
+          {
+            "label": "IP",
+            "value": "25.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 65.0909090909091,
+          "Command": 36.36363636363637,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/L",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "R/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/chayse-oxborrow/13076",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13070",
+        "name": "Andrew Kribbs",
+        "school": "Charlotte",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Andrew Kribbs looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 10.50",
+          "WHIP 3.00",
+          "K/9 10.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "10.50"
+          },
+          {
+            "label": "WHIP",
+            "value": "3.00"
+          },
+          {
+            "label": "K/9",
+            "value": "10.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "19.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.50"
+          },
+          {
+            "label": "IP",
+            "value": "6.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 59.09090909090909,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/andrew-kribbs/13070",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13053",
+        "name": "Adam Baker",
+        "school": "Charlotte",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-SO",
+        "handedness": "R/R",
+        "score": 8,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Adam Baker gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 4.76",
+          "WHIP 1.41",
+          "K/9 7.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.76"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.41"
+          },
+          {
+            "label": "K/9",
+            "value": "7.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "6.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "5.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 35.828877005347586,
+          "Command": 5,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/adam-baker/13053",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13062",
+        "name": "Trip DoVale",
+        "school": "Charlotte",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Trip DoVale looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster"
+        ],
+        "sourceSummary": "Charlotte Athletics roster",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/trip-dovale/13062",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13063",
+        "name": "Bradley Farris",
+        "school": "Charlotte",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Bradley Farris gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "C",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster"
+        ],
+        "sourceSummary": "Charlotte Athletics roster",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/bradley-farris/13063",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13075",
+        "name": "Aaron Orozco",
+        "school": "Charlotte",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 4,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Aaron Orozco gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .214",
+          "OBP .294",
+          "SLG .214"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".214"
+          },
+          {
+            "label": "OBP",
+            "value": ".294"
+          },
+          {
+            "label": "SLG",
+            "value": ".214"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "2"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 7.777777777777755,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 9.523809523809518,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "C",
+          "FR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/aaron-orozco/13075",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13071",
+        "name": "Walker Morgan",
+        "school": "Charlotte",
+        "role": "Pitcher",
+        "position": "INF/RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Walker Morgan looks like a INF/RHP option who limits runs and throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 0.00",
+          "WHIP 0.00",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "0.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "0.00"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "1.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "INF/RHP",
+          "JR",
+          "R/R",
+          "Two-Way"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Two-Way",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/walker-morgan/13071",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13077",
+        "name": "Sebastian Perez",
+        "school": "Charlotte",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 9,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Sebastian Perez gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 8.14",
+          "WHIP 2.00",
+          "K/9 8.1"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "8.14"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.00"
+          },
+          {
+            "label": "K/9",
+            "value": "8.1"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.6"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.29"
+          },
+          {
+            "label": "IP",
+            "value": "21.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 37.662337662337656,
+          "Command": 9.230769230769228,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/sebastian-perez/13077",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13080",
+        "name": "Hunter Sloop",
+        "school": "Charlotte",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-JR",
+        "handedness": "R/R",
+        "score": 36,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Hunter Sloop looks like a RHP option who misses bats and throws enough strikes.",
+        "summaryMetrics": [
+          "ERA 54.00",
+          "WHIP 6.00",
+          "K/9 27.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "54.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "6.00"
+          },
+          {
+            "label": "K/9",
+            "value": "27.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 100,
+          "Command": 100,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster",
+          "Charlotte cumulative stats"
+        ],
+        "sourceSummary": "Charlotte Athletics roster + Charlotte cumulative stats",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/hunter-sloop/13080",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "charlotte-13052",
+        "name": "Andrew Alberts",
+        "school": "Charlotte",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "R-SO",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Andrew Alberts looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-SO / L/L",
+        "detailBadges": [
+          "LHP",
+          "R-SO",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Charlotte Athletics roster"
+        ],
+        "sourceSummary": "Charlotte Athletics roster",
+        "schoolSlug": "charlotte",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/andrew-alberts/13052",
+        "espnAthleteId": ""
+      }
+    ]
+  }
+}

@@ -1,0 +1,8236 @@
+window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
+window.__BASEBALL_DATASETS__.southern-california2026 = {
+  "generatedAt": "2026-04-17T11:13:58.312Z",
+  "season": 2026,
+  "school": {
+    "slug": "southern-california",
+    "name": "Southern California",
+    "longName": "University of Southern California",
+    "ncaaVerified": true,
+    "ncaaRecord": {
+      "slug": "southern-california",
+      "name": "Southern California",
+      "long": "University of Southern California"
+    },
+    "espnDisplayName": "",
+    "espnSlug": "",
+    "rosterUrl": "https://usctrojans.com/sports/baseball/roster",
+    "statsUrl": "https://usctrojans.com/sports/baseball/stats/2026",
+    "pdfUrl": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/usctrojans.com/stats/baseball/2026/pdf/cume.pdf"
+  },
+  "sources": {
+    "roster": "Southern California Athletics roster",
+    "stats": "Southern California Athletics cumulative stats",
+    "espn": "ESPN team identity verified, but Southern California's public roster feed did not match the current 2026 school-site roster",
+    "ncaa": "NCAA school index"
+  },
+  "coverage": {
+    "rosterPlayers": 40,
+    "espnRosterPlayers": 0,
+    "playersWithHittingStats": 18,
+    "playersWithPitchingStats": 17,
+    "playersWithFieldingStats": 29,
+    "mergedPlayersWithAnyStats": 34,
+    "matchedEspnPlayers": 0,
+    "unmatchedStatRows": {
+      "hitting": [],
+      "pitching": [],
+      "fielding": []
+    }
+  },
+  "teamSummary": {
+    "record": "30-8, 13-5",
+    "battingAverage": ".262",
+    "earnedRunAverage": "3.39",
+    "wins": "30",
+    "losses": "8",
+    "hitting": {
+      "atBats": "1216",
+      "runsScored": "253",
+      "hits": "318",
+      "runsBattedIn": "226",
+      "doubles": "73",
+      "triples": "10",
+      "homeRuns": "41",
+      "walks": "167",
+      "intentionalWalks": "5",
+      "strikeouts": "251",
+      "strikeoutsLooking": "68",
+      "hitByPitch": "56",
+      "stolenBases": "32",
+      "caughtStealing": "14",
+      "sacrificeHits": "21",
+      "sacrificeFlies": "20",
+      "reachedOnCatchersInteference": "0",
+      "reachedOnError": "0",
+      "reachesOnAFieldersChoice": "0",
+      "groundOuts": "318",
+      "flyOuts": "350",
+      "groundedIntoDoublePlay": "15",
+      "pickedOff": "6",
+      "doublePlaysHitInto": "17",
+      "triplePlaysHitInto": "0"
+    },
+    "fielding": {
+      "putouts": "995",
+      "assists": "269",
+      "errors": "26",
+      "passedBalls": "3",
+      "catchersInterference": "0",
+      "stolenBasesAgainst": "14",
+      "caughtStealingBy": "3",
+      "involvedInDoublePlays": "20",
+      "involvedInTriplePlays": "0",
+      "totalChances": "1290",
+      "fieldingPercentage": ".980"
+    },
+    "pitching": {
+      "orderOfAppearance": "0",
+      "wins": "30",
+      "saves": "13",
+      "losses": "8",
+      "gamesStarted": "0",
+      "gamesCompleted": "0",
+      "shutouts": "8",
+      "creditForCombinedShutout": "0",
+      "inningsPitched": "331.2",
+      "hitsAllowed": "245",
+      "runsAllowed": "137",
+      "earnedRunsAllowed": "125",
+      "walksAllowed": "149",
+      "strikeouts": "379",
+      "battersFaced": "1415",
+      "opponentAtBats": "1212",
+      "doublesAllowed": "41",
+      "triplesAllowed": "4",
+      "homerunsAllowed": "29",
+      "wildPitches": "35",
+      "balks": "1",
+      "hitBatters": "31",
+      "strikeoutsLooking": "136",
+      "intentionalWalks": "3",
+      "inheritedRunners": "0",
+      "inheritedRunnersThatScored": "0",
+      "sacrificeHitsAllowed": "11",
+      "sacrificeFliesAllowed": "12",
+      "catchersInterferenceAllowed": "0",
+      "pitches": "5617",
+      "flyouts": "331",
+      "groundouts": "260",
+      "teamUnearnedRuns": "0",
+      "saveRecord": "13",
+      "pickoff": "1"
+    }
+  },
+  "players": [
+    {
+      "id": "southern-california-18005",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Brock Slaton",
+      "normalizedName": "brock slaton",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "GR",
+      "handedness": "N/A",
+      "jersey": "2",
+      "hometown": "Baton Rouge, La.",
+      "highSchool": "University Lab School/Tulane",
+      "previousSchool": "",
+      "hometownHighSchool": "Baton Rouge, La. / University Lab School/Tulane",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/brock-slaton/18005",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Slaton__Brock.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18005",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "18005",
+        "name": "Brock Slaton",
+        "normalizedName": "brock slaton",
+        "jersey": "2",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/brock-slaton/18005",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Slaton__Brock.jpg",
+        "gamesPlayed": 6,
+        "gamesStarted": 2,
+        "battingAverage": 0.167,
+        "onBasePercentage": 0.167,
+        "sluggingPercentage": 0.5,
+        "ops": 0.667,
+        "atBats": 12,
+        "runs": 1,
+        "hits": 2,
+        "doubles": 1,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 4,
+        "totalBases": 6,
+        "walks": 0,
+        "hitByPitch": 0,
+        "strikeouts": 6,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 3,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 12,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "18005",
+        "name": "Brock Slaton",
+        "normalizedName": "brock slaton",
+        "jersey": "2",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/brock-slaton/18005",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Slaton__Brock.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 1,
+        "putouts": 3,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 3
+      },
+      "evaluation": {
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 47.36842105263158,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Brock Slaton gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .167",
+          "OBP .167",
+          "SLG .500"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".167"
+          },
+          {
+            "label": "OBP",
+            "value": ".167"
+          },
+          {
+            "label": "SLG",
+            "value": ".500"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "4"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "GR / N/A",
+        "detailBadges": [
+          "OF",
+          "GR",
+          "N/A",
+          "Hitter"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-18009",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Diego Velazquez",
+      "normalizedName": "diego velazquez",
+      "compositeRole": "Two-Way",
+      "role": "Pitcher",
+      "position": "INF/RHP",
+      "positionLong": "Infielder/Pitcher",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "4",
+      "hometown": "Reseda, Calif.",
+      "highSchool": "Crespi Carmelite HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Reseda, Calif. / Crespi Carmelite HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/diego-velazquez/18009",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Velazquez__Diego_.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18009",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "18009",
+        "name": "Diego Velazquez",
+        "normalizedName": "diego velazquez",
+        "jersey": "4",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/diego-velazquez/18009",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Velazquez__Diego_.jpg",
+        "gamesPlayed": 16,
+        "gamesStarted": 3,
+        "battingAverage": 0.1,
+        "onBasePercentage": 0.4,
+        "sluggingPercentage": 0.2,
+        "ops": 0.6,
+        "atBats": 10,
+        "runs": 2,
+        "hits": 1,
+        "doubles": 1,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 1,
+        "totalBases": 2,
+        "walks": 5,
+        "hitByPitch": 0,
+        "strikeouts": 3,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 6,
+        "assists": 6,
+        "errors": 0,
+        "plateAppearances": 15,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": {
+        "rosterBioId": "18009",
+        "name": "Diego Velazquez",
+        "normalizedName": "diego velazquez",
+        "jersey": "4",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/diego-velazquez/18009",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Velazquez__Diego_.jpg",
+        "gamesPlayed": 8,
+        "gamesStarted": 0,
+        "appearances": 8,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 6.75,
+        "whip": 1.41,
+        "wins": 2,
+        "losses": 1,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 10.666666666666666,
+        "inningsPitchedDisplay": "10.2",
+        "hitsAllowed": 10,
+        "runsAllowed": 8,
+        "earnedRunsAllowed": 8,
+        "walksAllowed": 5,
+        "strikeouts": 13,
+        "doublesAllowed": 2,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 40,
+        "wildPitches": 0,
+        "hitBatters": 0,
+        "balks": 0,
+        "opponentsBattingAverage": 0.25,
+        "walksHits": 15
+      },
+      "fieldingStats": {
+        "rosterBioId": "18009",
+        "name": "Diego Velazquez",
+        "normalizedName": "diego velazquez",
+        "jersey": "4",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/diego-velazquez/18009",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Velazquez__Diego_.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 2,
+        "putouts": 6,
+        "assists": 6,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 12
+      },
+      "evaluation": {
+        "score": 18,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 63.35227272727273,
+          "Command": 32,
+          "Damage suppression": 0
+        },
+        "summary": "Diego Velazquez looks like a INF/RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 6.75",
+          "WHIP 1.41",
+          "K/9 11.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.75"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.41"
+          },
+          {
+            "label": "K/9",
+            "value": "11.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "2.53"
+          },
+          {
+            "label": "IP",
+            "value": "10.7"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF/RHP",
+          "FR",
+          "N/A",
+          "Two-Way"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-17997",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Adrian Lopez",
+      "normalizedName": "adrian lopez",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "5",
+      "hometown": "Baldwin Park, Calif.",
+      "highSchool": "Ganesha HS/Long Beach St.",
+      "previousSchool": "",
+      "hometownHighSchool": "Baldwin Park, Calif. / Ganesha HS/Long Beach St.",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/adrian-lopez/17997",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Lopez__Adrian.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "17997",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "17997",
+        "name": "Adrian Lopez",
+        "normalizedName": "adrian lopez",
+        "jersey": "5",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/adrian-lopez/17997",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Lopez__Adrian.jpg",
+        "gamesPlayed": 37,
+        "gamesStarted": 36,
+        "battingAverage": 0.294,
+        "onBasePercentage": 0.377,
+        "sluggingPercentage": 0.478,
+        "ops": 0.855,
+        "atBats": 136,
+        "runs": 32,
+        "hits": 40,
+        "doubles": 9,
+        "triples": 2,
+        "homeRuns": 4,
+        "runsBattedIn": 27,
+        "totalBases": 65,
+        "walks": 19,
+        "hitByPitch": 2,
+        "strikeouts": 23,
+        "intentionalWalks": 3,
+        "groundedIntoDoublePlay": 4,
+        "sacrificeFlies": 5,
+        "sacrificeHits": 0,
+        "stolenBases": 3,
+        "stolenBasesAttempts": 4,
+        "putouts": 185,
+        "assists": 25,
+        "errors": 7,
+        "plateAppearances": 167,
+        "caughtStealing": 1,
+        "pickedOff": 1
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "17997",
+        "name": "Adrian Lopez",
+        "normalizedName": "adrian lopez",
+        "jersey": "5",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/adrian-lopez/17997",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Lopez__Adrian.jpg",
+        "gamesPlayed": 36,
+        "gamesStarted": 35,
+        "putouts": 185,
+        "assists": 25,
+        "errors": 7,
+        "fieldingPercentage": 0.968,
+        "doublePlays": 14,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 217
+      },
+      "evaluation": {
+        "score": 47,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 53.88888888888887,
+          "Power": 41.57894736842105,
+          "Contact": 46.249999999999986,
+          "Discipline": 69.56521739130433,
+          "Speed": 10
+        },
+        "summary": "Adrian Lopez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .294",
+          "OBP .377",
+          "SLG .478"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".294"
+          },
+          {
+            "label": "OBP",
+            "value": ".377"
+          },
+          {
+            "label": "SLG",
+            "value": ".478"
+          },
+          {
+            "label": "HR",
+            "value": "4"
+          },
+          {
+            "label": "RBI",
+            "value": "27"
+          },
+          {
+            "label": "SB",
+            "value": "3"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "N/A",
+          "Hitter"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-17988",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Dean Carpentier",
+      "normalizedName": "dean carpentier",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infield",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "6",
+      "hometown": "Huntington Beach, Calif.",
+      "highSchool": "Huntington Beach HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Huntington Beach, Calif. / Huntington Beach HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/dean-carpentier/17988",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Carpentier__Dean.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "17988",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "17988",
+        "name": "Dean Carpentier",
+        "normalizedName": "dean carpentier",
+        "jersey": "6",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/dean-carpentier/17988",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Carpentier__Dean.jpg",
+        "gamesPlayed": 24,
+        "gamesStarted": 23,
+        "battingAverage": 0.194,
+        "onBasePercentage": 0.373,
+        "sluggingPercentage": 0.387,
+        "ops": 0.76,
+        "atBats": 62,
+        "runs": 13,
+        "hits": 12,
+        "doubles": 6,
+        "triples": 0,
+        "homeRuns": 2,
+        "runsBattedIn": 16,
+        "totalBases": 24,
+        "walks": 9,
+        "hitByPitch": 10,
+        "strikeouts": 16,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 2,
+        "sacrificeHits": 1,
+        "stolenBases": 2,
+        "stolenBasesAttempts": 4,
+        "putouts": 105,
+        "assists": 13,
+        "errors": 2,
+        "plateAppearances": 90,
+        "caughtStealing": 2,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "17988",
+        "name": "Dean Carpentier",
+        "normalizedName": "dean carpentier",
+        "jersey": "6",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/dean-carpentier/17988",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Carpentier__Dean.jpg",
+        "gamesPlayed": 20,
+        "gamesStarted": 19,
+        "putouts": 105,
+        "assists": 13,
+        "errors": 2,
+        "fieldingPercentage": 0.983,
+        "doublePlays": 5,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 120
+      },
+      "evaluation": {
+        "score": 27,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 51.66666666666665,
+          "Power": 17.631578947368425,
+          "Contact": 0,
+          "Discipline": 40.27777777777777,
+          "Speed": 6.666666666666667
+        },
+        "summary": "Dean Carpentier gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .194",
+          "OBP .373",
+          "SLG .387"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".194"
+          },
+          {
+            "label": "OBP",
+            "value": ".373"
+          },
+          {
+            "label": "SLG",
+            "value": ".387"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "16"
+          },
+          {
+            "label": "SB",
+            "value": "2"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "N/A",
+          "Hitter"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-17989",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Abbrie Covarrubias",
+      "normalizedName": "abbrie covarrubias",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infield",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "7",
+      "hometown": "Anaheim, Calif.",
+      "highSchool": "Cypress HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Anaheim, Calif. / Cypress HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/abbrie-covarrubias/17989",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Covarrubias__Abbrie_.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "17989",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "17989",
+        "name": "Abbrie Covarrubias",
+        "normalizedName": "abbrie covarrubias",
+        "jersey": "7",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/abbrie-covarrubias/17989",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Covarrubias__Abbrie_.jpg",
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "battingAverage": 0.266,
+        "onBasePercentage": 0.381,
+        "sluggingPercentage": 0.374,
+        "ops": 0.755,
+        "atBats": 139,
+        "runs": 33,
+        "hits": 37,
+        "doubles": 5,
+        "triples": 2,
+        "homeRuns": 2,
+        "runsBattedIn": 16,
+        "totalBases": 52,
+        "walks": 21,
+        "hitByPitch": 6,
+        "strikeouts": 23,
+        "intentionalWalks": 1,
+        "groundedIntoDoublePlay": 3,
+        "sacrificeFlies": 2,
+        "sacrificeHits": 1,
+        "stolenBases": 14,
+        "stolenBasesAttempts": 18,
+        "putouts": 46,
+        "assists": 63,
+        "errors": 0,
+        "plateAppearances": 191,
+        "caughtStealing": 4,
+        "pickedOff": 2
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "17989",
+        "name": "Abbrie Covarrubias",
+        "normalizedName": "abbrie covarrubias",
+        "jersey": "7",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/abbrie-covarrubias/17989",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Covarrubias__Abbrie_.jpg",
+        "gamesPlayed": 34,
+        "gamesStarted": 34,
+        "putouts": 46,
+        "assists": 63,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 15,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 109
+      },
+      "evaluation": {
+        "score": 43,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 56.1111111111111,
+          "Power": 14.210526315789473,
+          "Contact": 28.750000000000007,
+          "Discipline": 79.22705314009659,
+          "Speed": 46.666666666666664
+        },
+        "summary": "Abbrie Covarrubias profiles as a INF piece who adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .266",
+          "OBP .381",
+          "SLG .374"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".266"
+          },
+          {
+            "label": "OBP",
+            "value": ".381"
+          },
+          {
+            "label": "SLG",
+            "value": ".374"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "16"
+          },
+          {
+            "label": "SB",
+            "value": "14"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "N/A",
+          "Hitter"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-18003",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Kevin Takeuchi",
+      "normalizedName": "kevin takeuchi",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF/OF",
+      "positionLong": "Infield/Outfield",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "8",
+      "hometown": "San Diego, Calif.",
+      "highSchool": "Rancho Bernardo HS",
+      "previousSchool": "",
+      "hometownHighSchool": "San Diego, Calif. / Rancho Bernardo HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/kevin-takeuchi/18003",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Takeuchi__Kevin.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18003",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "18003",
+        "name": "Kevin Takeuchi",
+        "normalizedName": "kevin takeuchi",
+        "jersey": "8",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/kevin-takeuchi/18003",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Takeuchi__Kevin.jpg",
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "battingAverage": 0.312,
+        "onBasePercentage": 0.389,
+        "sluggingPercentage": 0.468,
+        "ops": 0.857,
+        "atBats": 141,
+        "runs": 33,
+        "hits": 44,
+        "doubles": 10,
+        "triples": 3,
+        "homeRuns": 2,
+        "runsBattedIn": 31,
+        "totalBases": 66,
+        "walks": 19,
+        "hitByPitch": 2,
+        "strikeouts": 23,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 3,
+        "sacrificeFlies": 5,
+        "sacrificeHits": 1,
+        "stolenBases": 9,
+        "stolenBasesAttempts": 10,
+        "putouts": 93,
+        "assists": 1,
+        "errors": 2,
+        "plateAppearances": 179,
+        "caughtStealing": 1,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "18003",
+        "name": "Kevin Takeuchi",
+        "normalizedName": "kevin takeuchi",
+        "jersey": "8",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/kevin-takeuchi/18003",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Takeuchi__Kevin.jpg",
+        "gamesPlayed": 34,
+        "gamesStarted": 34,
+        "putouts": 93,
+        "assists": 1,
+        "errors": 2,
+        "fieldingPercentage": 0.979,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 96
+      },
+      "evaluation": {
+        "score": 53,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 60.55555555555555,
+          "Power": 38.947368421052644,
+          "Contact": 57.49999999999999,
+          "Discipline": 69.56521739130433,
+          "Speed": 30
+        },
+        "summary": "Kevin Takeuchi profiles as a INF/OF piece who adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .312",
+          "OBP .389",
+          "SLG .468"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".312"
+          },
+          {
+            "label": "OBP",
+            "value": ".389"
+          },
+          {
+            "label": "SLG",
+            "value": ".468"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "31"
+          },
+          {
+            "label": "SB",
+            "value": "9"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "INF/OF",
+          "JR",
+          "N/A",
+          "Hitter"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-18001",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Maddox Riske",
+      "normalizedName": "maddox riske",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "SO",
+      "handedness": "N/A",
+      "jersey": "9",
+      "hometown": "Las Vegas, Nev.",
+      "highSchool": "Bishop Gorman HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Las Vegas, Nev. / Bishop Gorman HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/maddox-riske/18001",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Riske__Maddox.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18001",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "18001",
+        "name": "Maddox Riske",
+        "normalizedName": "maddox riske",
+        "jersey": "9",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/maddox-riske/18001",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Riske__Maddox.jpg",
+        "gamesPlayed": 35,
+        "gamesStarted": 34,
+        "battingAverage": 0.202,
+        "onBasePercentage": 0.273,
+        "sluggingPercentage": 0.266,
+        "ops": 0.539,
+        "atBats": 109,
+        "runs": 11,
+        "hits": 22,
+        "doubles": 4,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 15,
+        "totalBases": 29,
+        "walks": 9,
+        "hitByPitch": 2,
+        "strikeouts": 14,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 2,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 8,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 1,
+        "putouts": 32,
+        "assists": 70,
+        "errors": 2,
+        "plateAppearances": 131,
+        "caughtStealing": 1,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "18001",
+        "name": "Maddox Riske",
+        "normalizedName": "maddox riske",
+        "jersey": "9",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/maddox-riske/18001",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Riske__Maddox.jpg",
+        "gamesPlayed": 31,
+        "gamesStarted": 31,
+        "putouts": 32,
+        "assists": 70,
+        "errors": 2,
+        "fieldingPercentage": 0.981,
+        "doublePlays": 11,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 104
+      },
+      "evaluation": {
+        "score": 7,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 49.2063492063492,
+          "Speed": 0
+        },
+        "summary": "Maddox Riske gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .202",
+          "OBP .273",
+          "SLG .266"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".202"
+          },
+          {
+            "label": "OBP",
+            "value": ".273"
+          },
+          {
+            "label": "SLG",
+            "value": ".266"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "15"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "N/A",
+          "Hitter"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-17999",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Maximo Martinez",
+      "normalizedName": "maximo martinez",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP/UTL",
+      "positionLong": "RHP/Utility",
+      "classYear": "SO",
+      "handedness": "N/A",
+      "jersey": "10",
+      "hometown": "Hawthorne, Calif.",
+      "highSchool": "Mira Costa HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Hawthorne, Calif. / Mira Costa HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/maximo-martinez/17999",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Martinez__Maximo_.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "17999",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "17999",
+        "name": "Maximo Martinez",
+        "normalizedName": "maximo martinez",
+        "jersey": "10",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/maximo-martinez/17999",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Martinez__Maximo_.jpg",
+        "gamesPlayed": 30,
+        "gamesStarted": 28,
+        "battingAverage": 0.264,
+        "onBasePercentage": 0.395,
+        "sluggingPercentage": 0.406,
+        "ops": 0.801,
+        "atBats": 106,
+        "runs": 26,
+        "hits": 28,
+        "doubles": 9,
+        "triples": 0,
+        "homeRuns": 2,
+        "runsBattedIn": 14,
+        "totalBases": 43,
+        "walks": 19,
+        "hitByPitch": 4,
+        "strikeouts": 23,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 1,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 2,
+        "putouts": 15,
+        "assists": 38,
+        "errors": 6,
+        "plateAppearances": 134,
+        "caughtStealing": 2,
+        "pickedOff": 1
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "17999",
+        "name": "Maximo Martinez",
+        "normalizedName": "maximo martinez",
+        "jersey": "10",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/maximo-martinez/17999",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Martinez__Maximo_.jpg",
+        "gamesPlayed": 24,
+        "gamesStarted": 23,
+        "putouts": 15,
+        "assists": 38,
+        "errors": 6,
+        "fieldingPercentage": 0.898,
+        "doublePlays": 5,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 59
+      },
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Maximo Martinez looks like a RHP/UTL option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "RHP/UTL",
+          "SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-17991",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Michael Ebner",
+      "normalizedName": "michael ebner",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Pitcher",
+      "classYear": "R-JR",
+      "handedness": "N/A",
+      "jersey": "11",
+      "hometown": "Pasadena, Calif.",
+      "highSchool": "Maranatha HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Pasadena, Calif. / Maranatha HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/michael-ebner/17991",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Ebner__Michael_.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "17991",
+      "sources": [
+        "Southern California Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Michael Ebner looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "R-JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "R-JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Southern California Athletics roster"
+      }
+    },
+    {
+      "id": "southern-california-18010",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Logan Honma",
+      "normalizedName": "logan honma",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "12",
+      "hometown": "Pearl City, Hi.",
+      "highSchool": "Pearl City HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Pearl City, Hi. / Pearl City HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/logan-honma/18010",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Honma__OLbYY.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18010",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "18010",
+        "name": "Logan Honma",
+        "normalizedName": "logan honma",
+        "jersey": "12",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/logan-honma/18010",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Honma__OLbYY.jpg",
+        "gamesPlayed": 6,
+        "gamesStarted": 0,
+        "battingAverage": 0.167,
+        "onBasePercentage": 0.167,
+        "sluggingPercentage": 0.167,
+        "ops": 0.334,
+        "atBats": 6,
+        "runs": 1,
+        "hits": 1,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 0,
+        "totalBases": 1,
+        "walks": 0,
+        "hitByPitch": 0,
+        "strikeouts": 3,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 2,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 6,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "18010",
+        "name": "Logan Honma",
+        "normalizedName": "logan honma",
+        "jersey": "12",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/logan-honma/18010",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Honma__OLbYY.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 2,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 2
+      },
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Logan Honma gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .167",
+          "OBP .167",
+          "SLG .167"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".167"
+          },
+          {
+            "label": "OBP",
+            "value": ".167"
+          },
+          {
+            "label": "SLG",
+            "value": ".167"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "N/A",
+          "Hitter"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-17995",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Andrew Johnson",
+      "normalizedName": "andrew johnson",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "SO",
+      "handedness": "N/A",
+      "jersey": "13",
+      "hometown": "San Juan Capistrano, Calif.",
+      "highSchool": "Capistrano Valley Christian HS",
+      "previousSchool": "",
+      "hometownHighSchool": "San Juan Capistrano, Calif. / Capistrano Valley Christian HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/andrew-johnson/17995",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Johnson__Andrew.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "17995",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "17995",
+        "name": "Andrew Johnson",
+        "normalizedName": "andrew johnson",
+        "jersey": "13",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/andrew-johnson/17995",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Johnson__Andrew.jpg",
+        "gamesPlayed": 9,
+        "gamesStarted": 9,
+        "appearances": 9,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 3.66,
+        "whip": 1.29,
+        "wins": 3,
+        "losses": 1,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 46.666666666666664,
+        "inningsPitchedDisplay": "46.2",
+        "hitsAllowed": 42,
+        "runsAllowed": 19,
+        "earnedRunsAllowed": 19,
+        "walksAllowed": 18,
+        "strikeouts": 47,
+        "doublesAllowed": 4,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 8,
+        "opponentsAtBats": 177,
+        "wildPitches": 1,
+        "hitBatters": 3,
+        "balks": 0,
+        "opponentsBattingAverage": 0.237,
+        "walksHits": 60
+      },
+      "fieldingStats": {
+        "rosterBioId": "17995",
+        "name": "Andrew Johnson",
+        "normalizedName": "andrew johnson",
+        "jersey": "13",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/andrew-johnson/17995",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Johnson__Andrew.jpg",
+        "gamesPlayed": 5,
+        "gamesStarted": 5,
+        "putouts": 1,
+        "assists": 4,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 5
+      },
+      "evaluation": {
+        "score": 14,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 46.03896103896105,
+          "Command": 32.22222222222222,
+          "Damage suppression": 0
+        },
+        "summary": "Andrew Johnson looks like a RHP option who limits runs and misses bats.",
+        "summaryMetrics": [
+          "ERA 3.66",
+          "WHIP 1.29",
+          "K/9 9.1"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.66"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.29"
+          },
+          {
+            "label": "K/9",
+            "value": "9.1"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.54"
+          },
+          {
+            "label": "IP",
+            "value": "46.7"
+          }
+        ],
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-17987",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Jack Basseer",
+      "normalizedName": "jack basseer",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "SR",
+      "handedness": "N/A",
+      "jersey": "14",
+      "hometown": "Pleasanton, Calif.",
+      "highSchool": "Foothill HS/Pepperdine/TCU",
+      "previousSchool": "",
+      "hometownHighSchool": "Pleasanton, Calif. / Foothill HS/Pepperdine/TCU",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/jack-basseer/17987",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Basseer__Jack.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "17987",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "17987",
+        "name": "Jack Basseer",
+        "normalizedName": "jack basseer",
+        "jersey": "14",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/jack-basseer/17987",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Basseer__Jack.jpg",
+        "gamesPlayed": 28,
+        "gamesStarted": 21,
+        "battingAverage": 0.309,
+        "onBasePercentage": 0.404,
+        "sluggingPercentage": 0.593,
+        "ops": 0.997,
+        "atBats": 81,
+        "runs": 20,
+        "hits": 25,
+        "doubles": 6,
+        "triples": 1,
+        "homeRuns": 5,
+        "runsBattedIn": 16,
+        "totalBases": 48,
+        "walks": 7,
+        "hitByPitch": 6,
+        "strikeouts": 16,
+        "intentionalWalks": 1,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 1,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 33,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 95,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "17987",
+        "name": "Jack Basseer",
+        "normalizedName": "jack basseer",
+        "jersey": "14",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/jack-basseer/17987",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Basseer__Jack.jpg",
+        "gamesPlayed": 17,
+        "gamesStarted": 16,
+        "putouts": 33,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 33
+      },
+      "evaluation": {
+        "score": 54,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 68.88888888888889,
+          "Power": 71.84210526315789,
+          "Contact": 55.62499999999999,
+          "Discipline": 26.388888888888886,
+          "Speed": 0
+        },
+        "summary": "Jack Basseer profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .309",
+          "OBP .404",
+          "SLG .593"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".309"
+          },
+          {
+            "label": "OBP",
+            "value": ".404"
+          },
+          {
+            "label": "SLG",
+            "value": ".593"
+          },
+          {
+            "label": "HR",
+            "value": "5"
+          },
+          {
+            "label": "RBI",
+            "value": "16"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "N/A",
+          "Hitter"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-18011",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Jarett Sabol",
+      "normalizedName": "jarett sabol",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "15",
+      "hometown": "Aliso Viejo, Calif.",
+      "highSchool": "Aliso Niguel HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Aliso Viejo, Calif. / Aliso Niguel HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/jarett-sabol/18011",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Sabol__Jarett.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18011",
+      "sources": [
+        "Southern California Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Jarett Sabol gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "C",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "Southern California Athletics roster"
+      }
+    },
+    {
+      "id": "southern-california-18012",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Walter Urbon",
+      "normalizedName": "walter urbon",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "16",
+      "hometown": "Manhattan Beach, Calif.",
+      "highSchool": "Loyola HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Manhattan Beach, Calif. / Loyola HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/walter-urbon/18012",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Urbon__Walter.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18012",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "18012",
+        "name": "Walter Urbon",
+        "normalizedName": "walter urbon",
+        "jersey": "16",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/walter-urbon/18012",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Urbon__Walter.jpg",
+        "gamesPlayed": 16,
+        "gamesStarted": 0,
+        "battingAverage": 0.25,
+        "onBasePercentage": 0.4,
+        "sluggingPercentage": 0.25,
+        "ops": 0.65,
+        "atBats": 4,
+        "runs": 1,
+        "hits": 1,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 0,
+        "totalBases": 1,
+        "walks": 1,
+        "hitByPitch": 0,
+        "strikeouts": 2,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 1,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 5,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 6,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "18012",
+        "name": "Walter Urbon",
+        "normalizedName": "walter urbon",
+        "jersey": "16",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/walter-urbon/18012",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Urbon__Walter.jpg",
+        "gamesPlayed": 4,
+        "gamesStarted": 0,
+        "putouts": 5,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 5
+      },
+      "evaluation": {
+        "score": 29,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 66.66666666666666,
+          "Power": 0,
+          "Contact": 18.75,
+          "Discipline": 33.33333333333333,
+          "Speed": 0
+        },
+        "summary": "Walter Urbon profiles as a OF piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .250",
+          "OBP .400",
+          "SLG .250"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".250"
+          },
+          {
+            "label": "OBP",
+            "value": ".400"
+          },
+          {
+            "label": "SLG",
+            "value": ".250"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "N/A",
+          "Hitter"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-18013",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Isaiah Ibarra",
+      "normalizedName": "isaiah ibarra",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "18",
+      "hometown": "West Covina, Calif.",
+      "highSchool": "Ganesha HS",
+      "previousSchool": "",
+      "hometownHighSchool": "West Covina, Calif. / Ganesha HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/isaiah-ibarra/18013",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Ibarra__Isaiah.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18013",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "18013",
+        "name": "Isaiah Ibarra",
+        "normalizedName": "isaiah ibarra",
+        "jersey": "18",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/isaiah-ibarra/18013",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Ibarra__Isaiah.jpg",
+        "gamesPlayed": 8,
+        "gamesStarted": 5,
+        "battingAverage": 0.2,
+        "onBasePercentage": 0.333,
+        "sluggingPercentage": 0.267,
+        "ops": 0.6,
+        "atBats": 15,
+        "runs": 2,
+        "hits": 3,
+        "doubles": 1,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 1,
+        "totalBases": 4,
+        "walks": 3,
+        "hitByPitch": 0,
+        "strikeouts": 6,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 64,
+        "assists": 4,
+        "errors": 0,
+        "plateAppearances": 18,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "18013",
+        "name": "Isaiah Ibarra",
+        "normalizedName": "isaiah ibarra",
+        "jersey": "18",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/isaiah-ibarra/18013",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Ibarra__Isaiah.jpg",
+        "gamesPlayed": 8,
+        "gamesStarted": 5,
+        "putouts": 64,
+        "assists": 4,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 1,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 1,
+        "catchersInterference": 0,
+        "totalChances": 68
+      },
+      "evaluation": {
+        "score": 14,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 29.44444444444444,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 33.33333333333333,
+          "Speed": 0
+        },
+        "summary": "Isaiah Ibarra gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .200",
+          "OBP .333",
+          "SLG .267"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".200"
+          },
+          {
+            "label": "OBP",
+            "value": ".333"
+          },
+          {
+            "label": "SLG",
+            "value": ".267"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "1"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "C",
+          "FR",
+          "N/A",
+          "Hitter"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-18014",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Isaac Cadena",
+      "normalizedName": "isaac cadena",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "20",
+      "hometown": "Placentia, Calif.",
+      "highSchool": "El Dorado HS/Ohio St./TCU",
+      "previousSchool": "",
+      "hometownHighSchool": "Placentia, Calif. / El Dorado HS/Ohio St./TCU",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/isaac-cadena/18014",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Cadena__Isaac.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18014",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "18014",
+        "name": "Isaac Cadena",
+        "normalizedName": "isaac cadena",
+        "jersey": "20",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/isaac-cadena/18014",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Cadena__Isaac.jpg",
+        "gamesPlayed": 36,
+        "gamesStarted": 34,
+        "battingAverage": 0.274,
+        "onBasePercentage": 0.428,
+        "sluggingPercentage": 0.416,
+        "ops": 0.844,
+        "atBats": 113,
+        "runs": 25,
+        "hits": 31,
+        "doubles": 8,
+        "triples": 1,
+        "homeRuns": 2,
+        "runsBattedIn": 17,
+        "totalBases": 47,
+        "walks": 22,
+        "hitByPitch": 9,
+        "strikeouts": 31,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 1,
+        "stolenBases": 2,
+        "stolenBasesAttempts": 3,
+        "putouts": 164,
+        "assists": 13,
+        "errors": 0,
+        "plateAppearances": 150,
+        "caughtStealing": 1,
+        "pickedOff": 2
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "18014",
+        "name": "Isaac Cadena",
+        "normalizedName": "isaac cadena",
+        "jersey": "20",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/isaac-cadena/18014",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Cadena__Isaac.jpg",
+        "gamesPlayed": 34,
+        "gamesStarted": 32,
+        "putouts": 164,
+        "assists": 13,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 10,
+        "caughtStealingBy": 2,
+        "stolenBasesPercentage": 0.833,
+        "passedBalls": 1,
+        "catchersInterference": 0,
+        "totalChances": 177
+      },
+      "evaluation": {
+        "score": 48,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 82.22222222222221,
+          "Power": 25.26315789473684,
+          "Contact": 33.750000000000014,
+          "Discipline": 56.63082437275986,
+          "Speed": 6.666666666666667
+        },
+        "summary": "Isaac Cadena profiles as a C piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .274",
+          "OBP .428",
+          "SLG .416"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".274"
+          },
+          {
+            "label": "OBP",
+            "value": ".428"
+          },
+          {
+            "label": "SLG",
+            "value": ".416"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "17"
+          },
+          {
+            "label": "SB",
+            "value": "2"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "C",
+          "JR",
+          "N/A",
+          "Hitter"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-18015",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Hayden Woodson",
+      "normalizedName": "hayden woodson",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "21",
+      "hometown": "Whittier, Calif.",
+      "highSchool": "Servite HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Whittier, Calif. / Servite HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/hayden-woodson/18015",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Woodson__Hayden.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18015",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "18015",
+        "name": "Hayden Woodson",
+        "normalizedName": "hayden woodson",
+        "jersey": "21",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/hayden-woodson/18015",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Woodson__Hayden.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 0,
+        "battingAverage": 0,
+        "onBasePercentage": 0,
+        "sluggingPercentage": 0,
+        "ops": 0,
+        "atBats": 3,
+        "runs": 1,
+        "hits": 0,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 0,
+        "totalBases": 0,
+        "walks": 0,
+        "hitByPitch": 0,
+        "strikeouts": 0,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 2,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 3,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "18015",
+        "name": "Hayden Woodson",
+        "normalizedName": "hayden woodson",
+        "jersey": "21",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/hayden-woodson/18015",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Woodson__Hayden.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 2,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 2
+      },
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Hayden Woodson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .000",
+          "OBP .000",
+          "SLG .000"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".000"
+          },
+          {
+            "label": "OBP",
+            "value": ".000"
+          },
+          {
+            "label": "SLG",
+            "value": ".000"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "N/A",
+          "Hitter"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-18016",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Gavin Lauridsen",
+      "normalizedName": "gavin lauridsen",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "22",
+      "hometown": "Tustin, Calif.",
+      "highSchool": "Foothill HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Tustin, Calif. / Foothill HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/gavin-lauridsen/18016",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Lauridsen__Gavin.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18016",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "18016",
+        "name": "Gavin Lauridsen",
+        "normalizedName": "gavin lauridsen",
+        "jersey": "22",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/gavin-lauridsen/18016",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Lauridsen__Gavin.jpg",
+        "gamesPlayed": 16,
+        "gamesStarted": 1,
+        "appearances": 16,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 3.81,
+        "whip": 1.31,
+        "wins": 2,
+        "losses": 1,
+        "saves": 2,
+        "shutouts": 0,
+        "inningsPitched": 28.333333333333332,
+        "inningsPitchedDisplay": "28.1",
+        "hitsAllowed": 20,
+        "runsAllowed": 12,
+        "earnedRunsAllowed": 12,
+        "walksAllowed": 17,
+        "strikeouts": 27,
+        "doublesAllowed": 2,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 99,
+        "wildPitches": 1,
+        "hitBatters": 5,
+        "balks": 1,
+        "opponentsBattingAverage": 0.202,
+        "walksHits": 37
+      },
+      "fieldingStats": {
+        "rosterBioId": "18016",
+        "name": "Gavin Lauridsen",
+        "normalizedName": "gavin lauridsen",
+        "jersey": "22",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/gavin-lauridsen/18016",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Lauridsen__Gavin.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 1,
+        "putouts": 0,
+        "assists": 3,
+        "errors": 2,
+        "fieldingPercentage": 0.6,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 2,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 5
+      },
+      "evaluation": {
+        "score": 10,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 41.60427807486631,
+          "Command": 11.76470588235294,
+          "Damage suppression": 0
+        },
+        "summary": "Gavin Lauridsen looks like a RHP option who limits runs.",
+        "summaryMetrics": [
+          "ERA 3.81",
+          "WHIP 1.31",
+          "K/9 8.6"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.81"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.31"
+          },
+          {
+            "label": "K/9",
+            "value": "8.6"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.32"
+          },
+          {
+            "label": "IP",
+            "value": "28.3"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-18017",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Matthew Morrell",
+      "normalizedName": "matthew morrell",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "R-SO",
+      "handedness": "N/A",
+      "jersey": "23",
+      "hometown": "Placentia, Calif.",
+      "highSchool": "Cypress HS/Oregon St.",
+      "previousSchool": "",
+      "hometownHighSchool": "Placentia, Calif. / Cypress HS/Oregon St.",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/matthew-morrell/18017",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Morrell__Matthew.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18017",
+      "sources": [
+        "Southern California Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Matthew Morrell looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "R-SO / N/A",
+        "detailBadges": [
+          "RHP",
+          "R-SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Southern California Athletics roster"
+      }
+    },
+    {
+      "id": "southern-california-17998",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Augie Lopez",
+      "normalizedName": "augie lopez",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "SO",
+      "handedness": "N/A",
+      "jersey": "24",
+      "hometown": "Hermosa Beach, Calif.",
+      "highSchool": "Loyola HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Hermosa Beach, Calif. / Loyola HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/augie-lopez/17998",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Lopez__Augie.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "17998",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "17998",
+        "name": "Augie Lopez",
+        "normalizedName": "augie lopez",
+        "jersey": "24",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/augie-lopez/17998",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Lopez__Augie.jpg",
+        "gamesPlayed": 33,
+        "gamesStarted": 30,
+        "battingAverage": 0.277,
+        "onBasePercentage": 0.359,
+        "sluggingPercentage": 0.643,
+        "ops": 1.002,
+        "atBats": 112,
+        "runs": 23,
+        "hits": 31,
+        "doubles": 8,
+        "triples": 0,
+        "homeRuns": 11,
+        "runsBattedIn": 33,
+        "totalBases": 72,
+        "walks": 13,
+        "hitByPitch": 2,
+        "strikeouts": 27,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 2,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 0,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 2,
+        "putouts": 0,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 131,
+        "caughtStealing": 1,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 47,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 43.888888888888864,
+          "Power": 85.00000000000001,
+          "Contact": 35.625000000000014,
+          "Discipline": 31.275720164609044,
+          "Speed": 3.3333333333333335
+        },
+        "summary": "Augie Lopez profiles as a C piece who brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .277",
+          "OBP .359",
+          "SLG .643"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".277"
+          },
+          {
+            "label": "OBP",
+            "value": ".359"
+          },
+          {
+            "label": "SLG",
+            "value": ".643"
+          },
+          {
+            "label": "HR",
+            "value": "11"
+          },
+          {
+            "label": "RBI",
+            "value": "33"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "C",
+          "SO",
+          "N/A",
+          "Hitter"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-18000",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Sax Matson",
+      "normalizedName": "sax matson",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "25",
+      "hometown": "Olympia, Wash.",
+      "highSchool": "Olympia HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Olympia, Wash. / Olympia HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/sax-matson/18000",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Matson__Sax.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18000",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "18000",
+        "name": "Sax Matson",
+        "normalizedName": "sax matson",
+        "jersey": "25",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/sax-matson/18000",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Matson__Sax.jpg",
+        "gamesPlayed": 23,
+        "gamesStarted": 0,
+        "appearances": 23,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 4,
+        "whip": 1.22,
+        "wins": 1,
+        "losses": 0,
+        "saves": 1,
+        "shutouts": 0,
+        "inningsPitched": 27,
+        "inningsPitchedDisplay": "27.0",
+        "hitsAllowed": 19,
+        "runsAllowed": 14,
+        "earnedRunsAllowed": 12,
+        "walksAllowed": 14,
+        "strikeouts": 43,
+        "doublesAllowed": 4,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 98,
+        "wildPitches": 2,
+        "hitBatters": 4,
+        "balks": 0,
+        "opponentsBattingAverage": 0.194,
+        "walksHits": 33
+      },
+      "fieldingStats": {
+        "rosterBioId": "18000",
+        "name": "Sax Matson",
+        "normalizedName": "sax matson",
+        "jersey": "25",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/sax-matson/18000",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Matson__Sax.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 5,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 4,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": 0.8,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 5
+      },
+      "evaluation": {
+        "score": 25,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 93.93939393939394,
+          "Command": 41.42857142857142,
+          "Damage suppression": 0
+        },
+        "summary": "Sax Matson looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 4.00",
+          "WHIP 1.22",
+          "K/9 14.3"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.22"
+          },
+          {
+            "label": "K/9",
+            "value": "14.3"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "27.0"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-18018",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Henry Chabot",
+      "normalizedName": "henry chabot",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "GR",
+      "handedness": "N/A",
+      "jersey": "26",
+      "hometown": "Paradise Valley, Ariz.",
+      "highSchool": "Brophy College Prep/Chapman",
+      "previousSchool": "",
+      "hometownHighSchool": "Paradise Valley, Ariz. / Brophy College Prep/Chapman",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/henry-chabot/18018",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Chabot__Henry.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18018",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "18018",
+        "name": "Henry Chabot",
+        "normalizedName": "henry chabot",
+        "jersey": "26",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/henry-chabot/18018",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Chabot__Henry.jpg",
+        "gamesPlayed": 11,
+        "gamesStarted": 0,
+        "appearances": 11,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 2.25,
+        "whip": 1.17,
+        "wins": 2,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 12,
+        "inningsPitchedDisplay": "12.0",
+        "hitsAllowed": 5,
+        "runsAllowed": 4,
+        "earnedRunsAllowed": 3,
+        "walksAllowed": 9,
+        "strikeouts": 12,
+        "doublesAllowed": 1,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 38,
+        "wildPitches": 3,
+        "hitBatters": 3,
+        "balks": 0,
+        "opponentsBattingAverage": 0.132,
+        "walksHits": 14
+      },
+      "fieldingStats": {
+        "rosterBioId": "18018",
+        "name": "Henry Chabot",
+        "normalizedName": "henry chabot",
+        "jersey": "26",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/henry-chabot/18018",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Chabot__Henry.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 0,
+        "putouts": 1,
+        "assists": 3,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 4
+      },
+      "evaluation": {
+        "score": 10,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 45.45454545454545,
+          "Command": 6.666666666666665,
+          "Damage suppression": 0
+        },
+        "summary": "Henry Chabot looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 2.25",
+          "WHIP 1.17",
+          "K/9 9.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "2.25"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.17"
+          },
+          {
+            "label": "K/9",
+            "value": "9.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "6.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "12.0"
+          }
+        ],
+        "metaLine": "GR / N/A",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-18019",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Ace Whitehead",
+      "normalizedName": "ace whitehead",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "GR",
+      "handedness": "N/A",
+      "jersey": "27",
+      "hometown": "Lampasas, Tex.",
+      "highSchool": "Lampasas HS/Texas",
+      "previousSchool": "",
+      "hometownHighSchool": "Lampasas, Tex. / Lampasas HS/Texas",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/ace-whitehead/18019",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Whitehead__Ace.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18019",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "18019",
+        "name": "Ace Whitehead",
+        "normalizedName": "ace whitehead",
+        "jersey": "27",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/ace-whitehead/18019",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Whitehead__Ace.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 2,
+        "appearances": 3,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 4.5,
+        "whip": 1,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 4,
+        "inningsPitchedDisplay": "4.0",
+        "hitsAllowed": 3,
+        "runsAllowed": 2,
+        "earnedRunsAllowed": 2,
+        "walksAllowed": 1,
+        "strikeouts": 3,
+        "doublesAllowed": 1,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 15,
+        "wildPitches": 0,
+        "hitBatters": 0,
+        "balks": 0,
+        "opponentsBattingAverage": 0.2,
+        "walksHits": 4
+      },
+      "fieldingStats": {
+        "rosterBioId": "18019",
+        "name": "Ace Whitehead",
+        "normalizedName": "ace whitehead",
+        "jersey": "27",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/ace-whitehead/18019",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Whitehead__Ace.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 1,
+        "putouts": 0,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 0,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 2,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 0
+      },
+      "evaluation": {
+        "score": 11,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 25,
+          "Command": 40,
+          "Damage suppression": 0
+        },
+        "summary": "Ace Whitehead looks like a LHP option who throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 4.50",
+          "WHIP 1.00",
+          "K/9 6.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.50"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.00"
+          },
+          {
+            "label": "K/9",
+            "value": "6.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.3"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "4.0"
+          }
+        ],
+        "metaLine": "GR / N/A",
+        "detailBadges": [
+          "LHP",
+          "GR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-18002",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Garren Rizzo",
+      "normalizedName": "garren rizzo",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "R-SO",
+      "handedness": "N/A",
+      "jersey": "28",
+      "hometown": "Palos Verdes, Calif.",
+      "highSchool": "Palos Verdes HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Palos Verdes, Calif. / Palos Verdes HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/garren-rizzo/18002",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Rizzo__Garren.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18002",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "18002",
+        "name": "Garren Rizzo",
+        "normalizedName": "garren rizzo",
+        "jersey": "28",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/garren-rizzo/18002",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Rizzo__Garren.jpg",
+        "gamesPlayed": 8,
+        "gamesStarted": 1,
+        "appearances": 8,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 6.75,
+        "whip": 1.95,
+        "wins": 1,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 6.666666666666667,
+        "inningsPitchedDisplay": "6.2",
+        "hitsAllowed": 11,
+        "runsAllowed": 6,
+        "earnedRunsAllowed": 5,
+        "walksAllowed": 2,
+        "strikeouts": 6,
+        "doublesAllowed": 3,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 30,
+        "wildPitches": 2,
+        "hitBatters": 0,
+        "balks": 0,
+        "opponentsBattingAverage": 0.367,
+        "walksHits": 13
+      },
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 14,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 37.272727272727266,
+          "Command": 40,
+          "Damage suppression": 0
+        },
+        "summary": "Garren Rizzo looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA 6.75",
+          "WHIP 1.95",
+          "K/9 8.1"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.75"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.95"
+          },
+          {
+            "label": "K/9",
+            "value": "8.1"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.35"
+          },
+          {
+            "label": "IP",
+            "value": "6.7"
+          }
+        ],
+        "metaLine": "R-SO / N/A",
+        "detailBadges": [
+          "RHP",
+          "R-SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-17996",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Andrew Lamb",
+      "normalizedName": "andrew lamb",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C/1B/OF",
+      "positionLong": "Catcher/First Base/Outfield",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "29",
+      "hometown": "Coto de Caza, Calif.",
+      "highSchool": "JSerra Catholic HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Coto de Caza, Calif. / JSerra Catholic HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/andrew-lamb/17996",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Lamb__Andrew.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "17996",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "17996",
+        "name": "Andrew Lamb",
+        "normalizedName": "andrew lamb",
+        "jersey": "29",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/andrew-lamb/17996",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Lamb__Andrew.jpg",
+        "gamesPlayed": 31,
+        "gamesStarted": 29,
+        "battingAverage": 0.253,
+        "onBasePercentage": 0.375,
+        "sluggingPercentage": 0.538,
+        "ops": 0.913,
+        "atBats": 91,
+        "runs": 23,
+        "hits": 23,
+        "doubles": 3,
+        "triples": 1,
+        "homeRuns": 7,
+        "runsBattedIn": 22,
+        "totalBases": 49,
+        "walks": 12,
+        "hitByPitch": 7,
+        "strikeouts": 15,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 2,
+        "sacrificeHits": 2,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 1,
+        "putouts": 46,
+        "assists": 1,
+        "errors": 1,
+        "plateAppearances": 115,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "17996",
+        "name": "Andrew Lamb",
+        "normalizedName": "andrew lamb",
+        "jersey": "29",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/andrew-lamb/17996",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Lamb__Andrew.jpg",
+        "gamesPlayed": 24,
+        "gamesStarted": 23,
+        "putouts": 46,
+        "assists": 1,
+        "errors": 1,
+        "fieldingPercentage": 0.979,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 48
+      },
+      "evaluation": {
+        "score": 45,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 52.77777777777777,
+          "Power": 57.36842105263159,
+          "Contact": 20.625,
+          "Discipline": 66.66666666666666,
+          "Speed": 3.3333333333333335
+        },
+        "summary": "Andrew Lamb gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .253",
+          "OBP .375",
+          "SLG .538"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".253"
+          },
+          {
+            "label": "OBP",
+            "value": ".375"
+          },
+          {
+            "label": "SLG",
+            "value": ".538"
+          },
+          {
+            "label": "HR",
+            "value": "7"
+          },
+          {
+            "label": "RBI",
+            "value": "22"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "C/1B/OF",
+          "JR",
+          "N/A",
+          "Hitter"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-17992",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Mason Edwards",
+      "normalizedName": "mason edwards",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "30",
+      "hometown": "Los Angeles, Calif.",
+      "highSchool": "Palisades Charter HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Los Angeles, Calif. / Palisades Charter HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/mason-edwards/17992",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Edwards__Mason.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "17992",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "17992",
+        "name": "Mason Edwards",
+        "normalizedName": "mason edwards",
+        "jersey": "30",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/mason-edwards/17992",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Edwards__Mason.jpg",
+        "gamesPlayed": 9,
+        "gamesStarted": 9,
+        "appearances": 9,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 1.35,
+        "whip": 0.88,
+        "wins": 6,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 53.333333333333336,
+        "inningsPitchedDisplay": "53.1",
+        "hitsAllowed": 21,
+        "runsAllowed": 11,
+        "earnedRunsAllowed": 8,
+        "walksAllowed": 26,
+        "strikeouts": 95,
+        "doublesAllowed": 1,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 181,
+        "wildPitches": 6,
+        "hitBatters": 4,
+        "balks": 0,
+        "opponentsBattingAverage": 0.116,
+        "walksHits": 47
+      },
+      "fieldingStats": {
+        "rosterBioId": "17992",
+        "name": "Mason Edwards",
+        "normalizedName": "mason edwards",
+        "jersey": "30",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/mason-edwards/17992",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Edwards__Mason.jpg",
+        "gamesPlayed": 6,
+        "gamesStarted": 6,
+        "putouts": 1,
+        "assists": 5,
+        "errors": 2,
+        "fieldingPercentage": 0.75,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 8
+      },
+      "evaluation": {
+        "score": 28,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 100,
+          "Command": 53.07692307692308,
+          "Damage suppression": 0
+        },
+        "summary": "Mason Edwards looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 1.35",
+          "WHIP 0.88",
+          "K/9 16.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "1.35"
+          },
+          {
+            "label": "WHIP",
+            "value": "0.88"
+          },
+          {
+            "label": "K/9",
+            "value": "16.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.34"
+          },
+          {
+            "label": "IP",
+            "value": "53.3"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-18026",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Alaka’i Kiakona",
+      "normalizedName": "alaka i kiakona",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "31",
+      "hometown": "Kailua, Hi.",
+      "highSchool": "Kamehameha Schools Kapalama HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Kailua, Hi. / Kamehameha Schools Kapalama HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/alakai-kiakona/18026",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Kiakona__Alaka_i.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18026",
+      "sources": [
+        "Southern California Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Alaka’i Kiakona looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Southern California Athletics roster"
+      }
+    },
+    {
+      "id": "southern-california-18004",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Richard Tejeda",
+      "normalizedName": "richard tejeda",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "32",
+      "hometown": "Riverside, Calif.",
+      "highSchool": "Orange Lutheran HS/Riverside CC",
+      "previousSchool": "",
+      "hometownHighSchool": "Riverside, Calif. / Orange Lutheran HS/Riverside CC",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/richard-tejeda/18004",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Tejeda__Richard.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18004",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "18004",
+        "name": "Richard Tejeda",
+        "normalizedName": "richard tejeda",
+        "jersey": "32",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/richard-tejeda/18004",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Tejeda__Richard.jpg",
+        "gamesPlayed": 23,
+        "gamesStarted": 17,
+        "battingAverage": 0.235,
+        "onBasePercentage": 0.355,
+        "sluggingPercentage": 0.314,
+        "ops": 0.669,
+        "atBats": 51,
+        "runs": 4,
+        "hits": 12,
+        "doubles": 1,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 10,
+        "totalBases": 16,
+        "walks": 4,
+        "hitByPitch": 6,
+        "strikeouts": 15,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 1,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 173,
+        "assists": 6,
+        "errors": 1,
+        "plateAppearances": 63,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "18004",
+        "name": "Richard Tejeda",
+        "normalizedName": "richard tejeda",
+        "jersey": "32",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/richard-tejeda/18004",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Tejeda__Richard.jpg",
+        "gamesPlayed": 20,
+        "gamesStarted": 17,
+        "putouts": 173,
+        "assists": 6,
+        "errors": 1,
+        "fieldingPercentage": 0.994,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 3,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 1,
+        "catchersInterference": 0,
+        "totalChances": 180
+      },
+      "evaluation": {
+        "score": 16,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 41.66666666666664,
+          "Power": 0,
+          "Contact": 9.374999999999991,
+          "Discipline": 7.407407407407404,
+          "Speed": 0
+        },
+        "summary": "Richard Tejeda gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .235",
+          "OBP .355",
+          "SLG .314"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".235"
+          },
+          {
+            "label": "OBP",
+            "value": ".355"
+          },
+          {
+            "label": "SLG",
+            "value": ".314"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "10"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "C",
+          "JR",
+          "N/A",
+          "Hitter"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-18020",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Adam Troy",
+      "normalizedName": "adam troy",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "R-JR",
+      "handedness": "N/A",
+      "jersey": "33",
+      "hometown": "Houston, Tex.",
+      "highSchool": "Summer Creek HS/Pepperdine",
+      "previousSchool": "",
+      "hometownHighSchool": "Houston, Tex. / Summer Creek HS/Pepperdine",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/adam-troy/18020",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Troy__Adam.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18020",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "18020",
+        "name": "Adam Troy",
+        "normalizedName": "adam troy",
+        "jersey": "33",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/adam-troy/18020",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Troy__Adam.jpg",
+        "gamesPlayed": 19,
+        "gamesStarted": 0,
+        "appearances": 19,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 3.92,
+        "whip": 1.4,
+        "wins": 1,
+        "losses": 2,
+        "saves": 10,
+        "shutouts": 0,
+        "inningsPitched": 20.666666666666668,
+        "inningsPitchedDisplay": "20.2",
+        "hitsAllowed": 19,
+        "runsAllowed": 11,
+        "earnedRunsAllowed": 9,
+        "walksAllowed": 10,
+        "strikeouts": 25,
+        "doublesAllowed": 7,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 81,
+        "wildPitches": 7,
+        "hitBatters": 0,
+        "balks": 0,
+        "opponentsBattingAverage": 0.235,
+        "walksHits": 29
+      },
+      "fieldingStats": {
+        "rosterBioId": "18020",
+        "name": "Adam Troy",
+        "normalizedName": "adam troy",
+        "jersey": "33",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/adam-troy/18020",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Troy__Adam.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 0,
+        "putouts": 1,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 1,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 2
+      },
+      "evaluation": {
+        "score": 17,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 62.6099706744868,
+          "Command": 30,
+          "Damage suppression": 0
+        },
+        "summary": "Adam Troy looks like a RHP option who limits runs and misses bats.",
+        "summaryMetrics": [
+          "ERA 3.92",
+          "WHIP 1.40",
+          "K/9 10.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.92"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.40"
+          },
+          {
+            "label": "K/9",
+            "value": "10.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.87"
+          },
+          {
+            "label": "IP",
+            "value": "20.7"
+          }
+        ],
+        "metaLine": "R-JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "R-JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-18021",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Nolan Eberwein",
+      "normalizedName": "nolan eberwein",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "34",
+      "hometown": "Henderson, Nev.",
+      "highSchool": "Bishop Gorman HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Henderson, Nev. / Bishop Gorman HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/nolan-eberwein/18021",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Eberwein__Nolan.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18021",
+      "sources": [
+        "Southern California Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Nolan Eberwein gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "Southern California Athletics roster"
+      }
+    },
+    {
+      "id": "southern-california-17994",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Andrew Harbour",
+      "normalizedName": "andrew harbour",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "35",
+      "hometown": "Tustin, Calif.",
+      "highSchool": "Foothill HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Tustin, Calif. / Foothill HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/andrew-harbour/17994",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Harbour__Andrew.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "17994",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "17994",
+        "name": "Andrew Harbour",
+        "normalizedName": "andrew harbour",
+        "jersey": "35",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/andrew-harbour/17994",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Harbour__Andrew.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 0,
+        "appearances": 3,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 11.57,
+        "whip": 1.71,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 2.3333333333333335,
+        "inningsPitchedDisplay": "2.1",
+        "hitsAllowed": 2,
+        "runsAllowed": 3,
+        "earnedRunsAllowed": 3,
+        "walksAllowed": 2,
+        "strikeouts": 0,
+        "doublesAllowed": 1,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 9,
+        "wildPitches": 1,
+        "hitBatters": 0,
+        "balks": 0,
+        "opponentsBattingAverage": 0.222,
+        "walksHits": 4
+      },
+      "fieldingStats": {
+        "rosterBioId": "17994",
+        "name": "Andrew Harbour",
+        "normalizedName": "andrew harbour",
+        "jersey": "35",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/andrew-harbour/17994",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Harbour__Andrew.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 1,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 1
+      },
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Andrew Harbour gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 11.57",
+          "WHIP 1.71",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "11.57"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.71"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "7.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "3.86"
+          },
+          {
+            "label": "IP",
+            "value": "2.3"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-18022",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Rohan Kasanagottu",
+      "normalizedName": "rohan kasanagottu",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "36",
+      "hometown": "Fremont, Calif.",
+      "highSchool": "Valley Christian HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Fremont, Calif. / Valley Christian HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/rohan-kasanagottu/18022",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Kasanagottu__Rohan.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18022",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "18022",
+        "name": "Rohan Kasanagottu",
+        "normalizedName": "rohan kasanagottu",
+        "jersey": "36",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/rohan-kasanagottu/18022",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Kasanagottu__Rohan.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 0,
+        "appearances": 3,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 0,
+        "whip": 1.5,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 2,
+        "inningsPitchedDisplay": "2.0",
+        "hitsAllowed": 1,
+        "runsAllowed": 0,
+        "earnedRunsAllowed": 0,
+        "walksAllowed": 2,
+        "strikeouts": 3,
+        "doublesAllowed": 0,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 8,
+        "wildPitches": 1,
+        "hitBatters": 0,
+        "balks": 0,
+        "opponentsBattingAverage": 0.125,
+        "walksHits": 3
+      },
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 19,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 86.36363636363636,
+          "Command": 10,
+          "Damage suppression": 0
+        },
+        "summary": "Rohan Kasanagottu looks like a RHP option who limits runs and misses bats.",
+        "summaryMetrics": [
+          "ERA 0.00",
+          "WHIP 1.50",
+          "K/9 13.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "0.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.50"
+          },
+          {
+            "label": "K/9",
+            "value": "13.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "9.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "2.0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-18023",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Jake Sekany",
+      "normalizedName": "jake sekany",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "37",
+      "hometown": "Livermore, Calif.",
+      "highSchool": "Granada HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Livermore, Calif. / Granada HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/jake-sekany/18023",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Sekany__Jake.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18023",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "18023",
+        "name": "Jake Sekany",
+        "normalizedName": "jake sekany",
+        "jersey": "37",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/jake-sekany/18023",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Sekany__Jake.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "appearances": 1,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 13.5,
+        "whip": 3,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 0.6666666666666666,
+        "inningsPitchedDisplay": "0.2",
+        "hitsAllowed": 1,
+        "runsAllowed": 1,
+        "earnedRunsAllowed": 1,
+        "walksAllowed": 1,
+        "strikeouts": 1,
+        "doublesAllowed": 0,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 3,
+        "wildPitches": 0,
+        "hitBatters": 0,
+        "balks": 0,
+        "opponentsBattingAverage": 0.333,
+        "walksHits": 2
+      },
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 17,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 86.36363636363636,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Jake Sekany looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 13.50",
+          "WHIP 3.00",
+          "K/9 13.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "13.50"
+          },
+          {
+            "label": "WHIP",
+            "value": "3.00"
+          },
+          {
+            "label": "K/9",
+            "value": "13.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "13.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "13.50"
+          },
+          {
+            "label": "IP",
+            "value": "0.7"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-18027",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Paul Grossman",
+      "normalizedName": "paul grossman",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "38",
+      "hometown": "Irvine, Calif.",
+      "highSchool": "Northwood HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Irvine, Calif. / Northwood HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/paul-grossman/18027",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Grossman__Paul.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18027",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "18027",
+        "name": "Paul Grossman",
+        "normalizedName": "paul grossman",
+        "jersey": "38",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/paul-grossman/18027",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Grossman__Paul.jpg",
+        "gamesPlayed": 4,
+        "gamesStarted": 0,
+        "appearances": 4,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 0,
+        "whip": 1.5,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 2.6666666666666665,
+        "inningsPitchedDisplay": "2.2",
+        "hitsAllowed": 2,
+        "runsAllowed": 0,
+        "earnedRunsAllowed": 0,
+        "walksAllowed": 2,
+        "strikeouts": 0,
+        "doublesAllowed": 1,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 8,
+        "wildPitches": 1,
+        "hitBatters": 1,
+        "balks": 0,
+        "opponentsBattingAverage": 0.25,
+        "walksHits": 4
+      },
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Paul Grossman looks like a LHP option who limits runs.",
+        "summaryMetrics": [
+          "ERA 0.00",
+          "WHIP 1.50",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "0.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.50"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "6.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "2.7"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-18008",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Kaden Stone",
+      "normalizedName": "kaden stone",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "SO",
+      "handedness": "N/A",
+      "jersey": "39",
+      "hometown": "Rancho Palos Verdes",
+      "highSchool": "Palos Verdes HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Rancho Palos Verdes / Palos Verdes HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/kaden-stone/18008",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Stone__Kaden.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18008",
+      "sources": [
+        "Southern California Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Kaden Stone gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "C",
+          "SO",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "Southern California Athletics roster"
+      }
+    },
+    {
+      "id": "southern-california-18007",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Will Stickney",
+      "normalizedName": "will stickney",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "R-FR",
+      "handedness": "N/A",
+      "jersey": "40",
+      "hometown": "San Diego, Calif.",
+      "highSchool": "La Jolla Country Day HS",
+      "previousSchool": "",
+      "hometownHighSchool": "San Diego, Calif. / La Jolla Country Day HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/will-stickney/18007",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Stickney__Will.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18007",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "18007",
+        "name": "Will Stickney",
+        "normalizedName": "will stickney",
+        "jersey": "40",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/will-stickney/18007",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Stickney__Will.jpg",
+        "gamesPlayed": 14,
+        "gamesStarted": 6,
+        "battingAverage": 0.2,
+        "onBasePercentage": 0.31,
+        "sluggingPercentage": 0.36,
+        "ops": 0.67,
+        "atBats": 25,
+        "runs": 2,
+        "hits": 5,
+        "doubles": 1,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 3,
+        "totalBases": 9,
+        "walks": 4,
+        "hitByPitch": 0,
+        "strikeouts": 5,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 3,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 1,
+        "putouts": 7,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 34,
+        "caughtStealing": 1,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "18007",
+        "name": "Will Stickney",
+        "normalizedName": "will stickney",
+        "jersey": "40",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/will-stickney/18007",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Stickney__Will.jpg",
+        "gamesPlayed": 5,
+        "gamesStarted": 4,
+        "putouts": 7,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 7
+      },
+      "evaluation": {
+        "score": 17,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 16.66666666666665,
+          "Power": 10.526315789473681,
+          "Contact": 0,
+          "Discipline": 66.66666666666666,
+          "Speed": 0
+        },
+        "summary": "Will Stickney gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .200",
+          "OBP .310",
+          "SLG .360"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".200"
+          },
+          {
+            "label": "OBP",
+            "value": ".310"
+          },
+          {
+            "label": "SLG",
+            "value": ".360"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "3"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "R-FR / N/A",
+        "detailBadges": [
+          "OF",
+          "R-FR",
+          "N/A",
+          "Hitter"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-17990",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Ben Cushnie",
+      "normalizedName": "ben cushnie",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "LHP",
+      "classYear": "SO",
+      "handedness": "N/A",
+      "jersey": "41",
+      "hometown": "Santa Clarita, Calif.",
+      "highSchool": "West Ranch HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Santa Clarita, Calif. / West Ranch HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/ben-cushnie/17990",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Cushnie__Ben.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "17990",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "17990",
+        "name": "Ben Cushnie",
+        "normalizedName": "ben cushnie",
+        "jersey": "41",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/ben-cushnie/17990",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Cushnie__Ben.jpg",
+        "gamesPlayed": 9,
+        "gamesStarted": 0,
+        "appearances": 9,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 1.54,
+        "whip": 1.11,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 11.666666666666666,
+        "inningsPitchedDisplay": "11.2",
+        "hitsAllowed": 8,
+        "runsAllowed": 3,
+        "earnedRunsAllowed": 2,
+        "walksAllowed": 5,
+        "strikeouts": 5,
+        "doublesAllowed": 1,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 42,
+        "wildPitches": 0,
+        "hitBatters": 3,
+        "balks": 0,
+        "opponentsBattingAverage": 0.19,
+        "walksHits": 13
+      },
+      "fieldingStats": {
+        "rosterBioId": "17990",
+        "name": "Ben Cushnie",
+        "normalizedName": "ben cushnie",
+        "jersey": "41",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/ben-cushnie/17990",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Cushnie__Ben.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 0,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 0
+      },
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Ben Cushnie looks like a LHP option who limits runs and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 1.54",
+          "WHIP 1.11",
+          "K/9 3.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "1.54"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.11"
+          },
+          {
+            "label": "K/9",
+            "value": "3.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.9"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "11.7"
+          }
+        ],
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "LHP",
+          "SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-18024",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Cameron Fausset",
+      "normalizedName": "cameron fausset",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "44",
+      "hometown": "Newbury Park, Calif.",
+      "highSchool": "Newbury Park HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Newbury Park, Calif. / Newbury Park HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/cameron-fausset/18024",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Fausset__Cameron.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18024",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "18024",
+        "name": "Cameron Fausset",
+        "normalizedName": "cameron fausset",
+        "jersey": "44",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/cameron-fausset/18024",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Fausset__Cameron.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 0,
+        "appearances": 7,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 5.59,
+        "whip": 1.66,
+        "wins": 2,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 9.666666666666666,
+        "inningsPitchedDisplay": "9.2",
+        "hitsAllowed": 7,
+        "runsAllowed": 6,
+        "earnedRunsAllowed": 6,
+        "walksAllowed": 9,
+        "strikeouts": 8,
+        "doublesAllowed": 3,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 36,
+        "wildPitches": 4,
+        "hitBatters": 3,
+        "balks": 0,
+        "opponentsBattingAverage": 0.194,
+        "walksHits": 16
+      },
+      "fieldingStats": {
+        "rosterBioId": "18024",
+        "name": "Cameron Fausset",
+        "normalizedName": "cameron fausset",
+        "jersey": "44",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/cameron-fausset/18024",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Fausset__Cameron.jpg",
+        "gamesPlayed": 4,
+        "gamesStarted": 0,
+        "putouts": 2,
+        "assists": 2,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 4
+      },
+      "evaluation": {
+        "score": 6,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 31.34796238244515,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Cameron Fausset gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 5.59",
+          "WHIP 1.66",
+          "K/9 7.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.59"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.66"
+          },
+          {
+            "label": "K/9",
+            "value": "7.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "8.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.93"
+          },
+          {
+            "label": "IP",
+            "value": "9.7"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-18025",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Chase Herrell",
+      "normalizedName": "chase herrell",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "R-SO",
+      "handedness": "N/A",
+      "jersey": "45",
+      "hometown": "Milford, Ohio",
+      "highSchool": "Milford HS/Ohio St.",
+      "previousSchool": "",
+      "hometownHighSchool": "Milford, Ohio / Milford HS/Ohio St.",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/chase-herrell/18025",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Herrell__Chase.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18025",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "18025",
+        "name": "Chase Herrell",
+        "normalizedName": "chase herrell",
+        "jersey": "45",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/chase-herrell/18025",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Herrell__Chase.jpg",
+        "gamesPlayed": 13,
+        "gamesStarted": 7,
+        "appearances": 13,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 5.17,
+        "whip": 1.46,
+        "wins": 3,
+        "losses": 3,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 38.333333333333336,
+        "inningsPitchedDisplay": "38.1",
+        "hitsAllowed": 38,
+        "runsAllowed": 23,
+        "earnedRunsAllowed": 22,
+        "walksAllowed": 18,
+        "strikeouts": 34,
+        "doublesAllowed": 5,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 4,
+        "opponentsAtBats": 151,
+        "wildPitches": 4,
+        "hitBatters": 3,
+        "balks": 0,
+        "opponentsBattingAverage": 0.252,
+        "walksHits": 56
+      },
+      "fieldingStats": {
+        "rosterBioId": "18025",
+        "name": "Chase Herrell",
+        "normalizedName": "chase herrell",
+        "jersey": "45",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/chase-herrell/18025",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Herrell__Chase.jpg",
+        "gamesPlayed": 5,
+        "gamesStarted": 2,
+        "putouts": 1,
+        "assists": 4,
+        "errors": 1,
+        "fieldingPercentage": 0.833,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 2,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 6
+      },
+      "evaluation": {
+        "score": 10,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 36.20553359683794,
+          "Command": 17.777777777777775,
+          "Damage suppression": 0
+        },
+        "summary": "Chase Herrell gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 5.17",
+          "WHIP 1.46",
+          "K/9 8.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.17"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.46"
+          },
+          {
+            "label": "K/9",
+            "value": "8.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.94"
+          },
+          {
+            "label": "IP",
+            "value": "38.3"
+          }
+        ],
+        "metaLine": "R-SO / N/A",
+        "detailBadges": [
+          "RHP",
+          "R-SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    },
+    {
+      "id": "southern-california-17993",
+      "schoolSlug": "southern-california",
+      "school": "Southern California",
+      "schoolLongName": "University of Southern California",
+      "name": "Grant Govel",
+      "normalizedName": "grant govel",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "SO",
+      "handedness": "N/A",
+      "jersey": "95",
+      "hometown": "Rolling Hills Estates, Calif.",
+      "highSchool": "Palos Verdes HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Rolling Hills Estates, Calif. / Palos Verdes HS",
+      "profileUrl": "https://usctrojans.com/sports/baseball/roster/grant-govel/17993",
+      "imageUrl": "https://usctrojans.com/images/2025/12/17/Govel__Grant.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "17993",
+      "sources": [
+        "Southern California Athletics roster",
+        "Southern California cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "17993",
+        "name": "Grant Govel",
+        "normalizedName": "grant govel",
+        "jersey": "95",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/grant-govel/17993",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Govel__Grant.jpg",
+        "gamesPlayed": 9,
+        "gamesStarted": 9,
+        "appearances": 9,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 2.13,
+        "whip": 0.8,
+        "wins": 7,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 55,
+        "inningsPitchedDisplay": "55.0",
+        "hitsAllowed": 36,
+        "runsAllowed": 14,
+        "earnedRunsAllowed": 13,
+        "walksAllowed": 8,
+        "strikeouts": 57,
+        "doublesAllowed": 5,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 5,
+        "opponentsAtBats": 196,
+        "wildPitches": 2,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.184,
+        "walksHits": 44
+      },
+      "fieldingStats": {
+        "rosterBioId": "17993",
+        "name": "Grant Govel",
+        "normalizedName": "grant govel",
+        "jersey": "95",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/grant-govel/17993",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Govel__Grant.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 7,
+        "putouts": 6,
+        "assists": 2,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 3,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 8
+      },
+      "evaluation": {
+        "score": 26,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 48.42975206611571,
+          "Command": 100,
+          "Damage suppression": 0
+        },
+        "summary": "Grant Govel looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 2.13",
+          "WHIP 0.80",
+          "K/9 9.3"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "2.13"
+          },
+          {
+            "label": "WHIP",
+            "value": "0.80"
+          },
+          {
+            "label": "K/9",
+            "value": "9.3"
+          },
+          {
+            "label": "BB/9",
+            "value": "1.3"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.82"
+          },
+          {
+            "label": "IP",
+            "value": "55.0"
+          }
+        ],
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats"
+      }
+    }
+  ],
+  "playerBoard": {
+    "source": "Southern California Athletics roster + cumulative stats / ESPN roster",
+    "note": "This Southern California-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Southern California's public ESPN roster feed did not line up cleanly with the current school-site roster.",
+    "totalPlayers": 40,
+    "roleCounts": {
+      "Hitter": 19,
+      "Pitcher": 21
+    },
+    "players": [
+      {
+        "id": "southern-california-18005",
+        "name": "Brock Slaton",
+        "school": "Southern California",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "GR",
+        "handedness": "N/A",
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brock Slaton gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .167",
+          "OBP .167",
+          "SLG .500"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".167"
+          },
+          {
+            "label": "OBP",
+            "value": ".167"
+          },
+          {
+            "label": "SLG",
+            "value": ".500"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "4"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 47.36842105263158,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "GR / N/A",
+        "detailBadges": [
+          "OF",
+          "GR",
+          "N/A",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/brock-slaton/18005",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18009",
+        "name": "Diego Velazquez",
+        "school": "Southern California",
+        "role": "Pitcher",
+        "position": "INF/RHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 18,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Diego Velazquez looks like a INF/RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 6.75",
+          "WHIP 1.41",
+          "K/9 11.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.75"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.41"
+          },
+          {
+            "label": "K/9",
+            "value": "11.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "2.53"
+          },
+          {
+            "label": "IP",
+            "value": "10.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 63.35227272727273,
+          "Command": 32,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF/RHP",
+          "FR",
+          "N/A",
+          "Two-Way"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Two-Way",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/diego-velazquez/18009",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-17997",
+        "name": "Adrian Lopez",
+        "school": "Southern California",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 47,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Adrian Lopez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .294",
+          "OBP .377",
+          "SLG .478"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".294"
+          },
+          {
+            "label": "OBP",
+            "value": ".377"
+          },
+          {
+            "label": "SLG",
+            "value": ".478"
+          },
+          {
+            "label": "HR",
+            "value": "4"
+          },
+          {
+            "label": "RBI",
+            "value": "27"
+          },
+          {
+            "label": "SB",
+            "value": "3"
+          }
+        ],
+        "components": {
+          "On-base": 53.88888888888887,
+          "Power": 41.57894736842105,
+          "Contact": 46.249999999999986,
+          "Discipline": 69.56521739130433,
+          "Speed": 10
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "N/A",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/adrian-lopez/17997",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-17988",
+        "name": "Dean Carpentier",
+        "school": "Southern California",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 27,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Dean Carpentier gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .194",
+          "OBP .373",
+          "SLG .387"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".194"
+          },
+          {
+            "label": "OBP",
+            "value": ".373"
+          },
+          {
+            "label": "SLG",
+            "value": ".387"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "16"
+          },
+          {
+            "label": "SB",
+            "value": "2"
+          }
+        ],
+        "components": {
+          "On-base": 51.66666666666665,
+          "Power": 17.631578947368425,
+          "Contact": 0,
+          "Discipline": 40.27777777777777,
+          "Speed": 6.666666666666667
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "N/A",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/dean-carpentier/17988",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-17989",
+        "name": "Abbrie Covarrubias",
+        "school": "Southern California",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 43,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Abbrie Covarrubias profiles as a INF piece who adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .266",
+          "OBP .381",
+          "SLG .374"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".266"
+          },
+          {
+            "label": "OBP",
+            "value": ".381"
+          },
+          {
+            "label": "SLG",
+            "value": ".374"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "16"
+          },
+          {
+            "label": "SB",
+            "value": "14"
+          }
+        ],
+        "components": {
+          "On-base": 56.1111111111111,
+          "Power": 14.210526315789473,
+          "Contact": 28.750000000000007,
+          "Discipline": 79.22705314009659,
+          "Speed": 46.666666666666664
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "N/A",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/abbrie-covarrubias/17989",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18003",
+        "name": "Kevin Takeuchi",
+        "school": "Southern California",
+        "role": "Hitter",
+        "position": "INF/OF",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 53,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Kevin Takeuchi profiles as a INF/OF piece who adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .312",
+          "OBP .389",
+          "SLG .468"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".312"
+          },
+          {
+            "label": "OBP",
+            "value": ".389"
+          },
+          {
+            "label": "SLG",
+            "value": ".468"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "31"
+          },
+          {
+            "label": "SB",
+            "value": "9"
+          }
+        ],
+        "components": {
+          "On-base": 60.55555555555555,
+          "Power": 38.947368421052644,
+          "Contact": 57.49999999999999,
+          "Discipline": 69.56521739130433,
+          "Speed": 30
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "INF/OF",
+          "JR",
+          "N/A",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/kevin-takeuchi/18003",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18001",
+        "name": "Maddox Riske",
+        "school": "Southern California",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 7,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Maddox Riske gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .202",
+          "OBP .273",
+          "SLG .266"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".202"
+          },
+          {
+            "label": "OBP",
+            "value": ".273"
+          },
+          {
+            "label": "SLG",
+            "value": ".266"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "15"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 49.2063492063492,
+          "Speed": 0
+        },
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "N/A",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/maddox-riske/18001",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-17999",
+        "name": "Maximo Martinez",
+        "school": "Southern California",
+        "role": "Pitcher",
+        "position": "RHP/UTL",
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Maximo Martinez looks like a RHP/UTL option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "RHP/UTL",
+          "SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/maximo-martinez/17999",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-17991",
+        "name": "Michael Ebner",
+        "school": "Southern California",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Michael Ebner looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "R-JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster"
+        ],
+        "sourceSummary": "Southern California Athletics roster",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/michael-ebner/17991",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18010",
+        "name": "Logan Honma",
+        "school": "Southern California",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Logan Honma gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .167",
+          "OBP .167",
+          "SLG .167"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".167"
+          },
+          {
+            "label": "OBP",
+            "value": ".167"
+          },
+          {
+            "label": "SLG",
+            "value": ".167"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "N/A",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/logan-honma/18010",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-17995",
+        "name": "Andrew Johnson",
+        "school": "Southern California",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 14,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Andrew Johnson looks like a RHP option who limits runs and misses bats.",
+        "summaryMetrics": [
+          "ERA 3.66",
+          "WHIP 1.29",
+          "K/9 9.1"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.66"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.29"
+          },
+          {
+            "label": "K/9",
+            "value": "9.1"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.54"
+          },
+          {
+            "label": "IP",
+            "value": "46.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 46.03896103896105,
+          "Command": 32.22222222222222,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/andrew-johnson/17995",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-17987",
+        "name": "Jack Basseer",
+        "school": "Southern California",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 54,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jack Basseer profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .309",
+          "OBP .404",
+          "SLG .593"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".309"
+          },
+          {
+            "label": "OBP",
+            "value": ".404"
+          },
+          {
+            "label": "SLG",
+            "value": ".593"
+          },
+          {
+            "label": "HR",
+            "value": "5"
+          },
+          {
+            "label": "RBI",
+            "value": "16"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 68.88888888888889,
+          "Power": 71.84210526315789,
+          "Contact": 55.62499999999999,
+          "Discipline": 26.388888888888886,
+          "Speed": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "N/A",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/jack-basseer/17987",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18011",
+        "name": "Jarett Sabol",
+        "school": "Southern California",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jarett Sabol gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "C",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster"
+        ],
+        "sourceSummary": "Southern California Athletics roster",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/jarett-sabol/18011",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18012",
+        "name": "Walter Urbon",
+        "school": "Southern California",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 29,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Walter Urbon profiles as a OF piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .250",
+          "OBP .400",
+          "SLG .250"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".250"
+          },
+          {
+            "label": "OBP",
+            "value": ".400"
+          },
+          {
+            "label": "SLG",
+            "value": ".250"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 66.66666666666666,
+          "Power": 0,
+          "Contact": 18.75,
+          "Discipline": 33.33333333333333,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "N/A",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/walter-urbon/18012",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18013",
+        "name": "Isaiah Ibarra",
+        "school": "Southern California",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 14,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Isaiah Ibarra gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .200",
+          "OBP .333",
+          "SLG .267"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".200"
+          },
+          {
+            "label": "OBP",
+            "value": ".333"
+          },
+          {
+            "label": "SLG",
+            "value": ".267"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "1"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 29.44444444444444,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 33.33333333333333,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "C",
+          "FR",
+          "N/A",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/isaiah-ibarra/18013",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18014",
+        "name": "Isaac Cadena",
+        "school": "Southern California",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 48,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Isaac Cadena profiles as a C piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .274",
+          "OBP .428",
+          "SLG .416"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".274"
+          },
+          {
+            "label": "OBP",
+            "value": ".428"
+          },
+          {
+            "label": "SLG",
+            "value": ".416"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "17"
+          },
+          {
+            "label": "SB",
+            "value": "2"
+          }
+        ],
+        "components": {
+          "On-base": 82.22222222222221,
+          "Power": 25.26315789473684,
+          "Contact": 33.750000000000014,
+          "Discipline": 56.63082437275986,
+          "Speed": 6.666666666666667
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "C",
+          "JR",
+          "N/A",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/isaac-cadena/18014",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18015",
+        "name": "Hayden Woodson",
+        "school": "Southern California",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Hayden Woodson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .000",
+          "OBP .000",
+          "SLG .000"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".000"
+          },
+          {
+            "label": "OBP",
+            "value": ".000"
+          },
+          {
+            "label": "SLG",
+            "value": ".000"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "N/A",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/hayden-woodson/18015",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18016",
+        "name": "Gavin Lauridsen",
+        "school": "Southern California",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 10,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Gavin Lauridsen looks like a RHP option who limits runs.",
+        "summaryMetrics": [
+          "ERA 3.81",
+          "WHIP 1.31",
+          "K/9 8.6"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.81"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.31"
+          },
+          {
+            "label": "K/9",
+            "value": "8.6"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.32"
+          },
+          {
+            "label": "IP",
+            "value": "28.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 41.60427807486631,
+          "Command": 11.76470588235294,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/gavin-lauridsen/18016",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18017",
+        "name": "Matthew Morrell",
+        "school": "Southern California",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-SO",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matthew Morrell looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-SO / N/A",
+        "detailBadges": [
+          "RHP",
+          "R-SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster"
+        ],
+        "sourceSummary": "Southern California Athletics roster",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/matthew-morrell/18017",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-17998",
+        "name": "Augie Lopez",
+        "school": "Southern California",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 47,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Augie Lopez profiles as a C piece who brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .277",
+          "OBP .359",
+          "SLG .643"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".277"
+          },
+          {
+            "label": "OBP",
+            "value": ".359"
+          },
+          {
+            "label": "SLG",
+            "value": ".643"
+          },
+          {
+            "label": "HR",
+            "value": "11"
+          },
+          {
+            "label": "RBI",
+            "value": "33"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 43.888888888888864,
+          "Power": 85.00000000000001,
+          "Contact": 35.625000000000014,
+          "Discipline": 31.275720164609044,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "C",
+          "SO",
+          "N/A",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/augie-lopez/17998",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18000",
+        "name": "Sax Matson",
+        "school": "Southern California",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 25,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Sax Matson looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 4.00",
+          "WHIP 1.22",
+          "K/9 14.3"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.22"
+          },
+          {
+            "label": "K/9",
+            "value": "14.3"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "27.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 93.93939393939394,
+          "Command": 41.42857142857142,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/sax-matson/18000",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18018",
+        "name": "Henry Chabot",
+        "school": "Southern California",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "GR",
+        "handedness": "N/A",
+        "score": 10,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Henry Chabot looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 2.25",
+          "WHIP 1.17",
+          "K/9 9.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "2.25"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.17"
+          },
+          {
+            "label": "K/9",
+            "value": "9.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "6.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "12.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 45.45454545454545,
+          "Command": 6.666666666666665,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / N/A",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/henry-chabot/18018",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18019",
+        "name": "Ace Whitehead",
+        "school": "Southern California",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "GR",
+        "handedness": "N/A",
+        "score": 11,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ace Whitehead looks like a LHP option who throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 4.50",
+          "WHIP 1.00",
+          "K/9 6.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.50"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.00"
+          },
+          {
+            "label": "K/9",
+            "value": "6.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.3"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "4.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 25,
+          "Command": 40,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / N/A",
+        "detailBadges": [
+          "LHP",
+          "GR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/ace-whitehead/18019",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18002",
+        "name": "Garren Rizzo",
+        "school": "Southern California",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-SO",
+        "handedness": "N/A",
+        "score": 14,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Garren Rizzo looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA 6.75",
+          "WHIP 1.95",
+          "K/9 8.1"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.75"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.95"
+          },
+          {
+            "label": "K/9",
+            "value": "8.1"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.35"
+          },
+          {
+            "label": "IP",
+            "value": "6.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 37.272727272727266,
+          "Command": 40,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-SO / N/A",
+        "detailBadges": [
+          "RHP",
+          "R-SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/garren-rizzo/18002",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-17996",
+        "name": "Andrew Lamb",
+        "school": "Southern California",
+        "role": "Hitter",
+        "position": "C/1B/OF",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 45,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Andrew Lamb gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .253",
+          "OBP .375",
+          "SLG .538"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".253"
+          },
+          {
+            "label": "OBP",
+            "value": ".375"
+          },
+          {
+            "label": "SLG",
+            "value": ".538"
+          },
+          {
+            "label": "HR",
+            "value": "7"
+          },
+          {
+            "label": "RBI",
+            "value": "22"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 52.77777777777777,
+          "Power": 57.36842105263159,
+          "Contact": 20.625,
+          "Discipline": 66.66666666666666,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "C/1B/OF",
+          "JR",
+          "N/A",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/andrew-lamb/17996",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-17992",
+        "name": "Mason Edwards",
+        "school": "Southern California",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 28,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Mason Edwards looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 1.35",
+          "WHIP 0.88",
+          "K/9 16.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "1.35"
+          },
+          {
+            "label": "WHIP",
+            "value": "0.88"
+          },
+          {
+            "label": "K/9",
+            "value": "16.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.34"
+          },
+          {
+            "label": "IP",
+            "value": "53.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 100,
+          "Command": 53.07692307692308,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/mason-edwards/17992",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18026",
+        "name": "Alaka’i Kiakona",
+        "school": "Southern California",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Alaka’i Kiakona looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster"
+        ],
+        "sourceSummary": "Southern California Athletics roster",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/alakai-kiakona/18026",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18004",
+        "name": "Richard Tejeda",
+        "school": "Southern California",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 16,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Richard Tejeda gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .235",
+          "OBP .355",
+          "SLG .314"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".235"
+          },
+          {
+            "label": "OBP",
+            "value": ".355"
+          },
+          {
+            "label": "SLG",
+            "value": ".314"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "10"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 41.66666666666664,
+          "Power": 0,
+          "Contact": 9.374999999999991,
+          "Discipline": 7.407407407407404,
+          "Speed": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "C",
+          "JR",
+          "N/A",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/richard-tejeda/18004",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18020",
+        "name": "Adam Troy",
+        "school": "Southern California",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-JR",
+        "handedness": "N/A",
+        "score": 17,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Adam Troy looks like a RHP option who limits runs and misses bats.",
+        "summaryMetrics": [
+          "ERA 3.92",
+          "WHIP 1.40",
+          "K/9 10.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.92"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.40"
+          },
+          {
+            "label": "K/9",
+            "value": "10.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.87"
+          },
+          {
+            "label": "IP",
+            "value": "20.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 62.6099706744868,
+          "Command": 30,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "R-JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/adam-troy/18020",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18021",
+        "name": "Nolan Eberwein",
+        "school": "Southern California",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nolan Eberwein gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster"
+        ],
+        "sourceSummary": "Southern California Athletics roster",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/nolan-eberwein/18021",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-17994",
+        "name": "Andrew Harbour",
+        "school": "Southern California",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Andrew Harbour gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 11.57",
+          "WHIP 1.71",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "11.57"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.71"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "7.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "3.86"
+          },
+          {
+            "label": "IP",
+            "value": "2.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/andrew-harbour/17994",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18022",
+        "name": "Rohan Kasanagottu",
+        "school": "Southern California",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 19,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Rohan Kasanagottu looks like a RHP option who limits runs and misses bats.",
+        "summaryMetrics": [
+          "ERA 0.00",
+          "WHIP 1.50",
+          "K/9 13.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "0.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.50"
+          },
+          {
+            "label": "K/9",
+            "value": "13.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "9.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "2.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 86.36363636363636,
+          "Command": 10,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/rohan-kasanagottu/18022",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18023",
+        "name": "Jake Sekany",
+        "school": "Southern California",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 17,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jake Sekany looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 13.50",
+          "WHIP 3.00",
+          "K/9 13.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "13.50"
+          },
+          {
+            "label": "WHIP",
+            "value": "3.00"
+          },
+          {
+            "label": "K/9",
+            "value": "13.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "13.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "13.50"
+          },
+          {
+            "label": "IP",
+            "value": "0.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 86.36363636363636,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/jake-sekany/18023",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18027",
+        "name": "Paul Grossman",
+        "school": "Southern California",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Paul Grossman looks like a LHP option who limits runs.",
+        "summaryMetrics": [
+          "ERA 0.00",
+          "WHIP 1.50",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "0.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.50"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "6.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "2.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/paul-grossman/18027",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18008",
+        "name": "Kaden Stone",
+        "school": "Southern California",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Kaden Stone gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "C",
+          "SO",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster"
+        ],
+        "sourceSummary": "Southern California Athletics roster",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/kaden-stone/18008",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18007",
+        "name": "Will Stickney",
+        "school": "Southern California",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "R-FR",
+        "handedness": "N/A",
+        "score": 17,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Will Stickney gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .200",
+          "OBP .310",
+          "SLG .360"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".200"
+          },
+          {
+            "label": "OBP",
+            "value": ".310"
+          },
+          {
+            "label": "SLG",
+            "value": ".360"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "3"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 16.66666666666665,
+          "Power": 10.526315789473681,
+          "Contact": 0,
+          "Discipline": 66.66666666666666,
+          "Speed": 0
+        },
+        "metaLine": "R-FR / N/A",
+        "detailBadges": [
+          "OF",
+          "R-FR",
+          "N/A",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/will-stickney/18007",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-17990",
+        "name": "Ben Cushnie",
+        "school": "Southern California",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ben Cushnie looks like a LHP option who limits runs and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 1.54",
+          "WHIP 1.11",
+          "K/9 3.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "1.54"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.11"
+          },
+          {
+            "label": "K/9",
+            "value": "3.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.9"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "11.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "LHP",
+          "SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/ben-cushnie/17990",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18024",
+        "name": "Cameron Fausset",
+        "school": "Southern California",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 6,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cameron Fausset gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 5.59",
+          "WHIP 1.66",
+          "K/9 7.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.59"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.66"
+          },
+          {
+            "label": "K/9",
+            "value": "7.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "8.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.93"
+          },
+          {
+            "label": "IP",
+            "value": "9.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 31.34796238244515,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/cameron-fausset/18024",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-18025",
+        "name": "Chase Herrell",
+        "school": "Southern California",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-SO",
+        "handedness": "N/A",
+        "score": 10,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Chase Herrell gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 5.17",
+          "WHIP 1.46",
+          "K/9 8.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.17"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.46"
+          },
+          {
+            "label": "K/9",
+            "value": "8.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.94"
+          },
+          {
+            "label": "IP",
+            "value": "38.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 36.20553359683794,
+          "Command": 17.777777777777775,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-SO / N/A",
+        "detailBadges": [
+          "RHP",
+          "R-SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/chase-herrell/18025",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "southern-california-17993",
+        "name": "Grant Govel",
+        "school": "Southern California",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 26,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Grant Govel looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 2.13",
+          "WHIP 0.80",
+          "K/9 9.3"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "2.13"
+          },
+          {
+            "label": "WHIP",
+            "value": "0.80"
+          },
+          {
+            "label": "K/9",
+            "value": "9.3"
+          },
+          {
+            "label": "BB/9",
+            "value": "1.3"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.82"
+          },
+          {
+            "label": "IP",
+            "value": "55.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 48.42975206611571,
+          "Command": 100,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Southern California Athletics roster",
+          "Southern California cumulative stats"
+        ],
+        "sourceSummary": "Southern California Athletics roster + Southern California cumulative stats",
+        "schoolSlug": "southern-california",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/grant-govel/17993",
+        "espnAthleteId": ""
+      }
+    ]
+  }
+};
+

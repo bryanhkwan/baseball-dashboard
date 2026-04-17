@@ -1,0 +1,8022 @@
+window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
+window.__BASEBALL_DATASETS__.memphis2026 = {
+  "generatedAt": "2026-04-17T11:13:38.674Z",
+  "season": 2026,
+  "school": {
+    "slug": "memphis",
+    "name": "Memphis",
+    "longName": "University of Memphis",
+    "ncaaVerified": true,
+    "ncaaRecord": {
+      "slug": "memphis",
+      "name": "Memphis",
+      "long": "University of Memphis"
+    },
+    "espnDisplayName": "",
+    "espnSlug": "",
+    "rosterUrl": "https://gotigersgo.com/sports/baseball/roster",
+    "statsUrl": "https://gotigersgo.com/sports/baseball/stats/2026",
+    "pdfUrl": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/gotigersgo.com/stats/baseball/2026/pdf/cume.pdf"
+  },
+  "sources": {
+    "roster": "Memphis Athletics roster",
+    "stats": "Memphis Athletics cumulative stats",
+    "espn": "ESPN team identity verified, but Memphis's public roster feed did not match the current 2026 school-site roster",
+    "ncaa": "NCAA school index"
+  },
+  "coverage": {
+    "rosterPlayers": 38,
+    "espnRosterPlayers": 0,
+    "playersWithHittingStats": 19,
+    "playersWithPitchingStats": 17,
+    "playersWithFieldingStats": 32,
+    "mergedPlayersWithAnyStats": 35,
+    "matchedEspnPlayers": 0,
+    "unmatchedStatRows": {
+      "hitting": [],
+      "pitching": [],
+      "fielding": []
+    }
+  },
+  "teamSummary": {
+    "record": "12-23, 4-8",
+    "battingAverage": ".269",
+    "earnedRunAverage": "7.88",
+    "wins": "12",
+    "losses": "23",
+    "hitting": {
+      "atBats": "1188",
+      "runsScored": "222",
+      "hits": "320",
+      "runsBattedIn": "202",
+      "doubles": "58",
+      "triples": "5",
+      "homeRuns": "38",
+      "walks": "154",
+      "intentionalWalks": "4",
+      "strikeouts": "309",
+      "strikeoutsLooking": "41",
+      "hitByPitch": "39",
+      "stolenBases": "87",
+      "caughtStealing": "11",
+      "sacrificeHits": "11",
+      "sacrificeFlies": "8",
+      "reachedOnCatchersInteference": "0",
+      "reachedOnError": "0",
+      "reachesOnAFieldersChoice": "0",
+      "groundOuts": "240",
+      "flyOuts": "293",
+      "groundedIntoDoublePlay": "25",
+      "pickedOff": "5",
+      "doublePlaysHitInto": "26",
+      "triplePlaysHitInto": "0"
+    },
+    "fielding": {
+      "putouts": "908",
+      "assists": "299",
+      "errors": "28",
+      "passedBalls": "5",
+      "catchersInterference": "0",
+      "stolenBasesAgainst": "53",
+      "caughtStealingBy": "9",
+      "involvedInDoublePlays": "19",
+      "involvedInTriplePlays": "0",
+      "totalChances": "1235",
+      "fieldingPercentage": ".977"
+    },
+    "pitching": {
+      "orderOfAppearance": "0",
+      "wins": "12",
+      "saves": "27",
+      "losses": "23",
+      "gamesStarted": "0",
+      "gamesCompleted": "0",
+      "shutouts": "0",
+      "creditForCombinedShutout": "0",
+      "inningsPitched": "302.2",
+      "hitsAllowed": "366",
+      "runsAllowed": "292",
+      "earnedRunsAllowed": "265",
+      "walksAllowed": "179",
+      "strikeouts": "270",
+      "battersFaced": "1487",
+      "opponentAtBats": "1210",
+      "doublesAllowed": "80",
+      "triplesAllowed": "6",
+      "homerunsAllowed": "58",
+      "wildPitches": "35",
+      "balks": "4",
+      "hitBatters": "49",
+      "strikeoutsLooking": "36",
+      "intentionalWalks": "1",
+      "inheritedRunners": "59",
+      "inheritedRunnersThatScored": "31",
+      "sacrificeHitsAllowed": "30",
+      "sacrificeFliesAllowed": "19",
+      "catchersInterferenceAllowed": "0",
+      "pitches": "5813",
+      "flyouts": "309",
+      "groundouts": "269",
+      "teamUnearnedRuns": "0",
+      "saveRecord": "7",
+      "pickoff": "0"
+    }
+  },
+  "players": [
+    {
+      "id": "memphis-12377",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Michael Gupton",
+      "normalizedName": "michael gupton",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "1",
+      "hometown": "Raleigh, N.C.",
+      "highSchool": "Rolesville HS",
+      "previousSchool": "NC State / Gulf Coast CC / Samford",
+      "hometownHighSchool": "Raleigh, N.C. / Rolesville HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/michael-gupton/12377",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Gupton_Michael_G75Tl.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12377",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "12377",
+        "name": "Michael Gupton",
+        "normalizedName": "michael gupton",
+        "jersey": "1",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/michael-gupton/12377",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Gupton_Michael_G75Tl.jpg",
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "battingAverage": 0.311,
+        "onBasePercentage": 0.374,
+        "sluggingPercentage": 0.629,
+        "ops": 1.003,
+        "atBats": 132,
+        "runs": 29,
+        "hits": 41,
+        "doubles": 8,
+        "triples": 2,
+        "homeRuns": 10,
+        "runsBattedIn": 34,
+        "totalBases": 83,
+        "walks": 10,
+        "hitByPitch": 4,
+        "strikeouts": 45,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 0,
+        "stolenBases": 10,
+        "stolenBasesAttempts": 11,
+        "putouts": 108,
+        "assists": 0,
+        "errors": 3,
+        "plateAppearances": 159,
+        "caughtStealing": 1,
+        "pickedOff": 2
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "12377",
+        "name": "Michael Gupton",
+        "normalizedName": "michael gupton",
+        "jersey": "1",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/michael-gupton/12377",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Gupton_Michael_G75Tl.jpg",
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "putouts": 108,
+        "assists": 0,
+        "errors": 3,
+        "fieldingPercentage": 0.973,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 111
+      },
+      "evaluation": {
+        "score": 52,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 52.222222222222214,
+          "Power": 81.31578947368422,
+          "Contact": 56.875,
+          "Discipline": 2.469135802469133,
+          "Speed": 33.33333333333333
+        },
+        "summary": "Michael Gupton profiles as a OF piece who brings real extra-base damage and adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .311",
+          "OBP .374",
+          "SLG .629"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".311"
+          },
+          {
+            "label": "OBP",
+            "value": ".374"
+          },
+          {
+            "label": "SLG",
+            "value": ".629"
+          },
+          {
+            "label": "HR",
+            "value": "10"
+          },
+          {
+            "label": "RBI",
+            "value": "34"
+          },
+          {
+            "label": "SB",
+            "value": "10"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12361",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Shane Cox",
+      "normalizedName": "shane cox",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "GR",
+      "handedness": "R/R",
+      "jersey": "2",
+      "hometown": "Munford, Tenn.",
+      "highSchool": "Munford HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Munford, Tenn. / Munford HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/shane-cox/12361",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Cox_Wj4Dy.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12361",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "12361",
+        "name": "Shane Cox",
+        "normalizedName": "shane cox",
+        "jersey": "2",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/shane-cox/12361",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Cox_Wj4Dy.jpg",
+        "gamesPlayed": 34,
+        "gamesStarted": 34,
+        "battingAverage": 0.299,
+        "onBasePercentage": 0.362,
+        "sluggingPercentage": 0.46,
+        "ops": 0.822,
+        "atBats": 137,
+        "runs": 22,
+        "hits": 41,
+        "doubles": 11,
+        "triples": 1,
+        "homeRuns": 3,
+        "runsBattedIn": 18,
+        "totalBases": 63,
+        "walks": 13,
+        "hitByPitch": 1,
+        "strikeouts": 26,
+        "intentionalWalks": 1,
+        "groundedIntoDoublePlay": 3,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 1,
+        "stolenBases": 8,
+        "stolenBasesAttempts": 10,
+        "putouts": 111,
+        "assists": 66,
+        "errors": 5,
+        "plateAppearances": 165,
+        "caughtStealing": 2,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "12361",
+        "name": "Shane Cox",
+        "normalizedName": "shane cox",
+        "jersey": "2",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/shane-cox/12361",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Cox_Wj4Dy.jpg",
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "putouts": 111,
+        "assists": 66,
+        "errors": 5,
+        "fieldingPercentage": 0.973,
+        "doublePlays": 12,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 182
+      },
+      "evaluation": {
+        "score": 40,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 45.555555555555536,
+          "Power": 36.842105263157904,
+          "Contact": 49.37499999999999,
+          "Discipline": 33.33333333333333,
+          "Speed": 26.666666666666668
+        },
+        "summary": "Shane Cox profiles as a INF piece who adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .299",
+          "OBP .362",
+          "SLG .460"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".299"
+          },
+          {
+            "label": "OBP",
+            "value": ".362"
+          },
+          {
+            "label": "SLG",
+            "value": ".460"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "18"
+          },
+          {
+            "label": "SB",
+            "value": "8"
+          }
+        ],
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "INF",
+          "GR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12368",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Jack Pitts",
+      "normalizedName": "jack pitts",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "3",
+      "hometown": "Lakeland, Tenn.",
+      "highSchool": "Arlington HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Lakeland, Tenn. / Arlington HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/jack-pitts/12368",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Pitts_Jack_x5RgD.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12368",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "12368",
+        "name": "Jack Pitts",
+        "normalizedName": "jack pitts",
+        "jersey": "3",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/jack-pitts/12368",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Pitts_Jack_x5RgD.jpg",
+        "gamesPlayed": 21,
+        "gamesStarted": 12,
+        "battingAverage": 0.171,
+        "onBasePercentage": 0.404,
+        "sluggingPercentage": 0.39,
+        "ops": 0.794,
+        "atBats": 41,
+        "runs": 6,
+        "hits": 7,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 3,
+        "runsBattedIn": 7,
+        "totalBases": 16,
+        "walks": 11,
+        "hitByPitch": 5,
+        "strikeouts": 17,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 2,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 5,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 57,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "12368",
+        "name": "Jack Pitts",
+        "normalizedName": "jack pitts",
+        "jersey": "3",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/jack-pitts/12368",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Pitts_Jack_x5RgD.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 2,
+        "putouts": 5,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 5
+      },
+      "evaluation": {
+        "score": 34,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 68.88888888888889,
+          "Power": 18.421052631578952,
+          "Contact": 0,
+          "Discipline": 49.67320261437908,
+          "Speed": 0
+        },
+        "summary": "Jack Pitts profiles as a C piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .171",
+          "OBP .404",
+          "SLG .390"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".171"
+          },
+          {
+            "label": "OBP",
+            "value": ".404"
+          },
+          {
+            "label": "SLG",
+            "value": ".390"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "7"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "C",
+          "SO",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12369",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Michael Politte",
+      "normalizedName": "michael politte",
+      "compositeRole": "Two-Way",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "4",
+      "hometown": "St. Louis, Mo.",
+      "highSchool": "Lindbergh HS",
+      "previousSchool": "",
+      "hometownHighSchool": "St. Louis, Mo. / Lindbergh HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/michael-politte/12369",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Politte_Michael_apqN5.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12369",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "12369",
+        "name": "Michael Politte",
+        "normalizedName": "michael politte",
+        "jersey": "4",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/michael-politte/12369",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Politte_Michael_apqN5.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 5,
+        "battingAverage": 0,
+        "onBasePercentage": 0.077,
+        "sluggingPercentage": 0,
+        "ops": 0.077,
+        "atBats": 12,
+        "runs": 1,
+        "hits": 0,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 0,
+        "totalBases": 0,
+        "walks": 0,
+        "hitByPitch": 1,
+        "strikeouts": 6,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 2,
+        "assists": 11,
+        "errors": 3,
+        "plateAppearances": 13,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": {
+        "rosterBioId": "12369",
+        "name": "Michael Politte",
+        "normalizedName": "michael politte",
+        "jersey": "4",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/michael-politte/12369",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Politte_Michael_apqN5.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "appearances": 1,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 13.5,
+        "whip": 3,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 0.6666666666666666,
+        "inningsPitchedDisplay": "0.2",
+        "hitsAllowed": 2,
+        "runsAllowed": 1,
+        "earnedRunsAllowed": 1,
+        "walksAllowed": 0,
+        "strikeouts": 1,
+        "doublesAllowed": 1,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 4,
+        "wildPitches": 0,
+        "hitBatters": 0,
+        "balks": 0,
+        "opponentsBattingAverage": 0.5,
+        "walksHits": 2
+      },
+      "fieldingStats": {
+        "rosterBioId": "12369",
+        "name": "Michael Politte",
+        "normalizedName": "michael politte",
+        "jersey": "4",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/michael-politte/12369",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Politte_Michael_apqN5.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 5,
+        "putouts": 2,
+        "assists": 11,
+        "errors": 3,
+        "fieldingPercentage": 0.813,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 16
+      },
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Michael Politte gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .000",
+          "OBP .077",
+          "SLG .000"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".000"
+          },
+          {
+            "label": "OBP",
+            "value": ".077"
+          },
+          {
+            "label": "SLG",
+            "value": ".000"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "R/R",
+          "Two-Way"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12370",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Caden Robinson",
+      "normalizedName": "caden robinson",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "5",
+      "hometown": "New Albany, Ohio",
+      "highSchool": "New Albany HS",
+      "previousSchool": "",
+      "hometownHighSchool": "New Albany, Ohio / New Albany HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/caden-robinson/12370",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Robinson_pLv5b.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12370",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "12370",
+        "name": "Caden Robinson",
+        "normalizedName": "caden robinson",
+        "jersey": "5",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/caden-robinson/12370",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Robinson_pLv5b.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 0,
+        "appearances": 3,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 8.31,
+        "whip": 1.15,
+        "wins": 1,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 4.333333333333333,
+        "inningsPitchedDisplay": "4.1",
+        "hitsAllowed": 4,
+        "runsAllowed": 4,
+        "earnedRunsAllowed": 4,
+        "walksAllowed": 1,
+        "strikeouts": 5,
+        "doublesAllowed": 1,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 17,
+        "wildPitches": 0,
+        "hitBatters": 1,
+        "balks": 0,
+        "opponentsBattingAverage": 0.235,
+        "walksHits": 5
+      },
+      "fieldingStats": {
+        "rosterBioId": "12370",
+        "name": "Caden Robinson",
+        "normalizedName": "caden robinson",
+        "jersey": "5",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/caden-robinson/12370",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Robinson_pLv5b.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 1
+      },
+      "evaluation": {
+        "score": 24,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 58.04195804195804,
+          "Command": 80,
+          "Damage suppression": 0
+        },
+        "summary": "Caden Robinson looks like a RHP option who misses bats and throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 8.31",
+          "WHIP 1.15",
+          "K/9 10.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "8.31"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.15"
+          },
+          {
+            "label": "K/9",
+            "value": "10.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.1"
+          },
+          {
+            "label": "HR/9",
+            "value": "4.15"
+          },
+          {
+            "label": "IP",
+            "value": "4.3"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12362",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Eli Curtis",
+      "normalizedName": "eli curtis",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "R-SO",
+      "handedness": "L/L",
+      "jersey": "6",
+      "hometown": "Chatham, Ill.",
+      "highSchool": "Chatham Glenwood HS",
+      "previousSchool": "Lincoln Land CC",
+      "hometownHighSchool": "Chatham, Ill. / Chatham Glenwood HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/eli-curtis/12362",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Curtis_Eli_e4CKm.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12362",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "12362",
+        "name": "Eli Curtis",
+        "normalizedName": "eli curtis",
+        "jersey": "6",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/eli-curtis/12362",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Curtis_Eli_e4CKm.jpg",
+        "gamesPlayed": 4,
+        "gamesStarted": 0,
+        "appearances": 4,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 13.5,
+        "whip": 2.4,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 3.3333333333333335,
+        "inningsPitchedDisplay": "3.1",
+        "hitsAllowed": 4,
+        "runsAllowed": 5,
+        "earnedRunsAllowed": 5,
+        "walksAllowed": 4,
+        "strikeouts": 4,
+        "doublesAllowed": 1,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 13,
+        "wildPitches": 1,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.308,
+        "walksHits": 8
+      },
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 61.818181818181806,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Eli Curtis looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 13.50",
+          "WHIP 2.40",
+          "K/9 10.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "13.50"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.40"
+          },
+          {
+            "label": "K/9",
+            "value": "10.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "10.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "2.70"
+          },
+          {
+            "label": "IP",
+            "value": "3.3"
+          }
+        ],
+        "metaLine": "R-SO / L/L",
+        "detailBadges": [
+          "LHP",
+          "R-SO",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12378",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Javon Hernandez",
+      "normalizedName": "javon hernandez",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "GR",
+      "handedness": "R/R",
+      "jersey": "7",
+      "hometown": "Danbury, Conn.",
+      "highSchool": "Danbury HS",
+      "previousSchool": "UConn Avery Point / Jacksonville State / Auburn / Jefferson",
+      "hometownHighSchool": "Danbury, Conn. / Danbury HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/javon-hernandez/12378",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Hernandez_4rHkw.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12378",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "12378",
+        "name": "Javon Hernandez",
+        "normalizedName": "javon hernandez",
+        "jersey": "7",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/javon-hernandez/12378",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Hernandez_4rHkw.jpg",
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "battingAverage": 0.269,
+        "onBasePercentage": 0.367,
+        "sluggingPercentage": 0.331,
+        "ops": 0.698,
+        "atBats": 130,
+        "runs": 30,
+        "hits": 35,
+        "doubles": 8,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 11,
+        "totalBases": 43,
+        "walks": 15,
+        "hitByPitch": 5,
+        "strikeouts": 21,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 1,
+        "stolenBases": 18,
+        "stolenBasesAttempts": 18,
+        "putouts": 43,
+        "assists": 75,
+        "errors": 6,
+        "plateAppearances": 169,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "12378",
+        "name": "Javon Hernandez",
+        "normalizedName": "javon hernandez",
+        "jersey": "7",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/javon-hernandez/12378",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Hernandez_4rHkw.jpg",
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "putouts": 43,
+        "assists": 75,
+        "errors": 6,
+        "fieldingPercentage": 0.952,
+        "doublePlays": 13,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 124
+      },
+      "evaluation": {
+        "score": 36,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 48.333333333333314,
+          "Power": 2.8947368421052664,
+          "Contact": 30.625000000000007,
+          "Discipline": 57.14285714285713,
+          "Speed": 60
+        },
+        "summary": "Javon Hernandez profiles as a INF piece who adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .269",
+          "OBP .367",
+          "SLG .331"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".269"
+          },
+          {
+            "label": "OBP",
+            "value": ".367"
+          },
+          {
+            "label": "SLG",
+            "value": ".331"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "11"
+          },
+          {
+            "label": "SB",
+            "value": "18"
+          }
+        ],
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "INF",
+          "GR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12379",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Freddy Rodriguez",
+      "normalizedName": "freddy rodriguez",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "10",
+      "hometown": "Wellington, Fla.",
+      "highSchool": "Palm Beach Central HS",
+      "previousSchool": "Barry / Coastal Carolina",
+      "hometownHighSchool": "Wellington, Fla. / Palm Beach Central HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/freddy-rodriguez/12379",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Rodriguez_Freddy_ARA6g.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12379",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "12379",
+        "name": "Freddy Rodriguez",
+        "normalizedName": "freddy rodriguez",
+        "jersey": "10",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/freddy-rodriguez/12379",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Rodriguez_Freddy_ARA6g.jpg",
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "battingAverage": 0.286,
+        "onBasePercentage": 0.41,
+        "sluggingPercentage": 0.361,
+        "ops": 0.771,
+        "atBats": 133,
+        "runs": 33,
+        "hits": 38,
+        "doubles": 7,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 14,
+        "totalBases": 48,
+        "walks": 24,
+        "hitByPitch": 4,
+        "strikeouts": 26,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 2,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 4,
+        "stolenBases": 29,
+        "stolenBasesAttempts": 32,
+        "putouts": 18,
+        "assists": 47,
+        "errors": 3,
+        "plateAppearances": 200,
+        "caughtStealing": 3,
+        "pickedOff": 1
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "12379",
+        "name": "Freddy Rodriguez",
+        "normalizedName": "freddy rodriguez",
+        "jersey": "10",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/freddy-rodriguez/12379",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Rodriguez_Freddy_ARA6g.jpg",
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "putouts": 18,
+        "assists": 47,
+        "errors": 3,
+        "fieldingPercentage": 0.956,
+        "doublePlays": 2,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 68
+      },
+      "evaluation": {
+        "score": 54,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 72.2222222222222,
+          "Power": 10.789473684210522,
+          "Contact": 41.24999999999998,
+          "Discipline": 80.34188034188034,
+          "Speed": 96.66666666666667
+        },
+        "summary": "Freddy Rodriguez profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .286",
+          "OBP .410",
+          "SLG .361"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".286"
+          },
+          {
+            "label": "OBP",
+            "value": ".410"
+          },
+          {
+            "label": "SLG",
+            "value": ".361"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "14"
+          },
+          {
+            "label": "SB",
+            "value": "29"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12380",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Carson Fair",
+      "normalizedName": "carson fair",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "11",
+      "hometown": "Southaven, Miss.",
+      "highSchool": "Southaven HS",
+      "previousSchool": "Pearl River CC",
+      "hometownHighSchool": "Southaven, Miss. / Southaven HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/carson-fair/12380",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Fair_Carson_1nBvo.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12380",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "12380",
+        "name": "Carson Fair",
+        "normalizedName": "carson fair",
+        "jersey": "11",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/carson-fair/12380",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Fair_Carson_1nBvo.jpg",
+        "gamesPlayed": 14,
+        "gamesStarted": 0,
+        "appearances": 14,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 3.52,
+        "whip": 1.17,
+        "wins": 1,
+        "losses": 0,
+        "saves": 6,
+        "shutouts": 0,
+        "inningsPitched": 15.333333333333334,
+        "inningsPitchedDisplay": "15.1",
+        "hitsAllowed": 10,
+        "runsAllowed": 8,
+        "earnedRunsAllowed": 6,
+        "walksAllowed": 8,
+        "strikeouts": 16,
+        "doublesAllowed": 3,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 52,
+        "wildPitches": 2,
+        "hitBatters": 3,
+        "balks": 1,
+        "opponentsBattingAverage": 0.192,
+        "walksHits": 18
+      },
+      "fieldingStats": {
+        "rosterBioId": "12380",
+        "name": "Carson Fair",
+        "normalizedName": "carson fair",
+        "jersey": "11",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/carson-fair/12380",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Fair_Carson_1nBvo.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 2,
+        "errors": 1,
+        "fieldingPercentage": 0.667,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 1,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 3
+      },
+      "evaluation": {
+        "score": 13,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 49.01185770750987,
+          "Command": 20,
+          "Damage suppression": 0
+        },
+        "summary": "Carson Fair looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 3.52",
+          "WHIP 1.17",
+          "K/9 9.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.52"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.17"
+          },
+          {
+            "label": "K/9",
+            "value": "9.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "15.3"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12375",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Webb Watson",
+      "normalizedName": "webb watson",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "R-FR",
+      "handedness": "L/L",
+      "jersey": "12",
+      "hometown": "North Little Rock, Ark.",
+      "highSchool": "Central Arkansas Christian HS",
+      "previousSchool": "",
+      "hometownHighSchool": "North Little Rock, Ark. / Central Arkansas Christian HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/webb-watson/12375",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Watson_Webb_HvT3J.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12375",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "12375",
+        "name": "Webb Watson",
+        "normalizedName": "webb watson",
+        "jersey": "12",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/webb-watson/12375",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Watson_Webb_HvT3J.jpg",
+        "gamesPlayed": 24,
+        "gamesStarted": 19,
+        "battingAverage": 0.188,
+        "onBasePercentage": 0.342,
+        "sluggingPercentage": 0.359,
+        "ops": 0.701,
+        "atBats": 64,
+        "runs": 10,
+        "hits": 12,
+        "doubles": 2,
+        "triples": 0,
+        "homeRuns": 3,
+        "runsBattedIn": 12,
+        "totalBases": 23,
+        "walks": 10,
+        "hitByPitch": 5,
+        "strikeouts": 23,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 1,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 1,
+        "putouts": 35,
+        "assists": 3,
+        "errors": 0,
+        "plateAppearances": 81,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "12375",
+        "name": "Webb Watson",
+        "normalizedName": "webb watson",
+        "jersey": "12",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/webb-watson/12375",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Watson_Webb_HvT3J.jpg",
+        "gamesPlayed": 19,
+        "gamesStarted": 15,
+        "putouts": 35,
+        "assists": 3,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 38
+      },
+      "evaluation": {
+        "score": 18,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 34.44444444444444,
+          "Power": 10.263157894736837,
+          "Contact": 0,
+          "Discipline": 26.086956521739125,
+          "Speed": 3.3333333333333335
+        },
+        "summary": "Webb Watson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .188",
+          "OBP .342",
+          "SLG .359"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".188"
+          },
+          {
+            "label": "OBP",
+            "value": ".342"
+          },
+          {
+            "label": "SLG",
+            "value": ".359"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "12"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "metaLine": "R-FR / L/L",
+        "detailBadges": [
+          "OF",
+          "R-FR",
+          "L/L",
+          "Hitter"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12372",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Brayden Sanders",
+      "normalizedName": "brayden sanders",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "GR",
+      "handedness": "L/R",
+      "jersey": "14",
+      "hometown": "Olive Branch, Miss.",
+      "highSchool": "Lewisburg HS",
+      "previousSchool": "Ole Miss / NW Mississippi CC",
+      "hometownHighSchool": "Olive Branch, Miss. / Lewisburg HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/brayden-sanders/12372",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Sanders_Brayden_Oh4Ug.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12372",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "12372",
+        "name": "Brayden Sanders",
+        "normalizedName": "brayden sanders",
+        "jersey": "14",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/brayden-sanders/12372",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Sanders_Brayden_Oh4Ug.jpg",
+        "gamesPlayed": 11,
+        "gamesStarted": 0,
+        "appearances": 11,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 6.17,
+        "whip": 1.71,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 11.666666666666666,
+        "inningsPitchedDisplay": "11.2",
+        "hitsAllowed": 13,
+        "runsAllowed": 8,
+        "earnedRunsAllowed": 8,
+        "walksAllowed": 7,
+        "strikeouts": 11,
+        "doublesAllowed": 5,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 44,
+        "wildPitches": 0,
+        "hitBatters": 2,
+        "balks": 1,
+        "opponentsBattingAverage": 0.295,
+        "walksHits": 20
+      },
+      "fieldingStats": {
+        "rosterBioId": "12372",
+        "name": "Brayden Sanders",
+        "normalizedName": "brayden sanders",
+        "jersey": "14",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/brayden-sanders/12372",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Sanders_Brayden_Oh4Ug.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 2,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 1,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 2
+      },
+      "evaluation": {
+        "score": 10,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 40.77922077922078,
+          "Command": 11.428571428571429,
+          "Damage suppression": 0
+        },
+        "summary": "Brayden Sanders gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 6.17",
+          "WHIP 1.71",
+          "K/9 8.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.17"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.71"
+          },
+          {
+            "label": "K/9",
+            "value": "8.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.54"
+          },
+          {
+            "label": "IP",
+            "value": "11.7"
+          }
+        ],
+        "metaLine": "GR / L/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "L/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12371",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Logan Rushing",
+      "normalizedName": "logan rushing",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "GR",
+      "handedness": "R/L",
+      "jersey": "15",
+      "hometown": "Brighton, Tenn.",
+      "highSchool": "Brighton HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Brighton, Tenn. / Brighton HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/logan-rushing/12371",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Rushing_RqPfw.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12371",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "12371",
+        "name": "Logan Rushing",
+        "normalizedName": "logan rushing",
+        "jersey": "15",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/logan-rushing/12371",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Rushing_RqPfw.jpg",
+        "gamesPlayed": 11,
+        "gamesStarted": 4,
+        "appearances": 11,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 3.78,
+        "whip": 1.56,
+        "wins": 0,
+        "losses": 2,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 16.666666666666668,
+        "inningsPitchedDisplay": "16.2",
+        "hitsAllowed": 20,
+        "runsAllowed": 11,
+        "earnedRunsAllowed": 7,
+        "walksAllowed": 6,
+        "strikeouts": 17,
+        "doublesAllowed": 3,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 71,
+        "wildPitches": 1,
+        "hitBatters": 1,
+        "balks": 0,
+        "opponentsBattingAverage": 0.282,
+        "walksHits": 26
+      },
+      "fieldingStats": {
+        "rosterBioId": "12371",
+        "name": "Logan Rushing",
+        "normalizedName": "logan rushing",
+        "jersey": "15",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/logan-rushing/12371",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Rushing_RqPfw.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 1,
+        "putouts": 0,
+        "assists": 3,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 3
+      },
+      "evaluation": {
+        "score": 15,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 47.090909090909086,
+          "Command": 36.66666666666667,
+          "Damage suppression": 0
+        },
+        "summary": "Logan Rushing looks like a LHP option who limits runs and misses bats.",
+        "summaryMetrics": [
+          "ERA 3.78",
+          "WHIP 1.56",
+          "K/9 9.2"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.78"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.56"
+          },
+          {
+            "label": "K/9",
+            "value": "9.2"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.08"
+          },
+          {
+            "label": "IP",
+            "value": "16.7"
+          }
+        ],
+        "metaLine": "GR / R/L",
+        "detailBadges": [
+          "LHP",
+          "GR",
+          "R/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12381",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Marcus Smith",
+      "normalizedName": "marcus smith",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "R-JR",
+      "handedness": "R/R",
+      "jersey": "16",
+      "hometown": "Harlem, N.Y.",
+      "highSchool": "All Hallows Institute",
+      "previousSchool": "Cincinnati / McClennan CC",
+      "hometownHighSchool": "Harlem, N.Y. / All Hallows Institute",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/marcus-smith/12381",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Smith_Marcus_eZ7OS.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12381",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "12381",
+        "name": "Marcus Smith",
+        "normalizedName": "marcus smith",
+        "jersey": "16",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/marcus-smith/12381",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Smith_Marcus_eZ7OS.jpg",
+        "gamesPlayed": 24,
+        "gamesStarted": 8,
+        "battingAverage": 0.176,
+        "onBasePercentage": 0.275,
+        "sluggingPercentage": 0.294,
+        "ops": 0.569,
+        "atBats": 34,
+        "runs": 5,
+        "hits": 6,
+        "doubles": 1,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 4,
+        "totalBases": 10,
+        "walks": 5,
+        "hitByPitch": 0,
+        "strikeouts": 15,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 0,
+        "stolenBases": 3,
+        "stolenBasesAttempts": 3,
+        "putouts": 19,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 43,
+        "caughtStealing": 0,
+        "pickedOff": 1
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "12381",
+        "name": "Marcus Smith",
+        "normalizedName": "marcus smith",
+        "jersey": "16",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/marcus-smith/12381",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Smith_Marcus_eZ7OS.jpg",
+        "gamesPlayed": 11,
+        "gamesStarted": 8,
+        "putouts": 19,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 19
+      },
+      "evaluation": {
+        "score": 3,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 14.814814814814808,
+          "Speed": 10
+        },
+        "summary": "Marcus Smith gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .176",
+          "OBP .275",
+          "SLG .294"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".176"
+          },
+          {
+            "label": "OBP",
+            "value": ".275"
+          },
+          {
+            "label": "SLG",
+            "value": ".294"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "4"
+          },
+          {
+            "label": "SB",
+            "value": "3"
+          }
+        ],
+        "metaLine": "R-JR / R/R",
+        "detailBadges": [
+          "OF",
+          "R-JR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12363",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Seth Garner",
+      "normalizedName": "seth garner",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "18",
+      "hometown": "Savannah, Tenn.",
+      "highSchool": "Hardin County HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Savannah, Tenn. / Hardin County HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/seth-garner/12363",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Garner_Seth_fEB1S.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12363",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "12363",
+        "name": "Seth Garner",
+        "normalizedName": "seth garner",
+        "jersey": "18",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/seth-garner/12363",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Garner_Seth_fEB1S.jpg",
+        "gamesPlayed": 9,
+        "gamesStarted": 6,
+        "appearances": 9,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 7.91,
+        "whip": 1.7,
+        "wins": 0,
+        "losses": 4,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 33,
+        "inningsPitchedDisplay": "33.0",
+        "hitsAllowed": 45,
+        "runsAllowed": 34,
+        "earnedRunsAllowed": 29,
+        "walksAllowed": 11,
+        "strikeouts": 28,
+        "doublesAllowed": 11,
+        "triplesAllowed": 2,
+        "homeRunsAllowed": 9,
+        "opponentsAtBats": 142,
+        "wildPitches": 5,
+        "hitBatters": 4,
+        "balks": 0,
+        "opponentsBattingAverage": 0.317,
+        "walksHits": 56
+      },
+      "fieldingStats": {
+        "rosterBioId": "12363",
+        "name": "Seth Garner",
+        "normalizedName": "seth garner",
+        "jersey": "18",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/seth-garner/12363",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Garner_Seth_fEB1S.jpg",
+        "gamesPlayed": 4,
+        "gamesStarted": 2,
+        "putouts": 0,
+        "assists": 3,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 1,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": 0.5,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 3
+      },
+      "evaluation": {
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 33.057851239669425,
+          "Command": 30.909090909090907,
+          "Damage suppression": 0
+        },
+        "summary": "Seth Garner looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA 7.91",
+          "WHIP 1.70",
+          "K/9 7.6"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "7.91"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.70"
+          },
+          {
+            "label": "K/9",
+            "value": "7.6"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "2.45"
+          },
+          {
+            "label": "IP",
+            "value": "33.0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12367",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Davis Oswalt",
+      "normalizedName": "davis oswalt",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "GR",
+      "handedness": "R/R",
+      "jersey": "19",
+      "hometown": "Plantersville, Miss.",
+      "highSchool": "Nettleton HS",
+      "previousSchool": "Northeast Mississippi CC / UL Monroe",
+      "hometownHighSchool": "Plantersville, Miss. / Nettleton HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/davis-oswalt/12367",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Oswalt_02n82.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12367",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "12367",
+        "name": "Davis Oswalt",
+        "normalizedName": "davis oswalt",
+        "jersey": "19",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/davis-oswalt/12367",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Oswalt_02n82.jpg",
+        "gamesPlayed": 13,
+        "gamesStarted": 0,
+        "appearances": 13,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 9,
+        "whip": 2.16,
+        "wins": 2,
+        "losses": 1,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 19,
+        "inningsPitchedDisplay": "19.0",
+        "hitsAllowed": 30,
+        "runsAllowed": 22,
+        "earnedRunsAllowed": 19,
+        "walksAllowed": 11,
+        "strikeouts": 18,
+        "doublesAllowed": 7,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 81,
+        "wildPitches": 1,
+        "hitBatters": 1,
+        "balks": 0,
+        "opponentsBattingAverage": 0.37,
+        "walksHits": 41
+      },
+      "fieldingStats": {
+        "rosterBioId": "12367",
+        "name": "Davis Oswalt",
+        "normalizedName": "davis oswalt",
+        "jersey": "19",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/davis-oswalt/12367",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Oswalt_02n82.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 2,
+        "errors": 1,
+        "fieldingPercentage": 0.667,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 3
+      },
+      "evaluation": {
+        "score": 10,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 41.148325358851686,
+          "Command": 12.727272727272734,
+          "Damage suppression": 0
+        },
+        "summary": "Davis Oswalt gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 9.00",
+          "WHIP 2.16",
+          "K/9 8.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "9.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.16"
+          },
+          {
+            "label": "K/9",
+            "value": "8.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.95"
+          },
+          {
+            "label": "IP",
+            "value": "19.0"
+          }
+        ],
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12382",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Trae Cassidy",
+      "normalizedName": "trae cassidy",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "JR",
+      "handedness": "L/R",
+      "jersey": "20",
+      "hometown": "Northville, Mich.",
+      "highSchool": "Detroit Catholic Central",
+      "previousSchool": "Ohio",
+      "hometownHighSchool": "Northville, Mich. / Detroit Catholic Central",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/trae-cassidy/12382",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Cassidy_Trae_fyN7u.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12382",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "12382",
+        "name": "Trae Cassidy",
+        "normalizedName": "trae cassidy",
+        "jersey": "20",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/trae-cassidy/12382",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Cassidy_Trae_fyN7u.jpg",
+        "gamesPlayed": 30,
+        "gamesStarted": 28,
+        "battingAverage": 0.255,
+        "onBasePercentage": 0.37,
+        "sluggingPercentage": 0.337,
+        "ops": 0.707,
+        "atBats": 98,
+        "runs": 15,
+        "hits": 25,
+        "doubles": 5,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 16,
+        "totalBases": 33,
+        "walks": 17,
+        "hitByPitch": 2,
+        "strikeouts": 23,
+        "intentionalWalks": 1,
+        "groundedIntoDoublePlay": 4,
+        "sacrificeFlies": 2,
+        "sacrificeHits": 0,
+        "stolenBases": 3,
+        "stolenBasesAttempts": 5,
+        "putouts": 178,
+        "assists": 15,
+        "errors": 2,
+        "plateAppearances": 126,
+        "caughtStealing": 2,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "12382",
+        "name": "Trae Cassidy",
+        "normalizedName": "trae cassidy",
+        "jersey": "20",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/trae-cassidy/12382",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Cassidy_Trae_fyN7u.jpg",
+        "gamesPlayed": 27,
+        "gamesStarted": 26,
+        "putouts": 178,
+        "assists": 15,
+        "errors": 2,
+        "fieldingPercentage": 0.99,
+        "doublePlays": 3,
+        "stolenBasesAgainst": 34,
+        "caughtStealingBy": 7,
+        "stolenBasesPercentage": 0.829,
+        "passedBalls": 4,
+        "catchersInterference": 0,
+        "totalChances": 195
+      },
+      "evaluation": {
+        "score": 30,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 49.999999999999986,
+          "Power": 4.47368421052632,
+          "Contact": 21.875000000000004,
+          "Discipline": 59.903381642512066,
+          "Speed": 10
+        },
+        "summary": "Trae Cassidy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .255",
+          "OBP .370",
+          "SLG .337"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".255"
+          },
+          {
+            "label": "OBP",
+            "value": ".370"
+          },
+          {
+            "label": "SLG",
+            "value": ".337"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "16"
+          },
+          {
+            "label": "SB",
+            "value": "3"
+          }
+        ],
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "L/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12373",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Charlie Smith",
+      "normalizedName": "charlie smith",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "21",
+      "hometown": "Knoxville, Tenn.",
+      "highSchool": "Powell HS",
+      "previousSchool": "Chattanooga State CC",
+      "hometownHighSchool": "Knoxville, Tenn. / Powell HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/charlie-smith/12373",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Smith_Charlie_kcPUd.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12373",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "12373",
+        "name": "Charlie Smith",
+        "normalizedName": "charlie smith",
+        "jersey": "21",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/charlie-smith/12373",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Smith_Charlie_kcPUd.jpg",
+        "gamesPlayed": 13,
+        "gamesStarted": 2,
+        "appearances": 13,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 9.79,
+        "whip": 2.06,
+        "wins": 0,
+        "losses": 2,
+        "saves": 1,
+        "shutouts": 0,
+        "inningsPitched": 26.666666666666668,
+        "inningsPitchedDisplay": "26.2",
+        "hitsAllowed": 40,
+        "runsAllowed": 32,
+        "earnedRunsAllowed": 29,
+        "walksAllowed": 15,
+        "strikeouts": 17,
+        "doublesAllowed": 6,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 4,
+        "opponentsAtBats": 115,
+        "wildPitches": 4,
+        "hitBatters": 10,
+        "balks": 1,
+        "opponentsBattingAverage": 0.348,
+        "walksHits": 55
+      },
+      "fieldingStats": {
+        "rosterBioId": "12373",
+        "name": "Charlie Smith",
+        "normalizedName": "charlie smith",
+        "jersey": "21",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/charlie-smith/12373",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Smith_Charlie_kcPUd.jpg",
+        "gamesPlayed": 5,
+        "gamesStarted": 0,
+        "putouts": 1,
+        "assists": 4,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 5
+      },
+      "evaluation": {
+        "score": 4,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 15.795454545454543,
+          "Command": 2.666666666666666,
+          "Damage suppression": 0
+        },
+        "summary": "Charlie Smith gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 9.79",
+          "WHIP 2.06",
+          "K/9 5.7"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "9.79"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.06"
+          },
+          {
+            "label": "K/9",
+            "value": "5.7"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.1"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.35"
+          },
+          {
+            "label": "IP",
+            "value": "26.7"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12383",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Barret Rodgers",
+      "normalizedName": "barret rodgers",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "1B/LHP",
+      "positionLong": "First Baseman/Left-Handed Pitcher",
+      "classYear": "JR",
+      "handedness": "L/L",
+      "jersey": "22",
+      "hometown": "Tuscaloosa, Ala.",
+      "highSchool": "Northridge HS",
+      "previousSchool": "East Central CC",
+      "hometownHighSchool": "Tuscaloosa, Ala. / Northridge HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/barret-rodgers/12383",
+      "imageUrl": "https://gotigersgo.com/images/2026/1/15/Rodgers_Barret.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12383",
+      "sources": [
+        "Memphis Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Barret Rodgers looks like a 1B/LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "1B/LHP",
+          "JR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Memphis Athletics roster"
+      }
+    },
+    {
+      "id": "memphis-12366",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Isaac Lucas",
+      "normalizedName": "isaac lucas",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "R-JR",
+      "handedness": "L/L",
+      "jersey": "23",
+      "hometown": "Oakland, Calif.",
+      "highSchool": "Oakland Technical HS",
+      "previousSchool": "Charleston Southern / Chabot College",
+      "hometownHighSchool": "Oakland, Calif. / Oakland Technical HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/isaac-lucas/12366",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Lucas_H9uRS.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12366",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "12366",
+        "name": "Isaac Lucas",
+        "normalizedName": "isaac lucas",
+        "jersey": "23",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/isaac-lucas/12366",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Lucas_H9uRS.jpg",
+        "gamesPlayed": 9,
+        "gamesStarted": 1,
+        "appearances": 9,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 16.33,
+        "whip": 2.58,
+        "wins": 0,
+        "losses": 1,
+        "saves": 1,
+        "shutouts": 0,
+        "inningsPitched": 14.333333333333334,
+        "inningsPitchedDisplay": "14.1",
+        "hitsAllowed": 20,
+        "runsAllowed": 26,
+        "earnedRunsAllowed": 26,
+        "walksAllowed": 17,
+        "strikeouts": 18,
+        "doublesAllowed": 3,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 5,
+        "opponentsAtBats": 59,
+        "wildPitches": 2,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.339,
+        "walksHits": 37
+      },
+      "fieldingStats": {
+        "rosterBioId": "12366",
+        "name": "Isaac Lucas",
+        "normalizedName": "isaac lucas",
+        "jersey": "23",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/isaac-lucas/12366",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Lucas_H9uRS.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 1,
+        "putouts": 0,
+        "assists": 3,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 6,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": 0.857,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 3
+      },
+      "evaluation": {
+        "score": 13,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 66.38477801268498,
+          "Command": 1.1764705882352944,
+          "Damage suppression": 0
+        },
+        "summary": "Isaac Lucas looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 16.33",
+          "WHIP 2.58",
+          "K/9 11.3"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "16.33"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.58"
+          },
+          {
+            "label": "K/9",
+            "value": "11.3"
+          },
+          {
+            "label": "BB/9",
+            "value": "10.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "3.14"
+          },
+          {
+            "label": "IP",
+            "value": "14.3"
+          }
+        ],
+        "metaLine": "R-JR / L/L",
+        "detailBadges": [
+          "LHP",
+          "R-JR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12364",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Seth Giamportone",
+      "normalizedName": "seth giamportone",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "R-FR",
+      "handedness": "R/R",
+      "jersey": "24",
+      "hometown": "Olive Branch, Miss.",
+      "highSchool": "Northpoint Christian School",
+      "previousSchool": "",
+      "hometownHighSchool": "Olive Branch, Miss. / Northpoint Christian School",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/seth-giamportone/12364",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Giamportone_Seth_3tTPs.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12364",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "12364",
+        "name": "Seth Giamportone",
+        "normalizedName": "seth giamportone",
+        "jersey": "24",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/seth-giamportone/12364",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Giamportone_Seth_3tTPs.jpg",
+        "gamesPlayed": 13,
+        "gamesStarted": 2,
+        "battingAverage": 0.429,
+        "onBasePercentage": 0.636,
+        "sluggingPercentage": 0.857,
+        "ops": 1.493,
+        "atBats": 7,
+        "runs": 3,
+        "hits": 3,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 3,
+        "totalBases": 6,
+        "walks": 2,
+        "hitByPitch": 2,
+        "strikeouts": 3,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 2,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 46,
+        "assists": 5,
+        "errors": 0,
+        "plateAppearances": 11,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "12364",
+        "name": "Seth Giamportone",
+        "normalizedName": "seth giamportone",
+        "jersey": "24",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/seth-giamportone/12364",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Giamportone_Seth_3tTPs.jpg",
+        "gamesPlayed": 10,
+        "gamesStarted": 2,
+        "putouts": 46,
+        "assists": 5,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 5,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": 0.833,
+        "passedBalls": 1,
+        "catchersInterference": 0,
+        "totalChances": 51
+      },
+      "evaluation": {
+        "score": 83,
+        "fit": {
+          "label": "Priority",
+          "className": "fit-priority"
+        },
+        "components": {
+          "On-base": 100,
+          "Power": 100,
+          "Contact": 100,
+          "Discipline": 51.85185185185184,
+          "Speed": 0
+        },
+        "summary": "Seth Giamportone profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .429",
+          "OBP .636",
+          "SLG .857"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".429"
+          },
+          {
+            "label": "OBP",
+            "value": ".636"
+          },
+          {
+            "label": "SLG",
+            "value": ".857"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "3"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "R-FR / R/R",
+        "detailBadges": [
+          "C",
+          "R-FR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12402",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Tyler Harrington",
+      "normalizedName": "tyler harrington",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "GR",
+      "handedness": "R/R",
+      "jersey": "25",
+      "hometown": "Lakeland, Tenn.",
+      "highSchool": "Briarcrest Christian School",
+      "previousSchool": "Memphis / Southwest Tennessee CC / UAB",
+      "hometownHighSchool": "Lakeland, Tenn. / Briarcrest Christian School",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/tyler-harrington/12402",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Harrington_yKSrA.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12402",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "12402",
+        "name": "Tyler Harrington",
+        "normalizedName": "tyler harrington",
+        "jersey": "25",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/tyler-harrington/12402",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Harrington_yKSrA.jpg",
+        "gamesPlayed": 28,
+        "gamesStarted": 27,
+        "battingAverage": 0.3,
+        "onBasePercentage": 0.343,
+        "sluggingPercentage": 0.42,
+        "ops": 0.763,
+        "atBats": 100,
+        "runs": 13,
+        "hits": 30,
+        "doubles": 3,
+        "triples": 0,
+        "homeRuns": 3,
+        "runsBattedIn": 19,
+        "totalBases": 42,
+        "walks": 6,
+        "hitByPitch": 1,
+        "strikeouts": 28,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 1,
+        "stolenBases": 2,
+        "stolenBasesAttempts": 3,
+        "putouts": 201,
+        "assists": 8,
+        "errors": 1,
+        "plateAppearances": 113,
+        "caughtStealing": 1,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "12402",
+        "name": "Tyler Harrington",
+        "normalizedName": "tyler harrington",
+        "jersey": "25",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/tyler-harrington/12402",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Harrington_yKSrA.jpg",
+        "gamesPlayed": 25,
+        "gamesStarted": 25,
+        "putouts": 201,
+        "assists": 8,
+        "errors": 1,
+        "fieldingPercentage": 0.995,
+        "doublePlays": 12,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 210
+      },
+      "evaluation": {
+        "score": 28,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 35,
+          "Power": 26.31578947368421,
+          "Contact": 49.999999999999986,
+          "Discipline": 1.5873015873015843,
+          "Speed": 6.666666666666667
+        },
+        "summary": "Tyler Harrington gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .300",
+          "OBP .343",
+          "SLG .420"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".300"
+          },
+          {
+            "label": "OBP",
+            "value": ".343"
+          },
+          {
+            "label": "SLG",
+            "value": ".420"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "19"
+          },
+          {
+            "label": "SB",
+            "value": "2"
+          }
+        ],
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "INF",
+          "GR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12360",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "David Case",
+      "normalizedName": "david case",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "GR",
+      "handedness": "L/L",
+      "jersey": "26",
+      "hometown": "Pasadena, Calif.",
+      "highSchool": "Loyola HS",
+      "previousSchool": "Oregon State / El Camino College / Grand Canyon",
+      "hometownHighSchool": "Pasadena, Calif. / Loyola HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/david-case/12360",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Case_PK6LJ.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12360",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "12360",
+        "name": "David Case",
+        "normalizedName": "david case",
+        "jersey": "26",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/david-case/12360",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Case_PK6LJ.jpg",
+        "gamesPlayed": 9,
+        "gamesStarted": 9,
+        "appearances": 9,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 6.04,
+        "whip": 1.61,
+        "wins": 2,
+        "losses": 6,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 44.666666666666664,
+        "inningsPitchedDisplay": "44.2",
+        "hitsAllowed": 48,
+        "runsAllowed": 38,
+        "earnedRunsAllowed": 30,
+        "walksAllowed": 24,
+        "strikeouts": 42,
+        "doublesAllowed": 5,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 9,
+        "opponentsAtBats": 170,
+        "wildPitches": 6,
+        "hitBatters": 1,
+        "balks": 1,
+        "opponentsBattingAverage": 0.282,
+        "walksHits": 72
+      },
+      "fieldingStats": {
+        "rosterBioId": "12360",
+        "name": "David Case",
+        "normalizedName": "david case",
+        "jersey": "26",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/david-case/12360",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Case_PK6LJ.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 7,
+        "putouts": 2,
+        "assists": 6,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 6,
+        "caughtStealingBy": 2,
+        "stolenBasesPercentage": 0.75,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 8
+      },
+      "evaluation": {
+        "score": 11,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 40.56987788331073,
+          "Command": 15,
+          "Damage suppression": 0
+        },
+        "summary": "David Case gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 6.04",
+          "WHIP 1.61",
+          "K/9 8.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.04"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.61"
+          },
+          {
+            "label": "K/9",
+            "value": "8.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.81"
+          },
+          {
+            "label": "IP",
+            "value": "44.7"
+          }
+        ],
+        "metaLine": "GR / L/L",
+        "detailBadges": [
+          "LHP",
+          "GR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12385",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Jacob Dienes",
+      "normalizedName": "jacob dienes",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "GR",
+      "handedness": "L/L",
+      "jersey": "27",
+      "hometown": "Wilson, N.C.",
+      "highSchool": "Wake County Home School",
+      "previousSchool": "NC State",
+      "hometownHighSchool": "Wilson, N.C. / Wake County Home School",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/jacob-dienes/12385",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Dienes_T8Bin.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12385",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "12385",
+        "name": "Jacob Dienes",
+        "normalizedName": "jacob dienes",
+        "jersey": "27",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/jacob-dienes/12385",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Dienes_T8Bin.jpg",
+        "gamesPlayed": 14,
+        "gamesStarted": 0,
+        "appearances": 14,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 9.24,
+        "whip": 2.37,
+        "wins": 1,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 12.666666666666666,
+        "inningsPitchedDisplay": "12.2",
+        "hitsAllowed": 13,
+        "runsAllowed": 13,
+        "earnedRunsAllowed": 13,
+        "walksAllowed": 17,
+        "strikeouts": 16,
+        "doublesAllowed": 3,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 47,
+        "wildPitches": 4,
+        "hitBatters": 5,
+        "balks": 0,
+        "opponentsBattingAverage": 0.277,
+        "walksHits": 30
+      },
+      "fieldingStats": {
+        "rosterBioId": "12385",
+        "name": "Jacob Dienes",
+        "normalizedName": "jacob dienes",
+        "jersey": "27",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/jacob-dienes/12385",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Dienes_T8Bin.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 0,
+        "putouts": 1,
+        "assists": 2,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 3
+      },
+      "evaluation": {
+        "score": 13,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 66.98564593301435,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Jacob Dienes looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 9.24",
+          "WHIP 2.37",
+          "K/9 11.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "9.24"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.37"
+          },
+          {
+            "label": "K/9",
+            "value": "11.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "12.1"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "12.7"
+          }
+        ],
+        "metaLine": "GR / L/L",
+        "detailBadges": [
+          "LHP",
+          "GR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12386",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "AJ Greene",
+      "normalizedName": "aj greene",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "UTL",
+      "positionLong": "Utility",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "28",
+      "hometown": "Collierville, Tenn.",
+      "highSchool": "Collierville HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Collierville, Tenn. / Collierville HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/aj-greene/12386",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Greene_AJ_fJrKn.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12386",
+      "sources": [
+        "Memphis Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "AJ Greene gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "UTL",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Memphis Athletics roster"
+      }
+    },
+    {
+      "id": "memphis-12387",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Jack Little",
+      "normalizedName": "jack little",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "R-JR",
+      "handedness": "R/R",
+      "jersey": "29",
+      "hometown": "Katy, Texas",
+      "highSchool": "Obra D. Tompkins HS",
+      "previousSchool": "Wichita State / Baylor",
+      "hometownHighSchool": "Katy, Texas / Obra D. Tompkins HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/jack-little/12387",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Little_Jack_fkusn.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12387",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "12387",
+        "name": "Jack Little",
+        "normalizedName": "jack little",
+        "jersey": "29",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/jack-little/12387",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Little_Jack_fkusn.jpg",
+        "gamesPlayed": 25,
+        "gamesStarted": 17,
+        "battingAverage": 0.25,
+        "onBasePercentage": 0.316,
+        "sluggingPercentage": 0.441,
+        "ops": 0.757,
+        "atBats": 68,
+        "runs": 12,
+        "hits": 17,
+        "doubles": 5,
+        "triples": 1,
+        "homeRuns": 2,
+        "runsBattedIn": 10,
+        "totalBases": 30,
+        "walks": 5,
+        "hitByPitch": 2,
+        "strikeouts": 19,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 0,
+        "stolenBases": 6,
+        "stolenBasesAttempts": 6,
+        "putouts": 39,
+        "assists": 19,
+        "errors": 1,
+        "plateAppearances": 82,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "12387",
+        "name": "Jack Little",
+        "normalizedName": "jack little",
+        "jersey": "29",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/jack-little/12387",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Little_Jack_fkusn.jpg",
+        "gamesPlayed": 22,
+        "gamesStarted": 17,
+        "putouts": 39,
+        "assists": 19,
+        "errors": 1,
+        "fieldingPercentage": 0.983,
+        "doublePlays": 2,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 59
+      },
+      "evaluation": {
+        "score": 21,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 19.999999999999986,
+          "Power": 31.8421052631579,
+          "Contact": 18.75,
+          "Discipline": 7.017543859649118,
+          "Speed": 20
+        },
+        "summary": "Jack Little gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .250",
+          "OBP .316",
+          "SLG .441"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".250"
+          },
+          {
+            "label": "OBP",
+            "value": ".316"
+          },
+          {
+            "label": "SLG",
+            "value": ".441"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "10"
+          },
+          {
+            "label": "SB",
+            "value": "6"
+          }
+        ],
+        "metaLine": "R-JR / R/R",
+        "detailBadges": [
+          "INF",
+          "R-JR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12365",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Will Howell",
+      "normalizedName": "will howell",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "R-SO",
+      "handedness": "R/R",
+      "jersey": "30",
+      "hometown": "Pine Bluff, Ark.",
+      "highSchool": "Pine Bluff HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Pine Bluff, Ark. / Pine Bluff HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/will-howell/12365",
+      "imageUrl": "https://gotigersgo.com/images/2025/12/4/DSC08460-3.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12365",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "12365",
+        "name": "Will Howell",
+        "normalizedName": "will howell",
+        "jersey": "30",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/will-howell/12365",
+        "imageUrl": "https://gotigersgo.com/images/2025/12/4/DSC08460-3.jpg",
+        "gamesPlayed": 9,
+        "gamesStarted": 9,
+        "appearances": 9,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 7.49,
+        "whip": 1.76,
+        "wins": 3,
+        "losses": 5,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 39.666666666666664,
+        "inningsPitchedDisplay": "39.2",
+        "hitsAllowed": 49,
+        "runsAllowed": 34,
+        "earnedRunsAllowed": 33,
+        "walksAllowed": 21,
+        "strikeouts": 33,
+        "doublesAllowed": 11,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 6,
+        "opponentsAtBats": 154,
+        "wildPitches": 2,
+        "hitBatters": 5,
+        "balks": 0,
+        "opponentsBattingAverage": 0.318,
+        "walksHits": 70
+      },
+      "fieldingStats": {
+        "rosterBioId": "12365",
+        "name": "Will Howell",
+        "normalizedName": "will howell",
+        "jersey": "30",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/will-howell/12365",
+        "imageUrl": "https://gotigersgo.com/images/2025/12/4/DSC08460-3.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 7,
+        "putouts": 5,
+        "assists": 6,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 2,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 11
+      },
+      "evaluation": {
+        "score": 8,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 31.70359052711994,
+          "Command": 11.428571428571429,
+          "Damage suppression": 0
+        },
+        "summary": "Will Howell gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 7.49",
+          "WHIP 1.76",
+          "K/9 7.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "7.49"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.76"
+          },
+          {
+            "label": "K/9",
+            "value": "7.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.36"
+          },
+          {
+            "label": "IP",
+            "value": "39.7"
+          }
+        ],
+        "metaLine": "R-SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12388",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Seth Impson",
+      "normalizedName": "seth impson",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "31",
+      "hometown": "Springfield, Ill.",
+      "highSchool": "Springfield HS",
+      "previousSchool": "Lincoln Land CC",
+      "hometownHighSchool": "Springfield, Ill. / Springfield HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/seth-impson/12388",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Impson_Seth_NxwCf.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12388",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "12388",
+        "name": "Seth Impson",
+        "normalizedName": "seth impson",
+        "jersey": "31",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/seth-impson/12388",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Impson_Seth_NxwCf.jpg",
+        "gamesPlayed": 9,
+        "gamesStarted": 4,
+        "appearances": 9,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 7.71,
+        "whip": 1.45,
+        "wins": 1,
+        "losses": 2,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 30.333333333333332,
+        "inningsPitchedDisplay": "30.1",
+        "hitsAllowed": 30,
+        "runsAllowed": 26,
+        "earnedRunsAllowed": 26,
+        "walksAllowed": 14,
+        "strikeouts": 14,
+        "doublesAllowed": 7,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 10,
+        "opponentsAtBats": 118,
+        "wildPitches": 1,
+        "hitBatters": 6,
+        "balks": 0,
+        "opponentsBattingAverage": 0.254,
+        "walksHits": 44
+      },
+      "fieldingStats": {
+        "rosterBioId": "12388",
+        "name": "Seth Impson",
+        "normalizedName": "seth impson",
+        "jersey": "31",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/seth-impson/12388",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Impson_Seth_NxwCf.jpg",
+        "gamesPlayed": 5,
+        "gamesStarted": 3,
+        "putouts": 0,
+        "assists": 8,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 8
+      },
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 1.3986013986014016,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Seth Impson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 7.71",
+          "WHIP 1.45",
+          "K/9 4.2"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "7.71"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.45"
+          },
+          {
+            "label": "K/9",
+            "value": "4.2"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "2.97"
+          },
+          {
+            "label": "IP",
+            "value": "30.3"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12389",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Kyle Mabie",
+      "normalizedName": "kyle mabie",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "32",
+      "hometown": "Memphis, Tenn.",
+      "highSchool": "Evangelical Christian School",
+      "previousSchool": "",
+      "hometownHighSchool": "Memphis, Tenn. / Evangelical Christian School",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/kyle-mabie/12389",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Mabie_Kyle_ClfMs.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12389",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "12389",
+        "name": "Kyle Mabie",
+        "normalizedName": "kyle mabie",
+        "jersey": "32",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/kyle-mabie/12389",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Mabie_Kyle_ClfMs.jpg",
+        "gamesPlayed": 10,
+        "gamesStarted": 0,
+        "battingAverage": 0.1,
+        "onBasePercentage": 0.182,
+        "sluggingPercentage": 0.2,
+        "ops": 0.382,
+        "atBats": 10,
+        "runs": 1,
+        "hits": 1,
+        "doubles": 1,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 2,
+        "totalBases": 2,
+        "walks": 0,
+        "hitByPitch": 1,
+        "strikeouts": 3,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 4,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 11,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "12389",
+        "name": "Kyle Mabie",
+        "normalizedName": "kyle mabie",
+        "jersey": "32",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/kyle-mabie/12389",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Mabie_Kyle_ClfMs.jpg",
+        "gamesPlayed": 2,
+        "gamesStarted": 0,
+        "putouts": 4,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 4
+      },
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Kyle Mabie gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .100",
+          "OBP .182",
+          "SLG .200"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".100"
+          },
+          {
+            "label": "OBP",
+            "value": ".182"
+          },
+          {
+            "label": "SLG",
+            "value": ".200"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "2"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12390",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Brady McAbee",
+      "normalizedName": "brady mcabee",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "JR",
+      "handedness": "L/R",
+      "jersey": "34",
+      "hometown": "Tuscaloosa, Ala.",
+      "highSchool": "Northridge HS",
+      "previousSchool": "Snead State CC / East Central CC",
+      "hometownHighSchool": "Tuscaloosa, Ala. / Northridge HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/brady-mcabee/12390",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/McAbee_u86ET.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12390",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "12390",
+        "name": "Brady McAbee",
+        "normalizedName": "brady mcabee",
+        "jersey": "34",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/brady-mcabee/12390",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/McAbee_u86ET.jpg",
+        "gamesPlayed": 20,
+        "gamesStarted": 11,
+        "battingAverage": 0.341,
+        "onBasePercentage": 0.453,
+        "sluggingPercentage": 0.5,
+        "ops": 0.953,
+        "atBats": 44,
+        "runs": 8,
+        "hits": 15,
+        "doubles": 1,
+        "triples": 0,
+        "homeRuns": 2,
+        "runsBattedIn": 9,
+        "totalBases": 22,
+        "walks": 9,
+        "hitByPitch": 0,
+        "strikeouts": 10,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 2,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 1,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 44,
+        "assists": 6,
+        "errors": 0,
+        "plateAppearances": 54,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "12390",
+        "name": "Brady McAbee",
+        "normalizedName": "brady mcabee",
+        "jersey": "34",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/brady-mcabee/12390",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/McAbee_u86ET.jpg",
+        "gamesPlayed": 10,
+        "gamesStarted": 7,
+        "putouts": 44,
+        "assists": 6,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 14,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": 0.933,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 50
+      },
+      "evaluation": {
+        "score": 68,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "components": {
+          "On-base": 96.1111111111111,
+          "Power": 47.36842105263158,
+          "Contact": 75.62500000000001,
+          "Discipline": 77.77777777777776,
+          "Speed": 0
+        },
+        "summary": "Brady McAbee profiles as a C piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .341",
+          "OBP .453",
+          "SLG .500"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".341"
+          },
+          {
+            "label": "OBP",
+            "value": ".453"
+          },
+          {
+            "label": "SLG",
+            "value": ".500"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "9"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "L/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12391",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Parker Price",
+      "normalizedName": "parker price",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "JR",
+      "handedness": "L/L",
+      "jersey": "35",
+      "hometown": "Eldorado, Ill.",
+      "highSchool": "Eldorado HS",
+      "previousSchool": "Kaskaskia CC",
+      "hometownHighSchool": "Eldorado, Ill. / Eldorado HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/parker-price/12391",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Price_Parker_rZSx4.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12391",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "12391",
+        "name": "Parker Price",
+        "normalizedName": "parker price",
+        "jersey": "35",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/parker-price/12391",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Price_Parker_rZSx4.jpg",
+        "gamesPlayed": 19,
+        "gamesStarted": 2,
+        "battingAverage": 0.182,
+        "onBasePercentage": 0.438,
+        "sluggingPercentage": 0.182,
+        "ops": 0.62,
+        "atBats": 11,
+        "runs": 5,
+        "hits": 2,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 0,
+        "totalBases": 2,
+        "walks": 4,
+        "hitByPitch": 1,
+        "strikeouts": 1,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 2,
+        "putouts": 4,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 20,
+        "caughtStealing": 2,
+        "pickedOff": 1
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "12391",
+        "name": "Parker Price",
+        "normalizedName": "parker price",
+        "jersey": "35",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/parker-price/12391",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Price_Parker_rZSx4.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 1,
+        "putouts": 4,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 4
+      },
+      "evaluation": {
+        "score": 42,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 87.77777777777777,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 100,
+          "Speed": 0
+        },
+        "summary": "Parker Price profiles as a OF piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .182",
+          "OBP .438",
+          "SLG .182"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".182"
+          },
+          {
+            "label": "OBP",
+            "value": ".438"
+          },
+          {
+            "label": "SLG",
+            "value": ".182"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "L/L",
+          "Hitter"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12392",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Nolan McCracken",
+      "normalizedName": "nolan mccracken",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "36",
+      "hometown": "Windsor, Colo.",
+      "highSchool": "Windsor HS",
+      "previousSchool": "UC San Diego",
+      "hometownHighSchool": "Windsor, Colo. / Windsor HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/nolan-mccracken/12392",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/McCracken_oypoJ.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12392",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "12392",
+        "name": "Nolan McCracken",
+        "normalizedName": "nolan mccracken",
+        "jersey": "36",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/nolan-mccracken/12392",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/McCracken_oypoJ.jpg",
+        "gamesPlayed": 9,
+        "gamesStarted": 0,
+        "appearances": 9,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 9.64,
+        "whip": 1.93,
+        "wins": 1,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 9.333333333333334,
+        "inningsPitchedDisplay": "9.1",
+        "hitsAllowed": 10,
+        "runsAllowed": 10,
+        "earnedRunsAllowed": 10,
+        "walksAllowed": 8,
+        "strikeouts": 8,
+        "doublesAllowed": 2,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 35,
+        "wildPitches": 3,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.286,
+        "walksHits": 18
+      },
+      "fieldingStats": {
+        "rosterBioId": "12392",
+        "name": "Nolan McCracken",
+        "normalizedName": "nolan mccracken",
+        "jersey": "36",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/nolan-mccracken/12392",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/McCracken_oypoJ.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 1
+      },
+      "evaluation": {
+        "score": 7,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 33.76623376623376,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Nolan McCracken gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 9.64",
+          "WHIP 1.93",
+          "K/9 7.7"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "9.64"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.93"
+          },
+          {
+            "label": "K/9",
+            "value": "7.7"
+          },
+          {
+            "label": "BB/9",
+            "value": "7.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.93"
+          },
+          {
+            "label": "IP",
+            "value": "9.3"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12393",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Aiden Steht",
+      "normalizedName": "aiden steht",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "37",
+      "hometown": "Olive Branch, Miss.",
+      "highSchool": "DeSoto Central HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Olive Branch, Miss. / DeSoto Central HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/aiden-steht/12393",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Steht_4vS1n.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12393",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "12393",
+        "name": "Aiden Steht",
+        "normalizedName": "aiden steht",
+        "jersey": "37",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/aiden-steht/12393",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Steht_4vS1n.jpg",
+        "gamesPlayed": 11,
+        "gamesStarted": 0,
+        "appearances": 11,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 7.94,
+        "whip": 2.21,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 11.333333333333334,
+        "inningsPitchedDisplay": "11.1",
+        "hitsAllowed": 15,
+        "runsAllowed": 11,
+        "earnedRunsAllowed": 10,
+        "walksAllowed": 10,
+        "strikeouts": 11,
+        "doublesAllowed": 3,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 47,
+        "wildPitches": 2,
+        "hitBatters": 4,
+        "balks": 0,
+        "opponentsBattingAverage": 0.319,
+        "walksHits": 25
+      },
+      "fieldingStats": {
+        "rosterBioId": "12393",
+        "name": "Aiden Steht",
+        "normalizedName": "aiden steht",
+        "jersey": "37",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/aiden-steht/12393",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Steht_4vS1n.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 0,
+        "errors": 1,
+        "fieldingPercentage": 0,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 1
+      },
+      "evaluation": {
+        "score": 9,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 43.04812834224598,
+          "Command": 2.0000000000000018,
+          "Damage suppression": 0
+        },
+        "summary": "Aiden Steht gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 7.94",
+          "WHIP 2.21",
+          "K/9 8.7"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "7.94"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.21"
+          },
+          {
+            "label": "K/9",
+            "value": "8.7"
+          },
+          {
+            "label": "BB/9",
+            "value": "7.9"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.59"
+          },
+          {
+            "label": "IP",
+            "value": "11.3"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12394",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Lance Bryan",
+      "normalizedName": "lance bryan",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "38",
+      "hometown": "Eads, Tenn.",
+      "highSchool": "Briarcrest Christian School",
+      "previousSchool": "",
+      "hometownHighSchool": "Eads, Tenn. / Briarcrest Christian School",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/lance-bryan/12394",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Bryan_C0Axj.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12394",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "12394",
+        "name": "Lance Bryan",
+        "normalizedName": "lance bryan",
+        "jersey": "38",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/lance-bryan/12394",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Bryan_C0Axj.jpg",
+        "gamesPlayed": 5,
+        "gamesStarted": 0,
+        "appearances": 5,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 8.38,
+        "whip": 1.86,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 9.666666666666666,
+        "inningsPitchedDisplay": "9.2",
+        "hitsAllowed": 13,
+        "runsAllowed": 9,
+        "earnedRunsAllowed": 9,
+        "walksAllowed": 5,
+        "strikeouts": 11,
+        "doublesAllowed": 8,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 41,
+        "wildPitches": 1,
+        "hitBatters": 0,
+        "balks": 0,
+        "opponentsBattingAverage": 0.317,
+        "walksHits": 18
+      },
+      "fieldingStats": {
+        "rosterBioId": "12394",
+        "name": "Lance Bryan",
+        "normalizedName": "lance bryan",
+        "jersey": "38",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/lance-bryan/12394",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Bryan_C0Axj.jpg",
+        "gamesPlayed": 2,
+        "gamesStarted": 0,
+        "putouts": 1,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 2
+      },
+      "evaluation": {
+        "score": 15,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 56.739811912225704,
+          "Command": 23.999999999999993,
+          "Damage suppression": 0
+        },
+        "summary": "Lance Bryan looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 8.38",
+          "WHIP 1.86",
+          "K/9 10.2"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "8.38"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.86"
+          },
+          {
+            "label": "K/9",
+            "value": "10.2"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.86"
+          },
+          {
+            "label": "IP",
+            "value": "9.7"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12395",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Cade Hitson",
+      "normalizedName": "cade hitson",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "JR",
+      "handedness": "L/L",
+      "jersey": "39",
+      "hometown": "Murfreesboro, Tenn.",
+      "highSchool": "Riverdale HS",
+      "previousSchool": "Walters State CC / Columbia State CC",
+      "hometownHighSchool": "Murfreesboro, Tenn. / Riverdale HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/cade-hitson/12395",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Hitson_Cade_TV5W2.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12395",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "12395",
+        "name": "Cade Hitson",
+        "normalizedName": "cade hitson",
+        "jersey": "39",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/cade-hitson/12395",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Hitson_Cade_TV5W2.jpg",
+        "gamesPlayed": 20,
+        "gamesStarted": 16,
+        "battingAverage": 0.308,
+        "onBasePercentage": 0.393,
+        "sluggingPercentage": 0.462,
+        "ops": 0.855,
+        "atBats": 52,
+        "runs": 8,
+        "hits": 16,
+        "doubles": 0,
+        "triples": 1,
+        "homeRuns": 2,
+        "runsBattedIn": 11,
+        "totalBases": 24,
+        "walks": 7,
+        "hitByPitch": 1,
+        "strikeouts": 17,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 1,
+        "stolenBases": 3,
+        "stolenBasesAttempts": 3,
+        "putouts": 23,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 65,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "12395",
+        "name": "Cade Hitson",
+        "normalizedName": "cade hitson",
+        "jersey": "39",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/cade-hitson/12395",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Hitson_Cade_TV5W2.jpg",
+        "gamesPlayed": 12,
+        "gamesStarted": 12,
+        "putouts": 23,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 23
+      },
+      "evaluation": {
+        "score": 44,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 62.77777777777778,
+          "Power": 37.36842105263159,
+          "Contact": 54.99999999999999,
+          "Discipline": 23.529411764705877,
+          "Speed": 10
+        },
+        "summary": "Cade Hitson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .308",
+          "OBP .393",
+          "SLG .462"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".308"
+          },
+          {
+            "label": "OBP",
+            "value": ".393"
+          },
+          {
+            "label": "SLG",
+            "value": ".462"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "11"
+          },
+          {
+            "label": "SB",
+            "value": "3"
+          }
+        ],
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "L/L",
+          "Hitter"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12396",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Gabe Boyd",
+      "normalizedName": "gabe boyd",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "40",
+      "hometown": "Memphis, Tenn.",
+      "highSchool": "Christian Brothers HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Memphis, Tenn. / Christian Brothers HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/gabe-boyd/12396",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/DSC04654.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12396",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "12396",
+        "name": "Gabe Boyd",
+        "normalizedName": "gabe boyd",
+        "jersey": "40",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/gabe-boyd/12396",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/DSC04654.jpg",
+        "gamesPlayed": 4,
+        "gamesStarted": 0,
+        "battingAverage": 0.25,
+        "onBasePercentage": 0.25,
+        "sluggingPercentage": 0.25,
+        "ops": 0.5,
+        "atBats": 4,
+        "runs": 2,
+        "hits": 1,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 1,
+        "totalBases": 1,
+        "walks": 0,
+        "hitByPitch": 0,
+        "strikeouts": 2,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 0,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 4,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 3,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 18.75,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Gabe Boyd gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .250",
+          "OBP .250",
+          "SLG .250"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".250"
+          },
+          {
+            "label": "OBP",
+            "value": ".250"
+          },
+          {
+            "label": "SLG",
+            "value": ".250"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "1"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12376",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "CJ Willis",
+      "normalizedName": "cj willis",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "R-JR",
+      "handedness": "L/R",
+      "jersey": "44",
+      "hometown": "Bartlett, Tenn.",
+      "highSchool": "Bartlett HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Bartlett, Tenn. / Bartlett HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/cj-willis/12376",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Willis_CJ_8trJl.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12376",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "12376",
+        "name": "CJ Willis",
+        "normalizedName": "cj willis",
+        "jersey": "44",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/cj-willis/12376",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Willis_CJ_8trJl.jpg",
+        "gamesPlayed": 2,
+        "gamesStarted": 0,
+        "battingAverage": 0,
+        "onBasePercentage": 0,
+        "sluggingPercentage": 0,
+        "ops": 0,
+        "atBats": 2,
+        "runs": 0,
+        "hits": 0,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 0,
+        "totalBases": 0,
+        "walks": 0,
+        "hitByPitch": 0,
+        "strikeouts": 1,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 0,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 2,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "CJ Willis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .000",
+          "OBP .000",
+          "SLG .000"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".000"
+          },
+          {
+            "label": "OBP",
+            "value": ".000"
+          },
+          {
+            "label": "SLG",
+            "value": ".000"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "R-JR / L/R",
+        "detailBadges": [
+          "OF",
+          "R-JR",
+          "L/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    },
+    {
+      "id": "memphis-12359",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "Michael Bright",
+      "normalizedName": "michael bright",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "R-SO",
+      "handedness": "R/R",
+      "jersey": "47",
+      "hometown": "Lithia Springs, Ga.",
+      "highSchool": "New Manchester HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Lithia Springs, Ga. / New Manchester HS",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/michael-bright/12359",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Bright_Michael_eD3QH.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12359",
+      "sources": [
+        "Memphis Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Michael Bright looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "R-SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Memphis Athletics roster"
+      }
+    },
+    {
+      "id": "memphis-12374",
+      "schoolSlug": "memphis",
+      "school": "Memphis",
+      "schoolLongName": "University of Memphis",
+      "name": "James Smith IV",
+      "normalizedName": "james smith",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "OF/RHP",
+      "positionLong": "Outfielder/Right-Handed Pitcher",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "50",
+      "hometown": "Olive Branch, Miss.",
+      "highSchool": "Northpoint Christian School",
+      "previousSchool": "Ole Miss / Northwest Mississippi CC",
+      "hometownHighSchool": "Olive Branch, Miss. / Northpoint Christian School",
+      "profileUrl": "https://gotigersgo.com/sports/baseball/roster/james-smith-iv/12374",
+      "imageUrl": "https://gotigersgo.com/images/2025/11/21/Smith_qB21b.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12374",
+      "sources": [
+        "Memphis Athletics roster",
+        "Memphis cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "12374",
+        "name": "James Smith IV",
+        "normalizedName": "james smith",
+        "jersey": "50",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/james-smith-iv/12374",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Smith_qB21b.jpg",
+        "gamesPlayed": 29,
+        "gamesStarted": 29,
+        "battingAverage": 0.275,
+        "onBasePercentage": 0.388,
+        "sluggingPercentage": 0.495,
+        "ops": 0.883,
+        "atBats": 109,
+        "runs": 19,
+        "hits": 30,
+        "doubles": 6,
+        "triples": 0,
+        "homeRuns": 6,
+        "runsBattedIn": 31,
+        "totalBases": 54,
+        "walks": 16,
+        "hitByPitch": 4,
+        "strikeouts": 23,
+        "intentionalWalks": 2,
+        "groundedIntoDoublePlay": 5,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 1,
+        "stolenBases": 4,
+        "stolenBasesAttempts": 4,
+        "putouts": 18,
+        "assists": 0,
+        "errors": 1,
+        "plateAppearances": 134,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "12374",
+        "name": "James Smith IV",
+        "normalizedName": "james smith",
+        "jersey": "50",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/james-smith-iv/12374",
+        "imageUrl": "https://gotigersgo.com/images/2025/11/21/Smith_qB21b.jpg",
+        "gamesPlayed": 8,
+        "gamesStarted": 8,
+        "putouts": 18,
+        "assists": 0,
+        "errors": 1,
+        "fieldingPercentage": 0.947,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 19
+      },
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "James Smith IV looks like a OF/RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "OF/RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats"
+      }
+    }
+  ],
+  "playerBoard": {
+    "source": "Memphis Athletics roster + cumulative stats / ESPN roster",
+    "note": "This Memphis-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Memphis's public ESPN roster feed did not line up cleanly with the current school-site roster.",
+    "totalPlayers": 38,
+    "roleCounts": {
+      "Hitter": 19,
+      "Pitcher": 19
+    },
+    "players": [
+      {
+        "id": "memphis-12377",
+        "name": "Michael Gupton",
+        "school": "Memphis",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 52,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Michael Gupton profiles as a OF piece who brings real extra-base damage and adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .311",
+          "OBP .374",
+          "SLG .629"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".311"
+          },
+          {
+            "label": "OBP",
+            "value": ".374"
+          },
+          {
+            "label": "SLG",
+            "value": ".629"
+          },
+          {
+            "label": "HR",
+            "value": "10"
+          },
+          {
+            "label": "RBI",
+            "value": "34"
+          },
+          {
+            "label": "SB",
+            "value": "10"
+          }
+        ],
+        "components": {
+          "On-base": 52.222222222222214,
+          "Power": 81.31578947368422,
+          "Contact": 56.875,
+          "Discipline": 2.469135802469133,
+          "Speed": 33.33333333333333
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/michael-gupton/12377",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12361",
+        "name": "Shane Cox",
+        "school": "Memphis",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 40,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Shane Cox profiles as a INF piece who adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .299",
+          "OBP .362",
+          "SLG .460"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".299"
+          },
+          {
+            "label": "OBP",
+            "value": ".362"
+          },
+          {
+            "label": "SLG",
+            "value": ".460"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "18"
+          },
+          {
+            "label": "SB",
+            "value": "8"
+          }
+        ],
+        "components": {
+          "On-base": 45.555555555555536,
+          "Power": 36.842105263157904,
+          "Contact": 49.37499999999999,
+          "Discipline": 33.33333333333333,
+          "Speed": 26.666666666666668
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "INF",
+          "GR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/shane-cox/12361",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12368",
+        "name": "Jack Pitts",
+        "school": "Memphis",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 34,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jack Pitts profiles as a C piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .171",
+          "OBP .404",
+          "SLG .390"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".171"
+          },
+          {
+            "label": "OBP",
+            "value": ".404"
+          },
+          {
+            "label": "SLG",
+            "value": ".390"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "7"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 68.88888888888889,
+          "Power": 18.421052631578952,
+          "Contact": 0,
+          "Discipline": 49.67320261437908,
+          "Speed": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "C",
+          "SO",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/jack-pitts/12368",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12369",
+        "name": "Michael Politte",
+        "school": "Memphis",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Michael Politte gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .000",
+          "OBP .077",
+          "SLG .000"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".000"
+          },
+          {
+            "label": "OBP",
+            "value": ".077"
+          },
+          {
+            "label": "SLG",
+            "value": ".000"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "R/R",
+          "Two-Way"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Two-Way",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/michael-politte/12369",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12370",
+        "name": "Caden Robinson",
+        "school": "Memphis",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 24,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Caden Robinson looks like a RHP option who misses bats and throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 8.31",
+          "WHIP 1.15",
+          "K/9 10.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "8.31"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.15"
+          },
+          {
+            "label": "K/9",
+            "value": "10.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.1"
+          },
+          {
+            "label": "HR/9",
+            "value": "4.15"
+          },
+          {
+            "label": "IP",
+            "value": "4.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 58.04195804195804,
+          "Command": 80,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/caden-robinson/12370",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12362",
+        "name": "Eli Curtis",
+        "school": "Memphis",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "R-SO",
+        "handedness": "L/L",
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Eli Curtis looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 13.50",
+          "WHIP 2.40",
+          "K/9 10.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "13.50"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.40"
+          },
+          {
+            "label": "K/9",
+            "value": "10.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "10.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "2.70"
+          },
+          {
+            "label": "IP",
+            "value": "3.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 61.818181818181806,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-SO / L/L",
+        "detailBadges": [
+          "LHP",
+          "R-SO",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/eli-curtis/12362",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12378",
+        "name": "Javon Hernandez",
+        "school": "Memphis",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 36,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Javon Hernandez profiles as a INF piece who adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .269",
+          "OBP .367",
+          "SLG .331"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".269"
+          },
+          {
+            "label": "OBP",
+            "value": ".367"
+          },
+          {
+            "label": "SLG",
+            "value": ".331"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "11"
+          },
+          {
+            "label": "SB",
+            "value": "18"
+          }
+        ],
+        "components": {
+          "On-base": 48.333333333333314,
+          "Power": 2.8947368421052664,
+          "Contact": 30.625000000000007,
+          "Discipline": 57.14285714285713,
+          "Speed": 60
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "INF",
+          "GR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/javon-hernandez/12378",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12379",
+        "name": "Freddy Rodriguez",
+        "school": "Memphis",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 54,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Freddy Rodriguez profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .286",
+          "OBP .410",
+          "SLG .361"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".286"
+          },
+          {
+            "label": "OBP",
+            "value": ".410"
+          },
+          {
+            "label": "SLG",
+            "value": ".361"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "14"
+          },
+          {
+            "label": "SB",
+            "value": "29"
+          }
+        ],
+        "components": {
+          "On-base": 72.2222222222222,
+          "Power": 10.789473684210522,
+          "Contact": 41.24999999999998,
+          "Discipline": 80.34188034188034,
+          "Speed": 96.66666666666667
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/freddy-rodriguez/12379",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12380",
+        "name": "Carson Fair",
+        "school": "Memphis",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 13,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Carson Fair looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 3.52",
+          "WHIP 1.17",
+          "K/9 9.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.52"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.17"
+          },
+          {
+            "label": "K/9",
+            "value": "9.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "15.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 49.01185770750987,
+          "Command": 20,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/carson-fair/12380",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12375",
+        "name": "Webb Watson",
+        "school": "Memphis",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "R-FR",
+        "handedness": "L/L",
+        "score": 18,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Webb Watson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .188",
+          "OBP .342",
+          "SLG .359"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".188"
+          },
+          {
+            "label": "OBP",
+            "value": ".342"
+          },
+          {
+            "label": "SLG",
+            "value": ".359"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "12"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 34.44444444444444,
+          "Power": 10.263157894736837,
+          "Contact": 0,
+          "Discipline": 26.086956521739125,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "R-FR / L/L",
+        "detailBadges": [
+          "OF",
+          "R-FR",
+          "L/L",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/webb-watson/12375",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12372",
+        "name": "Brayden Sanders",
+        "school": "Memphis",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "GR",
+        "handedness": "L/R",
+        "score": 10,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brayden Sanders gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 6.17",
+          "WHIP 1.71",
+          "K/9 8.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.17"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.71"
+          },
+          {
+            "label": "K/9",
+            "value": "8.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.54"
+          },
+          {
+            "label": "IP",
+            "value": "11.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 40.77922077922078,
+          "Command": 11.428571428571429,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / L/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "L/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/brayden-sanders/12372",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12371",
+        "name": "Logan Rushing",
+        "school": "Memphis",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "GR",
+        "handedness": "R/L",
+        "score": 15,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Logan Rushing looks like a LHP option who limits runs and misses bats.",
+        "summaryMetrics": [
+          "ERA 3.78",
+          "WHIP 1.56",
+          "K/9 9.2"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.78"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.56"
+          },
+          {
+            "label": "K/9",
+            "value": "9.2"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.08"
+          },
+          {
+            "label": "IP",
+            "value": "16.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 47.090909090909086,
+          "Command": 36.66666666666667,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / R/L",
+        "detailBadges": [
+          "LHP",
+          "GR",
+          "R/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/logan-rushing/12371",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12381",
+        "name": "Marcus Smith",
+        "school": "Memphis",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "R-JR",
+        "handedness": "R/R",
+        "score": 3,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Marcus Smith gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .176",
+          "OBP .275",
+          "SLG .294"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".176"
+          },
+          {
+            "label": "OBP",
+            "value": ".275"
+          },
+          {
+            "label": "SLG",
+            "value": ".294"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "4"
+          },
+          {
+            "label": "SB",
+            "value": "3"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 14.814814814814808,
+          "Speed": 10
+        },
+        "metaLine": "R-JR / R/R",
+        "detailBadges": [
+          "OF",
+          "R-JR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/marcus-smith/12381",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12363",
+        "name": "Seth Garner",
+        "school": "Memphis",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Seth Garner looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA 7.91",
+          "WHIP 1.70",
+          "K/9 7.6"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "7.91"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.70"
+          },
+          {
+            "label": "K/9",
+            "value": "7.6"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "2.45"
+          },
+          {
+            "label": "IP",
+            "value": "33.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 33.057851239669425,
+          "Command": 30.909090909090907,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/seth-garner/12363",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12367",
+        "name": "Davis Oswalt",
+        "school": "Memphis",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 10,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Davis Oswalt gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 9.00",
+          "WHIP 2.16",
+          "K/9 8.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "9.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.16"
+          },
+          {
+            "label": "K/9",
+            "value": "8.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.95"
+          },
+          {
+            "label": "IP",
+            "value": "19.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 41.148325358851686,
+          "Command": 12.727272727272734,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/davis-oswalt/12367",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12382",
+        "name": "Trae Cassidy",
+        "school": "Memphis",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "JR",
+        "handedness": "L/R",
+        "score": 30,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Trae Cassidy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .255",
+          "OBP .370",
+          "SLG .337"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".255"
+          },
+          {
+            "label": "OBP",
+            "value": ".370"
+          },
+          {
+            "label": "SLG",
+            "value": ".337"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "16"
+          },
+          {
+            "label": "SB",
+            "value": "3"
+          }
+        ],
+        "components": {
+          "On-base": 49.999999999999986,
+          "Power": 4.47368421052632,
+          "Contact": 21.875000000000004,
+          "Discipline": 59.903381642512066,
+          "Speed": 10
+        },
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/trae-cassidy/12382",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12373",
+        "name": "Charlie Smith",
+        "school": "Memphis",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 4,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Charlie Smith gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 9.79",
+          "WHIP 2.06",
+          "K/9 5.7"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "9.79"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.06"
+          },
+          {
+            "label": "K/9",
+            "value": "5.7"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.1"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.35"
+          },
+          {
+            "label": "IP",
+            "value": "26.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 15.795454545454543,
+          "Command": 2.666666666666666,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/charlie-smith/12373",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12383",
+        "name": "Barret Rodgers",
+        "school": "Memphis",
+        "role": "Pitcher",
+        "position": "1B/LHP",
+        "classYear": "JR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Barret Rodgers looks like a 1B/LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "1B/LHP",
+          "JR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster"
+        ],
+        "sourceSummary": "Memphis Athletics roster",
+        "schoolSlug": "memphis",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/barret-rodgers/12383",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12366",
+        "name": "Isaac Lucas",
+        "school": "Memphis",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "R-JR",
+        "handedness": "L/L",
+        "score": 13,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Isaac Lucas looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 16.33",
+          "WHIP 2.58",
+          "K/9 11.3"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "16.33"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.58"
+          },
+          {
+            "label": "K/9",
+            "value": "11.3"
+          },
+          {
+            "label": "BB/9",
+            "value": "10.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "3.14"
+          },
+          {
+            "label": "IP",
+            "value": "14.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 66.38477801268498,
+          "Command": 1.1764705882352944,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-JR / L/L",
+        "detailBadges": [
+          "LHP",
+          "R-JR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/isaac-lucas/12366",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12364",
+        "name": "Seth Giamportone",
+        "school": "Memphis",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "R-FR",
+        "handedness": "R/R",
+        "score": 83,
+        "fit": {
+          "label": "Priority",
+          "className": "fit-priority"
+        },
+        "summary": "Seth Giamportone profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .429",
+          "OBP .636",
+          "SLG .857"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".429"
+          },
+          {
+            "label": "OBP",
+            "value": ".636"
+          },
+          {
+            "label": "SLG",
+            "value": ".857"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "3"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 100,
+          "Power": 100,
+          "Contact": 100,
+          "Discipline": 51.85185185185184,
+          "Speed": 0
+        },
+        "metaLine": "R-FR / R/R",
+        "detailBadges": [
+          "C",
+          "R-FR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/seth-giamportone/12364",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12402",
+        "name": "Tyler Harrington",
+        "school": "Memphis",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 28,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Tyler Harrington gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .300",
+          "OBP .343",
+          "SLG .420"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".300"
+          },
+          {
+            "label": "OBP",
+            "value": ".343"
+          },
+          {
+            "label": "SLG",
+            "value": ".420"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "19"
+          },
+          {
+            "label": "SB",
+            "value": "2"
+          }
+        ],
+        "components": {
+          "On-base": 35,
+          "Power": 26.31578947368421,
+          "Contact": 49.999999999999986,
+          "Discipline": 1.5873015873015843,
+          "Speed": 6.666666666666667
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "INF",
+          "GR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/tyler-harrington/12402",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12360",
+        "name": "David Case",
+        "school": "Memphis",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "GR",
+        "handedness": "L/L",
+        "score": 11,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "David Case gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 6.04",
+          "WHIP 1.61",
+          "K/9 8.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.04"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.61"
+          },
+          {
+            "label": "K/9",
+            "value": "8.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.81"
+          },
+          {
+            "label": "IP",
+            "value": "44.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 40.56987788331073,
+          "Command": 15,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / L/L",
+        "detailBadges": [
+          "LHP",
+          "GR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/david-case/12360",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12385",
+        "name": "Jacob Dienes",
+        "school": "Memphis",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "GR",
+        "handedness": "L/L",
+        "score": 13,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jacob Dienes looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 9.24",
+          "WHIP 2.37",
+          "K/9 11.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "9.24"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.37"
+          },
+          {
+            "label": "K/9",
+            "value": "11.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "12.1"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "12.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 66.98564593301435,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / L/L",
+        "detailBadges": [
+          "LHP",
+          "GR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/jacob-dienes/12385",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12386",
+        "name": "AJ Greene",
+        "school": "Memphis",
+        "role": "Hitter",
+        "position": "UTL",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "AJ Greene gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "UTL",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster"
+        ],
+        "sourceSummary": "Memphis Athletics roster",
+        "schoolSlug": "memphis",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/aj-greene/12386",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12387",
+        "name": "Jack Little",
+        "school": "Memphis",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "R-JR",
+        "handedness": "R/R",
+        "score": 21,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jack Little gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .250",
+          "OBP .316",
+          "SLG .441"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".250"
+          },
+          {
+            "label": "OBP",
+            "value": ".316"
+          },
+          {
+            "label": "SLG",
+            "value": ".441"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "10"
+          },
+          {
+            "label": "SB",
+            "value": "6"
+          }
+        ],
+        "components": {
+          "On-base": 19.999999999999986,
+          "Power": 31.8421052631579,
+          "Contact": 18.75,
+          "Discipline": 7.017543859649118,
+          "Speed": 20
+        },
+        "metaLine": "R-JR / R/R",
+        "detailBadges": [
+          "INF",
+          "R-JR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/jack-little/12387",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12365",
+        "name": "Will Howell",
+        "school": "Memphis",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-SO",
+        "handedness": "R/R",
+        "score": 8,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Will Howell gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 7.49",
+          "WHIP 1.76",
+          "K/9 7.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "7.49"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.76"
+          },
+          {
+            "label": "K/9",
+            "value": "7.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.36"
+          },
+          {
+            "label": "IP",
+            "value": "39.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 31.70359052711994,
+          "Command": 11.428571428571429,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/will-howell/12365",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12388",
+        "name": "Seth Impson",
+        "school": "Memphis",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Seth Impson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 7.71",
+          "WHIP 1.45",
+          "K/9 4.2"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "7.71"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.45"
+          },
+          {
+            "label": "K/9",
+            "value": "4.2"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "2.97"
+          },
+          {
+            "label": "IP",
+            "value": "30.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 1.3986013986014016,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/seth-impson/12388",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12389",
+        "name": "Kyle Mabie",
+        "school": "Memphis",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Kyle Mabie gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .100",
+          "OBP .182",
+          "SLG .200"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".100"
+          },
+          {
+            "label": "OBP",
+            "value": ".182"
+          },
+          {
+            "label": "SLG",
+            "value": ".200"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "2"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/kyle-mabie/12389",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12390",
+        "name": "Brady McAbee",
+        "school": "Memphis",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "JR",
+        "handedness": "L/R",
+        "score": 68,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "summary": "Brady McAbee profiles as a C piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .341",
+          "OBP .453",
+          "SLG .500"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".341"
+          },
+          {
+            "label": "OBP",
+            "value": ".453"
+          },
+          {
+            "label": "SLG",
+            "value": ".500"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "9"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 96.1111111111111,
+          "Power": 47.36842105263158,
+          "Contact": 75.62500000000001,
+          "Discipline": 77.77777777777776,
+          "Speed": 0
+        },
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/brady-mcabee/12390",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12391",
+        "name": "Parker Price",
+        "school": "Memphis",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "JR",
+        "handedness": "L/L",
+        "score": 42,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Parker Price profiles as a OF piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .182",
+          "OBP .438",
+          "SLG .182"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".182"
+          },
+          {
+            "label": "OBP",
+            "value": ".438"
+          },
+          {
+            "label": "SLG",
+            "value": ".182"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 87.77777777777777,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 100,
+          "Speed": 0
+        },
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "L/L",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/parker-price/12391",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12392",
+        "name": "Nolan McCracken",
+        "school": "Memphis",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 7,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nolan McCracken gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 9.64",
+          "WHIP 1.93",
+          "K/9 7.7"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "9.64"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.93"
+          },
+          {
+            "label": "K/9",
+            "value": "7.7"
+          },
+          {
+            "label": "BB/9",
+            "value": "7.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.93"
+          },
+          {
+            "label": "IP",
+            "value": "9.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 33.76623376623376,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/nolan-mccracken/12392",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12393",
+        "name": "Aiden Steht",
+        "school": "Memphis",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 9,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Aiden Steht gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 7.94",
+          "WHIP 2.21",
+          "K/9 8.7"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "7.94"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.21"
+          },
+          {
+            "label": "K/9",
+            "value": "8.7"
+          },
+          {
+            "label": "BB/9",
+            "value": "7.9"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.59"
+          },
+          {
+            "label": "IP",
+            "value": "11.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 43.04812834224598,
+          "Command": 2.0000000000000018,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/aiden-steht/12393",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12394",
+        "name": "Lance Bryan",
+        "school": "Memphis",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 15,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Lance Bryan looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 8.38",
+          "WHIP 1.86",
+          "K/9 10.2"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "8.38"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.86"
+          },
+          {
+            "label": "K/9",
+            "value": "10.2"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.86"
+          },
+          {
+            "label": "IP",
+            "value": "9.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 56.739811912225704,
+          "Command": 23.999999999999993,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/lance-bryan/12394",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12395",
+        "name": "Cade Hitson",
+        "school": "Memphis",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "JR",
+        "handedness": "L/L",
+        "score": 44,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cade Hitson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .308",
+          "OBP .393",
+          "SLG .462"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".308"
+          },
+          {
+            "label": "OBP",
+            "value": ".393"
+          },
+          {
+            "label": "SLG",
+            "value": ".462"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "11"
+          },
+          {
+            "label": "SB",
+            "value": "3"
+          }
+        ],
+        "components": {
+          "On-base": 62.77777777777778,
+          "Power": 37.36842105263159,
+          "Contact": 54.99999999999999,
+          "Discipline": 23.529411764705877,
+          "Speed": 10
+        },
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "L/L",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/cade-hitson/12395",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12396",
+        "name": "Gabe Boyd",
+        "school": "Memphis",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 3,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Gabe Boyd gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .250",
+          "OBP .250",
+          "SLG .250"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".250"
+          },
+          {
+            "label": "OBP",
+            "value": ".250"
+          },
+          {
+            "label": "SLG",
+            "value": ".250"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "1"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 18.75,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/gabe-boyd/12396",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12376",
+        "name": "CJ Willis",
+        "school": "Memphis",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "R-JR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "CJ Willis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .000",
+          "OBP .000",
+          "SLG .000"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".000"
+          },
+          {
+            "label": "OBP",
+            "value": ".000"
+          },
+          {
+            "label": "SLG",
+            "value": ".000"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "R-JR / L/R",
+        "detailBadges": [
+          "OF",
+          "R-JR",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/cj-willis/12376",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12359",
+        "name": "Michael Bright",
+        "school": "Memphis",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Michael Bright looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster"
+        ],
+        "sourceSummary": "Memphis Athletics roster",
+        "schoolSlug": "memphis",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/michael-bright/12359",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "memphis-12374",
+        "name": "James Smith IV",
+        "school": "Memphis",
+        "role": "Pitcher",
+        "position": "OF/RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "James Smith IV looks like a OF/RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "OF/RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Memphis Athletics roster",
+          "Memphis cumulative stats"
+        ],
+        "sourceSummary": "Memphis Athletics roster + Memphis cumulative stats",
+        "schoolSlug": "memphis",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gotigersgo.com/sports/baseball/roster/james-smith-iv/12374",
+        "espnAthleteId": ""
+      }
+    ]
+  }
+};
+

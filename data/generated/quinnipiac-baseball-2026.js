@@ -1,0 +1,7402 @@
+window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
+window.__BASEBALL_DATASETS__.quinnipiac2026 = {
+  "generatedAt": "2026-04-17T11:13:51.451Z",
+  "season": 2026,
+  "school": {
+    "slug": "quinnipiac",
+    "name": "Quinnipiac",
+    "longName": "Quinnipiac University",
+    "ncaaVerified": true,
+    "ncaaRecord": {
+      "slug": "quinnipiac",
+      "name": "Quinnipiac",
+      "long": "Quinnipiac University"
+    },
+    "espnDisplayName": "",
+    "espnSlug": "",
+    "rosterUrl": "https://gobobcats.com/sports/baseball/roster",
+    "statsUrl": "https://gobobcats.com/sports/baseball/stats/2026",
+    "pdfUrl": "https://s3.us-east-2.amazonaws.com/sidearm.nextgen.sites/quinnipiac.sidearmsports.com/stats/baseball/2026/pdf/cume.pdf"
+  },
+  "sources": {
+    "roster": "Quinnipiac Athletics roster",
+    "stats": "Quinnipiac Athletics cumulative stats",
+    "espn": "ESPN team identity verified, but Quinnipiac's public roster feed did not match the current 2026 school-site roster",
+    "ncaa": "NCAA school index"
+  },
+  "coverage": {
+    "rosterPlayers": 35,
+    "espnRosterPlayers": 0,
+    "playersWithHittingStats": 16,
+    "playersWithPitchingStats": 17,
+    "playersWithFieldingStats": 30,
+    "mergedPlayersWithAnyStats": 33,
+    "matchedEspnPlayers": 0,
+    "unmatchedStatRows": {
+      "hitting": [],
+      "pitching": [],
+      "fielding": []
+    }
+  },
+  "teamSummary": {
+    "record": "14-20, 7-8",
+    "battingAverage": ".267",
+    "earnedRunAverage": "6.47",
+    "wins": "14",
+    "losses": "20",
+    "hitting": {
+      "atBats": "1144",
+      "runsScored": "202",
+      "hits": "305",
+      "runsBattedIn": "183",
+      "doubles": "55",
+      "triples": "8",
+      "homeRuns": "20",
+      "walks": "193",
+      "intentionalWalks": "4",
+      "strikeouts": "236",
+      "strikeoutsLooking": "63",
+      "hitByPitch": "37",
+      "stolenBases": "46",
+      "caughtStealing": "20",
+      "sacrificeHits": "26",
+      "sacrificeFlies": "22",
+      "reachedOnCatchersInteference": "0",
+      "reachedOnError": "0",
+      "reachesOnAFieldersChoice": "0",
+      "groundOuts": "322",
+      "flyOuts": "279",
+      "groundedIntoDoublePlay": "19",
+      "pickedOff": "9",
+      "doublePlaysHitInto": "25",
+      "triplePlaysHitInto": "0"
+    },
+    "fielding": {
+      "putouts": "881",
+      "assists": "305",
+      "errors": "47",
+      "passedBalls": "16",
+      "catchersInterference": "0",
+      "stolenBasesAgainst": "59",
+      "caughtStealingBy": "10",
+      "involvedInDoublePlays": "20",
+      "involvedInTriplePlays": "0",
+      "totalChances": "1233",
+      "fieldingPercentage": ".962"
+    },
+    "pitching": {
+      "orderOfAppearance": "0",
+      "wins": "14",
+      "saves": "6",
+      "losses": "20",
+      "gamesStarted": "0",
+      "gamesCompleted": "0",
+      "shutouts": "0",
+      "creditForCombinedShutout": "0",
+      "inningsPitched": "293.2",
+      "hitsAllowed": "329",
+      "runsAllowed": "239",
+      "earnedRunsAllowed": "211",
+      "walksAllowed": "157",
+      "strikeouts": "309",
+      "battersFaced": "1410",
+      "opponentAtBats": "1172",
+      "doublesAllowed": "64",
+      "triplesAllowed": "7",
+      "homerunsAllowed": "19",
+      "wildPitches": "32",
+      "balks": "3",
+      "hitBatters": "54",
+      "strikeoutsLooking": "83",
+      "intentionalWalks": "0",
+      "inheritedRunners": "11",
+      "inheritedRunnersThatScored": "5",
+      "sacrificeHitsAllowed": "13",
+      "sacrificeFliesAllowed": "14",
+      "catchersInterferenceAllowed": "0",
+      "pitches": "4762",
+      "flyouts": "255",
+      "groundouts": "269",
+      "teamUnearnedRuns": "0",
+      "saveRecord": "2",
+      "pickoff": "5"
+    }
+  },
+  "players": [
+    {
+      "id": "quinnipiac-15079",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Peyton Vancas",
+      "normalizedName": "peyton vancas",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "FY",
+      "handedness": "R/R",
+      "jersey": "1",
+      "hometown": "Pleasant Gap, Pa.",
+      "highSchool": "Bellefonte Area",
+      "previousSchool": "",
+      "hometownHighSchool": "Pleasant Gap, Pa. / Bellefonte Area",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/peyton-vancas/15079",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Peyton_Vancas_It3wT.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15079",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "15079",
+        "name": "Peyton Vancas",
+        "normalizedName": "peyton vancas",
+        "jersey": "1",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/peyton-vancas/15079",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Peyton_Vancas_It3wT.jpg",
+        "gamesPlayed": 26,
+        "gamesStarted": 22,
+        "battingAverage": 0.282,
+        "onBasePercentage": 0.41,
+        "sluggingPercentage": 0.385,
+        "ops": 0.795,
+        "atBats": 78,
+        "runs": 13,
+        "hits": 22,
+        "doubles": 3,
+        "triples": 1,
+        "homeRuns": 1,
+        "runsBattedIn": 20,
+        "totalBases": 30,
+        "walks": 16,
+        "hitByPitch": 3,
+        "strikeouts": 14,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 3,
+        "sacrificeFlies": 3,
+        "sacrificeHits": 3,
+        "stolenBases": 4,
+        "stolenBasesAttempts": 6,
+        "putouts": 28,
+        "assists": 48,
+        "errors": 7,
+        "plateAppearances": 111,
+        "caughtStealing": 2,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "15079",
+        "name": "Peyton Vancas",
+        "normalizedName": "peyton vancas",
+        "jersey": "1",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/peyton-vancas/15079",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Peyton_Vancas_It3wT.jpg",
+        "gamesPlayed": 23,
+        "gamesStarted": 21,
+        "putouts": 28,
+        "assists": 48,
+        "errors": 7,
+        "fieldingPercentage": 0.916,
+        "doublePlays": 8,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 83
+      },
+      "evaluation": {
+        "score": 50,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 72.2222222222222,
+          "Power": 17.10526315789474,
+          "Contact": 38.74999999999998,
+          "Discipline": 100,
+          "Speed": 13.333333333333334
+        },
+        "summary": "Peyton Vancas profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .282",
+          "OBP .410",
+          "SLG .385"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".282"
+          },
+          {
+            "label": "OBP",
+            "value": ".410"
+          },
+          {
+            "label": "SLG",
+            "value": ".385"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "20"
+          },
+          {
+            "label": "SB",
+            "value": "4"
+          }
+        ],
+        "metaLine": "FY / R/R",
+        "detailBadges": [
+          "INF",
+          "FY",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15053",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Christian Smith",
+      "normalizedName": "christian smith",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C/1B",
+      "positionLong": "Catcher/ First Baseman",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "2",
+      "hometown": "Fairfield, Conn.",
+      "highSchool": "Fairfield Ludlowe",
+      "previousSchool": "",
+      "hometownHighSchool": "Fairfield, Conn. / Fairfield Ludlowe",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/christian-smith/15053",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Christian_NMxN7.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15053",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "15053",
+        "name": "Christian Smith",
+        "normalizedName": "christian smith",
+        "jersey": "2",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/christian-smith/15053",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Christian_NMxN7.jpg",
+        "gamesPlayed": 26,
+        "gamesStarted": 26,
+        "battingAverage": 0.275,
+        "onBasePercentage": 0.35,
+        "sluggingPercentage": 0.55,
+        "ops": 0.9,
+        "atBats": 109,
+        "runs": 22,
+        "hits": 30,
+        "doubles": 13,
+        "triples": 1,
+        "homeRuns": 5,
+        "runsBattedIn": 18,
+        "totalBases": 60,
+        "walks": 7,
+        "hitByPitch": 6,
+        "strikeouts": 23,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 2,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 203,
+        "assists": 10,
+        "errors": 2,
+        "plateAppearances": 123,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "15053",
+        "name": "Christian Smith",
+        "normalizedName": "christian smith",
+        "jersey": "2",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/christian-smith/15053",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Christian_NMxN7.jpg",
+        "gamesPlayed": 24,
+        "gamesStarted": 24,
+        "putouts": 203,
+        "assists": 10,
+        "errors": 2,
+        "fieldingPercentage": 0.991,
+        "doublePlays": 8,
+        "stolenBasesAgainst": 10,
+        "caughtStealingBy": 3,
+        "stolenBasesPercentage": 0.769,
+        "passedBalls": 4,
+        "catchersInterference": 0,
+        "totalChances": 215
+      },
+      "evaluation": {
+        "score": 36,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 38.888888888888864,
+          "Power": 60.526315789473706,
+          "Contact": 34.375000000000014,
+          "Discipline": 11.594202898550723,
+          "Speed": 0
+        },
+        "summary": "Christian Smith profiles as a C/1B piece who brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .275",
+          "OBP .350",
+          "SLG .550"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".275"
+          },
+          {
+            "label": "OBP",
+            "value": ".350"
+          },
+          {
+            "label": "SLG",
+            "value": ".550"
+          },
+          {
+            "label": "HR",
+            "value": "5"
+          },
+          {
+            "label": "RBI",
+            "value": "18"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "C/1B",
+          "SR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15076",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Timothy Park",
+      "normalizedName": "timothy park",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "FY",
+      "handedness": "R/R",
+      "jersey": "3",
+      "hometown": "Bridgewater, N.J.",
+      "highSchool": "Bridgewater-Raritan",
+      "previousSchool": "",
+      "hometownHighSchool": "Bridgewater, N.J. / Bridgewater-Raritan",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/timothy-park/15076",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Timothy_Park_TtGTq.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15076",
+      "sources": [
+        "Quinnipiac Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Timothy Park gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FY / R/R",
+        "detailBadges": [
+          "INF",
+          "FY",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster"
+      }
+    },
+    {
+      "id": "quinnipiac-15068",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Chase Camac",
+      "normalizedName": "chase camac",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "FY",
+      "handedness": "L/R",
+      "jersey": "4",
+      "hometown": "Northfield, N.J.",
+      "highSchool": "Mainland Regional",
+      "previousSchool": "",
+      "hometownHighSchool": "Northfield, N.J. / Mainland Regional",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/chase-camac/15068",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Chase_0w24I.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15068",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "15068",
+        "name": "Chase Camac",
+        "normalizedName": "chase camac",
+        "jersey": "4",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/chase-camac/15068",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Chase_0w24I.jpg",
+        "gamesPlayed": 28,
+        "gamesStarted": 23,
+        "battingAverage": 0.227,
+        "onBasePercentage": 0.33,
+        "sluggingPercentage": 0.273,
+        "ops": 0.603,
+        "atBats": 88,
+        "runs": 17,
+        "hits": 20,
+        "doubles": 4,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 14,
+        "totalBases": 24,
+        "walks": 15,
+        "hitByPitch": 0,
+        "strikeouts": 13,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 3,
+        "sacrificeHits": 2,
+        "stolenBases": 7,
+        "stolenBasesAttempts": 8,
+        "putouts": 49,
+        "assists": 0,
+        "errors": 1,
+        "plateAppearances": 117,
+        "caughtStealing": 1,
+        "pickedOff": 1
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "15068",
+        "name": "Chase Camac",
+        "normalizedName": "chase camac",
+        "jersey": "4",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/chase-camac/15068",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Chase_0w24I.jpg",
+        "gamesPlayed": 23,
+        "gamesStarted": 22,
+        "putouts": 49,
+        "assists": 0,
+        "errors": 1,
+        "fieldingPercentage": 0.98,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 50
+      },
+      "evaluation": {
+        "score": 26,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 27.777777777777775,
+          "Power": 0,
+          "Contact": 4.3750000000000036,
+          "Discipline": 100,
+          "Speed": 23.333333333333332
+        },
+        "summary": "Chase Camac profiles as a OF piece who controls at-bats.",
+        "summaryMetrics": [
+          "AVG .227",
+          "OBP .330",
+          "SLG .273"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".227"
+          },
+          {
+            "label": "OBP",
+            "value": ".330"
+          },
+          {
+            "label": "SLG",
+            "value": ".273"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "14"
+          },
+          {
+            "label": "SB",
+            "value": "7"
+          }
+        ],
+        "metaLine": "FY / L/R",
+        "detailBadges": [
+          "OF",
+          "FY",
+          "L/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15042",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "J.C. Franconere",
+      "normalizedName": "j c franconere",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left Handed Pitcher",
+      "classYear": "SO",
+      "handedness": "L/L",
+      "jersey": "5",
+      "hometown": "Sparta, N.J.",
+      "highSchool": "Pope John XXIII",
+      "previousSchool": "",
+      "hometownHighSchool": "Sparta, N.J. / Pope John XXIII",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/jc-franconere/15042",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/JC_Franconere_jctRa.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15042",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "15042",
+        "name": "J.C. Franconere",
+        "normalizedName": "j c franconere",
+        "jersey": "5",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/jc-franconere/15042",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/JC_Franconere_jctRa.jpg",
+        "gamesPlayed": 16,
+        "gamesStarted": 0,
+        "appearances": 16,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 4.18,
+        "whip": 1.44,
+        "wins": 1,
+        "losses": 1,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 23.666666666666668,
+        "inningsPitchedDisplay": "23.2",
+        "hitsAllowed": 22,
+        "runsAllowed": 12,
+        "earnedRunsAllowed": 11,
+        "walksAllowed": 12,
+        "strikeouts": 26,
+        "doublesAllowed": 4,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 93,
+        "wildPitches": 1,
+        "hitBatters": 1,
+        "balks": 0,
+        "opponentsBattingAverage": 0.237,
+        "walksHits": 34
+      },
+      "fieldingStats": {
+        "rosterBioId": "15042",
+        "name": "J.C. Franconere",
+        "normalizedName": "j c franconere",
+        "jersey": "5",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/jc-franconere/15042",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/JC_Franconere_jctRa.jpg",
+        "gamesPlayed": 8,
+        "gamesStarted": 0,
+        "putouts": 2,
+        "assists": 2,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 6,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 4
+      },
+      "evaluation": {
+        "score": 14,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 53.521126760563384,
+          "Command": 23.333333333333332,
+          "Damage suppression": 0
+        },
+        "summary": "J.C. Franconere looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 4.18",
+          "WHIP 1.44",
+          "K/9 9.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.18"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.44"
+          },
+          {
+            "label": "K/9",
+            "value": "9.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.6"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "23.7"
+          }
+        ],
+        "metaLine": "SO / L/L",
+        "detailBadges": [
+          "LHP",
+          "SO",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15043",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Kyle Garbowski",
+      "normalizedName": "kyle garbowski",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "JR",
+      "handedness": "L/R",
+      "jersey": "6",
+      "hometown": "New Fairfield, Conn.",
+      "highSchool": "New Fairfield",
+      "previousSchool": "",
+      "hometownHighSchool": "New Fairfield, Conn. / New Fairfield",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/kyle-garbowski/15043",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Kyle_Garbowski_jZnSt.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15043",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "15043",
+        "name": "Kyle Garbowski",
+        "normalizedName": "kyle garbowski",
+        "jersey": "6",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/kyle-garbowski/15043",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Kyle_Garbowski_jZnSt.jpg",
+        "gamesPlayed": 34,
+        "gamesStarted": 34,
+        "battingAverage": 0.285,
+        "onBasePercentage": 0.434,
+        "sluggingPercentage": 0.382,
+        "ops": 0.816,
+        "atBats": 123,
+        "runs": 19,
+        "hits": 35,
+        "doubles": 5,
+        "triples": 2,
+        "homeRuns": 1,
+        "runsBattedIn": 20,
+        "totalBases": 47,
+        "walks": 27,
+        "hitByPitch": 7,
+        "strikeouts": 14,
+        "intentionalWalks": 1,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 2,
+        "sacrificeHits": 7,
+        "stolenBases": 7,
+        "stolenBasesAttempts": 10,
+        "putouts": 71,
+        "assists": 74,
+        "errors": 7,
+        "plateAppearances": 179,
+        "caughtStealing": 3,
+        "pickedOff": 3
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "15043",
+        "name": "Kyle Garbowski",
+        "normalizedName": "kyle garbowski",
+        "jersey": "6",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/kyle-garbowski/15043",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Kyle_Garbowski_jZnSt.jpg",
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "putouts": 71,
+        "assists": 74,
+        "errors": 7,
+        "fieldingPercentage": 0.954,
+        "doublePlays": 12,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 152
+      },
+      "evaluation": {
+        "score": 55,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "components": {
+          "On-base": 85.55555555555554,
+          "Power": 16.315789473684212,
+          "Contact": 40.624999999999986,
+          "Discipline": 100,
+          "Speed": 23.333333333333332
+        },
+        "summary": "Kyle Garbowski profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .285",
+          "OBP .434",
+          "SLG .382"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".285"
+          },
+          {
+            "label": "OBP",
+            "value": ".434"
+          },
+          {
+            "label": "SLG",
+            "value": ".382"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "20"
+          },
+          {
+            "label": "SB",
+            "value": "7"
+          }
+        ],
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "L/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15080",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Caden Williamson",
+      "normalizedName": "caden williamson",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "FY",
+      "handedness": "R/R",
+      "jersey": "7",
+      "hometown": "Broomfield, Co.",
+      "highSchool": "Broomfield",
+      "previousSchool": "",
+      "hometownHighSchool": "Broomfield, Co. / Broomfield",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/caden-williamson/15080",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Caden_Williamson_lqAtn.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15080",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "15080",
+        "name": "Caden Williamson",
+        "normalizedName": "caden williamson",
+        "jersey": "7",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/caden-williamson/15080",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Caden_Williamson_lqAtn.jpg",
+        "gamesPlayed": 34,
+        "gamesStarted": 34,
+        "battingAverage": 0.319,
+        "onBasePercentage": 0.401,
+        "sluggingPercentage": 0.376,
+        "ops": 0.777,
+        "atBats": 141,
+        "runs": 25,
+        "hits": 45,
+        "doubles": 3,
+        "triples": 1,
+        "homeRuns": 1,
+        "runsBattedIn": 13,
+        "totalBases": 53,
+        "walks": 17,
+        "hitByPitch": 3,
+        "strikeouts": 26,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 5,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 3,
+        "stolenBases": 7,
+        "stolenBasesAttempts": 12,
+        "putouts": 58,
+        "assists": 5,
+        "errors": 1,
+        "plateAppearances": 182,
+        "caughtStealing": 5,
+        "pickedOff": 1
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "15080",
+        "name": "Caden Williamson",
+        "normalizedName": "caden williamson",
+        "jersey": "7",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/caden-williamson/15080",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Caden_Williamson_lqAtn.jpg",
+        "gamesPlayed": 30,
+        "gamesStarted": 30,
+        "putouts": 58,
+        "assists": 5,
+        "errors": 1,
+        "fieldingPercentage": 0.984,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 64
+      },
+      "evaluation": {
+        "score": 46,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 67.22222222222223,
+          "Power": 14.73684210526316,
+          "Contact": 61.875,
+          "Discipline": 50.42735042735041,
+          "Speed": 23.333333333333332
+        },
+        "summary": "Caden Williamson profiles as a OF piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .319",
+          "OBP .401",
+          "SLG .376"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".319"
+          },
+          {
+            "label": "OBP",
+            "value": ".401"
+          },
+          {
+            "label": "SLG",
+            "value": ".376"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "13"
+          },
+          {
+            "label": "SB",
+            "value": "7"
+          }
+        ],
+        "metaLine": "FY / R/R",
+        "detailBadges": [
+          "OF",
+          "FY",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15044",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Alex Irizarry",
+      "normalizedName": "alex irizarry",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "SR",
+      "handedness": "L/R",
+      "jersey": "8",
+      "hometown": "Tolland, Conn.",
+      "highSchool": "East Catholic",
+      "previousSchool": "Maryland",
+      "hometownHighSchool": "Tolland, Conn. / East Catholic",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/alex-irizarry/15044",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Alex_Irizarry_ndXmV.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15044",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "15044",
+        "name": "Alex Irizarry",
+        "normalizedName": "alex irizarry",
+        "jersey": "8",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/alex-irizarry/15044",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Alex_Irizarry_ndXmV.jpg",
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "battingAverage": 0.28,
+        "onBasePercentage": 0.426,
+        "sluggingPercentage": 0.424,
+        "ops": 0.85,
+        "atBats": 125,
+        "runs": 25,
+        "hits": 35,
+        "doubles": 6,
+        "triples": 0,
+        "homeRuns": 4,
+        "runsBattedIn": 24,
+        "totalBases": 53,
+        "walks": 32,
+        "hitByPitch": 2,
+        "strikeouts": 22,
+        "intentionalWalks": 2,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 3,
+        "sacrificeHits": 0,
+        "stolenBases": 5,
+        "stolenBasesAttempts": 6,
+        "putouts": 33,
+        "assists": 76,
+        "errors": 9,
+        "plateAppearances": 169,
+        "caughtStealing": 1,
+        "pickedOff": 2
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "15044",
+        "name": "Alex Irizarry",
+        "normalizedName": "alex irizarry",
+        "jersey": "8",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/alex-irizarry/15044",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Alex_Irizarry_ndXmV.jpg",
+        "gamesPlayed": 31,
+        "gamesStarted": 31,
+        "putouts": 33,
+        "assists": 76,
+        "errors": 9,
+        "fieldingPercentage": 0.924,
+        "doublePlays": 13,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 118
+      },
+      "evaluation": {
+        "score": 55,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "components": {
+          "On-base": 81.11111111111109,
+          "Power": 27.368421052631575,
+          "Contact": 37.500000000000014,
+          "Discipline": 100,
+          "Speed": 16.666666666666664
+        },
+        "summary": "Alex Irizarry profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .280",
+          "OBP .426",
+          "SLG .424"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".280"
+          },
+          {
+            "label": "OBP",
+            "value": ".426"
+          },
+          {
+            "label": "SLG",
+            "value": ".424"
+          },
+          {
+            "label": "HR",
+            "value": "4"
+          },
+          {
+            "label": "RBI",
+            "value": "24"
+          },
+          {
+            "label": "SB",
+            "value": "5"
+          }
+        ],
+        "metaLine": "SR / L/R",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "L/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15054",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Mason Ulsh",
+      "normalizedName": "mason ulsh",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right Handed Pitcher",
+      "classYear": "R-SR",
+      "handedness": "R/R",
+      "jersey": "9",
+      "hometown": "Auburn, Pa.",
+      "highSchool": "Schuylkill Haven",
+      "previousSchool": "",
+      "hometownHighSchool": "Auburn, Pa. / Schuylkill Haven",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/mason-ulsh/15054",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Mason_Ulsh_UAcYJ.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15054",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "15054",
+        "name": "Mason Ulsh",
+        "normalizedName": "mason ulsh",
+        "jersey": "9",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/mason-ulsh/15054",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Mason_Ulsh_UAcYJ.jpg",
+        "gamesPlayed": 12,
+        "gamesStarted": 0,
+        "appearances": 12,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 6.6,
+        "whip": 2,
+        "wins": 1,
+        "losses": 1,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 15,
+        "inningsPitchedDisplay": "15.0",
+        "hitsAllowed": 21,
+        "runsAllowed": 13,
+        "earnedRunsAllowed": 11,
+        "walksAllowed": 9,
+        "strikeouts": 24,
+        "doublesAllowed": 2,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 4,
+        "opponentsAtBats": 65,
+        "wildPitches": 4,
+        "hitBatters": 4,
+        "balks": 0,
+        "opponentsBattingAverage": 0.323,
+        "walksHits": 30
+      },
+      "fieldingStats": {
+        "rosterBioId": "15054",
+        "name": "Mason Ulsh",
+        "normalizedName": "mason ulsh",
+        "jersey": "9",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/mason-ulsh/15054",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Mason_Ulsh_UAcYJ.jpg",
+        "gamesPlayed": 5,
+        "gamesStarted": 0,
+        "putouts": 1,
+        "assists": 2,
+        "errors": 1,
+        "fieldingPercentage": 0.75,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 2,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 4
+      },
+      "evaluation": {
+        "score": 24,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 94.54545454545455,
+          "Command": 33.33333333333333,
+          "Damage suppression": 0
+        },
+        "summary": "Mason Ulsh looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 6.60",
+          "WHIP 2.00",
+          "K/9 14.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.60"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.00"
+          },
+          {
+            "label": "K/9",
+            "value": "14.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "2.40"
+          },
+          {
+            "label": "IP",
+            "value": "15.0"
+          }
+        ],
+        "metaLine": "R-SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15066",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Teagan Beames",
+      "normalizedName": "teagan beames",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right Handed Pitcher",
+      "classYear": "FY",
+      "handedness": "L/R",
+      "jersey": "10",
+      "hometown": "New Fairfield, Conn.",
+      "highSchool": "New Fairfield",
+      "previousSchool": "",
+      "hometownHighSchool": "New Fairfield, Conn. / New Fairfield",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/teagan-beames/15066",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Teagan_Beames_IuyNa.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15066",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "15066",
+        "name": "Teagan Beames",
+        "normalizedName": "teagan beames",
+        "jersey": "10",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/teagan-beames/15066",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Teagan_Beames_IuyNa.jpg",
+        "gamesPlayed": 2,
+        "gamesStarted": 0,
+        "appearances": 2,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 4.5,
+        "whip": 2,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 2,
+        "inningsPitchedDisplay": "2.0",
+        "hitsAllowed": 0,
+        "runsAllowed": 1,
+        "earnedRunsAllowed": 1,
+        "walksAllowed": 4,
+        "strikeouts": 0,
+        "doublesAllowed": 0,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 5,
+        "wildPitches": 0,
+        "hitBatters": 0,
+        "balks": 1,
+        "opponentsBattingAverage": 0,
+        "walksHits": 4
+      },
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Teagan Beames gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 4.50",
+          "WHIP 2.00",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.50"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.00"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "18.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "2.0"
+          }
+        ],
+        "metaLine": "FY / L/R",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "L/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15057",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Sam Wright",
+      "normalizedName": "sam wright",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right Handed Pitcher",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "11",
+      "hometown": "Ardmore, Pa.",
+      "highSchool": "Lower Merion",
+      "previousSchool": "",
+      "hometownHighSchool": "Ardmore, Pa. / Lower Merion",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/sam-wright/15057",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Sam_Wright_de5mt.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15057",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "15057",
+        "name": "Sam Wright",
+        "normalizedName": "sam wright",
+        "jersey": "11",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/sam-wright/15057",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Sam_Wright_de5mt.jpg",
+        "gamesPlayed": 8,
+        "gamesStarted": 8,
+        "appearances": 8,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 6.51,
+        "whip": 1.58,
+        "wins": 2,
+        "losses": 2,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 37.333333333333336,
+        "inningsPitchedDisplay": "37.1",
+        "hitsAllowed": 42,
+        "runsAllowed": 27,
+        "earnedRunsAllowed": 27,
+        "walksAllowed": 17,
+        "strikeouts": 31,
+        "doublesAllowed": 11,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 142,
+        "wildPitches": 4,
+        "hitBatters": 6,
+        "balks": 0,
+        "opponentsBattingAverage": 0.296,
+        "walksHits": 59
+      },
+      "fieldingStats": {
+        "rosterBioId": "15057",
+        "name": "Sam Wright",
+        "normalizedName": "sam wright",
+        "jersey": "11",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/sam-wright/15057",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Sam_Wright_de5mt.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 7,
+        "putouts": 0,
+        "assists": 7,
+        "errors": 2,
+        "fieldingPercentage": 0.778,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 5,
+        "caughtStealingBy": 2,
+        "stolenBasesPercentage": 0.714,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 9
+      },
+      "evaluation": {
+        "score": 9,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 31.574675324675322,
+          "Command": 16.470588235294116,
+          "Damage suppression": 0
+        },
+        "summary": "Sam Wright gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 6.51",
+          "WHIP 1.58",
+          "K/9 7.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.51"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.58"
+          },
+          {
+            "label": "K/9",
+            "value": "7.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.1"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.72"
+          },
+          {
+            "label": "IP",
+            "value": "37.3"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15045",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Josh Lajoie",
+      "normalizedName": "josh lajoie",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right Handed Pitcher",
+      "classYear": "GR",
+      "handedness": "R/R",
+      "jersey": "12",
+      "hometown": "Taunton, Mass.",
+      "highSchool": "Taunton",
+      "previousSchool": "Lipscomb",
+      "hometownHighSchool": "Taunton, Mass. / Taunton",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/josh-lajoie/15045",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Josh_Lajoie_pHvUp.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15045",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "15045",
+        "name": "Josh Lajoie",
+        "normalizedName": "josh lajoie",
+        "jersey": "12",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/josh-lajoie/15045",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Josh_Lajoie_pHvUp.jpg",
+        "gamesPlayed": 6,
+        "gamesStarted": 0,
+        "appearances": 6,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 5.4,
+        "whip": 2.04,
+        "wins": 1,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 8.333333333333334,
+        "inningsPitchedDisplay": "8.1",
+        "hitsAllowed": 10,
+        "runsAllowed": 8,
+        "earnedRunsAllowed": 5,
+        "walksAllowed": 7,
+        "strikeouts": 7,
+        "doublesAllowed": 1,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 36,
+        "wildPitches": 0,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.278,
+        "walksHits": 17
+      },
+      "fieldingStats": {
+        "rosterBioId": "15045",
+        "name": "Josh Lajoie",
+        "normalizedName": "josh lajoie",
+        "jersey": "12",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/josh-lajoie/15045",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Josh_Lajoie_pHvUp.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 5,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 1
+      },
+      "evaluation": {
+        "score": 6,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 32.36363636363636,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Josh Lajoie gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 5.40",
+          "WHIP 2.04",
+          "K/9 7.6"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.40"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.04"
+          },
+          {
+            "label": "K/9",
+            "value": "7.6"
+          },
+          {
+            "label": "BB/9",
+            "value": "7.6"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "8.3"
+          }
+        ],
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15049",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Matt Park",
+      "normalizedName": "matt park",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "13",
+      "hometown": "Bridgewater, N.J.",
+      "highSchool": "Gill St. Bernard's",
+      "previousSchool": "",
+      "hometownHighSchool": "Bridgewater, N.J. / Gill St. Bernard's",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/matt-park/15049",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Matt_Park_C67bg.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15049",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "15049",
+        "name": "Matt Park",
+        "normalizedName": "matt park",
+        "jersey": "13",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/matt-park/15049",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Matt_Park_C67bg.jpg",
+        "gamesPlayed": 20,
+        "gamesStarted": 18,
+        "battingAverage": 0.183,
+        "onBasePercentage": 0.359,
+        "sluggingPercentage": 0.25,
+        "ops": 0.609,
+        "atBats": 60,
+        "runs": 10,
+        "hits": 11,
+        "doubles": 2,
+        "triples": 1,
+        "homeRuns": 0,
+        "runsBattedIn": 9,
+        "totalBases": 15,
+        "walks": 14,
+        "hitByPitch": 3,
+        "strikeouts": 19,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 1,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 2,
+        "putouts": 62,
+        "assists": 18,
+        "errors": 4,
+        "plateAppearances": 83,
+        "caughtStealing": 2,
+        "pickedOff": 1
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "15049",
+        "name": "Matt Park",
+        "normalizedName": "matt park",
+        "jersey": "13",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/matt-park/15049",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Matt_Park_C67bg.jpg",
+        "gamesPlayed": 17,
+        "gamesStarted": 16,
+        "putouts": 62,
+        "assists": 18,
+        "errors": 4,
+        "fieldingPercentage": 0.952,
+        "doublePlays": 6,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 84
+      },
+      "evaluation": {
+        "score": 22,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 43.888888888888864,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 59.64912280701752,
+          "Speed": 0
+        },
+        "summary": "Matt Park gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .183",
+          "OBP .359",
+          "SLG .250"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".183"
+          },
+          {
+            "label": "OBP",
+            "value": ".359"
+          },
+          {
+            "label": "SLG",
+            "value": ".250"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "9"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15073",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Brayden Hromada",
+      "normalizedName": "brayden hromada",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "FY",
+      "handedness": "L/R",
+      "jersey": "16",
+      "hometown": "Center Moriches, N.Y.",
+      "highSchool": "Center Moriches",
+      "previousSchool": "",
+      "hometownHighSchool": "Center Moriches, N.Y. / Center Moriches",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/brayden-hromada/15073",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Brayden_Hromada_3gv8U.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15073",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "15073",
+        "name": "Brayden Hromada",
+        "normalizedName": "brayden hromada",
+        "jersey": "16",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/brayden-hromada/15073",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Brayden_Hromada_3gv8U.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 7,
+        "battingAverage": 0.231,
+        "onBasePercentage": 0.3,
+        "sluggingPercentage": 0.346,
+        "ops": 0.646,
+        "atBats": 26,
+        "runs": 4,
+        "hits": 6,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 6,
+        "totalBases": 9,
+        "walks": 2,
+        "hitByPitch": 1,
+        "strikeouts": 8,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 49,
+        "assists": 8,
+        "errors": 1,
+        "plateAppearances": 30,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "15073",
+        "name": "Brayden Hromada",
+        "normalizedName": "brayden hromada",
+        "jersey": "16",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/brayden-hromada/15073",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Brayden_Hromada_3gv8U.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 7,
+        "putouts": 49,
+        "assists": 8,
+        "errors": 1,
+        "fieldingPercentage": 0.983,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 18,
+        "caughtStealingBy": 3,
+        "stolenBasesPercentage": 0.857,
+        "passedBalls": 8,
+        "catchersInterference": 0,
+        "totalChances": 58
+      },
+      "evaluation": {
+        "score": 7,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 11.111111111111091,
+          "Power": 6.842105263157887,
+          "Contact": 6.875000000000006,
+          "Discipline": 5.555555555555554,
+          "Speed": 0
+        },
+        "summary": "Brayden Hromada gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .231",
+          "OBP .300",
+          "SLG .346"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".231"
+          },
+          {
+            "label": "OBP",
+            "value": ".300"
+          },
+          {
+            "label": "SLG",
+            "value": ".346"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "6"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FY / L/R",
+        "detailBadges": [
+          "C",
+          "FY",
+          "L/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15072",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Joseph Hiller",
+      "normalizedName": "joseph hiller",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right Handed Pitcher",
+      "classYear": "FY",
+      "handedness": "R/R",
+      "jersey": "17",
+      "hometown": "Center Moriches, N.Y.",
+      "highSchool": "Center Moriches",
+      "previousSchool": "",
+      "hometownHighSchool": "Center Moriches, N.Y. / Center Moriches",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/joseph-hiller/15072",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Joseph_Hiller_iz5Yg.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15072",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "15072",
+        "name": "Joseph Hiller",
+        "normalizedName": "joseph hiller",
+        "jersey": "17",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/joseph-hiller/15072",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Joseph_Hiller_iz5Yg.jpg",
+        "gamesPlayed": 8,
+        "gamesStarted": 2,
+        "appearances": 8,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 9,
+        "whip": 2,
+        "wins": 1,
+        "losses": 2,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 13,
+        "inningsPitchedDisplay": "13.0",
+        "hitsAllowed": 21,
+        "runsAllowed": 13,
+        "earnedRunsAllowed": 13,
+        "walksAllowed": 5,
+        "strikeouts": 15,
+        "doublesAllowed": 8,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 60,
+        "wildPitches": 6,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.35,
+        "walksHits": 26
+      },
+      "fieldingStats": {
+        "rosterBioId": "15072",
+        "name": "Joseph Hiller",
+        "normalizedName": "joseph hiller",
+        "jersey": "17",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/joseph-hiller/15072",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Joseph_Hiller_iz5Yg.jpg",
+        "gamesPlayed": 4,
+        "gamesStarted": 2,
+        "putouts": 1,
+        "assists": 3,
+        "errors": 1,
+        "fieldingPercentage": 0.8,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 1,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 5
+      },
+      "evaluation": {
+        "score": 18,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 58.04195804195804,
+          "Command": 40,
+          "Damage suppression": 0
+        },
+        "summary": "Joseph Hiller looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 9.00",
+          "WHIP 2.00",
+          "K/9 10.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "9.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.00"
+          },
+          {
+            "label": "K/9",
+            "value": "10.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.69"
+          },
+          {
+            "label": "IP",
+            "value": "13.0"
+          }
+        ],
+        "metaLine": "FY / R/R",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15078",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Kevin Rusinak",
+      "normalizedName": "kevin rusinak",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right Handed Pitcher",
+      "classYear": "FY",
+      "handedness": "L/R",
+      "jersey": "18",
+      "hometown": "Manalapan, N.J.",
+      "highSchool": "Manalapan",
+      "previousSchool": "",
+      "hometownHighSchool": "Manalapan, N.J. / Manalapan",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/kevin-rusinak/15078",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Kevin_Rusinak_qxikV.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15078",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "15078",
+        "name": "Kevin Rusinak",
+        "normalizedName": "kevin rusinak",
+        "jersey": "18",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/kevin-rusinak/15078",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Kevin_Rusinak_qxikV.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 1,
+        "appearances": 3,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 20.25,
+        "whip": 2.25,
+        "wins": 0,
+        "losses": 1,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 2.6666666666666665,
+        "inningsPitchedDisplay": "2.2",
+        "hitsAllowed": 4,
+        "runsAllowed": 6,
+        "earnedRunsAllowed": 6,
+        "walksAllowed": 2,
+        "strikeouts": 2,
+        "doublesAllowed": 0,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 12,
+        "wildPitches": 0,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.333,
+        "walksHits": 6
+      },
+      "fieldingStats": {
+        "rosterBioId": "15078",
+        "name": "Kevin Rusinak",
+        "normalizedName": "kevin rusinak",
+        "jersey": "18",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/kevin-rusinak/15078",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Kevin_Rusinak_qxikV.jpg",
+        "gamesPlayed": 2,
+        "gamesStarted": 1,
+        "putouts": 0,
+        "assists": 1,
+        "errors": 1,
+        "fieldingPercentage": 0.5,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 3,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 2
+      },
+      "evaluation": {
+        "score": 5,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 25,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Kevin Rusinak gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 20.25",
+          "WHIP 2.25",
+          "K/9 6.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "20.25"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.25"
+          },
+          {
+            "label": "K/9",
+            "value": "6.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "6.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "2.7"
+          }
+        ],
+        "metaLine": "FY / L/R",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "L/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15077",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "James Pazdera",
+      "normalizedName": "james pazdera",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right Handed Pitcher",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "19",
+      "hometown": "New Providence, N.J.",
+      "highSchool": "New Providence",
+      "previousSchool": "Ramapo (DIII)",
+      "hometownHighSchool": "New Providence, N.J. / New Providence",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/james-pazdera/15077",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/James_Pazdera_OQFaC.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15077",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "15077",
+        "name": "James Pazdera",
+        "normalizedName": "james pazdera",
+        "jersey": "19",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/james-pazdera/15077",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/James_Pazdera_OQFaC.jpg",
+        "gamesPlayed": 9,
+        "gamesStarted": 5,
+        "appearances": 9,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 6.82,
+        "whip": 1.71,
+        "wins": 1,
+        "losses": 3,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 31.666666666666668,
+        "inningsPitchedDisplay": "31.2",
+        "hitsAllowed": 32,
+        "runsAllowed": 30,
+        "earnedRunsAllowed": 24,
+        "walksAllowed": 22,
+        "strikeouts": 41,
+        "doublesAllowed": 8,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 126,
+        "wildPitches": 4,
+        "hitBatters": 10,
+        "balks": 0,
+        "opponentsBattingAverage": 0.254,
+        "walksHits": 54
+      },
+      "fieldingStats": {
+        "rosterBioId": "15077",
+        "name": "James Pazdera",
+        "normalizedName": "james pazdera",
+        "jersey": "19",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/james-pazdera/15077",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/James_Pazdera_OQFaC.jpg",
+        "gamesPlayed": 8,
+        "gamesStarted": 5,
+        "putouts": 1,
+        "assists": 3,
+        "errors": 2,
+        "fieldingPercentage": 0.667,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 9,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": 0.9,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 6
+      },
+      "evaluation": {
+        "score": 17,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 69.56937799043061,
+          "Command": 17.27272727272727,
+          "Damage suppression": 0
+        },
+        "summary": "James Pazdera looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 6.82",
+          "WHIP 1.71",
+          "K/9 11.7"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.82"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.71"
+          },
+          {
+            "label": "K/9",
+            "value": "11.7"
+          },
+          {
+            "label": "BB/9",
+            "value": "6.3"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.57"
+          },
+          {
+            "label": "IP",
+            "value": "31.7"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15069",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Brendan Edvardsen",
+      "normalizedName": "brendan edvardsen",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "GR",
+      "handedness": "R/R",
+      "jersey": "20",
+      "hometown": "Norwalk, Conn.",
+      "highSchool": "Norwalk",
+      "previousSchool": "AIC",
+      "hometownHighSchool": "Norwalk, Conn. / Norwalk",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/brendan-edvardsen/15069",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Brendan_Edvardsen_S77r5.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15069",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "15069",
+        "name": "Brendan Edvardsen",
+        "normalizedName": "brendan edvardsen",
+        "jersey": "20",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/brendan-edvardsen/15069",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Brendan_Edvardsen_S77r5.jpg",
+        "gamesPlayed": 6,
+        "gamesStarted": 6,
+        "battingAverage": 0.313,
+        "onBasePercentage": 0.45,
+        "sluggingPercentage": 0.5,
+        "ops": 0.95,
+        "atBats": 16,
+        "runs": 3,
+        "hits": 5,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 5,
+        "totalBases": 8,
+        "walks": 4,
+        "hitByPitch": 0,
+        "strikeouts": 2,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 1,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 1,
+        "putouts": 5,
+        "assists": 1,
+        "errors": 0,
+        "plateAppearances": 23,
+        "caughtStealing": 1,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "15069",
+        "name": "Brendan Edvardsen",
+        "normalizedName": "brendan edvardsen",
+        "jersey": "20",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/brendan-edvardsen/15069",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Brendan_Edvardsen_S77r5.jpg",
+        "gamesPlayed": 5,
+        "gamesStarted": 5,
+        "putouts": 5,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 6
+      },
+      "evaluation": {
+        "score": 67,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "components": {
+          "On-base": 94.44444444444444,
+          "Power": 47.36842105263158,
+          "Contact": 58.12499999999999,
+          "Discipline": 100,
+          "Speed": 0
+        },
+        "summary": "Brendan Edvardsen profiles as a OF piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .313",
+          "OBP .450",
+          "SLG .500"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".313"
+          },
+          {
+            "label": "OBP",
+            "value": ".450"
+          },
+          {
+            "label": "SLG",
+            "value": ".500"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "5"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "OF",
+          "GR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15070",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Ethan Freed",
+      "normalizedName": "ethan freed",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right Handed Pitcher",
+      "classYear": "FY",
+      "handedness": "R/R",
+      "jersey": "21",
+      "hometown": "Limerick, Pa.",
+      "highSchool": "Spring-Ford",
+      "previousSchool": "",
+      "hometownHighSchool": "Limerick, Pa. / Spring-Ford",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/ethan-freed/15070",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Ethan_RZPhu.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15070",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "15070",
+        "name": "Ethan Freed",
+        "normalizedName": "ethan freed",
+        "jersey": "21",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/ethan-freed/15070",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Ethan_RZPhu.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 0,
+        "appearances": 7,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 6.17,
+        "whip": 2.14,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 11.666666666666666,
+        "inningsPitchedDisplay": "11.2",
+        "hitsAllowed": 13,
+        "runsAllowed": 10,
+        "earnedRunsAllowed": 8,
+        "walksAllowed": 12,
+        "strikeouts": 14,
+        "doublesAllowed": 2,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 46,
+        "wildPitches": 0,
+        "hitBatters": 1,
+        "balks": 0,
+        "opponentsBattingAverage": 0.283,
+        "walksHits": 25
+      },
+      "fieldingStats": {
+        "rosterBioId": "15070",
+        "name": "Ethan Freed",
+        "normalizedName": "ethan freed",
+        "jersey": "21",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/ethan-freed/15070",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Ethan_RZPhu.jpg",
+        "gamesPlayed": 4,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 2,
+        "errors": 1,
+        "fieldingPercentage": 0.667,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 2,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 3
+      },
+      "evaluation": {
+        "score": 13,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 61.81818181818183,
+          "Command": 3.333333333333335,
+          "Damage suppression": 0
+        },
+        "summary": "Ethan Freed looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 6.17",
+          "WHIP 2.14",
+          "K/9 10.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.17"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.14"
+          },
+          {
+            "label": "K/9",
+            "value": "10.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "9.3"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "11.7"
+          }
+        ],
+        "metaLine": "FY / R/R",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15052",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Griffin Seibel",
+      "normalizedName": "griffin seibel",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right Handed Pitcher",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "22",
+      "hometown": "Glen Ridge, N.J.",
+      "highSchool": "Glen Ridge",
+      "previousSchool": "Xavier",
+      "hometownHighSchool": "Glen Ridge, N.J. / Glen Ridge",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/griffin-seibel/15052",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Griffin_Seibel_Auq7I.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15052",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "15052",
+        "name": "Griffin Seibel",
+        "normalizedName": "griffin seibel",
+        "jersey": "22",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/griffin-seibel/15052",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Griffin_Seibel_Auq7I.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "appearances": 1,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 162,
+        "whip": 15,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 0.3333333333333333,
+        "inningsPitchedDisplay": "0.1",
+        "hitsAllowed": 1,
+        "runsAllowed": 6,
+        "earnedRunsAllowed": 6,
+        "walksAllowed": 4,
+        "strikeouts": 0,
+        "doublesAllowed": 1,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 2,
+        "wildPitches": 0,
+        "hitBatters": 1,
+        "balks": 0,
+        "opponentsBattingAverage": 0.5,
+        "walksHits": 5
+      },
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Griffin Seibel gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 162.00",
+          "WHIP 15.00",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "162.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "15.00"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "108.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.3"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15041",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Cole Constable",
+      "normalizedName": "cole constable",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C/OF",
+      "positionLong": "Catcher/ Outfielder",
+      "classYear": "R-SO",
+      "handedness": "R/R",
+      "jersey": "23",
+      "hometown": "Erie, Pa.",
+      "highSchool": "Cathedral Prep",
+      "previousSchool": "Maryland",
+      "hometownHighSchool": "Erie, Pa. / Cathedral Prep",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/cole-constable/15041",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Cole_Constable_REC45.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15041",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "15041",
+        "name": "Cole Constable",
+        "normalizedName": "cole constable",
+        "jersey": "23",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/cole-constable/15041",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Cole_Constable_REC45.jpg",
+        "gamesPlayed": 23,
+        "gamesStarted": 22,
+        "battingAverage": 0.197,
+        "onBasePercentage": 0.337,
+        "sluggingPercentage": 0.25,
+        "ops": 0.587,
+        "atBats": 76,
+        "runs": 15,
+        "hits": 15,
+        "doubles": 1,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 11,
+        "totalBases": 19,
+        "walks": 13,
+        "hitByPitch": 4,
+        "strikeouts": 10,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 2,
+        "sacrificeFlies": 2,
+        "sacrificeHits": 3,
+        "stolenBases": 7,
+        "stolenBasesAttempts": 7,
+        "putouts": 196,
+        "assists": 14,
+        "errors": 0,
+        "plateAppearances": 105,
+        "caughtStealing": 0,
+        "pickedOff": 1
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "15041",
+        "name": "Cole Constable",
+        "normalizedName": "cole constable",
+        "jersey": "23",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/cole-constable/15041",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Cole_Constable_REC45.jpg",
+        "gamesPlayed": 22,
+        "gamesStarted": 21,
+        "putouts": 196,
+        "assists": 14,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 31,
+        "caughtStealingBy": 4,
+        "stolenBasesPercentage": 0.886,
+        "passedBalls": 4,
+        "catchersInterference": 0,
+        "totalChances": 210
+      },
+      "evaluation": {
+        "score": 26,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 31.666666666666664,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 100,
+          "Speed": 23.333333333333332
+        },
+        "summary": "Cole Constable profiles as a C/OF piece who controls at-bats.",
+        "summaryMetrics": [
+          "AVG .197",
+          "OBP .337",
+          "SLG .250"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".197"
+          },
+          {
+            "label": "OBP",
+            "value": ".337"
+          },
+          {
+            "label": "SLG",
+            "value": ".250"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "11"
+          },
+          {
+            "label": "SB",
+            "value": "7"
+          }
+        ],
+        "metaLine": "R-SO / R/R",
+        "detailBadges": [
+          "C/OF",
+          "R-SO",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15048",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Ian Nilsen",
+      "normalizedName": "ian nilsen",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "CIF",
+      "positionLong": "Corner Infielder",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "24",
+      "hometown": "Easton, Conn.",
+      "highSchool": "Joel Barlow",
+      "previousSchool": "",
+      "hometownHighSchool": "Easton, Conn. / Joel Barlow",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/ian-nilsen/15048",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/IanNilsen_qm9Yv.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15048",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "15048",
+        "name": "Ian Nilsen",
+        "normalizedName": "ian nilsen",
+        "jersey": "24",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/ian-nilsen/15048",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/IanNilsen_qm9Yv.jpg",
+        "gamesPlayed": 10,
+        "gamesStarted": 8,
+        "battingAverage": 0.259,
+        "onBasePercentage": 0.429,
+        "sluggingPercentage": 0.481,
+        "ops": 0.91,
+        "atBats": 27,
+        "runs": 9,
+        "hits": 7,
+        "doubles": 3,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 1,
+        "totalBases": 13,
+        "walks": 7,
+        "hitByPitch": 1,
+        "strikeouts": 13,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 1,
+        "putouts": 11,
+        "assists": 9,
+        "errors": 2,
+        "plateAppearances": 37,
+        "caughtStealing": 1,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "15048",
+        "name": "Ian Nilsen",
+        "normalizedName": "ian nilsen",
+        "jersey": "24",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/ian-nilsen/15048",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/IanNilsen_qm9Yv.jpg",
+        "gamesPlayed": 9,
+        "gamesStarted": 8,
+        "putouts": 11,
+        "assists": 9,
+        "errors": 2,
+        "fieldingPercentage": 0.909,
+        "doublePlays": 2,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 22
+      },
+      "evaluation": {
+        "score": 47,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 82.77777777777776,
+          "Power": 42.368421052631575,
+          "Contact": 24.375000000000004,
+          "Discipline": 37.606837606837594,
+          "Speed": 0
+        },
+        "summary": "Ian Nilsen profiles as a CIF piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .259",
+          "OBP .429",
+          "SLG .481"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".259"
+          },
+          {
+            "label": "OBP",
+            "value": ".429"
+          },
+          {
+            "label": "SLG",
+            "value": ".481"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "1"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "CIF",
+          "SO",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15047",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Christian Nilsen",
+      "normalizedName": "christian nilsen",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "1B",
+      "positionLong": "First Baseman",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "25",
+      "hometown": "Easton, Conn.",
+      "highSchool": "Joel Barlow",
+      "previousSchool": "",
+      "hometownHighSchool": "Easton, Conn. / Joel Barlow",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/christian-nilsen/15047",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Christian_Nilsen_s3foV.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15047",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "15047",
+        "name": "Christian Nilsen",
+        "normalizedName": "christian nilsen",
+        "jersey": "25",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/christian-nilsen/15047",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Christian_Nilsen_s3foV.jpg",
+        "gamesPlayed": 6,
+        "gamesStarted": 5,
+        "battingAverage": 0.182,
+        "onBasePercentage": 0.217,
+        "sluggingPercentage": 0.273,
+        "ops": 0.49,
+        "atBats": 22,
+        "runs": 2,
+        "hits": 4,
+        "doubles": 0,
+        "triples": 1,
+        "homeRuns": 0,
+        "runsBattedIn": 0,
+        "totalBases": 6,
+        "walks": 1,
+        "hitByPitch": 0,
+        "strikeouts": 12,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 1,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 1,
+        "putouts": 34,
+        "assists": 3,
+        "errors": 0,
+        "plateAppearances": 25,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "15047",
+        "name": "Christian Nilsen",
+        "normalizedName": "christian nilsen",
+        "jersey": "25",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/christian-nilsen/15047",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Christian_Nilsen_s3foV.jpg",
+        "gamesPlayed": 5,
+        "gamesStarted": 4,
+        "putouts": 34,
+        "assists": 3,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 37
+      },
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 3.3333333333333335
+        },
+        "summary": "Christian Nilsen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .182",
+          "OBP .217",
+          "SLG .273"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".182"
+          },
+          {
+            "label": "OBP",
+            "value": ".217"
+          },
+          {
+            "label": "SLG",
+            "value": ".273"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "1B",
+          "SO",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15058",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Luke Zeisloft",
+      "normalizedName": "luke zeisloft",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "SR",
+      "handedness": "N/A",
+      "jersey": "26",
+      "hometown": "Bloomsburg, Pa.",
+      "highSchool": "Central Columbia",
+      "previousSchool": "Maryland",
+      "hometownHighSchool": "Bloomsburg, Pa. / Central Columbia",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/luke-zeisloft/15058",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Luke_Zeisloft_KtvHU.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15058",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "15058",
+        "name": "Luke Zeisloft",
+        "normalizedName": "luke zeisloft",
+        "jersey": "26",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/luke-zeisloft/15058",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Luke_Zeisloft_KtvHU.jpg",
+        "gamesPlayed": 18,
+        "gamesStarted": 11,
+        "battingAverage": 0.143,
+        "onBasePercentage": 0.295,
+        "sluggingPercentage": 0.171,
+        "ops": 0.466,
+        "atBats": 35,
+        "runs": 2,
+        "hits": 5,
+        "doubles": 1,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 3,
+        "totalBases": 6,
+        "walks": 8,
+        "hitByPitch": 0,
+        "strikeouts": 10,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 2,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 2,
+        "putouts": 22,
+        "assists": 1,
+        "errors": 1,
+        "plateAppearances": 49,
+        "caughtStealing": 1,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "15058",
+        "name": "Luke Zeisloft",
+        "normalizedName": "luke zeisloft",
+        "jersey": "26",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/luke-zeisloft/15058",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Luke_Zeisloft_KtvHU.jpg",
+        "gamesPlayed": 13,
+        "gamesStarted": 10,
+        "putouts": 22,
+        "assists": 1,
+        "errors": 1,
+        "fieldingPercentage": 0.958,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 24
+      },
+      "evaluation": {
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 8.33333333333331,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 66.66666666666666,
+          "Speed": 3.3333333333333335
+        },
+        "summary": "Luke Zeisloft gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .143",
+          "OBP .295",
+          "SLG .171"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".143"
+          },
+          {
+            "label": "OBP",
+            "value": ".295"
+          },
+          {
+            "label": "SLG",
+            "value": ".171"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "3"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "N/A",
+          "Hitter"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15050",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Mike Poncini",
+      "normalizedName": "mike poncini",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right Handed Pitcher",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "27",
+      "hometown": "Hebron, Conn.",
+      "highSchool": "RHAM",
+      "previousSchool": "",
+      "hometownHighSchool": "Hebron, Conn. / RHAM",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/mike-poncini/15050",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Mike_Poncini_GIvn5.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15050",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "15050",
+        "name": "Mike Poncini",
+        "normalizedName": "mike poncini",
+        "jersey": "27",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/mike-poncini/15050",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Mike_Poncini_GIvn5.jpg",
+        "gamesPlayed": 11,
+        "gamesStarted": 1,
+        "appearances": 11,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 5.4,
+        "whip": 1.34,
+        "wins": 0,
+        "losses": 2,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 21.666666666666668,
+        "inningsPitchedDisplay": "21.2",
+        "hitsAllowed": 22,
+        "runsAllowed": 16,
+        "earnedRunsAllowed": 13,
+        "walksAllowed": 7,
+        "strikeouts": 23,
+        "doublesAllowed": 2,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 86,
+        "wildPitches": 2,
+        "hitBatters": 8,
+        "balks": 1,
+        "opponentsBattingAverage": 0.256,
+        "walksHits": 29
+      },
+      "fieldingStats": {
+        "rosterBioId": "15050",
+        "name": "Mike Poncini",
+        "normalizedName": "mike poncini",
+        "jersey": "27",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/mike-poncini/15050",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Mike_Poncini_GIvn5.jpg",
+        "gamesPlayed": 6,
+        "gamesStarted": 0,
+        "putouts": 2,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 4,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": 0.8,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 2
+      },
+      "evaluation": {
+        "score": 17,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 50.489510489510494,
+          "Command": 45.714285714285715,
+          "Damage suppression": 0
+        },
+        "summary": "Mike Poncini looks like a RHP option who misses bats and throws enough strikes.",
+        "summaryMetrics": [
+          "ERA 5.40",
+          "WHIP 1.34",
+          "K/9 9.6"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.40"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.34"
+          },
+          {
+            "label": "K/9",
+            "value": "9.6"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.9"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.42"
+          },
+          {
+            "label": "IP",
+            "value": "21.7"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15075",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Frank Orrei",
+      "normalizedName": "frank orrei",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "1B",
+      "positionLong": "First Baseman",
+      "classYear": "FY",
+      "handedness": "N/A",
+      "jersey": "28",
+      "hometown": "Verona, N.J.",
+      "highSchool": "Verona",
+      "previousSchool": "",
+      "hometownHighSchool": "Verona, N.J. / Verona",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/frank-orrei/15075",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Frank_e4UkV.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15075",
+      "sources": [
+        "Quinnipiac Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Frank Orrei gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "1B",
+          "FY",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster"
+      }
+    },
+    {
+      "id": "quinnipiac-15071",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Langdon Hazen",
+      "normalizedName": "langdon hazen",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right Handed Pitcher",
+      "classYear": "FY",
+      "handedness": "R/R",
+      "jersey": "29",
+      "hometown": "Underhill, V.T.",
+      "highSchool": "Mount Mansfield Union",
+      "previousSchool": "",
+      "hometownHighSchool": "Underhill, V.T. / Mount Mansfield Union",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/langdon-hazen/15071",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Langdon_lx2Ey.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15071",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "15071",
+        "name": "Langdon Hazen",
+        "normalizedName": "langdon hazen",
+        "jersey": "29",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/langdon-hazen/15071",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Langdon_lx2Ey.jpg",
+        "gamesPlayed": 2,
+        "gamesStarted": 0,
+        "appearances": 2,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 10.12,
+        "whip": 2.25,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 2.6666666666666665,
+        "inningsPitchedDisplay": "2.2",
+        "hitsAllowed": 3,
+        "runsAllowed": 5,
+        "earnedRunsAllowed": 3,
+        "walksAllowed": 3,
+        "strikeouts": 0,
+        "doublesAllowed": 1,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 11,
+        "wildPitches": 0,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.273,
+        "walksHits": 6
+      },
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Langdon Hazen gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 10.12",
+          "WHIP 2.25",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "10.12"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.25"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "10.1"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "2.7"
+          }
+        ],
+        "metaLine": "FY / R/R",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15074",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Maddex Labuda",
+      "normalizedName": "maddex labuda",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right Handed Pitcher",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "33",
+      "hometown": "Boiling Springs, Pa.",
+      "highSchool": "Boiling Springs",
+      "previousSchool": "Liberty",
+      "hometownHighSchool": "Boiling Springs, Pa. / Boiling Springs",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/maddex-labuda/15074",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Maddex_LaBuda_br84U.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15074",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "15074",
+        "name": "Maddex Labuda",
+        "normalizedName": "maddex labuda",
+        "jersey": "33",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/maddex-labuda/15074",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Maddex_LaBuda_br84U.jpg",
+        "gamesPlayed": 7,
+        "gamesStarted": 0,
+        "appearances": 7,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 11,
+        "whip": 2.56,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 9,
+        "inningsPitchedDisplay": "9.0",
+        "hitsAllowed": 13,
+        "runsAllowed": 12,
+        "earnedRunsAllowed": 11,
+        "walksAllowed": 10,
+        "strikeouts": 7,
+        "doublesAllowed": 1,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 35,
+        "wildPitches": 1,
+        "hitBatters": 0,
+        "balks": 0,
+        "opponentsBattingAverage": 0.371,
+        "walksHits": 23
+      },
+      "fieldingStats": {
+        "rosterBioId": "15074",
+        "name": "Maddex Labuda",
+        "normalizedName": "maddex labuda",
+        "jersey": "33",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/maddex-labuda/15074",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Maddex_LaBuda_br84U.jpg",
+        "gamesPlayed": 4,
+        "gamesStarted": 0,
+        "putouts": 2,
+        "assists": 1,
+        "errors": 1,
+        "fieldingPercentage": 0.75,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 4,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": 1,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 4
+      },
+      "evaluation": {
+        "score": 5,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 27.27272727272727,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Maddex Labuda gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 11.00",
+          "WHIP 2.56",
+          "K/9 7.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "11.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.56"
+          },
+          {
+            "label": "K/9",
+            "value": "7.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "10.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.00"
+          },
+          {
+            "label": "IP",
+            "value": "9.0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15038",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Matt Alduino",
+      "normalizedName": "matt alduino",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left Handed Pitcher",
+      "classYear": "SR",
+      "handedness": "L/L",
+      "jersey": "34",
+      "hometown": "Yorktown Heights, N.Y.",
+      "highSchool": "Yorktown",
+      "previousSchool": "",
+      "hometownHighSchool": "Yorktown Heights, N.Y. / Yorktown",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/matt-alduino/15038",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Matt_Alduino_XL7aa.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15038",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "15038",
+        "name": "Matt Alduino",
+        "normalizedName": "matt alduino",
+        "jersey": "34",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/matt-alduino/15038",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Matt_Alduino_XL7aa.jpg",
+        "gamesPlayed": 15,
+        "gamesStarted": 0,
+        "appearances": 15,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 1.71,
+        "whip": 0.81,
+        "wins": 2,
+        "losses": 1,
+        "saves": 4,
+        "shutouts": 0,
+        "inningsPitched": 21,
+        "inningsPitchedDisplay": "21.0",
+        "hitsAllowed": 8,
+        "runsAllowed": 4,
+        "earnedRunsAllowed": 4,
+        "walksAllowed": 9,
+        "strikeouts": 23,
+        "doublesAllowed": 0,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 69,
+        "wildPitches": 0,
+        "hitBatters": 1,
+        "balks": 0,
+        "opponentsBattingAverage": 0.116,
+        "walksHits": 17
+      },
+      "fieldingStats": {
+        "rosterBioId": "15038",
+        "name": "Matt Alduino",
+        "normalizedName": "matt alduino",
+        "jersey": "34",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/matt-alduino/15038",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Matt_Alduino_XL7aa.jpg",
+        "gamesPlayed": 2,
+        "gamesStarted": 0,
+        "putouts": 1,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 2
+      },
+      "evaluation": {
+        "score": 16,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 53.24675324675325,
+          "Command": 31.111111111111118,
+          "Damage suppression": 0
+        },
+        "summary": "Matt Alduino looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 1.71",
+          "WHIP 0.81",
+          "K/9 9.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "1.71"
+          },
+          {
+            "label": "WHIP",
+            "value": "0.81"
+          },
+          {
+            "label": "K/9",
+            "value": "9.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.9"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "21.0"
+          }
+        ],
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15040",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Nick Balcom",
+      "normalizedName": "nick balcom",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right Handed Pitcher",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "35",
+      "hometown": "Camden, N.Y.",
+      "highSchool": "Camden",
+      "previousSchool": "Finger Lakes CC",
+      "hometownHighSchool": "Camden, N.Y. / Camden",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/nick-balcom/15040",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Nick_Balcom_tPWwv.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15040",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "15040",
+        "name": "Nick Balcom",
+        "normalizedName": "nick balcom",
+        "jersey": "35",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/nick-balcom/15040",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Nick_Balcom_tPWwv.jpg",
+        "gamesPlayed": 11,
+        "gamesStarted": 5,
+        "appearances": 11,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 8.53,
+        "whip": 1.86,
+        "wins": 1,
+        "losses": 5,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 25.333333333333332,
+        "inningsPitchedDisplay": "25.1",
+        "hitsAllowed": 32,
+        "runsAllowed": 25,
+        "earnedRunsAllowed": 24,
+        "walksAllowed": 15,
+        "strikeouts": 30,
+        "doublesAllowed": 9,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 105,
+        "wildPitches": 2,
+        "hitBatters": 4,
+        "balks": 0,
+        "opponentsBattingAverage": 0.305,
+        "walksHits": 47
+      },
+      "fieldingStats": {
+        "rosterBioId": "15040",
+        "name": "Nick Balcom",
+        "normalizedName": "nick balcom",
+        "jersey": "35",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/nick-balcom/15040",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Nick_Balcom_tPWwv.jpg",
+        "gamesPlayed": 6,
+        "gamesStarted": 2,
+        "putouts": 1,
+        "assists": 5,
+        "errors": 1,
+        "fieldingPercentage": 0.857,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 7
+      },
+      "evaluation": {
+        "score": 15,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 60.52631578947369,
+          "Command": 20,
+          "Damage suppression": 0
+        },
+        "summary": "Nick Balcom looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 8.53",
+          "WHIP 1.86",
+          "K/9 10.7"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "8.53"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.86"
+          },
+          {
+            "label": "K/9",
+            "value": "10.7"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.3"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.07"
+          },
+          {
+            "label": "IP",
+            "value": "25.3"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15046",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "James Marino",
+      "normalizedName": "james marino",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "GR",
+      "handedness": "L/R",
+      "jersey": "36",
+      "hometown": "Milford, Conn.",
+      "highSchool": "Jonathan Law",
+      "previousSchool": "",
+      "hometownHighSchool": "Milford, Conn. / Jonathan Law",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/james-marino/15046",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/James_Marino_t1bfR.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15046",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "15046",
+        "name": "James Marino",
+        "normalizedName": "james marino",
+        "jersey": "36",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/james-marino/15046",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/James_Marino_t1bfR.jpg",
+        "gamesPlayed": 26,
+        "gamesStarted": 25,
+        "battingAverage": 0.33,
+        "onBasePercentage": 0.45,
+        "sluggingPercentage": 0.58,
+        "ops": 1.03,
+        "atBats": 88,
+        "runs": 18,
+        "hits": 29,
+        "doubles": 8,
+        "triples": 1,
+        "homeRuns": 4,
+        "runsBattedIn": 23,
+        "totalBases": 51,
+        "walks": 13,
+        "hitByPitch": 7,
+        "strikeouts": 26,
+        "intentionalWalks": 1,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 3,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 3,
+        "putouts": 38,
+        "assists": 2,
+        "errors": 1,
+        "plateAppearances": 117,
+        "caughtStealing": 2,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "15046",
+        "name": "James Marino",
+        "normalizedName": "james marino",
+        "jersey": "36",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/james-marino/15046",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/James_Marino_t1bfR.jpg",
+        "gamesPlayed": 21,
+        "gamesStarted": 21,
+        "putouts": 38,
+        "assists": 2,
+        "errors": 1,
+        "fieldingPercentage": 0.976,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 41
+      },
+      "evaluation": {
+        "score": 65,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "components": {
+          "On-base": 94.44444444444444,
+          "Power": 68.42105263157895,
+          "Contact": 68.75000000000001,
+          "Discipline": 33.33333333333333,
+          "Speed": 3.3333333333333335
+        },
+        "summary": "James Marino profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .330",
+          "OBP .450",
+          "SLG .580"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".330"
+          },
+          {
+            "label": "OBP",
+            "value": ".450"
+          },
+          {
+            "label": "SLG",
+            "value": ".580"
+          },
+          {
+            "label": "HR",
+            "value": "4"
+          },
+          {
+            "label": "RBI",
+            "value": "23"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "metaLine": "GR / L/R",
+        "detailBadges": [
+          "OF",
+          "GR",
+          "L/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15067",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Jacob Belecky",
+      "normalizedName": "jacob belecky",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right Handed Pitcher",
+      "classYear": "FY",
+      "handedness": "R/R",
+      "jersey": "37",
+      "hometown": "Komoka, Ontario, Canada",
+      "highSchool": "Medway Secondary",
+      "previousSchool": "",
+      "hometownHighSchool": "Komoka, Ontario, Canada / Medway Secondary",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/jacob-belecky/15067",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Jacob_Belecky_cshHA.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15067",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "15067",
+        "name": "Jacob Belecky",
+        "normalizedName": "jacob belecky",
+        "jersey": "37",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/jacob-belecky/15067",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Jacob_Belecky_cshHA.jpg",
+        "gamesPlayed": 10,
+        "gamesStarted": 4,
+        "appearances": 10,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 7.5,
+        "whip": 1.75,
+        "wins": 1,
+        "losses": 1,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 24,
+        "inningsPitchedDisplay": "24.0",
+        "hitsAllowed": 33,
+        "runsAllowed": 24,
+        "earnedRunsAllowed": 20,
+        "walksAllowed": 9,
+        "strikeouts": 20,
+        "doublesAllowed": 5,
+        "triplesAllowed": 2,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 104,
+        "wildPitches": 2,
+        "hitBatters": 6,
+        "balks": 1,
+        "opponentsBattingAverage": 0.317,
+        "walksHits": 42
+      },
+      "fieldingStats": {
+        "rosterBioId": "15067",
+        "name": "Jacob Belecky",
+        "normalizedName": "jacob belecky",
+        "jersey": "37",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/jacob-belecky/15067",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Jacob_Belecky_cshHA.jpg",
+        "gamesPlayed": 5,
+        "gamesStarted": 2,
+        "putouts": 0,
+        "assists": 2,
+        "errors": 1,
+        "fieldingPercentage": 0.667,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 7,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": 0.875,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 3
+      },
+      "evaluation": {
+        "score": 10,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 31.818181818181817,
+          "Command": 24.444444444444446,
+          "Damage suppression": 0
+        },
+        "summary": "Jacob Belecky gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 7.50",
+          "WHIP 1.75",
+          "K/9 7.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "7.50"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.75"
+          },
+          {
+            "label": "K/9",
+            "value": "7.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.75"
+          },
+          {
+            "label": "IP",
+            "value": "24.0"
+          }
+        ],
+        "metaLine": "FY / R/R",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15065",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Jack Balcer",
+      "normalizedName": "jack balcer",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF/1B",
+      "positionLong": "Outfielder/First Baseman",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "39",
+      "hometown": "Lower Merion, Pa.",
+      "highSchool": "Tilton",
+      "previousSchool": "Widener (DIII)",
+      "hometownHighSchool": "Lower Merion, Pa. / Tilton",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/jack-balcer/15065",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Jack_Balcer_Z8sgH.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15065",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "15065",
+        "name": "Jack Balcer",
+        "normalizedName": "jack balcer",
+        "jersey": "39",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/jack-balcer/15065",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Jack_Balcer_Z8sgH.jpg",
+        "gamesPlayed": 32,
+        "gamesStarted": 31,
+        "battingAverage": 0.283,
+        "onBasePercentage": 0.356,
+        "sluggingPercentage": 0.331,
+        "ops": 0.687,
+        "atBats": 127,
+        "runs": 17,
+        "hits": 36,
+        "doubles": 6,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 16,
+        "totalBases": 42,
+        "walks": 16,
+        "hitByPitch": 0,
+        "strikeouts": 23,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 3,
+        "sacrificeFlies": 3,
+        "sacrificeHits": 0,
+        "stolenBases": 6,
+        "stolenBasesAttempts": 7,
+        "putouts": 6,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 154,
+        "caughtStealing": 1,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "15065",
+        "name": "Jack Balcer",
+        "normalizedName": "jack balcer",
+        "jersey": "39",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/jack-balcer/15065",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Jack_Balcer_Z8sgH.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 3,
+        "putouts": 6,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 6
+      },
+      "evaluation": {
+        "score": 31,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 42.2222222222222,
+          "Power": 2.8947368421052664,
+          "Contact": 39.374999999999986,
+          "Discipline": 55.07246376811593,
+          "Speed": 20
+        },
+        "summary": "Jack Balcer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .283",
+          "OBP .356",
+          "SLG .331"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".283"
+          },
+          {
+            "label": "OBP",
+            "value": ".356"
+          },
+          {
+            "label": "SLG",
+            "value": ".331"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "16"
+          },
+          {
+            "label": "SB",
+            "value": "6"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "OF/1B",
+          "JR",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15039",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Sam Ametrano",
+      "normalizedName": "sam ametrano",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "JR",
+      "handedness": "L/L",
+      "jersey": "44",
+      "hometown": "Guilford, Conn.",
+      "highSchool": "Guilford",
+      "previousSchool": "",
+      "hometownHighSchool": "Guilford, Conn. / Guilford",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/sam-ametrano/15039",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Sam_Ametrano_LqmTk.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15039",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "15039",
+        "name": "Sam Ametrano",
+        "normalizedName": "sam ametrano",
+        "jersey": "44",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/sam-ametrano/15039",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Sam_Ametrano_LqmTk.jpg",
+        "gamesPlayed": 4,
+        "gamesStarted": 1,
+        "battingAverage": 0,
+        "onBasePercentage": 0.25,
+        "sluggingPercentage": 0,
+        "ops": 0.25,
+        "atBats": 3,
+        "runs": 1,
+        "hits": 0,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 0,
+        "totalBases": 0,
+        "walks": 1,
+        "hitByPitch": 0,
+        "strikeouts": 1,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 3,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 4,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "15039",
+        "name": "Sam Ametrano",
+        "normalizedName": "sam ametrano",
+        "jersey": "44",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/sam-ametrano/15039",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Sam_Ametrano_LqmTk.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 1,
+        "putouts": 3,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 3
+      },
+      "evaluation": {
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 88.88888888888889,
+          "Speed": 0
+        },
+        "summary": "Sam Ametrano profiles as a OF piece who controls at-bats.",
+        "summaryMetrics": [
+          "AVG .000",
+          "OBP .250",
+          "SLG .000"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".000"
+          },
+          {
+            "label": "OBP",
+            "value": ".250"
+          },
+          {
+            "label": "SLG",
+            "value": ".000"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "L/L",
+          "Hitter"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    },
+    {
+      "id": "quinnipiac-15051",
+      "schoolSlug": "quinnipiac",
+      "school": "Quinnipiac",
+      "schoolLongName": "Quinnipiac University",
+      "name": "Andrew Rubayo",
+      "normalizedName": "andrew rubayo",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right Handed Pitcher",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "45",
+      "hometown": "Skillman, N.J.",
+      "highSchool": "The Peddie School",
+      "previousSchool": "",
+      "hometownHighSchool": "Skillman, N.J. / The Peddie School",
+      "profileUrl": "https://gobobcats.com/sports/baseball/roster/andrew-rubayo/15051",
+      "imageUrl": "https://gobobcats.com/images/2025/12/8/Andrew_Rubayo_PwvJ1.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "15051",
+      "sources": [
+        "Quinnipiac Athletics roster",
+        "Quinnipiac cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "15051",
+        "name": "Andrew Rubayo",
+        "normalizedName": "andrew rubayo",
+        "jersey": "45",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/andrew-rubayo/15051",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Andrew_Rubayo_PwvJ1.jpg",
+        "gamesPlayed": 8,
+        "gamesStarted": 8,
+        "appearances": 8,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 4.87,
+        "whip": 1.4,
+        "wins": 3,
+        "losses": 1,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 44.333333333333336,
+        "inningsPitchedDisplay": "44.1",
+        "hitsAllowed": 52,
+        "runsAllowed": 27,
+        "earnedRunsAllowed": 24,
+        "walksAllowed": 10,
+        "strikeouts": 46,
+        "doublesAllowed": 9,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 175,
+        "wildPitches": 6,
+        "hitBatters": 4,
+        "balks": 0,
+        "opponentsBattingAverage": 0.297,
+        "walksHits": 62
+      },
+      "fieldingStats": {
+        "rosterBioId": "15051",
+        "name": "Andrew Rubayo",
+        "normalizedName": "andrew rubayo",
+        "jersey": "45",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/andrew-rubayo/15051",
+        "imageUrl": "https://gobobcats.com/images/2025/12/8/Andrew_Rubayo_PwvJ1.jpg",
+        "gamesPlayed": 8,
+        "gamesStarted": 8,
+        "putouts": 2,
+        "assists": 6,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 2,
+        "caughtStealingBy": 2,
+        "stolenBasesPercentage": 0.5,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 8
+      },
+      "evaluation": {
+        "score": 21,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 48.530416951469576,
+          "Command": 72,
+          "Damage suppression": 0
+        },
+        "summary": "Andrew Rubayo looks like a RHP option who misses bats and throws enough strikes.",
+        "summaryMetrics": [
+          "ERA 4.87",
+          "WHIP 1.40",
+          "K/9 9.3"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.87"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.40"
+          },
+          {
+            "label": "K/9",
+            "value": "9.3"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.41"
+          },
+          {
+            "label": "IP",
+            "value": "44.3"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats"
+      }
+    }
+  ],
+  "playerBoard": {
+    "source": "Quinnipiac Athletics roster + cumulative stats / ESPN roster",
+    "note": "This Quinnipiac-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Quinnipiac's public ESPN roster feed did not line up cleanly with the current school-site roster.",
+    "totalPlayers": 35,
+    "roleCounts": {
+      "Hitter": 18,
+      "Pitcher": 17
+    },
+    "players": [
+      {
+        "id": "quinnipiac-15079",
+        "name": "Peyton Vancas",
+        "school": "Quinnipiac",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FY",
+        "handedness": "R/R",
+        "score": 50,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Peyton Vancas profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .282",
+          "OBP .410",
+          "SLG .385"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".282"
+          },
+          {
+            "label": "OBP",
+            "value": ".410"
+          },
+          {
+            "label": "SLG",
+            "value": ".385"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "20"
+          },
+          {
+            "label": "SB",
+            "value": "4"
+          }
+        ],
+        "components": {
+          "On-base": 72.2222222222222,
+          "Power": 17.10526315789474,
+          "Contact": 38.74999999999998,
+          "Discipline": 100,
+          "Speed": 13.333333333333334
+        },
+        "metaLine": "FY / R/R",
+        "detailBadges": [
+          "INF",
+          "FY",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/peyton-vancas/15079",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15053",
+        "name": "Christian Smith",
+        "school": "Quinnipiac",
+        "role": "Hitter",
+        "position": "C/1B",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 36,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Christian Smith profiles as a C/1B piece who brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .275",
+          "OBP .350",
+          "SLG .550"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".275"
+          },
+          {
+            "label": "OBP",
+            "value": ".350"
+          },
+          {
+            "label": "SLG",
+            "value": ".550"
+          },
+          {
+            "label": "HR",
+            "value": "5"
+          },
+          {
+            "label": "RBI",
+            "value": "18"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 38.888888888888864,
+          "Power": 60.526315789473706,
+          "Contact": 34.375000000000014,
+          "Discipline": 11.594202898550723,
+          "Speed": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "C/1B",
+          "SR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/christian-smith/15053",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15076",
+        "name": "Timothy Park",
+        "school": "Quinnipiac",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FY",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Timothy Park gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FY / R/R",
+        "detailBadges": [
+          "INF",
+          "FY",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/timothy-park/15076",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15068",
+        "name": "Chase Camac",
+        "school": "Quinnipiac",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "FY",
+        "handedness": "L/R",
+        "score": 26,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Chase Camac profiles as a OF piece who controls at-bats.",
+        "summaryMetrics": [
+          "AVG .227",
+          "OBP .330",
+          "SLG .273"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".227"
+          },
+          {
+            "label": "OBP",
+            "value": ".330"
+          },
+          {
+            "label": "SLG",
+            "value": ".273"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "14"
+          },
+          {
+            "label": "SB",
+            "value": "7"
+          }
+        ],
+        "components": {
+          "On-base": 27.777777777777775,
+          "Power": 0,
+          "Contact": 4.3750000000000036,
+          "Discipline": 100,
+          "Speed": 23.333333333333332
+        },
+        "metaLine": "FY / L/R",
+        "detailBadges": [
+          "OF",
+          "FY",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/chase-camac/15068",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15042",
+        "name": "J.C. Franconere",
+        "school": "Quinnipiac",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SO",
+        "handedness": "L/L",
+        "score": 14,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "J.C. Franconere looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 4.18",
+          "WHIP 1.44",
+          "K/9 9.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.18"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.44"
+          },
+          {
+            "label": "K/9",
+            "value": "9.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.6"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "23.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 53.521126760563384,
+          "Command": 23.333333333333332,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / L/L",
+        "detailBadges": [
+          "LHP",
+          "SO",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/jc-franconere/15042",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15043",
+        "name": "Kyle Garbowski",
+        "school": "Quinnipiac",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "JR",
+        "handedness": "L/R",
+        "score": 55,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "summary": "Kyle Garbowski profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .285",
+          "OBP .434",
+          "SLG .382"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".285"
+          },
+          {
+            "label": "OBP",
+            "value": ".434"
+          },
+          {
+            "label": "SLG",
+            "value": ".382"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "20"
+          },
+          {
+            "label": "SB",
+            "value": "7"
+          }
+        ],
+        "components": {
+          "On-base": 85.55555555555554,
+          "Power": 16.315789473684212,
+          "Contact": 40.624999999999986,
+          "Discipline": 100,
+          "Speed": 23.333333333333332
+        },
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/kyle-garbowski/15043",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15080",
+        "name": "Caden Williamson",
+        "school": "Quinnipiac",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "FY",
+        "handedness": "R/R",
+        "score": 46,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Caden Williamson profiles as a OF piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .319",
+          "OBP .401",
+          "SLG .376"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".319"
+          },
+          {
+            "label": "OBP",
+            "value": ".401"
+          },
+          {
+            "label": "SLG",
+            "value": ".376"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "13"
+          },
+          {
+            "label": "SB",
+            "value": "7"
+          }
+        ],
+        "components": {
+          "On-base": 67.22222222222223,
+          "Power": 14.73684210526316,
+          "Contact": 61.875,
+          "Discipline": 50.42735042735041,
+          "Speed": 23.333333333333332
+        },
+        "metaLine": "FY / R/R",
+        "detailBadges": [
+          "OF",
+          "FY",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/caden-williamson/15080",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15044",
+        "name": "Alex Irizarry",
+        "school": "Quinnipiac",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SR",
+        "handedness": "L/R",
+        "score": 55,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "summary": "Alex Irizarry profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .280",
+          "OBP .426",
+          "SLG .424"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".280"
+          },
+          {
+            "label": "OBP",
+            "value": ".426"
+          },
+          {
+            "label": "SLG",
+            "value": ".424"
+          },
+          {
+            "label": "HR",
+            "value": "4"
+          },
+          {
+            "label": "RBI",
+            "value": "24"
+          },
+          {
+            "label": "SB",
+            "value": "5"
+          }
+        ],
+        "components": {
+          "On-base": 81.11111111111109,
+          "Power": 27.368421052631575,
+          "Contact": 37.500000000000014,
+          "Discipline": 100,
+          "Speed": 16.666666666666664
+        },
+        "metaLine": "SR / L/R",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/alex-irizarry/15044",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15054",
+        "name": "Mason Ulsh",
+        "school": "Quinnipiac",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-SR",
+        "handedness": "R/R",
+        "score": 24,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Mason Ulsh looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 6.60",
+          "WHIP 2.00",
+          "K/9 14.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.60"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.00"
+          },
+          {
+            "label": "K/9",
+            "value": "14.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "2.40"
+          },
+          {
+            "label": "IP",
+            "value": "15.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 94.54545454545455,
+          "Command": 33.33333333333333,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/mason-ulsh/15054",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15066",
+        "name": "Teagan Beames",
+        "school": "Quinnipiac",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FY",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Teagan Beames gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 4.50",
+          "WHIP 2.00",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.50"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.00"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "18.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "2.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FY / L/R",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "L/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/teagan-beames/15066",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15057",
+        "name": "Sam Wright",
+        "school": "Quinnipiac",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 9,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Sam Wright gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 6.51",
+          "WHIP 1.58",
+          "K/9 7.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.51"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.58"
+          },
+          {
+            "label": "K/9",
+            "value": "7.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.1"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.72"
+          },
+          {
+            "label": "IP",
+            "value": "37.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 31.574675324675322,
+          "Command": 16.470588235294116,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/sam-wright/15057",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15045",
+        "name": "Josh Lajoie",
+        "school": "Quinnipiac",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 6,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Josh Lajoie gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 5.40",
+          "WHIP 2.04",
+          "K/9 7.6"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.40"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.04"
+          },
+          {
+            "label": "K/9",
+            "value": "7.6"
+          },
+          {
+            "label": "BB/9",
+            "value": "7.6"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "8.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 32.36363636363636,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/josh-lajoie/15045",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15049",
+        "name": "Matt Park",
+        "school": "Quinnipiac",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 22,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matt Park gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .183",
+          "OBP .359",
+          "SLG .250"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".183"
+          },
+          {
+            "label": "OBP",
+            "value": ".359"
+          },
+          {
+            "label": "SLG",
+            "value": ".250"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "9"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 43.888888888888864,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 59.64912280701752,
+          "Speed": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/matt-park/15049",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15073",
+        "name": "Brayden Hromada",
+        "school": "Quinnipiac",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "FY",
+        "handedness": "L/R",
+        "score": 7,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brayden Hromada gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .231",
+          "OBP .300",
+          "SLG .346"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".231"
+          },
+          {
+            "label": "OBP",
+            "value": ".300"
+          },
+          {
+            "label": "SLG",
+            "value": ".346"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "6"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 11.111111111111091,
+          "Power": 6.842105263157887,
+          "Contact": 6.875000000000006,
+          "Discipline": 5.555555555555554,
+          "Speed": 0
+        },
+        "metaLine": "FY / L/R",
+        "detailBadges": [
+          "C",
+          "FY",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/brayden-hromada/15073",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15072",
+        "name": "Joseph Hiller",
+        "school": "Quinnipiac",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FY",
+        "handedness": "R/R",
+        "score": 18,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Joseph Hiller looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 9.00",
+          "WHIP 2.00",
+          "K/9 10.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "9.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.00"
+          },
+          {
+            "label": "K/9",
+            "value": "10.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.69"
+          },
+          {
+            "label": "IP",
+            "value": "13.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 58.04195804195804,
+          "Command": 40,
+          "Damage suppression": 0
+        },
+        "metaLine": "FY / R/R",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/joseph-hiller/15072",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15078",
+        "name": "Kevin Rusinak",
+        "school": "Quinnipiac",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FY",
+        "handedness": "L/R",
+        "score": 5,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Kevin Rusinak gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 20.25",
+          "WHIP 2.25",
+          "K/9 6.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "20.25"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.25"
+          },
+          {
+            "label": "K/9",
+            "value": "6.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "6.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "2.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 25,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FY / L/R",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "L/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/kevin-rusinak/15078",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15077",
+        "name": "James Pazdera",
+        "school": "Quinnipiac",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 17,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "James Pazdera looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 6.82",
+          "WHIP 1.71",
+          "K/9 11.7"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.82"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.71"
+          },
+          {
+            "label": "K/9",
+            "value": "11.7"
+          },
+          {
+            "label": "BB/9",
+            "value": "6.3"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.57"
+          },
+          {
+            "label": "IP",
+            "value": "31.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 69.56937799043061,
+          "Command": 17.27272727272727,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/james-pazdera/15077",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15069",
+        "name": "Brendan Edvardsen",
+        "school": "Quinnipiac",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 67,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "summary": "Brendan Edvardsen profiles as a OF piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .313",
+          "OBP .450",
+          "SLG .500"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".313"
+          },
+          {
+            "label": "OBP",
+            "value": ".450"
+          },
+          {
+            "label": "SLG",
+            "value": ".500"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "5"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 94.44444444444444,
+          "Power": 47.36842105263158,
+          "Contact": 58.12499999999999,
+          "Discipline": 100,
+          "Speed": 0
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "OF",
+          "GR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/brendan-edvardsen/15069",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15070",
+        "name": "Ethan Freed",
+        "school": "Quinnipiac",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FY",
+        "handedness": "R/R",
+        "score": 13,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ethan Freed looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 6.17",
+          "WHIP 2.14",
+          "K/9 10.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.17"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.14"
+          },
+          {
+            "label": "K/9",
+            "value": "10.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "9.3"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "11.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 61.81818181818183,
+          "Command": 3.333333333333335,
+          "Damage suppression": 0
+        },
+        "metaLine": "FY / R/R",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/ethan-freed/15070",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15052",
+        "name": "Griffin Seibel",
+        "school": "Quinnipiac",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Griffin Seibel gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 162.00",
+          "WHIP 15.00",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "162.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "15.00"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "108.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/griffin-seibel/15052",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15041",
+        "name": "Cole Constable",
+        "school": "Quinnipiac",
+        "role": "Hitter",
+        "position": "C/OF",
+        "classYear": "R-SO",
+        "handedness": "R/R",
+        "score": 26,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cole Constable profiles as a C/OF piece who controls at-bats.",
+        "summaryMetrics": [
+          "AVG .197",
+          "OBP .337",
+          "SLG .250"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".197"
+          },
+          {
+            "label": "OBP",
+            "value": ".337"
+          },
+          {
+            "label": "SLG",
+            "value": ".250"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "11"
+          },
+          {
+            "label": "SB",
+            "value": "7"
+          }
+        ],
+        "components": {
+          "On-base": 31.666666666666664,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 100,
+          "Speed": 23.333333333333332
+        },
+        "metaLine": "R-SO / R/R",
+        "detailBadges": [
+          "C/OF",
+          "R-SO",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/cole-constable/15041",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15048",
+        "name": "Ian Nilsen",
+        "school": "Quinnipiac",
+        "role": "Hitter",
+        "position": "CIF",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 47,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ian Nilsen profiles as a CIF piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .259",
+          "OBP .429",
+          "SLG .481"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".259"
+          },
+          {
+            "label": "OBP",
+            "value": ".429"
+          },
+          {
+            "label": "SLG",
+            "value": ".481"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "1"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 82.77777777777776,
+          "Power": 42.368421052631575,
+          "Contact": 24.375000000000004,
+          "Discipline": 37.606837606837594,
+          "Speed": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "CIF",
+          "SO",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/ian-nilsen/15048",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15047",
+        "name": "Christian Nilsen",
+        "school": "Quinnipiac",
+        "role": "Hitter",
+        "position": "1B",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Christian Nilsen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .182",
+          "OBP .217",
+          "SLG .273"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".182"
+          },
+          {
+            "label": "OBP",
+            "value": ".217"
+          },
+          {
+            "label": "SLG",
+            "value": ".273"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "1B",
+          "SO",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/christian-nilsen/15047",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15058",
+        "name": "Luke Zeisloft",
+        "school": "Quinnipiac",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Luke Zeisloft gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .143",
+          "OBP .295",
+          "SLG .171"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".143"
+          },
+          {
+            "label": "OBP",
+            "value": ".295"
+          },
+          {
+            "label": "SLG",
+            "value": ".171"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "3"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 8.33333333333331,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 66.66666666666666,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "N/A",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/luke-zeisloft/15058",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15050",
+        "name": "Mike Poncini",
+        "school": "Quinnipiac",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 17,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Mike Poncini looks like a RHP option who misses bats and throws enough strikes.",
+        "summaryMetrics": [
+          "ERA 5.40",
+          "WHIP 1.34",
+          "K/9 9.6"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.40"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.34"
+          },
+          {
+            "label": "K/9",
+            "value": "9.6"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.9"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.42"
+          },
+          {
+            "label": "IP",
+            "value": "21.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 50.489510489510494,
+          "Command": 45.714285714285715,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/mike-poncini/15050",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15075",
+        "name": "Frank Orrei",
+        "school": "Quinnipiac",
+        "role": "Hitter",
+        "position": "1B",
+        "classYear": "FY",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Frank Orrei gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "1B",
+          "FY",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/frank-orrei/15075",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15071",
+        "name": "Langdon Hazen",
+        "school": "Quinnipiac",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FY",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Langdon Hazen gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 10.12",
+          "WHIP 2.25",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "10.12"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.25"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "10.1"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "2.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FY / R/R",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/langdon-hazen/15071",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15074",
+        "name": "Maddex Labuda",
+        "school": "Quinnipiac",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 5,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Maddex Labuda gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 11.00",
+          "WHIP 2.56",
+          "K/9 7.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "11.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.56"
+          },
+          {
+            "label": "K/9",
+            "value": "7.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "10.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.00"
+          },
+          {
+            "label": "IP",
+            "value": "9.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 27.27272727272727,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/maddex-labuda/15074",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15038",
+        "name": "Matt Alduino",
+        "school": "Quinnipiac",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SR",
+        "handedness": "L/L",
+        "score": 16,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matt Alduino looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 1.71",
+          "WHIP 0.81",
+          "K/9 9.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "1.71"
+          },
+          {
+            "label": "WHIP",
+            "value": "0.81"
+          },
+          {
+            "label": "K/9",
+            "value": "9.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.9"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "21.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 53.24675324675325,
+          "Command": 31.111111111111118,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/matt-alduino/15038",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15040",
+        "name": "Nick Balcom",
+        "school": "Quinnipiac",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 15,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nick Balcom looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 8.53",
+          "WHIP 1.86",
+          "K/9 10.7"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "8.53"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.86"
+          },
+          {
+            "label": "K/9",
+            "value": "10.7"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.3"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.07"
+          },
+          {
+            "label": "IP",
+            "value": "25.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 60.52631578947369,
+          "Command": 20,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/nick-balcom/15040",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15046",
+        "name": "James Marino",
+        "school": "Quinnipiac",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "GR",
+        "handedness": "L/R",
+        "score": 65,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "summary": "James Marino profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .330",
+          "OBP .450",
+          "SLG .580"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".330"
+          },
+          {
+            "label": "OBP",
+            "value": ".450"
+          },
+          {
+            "label": "SLG",
+            "value": ".580"
+          },
+          {
+            "label": "HR",
+            "value": "4"
+          },
+          {
+            "label": "RBI",
+            "value": "23"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 94.44444444444444,
+          "Power": 68.42105263157895,
+          "Contact": 68.75000000000001,
+          "Discipline": 33.33333333333333,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "GR / L/R",
+        "detailBadges": [
+          "OF",
+          "GR",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/james-marino/15046",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15067",
+        "name": "Jacob Belecky",
+        "school": "Quinnipiac",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FY",
+        "handedness": "R/R",
+        "score": 10,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jacob Belecky gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 7.50",
+          "WHIP 1.75",
+          "K/9 7.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "7.50"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.75"
+          },
+          {
+            "label": "K/9",
+            "value": "7.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.75"
+          },
+          {
+            "label": "IP",
+            "value": "24.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 31.818181818181817,
+          "Command": 24.444444444444446,
+          "Damage suppression": 0
+        },
+        "metaLine": "FY / R/R",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/jacob-belecky/15067",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15065",
+        "name": "Jack Balcer",
+        "school": "Quinnipiac",
+        "role": "Hitter",
+        "position": "OF/1B",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 31,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jack Balcer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .283",
+          "OBP .356",
+          "SLG .331"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".283"
+          },
+          {
+            "label": "OBP",
+            "value": ".356"
+          },
+          {
+            "label": "SLG",
+            "value": ".331"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "16"
+          },
+          {
+            "label": "SB",
+            "value": "6"
+          }
+        ],
+        "components": {
+          "On-base": 42.2222222222222,
+          "Power": 2.8947368421052664,
+          "Contact": 39.374999999999986,
+          "Discipline": 55.07246376811593,
+          "Speed": 20
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "OF/1B",
+          "JR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/jack-balcer/15065",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15039",
+        "name": "Sam Ametrano",
+        "school": "Quinnipiac",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "JR",
+        "handedness": "L/L",
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Sam Ametrano profiles as a OF piece who controls at-bats.",
+        "summaryMetrics": [
+          "AVG .000",
+          "OBP .250",
+          "SLG .000"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".000"
+          },
+          {
+            "label": "OBP",
+            "value": ".250"
+          },
+          {
+            "label": "SLG",
+            "value": ".000"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 88.88888888888889,
+          "Speed": 0
+        },
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "L/L",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/sam-ametrano/15039",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "quinnipiac-15051",
+        "name": "Andrew Rubayo",
+        "school": "Quinnipiac",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 21,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Andrew Rubayo looks like a RHP option who misses bats and throws enough strikes.",
+        "summaryMetrics": [
+          "ERA 4.87",
+          "WHIP 1.40",
+          "K/9 9.3"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.87"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.40"
+          },
+          {
+            "label": "K/9",
+            "value": "9.3"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.41"
+          },
+          {
+            "label": "IP",
+            "value": "44.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 48.530416951469576,
+          "Command": 72,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Quinnipiac Athletics roster",
+          "Quinnipiac cumulative stats"
+        ],
+        "sourceSummary": "Quinnipiac Athletics roster + Quinnipiac cumulative stats",
+        "schoolSlug": "quinnipiac",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gobobcats.com/sports/baseball/roster/andrew-rubayo/15051",
+        "espnAthleteId": ""
+      }
+    ]
+  }
+};
+
