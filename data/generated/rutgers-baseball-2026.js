@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.rutgers2026 = {
-  "generatedAt": "2026-04-17T11:13:54.445Z",
+  "generatedAt": "2026-04-18T11:01:28.087Z",
   "season": 2026,
   "school": {
     "slug": "rutgers",
@@ -39,86 +39,86 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
     }
   },
   "teamSummary": {
-    "record": "18-19, 5-10",
+    "record": "19-19, 6-10",
     "battingAverage": ".273",
-    "earnedRunAverage": "5.25",
-    "wins": "18",
+    "earnedRunAverage": "5.41",
+    "wins": "19",
     "losses": "19",
     "hitting": {
-      "atBats": "1249",
-      "runsScored": "234",
-      "hits": "341",
-      "runsBattedIn": "211",
+      "atBats": "1289",
+      "runsScored": "247",
+      "hits": "352",
+      "runsBattedIn": "223",
       "doubles": "59",
       "triples": "5",
-      "homeRuns": "37",
-      "walks": "155",
+      "homeRuns": "40",
+      "walks": "157",
       "intentionalWalks": "2",
-      "strikeouts": "304",
-      "strikeoutsLooking": "42",
-      "hitByPitch": "43",
+      "strikeouts": "309",
+      "strikeoutsLooking": "43",
+      "hitByPitch": "44",
       "stolenBases": "38",
       "caughtStealing": "6",
-      "sacrificeHits": "14",
+      "sacrificeHits": "15",
       "sacrificeFlies": "18",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "274",
-      "flyOuts": "306",
+      "groundOuts": "284",
+      "flyOuts": "317",
       "groundedIntoDoublePlay": "24",
       "pickedOff": "2",
       "doublePlaysHitInto": "25",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "951",
-      "assists": "332",
+      "putouts": "978",
+      "assists": "337",
       "errors": "44",
       "passedBalls": "3",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "29",
+      "stolenBasesAgainst": "30",
       "caughtStealingBy": "16",
       "involvedInDoublePlays": "32",
       "involvedInTriplePlays": "0",
-      "totalChances": "1327",
-      "fieldingPercentage": ".967"
+      "totalChances": "1359",
+      "fieldingPercentage": ".968"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "18",
-      "saves": "30",
+      "wins": "19",
+      "saves": "31",
       "losses": "18",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "1",
       "creditForCombinedShutout": "2",
-      "inningsPitched": "317.1",
-      "hitsAllowed": "341",
-      "runsAllowed": "207",
-      "earnedRunsAllowed": "185",
-      "walksAllowed": "153",
-      "strikeouts": "303",
-      "battersFaced": "1448",
-      "opponentAtBats": "1237",
-      "doublesAllowed": "72",
+      "inningsPitched": "326.1",
+      "hitsAllowed": "362",
+      "runsAllowed": "218",
+      "earnedRunsAllowed": "196",
+      "walksAllowed": "158",
+      "strikeouts": "320",
+      "battersFaced": "1500",
+      "opponentAtBats": "1284",
+      "doublesAllowed": "75",
       "triplesAllowed": "5",
-      "homerunsAllowed": "33",
-      "wildPitches": "25",
+      "homerunsAllowed": "34",
+      "wildPitches": "26",
       "balks": "7",
       "hitBatters": "29",
-      "strikeoutsLooking": "54",
+      "strikeoutsLooking": "59",
       "intentionalWalks": "1",
       "inheritedRunners": "89",
       "inheritedRunnersThatScored": "34",
       "sacrificeHitsAllowed": "12",
       "sacrificeFliesAllowed": "17",
       "catchersInterferenceAllowed": "0",
-      "pitches": "5566",
-      "flyouts": "292",
-      "groundouts": "295",
+      "pitches": "5767",
+      "flyouts": "298",
+      "groundouts": "298",
       "teamUnearnedRuns": "0",
-      "saveRecord": "4",
+      "saveRecord": "5",
       "pickoff": "0"
     }
   },
@@ -304,32 +304,32 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "2",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/jordan-savi-on/15991",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/2_Savinon.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 1,
-        "appearances": 11,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.42,
-        "whip": 1.34,
+        "earnedRunAverage": 2.31,
+        "whip": 1.33,
         "wins": 0,
         "losses": 2,
-        "saves": 0,
+        "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 22.333333333333332,
-        "inningsPitchedDisplay": "22.1",
-        "hitsAllowed": 19,
+        "inningsPitched": 23.333333333333332,
+        "inningsPitchedDisplay": "23.1",
+        "hitsAllowed": 20,
         "runsAllowed": 9,
         "earnedRunsAllowed": 6,
         "walksAllowed": 11,
-        "strikeouts": 24,
+        "strikeouts": 25,
         "doublesAllowed": 6,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 81,
+        "opponentsAtBats": 85,
         "wildPitches": 2,
         "hitBatters": 1,
         "balks": 1,
         "opponentsBattingAverage": 0.235,
-        "walksHits": 30
+        "walksHits": 31
       },
       "fieldingStats": {
         "rosterBioId": "15991",
@@ -361,40 +361,40 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.560379918588886,
-          "Command": 23.636363636363633,
+          "Miss bats": 51.29870129870131,
+          "Command": 25.454545454545457,
           "Damage suppression": 0
         },
         "summary": "Jordan Saviñon looks like a LHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 2.42",
-          "WHIP 1.34",
-          "K/9 9.7"
+          "ERA 2.31",
+          "WHIP 1.33",
+          "K/9 9.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.42"
+            "value": "2.31"
           },
           {
             "label": "WHIP",
-            "value": "1.34"
+            "value": "1.33"
           },
           {
             "label": "K/9",
-            "value": "9.7"
+            "value": "9.6"
           },
           {
             "label": "BB/9",
-            "value": "4.4"
+            "value": "4.2"
           },
           {
             "label": "HR/9",
-            "value": "0.81"
+            "value": "0.77"
           },
           {
             "label": "IP",
-            "value": "22.3"
+            "value": "23.3"
           }
         ],
         "metaLine": "SR / N/A",
@@ -445,21 +445,21 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "3",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/charlie-meglio/15956",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/3_Meglio.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
         "battingAverage": 0.241,
-        "onBasePercentage": 0.349,
-        "sluggingPercentage": 0.468,
-        "ops": 0.817,
-        "atBats": 141,
-        "runs": 31,
-        "hits": 34,
+        "onBasePercentage": 0.351,
+        "sluggingPercentage": 0.462,
+        "ops": 0.813,
+        "atBats": 145,
+        "runs": 32,
+        "hits": 35,
         "doubles": 6,
         "triples": 1,
         "homeRuns": 8,
         "runsBattedIn": 31,
-        "totalBases": 66,
-        "walks": 20,
+        "totalBases": 67,
+        "walks": 21,
         "hitByPitch": 5,
         "strikeouts": 31,
         "intentionalWalks": 1,
@@ -469,9 +469,9 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 28,
-        "assists": 58,
+        "assists": 59,
         "errors": 7,
-        "plateAppearances": 172,
+        "plateAppearances": 177,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -483,19 +483,19 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "3",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/charlie-meglio/15956",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/3_Meglio.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 30,
+        "gamesPlayed": 31,
+        "gamesStarted": 31,
         "putouts": 28,
-        "assists": 58,
+        "assists": 59,
         "errors": 7,
-        "fieldingPercentage": 0.925,
+        "fieldingPercentage": 0.926,
         "doublePlays": 14,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 93
+        "totalChances": 94
       },
       "evaluation": {
         "score": 33,
@@ -504,17 +504,17 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 38.33333333333331,
-          "Power": 38.947368421052644,
+          "On-base": 39.44444444444442,
+          "Power": 37.36842105263159,
           "Contact": 13.124999999999995,
-          "Discipline": 49.46236559139784,
+          "Discipline": 53.046594982078844,
           "Speed": 10
         },
         "summary": "Charlie Meglio gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .241",
-          "OBP .349",
-          "SLG .468"
+          "OBP .351",
+          "SLG .462"
         ],
         "statCards": [
           {
@@ -523,11 +523,11 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           },
           {
             "label": "OBP",
-            "value": ".349"
+            "value": ".351"
           },
           {
             "label": "SLG",
-            "value": ".468"
+            "value": ".462"
           },
           {
             "label": "HR",
@@ -590,23 +590,23 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "4",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/trey-wells/15957",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/4_Wells.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "battingAverage": 0.298,
-        "onBasePercentage": 0.359,
-        "sluggingPercentage": 0.424,
-        "ops": 0.783,
-        "atBats": 151,
-        "runs": 30,
-        "hits": 45,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "battingAverage": 0.295,
+        "onBasePercentage": 0.354,
+        "sluggingPercentage": 0.417,
+        "ops": 0.771,
+        "atBats": 156,
+        "runs": 31,
+        "hits": 46,
         "doubles": 9,
         "triples": 2,
         "homeRuns": 2,
-        "runsBattedIn": 22,
-        "totalBases": 64,
+        "runsBattedIn": 24,
+        "totalBases": 65,
         "walks": 12,
         "hitByPitch": 4,
-        "strikeouts": 32,
+        "strikeouts": 34,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 3,
@@ -616,7 +616,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "putouts": 156,
         "assists": 14,
         "errors": 3,
-        "plateAppearances": 177,
+        "plateAppearances": 182,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -643,36 +643,36 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "totalChances": 173
       },
       "evaluation": {
-        "score": 34,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 43.888888888888864,
-          "Power": 27.368421052631575,
-          "Contact": 48.749999999999986,
-          "Discipline": 19.44444444444444,
+          "On-base": 41.111111111111086,
+          "Power": 25.52631578947368,
+          "Contact": 46.874999999999986,
+          "Discipline": 16.993464052287578,
           "Speed": 16.666666666666664
         },
         "summary": "Trey Wells gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .298",
-          "OBP .359",
-          "SLG .424"
+          "AVG .295",
+          "OBP .354",
+          "SLG .417"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".298"
+            "value": ".295"
           },
           {
             "label": "OBP",
-            "value": ".359"
+            "value": ".354"
           },
           {
             "label": "SLG",
-            "value": ".424"
+            "value": ".417"
           },
           {
             "label": "HR",
@@ -680,7 +680,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           },
           {
             "label": "RBI",
-            "value": "22"
+            "value": "24"
           },
           {
             "label": "SB",
@@ -735,21 +735,21 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "5",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/chase-krewson/15958",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/5_Krewson.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 35,
-        "battingAverage": 0.248,
-        "onBasePercentage": 0.377,
-        "sluggingPercentage": 0.384,
-        "ops": 0.761,
-        "atBats": 125,
-        "runs": 23,
-        "hits": 31,
+        "gamesPlayed": 37,
+        "gamesStarted": 36,
+        "battingAverage": 0.256,
+        "onBasePercentage": 0.385,
+        "sluggingPercentage": 0.388,
+        "ops": 0.773,
+        "atBats": 129,
+        "runs": 24,
+        "hits": 33,
         "doubles": 3,
         "triples": 1,
         "homeRuns": 4,
-        "runsBattedIn": 14,
-        "totalBases": 48,
-        "walks": 20,
+        "runsBattedIn": 15,
+        "totalBases": 50,
+        "walks": 21,
         "hitByPitch": 6,
         "strikeouts": 32,
         "intentionalWalks": 0,
@@ -758,10 +758,10 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "sacrificeHits": 4,
         "stolenBases": 7,
         "stolenBasesAttempts": 8,
-        "putouts": 60,
+        "putouts": 61,
         "assists": 2,
         "errors": 1,
-        "plateAppearances": 164,
+        "plateAppearances": 169,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -773,9 +773,9 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "5",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/chase-krewson/15958",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/5_Krewson.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 30,
-        "putouts": 60,
+        "gamesPlayed": 32,
+        "gamesStarted": 31,
+        "putouts": 61,
         "assists": 2,
         "errors": 1,
         "fieldingPercentage": 0.984,
@@ -785,39 +785,39 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 63
+        "totalChances": 64
       },
       "evaluation": {
-        "score": 34,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 53.88888888888887,
-          "Power": 16.842105263157897,
-          "Contact": 17.5,
-          "Discipline": 47.222222222222214,
+          "On-base": 58.33333333333333,
+          "Power": 17.894736842105267,
+          "Contact": 22.500000000000004,
+          "Discipline": 50.69444444444443,
           "Speed": 23.333333333333332
         },
         "summary": "Chase Krewson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .248",
-          "OBP .377",
-          "SLG .384"
+          "AVG .256",
+          "OBP .385",
+          "SLG .388"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".248"
+            "value": ".256"
           },
           {
             "label": "OBP",
-            "value": ".377"
+            "value": ".385"
           },
           {
             "label": "SLG",
-            "value": ".384"
+            "value": ".388"
           },
           {
             "label": "HR",
@@ -825,7 +825,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           },
           {
             "label": "RBI",
-            "value": "14"
+            "value": "15"
           },
           {
             "label": "SB",
@@ -968,19 +968,19 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "7",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/ryan-jaros/15959",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/7_Jaros.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 36,
-        "battingAverage": 0.281,
-        "onBasePercentage": 0.371,
-        "sluggingPercentage": 0.438,
-        "ops": 0.809,
-        "atBats": 121,
+        "gamesPlayed": 38,
+        "gamesStarted": 37,
+        "battingAverage": 0.272,
+        "onBasePercentage": 0.361,
+        "sluggingPercentage": 0.424,
+        "ops": 0.785,
+        "atBats": 125,
         "runs": 22,
         "hits": 34,
         "doubles": 8,
         "triples": 1,
         "homeRuns": 3,
-        "runsBattedIn": 18,
+        "runsBattedIn": 19,
         "totalBases": 53,
         "walks": 12,
         "hitByPitch": 7,
@@ -991,10 +991,10 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "sacrificeHits": 3,
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
-        "putouts": 269,
+        "putouts": 275,
         "assists": 19,
         "errors": 3,
-        "plateAppearances": 151,
+        "plateAppearances": 155,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1006,9 +1006,9 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "7",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/ryan-jaros/15959",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/7_Jaros.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "putouts": 269,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "putouts": 275,
         "assists": 19,
         "errors": 3,
         "fieldingPercentage": 0.99,
@@ -1018,39 +1018,39 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 291
+        "totalChances": 297
       },
       "evaluation": {
-        "score": 34,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 50.55555555555554,
-          "Power": 31.05263157894737,
-          "Contact": 38.125000000000014,
+          "On-base": 44.99999999999998,
+          "Power": 27.368421052631575,
+          "Contact": 32.500000000000014,
           "Discipline": 16.993464052287578,
           "Speed": 10
         },
         "summary": "Ryan Jaros gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .281",
-          "OBP .371",
-          "SLG .438"
+          "AVG .272",
+          "OBP .361",
+          "SLG .424"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".281"
+            "value": ".272"
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": ".361"
           },
           {
             "label": "SLG",
-            "value": ".438"
+            "value": ".424"
           },
           {
             "label": "HR",
@@ -1058,7 +1058,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "19"
           },
           {
             "label": "SB",
@@ -1255,13 +1255,13 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "9",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/joey-erace/15961",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/9_Erace.jpg",
-        "gamesPlayed": 22,
+        "gamesPlayed": 23,
         "gamesStarted": 18,
-        "battingAverage": 0.224,
-        "onBasePercentage": 0.286,
-        "sluggingPercentage": 0.31,
-        "ops": 0.596,
-        "atBats": 58,
+        "battingAverage": 0.22,
+        "onBasePercentage": 0.281,
+        "sluggingPercentage": 0.305,
+        "ops": 0.586,
+        "atBats": 59,
         "runs": 9,
         "hits": 13,
         "doubles": 2,
@@ -1278,10 +1278,10 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "sacrificeHits": 1,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 36,
+        "putouts": 37,
         "assists": 38,
         "errors": 3,
-        "plateAppearances": 64,
+        "plateAppearances": 65,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1293,51 +1293,51 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "9",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/joey-erace/15961",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/9_Erace.jpg",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 18,
-        "putouts": 36,
+        "putouts": 37,
         "assists": 38,
         "errors": 3,
-        "fieldingPercentage": 0.961,
+        "fieldingPercentage": 0.962,
         "doublePlays": 6,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 77
+        "totalChances": 78
       },
       "evaluation": {
-        "score": 4,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 3.3333333333333055,
+          "On-base": 0.5555555555555561,
           "Power": 0,
-          "Contact": 2.500000000000002,
+          "Contact": 0,
           "Discipline": 14.814814814814808,
           "Speed": 0
         },
         "summary": "Joey Erace gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .224",
-          "OBP .286",
-          "SLG .310"
+          "AVG .220",
+          "OBP .281",
+          "SLG .305"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".224"
+            "value": ".220"
           },
           {
             "label": "OBP",
-            "value": ".286"
+            "value": ".281"
           },
           {
             "label": "SLG",
-            "value": ".310"
+            "value": ".305"
           },
           {
             "label": "HR",
@@ -1488,20 +1488,20 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "12",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/yomar-carreras/15943",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/12_Carreras.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 34,
-        "battingAverage": 0.293,
-        "onBasePercentage": 0.338,
-        "sluggingPercentage": 0.421,
-        "ops": 0.759,
-        "atBats": 140,
-        "runs": 21,
-        "hits": 41,
+        "gamesPlayed": 36,
+        "gamesStarted": 35,
+        "battingAverage": 0.29,
+        "onBasePercentage": 0.333,
+        "sluggingPercentage": 0.414,
+        "ops": 0.747,
+        "atBats": 145,
+        "runs": 23,
+        "hits": 42,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 4,
-        "runsBattedIn": 31,
-        "totalBases": 59,
+        "runsBattedIn": 32,
+        "totalBases": 60,
         "walks": 11,
         "hitByPitch": 0,
         "strikeouts": 23,
@@ -1512,9 +1512,9 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 44,
-        "assists": 79,
+        "assists": 80,
         "errors": 7,
-        "plateAppearances": 155,
+        "plateAppearances": 160,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1526,51 +1526,51 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "12",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/yomar-carreras/15943",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/12_Carreras.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 32,
+        "gamesPlayed": 34,
+        "gamesStarted": 33,
         "putouts": 44,
-        "assists": 79,
+        "assists": 80,
         "errors": 7,
-        "fieldingPercentage": 0.946,
+        "fieldingPercentage": 0.947,
         "doublePlays": 14,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 130
+        "totalChances": 131
       },
       "evaluation": {
-        "score": 30,
+        "score": 28,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 32.22222222222222,
-          "Power": 26.57894736842105,
-          "Contact": 45.624999999999986,
+          "On-base": 29.44444444444444,
+          "Power": 24.736842105263154,
+          "Contact": 43.749999999999986,
           "Discipline": 30.917874396135264,
           "Speed": 3.3333333333333335
         },
         "summary": "Yomar Carreras gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .293",
-          "OBP .338",
-          "SLG .421"
+          "AVG .290",
+          "OBP .333",
+          "SLG .414"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".293"
+            "value": ".290"
           },
           {
             "label": "OBP",
-            "value": ".338"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".421"
+            "value": ".414"
           },
           {
             "label": "HR",
@@ -1578,7 +1578,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           },
           {
             "label": "RBI",
-            "value": "31"
+            "value": "32"
           },
           {
             "label": "SB",
@@ -2130,7 +2130,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "18",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/tyler-wiltsey/15965",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/18_Wiltsey.jpg",
-        "gamesPlayed": 24,
+        "gamesPlayed": 25,
         "gamesStarted": 9,
         "battingAverage": 0.156,
         "onBasePercentage": 0.206,
@@ -2276,32 +2276,32 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "19",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/zack-konstantinovsky/15950",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/19_Konstantinovsky.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 9,
-        "appearances": 9,
+        "gamesPlayed": 10,
+        "gamesStarted": 10,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.4,
-        "whip": 1.41,
+        "earnedRunAverage": 6.12,
+        "whip": 1.55,
         "wins": 3,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 38.333333333333336,
-        "inningsPitchedDisplay": "38.1",
-        "hitsAllowed": 41,
-        "runsAllowed": 25,
-        "earnedRunsAllowed": 23,
-        "walksAllowed": 13,
-        "strikeouts": 45,
-        "doublesAllowed": 7,
+        "inningsPitched": 42.666666666666664,
+        "inningsPitchedDisplay": "42.2",
+        "hitsAllowed": 51,
+        "runsAllowed": 31,
+        "earnedRunsAllowed": 29,
+        "walksAllowed": 15,
+        "strikeouts": 54,
+        "doublesAllowed": 8,
         "triplesAllowed": 2,
-        "homeRunsAllowed": 6,
-        "opponentsAtBats": 149,
+        "homeRunsAllowed": 7,
+        "opponentsAtBats": 171,
         "wildPitches": 0,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.275,
-        "walksHits": 54
+        "opponentsBattingAverage": 0.298,
+        "walksHits": 66
       },
       "fieldingStats": {
         "rosterBioId": "15950",
@@ -2310,22 +2310,22 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "19",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/zack-konstantinovsky/15950",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/19_Konstantinovsky.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 4,
+        "gamesPlayed": 5,
+        "gamesStarted": 5,
         "putouts": 0,
         "assists": 4,
         "errors": 1,
         "fieldingPercentage": 0.8,
         "doublePlays": 0,
-        "stolenBasesAgainst": 0,
+        "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
+        "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
       },
       "evaluation": {
-        "score": 20,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2333,40 +2333,40 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 59.683794466403164,
-          "Command": 49.23076923076923,
+          "Miss bats": 67.1875,
+          "Command": 52,
           "Damage suppression": 0
         },
         "summary": "Zack Konstantinovsky looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 1.41",
-          "K/9 10.6"
+          "ERA 6.12",
+          "WHIP 1.55",
+          "K/9 11.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.40"
+            "value": "6.12"
           },
           {
             "label": "WHIP",
-            "value": "1.41"
+            "value": "1.55"
           },
           {
             "label": "K/9",
-            "value": "10.6"
+            "value": "11.4"
           },
           {
             "label": "BB/9",
-            "value": "3.1"
+            "value": "3.2"
           },
           {
             "label": "HR/9",
-            "value": "1.41"
+            "value": "1.48"
           },
           {
             "label": "IP",
-            "value": "38.3"
+            "value": "42.7"
           }
         ],
         "metaLine": "R-SO / N/A",
@@ -2988,23 +2988,23 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "27",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/gabriel-rivera/15968",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/27_Rivera.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 4,
-        "battingAverage": 0.182,
-        "onBasePercentage": 0.321,
-        "sluggingPercentage": 0.318,
-        "ops": 0.639,
-        "atBats": 22,
-        "runs": 6,
-        "hits": 4,
+        "gamesPlayed": 13,
+        "gamesStarted": 5,
+        "battingAverage": 0.192,
+        "onBasePercentage": 0.313,
+        "sluggingPercentage": 0.308,
+        "ops": 0.621,
+        "atBats": 26,
+        "runs": 7,
+        "hits": 5,
         "doubles": 0,
         "triples": 0,
         "homeRuns": 1,
         "runsBattedIn": 3,
-        "totalBases": 7,
+        "totalBases": 8,
         "walks": 3,
         "hitByPitch": 2,
-        "strikeouts": 9,
+        "strikeouts": 10,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
@@ -3014,7 +3014,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "putouts": 15,
         "assists": 6,
         "errors": 0,
-        "plateAppearances": 29,
+        "plateAppearances": 33,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3041,36 +3041,36 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "totalChances": 21
       },
       "evaluation": {
-        "score": 9,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 22.777777777777768,
+          "On-base": 18.333333333333318,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 14.814814814814808,
+          "Discipline": 11.111111111111107,
           "Speed": 0
         },
         "summary": "Gabriel Rivera gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .182",
-          "OBP .321",
-          "SLG .318"
+          "AVG .192",
+          "OBP .313",
+          "SLG .308"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".182"
+            "value": ".192"
           },
           {
             "label": "OBP",
-            "value": ".321"
+            "value": ".313"
           },
           {
             "label": "SLG",
-            "value": ".318"
+            "value": ".308"
           },
           {
             "label": "HR",
@@ -3133,33 +3133,33 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "28",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/matt-chatelle/15944",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/28_Chatelle.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 27,
-        "battingAverage": 0.34,
-        "onBasePercentage": 0.451,
-        "sluggingPercentage": 0.38,
-        "ops": 0.831,
-        "atBats": 100,
-        "runs": 19,
-        "hits": 34,
+        "gamesPlayed": 29,
+        "gamesStarted": 28,
+        "battingAverage": 0.337,
+        "onBasePercentage": 0.444,
+        "sluggingPercentage": 0.404,
+        "ops": 0.848,
+        "atBats": 104,
+        "runs": 21,
+        "hits": 35,
         "doubles": 4,
         "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 20,
-        "totalBases": 38,
+        "homeRuns": 1,
+        "runsBattedIn": 21,
+        "totalBases": 42,
         "walks": 20,
         "hitByPitch": 1,
         "strikeouts": 26,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
-        "sacrificeHits": 1,
+        "sacrificeHits": 2,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 144,
-        "assists": 14,
+        "putouts": 160,
+        "assists": 15,
         "errors": 4,
-        "plateAppearances": 125,
+        "plateAppearances": 130,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -3171,19 +3171,19 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "28",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/matt-chatelle/15944",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/28_Chatelle.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 17,
-        "putouts": 144,
-        "assists": 14,
+        "gamesPlayed": 18,
+        "gamesStarted": 18,
+        "putouts": 160,
+        "assists": 15,
         "errors": 4,
-        "fieldingPercentage": 0.975,
+        "fieldingPercentage": 0.978,
         "doublePlays": 1,
-        "stolenBasesAgainst": 13,
+        "stolenBasesAgainst": 14,
         "caughtStealingBy": 9,
-        "stolenBasesPercentage": 0.591,
+        "stolenBasesPercentage": 0.609,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 162
+        "totalChances": 179
       },
       "evaluation": {
         "score": 57,
@@ -3192,38 +3192,38 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 95,
-          "Power": 15.789473684210527,
-          "Contact": 75.00000000000001,
+          "On-base": 91.1111111111111,
+          "Power": 22.105263157894743,
+          "Contact": 73.125,
           "Discipline": 63.247863247863236,
           "Speed": 0
         },
         "summary": "Matt Chatelle profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .340",
-          "OBP .451",
-          "SLG .380"
+          "AVG .337",
+          "OBP .444",
+          "SLG .404"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".340"
+            "value": ".337"
           },
           {
             "label": "OBP",
-            "value": ".451"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": ".380"
+            "value": ".404"
           },
           {
             "label": "HR",
-            "value": "0"
+            "value": "1"
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "21"
           },
           {
             "label": "SB",
@@ -3687,20 +3687,20 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "34",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/jack-sweeney/15955",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/34_Sweeney.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 6,
-        "battingAverage": 0.227,
-        "onBasePercentage": 0.393,
-        "sluggingPercentage": 0.636,
-        "ops": 1.029,
-        "atBats": 22,
-        "runs": 5,
-        "hits": 5,
+        "gamesPlayed": 12,
+        "gamesStarted": 7,
+        "battingAverage": 0.296,
+        "onBasePercentage": 0.424,
+        "sluggingPercentage": 0.852,
+        "ops": 1.276,
+        "atBats": 27,
+        "runs": 8,
+        "hits": 8,
         "doubles": 0,
         "triples": 0,
-        "homeRuns": 3,
-        "runsBattedIn": 3,
-        "totalBases": 14,
+        "homeRuns": 5,
+        "runsBattedIn": 7,
+        "totalBases": 23,
         "walks": 2,
         "hitByPitch": 4,
         "strikeouts": 7,
@@ -3710,10 +3710,10 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 1,
-        "assists": 0,
+        "putouts": 3,
+        "assists": 1,
         "errors": 0,
-        "plateAppearances": 29,
+        "plateAppearances": 34,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3725,10 +3725,10 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "34",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/jack-sweeney/15955",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/34_Sweeney.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 1,
-        "putouts": 1,
-        "assists": 0,
+        "gamesPlayed": 2,
+        "gamesStarted": 2,
+        "putouts": 3,
+        "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -3737,47 +3737,47 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 1
+        "totalChances": 4
       },
       "evaluation": {
-        "score": 44,
+        "score": 62,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 62.77777777777778,
-          "Power": 83.15789473684212,
-          "Contact": 4.3750000000000036,
+          "On-base": 79.99999999999999,
+          "Power": 100,
+          "Contact": 47.499999999999986,
           "Discipline": 9.523809523809518,
           "Speed": 3.3333333333333335
         },
-        "summary": "Jack Sweeney profiles as a OF piece who brings real extra-base damage.",
+        "summary": "Jack Sweeney profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .227",
-          "OBP .393",
-          "SLG .636"
+          "AVG .296",
+          "OBP .424",
+          "SLG .852"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".227"
+            "value": ".296"
           },
           {
             "label": "OBP",
-            "value": ".393"
+            "value": ".424"
           },
           {
             "label": "SLG",
-            "value": ".636"
+            "value": ".852"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "5"
           },
           {
             "label": "RBI",
-            "value": "3"
+            "value": "7"
           },
           {
             "label": "SB",
@@ -3832,33 +3832,33 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "36",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/tristan-salinas/15972",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/36_Salinas.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 27,
+        "gamesPlayed": 30,
+        "gamesStarted": 28,
         "battingAverage": 0.257,
-        "onBasePercentage": 0.348,
-        "sluggingPercentage": 0.436,
-        "ops": 0.784,
-        "atBats": 101,
-        "runs": 13,
-        "hits": 26,
+        "onBasePercentage": 0.35,
+        "sluggingPercentage": 0.429,
+        "ops": 0.779,
+        "atBats": 105,
+        "runs": 15,
+        "hits": 27,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 4,
-        "runsBattedIn": 12,
-        "totalBases": 44,
+        "runsBattedIn": 14,
+        "totalBases": 45,
         "walks": 12,
-        "hitByPitch": 2,
-        "strikeouts": 28,
+        "hitByPitch": 3,
+        "strikeouts": 30,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 40,
+        "putouts": 41,
         "assists": 16,
         "errors": 1,
-        "plateAppearances": 117,
+        "plateAppearances": 122,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -3870,19 +3870,19 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "36",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/tristan-salinas/15972",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/36_Salinas.jpg",
-        "gamesPlayed": 23,
-        "gamesStarted": 23,
-        "putouts": 40,
+        "gamesPlayed": 24,
+        "gamesStarted": 24,
+        "putouts": 41,
         "assists": 16,
         "errors": 1,
-        "fieldingPercentage": 0.982,
+        "fieldingPercentage": 0.983,
         "doublePlays": 2,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 57
+        "totalChances": 58
       },
       "evaluation": {
         "score": 28,
@@ -3891,17 +3891,17 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 37.77777777777775,
-          "Power": 30.526315789473685,
+          "On-base": 38.888888888888864,
+          "Power": 28.68421052631579,
           "Contact": 23.125000000000004,
-          "Discipline": 25.39682539682539,
+          "Discipline": 22.22222222222222,
           "Speed": 6.666666666666667
         },
         "summary": "Tristan Salinas gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .257",
-          "OBP .348",
-          "SLG .436"
+          "OBP .350",
+          "SLG .429"
         ],
         "statCards": [
           {
@@ -3910,11 +3910,11 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           },
           {
             "label": "OBP",
-            "value": ".348"
+            "value": ".350"
           },
           {
             "label": "SLG",
-            "value": ".436"
+            "value": ".429"
           },
           {
             "label": "HR",
@@ -3922,7 +3922,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "14"
           },
           {
             "label": "SB",
@@ -3978,32 +3978,32 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "37",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/joe-mazza/15951",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/37_Mazza.jpg",
-        "gamesPlayed": 8,
+        "gamesPlayed": 9,
         "gamesStarted": 1,
-        "appearances": 8,
+        "appearances": 9,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.04,
-        "whip": 1.27,
-        "wins": 2,
+        "earnedRunAverage": 3.29,
+        "whip": 1.43,
+        "wins": 3,
         "losses": 2,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 23.666666666666668,
-        "inningsPitchedDisplay": "23.2",
-        "hitsAllowed": 23,
-        "runsAllowed": 10,
-        "earnedRunsAllowed": 8,
-        "walksAllowed": 7,
-        "strikeouts": 23,
-        "doublesAllowed": 8,
+        "inningsPitched": 27.333333333333332,
+        "inningsPitchedDisplay": "27.1",
+        "hitsAllowed": 31,
+        "runsAllowed": 12,
+        "earnedRunsAllowed": 10,
+        "walksAllowed": 8,
+        "strikeouts": 30,
+        "doublesAllowed": 10,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 93,
-        "wildPitches": 1,
+        "opponentsAtBats": 112,
+        "wildPitches": 2,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.247,
-        "walksHits": 30
+        "opponentsBattingAverage": 0.277,
+        "walksHits": 39
       },
       "fieldingStats": {
         "rosterBioId": "15951",
@@ -4012,10 +4012,10 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "37",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/joe-mazza/15951",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/37_Mazza.jpg",
-        "gamesPlayed": 3,
+        "gamesPlayed": 4,
         "gamesStarted": 0,
         "putouts": 0,
-        "assists": 4,
+        "assists": 5,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -4024,10 +4024,10 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 4
+        "totalChances": 5
       },
       "evaluation": {
-        "score": 16,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4035,32 +4035,32 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.14980793854033,
-          "Command": 45.714285714285715,
+          "Miss bats": 53.43680709534369,
+          "Command": 55.00000000000001,
           "Damage suppression": 0
         },
-        "summary": "Joe Mazza looks like a LHP option who limits runs and throws enough strikes.",
+        "summary": "Joe Mazza looks like a LHP option who limits runs and misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.04",
-          "WHIP 1.27",
-          "K/9 8.7"
+          "ERA 3.29",
+          "WHIP 1.43",
+          "K/9 9.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.04"
+            "value": "3.29"
           },
           {
             "label": "WHIP",
-            "value": "1.27"
+            "value": "1.43"
           },
           {
             "label": "K/9",
-            "value": "8.7"
+            "value": "9.9"
           },
           {
             "label": "BB/9",
-            "value": "2.7"
+            "value": "2.6"
           },
           {
             "label": "HR/9",
@@ -4068,7 +4068,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           },
           {
             "label": "IP",
-            "value": "23.7"
+            "value": "27.3"
           }
         ],
         "metaLine": "GR / N/A",
@@ -4722,32 +4722,32 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "jersey": "44",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/chris-sand/15977",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/44_Sand.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 5,
-        "appearances": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.76,
-        "whip": 1.27,
+        "earnedRunAverage": 5.72,
+        "whip": 1.41,
         "wins": 3,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
         "inningsPitched": 28.333333333333332,
         "inningsPitchedDisplay": "28.1",
-        "hitsAllowed": 27,
-        "runsAllowed": 16,
-        "earnedRunsAllowed": 15,
-        "walksAllowed": 9,
+        "hitsAllowed": 29,
+        "runsAllowed": 19,
+        "earnedRunsAllowed": 18,
+        "walksAllowed": 11,
         "strikeouts": 16,
         "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 111,
+        "opponentsAtBats": 113,
         "wildPitches": 0,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.243,
-        "walksHits": 36
+        "opponentsBattingAverage": 0.257,
+        "walksHits": 40
       },
       "fieldingStats": {
         "rosterBioId": "15977",
@@ -4771,7 +4771,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "totalChances": 9
       },
       "evaluation": {
-        "score": 4,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4780,23 +4780,23 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 9.839572192513375,
-          "Command": 15.555555555555559,
+          "Command": 9.090909090909097,
           "Damage suppression": 0
         },
-        "summary": "Chris Sand looks like a RHP option who throws enough strikes.",
+        "summary": "Chris Sand gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.76",
-          "WHIP 1.27",
+          "ERA 5.72",
+          "WHIP 1.41",
           "K/9 5.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.76"
+            "value": "5.72"
           },
           {
             "label": "WHIP",
-            "value": "1.27"
+            "value": "1.41"
           },
           {
             "label": "K/9",
@@ -4804,7 +4804,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "3.5"
           },
           {
             "label": "HR/9",
@@ -5331,41 +5331,41 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         },
         "summary": "Jordan Saviñon looks like a LHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 2.42",
-          "WHIP 1.34",
-          "K/9 9.7"
+          "ERA 2.31",
+          "WHIP 1.33",
+          "K/9 9.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.42"
+            "value": "2.31"
           },
           {
             "label": "WHIP",
-            "value": "1.34"
+            "value": "1.33"
           },
           {
             "label": "K/9",
-            "value": "9.7"
+            "value": "9.6"
           },
           {
             "label": "BB/9",
-            "value": "4.4"
+            "value": "4.2"
           },
           {
             "label": "HR/9",
-            "value": "0.81"
+            "value": "0.77"
           },
           {
             "label": "IP",
-            "value": "22.3"
+            "value": "23.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.560379918588886,
-          "Command": 23.636363636363633,
+          "Miss bats": 51.29870129870131,
+          "Command": 25.454545454545457,
           "Damage suppression": 0
         },
         "metaLine": "SR / N/A",
@@ -5401,8 +5401,8 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "summary": "Charlie Meglio gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .241",
-          "OBP .349",
-          "SLG .468"
+          "OBP .351",
+          "SLG .462"
         ],
         "statCards": [
           {
@@ -5411,11 +5411,11 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           },
           {
             "label": "OBP",
-            "value": ".349"
+            "value": ".351"
           },
           {
             "label": "SLG",
-            "value": ".468"
+            "value": ".462"
           },
           {
             "label": "HR",
@@ -5431,10 +5431,10 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           }
         ],
         "components": {
-          "On-base": 38.33333333333331,
-          "Power": 38.947368421052644,
+          "On-base": 39.44444444444442,
+          "Power": 37.36842105263159,
           "Contact": 13.124999999999995,
-          "Discipline": 49.46236559139784,
+          "Discipline": 53.046594982078844,
           "Speed": 10
         },
         "metaLine": "JR / N/A",
@@ -5462,29 +5462,29 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "position": "C",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 34,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Trey Wells gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .298",
-          "OBP .359",
-          "SLG .424"
+          "AVG .295",
+          "OBP .354",
+          "SLG .417"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".298"
+            "value": ".295"
           },
           {
             "label": "OBP",
-            "value": ".359"
+            "value": ".354"
           },
           {
             "label": "SLG",
-            "value": ".424"
+            "value": ".417"
           },
           {
             "label": "HR",
@@ -5492,7 +5492,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           },
           {
             "label": "RBI",
-            "value": "22"
+            "value": "24"
           },
           {
             "label": "SB",
@@ -5500,10 +5500,10 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           }
         ],
         "components": {
-          "On-base": 43.888888888888864,
-          "Power": 27.368421052631575,
-          "Contact": 48.749999999999986,
-          "Discipline": 19.44444444444444,
+          "On-base": 41.111111111111086,
+          "Power": 25.52631578947368,
+          "Contact": 46.874999999999986,
+          "Discipline": 16.993464052287578,
           "Speed": 16.666666666666664
         },
         "metaLine": "SR / N/A",
@@ -5531,29 +5531,29 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 34,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Chase Krewson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .248",
-          "OBP .377",
-          "SLG .384"
+          "AVG .256",
+          "OBP .385",
+          "SLG .388"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".248"
+            "value": ".256"
           },
           {
             "label": "OBP",
-            "value": ".377"
+            "value": ".385"
           },
           {
             "label": "SLG",
-            "value": ".384"
+            "value": ".388"
           },
           {
             "label": "HR",
@@ -5561,7 +5561,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           },
           {
             "label": "RBI",
-            "value": "14"
+            "value": "15"
           },
           {
             "label": "SB",
@@ -5569,10 +5569,10 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           }
         ],
         "components": {
-          "On-base": 53.88888888888887,
-          "Power": 16.842105263157897,
-          "Contact": 17.5,
-          "Discipline": 47.222222222222214,
+          "On-base": 58.33333333333333,
+          "Power": 17.894736842105267,
+          "Contact": 22.500000000000004,
+          "Discipline": 50.69444444444443,
           "Speed": 23.333333333333332
         },
         "metaLine": "JR / N/A",
@@ -5668,29 +5668,29 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 34,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ryan Jaros gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .281",
-          "OBP .371",
-          "SLG .438"
+          "AVG .272",
+          "OBP .361",
+          "SLG .424"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".281"
+            "value": ".272"
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": ".361"
           },
           {
             "label": "SLG",
-            "value": ".438"
+            "value": ".424"
           },
           {
             "label": "HR",
@@ -5698,7 +5698,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "19"
           },
           {
             "label": "SB",
@@ -5706,9 +5706,9 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           }
         ],
         "components": {
-          "On-base": 50.55555555555554,
-          "Power": 31.05263157894737,
-          "Contact": 38.125000000000014,
+          "On-base": 44.99999999999998,
+          "Power": 27.368421052631575,
+          "Contact": 32.500000000000014,
           "Discipline": 16.993464052287578,
           "Speed": 10
         },
@@ -5806,29 +5806,29 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 4,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Joey Erace gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .224",
-          "OBP .286",
-          "SLG .310"
+          "AVG .220",
+          "OBP .281",
+          "SLG .305"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".224"
+            "value": ".220"
           },
           {
             "label": "OBP",
-            "value": ".286"
+            "value": ".281"
           },
           {
             "label": "SLG",
-            "value": ".310"
+            "value": ".305"
           },
           {
             "label": "HR",
@@ -5844,9 +5844,9 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           }
         ],
         "components": {
-          "On-base": 3.3333333333333055,
+          "On-base": 0.5555555555555561,
           "Power": 0,
-          "Contact": 2.500000000000002,
+          "Contact": 0,
           "Discipline": 14.814814814814808,
           "Speed": 0
         },
@@ -5943,29 +5943,29 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 30,
+        "score": 28,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Yomar Carreras gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .293",
-          "OBP .338",
-          "SLG .421"
+          "AVG .290",
+          "OBP .333",
+          "SLG .414"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".293"
+            "value": ".290"
           },
           {
             "label": "OBP",
-            "value": ".338"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".421"
+            "value": ".414"
           },
           {
             "label": "HR",
@@ -5973,7 +5973,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           },
           {
             "label": "RBI",
-            "value": "31"
+            "value": "32"
           },
           {
             "label": "SB",
@@ -5981,9 +5981,9 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           }
         ],
         "components": {
-          "On-base": 32.22222222222222,
-          "Power": 26.57894736842105,
-          "Contact": 45.624999999999986,
+          "On-base": 29.44444444444444,
+          "Power": 24.736842105263154,
+          "Contact": 43.749999999999986,
           "Discipline": 30.917874396135264,
           "Speed": 3.3333333333333335
         },
@@ -6356,48 +6356,48 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "position": "RHP",
         "classYear": "R-SO",
         "handedness": "N/A",
-        "score": 20,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Zack Konstantinovsky looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 1.41",
-          "K/9 10.6"
+          "ERA 6.12",
+          "WHIP 1.55",
+          "K/9 11.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.40"
+            "value": "6.12"
           },
           {
             "label": "WHIP",
-            "value": "1.41"
+            "value": "1.55"
           },
           {
             "label": "K/9",
-            "value": "10.6"
+            "value": "11.4"
           },
           {
             "label": "BB/9",
-            "value": "3.1"
+            "value": "3.2"
           },
           {
             "label": "HR/9",
-            "value": "1.41"
+            "value": "1.48"
           },
           {
             "label": "IP",
-            "value": "38.3"
+            "value": "42.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 59.683794466403164,
-          "Command": 49.23076923076923,
+          "Miss bats": 67.1875,
+          "Command": 52,
           "Damage suppression": 0
         },
         "metaLine": "R-SO / N/A",
@@ -6701,29 +6701,29 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 9,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Gabriel Rivera gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .182",
-          "OBP .321",
-          "SLG .318"
+          "AVG .192",
+          "OBP .313",
+          "SLG .308"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".182"
+            "value": ".192"
           },
           {
             "label": "OBP",
-            "value": ".321"
+            "value": ".313"
           },
           {
             "label": "SLG",
-            "value": ".318"
+            "value": ".308"
           },
           {
             "label": "HR",
@@ -6739,10 +6739,10 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           }
         ],
         "components": {
-          "On-base": 22.777777777777768,
+          "On-base": 18.333333333333318,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 14.814814814814808,
+          "Discipline": 11.111111111111107,
           "Speed": 0
         },
         "metaLine": "FR / N/A",
@@ -6777,30 +6777,30 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         },
         "summary": "Matt Chatelle profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .340",
-          "OBP .451",
-          "SLG .380"
+          "AVG .337",
+          "OBP .444",
+          "SLG .404"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".340"
+            "value": ".337"
           },
           {
             "label": "OBP",
-            "value": ".451"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": ".380"
+            "value": ".404"
           },
           {
             "label": "HR",
-            "value": "0"
+            "value": "1"
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "21"
           },
           {
             "label": "SB",
@@ -6808,9 +6808,9 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           }
         ],
         "components": {
-          "On-base": 95,
-          "Power": 15.789473684210527,
-          "Contact": 75.00000000000001,
+          "On-base": 91.1111111111111,
+          "Power": 22.105263157894743,
+          "Contact": 73.125,
           "Discipline": 63.247863247863236,
           "Speed": 0
         },
@@ -7112,37 +7112,37 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 44,
+        "score": 62,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
-        "summary": "Jack Sweeney profiles as a OF piece who brings real extra-base damage.",
+        "summary": "Jack Sweeney profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .227",
-          "OBP .393",
-          "SLG .636"
+          "AVG .296",
+          "OBP .424",
+          "SLG .852"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".227"
+            "value": ".296"
           },
           {
             "label": "OBP",
-            "value": ".393"
+            "value": ".424"
           },
           {
             "label": "SLG",
-            "value": ".636"
+            "value": ".852"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "5"
           },
           {
             "label": "RBI",
-            "value": "3"
+            "value": "7"
           },
           {
             "label": "SB",
@@ -7150,9 +7150,9 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           }
         ],
         "components": {
-          "On-base": 62.77777777777778,
-          "Power": 83.15789473684212,
-          "Contact": 4.3750000000000036,
+          "On-base": 79.99999999999999,
+          "Power": 100,
+          "Contact": 47.499999999999986,
           "Discipline": 9.523809523809518,
           "Speed": 3.3333333333333335
         },
@@ -7189,8 +7189,8 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "summary": "Tristan Salinas gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .257",
-          "OBP .348",
-          "SLG .436"
+          "OBP .350",
+          "SLG .429"
         ],
         "statCards": [
           {
@@ -7199,11 +7199,11 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           },
           {
             "label": "OBP",
-            "value": ".348"
+            "value": ".350"
           },
           {
             "label": "SLG",
-            "value": ".436"
+            "value": ".429"
           },
           {
             "label": "HR",
@@ -7211,7 +7211,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "14"
           },
           {
             "label": "SB",
@@ -7219,10 +7219,10 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           }
         ],
         "components": {
-          "On-base": 37.77777777777775,
-          "Power": 30.526315789473685,
+          "On-base": 38.888888888888864,
+          "Power": 28.68421052631579,
           "Contact": 23.125000000000004,
-          "Discipline": 25.39682539682539,
+          "Discipline": 22.22222222222222,
           "Speed": 6.666666666666667
         },
         "metaLine": "R-SO / N/A",
@@ -7250,33 +7250,33 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "position": "LHP",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 16,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Joe Mazza looks like a LHP option who limits runs and throws enough strikes.",
+        "summary": "Joe Mazza looks like a LHP option who limits runs and misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.04",
-          "WHIP 1.27",
-          "K/9 8.7"
+          "ERA 3.29",
+          "WHIP 1.43",
+          "K/9 9.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.04"
+            "value": "3.29"
           },
           {
             "label": "WHIP",
-            "value": "1.27"
+            "value": "1.43"
           },
           {
             "label": "K/9",
-            "value": "8.7"
+            "value": "9.9"
           },
           {
             "label": "BB/9",
-            "value": "2.7"
+            "value": "2.6"
           },
           {
             "label": "HR/9",
@@ -7284,14 +7284,14 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           },
           {
             "label": "IP",
-            "value": "23.7"
+            "value": "27.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.14980793854033,
-          "Command": 45.714285714285715,
+          "Miss bats": 53.43680709534369,
+          "Command": 55.00000000000001,
           "Damage suppression": 0
         },
         "metaLine": "GR / N/A",
@@ -7662,25 +7662,25 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 4,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Chris Sand looks like a RHP option who throws enough strikes.",
+        "summary": "Chris Sand gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.76",
-          "WHIP 1.27",
+          "ERA 5.72",
+          "WHIP 1.41",
           "K/9 5.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.76"
+            "value": "5.72"
           },
           {
             "label": "WHIP",
-            "value": "1.27"
+            "value": "1.41"
           },
           {
             "label": "K/9",
@@ -7688,7 +7688,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "3.5"
           },
           {
             "label": "HR/9",
@@ -7703,7 +7703,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 9.839572192513375,
-          "Command": 15.555555555555559,
+          "Command": 9.090909090909097,
           "Damage suppression": 0
         },
         "metaLine": "FR / N/A",

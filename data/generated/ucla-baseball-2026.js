@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.ucla2026 = {
-  "generatedAt": "2026-04-17T11:14:07.871Z",
+  "generatedAt": "2026-04-18T11:01:46.318Z",
   "season": 2026,
   "school": {
     "slug": "ucla",
@@ -39,41 +39,41 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
     }
   },
   "teamSummary": {
-    "record": "33-3, 18-0",
-    "battingAverage": ".307",
-    "earnedRunAverage": "3.09",
-    "wins": "33",
+    "record": "34-3, 19-0",
+    "battingAverage": ".304",
+    "earnedRunAverage": "3.06",
+    "wins": "34",
     "losses": "3",
     "hitting": {
-      "atBats": "1251",
-      "runsScored": "323",
-      "hits": "384",
-      "runsBattedIn": "303",
-      "doubles": "67",
+      "atBats": "1276",
+      "runsScored": "327",
+      "hits": "388",
+      "runsBattedIn": "307",
+      "doubles": "69",
       "triples": "5",
       "homeRuns": "59",
-      "walks": "197",
+      "walks": "200",
       "intentionalWalks": "6",
-      "strikeouts": "253",
+      "strikeouts": "262",
       "strikeoutsLooking": "74",
-      "hitByPitch": "92",
+      "hitByPitch": "94",
       "stolenBases": "21",
       "caughtStealing": "7",
       "sacrificeHits": "11",
-      "sacrificeFlies": "18",
+      "sacrificeFlies": "20",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "250",
-      "flyOuts": "360",
-      "groundedIntoDoublePlay": "24",
+      "groundOuts": "257",
+      "flyOuts": "367",
+      "groundedIntoDoublePlay": "25",
       "pickedOff": "2",
-      "doublePlaysHitInto": "26",
+      "doublePlaysHitInto": "27",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "960",
-      "assists": "296",
+      "putouts": "987",
+      "assists": "302",
       "errors": "23",
       "passedBalls": "4",
       "catchersInterference": "1",
@@ -81,44 +81,44 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
       "caughtStealingBy": "6",
       "involvedInDoublePlays": "29",
       "involvedInTriplePlays": "0",
-      "totalChances": "1279",
+      "totalChances": "1312",
       "fieldingPercentage": ".982"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "33",
-      "saves": "15",
+      "wins": "34",
+      "saves": "16",
       "losses": "3",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "2",
       "creditForCombinedShutout": "1",
-      "inningsPitched": "320.0",
-      "hitsAllowed": "260",
-      "runsAllowed": "120",
-      "earnedRunsAllowed": "110",
-      "walksAllowed": "113",
-      "strikeouts": "372",
-      "battersFaced": "1325",
-      "opponentAtBats": "1174",
-      "doublesAllowed": "42",
-      "triplesAllowed": "2",
+      "inningsPitched": "329.0",
+      "hitsAllowed": "265",
+      "runsAllowed": "122",
+      "earnedRunsAllowed": "112",
+      "walksAllowed": "116",
+      "strikeouts": "381",
+      "battersFaced": "1360",
+      "opponentAtBats": "1206",
+      "doublesAllowed": "44",
+      "triplesAllowed": "3",
       "homerunsAllowed": "34",
       "wildPitches": "12",
       "balks": "1",
       "hitBatters": "28",
-      "strikeoutsLooking": "83",
+      "strikeoutsLooking": "85",
       "intentionalWalks": "1",
       "inheritedRunners": "11",
       "inheritedRunnersThatScored": "3",
       "sacrificeHitsAllowed": "6",
       "sacrificeFliesAllowed": "3",
       "catchersInterferenceAllowed": "1",
-      "pitches": "5272",
-      "flyouts": "272",
-      "groundouts": "265",
+      "pitches": "5413",
+      "flyouts": "284",
+      "groundouts": "271",
       "teamUnearnedRuns": "0",
-      "saveRecord": "9",
+      "saveRecord": "10",
       "pickoff": "5"
     }
   },
@@ -161,33 +161,33 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "jersey": "1",
         "profileUrl": "https://uclabruins.com/sports/baseball/roster/roch-cholowsky/15523",
         "imageUrl": "https://uclabruins.com/images/2026/1/14/Cholowsky.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "battingAverage": 0.331,
-        "onBasePercentage": 0.464,
-        "sluggingPercentage": 0.669,
-        "ops": 1.133,
-        "atBats": 139,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "battingAverage": 0.324,
+        "onBasePercentage": 0.455,
+        "sluggingPercentage": 0.655,
+        "ops": 1.11,
+        "atBats": 142,
         "runs": 47,
         "hits": 46,
         "doubles": 8,
         "triples": 0,
         "homeRuns": 13,
-        "runsBattedIn": 42,
+        "runsBattedIn": 43,
         "totalBases": 93,
         "walks": 22,
         "hitByPitch": 17,
-        "strikeouts": 23,
+        "strikeouts": 24,
         "intentionalWalks": 2,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 5,
+        "groundedIntoDoublePlay": 3,
+        "sacrificeFlies": 6,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 35,
-        "assists": 86,
+        "putouts": 37,
+        "assists": 90,
         "errors": 5,
-        "plateAppearances": 184,
+        "plateAppearances": 188,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -199,51 +199,51 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "jersey": "1",
         "profileUrl": "https://uclabruins.com/sports/baseball/roster/roch-cholowsky/15523",
         "imageUrl": "https://uclabruins.com/images/2026/1/14/Cholowsky.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "putouts": 35,
-        "assists": 86,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "putouts": 37,
+        "assists": 90,
         "errors": 5,
-        "fieldingPercentage": 0.96,
+        "fieldingPercentage": 0.962,
         "doublePlays": 18,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 126
+        "totalChances": 132
       },
       "evaluation": {
-        "score": 80,
+        "score": 77,
         "fit": {
-          "label": "Priority",
-          "className": "fit-priority"
+          "label": "Pursue",
+          "className": "fit-pursue"
         },
         "components": {
-          "On-base": 100,
-          "Power": 91.84210526315792,
-          "Contact": 69.37500000000001,
-          "Discipline": 84.05797101449275,
+          "On-base": 97.22222222222221,
+          "Power": 88.15789473684212,
+          "Contact": 65,
+          "Discipline": 79.6296296296296,
           "Speed": 3.3333333333333335
         },
         "summary": "Roch Cholowsky profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .331",
-          "OBP .464",
-          "SLG .669"
+          "AVG .324",
+          "OBP .455",
+          "SLG .655"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".331"
+            "value": ".324"
           },
           {
             "label": "OBP",
-            "value": ".464"
+            "value": ".455"
           },
           {
             "label": "SLG",
-            "value": ".669"
+            "value": ".655"
           },
           {
             "label": "HR",
@@ -251,7 +251,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
           },
           {
             "label": "RBI",
-            "value": "42"
+            "value": "43"
           },
           {
             "label": "SB",
@@ -809,13 +809,13 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "jersey": "7",
         "profileUrl": "https://uclabruins.com/sports/baseball/roster/roman-martin/15535",
         "imageUrl": "https://uclabruins.com/images/2026/1/14/Martin.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "battingAverage": 0.326,
-        "onBasePercentage": 0.464,
-        "sluggingPercentage": 0.525,
-        "ops": 0.989,
-        "atBats": 141,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "battingAverage": 0.319,
+        "onBasePercentage": 0.459,
+        "sluggingPercentage": 0.514,
+        "ops": 0.973,
+        "atBats": 144,
         "runs": 35,
         "hits": 46,
         "doubles": 11,
@@ -824,7 +824,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "runsBattedIn": 35,
         "totalBases": 74,
         "walks": 33,
-        "hitByPitch": 4,
+        "hitByPitch": 5,
         "strikeouts": 32,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
@@ -833,9 +833,9 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 26,
-        "assists": 51,
+        "assists": 52,
         "errors": 3,
-        "plateAppearances": 181,
+        "plateAppearances": 185,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -847,10 +847,10 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "jersey": "7",
         "profileUrl": "https://uclabruins.com/sports/baseball/roster/roman-martin/15535",
         "imageUrl": "https://uclabruins.com/images/2026/1/14/Martin.png",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
         "putouts": 26,
-        "assists": 51,
+        "assists": 52,
         "errors": 3,
         "fieldingPercentage": 0.963,
         "doublePlays": 6,
@@ -859,39 +859,39 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 80
+        "totalChances": 81
       },
       "evaluation": {
-        "score": 71,
+        "score": 69,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 100,
-          "Power": 53.947368421052644,
-          "Contact": 66.25000000000001,
+          "On-base": 99.44444444444444,
+          "Power": 51.05263157894737,
+          "Contact": 61.875,
           "Discipline": 92.3611111111111,
           "Speed": 0
         },
         "summary": "Roman Martin profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .326",
-          "OBP .464",
-          "SLG .525"
+          "AVG .319",
+          "OBP .459",
+          "SLG .514"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".326"
+            "value": ".319"
           },
           {
             "label": "OBP",
-            "value": ".464"
+            "value": ".459"
           },
           {
             "label": "SLG",
-            "value": ".525"
+            "value": ".514"
           },
           {
             "label": "HR",
@@ -1099,33 +1099,33 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "jersey": "9",
         "profileUrl": "https://uclabruins.com/sports/baseball/roster/will-gasparino/15558",
         "imageUrl": "https://uclabruins.com/images/2026/1/14/Gasparino.png",
-        "gamesPlayed": 35,
-        "gamesStarted": 35,
-        "battingAverage": 0.366,
-        "onBasePercentage": 0.467,
-        "sluggingPercentage": 0.731,
-        "ops": 1.198,
-        "atBats": 134,
-        "runs": 40,
-        "hits": 49,
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "battingAverage": 0.365,
+        "onBasePercentage": 0.464,
+        "sluggingPercentage": 0.723,
+        "ops": 1.187,
+        "atBats": 137,
+        "runs": 41,
+        "hits": 50,
         "doubles": 5,
         "triples": 1,
         "homeRuns": 14,
         "runsBattedIn": 47,
-        "totalBases": 98,
+        "totalBases": 99,
         "walks": 21,
         "hitByPitch": 7,
-        "strikeouts": 32,
+        "strikeouts": 33,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 2,
         "stolenBasesAttempts": 4,
-        "putouts": 69,
+        "putouts": 73,
         "assists": 8,
         "errors": 0,
-        "plateAppearances": 171,
+        "plateAppearances": 174,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1137,9 +1137,9 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "jersey": "9",
         "profileUrl": "https://uclabruins.com/sports/baseball/roster/will-gasparino/15558",
         "imageUrl": "https://uclabruins.com/images/2026/1/14/Gasparino.png",
-        "gamesPlayed": 33,
-        "gamesStarted": 33,
-        "putouts": 69,
+        "gamesPlayed": 34,
+        "gamesStarted": 34,
+        "putouts": 73,
         "assists": 8,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1149,7 +1149,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 77
+        "totalChances": 81
       },
       "evaluation": {
         "score": 82,
@@ -1160,28 +1160,28 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "components": {
           "On-base": 100,
           "Power": 100,
-          "Contact": 91.25,
-          "Discipline": 50.69444444444443,
+          "Contact": 90.62499999999999,
+          "Discipline": 48.48484848484848,
           "Speed": 6.666666666666667
         },
         "summary": "Will Gasparino profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .366",
-          "OBP .467",
-          "SLG .731"
+          "AVG .365",
+          "OBP .464",
+          "SLG .723"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".366"
+            "value": ".365"
           },
           {
             "label": "OBP",
-            "value": ".467"
+            "value": ".464"
           },
           {
             "label": "SLG",
-            "value": ".731"
+            "value": ".723"
           },
           {
             "label": "HR",
@@ -1386,14 +1386,14 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "jersey": "11",
         "profileUrl": "https://uclabruins.com/sports/baseball/roster/payton-brennan/15521",
         "imageUrl": "https://uclabruins.com/images/2026/1/14/Brennan.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "battingAverage": 0.259,
-        "onBasePercentage": 0.372,
-        "sluggingPercentage": 0.427,
-        "ops": 0.799,
-        "atBats": 143,
-        "runs": 28,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "battingAverage": 0.253,
+        "onBasePercentage": 0.369,
+        "sluggingPercentage": 0.418,
+        "ops": 0.787,
+        "atBats": 146,
+        "runs": 29,
         "hits": 37,
         "doubles": 6,
         "triples": 0,
@@ -1401,18 +1401,18 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "runsBattedIn": 36,
         "totalBases": 61,
         "walks": 17,
-        "hitByPitch": 10,
-        "strikeouts": 41,
+        "hitByPitch": 11,
+        "strikeouts": 44,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 2,
         "sacrificeHits": 1,
         "stolenBases": 5,
         "stolenBasesAttempts": 7,
-        "putouts": 66,
+        "putouts": 67,
         "assists": 1,
         "errors": 0,
-        "plateAppearances": 182,
+        "plateAppearances": 186,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -1424,9 +1424,9 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "jersey": "11",
         "profileUrl": "https://uclabruins.com/sports/baseball/roster/payton-brennan/15521",
         "imageUrl": "https://uclabruins.com/images/2026/1/14/Brennan.png",
-        "gamesPlayed": 30,
-        "gamesStarted": 30,
-        "putouts": 66,
+        "gamesPlayed": 31,
+        "gamesStarted": 31,
+        "putouts": 67,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1436,39 +1436,39 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 67
+        "totalChances": 68
       },
       "evaluation": {
-        "score": 33,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 51.11111111111109,
-          "Power": 28.157894736842103,
-          "Contact": 24.375000000000004,
-          "Discipline": 23.84823848238482,
+          "On-base": 49.44444444444443,
+          "Power": 25.789473684210524,
+          "Contact": 20.625,
+          "Discipline": 20.707070707070702,
           "Speed": 16.666666666666664
         },
         "summary": "Payton Brennan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .259",
-          "OBP .372",
-          "SLG .427"
+          "AVG .253",
+          "OBP .369",
+          "SLG .418"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".259"
+            "value": ".253"
           },
           {
             "label": "OBP",
-            "value": ".372"
+            "value": ".369"
           },
           {
             "label": "SLG",
-            "value": ".427"
+            "value": ".418"
           },
           {
             "label": "HR",
@@ -1532,31 +1532,31 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "jersey": "12",
         "profileUrl": "https://uclabruins.com/sports/baseball/roster/zach-strickland/15551",
         "imageUrl": "https://uclabruins.com/images/2026/1/14/Strickland.png",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 0,
-        "appearances": 14,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.7,
-        "whip": 1.07,
+        "earnedRunAverage": 3.55,
+        "whip": 1.03,
         "wins": 4,
         "losses": 1,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 24.333333333333332,
-        "inningsPitchedDisplay": "24.1",
+        "inningsPitched": 25.333333333333332,
+        "inningsPitchedDisplay": "25.1",
         "hitsAllowed": 23,
         "runsAllowed": 12,
         "earnedRunsAllowed": 10,
         "walksAllowed": 3,
-        "strikeouts": 34,
+        "strikeouts": 35,
         "doublesAllowed": 5,
         "triplesAllowed": 0,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 94,
+        "opponentsAtBats": 97,
         "wildPitches": 1,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.245,
+        "opponentsBattingAverage": 0.237,
         "walksHits": 26
       },
       "fieldingStats": {
@@ -1581,7 +1581,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "totalChances": 1
       },
       "evaluation": {
-        "score": 32,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1589,28 +1589,28 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 77.9576587795766,
+          "Miss bats": 76.67464114832536,
           "Command": 100,
           "Damage suppression": 0
         },
         "summary": "Zach Strickland looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.70",
-          "WHIP 1.07",
-          "K/9 12.6"
+          "ERA 3.55",
+          "WHIP 1.03",
+          "K/9 12.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.70"
+            "value": "3.55"
           },
           {
             "label": "WHIP",
-            "value": "1.07"
+            "value": "1.03"
           },
           {
             "label": "K/9",
-            "value": "12.6"
+            "value": "12.4"
           },
           {
             "label": "BB/9",
@@ -1618,11 +1618,11 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.48"
+            "value": "1.42"
           },
           {
             "label": "IP",
-            "value": "24.3"
+            "value": "25.3"
           }
         ],
         "metaLine": "FR / S/R",
@@ -2654,32 +2654,32 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "jersey": "24",
         "profileUrl": "https://uclabruins.com/sports/baseball/roster/logan-reddemann/15550",
         "imageUrl": "https://uclabruins.com/images/2026/1/14/Reddemann.png",
-        "gamesPlayed": 9,
-        "gamesStarted": 9,
-        "appearances": 9,
+        "gamesPlayed": 10,
+        "gamesStarted": 10,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.85,
+        "earnedRunAverage": 2.87,
         "whip": 0.97,
-        "wins": 7,
+        "wins": 8,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 53.666666666666664,
-        "inningsPitchedDisplay": "53.2",
-        "hitsAllowed": 44,
-        "runsAllowed": 17,
-        "earnedRunsAllowed": 17,
-        "walksAllowed": 8,
-        "strikeouts": 79,
-        "doublesAllowed": 7,
-        "triplesAllowed": 0,
+        "inningsPitched": 59.666666666666664,
+        "inningsPitchedDisplay": "59.2",
+        "hitsAllowed": 47,
+        "runsAllowed": 19,
+        "earnedRunsAllowed": 19,
+        "walksAllowed": 11,
+        "strikeouts": 84,
+        "doublesAllowed": 8,
+        "triplesAllowed": 1,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 201,
+        "opponentsAtBats": 222,
         "wildPitches": 0,
         "hitBatters": 2,
         "balks": 1,
-        "opponentsBattingAverage": 0.219,
-        "walksHits": 52
+        "opponentsBattingAverage": 0.212,
+        "walksHits": 58
       },
       "fieldingStats": {
         "rosterBioId": "15550",
@@ -2703,7 +2703,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "totalChances": 8
       },
       "evaluation": {
-        "score": 33,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2711,20 +2711,20 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 84.07679277244496,
+          "Miss bats": 78.82173692229559,
           "Command": 100,
           "Damage suppression": 0
         },
         "summary": "Logan Reddemann looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.85",
+          "ERA 2.87",
           "WHIP 0.97",
-          "K/9 13.2"
+          "K/9 12.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.85"
+            "value": "2.87"
           },
           {
             "label": "WHIP",
@@ -2732,19 +2732,19 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
           },
           {
             "label": "K/9",
-            "value": "13.2"
+            "value": "12.7"
           },
           {
             "label": "BB/9",
-            "value": "1.3"
+            "value": "1.7"
           },
           {
             "label": "HR/9",
-            "value": "0.84"
+            "value": "0.75"
           },
           {
             "label": "IP",
-            "value": "53.7"
+            "value": "59.7"
           }
         ],
         "metaLine": "JR / R/R",
@@ -2937,33 +2937,33 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "jersey": "26",
         "profileUrl": "https://uclabruins.com/sports/baseball/roster/aiden-aguayo/15554",
         "imageUrl": "https://uclabruins.com/images/2026/1/14/Aguayo.png",
-        "gamesPlayed": 21,
-        "gamesStarted": 18,
-        "battingAverage": 0.269,
-        "onBasePercentage": 0.367,
-        "sluggingPercentage": 0.388,
-        "ops": 0.755,
-        "atBats": 67,
+        "gamesPlayed": 22,
+        "gamesStarted": 19,
+        "battingAverage": 0.271,
+        "onBasePercentage": 0.366,
+        "sluggingPercentage": 0.386,
+        "ops": 0.752,
+        "atBats": 70,
         "runs": 15,
-        "hits": 18,
+        "hits": 19,
         "doubles": 3,
         "triples": 1,
         "homeRuns": 1,
-        "runsBattedIn": 12,
-        "totalBases": 26,
+        "runsBattedIn": 13,
+        "totalBases": 27,
         "walks": 9,
         "hitByPitch": 2,
-        "strikeouts": 13,
+        "strikeouts": 14,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 23,
+        "putouts": 24,
         "assists": 36,
         "errors": 3,
-        "plateAppearances": 81,
+        "plateAppearances": 84,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2975,9 +2975,9 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "jersey": "26",
         "profileUrl": "https://uclabruins.com/sports/baseball/roster/aiden-aguayo/15554",
         "imageUrl": "https://uclabruins.com/images/2026/1/14/Aguayo.png",
-        "gamesPlayed": 20,
-        "gamesStarted": 18,
-        "putouts": 23,
+        "gamesPlayed": 21,
+        "gamesStarted": 19,
+        "putouts": 24,
         "assists": 36,
         "errors": 3,
         "fieldingPercentage": 0.952,
@@ -2987,39 +2987,39 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 62
+        "totalChances": 63
       },
       "evaluation": {
-        "score": 34,
+        "score": 33,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 48.333333333333314,
-          "Power": 17.894736842105267,
-          "Contact": 30.625000000000007,
-          "Discipline": 54.700854700854684,
+          "On-base": 47.77777777777776,
+          "Power": 17.368421052631582,
+          "Contact": 31.875000000000007,
+          "Discipline": 49.2063492063492,
           "Speed": 3.3333333333333335
         },
         "summary": "Aiden Aguayo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .269",
-          "OBP .367",
-          "SLG .388"
+          "AVG .271",
+          "OBP .366",
+          "SLG .386"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".269"
+            "value": ".271"
           },
           {
             "label": "OBP",
-            "value": ".367"
+            "value": ".366"
           },
           {
             "label": "SLG",
-            "value": ".388"
+            "value": ".386"
           },
           {
             "label": "HR",
@@ -3027,7 +3027,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "SB",
@@ -3083,32 +3083,32 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "jersey": "27",
         "profileUrl": "https://uclabruins.com/sports/baseball/roster/easton-hawk/15528",
         "imageUrl": "https://uclabruins.com/images/2026/1/14/Hawk.png",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 0,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.53,
-        "whip": 1.27,
+        "earnedRunAverage": 2.42,
+        "whip": 1.25,
         "wins": 2,
         "losses": 1,
-        "saves": 6,
+        "saves": 7,
         "shutouts": 0,
-        "inningsPitched": 21.333333333333332,
-        "inningsPitchedDisplay": "21.1",
-        "hitsAllowed": 17,
+        "inningsPitched": 22.333333333333332,
+        "inningsPitchedDisplay": "22.1",
+        "hitsAllowed": 18,
         "runsAllowed": 6,
         "earnedRunsAllowed": 6,
         "walksAllowed": 10,
-        "strikeouts": 27,
-        "doublesAllowed": 3,
+        "strikeouts": 28,
+        "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 82,
+        "opponentsAtBats": 86,
         "wildPitches": 0,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.207,
-        "walksHits": 27
+        "opponentsBattingAverage": 0.209,
+        "walksHits": 28
       },
       "fieldingStats": {
         "rosterBioId": "15528",
@@ -3117,10 +3117,10 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "jersey": "27",
         "profileUrl": "https://uclabruins.com/sports/baseball/roster/easton-hawk/15528",
         "imageUrl": "https://uclabruins.com/images/2026/1/14/Hawk.png",
-        "gamesPlayed": 5,
+        "gamesPlayed": 6,
         "gamesStarted": 0,
         "putouts": 3,
-        "assists": 3,
+        "assists": 4,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -3129,7 +3129,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 6
+        "totalChances": 7
       },
       "evaluation": {
         "score": 19,
@@ -3140,40 +3140,40 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 67.1875,
-          "Command": 34,
+          "Miss bats": 66.2143826322931,
+          "Command": 36,
           "Damage suppression": 0
         },
-        "summary": "Easton Hawk looks like a RHP option who limits runs and misses bats.",
+        "summary": "Easton Hawk looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.53",
-          "WHIP 1.27",
-          "K/9 11.4"
+          "ERA 2.42",
+          "WHIP 1.25",
+          "K/9 11.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.53"
+            "value": "2.42"
           },
           {
             "label": "WHIP",
-            "value": "1.27"
+            "value": "1.25"
           },
           {
             "label": "K/9",
-            "value": "11.4"
+            "value": "11.3"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "4.0"
           },
           {
             "label": "HR/9",
-            "value": "1.27"
+            "value": "1.21"
           },
           {
             "label": "IP",
-            "value": "21.3"
+            "value": "22.3"
           }
         ],
         "metaLine": "SO / R/R",
@@ -3874,33 +3874,33 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "jersey": "36",
         "profileUrl": "https://uclabruins.com/sports/baseball/roster/dean-west/15543",
         "imageUrl": "https://uclabruins.com/images/2026/1/14/West.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "battingAverage": 0.272,
-        "onBasePercentage": 0.432,
-        "sluggingPercentage": 0.388,
-        "ops": 0.82,
-        "atBats": 147,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "battingAverage": 0.275,
+        "onBasePercentage": 0.433,
+        "sluggingPercentage": 0.396,
+        "ops": 0.829,
+        "atBats": 149,
         "runs": 40,
-        "hits": 40,
-        "doubles": 8,
+        "hits": 41,
+        "doubles": 9,
         "triples": 0,
         "homeRuns": 3,
-        "runsBattedIn": 26,
-        "totalBases": 57,
-        "walks": 24,
+        "runsBattedIn": 27,
+        "totalBases": 59,
+        "walks": 25,
         "hitByPitch": 18,
-        "strikeouts": 22,
+        "strikeouts": 23,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 1,
+        "sacrificeFlies": 2,
         "sacrificeHits": 2,
         "stolenBases": 8,
         "stolenBasesAttempts": 9,
-        "putouts": 54,
+        "putouts": 57,
         "assists": 3,
         "errors": 0,
-        "plateAppearances": 202,
+        "plateAppearances": 206,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -3912,9 +3912,9 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "jersey": "36",
         "profileUrl": "https://uclabruins.com/sports/baseball/roster/dean-west/15543",
         "imageUrl": "https://uclabruins.com/images/2026/1/14/West.png",
-        "gamesPlayed": 29,
-        "gamesStarted": 29,
-        "putouts": 54,
+        "gamesPlayed": 30,
+        "gamesStarted": 30,
+        "putouts": 57,
         "assists": 3,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -3924,39 +3924,39 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 57
+        "totalChances": 60
       },
       "evaluation": {
-        "score": 54,
+        "score": 55,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 84.44444444444443,
-          "Power": 17.894736842105267,
-          "Contact": 32.500000000000014,
-          "Discipline": 98.98989898989898,
+          "On-base": 84.99999999999999,
+          "Power": 20.000000000000007,
+          "Contact": 34.375000000000014,
+          "Discipline": 98.55072463768114,
           "Speed": 26.666666666666668
         },
         "summary": "Dean West profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .272",
-          "OBP .432",
-          "SLG .388"
+          "AVG .275",
+          "OBP .433",
+          "SLG .396"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".272"
+            "value": ".275"
           },
           {
             "label": "OBP",
-            "value": ".432"
+            "value": ".433"
           },
           {
             "label": "SLG",
-            "value": ".388"
+            "value": ".396"
           },
           {
             "label": "HR",
@@ -3964,7 +3964,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
           },
           {
             "label": "RBI",
-            "value": "26"
+            "value": "27"
           },
           {
             "label": "SB",
@@ -4019,21 +4019,21 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "jersey": "38",
         "profileUrl": "https://uclabruins.com/sports/baseball/roster/trey-gudoy/15559",
         "imageUrl": "https://uclabruins.com/images/2026/1/14/Gudoy.png",
-        "gamesPlayed": 15,
-        "gamesStarted": 8,
-        "battingAverage": 0.364,
-        "onBasePercentage": 0.475,
-        "sluggingPercentage": 0.424,
-        "ops": 0.899,
-        "atBats": 33,
-        "runs": 8,
+        "gamesPlayed": 16,
+        "gamesStarted": 9,
+        "battingAverage": 0.353,
+        "onBasePercentage": 0.488,
+        "sluggingPercentage": 0.412,
+        "ops": 0.9,
+        "atBats": 34,
+        "runs": 9,
         "hits": 12,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 2,
         "totalBases": 14,
-        "walks": 6,
+        "walks": 8,
         "hitByPitch": 1,
         "strikeouts": 7,
         "intentionalWalks": 0,
@@ -4045,43 +4045,43 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "putouts": 0,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 41,
+        "plateAppearances": 44,
         "caughtStealing": 0,
         "pickedOff": 0
       },
       "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
-        "score": 66,
+        "score": 67,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
           "On-base": 100,
-          "Power": 27.368421052631575,
-          "Contact": 89.99999999999999,
-          "Discipline": 73.01587301587298,
+          "Power": 24.21052631578947,
+          "Contact": 83.12499999999999,
+          "Discipline": 100,
           "Speed": 0
         },
-        "summary": "Trey Gudoy profiles as a OF piece who gets on base at a high clip.",
+        "summary": "Trey Gudoy profiles as a OF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .364",
-          "OBP .475",
-          "SLG .424"
+          "AVG .353",
+          "OBP .488",
+          "SLG .412"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".364"
+            "value": ".353"
           },
           {
             "label": "OBP",
-            "value": ".475"
+            "value": ".488"
           },
           {
             "label": "SLG",
-            "value": ".424"
+            "value": ".412"
           },
           {
             "label": "HR",
@@ -4144,13 +4144,13 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "jersey": "39",
         "profileUrl": "https://uclabruins.com/sports/baseball/roster/mulivai-levu/15534",
         "imageUrl": "https://uclabruins.com/images/2026/1/14/Levu.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "battingAverage": 0.362,
-        "onBasePercentage": 0.456,
-        "sluggingPercentage": 0.618,
-        "ops": 1.074,
-        "atBats": 152,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "battingAverage": 0.353,
+        "onBasePercentage": 0.446,
+        "sluggingPercentage": 0.603,
+        "ops": 1.049,
+        "atBats": 156,
         "runs": 41,
         "hits": 55,
         "doubles": 7,
@@ -4160,17 +4160,17 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "totalBases": 94,
         "walks": 16,
         "hitByPitch": 11,
-        "strikeouts": 18,
+        "strikeouts": 19,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 259,
+        "putouts": 266,
         "assists": 16,
         "errors": 0,
-        "plateAppearances": 183,
+        "plateAppearances": 187,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -4182,9 +4182,9 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "jersey": "39",
         "profileUrl": "https://uclabruins.com/sports/baseball/roster/mulivai-levu/15534",
         "imageUrl": "https://uclabruins.com/images/2026/1/14/Levu.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "putouts": 259,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "putouts": 266,
         "assists": 16,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -4194,39 +4194,39 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 275
+        "totalChances": 282
       },
       "evaluation": {
-        "score": 79,
+        "score": 74,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 97.77777777777777,
-          "Power": 78.42105263157896,
-          "Contact": 88.75,
-          "Discipline": 76.54320987654319,
+          "On-base": 92.22222222222221,
+          "Power": 74.47368421052632,
+          "Contact": 83.12499999999999,
+          "Discipline": 71.34502923976606,
           "Speed": 3.3333333333333335
         },
         "summary": "Mulivai Levu profiles as a 1B piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .362",
-          "OBP .456",
-          "SLG .618"
+          "AVG .353",
+          "OBP .446",
+          "SLG .603"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".362"
+            "value": ".353"
           },
           {
             "label": "OBP",
-            "value": ".456"
+            "value": ".446"
           },
           {
             "label": "SLG",
-            "value": ".618"
+            "value": ".603"
           },
           {
             "label": "HR",
@@ -4289,33 +4289,33 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "jersey": "40",
         "profileUrl": "https://uclabruins.com/sports/baseball/roster/cashel-dugger/15524",
         "imageUrl": "https://uclabruins.com/images/2026/1/14/Dugger.png",
-        "gamesPlayed": 33,
-        "gamesStarted": 31,
-        "battingAverage": 0.288,
-        "onBasePercentage": 0.41,
-        "sluggingPercentage": 0.441,
-        "ops": 0.851,
-        "atBats": 118,
-        "runs": 26,
-        "hits": 34,
-        "doubles": 6,
+        "gamesPlayed": 34,
+        "gamesStarted": 32,
+        "battingAverage": 0.289,
+        "onBasePercentage": 0.408,
+        "sluggingPercentage": 0.446,
+        "ops": 0.854,
+        "atBats": 121,
+        "runs": 27,
+        "hits": 35,
+        "doubles": 7,
         "triples": 0,
         "homeRuns": 4,
-        "runsBattedIn": 27,
-        "totalBases": 52,
+        "runsBattedIn": 28,
+        "totalBases": 54,
         "walks": 18,
         "hitByPitch": 7,
-        "strikeouts": 20,
+        "strikeouts": 21,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 323,
+        "putouts": 332,
         "assists": 19,
         "errors": 4,
-        "plateAppearances": 144,
+        "plateAppearances": 147,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4327,51 +4327,51 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "jersey": "40",
         "profileUrl": "https://uclabruins.com/sports/baseball/roster/cashel-dugger/15524",
         "imageUrl": "https://uclabruins.com/images/2026/1/14/Dugger.png",
-        "gamesPlayed": 33,
-        "gamesStarted": 31,
-        "putouts": 323,
+        "gamesPlayed": 34,
+        "gamesStarted": 32,
+        "putouts": 332,
         "assists": 19,
         "errors": 4,
-        "fieldingPercentage": 0.988,
+        "fieldingPercentage": 0.989,
         "doublePlays": 1,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 6,
         "stolenBasesPercentage": 0.538,
         "passedBalls": 3,
         "catchersInterference": 1,
-        "totalChances": 346
+        "totalChances": 355
       },
       "evaluation": {
-        "score": 50,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 72.2222222222222,
-          "Power": 31.8421052631579,
-          "Contact": 42.499999999999986,
-          "Discipline": 77.77777777777776,
+          "On-base": 71.11111111111109,
+          "Power": 33.15789473684211,
+          "Contact": 43.124999999999986,
+          "Discipline": 73.01587301587298,
           "Speed": 0
         },
         "summary": "Cashel Dugger profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .288",
-          "OBP .410",
-          "SLG .441"
+          "AVG .289",
+          "OBP .408",
+          "SLG .446"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".288"
+            "value": ".289"
           },
           {
             "label": "OBP",
-            "value": ".410"
+            "value": ".408"
           },
           {
             "label": "SLG",
-            "value": ".441"
+            "value": ".446"
           },
           {
             "label": "HR",
@@ -4379,7 +4379,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "28"
           },
           {
             "label": "SB",
@@ -5037,32 +5037,32 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "jersey": "85",
         "profileUrl": "https://uclabruins.com/sports/baseball/roster/cal-randall/15541",
         "imageUrl": "https://uclabruins.com/images/2026/1/14/Randall.png",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 0,
-        "appearances": 19,
+        "appearances": 20,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.52,
-        "whip": 1.3,
+        "earnedRunAverage": 3.31,
+        "whip": 1.29,
         "wins": 2,
         "losses": 0,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 15.333333333333334,
-        "inningsPitchedDisplay": "15.1",
-        "hitsAllowed": 7,
+        "inningsPitched": 16.333333333333332,
+        "inningsPitchedDisplay": "16.1",
+        "hitsAllowed": 8,
         "runsAllowed": 6,
         "earnedRunsAllowed": 6,
         "walksAllowed": 13,
-        "strikeouts": 31,
+        "strikeouts": 33,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 52,
+        "opponentsAtBats": 56,
         "wildPitches": 2,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.135,
-        "walksHits": 20
+        "opponentsBattingAverage": 0.143,
+        "walksHits": 21
       },
       "fieldingStats": {
         "rosterBioId": "15541",
@@ -5086,7 +5086,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 24,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5095,23 +5095,23 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 100,
-          "Command": 27.692307692307693,
+          "Command": 30.769230769230766,
           "Damage suppression": 0
         },
         "summary": "Cal Randall looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 3.52",
-          "WHIP 1.30",
+          "ERA 3.31",
+          "WHIP 1.29",
           "K/9 18.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.52"
+            "value": "3.31"
           },
           {
             "label": "WHIP",
-            "value": "1.30"
+            "value": "1.29"
           },
           {
             "label": "K/9",
@@ -5119,15 +5119,15 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
           },
           {
             "label": "BB/9",
-            "value": "7.6"
+            "value": "7.2"
           },
           {
             "label": "HR/9",
-            "value": "0.59"
+            "value": "0.55"
           },
           {
             "label": "IP",
-            "value": "15.3"
+            "value": "16.3"
           }
         ],
         "metaLine": "JR / R/R",
@@ -5300,29 +5300,29 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 80,
+        "score": 77,
         "fit": {
-          "label": "Priority",
-          "className": "fit-priority"
+          "label": "Pursue",
+          "className": "fit-pursue"
         },
         "summary": "Roch Cholowsky profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .331",
-          "OBP .464",
-          "SLG .669"
+          "AVG .324",
+          "OBP .455",
+          "SLG .655"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".331"
+            "value": ".324"
           },
           {
             "label": "OBP",
-            "value": ".464"
+            "value": ".455"
           },
           {
             "label": "SLG",
-            "value": ".669"
+            "value": ".655"
           },
           {
             "label": "HR",
@@ -5330,7 +5330,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
           },
           {
             "label": "RBI",
-            "value": "42"
+            "value": "43"
           },
           {
             "label": "SB",
@@ -5338,10 +5338,10 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
           }
         ],
         "components": {
-          "On-base": 100,
-          "Power": 91.84210526315792,
-          "Contact": 69.37500000000001,
-          "Discipline": 84.05797101449275,
+          "On-base": 97.22222222222221,
+          "Power": 88.15789473684212,
+          "Contact": 65,
+          "Discipline": 79.6296296296296,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / R/R",
@@ -5644,29 +5644,29 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 71,
+        "score": 69,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Roman Martin profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .326",
-          "OBP .464",
-          "SLG .525"
+          "AVG .319",
+          "OBP .459",
+          "SLG .514"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".326"
+            "value": ".319"
           },
           {
             "label": "OBP",
-            "value": ".464"
+            "value": ".459"
           },
           {
             "label": "SLG",
-            "value": ".525"
+            "value": ".514"
           },
           {
             "label": "HR",
@@ -5682,9 +5682,9 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
           }
         ],
         "components": {
-          "On-base": 100,
-          "Power": 53.947368421052644,
-          "Contact": 66.25000000000001,
+          "On-base": 99.44444444444444,
+          "Power": 51.05263157894737,
+          "Contact": 61.875,
           "Discipline": 92.3611111111111,
           "Speed": 0
         },
@@ -5789,22 +5789,22 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         },
         "summary": "Will Gasparino profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .366",
-          "OBP .467",
-          "SLG .731"
+          "AVG .365",
+          "OBP .464",
+          "SLG .723"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".366"
+            "value": ".365"
           },
           {
             "label": "OBP",
-            "value": ".467"
+            "value": ".464"
           },
           {
             "label": "SLG",
-            "value": ".731"
+            "value": ".723"
           },
           {
             "label": "HR",
@@ -5822,8 +5822,8 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "components": {
           "On-base": 100,
           "Power": 100,
-          "Contact": 91.25,
-          "Discipline": 50.69444444444443,
+          "Contact": 90.62499999999999,
+          "Discipline": 48.48484848484848,
           "Speed": 6.666666666666667
         },
         "metaLine": "JR / R/R",
@@ -5920,29 +5920,29 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "position": "OF",
         "classYear": "R-JR",
         "handedness": "L/R",
-        "score": 33,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Payton Brennan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .259",
-          "OBP .372",
-          "SLG .427"
+          "AVG .253",
+          "OBP .369",
+          "SLG .418"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".259"
+            "value": ".253"
           },
           {
             "label": "OBP",
-            "value": ".372"
+            "value": ".369"
           },
           {
             "label": "SLG",
-            "value": ".427"
+            "value": ".418"
           },
           {
             "label": "HR",
@@ -5958,10 +5958,10 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
           }
         ],
         "components": {
-          "On-base": 51.11111111111109,
-          "Power": 28.157894736842103,
-          "Contact": 24.375000000000004,
-          "Discipline": 23.84823848238482,
+          "On-base": 49.44444444444443,
+          "Power": 25.789473684210524,
+          "Contact": 20.625,
+          "Discipline": 20.707070707070702,
           "Speed": 16.666666666666664
         },
         "metaLine": "R-JR / L/R",
@@ -5989,29 +5989,29 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "S/R",
-        "score": 32,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Zach Strickland looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.70",
-          "WHIP 1.07",
-          "K/9 12.6"
+          "ERA 3.55",
+          "WHIP 1.03",
+          "K/9 12.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.70"
+            "value": "3.55"
           },
           {
             "label": "WHIP",
-            "value": "1.07"
+            "value": "1.03"
           },
           {
             "label": "K/9",
-            "value": "12.6"
+            "value": "12.4"
           },
           {
             "label": "BB/9",
@@ -6019,17 +6019,17 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.48"
+            "value": "1.42"
           },
           {
             "label": "IP",
-            "value": "24.3"
+            "value": "25.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 77.9576587795766,
+          "Miss bats": 76.67464114832536,
           "Command": 100,
           "Damage suppression": 0
         },
@@ -6541,21 +6541,21 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 33,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Logan Reddemann looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.85",
+          "ERA 2.87",
           "WHIP 0.97",
-          "K/9 13.2"
+          "K/9 12.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.85"
+            "value": "2.87"
           },
           {
             "label": "WHIP",
@@ -6563,25 +6563,25 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
           },
           {
             "label": "K/9",
-            "value": "13.2"
+            "value": "12.7"
           },
           {
             "label": "BB/9",
-            "value": "1.3"
+            "value": "1.7"
           },
           {
             "label": "HR/9",
-            "value": "0.84"
+            "value": "0.75"
           },
           {
             "label": "IP",
-            "value": "53.7"
+            "value": "59.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 84.07679277244496,
+          "Miss bats": 78.82173692229559,
           "Command": 100,
           "Damage suppression": 0
         },
@@ -6679,29 +6679,29 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 34,
+        "score": 33,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Aiden Aguayo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .269",
-          "OBP .367",
-          "SLG .388"
+          "AVG .271",
+          "OBP .366",
+          "SLG .386"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".269"
+            "value": ".271"
           },
           {
             "label": "OBP",
-            "value": ".367"
+            "value": ".366"
           },
           {
             "label": "SLG",
-            "value": ".388"
+            "value": ".386"
           },
           {
             "label": "HR",
@@ -6709,7 +6709,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "SB",
@@ -6717,10 +6717,10 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
           }
         ],
         "components": {
-          "On-base": 48.333333333333314,
-          "Power": 17.894736842105267,
-          "Contact": 30.625000000000007,
-          "Discipline": 54.700854700854684,
+          "On-base": 47.77777777777776,
+          "Power": 17.368421052631582,
+          "Contact": 31.875000000000007,
+          "Discipline": 49.2063492063492,
           "Speed": 3.3333333333333335
         },
         "metaLine": "FR / R/R",
@@ -6753,43 +6753,43 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Easton Hawk looks like a RHP option who limits runs and misses bats.",
+        "summary": "Easton Hawk looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.53",
-          "WHIP 1.27",
-          "K/9 11.4"
+          "ERA 2.42",
+          "WHIP 1.25",
+          "K/9 11.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.53"
+            "value": "2.42"
           },
           {
             "label": "WHIP",
-            "value": "1.27"
+            "value": "1.25"
           },
           {
             "label": "K/9",
-            "value": "11.4"
+            "value": "11.3"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "4.0"
           },
           {
             "label": "HR/9",
-            "value": "1.27"
+            "value": "1.21"
           },
           {
             "label": "IP",
-            "value": "21.3"
+            "value": "22.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 67.1875,
-          "Command": 34,
+          "Miss bats": 66.2143826322931,
+          "Command": 36,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -7294,29 +7294,29 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 54,
+        "score": 55,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Dean West profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .272",
-          "OBP .432",
-          "SLG .388"
+          "AVG .275",
+          "OBP .433",
+          "SLG .396"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".272"
+            "value": ".275"
           },
           {
             "label": "OBP",
-            "value": ".432"
+            "value": ".433"
           },
           {
             "label": "SLG",
-            "value": ".388"
+            "value": ".396"
           },
           {
             "label": "HR",
@@ -7324,7 +7324,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
           },
           {
             "label": "RBI",
-            "value": "26"
+            "value": "27"
           },
           {
             "label": "SB",
@@ -7332,10 +7332,10 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
           }
         ],
         "components": {
-          "On-base": 84.44444444444443,
-          "Power": 17.894736842105267,
-          "Contact": 32.500000000000014,
-          "Discipline": 98.98989898989898,
+          "On-base": 84.99999999999999,
+          "Power": 20.000000000000007,
+          "Contact": 34.375000000000014,
+          "Discipline": 98.55072463768114,
           "Speed": 26.666666666666668
         },
         "metaLine": "JR / L/R",
@@ -7363,29 +7363,29 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "position": "OF",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 66,
+        "score": 67,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
-        "summary": "Trey Gudoy profiles as a OF piece who gets on base at a high clip.",
+        "summary": "Trey Gudoy profiles as a OF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .364",
-          "OBP .475",
-          "SLG .424"
+          "AVG .353",
+          "OBP .488",
+          "SLG .412"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".364"
+            "value": ".353"
           },
           {
             "label": "OBP",
-            "value": ".475"
+            "value": ".488"
           },
           {
             "label": "SLG",
-            "value": ".424"
+            "value": ".412"
           },
           {
             "label": "HR",
@@ -7402,9 +7402,9 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 27.368421052631575,
-          "Contact": 89.99999999999999,
-          "Discipline": 73.01587301587298,
+          "Power": 24.21052631578947,
+          "Contact": 83.12499999999999,
+          "Discipline": 100,
           "Speed": 0
         },
         "metaLine": "FR / L/L",
@@ -7432,29 +7432,29 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "position": "1B",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 79,
+        "score": 74,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Mulivai Levu profiles as a 1B piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .362",
-          "OBP .456",
-          "SLG .618"
+          "AVG .353",
+          "OBP .446",
+          "SLG .603"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".362"
+            "value": ".353"
           },
           {
             "label": "OBP",
-            "value": ".456"
+            "value": ".446"
           },
           {
             "label": "SLG",
-            "value": ".618"
+            "value": ".603"
           },
           {
             "label": "HR",
@@ -7470,10 +7470,10 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
           }
         ],
         "components": {
-          "On-base": 97.77777777777777,
-          "Power": 78.42105263157896,
-          "Contact": 88.75,
-          "Discipline": 76.54320987654319,
+          "On-base": 92.22222222222221,
+          "Power": 74.47368421052632,
+          "Contact": 83.12499999999999,
+          "Discipline": 71.34502923976606,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / L/R",
@@ -7501,29 +7501,29 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 50,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cashel Dugger profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .288",
-          "OBP .410",
-          "SLG .441"
+          "AVG .289",
+          "OBP .408",
+          "SLG .446"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".288"
+            "value": ".289"
           },
           {
             "label": "OBP",
-            "value": ".410"
+            "value": ".408"
           },
           {
             "label": "SLG",
-            "value": ".441"
+            "value": ".446"
           },
           {
             "label": "HR",
@@ -7531,7 +7531,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "28"
           },
           {
             "label": "SB",
@@ -7539,10 +7539,10 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
           }
         ],
         "components": {
-          "On-base": 72.2222222222222,
-          "Power": 31.8421052631579,
-          "Contact": 42.499999999999986,
-          "Discipline": 77.77777777777776,
+          "On-base": 71.11111111111109,
+          "Power": 33.15789473684211,
+          "Contact": 43.124999999999986,
+          "Discipline": 73.01587301587298,
           "Speed": 0
         },
         "metaLine": "JR / L/R",
@@ -7913,25 +7913,25 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 24,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cal Randall looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 3.52",
-          "WHIP 1.30",
+          "ERA 3.31",
+          "WHIP 1.29",
           "K/9 18.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.52"
+            "value": "3.31"
           },
           {
             "label": "WHIP",
-            "value": "1.30"
+            "value": "1.29"
           },
           {
             "label": "K/9",
@@ -7939,22 +7939,22 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
           },
           {
             "label": "BB/9",
-            "value": "7.6"
+            "value": "7.2"
           },
           {
             "label": "HR/9",
-            "value": "0.59"
+            "value": "0.55"
           },
           {
             "label": "IP",
-            "value": "15.3"
+            "value": "16.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 100,
-          "Command": 27.692307692307693,
+          "Command": 30.769230769230766,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",

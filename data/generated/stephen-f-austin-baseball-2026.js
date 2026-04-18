@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
-  "generatedAt": "2026-04-17T11:14:00.227Z",
+  "generatedAt": "2026-04-18T11:01:39.177Z",
   "season": 2026,
   "school": {
     "slug": "stephen-f-austin",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
     }
   },
   "teamSummary": {
-    "record": "22-17, 11-7",
-    "battingAverage": ".278",
-    "earnedRunAverage": "5.56",
+    "record": "22-18, 11-8",
+    "battingAverage": ".277",
+    "earnedRunAverage": "5.60",
     "wins": "22",
-    "losses": "17",
+    "losses": "18",
     "hitting": {
-      "atBats": "1279",
-      "runsScored": "273",
-      "hits": "356",
-      "runsBattedIn": "237",
+      "atBats": "1309",
+      "runsScored": "277",
+      "hits": "363",
+      "runsBattedIn": "241",
       "doubles": "69",
       "triples": "12",
       "homeRuns": "26",
-      "walks": "214",
+      "walks": "219",
       "intentionalWalks": "2",
-      "strikeouts": "258",
+      "strikeouts": "262",
       "strikeoutsLooking": "46",
       "hitByPitch": "32",
       "stolenBases": "66",
-      "caughtStealing": "12",
-      "sacrificeHits": "12",
+      "caughtStealing": "13",
+      "sacrificeHits": "13",
       "sacrificeFlies": "16",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "270",
-      "flyOuts": "366",
-      "groundedIntoDoublePlay": "25",
+      "groundOuts": "281",
+      "flyOuts": "375",
+      "groundedIntoDoublePlay": "27",
       "pickedOff": "4",
-      "doublePlaysHitInto": "30",
+      "doublePlaysHitInto": "32",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "986",
-      "assists": "346",
-      "errors": "49",
+      "putouts": "1013",
+      "assists": "360",
+      "errors": "50",
       "passedBalls": "2",
       "catchersInterference": "0",
       "stolenBasesAgainst": "43",
       "caughtStealingBy": "8",
       "involvedInDoublePlays": "28",
       "involvedInTriplePlays": "0",
-      "totalChances": "1381",
+      "totalChances": "1423",
       "fieldingPercentage": ".965"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "22",
-      "saves": "28",
-      "losses": "17",
+      "saves": "29",
+      "losses": "18",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "0",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "328.2",
-      "hitsAllowed": "373",
-      "runsAllowed": "233",
-      "earnedRunsAllowed": "203",
-      "walksAllowed": "157",
-      "strikeouts": "332",
-      "battersFaced": "1547",
-      "opponentAtBats": "1313",
-      "doublesAllowed": "63",
+      "inningsPitched": "337.2",
+      "hitsAllowed": "388",
+      "runsAllowed": "242",
+      "earnedRunsAllowed": "210",
+      "walksAllowed": "158",
+      "strikeouts": "340",
+      "battersFaced": "1589",
+      "opponentAtBats": "1351",
+      "doublesAllowed": "67",
       "triplesAllowed": "4",
       "homerunsAllowed": "29",
-      "wildPitches": "35",
+      "wildPitches": "36",
       "balks": "3",
       "hitBatters": "42",
-      "strikeoutsLooking": "39",
+      "strikeoutsLooking": "41",
       "intentionalWalks": "6",
-      "inheritedRunners": "93",
-      "inheritedRunnersThatScored": "43",
-      "sacrificeHitsAllowed": "20",
-      "sacrificeFliesAllowed": "14",
+      "inheritedRunners": "100",
+      "inheritedRunnersThatScored": "48",
+      "sacrificeHitsAllowed": "22",
+      "sacrificeFliesAllowed": "15",
       "catchersInterferenceAllowed": "0",
-      "pitches": "5278",
-      "flyouts": "291",
-      "groundouts": "304",
+      "pitches": "5419",
+      "flyouts": "299",
+      "groundouts": "312",
       "teamUnearnedRuns": "0",
       "saveRecord": "5",
       "pickoff": "0"
@@ -161,21 +161,21 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "1",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/cermodrick-bland/7822",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Cermodrick_Bland_vbsiw.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 37,
-        "battingAverage": 0.29,
-        "onBasePercentage": 0.404,
-        "sluggingPercentage": 0.42,
-        "ops": 0.824,
-        "atBats": 131,
-        "runs": 27,
+        "gamesPlayed": 39,
+        "gamesStarted": 38,
+        "battingAverage": 0.288,
+        "onBasePercentage": 0.412,
+        "sluggingPercentage": 0.417,
+        "ops": 0.829,
+        "atBats": 132,
+        "runs": 28,
         "hits": 38,
         "doubles": 6,
         "triples": 4,
         "homeRuns": 1,
         "runsBattedIn": 23,
         "totalBases": 55,
-        "walks": 21,
+        "walks": 24,
         "hitByPitch": 6,
         "strikeouts": 40,
         "intentionalWalks": 0,
@@ -184,10 +184,10 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "sacrificeHits": 1,
         "stolenBases": 18,
         "stolenBasesAttempts": 19,
-        "putouts": 70,
+        "putouts": 71,
         "assists": 1,
         "errors": 2,
-        "plateAppearances": 182,
+        "plateAppearances": 186,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -199,9 +199,9 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "1",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/cermodrick-bland/7822",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Cermodrick_Bland_vbsiw.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 29,
-        "putouts": 70,
+        "gamesPlayed": 31,
+        "gamesStarted": 30,
+        "putouts": 71,
         "assists": 1,
         "errors": 2,
         "fieldingPercentage": 0.973,
@@ -211,39 +211,39 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 73
+        "totalChances": 74
       },
       "evaluation": {
-        "score": 48,
+        "score": 50,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 68.88888888888889,
-          "Power": 26.31578947368421,
-          "Contact": 43.749999999999986,
-          "Discipline": 36.11111111111111,
+          "On-base": 73.3333333333333,
+          "Power": 25.52631578947368,
+          "Contact": 42.499999999999986,
+          "Discipline": 44.444444444444436,
           "Speed": 60
         },
         "summary": "Cermodrick Bland profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .290",
-          "OBP .404",
-          "SLG .420"
+          "AVG .288",
+          "OBP .412",
+          "SLG .417"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".288"
           },
           {
             "label": "OBP",
-            "value": ".404"
+            "value": ".412"
           },
           {
             "label": "SLG",
-            "value": ".420"
+            "value": ".417"
           },
           {
             "label": "HR",
@@ -451,13 +451,13 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "3",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/coby-dejesus/7850",
         "imageUrl": "https://sfajacks.com/images/2025/10/16/Coby_DeJesus_eDYky.jpg",
-        "gamesPlayed": 18,
-        "gamesStarted": 16,
-        "battingAverage": 0.224,
-        "onBasePercentage": 0.35,
-        "sluggingPercentage": 0.265,
-        "ops": 0.615,
-        "atBats": 49,
+        "gamesPlayed": 19,
+        "gamesStarted": 17,
+        "battingAverage": 0.208,
+        "onBasePercentage": 0.328,
+        "sluggingPercentage": 0.245,
+        "ops": 0.573,
+        "atBats": 53,
         "runs": 10,
         "hits": 11,
         "doubles": 2,
@@ -467,17 +467,17 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "totalBases": 13,
         "walks": 10,
         "hitByPitch": 0,
-        "strikeouts": 7,
+        "strikeouts": 8,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 31,
-        "assists": 43,
+        "putouts": 33,
+        "assists": 44,
         "errors": 0,
-        "plateAppearances": 61,
+        "plateAppearances": 65,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -489,10 +489,10 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "3",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/coby-dejesus/7850",
         "imageUrl": "https://sfajacks.com/images/2025/10/16/Coby_DeJesus_eDYky.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 16,
-        "putouts": 31,
-        "assists": 43,
+        "gamesPlayed": 17,
+        "gamesStarted": 17,
+        "putouts": 33,
+        "assists": 44,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 10,
@@ -501,39 +501,39 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 74
+        "totalChances": 77
       },
       "evaluation": {
-        "score": 27,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 38.888888888888864,
+          "On-base": 26.66666666666666,
           "Power": 0,
-          "Contact": 2.500000000000002,
+          "Contact": 0,
           "Discipline": 100,
           "Speed": 3.3333333333333335
         },
         "summary": "Coby DeJesus profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .224",
-          "OBP .350",
-          "SLG .265"
+          "AVG .208",
+          "OBP .328",
+          "SLG .245"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".224"
+            "value": ".208"
           },
           {
             "label": "OBP",
-            "value": ".350"
+            "value": ".328"
           },
           {
             "label": "SLG",
-            "value": ".265"
+            "value": ".245"
           },
           {
             "label": "HR",
@@ -596,20 +596,20 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "4",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/jhett-creel/7842",
         "imageUrl": "https://sfajacks.com/images/2025/10/16/Jhett_Creel_csoFE.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 37,
-        "battingAverage": 0.331,
-        "onBasePercentage": 0.476,
-        "sluggingPercentage": 0.441,
-        "ops": 0.917,
-        "atBats": 127,
-        "runs": 31,
-        "hits": 42,
+        "gamesPlayed": 39,
+        "gamesStarted": 38,
+        "battingAverage": 0.336,
+        "onBasePercentage": 0.477,
+        "sluggingPercentage": 0.443,
+        "ops": 0.92,
+        "atBats": 131,
+        "runs": 32,
+        "hits": 44,
         "doubles": 8,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 22,
-        "totalBases": 56,
+        "totalBases": 58,
         "walks": 35,
         "hitByPitch": 3,
         "strikeouts": 19,
@@ -619,10 +619,10 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "sacrificeHits": 0,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 147,
-        "assists": 8,
+        "putouts": 154,
+        "assists": 9,
         "errors": 3,
-        "plateAppearances": 170,
+        "plateAppearances": 174,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -634,51 +634,51 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "4",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/jhett-creel/7842",
         "imageUrl": "https://sfajacks.com/images/2025/10/16/Jhett_Creel_csoFE.jpg",
-        "gamesPlayed": 18,
-        "gamesStarted": 17,
-        "putouts": 147,
-        "assists": 8,
+        "gamesPlayed": 19,
+        "gamesStarted": 18,
+        "putouts": 154,
+        "assists": 9,
         "errors": 3,
-        "fieldingPercentage": 0.981,
+        "fieldingPercentage": 0.982,
         "doublePlays": 0,
         "stolenBasesAgainst": 23,
         "caughtStealingBy": 3,
         "stolenBasesPercentage": 0.885,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 158
+        "totalChances": 166
       },
       "evaluation": {
-        "score": 67,
+        "score": 68,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Pursue",
+          "className": "fit-pursue"
         },
         "components": {
           "On-base": 100,
-          "Power": 31.8421052631579,
-          "Contact": 69.37500000000001,
+          "Power": 32.36842105263158,
+          "Contact": 72.50000000000001,
           "Discipline": 100,
           "Speed": 6.666666666666667
         },
         "summary": "Jhett Creel profiles as a C piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .331",
-          "OBP .476",
-          "SLG .441"
+          "AVG .336",
+          "OBP .477",
+          "SLG .443"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".331"
+            "value": ".336"
           },
           {
             "label": "OBP",
-            "value": ".476"
+            "value": ".477"
           },
           {
             "label": "SLG",
-            "value": ".441"
+            "value": ".443"
           },
           {
             "label": "HR",
@@ -1548,13 +1548,13 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "13",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/ethan-pe-a/7861",
         "imageUrl": "https://sfajacks.com/images/2025/10/16/Ethan_Pena_sfq3F.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "battingAverage": 0.263,
-        "onBasePercentage": 0.286,
-        "sluggingPercentage": 0.401,
-        "ops": 0.687,
-        "atBats": 152,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "battingAverage": 0.258,
+        "onBasePercentage": 0.285,
+        "sluggingPercentage": 0.394,
+        "ops": 0.679,
+        "atBats": 155,
         "runs": 18,
         "hits": 40,
         "doubles": 9,
@@ -1562,19 +1562,19 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "homeRuns": 4,
         "runsBattedIn": 27,
         "totalBases": 61,
-        "walks": 5,
+        "walks": 6,
         "hitByPitch": 1,
-        "strikeouts": 28,
+        "strikeouts": 29,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 32,
-        "assists": 57,
+        "putouts": 33,
+        "assists": 59,
         "errors": 13,
-        "plateAppearances": 162,
+        "plateAppearances": 166,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1586,51 +1586,51 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "13",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/ethan-pe-a/7861",
         "imageUrl": "https://sfajacks.com/images/2025/10/16/Ethan_Pena_sfq3F.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "putouts": 32,
-        "assists": 57,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "putouts": 33,
+        "assists": 59,
         "errors": 13,
-        "fieldingPercentage": 0.873,
+        "fieldingPercentage": 0.876,
         "doublePlays": 6,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 102
+        "totalChances": 105
       },
       "evaluation": {
-        "score": 12,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 3.3333333333333055,
-          "Power": 21.31578947368422,
-          "Contact": 26.875000000000004,
-          "Discipline": 0,
+          "On-base": 2.7777777777777497,
+          "Power": 19.473684210526322,
+          "Contact": 23.750000000000004,
+          "Discipline": 0.7662835249042129,
           "Speed": 3.3333333333333335
         },
         "summary": "Ethan Peña gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .263",
-          "OBP .286",
-          "SLG .401"
+          "AVG .258",
+          "OBP .285",
+          "SLG .394"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".263"
+            "value": ".258"
           },
           {
             "label": "OBP",
-            "value": ".286"
+            "value": ".285"
           },
           {
             "label": "SLG",
-            "value": ".401"
+            "value": ".394"
           },
           {
             "label": "HR",
@@ -1981,32 +1981,32 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "16",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/cody-templeton/7836",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Cody_Templeton_YPQiN.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 9,
-        "appearances": 9,
+        "gamesPlayed": 10,
+        "gamesStarted": 10,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.97,
-        "whip": 1.51,
+        "earnedRunAverage": 4.5,
+        "whip": 1.52,
         "wins": 4,
-        "losses": 0,
+        "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 47.666666666666664,
-        "inningsPitchedDisplay": "47.2",
-        "hitsAllowed": 51,
-        "runsAllowed": 25,
-        "earnedRunsAllowed": 21,
-        "walksAllowed": 21,
-        "strikeouts": 51,
-        "doublesAllowed": 8,
+        "inningsPitched": 54,
+        "inningsPitchedDisplay": "54.0",
+        "hitsAllowed": 60,
+        "runsAllowed": 31,
+        "earnedRunsAllowed": 27,
+        "walksAllowed": 22,
+        "strikeouts": 55,
+        "doublesAllowed": 12,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 188,
+        "opponentsAtBats": 213,
         "wildPitches": 1,
         "hitBatters": 7,
         "balks": 0,
-        "opponentsBattingAverage": 0.271,
-        "walksHits": 72
+        "opponentsBattingAverage": 0.282,
+        "walksHits": 82
       },
       "fieldingStats": {
         "rosterBioId": "7836",
@@ -2015,22 +2015,22 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "16",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/cody-templeton/7836",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Cody_Templeton_YPQiN.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 6,
-        "putouts": 1,
-        "assists": 5,
+        "gamesPlayed": 7,
+        "gamesStarted": 7,
+        "putouts": 2,
+        "assists": 8,
         "errors": 1,
-        "fieldingPercentage": 0.857,
+        "fieldingPercentage": 0.909,
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 7
+        "totalChances": 11
       },
       "evaluation": {
-        "score": 15,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2038,40 +2038,40 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.176096630642085,
-          "Command": 28.57142857142857,
+          "Miss bats": 46.96969696969697,
+          "Command": 30,
           "Damage suppression": 0
         },
-        "summary": "Cody Templeton looks like a LHP option who limits runs and misses bats.",
+        "summary": "Cody Templeton looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 3.97",
-          "WHIP 1.51",
-          "K/9 9.6"
+          "ERA 4.50",
+          "WHIP 1.52",
+          "K/9 9.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.97"
+            "value": "4.50"
           },
           {
             "label": "WHIP",
-            "value": "1.51"
+            "value": "1.52"
           },
           {
             "label": "K/9",
-            "value": "9.6"
+            "value": "9.2"
           },
           {
             "label": "BB/9",
-            "value": "4.0"
+            "value": "3.7"
           },
           {
             "label": "HR/9",
-            "value": "0.57"
+            "value": "0.50"
           },
           {
             "label": "IP",
-            "value": "47.7"
+            "value": "54.0"
           }
         ],
         "metaLine": "SR / L/L",
@@ -2122,33 +2122,33 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "17",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/mark-henning/7825",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Mark_Henning_mZGFP.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "battingAverage": 0.27,
-        "onBasePercentage": 0.404,
-        "sluggingPercentage": 0.437,
-        "ops": 0.841,
-        "atBats": 126,
-        "runs": 28,
-        "hits": 34,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "battingAverage": 0.273,
+        "onBasePercentage": 0.409,
+        "sluggingPercentage": 0.438,
+        "ops": 0.847,
+        "atBats": 128,
+        "runs": 29,
+        "hits": 35,
         "doubles": 9,
         "triples": 0,
         "homeRuns": 4,
         "runsBattedIn": 27,
-        "totalBases": 55,
-        "walks": 23,
+        "totalBases": 56,
+        "walks": 24,
         "hitByPitch": 6,
         "strikeouts": 20,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
-        "sacrificeHits": 0,
+        "sacrificeHits": 1,
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
-        "putouts": 282,
-        "assists": 16,
+        "putouts": 292,
+        "assists": 19,
         "errors": 1,
-        "plateAppearances": 162,
+        "plateAppearances": 166,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2160,10 +2160,10 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "17",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/mark-henning/7825",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Mark_Henning_mZGFP.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "putouts": 282,
-        "assists": 16,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "putouts": 292,
+        "assists": 19,
         "errors": 1,
         "fieldingPercentage": 0.997,
         "doublePlays": 24,
@@ -2172,39 +2172,39 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 299
+        "totalChances": 312
       },
       "evaluation": {
-        "score": 51,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 68.88888888888889,
-          "Power": 30.789473684210527,
-          "Contact": 31.25000000000001,
+          "On-base": 71.66666666666664,
+          "Power": 31.05263157894737,
+          "Contact": 33.12500000000001,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },
         "summary": "Mark Henning profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .270",
-          "OBP .404",
-          "SLG .437"
+          "AVG .273",
+          "OBP .409",
+          "SLG .438"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".270"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".404"
+            "value": ".409"
           },
           {
             "label": "SLG",
-            "value": ".437"
+            "value": ".438"
           },
           {
             "label": "HR",
@@ -2268,32 +2268,32 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "18",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/kadin-munson/7832",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Kadin_Munson_tI3tG.jpg",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 0,
-        "appearances": 14,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.91,
-        "whip": 1.91,
+        "earnedRunAverage": 4.76,
+        "whip": 2.03,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 11,
-        "inningsPitchedDisplay": "11.0",
-        "hitsAllowed": 14,
+        "inningsPitched": 11.333333333333334,
+        "inningsPitchedDisplay": "11.1",
+        "hitsAllowed": 16,
         "runsAllowed": 6,
         "earnedRunsAllowed": 6,
         "walksAllowed": 7,
-        "strikeouts": 9,
+        "strikeouts": 10,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 44,
+        "opponentsAtBats": 47,
         "wildPitches": 3,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.318,
-        "walksHits": 21
+        "opponentsBattingAverage": 0.34,
+        "walksHits": 23
       },
       "fieldingStats": {
         "rosterBioId": "7832",
@@ -2317,7 +2317,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "totalChances": 4
       },
       "evaluation": {
-        "score": 7,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2325,40 +2325,40 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 30.57851239669421,
-          "Command": 5.714285714285712,
+          "Miss bats": 35.828877005347586,
+          "Command": 8.571428571428571,
           "Damage suppression": 0
         },
         "summary": "Kadin Munson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.91",
-          "WHIP 1.91",
-          "K/9 7.4"
+          "ERA 4.76",
+          "WHIP 2.03",
+          "K/9 7.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.91"
+            "value": "4.76"
           },
           {
             "label": "WHIP",
-            "value": "1.91"
+            "value": "2.03"
           },
           {
             "label": "K/9",
-            "value": "7.4"
+            "value": "7.9"
           },
           {
             "label": "BB/9",
-            "value": "5.7"
+            "value": "5.6"
           },
           {
             "label": "HR/9",
-            "value": "1.64"
+            "value": "1.59"
           },
           {
             "label": "IP",
-            "value": "11.0"
+            "value": "11.3"
           }
         ],
         "metaLine": "SR / L/L",
@@ -2838,33 +2838,33 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "22",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/josh-ibe/7827",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Josh_Ibe_0Y2Ht.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 27,
-        "battingAverage": 0.267,
-        "onBasePercentage": 0.418,
-        "sluggingPercentage": 0.465,
-        "ops": 0.883,
-        "atBats": 86,
+        "gamesPlayed": 30,
+        "gamesStarted": 28,
+        "battingAverage": 0.278,
+        "onBasePercentage": 0.421,
+        "sluggingPercentage": 0.467,
+        "ops": 0.888,
+        "atBats": 90,
         "runs": 25,
-        "hits": 23,
+        "hits": 25,
         "doubles": 5,
         "triples": 0,
         "homeRuns": 4,
-        "runsBattedIn": 21,
-        "totalBases": 40,
+        "runsBattedIn": 23,
+        "totalBases": 42,
         "walks": 21,
         "hitByPitch": 2,
         "strikeouts": 26,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 4,
+        "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
-        "putouts": 16,
-        "assists": 1,
+        "putouts": 17,
+        "assists": 2,
         "errors": 0,
-        "plateAppearances": 114,
+        "plateAppearances": 118,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -2876,10 +2876,10 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "22",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/josh-ibe/7827",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Josh_Ibe_0Y2Ht.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 8,
-        "putouts": 16,
-        "assists": 1,
+        "gamesPlayed": 9,
+        "gamesStarted": 9,
+        "putouts": 17,
+        "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -2888,39 +2888,39 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 17
+        "totalChances": 19
       },
       "evaluation": {
-        "score": 50,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 76.66666666666664,
-          "Power": 38.15789473684211,
-          "Contact": 29.375000000000007,
+          "On-base": 78.33333333333331,
+          "Power": 38.6842105263158,
+          "Contact": 36.250000000000014,
           "Discipline": 67.52136752136751,
           "Speed": 6.666666666666667
         },
         "summary": "Josh Ibe profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .267",
-          "OBP .418",
-          "SLG .465"
+          "AVG .278",
+          "OBP .421",
+          "SLG .467"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".267"
+            "value": ".278"
           },
           {
             "label": "OBP",
-            "value": ".418"
+            "value": ".421"
           },
           {
             "label": "SLG",
-            "value": ".465"
+            "value": ".467"
           },
           {
             "label": "HR",
@@ -2928,7 +2928,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "23"
           },
           {
             "label": "SB",
@@ -3125,34 +3125,34 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "24",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/julian-swift/7835",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Julian_Swift_QflLg.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "battingAverage": 0.329,
-        "onBasePercentage": 0.376,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "battingAverage": 0.333,
+        "onBasePercentage": 0.379,
         "sluggingPercentage": 0.525,
-        "ops": 0.901,
-        "atBats": 158,
-        "runs": 28,
-        "hits": 52,
+        "ops": 0.904,
+        "atBats": 162,
+        "runs": 29,
+        "hits": 54,
         "doubles": 11,
         "triples": 4,
         "homeRuns": 4,
-        "runsBattedIn": 47,
-        "totalBases": 83,
+        "runsBattedIn": 48,
+        "totalBases": 85,
         "walks": 11,
         "hitByPitch": 2,
         "strikeouts": 16,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 4,
+        "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 2,
         "sacrificeHits": 1,
         "stolenBases": 8,
-        "stolenBasesAttempts": 12,
-        "putouts": 34,
-        "assists": 85,
+        "stolenBasesAttempts": 13,
+        "putouts": 36,
+        "assists": 87,
         "errors": 9,
-        "plateAppearances": 190,
-        "caughtStealing": 4,
+        "plateAppearances": 196,
+        "caughtStealing": 5,
         "pickedOff": 1
       },
       "pitchingStats": null,
@@ -3163,47 +3163,47 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "24",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/julian-swift/7835",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Julian_Swift_QflLg.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
-        "putouts": 34,
-        "assists": 85,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "putouts": 36,
+        "assists": 87,
         "errors": 9,
-        "fieldingPercentage": 0.93,
+        "fieldingPercentage": 0.932,
         "doublePlays": 11,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 128
+        "totalChances": 132
       },
       "evaluation": {
-        "score": 54,
+        "score": 55,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 53.33333333333332,
+          "On-base": 54.99999999999999,
           "Power": 53.947368421052644,
-          "Contact": 68.125,
+          "Contact": 70.625,
           "Discipline": 54.166666666666664,
           "Speed": 26.666666666666668
         },
         "summary": "Julian Swift profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .329",
-          "OBP .376",
+          "AVG .333",
+          "OBP .379",
           "SLG .525"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".329"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".376"
+            "value": ".379"
           },
           {
             "label": "SLG",
@@ -3215,7 +3215,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           },
           {
             "label": "RBI",
-            "value": "47"
+            "value": "48"
           },
           {
             "label": "SB",
@@ -3412,13 +3412,13 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "26",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/evan-aslaksen/7843",
         "imageUrl": "https://sfajacks.com/images/2025/10/16/Evan_Aslaksen_J4Zk7.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 3,
-        "battingAverage": 0.476,
-        "onBasePercentage": 0.522,
-        "sluggingPercentage": 1.095,
-        "ops": 1.617,
-        "atBats": 21,
+        "gamesPlayed": 9,
+        "gamesStarted": 4,
+        "battingAverage": 0.4,
+        "onBasePercentage": 0.444,
+        "sluggingPercentage": 0.92,
+        "ops": 1.364,
+        "atBats": 25,
         "runs": 7,
         "hits": 10,
         "doubles": 2,
@@ -3438,7 +3438,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "putouts": 19,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 23,
+        "plateAppearances": 27,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3465,13 +3465,13 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "totalChances": 19
       },
       "evaluation": {
-        "score": 83,
+        "score": 80,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "components": {
-          "On-base": 100,
+          "On-base": 91.1111111111111,
           "Power": 100,
           "Contact": 100,
           "Discipline": 51.85185185185184,
@@ -3479,22 +3479,22 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         },
         "summary": "Evan Aslaksen profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .476",
-          "OBP .522",
-          "SLG 1.095"
+          "AVG .400",
+          "OBP .444",
+          "SLG .920"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".476"
+            "value": ".400"
           },
           {
             "label": "OBP",
-            "value": ".522"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": "1.095"
+            "value": ".920"
           },
           {
             "label": "HR",
@@ -3558,32 +3558,32 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "28",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/brennan-greer/7856",
         "imageUrl": "https://sfajacks.com/images/2025/10/16/Brennan_Greer_BxLy4.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 0,
-        "appearances": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
         "earnedRunAverage": 6.17,
-        "whip": 1.54,
+        "whip": 1.63,
         "wins": 1,
         "losses": 1,
         "saves": 1,
         "shutouts": 0,
         "inningsPitched": 11.666666666666666,
         "inningsPitchedDisplay": "11.2",
-        "hitsAllowed": 12,
-        "runsAllowed": 8,
+        "hitsAllowed": 13,
+        "runsAllowed": 9,
         "earnedRunsAllowed": 8,
         "walksAllowed": 6,
         "strikeouts": 14,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 47,
+        "opponentsAtBats": 48,
         "wildPitches": 2,
         "hitBatters": 0,
         "balks": 0,
-        "opponentsBattingAverage": 0.255,
-        "walksHits": 18
+        "opponentsBattingAverage": 0.271,
+        "walksHits": 19
       },
       "fieldingStats": {
         "rosterBioId": "7856",
@@ -3622,7 +3622,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "summary": "Brennan Greer looks like a RHP option who misses bats.",
         "summaryMetrics": [
           "ERA 6.17",
-          "WHIP 1.54",
+          "WHIP 1.63",
           "K/9 10.8"
         ],
         "statCards": [
@@ -3632,7 +3632,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.54"
+            "value": "1.63"
           },
           {
             "label": "K/9",
@@ -4250,31 +4250,31 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "33",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/gage-elliott/7853",
         "imageUrl": "https://sfajacks.com/images/2025/10/16/Gage_Elliott_xNZTu.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 1,
-        "appearances": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 10.8,
-        "whip": 2.2,
+        "earnedRunAverage": 10.45,
+        "whip": 2.13,
         "wins": 1,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 10,
-        "inningsPitchedDisplay": "10.0",
+        "inningsPitched": 10.333333333333334,
+        "inningsPitchedDisplay": "10.1",
         "hitsAllowed": 13,
         "runsAllowed": 12,
         "earnedRunsAllowed": 12,
         "walksAllowed": 9,
-        "strikeouts": 11,
+        "strikeouts": 12,
         "doublesAllowed": 1,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 42,
+        "opponentsAtBats": 43,
         "wildPitches": 2,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.31,
+        "opponentsBattingAverage": 0.302,
         "walksHits": 22
       },
       "fieldingStats": {
@@ -4299,7 +4299,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "totalChances": 4
       },
       "evaluation": {
-        "score": 11,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4307,40 +4307,40 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 53.63636363636364,
-          "Command": 4.444444444444446,
+          "Miss bats": 58.65102639296187,
+          "Command": 6.66666666666667,
           "Damage suppression": 0
         },
         "summary": "Gage Elliott looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 10.80",
-          "WHIP 2.20",
-          "K/9 9.9"
+          "ERA 10.45",
+          "WHIP 2.13",
+          "K/9 10.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "10.80"
+            "value": "10.45"
           },
           {
             "label": "WHIP",
-            "value": "2.20"
+            "value": "2.13"
           },
           {
             "label": "K/9",
-            "value": "9.9"
+            "value": "10.5"
           },
           {
             "label": "BB/9",
-            "value": "8.1"
+            "value": "7.8"
           },
           {
             "label": "HR/9",
-            "value": "1.80"
+            "value": "1.74"
           },
           {
             "label": "IP",
-            "value": "10.0"
+            "value": "10.3"
           }
         ],
         "metaLine": "SO / R/R",
@@ -4534,32 +4534,32 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "35",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/jack-james/7830",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Jack_James_Tn1Y6.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 0,
-        "appearances": 12,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 1,
-        "whip": 0.85,
+        "earnedRunAverage": 1.24,
+        "whip": 0.9,
         "wins": 2,
         "losses": 0,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 27,
-        "inningsPitchedDisplay": "27.0",
-        "hitsAllowed": 18,
-        "runsAllowed": 4,
-        "earnedRunsAllowed": 3,
+        "inningsPitched": 29,
+        "inningsPitchedDisplay": "29.0",
+        "hitsAllowed": 21,
+        "runsAllowed": 6,
+        "earnedRunsAllowed": 4,
         "walksAllowed": 5,
-        "strikeouts": 25,
+        "strikeouts": 27,
         "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 94,
-        "wildPitches": 1,
+        "opponentsAtBats": 102,
+        "wildPitches": 2,
         "hitBatters": 0,
         "balks": 0,
-        "opponentsBattingAverage": 0.191,
-        "walksHits": 23
+        "opponentsBattingAverage": 0.206,
+        "walksHits": 26
       },
       "fieldingStats": {
         "rosterBioId": "7830",
@@ -4568,22 +4568,22 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "35",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/jack-james/7830",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Jack_James_Tn1Y6.jpg",
-        "gamesPlayed": 2,
+        "gamesPlayed": 3,
         "gamesStarted": 0,
         "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
+        "assists": 2,
+        "errors": 1,
+        "fieldingPercentage": 0.667,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 1
+        "totalChances": 3
       },
       "evaluation": {
-        "score": 21,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4591,40 +4591,40 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.3939393939394,
-          "Command": 80,
+          "Miss bats": 39.81191222570532,
+          "Command": 87.99999999999999,
           "Damage suppression": 0
         },
         "summary": "Jack James looks like a LHP option who limits runs and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.00",
-          "WHIP 0.85",
-          "K/9 8.3"
+          "ERA 1.24",
+          "WHIP 0.90",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.00"
+            "value": "1.24"
           },
           {
             "label": "WHIP",
-            "value": "0.85"
+            "value": "0.90"
           },
           {
             "label": "K/9",
-            "value": "8.3"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "1.7"
+            "value": "1.6"
           },
           {
             "label": "HR/9",
-            "value": "0.33"
+            "value": "0.31"
           },
           {
             "label": "IP",
-            "value": "27.0"
+            "value": "29.0"
           }
         ],
         "metaLine": "SR / L/L",
@@ -4962,33 +4962,33 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "42",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/juan-cantua/7846",
         "imageUrl": "https://sfajacks.com/images/2025/10/16/Juan_Cantua-Linnear_Hoxus.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 34,
-        "battingAverage": 0.311,
-        "onBasePercentage": 0.47,
-        "sluggingPercentage": 0.437,
-        "ops": 0.907,
-        "atBats": 103,
+        "gamesPlayed": 36,
+        "gamesStarted": 35,
+        "battingAverage": 0.299,
+        "onBasePercentage": 0.457,
+        "sluggingPercentage": 0.421,
+        "ops": 0.878,
+        "atBats": 107,
         "runs": 26,
         "hits": 32,
         "doubles": 8,
         "triples": 1,
         "homeRuns": 1,
-        "runsBattedIn": 12,
+        "runsBattedIn": 13,
         "totalBases": 45,
         "walks": 26,
         "hitByPitch": 5,
-        "strikeouts": 23,
+        "strikeouts": 25,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 7,
         "stolenBasesAttempts": 11,
-        "putouts": 49,
+        "putouts": 51,
         "assists": 3,
         "errors": 0,
-        "plateAppearances": 150,
+        "plateAppearances": 154,
         "caughtStealing": 4,
         "pickedOff": 0
       },
@@ -5000,9 +5000,9 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "jersey": "42",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/juan-cantua/7846",
         "imageUrl": "https://sfajacks.com/images/2025/10/16/Juan_Cantua-Linnear_Hoxus.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 30,
-        "putouts": 49,
+        "gamesPlayed": 32,
+        "gamesStarted": 31,
+        "putouts": 51,
         "assists": 3,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -5012,39 +5012,39 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 52
+        "totalChances": 54
       },
       "evaluation": {
-        "score": 67,
+        "score": 63,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 100,
-          "Power": 30.789473684210527,
-          "Contact": 56.875,
-          "Discipline": 100,
+          "On-base": 98.33333333333333,
+          "Power": 26.57894736842105,
+          "Contact": 49.37499999999999,
+          "Discipline": 93.33333333333333,
           "Speed": 23.333333333333332
         },
         "summary": "Juan Cantua profiles as a OF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .311",
-          "OBP .470",
-          "SLG .437"
+          "AVG .299",
+          "OBP .457",
+          "SLG .421"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".311"
+            "value": ".299"
           },
           {
             "label": "OBP",
-            "value": ".470"
+            "value": ".457"
           },
           {
             "label": "SLG",
-            "value": ".437"
+            "value": ".421"
           },
           {
             "label": "HR",
@@ -5052,7 +5052,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "SB",
@@ -5817,29 +5817,29 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 48,
+        "score": 50,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cermodrick Bland profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .290",
-          "OBP .404",
-          "SLG .420"
+          "AVG .288",
+          "OBP .412",
+          "SLG .417"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".288"
           },
           {
             "label": "OBP",
-            "value": ".404"
+            "value": ".412"
           },
           {
             "label": "SLG",
-            "value": ".420"
+            "value": ".417"
           },
           {
             "label": "HR",
@@ -5855,10 +5855,10 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           }
         ],
         "components": {
-          "On-base": 68.88888888888889,
-          "Power": 26.31578947368421,
-          "Contact": 43.749999999999986,
-          "Discipline": 36.11111111111111,
+          "On-base": 73.3333333333333,
+          "Power": 25.52631578947368,
+          "Contact": 42.499999999999986,
+          "Discipline": 44.444444444444436,
           "Speed": 60
         },
         "metaLine": "SO / R/R",
@@ -5955,29 +5955,29 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 27,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Coby DeJesus profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .224",
-          "OBP .350",
-          "SLG .265"
+          "AVG .208",
+          "OBP .328",
+          "SLG .245"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".224"
+            "value": ".208"
           },
           {
             "label": "OBP",
-            "value": ".350"
+            "value": ".328"
           },
           {
             "label": "SLG",
-            "value": ".265"
+            "value": ".245"
           },
           {
             "label": "HR",
@@ -5993,9 +5993,9 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           }
         ],
         "components": {
-          "On-base": 38.888888888888864,
+          "On-base": 26.66666666666666,
           "Power": 0,
-          "Contact": 2.500000000000002,
+          "Contact": 0,
           "Discipline": 100,
           "Speed": 3.3333333333333335
         },
@@ -6024,29 +6024,29 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 67,
+        "score": 68,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Pursue",
+          "className": "fit-pursue"
         },
         "summary": "Jhett Creel profiles as a C piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .331",
-          "OBP .476",
-          "SLG .441"
+          "AVG .336",
+          "OBP .477",
+          "SLG .443"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".331"
+            "value": ".336"
           },
           {
             "label": "OBP",
-            "value": ".476"
+            "value": ".477"
           },
           {
             "label": "SLG",
-            "value": ".441"
+            "value": ".443"
           },
           {
             "label": "HR",
@@ -6063,8 +6063,8 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 31.8421052631579,
-          "Contact": 69.37500000000001,
+          "Power": 32.36842105263158,
+          "Contact": 72.50000000000001,
           "Discipline": 100,
           "Speed": 6.666666666666667
         },
@@ -6506,29 +6506,29 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 12,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ethan Peña gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .263",
-          "OBP .286",
-          "SLG .401"
+          "AVG .258",
+          "OBP .285",
+          "SLG .394"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".263"
+            "value": ".258"
           },
           {
             "label": "OBP",
-            "value": ".286"
+            "value": ".285"
           },
           {
             "label": "SLG",
-            "value": ".401"
+            "value": ".394"
           },
           {
             "label": "HR",
@@ -6544,10 +6544,10 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           }
         ],
         "components": {
-          "On-base": 3.3333333333333055,
-          "Power": 21.31578947368422,
-          "Contact": 26.875000000000004,
-          "Discipline": 0,
+          "On-base": 2.7777777777777497,
+          "Power": 19.473684210526322,
+          "Contact": 23.750000000000004,
+          "Discipline": 0.7662835249042129,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / R/R",
@@ -6713,48 +6713,48 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "position": "LHP",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 15,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cody Templeton looks like a LHP option who limits runs and misses bats.",
+        "summary": "Cody Templeton looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 3.97",
-          "WHIP 1.51",
-          "K/9 9.6"
+          "ERA 4.50",
+          "WHIP 1.52",
+          "K/9 9.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.97"
+            "value": "4.50"
           },
           {
             "label": "WHIP",
-            "value": "1.51"
+            "value": "1.52"
           },
           {
             "label": "K/9",
-            "value": "9.6"
+            "value": "9.2"
           },
           {
             "label": "BB/9",
-            "value": "4.0"
+            "value": "3.7"
           },
           {
             "label": "HR/9",
-            "value": "0.57"
+            "value": "0.50"
           },
           {
             "label": "IP",
-            "value": "47.7"
+            "value": "54.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.176096630642085,
-          "Command": 28.57142857142857,
+          "Miss bats": 46.96969696969697,
+          "Command": 30,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/L",
@@ -6782,29 +6782,29 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 51,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Mark Henning profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .270",
-          "OBP .404",
-          "SLG .437"
+          "AVG .273",
+          "OBP .409",
+          "SLG .438"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".270"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".404"
+            "value": ".409"
           },
           {
             "label": "SLG",
-            "value": ".437"
+            "value": ".438"
           },
           {
             "label": "HR",
@@ -6820,9 +6820,9 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           }
         ],
         "components": {
-          "On-base": 68.88888888888889,
-          "Power": 30.789473684210527,
-          "Contact": 31.25000000000001,
+          "On-base": 71.66666666666664,
+          "Power": 31.05263157894737,
+          "Contact": 33.12500000000001,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },
@@ -6851,48 +6851,48 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "position": "LHP",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 7,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Kadin Munson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.91",
-          "WHIP 1.91",
-          "K/9 7.4"
+          "ERA 4.76",
+          "WHIP 2.03",
+          "K/9 7.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.91"
+            "value": "4.76"
           },
           {
             "label": "WHIP",
-            "value": "1.91"
+            "value": "2.03"
           },
           {
             "label": "K/9",
-            "value": "7.4"
+            "value": "7.9"
           },
           {
             "label": "BB/9",
-            "value": "5.7"
+            "value": "5.6"
           },
           {
             "label": "HR/9",
-            "value": "1.64"
+            "value": "1.59"
           },
           {
             "label": "IP",
-            "value": "11.0"
+            "value": "11.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 30.57851239669421,
-          "Command": 5.714285714285712,
+          "Miss bats": 35.828877005347586,
+          "Command": 8.571428571428571,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/L",
@@ -7127,29 +7127,29 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 50,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Josh Ibe profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .267",
-          "OBP .418",
-          "SLG .465"
+          "AVG .278",
+          "OBP .421",
+          "SLG .467"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".267"
+            "value": ".278"
           },
           {
             "label": "OBP",
-            "value": ".418"
+            "value": ".421"
           },
           {
             "label": "SLG",
-            "value": ".465"
+            "value": ".467"
           },
           {
             "label": "HR",
@@ -7157,7 +7157,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "23"
           },
           {
             "label": "SB",
@@ -7165,9 +7165,9 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           }
         ],
         "components": {
-          "On-base": 76.66666666666664,
-          "Power": 38.15789473684211,
-          "Contact": 29.375000000000007,
+          "On-base": 78.33333333333331,
+          "Power": 38.6842105263158,
+          "Contact": 36.250000000000014,
           "Discipline": 67.52136752136751,
           "Speed": 6.666666666666667
         },
@@ -7265,25 +7265,25 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 54,
+        "score": 55,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Julian Swift profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .329",
-          "OBP .376",
+          "AVG .333",
+          "OBP .379",
           "SLG .525"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".329"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".376"
+            "value": ".379"
           },
           {
             "label": "SLG",
@@ -7295,7 +7295,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           },
           {
             "label": "RBI",
-            "value": "47"
+            "value": "48"
           },
           {
             "label": "SB",
@@ -7303,9 +7303,9 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           }
         ],
         "components": {
-          "On-base": 53.33333333333332,
+          "On-base": 54.99999999999999,
           "Power": 53.947368421052644,
-          "Contact": 68.125,
+          "Contact": 70.625,
           "Discipline": 54.166666666666664,
           "Speed": 26.666666666666668
         },
@@ -7403,29 +7403,29 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 83,
+        "score": 80,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Evan Aslaksen profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .476",
-          "OBP .522",
-          "SLG 1.095"
+          "AVG .400",
+          "OBP .444",
+          "SLG .920"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".476"
+            "value": ".400"
           },
           {
             "label": "OBP",
-            "value": ".522"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": "1.095"
+            "value": ".920"
           },
           {
             "label": "HR",
@@ -7441,7 +7441,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           }
         ],
         "components": {
-          "On-base": 100,
+          "On-base": 91.1111111111111,
           "Power": 100,
           "Contact": 100,
           "Discipline": 51.85185185185184,
@@ -7480,7 +7480,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "summary": "Brennan Greer looks like a RHP option who misses bats.",
         "summaryMetrics": [
           "ERA 6.17",
-          "WHIP 1.54",
+          "WHIP 1.63",
           "K/9 10.8"
         ],
         "statCards": [
@@ -7490,7 +7490,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.54"
+            "value": "1.63"
           },
           {
             "label": "K/9",
@@ -7816,48 +7816,48 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 11,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Gage Elliott looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 10.80",
-          "WHIP 2.20",
-          "K/9 9.9"
+          "ERA 10.45",
+          "WHIP 2.13",
+          "K/9 10.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "10.80"
+            "value": "10.45"
           },
           {
             "label": "WHIP",
-            "value": "2.20"
+            "value": "2.13"
           },
           {
             "label": "K/9",
-            "value": "9.9"
+            "value": "10.5"
           },
           {
             "label": "BB/9",
-            "value": "8.1"
+            "value": "7.8"
           },
           {
             "label": "HR/9",
-            "value": "1.80"
+            "value": "1.74"
           },
           {
             "label": "IP",
-            "value": "10.0"
+            "value": "10.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 53.63636363636364,
-          "Command": 4.444444444444446,
+          "Miss bats": 58.65102639296187,
+          "Command": 6.66666666666667,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -7954,48 +7954,48 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "position": "LHP",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 21,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack James looks like a LHP option who limits runs and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.00",
-          "WHIP 0.85",
-          "K/9 8.3"
+          "ERA 1.24",
+          "WHIP 0.90",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.00"
+            "value": "1.24"
           },
           {
             "label": "WHIP",
-            "value": "0.85"
+            "value": "0.90"
           },
           {
             "label": "K/9",
-            "value": "8.3"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "1.7"
+            "value": "1.6"
           },
           {
             "label": "HR/9",
-            "value": "0.33"
+            "value": "0.31"
           },
           {
             "label": "IP",
-            "value": "27.0"
+            "value": "29.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.3939393939394,
-          "Command": 80,
+          "Miss bats": 39.81191222570532,
+          "Command": 87.99999999999999,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/L",
@@ -8161,29 +8161,29 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 67,
+        "score": 63,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Juan Cantua profiles as a OF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .311",
-          "OBP .470",
-          "SLG .437"
+          "AVG .299",
+          "OBP .457",
+          "SLG .421"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".311"
+            "value": ".299"
           },
           {
             "label": "OBP",
-            "value": ".470"
+            "value": ".457"
           },
           {
             "label": "SLG",
-            "value": ".437"
+            "value": ".421"
           },
           {
             "label": "HR",
@@ -8191,7 +8191,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "SB",
@@ -8199,10 +8199,10 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           }
         ],
         "components": {
-          "On-base": 100,
-          "Power": 30.789473684210527,
-          "Contact": 56.875,
-          "Discipline": 100,
+          "On-base": 98.33333333333333,
+          "Power": 26.57894736842105,
+          "Contact": 49.37499999999999,
+          "Discipline": 93.33333333333333,
           "Speed": 23.333333333333332
         },
         "metaLine": "JR / L/L",

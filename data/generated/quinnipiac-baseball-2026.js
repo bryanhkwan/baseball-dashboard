@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.quinnipiac2026 = {
-  "generatedAt": "2026-04-17T11:13:51.451Z",
+  "generatedAt": "2026-04-18T11:01:25.547Z",
   "season": 2026,
   "school": {
     "slug": "quinnipiac",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
     }
   },
   "teamSummary": {
-    "record": "14-20, 7-8",
+    "record": "15-21, 8-9",
     "battingAverage": ".267",
-    "earnedRunAverage": "6.47",
-    "wins": "14",
-    "losses": "20",
+    "earnedRunAverage": "6.40",
+    "wins": "15",
+    "losses": "21",
     "hitting": {
-      "atBats": "1144",
-      "runsScored": "202",
-      "hits": "305",
-      "runsBattedIn": "183",
-      "doubles": "55",
+      "atBats": "1209",
+      "runsScored": "208",
+      "hits": "323",
+      "runsBattedIn": "189",
+      "doubles": "58",
       "triples": "8",
       "homeRuns": "20",
-      "walks": "193",
+      "walks": "204",
       "intentionalWalks": "4",
-      "strikeouts": "236",
-      "strikeoutsLooking": "63",
+      "strikeouts": "250",
+      "strikeoutsLooking": "66",
       "hitByPitch": "37",
-      "stolenBases": "46",
-      "caughtStealing": "20",
-      "sacrificeHits": "26",
-      "sacrificeFlies": "22",
+      "stolenBases": "49",
+      "caughtStealing": "21",
+      "sacrificeHits": "28",
+      "sacrificeFlies": "24",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "322",
-      "flyOuts": "279",
-      "groundedIntoDoublePlay": "19",
+      "groundOuts": "344",
+      "flyOuts": "294",
+      "groundedIntoDoublePlay": "20",
       "pickedOff": "9",
-      "doublePlaysHitInto": "25",
+      "doublePlaysHitInto": "26",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "881",
-      "assists": "305",
-      "errors": "47",
+      "putouts": "932",
+      "assists": "325",
+      "errors": "49",
       "passedBalls": "16",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "59",
+      "stolenBasesAgainst": "60",
       "caughtStealingBy": "10",
-      "involvedInDoublePlays": "20",
+      "involvedInDoublePlays": "22",
       "involvedInTriplePlays": "0",
-      "totalChances": "1233",
+      "totalChances": "1306",
       "fieldingPercentage": ".962"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "14",
+      "wins": "15",
       "saves": "6",
-      "losses": "20",
+      "losses": "21",
       "gamesStarted": "0",
       "gamesCompleted": "0",
-      "shutouts": "0",
+      "shutouts": "1",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "293.2",
-      "hitsAllowed": "329",
-      "runsAllowed": "239",
-      "earnedRunsAllowed": "211",
-      "walksAllowed": "157",
-      "strikeouts": "309",
-      "battersFaced": "1410",
-      "opponentAtBats": "1172",
-      "doublesAllowed": "64",
-      "triplesAllowed": "7",
+      "inningsPitched": "310.2",
+      "hitsAllowed": "345",
+      "runsAllowed": "249",
+      "earnedRunsAllowed": "221",
+      "walksAllowed": "164",
+      "strikeouts": "324",
+      "battersFaced": "1489",
+      "opponentAtBats": "1236",
+      "doublesAllowed": "66",
+      "triplesAllowed": "9",
       "homerunsAllowed": "19",
-      "wildPitches": "32",
+      "wildPitches": "33",
       "balks": "3",
-      "hitBatters": "54",
-      "strikeoutsLooking": "83",
+      "hitBatters": "59",
+      "strikeoutsLooking": "88",
       "intentionalWalks": "0",
       "inheritedRunners": "11",
       "inheritedRunnersThatScored": "5",
-      "sacrificeHitsAllowed": "13",
-      "sacrificeFliesAllowed": "14",
+      "sacrificeHitsAllowed": "14",
+      "sacrificeFliesAllowed": "16",
       "catchersInterferenceAllowed": "0",
-      "pitches": "4762",
-      "flyouts": "255",
-      "groundouts": "269",
+      "pitches": "5066",
+      "flyouts": "271",
+      "groundouts": "287",
       "teamUnearnedRuns": "0",
       "saveRecord": "2",
       "pickoff": "5"
@@ -161,13 +161,13 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "1",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/peyton-vancas/15079",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Peyton_Vancas_It3wT.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 22,
-        "battingAverage": 0.282,
-        "onBasePercentage": 0.41,
-        "sluggingPercentage": 0.385,
-        "ops": 0.795,
-        "atBats": 78,
+        "gamesPlayed": 27,
+        "gamesStarted": 23,
+        "battingAverage": 0.268,
+        "onBasePercentage": 0.394,
+        "sluggingPercentage": 0.366,
+        "ops": 0.76,
+        "atBats": 82,
         "runs": 13,
         "hits": 22,
         "doubles": 3,
@@ -177,7 +177,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "totalBases": 30,
         "walks": 16,
         "hitByPitch": 3,
-        "strikeouts": 14,
+        "strikeouts": 15,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 3,
@@ -185,9 +185,9 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 6,
         "putouts": 28,
-        "assists": 48,
+        "assists": 50,
         "errors": 7,
-        "plateAppearances": 111,
+        "plateAppearances": 115,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -199,51 +199,51 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "1",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/peyton-vancas/15079",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Peyton_Vancas_It3wT.jpg",
-        "gamesPlayed": 23,
-        "gamesStarted": 21,
+        "gamesPlayed": 24,
+        "gamesStarted": 22,
         "putouts": 28,
-        "assists": 48,
+        "assists": 50,
         "errors": 7,
-        "fieldingPercentage": 0.916,
+        "fieldingPercentage": 0.918,
         "doublePlays": 8,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 83
+        "totalChances": 85
       },
       "evaluation": {
-        "score": 50,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 72.2222222222222,
-          "Power": 17.10526315789474,
-          "Contact": 38.74999999999998,
-          "Discipline": 100,
+          "On-base": 63.33333333333333,
+          "Power": 12.105263157894735,
+          "Contact": 30.00000000000001,
+          "Discipline": 96.29629629629628,
           "Speed": 13.333333333333334
         },
-        "summary": "Peyton Vancas profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Peyton Vancas profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .282",
-          "OBP .410",
-          "SLG .385"
+          "AVG .268",
+          "OBP .394",
+          "SLG .366"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".282"
+            "value": ".268"
           },
           {
             "label": "OBP",
-            "value": ".410"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".385"
+            "value": ".366"
           },
           {
             "label": "HR",
@@ -306,33 +306,33 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "2",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/christian-smith/15053",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Christian_NMxN7.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 26,
-        "battingAverage": 0.275,
-        "onBasePercentage": 0.35,
-        "sluggingPercentage": 0.55,
-        "ops": 0.9,
-        "atBats": 109,
+        "gamesPlayed": 28,
+        "gamesStarted": 28,
+        "battingAverage": 0.288,
+        "onBasePercentage": 0.356,
+        "sluggingPercentage": 0.551,
+        "ops": 0.907,
+        "atBats": 118,
         "runs": 22,
-        "hits": 30,
-        "doubles": 13,
+        "hits": 34,
+        "doubles": 14,
         "triples": 1,
         "homeRuns": 5,
-        "runsBattedIn": 18,
-        "totalBases": 60,
+        "runsBattedIn": 19,
+        "totalBases": 65,
         "walks": 7,
         "hitByPitch": 6,
-        "strikeouts": 23,
+        "strikeouts": 26,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 203,
+        "putouts": 220,
         "assists": 10,
         "errors": 2,
-        "plateAppearances": 123,
+        "plateAppearances": 132,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -344,51 +344,51 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "2",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/christian-smith/15053",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Christian_NMxN7.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 24,
-        "putouts": 203,
+        "gamesPlayed": 26,
+        "gamesStarted": 26,
+        "putouts": 220,
         "assists": 10,
         "errors": 2,
         "fieldingPercentage": 0.991,
-        "doublePlays": 8,
+        "doublePlays": 10,
         "stolenBasesAgainst": 10,
         "caughtStealingBy": 3,
         "stolenBasesPercentage": 0.769,
         "passedBalls": 4,
         "catchersInterference": 0,
-        "totalChances": 215
+        "totalChances": 232
       },
       "evaluation": {
-        "score": 36,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 38.888888888888864,
-          "Power": 60.526315789473706,
-          "Contact": 34.375000000000014,
-          "Discipline": 11.594202898550723,
+          "On-base": 42.2222222222222,
+          "Power": 60.78947368421055,
+          "Contact": 42.499999999999986,
+          "Discipline": 7.692307692307689,
           "Speed": 0
         },
         "summary": "Christian Smith profiles as a C/1B piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .275",
-          "OBP .350",
-          "SLG .550"
+          "AVG .288",
+          "OBP .356",
+          "SLG .551"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".275"
+            "value": ".288"
           },
           {
             "label": "OBP",
-            "value": ".350"
+            "value": ".356"
           },
           {
             "label": "SLG",
-            "value": ".550"
+            "value": ".551"
           },
           {
             "label": "HR",
@@ -396,7 +396,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "19"
           },
           {
             "label": "SB",
@@ -539,33 +539,33 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "4",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/chase-camac/15068",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Chase_0w24I.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 23,
-        "battingAverage": 0.227,
-        "onBasePercentage": 0.33,
-        "sluggingPercentage": 0.273,
-        "ops": 0.603,
-        "atBats": 88,
-        "runs": 17,
-        "hits": 20,
-        "doubles": 4,
+        "gamesPlayed": 30,
+        "gamesStarted": 25,
+        "battingAverage": 0.242,
+        "onBasePercentage": 0.342,
+        "sluggingPercentage": 0.295,
+        "ops": 0.637,
+        "atBats": 95,
+        "runs": 18,
+        "hits": 23,
+        "doubles": 5,
         "triples": 0,
         "homeRuns": 0,
-        "runsBattedIn": 14,
-        "totalBases": 24,
-        "walks": 15,
+        "runsBattedIn": 15,
+        "totalBases": 28,
+        "walks": 16,
         "hitByPitch": 0,
-        "strikeouts": 13,
+        "strikeouts": 14,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 3,
         "sacrificeHits": 2,
-        "stolenBases": 7,
-        "stolenBasesAttempts": 8,
-        "putouts": 49,
+        "stolenBases": 8,
+        "stolenBasesAttempts": 9,
+        "putouts": 58,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 117,
+        "plateAppearances": 126,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -577,51 +577,51 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "4",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/chase-camac/15068",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Chase_0w24I.jpg",
-        "gamesPlayed": 23,
-        "gamesStarted": 22,
-        "putouts": 49,
+        "gamesPlayed": 25,
+        "gamesStarted": 24,
+        "putouts": 58,
         "assists": 0,
         "errors": 1,
-        "fieldingPercentage": 0.98,
+        "fieldingPercentage": 0.983,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 50
+        "totalChances": 59
       },
       "evaluation": {
-        "score": 26,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 27.777777777777775,
+          "On-base": 34.44444444444444,
           "Power": 0,
-          "Contact": 4.3750000000000036,
+          "Contact": 13.749999999999996,
           "Discipline": 100,
-          "Speed": 23.333333333333332
+          "Speed": 26.666666666666668
         },
-        "summary": "Chase Camac profiles as a OF piece who controls at-bats.",
+        "summary": "Chase Camac profiles as a OF piece who controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .227",
-          "OBP .330",
-          "SLG .273"
+          "AVG .242",
+          "OBP .342",
+          "SLG .295"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".227"
+            "value": ".242"
           },
           {
             "label": "OBP",
-            "value": ".330"
+            "value": ".342"
           },
           {
             "label": "SLG",
-            "value": ".273"
+            "value": ".295"
           },
           {
             "label": "HR",
@@ -629,11 +629,11 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           },
           {
             "label": "RBI",
-            "value": "14"
+            "value": "15"
           },
           {
             "label": "SB",
-            "value": "7"
+            "value": "8"
           }
         ],
         "metaLine": "FY / L/R",
@@ -685,32 +685,32 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "5",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/jc-franconere/15042",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/JC_Franconere_jctRa.jpg",
-        "gamesPlayed": 16,
+        "gamesPlayed": 17,
         "gamesStarted": 0,
-        "appearances": 16,
+        "appearances": 17,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.18,
-        "whip": 1.44,
+        "earnedRunAverage": 4.91,
+        "whip": 1.48,
         "wins": 1,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 23.666666666666668,
-        "inningsPitchedDisplay": "23.2",
-        "hitsAllowed": 22,
-        "runsAllowed": 12,
-        "earnedRunsAllowed": 11,
-        "walksAllowed": 12,
-        "strikeouts": 26,
+        "inningsPitched": 25.666666666666668,
+        "inningsPitchedDisplay": "25.2",
+        "hitsAllowed": 24,
+        "runsAllowed": 15,
+        "earnedRunsAllowed": 14,
+        "walksAllowed": 14,
+        "strikeouts": 27,
         "doublesAllowed": 4,
         "triplesAllowed": 1,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 93,
+        "opponentsAtBats": 101,
         "wildPitches": 1,
-        "hitBatters": 1,
+        "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.237,
-        "walksHits": 34
+        "opponentsBattingAverage": 0.238,
+        "walksHits": 38
       },
       "fieldingStats": {
         "rosterBioId": "15042",
@@ -719,22 +719,22 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "5",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/jc-franconere/15042",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/JC_Franconere_jctRa.jpg",
-        "gamesPlayed": 8,
+        "gamesPlayed": 9,
         "gamesStarted": 0,
         "putouts": 2,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
+        "assists": 3,
+        "errors": 1,
+        "fieldingPercentage": 0.833,
         "doublePlays": 0,
-        "stolenBasesAgainst": 6,
+        "stolenBasesAgainst": 7,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 4
+        "totalChances": 6
       },
       "evaluation": {
-        "score": 14,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -742,32 +742,32 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 53.521126760563384,
-          "Command": 23.333333333333332,
+          "Miss bats": 49.70484061393151,
+          "Command": 18.571428571428566,
           "Damage suppression": 0
         },
         "summary": "J.C. Franconere looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.18",
-          "WHIP 1.44",
-          "K/9 9.9"
+          "ERA 4.91",
+          "WHIP 1.48",
+          "K/9 9.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.18"
+            "value": "4.91"
           },
           {
             "label": "WHIP",
-            "value": "1.44"
+            "value": "1.48"
           },
           {
             "label": "K/9",
-            "value": "9.9"
+            "value": "9.5"
           },
           {
             "label": "BB/9",
-            "value": "4.6"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
@@ -775,7 +775,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           },
           {
             "label": "IP",
-            "value": "23.7"
+            "value": "25.7"
           }
         ],
         "metaLine": "SO / L/L",
@@ -826,33 +826,33 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "6",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/kyle-garbowski/15043",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Kyle_Garbowski_jZnSt.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
-        "battingAverage": 0.285,
-        "onBasePercentage": 0.434,
-        "sluggingPercentage": 0.382,
-        "ops": 0.816,
-        "atBats": 123,
-        "runs": 19,
-        "hits": 35,
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "battingAverage": 0.295,
+        "onBasePercentage": 0.432,
+        "sluggingPercentage": 0.386,
+        "ops": 0.818,
+        "atBats": 132,
+        "runs": 20,
+        "hits": 39,
         "doubles": 5,
         "triples": 2,
         "homeRuns": 1,
-        "runsBattedIn": 20,
-        "totalBases": 47,
+        "runsBattedIn": 21,
+        "totalBases": 51,
         "walks": 27,
         "hitByPitch": 7,
-        "strikeouts": 14,
+        "strikeouts": 15,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 2,
+        "sacrificeFlies": 3,
         "sacrificeHits": 7,
-        "stolenBases": 7,
-        "stolenBasesAttempts": 10,
-        "putouts": 71,
-        "assists": 74,
+        "stolenBases": 8,
+        "stolenBasesAttempts": 11,
+        "putouts": 75,
+        "assists": 78,
         "errors": 7,
-        "plateAppearances": 179,
+        "plateAppearances": 190,
         "caughtStealing": 3,
         "pickedOff": 3
       },
@@ -864,51 +864,51 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "6",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/kyle-garbowski/15043",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Kyle_Garbowski_jZnSt.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 33,
-        "putouts": 71,
-        "assists": 74,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "putouts": 75,
+        "assists": 78,
         "errors": 7,
-        "fieldingPercentage": 0.954,
-        "doublePlays": 12,
+        "fieldingPercentage": 0.956,
+        "doublePlays": 14,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 152
+        "totalChances": 160
       },
       "evaluation": {
-        "score": 55,
+        "score": 57,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 85.55555555555554,
-          "Power": 16.315789473684212,
-          "Contact": 40.624999999999986,
+          "On-base": 84.44444444444443,
+          "Power": 17.368421052631582,
+          "Contact": 46.874999999999986,
           "Discipline": 100,
-          "Speed": 23.333333333333332
+          "Speed": 26.666666666666668
         },
-        "summary": "Kyle Garbowski profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Kyle Garbowski profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .285",
-          "OBP .434",
-          "SLG .382"
+          "AVG .295",
+          "OBP .432",
+          "SLG .386"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".285"
+            "value": ".295"
           },
           {
             "label": "OBP",
-            "value": ".434"
+            "value": ".432"
           },
           {
             "label": "SLG",
-            "value": ".382"
+            "value": ".386"
           },
           {
             "label": "HR",
@@ -916,11 +916,11 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "21"
           },
           {
             "label": "SB",
-            "value": "7"
+            "value": "8"
           }
         ],
         "metaLine": "JR / L/R",
@@ -971,34 +971,34 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "7",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/caden-williamson/15080",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Caden_Williamson_lqAtn.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
-        "battingAverage": 0.319,
-        "onBasePercentage": 0.401,
-        "sluggingPercentage": 0.376,
-        "ops": 0.777,
-        "atBats": 141,
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "battingAverage": 0.315,
+        "onBasePercentage": 0.398,
+        "sluggingPercentage": 0.369,
+        "ops": 0.767,
+        "atBats": 149,
         "runs": 25,
-        "hits": 45,
+        "hits": 47,
         "doubles": 3,
         "triples": 1,
         "homeRuns": 1,
         "runsBattedIn": 13,
-        "totalBases": 53,
-        "walks": 17,
+        "totalBases": 55,
+        "walks": 18,
         "hitByPitch": 3,
-        "strikeouts": 26,
+        "strikeouts": 29,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 1,
-        "sacrificeHits": 3,
+        "sacrificeHits": 4,
         "stolenBases": 7,
-        "stolenBasesAttempts": 12,
-        "putouts": 58,
+        "stolenBasesAttempts": 13,
+        "putouts": 60,
         "assists": 5,
         "errors": 1,
-        "plateAppearances": 182,
-        "caughtStealing": 5,
+        "plateAppearances": 194,
+        "caughtStealing": 6,
         "pickedOff": 1
       },
       "pitchingStats": null,
@@ -1009,51 +1009,51 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "7",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/caden-williamson/15080",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Caden_Williamson_lqAtn.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 30,
-        "putouts": 58,
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "putouts": 60,
         "assists": 5,
         "errors": 1,
-        "fieldingPercentage": 0.984,
+        "fieldingPercentage": 0.985,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 64
+        "totalChances": 66
       },
       "evaluation": {
-        "score": 46,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 67.22222222222223,
-          "Power": 14.73684210526316,
-          "Contact": 61.875,
-          "Discipline": 50.42735042735041,
+          "On-base": 65.55555555555556,
+          "Power": 12.894736842105262,
+          "Contact": 59.375,
+          "Discipline": 46.74329501915708,
           "Speed": 23.333333333333332
         },
-        "summary": "Caden Williamson profiles as a OF piece who gets on base at a high clip.",
+        "summary": "Caden Williamson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .319",
-          "OBP .401",
-          "SLG .376"
+          "AVG .315",
+          "OBP .398",
+          "SLG .369"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".319"
+            "value": ".315"
           },
           {
             "label": "OBP",
-            "value": ".401"
+            "value": ".398"
           },
           {
             "label": "SLG",
-            "value": ".376"
+            "value": ".369"
           },
           {
             "label": "HR",
@@ -1116,33 +1116,33 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "8",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/alex-irizarry/15044",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Alex_Irizarry_ndXmV.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 33,
-        "battingAverage": 0.28,
-        "onBasePercentage": 0.426,
-        "sluggingPercentage": 0.424,
-        "ops": 0.85,
-        "atBats": 125,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "battingAverage": 0.275,
+        "onBasePercentage": 0.421,
+        "sluggingPercentage": 0.412,
+        "ops": 0.833,
+        "atBats": 131,
         "runs": 25,
-        "hits": 35,
+        "hits": 36,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 4,
-        "runsBattedIn": 24,
-        "totalBases": 53,
-        "walks": 32,
+        "runsBattedIn": 25,
+        "totalBases": 54,
+        "walks": 34,
         "hitByPitch": 2,
         "strikeouts": 22,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 3,
+        "sacrificeFlies": 4,
         "sacrificeHits": 0,
-        "stolenBases": 5,
-        "stolenBasesAttempts": 6,
+        "stolenBases": 6,
+        "stolenBasesAttempts": 7,
         "putouts": 33,
-        "assists": 76,
-        "errors": 9,
-        "plateAppearances": 169,
+        "assists": 83,
+        "errors": 10,
+        "plateAppearances": 179,
         "caughtStealing": 1,
         "pickedOff": 2
       },
@@ -1154,51 +1154,51 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "8",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/alex-irizarry/15044",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Alex_Irizarry_ndXmV.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
         "putouts": 33,
-        "assists": 76,
-        "errors": 9,
-        "fieldingPercentage": 0.924,
-        "doublePlays": 13,
+        "assists": 83,
+        "errors": 10,
+        "fieldingPercentage": 0.921,
+        "doublePlays": 15,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 118
+        "totalChances": 126
       },
       "evaluation": {
-        "score": 55,
+        "score": 54,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 81.11111111111109,
-          "Power": 27.368421052631575,
-          "Contact": 37.500000000000014,
+          "On-base": 78.33333333333331,
+          "Power": 24.21052631578947,
+          "Contact": 34.375000000000014,
           "Discipline": 100,
-          "Speed": 16.666666666666664
+          "Speed": 20
         },
         "summary": "Alex Irizarry profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .280",
-          "OBP .426",
-          "SLG .424"
+          "AVG .275",
+          "OBP .421",
+          "SLG .412"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".280"
+            "value": ".275"
           },
           {
             "label": "OBP",
-            "value": ".426"
+            "value": ".421"
           },
           {
             "label": "SLG",
-            "value": ".424"
+            "value": ".412"
           },
           {
             "label": "HR",
@@ -1206,11 +1206,11 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "25"
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "6"
           }
         ],
         "metaLine": "SR / L/R",
@@ -1262,32 +1262,32 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "9",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/mason-ulsh/15054",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Mason_Ulsh_UAcYJ.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 0,
-        "appearances": 12,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.6,
-        "whip": 2,
+        "earnedRunAverage": 6.27,
+        "whip": 1.82,
         "wins": 1,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 15,
-        "inningsPitchedDisplay": "15.0",
-        "hitsAllowed": 21,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 11,
-        "walksAllowed": 9,
-        "strikeouts": 24,
-        "doublesAllowed": 2,
+        "inningsPitched": 18.666666666666668,
+        "inningsPitchedDisplay": "18.2",
+        "hitsAllowed": 24,
+        "runsAllowed": 15,
+        "earnedRunsAllowed": 13,
+        "walksAllowed": 10,
+        "strikeouts": 27,
+        "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 65,
+        "opponentsAtBats": 77,
         "wildPitches": 4,
-        "hitBatters": 4,
+        "hitBatters": 6,
         "balks": 0,
-        "opponentsBattingAverage": 0.323,
-        "walksHits": 30
+        "opponentsBattingAverage": 0.312,
+        "walksHits": 34
       },
       "fieldingStats": {
         "rosterBioId": "15054",
@@ -1296,22 +1296,22 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "9",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/mason-ulsh/15054",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Mason_Ulsh_UAcYJ.jpg",
-        "gamesPlayed": 5,
+        "gamesPlayed": 6,
         "gamesStarted": 0,
         "putouts": 1,
-        "assists": 2,
+        "assists": 3,
         "errors": 1,
-        "fieldingPercentage": 0.75,
+        "fieldingPercentage": 0.8,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 2,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 4
+        "totalChances": 5
       },
       "evaluation": {
-        "score": 24,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1319,40 +1319,40 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 94.54545454545455,
-          "Command": 33.33333333333333,
+          "Miss bats": 81.98051948051948,
+          "Command": 34,
           "Damage suppression": 0
         },
         "summary": "Mason Ulsh looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.60",
-          "WHIP 2.00",
-          "K/9 14.4"
+          "ERA 6.27",
+          "WHIP 1.82",
+          "K/9 13.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.60"
+            "value": "6.27"
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "1.82"
           },
           {
             "label": "K/9",
-            "value": "14.4"
+            "value": "13.0"
           },
           {
             "label": "BB/9",
-            "value": "5.4"
+            "value": "4.8"
           },
           {
             "label": "HR/9",
-            "value": "2.40"
+            "value": "1.93"
           },
           {
             "label": "IP",
-            "value": "15.0"
+            "value": "18.7"
           }
         ],
         "metaLine": "R-SR / R/R",
@@ -2384,32 +2384,32 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "19",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/james-pazdera/15077",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/James_Pazdera_OQFaC.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 5,
-        "appearances": 9,
+        "gamesPlayed": 10,
+        "gamesStarted": 6,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.82,
-        "whip": 1.71,
+        "earnedRunAverage": 7.68,
+        "whip": 1.85,
         "wins": 1,
-        "losses": 3,
+        "losses": 4,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 31.666666666666668,
-        "inningsPitchedDisplay": "31.2",
-        "hitsAllowed": 32,
-        "runsAllowed": 30,
-        "earnedRunsAllowed": 24,
-        "walksAllowed": 22,
-        "strikeouts": 41,
-        "doublesAllowed": 8,
-        "triplesAllowed": 1,
+        "inningsPitched": 34,
+        "inningsPitchedDisplay": "34.0",
+        "hitsAllowed": 39,
+        "runsAllowed": 35,
+        "earnedRunsAllowed": 29,
+        "walksAllowed": 24,
+        "strikeouts": 43,
+        "doublesAllowed": 9,
+        "triplesAllowed": 3,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 126,
-        "wildPitches": 4,
-        "hitBatters": 10,
+        "opponentsAtBats": 138,
+        "wildPitches": 5,
+        "hitBatters": 11,
         "balks": 0,
-        "opponentsBattingAverage": 0.254,
-        "walksHits": 54
+        "opponentsBattingAverage": 0.283,
+        "walksHits": 63
       },
       "fieldingStats": {
         "rosterBioId": "15077",
@@ -2433,7 +2433,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "totalChances": 6
       },
       "evaluation": {
-        "score": 17,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2441,40 +2441,40 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 69.56937799043061,
-          "Command": 17.27272727272727,
+          "Miss bats": 67.11229946524064,
+          "Command": 15.833333333333336,
           "Damage suppression": 0
         },
         "summary": "James Pazdera looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.82",
-          "WHIP 1.71",
-          "K/9 11.7"
+          "ERA 7.68",
+          "WHIP 1.85",
+          "K/9 11.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.82"
+            "value": "7.68"
           },
           {
             "label": "WHIP",
-            "value": "1.71"
+            "value": "1.85"
           },
           {
             "label": "K/9",
-            "value": "11.7"
+            "value": "11.4"
           },
           {
             "label": "BB/9",
-            "value": "6.3"
+            "value": "6.4"
           },
           {
             "label": "HR/9",
-            "value": "0.57"
+            "value": "0.53"
           },
           {
             "label": "IP",
-            "value": "31.7"
+            "value": "34.0"
           }
         ],
         "metaLine": "SR / R/R",
@@ -2934,33 +2934,33 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "23",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/cole-constable/15041",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Cole_Constable_REC45.jpg",
-        "gamesPlayed": 23,
-        "gamesStarted": 22,
-        "battingAverage": 0.197,
-        "onBasePercentage": 0.337,
+        "gamesPlayed": 25,
+        "gamesStarted": 24,
+        "battingAverage": 0.2,
+        "onBasePercentage": 0.359,
         "sluggingPercentage": 0.25,
-        "ops": 0.587,
-        "atBats": 76,
-        "runs": 15,
-        "hits": 15,
+        "ops": 0.609,
+        "atBats": 80,
+        "runs": 16,
+        "hits": 16,
         "doubles": 1,
         "triples": 0,
         "homeRuns": 1,
         "runsBattedIn": 11,
-        "totalBases": 19,
-        "walks": 13,
+        "totalBases": 20,
+        "walks": 17,
         "hitByPitch": 4,
-        "strikeouts": 10,
+        "strikeouts": 11,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
         "sacrificeHits": 3,
         "stolenBases": 7,
         "stolenBasesAttempts": 7,
-        "putouts": 196,
+        "putouts": 211,
         "assists": 14,
         "errors": 0,
-        "plateAppearances": 105,
+        "plateAppearances": 113,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -2972,28 +2972,28 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "23",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/cole-constable/15041",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Cole_Constable_REC45.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 21,
-        "putouts": 196,
+        "gamesPlayed": 24,
+        "gamesStarted": 23,
+        "putouts": 211,
         "assists": 14,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 31,
+        "stolenBasesAgainst": 32,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.886,
+        "stolenBasesPercentage": 0.889,
         "passedBalls": 4,
         "catchersInterference": 0,
-        "totalChances": 210
+        "totalChances": 225
       },
       "evaluation": {
-        "score": 26,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 31.666666666666664,
+          "On-base": 43.888888888888864,
           "Power": 0,
           "Contact": 0,
           "Discipline": 100,
@@ -3001,18 +3001,18 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         },
         "summary": "Cole Constable profiles as a C/OF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .197",
-          "OBP .337",
+          "AVG .200",
+          "OBP .359",
           "SLG .250"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".197"
+            "value": ".200"
           },
           {
             "label": "OBP",
-            "value": ".337"
+            "value": ".359"
           },
           {
             "label": "SLG",
@@ -3079,33 +3079,33 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "24",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/ian-nilsen/15048",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/IanNilsen_qm9Yv.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 8,
-        "battingAverage": 0.259,
-        "onBasePercentage": 0.429,
-        "sluggingPercentage": 0.481,
-        "ops": 0.91,
-        "atBats": 27,
-        "runs": 9,
-        "hits": 7,
-        "doubles": 3,
+        "gamesPlayed": 11,
+        "gamesStarted": 9,
+        "battingAverage": 0.267,
+        "onBasePercentage": 0.436,
+        "sluggingPercentage": 0.5,
+        "ops": 0.936,
+        "atBats": 30,
+        "runs": 10,
+        "hits": 8,
+        "doubles": 4,
         "triples": 0,
         "homeRuns": 1,
-        "runsBattedIn": 1,
-        "totalBases": 13,
-        "walks": 7,
+        "runsBattedIn": 2,
+        "totalBases": 15,
+        "walks": 8,
         "hitByPitch": 1,
-        "strikeouts": 13,
+        "strikeouts": 14,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 11,
-        "assists": 9,
+        "putouts": 13,
+        "assists": 14,
         "errors": 2,
-        "plateAppearances": 37,
+        "plateAppearances": 41,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -3117,51 +3117,51 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "24",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/ian-nilsen/15048",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/IanNilsen_qm9Yv.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 8,
-        "putouts": 11,
-        "assists": 9,
+        "gamesPlayed": 10,
+        "gamesStarted": 9,
+        "putouts": 13,
+        "assists": 14,
         "errors": 2,
-        "fieldingPercentage": 0.909,
+        "fieldingPercentage": 0.931,
         "doublePlays": 2,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 22
+        "totalChances": 29
       },
       "evaluation": {
-        "score": 47,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 82.77777777777776,
-          "Power": 42.368421052631575,
-          "Contact": 24.375000000000004,
-          "Discipline": 37.606837606837594,
+          "On-base": 86.66666666666666,
+          "Power": 47.36842105263158,
+          "Contact": 29.375000000000007,
+          "Discipline": 41.26984126984126,
           "Speed": 0
         },
         "summary": "Ian Nilsen profiles as a CIF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .259",
-          "OBP .429",
-          "SLG .481"
+          "AVG .267",
+          "OBP .436",
+          "SLG .500"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".259"
+            "value": ".267"
           },
           {
             "label": "OBP",
-            "value": ".429"
+            "value": ".436"
           },
           {
             "label": "SLG",
-            "value": ".481"
+            "value": ".500"
           },
           {
             "label": "HR",
@@ -3169,7 +3169,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           },
           {
             "label": "RBI",
-            "value": "1"
+            "value": "2"
           },
           {
             "label": "SB",
@@ -3515,32 +3515,32 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "27",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/mike-poncini/15050",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Mike_Poncini_GIvn5.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 1,
-        "appearances": 11,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.4,
-        "whip": 1.34,
+        "earnedRunAverage": 4.94,
+        "whip": 1.27,
         "wins": 0,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 21.666666666666668,
-        "inningsPitchedDisplay": "21.2",
+        "inningsPitched": 23.666666666666668,
+        "inningsPitchedDisplay": "23.2",
         "hitsAllowed": 22,
         "runsAllowed": 16,
         "earnedRunsAllowed": 13,
-        "walksAllowed": 7,
-        "strikeouts": 23,
+        "walksAllowed": 8,
+        "strikeouts": 24,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 86,
+        "opponentsAtBats": 92,
         "wildPitches": 2,
-        "hitBatters": 8,
+        "hitBatters": 9,
         "balks": 1,
-        "opponentsBattingAverage": 0.256,
-        "walksHits": 29
+        "opponentsBattingAverage": 0.239,
+        "walksHits": 30
       },
       "fieldingStats": {
         "rosterBioId": "15050",
@@ -3549,9 +3549,9 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "27",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/mike-poncini/15050",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Mike_Poncini_GIvn5.jpg",
-        "gamesPlayed": 6,
+        "gamesPlayed": 7,
         "gamesStarted": 0,
-        "putouts": 2,
+        "putouts": 4,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -3561,10 +3561,10 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "stolenBasesPercentage": 0.8,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 2
+        "totalChances": 4
       },
       "evaluation": {
-        "score": 17,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3572,40 +3572,40 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 50.489510489510494,
-          "Command": 45.714285714285715,
+          "Miss bats": 46.60691421254802,
+          "Command": 40,
           "Damage suppression": 0
         },
-        "summary": "Mike Poncini looks like a RHP option who misses bats and throws enough strikes.",
+        "summary": "Mike Poncini looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 1.34",
-          "K/9 9.6"
+          "ERA 4.94",
+          "WHIP 1.27",
+          "K/9 9.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.40"
+            "value": "4.94"
           },
           {
             "label": "WHIP",
-            "value": "1.34"
+            "value": "1.27"
           },
           {
             "label": "K/9",
-            "value": "9.6"
+            "value": "9.1"
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "0.42"
+            "value": "0.38"
           },
           {
             "label": "IP",
-            "value": "21.7"
+            "value": "23.7"
           }
         ],
         "metaLine": "SR / R/R",
@@ -4009,18 +4009,18 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "34",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/matt-alduino/15038",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Matt_Alduino_XL7aa.jpg",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 0,
-        "appearances": 15,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 1.71,
-        "whip": 0.81,
+        "earnedRunAverage": 1.64,
+        "whip": 0.77,
         "wins": 2,
         "losses": 1,
         "saves": 4,
         "shutouts": 0,
-        "inningsPitched": 21,
-        "inningsPitchedDisplay": "21.0",
+        "inningsPitched": 22,
+        "inningsPitchedDisplay": "22.0",
         "hitsAllowed": 8,
         "runsAllowed": 4,
         "earnedRunsAllowed": 4,
@@ -4029,11 +4029,11 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 69,
+        "opponentsAtBats": 72,
         "wildPitches": 0,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.116,
+        "opponentsBattingAverage": 0.111,
         "walksHits": 17
       },
       "fieldingStats": {
@@ -4058,7 +4058,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 16,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4066,32 +4066,32 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 53.24675324675325,
-          "Command": 31.111111111111118,
+          "Miss bats": 49.173553719008254,
+          "Command": 31.111111111111107,
           "Damage suppression": 0
         },
         "summary": "Matt Alduino looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.71",
-          "WHIP 0.81",
-          "K/9 9.9"
+          "ERA 1.64",
+          "WHIP 0.77",
+          "K/9 9.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.71"
+            "value": "1.64"
           },
           {
             "label": "WHIP",
-            "value": "0.81"
+            "value": "0.77"
           },
           {
             "label": "K/9",
-            "value": "9.9"
+            "value": "9.4"
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "3.7"
           },
           {
             "label": "HR/9",
@@ -4099,7 +4099,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           },
           {
             "label": "IP",
-            "value": "21.0"
+            "value": "22.0"
           }
         ],
         "metaLine": "SR / L/L",
@@ -4292,25 +4292,25 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "36",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/james-marino/15046",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/James_Marino_t1bfR.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 25,
-        "battingAverage": 0.33,
-        "onBasePercentage": 0.45,
-        "sluggingPercentage": 0.58,
-        "ops": 1.03,
-        "atBats": 88,
-        "runs": 18,
+        "gamesPlayed": 28,
+        "gamesStarted": 27,
+        "battingAverage": 0.302,
+        "onBasePercentage": 0.424,
+        "sluggingPercentage": 0.531,
+        "ops": 0.955,
+        "atBats": 96,
+        "runs": 19,
         "hits": 29,
         "doubles": 8,
         "triples": 1,
         "homeRuns": 4,
-        "runsBattedIn": 23,
+        "runsBattedIn": 24,
         "totalBases": 51,
-        "walks": 13,
+        "walks": 14,
         "hitByPitch": 7,
-        "strikeouts": 26,
+        "strikeouts": 27,
         "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 0,
+        "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 3,
         "stolenBases": 1,
@@ -4318,7 +4318,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "putouts": 38,
         "assists": 2,
         "errors": 1,
-        "plateAppearances": 117,
+        "plateAppearances": 126,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -4345,36 +4345,36 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "totalChances": 41
       },
       "evaluation": {
-        "score": 65,
+        "score": 55,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 94.44444444444444,
-          "Power": 68.42105263157895,
-          "Contact": 68.75000000000001,
-          "Discipline": 33.33333333333333,
+          "On-base": 79.99999999999999,
+          "Power": 55.5263157894737,
+          "Contact": 51.24999999999999,
+          "Discipline": 35.3909465020576,
           "Speed": 3.3333333333333335
         },
-        "summary": "James Marino profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "James Marino profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .330",
-          "OBP .450",
-          "SLG .580"
+          "AVG .302",
+          "OBP .424",
+          "SLG .531"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".330"
+            "value": ".302"
           },
           {
             "label": "OBP",
-            "value": ".450"
+            "value": ".424"
           },
           {
             "label": "SLG",
-            "value": ".580"
+            "value": ".531"
           },
           {
             "label": "HR",
@@ -4382,7 +4382,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           },
           {
             "label": "RBI",
-            "value": "23"
+            "value": "24"
           },
           {
             "label": "SB",
@@ -4579,33 +4579,33 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "39",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/jack-balcer/15065",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Jack_Balcer_Z8sgH.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 31,
-        "battingAverage": 0.283,
-        "onBasePercentage": 0.356,
-        "sluggingPercentage": 0.331,
-        "ops": 0.687,
-        "atBats": 127,
-        "runs": 17,
-        "hits": 36,
+        "gamesPlayed": 34,
+        "gamesStarted": 33,
+        "battingAverage": 0.284,
+        "onBasePercentage": 0.357,
+        "sluggingPercentage": 0.328,
+        "ops": 0.685,
+        "atBats": 134,
+        "runs": 18,
+        "hits": 38,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 16,
-        "totalBases": 42,
-        "walks": 16,
+        "totalBases": 44,
+        "walks": 17,
         "hitByPitch": 0,
-        "strikeouts": 23,
+        "strikeouts": 25,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 3,
-        "sacrificeHits": 0,
+        "sacrificeHits": 1,
         "stolenBases": 6,
         "stolenBasesAttempts": 7,
         "putouts": 6,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 154,
+        "plateAppearances": 163,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -4638,30 +4638,30 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 42.2222222222222,
-          "Power": 2.8947368421052664,
-          "Contact": 39.374999999999986,
-          "Discipline": 55.07246376811593,
+          "On-base": 42.77777777777775,
+          "Power": 2.105263157894739,
+          "Contact": 39.99999999999998,
+          "Discipline": 53.333333333333336,
           "Speed": 20
         },
         "summary": "Jack Balcer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .283",
-          "OBP .356",
-          "SLG .331"
+          "AVG .284",
+          "OBP .357",
+          "SLG .328"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".283"
+            "value": ".284"
           },
           {
             "label": "OBP",
-            "value": ".356"
+            "value": ".357"
           },
           {
             "label": "SLG",
-            "value": ".331"
+            "value": ".328"
           },
           {
             "label": "HR",
@@ -4870,32 +4870,32 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "jersey": "45",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/andrew-rubayo/15051",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Andrew_Rubayo_PwvJ1.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 8,
-        "appearances": 8,
+        "gamesPlayed": 9,
+        "gamesStarted": 9,
+        "appearances": 9,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.87,
-        "whip": 1.4,
-        "wins": 3,
+        "earnedRunAverage": 4.29,
+        "whip": 1.33,
+        "wins": 4,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 44.333333333333336,
-        "inningsPitchedDisplay": "44.1",
-        "hitsAllowed": 52,
+        "inningsPitched": 50.333333333333336,
+        "inningsPitchedDisplay": "50.1",
+        "hitsAllowed": 56,
         "runsAllowed": 27,
         "earnedRunsAllowed": 24,
-        "walksAllowed": 10,
-        "strikeouts": 46,
+        "walksAllowed": 11,
+        "strikeouts": 54,
         "doublesAllowed": 9,
         "triplesAllowed": 1,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 175,
+        "opponentsAtBats": 198,
         "wildPitches": 6,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.297,
-        "walksHits": 62
+        "opponentsBattingAverage": 0.283,
+        "walksHits": 67
       },
       "fieldingStats": {
         "rosterBioId": "15051",
@@ -4919,7 +4919,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "totalChances": 8
       },
       "evaluation": {
-        "score": 21,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4927,28 +4927,28 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 48.530416951469576,
-          "Command": 72,
+          "Miss bats": 51.4148103552077,
+          "Command": 78.18181818181819,
           "Damage suppression": 0
         },
         "summary": "Andrew Rubayo looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.87",
-          "WHIP 1.40",
-          "K/9 9.3"
+          "ERA 4.29",
+          "WHIP 1.33",
+          "K/9 9.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.87"
+            "value": "4.29"
           },
           {
             "label": "WHIP",
-            "value": "1.40"
+            "value": "1.33"
           },
           {
             "label": "K/9",
-            "value": "9.3"
+            "value": "9.7"
           },
           {
             "label": "BB/9",
@@ -4956,11 +4956,11 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.41"
+            "value": "0.36"
           },
           {
             "label": "IP",
-            "value": "44.3"
+            "value": "50.3"
           }
         ],
         "metaLine": "SR / R/R",
@@ -4991,29 +4991,29 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "position": "INF",
         "classYear": "FY",
         "handedness": "R/R",
-        "score": 50,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Peyton Vancas profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Peyton Vancas profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .282",
-          "OBP .410",
-          "SLG .385"
+          "AVG .268",
+          "OBP .394",
+          "SLG .366"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".282"
+            "value": ".268"
           },
           {
             "label": "OBP",
-            "value": ".410"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".385"
+            "value": ".366"
           },
           {
             "label": "HR",
@@ -5029,10 +5029,10 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           }
         ],
         "components": {
-          "On-base": 72.2222222222222,
-          "Power": 17.10526315789474,
-          "Contact": 38.74999999999998,
-          "Discipline": 100,
+          "On-base": 63.33333333333333,
+          "Power": 12.105263157894735,
+          "Contact": 30.00000000000001,
+          "Discipline": 96.29629629629628,
           "Speed": 13.333333333333334
         },
         "metaLine": "FY / R/R",
@@ -5060,29 +5060,29 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "position": "C/1B",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 36,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Christian Smith profiles as a C/1B piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .275",
-          "OBP .350",
-          "SLG .550"
+          "AVG .288",
+          "OBP .356",
+          "SLG .551"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".275"
+            "value": ".288"
           },
           {
             "label": "OBP",
-            "value": ".350"
+            "value": ".356"
           },
           {
             "label": "SLG",
-            "value": ".550"
+            "value": ".551"
           },
           {
             "label": "HR",
@@ -5090,7 +5090,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "19"
           },
           {
             "label": "SB",
@@ -5098,10 +5098,10 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           }
         ],
         "components": {
-          "On-base": 38.888888888888864,
-          "Power": 60.526315789473706,
-          "Contact": 34.375000000000014,
-          "Discipline": 11.594202898550723,
+          "On-base": 42.2222222222222,
+          "Power": 60.78947368421055,
+          "Contact": 42.499999999999986,
+          "Discipline": 7.692307692307689,
           "Speed": 0
         },
         "metaLine": "SR / R/R",
@@ -5197,29 +5197,29 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "position": "OF",
         "classYear": "FY",
         "handedness": "L/R",
-        "score": 26,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Chase Camac profiles as a OF piece who controls at-bats.",
+        "summary": "Chase Camac profiles as a OF piece who controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .227",
-          "OBP .330",
-          "SLG .273"
+          "AVG .242",
+          "OBP .342",
+          "SLG .295"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".227"
+            "value": ".242"
           },
           {
             "label": "OBP",
-            "value": ".330"
+            "value": ".342"
           },
           {
             "label": "SLG",
-            "value": ".273"
+            "value": ".295"
           },
           {
             "label": "HR",
@@ -5227,19 +5227,19 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           },
           {
             "label": "RBI",
-            "value": "14"
+            "value": "15"
           },
           {
             "label": "SB",
-            "value": "7"
+            "value": "8"
           }
         ],
         "components": {
-          "On-base": 27.777777777777775,
+          "On-base": 34.44444444444444,
           "Power": 0,
-          "Contact": 4.3750000000000036,
+          "Contact": 13.749999999999996,
           "Discipline": 100,
-          "Speed": 23.333333333333332
+          "Speed": 26.666666666666668
         },
         "metaLine": "FY / L/R",
         "detailBadges": [
@@ -5266,33 +5266,33 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "position": "LHP",
         "classYear": "SO",
         "handedness": "L/L",
-        "score": 14,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "J.C. Franconere looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.18",
-          "WHIP 1.44",
-          "K/9 9.9"
+          "ERA 4.91",
+          "WHIP 1.48",
+          "K/9 9.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.18"
+            "value": "4.91"
           },
           {
             "label": "WHIP",
-            "value": "1.44"
+            "value": "1.48"
           },
           {
             "label": "K/9",
-            "value": "9.9"
+            "value": "9.5"
           },
           {
             "label": "BB/9",
-            "value": "4.6"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
@@ -5300,14 +5300,14 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           },
           {
             "label": "IP",
-            "value": "23.7"
+            "value": "25.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 53.521126760563384,
-          "Command": 23.333333333333332,
+          "Miss bats": 49.70484061393151,
+          "Command": 18.571428571428566,
           "Damage suppression": 0
         },
         "metaLine": "SO / L/L",
@@ -5335,29 +5335,29 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 55,
+        "score": 57,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
-        "summary": "Kyle Garbowski profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Kyle Garbowski profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .285",
-          "OBP .434",
-          "SLG .382"
+          "AVG .295",
+          "OBP .432",
+          "SLG .386"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".285"
+            "value": ".295"
           },
           {
             "label": "OBP",
-            "value": ".434"
+            "value": ".432"
           },
           {
             "label": "SLG",
-            "value": ".382"
+            "value": ".386"
           },
           {
             "label": "HR",
@@ -5365,19 +5365,19 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "21"
           },
           {
             "label": "SB",
-            "value": "7"
+            "value": "8"
           }
         ],
         "components": {
-          "On-base": 85.55555555555554,
-          "Power": 16.315789473684212,
-          "Contact": 40.624999999999986,
+          "On-base": 84.44444444444443,
+          "Power": 17.368421052631582,
+          "Contact": 46.874999999999986,
           "Discipline": 100,
-          "Speed": 23.333333333333332
+          "Speed": 26.666666666666668
         },
         "metaLine": "JR / L/R",
         "detailBadges": [
@@ -5404,29 +5404,29 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "position": "OF",
         "classYear": "FY",
         "handedness": "R/R",
-        "score": 46,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Caden Williamson profiles as a OF piece who gets on base at a high clip.",
+        "summary": "Caden Williamson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .319",
-          "OBP .401",
-          "SLG .376"
+          "AVG .315",
+          "OBP .398",
+          "SLG .369"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".319"
+            "value": ".315"
           },
           {
             "label": "OBP",
-            "value": ".401"
+            "value": ".398"
           },
           {
             "label": "SLG",
-            "value": ".376"
+            "value": ".369"
           },
           {
             "label": "HR",
@@ -5442,10 +5442,10 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           }
         ],
         "components": {
-          "On-base": 67.22222222222223,
-          "Power": 14.73684210526316,
-          "Contact": 61.875,
-          "Discipline": 50.42735042735041,
+          "On-base": 65.55555555555556,
+          "Power": 12.894736842105262,
+          "Contact": 59.375,
+          "Discipline": 46.74329501915708,
           "Speed": 23.333333333333332
         },
         "metaLine": "FY / R/R",
@@ -5473,29 +5473,29 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 55,
+        "score": 54,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "summary": "Alex Irizarry profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .280",
-          "OBP .426",
-          "SLG .424"
+          "AVG .275",
+          "OBP .421",
+          "SLG .412"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".280"
+            "value": ".275"
           },
           {
             "label": "OBP",
-            "value": ".426"
+            "value": ".421"
           },
           {
             "label": "SLG",
-            "value": ".424"
+            "value": ".412"
           },
           {
             "label": "HR",
@@ -5503,19 +5503,19 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "25"
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "6"
           }
         ],
         "components": {
-          "On-base": 81.11111111111109,
-          "Power": 27.368421052631575,
-          "Contact": 37.500000000000014,
+          "On-base": 78.33333333333331,
+          "Power": 24.21052631578947,
+          "Contact": 34.375000000000014,
           "Discipline": 100,
-          "Speed": 16.666666666666664
+          "Speed": 20
         },
         "metaLine": "SR / L/R",
         "detailBadges": [
@@ -5542,48 +5542,48 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "position": "RHP",
         "classYear": "R-SR",
         "handedness": "R/R",
-        "score": 24,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Mason Ulsh looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.60",
-          "WHIP 2.00",
-          "K/9 14.4"
+          "ERA 6.27",
+          "WHIP 1.82",
+          "K/9 13.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.60"
+            "value": "6.27"
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "1.82"
           },
           {
             "label": "K/9",
-            "value": "14.4"
+            "value": "13.0"
           },
           {
             "label": "BB/9",
-            "value": "5.4"
+            "value": "4.8"
           },
           {
             "label": "HR/9",
-            "value": "2.40"
+            "value": "1.93"
           },
           {
             "label": "IP",
-            "value": "15.0"
+            "value": "18.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 94.54545454545455,
-          "Command": 33.33333333333333,
+          "Miss bats": 81.98051948051948,
+          "Command": 34,
           "Damage suppression": 0
         },
         "metaLine": "R-SR / R/R",
@@ -6094,48 +6094,48 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 17,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "James Pazdera looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.82",
-          "WHIP 1.71",
-          "K/9 11.7"
+          "ERA 7.68",
+          "WHIP 1.85",
+          "K/9 11.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.82"
+            "value": "7.68"
           },
           {
             "label": "WHIP",
-            "value": "1.71"
+            "value": "1.85"
           },
           {
             "label": "K/9",
-            "value": "11.7"
+            "value": "11.4"
           },
           {
             "label": "BB/9",
-            "value": "6.3"
+            "value": "6.4"
           },
           {
             "label": "HR/9",
-            "value": "0.57"
+            "value": "0.53"
           },
           {
             "label": "IP",
-            "value": "31.7"
+            "value": "34.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 69.56937799043061,
-          "Command": 17.27272727272727,
+          "Miss bats": 67.11229946524064,
+          "Command": 15.833333333333336,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -6370,25 +6370,25 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "position": "C/OF",
         "classYear": "R-SO",
         "handedness": "R/R",
-        "score": 26,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cole Constable profiles as a C/OF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .197",
-          "OBP .337",
+          "AVG .200",
+          "OBP .359",
           "SLG .250"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".197"
+            "value": ".200"
           },
           {
             "label": "OBP",
-            "value": ".337"
+            "value": ".359"
           },
           {
             "label": "SLG",
@@ -6408,7 +6408,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           }
         ],
         "components": {
-          "On-base": 31.666666666666664,
+          "On-base": 43.888888888888864,
           "Power": 0,
           "Contact": 0,
           "Discipline": 100,
@@ -6439,29 +6439,29 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "position": "CIF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 47,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ian Nilsen profiles as a CIF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .259",
-          "OBP .429",
-          "SLG .481"
+          "AVG .267",
+          "OBP .436",
+          "SLG .500"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".259"
+            "value": ".267"
           },
           {
             "label": "OBP",
-            "value": ".429"
+            "value": ".436"
           },
           {
             "label": "SLG",
-            "value": ".481"
+            "value": ".500"
           },
           {
             "label": "HR",
@@ -6469,7 +6469,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           },
           {
             "label": "RBI",
-            "value": "1"
+            "value": "2"
           },
           {
             "label": "SB",
@@ -6477,10 +6477,10 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           }
         ],
         "components": {
-          "On-base": 82.77777777777776,
-          "Power": 42.368421052631575,
-          "Contact": 24.375000000000004,
-          "Discipline": 37.606837606837594,
+          "On-base": 86.66666666666666,
+          "Power": 47.36842105263158,
+          "Contact": 29.375000000000007,
+          "Discipline": 41.26984126984126,
           "Speed": 0
         },
         "metaLine": "SO / R/R",
@@ -6646,48 +6646,48 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 17,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Mike Poncini looks like a RHP option who misses bats and throws enough strikes.",
+        "summary": "Mike Poncini looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 1.34",
-          "K/9 9.6"
+          "ERA 4.94",
+          "WHIP 1.27",
+          "K/9 9.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.40"
+            "value": "4.94"
           },
           {
             "label": "WHIP",
-            "value": "1.34"
+            "value": "1.27"
           },
           {
             "label": "K/9",
-            "value": "9.6"
+            "value": "9.1"
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "0.42"
+            "value": "0.38"
           },
           {
             "label": "IP",
-            "value": "21.7"
+            "value": "23.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 50.489510489510494,
-          "Command": 45.714285714285715,
+          "Miss bats": 46.60691421254802,
+          "Command": 40,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -6921,33 +6921,33 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "position": "LHP",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 16,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Matt Alduino looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.71",
-          "WHIP 0.81",
-          "K/9 9.9"
+          "ERA 1.64",
+          "WHIP 0.77",
+          "K/9 9.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.71"
+            "value": "1.64"
           },
           {
             "label": "WHIP",
-            "value": "0.81"
+            "value": "0.77"
           },
           {
             "label": "K/9",
-            "value": "9.9"
+            "value": "9.4"
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "3.7"
           },
           {
             "label": "HR/9",
@@ -6955,14 +6955,14 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           },
           {
             "label": "IP",
-            "value": "21.0"
+            "value": "22.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 53.24675324675325,
-          "Command": 31.111111111111118,
+          "Miss bats": 49.173553719008254,
+          "Command": 31.111111111111107,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/L",
@@ -7059,29 +7059,29 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "position": "OF",
         "classYear": "GR",
         "handedness": "L/R",
-        "score": 65,
+        "score": 55,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "James Marino profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "James Marino profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .330",
-          "OBP .450",
-          "SLG .580"
+          "AVG .302",
+          "OBP .424",
+          "SLG .531"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".330"
+            "value": ".302"
           },
           {
             "label": "OBP",
-            "value": ".450"
+            "value": ".424"
           },
           {
             "label": "SLG",
-            "value": ".580"
+            "value": ".531"
           },
           {
             "label": "HR",
@@ -7089,7 +7089,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           },
           {
             "label": "RBI",
-            "value": "23"
+            "value": "24"
           },
           {
             "label": "SB",
@@ -7097,10 +7097,10 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           }
         ],
         "components": {
-          "On-base": 94.44444444444444,
-          "Power": 68.42105263157895,
-          "Contact": 68.75000000000001,
-          "Discipline": 33.33333333333333,
+          "On-base": 79.99999999999999,
+          "Power": 55.5263157894737,
+          "Contact": 51.24999999999999,
+          "Discipline": 35.3909465020576,
           "Speed": 3.3333333333333335
         },
         "metaLine": "GR / L/R",
@@ -7204,22 +7204,22 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         },
         "summary": "Jack Balcer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .283",
-          "OBP .356",
-          "SLG .331"
+          "AVG .284",
+          "OBP .357",
+          "SLG .328"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".283"
+            "value": ".284"
           },
           {
             "label": "OBP",
-            "value": ".356"
+            "value": ".357"
           },
           {
             "label": "SLG",
-            "value": ".331"
+            "value": ".328"
           },
           {
             "label": "HR",
@@ -7235,10 +7235,10 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           }
         ],
         "components": {
-          "On-base": 42.2222222222222,
-          "Power": 2.8947368421052664,
-          "Contact": 39.374999999999986,
-          "Discipline": 55.07246376811593,
+          "On-base": 42.77777777777775,
+          "Power": 2.105263157894739,
+          "Contact": 39.99999999999998,
+          "Discipline": 53.333333333333336,
           "Speed": 20
         },
         "metaLine": "JR / R/R",
@@ -7335,29 +7335,29 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 21,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Andrew Rubayo looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.87",
-          "WHIP 1.40",
-          "K/9 9.3"
+          "ERA 4.29",
+          "WHIP 1.33",
+          "K/9 9.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.87"
+            "value": "4.29"
           },
           {
             "label": "WHIP",
-            "value": "1.40"
+            "value": "1.33"
           },
           {
             "label": "K/9",
-            "value": "9.3"
+            "value": "9.7"
           },
           {
             "label": "BB/9",
@@ -7365,18 +7365,18 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.41"
+            "value": "0.36"
           },
           {
             "label": "IP",
-            "value": "44.3"
+            "value": "50.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 48.530416951469576,
-          "Command": 72,
+          "Miss bats": 51.4148103552077,
+          "Command": 78.18181818181819,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
