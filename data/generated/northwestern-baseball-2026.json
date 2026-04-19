@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T11:01:19.115Z",
+  "generatedAt": "2026-04-19T11:00:25.889Z",
   "season": 2026,
   "school": {
     "slug": "northwestern",
@@ -38,84 +38,84 @@
     }
   },
   "teamSummary": {
-    "record": "14-19-1, 5-11",
-    "battingAverage": ".265",
-    "earnedRunAverage": "7.39",
+    "record": "14-20-1, 5-12",
+    "battingAverage": ".266",
+    "earnedRunAverage": "7.31",
     "wins": "14",
-    "losses": "20",
+    "losses": "21",
     "hitting": {
-      "atBats": "1149",
-      "runsScored": "204",
-      "hits": "304",
-      "runsBattedIn": "192",
-      "doubles": "70",
+      "atBats": "1185",
+      "runsScored": "207",
+      "hits": "315",
+      "runsBattedIn": "195",
+      "doubles": "71",
       "triples": "6",
       "homeRuns": "49",
-      "walks": "133",
+      "walks": "134",
       "intentionalWalks": "2",
-      "strikeouts": "291",
-      "strikeoutsLooking": "74",
-      "hitByPitch": "25",
+      "strikeouts": "305",
+      "strikeoutsLooking": "82",
+      "hitByPitch": "27",
       "stolenBases": "16",
       "caughtStealing": "10",
       "sacrificeHits": "8",
-      "sacrificeFlies": "13",
+      "sacrificeFlies": "15",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "255",
-      "flyOuts": "301",
+      "groundOuts": "259",
+      "flyOuts": "310",
       "groundedIntoDoublePlay": "12",
       "pickedOff": "0",
       "doublePlaysHitInto": "15",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "866",
-      "assists": "315",
-      "errors": "27",
+      "putouts": "890",
+      "assists": "322",
+      "errors": "29",
       "passedBalls": "7",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "26",
+      "stolenBasesAgainst": "29",
       "caughtStealingBy": "12",
       "involvedInDoublePlays": "25",
       "involvedInTriplePlays": "0",
-      "totalChances": "1208",
-      "fieldingPercentage": ".978"
+      "totalChances": "1241",
+      "fieldingPercentage": ".977"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "14",
       "saves": "7",
-      "losses": "19",
+      "losses": "20",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "0",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "288.2",
-      "hitsAllowed": "346",
-      "runsAllowed": "261",
-      "earnedRunsAllowed": "237",
-      "walksAllowed": "162",
-      "strikeouts": "216",
-      "battersFaced": "1405",
-      "opponentAtBats": "1156",
-      "doublesAllowed": "71",
+      "inningsPitched": "296.2",
+      "hitsAllowed": "353",
+      "runsAllowed": "269",
+      "earnedRunsAllowed": "241",
+      "walksAllowed": "168",
+      "strikeouts": "222",
+      "battersFaced": "1444",
+      "opponentAtBats": "1187",
+      "doublesAllowed": "75",
       "triplesAllowed": "8",
       "homerunsAllowed": "59",
-      "wildPitches": "21",
+      "wildPitches": "22",
       "balks": "2",
       "hitBatters": "56",
-      "strikeoutsLooking": "73",
-      "intentionalWalks": "6",
+      "strikeoutsLooking": "74",
+      "intentionalWalks": "7",
       "inheritedRunners": "4",
       "inheritedRunnersThatScored": "3",
-      "sacrificeHitsAllowed": "15",
-      "sacrificeFliesAllowed": "16",
+      "sacrificeHitsAllowed": "16",
+      "sacrificeFliesAllowed": "17",
       "catchersInterferenceAllowed": "0",
-      "pitches": "4135",
-      "flyouts": "314",
-      "groundouts": "286",
+      "pitches": "4292",
+      "flyouts": "324",
+      "groundouts": "294",
       "teamUnearnedRuns": "0",
       "saveRecord": "4",
       "pickoff": "6"
@@ -160,33 +160,33 @@
         "jersey": "1",
         "profileUrl": "https://nusports.com/sports/baseball/roster/noah-ruiz/13008",
         "imageUrl": "https://nusports.com/images/2026/1/21/01_Ruiz.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
-        "battingAverage": 0.315,
-        "onBasePercentage": 0.371,
-        "sluggingPercentage": 0.523,
-        "ops": 0.894,
-        "atBats": 130,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "battingAverage": 0.313,
+        "onBasePercentage": 0.365,
+        "sluggingPercentage": 0.515,
+        "ops": 0.88,
+        "atBats": 134,
         "runs": 24,
-        "hits": 41,
+        "hits": 42,
         "doubles": 9,
         "triples": 0,
         "homeRuns": 6,
-        "runsBattedIn": 28,
-        "totalBases": 68,
+        "runsBattedIn": 29,
+        "totalBases": 69,
         "walks": 7,
         "hitByPitch": 5,
-        "strikeouts": 18,
+        "strikeouts": 20,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 1,
+        "sacrificeFlies": 2,
         "sacrificeHits": 3,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 126,
+        "putouts": 129,
         "assists": 44,
         "errors": 4,
-        "plateAppearances": 148,
+        "plateAppearances": 153,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -198,9 +198,9 @@
         "jersey": "1",
         "profileUrl": "https://nusports.com/sports/baseball/roster/noah-ruiz/13008",
         "imageUrl": "https://nusports.com/images/2026/1/21/01_Ruiz.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 28,
-        "putouts": 126,
+        "gamesPlayed": 29,
+        "gamesStarted": 29,
+        "putouts": 129,
         "assists": 44,
         "errors": 4,
         "fieldingPercentage": 0.977,
@@ -210,39 +210,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 174
+        "totalChances": 177
       },
       "evaluation": {
-        "score": 44,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 50.55555555555554,
-          "Power": 53.42105263157896,
-          "Contact": 59.375,
-          "Discipline": 20.98765432098765,
+          "On-base": 47.22222222222221,
+          "Power": 51.31578947368421,
+          "Contact": 58.12499999999999,
+          "Discipline": 16.66666666666666,
           "Speed": 0
         },
         "summary": "Noah Ruiz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .315",
-          "OBP .371",
-          "SLG .523"
+          "AVG .313",
+          "OBP .365",
+          "SLG .515"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".315"
+            "value": ".313"
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": ".365"
           },
           {
             "label": "SLG",
-            "value": ".523"
+            "value": ".515"
           },
           {
             "label": "HR",
@@ -250,7 +250,7 @@
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -450,33 +450,33 @@
         "jersey": "6",
         "profileUrl": "https://nusports.com/sports/baseball/roster/jack-counsell/12991",
         "imageUrl": "https://nusports.com/images/2026/1/21/06_Counsell.jpg",
-        "gamesPlayed": 21,
+        "gamesPlayed": 22,
         "gamesStarted": 17,
         "battingAverage": 0.254,
-        "onBasePercentage": 0.319,
+        "onBasePercentage": 0.315,
         "sluggingPercentage": 0.349,
-        "ops": 0.668,
+        "ops": 0.664,
         "atBats": 63,
         "runs": 8,
         "hits": 16,
         "doubles": 4,
         "triples": 1,
         "homeRuns": 0,
-        "runsBattedIn": 9,
+        "runsBattedIn": 10,
         "totalBases": 22,
         "walks": 6,
         "hitByPitch": 1,
         "strikeouts": 15,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 2,
+        "sacrificeFlies": 3,
         "sacrificeHits": 1,
         "stolenBases": 0,
         "stolenBasesAttempts": 2,
         "putouts": 18,
-        "assists": 26,
+        "assists": 27,
         "errors": 4,
-        "plateAppearances": 77,
+        "plateAppearances": 78,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -488,28 +488,28 @@
         "jersey": "6",
         "profileUrl": "https://nusports.com/sports/baseball/roster/jack-counsell/12991",
         "imageUrl": "https://nusports.com/images/2026/1/21/06_Counsell.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 10,
         "putouts": 18,
-        "assists": 26,
+        "assists": 27,
         "errors": 4,
-        "fieldingPercentage": 0.917,
+        "fieldingPercentage": 0.918,
         "doublePlays": 7,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 48
+        "totalChances": 49
       },
       "evaluation": {
-        "score": 16,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 21.666666666666657,
+          "On-base": 19.444444444444432,
           "Power": 7.631578947368414,
           "Contact": 21.250000000000004,
           "Discipline": 22.22222222222222,
@@ -518,7 +518,7 @@
         "summary": "Jack Counsell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .254",
-          "OBP .319",
+          "OBP .315",
           "SLG .349"
         ],
         "statCards": [
@@ -528,7 +528,7 @@
           },
           {
             "label": "OBP",
-            "value": ".319"
+            "value": ".315"
           },
           {
             "label": "SLG",
@@ -540,7 +540,7 @@
           },
           {
             "label": "RBI",
-            "value": "9"
+            "value": "10"
           },
           {
             "label": "SB",
@@ -740,33 +740,33 @@
         "jersey": "8",
         "profileUrl": "https://nusports.com/sports/baseball/roster/owen-mcelfatrick/13004",
         "imageUrl": "https://nusports.com/images/2026/1/21/08_McElfatrick.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
-        "battingAverage": 0.226,
-        "onBasePercentage": 0.316,
-        "sluggingPercentage": 0.451,
-        "ops": 0.767,
-        "atBats": 133,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "battingAverage": 0.225,
+        "onBasePercentage": 0.312,
+        "sluggingPercentage": 0.442,
+        "ops": 0.754,
+        "atBats": 138,
         "runs": 21,
-        "hits": 30,
+        "hits": 31,
         "doubles": 7,
         "triples": 1,
         "homeRuns": 7,
-        "runsBattedIn": 25,
-        "totalBases": 60,
+        "runsBattedIn": 26,
+        "totalBases": 61,
         "walks": 17,
         "hitByPitch": 1,
-        "strikeouts": 38,
+        "strikeouts": 39,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 31,
-        "assists": 67,
+        "putouts": 32,
+        "assists": 71,
         "errors": 6,
-        "plateAppearances": 155,
+        "plateAppearances": 160,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -778,51 +778,51 @@
         "jersey": "8",
         "profileUrl": "https://nusports.com/sports/baseball/roster/owen-mcelfatrick/13004",
         "imageUrl": "https://nusports.com/images/2026/1/21/08_McElfatrick.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
-        "putouts": 31,
-        "assists": 67,
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "putouts": 32,
+        "assists": 71,
         "errors": 6,
-        "fieldingPercentage": 0.942,
+        "fieldingPercentage": 0.945,
         "doublePlays": 6,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 104
+        "totalChances": 109
       },
       "evaluation": {
-        "score": 20,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 19.999999999999986,
-          "Power": 34.47368421052632,
-          "Contact": 3.7500000000000036,
-          "Discipline": 27.485380116959057,
+          "On-base": 17.777777777777764,
+          "Power": 32.10526315789474,
+          "Contact": 3.1250000000000027,
+          "Discipline": 26.210826210826205,
           "Speed": 3.3333333333333335
         },
         "summary": "Owen McElfatrick gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .226",
-          "OBP .316",
-          "SLG .451"
+          "AVG .225",
+          "OBP .312",
+          "SLG .442"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".226"
+            "value": ".225"
           },
           {
             "label": "OBP",
-            "value": ".316"
+            "value": ".312"
           },
           {
             "label": "SLG",
-            "value": ".451"
+            "value": ".442"
           },
           {
             "label": "HR",
@@ -830,7 +830,7 @@
           },
           {
             "label": "RBI",
-            "value": "25"
+            "value": "26"
           },
           {
             "label": "SB",
@@ -885,13 +885,13 @@
         "jersey": "9",
         "profileUrl": "https://nusports.com/sports/baseball/roster/nick-barron/13009",
         "imageUrl": "https://nusports.com/images/2026/1/21/09_Barron.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
-        "battingAverage": 0.289,
-        "onBasePercentage": 0.354,
-        "sluggingPercentage": 0.5,
-        "ops": 0.854,
-        "atBats": 128,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "battingAverage": 0.282,
+        "onBasePercentage": 0.347,
+        "sluggingPercentage": 0.489,
+        "ops": 0.836,
+        "atBats": 131,
         "runs": 24,
         "hits": 37,
         "doubles": 9,
@@ -901,17 +901,17 @@
         "totalBases": 64,
         "walks": 12,
         "hitByPitch": 2,
-        "strikeouts": 19,
+        "strikeouts": 20,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 162,
+        "putouts": 167,
         "assists": 17,
         "errors": 0,
-        "plateAppearances": 144,
+        "plateAppearances": 147,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -923,9 +923,9 @@
         "jersey": "9",
         "profileUrl": "https://nusports.com/sports/baseball/roster/nick-barron/13009",
         "imageUrl": "https://nusports.com/images/2026/1/21/09_Barron.jpg",
-        "gamesPlayed": 21,
-        "gamesStarted": 21,
-        "putouts": 162,
+        "gamesPlayed": 22,
+        "gamesStarted": 22,
+        "putouts": 167,
         "assists": 17,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -935,39 +935,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 179
+        "totalChances": 184
       },
       "evaluation": {
-        "score": 40,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 41.111111111111086,
-          "Power": 47.36842105263158,
-          "Contact": 43.124999999999986,
-          "Discipline": 47.95321637426899,
+          "On-base": 37.22222222222219,
+          "Power": 44.473684210526315,
+          "Contact": 38.74999999999998,
+          "Discipline": 44.444444444444436,
           "Speed": 0
         },
         "summary": "Nick Barron gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .289",
-          "OBP .354",
-          "SLG .500"
+          "AVG .282",
+          "OBP .347",
+          "SLG .489"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": ".282"
           },
           {
             "label": "OBP",
-            "value": ".354"
+            "value": ".347"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".489"
           },
           {
             "label": "HR",
@@ -1175,14 +1175,14 @@
         "jersey": "11",
         "profileUrl": "https://nusports.com/sports/baseball/roster/shane-hofstadler/13117",
         "imageUrl": "https://nusports.com/images/2026/1/21/11_Hofstadler.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 7,
-        "battingAverage": 0.211,
-        "onBasePercentage": 0.4,
-        "sluggingPercentage": 0.526,
-        "ops": 0.926,
-        "atBats": 19,
-        "runs": 2,
+        "battingAverage": 0.19,
+        "onBasePercentage": 0.393,
+        "sluggingPercentage": 0.476,
+        "ops": 0.869,
+        "atBats": 21,
+        "runs": 3,
         "hits": 4,
         "doubles": 3,
         "triples": 0,
@@ -1190,7 +1190,7 @@
         "runsBattedIn": 6,
         "totalBases": 10,
         "walks": 6,
-        "hitByPitch": 0,
+        "hitByPitch": 1,
         "strikeouts": 3,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
@@ -1198,10 +1198,10 @@
         "sacrificeHits": 1,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 43,
+        "putouts": 49,
         "assists": 1,
         "errors": 0,
-        "plateAppearances": 26,
+        "plateAppearances": 29,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1213,51 +1213,51 @@
         "jersey": "11",
         "profileUrl": "https://nusports.com/sports/baseball/roster/shane-hofstadler/13117",
         "imageUrl": "https://nusports.com/images/2026/1/21/11_Hofstadler.jpg",
-        "gamesPlayed": 8,
+        "gamesPlayed": 9,
         "gamesStarted": 5,
-        "putouts": 43,
+        "putouts": 49,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 5,
+        "stolenBasesAgainst": 6,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 44
+        "totalChances": 50
       },
       "evaluation": {
-        "score": 49,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 66.66666666666666,
-          "Power": 54.21052631578949,
+          "On-base": 62.77777777777778,
+          "Power": 41.05263157894737,
           "Contact": 0,
           "Discipline": 100,
           "Speed": 0
         },
-        "summary": "Shane Hofstadler profiles as a C/1B piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Shane Hofstadler profiles as a C/1B piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .211",
-          "OBP .400",
-          "SLG .526"
+          "AVG .190",
+          "OBP .393",
+          "SLG .476"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".211"
+            "value": ".190"
           },
           {
             "label": "OBP",
-            "value": ".400"
+            "value": ".393"
           },
           {
             "label": "SLG",
-            "value": ".526"
+            "value": ".476"
           },
           {
             "label": "HR",
@@ -1320,13 +1320,13 @@
         "jersey": "12",
         "profileUrl": "https://nusports.com/sports/baseball/roster/jackson-freeman/12995",
         "imageUrl": "https://nusports.com/images/2026/1/21/12_Freeman.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
-        "battingAverage": 0.275,
-        "onBasePercentage": 0.342,
-        "sluggingPercentage": 0.478,
-        "ops": 0.82,
-        "atBats": 138,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "battingAverage": 0.266,
+        "onBasePercentage": 0.331,
+        "sluggingPercentage": 0.462,
+        "ops": 0.793,
+        "atBats": 143,
         "runs": 22,
         "hits": 38,
         "doubles": 5,
@@ -1336,17 +1336,17 @@
         "totalBases": 66,
         "walks": 13,
         "hitByPitch": 1,
-        "strikeouts": 36,
+        "strikeouts": 40,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 3,
-        "putouts": 78,
+        "putouts": 80,
         "assists": 4,
         "errors": 1,
-        "plateAppearances": 158,
+        "plateAppearances": 163,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1358,9 +1358,9 @@
         "jersey": "12",
         "profileUrl": "https://nusports.com/sports/baseball/roster/jackson-freeman/12995",
         "imageUrl": "https://nusports.com/images/2026/1/21/12_Freeman.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "putouts": 78,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "putouts": 80,
         "assists": 4,
         "errors": 1,
         "fieldingPercentage": 0.988,
@@ -1370,39 +1370,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 83
+        "totalChances": 85
       },
       "evaluation": {
-        "score": 31,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 34.44444444444444,
-          "Power": 41.57894736842105,
-          "Contact": 34.375000000000014,
-          "Discipline": 17.90123456790123,
+          "On-base": 28.33333333333333,
+          "Power": 37.36842105263159,
+          "Contact": 28.750000000000007,
+          "Discipline": 13.888888888888888,
           "Speed": 3.3333333333333335
         },
         "summary": "Jackson Freeman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .275",
-          "OBP .342",
-          "SLG .478"
+          "AVG .266",
+          "OBP .331",
+          "SLG .462"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".275"
+            "value": ".266"
           },
           {
             "label": "OBP",
-            "value": ".342"
+            "value": ".331"
           },
           {
             "label": "SLG",
-            "value": ".478"
+            "value": ".462"
           },
           {
             "label": "HR",
@@ -1465,33 +1465,33 @@
         "jersey": "13",
         "profileUrl": "https://nusports.com/sports/baseball/roster/jack-lausch/13002",
         "imageUrl": "https://nusports.com/images/2026/1/21/04_Lausch.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
-        "battingAverage": 0.292,
-        "onBasePercentage": 0.383,
-        "sluggingPercentage": 0.6,
-        "ops": 0.983,
-        "atBats": 130,
-        "runs": 30,
-        "hits": 38,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "battingAverage": 0.296,
+        "onBasePercentage": 0.384,
+        "sluggingPercentage": 0.593,
+        "ops": 0.977,
+        "atBats": 135,
+        "runs": 31,
+        "hits": 40,
         "doubles": 12,
         "triples": 2,
         "homeRuns": 8,
         "runsBattedIn": 23,
-        "totalBases": 78,
+        "totalBases": 80,
         "walks": 17,
         "hitByPitch": 4,
-        "strikeouts": 47,
+        "strikeouts": 48,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 6,
         "stolenBasesAttempts": 8,
-        "putouts": 86,
+        "putouts": 93,
         "assists": 1,
         "errors": 2,
-        "plateAppearances": 164,
+        "plateAppearances": 169,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1503,19 +1503,19 @@
         "jersey": "13",
         "profileUrl": "https://nusports.com/sports/baseball/roster/jack-lausch/13002",
         "imageUrl": "https://nusports.com/images/2026/1/21/04_Lausch.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 33,
-        "putouts": 86,
+        "gamesPlayed": 34,
+        "gamesStarted": 34,
+        "putouts": 93,
         "assists": 1,
         "errors": 2,
-        "fieldingPercentage": 0.978,
+        "fieldingPercentage": 0.979,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 89
+        "totalChances": 96
       },
       "evaluation": {
         "score": 50,
@@ -1524,30 +1524,30 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 57.22222222222222,
-          "Power": 73.6842105263158,
-          "Contact": 44.999999999999986,
-          "Discipline": 17.96690307328605,
+          "On-base": 57.77777777777777,
+          "Power": 71.84210526315789,
+          "Contact": 47.499999999999986,
+          "Discipline": 17.129629629629626,
           "Speed": 20
         },
         "summary": "Jack Lausch profiles as a OF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .292",
-          "OBP .383",
-          "SLG .600"
+          "AVG .296",
+          "OBP .384",
+          "SLG .593"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".296"
           },
           {
             "label": "OBP",
-            "value": ".383"
+            "value": ".384"
           },
           {
             "label": "SLG",
-            "value": ".600"
+            "value": ".593"
           },
           {
             "label": "HR",
@@ -2039,23 +2039,23 @@
         "jersey": "17",
         "profileUrl": "https://nusports.com/sports/baseball/roster/ryan-kucherak/13001",
         "imageUrl": "https://nusports.com/images/2026/1/21/17_Kucherak.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
-        "battingAverage": 0.293,
-        "onBasePercentage": 0.381,
-        "sluggingPercentage": 0.526,
-        "ops": 0.907,
-        "atBats": 133,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "battingAverage": 0.29,
+        "onBasePercentage": 0.375,
+        "sluggingPercentage": 0.514,
+        "ops": 0.889,
+        "atBats": 138,
         "runs": 30,
-        "hits": 39,
+        "hits": 40,
         "doubles": 7,
         "triples": 0,
         "homeRuns": 8,
         "runsBattedIn": 27,
-        "totalBases": 70,
+        "totalBases": 71,
         "walks": 17,
         "hitByPitch": 3,
-        "strikeouts": 36,
+        "strikeouts": 40,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 2,
@@ -2063,9 +2063,9 @@
         "stolenBases": 6,
         "stolenBasesAttempts": 7,
         "putouts": 46,
-        "assists": 79,
-        "errors": 5,
-        "plateAppearances": 163,
+        "assists": 81,
+        "errors": 6,
+        "plateAppearances": 168,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2077,51 +2077,51 @@
         "jersey": "17",
         "profileUrl": "https://nusports.com/sports/baseball/roster/ryan-kucherak/13001",
         "imageUrl": "https://nusports.com/images/2026/1/21/17_Kucherak.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 33,
+        "gamesPlayed": 34,
+        "gamesStarted": 34,
         "putouts": 46,
-        "assists": 79,
-        "errors": 5,
-        "fieldingPercentage": 0.962,
+        "assists": 81,
+        "errors": 6,
+        "fieldingPercentage": 0.955,
         "doublePlays": 16,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 130
+        "totalChances": 133
       },
       "evaluation": {
-        "score": 46,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 56.1111111111111,
-          "Power": 54.21052631578949,
-          "Contact": 45.624999999999986,
-          "Discipline": 30.246913580246908,
+          "On-base": 52.77777777777777,
+          "Power": 51.05263157894737,
+          "Contact": 43.749999999999986,
+          "Discipline": 24.999999999999993,
           "Speed": 20
         },
         "summary": "Ryan Kucherak gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .293",
-          "OBP .381",
-          "SLG .526"
+          "AVG .290",
+          "OBP .375",
+          "SLG .514"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".293"
+            "value": ".290"
           },
           {
             "label": "OBP",
-            "value": ".381"
+            "value": ".375"
           },
           {
             "label": "SLG",
-            "value": ".526"
+            "value": ".514"
           },
           {
             "label": "HR",
@@ -2329,23 +2329,23 @@
         "jersey": "19",
         "profileUrl": "https://nusports.com/sports/baseball/roster/jake-yang/13011",
         "imageUrl": "https://nusports.com/images/2026/1/21/19_Yang.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 2,
-        "battingAverage": 0.214,
-        "onBasePercentage": 0.267,
-        "sluggingPercentage": 0.286,
-        "ops": 0.553,
-        "atBats": 14,
-        "runs": 4,
-        "hits": 3,
+        "gamesPlayed": 12,
+        "gamesStarted": 3,
+        "battingAverage": 0.294,
+        "onBasePercentage": 0.368,
+        "sluggingPercentage": 0.353,
+        "ops": 0.721,
+        "atBats": 17,
+        "runs": 5,
+        "hits": 5,
         "doubles": 1,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 2,
-        "totalBases": 4,
-        "walks": 1,
+        "totalBases": 6,
+        "walks": 2,
         "hitByPitch": 0,
-        "strikeouts": 3,
+        "strikeouts": 4,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -2355,7 +2355,7 @@
         "putouts": 5,
         "assists": 11,
         "errors": 1,
-        "plateAppearances": 17,
+        "plateAppearances": 21,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2382,36 +2382,36 @@
         "totalChances": 17
       },
       "evaluation": {
-        "score": 2,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 14.814814814814808,
+          "On-base": 48.88888888888887,
+          "Power": 8.684210526315784,
+          "Contact": 46.249999999999986,
+          "Discipline": 33.33333333333333,
           "Speed": 0
         },
         "summary": "Jake Yang gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .214",
-          "OBP .267",
-          "SLG .286"
+          "AVG .294",
+          "OBP .368",
+          "SLG .353"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".214"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".267"
+            "value": ".368"
           },
           {
             "label": "SLG",
-            "value": ".286"
+            "value": ".353"
           },
           {
             "label": "HR",
@@ -3079,32 +3079,32 @@
         "jersey": "26",
         "profileUrl": "https://nusports.com/sports/baseball/roster/matt-kouser/13000",
         "imageUrl": "https://nusports.com/images/2026/1/21/26_Kouser.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 7,
-        "appearances": 10,
+        "gamesPlayed": 11,
+        "gamesStarted": 8,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.93,
+        "earnedRunAverage": 4.98,
         "whip": 1.75,
         "wins": 1,
-        "losses": 3,
+        "losses": 4,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 38.333333333333336,
-        "inningsPitchedDisplay": "38.1",
-        "hitsAllowed": 39,
-        "runsAllowed": 30,
-        "earnedRunsAllowed": 21,
-        "walksAllowed": 28,
-        "strikeouts": 27,
-        "doublesAllowed": 5,
+        "inningsPitched": 43.333333333333336,
+        "inningsPitchedDisplay": "43.1",
+        "hitsAllowed": 44,
+        "runsAllowed": 37,
+        "earnedRunsAllowed": 24,
+        "walksAllowed": 32,
+        "strikeouts": 31,
+        "doublesAllowed": 8,
         "triplesAllowed": 0,
         "homeRunsAllowed": 6,
-        "opponentsAtBats": 147,
+        "opponentsAtBats": 167,
         "wildPitches": 2,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.265,
-        "walksHits": 67
+        "opponentsBattingAverage": 0.263,
+        "walksHits": 76
       },
       "fieldingStats": {
         "rosterBioId": "13000",
@@ -3113,16 +3113,16 @@
         "jersey": "26",
         "profileUrl": "https://nusports.com/sports/baseball/roster/matt-kouser/13000",
         "imageUrl": "https://nusports.com/images/2026/1/21/26_Kouser.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 5,
+        "gamesPlayed": 9,
+        "gamesStarted": 6,
         "putouts": 0,
         "assists": 8,
         "errors": 1,
         "fieldingPercentage": 0.889,
         "doublePlays": 0,
-        "stolenBasesAgainst": 6,
+        "stolenBasesAgainst": 8,
         "caughtStealingBy": 5,
-        "stolenBasesPercentage": 0.545,
+        "stolenBasesPercentage": 0.615,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -3136,20 +3136,20 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 21.264822134387344,
+          "Miss bats": 22.16783216783216,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Matt Kouser gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.93",
+          "ERA 4.98",
           "WHIP 1.75",
-          "K/9 6.3"
+          "K/9 6.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.93"
+            "value": "4.98"
           },
           {
             "label": "WHIP",
@@ -3157,7 +3157,7 @@
           },
           {
             "label": "K/9",
-            "value": "6.3"
+            "value": "6.4"
           },
           {
             "label": "BB/9",
@@ -3165,11 +3165,11 @@
           },
           {
             "label": "HR/9",
-            "value": "1.41"
+            "value": "1.25"
           },
           {
             "label": "IP",
-            "value": "38.3"
+            "value": "43.3"
           }
         ],
         "metaLine": "SO / N/A",
@@ -3308,12 +3308,12 @@
         "jersey": "28",
         "profileUrl": "https://nusports.com/sports/baseball/roster/jay-slater/13013",
         "imageUrl": "https://nusports.com/images/2026/1/21/28_Slater.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 28,
+        "gamesPlayed": 30,
+        "gamesStarted": 29,
         "battingAverage": 0.23,
-        "onBasePercentage": 0.306,
+        "onBasePercentage": 0.313,
         "sluggingPercentage": 0.43,
-        "ops": 0.736,
+        "ops": 0.743,
         "atBats": 100,
         "runs": 14,
         "hits": 23,
@@ -3323,7 +3323,7 @@
         "runsBattedIn": 19,
         "totalBases": 43,
         "walks": 8,
-        "hitByPitch": 3,
+        "hitByPitch": 4,
         "strikeouts": 19,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
@@ -3334,7 +3334,7 @@
         "putouts": 168,
         "assists": 17,
         "errors": 2,
-        "plateAppearances": 112,
+        "plateAppearances": 113,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3346,28 +3346,28 @@
         "jersey": "28",
         "profileUrl": "https://nusports.com/sports/baseball/roster/jay-slater/13013",
         "imageUrl": "https://nusports.com/images/2026/1/21/28_Slater.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 28,
+        "gamesPlayed": 30,
+        "gamesStarted": 29,
         "putouts": 168,
         "assists": 17,
         "errors": 2,
         "fieldingPercentage": 0.989,
         "doublePlays": 2,
-        "stolenBasesAgainst": 17,
+        "stolenBasesAgainst": 19,
         "caughtStealingBy": 9,
-        "stolenBasesPercentage": 0.654,
+        "stolenBasesPercentage": 0.679,
         "passedBalls": 5,
         "catchersInterference": 0,
         "totalChances": 187
       },
       "evaluation": {
-        "score": 17,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 14.444444444444427,
+          "On-base": 18.333333333333318,
           "Power": 28.947368421052634,
           "Contact": 6.250000000000005,
           "Discipline": 24.561403508771924,
@@ -3376,7 +3376,7 @@
         "summary": "Jay Slater gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .230",
-          "OBP .306",
+          "OBP .313",
           "SLG .430"
         ],
         "statCards": [
@@ -3386,7 +3386,7 @@
           },
           {
             "label": "OBP",
-            "value": ".306"
+            "value": ".313"
           },
           {
             "label": "SLG",
@@ -3738,32 +3738,32 @@
         "jersey": "31",
         "profileUrl": "https://nusports.com/sports/baseball/roster/dominic-deloreto/13015",
         "imageUrl": "https://nusports.com/images/2026/1/21/31_DeLoreto.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 0,
-        "appearances": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2,
-        "whip": 1.78,
+        "earnedRunAverage": 2.61,
+        "whip": 1.74,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 9,
-        "inningsPitchedDisplay": "9.0",
-        "hitsAllowed": 11,
-        "runsAllowed": 6,
-        "earnedRunsAllowed": 2,
-        "walksAllowed": 5,
+        "inningsPitched": 10.333333333333334,
+        "inningsPitchedDisplay": "10.1",
+        "hitsAllowed": 12,
+        "runsAllowed": 7,
+        "earnedRunsAllowed": 3,
+        "walksAllowed": 6,
         "strikeouts": 6,
-        "doublesAllowed": 2,
+        "doublesAllowed": 3,
         "triplesAllowed": 1,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 35,
-        "wildPitches": 3,
+        "opponentsAtBats": 40,
+        "wildPitches": 4,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.314,
-        "walksHits": 16
+        "opponentsBattingAverage": 0.3,
+        "walksHits": 18
       },
       "fieldingStats": {
         "rosterBioId": "13015",
@@ -3787,7 +3787,7 @@
         "totalChances": 3
       },
       "evaluation": {
-        "score": 4,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3795,32 +3795,32 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 18.181818181818183,
-          "Command": 3.9999999999999996,
+          "Miss bats": 11.143695014662756,
+          "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Dominic DeLoreto looks like a LHP/OF option who limits runs.",
         "summaryMetrics": [
-          "ERA 2.00",
-          "WHIP 1.78",
-          "K/9 6.0"
+          "ERA 2.61",
+          "WHIP 1.74",
+          "K/9 5.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.00"
+            "value": "2.61"
           },
           {
             "label": "WHIP",
-            "value": "1.78"
+            "value": "1.74"
           },
           {
             "label": "K/9",
-            "value": "6.0"
+            "value": "5.2"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "5.2"
           },
           {
             "label": "HR/9",
@@ -3828,7 +3828,7 @@
           },
           {
             "label": "IP",
-            "value": "9.0"
+            "value": "10.3"
           }
         ],
         "metaLine": "FY / N/A",
@@ -3967,20 +3967,20 @@
         "jersey": "33",
         "profileUrl": "https://nusports.com/sports/baseball/roster/logan-de-groot/13017",
         "imageUrl": "https://nusports.com/images/2026/1/21/33_deGroot.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 23,
-        "battingAverage": 0.278,
-        "onBasePercentage": 0.395,
-        "sluggingPercentage": 0.319,
-        "ops": 0.714,
-        "atBats": 72,
+        "gamesPlayed": 26,
+        "gamesStarted": 24,
+        "battingAverage": 0.316,
+        "onBasePercentage": 0.422,
+        "sluggingPercentage": 0.368,
+        "ops": 0.79,
+        "atBats": 76,
         "runs": 7,
-        "hits": 20,
-        "doubles": 3,
+        "hits": 24,
+        "doubles": 4,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 9,
-        "totalBases": 23,
+        "totalBases": 28,
         "walks": 11,
         "hitByPitch": 3,
         "strikeouts": 19,
@@ -3992,8 +3992,8 @@
         "stolenBasesAttempts": 2,
         "putouts": 48,
         "assists": 1,
-        "errors": 0,
-        "plateAppearances": 88,
+        "errors": 1,
+        "plateAppearances": 92,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4005,51 +4005,51 @@
         "jersey": "33",
         "profileUrl": "https://nusports.com/sports/baseball/roster/logan-de-groot/13017",
         "imageUrl": "https://nusports.com/images/2026/1/21/33_deGroot.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 22,
+        "gamesPlayed": 23,
+        "gamesStarted": 23,
         "putouts": 48,
         "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
+        "errors": 1,
+        "fieldingPercentage": 0.98,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 49
+        "totalChances": 50
       },
       "evaluation": {
-        "score": 34,
+        "score": 46,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 0,
-          "Contact": 36.250000000000014,
+          "On-base": 78.88888888888886,
+          "Power": 12.63157894736842,
+          "Contact": 60,
           "Discipline": 42.10526315789473,
           "Speed": 6.666666666666667
         },
-        "summary": "Logan de Groot gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Logan de Groot profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .278",
-          "OBP .395",
-          "SLG .319"
+          "AVG .316",
+          "OBP .422",
+          "SLG .368"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".278"
+            "value": ".316"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": ".422"
           },
           {
             "label": "SLG",
-            "value": ".319"
+            "value": ".368"
           },
           {
             "label": "HR",
@@ -4627,32 +4627,32 @@
         "jersey": "41",
         "profileUrl": "https://nusports.com/sports/baseball/roster/tommy-bridges/13022",
         "imageUrl": "https://nusports.com/images/2026/1/21/41_Bridges.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 2,
-        "appearances": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.27,
-        "whip": 1.85,
+        "earnedRunAverage": 6.63,
+        "whip": 1.79,
         "wins": 0,
         "losses": 0,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 17.333333333333332,
-        "inningsPitchedDisplay": "17.1",
-        "hitsAllowed": 22,
+        "inningsPitched": 19,
+        "inningsPitchedDisplay": "19.0",
+        "hitsAllowed": 23,
         "runsAllowed": 17,
         "earnedRunsAllowed": 14,
-        "walksAllowed": 10,
-        "strikeouts": 12,
+        "walksAllowed": 11,
+        "strikeouts": 14,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 7,
-        "opponentsAtBats": 73,
+        "opponentsAtBats": 79,
         "wildPitches": 1,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.301,
-        "walksHits": 32
+        "opponentsBattingAverage": 0.291,
+        "walksHits": 34
       },
       "fieldingStats": {
         "rosterBioId": "13022",
@@ -4661,22 +4661,22 @@
         "jersey": "41",
         "profileUrl": "https://nusports.com/sports/baseball/roster/tommy-bridges/13022",
         "imageUrl": "https://nusports.com/images/2026/1/21/41_Bridges.jpg",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 0,
         "putouts": 2,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 2,
-        "stolenBasesAgainst": 2,
+        "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": 0.75,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
       },
       "evaluation": {
-        "score": 5,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4684,28 +4684,28 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 20.27972027972028,
-          "Command": 3.9999999999999996,
+          "Miss bats": 23.923444976076556,
+          "Command": 5.454545454545459,
           "Damage suppression": 0
         },
         "summary": "Tommy Bridges gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.27",
-          "WHIP 1.85",
-          "K/9 6.2"
+          "ERA 6.63",
+          "WHIP 1.79",
+          "K/9 6.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.27"
+            "value": "6.63"
           },
           {
             "label": "WHIP",
-            "value": "1.85"
+            "value": "1.79"
           },
           {
             "label": "K/9",
-            "value": "6.2"
+            "value": "6.6"
           },
           {
             "label": "BB/9",
@@ -4713,11 +4713,11 @@
           },
           {
             "label": "HR/9",
-            "value": "3.63"
+            "value": "3.32"
           },
           {
             "label": "IP",
-            "value": "17.3"
+            "value": "19.0"
           }
         ],
         "metaLine": "SO / N/A",
@@ -5103,29 +5103,29 @@
         "position": "INF",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 44,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Noah Ruiz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .315",
-          "OBP .371",
-          "SLG .523"
+          "AVG .313",
+          "OBP .365",
+          "SLG .515"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".315"
+            "value": ".313"
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": ".365"
           },
           {
             "label": "SLG",
-            "value": ".523"
+            "value": ".515"
           },
           {
             "label": "HR",
@@ -5133,7 +5133,7 @@
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -5141,10 +5141,10 @@
           }
         ],
         "components": {
-          "On-base": 50.55555555555554,
-          "Power": 53.42105263157896,
-          "Contact": 59.375,
-          "Discipline": 20.98765432098765,
+          "On-base": 47.22222222222221,
+          "Power": 51.31578947368421,
+          "Contact": 58.12499999999999,
+          "Discipline": 16.66666666666666,
           "Speed": 0
         },
         "metaLine": "GR / N/A",
@@ -5241,7 +5241,7 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 16,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5249,7 +5249,7 @@
         "summary": "Jack Counsell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .254",
-          "OBP .319",
+          "OBP .315",
           "SLG .349"
         ],
         "statCards": [
@@ -5259,7 +5259,7 @@
           },
           {
             "label": "OBP",
-            "value": ".319"
+            "value": ".315"
           },
           {
             "label": "SLG",
@@ -5271,7 +5271,7 @@
           },
           {
             "label": "RBI",
-            "value": "9"
+            "value": "10"
           },
           {
             "label": "SB",
@@ -5279,7 +5279,7 @@
           }
         ],
         "components": {
-          "On-base": 21.666666666666657,
+          "On-base": 19.444444444444432,
           "Power": 7.631578947368414,
           "Contact": 21.250000000000004,
           "Discipline": 22.22222222222222,
@@ -5379,29 +5379,29 @@
         "position": "INF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 20,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Owen McElfatrick gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .226",
-          "OBP .316",
-          "SLG .451"
+          "AVG .225",
+          "OBP .312",
+          "SLG .442"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".226"
+            "value": ".225"
           },
           {
             "label": "OBP",
-            "value": ".316"
+            "value": ".312"
           },
           {
             "label": "SLG",
-            "value": ".451"
+            "value": ".442"
           },
           {
             "label": "HR",
@@ -5409,7 +5409,7 @@
           },
           {
             "label": "RBI",
-            "value": "25"
+            "value": "26"
           },
           {
             "label": "SB",
@@ -5417,10 +5417,10 @@
           }
         ],
         "components": {
-          "On-base": 19.999999999999986,
-          "Power": 34.47368421052632,
-          "Contact": 3.7500000000000036,
-          "Discipline": 27.485380116959057,
+          "On-base": 17.777777777777764,
+          "Power": 32.10526315789474,
+          "Contact": 3.1250000000000027,
+          "Discipline": 26.210826210826205,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / N/A",
@@ -5448,29 +5448,29 @@
         "position": "INF",
         "classYear": "FY",
         "handedness": "N/A",
-        "score": 40,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nick Barron gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .289",
-          "OBP .354",
-          "SLG .500"
+          "AVG .282",
+          "OBP .347",
+          "SLG .489"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": ".282"
           },
           {
             "label": "OBP",
-            "value": ".354"
+            "value": ".347"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".489"
           },
           {
             "label": "HR",
@@ -5486,10 +5486,10 @@
           }
         ],
         "components": {
-          "On-base": 41.111111111111086,
-          "Power": 47.36842105263158,
-          "Contact": 43.124999999999986,
-          "Discipline": 47.95321637426899,
+          "On-base": 37.22222222222219,
+          "Power": 44.473684210526315,
+          "Contact": 38.74999999999998,
+          "Discipline": 44.444444444444436,
           "Speed": 0
         },
         "metaLine": "FY / N/A",
@@ -5586,29 +5586,29 @@
         "position": "C/1B",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 49,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Shane Hofstadler profiles as a C/1B piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Shane Hofstadler profiles as a C/1B piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .211",
-          "OBP .400",
-          "SLG .526"
+          "AVG .190",
+          "OBP .393",
+          "SLG .476"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".211"
+            "value": ".190"
           },
           {
             "label": "OBP",
-            "value": ".400"
+            "value": ".393"
           },
           {
             "label": "SLG",
-            "value": ".526"
+            "value": ".476"
           },
           {
             "label": "HR",
@@ -5624,8 +5624,8 @@
           }
         ],
         "components": {
-          "On-base": 66.66666666666666,
-          "Power": 54.21052631578949,
+          "On-base": 62.77777777777778,
+          "Power": 41.05263157894737,
           "Contact": 0,
           "Discipline": 100,
           "Speed": 0
@@ -5655,29 +5655,29 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 31,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jackson Freeman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .275",
-          "OBP .342",
-          "SLG .478"
+          "AVG .266",
+          "OBP .331",
+          "SLG .462"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".275"
+            "value": ".266"
           },
           {
             "label": "OBP",
-            "value": ".342"
+            "value": ".331"
           },
           {
             "label": "SLG",
-            "value": ".478"
+            "value": ".462"
           },
           {
             "label": "HR",
@@ -5693,10 +5693,10 @@
           }
         ],
         "components": {
-          "On-base": 34.44444444444444,
-          "Power": 41.57894736842105,
-          "Contact": 34.375000000000014,
-          "Discipline": 17.90123456790123,
+          "On-base": 28.33333333333333,
+          "Power": 37.36842105263159,
+          "Contact": 28.750000000000007,
+          "Discipline": 13.888888888888888,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / N/A",
@@ -5731,22 +5731,22 @@
         },
         "summary": "Jack Lausch profiles as a OF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .292",
-          "OBP .383",
-          "SLG .600"
+          "AVG .296",
+          "OBP .384",
+          "SLG .593"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".296"
           },
           {
             "label": "OBP",
-            "value": ".383"
+            "value": ".384"
           },
           {
             "label": "SLG",
-            "value": ".600"
+            "value": ".593"
           },
           {
             "label": "HR",
@@ -5762,10 +5762,10 @@
           }
         ],
         "components": {
-          "On-base": 57.22222222222222,
-          "Power": 73.6842105263158,
-          "Contact": 44.999999999999986,
-          "Discipline": 17.96690307328605,
+          "On-base": 57.77777777777777,
+          "Power": 71.84210526315789,
+          "Contact": 47.499999999999986,
+          "Discipline": 17.129629629629626,
           "Speed": 20
         },
         "metaLine": "SR / N/A",
@@ -6000,29 +6000,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 46,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ryan Kucherak gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .293",
-          "OBP .381",
-          "SLG .526"
+          "AVG .290",
+          "OBP .375",
+          "SLG .514"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".293"
+            "value": ".290"
           },
           {
             "label": "OBP",
-            "value": ".381"
+            "value": ".375"
           },
           {
             "label": "SLG",
-            "value": ".526"
+            "value": ".514"
           },
           {
             "label": "HR",
@@ -6038,10 +6038,10 @@
           }
         ],
         "components": {
-          "On-base": 56.1111111111111,
-          "Power": 54.21052631578949,
-          "Contact": 45.624999999999986,
-          "Discipline": 30.246913580246908,
+          "On-base": 52.77777777777777,
+          "Power": 51.05263157894737,
+          "Contact": 43.749999999999986,
+          "Discipline": 24.999999999999993,
           "Speed": 20
         },
         "metaLine": "JR / N/A",
@@ -6138,29 +6138,29 @@
         "position": "INF",
         "classYear": "FY",
         "handedness": "N/A",
-        "score": 2,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jake Yang gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .214",
-          "OBP .267",
-          "SLG .286"
+          "AVG .294",
+          "OBP .368",
+          "SLG .353"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".214"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".267"
+            "value": ".368"
           },
           {
             "label": "SLG",
-            "value": ".286"
+            "value": ".353"
           },
           {
             "label": "HR",
@@ -6176,10 +6176,10 @@
           }
         ],
         "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 14.814814814814808,
+          "On-base": 48.88888888888887,
+          "Power": 8.684210526315784,
+          "Contact": 46.249999999999986,
+          "Discipline": 33.33333333333333,
           "Speed": 0
         },
         "metaLine": "FY / N/A",
@@ -6490,14 +6490,14 @@
         },
         "summary": "Matt Kouser gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.93",
+          "ERA 4.98",
           "WHIP 1.75",
-          "K/9 6.3"
+          "K/9 6.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.93"
+            "value": "4.98"
           },
           {
             "label": "WHIP",
@@ -6505,7 +6505,7 @@
           },
           {
             "label": "K/9",
-            "value": "6.3"
+            "value": "6.4"
           },
           {
             "label": "BB/9",
@@ -6513,17 +6513,17 @@
           },
           {
             "label": "HR/9",
-            "value": "1.41"
+            "value": "1.25"
           },
           {
             "label": "IP",
-            "value": "38.3"
+            "value": "43.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 21.264822134387344,
+          "Miss bats": 22.16783216783216,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -6620,7 +6620,7 @@
         "position": "C",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 17,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -6628,7 +6628,7 @@
         "summary": "Jay Slater gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .230",
-          "OBP .306",
+          "OBP .313",
           "SLG .430"
         ],
         "statCards": [
@@ -6638,7 +6638,7 @@
           },
           {
             "label": "OBP",
-            "value": ".306"
+            "value": ".313"
           },
           {
             "label": "SLG",
@@ -6658,7 +6658,7 @@
           }
         ],
         "components": {
-          "On-base": 14.444444444444427,
+          "On-base": 18.333333333333318,
           "Power": 28.947368421052634,
           "Contact": 6.250000000000005,
           "Discipline": 24.561403508771924,
@@ -6827,33 +6827,33 @@
         "position": "LHP/OF",
         "classYear": "FY",
         "handedness": "N/A",
-        "score": 4,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dominic DeLoreto looks like a LHP/OF option who limits runs.",
         "summaryMetrics": [
-          "ERA 2.00",
-          "WHIP 1.78",
-          "K/9 6.0"
+          "ERA 2.61",
+          "WHIP 1.74",
+          "K/9 5.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.00"
+            "value": "2.61"
           },
           {
             "label": "WHIP",
-            "value": "1.78"
+            "value": "1.74"
           },
           {
             "label": "K/9",
-            "value": "6.0"
+            "value": "5.2"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "5.2"
           },
           {
             "label": "HR/9",
@@ -6861,14 +6861,14 @@
           },
           {
             "label": "IP",
-            "value": "9.0"
+            "value": "10.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 18.181818181818183,
-          "Command": 3.9999999999999996,
+          "Miss bats": 11.143695014662756,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "FY / N/A",
@@ -6964,29 +6964,29 @@
         "position": "OF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 34,
+        "score": 46,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Logan de Groot gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Logan de Groot profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .278",
-          "OBP .395",
-          "SLG .319"
+          "AVG .316",
+          "OBP .422",
+          "SLG .368"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".278"
+            "value": ".316"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": ".422"
           },
           {
             "label": "SLG",
-            "value": ".319"
+            "value": ".368"
           },
           {
             "label": "HR",
@@ -7002,9 +7002,9 @@
           }
         ],
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 0,
-          "Contact": 36.250000000000014,
+          "On-base": 78.88888888888886,
+          "Power": 12.63157894736842,
+          "Contact": 60,
           "Discipline": 42.10526315789473,
           "Speed": 6.666666666666667
         },
@@ -7308,29 +7308,29 @@
         "position": "RHP",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 5,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tommy Bridges gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.27",
-          "WHIP 1.85",
-          "K/9 6.2"
+          "ERA 6.63",
+          "WHIP 1.79",
+          "K/9 6.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.27"
+            "value": "6.63"
           },
           {
             "label": "WHIP",
-            "value": "1.85"
+            "value": "1.79"
           },
           {
             "label": "K/9",
-            "value": "6.2"
+            "value": "6.6"
           },
           {
             "label": "BB/9",
@@ -7338,18 +7338,18 @@
           },
           {
             "label": "HR/9",
-            "value": "3.63"
+            "value": "3.32"
           },
           {
             "label": "IP",
-            "value": "17.3"
+            "value": "19.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 20.27972027972028,
-          "Command": 3.9999999999999996,
+          "Miss bats": 23.923444976076556,
+          "Command": 5.454545454545459,
           "Damage suppression": 0
         },
         "metaLine": "SO / N/A",

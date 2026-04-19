@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-18T11:01:39.962Z",
+  "generatedAt": "2026-04-19T11:00:42.406Z",
   "season": 2026,
   "school": {
     "slug": "tennessee",
@@ -38,41 +38,41 @@
     }
   },
   "teamSummary": {
-    "record": "25-13, 7-9",
-    "battingAverage": ".267",
-    "earnedRunAverage": "3.98",
+    "record": "25-14, 7-10",
+    "battingAverage": ".263",
+    "earnedRunAverage": "4.09",
     "wins": "25",
-    "losses": "13",
+    "losses": "14",
     "hitting": {
-      "atBats": "1285",
-      "runsScored": "256",
-      "hits": "343",
-      "runsBattedIn": "241",
+      "atBats": "1314",
+      "runsScored": "257",
+      "hits": "345",
+      "runsBattedIn": "242",
       "doubles": "82",
       "triples": "5",
-      "homeRuns": "59",
-      "walks": "165",
+      "homeRuns": "60",
+      "walks": "169",
       "intentionalWalks": "6",
-      "strikeouts": "299",
-      "strikeoutsLooking": "70",
-      "hitByPitch": "45",
-      "stolenBases": "25",
+      "strikeouts": "309",
+      "strikeoutsLooking": "72",
+      "hitByPitch": "46",
+      "stolenBases": "26",
       "caughtStealing": "9",
       "sacrificeHits": "6",
       "sacrificeFlies": "13",
       "reachedOnCatchersInteference": "4",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "301",
-      "flyOuts": "338",
+      "groundOuts": "309",
+      "flyOuts": "347",
       "groundedIntoDoublePlay": "26",
       "pickedOff": "4",
       "doublePlaysHitInto": "29",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1030",
-      "assists": "319",
+      "putouts": "1057",
+      "assists": "320",
       "errors": "22",
       "passedBalls": "5",
       "catchersInterference": "0",
@@ -80,42 +80,42 @@
       "caughtStealingBy": "14",
       "involvedInDoublePlays": "16",
       "involvedInTriplePlays": "0",
-      "totalChances": "1371",
+      "totalChances": "1399",
       "fieldingPercentage": ".984"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "25",
       "saves": "6",
-      "losses": "13",
+      "losses": "14",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "1",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "343.1",
-      "hitsAllowed": "286",
-      "runsAllowed": "165",
-      "earnedRunsAllowed": "152",
-      "walksAllowed": "110",
-      "strikeouts": "405",
-      "battersFaced": "1443",
-      "opponentAtBats": "1276",
-      "doublesAllowed": "42",
+      "inningsPitched": "352.1",
+      "hitsAllowed": "299",
+      "runsAllowed": "173",
+      "earnedRunsAllowed": "160",
+      "walksAllowed": "113",
+      "strikeouts": "418",
+      "battersFaced": "1487",
+      "opponentAtBats": "1315",
+      "doublesAllowed": "45",
       "triplesAllowed": "1",
-      "homerunsAllowed": "48",
-      "wildPitches": "10",
+      "homerunsAllowed": "50",
+      "wildPitches": "11",
       "balks": "3",
-      "hitBatters": "44",
-      "strikeoutsLooking": "118",
+      "hitBatters": "45",
+      "strikeoutsLooking": "121",
       "intentionalWalks": "2",
       "inheritedRunners": "0",
       "inheritedRunnersThatScored": "0",
       "sacrificeHitsAllowed": "8",
-      "sacrificeFliesAllowed": "5",
+      "sacrificeFliesAllowed": "6",
       "catchersInterferenceAllowed": "0",
-      "pitches": "5567",
-      "flyouts": "305",
-      "groundouts": "281",
+      "pitches": "5742",
+      "flyouts": "318",
+      "groundouts": "282",
       "teamUnearnedRuns": "0",
       "saveRecord": "6",
       "pickoff": "8"
@@ -160,13 +160,13 @@
         "jersey": "1",
         "profileUrl": "https://utsports.com/sports/baseball/roster/blaine-brown/22649",
         "imageUrl": "https://utsports.com/images/2025/10/8/Brown_Blaine.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "battingAverage": 0.24,
-        "onBasePercentage": 0.311,
-        "sluggingPercentage": 0.473,
-        "ops": 0.784,
-        "atBats": 150,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "battingAverage": 0.234,
+        "onBasePercentage": 0.304,
+        "sluggingPercentage": 0.461,
+        "ops": 0.765,
+        "atBats": 154,
         "runs": 29,
         "hits": 36,
         "doubles": 8,
@@ -176,17 +176,17 @@
         "totalBases": 71,
         "walks": 14,
         "hitByPitch": 2,
-        "strikeouts": 32,
+        "strikeouts": 33,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 36,
+        "putouts": 41,
         "assists": 1,
         "errors": 1,
-        "plateAppearances": 171,
+        "plateAppearances": 175,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -231,19 +231,19 @@
         "jersey": "1",
         "profileUrl": "https://utsports.com/sports/baseball/roster/blaine-brown/22649",
         "imageUrl": "https://utsports.com/images/2025/10/8/Brown_Blaine.jpg",
-        "gamesPlayed": 19,
-        "gamesStarted": 19,
-        "putouts": 36,
+        "gamesPlayed": 20,
+        "gamesStarted": 20,
+        "putouts": 41,
         "assists": 1,
         "errors": 1,
-        "fieldingPercentage": 0.974,
+        "fieldingPercentage": 0.977,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 38
+        "totalChances": 43
       },
       "evaluation": {
         "score": 22,
@@ -338,7 +338,7 @@
         "jersey": "2",
         "profileUrl": "https://utsports.com/sports/baseball/roster/ariel-antigua/22633",
         "imageUrl": "https://utsports.com/images/2025/10/8/Antigua_Ariel.jpg",
-        "gamesPlayed": 24,
+        "gamesPlayed": 25,
         "gamesStarted": 13,
         "battingAverage": 0.206,
         "onBasePercentage": 0.326,
@@ -483,13 +483,13 @@
         "jersey": "4",
         "profileUrl": "https://utsports.com/sports/baseball/roster/manny-marin/22642",
         "imageUrl": "https://utsports.com/images/2025/10/8/Marin_Manny.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 31,
-        "battingAverage": 0.301,
-        "onBasePercentage": 0.336,
-        "sluggingPercentage": 0.504,
-        "ops": 0.84,
-        "atBats": 123,
+        "gamesPlayed": 35,
+        "gamesStarted": 32,
+        "battingAverage": 0.296,
+        "onBasePercentage": 0.341,
+        "sluggingPercentage": 0.496,
+        "ops": 0.837,
+        "atBats": 125,
         "runs": 22,
         "hits": 37,
         "doubles": 7,
@@ -497,19 +497,19 @@
         "homeRuns": 6,
         "runsBattedIn": 27,
         "totalBases": 62,
-        "walks": 5,
+        "walks": 7,
         "hitByPitch": 2,
-        "strikeouts": 28,
+        "strikeouts": 29,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 49,
-        "assists": 85,
+        "putouts": 51,
+        "assists": 86,
         "errors": 3,
-        "plateAppearances": 135,
+        "plateAppearances": 139,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -521,19 +521,19 @@
         "jersey": "4",
         "profileUrl": "https://utsports.com/sports/baseball/roster/manny-marin/22642",
         "imageUrl": "https://utsports.com/images/2025/10/8/Marin_Manny.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 31,
-        "putouts": 49,
-        "assists": 85,
+        "gamesPlayed": 35,
+        "gamesStarted": 32,
+        "putouts": 51,
+        "assists": 86,
         "errors": 3,
-        "fieldingPercentage": 0.978,
+        "fieldingPercentage": 0.979,
         "doublePlays": 10,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 137
+        "totalChances": 140
       },
       "evaluation": {
         "score": 33,
@@ -542,30 +542,30 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 31.11111111111111,
-          "Power": 48.42105263157895,
-          "Contact": 50.624999999999986,
-          "Discipline": 0,
+          "On-base": 33.88888888888889,
+          "Power": 46.31578947368421,
+          "Contact": 47.499999999999986,
+          "Discipline": 4.597701149425286,
           "Speed": 10
         },
         "summary": "Manny Marin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .301",
-          "OBP .336",
-          "SLG .504"
+          "AVG .296",
+          "OBP .341",
+          "SLG .496"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".301"
+            "value": ".296"
           },
           {
             "label": "OBP",
-            "value": ".336"
+            "value": ".341"
           },
           {
             "label": "SLG",
-            "value": ".504"
+            "value": ".496"
           },
           {
             "label": "HR",
@@ -628,33 +628,33 @@
         "jersey": "5",
         "profileUrl": "https://utsports.com/sports/baseball/roster/garrett-wright/22654",
         "imageUrl": "https://utsports.com/images/2025/10/8/Wright_Garrett.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 26,
-        "battingAverage": 0.333,
-        "onBasePercentage": 0.449,
-        "sluggingPercentage": 0.563,
-        "ops": 1.012,
-        "atBats": 96,
+        "gamesPlayed": 28,
+        "gamesStarted": 27,
+        "battingAverage": 0.33,
+        "onBasePercentage": 0.443,
+        "sluggingPercentage": 0.55,
+        "ops": 0.993,
+        "atBats": 100,
         "runs": 24,
-        "hits": 32,
+        "hits": 33,
         "doubles": 11,
         "triples": 1,
         "homeRuns": 3,
         "runsBattedIn": 14,
-        "totalBases": 54,
+        "totalBases": 55,
         "walks": 7,
         "hitByPitch": 14,
-        "strikeouts": 18,
+        "strikeouts": 19,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 3,
-        "putouts": 67,
+        "putouts": 78,
         "assists": 2,
         "errors": 0,
-        "plateAppearances": 123,
+        "plateAppearances": 127,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -666,9 +666,9 @@
         "jersey": "5",
         "profileUrl": "https://utsports.com/sports/baseball/roster/garrett-wright/22654",
         "imageUrl": "https://utsports.com/images/2025/10/8/Wright_Garrett.jpg",
-        "gamesPlayed": 21,
-        "gamesStarted": 21,
-        "putouts": 67,
+        "gamesPlayed": 22,
+        "gamesStarted": 22,
+        "putouts": 78,
         "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -678,39 +678,39 @@
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 69
+        "totalChances": 80
       },
       "evaluation": {
-        "score": 63,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 93.88888888888889,
-          "Power": 63.947368421052616,
-          "Contact": 70.625,
-          "Discipline": 20.98765432098765,
+          "On-base": 90.55555555555554,
+          "Power": 60.526315789473706,
+          "Contact": 68.75000000000001,
+          "Discipline": 18.713450292397653,
           "Speed": 3.3333333333333335
         },
         "summary": "Garrett Wright profiles as a C/OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .333",
-          "OBP .449",
-          "SLG .563"
+          "AVG .330",
+          "OBP .443",
+          "SLG .550"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".333"
+            "value": ".330"
           },
           {
             "label": "OBP",
-            "value": ".449"
+            "value": ".443"
           },
           {
             "label": "SLG",
-            "value": ".563"
+            "value": ".550"
           },
           {
             "label": "HR",
@@ -774,32 +774,32 @@
         "jersey": "6",
         "profileUrl": "https://utsports.com/sports/baseball/roster/brady-frederick/22650",
         "imageUrl": "https://utsports.com/images/2025/10/8/Frederick_Brady.jpg",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 0,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.33,
-        "whip": 1,
+        "earnedRunAverage": 3.95,
+        "whip": 1.02,
         "wins": 4,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 27,
-        "inningsPitchedDisplay": "27.0",
-        "hitsAllowed": 19,
-        "runsAllowed": 12,
-        "earnedRunsAllowed": 10,
+        "inningsPitched": 27.333333333333332,
+        "inningsPitchedDisplay": "27.1",
+        "hitsAllowed": 20,
+        "runsAllowed": 14,
+        "earnedRunsAllowed": 12,
         "walksAllowed": 8,
-        "strikeouts": 29,
+        "strikeouts": 30,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 93,
+        "homeRunsAllowed": 4,
+        "opponentsAtBats": 95,
         "wildPitches": 0,
-        "hitBatters": 4,
+        "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.204,
-        "walksHits": 27
+        "opponentsBattingAverage": 0.211,
+        "walksHits": 28
       },
       "fieldingStats": {
         "rosterBioId": "22650",
@@ -831,40 +831,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.515151515151516,
-          "Command": 52.5,
+          "Miss bats": 53.43680709534369,
+          "Command": 55.00000000000001,
           "Damage suppression": 0
         },
         "summary": "Brady Frederick looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.33",
-          "WHIP 1.00",
-          "K/9 9.7"
+          "ERA 3.95",
+          "WHIP 1.02",
+          "K/9 9.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.33"
+            "value": "3.95"
           },
           {
             "label": "WHIP",
-            "value": "1.00"
+            "value": "1.02"
           },
           {
             "label": "K/9",
-            "value": "9.7"
+            "value": "9.9"
           },
           {
             "label": "BB/9",
-            "value": "2.7"
+            "value": "2.6"
           },
           {
             "label": "HR/9",
-            "value": "1.00"
+            "value": "1.32"
           },
           {
             "label": "IP",
-            "value": "27.0"
+            "value": "27.3"
           }
         ],
         "metaLine": "JR / N/A",
@@ -1057,13 +1057,13 @@
         "jersey": "8",
         "profileUrl": "https://utsports.com/sports/baseball/roster/jay-abernathy/22631",
         "imageUrl": "https://utsports.com/images/2025/10/8/Abernathy_Jay.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 29,
-        "battingAverage": 0.243,
-        "onBasePercentage": 0.361,
-        "sluggingPercentage": 0.408,
-        "ops": 0.769,
-        "atBats": 103,
+        "gamesPlayed": 36,
+        "gamesStarted": 30,
+        "battingAverage": 0.238,
+        "onBasePercentage": 0.36,
+        "sluggingPercentage": 0.4,
+        "ops": 0.76,
+        "atBats": 105,
         "runs": 25,
         "hits": 25,
         "doubles": 9,
@@ -1071,7 +1071,7 @@
         "homeRuns": 2,
         "runsBattedIn": 13,
         "totalBases": 42,
-        "walks": 18,
+        "walks": 19,
         "hitByPitch": 1,
         "strikeouts": 29,
         "intentionalWalks": 0,
@@ -1080,10 +1080,10 @@
         "sacrificeHits": 2,
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
-        "putouts": 54,
+        "putouts": 56,
         "assists": 14,
         "errors": 3,
-        "plateAppearances": 130,
+        "plateAppearances": 133,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -1095,51 +1095,51 @@
         "jersey": "8",
         "profileUrl": "https://utsports.com/sports/baseball/roster/jay-abernathy/22631",
         "imageUrl": "https://utsports.com/images/2025/10/8/Abernathy_Jay.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 26,
-        "putouts": 54,
+        "gamesPlayed": 29,
+        "gamesStarted": 27,
+        "putouts": 56,
         "assists": 14,
         "errors": 3,
-        "fieldingPercentage": 0.958,
+        "fieldingPercentage": 0.959,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 71
+        "totalChances": 73
       },
       "evaluation": {
-        "score": 31,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 44.99999999999998,
-          "Power": 23.1578947368421,
-          "Contact": 14.374999999999996,
-          "Discipline": 46.74329501915708,
+          "On-base": 44.44444444444443,
+          "Power": 21.052631578947377,
+          "Contact": 11.249999999999991,
+          "Discipline": 50.574712643678154,
           "Speed": 13.333333333333334
         },
         "summary": "Jay Abernathy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .243",
-          "OBP .361",
-          "SLG .408"
+          "AVG .238",
+          "OBP .360",
+          "SLG .400"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".243"
+            "value": ".238"
           },
           {
             "label": "OBP",
-            "value": ".361"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".408"
+            "value": ".400"
           },
           {
             "label": "HR",
@@ -1202,13 +1202,13 @@
         "jersey": "9",
         "profileUrl": "https://utsports.com/sports/baseball/roster/henry-ford/22648",
         "imageUrl": "https://utsports.com/images/2025/10/8/Ford_Henry.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "battingAverage": 0.301,
-        "onBasePercentage": 0.365,
-        "sluggingPercentage": 0.562,
-        "ops": 0.927,
-        "atBats": 153,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "battingAverage": 0.293,
+        "onBasePercentage": 0.356,
+        "sluggingPercentage": 0.548,
+        "ops": 0.904,
+        "atBats": 157,
         "runs": 29,
         "hits": 46,
         "doubles": 7,
@@ -1218,7 +1218,7 @@
         "totalBases": 86,
         "walks": 16,
         "hitByPitch": 0,
-        "strikeouts": 29,
+        "strikeouts": 31,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
@@ -1228,7 +1228,7 @@
         "putouts": 21,
         "assists": 47,
         "errors": 4,
-        "plateAppearances": 177,
+        "plateAppearances": 181,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1255,36 +1255,36 @@
         "totalChances": 72
       },
       "evaluation": {
-        "score": 47,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 47.22222222222221,
-          "Power": 63.68421052631581,
-          "Contact": 50.624999999999986,
-          "Discipline": 39.080459770114935,
+          "On-base": 42.2222222222222,
+          "Power": 60.00000000000002,
+          "Contact": 45.624999999999986,
+          "Discipline": 35.12544802867383,
           "Speed": 10
         },
-        "summary": "Henry Ford profiles as a INF/OF piece who brings real extra-base damage.",
+        "summary": "Henry Ford gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .301",
-          "OBP .365",
-          "SLG .562"
+          "AVG .293",
+          "OBP .356",
+          "SLG .548"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".301"
+            "value": ".293"
           },
           {
             "label": "OBP",
-            "value": ".365"
+            "value": ".356"
           },
           {
             "label": "SLG",
-            "value": ".562"
+            "value": ".548"
           },
           {
             "label": "HR",
@@ -1634,13 +1634,13 @@
         "jersey": "13",
         "profileUrl": "https://utsports.com/sports/baseball/roster/reese-chapman/22635",
         "imageUrl": "https://utsports.com/images/2025/10/8/Chapman_Reese.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "battingAverage": 0.292,
-        "onBasePercentage": 0.41,
-        "sluggingPercentage": 0.508,
-        "ops": 0.918,
-        "atBats": 130,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "battingAverage": 0.286,
+        "onBasePercentage": 0.406,
+        "sluggingPercentage": 0.496,
+        "ops": 0.902,
+        "atBats": 133,
         "runs": 31,
         "hits": 38,
         "doubles": 13,
@@ -1648,19 +1648,19 @@
         "homeRuns": 5,
         "runsBattedIn": 23,
         "totalBases": 66,
-        "walks": 23,
+        "walks": 24,
         "hitByPitch": 3,
-        "strikeouts": 31,
+        "strikeouts": 32,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
-        "stolenBases": 5,
-        "stolenBasesAttempts": 5,
-        "putouts": 54,
+        "stolenBases": 6,
+        "stolenBasesAttempts": 6,
+        "putouts": 57,
         "assists": 3,
         "errors": 2,
-        "plateAppearances": 164,
+        "plateAppearances": 169,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1672,51 +1672,51 @@
         "jersey": "13",
         "profileUrl": "https://utsports.com/sports/baseball/roster/reese-chapman/22635",
         "imageUrl": "https://utsports.com/images/2025/10/8/Chapman_Reese.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 29,
-        "putouts": 54,
+        "gamesPlayed": 30,
+        "gamesStarted": 30,
+        "putouts": 57,
         "assists": 3,
         "errors": 2,
-        "fieldingPercentage": 0.966,
+        "fieldingPercentage": 0.968,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 59
+        "totalChances": 62
       },
       "evaluation": {
-        "score": 54,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 72.2222222222222,
-          "Power": 49.47368421052632,
-          "Contact": 44.999999999999986,
-          "Discipline": 60.215053763440864,
-          "Speed": 16.666666666666664
+          "On-base": 70,
+          "Power": 46.31578947368421,
+          "Contact": 41.24999999999998,
+          "Discipline": 61.11111111111111,
+          "Speed": 20
         },
         "summary": "Reese Chapman profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .292",
-          "OBP .410",
-          "SLG .508"
+          "AVG .286",
+          "OBP .406",
+          "SLG .496"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".410"
+            "value": ".406"
           },
           {
             "label": "SLG",
-            "value": ".508"
+            "value": ".496"
           },
           {
             "label": "HR",
@@ -1728,7 +1728,7 @@
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "6"
           }
         ],
         "metaLine": "SR / N/A",
@@ -1779,13 +1779,13 @@
         "jersey": "14",
         "profileUrl": "https://utsports.com/sports/baseball/roster/blake-grimmer/22637",
         "imageUrl": "https://utsports.com/images/2025/10/8/Grimmer_Blake.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 26,
-        "battingAverage": 0.284,
-        "onBasePercentage": 0.424,
-        "sluggingPercentage": 0.558,
-        "ops": 0.982,
-        "atBats": 95,
+        "gamesPlayed": 27,
+        "gamesStarted": 27,
+        "battingAverage": 0.276,
+        "onBasePercentage": 0.418,
+        "sluggingPercentage": 0.541,
+        "ops": 0.959,
+        "atBats": 98,
         "runs": 26,
         "hits": 27,
         "doubles": 5,
@@ -1794,8 +1794,8 @@
         "runsBattedIn": 18,
         "totalBases": 53,
         "walks": 21,
-        "hitByPitch": 2,
-        "strikeouts": 31,
+        "hitByPitch": 3,
+        "strikeouts": 33,
         "intentionalWalks": 3,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 0,
@@ -1805,7 +1805,7 @@
         "putouts": 139,
         "assists": 24,
         "errors": 1,
-        "plateAppearances": 119,
+        "plateAppearances": 123,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1832,36 +1832,36 @@
         "totalChances": 164
       },
       "evaluation": {
-        "score": 57,
+        "score": 53,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 79.99999999999999,
-          "Power": 62.63157894736844,
-          "Contact": 39.99999999999998,
-          "Discipline": 53.046594982078844,
+          "On-base": 76.66666666666664,
+          "Power": 58.15789473684212,
+          "Contact": 35.000000000000014,
+          "Discipline": 48.48484848484848,
           "Speed": 3.3333333333333335
         },
-        "summary": "Blake Grimmer profiles as a UTL piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Blake Grimmer profiles as a UTL piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .284",
-          "OBP .424",
-          "SLG .558"
+          "AVG .276",
+          "OBP .418",
+          "SLG .541"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".284"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".424"
+            "value": ".418"
           },
           {
             "label": "SLG",
-            "value": ".558"
+            "value": ".541"
           },
           {
             "label": "HR",
@@ -2069,13 +2069,13 @@
         "jersey": "16",
         "profileUrl": "https://utsports.com/sports/baseball/roster/levi-clark/22636",
         "imageUrl": "https://utsports.com/images/2025/10/8/Clark_Levi.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 32,
-        "battingAverage": 0.181,
-        "onBasePercentage": 0.305,
-        "sluggingPercentage": 0.336,
-        "ops": 0.641,
-        "atBats": 116,
+        "gamesPlayed": 34,
+        "gamesStarted": 33,
+        "battingAverage": 0.178,
+        "onBasePercentage": 0.301,
+        "sluggingPercentage": 0.331,
+        "ops": 0.632,
+        "atBats": 118,
         "runs": 20,
         "hits": 21,
         "doubles": 6,
@@ -2085,17 +2085,17 @@
         "totalBases": 39,
         "walks": 16,
         "hitByPitch": 6,
-        "strikeouts": 25,
+        "strikeouts": 27,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 260,
+        "putouts": 262,
         "assists": 23,
         "errors": 1,
-        "plateAppearances": 143,
+        "plateAppearances": 145,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -2107,51 +2107,51 @@
         "jersey": "16",
         "profileUrl": "https://utsports.com/sports/baseball/roster/levi-clark/22636",
         "imageUrl": "https://utsports.com/images/2025/10/8/Clark_Levi.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "putouts": 260,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "putouts": 262,
         "assists": 23,
         "errors": 1,
-        "fieldingPercentage": 0.996,
+        "fieldingPercentage": 0.997,
         "doublePlays": 4,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": 0.8,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 284
+        "totalChances": 286
       },
       "evaluation": {
-        "score": 13,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 13.88888888888887,
-          "Power": 4.210526315789478,
+          "On-base": 11.666666666666647,
+          "Power": 2.8947368421052664,
           "Contact": 0,
-          "Discipline": 48.88888888888888,
+          "Discipline": 43.621399176954725,
           "Speed": 6.666666666666667
         },
         "summary": "Levi Clark gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .181",
-          "OBP .305",
-          "SLG .336"
+          "AVG .178",
+          "OBP .301",
+          "SLG .331"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".181"
+            "value": ".178"
           },
           {
             "label": "OBP",
-            "value": ".305"
+            "value": ".301"
           },
           {
             "label": "SLG",
-            "value": ".336"
+            "value": ".331"
           },
           {
             "label": "HR",
@@ -2502,32 +2502,32 @@
         "jersey": "19",
         "profileUrl": "https://utsports.com/sports/baseball/roster/cam-appenzeller/22700",
         "imageUrl": "https://utsports.com/images/2025/10/8/Appenzeller_Cam.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 0,
-        "appearances": 11,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 1.49,
-        "whip": 0.69,
+        "earnedRunAverage": 2.79,
+        "whip": 0.85,
         "wins": 5,
-        "losses": 0,
+        "losses": 1,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 36.333333333333336,
-        "inningsPitchedDisplay": "36.1",
-        "hitsAllowed": 20,
-        "runsAllowed": 6,
-        "earnedRunsAllowed": 6,
-        "walksAllowed": 5,
-        "strikeouts": 43,
-        "doublesAllowed": 3,
+        "inningsPitched": 38.666666666666664,
+        "inningsPitchedDisplay": "38.2",
+        "hitsAllowed": 26,
+        "runsAllowed": 12,
+        "earnedRunsAllowed": 12,
+        "walksAllowed": 7,
+        "strikeouts": 44,
+        "doublesAllowed": 4,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 123,
-        "wildPitches": 1,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 135,
+        "wildPitches": 2,
         "hitBatters": 0,
         "balks": 0,
-        "opponentsBattingAverage": 0.163,
-        "walksHits": 25
+        "opponentsBattingAverage": 0.193,
+        "walksHits": 33
       },
       "fieldingStats": {
         "rosterBioId": "22700",
@@ -2551,7 +2551,7 @@
         "totalChances": 6
       },
       "evaluation": {
-        "score": 28,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2559,40 +2559,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 60.46705587989991,
+          "Miss bats": 56.739811912225704,
           "Command": 100,
           "Damage suppression": 0
         },
         "summary": "Cam Appenzeller looks like a LHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.49",
-          "WHIP 0.69",
-          "K/9 10.7"
+          "ERA 2.79",
+          "WHIP 0.85",
+          "K/9 10.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.49"
+            "value": "2.79"
           },
           {
             "label": "WHIP",
-            "value": "0.69"
+            "value": "0.85"
           },
           {
             "label": "K/9",
-            "value": "10.7"
+            "value": "10.2"
           },
           {
             "label": "BB/9",
-            "value": "1.2"
+            "value": "1.6"
           },
           {
             "label": "HR/9",
-            "value": "0.25"
+            "value": "0.47"
           },
           {
             "label": "IP",
-            "value": "36.3"
+            "value": "38.7"
           }
         ],
         "metaLine": "FR / N/A",
@@ -2643,13 +2643,13 @@
         "jersey": "20",
         "profileUrl": "https://utsports.com/sports/baseball/roster/tyler-myatt/22686",
         "imageUrl": "https://utsports.com/images/2025/10/8/Myatt_Tyler.jpg",
-        "gamesPlayed": 28,
+        "gamesPlayed": 29,
         "gamesStarted": 17,
-        "battingAverage": 0.232,
-        "onBasePercentage": 0.333,
-        "sluggingPercentage": 0.435,
-        "ops": 0.768,
-        "atBats": 69,
+        "battingAverage": 0.229,
+        "onBasePercentage": 0.329,
+        "sluggingPercentage": 0.429,
+        "ops": 0.758,
+        "atBats": 70,
         "runs": 9,
         "hits": 16,
         "doubles": 5,
@@ -2669,7 +2669,7 @@
         "putouts": 15,
         "assists": 17,
         "errors": 2,
-        "plateAppearances": 84,
+        "plateAppearances": 85,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2696,36 +2696,36 @@
         "totalChances": 34
       },
       "evaluation": {
-        "score": 21,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 29.44444444444444,
-          "Power": 30.263157894736842,
-          "Contact": 7.500000000000007,
+          "On-base": 27.222222222222214,
+          "Power": 28.68421052631579,
+          "Contact": 5.625000000000005,
           "Discipline": 14.814814814814808,
           "Speed": 3.3333333333333335
         },
         "summary": "Tyler Myatt gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .232",
-          "OBP .333",
-          "SLG .435"
+          "AVG .229",
+          "OBP .329",
+          "SLG .429"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".232"
+            "value": ".229"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".329"
           },
           {
             "label": "SLG",
-            "value": ".435"
+            "value": ".429"
           },
           {
             "label": "HR",
@@ -2789,32 +2789,32 @@
         "jersey": "21",
         "profileUrl": "https://utsports.com/sports/baseball/roster/tegan-kuhns/22640",
         "imageUrl": "https://utsports.com/images/2025/10/8/Kuhns_Tegan.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 8,
-        "appearances": 9,
+        "gamesPlayed": 10,
+        "gamesStarted": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.77,
-        "whip": 1.13,
+        "earnedRunAverage": 3.35,
+        "whip": 1.12,
         "wins": 2,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 45.333333333333336,
-        "inningsPitchedDisplay": "45.1",
-        "hitsAllowed": 42,
+        "inningsPitched": 51,
+        "inningsPitchedDisplay": "51.0",
+        "hitsAllowed": 47,
         "runsAllowed": 21,
         "earnedRunsAllowed": 19,
-        "walksAllowed": 9,
-        "strikeouts": 54,
-        "doublesAllowed": 9,
+        "walksAllowed": 10,
+        "strikeouts": 64,
+        "doublesAllowed": 10,
         "triplesAllowed": 0,
         "homeRunsAllowed": 7,
-        "opponentsAtBats": 177,
+        "opponentsAtBats": 199,
         "wildPitches": 1,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.237,
-        "walksHits": 51
+        "opponentsBattingAverage": 0.236,
+        "walksHits": 57
       },
       "fieldingStats": {
         "rosterBioId": "22640",
@@ -2838,7 +2838,7 @@
         "totalChances": 4
       },
       "evaluation": {
-        "score": 28,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2846,28 +2846,28 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 61.096256684491976,
+          "Miss bats": 66.3101604278075,
           "Command": 100,
           "Damage suppression": 0
         },
         "summary": "Tegan Kuhns looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.77",
-          "WHIP 1.13",
-          "K/9 10.7"
+          "ERA 3.35",
+          "WHIP 1.12",
+          "K/9 11.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.77"
+            "value": "3.35"
           },
           {
             "label": "WHIP",
-            "value": "1.13"
+            "value": "1.12"
           },
           {
             "label": "K/9",
-            "value": "10.7"
+            "value": "11.3"
           },
           {
             "label": "BB/9",
@@ -2875,11 +2875,11 @@
           },
           {
             "label": "HR/9",
-            "value": "1.39"
+            "value": "1.24"
           },
           {
             "label": "IP",
-            "value": "45.3"
+            "value": "51.0"
           }
         ],
         "metaLine": "SO / N/A",
@@ -3217,7 +3217,7 @@
         "jersey": "27",
         "profileUrl": "https://utsports.com/sports/baseball/roster/stone-lawless/22641",
         "imageUrl": "https://utsports.com/images/2025/10/8/Lawless_Stone.jpg",
-        "gamesPlayed": 22,
+        "gamesPlayed": 23,
         "gamesStarted": 21,
         "battingAverage": 0.25,
         "onBasePercentage": 0.388,
@@ -3240,7 +3240,7 @@
         "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 209,
+        "putouts": 211,
         "assists": 15,
         "errors": 2,
         "plateAppearances": 89,
@@ -3255,9 +3255,9 @@
         "jersey": "27",
         "profileUrl": "https://utsports.com/sports/baseball/roster/stone-lawless/22641",
         "imageUrl": "https://utsports.com/images/2025/10/8/Lawless_Stone.jpg",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 18,
-        "putouts": 209,
+        "putouts": 211,
         "assists": 15,
         "errors": 2,
         "fieldingPercentage": 0.991,
@@ -3267,7 +3267,7 @@
         "stolenBasesPercentage": 0.806,
         "passedBalls": 3,
         "catchersInterference": 0,
-        "totalChances": 226
+        "totalChances": 228
       },
       "evaluation": {
         "score": 45,
@@ -3450,7 +3450,7 @@
         "jersey": "29",
         "profileUrl": "https://utsports.com/sports/baseball/roster/taylor-tracey/22715",
         "imageUrl": "https://utsports.com/images/2025/10/8/Tracey_Taylor.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 4,
         "battingAverage": 0,
         "onBasePercentage": 0,
@@ -3487,32 +3487,32 @@
         "jersey": "29",
         "profileUrl": "https://utsports.com/sports/baseball/roster/taylor-tracey/22715",
         "imageUrl": "https://utsports.com/images/2025/10/8/Tracey_Taylor.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 4,
-        "appearances": 10,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 1.72,
-        "whip": 1.09,
+        "earnedRunAverage": 1.65,
+        "whip": 1.1,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 15.666666666666666,
-        "inningsPitchedDisplay": "15.2",
-        "hitsAllowed": 8,
+        "inningsPitched": 16.333333333333332,
+        "inningsPitchedDisplay": "16.1",
+        "hitsAllowed": 9,
         "runsAllowed": 3,
         "earnedRunsAllowed": 3,
         "walksAllowed": 9,
-        "strikeouts": 22,
-        "doublesAllowed": 1,
+        "strikeouts": 23,
+        "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 54,
+        "opponentsAtBats": 57,
         "wildPitches": 0,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.148,
-        "walksHits": 17
+        "opponentsBattingAverage": 0.158,
+        "walksHits": 18
       },
       "fieldingStats": {
         "rosterBioId": "22715",
@@ -3536,7 +3536,7 @@
         "totalChances": 3
       },
       "evaluation": {
-        "score": 20,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3544,40 +3544,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 78.52998065764024,
-          "Command": 28.888888888888886,
+          "Miss bats": 78.84972170686457,
+          "Command": 31.111111111111118,
           "Damage suppression": 0
         },
         "summary": "Taylor Tracey looks like a LHP/OF option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.72",
-          "WHIP 1.09",
-          "K/9 12.6"
+          "ERA 1.65",
+          "WHIP 1.10",
+          "K/9 12.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.72"
+            "value": "1.65"
           },
           {
             "label": "WHIP",
-            "value": "1.09"
+            "value": "1.10"
           },
           {
             "label": "K/9",
-            "value": "12.6"
+            "value": "12.7"
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "5.0"
           },
           {
             "label": "HR/9",
-            "value": "0.57"
+            "value": "0.55"
           },
           {
             "label": "IP",
-            "value": "15.7"
+            "value": "16.3"
           }
         ],
         "metaLine": "FR / N/A",
@@ -3628,20 +3628,20 @@
         "jersey": "30",
         "profileUrl": "https://utsports.com/sports/baseball/roster/trent-grindlinger/22710",
         "imageUrl": "https://utsports.com/images/2025/10/8/Grindlinger_Trent.jpg",
-        "gamesPlayed": 21,
-        "gamesStarted": 14,
-        "battingAverage": 0.397,
-        "onBasePercentage": 0.478,
-        "sluggingPercentage": 0.517,
-        "ops": 0.995,
-        "atBats": 58,
-        "runs": 7,
-        "hits": 23,
+        "gamesPlayed": 22,
+        "gamesStarted": 15,
+        "battingAverage": 0.387,
+        "onBasePercentage": 0.465,
+        "sluggingPercentage": 0.548,
+        "ops": 1.013,
+        "atBats": 62,
+        "runs": 8,
+        "hits": 24,
         "doubles": 2,
         "triples": 1,
-        "homeRuns": 1,
-        "runsBattedIn": 13,
-        "totalBases": 30,
+        "homeRuns": 2,
+        "runsBattedIn": 14,
+        "totalBases": 34,
         "walks": 7,
         "hitByPitch": 2,
         "strikeouts": 10,
@@ -3654,7 +3654,7 @@
         "putouts": 39,
         "assists": 2,
         "errors": 0,
-        "plateAppearances": 70,
+        "plateAppearances": 74,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -3681,44 +3681,44 @@
         "totalChances": 41
       },
       "evaluation": {
-        "score": 71,
+        "score": 73,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
           "On-base": 100,
-          "Power": 51.8421052631579,
+          "Power": 60.00000000000002,
           "Contact": 100,
           "Discipline": 55.555555555555536,
           "Speed": 0
         },
         "summary": "Trent Grindlinger profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .397",
-          "OBP .478",
-          "SLG .517"
+          "AVG .387",
+          "OBP .465",
+          "SLG .548"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".397"
+            "value": ".387"
           },
           {
             "label": "OBP",
-            "value": ".478"
+            "value": ".465"
           },
           {
             "label": "SLG",
-            "value": ".517"
+            "value": ".548"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "2"
           },
           {
             "label": "RBI",
-            "value": "13"
+            "value": "14"
           },
           {
             "label": "SB",
@@ -5599,22 +5599,22 @@
         },
         "summary": "Manny Marin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .301",
-          "OBP .336",
-          "SLG .504"
+          "AVG .296",
+          "OBP .341",
+          "SLG .496"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".301"
+            "value": ".296"
           },
           {
             "label": "OBP",
-            "value": ".336"
+            "value": ".341"
           },
           {
             "label": "SLG",
-            "value": ".504"
+            "value": ".496"
           },
           {
             "label": "HR",
@@ -5630,10 +5630,10 @@
           }
         ],
         "components": {
-          "On-base": 31.11111111111111,
-          "Power": 48.42105263157895,
-          "Contact": 50.624999999999986,
-          "Discipline": 0,
+          "On-base": 33.88888888888889,
+          "Power": 46.31578947368421,
+          "Contact": 47.499999999999986,
+          "Discipline": 4.597701149425286,
           "Speed": 10
         },
         "metaLine": "SO / N/A",
@@ -5661,29 +5661,29 @@
         "position": "C/OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 63,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Garrett Wright profiles as a C/OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .333",
-          "OBP .449",
-          "SLG .563"
+          "AVG .330",
+          "OBP .443",
+          "SLG .550"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".333"
+            "value": ".330"
           },
           {
             "label": "OBP",
-            "value": ".449"
+            "value": ".443"
           },
           {
             "label": "SLG",
-            "value": ".563"
+            "value": ".550"
           },
           {
             "label": "HR",
@@ -5699,10 +5699,10 @@
           }
         ],
         "components": {
-          "On-base": 93.88888888888889,
-          "Power": 63.947368421052616,
-          "Contact": 70.625,
-          "Discipline": 20.98765432098765,
+          "On-base": 90.55555555555554,
+          "Power": 60.526315789473706,
+          "Contact": 68.75000000000001,
+          "Discipline": 18.713450292397653,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / N/A",
@@ -5737,41 +5737,41 @@
         },
         "summary": "Brady Frederick looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.33",
-          "WHIP 1.00",
-          "K/9 9.7"
+          "ERA 3.95",
+          "WHIP 1.02",
+          "K/9 9.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.33"
+            "value": "3.95"
           },
           {
             "label": "WHIP",
-            "value": "1.00"
+            "value": "1.02"
           },
           {
             "label": "K/9",
-            "value": "9.7"
+            "value": "9.9"
           },
           {
             "label": "BB/9",
-            "value": "2.7"
+            "value": "2.6"
           },
           {
             "label": "HR/9",
-            "value": "1.00"
+            "value": "1.32"
           },
           {
             "label": "IP",
-            "value": "27.0"
+            "value": "27.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.515151515151516,
-          "Command": 52.5,
+          "Miss bats": 53.43680709534369,
+          "Command": 55.00000000000001,
           "Damage suppression": 0
         },
         "metaLine": "JR / N/A",
@@ -5868,29 +5868,29 @@
         "position": "OF/INF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 31,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jay Abernathy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .243",
-          "OBP .361",
-          "SLG .408"
+          "AVG .238",
+          "OBP .360",
+          "SLG .400"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".243"
+            "value": ".238"
           },
           {
             "label": "OBP",
-            "value": ".361"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".408"
+            "value": ".400"
           },
           {
             "label": "HR",
@@ -5906,10 +5906,10 @@
           }
         ],
         "components": {
-          "On-base": 44.99999999999998,
-          "Power": 23.1578947368421,
-          "Contact": 14.374999999999996,
-          "Discipline": 46.74329501915708,
+          "On-base": 44.44444444444443,
+          "Power": 21.052631578947377,
+          "Contact": 11.249999999999991,
+          "Discipline": 50.574712643678154,
           "Speed": 13.333333333333334
         },
         "metaLine": "SO / N/A",
@@ -5937,29 +5937,29 @@
         "position": "INF/OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 47,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Henry Ford profiles as a INF/OF piece who brings real extra-base damage.",
+        "summary": "Henry Ford gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .301",
-          "OBP .365",
-          "SLG .562"
+          "AVG .293",
+          "OBP .356",
+          "SLG .548"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".301"
+            "value": ".293"
           },
           {
             "label": "OBP",
-            "value": ".365"
+            "value": ".356"
           },
           {
             "label": "SLG",
-            "value": ".562"
+            "value": ".548"
           },
           {
             "label": "HR",
@@ -5975,10 +5975,10 @@
           }
         ],
         "components": {
-          "On-base": 47.22222222222221,
-          "Power": 63.68421052631581,
-          "Contact": 50.624999999999986,
-          "Discipline": 39.080459770114935,
+          "On-base": 42.2222222222222,
+          "Power": 60.00000000000002,
+          "Contact": 45.624999999999986,
+          "Discipline": 35.12544802867383,
           "Speed": 10
         },
         "metaLine": "JR / N/A",
@@ -6144,29 +6144,29 @@
         "position": "OF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 54,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Reese Chapman profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .292",
-          "OBP .410",
-          "SLG .508"
+          "AVG .286",
+          "OBP .406",
+          "SLG .496"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".410"
+            "value": ".406"
           },
           {
             "label": "SLG",
-            "value": ".508"
+            "value": ".496"
           },
           {
             "label": "HR",
@@ -6178,15 +6178,15 @@
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "6"
           }
         ],
         "components": {
-          "On-base": 72.2222222222222,
-          "Power": 49.47368421052632,
-          "Contact": 44.999999999999986,
-          "Discipline": 60.215053763440864,
-          "Speed": 16.666666666666664
+          "On-base": 70,
+          "Power": 46.31578947368421,
+          "Contact": 41.24999999999998,
+          "Discipline": 61.11111111111111,
+          "Speed": 20
         },
         "metaLine": "SR / N/A",
         "detailBadges": [
@@ -6213,29 +6213,29 @@
         "position": "UTL",
         "classYear": "R-SO",
         "handedness": "N/A",
-        "score": 57,
+        "score": 53,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Blake Grimmer profiles as a UTL piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Blake Grimmer profiles as a UTL piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .284",
-          "OBP .424",
-          "SLG .558"
+          "AVG .276",
+          "OBP .418",
+          "SLG .541"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".284"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".424"
+            "value": ".418"
           },
           {
             "label": "SLG",
-            "value": ".558"
+            "value": ".541"
           },
           {
             "label": "HR",
@@ -6251,10 +6251,10 @@
           }
         ],
         "components": {
-          "On-base": 79.99999999999999,
-          "Power": 62.63157894736844,
-          "Contact": 39.99999999999998,
-          "Discipline": 53.046594982078844,
+          "On-base": 76.66666666666664,
+          "Power": 58.15789473684212,
+          "Contact": 35.000000000000014,
+          "Discipline": 48.48484848484848,
           "Speed": 3.3333333333333335
         },
         "metaLine": "R-SO / N/A",
@@ -6351,29 +6351,29 @@
         "position": "UTL",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 13,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Levi Clark gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .181",
-          "OBP .305",
-          "SLG .336"
+          "AVG .178",
+          "OBP .301",
+          "SLG .331"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".181"
+            "value": ".178"
           },
           {
             "label": "OBP",
-            "value": ".305"
+            "value": ".301"
           },
           {
             "label": "SLG",
-            "value": ".336"
+            "value": ".331"
           },
           {
             "label": "HR",
@@ -6389,10 +6389,10 @@
           }
         ],
         "components": {
-          "On-base": 13.88888888888887,
-          "Power": 4.210526315789478,
+          "On-base": 11.666666666666647,
+          "Power": 2.8947368421052664,
           "Contact": 0,
-          "Discipline": 48.88888888888888,
+          "Discipline": 43.621399176954725,
           "Speed": 6.666666666666667
         },
         "metaLine": "SO / N/A",
@@ -6558,47 +6558,47 @@
         "position": "LHP",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 28,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cam Appenzeller looks like a LHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.49",
-          "WHIP 0.69",
-          "K/9 10.7"
+          "ERA 2.79",
+          "WHIP 0.85",
+          "K/9 10.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.49"
+            "value": "2.79"
           },
           {
             "label": "WHIP",
-            "value": "0.69"
+            "value": "0.85"
           },
           {
             "label": "K/9",
-            "value": "10.7"
+            "value": "10.2"
           },
           {
             "label": "BB/9",
-            "value": "1.2"
+            "value": "1.6"
           },
           {
             "label": "HR/9",
-            "value": "0.25"
+            "value": "0.47"
           },
           {
             "label": "IP",
-            "value": "36.3"
+            "value": "38.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 60.46705587989991,
+          "Miss bats": 56.739811912225704,
           "Command": 100,
           "Damage suppression": 0
         },
@@ -6627,29 +6627,29 @@
         "position": "INF/OF",
         "classYear": "R-SO",
         "handedness": "N/A",
-        "score": 21,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tyler Myatt gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .232",
-          "OBP .333",
-          "SLG .435"
+          "AVG .229",
+          "OBP .329",
+          "SLG .429"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".232"
+            "value": ".229"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".329"
           },
           {
             "label": "SLG",
-            "value": ".435"
+            "value": ".429"
           },
           {
             "label": "HR",
@@ -6665,9 +6665,9 @@
           }
         ],
         "components": {
-          "On-base": 29.44444444444444,
-          "Power": 30.263157894736842,
-          "Contact": 7.500000000000007,
+          "On-base": 27.222222222222214,
+          "Power": 28.68421052631579,
+          "Contact": 5.625000000000005,
           "Discipline": 14.814814814814808,
           "Speed": 3.3333333333333335
         },
@@ -6696,29 +6696,29 @@
         "position": "RHP",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 28,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tegan Kuhns looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.77",
-          "WHIP 1.13",
-          "K/9 10.7"
+          "ERA 3.35",
+          "WHIP 1.12",
+          "K/9 11.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.77"
+            "value": "3.35"
           },
           {
             "label": "WHIP",
-            "value": "1.13"
+            "value": "1.12"
           },
           {
             "label": "K/9",
-            "value": "10.7"
+            "value": "11.3"
           },
           {
             "label": "BB/9",
@@ -6726,17 +6726,17 @@
           },
           {
             "label": "HR/9",
-            "value": "1.39"
+            "value": "1.24"
           },
           {
             "label": "IP",
-            "value": "45.3"
+            "value": "51.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 61.096256684491976,
+          "Miss bats": 66.3101604278075,
           "Command": 100,
           "Damage suppression": 0
         },
@@ -7040,48 +7040,48 @@
         "position": "LHP/OF",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 20,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Taylor Tracey looks like a LHP/OF option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.72",
-          "WHIP 1.09",
-          "K/9 12.6"
+          "ERA 1.65",
+          "WHIP 1.10",
+          "K/9 12.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.72"
+            "value": "1.65"
           },
           {
             "label": "WHIP",
-            "value": "1.09"
+            "value": "1.10"
           },
           {
             "label": "K/9",
-            "value": "12.6"
+            "value": "12.7"
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "5.0"
           },
           {
             "label": "HR/9",
-            "value": "0.57"
+            "value": "0.55"
           },
           {
             "label": "IP",
-            "value": "15.7"
+            "value": "16.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 78.52998065764024,
-          "Command": 28.888888888888886,
+          "Miss bats": 78.84972170686457,
+          "Command": 31.111111111111118,
           "Damage suppression": 0
         },
         "metaLine": "FR / N/A",
@@ -7109,37 +7109,37 @@
         "position": "C",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 71,
+        "score": 73,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Trent Grindlinger profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .397",
-          "OBP .478",
-          "SLG .517"
+          "AVG .387",
+          "OBP .465",
+          "SLG .548"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".397"
+            "value": ".387"
           },
           {
             "label": "OBP",
-            "value": ".478"
+            "value": ".465"
           },
           {
             "label": "SLG",
-            "value": ".517"
+            "value": ".548"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "2"
           },
           {
             "label": "RBI",
-            "value": "13"
+            "value": "14"
           },
           {
             "label": "SB",
@@ -7148,7 +7148,7 @@
         ],
         "components": {
           "On-base": 100,
-          "Power": 51.8421052631579,
+          "Power": 60.00000000000002,
           "Contact": 100,
           "Discipline": 55.555555555555536,
           "Speed": 0
