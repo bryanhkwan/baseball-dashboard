@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.wake-forest2026 = {
-  "generatedAt": "2026-04-19T10:59:47.003Z",
+  "generatedAt": "2026-04-20T11:42:26.576Z",
   "season": 2026,
   "school": {
     "slug": "wake-forest",
@@ -40,84 +40,84 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
     }
   },
   "teamSummary": {
-    "record": "27-13, 11-9",
-    "battingAverage": ".299",
-    "earnedRunAverage": "4.60",
+    "record": "27-14, 11-10",
+    "battingAverage": ".297",
+    "earnedRunAverage": "4.59",
     "wins": "27",
-    "losses": "13",
+    "losses": "14",
     "hitting": {
-      "atBats": "1312",
-      "runsScored": "329",
-      "hits": "392",
-      "runsBattedIn": "303",
-      "doubles": "77",
+      "atBats": "1348",
+      "runsScored": "334",
+      "hits": "401",
+      "runsBattedIn": "308",
+      "doubles": "80",
       "triples": "8",
-      "homeRuns": "58",
-      "walks": "240",
+      "homeRuns": "60",
+      "walks": "247",
       "intentionalWalks": "3",
-      "strikeouts": "313",
-      "strikeoutsLooking": "34",
+      "strikeouts": "320",
+      "strikeoutsLooking": "36",
       "hitByPitch": "50",
-      "stolenBases": "53",
+      "stolenBases": "55",
       "caughtStealing": "9",
       "sacrificeHits": "7",
       "sacrificeFlies": "16",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "258",
-      "flyOuts": "294",
-      "groundedIntoDoublePlay": "30",
+      "groundOuts": "267",
+      "flyOuts": "305",
+      "groundedIntoDoublePlay": "33",
       "pickedOff": "2",
-      "doublePlaysHitInto": "30",
+      "doublePlaysHitInto": "33",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "993",
-      "assists": "258",
-      "errors": "38",
-      "passedBalls": "9",
+      "putouts": "1023",
+      "assists": "273",
+      "errors": "40",
+      "passedBalls": "10",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "34",
+      "stolenBasesAgainst": "40",
       "caughtStealingBy": "6",
-      "involvedInDoublePlays": "23",
+      "involvedInDoublePlays": "26",
       "involvedInTriplePlays": "0",
-      "totalChances": "1289",
-      "fieldingPercentage": ".971"
+      "totalChances": "1336",
+      "fieldingPercentage": ".970"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "27",
-      "saves": "35",
-      "losses": "13",
+      "saves": "36",
+      "losses": "14",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "1",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "331.0",
-      "hitsAllowed": "286",
-      "runsAllowed": "189",
-      "earnedRunsAllowed": "169",
-      "walksAllowed": "174",
-      "strikeouts": "455",
-      "battersFaced": "1478",
-      "opponentAtBats": "1251",
-      "doublesAllowed": "59",
+      "inningsPitched": "341.0",
+      "hitsAllowed": "298",
+      "runsAllowed": "195",
+      "earnedRunsAllowed": "174",
+      "walksAllowed": "179",
+      "strikeouts": "466",
+      "battersFaced": "1522",
+      "opponentAtBats": "1289",
+      "doublesAllowed": "60",
       "triplesAllowed": "7",
       "homerunsAllowed": "52",
-      "wildPitches": "26",
+      "wildPitches": "30",
       "balks": "3",
-      "hitBatters": "44",
-      "strikeoutsLooking": "41",
-      "intentionalWalks": "5",
-      "inheritedRunners": "112",
-      "inheritedRunnersThatScored": "34",
+      "hitBatters": "45",
+      "strikeoutsLooking": "42",
+      "intentionalWalks": "6",
+      "inheritedRunners": "116",
+      "inheritedRunnersThatScored": "36",
       "sacrificeHitsAllowed": "3",
       "sacrificeFliesAllowed": "6",
       "catchersInterferenceAllowed": "0",
-      "pitches": "5889",
-      "flyouts": "243",
-      "groundouts": "253",
+      "pitches": "6061",
+      "flyouts": "249",
+      "groundouts": "262",
       "teamUnearnedRuns": "0",
       "saveRecord": "7",
       "pickoff": "0"
@@ -250,33 +250,33 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "jersey": "1",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/dalton-wentz/9067",
         "imageUrl": "https://godeacs.com/images/2025/1/28/Dalton_Wentz_Headshot_w44gq.JPG",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "battingAverage": 0.309,
-        "onBasePercentage": 0.444,
-        "sluggingPercentage": 0.611,
-        "ops": 1.055,
-        "atBats": 149,
-        "runs": 46,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "battingAverage": 0.301,
+        "onBasePercentage": 0.438,
+        "sluggingPercentage": 0.595,
+        "ops": 1.033,
+        "atBats": 153,
+        "runs": 47,
         "hits": 46,
         "doubles": 13,
         "triples": 1,
         "homeRuns": 10,
         "runsBattedIn": 34,
         "totalBases": 91,
-        "walks": 35,
+        "walks": 36,
         "hitByPitch": 2,
         "strikeouts": 44,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 2,
-        "putouts": 24,
-        "assists": 56,
-        "errors": 9,
-        "plateAppearances": 190,
+        "stolenBases": 2,
+        "stolenBasesAttempts": 3,
+        "putouts": 26,
+        "assists": 59,
+        "errors": 10,
+        "plateAppearances": 196,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -288,51 +288,51 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "jersey": "1",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/dalton-wentz/9067",
         "imageUrl": "https://godeacs.com/images/2025/1/28/Dalton_Wentz_Headshot_w44gq.JPG",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "putouts": 24,
-        "assists": 56,
-        "errors": 9,
-        "fieldingPercentage": 0.899,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "putouts": 26,
+        "assists": 59,
+        "errors": 10,
+        "fieldingPercentage": 0.895,
         "doublePlays": 5,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 89
+        "totalChances": 95
       },
       "evaluation": {
-        "score": 69,
+        "score": 66,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 91.1111111111111,
-          "Power": 76.57894736842105,
-          "Contact": 55.62499999999999,
-          "Discipline": 66.16161616161615,
-          "Speed": 3.3333333333333335
+          "On-base": 87.77777777777777,
+          "Power": 72.36842105263158,
+          "Contact": 50.624999999999986,
+          "Discipline": 68.68686868686868,
+          "Speed": 6.666666666666667
         },
         "summary": "Dalton Wentz profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .309",
-          "OBP .444",
-          "SLG .611"
+          "AVG .301",
+          "OBP .438",
+          "SLG .595"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".309"
+            "value": ".301"
           },
           {
             "label": "OBP",
-            "value": ".444"
+            "value": ".438"
           },
           {
             "label": "SLG",
-            "value": ".611"
+            "value": ".595"
           },
           {
             "label": "HR",
@@ -344,7 +344,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "metaLine": "SO / N/A",
@@ -537,33 +537,33 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "jersey": "3",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/jd-stein/9070",
         "imageUrl": "https://godeacs.com/images/2025/12/17/JD_Stein_Headshot.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.355,
-        "sluggingPercentage": 0.379,
-        "ops": 0.734,
-        "atBats": 124,
-        "runs": 24,
-        "hits": 31,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "battingAverage": 0.26,
+        "onBasePercentage": 0.365,
+        "sluggingPercentage": 0.409,
+        "ops": 0.774,
+        "atBats": 127,
+        "runs": 25,
+        "hits": 33,
         "doubles": 7,
         "triples": 0,
-        "homeRuns": 3,
-        "runsBattedIn": 27,
-        "totalBases": 47,
-        "walks": 16,
+        "homeRuns": 4,
+        "runsBattedIn": 28,
+        "totalBases": 52,
+        "walks": 17,
         "hitByPitch": 7,
-        "strikeouts": 21,
+        "strikeouts": 22,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 5,
         "sacrificeHits": 2,
         "stolenBases": 7,
         "stolenBasesAttempts": 8,
-        "putouts": 34,
-        "assists": 75,
-        "errors": 8,
-        "plateAppearances": 163,
+        "putouts": 36,
+        "assists": 79,
+        "errors": 9,
+        "plateAppearances": 167,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -575,59 +575,59 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "jersey": "3",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/jd-stein/9070",
         "imageUrl": "https://godeacs.com/images/2025/12/17/JD_Stein_Headshot.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "putouts": 34,
-        "assists": 75,
-        "errors": 8,
-        "fieldingPercentage": 0.932,
-        "doublePlays": 15,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "putouts": 36,
+        "assists": 79,
+        "errors": 9,
+        "fieldingPercentage": 0.927,
+        "doublePlays": 16,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 117
+        "totalChances": 124
       },
       "evaluation": {
-        "score": 32,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 41.66666666666664,
-          "Power": 15.526315789473685,
-          "Contact": 18.75,
-          "Discipline": 62.43386243386243,
+          "On-base": 47.22222222222221,
+          "Power": 23.42105263157894,
+          "Contact": 25.000000000000007,
+          "Discipline": 63.636363636363626,
           "Speed": 23.333333333333332
         },
         "summary": "JD Stein gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .355",
-          "SLG .379"
+          "AVG .260",
+          "OBP .365",
+          "SLG .409"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".260"
           },
           {
             "label": "OBP",
-            "value": ".355"
+            "value": ".365"
           },
           {
             "label": "SLG",
-            "value": ".379"
+            "value": ".409"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "4"
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "28"
           },
           {
             "label": "SB",
@@ -825,32 +825,32 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "jersey": "5",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/marcelo-harsch/9071",
         "imageUrl": "https://godeacs.com/images/2025/12/17/Marcelo_Harsch_Headshot.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 0,
-        "appearances": 11,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5,
-        "whip": 1.5,
+        "earnedRunAverage": 4.79,
+        "whip": 1.65,
         "wins": 1,
-        "losses": 1,
+        "losses": 2,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 18,
-        "inningsPitchedDisplay": "18.0",
-        "hitsAllowed": 20,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 10,
-        "walksAllowed": 7,
-        "strikeouts": 31,
+        "inningsPitched": 20.666666666666668,
+        "inningsPitchedDisplay": "20.2",
+        "hitsAllowed": 24,
+        "runsAllowed": 15,
+        "earnedRunsAllowed": 11,
+        "walksAllowed": 10,
+        "strikeouts": 34,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 77,
-        "wildPitches": 3,
+        "opponentsAtBats": 88,
+        "wildPitches": 4,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.26,
-        "walksHits": 27
+        "opponentsBattingAverage": 0.273,
+        "walksHits": 34
       },
       "fieldingStats": {
         "rosterBioId": "9071",
@@ -874,7 +874,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 31,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -882,40 +882,40 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 68.57142857142857,
+          "Miss bats": 98.24046920821114,
+          "Command": 48,
           "Damage suppression": 0
         },
         "summary": "Marcelo Harsch looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.00",
-          "WHIP 1.50",
-          "K/9 15.5"
+          "ERA 4.79",
+          "WHIP 1.65",
+          "K/9 14.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.00"
+            "value": "4.79"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.65"
           },
           {
             "label": "K/9",
-            "value": "15.5"
+            "value": "14.8"
           },
           {
             "label": "BB/9",
-            "value": "3.5"
+            "value": "4.4"
           },
           {
             "label": "HR/9",
-            "value": "2.00"
+            "value": "1.74"
           },
           {
             "label": "IP",
-            "value": "18.0"
+            "value": "20.7"
           }
         ],
         "metaLine": "FR / N/A",
@@ -966,21 +966,21 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "jersey": "6",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/kade-lewis/9061",
         "imageUrl": "https://godeacs.com/images/2026/2/21/Kade_Lewis_Headshot.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "battingAverage": 0.355,
-        "onBasePercentage": 0.437,
-        "sluggingPercentage": 0.561,
-        "ops": 0.998,
-        "atBats": 155,
-        "runs": 40,
-        "hits": 55,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "battingAverage": 0.367,
+        "onBasePercentage": 0.452,
+        "sluggingPercentage": 0.589,
+        "ops": 1.041,
+        "atBats": 158,
+        "runs": 41,
+        "hits": 58,
         "doubles": 9,
         "triples": 1,
-        "homeRuns": 7,
-        "runsBattedIn": 34,
-        "totalBases": 87,
-        "walks": 24,
+        "homeRuns": 8,
+        "runsBattedIn": 38,
+        "totalBases": 93,
+        "walks": 26,
         "hitByPitch": 1,
         "strikeouts": 23,
         "intentionalWalks": 0,
@@ -989,10 +989,10 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "sacrificeHits": 0,
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
-        "putouts": 197,
+        "putouts": 209,
         "assists": 13,
         "errors": 3,
-        "plateAppearances": 189,
+        "plateAppearances": 194,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -1004,59 +1004,59 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "jersey": "6",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/kade-lewis/9061",
         "imageUrl": "https://godeacs.com/images/2026/2/21/Kade_Lewis_Headshot.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "putouts": 197,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "putouts": 209,
         "assists": 13,
         "errors": 3,
-        "fieldingPercentage": 0.986,
-        "doublePlays": 17,
+        "fieldingPercentage": 0.987,
+        "doublePlays": 19,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 213
+        "totalChances": 225
       },
       "evaluation": {
-        "score": 75,
+        "score": 82,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Priority",
+          "className": "fit-priority"
         },
         "components": {
-          "On-base": 87.22222222222221,
-          "Power": 63.421052631578966,
-          "Contact": 84.37499999999999,
-          "Discipline": 93.719806763285,
+          "On-base": 95.55555555555554,
+          "Power": 70.78947368421052,
+          "Contact": 91.875,
+          "Discipline": 100,
           "Speed": 20
         },
         "summary": "Kade Lewis profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .355",
-          "OBP .437",
-          "SLG .561"
+          "AVG .367",
+          "OBP .452",
+          "SLG .589"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".355"
+            "value": ".367"
           },
           {
             "label": "OBP",
-            "value": ".437"
+            "value": ".452"
           },
           {
             "label": "SLG",
-            "value": ".561"
+            "value": ".589"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "38"
           },
           {
             "label": "SB",
@@ -1111,21 +1111,21 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "jersey": "7",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/blake-schaaf/9072",
         "imageUrl": "https://godeacs.com/images/2026/2/21/Blake_Schaaf_Headshot.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 30,
-        "battingAverage": 0.3,
-        "onBasePercentage": 0.438,
-        "sluggingPercentage": 0.47,
-        "ops": 0.908,
-        "atBats": 100,
+        "gamesPlayed": 37,
+        "gamesStarted": 31,
+        "battingAverage": 0.301,
+        "onBasePercentage": 0.439,
+        "sluggingPercentage": 0.476,
+        "ops": 0.915,
+        "atBats": 103,
         "runs": 30,
-        "hits": 30,
-        "doubles": 7,
+        "hits": 31,
+        "doubles": 8,
         "triples": 2,
         "homeRuns": 2,
         "runsBattedIn": 20,
-        "totalBases": 47,
-        "walks": 22,
+        "totalBases": 49,
+        "walks": 23,
         "hitByPitch": 4,
         "strikeouts": 25,
         "intentionalWalks": 0,
@@ -1134,10 +1134,10 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "sacrificeHits": 3,
         "stolenBases": 6,
         "stolenBasesAttempts": 7,
-        "putouts": 39,
-        "assists": 48,
+        "putouts": 40,
+        "assists": 54,
         "errors": 2,
-        "plateAppearances": 139,
+        "plateAppearances": 143,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1149,51 +1149,51 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "jersey": "7",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/blake-schaaf/9072",
         "imageUrl": "https://godeacs.com/images/2026/2/21/Blake_Schaaf_Headshot.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 27,
-        "putouts": 39,
-        "assists": 48,
+        "gamesPlayed": 30,
+        "gamesStarted": 28,
+        "putouts": 40,
+        "assists": 54,
         "errors": 2,
-        "fieldingPercentage": 0.978,
-        "doublePlays": 11,
+        "fieldingPercentage": 0.979,
+        "doublePlays": 12,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 89
+        "totalChances": 96
       },
       "evaluation": {
-        "score": 60,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 87.77777777777777,
-          "Power": 39.47368421052631,
-          "Contact": 49.999999999999986,
-          "Discipline": 75.55555555555554,
+          "On-base": 88.33333333333331,
+          "Power": 41.05263157894737,
+          "Contact": 50.624999999999986,
+          "Discipline": 79.99999999999999,
           "Speed": 20
         },
         "summary": "Blake Schaaf profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .438",
-          "SLG .470"
+          "AVG .301",
+          "OBP .439",
+          "SLG .476"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": ".301"
           },
           {
             "label": "OBP",
-            "value": ".438"
+            "value": ".439"
           },
           {
             "label": "SLG",
-            "value": ".470"
+            "value": ".476"
           },
           {
             "label": "HR",
@@ -1256,33 +1256,33 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "jersey": "8",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/matt-conte/9053",
         "imageUrl": "https://godeacs.com/images/2025/1/28/Matt_Conte_Headshot.JPG",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "battingAverage": 0.281,
-        "onBasePercentage": 0.393,
-        "sluggingPercentage": 0.473,
-        "ops": 0.866,
-        "atBats": 146,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "battingAverage": 0.278,
+        "onBasePercentage": 0.388,
+        "sluggingPercentage": 0.464,
+        "ops": 0.852,
+        "atBats": 151,
         "runs": 25,
-        "hits": 41,
+        "hits": 42,
         "doubles": 6,
         "triples": 2,
         "homeRuns": 6,
         "runsBattedIn": 33,
-        "totalBases": 69,
+        "totalBases": 70,
         "walks": 25,
         "hitByPitch": 2,
-        "strikeouts": 35,
+        "strikeouts": 36,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 4,
+        "groundedIntoDoublePlay": 6,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 216,
-        "assists": 6,
+        "putouts": 227,
+        "assists": 7,
         "errors": 0,
-        "plateAppearances": 177,
+        "plateAppearances": 182,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1294,51 +1294,51 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "jersey": "8",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/matt-conte/9053",
         "imageUrl": "https://godeacs.com/images/2025/1/28/Matt_Conte_Headshot.JPG",
-        "gamesPlayed": 20,
-        "gamesStarted": 20,
-        "putouts": 216,
-        "assists": 6,
+        "gamesPlayed": 21,
+        "gamesStarted": 21,
+        "putouts": 227,
+        "assists": 7,
         "errors": 0,
         "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 12,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 18,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.8,
-        "passedBalls": 7,
+        "stolenBasesPercentage": 0.857,
+        "passedBalls": 8,
         "catchersInterference": 0,
-        "totalChances": 222
+        "totalChances": 234
       },
       "evaluation": {
-        "score": 46,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 62.77777777777778,
-          "Power": 40.26315789473684,
-          "Contact": 38.125000000000014,
-          "Discipline": 57.14285714285713,
+          "On-base": 60,
+          "Power": 37.89473684210527,
+          "Contact": 36.250000000000014,
+          "Discipline": 54.93827160493826,
           "Speed": 3.3333333333333335
         },
         "summary": "Matt Conte gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .281",
-          "OBP .393",
-          "SLG .473"
+          "AVG .278",
+          "OBP .388",
+          "SLG .464"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".281"
+            "value": ".278"
           },
           {
             "label": "OBP",
-            "value": ".393"
+            "value": ".388"
           },
           {
             "label": "SLG",
-            "value": ".473"
+            "value": ".464"
           },
           {
             "label": "HR",
@@ -1688,23 +1688,23 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "jersey": "11",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/luke-costello/9054",
         "imageUrl": "https://godeacs.com/images/2025/12/17/Luke_Costello_Headshot.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 33,
-        "battingAverage": 0.345,
-        "onBasePercentage": 0.483,
-        "sluggingPercentage": 0.764,
-        "ops": 1.247,
-        "atBats": 110,
-        "runs": 34,
-        "hits": 38,
-        "doubles": 7,
+        "gamesPlayed": 34,
+        "gamesStarted": 34,
+        "battingAverage": 0.342,
+        "onBasePercentage": 0.48,
+        "sluggingPercentage": 0.754,
+        "ops": 1.234,
+        "atBats": 114,
+        "runs": 35,
+        "hits": 39,
+        "doubles": 8,
         "triples": 0,
         "homeRuns": 13,
         "runsBattedIn": 50,
-        "totalBases": 84,
-        "walks": 18,
+        "totalBases": 86,
+        "walks": 19,
         "hitByPitch": 13,
-        "strikeouts": 24,
+        "strikeouts": 25,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
@@ -1714,7 +1714,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "putouts": 64,
         "assists": 3,
         "errors": 0,
-        "plateAppearances": 149,
+        "plateAppearances": 154,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1749,28 +1749,28 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "components": {
           "On-base": 100,
           "Power": 100,
-          "Contact": 78.12499999999997,
-          "Discipline": 61.11111111111111,
+          "Contact": 76.25000000000001,
+          "Discipline": 62.22222222222222,
           "Speed": 6.666666666666667
         },
         "summary": "Luke Costello profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .345",
-          "OBP .483",
-          "SLG .764"
+          "AVG .342",
+          "OBP .480",
+          "SLG .754"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".345"
+            "value": ".342"
           },
           {
             "label": "OBP",
-            "value": ".483"
+            "value": ".480"
           },
           {
             "label": "SLG",
-            "value": ".764"
+            "value": ".754"
           },
           {
             "label": "HR",
@@ -1979,32 +1979,32 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "jersey": "13",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/cameron-bagwell/9074",
         "imageUrl": "https://godeacs.com/images/2025/12/17/Cameron_Bagwell_Headshot.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 8,
-        "appearances": 10,
+        "gamesPlayed": 11,
+        "gamesStarted": 9,
+        "appearances": 11,
         "gamesCompleted": 1,
-        "earnedRunAverage": 3.67,
-        "whip": 1.22,
+        "earnedRunAverage": 3.66,
+        "whip": 1.24,
         "wins": 2,
         "losses": 1,
         "saves": 0,
         "shutouts": 2,
-        "inningsPitched": 41.666666666666664,
-        "inningsPitchedDisplay": "41.2",
-        "hitsAllowed": 39,
-        "runsAllowed": 24,
-        "earnedRunsAllowed": 17,
+        "inningsPitched": 46.666666666666664,
+        "inningsPitchedDisplay": "46.2",
+        "hitsAllowed": 46,
+        "runsAllowed": 26,
+        "earnedRunsAllowed": 19,
         "walksAllowed": 12,
-        "strikeouts": 33,
-        "doublesAllowed": 8,
+        "strikeouts": 36,
+        "doublesAllowed": 9,
         "triplesAllowed": 2,
         "homeRunsAllowed": 8,
-        "opponentsAtBats": 163,
+        "opponentsAtBats": 182,
         "wildPitches": 0,
         "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.239,
-        "walksHits": 51
+        "opponentsBattingAverage": 0.253,
+        "walksHits": 58
       },
       "fieldingStats": {
         "rosterBioId": "9074",
@@ -2013,10 +2013,10 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "jersey": "13",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/cameron-bagwell/9074",
         "imageUrl": "https://godeacs.com/images/2025/12/17/Cameron_Bagwell_Headshot.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 5,
+        "gamesPlayed": 7,
+        "gamesStarted": 6,
         "putouts": 3,
-        "assists": 7,
+        "assists": 8,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -2025,10 +2025,10 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 10
+        "totalChances": 11
       },
       "evaluation": {
-        "score": 11,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2036,40 +2036,40 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 28.436363636363637,
-          "Command": 35,
+          "Miss bats": 26.753246753246756,
+          "Command": 40,
           "Damage suppression": 0
         },
         "summary": "Cameron Bagwell looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.67",
-          "WHIP 1.22",
-          "K/9 7.1"
+          "ERA 3.66",
+          "WHIP 1.24",
+          "K/9 6.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.67"
+            "value": "3.66"
           },
           {
             "label": "WHIP",
-            "value": "1.22"
+            "value": "1.24"
           },
           {
             "label": "K/9",
-            "value": "7.1"
+            "value": "6.9"
           },
           {
             "label": "BB/9",
-            "value": "2.6"
+            "value": "2.3"
           },
           {
             "label": "HR/9",
-            "value": "1.73"
+            "value": "1.54"
           },
           {
             "label": "IP",
-            "value": "41.7"
+            "value": "46.7"
           }
         ],
         "metaLine": "SO / N/A",
@@ -2120,33 +2120,33 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "jersey": "14",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/javar-williams/9069",
         "imageUrl": "https://godeacs.com/images/2025/12/17/Javar_Williams_Headshot.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "battingAverage": 0.353,
-        "onBasePercentage": 0.485,
-        "sluggingPercentage": 0.583,
-        "ops": 1.068,
-        "atBats": 156,
-        "runs": 49,
-        "hits": 55,
-        "doubles": 9,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "battingAverage": 0.348,
+        "onBasePercentage": 0.478,
+        "sluggingPercentage": 0.578,
+        "ops": 1.056,
+        "atBats": 161,
+        "runs": 50,
+        "hits": 56,
+        "doubles": 10,
         "triples": 0,
         "homeRuns": 9,
         "runsBattedIn": 32,
-        "totalBases": 91,
+        "totalBases": 93,
         "walks": 32,
         "hitByPitch": 8,
-        "strikeouts": 30,
+        "strikeouts": 32,
         "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 3,
+        "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
-        "stolenBases": 24,
-        "stolenBasesAttempts": 27,
-        "putouts": 61,
+        "stolenBases": 25,
+        "stolenBasesAttempts": 28,
+        "putouts": 62,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 227,
+        "plateAppearances": 233,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -2158,9 +2158,9 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "jersey": "14",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/javar-williams/9069",
         "imageUrl": "https://godeacs.com/images/2025/12/17/Javar_Williams_Headshot.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 28,
-        "putouts": 61,
+        "gamesPlayed": 29,
+        "gamesStarted": 29,
+        "putouts": 62,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -2170,39 +2170,39 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 61
+        "totalChances": 62
       },
       "evaluation": {
-        "score": 86,
+        "score": 85,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "components": {
           "On-base": 100,
-          "Power": 69.21052631578947,
-          "Contact": 83.12499999999999,
-          "Discipline": 96.29629629629628,
-          "Speed": 80
+          "Power": 67.89473684210526,
+          "Contact": 79.99999999999999,
+          "Discipline": 88.88888888888889,
+          "Speed": 83.33333333333334
         },
         "summary": "Javar Williams profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .353",
-          "OBP .485",
-          "SLG .583"
+          "AVG .348",
+          "OBP .478",
+          "SLG .578"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".353"
+            "value": ".348"
           },
           {
             "label": "OBP",
-            "value": ".485"
+            "value": ".478"
           },
           {
             "label": "SLG",
-            "value": ".583"
+            "value": ".578"
           },
           {
             "label": "HR",
@@ -2214,7 +2214,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
           },
           {
             "label": "SB",
-            "value": "24"
+            "value": "25"
           }
         ],
         "metaLine": "JR / N/A",
@@ -3452,13 +3452,13 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "jersey": "25",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/boston-torres/9080",
         "imageUrl": "https://godeacs.com/images/2025/12/17/Boston_Torres_Headshot.jpg",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 16,
-        "battingAverage": 0.277,
-        "onBasePercentage": 0.36,
-        "sluggingPercentage": 0.385,
-        "ops": 0.745,
-        "atBats": 65,
+        "battingAverage": 0.269,
+        "onBasePercentage": 0.351,
+        "sluggingPercentage": 0.373,
+        "ops": 0.724,
+        "atBats": 67,
         "runs": 11,
         "hits": 18,
         "doubles": 4,
@@ -3478,7 +3478,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "putouts": 30,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 79,
+        "plateAppearances": 81,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3505,36 +3505,36 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "totalChances": 31
       },
       "evaluation": {
-        "score": 35,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 44.44444444444443,
-          "Power": 17.10526315789474,
-          "Contact": 35.625000000000014,
+          "On-base": 39.44444444444442,
+          "Power": 13.94736842105263,
+          "Contact": 30.625000000000007,
           "Discipline": 58.58585858585859,
           "Speed": 13.333333333333334
         },
         "summary": "Boston Torres gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .360",
-          "SLG .385"
+          "AVG .269",
+          "OBP .351",
+          "SLG .373"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".269"
           },
           {
             "label": "OBP",
-            "value": ".360"
+            "value": ".351"
           },
           {
             "label": "SLG",
-            "value": ".385"
+            "value": ".373"
           },
           {
             "label": "HR",
@@ -3597,13 +3597,13 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "jersey": "26",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/andrew-costello/9394",
         "imageUrl": "https://godeacs.com/images/2026/2/9/Andrew_Costello_Headshot.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 20,
-        "battingAverage": 0.257,
-        "onBasePercentage": 0.366,
-        "sluggingPercentage": 0.329,
-        "ops": 0.695,
-        "atBats": 70,
+        "gamesPlayed": 25,
+        "gamesStarted": 21,
+        "battingAverage": 0.24,
+        "onBasePercentage": 0.345,
+        "sluggingPercentage": 0.307,
+        "ops": 0.652,
+        "atBats": 75,
         "runs": 14,
         "hits": 18,
         "doubles": 3,
@@ -3613,17 +3613,17 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "totalBases": 23,
         "walks": 11,
         "hitByPitch": 1,
-        "strikeouts": 12,
+        "strikeouts": 13,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 26,
+        "putouts": 27,
         "assists": 1,
         "errors": 0,
-        "plateAppearances": 83,
+        "plateAppearances": 88,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3635,9 +3635,9 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "jersey": "26",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/andrew-costello/9394",
         "imageUrl": "https://godeacs.com/images/2026/2/9/Andrew_Costello_Headshot.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 11,
-        "putouts": 26,
+        "gamesPlayed": 12,
+        "gamesStarted": 12,
+        "putouts": 27,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -3647,39 +3647,39 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 27
+        "totalChances": 28
       },
       "evaluation": {
-        "score": 32,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 47.77777777777776,
-          "Power": 2.3684210526315814,
-          "Contact": 23.125000000000004,
-          "Discipline": 79.6296296296296,
+          "On-base": 36.111111111111086,
+          "Power": 0,
+          "Contact": 12.499999999999993,
+          "Discipline": 71.79487179487177,
           "Speed": 3.3333333333333335
         },
         "summary": "Andrew Costello gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .257",
-          "OBP .366",
-          "SLG .329"
+          "AVG .240",
+          "OBP .345",
+          "SLG .307"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".257"
+            "value": ".240"
           },
           {
             "label": "OBP",
-            "value": ".366"
+            "value": ".345"
           },
           {
             "label": "SLG",
-            "value": ".329"
+            "value": ".307"
           },
           {
             "label": "HR",
@@ -3865,32 +3865,32 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "jersey": "28",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/rhys-bowie/9052",
         "imageUrl": "https://godeacs.com/images/2025/12/17/Rhys_Bowie_Headshot.jpg",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 2,
-        "appearances": 14,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.32,
-        "whip": 1.82,
+        "earnedRunAverage": 5.63,
+        "whip": 1.79,
         "wins": 1,
         "losses": 1,
         "saves": 0,
         "shutouts": 1,
-        "inningsPitched": 22,
-        "inningsPitchedDisplay": "22.0",
-        "hitsAllowed": 21,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 13,
-        "walksAllowed": 19,
-        "strikeouts": 36,
+        "inningsPitched": 24,
+        "inningsPitchedDisplay": "24.0",
+        "hitsAllowed": 22,
+        "runsAllowed": 15,
+        "earnedRunsAllowed": 15,
+        "walksAllowed": 21,
+        "strikeouts": 41,
         "doublesAllowed": 7,
         "triplesAllowed": 0,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 78,
-        "wildPitches": 3,
-        "hitBatters": 2,
+        "opponentsAtBats": 85,
+        "wildPitches": 6,
+        "hitBatters": 3,
         "balks": 1,
-        "opponentsBattingAverage": 0.269,
-        "walksHits": 40
+        "opponentsBattingAverage": 0.259,
+        "walksHits": 43
       },
       "fieldingStats": {
         "rosterBioId": "9052",
@@ -3914,7 +3914,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "totalChances": 10
       },
       "evaluation": {
-        "score": 22,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3922,40 +3922,40 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 97.52066115702479,
-          "Command": 17.89473684210526,
+          "Miss bats": 100,
+          "Command": 19.047619047619047,
           "Damage suppression": 0
         },
         "summary": "Rhys Bowie looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.32",
-          "WHIP 1.82",
-          "K/9 14.7"
+          "ERA 5.63",
+          "WHIP 1.79",
+          "K/9 15.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.32"
+            "value": "5.63"
           },
           {
             "label": "WHIP",
-            "value": "1.82"
+            "value": "1.79"
           },
           {
             "label": "K/9",
-            "value": "14.7"
+            "value": "15.4"
           },
           {
             "label": "BB/9",
-            "value": "7.8"
+            "value": "7.9"
           },
           {
             "label": "HR/9",
-            "value": "1.64"
+            "value": "1.50"
           },
           {
             "label": "IP",
-            "value": "22.0"
+            "value": "24.0"
           }
         ],
         "metaLine": "SO / N/A",
@@ -4415,13 +4415,13 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "jersey": "34",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/jimmy-keenan/9059",
         "imageUrl": "https://godeacs.com/images/2025/12/17/Jimmy_Keenan_Headshot.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 26,
-        "battingAverage": 0.244,
-        "onBasePercentage": 0.44,
-        "sluggingPercentage": 0.442,
-        "ops": 0.882,
-        "atBats": 86,
+        "gamesPlayed": 30,
+        "gamesStarted": 27,
+        "battingAverage": 0.239,
+        "onBasePercentage": 0.437,
+        "sluggingPercentage": 0.432,
+        "ops": 0.869,
+        "atBats": 88,
         "runs": 23,
         "hits": 21,
         "doubles": 5,
@@ -4429,9 +4429,9 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "homeRuns": 4,
         "runsBattedIn": 23,
         "totalBases": 38,
-        "walks": 23,
+        "walks": 24,
         "hitByPitch": 7,
-        "strikeouts": 36,
+        "strikeouts": 37,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
@@ -4441,7 +4441,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "putouts": 232,
         "assists": 10,
         "errors": 6,
-        "plateAppearances": 116,
+        "plateAppearances": 119,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4468,36 +4468,36 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "totalChances": 248
       },
       "evaluation": {
-        "score": 46,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 88.88888888888889,
-          "Power": 32.10526315789474,
-          "Contact": 14.999999999999996,
-          "Discipline": 48.765432098765416,
+          "On-base": 87.22222222222221,
+          "Power": 29.47368421052632,
+          "Contact": 11.874999999999993,
+          "Discipline": 49.849849849849846,
           "Speed": 0
         },
         "summary": "Jimmy Keenan profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .244",
-          "OBP .440",
-          "SLG .442"
+          "AVG .239",
+          "OBP .437",
+          "SLG .432"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".244"
+            "value": ".239"
           },
           {
             "label": "OBP",
-            "value": ".440"
+            "value": ".437"
           },
           {
             "label": "SLG",
-            "value": ".442"
+            "value": ".432"
           },
           {
             "label": "HR",
@@ -4648,7 +4648,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "jersey": "40",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/jordan-serrano/9083",
         "imageUrl": "https://godeacs.com/images/2025/12/17/Jordan_Serrano_Headshot.jpg",
-        "gamesPlayed": 22,
+        "gamesPlayed": 23,
         "gamesStarted": 2,
         "battingAverage": 0.15,
         "onBasePercentage": 0.261,
@@ -4939,18 +4939,18 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "jersey": "99",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/ryan-bosch/9084",
         "imageUrl": "https://godeacs.com/images/2025/12/17/Ryan_Bosch_Headshot.jpg",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 0,
-        "appearances": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.72,
-        "whip": 1.34,
+        "earnedRunAverage": 3.6,
+        "whip": 1.3,
         "wins": 0,
         "losses": 0,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 9.666666666666666,
-        "inningsPitchedDisplay": "9.2",
+        "inningsPitched": 10,
+        "inningsPitchedDisplay": "10.0",
         "hitsAllowed": 6,
         "runsAllowed": 4,
         "earnedRunsAllowed": 4,
@@ -4959,11 +4959,11 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "doublesAllowed": 1,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 31,
+        "opponentsAtBats": 32,
         "wildPitches": 1,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.194,
+        "opponentsBattingAverage": 0.188,
         "walksHits": 13
       },
       "fieldingStats": {
@@ -4988,7 +4988,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 22,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4996,40 +4996,40 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 90.59561128526646,
+          "Miss bats": 86.36363636363636,
           "Command": 22.857142857142858,
           "Damage suppression": 0
         },
         "summary": "Ryan Bosch looks like a LHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 3.72",
-          "WHIP 1.34",
-          "K/9 14.0"
+          "ERA 3.60",
+          "WHIP 1.30",
+          "K/9 13.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.72"
+            "value": "3.60"
           },
           {
             "label": "WHIP",
-            "value": "1.34"
+            "value": "1.30"
           },
           {
             "label": "K/9",
-            "value": "14.0"
+            "value": "13.5"
           },
           {
             "label": "BB/9",
-            "value": "6.5"
+            "value": "6.3"
           },
           {
             "label": "HR/9",
-            "value": "0.93"
+            "value": "0.90"
           },
           {
             "label": "IP",
-            "value": "9.7"
+            "value": "10.0"
           }
         ],
         "metaLine": "FR / N/A",
@@ -5128,29 +5128,29 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 69,
+        "score": 66,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Dalton Wentz profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .309",
-          "OBP .444",
-          "SLG .611"
+          "AVG .301",
+          "OBP .438",
+          "SLG .595"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".309"
+            "value": ".301"
           },
           {
             "label": "OBP",
-            "value": ".444"
+            "value": ".438"
           },
           {
             "label": "SLG",
-            "value": ".611"
+            "value": ".595"
           },
           {
             "label": "HR",
@@ -5162,15 +5162,15 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "components": {
-          "On-base": 91.1111111111111,
-          "Power": 76.57894736842105,
-          "Contact": 55.62499999999999,
-          "Discipline": 66.16161616161615,
-          "Speed": 3.3333333333333335
+          "On-base": 87.77777777777777,
+          "Power": 72.36842105263158,
+          "Contact": 50.624999999999986,
+          "Discipline": 68.68686868686868,
+          "Speed": 6.666666666666667
         },
         "metaLine": "SO / N/A",
         "detailBadges": [
@@ -5266,37 +5266,37 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 32,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "JD Stein gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .355",
-          "SLG .379"
+          "AVG .260",
+          "OBP .365",
+          "SLG .409"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".260"
           },
           {
             "label": "OBP",
-            "value": ".355"
+            "value": ".365"
           },
           {
             "label": "SLG",
-            "value": ".379"
+            "value": ".409"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "4"
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "28"
           },
           {
             "label": "SB",
@@ -5304,10 +5304,10 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
           }
         ],
         "components": {
-          "On-base": 41.66666666666664,
-          "Power": 15.526315789473685,
-          "Contact": 18.75,
-          "Discipline": 62.43386243386243,
+          "On-base": 47.22222222222221,
+          "Power": 23.42105263157894,
+          "Contact": 25.000000000000007,
+          "Discipline": 63.636363636363626,
           "Speed": 23.333333333333332
         },
         "metaLine": "FR / N/A",
@@ -5404,48 +5404,48 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 31,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Marcelo Harsch looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.00",
-          "WHIP 1.50",
-          "K/9 15.5"
+          "ERA 4.79",
+          "WHIP 1.65",
+          "K/9 14.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.00"
+            "value": "4.79"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.65"
           },
           {
             "label": "K/9",
-            "value": "15.5"
+            "value": "14.8"
           },
           {
             "label": "BB/9",
-            "value": "3.5"
+            "value": "4.4"
           },
           {
             "label": "HR/9",
-            "value": "2.00"
+            "value": "1.74"
           },
           {
             "label": "IP",
-            "value": "18.0"
+            "value": "20.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 68.57142857142857,
+          "Miss bats": 98.24046920821114,
+          "Command": 48,
           "Damage suppression": 0
         },
         "metaLine": "FR / N/A",
@@ -5473,37 +5473,37 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 75,
+        "score": 82,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Priority",
+          "className": "fit-priority"
         },
         "summary": "Kade Lewis profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .355",
-          "OBP .437",
-          "SLG .561"
+          "AVG .367",
+          "OBP .452",
+          "SLG .589"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".355"
+            "value": ".367"
           },
           {
             "label": "OBP",
-            "value": ".437"
+            "value": ".452"
           },
           {
             "label": "SLG",
-            "value": ".561"
+            "value": ".589"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "38"
           },
           {
             "label": "SB",
@@ -5511,10 +5511,10 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
           }
         ],
         "components": {
-          "On-base": 87.22222222222221,
-          "Power": 63.421052631578966,
-          "Contact": 84.37499999999999,
-          "Discipline": 93.719806763285,
+          "On-base": 95.55555555555554,
+          "Power": 70.78947368421052,
+          "Contact": 91.875,
+          "Discipline": 100,
           "Speed": 20
         },
         "metaLine": "JR / N/A",
@@ -5542,29 +5542,29 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 60,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Blake Schaaf profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .438",
-          "SLG .470"
+          "AVG .301",
+          "OBP .439",
+          "SLG .476"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": ".301"
           },
           {
             "label": "OBP",
-            "value": ".438"
+            "value": ".439"
           },
           {
             "label": "SLG",
-            "value": ".470"
+            "value": ".476"
           },
           {
             "label": "HR",
@@ -5580,10 +5580,10 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
           }
         ],
         "components": {
-          "On-base": 87.77777777777777,
-          "Power": 39.47368421052631,
-          "Contact": 49.999999999999986,
-          "Discipline": 75.55555555555554,
+          "On-base": 88.33333333333331,
+          "Power": 41.05263157894737,
+          "Contact": 50.624999999999986,
+          "Discipline": 79.99999999999999,
           "Speed": 20
         },
         "metaLine": "JR / N/A",
@@ -5611,29 +5611,29 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "position": "C",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 46,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Matt Conte gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .281",
-          "OBP .393",
-          "SLG .473"
+          "AVG .278",
+          "OBP .388",
+          "SLG .464"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".281"
+            "value": ".278"
           },
           {
             "label": "OBP",
-            "value": ".393"
+            "value": ".388"
           },
           {
             "label": "SLG",
-            "value": ".473"
+            "value": ".464"
           },
           {
             "label": "HR",
@@ -5649,10 +5649,10 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
           }
         ],
         "components": {
-          "On-base": 62.77777777777778,
-          "Power": 40.26315789473684,
-          "Contact": 38.125000000000014,
-          "Discipline": 57.14285714285713,
+          "On-base": 60,
+          "Power": 37.89473684210527,
+          "Contact": 36.250000000000014,
+          "Discipline": 54.93827160493826,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SO / N/A",
@@ -5825,22 +5825,22 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         },
         "summary": "Luke Costello profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .345",
-          "OBP .483",
-          "SLG .764"
+          "AVG .342",
+          "OBP .480",
+          "SLG .754"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".345"
+            "value": ".342"
           },
           {
             "label": "OBP",
-            "value": ".483"
+            "value": ".480"
           },
           {
             "label": "SLG",
-            "value": ".764"
+            "value": ".754"
           },
           {
             "label": "HR",
@@ -5858,8 +5858,8 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "components": {
           "On-base": 100,
           "Power": 100,
-          "Contact": 78.12499999999997,
-          "Discipline": 61.11111111111111,
+          "Contact": 76.25000000000001,
+          "Discipline": 62.22222222222222,
           "Speed": 6.666666666666667
         },
         "metaLine": "SO / N/A",
@@ -5956,48 +5956,48 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 11,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cameron Bagwell looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.67",
-          "WHIP 1.22",
-          "K/9 7.1"
+          "ERA 3.66",
+          "WHIP 1.24",
+          "K/9 6.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.67"
+            "value": "3.66"
           },
           {
             "label": "WHIP",
-            "value": "1.22"
+            "value": "1.24"
           },
           {
             "label": "K/9",
-            "value": "7.1"
+            "value": "6.9"
           },
           {
             "label": "BB/9",
-            "value": "2.6"
+            "value": "2.3"
           },
           {
             "label": "HR/9",
-            "value": "1.73"
+            "value": "1.54"
           },
           {
             "label": "IP",
-            "value": "41.7"
+            "value": "46.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 28.436363636363637,
-          "Command": 35,
+          "Miss bats": 26.753246753246756,
+          "Command": 40,
           "Damage suppression": 0
         },
         "metaLine": "SO / N/A",
@@ -6025,29 +6025,29 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 86,
+        "score": 85,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Javar Williams profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .353",
-          "OBP .485",
-          "SLG .583"
+          "AVG .348",
+          "OBP .478",
+          "SLG .578"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".353"
+            "value": ".348"
           },
           {
             "label": "OBP",
-            "value": ".485"
+            "value": ".478"
           },
           {
             "label": "SLG",
-            "value": ".583"
+            "value": ".578"
           },
           {
             "label": "HR",
@@ -6059,15 +6059,15 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
           },
           {
             "label": "SB",
-            "value": "24"
+            "value": "25"
           }
         ],
         "components": {
           "On-base": 100,
-          "Power": 69.21052631578947,
-          "Contact": 83.12499999999999,
-          "Discipline": 96.29629629629628,
-          "Speed": 80
+          "Power": 67.89473684210526,
+          "Contact": 79.99999999999999,
+          "Discipline": 88.88888888888889,
+          "Speed": 83.33333333333334
         },
         "metaLine": "JR / N/A",
         "detailBadges": [
@@ -6714,29 +6714,29 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 35,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Boston Torres gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .360",
-          "SLG .385"
+          "AVG .269",
+          "OBP .351",
+          "SLG .373"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".269"
           },
           {
             "label": "OBP",
-            "value": ".360"
+            "value": ".351"
           },
           {
             "label": "SLG",
-            "value": ".385"
+            "value": ".373"
           },
           {
             "label": "HR",
@@ -6752,9 +6752,9 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
           }
         ],
         "components": {
-          "On-base": 44.44444444444443,
-          "Power": 17.10526315789474,
-          "Contact": 35.625000000000014,
+          "On-base": 39.44444444444442,
+          "Power": 13.94736842105263,
+          "Contact": 30.625000000000007,
           "Discipline": 58.58585858585859,
           "Speed": 13.333333333333334
         },
@@ -6783,29 +6783,29 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "position": "C",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 32,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Andrew Costello gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .257",
-          "OBP .366",
-          "SLG .329"
+          "AVG .240",
+          "OBP .345",
+          "SLG .307"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".257"
+            "value": ".240"
           },
           {
             "label": "OBP",
-            "value": ".366"
+            "value": ".345"
           },
           {
             "label": "SLG",
-            "value": ".329"
+            "value": ".307"
           },
           {
             "label": "HR",
@@ -6821,10 +6821,10 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
           }
         ],
         "components": {
-          "On-base": 47.77777777777776,
-          "Power": 2.3684210526315814,
-          "Contact": 23.125000000000004,
-          "Discipline": 79.6296296296296,
+          "On-base": 36.111111111111086,
+          "Power": 0,
+          "Contact": 12.499999999999993,
+          "Discipline": 71.79487179487177,
           "Speed": 3.3333333333333335
         },
         "metaLine": "FR / N/A",
@@ -6921,48 +6921,48 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "position": "LHP",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 22,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Rhys Bowie looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.32",
-          "WHIP 1.82",
-          "K/9 14.7"
+          "ERA 5.63",
+          "WHIP 1.79",
+          "K/9 15.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.32"
+            "value": "5.63"
           },
           {
             "label": "WHIP",
-            "value": "1.82"
+            "value": "1.79"
           },
           {
             "label": "K/9",
-            "value": "14.7"
+            "value": "15.4"
           },
           {
             "label": "BB/9",
-            "value": "7.8"
+            "value": "7.9"
           },
           {
             "label": "HR/9",
-            "value": "1.64"
+            "value": "1.50"
           },
           {
             "label": "IP",
-            "value": "22.0"
+            "value": "24.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 97.52066115702479,
-          "Command": 17.89473684210526,
+          "Miss bats": 100,
+          "Command": 19.047619047619047,
           "Damage suppression": 0
         },
         "metaLine": "SO / N/A",
@@ -7197,29 +7197,29 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "position": "C",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 46,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jimmy Keenan profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .244",
-          "OBP .440",
-          "SLG .442"
+          "AVG .239",
+          "OBP .437",
+          "SLG .432"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".244"
+            "value": ".239"
           },
           {
             "label": "OBP",
-            "value": ".440"
+            "value": ".437"
           },
           {
             "label": "SLG",
-            "value": ".442"
+            "value": ".432"
           },
           {
             "label": "HR",
@@ -7235,10 +7235,10 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
           }
         ],
         "components": {
-          "On-base": 88.88888888888889,
-          "Power": 32.10526315789474,
-          "Contact": 14.999999999999996,
-          "Discipline": 48.765432098765416,
+          "On-base": 87.22222222222221,
+          "Power": 29.47368421052632,
+          "Contact": 11.874999999999993,
+          "Discipline": 49.849849849849846,
           "Speed": 0
         },
         "metaLine": "SR / N/A",
@@ -7472,47 +7472,47 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "position": "LHP",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 22,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ryan Bosch looks like a LHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 3.72",
-          "WHIP 1.34",
-          "K/9 14.0"
+          "ERA 3.60",
+          "WHIP 1.30",
+          "K/9 13.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.72"
+            "value": "3.60"
           },
           {
             "label": "WHIP",
-            "value": "1.34"
+            "value": "1.30"
           },
           {
             "label": "K/9",
-            "value": "14.0"
+            "value": "13.5"
           },
           {
             "label": "BB/9",
-            "value": "6.5"
+            "value": "6.3"
           },
           {
             "label": "HR/9",
-            "value": "0.93"
+            "value": "0.90"
           },
           {
             "label": "IP",
-            "value": "9.7"
+            "value": "10.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 90.59561128526646,
+          "Miss bats": 86.36363636363636,
           "Command": 22.857142857142858,
           "Damage suppression": 0
         },

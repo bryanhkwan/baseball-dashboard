@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.oregon2026 = {
-  "generatedAt": "2026-04-19T11:00:27.605Z",
+  "generatedAt": "2026-04-20T11:43:18.894Z",
   "season": 2026,
   "school": {
     "slug": "oregon",
@@ -39,24 +39,24 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
     }
   },
   "teamSummary": {
-    "record": "27-11, 11-6",
-    "battingAverage": ".301",
-    "earnedRunAverage": "4.29",
-    "wins": "27",
+    "record": "28-11, 12-6",
+    "battingAverage": ".303",
+    "earnedRunAverage": "4.31",
+    "wins": "28",
     "losses": "11",
     "hitting": {
-      "atBats": "1294",
-      "runsScored": "296",
-      "hits": "389",
-      "runsBattedIn": "278",
-      "doubles": "75",
-      "triples": "8",
-      "homeRuns": "73",
-      "walks": "166",
+      "atBats": "1335",
+      "runsScored": "307",
+      "hits": "404",
+      "runsBattedIn": "288",
+      "doubles": "76",
+      "triples": "9",
+      "homeRuns": "77",
+      "walks": "169",
       "intentionalWalks": "8",
-      "strikeouts": "289",
-      "strikeoutsLooking": "85",
-      "hitByPitch": "78",
+      "strikeouts": "299",
+      "strikeoutsLooking": "90",
+      "hitByPitch": "81",
       "stolenBases": "44",
       "caughtStealing": "18",
       "sacrificeHits": "11",
@@ -64,16 +64,16 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "277",
-      "flyOuts": "340",
+      "groundOuts": "285",
+      "flyOuts": "348",
       "groundedIntoDoublePlay": "18",
       "pickedOff": "3",
-      "doublePlaysHitInto": "21",
+      "doublePlaysHitInto": "22",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "994",
-      "assists": "307",
+      "putouts": "1021",
+      "assists": "314",
       "errors": "30",
       "passedBalls": "4",
       "catchersInterference": "0",
@@ -81,42 +81,42 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
       "caughtStealingBy": "15",
       "involvedInDoublePlays": "27",
       "involvedInTriplePlays": "0",
-      "totalChances": "1331",
-      "fieldingPercentage": ".977"
+      "totalChances": "1365",
+      "fieldingPercentage": ".978"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "27",
+      "wins": "28",
       "saves": "10",
       "losses": "11",
       "gamesStarted": "0",
       "gamesCompleted": "1",
       "shutouts": "6",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "331.1",
-      "hitsAllowed": "254",
-      "runsAllowed": "175",
-      "earnedRunsAllowed": "158",
-      "walksAllowed": "148",
-      "strikeouts": "397",
-      "battersFaced": "1427",
-      "opponentAtBats": "1193",
-      "doublesAllowed": "50",
+      "inningsPitched": "340.1",
+      "hitsAllowed": "262",
+      "runsAllowed": "180",
+      "earnedRunsAllowed": "163",
+      "walksAllowed": "151",
+      "strikeouts": "408",
+      "battersFaced": "1466",
+      "opponentAtBats": "1227",
+      "doublesAllowed": "53",
       "triplesAllowed": "5",
-      "homerunsAllowed": "37",
+      "homerunsAllowed": "39",
       "wildPitches": "27",
       "balks": "2",
-      "hitBatters": "59",
-      "strikeoutsLooking": "113",
+      "hitBatters": "61",
+      "strikeoutsLooking": "116",
       "intentionalWalks": "3",
       "inheritedRunners": "0",
       "inheritedRunnersThatScored": "0",
       "sacrificeHitsAllowed": "18",
       "sacrificeFliesAllowed": "9",
       "catchersInterferenceAllowed": "0",
-      "pitches": "4633",
-      "flyouts": "291",
-      "groundouts": "259",
+      "pitches": "4792",
+      "flyouts": "300",
+      "groundouts": "265",
       "teamUnearnedRuns": "0",
       "saveRecord": "10",
       "pickoff": "12"
@@ -536,33 +536,33 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "5",
         "profileUrl": "https://goducks.com/sports/baseball/roster/burke-lee-mabeus/17564",
         "imageUrl": "https://goducks.com/images/2026/2/3/Mabeus__Burke-Lee.png",
-        "gamesPlayed": 33,
-        "gamesStarted": 24,
-        "battingAverage": 0.296,
-        "onBasePercentage": 0.355,
-        "sluggingPercentage": 0.5,
-        "ops": 0.855,
-        "atBats": 98,
-        "runs": 23,
-        "hits": 29,
+        "gamesPlayed": 34,
+        "gamesStarted": 25,
+        "battingAverage": 0.294,
+        "onBasePercentage": 0.357,
+        "sluggingPercentage": 0.49,
+        "ops": 0.847,
+        "atBats": 102,
+        "runs": 24,
+        "hits": 30,
         "doubles": 8,
         "triples": 0,
         "homeRuns": 4,
         "runsBattedIn": 20,
-        "totalBases": 49,
-        "walks": 6,
+        "totalBases": 50,
+        "walks": 7,
         "hitByPitch": 3,
-        "strikeouts": 21,
+        "strikeouts": 22,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 274,
-        "assists": 16,
+        "putouts": 285,
+        "assists": 17,
         "errors": 4,
-        "plateAppearances": 110,
+        "plateAppearances": 115,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -574,19 +574,19 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "5",
         "profileUrl": "https://goducks.com/sports/baseball/roster/burke-lee-mabeus/17564",
         "imageUrl": "https://goducks.com/images/2026/2/3/Mabeus__Burke-Lee.png",
-        "gamesPlayed": 30,
-        "gamesStarted": 24,
-        "putouts": 274,
-        "assists": 16,
+        "gamesPlayed": 31,
+        "gamesStarted": 25,
+        "putouts": 285,
+        "assists": 17,
         "errors": 4,
-        "fieldingPercentage": 0.986,
+        "fieldingPercentage": 0.987,
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 7,
         "stolenBasesPercentage": 0.462,
         "passedBalls": 3,
         "catchersInterference": 0,
-        "totalChances": 294
+        "totalChances": 306
       },
       "evaluation": {
         "score": 36,
@@ -595,30 +595,30 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 41.66666666666664,
-          "Power": 47.36842105263158,
-          "Contact": 47.499999999999986,
-          "Discipline": 9.523809523809518,
+          "On-base": 42.77777777777775,
+          "Power": 44.73684210526316,
+          "Contact": 46.249999999999986,
+          "Discipline": 13.131313131313128,
           "Speed": 3.3333333333333335
         },
         "summary": "Burke-Lee Mabeus gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .296",
-          "OBP .355",
-          "SLG .500"
+          "AVG .294",
+          "OBP .357",
+          "SLG .490"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".296"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".355"
+            "value": ".357"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".490"
           },
           {
             "label": "HR",
@@ -681,33 +681,33 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "6",
         "profileUrl": "https://goducks.com/sports/baseball/roster/jack-brooks/17546",
         "imageUrl": "https://goducks.com/images/2026/2/3/Brooks__Jack.png",
-        "gamesPlayed": 35,
-        "gamesStarted": 32,
-        "battingAverage": 0.261,
-        "onBasePercentage": 0.404,
-        "sluggingPercentage": 0.489,
-        "ops": 0.893,
-        "atBats": 92,
-        "runs": 18,
-        "hits": 24,
+        "gamesPlayed": 36,
+        "gamesStarted": 33,
+        "battingAverage": 0.26,
+        "onBasePercentage": 0.403,
+        "sluggingPercentage": 0.479,
+        "ops": 0.882,
+        "atBats": 96,
+        "runs": 19,
+        "hits": 25,
         "doubles": 4,
         "triples": 1,
         "homeRuns": 5,
         "runsBattedIn": 19,
-        "totalBases": 45,
-        "walks": 17,
+        "totalBases": 46,
+        "walks": 18,
         "hitByPitch": 5,
-        "strikeouts": 25,
+        "strikeouts": 27,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 4,
         "stolenBases": 12,
         "stolenBasesAttempts": 14,
-        "putouts": 70,
+        "putouts": 71,
         "assists": 2,
         "errors": 2,
-        "plateAppearances": 134,
+        "plateAppearances": 139,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -719,9 +719,9 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "6",
         "profileUrl": "https://goducks.com/sports/baseball/roster/jack-brooks/17546",
         "imageUrl": "https://goducks.com/images/2026/2/3/Brooks__Jack.png",
-        "gamesPlayed": 32,
-        "gamesStarted": 30,
-        "putouts": 70,
+        "gamesPlayed": 33,
+        "gamesStarted": 31,
+        "putouts": 71,
         "assists": 2,
         "errors": 2,
         "fieldingPercentage": 0.973,
@@ -731,39 +731,39 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 74
+        "totalChances": 75
       },
       "evaluation": {
-        "score": 50,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 68.88888888888889,
-          "Power": 44.473684210526315,
-          "Contact": 25.625000000000004,
-          "Discipline": 53.333333333333336,
+          "On-base": 68.33333333333333,
+          "Power": 41.84210526315789,
+          "Contact": 25.000000000000007,
+          "Discipline": 51.85185185185184,
           "Speed": 40
         },
         "summary": "Jack Brooks profiles as a UTL piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .261",
-          "OBP .404",
-          "SLG .489"
+          "AVG .260",
+          "OBP .403",
+          "SLG .479"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".261"
+            "value": ".260"
           },
           {
             "label": "OBP",
-            "value": ".404"
+            "value": ".403"
           },
           {
             "label": "SLG",
-            "value": ".489"
+            "value": ".479"
           },
           {
             "label": "HR",
@@ -826,33 +826,33 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "7",
         "profileUrl": "https://goducks.com/sports/baseball/roster/jax-gimenez/17556",
         "imageUrl": "https://goducks.com/images/2026/2/3/Gimenez__Jax.png",
-        "gamesPlayed": 38,
-        "gamesStarted": 37,
-        "battingAverage": 0.286,
-        "onBasePercentage": 0.464,
-        "sluggingPercentage": 0.451,
-        "ops": 0.915,
-        "atBats": 133,
-        "runs": 37,
-        "hits": 38,
-        "doubles": 9,
-        "triples": 2,
+        "gamesPlayed": 39,
+        "gamesStarted": 38,
+        "battingAverage": 0.292,
+        "onBasePercentage": 0.47,
+        "sluggingPercentage": 0.474,
+        "ops": 0.944,
+        "atBats": 137,
+        "runs": 39,
+        "hits": 40,
+        "doubles": 10,
+        "triples": 3,
         "homeRuns": 3,
-        "runsBattedIn": 19,
-        "totalBases": 60,
+        "runsBattedIn": 22,
+        "totalBases": 65,
         "walks": 29,
-        "hitByPitch": 16,
-        "strikeouts": 22,
+        "hitByPitch": 18,
+        "strikeouts": 23,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 3,
         "stolenBases": 7,
         "stolenBasesAttempts": 7,
-        "putouts": 69,
-        "assists": 0,
+        "putouts": 71,
+        "assists": 1,
         "errors": 2,
-        "plateAppearances": 189,
+        "plateAppearances": 195,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -864,51 +864,51 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "7",
         "profileUrl": "https://goducks.com/sports/baseball/roster/jax-gimenez/17556",
         "imageUrl": "https://goducks.com/images/2026/2/3/Gimenez__Jax.png",
-        "gamesPlayed": 28,
-        "gamesStarted": 27,
-        "putouts": 69,
-        "assists": 0,
+        "gamesPlayed": 29,
+        "gamesStarted": 28,
+        "putouts": 71,
+        "assists": 1,
         "errors": 2,
-        "fieldingPercentage": 0.972,
+        "fieldingPercentage": 0.973,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 71
+        "totalChances": 74
       },
       "evaluation": {
-        "score": 65,
+        "score": 67,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
           "On-base": 100,
-          "Power": 34.47368421052632,
-          "Contact": 41.24999999999998,
+          "Power": 40.526315789473685,
+          "Contact": 44.999999999999986,
           "Discipline": 100,
           "Speed": 23.333333333333332
         },
         "summary": "Jax Gimenez profiles as a INF/OF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .464",
-          "SLG .451"
+          "AVG .292",
+          "OBP .470",
+          "SLG .474"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".292"
           },
           {
             "label": "OBP",
-            "value": ".464"
+            "value": ".470"
           },
           {
             "label": "SLG",
-            "value": ".451"
+            "value": ".474"
           },
           {
             "label": "HR",
@@ -916,7 +916,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
           },
           {
             "label": "RBI",
-            "value": "19"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -971,22 +971,22 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "9",
         "profileUrl": "https://goducks.com/sports/baseball/roster/maddox-molony/17567",
         "imageUrl": "https://goducks.com/images/2026/2/3/Molony__Maddox.png",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "battingAverage": 0.252,
-        "onBasePercentage": 0.37,
-        "sluggingPercentage": 0.467,
-        "ops": 0.837,
-        "atBats": 135,
-        "runs": 31,
-        "hits": 34,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "battingAverage": 0.259,
+        "onBasePercentage": 0.376,
+        "sluggingPercentage": 0.489,
+        "ops": 0.865,
+        "atBats": 139,
+        "runs": 32,
+        "hits": 36,
         "doubles": 8,
         "triples": 0,
-        "homeRuns": 7,
-        "runsBattedIn": 24,
-        "totalBases": 63,
+        "homeRuns": 8,
+        "runsBattedIn": 26,
+        "totalBases": 68,
         "walks": 17,
-        "hitByPitch": 10,
+        "hitByPitch": 11,
         "strikeouts": 23,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
@@ -994,10 +994,10 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "sacrificeHits": 1,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 39,
+        "putouts": 40,
         "assists": 69,
         "errors": 3,
-        "plateAppearances": 168,
+        "plateAppearances": 173,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1009,9 +1009,9 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "9",
         "profileUrl": "https://goducks.com/sports/baseball/roster/maddox-molony/17567",
         "imageUrl": "https://goducks.com/images/2026/2/3/Molony__Maddox.png",
-        "gamesPlayed": 35,
-        "gamesStarted": 35,
-        "putouts": 39,
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "putouts": 40,
         "assists": 69,
         "errors": 3,
         "fieldingPercentage": 0.973,
@@ -1021,47 +1021,47 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 111
+        "totalChances": 112
       },
       "evaluation": {
-        "score": 39,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 49.999999999999986,
-          "Power": 38.6842105263158,
-          "Contact": 20,
+          "On-base": 53.33333333333332,
+          "Power": 44.473684210526315,
+          "Contact": 24.375000000000004,
           "Discipline": 59.903381642512066,
           "Speed": 6.666666666666667
         },
         "summary": "Maddox Molony gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .252",
-          "OBP .370",
-          "SLG .467"
+          "AVG .259",
+          "OBP .376",
+          "SLG .489"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".252"
+            "value": ".259"
           },
           {
             "label": "OBP",
-            "value": ".370"
+            "value": ".376"
           },
           {
             "label": "SLG",
-            "value": ".467"
+            "value": ".489"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "26"
           },
           {
             "label": "SB",
@@ -1258,21 +1258,21 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "11",
         "profileUrl": "https://goducks.com/sports/baseball/roster/brayden-jaksa/18218",
         "imageUrl": "https://goducks.com/images/2026/2/3/Jaksa__Brayden.png",
-        "gamesPlayed": 26,
-        "gamesStarted": 21,
-        "battingAverage": 0.342,
-        "onBasePercentage": 0.422,
-        "sluggingPercentage": 0.633,
-        "ops": 1.055,
-        "atBats": 79,
-        "runs": 21,
-        "hits": 27,
+        "gamesPlayed": 27,
+        "gamesStarted": 22,
+        "battingAverage": 0.345,
+        "onBasePercentage": 0.427,
+        "sluggingPercentage": 0.619,
+        "ops": 1.046,
+        "atBats": 84,
+        "runs": 22,
+        "hits": 29,
         "doubles": 3,
         "triples": 1,
         "homeRuns": 6,
-        "runsBattedIn": 17,
-        "totalBases": 50,
-        "walks": 8,
+        "runsBattedIn": 18,
+        "totalBases": 52,
+        "walks": 9,
         "hitByPitch": 3,
         "strikeouts": 18,
         "intentionalWalks": 0,
@@ -1281,10 +1281,10 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 6,
-        "putouts": 168,
+        "putouts": 170,
         "assists": 9,
         "errors": 3,
-        "plateAppearances": 98,
+        "plateAppearances": 104,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1296,51 +1296,51 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "11",
         "profileUrl": "https://goducks.com/sports/baseball/roster/brayden-jaksa/18218",
         "imageUrl": "https://goducks.com/images/2026/2/3/Jaksa__Brayden.png",
-        "gamesPlayed": 26,
-        "gamesStarted": 21,
-        "putouts": 168,
+        "gamesPlayed": 27,
+        "gamesStarted": 22,
+        "putouts": 170,
         "assists": 9,
         "errors": 3,
-        "fieldingPercentage": 0.983,
+        "fieldingPercentage": 0.984,
         "doublePlays": 9,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 2,
         "stolenBasesPercentage": 0.75,
         "passedBalls": 1,
         "catchersInterference": 0,
-        "totalChances": 180
+        "totalChances": 182
       },
       "evaluation": {
-        "score": 66,
+        "score": 67,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 78.88888888888886,
-          "Power": 82.36842105263159,
-          "Contact": 76.25000000000001,
-          "Discipline": 27.160493827160487,
+          "On-base": 81.66666666666666,
+          "Power": 78.6842105263158,
+          "Contact": 78.12499999999997,
+          "Discipline": 33.33333333333333,
           "Speed": 13.333333333333334
         },
         "summary": "Brayden Jaksa profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .342",
-          "OBP .422",
-          "SLG .633"
+          "AVG .345",
+          "OBP .427",
+          "SLG .619"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".342"
+            "value": ".345"
           },
           {
             "label": "OBP",
-            "value": ".422"
+            "value": ".427"
           },
           {
             "label": "SLG",
-            "value": ".633"
+            "value": ".619"
           },
           {
             "label": "HR",
@@ -1348,7 +1348,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "18"
           },
           {
             "label": "SB",
@@ -1403,20 +1403,20 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "12",
         "profileUrl": "https://goducks.com/sports/baseball/roster/ryan-cooney/17549",
         "imageUrl": "https://goducks.com/images/2026/2/3/Cooney__Ryan.png",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "battingAverage": 0.381,
-        "onBasePercentage": 0.463,
-        "sluggingPercentage": 0.606,
-        "ops": 1.069,
-        "atBats": 160,
-        "runs": 38,
-        "hits": 61,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "battingAverage": 0.388,
+        "onBasePercentage": 0.466,
+        "sluggingPercentage": 0.642,
+        "ops": 1.108,
+        "atBats": 165,
+        "runs": 40,
+        "hits": 64,
         "doubles": 16,
         "triples": 1,
-        "homeRuns": 6,
-        "runsBattedIn": 31,
-        "totalBases": 97,
+        "homeRuns": 8,
+        "runsBattedIn": 34,
+        "totalBases": 106,
         "walks": 17,
         "hitByPitch": 9,
         "strikeouts": 14,
@@ -1426,10 +1426,10 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "sacrificeHits": 0,
         "stolenBases": 11,
         "stolenBasesAttempts": 13,
-        "putouts": 52,
-        "assists": 90,
+        "putouts": 53,
+        "assists": 92,
         "errors": 4,
-        "plateAppearances": 203,
+        "plateAppearances": 208,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1441,10 +1441,10 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "12",
         "profileUrl": "https://goducks.com/sports/baseball/roster/ryan-cooney/17549",
         "imageUrl": "https://goducks.com/images/2026/2/3/Cooney__Ryan.png",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "putouts": 52,
-        "assists": 90,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "putouts": 53,
+        "assists": 92,
         "errors": 4,
         "fieldingPercentage": 0.973,
         "doublePlays": 19,
@@ -1453,47 +1453,47 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 146
+        "totalChances": 149
       },
       "evaluation": {
-        "score": 87,
+        "score": 90,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "components": {
           "On-base": 100,
-          "Power": 75.26315789473685,
+          "Power": 84.73684210526316,
           "Contact": 100,
           "Discipline": 100,
           "Speed": 36.666666666666664
         },
         "summary": "Ryan Cooney profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .381",
-          "OBP .463",
-          "SLG .606"
+          "AVG .388",
+          "OBP .466",
+          "SLG .642"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".381"
+            "value": ".388"
           },
           {
             "label": "OBP",
-            "value": ".463"
+            "value": ".466"
           },
           {
             "label": "SLG",
-            "value": ".606"
+            "value": ".642"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "31"
+            "value": "34"
           },
           {
             "label": "SB",
@@ -1549,32 +1549,32 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "13",
         "profileUrl": "https://goducks.com/sports/baseball/roster/miles-gosztola/18219",
         "imageUrl": "https://goducks.com/images/2026/2/3/Gosztola__Miles.png",
-        "gamesPlayed": 10,
-        "gamesStarted": 3,
-        "appearances": 10,
+        "gamesPlayed": 11,
+        "gamesStarted": 4,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.62,
-        "whip": 1.22,
+        "earnedRunAverage": 4.85,
+        "whip": 1.28,
         "wins": 1,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 25.333333333333332,
-        "inningsPitchedDisplay": "25.1",
-        "hitsAllowed": 19,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 13,
-        "walksAllowed": 12,
-        "strikeouts": 28,
-        "doublesAllowed": 4,
+        "inningsPitched": 29.666666666666668,
+        "inningsPitchedDisplay": "29.2",
+        "hitsAllowed": 25,
+        "runsAllowed": 16,
+        "earnedRunsAllowed": 16,
+        "walksAllowed": 13,
+        "strikeouts": 34,
+        "doublesAllowed": 6,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 91,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 109,
         "wildPitches": 0,
-        "hitBatters": 3,
+        "hitBatters": 5,
         "balks": 1,
-        "opponentsBattingAverage": 0.209,
-        "walksHits": 31
+        "opponentsBattingAverage": 0.229,
+        "walksHits": 38
       },
       "fieldingStats": {
         "rosterBioId": "18219",
@@ -1598,7 +1598,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "totalChances": 5
       },
       "evaluation": {
-        "score": 15,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1606,40 +1606,40 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 54.066985645933016,
-          "Command": 26.66666666666666,
+          "Miss bats": 57.40551583248212,
+          "Command": 32.30769230769231,
           "Damage suppression": 0
         },
-        "summary": "Miles Gosztola looks like a LHP option who misses bats and keeps traffic under control.",
+        "summary": "Miles Gosztola looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.62",
-          "WHIP 1.22",
-          "K/9 9.9"
+          "ERA 4.85",
+          "WHIP 1.28",
+          "K/9 10.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.62"
+            "value": "4.85"
           },
           {
             "label": "WHIP",
-            "value": "1.22"
+            "value": "1.28"
           },
           {
             "label": "K/9",
-            "value": "9.9"
+            "value": "10.3"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "3.9"
           },
           {
             "label": "HR/9",
-            "value": "0.71"
+            "value": "0.91"
           },
           {
             "label": "IP",
-            "value": "25.3"
+            "value": "29.7"
           }
         ],
         "metaLine": "JR / L/L",
@@ -1690,33 +1690,33 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "17",
         "profileUrl": "https://goducks.com/sports/baseball/roster/drew-smith/17572",
         "imageUrl": "https://goducks.com/images/2026/2/3/Smith__Drew.png",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "battingAverage": 0.38,
-        "onBasePercentage": 0.469,
-        "sluggingPercentage": 0.737,
-        "ops": 1.206,
-        "atBats": 137,
-        "runs": 34,
-        "hits": 52,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "battingAverage": 0.373,
+        "onBasePercentage": 0.461,
+        "sluggingPercentage": 0.718,
+        "ops": 1.179,
+        "atBats": 142,
+        "runs": 35,
+        "hits": 53,
         "doubles": 6,
         "triples": 2,
         "homeRuns": 13,
         "runsBattedIn": 44,
-        "totalBases": 101,
+        "totalBases": 102,
         "walks": 20,
         "hitByPitch": 4,
-        "strikeouts": 33,
+        "strikeouts": 35,
         "intentionalWalks": 3,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 2,
         "stolenBases": 3,
         "stolenBasesAttempts": 6,
-        "putouts": 20,
-        "assists": 61,
+        "putouts": 21,
+        "assists": 63,
         "errors": 3,
-        "plateAppearances": 173,
+        "plateAppearances": 178,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -1728,22 +1728,22 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "17",
         "profileUrl": "https://goducks.com/sports/baseball/roster/drew-smith/17572",
         "imageUrl": "https://goducks.com/images/2026/2/3/Smith__Drew.png",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "putouts": 20,
-        "assists": 61,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "putouts": 21,
+        "assists": 63,
         "errors": 3,
-        "fieldingPercentage": 0.964,
+        "fieldingPercentage": 0.966,
         "doublePlays": 8,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 84
+        "totalChances": 87
       },
       "evaluation": {
-        "score": 83,
+        "score": 82,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
@@ -1751,28 +1751,28 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "components": {
           "On-base": 100,
           "Power": 100,
-          "Contact": 100,
-          "Discipline": 45.117845117845114,
+          "Contact": 95.625,
+          "Discipline": 41.26984126984126,
           "Speed": 10
         },
         "summary": "Drew Smith profiles as a INF/OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .380",
-          "OBP .469",
-          "SLG .737"
+          "AVG .373",
+          "OBP .461",
+          "SLG .718"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".380"
+            "value": ".373"
           },
           {
             "label": "OBP",
-            "value": ".469"
+            "value": ".461"
           },
           {
             "label": "SLG",
-            "value": ".737"
+            "value": ".718"
           },
           {
             "label": "HR",
@@ -1835,23 +1835,23 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "18",
         "profileUrl": "https://goducks.com/sports/baseball/roster/naulivou-lauaki-jr/17563",
         "imageUrl": "https://goducks.com/images/2026/2/3/Lauaki_Jr.__Naulivou.png",
-        "gamesPlayed": 18,
-        "gamesStarted": 8,
+        "gamesPlayed": 19,
+        "gamesStarted": 9,
         "battingAverage": 0.4,
-        "onBasePercentage": 0.426,
-        "sluggingPercentage": 0.822,
-        "ops": 1.248,
-        "atBats": 45,
-        "runs": 9,
-        "hits": 18,
+        "onBasePercentage": 0.423,
+        "sluggingPercentage": 0.84,
+        "ops": 1.263,
+        "atBats": 50,
+        "runs": 10,
+        "hits": 20,
         "doubles": 4,
         "triples": 0,
-        "homeRuns": 5,
-        "runsBattedIn": 16,
-        "totalBases": 37,
+        "homeRuns": 6,
+        "runsBattedIn": 17,
+        "totalBases": 42,
         "walks": 0,
         "hitByPitch": 2,
-        "strikeouts": 17,
+        "strikeouts": 19,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
@@ -1861,7 +1861,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "putouts": 10,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 49,
+        "plateAppearances": 54,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2622,7 +2622,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "26",
         "profileUrl": "https://goducks.com/sports/baseball/roster/gabe-miranda/18223",
         "imageUrl": "https://goducks.com/images/2026/2/3/Miranda__Gabe.png",
-        "gamesPlayed": 36,
+        "gamesPlayed": 37,
         "gamesStarted": 31,
         "battingAverage": 0.238,
         "onBasePercentage": 0.371,
@@ -2645,7 +2645,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 199,
+        "putouts": 202,
         "assists": 14,
         "errors": 2,
         "plateAppearances": 125,
@@ -2660,9 +2660,9 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "26",
         "profileUrl": "https://goducks.com/sports/baseball/roster/gabe-miranda/18223",
         "imageUrl": "https://goducks.com/images/2026/2/3/Miranda__Gabe.png",
-        "gamesPlayed": 32,
+        "gamesPlayed": 33,
         "gamesStarted": 30,
-        "putouts": 199,
+        "putouts": 202,
         "assists": 14,
         "errors": 2,
         "fieldingPercentage": 0.991,
@@ -2672,7 +2672,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 215
+        "totalChances": 218
       },
       "evaluation": {
         "score": 26,
@@ -2910,32 +2910,32 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "30",
         "profileUrl": "https://goducks.com/sports/baseball/roster/tanner-bradley/17545",
         "imageUrl": "https://goducks.com/images/2026/1/27/Bradley__Tanner.png",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 0,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 1.47,
-        "whip": 0.82,
+        "earnedRunAverage": 1.71,
+        "whip": 0.85,
         "wins": 3,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 30.666666666666668,
-        "inningsPitchedDisplay": "30.2",
-        "hitsAllowed": 15,
-        "runsAllowed": 7,
-        "earnedRunsAllowed": 5,
-        "walksAllowed": 10,
-        "strikeouts": 48,
-        "doublesAllowed": 2,
+        "inningsPitched": 31.666666666666668,
+        "inningsPitchedDisplay": "31.2",
+        "hitsAllowed": 16,
+        "runsAllowed": 8,
+        "earnedRunsAllowed": 6,
+        "walksAllowed": 11,
+        "strikeouts": 50,
+        "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 105,
+        "opponentsAtBats": 109,
         "wildPitches": 1,
         "hitBatters": 6,
         "balks": 0,
-        "opponentsBattingAverage": 0.143,
-        "walksHits": 25
+        "opponentsBattingAverage": 0.147,
+        "walksHits": 27
       },
       "fieldingStats": {
         "rosterBioId": "17545",
@@ -2967,40 +2967,40 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 91.699604743083,
-          "Command": 76,
+          "Miss bats": 92.82296650717701,
+          "Command": 70.9090909090909,
           "Damage suppression": 0
         },
-        "summary": "Tanner Bradley looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Tanner Bradley looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.47",
-          "WHIP 0.82",
-          "K/9 14.1"
+          "ERA 1.71",
+          "WHIP 0.85",
+          "K/9 14.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.47"
+            "value": "1.71"
           },
           {
             "label": "WHIP",
-            "value": "0.82"
+            "value": "0.85"
           },
           {
             "label": "K/9",
-            "value": "14.1"
+            "value": "14.2"
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "3.1"
           },
           {
             "label": "HR/9",
-            "value": "0.59"
+            "value": "0.57"
           },
           {
             "label": "IP",
-            "value": "30.7"
+            "value": "31.7"
           }
         ],
         "metaLine": "SO / R/R",
@@ -3281,7 +3281,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "34",
         "profileUrl": "https://goducks.com/sports/baseball/roster/owen-morgan/18225",
         "imageUrl": "https://goducks.com/images/2026/2/3/Morgan__Owen.png",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 0,
         "battingAverage": 0.077,
         "onBasePercentage": 0.25,
@@ -3836,32 +3836,32 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "39",
         "profileUrl": "https://goducks.com/sports/baseball/roster/leo-uelmen/17574",
         "imageUrl": "https://goducks.com/images/2026/2/3/Uelmen__Leo.png",
-        "gamesPlayed": 8,
+        "gamesPlayed": 9,
         "gamesStarted": 1,
-        "appearances": 8,
+        "appearances": 9,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.75,
-        "whip": 1.71,
-        "wins": 0,
+        "earnedRunAverage": 6.55,
+        "whip": 1.55,
+        "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 9.333333333333334,
-        "inningsPitchedDisplay": "9.1",
-        "hitsAllowed": 11,
-        "runsAllowed": 9,
-        "earnedRunsAllowed": 7,
+        "inningsPitched": 11,
+        "inningsPitchedDisplay": "11.0",
+        "hitsAllowed": 12,
+        "runsAllowed": 10,
+        "earnedRunsAllowed": 8,
         "walksAllowed": 5,
-        "strikeouts": 10,
+        "strikeouts": 11,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 36,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 42,
         "wildPitches": 4,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.306,
-        "walksHits": 16
+        "opponentsBattingAverage": 0.286,
+        "walksHits": 17
       },
       "fieldingStats": {
         "rosterBioId": "17574",
@@ -3870,10 +3870,10 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "39",
         "profileUrl": "https://goducks.com/sports/baseball/roster/leo-uelmen/17574",
         "imageUrl": "https://goducks.com/images/2026/2/3/Uelmen__Leo.png",
-        "gamesPlayed": 3,
+        "gamesPlayed": 4,
         "gamesStarted": 1,
-        "putouts": 2,
-        "assists": 1,
+        "putouts": 3,
+        "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -3882,7 +3882,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 3
+        "totalChances": 5
       },
       "evaluation": {
         "score": 13,
@@ -3893,40 +3893,40 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.298701298701296,
-          "Command": 20,
+          "Miss bats": 45.45454545454545,
+          "Command": 24.000000000000004,
           "Damage suppression": 0
         },
         "summary": "Leo Uelmen looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 1.71",
-          "K/9 9.6"
+          "ERA 6.55",
+          "WHIP 1.55",
+          "K/9 9.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "6.55"
           },
           {
             "label": "WHIP",
-            "value": "1.71"
+            "value": "1.55"
           },
           {
             "label": "K/9",
-            "value": "9.6"
+            "value": "9.0"
           },
           {
             "label": "BB/9",
-            "value": "4.8"
+            "value": "4.1"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "0.82"
           },
           {
             "label": "IP",
-            "value": "9.3"
+            "value": "11.0"
           }
         ],
         "metaLine": "R-SO / R/R",
@@ -4242,36 +4242,36 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "43",
         "profileUrl": "https://goducks.com/sports/baseball/roster/cooper-markham/18230",
         "imageUrl": "https://goducks.com/images/2026/2/3/Markham__Cooper.png",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 0,
-        "appearances": 4,
+        "appearances": 5,
         "gamesCompleted": 0,
         "earnedRunAverage": 0,
-        "whip": 1,
+        "whip": 0.8,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 3,
-        "inningsPitchedDisplay": "3.0",
+        "inningsPitched": 5,
+        "inningsPitchedDisplay": "5.0",
         "hitsAllowed": 0,
         "runsAllowed": 0,
         "earnedRunsAllowed": 0,
-        "walksAllowed": 3,
-        "strikeouts": 3,
+        "walksAllowed": 4,
+        "strikeouts": 5,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 9,
+        "opponentsAtBats": 15,
         "wildPitches": 1,
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0,
-        "walksHits": 3
+        "walksHits": 4
       },
       "fieldingStats": null,
       "evaluation": {
-        "score": 9,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4280,13 +4280,13 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 45.45454545454545,
-          "Command": 0,
+          "Command": 5,
           "Damage suppression": 0
         },
         "summary": "Cooper Markham looks like a RHP/INF option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
           "ERA 0.00",
-          "WHIP 1.00",
+          "WHIP 0.80",
           "K/9 9.0"
         ],
         "statCards": [
@@ -4296,7 +4296,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.00"
+            "value": "0.80"
           },
           {
             "label": "K/9",
@@ -4304,7 +4304,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
           },
           {
             "label": "BB/9",
-            "value": "9.0"
+            "value": "7.2"
           },
           {
             "label": "HR/9",
@@ -4312,7 +4312,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
           },
           {
             "label": "IP",
-            "value": "3.0"
+            "value": "5.0"
           }
         ],
         "metaLine": "FR / R/R",
@@ -4363,33 +4363,33 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "45",
         "profileUrl": "https://goducks.com/sports/baseball/roster/dominic-hellman/17558",
         "imageUrl": "https://goducks.com/images/2026/2/3/Hellman__Dominic.png",
-        "gamesPlayed": 32,
-        "gamesStarted": 31,
-        "battingAverage": 0.265,
-        "onBasePercentage": 0.377,
-        "sluggingPercentage": 0.53,
-        "ops": 0.907,
-        "atBats": 117,
-        "runs": 19,
-        "hits": 31,
+        "gamesPlayed": 33,
+        "gamesStarted": 32,
+        "battingAverage": 0.262,
+        "onBasePercentage": 0.371,
+        "sluggingPercentage": 0.516,
+        "ops": 0.887,
+        "atBats": 122,
+        "runs": 20,
+        "hits": 32,
         "doubles": 7,
         "triples": 0,
         "homeRuns": 8,
         "runsBattedIn": 28,
-        "totalBases": 62,
+        "totalBases": 63,
         "walks": 18,
         "hitByPitch": 3,
-        "strikeouts": 34,
+        "strikeouts": 36,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 8,
+        "putouts": 12,
         "assists": 1,
         "errors": 0,
-        "plateAppearances": 140,
+        "plateAppearances": 145,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -4401,9 +4401,9 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "45",
         "profileUrl": "https://goducks.com/sports/baseball/roster/dominic-hellman/17558",
         "imageUrl": "https://goducks.com/images/2026/2/3/Hellman__Dominic.png",
-        "gamesPlayed": 3,
-        "gamesStarted": 2,
-        "putouts": 8,
+        "gamesPlayed": 4,
+        "gamesStarted": 3,
+        "putouts": 12,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -4413,39 +4413,39 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 9
+        "totalChances": 13
       },
       "evaluation": {
-        "score": 42,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 53.88888888888887,
-          "Power": 55.26315789473686,
-          "Contact": 28.125000000000007,
-          "Discipline": 36.601307189542474,
+          "On-base": 50.55555555555554,
+          "Power": 51.578947368421055,
+          "Contact": 26.250000000000007,
+          "Discipline": 33.33333333333333,
           "Speed": 0
         },
         "summary": "Dominic Hellman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .265",
-          "OBP .377",
-          "SLG .530"
+          "AVG .262",
+          "OBP .371",
+          "SLG .516"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".265"
+            "value": ".262"
           },
           {
             "label": "OBP",
-            "value": ".377"
+            "value": ".371"
           },
           {
             "label": "SLG",
-            "value": ".530"
+            "value": ".516"
           },
           {
             "label": "HR",
@@ -5658,22 +5658,22 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         },
         "summary": "Burke-Lee Mabeus gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .296",
-          "OBP .355",
-          "SLG .500"
+          "AVG .294",
+          "OBP .357",
+          "SLG .490"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".296"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".355"
+            "value": ".357"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".490"
           },
           {
             "label": "HR",
@@ -5689,10 +5689,10 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
           }
         ],
         "components": {
-          "On-base": 41.66666666666664,
-          "Power": 47.36842105263158,
-          "Contact": 47.499999999999986,
-          "Discipline": 9.523809523809518,
+          "On-base": 42.77777777777775,
+          "Power": 44.73684210526316,
+          "Contact": 46.249999999999986,
+          "Discipline": 13.131313131313128,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SO / S/R",
@@ -5720,29 +5720,29 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "position": "UTL",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 50,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Brooks profiles as a UTL piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .261",
-          "OBP .404",
-          "SLG .489"
+          "AVG .260",
+          "OBP .403",
+          "SLG .479"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".261"
+            "value": ".260"
           },
           {
             "label": "OBP",
-            "value": ".404"
+            "value": ".403"
           },
           {
             "label": "SLG",
-            "value": ".489"
+            "value": ".479"
           },
           {
             "label": "HR",
@@ -5758,10 +5758,10 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
           }
         ],
         "components": {
-          "On-base": 68.88888888888889,
-          "Power": 44.473684210526315,
-          "Contact": 25.625000000000004,
-          "Discipline": 53.333333333333336,
+          "On-base": 68.33333333333333,
+          "Power": 41.84210526315789,
+          "Contact": 25.000000000000007,
+          "Discipline": 51.85185185185184,
           "Speed": 40
         },
         "metaLine": "JR / L/R",
@@ -5789,29 +5789,29 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "position": "INF/OF",
         "classYear": "SO",
         "handedness": "S/R",
-        "score": 65,
+        "score": 67,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Jax Gimenez profiles as a INF/OF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .464",
-          "SLG .451"
+          "AVG .292",
+          "OBP .470",
+          "SLG .474"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".292"
           },
           {
             "label": "OBP",
-            "value": ".464"
+            "value": ".470"
           },
           {
             "label": "SLG",
-            "value": ".451"
+            "value": ".474"
           },
           {
             "label": "HR",
@@ -5819,7 +5819,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
           },
           {
             "label": "RBI",
-            "value": "19"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -5828,8 +5828,8 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 34.47368421052632,
-          "Contact": 41.24999999999998,
+          "Power": 40.526315789473685,
+          "Contact": 44.999999999999986,
           "Discipline": 100,
           "Speed": 23.333333333333332
         },
@@ -5858,37 +5858,37 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 39,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Maddox Molony gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .252",
-          "OBP .370",
-          "SLG .467"
+          "AVG .259",
+          "OBP .376",
+          "SLG .489"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".252"
+            "value": ".259"
           },
           {
             "label": "OBP",
-            "value": ".370"
+            "value": ".376"
           },
           {
             "label": "SLG",
-            "value": ".467"
+            "value": ".489"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "26"
           },
           {
             "label": "SB",
@@ -5896,9 +5896,9 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
           }
         ],
         "components": {
-          "On-base": 49.999999999999986,
-          "Power": 38.6842105263158,
-          "Contact": 20,
+          "On-base": 53.33333333333332,
+          "Power": 44.473684210526315,
+          "Contact": 24.375000000000004,
           "Discipline": 59.903381642512066,
           "Speed": 6.666666666666667
         },
@@ -5996,29 +5996,29 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "position": "C",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 66,
+        "score": 67,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Brayden Jaksa profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .342",
-          "OBP .422",
-          "SLG .633"
+          "AVG .345",
+          "OBP .427",
+          "SLG .619"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".342"
+            "value": ".345"
           },
           {
             "label": "OBP",
-            "value": ".422"
+            "value": ".427"
           },
           {
             "label": "SLG",
-            "value": ".633"
+            "value": ".619"
           },
           {
             "label": "HR",
@@ -6026,7 +6026,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "18"
           },
           {
             "label": "SB",
@@ -6034,10 +6034,10 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
           }
         ],
         "components": {
-          "On-base": 78.88888888888886,
-          "Power": 82.36842105263159,
-          "Contact": 76.25000000000001,
-          "Discipline": 27.160493827160487,
+          "On-base": 81.66666666666666,
+          "Power": 78.6842105263158,
+          "Contact": 78.12499999999997,
+          "Discipline": 33.33333333333333,
           "Speed": 13.333333333333334
         },
         "metaLine": "FR / R/R",
@@ -6065,37 +6065,37 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 87,
+        "score": 90,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Ryan Cooney profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .381",
-          "OBP .463",
-          "SLG .606"
+          "AVG .388",
+          "OBP .466",
+          "SLG .642"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".381"
+            "value": ".388"
           },
           {
             "label": "OBP",
-            "value": ".463"
+            "value": ".466"
           },
           {
             "label": "SLG",
-            "value": ".606"
+            "value": ".642"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "31"
+            "value": "34"
           },
           {
             "label": "SB",
@@ -6104,7 +6104,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 75.26315789473685,
+          "Power": 84.73684210526316,
           "Contact": 100,
           "Discipline": 100,
           "Speed": 36.666666666666664
@@ -6134,48 +6134,48 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "position": "LHP",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 15,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Miles Gosztola looks like a LHP option who misses bats and keeps traffic under control.",
+        "summary": "Miles Gosztola looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.62",
-          "WHIP 1.22",
-          "K/9 9.9"
+          "ERA 4.85",
+          "WHIP 1.28",
+          "K/9 10.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.62"
+            "value": "4.85"
           },
           {
             "label": "WHIP",
-            "value": "1.22"
+            "value": "1.28"
           },
           {
             "label": "K/9",
-            "value": "9.9"
+            "value": "10.3"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "3.9"
           },
           {
             "label": "HR/9",
-            "value": "0.71"
+            "value": "0.91"
           },
           {
             "label": "IP",
-            "value": "25.3"
+            "value": "29.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 54.066985645933016,
-          "Command": 26.66666666666666,
+          "Miss bats": 57.40551583248212,
+          "Command": 32.30769230769231,
           "Damage suppression": 0
         },
         "metaLine": "JR / L/L",
@@ -6203,29 +6203,29 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "position": "INF/OF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 83,
+        "score": 82,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Drew Smith profiles as a INF/OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .380",
-          "OBP .469",
-          "SLG .737"
+          "AVG .373",
+          "OBP .461",
+          "SLG .718"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".380"
+            "value": ".373"
           },
           {
             "label": "OBP",
-            "value": ".469"
+            "value": ".461"
           },
           {
             "label": "SLG",
-            "value": ".737"
+            "value": ".718"
           },
           {
             "label": "HR",
@@ -6243,8 +6243,8 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "components": {
           "On-base": 100,
           "Power": 100,
-          "Contact": 100,
-          "Discipline": 45.117845117845114,
+          "Contact": 95.625,
+          "Discipline": 41.26984126984126,
           "Speed": 10
         },
         "metaLine": "SR / R/R",
@@ -6828,43 +6828,43 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Tanner Bradley looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Tanner Bradley looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.47",
-          "WHIP 0.82",
-          "K/9 14.1"
+          "ERA 1.71",
+          "WHIP 0.85",
+          "K/9 14.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.47"
+            "value": "1.71"
           },
           {
             "label": "WHIP",
-            "value": "0.82"
+            "value": "0.85"
           },
           {
             "label": "K/9",
-            "value": "14.1"
+            "value": "14.2"
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "3.1"
           },
           {
             "label": "HR/9",
-            "value": "0.59"
+            "value": "0.57"
           },
           {
             "label": "IP",
-            "value": "30.7"
+            "value": "31.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 91.699604743083,
-          "Command": 76,
+          "Miss bats": 92.82296650717701,
+          "Command": 70.9090909090909,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -7312,41 +7312,41 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         },
         "summary": "Leo Uelmen looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 1.71",
-          "K/9 9.6"
+          "ERA 6.55",
+          "WHIP 1.55",
+          "K/9 9.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "6.55"
           },
           {
             "label": "WHIP",
-            "value": "1.71"
+            "value": "1.55"
           },
           {
             "label": "K/9",
-            "value": "9.6"
+            "value": "9.0"
           },
           {
             "label": "BB/9",
-            "value": "4.8"
+            "value": "4.1"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "0.82"
           },
           {
             "label": "IP",
-            "value": "9.3"
+            "value": "11.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.298701298701296,
-          "Command": 20,
+          "Miss bats": 45.45454545454545,
+          "Command": 24.000000000000004,
           "Damage suppression": 0
         },
         "metaLine": "R-SO / R/R",
@@ -7512,7 +7512,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "position": "RHP/INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 9,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -7520,7 +7520,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "summary": "Cooper Markham looks like a RHP/INF option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
           "ERA 0.00",
-          "WHIP 1.00",
+          "WHIP 0.80",
           "K/9 9.0"
         ],
         "statCards": [
@@ -7530,7 +7530,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.00"
+            "value": "0.80"
           },
           {
             "label": "K/9",
@@ -7538,7 +7538,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
           },
           {
             "label": "BB/9",
-            "value": "9.0"
+            "value": "7.2"
           },
           {
             "label": "HR/9",
@@ -7546,14 +7546,14 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
           },
           {
             "label": "IP",
-            "value": "3.0"
+            "value": "5.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 45.45454545454545,
-          "Command": 0,
+          "Command": 5,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -7581,29 +7581,29 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 42,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dominic Hellman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .265",
-          "OBP .377",
-          "SLG .530"
+          "AVG .262",
+          "OBP .371",
+          "SLG .516"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".265"
+            "value": ".262"
           },
           {
             "label": "OBP",
-            "value": ".377"
+            "value": ".371"
           },
           {
             "label": "SLG",
-            "value": ".530"
+            "value": ".516"
           },
           {
             "label": "HR",
@@ -7619,10 +7619,10 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
           }
         ],
         "components": {
-          "On-base": 53.88888888888887,
-          "Power": 55.26315789473686,
-          "Contact": 28.125000000000007,
-          "Discipline": 36.601307189542474,
+          "On-base": 50.55555555555554,
+          "Power": 51.578947368421055,
+          "Contact": 26.250000000000007,
+          "Discipline": 33.33333333333333,
           "Speed": 0
         },
         "metaLine": "SR / R/R",

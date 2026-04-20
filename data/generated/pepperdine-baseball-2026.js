@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.pepperdine2026 = {
-  "generatedAt": "2026-04-19T11:00:29.156Z",
+  "generatedAt": "2026-04-20T11:43:20.197Z",
   "season": 2026,
   "school": {
     "slug": "pepperdine",
@@ -39,24 +39,24 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
     }
   },
   "teamSummary": {
-    "record": "13-25, 8-6",
-    "battingAverage": ".256",
-    "earnedRunAverage": "6.02",
+    "record": "13-26, 8-7",
+    "battingAverage": ".258",
+    "earnedRunAverage": "6.18",
     "wins": "13",
-    "losses": "25",
+    "losses": "26",
     "hitting": {
-      "atBats": "1298",
-      "runsScored": "189",
-      "hits": "332",
-      "runsBattedIn": "169",
-      "doubles": "61",
+      "atBats": "1335",
+      "runsScored": "195",
+      "hits": "344",
+      "runsBattedIn": "175",
+      "doubles": "64",
       "triples": "4",
-      "homeRuns": "32",
-      "walks": "130",
+      "homeRuns": "34",
+      "walks": "133",
       "intentionalWalks": "2",
-      "strikeouts": "300",
-      "strikeoutsLooking": "42",
-      "hitByPitch": "43",
+      "strikeouts": "304",
+      "strikeoutsLooking": "43",
+      "hitByPitch": "44",
       "stolenBases": "15",
       "caughtStealing": "3",
       "sacrificeHits": "8",
@@ -64,59 +64,59 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "254",
-      "flyOuts": "388",
-      "groundedIntoDoublePlay": "28",
-      "pickedOff": "3",
-      "doublePlaysHitInto": "30",
+      "groundOuts": "263",
+      "flyOuts": "399",
+      "groundedIntoDoublePlay": "29",
+      "pickedOff": "5",
+      "doublePlaysHitInto": "31",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "977",
-      "assists": "398",
-      "errors": "49",
+      "putouts": "1001",
+      "assists": "408",
+      "errors": "51",
       "passedBalls": "6",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "60",
+      "stolenBasesAgainst": "64",
       "caughtStealingBy": "10",
-      "involvedInDoublePlays": "33",
+      "involvedInDoublePlays": "35",
       "involvedInTriplePlays": "0",
-      "totalChances": "1424",
-      "fieldingPercentage": ".966"
+      "totalChances": "1460",
+      "fieldingPercentage": ".965"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "13",
       "saves": "30",
-      "losses": "25",
+      "losses": "26",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "1",
       "creditForCombinedShutout": "1",
-      "inningsPitched": "325.2",
-      "hitsAllowed": "380",
-      "runsAllowed": "257",
-      "earnedRunsAllowed": "218",
-      "walksAllowed": "144",
-      "strikeouts": "250",
-      "battersFaced": "1533",
-      "opponentAtBats": "1291",
-      "doublesAllowed": "93",
+      "inningsPitched": "333.2",
+      "hitsAllowed": "392",
+      "runsAllowed": "270",
+      "earnedRunsAllowed": "229",
+      "walksAllowed": "151",
+      "strikeouts": "257",
+      "battersFaced": "1577",
+      "opponentAtBats": "1324",
+      "doublesAllowed": "98",
       "triplesAllowed": "7",
-      "homerunsAllowed": "30",
+      "homerunsAllowed": "31",
       "wildPitches": "40",
-      "balks": "1",
-      "hitBatters": "57",
-      "strikeoutsLooking": "41",
+      "balks": "2",
+      "hitBatters": "58",
+      "strikeoutsLooking": "42",
       "intentionalWalks": "2",
       "inheritedRunners": "66",
       "inheritedRunnersThatScored": "33",
-      "sacrificeHitsAllowed": "19",
+      "sacrificeHitsAllowed": "22",
       "sacrificeFliesAllowed": "18",
       "catchersInterferenceAllowed": "0",
-      "pitches": "5647",
-      "flyouts": "343",
-      "groundouts": "313",
+      "pitches": "5813",
+      "flyouts": "349",
+      "groundouts": "322",
       "teamUnearnedRuns": "1",
       "saveRecord": "11",
       "pickoff": "2"
@@ -339,21 +339,21 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "2",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/kai-laxa/5781",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/laxa.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 33,
-        "battingAverage": 0.282,
-        "onBasePercentage": 0.355,
-        "sluggingPercentage": 0.395,
-        "ops": 0.75,
-        "atBats": 124,
-        "runs": 25,
-        "hits": 35,
-        "doubles": 8,
+        "gamesPlayed": 36,
+        "gamesStarted": 34,
+        "battingAverage": 0.286,
+        "onBasePercentage": 0.362,
+        "sluggingPercentage": 0.405,
+        "ops": 0.767,
+        "atBats": 126,
+        "runs": 26,
+        "hits": 36,
+        "doubles": 9,
         "triples": 0,
         "homeRuns": 2,
-        "runsBattedIn": 11,
-        "totalBases": 49,
-        "walks": 11,
+        "runsBattedIn": 12,
+        "totalBases": 51,
+        "walks": 12,
         "hitByPitch": 3,
         "strikeouts": 15,
         "intentionalWalks": 0,
@@ -362,10 +362,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 67,
+        "putouts": 70,
         "assists": 81,
         "errors": 0,
-        "plateAppearances": 139,
+        "plateAppearances": 142,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -377,9 +377,9 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "2",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/kai-laxa/5781",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/laxa.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 32,
-        "putouts": 67,
+        "gamesPlayed": 35,
+        "gamesStarted": 33,
+        "putouts": 70,
         "assists": 81,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -389,39 +389,39 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 148
+        "totalChances": 151
       },
       "evaluation": {
-        "score": 34,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 41.66666666666664,
-          "Power": 19.736842105263165,
-          "Contact": 38.74999999999998,
-          "Discipline": 59.25925925925923,
+          "On-base": 45.555555555555536,
+          "Power": 22.368421052631586,
+          "Contact": 41.24999999999998,
+          "Discipline": 66.66666666666666,
           "Speed": 3.3333333333333335
         },
         "summary": "Kai Laxa gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .282",
-          "OBP .355",
-          "SLG .395"
+          "AVG .286",
+          "OBP .362",
+          "SLG .405"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".282"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".355"
+            "value": ".362"
           },
           {
             "label": "SLG",
-            "value": ".395"
+            "value": ".405"
           },
           {
             "label": "HR",
@@ -429,7 +429,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           },
           {
             "label": "RBI",
-            "value": "11"
+            "value": "12"
           },
           {
             "label": "SB",
@@ -484,13 +484,13 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "3",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/aj-bianchina/5522",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/bianchina.jpg",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 7,
-        "battingAverage": 0.217,
-        "onBasePercentage": 0.28,
-        "sluggingPercentage": 0.217,
-        "ops": 0.497,
-        "atBats": 23,
+        "battingAverage": 0.208,
+        "onBasePercentage": 0.269,
+        "sluggingPercentage": 0.208,
+        "ops": 0.477,
+        "atBats": 24,
         "runs": 3,
         "hits": 5,
         "doubles": 0,
@@ -510,7 +510,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "putouts": 15,
         "assists": 19,
         "errors": 2,
-        "plateAppearances": 28,
+        "plateAppearances": 29,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -551,22 +551,22 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         },
         "summary": "AJ Bianchina gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .217",
-          "OBP .280",
-          "SLG .217"
+          "AVG .208",
+          "OBP .269",
+          "SLG .208"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".217"
+            "value": ".208"
           },
           {
             "label": "OBP",
-            "value": ".280"
+            "value": ".269"
           },
           {
             "label": "SLG",
-            "value": ".217"
+            "value": ".208"
           },
           {
             "label": "HR",
@@ -774,33 +774,33 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "5",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/trey-dunn/5774",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/dunn.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 31,
-        "battingAverage": 0.265,
-        "onBasePercentage": 0.333,
-        "sluggingPercentage": 0.47,
-        "ops": 0.803,
-        "atBats": 117,
-        "runs": 16,
-        "hits": 31,
-        "doubles": 6,
+        "gamesPlayed": 35,
+        "gamesStarted": 32,
+        "battingAverage": 0.279,
+        "onBasePercentage": 0.343,
+        "sluggingPercentage": 0.484,
+        "ops": 0.827,
+        "atBats": 122,
+        "runs": 18,
+        "hits": 34,
+        "doubles": 7,
         "triples": 0,
         "homeRuns": 6,
         "runsBattedIn": 18,
-        "totalBases": 55,
+        "totalBases": 59,
         "walks": 10,
         "hitByPitch": 2,
-        "strikeouts": 42,
+        "strikeouts": 43,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
+        "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 92,
+        "putouts": 94,
         "assists": 6,
         "errors": 0,
-        "plateAppearances": 131,
+        "plateAppearances": 136,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -812,9 +812,9 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "5",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/trey-dunn/5774",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/dunn.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 30,
-        "putouts": 92,
+        "gamesPlayed": 34,
+        "gamesStarted": 31,
+        "putouts": 94,
         "assists": 6,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -824,39 +824,39 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 98
+        "totalChances": 100
       },
       "evaluation": {
-        "score": 26,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 29.44444444444444,
-          "Power": 39.47368421052631,
-          "Contact": 28.125000000000007,
-          "Discipline": 4.23280423280423,
+          "On-base": 35,
+          "Power": 43.15789473684211,
+          "Contact": 36.875000000000014,
+          "Discipline": 3.6175710594315222,
           "Speed": 6.666666666666667
         },
         "summary": "Trey Dunn gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .265",
-          "OBP .333",
-          "SLG .470"
+          "AVG .279",
+          "OBP .343",
+          "SLG .484"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".265"
+            "value": ".279"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".343"
           },
           {
             "label": "SLG",
-            "value": ".470"
+            "value": ".484"
           },
           {
             "label": "HR",
@@ -919,20 +919,20 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "6",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/finley-buckner/5524",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/buckner.jpg",
-        "gamesPlayed": 26,
+        "gamesPlayed": 27,
         "gamesStarted": 20,
-        "battingAverage": 0.197,
-        "onBasePercentage": 0.345,
-        "sluggingPercentage": 0.239,
-        "ops": 0.584,
-        "atBats": 71,
-        "runs": 3,
-        "hits": 14,
+        "battingAverage": 0.219,
+        "onBasePercentage": 0.36,
+        "sluggingPercentage": 0.342,
+        "ops": 0.702,
+        "atBats": 73,
+        "runs": 5,
+        "hits": 16,
         "doubles": 0,
         "triples": 0,
-        "homeRuns": 1,
-        "runsBattedIn": 6,
-        "totalBases": 17,
+        "homeRuns": 3,
+        "runsBattedIn": 11,
+        "totalBases": 25,
         "walks": 12,
         "hitByPitch": 4,
         "strikeouts": 10,
@@ -942,10 +942,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 117,
-        "assists": 21,
+        "putouts": 118,
+        "assists": 23,
         "errors": 2,
-        "plateAppearances": 87,
+        "plateAppearances": 89,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -957,10 +957,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "6",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/finley-buckner/5524",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/buckner.jpg",
-        "gamesPlayed": 21,
+        "gamesPlayed": 22,
         "gamesStarted": 19,
-        "putouts": 117,
-        "assists": 21,
+        "putouts": 118,
+        "assists": 23,
         "errors": 2,
         "fieldingPercentage": 0.986,
         "doublePlays": 12,
@@ -969,47 +969,47 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 140
+        "totalChances": 143
       },
       "evaluation": {
-        "score": 26,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 36.111111111111086,
-          "Power": 0,
+          "On-base": 44.44444444444443,
+          "Power": 5.789473684210533,
           "Contact": 0,
           "Discipline": 100,
           "Speed": 0
         },
         "summary": "Finley Buckner profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .197",
-          "OBP .345",
-          "SLG .239"
+          "AVG .219",
+          "OBP .360",
+          "SLG .342"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".197"
+            "value": ".219"
           },
           {
             "label": "OBP",
-            "value": ".345"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".239"
+            "value": ".342"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "3"
           },
           {
             "label": "RBI",
-            "value": "6"
+            "value": "11"
           },
           {
             "label": "SB",
@@ -1064,33 +1064,33 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "7",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/julian-nunez/5533",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/nunez.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
         "battingAverage": 0.261,
-        "onBasePercentage": 0.36,
-        "sluggingPercentage": 0.333,
-        "ops": 0.693,
-        "atBats": 138,
-        "runs": 23,
-        "hits": 36,
+        "onBasePercentage": 0.357,
+        "sluggingPercentage": 0.331,
+        "ops": 0.688,
+        "atBats": 142,
+        "runs": 24,
+        "hits": 37,
         "doubles": 10,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 14,
-        "totalBases": 46,
+        "totalBases": 47,
         "walks": 12,
         "hitByPitch": 11,
-        "strikeouts": 17,
+        "strikeouts": 18,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 3,
         "sacrificeHits": 2,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 44,
-        "assists": 104,
+        "putouts": 46,
+        "assists": 107,
         "errors": 10,
-        "plateAppearances": 167,
+        "plateAppearances": 171,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1102,38 +1102,38 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "7",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/julian-nunez/5533",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/nunez.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "putouts": 44,
-        "assists": 104,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "putouts": 46,
+        "assists": 107,
         "errors": 10,
-        "fieldingPercentage": 0.937,
-        "doublePlays": 22,
+        "fieldingPercentage": 0.939,
+        "doublePlays": 23,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 158
+        "totalChances": 163
       },
       "evaluation": {
-        "score": 28,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 44.44444444444443,
-          "Power": 3.421052631578951,
+          "On-base": 42.77777777777775,
+          "Power": 2.8947368421052664,
           "Contact": 25.625000000000004,
-          "Discipline": 56.20915032679738,
+          "Discipline": 51.85185185185184,
           "Speed": 3.3333333333333335
         },
         "summary": "Julian Nunez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .261",
-          "OBP .360",
-          "SLG .333"
+          "OBP .357",
+          "SLG .331"
         ],
         "statCards": [
           {
@@ -1142,11 +1142,11 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           },
           {
             "label": "OBP",
-            "value": ".360"
+            "value": ".357"
           },
           {
             "label": "SLG",
-            "value": ".333"
+            "value": ".331"
           },
           {
             "label": "HR",
@@ -1209,20 +1209,20 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "8",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/daniel-patterson/5785",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/patterson.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "battingAverage": 0.297,
-        "onBasePercentage": 0.375,
-        "sluggingPercentage": 0.568,
-        "ops": 0.943,
-        "atBats": 148,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "battingAverage": 0.301,
+        "onBasePercentage": 0.376,
+        "sluggingPercentage": 0.562,
+        "ops": 0.938,
+        "atBats": 153,
         "runs": 35,
-        "hits": 44,
+        "hits": 46,
         "doubles": 11,
         "triples": 1,
         "homeRuns": 9,
         "runsBattedIn": 23,
-        "totalBases": 84,
+        "totalBases": 86,
         "walks": 16,
         "hitByPitch": 3,
         "strikeouts": 19,
@@ -1232,12 +1232,12 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
-        "putouts": 33,
-        "assists": 55,
+        "putouts": 34,
+        "assists": 56,
         "errors": 9,
-        "plateAppearances": 172,
+        "plateAppearances": 177,
         "caughtStealing": 0,
-        "pickedOff": 0
+        "pickedOff": 1
       },
       "pitchingStats": null,
       "fieldingStats": {
@@ -1247,19 +1247,19 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "8",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/daniel-patterson/5785",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/patterson.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "putouts": 33,
-        "assists": 55,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "putouts": 34,
+        "assists": 56,
         "errors": 9,
-        "fieldingPercentage": 0.907,
-        "doublePlays": 5,
+        "fieldingPercentage": 0.909,
+        "doublePlays": 6,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 97
+        "totalChances": 99
       },
       "evaluation": {
         "score": 54,
@@ -1268,30 +1268,30 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 52.77777777777777,
-          "Power": 65.26315789473684,
-          "Contact": 48.12499999999999,
+          "On-base": 53.33333333333332,
+          "Power": 63.68421052631581,
+          "Contact": 50.624999999999986,
           "Discipline": 71.34502923976606,
           "Speed": 13.333333333333334
         },
         "summary": "Daniel Patterson profiles as a INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .297",
-          "OBP .375",
-          "SLG .568"
+          "AVG .301",
+          "OBP .376",
+          "SLG .562"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".297"
+            "value": ".301"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".376"
           },
           {
             "label": "SLG",
-            "value": ".568"
+            "value": ".562"
           },
           {
             "label": "HR",
@@ -1354,13 +1354,13 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "9",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/max-aude/5519",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/aude.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 19,
-        "battingAverage": 0.258,
-        "onBasePercentage": 0.329,
-        "sluggingPercentage": 0.424,
-        "ops": 0.753,
-        "atBats": 66,
+        "gamesPlayed": 26,
+        "gamesStarted": 20,
+        "battingAverage": 0.25,
+        "onBasePercentage": 0.32,
+        "sluggingPercentage": 0.412,
+        "ops": 0.732,
+        "atBats": 68,
         "runs": 7,
         "hits": 17,
         "doubles": 5,
@@ -1377,10 +1377,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 111,
-        "assists": 18,
-        "errors": 5,
-        "plateAppearances": 73,
+        "putouts": 115,
+        "assists": 19,
+        "errors": 6,
+        "plateAppearances": 75,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1392,51 +1392,51 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "9",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/max-aude/5519",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/aude.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 19,
-        "putouts": 111,
-        "assists": 18,
-        "errors": 5,
-        "fieldingPercentage": 0.963,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 36,
+        "gamesPlayed": 23,
+        "gamesStarted": 20,
+        "putouts": 115,
+        "assists": 19,
+        "errors": 6,
+        "fieldingPercentage": 0.957,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 39,
         "caughtStealingBy": 7,
-        "stolenBasesPercentage": 0.837,
+        "stolenBasesPercentage": 0.848,
         "passedBalls": 4,
         "catchersInterference": 0,
-        "totalChances": 134
+        "totalChances": 140
       },
       "evaluation": {
-        "score": 21,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 27.222222222222214,
-          "Power": 27.368421052631575,
-          "Contact": 23.750000000000004,
+          "On-base": 22.222222222222214,
+          "Power": 24.21052631578947,
+          "Contact": 18.75,
           "Discipline": 7.407407407407404,
           "Speed": 0
         },
         "summary": "Max Aude gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .258",
-          "OBP .329",
-          "SLG .424"
+          "AVG .250",
+          "OBP .320",
+          "SLG .412"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".258"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".329"
+            "value": ".320"
           },
           {
             "label": "SLG",
-            "value": ".424"
+            "value": ".412"
           },
           {
             "label": "HR",
@@ -1587,13 +1587,13 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "11",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/james-dell-amico/5773",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/dellamico.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 32,
-        "battingAverage": 0.28,
-        "onBasePercentage": 0.329,
-        "sluggingPercentage": 0.364,
-        "ops": 0.693,
-        "atBats": 132,
+        "gamesPlayed": 36,
+        "gamesStarted": 33,
+        "battingAverage": 0.272,
+        "onBasePercentage": 0.32,
+        "sluggingPercentage": 0.353,
+        "ops": 0.673,
+        "atBats": 136,
         "runs": 24,
         "hits": 37,
         "doubles": 3,
@@ -1610,10 +1610,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 184,
-        "assists": 15,
+        "putouts": 190,
+        "assists": 16,
         "errors": 5,
-        "plateAppearances": 144,
+        "plateAppearances": 148,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1625,51 +1625,51 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "11",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/james-dell-amico/5773",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/dellamico.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 24,
-        "putouts": 184,
-        "assists": 15,
+        "gamesPlayed": 26,
+        "gamesStarted": 25,
+        "putouts": 190,
+        "assists": 16,
         "errors": 5,
-        "fieldingPercentage": 0.975,
-        "doublePlays": 22,
+        "fieldingPercentage": 0.976,
+        "doublePlays": 24,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 204
+        "totalChances": 211
       },
       "evaluation": {
-        "score": 19,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 27.222222222222214,
-          "Power": 11.57894736842105,
-          "Contact": 37.500000000000014,
+          "On-base": 22.222222222222214,
+          "Power": 8.684210526315784,
+          "Contact": 32.500000000000014,
           "Discipline": 1.5873015873015843,
           "Speed": 3.3333333333333335
         },
         "summary": "James Dell'Amico gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .280",
-          "OBP .329",
-          "SLG .364"
+          "AVG .272",
+          "OBP .320",
+          "SLG .353"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".280"
+            "value": ".272"
           },
           {
             "label": "OBP",
-            "value": ".329"
+            "value": ".320"
           },
           {
             "label": "SLG",
-            "value": ".364"
+            "value": ".353"
           },
           {
             "label": "HR",
@@ -1732,13 +1732,13 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "12",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/aidan-camberg/5771",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/camberg.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 9,
-        "battingAverage": 0.136,
-        "onBasePercentage": 0.345,
-        "sluggingPercentage": 0.227,
+        "gamesPlayed": 14,
+        "gamesStarted": 10,
+        "battingAverage": 0.125,
+        "onBasePercentage": 0.364,
+        "sluggingPercentage": 0.208,
         "ops": 0.572,
-        "atBats": 22,
+        "atBats": 24,
         "runs": 3,
         "hits": 3,
         "doubles": 2,
@@ -1746,19 +1746,19 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "homeRuns": 0,
         "runsBattedIn": 1,
         "totalBases": 5,
-        "walks": 7,
+        "walks": 9,
         "hitByPitch": 0,
-        "strikeouts": 9,
+        "strikeouts": 10,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 38,
+        "putouts": 42,
         "assists": 3,
         "errors": 4,
-        "plateAppearances": 31,
+        "plateAppearances": 35,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1770,51 +1770,51 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "12",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/aidan-camberg/5771",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/camberg.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 8,
-        "putouts": 38,
+        "gamesPlayed": 10,
+        "gamesStarted": 9,
+        "putouts": 42,
         "assists": 3,
         "errors": 4,
-        "fieldingPercentage": 0.911,
+        "fieldingPercentage": 0.918,
         "doublePlays": 0,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 1,
         "catchersInterference": 0,
-        "totalChances": 45
+        "totalChances": 49
       },
       "evaluation": {
-        "score": 21,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 36.111111111111086,
+          "On-base": 46.66666666666665,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 64.19753086419752,
+          "Discipline": 77.77777777777776,
           "Speed": 0
         },
         "summary": "Aidan Camberg gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .136",
-          "OBP .345",
-          "SLG .227"
+          "AVG .125",
+          "OBP .364",
+          "SLG .208"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".136"
+            "value": ".125"
           },
           {
             "label": "OBP",
-            "value": ".345"
+            "value": ".364"
           },
           {
             "label": "SLG",
-            "value": ".227"
+            "value": ".208"
           },
           {
             "label": "HR",
@@ -2212,7 +2212,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "errors": 2,
         "fieldingPercentage": 0.979,
         "doublePlays": 0,
-        "stolenBasesAgainst": 16,
+        "stolenBasesAgainst": 17,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 1,
@@ -2522,23 +2522,23 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "20",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/joshua-woodworth/5789",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/woodworth.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 29,
-        "battingAverage": 0.265,
-        "onBasePercentage": 0.344,
-        "sluggingPercentage": 0.478,
-        "ops": 0.822,
-        "atBats": 113,
+        "gamesPlayed": 35,
+        "gamesStarted": 30,
+        "battingAverage": 0.263,
+        "onBasePercentage": 0.338,
+        "sluggingPercentage": 0.475,
+        "ops": 0.813,
+        "atBats": 118,
         "runs": 16,
-        "hits": 30,
-        "doubles": 6,
+        "hits": 31,
+        "doubles": 7,
         "triples": 0,
         "homeRuns": 6,
         "runsBattedIn": 19,
-        "totalBases": 54,
+        "totalBases": 56,
         "walks": 11,
         "hitByPitch": 3,
-        "strikeouts": 34,
+        "strikeouts": 35,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
@@ -2548,7 +2548,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "putouts": 1,
         "assists": 3,
         "errors": 1,
-        "plateAppearances": 128,
+        "plateAppearances": 133,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2700,13 +2700,13 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "21",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/jack-fowler/5776",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/DSC_6735.JPG",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 0,
         "battingAverage": 0,
-        "onBasePercentage": 1,
+        "onBasePercentage": 0.5,
         "sluggingPercentage": 0,
-        "ops": 1,
-        "atBats": 0,
+        "ops": 0.5,
+        "atBats": 1,
         "runs": 0,
         "hits": 0,
         "doubles": 0,
@@ -2726,7 +2726,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "putouts": 2,
         "assists": 1,
         "errors": 0,
-        "plateAppearances": 3,
+        "plateAppearances": 4,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2741,7 +2741,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "gamesStarted": 1,
         "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.47,
+        "earnedRunAverage": 5.11,
         "whip": 1.74,
         "wins": 1,
         "losses": 4,
@@ -2751,7 +2751,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "inningsPitchedDisplay": "24.2",
         "hitsAllowed": 28,
         "runsAllowed": 20,
-        "earnedRunsAllowed": 15,
+        "earnedRunsAllowed": 14,
         "walksAllowed": 15,
         "strikeouts": 21,
         "doublesAllowed": 11,
@@ -2800,14 +2800,14 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         },
         "summary": "Jack Fowler gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.47",
+          "ERA 5.11",
           "WHIP 1.74",
           "K/9 7.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.47"
+            "value": "5.11"
           },
           {
             "label": "WHIP",
@@ -2879,32 +2879,32 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "22",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/collin-valentine/5543",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/pace.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 9,
-        "appearances": 9,
+        "gamesPlayed": 10,
+        "gamesStarted": 10,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.29,
-        "whip": 1.62,
+        "earnedRunAverage": 4.6,
+        "whip": 1.67,
         "wins": 1,
-        "losses": 3,
+        "losses": 4,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 42,
-        "inningsPitchedDisplay": "42.0",
-        "hitsAllowed": 55,
-        "runsAllowed": 24,
-        "earnedRunsAllowed": 20,
-        "walksAllowed": 13,
-        "strikeouts": 20,
-        "doublesAllowed": 10,
+        "inningsPitched": 45,
+        "inningsPitchedDisplay": "45.0",
+        "hitsAllowed": 59,
+        "runsAllowed": 28,
+        "earnedRunsAllowed": 23,
+        "walksAllowed": 16,
+        "strikeouts": 21,
+        "doublesAllowed": 11,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 169,
+        "opponentsAtBats": 181,
         "wildPitches": 1,
-        "hitBatters": 3,
-        "balks": 1,
-        "opponentsBattingAverage": 0.325,
-        "walksHits": 68
+        "hitBatters": 4,
+        "balks": 2,
+        "opponentsBattingAverage": 0.326,
+        "walksHits": 75
       },
       "fieldingStats": {
         "rosterBioId": "5543",
@@ -2913,22 +2913,22 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "22",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/collin-valentine/5543",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/pace.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 7,
+        "gamesPlayed": 8,
+        "gamesStarted": 8,
         "putouts": 1,
         "assists": 11,
         "errors": 2,
         "fieldingPercentage": 0.857,
         "doublePlays": 0,
-        "stolenBasesAgainst": 1,
+        "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": 0.667,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 14
       },
       "evaluation": {
-        "score": 2,
+        "score": 1,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2936,40 +2936,40 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 2.597402597402596,
-          "Command": 10.769230769230772,
+          "Miss bats": 1.81818181818182,
+          "Command": 6.25,
           "Damage suppression": 0
         },
-        "summary": "Collin Valentine looks like a LHP option who throws enough strikes.",
+        "summary": "Collin Valentine gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.29",
-          "WHIP 1.62",
-          "K/9 4.3"
+          "ERA 4.60",
+          "WHIP 1.67",
+          "K/9 4.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.29"
+            "value": "4.60"
           },
           {
             "label": "WHIP",
-            "value": "1.62"
+            "value": "1.67"
           },
           {
             "label": "K/9",
-            "value": "4.3"
+            "value": "4.2"
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "3.2"
           },
           {
             "label": "HR/9",
-            "value": "0.21"
+            "value": "0.20"
           },
           {
             "label": "IP",
-            "value": "42.0"
+            "value": "45.0"
           }
         ],
         "metaLine": "R-JR / 2V",
@@ -3240,7 +3240,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 3,
+        "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
@@ -3800,20 +3800,20 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "31",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/danny-cook/5527",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/cook.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 23,
-        "battingAverage": 0.261,
-        "onBasePercentage": 0.31,
-        "sluggingPercentage": 0.37,
-        "ops": 0.68,
-        "atBats": 92,
+        "gamesPlayed": 31,
+        "gamesStarted": 24,
+        "battingAverage": 0.271,
+        "onBasePercentage": 0.317,
+        "sluggingPercentage": 0.375,
+        "ops": 0.692,
+        "atBats": 96,
         "runs": 8,
-        "hits": 24,
+        "hits": 26,
         "doubles": 4,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 14,
-        "totalBases": 34,
+        "totalBases": 36,
         "walks": 4,
         "hitByPitch": 3,
         "strikeouts": 28,
@@ -3823,12 +3823,12 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 26,
-        "assists": 1,
-        "errors": 1,
-        "plateAppearances": 103,
+        "putouts": 27,
+        "assists": 2,
+        "errors": 2,
+        "plateAppearances": 107,
         "caughtStealing": 0,
-        "pickedOff": 1
+        "pickedOff": 2
       },
       "pitchingStats": null,
       "fieldingStats": {
@@ -3838,51 +3838,51 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "31",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/danny-cook/5527",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/cook.jpg",
-        "gamesPlayed": 18,
-        "gamesStarted": 16,
-        "putouts": 26,
-        "assists": 1,
-        "errors": 1,
-        "fieldingPercentage": 0.964,
+        "gamesPlayed": 19,
+        "gamesStarted": 17,
+        "putouts": 27,
+        "assists": 2,
+        "errors": 2,
+        "fieldingPercentage": 0.935,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 28
+        "totalChances": 31
       },
       "evaluation": {
-        "score": 14,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 16.66666666666665,
-          "Power": 13.157894736842104,
-          "Contact": 25.625000000000004,
+          "On-base": 20.555555555555543,
+          "Power": 14.473684210526317,
+          "Contact": 31.875000000000007,
           "Discipline": 0,
           "Speed": 10
         },
         "summary": "Danny Cook gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .261",
-          "OBP .310",
-          "SLG .370"
+          "AVG .271",
+          "OBP .317",
+          "SLG .375"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".261"
+            "value": ".271"
           },
           {
             "label": "OBP",
-            "value": ".310"
+            "value": ".317"
           },
           {
             "label": "SLG",
-            "value": ".370"
+            "value": ".375"
           },
           {
             "label": "HR",
@@ -4230,32 +4230,32 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "34",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/winston-peterson/5535",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/peterson.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 0,
-        "appearances": 10,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 19.29,
-        "whip": 3,
+        "earnedRunAverage": 16.2,
+        "whip": 2.64,
         "wins": 0,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 7,
-        "inningsPitchedDisplay": "7.0",
+        "inningsPitched": 8.333333333333334,
+        "inningsPitchedDisplay": "8.1",
         "hitsAllowed": 11,
         "runsAllowed": 17,
         "earnedRunsAllowed": 15,
-        "walksAllowed": 10,
-        "strikeouts": 3,
+        "walksAllowed": 11,
+        "strikeouts": 4,
         "doublesAllowed": 0,
         "triplesAllowed": 1,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 33,
+        "opponentsAtBats": 37,
         "wildPitches": 0,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.333,
-        "walksHits": 21
+        "opponentsBattingAverage": 0.297,
+        "walksHits": 22
       },
       "fieldingStats": {
         "rosterBioId": "5535",
@@ -4279,7 +4279,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 0,
+        "score": 1,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4287,40 +4287,40 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 0,
+          "Miss bats": 2.9090909090909034,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Winston Peterson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 19.29",
-          "WHIP 3.00",
-          "K/9 3.9"
+          "ERA 16.20",
+          "WHIP 2.64",
+          "K/9 4.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "19.29"
+            "value": "16.20"
           },
           {
             "label": "WHIP",
-            "value": "3.00"
+            "value": "2.64"
           },
           {
             "label": "K/9",
-            "value": "3.9"
+            "value": "4.3"
           },
           {
             "label": "BB/9",
-            "value": "12.9"
+            "value": "11.9"
           },
           {
             "label": "HR/9",
-            "value": "1.29"
+            "value": "1.08"
           },
           {
             "label": "IP",
-            "value": "7.0"
+            "value": "8.3"
           }
         ],
         "metaLine": "SO / 1V",
@@ -4372,32 +4372,32 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "36",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/gabe-maya/5782",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/maya.jpg",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 0,
-        "appearances": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.75,
-        "whip": 1.83,
+        "earnedRunAverage": 7.62,
+        "whip": 1.85,
         "wins": 0,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 12,
-        "inningsPitchedDisplay": "12.0",
-        "hitsAllowed": 20,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 9,
-        "walksAllowed": 2,
+        "inningsPitched": 13,
+        "inningsPitchedDisplay": "13.0",
+        "hitsAllowed": 21,
+        "runsAllowed": 15,
+        "earnedRunsAllowed": 11,
+        "walksAllowed": 3,
         "strikeouts": 6,
         "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 52,
+        "opponentsAtBats": 56,
         "wildPitches": 1,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.385,
-        "walksHits": 22
+        "opponentsBattingAverage": 0.375,
+        "walksHits": 24
       },
       "fieldingStats": {
         "rosterBioId": "5782",
@@ -4421,7 +4421,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "totalChances": 3
       },
       "evaluation": {
-        "score": 7,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4429,40 +4429,40 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 4.545454545454546,
-          "Command": 40,
+          "Miss bats": 1.3986013986014016,
+          "Command": 20,
           "Damage suppression": 0
         },
         "summary": "Gabe Maya looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 1.83",
-          "K/9 4.5"
+          "ERA 7.62",
+          "WHIP 1.85",
+          "K/9 4.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "7.62"
           },
           {
             "label": "WHIP",
-            "value": "1.83"
+            "value": "1.85"
           },
           {
             "label": "K/9",
-            "value": "4.5"
+            "value": "4.2"
           },
           {
             "label": "BB/9",
-            "value": "1.5"
+            "value": "2.1"
           },
           {
             "label": "HR/9",
-            "value": "1.50"
+            "value": "1.38"
           },
           {
             "label": "IP",
-            "value": "12.0"
+            "value": "13.0"
           }
         ],
         "metaLine": "GR / TR",
@@ -4655,12 +4655,12 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "39",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/zach-woodson/5546",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/woodson.jpg",
-        "gamesPlayed": 21,
+        "gamesPlayed": 22,
         "gamesStarted": 12,
         "battingAverage": 0.136,
-        "onBasePercentage": 0.309,
+        "onBasePercentage": 0.321,
         "sluggingPercentage": 0.227,
-        "ops": 0.536,
+        "ops": 0.548,
         "atBats": 44,
         "runs": 4,
         "hits": 6,
@@ -4670,7 +4670,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "runsBattedIn": 5,
         "totalBases": 10,
         "walks": 7,
-        "hitByPitch": 4,
+        "hitByPitch": 5,
         "strikeouts": 17,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
@@ -4681,7 +4681,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "putouts": 21,
         "assists": 1,
         "errors": 1,
-        "plateAppearances": 55,
+        "plateAppearances": 56,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4708,13 +4708,13 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "totalChances": 23
       },
       "evaluation": {
-        "score": 8,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 16.111111111111097,
+          "On-base": 22.777777777777768,
           "Power": 0,
           "Contact": 0,
           "Discipline": 23.529411764705877,
@@ -4723,7 +4723,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "summary": "Zach Woodson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .136",
-          "OBP .309",
+          "OBP .321",
           "SLG .227"
         ],
         "statCards": [
@@ -4733,7 +4733,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           },
           {
             "label": "OBP",
-            "value": ".309"
+            "value": ".321"
           },
           {
             "label": "SLG",
@@ -5088,32 +5088,32 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "44",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/dylan-stewart/5540",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/stewart.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 3,
-        "appearances": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.33,
-        "whip": 1.63,
+        "earnedRunAverage": 7.94,
+        "whip": 1.8,
         "wins": 1,
         "losses": 2,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 27,
-        "inningsPitchedDisplay": "27.0",
-        "hitsAllowed": 30,
-        "runsAllowed": 19,
-        "earnedRunsAllowed": 19,
-        "walksAllowed": 14,
-        "strikeouts": 31,
-        "doublesAllowed": 6,
+        "inningsPitched": 28.333333333333332,
+        "inningsPitchedDisplay": "28.1",
+        "hitsAllowed": 35,
+        "runsAllowed": 25,
+        "earnedRunsAllowed": 25,
+        "walksAllowed": 16,
+        "strikeouts": 33,
+        "doublesAllowed": 10,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 104,
+        "opponentsAtBats": 111,
         "wildPitches": 1,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.288,
-        "walksHits": 44
+        "opponentsBattingAverage": 0.315,
+        "walksHits": 51
       },
       "fieldingStats": {
         "rosterBioId": "5540",
@@ -5122,19 +5122,19 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "44",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/dylan-stewart/5540",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/stewart.jpg",
-        "gamesPlayed": 2,
+        "gamesPlayed": 3,
         "gamesStarted": 1,
         "putouts": 1,
-        "assists": 0,
+        "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 4,
+        "stolenBasesAgainst": 6,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 1
+        "totalChances": 2
       },
       "evaluation": {
         "score": 15,
@@ -5145,40 +5145,40 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 57.57575757575758,
-          "Command": 24.28571428571429,
+          "Miss bats": 58.930481283422466,
+          "Command": 21.249999999999993,
           "Damage suppression": 0
         },
         "summary": "Dylan Stewart looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.33",
-          "WHIP 1.63",
-          "K/9 10.3"
+          "ERA 7.94",
+          "WHIP 1.80",
+          "K/9 10.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.33"
+            "value": "7.94"
           },
           {
             "label": "WHIP",
-            "value": "1.63"
+            "value": "1.80"
           },
           {
             "label": "K/9",
-            "value": "10.3"
+            "value": "10.5"
           },
           {
             "label": "BB/9",
-            "value": "4.7"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
-            "value": "0.33"
+            "value": "0.32"
           },
           {
             "label": "IP",
-            "value": "27.0"
+            "value": "28.3"
           }
         ],
         "metaLine": "SR / 3V",
@@ -5230,32 +5230,32 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "45",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/arnold-wu/5790",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/wu.jpg",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 1,
-        "appearances": 14,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.79,
-        "whip": 1.73,
+        "earnedRunAverage": 8,
+        "whip": 1.72,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 17.333333333333332,
-        "inningsPitchedDisplay": "17.1",
-        "hitsAllowed": 23,
-        "runsAllowed": 16,
-        "earnedRunsAllowed": 15,
+        "inningsPitched": 18,
+        "inningsPitchedDisplay": "18.0",
+        "hitsAllowed": 24,
+        "runsAllowed": 17,
+        "earnedRunsAllowed": 16,
         "walksAllowed": 7,
-        "strikeouts": 8,
+        "strikeouts": 9,
         "doublesAllowed": 6,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 70,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 73,
         "wildPitches": 3,
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.329,
-        "walksHits": 30
+        "walksHits": 31
       },
       "fieldingStats": {
         "rosterBioId": "5790",
@@ -5279,7 +5279,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "totalChances": 5
       },
       "evaluation": {
-        "score": 1,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5287,40 +5287,40 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 1.3986013986014016,
-          "Command": 2.857142857142856,
+          "Miss bats": 4.545454545454546,
+          "Command": 5.714285714285716,
           "Damage suppression": 0
         },
         "summary": "Arnold Wu gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.79",
-          "WHIP 1.73",
-          "K/9 4.2"
+          "ERA 8.00",
+          "WHIP 1.72",
+          "K/9 4.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.79"
+            "value": "8.00"
           },
           {
             "label": "WHIP",
-            "value": "1.73"
+            "value": "1.72"
           },
           {
             "label": "K/9",
-            "value": "4.2"
+            "value": "4.5"
           },
           {
             "label": "BB/9",
-            "value": "3.6"
+            "value": "3.5"
           },
           {
             "label": "HR/9",
-            "value": "1.04"
+            "value": "1.50"
           },
           {
             "label": "IP",
-            "value": "17.3"
+            "value": "18.0"
           }
         ],
         "metaLine": "FR / HS",
@@ -5372,32 +5372,32 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "55",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/kam-croghan/5528",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/croghan.jpg",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 0,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.04,
-        "whip": 1.37,
+        "earnedRunAverage": 6.75,
+        "whip": 1.38,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 15.333333333333334,
-        "inningsPitchedDisplay": "15.1",
-        "hitsAllowed": 16,
+        "inningsPitched": 16,
+        "inningsPitchedDisplay": "16.0",
+        "hitsAllowed": 17,
         "runsAllowed": 13,
         "earnedRunsAllowed": 12,
         "walksAllowed": 5,
-        "strikeouts": 12,
+        "strikeouts": 14,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 61,
+        "opponentsAtBats": 64,
         "wildPitches": 4,
         "hitBatters": 7,
         "balks": 0,
-        "opponentsBattingAverage": 0.262,
-        "walksHits": 21
+        "opponentsBattingAverage": 0.266,
+        "walksHits": 22
       },
       "fieldingStats": {
         "rosterBioId": "5528",
@@ -5421,7 +5421,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "totalChances": 3
       },
       "evaluation": {
-        "score": 10,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5429,40 +5429,40 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 27.667984189723317,
-          "Command": 27.999999999999996,
+          "Miss bats": 35.22727272727273,
+          "Command": 36,
           "Damage suppression": 0
         },
         "summary": "Kam Croghan looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 7.04",
-          "WHIP 1.37",
-          "K/9 7.0"
+          "ERA 6.75",
+          "WHIP 1.38",
+          "K/9 7.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.04"
+            "value": "6.75"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "1.38"
           },
           {
             "label": "K/9",
-            "value": "7.0"
+            "value": "7.9"
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "2.8"
           },
           {
             "label": "HR/9",
-            "value": "1.76"
+            "value": "1.69"
           },
           {
             "label": "IP",
-            "value": "15.3"
+            "value": "16.0"
           }
         ],
         "metaLine": "JR / 2V",
@@ -5562,29 +5562,29 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "TR",
-        "score": 34,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Kai Laxa gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .282",
-          "OBP .355",
-          "SLG .395"
+          "AVG .286",
+          "OBP .362",
+          "SLG .405"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".282"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".355"
+            "value": ".362"
           },
           {
             "label": "SLG",
-            "value": ".395"
+            "value": ".405"
           },
           {
             "label": "HR",
@@ -5592,7 +5592,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           },
           {
             "label": "RBI",
-            "value": "11"
+            "value": "12"
           },
           {
             "label": "SB",
@@ -5600,10 +5600,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           }
         ],
         "components": {
-          "On-base": 41.66666666666664,
-          "Power": 19.736842105263165,
-          "Contact": 38.74999999999998,
-          "Discipline": 59.25925925925923,
+          "On-base": 45.555555555555536,
+          "Power": 22.368421052631586,
+          "Contact": 41.24999999999998,
+          "Discipline": 66.66666666666666,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / TR",
@@ -5638,22 +5638,22 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         },
         "summary": "AJ Bianchina gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .217",
-          "OBP .280",
-          "SLG .217"
+          "AVG .208",
+          "OBP .269",
+          "SLG .208"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".217"
+            "value": ".208"
           },
           {
             "label": "OBP",
-            "value": ".280"
+            "value": ".269"
           },
           {
             "label": "SLG",
-            "value": ".217"
+            "value": ".208"
           },
           {
             "label": "HR",
@@ -5769,29 +5769,29 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "position": "OF",
         "classYear": "GR",
         "handedness": "TR",
-        "score": 26,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Trey Dunn gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .265",
-          "OBP .333",
-          "SLG .470"
+          "AVG .279",
+          "OBP .343",
+          "SLG .484"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".265"
+            "value": ".279"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".343"
           },
           {
             "label": "SLG",
-            "value": ".470"
+            "value": ".484"
           },
           {
             "label": "HR",
@@ -5807,10 +5807,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           }
         ],
         "components": {
-          "On-base": 29.44444444444444,
-          "Power": 39.47368421052631,
-          "Contact": 28.125000000000007,
-          "Discipline": 4.23280423280423,
+          "On-base": 35,
+          "Power": 43.15789473684211,
+          "Contact": 36.875000000000014,
+          "Discipline": 3.6175710594315222,
           "Speed": 6.666666666666667
         },
         "metaLine": "GR / TR",
@@ -5838,37 +5838,37 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "position": "INF",
         "classYear": "R-SO",
         "handedness": "1V",
-        "score": 26,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Finley Buckner profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .197",
-          "OBP .345",
-          "SLG .239"
+          "AVG .219",
+          "OBP .360",
+          "SLG .342"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".197"
+            "value": ".219"
           },
           {
             "label": "OBP",
-            "value": ".345"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".239"
+            "value": ".342"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "3"
           },
           {
             "label": "RBI",
-            "value": "6"
+            "value": "11"
           },
           {
             "label": "SB",
@@ -5876,8 +5876,8 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           }
         ],
         "components": {
-          "On-base": 36.111111111111086,
-          "Power": 0,
+          "On-base": 44.44444444444443,
+          "Power": 5.789473684210533,
           "Contact": 0,
           "Discipline": 100,
           "Speed": 0
@@ -5907,7 +5907,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "position": "INF",
         "classYear": "GR",
         "handedness": "2V",
-        "score": 28,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5915,8 +5915,8 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "summary": "Julian Nunez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .261",
-          "OBP .360",
-          "SLG .333"
+          "OBP .357",
+          "SLG .331"
         ],
         "statCards": [
           {
@@ -5925,11 +5925,11 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           },
           {
             "label": "OBP",
-            "value": ".360"
+            "value": ".357"
           },
           {
             "label": "SLG",
-            "value": ".333"
+            "value": ".331"
           },
           {
             "label": "HR",
@@ -5945,10 +5945,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           }
         ],
         "components": {
-          "On-base": 44.44444444444443,
-          "Power": 3.421052631578951,
+          "On-base": 42.77777777777775,
+          "Power": 2.8947368421052664,
           "Contact": 25.625000000000004,
-          "Discipline": 56.20915032679738,
+          "Discipline": 51.85185185185184,
           "Speed": 3.3333333333333335
         },
         "metaLine": "GR / 2V",
@@ -5983,22 +5983,22 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         },
         "summary": "Daniel Patterson profiles as a INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .297",
-          "OBP .375",
-          "SLG .568"
+          "AVG .301",
+          "OBP .376",
+          "SLG .562"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".297"
+            "value": ".301"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".376"
           },
           {
             "label": "SLG",
-            "value": ".568"
+            "value": ".562"
           },
           {
             "label": "HR",
@@ -6014,9 +6014,9 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           }
         ],
         "components": {
-          "On-base": 52.77777777777777,
-          "Power": 65.26315789473684,
-          "Contact": 48.12499999999999,
+          "On-base": 53.33333333333332,
+          "Power": 63.68421052631581,
+          "Contact": 50.624999999999986,
           "Discipline": 71.34502923976606,
           "Speed": 13.333333333333334
         },
@@ -6045,29 +6045,29 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "position": "C/1B",
         "classYear": "SR",
         "handedness": "1V",
-        "score": 21,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Max Aude gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .258",
-          "OBP .329",
-          "SLG .424"
+          "AVG .250",
+          "OBP .320",
+          "SLG .412"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".258"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".329"
+            "value": ".320"
           },
           {
             "label": "SLG",
-            "value": ".424"
+            "value": ".412"
           },
           {
             "label": "HR",
@@ -6083,9 +6083,9 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           }
         ],
         "components": {
-          "On-base": 27.222222222222214,
-          "Power": 27.368421052631575,
-          "Contact": 23.750000000000004,
+          "On-base": 22.222222222222214,
+          "Power": 24.21052631578947,
+          "Contact": 18.75,
           "Discipline": 7.407407407407404,
           "Speed": 0
         },
@@ -6182,29 +6182,29 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "position": "1B/OF",
         "classYear": "FR",
         "handedness": "HS",
-        "score": 19,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "James Dell'Amico gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .280",
-          "OBP .329",
-          "SLG .364"
+          "AVG .272",
+          "OBP .320",
+          "SLG .353"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".280"
+            "value": ".272"
           },
           {
             "label": "OBP",
-            "value": ".329"
+            "value": ".320"
           },
           {
             "label": "SLG",
-            "value": ".364"
+            "value": ".353"
           },
           {
             "label": "HR",
@@ -6220,9 +6220,9 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           }
         ],
         "components": {
-          "On-base": 27.222222222222214,
-          "Power": 11.57894736842105,
-          "Contact": 37.500000000000014,
+          "On-base": 22.222222222222214,
+          "Power": 8.684210526315784,
+          "Contact": 32.500000000000014,
           "Discipline": 1.5873015873015843,
           "Speed": 3.3333333333333335
         },
@@ -6251,29 +6251,29 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "position": "C/OF",
         "classYear": "R-SO",
         "handedness": "TR",
-        "score": 21,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Aidan Camberg gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .136",
-          "OBP .345",
-          "SLG .227"
+          "AVG .125",
+          "OBP .364",
+          "SLG .208"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".136"
+            "value": ".125"
           },
           {
             "label": "OBP",
-            "value": ".345"
+            "value": ".364"
           },
           {
             "label": "SLG",
-            "value": ".227"
+            "value": ".208"
           },
           {
             "label": "HR",
@@ -6289,10 +6289,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           }
         ],
         "components": {
-          "On-base": 36.111111111111086,
+          "On-base": 46.66666666666665,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 64.19753086419752,
+          "Discipline": 77.77777777777776,
           "Speed": 0
         },
         "metaLine": "R-SO / TR",
@@ -6740,14 +6740,14 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         },
         "summary": "Jack Fowler gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.47",
+          "ERA 5.11",
           "WHIP 1.74",
           "K/9 7.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.47"
+            "value": "5.11"
           },
           {
             "label": "WHIP",
@@ -6802,48 +6802,48 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "position": "LHP",
         "classYear": "R-JR",
         "handedness": "2V",
-        "score": 2,
+        "score": 1,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Collin Valentine looks like a LHP option who throws enough strikes.",
+        "summary": "Collin Valentine gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.29",
-          "WHIP 1.62",
-          "K/9 4.3"
+          "ERA 4.60",
+          "WHIP 1.67",
+          "K/9 4.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.29"
+            "value": "4.60"
           },
           {
             "label": "WHIP",
-            "value": "1.62"
+            "value": "1.67"
           },
           {
             "label": "K/9",
-            "value": "4.3"
+            "value": "4.2"
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "3.2"
           },
           {
             "label": "HR/9",
-            "value": "0.21"
+            "value": "0.20"
           },
           {
             "label": "IP",
-            "value": "42.0"
+            "value": "45.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 2.597402597402596,
-          "Command": 10.769230769230772,
+          "Miss bats": 1.81818181818182,
+          "Command": 6.25,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / 2V",
@@ -7283,29 +7283,29 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "1V",
-        "score": 14,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Danny Cook gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .261",
-          "OBP .310",
-          "SLG .370"
+          "AVG .271",
+          "OBP .317",
+          "SLG .375"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".261"
+            "value": ".271"
           },
           {
             "label": "OBP",
-            "value": ".310"
+            "value": ".317"
           },
           {
             "label": "SLG",
-            "value": ".370"
+            "value": ".375"
           },
           {
             "label": "HR",
@@ -7321,9 +7321,9 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           }
         ],
         "components": {
-          "On-base": 16.66666666666665,
-          "Power": 13.157894736842104,
-          "Contact": 25.625000000000004,
+          "On-base": 20.555555555555543,
+          "Power": 14.473684210526317,
+          "Contact": 31.875000000000007,
           "Discipline": 0,
           "Speed": 10
         },
@@ -7490,47 +7490,47 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "1V",
-        "score": 0,
+        "score": 1,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Winston Peterson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 19.29",
-          "WHIP 3.00",
-          "K/9 3.9"
+          "ERA 16.20",
+          "WHIP 2.64",
+          "K/9 4.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "19.29"
+            "value": "16.20"
           },
           {
             "label": "WHIP",
-            "value": "3.00"
+            "value": "2.64"
           },
           {
             "label": "K/9",
-            "value": "3.9"
+            "value": "4.3"
           },
           {
             "label": "BB/9",
-            "value": "12.9"
+            "value": "11.9"
           },
           {
             "label": "HR/9",
-            "value": "1.29"
+            "value": "1.08"
           },
           {
             "label": "IP",
-            "value": "7.0"
+            "value": "8.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 0,
+          "Miss bats": 2.9090909090909034,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -7559,48 +7559,48 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "position": "LHP",
         "classYear": "GR",
         "handedness": "TR",
-        "score": 7,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Gabe Maya looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 1.83",
-          "K/9 4.5"
+          "ERA 7.62",
+          "WHIP 1.85",
+          "K/9 4.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "7.62"
           },
           {
             "label": "WHIP",
-            "value": "1.83"
+            "value": "1.85"
           },
           {
             "label": "K/9",
-            "value": "4.5"
+            "value": "4.2"
           },
           {
             "label": "BB/9",
-            "value": "1.5"
+            "value": "2.1"
           },
           {
             "label": "HR/9",
-            "value": "1.50"
+            "value": "1.38"
           },
           {
             "label": "IP",
-            "value": "12.0"
+            "value": "13.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 4.545454545454546,
-          "Command": 40,
+          "Miss bats": 1.3986013986014016,
+          "Command": 20,
           "Damage suppression": 0
         },
         "metaLine": "GR / TR",
@@ -7697,7 +7697,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "position": "1B/OF",
         "classYear": "SO",
         "handedness": "1V",
-        "score": 8,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -7705,7 +7705,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "summary": "Zach Woodson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .136",
-          "OBP .309",
+          "OBP .321",
           "SLG .227"
         ],
         "statCards": [
@@ -7715,7 +7715,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           },
           {
             "label": "OBP",
-            "value": ".309"
+            "value": ".321"
           },
           {
             "label": "SLG",
@@ -7735,7 +7735,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           }
         ],
         "components": {
-          "On-base": 16.111111111111097,
+          "On-base": 22.777777777777768,
           "Power": 0,
           "Contact": 0,
           "Discipline": 23.529411764705877,
@@ -7911,41 +7911,41 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         },
         "summary": "Dylan Stewart looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.33",
-          "WHIP 1.63",
-          "K/9 10.3"
+          "ERA 7.94",
+          "WHIP 1.80",
+          "K/9 10.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.33"
+            "value": "7.94"
           },
           {
             "label": "WHIP",
-            "value": "1.63"
+            "value": "1.80"
           },
           {
             "label": "K/9",
-            "value": "10.3"
+            "value": "10.5"
           },
           {
             "label": "BB/9",
-            "value": "4.7"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
-            "value": "0.33"
+            "value": "0.32"
           },
           {
             "label": "IP",
-            "value": "27.0"
+            "value": "28.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 57.57575757575758,
-          "Command": 24.28571428571429,
+          "Miss bats": 58.930481283422466,
+          "Command": 21.249999999999993,
           "Damage suppression": 0
         },
         "metaLine": "SR / 3V",
@@ -7973,48 +7973,48 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "HS",
-        "score": 1,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Arnold Wu gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.79",
-          "WHIP 1.73",
-          "K/9 4.2"
+          "ERA 8.00",
+          "WHIP 1.72",
+          "K/9 4.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.79"
+            "value": "8.00"
           },
           {
             "label": "WHIP",
-            "value": "1.73"
+            "value": "1.72"
           },
           {
             "label": "K/9",
-            "value": "4.2"
+            "value": "4.5"
           },
           {
             "label": "BB/9",
-            "value": "3.6"
+            "value": "3.5"
           },
           {
             "label": "HR/9",
-            "value": "1.04"
+            "value": "1.50"
           },
           {
             "label": "IP",
-            "value": "17.3"
+            "value": "18.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 1.3986013986014016,
-          "Command": 2.857142857142856,
+          "Miss bats": 4.545454545454546,
+          "Command": 5.714285714285716,
           "Damage suppression": 0
         },
         "metaLine": "FR / HS",
@@ -8042,48 +8042,48 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "2V",
-        "score": 10,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Kam Croghan looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 7.04",
-          "WHIP 1.37",
-          "K/9 7.0"
+          "ERA 6.75",
+          "WHIP 1.38",
+          "K/9 7.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.04"
+            "value": "6.75"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "1.38"
           },
           {
             "label": "K/9",
-            "value": "7.0"
+            "value": "7.9"
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "2.8"
           },
           {
             "label": "HR/9",
-            "value": "1.76"
+            "value": "1.69"
           },
           {
             "label": "IP",
-            "value": "15.3"
+            "value": "16.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 27.667984189723317,
-          "Command": 27.999999999999996,
+          "Miss bats": 35.22727272727273,
+          "Command": 36,
           "Damage suppression": 0
         },
         "metaLine": "JR / 2V",

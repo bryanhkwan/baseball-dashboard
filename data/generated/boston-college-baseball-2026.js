@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.boston-college2026 = {
-  "generatedAt": "2026-04-19T10:59:51.777Z",
+  "generatedAt": "2026-04-20T11:42:31.641Z",
   "season": 2026,
   "school": {
     "slug": "boston-college",
@@ -46,7 +46,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
     "losses": "12",
     "hitting": {
       "atBats": "1366",
-      "runsScored": "312",
+      "runsScored": "313",
       "hits": "378",
       "runsBattedIn": "281",
       "doubles": "76",
@@ -313,7 +313,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "sluggingPercentage": 0.439,
         "ops": 0.847,
         "atBats": 171,
-        "runs": 44,
+        "runs": 45,
         "hits": 54,
         "doubles": 14,
         "triples": 2,

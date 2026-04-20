@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T11:00:16.019Z",
+  "generatedAt": "2026-04-20T11:43:03.111Z",
   "season": 2026,
   "school": {
     "slug": "marshall",
@@ -38,84 +38,84 @@
     }
   },
   "teamSummary": {
-    "record": "18-19, 9-8",
-    "battingAverage": ".293",
-    "earnedRunAverage": "6.25",
+    "record": "18-20, 9-9",
+    "battingAverage": ".288",
+    "earnedRunAverage": "6.18",
     "wins": "18",
-    "losses": "19",
+    "losses": "20",
     "hitting": {
-      "atBats": "1278",
-      "runsScored": "267",
-      "hits": "374",
-      "runsBattedIn": "242",
+      "atBats": "1305",
+      "runsScored": "268",
+      "hits": "376",
+      "runsBattedIn": "243",
       "doubles": "77",
       "triples": "7",
       "homeRuns": "31",
-      "walks": "167",
+      "walks": "173",
       "intentionalWalks": "3",
-      "strikeouts": "251",
-      "strikeoutsLooking": "74",
-      "hitByPitch": "71",
-      "stolenBases": "33",
-      "caughtStealing": "14",
-      "sacrificeHits": "15",
+      "strikeouts": "256",
+      "strikeoutsLooking": "76",
+      "hitByPitch": "72",
+      "stolenBases": "34",
+      "caughtStealing": "15",
+      "sacrificeHits": "16",
       "sacrificeFlies": "20",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "335",
-      "flyOuts": "313",
+      "groundOuts": "347",
+      "flyOuts": "322",
       "groundedIntoDoublePlay": "31",
       "pickedOff": "1",
       "doublePlaysHitInto": "34",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "963",
-      "assists": "352",
-      "errors": "43",
+      "putouts": "987",
+      "assists": "360",
+      "errors": "44",
       "passedBalls": "6",
       "catchersInterference": "2",
-      "stolenBasesAgainst": "56",
+      "stolenBasesAgainst": "57",
       "caughtStealingBy": "8",
       "involvedInDoublePlays": "29",
       "involvedInTriplePlays": "0",
-      "totalChances": "1358",
+      "totalChances": "1391",
       "fieldingPercentage": ".968"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "18",
       "saves": "3",
-      "losses": "19",
+      "losses": "20",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "0",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "321.0",
-      "hitsAllowed": "366",
-      "runsAllowed": "257",
-      "earnedRunsAllowed": "223",
-      "walksAllowed": "152",
-      "strikeouts": "327",
-      "battersFaced": "1519",
-      "opponentAtBats": "1263",
-      "doublesAllowed": "74",
+      "inningsPitched": "329.0",
+      "hitsAllowed": "374",
+      "runsAllowed": "261",
+      "earnedRunsAllowed": "226",
+      "walksAllowed": "154",
+      "strikeouts": "334",
+      "battersFaced": "1555",
+      "opponentAtBats": "1294",
+      "doublesAllowed": "76",
       "triplesAllowed": "10",
       "homerunsAllowed": "33",
       "wildPitches": "39",
       "balks": "1",
-      "hitBatters": "47",
-      "strikeoutsLooking": "88",
+      "hitBatters": "48",
+      "strikeoutsLooking": "89",
       "intentionalWalks": "3",
       "inheritedRunners": "13",
       "inheritedRunnersThatScored": "9",
-      "sacrificeHitsAllowed": "40",
+      "sacrificeHitsAllowed": "42",
       "sacrificeFliesAllowed": "15",
       "catchersInterferenceAllowed": "0",
-      "pitches": "4887",
-      "flyouts": "252",
-      "groundouts": "338",
+      "pitches": "5028",
+      "flyouts": "260",
+      "groundouts": "347",
       "teamUnearnedRuns": "0",
       "saveRecord": "0",
       "pickoff": "4"
@@ -160,13 +160,13 @@
         "jersey": "2",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/tyler-kamerer/10706",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-05.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "battingAverage": 0.35,
-        "onBasePercentage": 0.411,
-        "sluggingPercentage": 0.51,
-        "ops": 0.921,
-        "atBats": 157,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "battingAverage": 0.342,
+        "onBasePercentage": 0.402,
+        "sluggingPercentage": 0.497,
+        "ops": 0.899,
+        "atBats": 161,
         "runs": 45,
         "hits": 55,
         "doubles": 15,
@@ -184,9 +184,9 @@
         "stolenBases": 6,
         "stolenBasesAttempts": 9,
         "putouts": 58,
-        "assists": 89,
-        "errors": 5,
-        "plateAppearances": 187,
+        "assists": 93,
+        "errors": 6,
+        "plateAppearances": 191,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -198,51 +198,51 @@
         "jersey": "2",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/tyler-kamerer/10706",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-05.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
         "putouts": 58,
-        "assists": 89,
-        "errors": 5,
-        "fieldingPercentage": 0.967,
+        "assists": 93,
+        "errors": 6,
+        "fieldingPercentage": 0.962,
         "doublePlays": 20,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 152
+        "totalChances": 157
       },
       "evaluation": {
-        "score": 60,
+        "score": 56,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 72.77777777777776,
-          "Power": 50.000000000000014,
-          "Contact": 81.24999999999999,
+          "On-base": 67.77777777777779,
+          "Power": 46.57894736842106,
+          "Contact": 76.25000000000001,
           "Discipline": 47.95321637426899,
           "Speed": 20
         },
         "summary": "Tyler Kamerer profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .350",
-          "OBP .411",
-          "SLG .510"
+          "AVG .342",
+          "OBP .402",
+          "SLG .497"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".350"
+            "value": ".342"
           },
           {
             "label": "OBP",
-            "value": ".411"
+            "value": ".402"
           },
           {
             "label": "SLG",
-            "value": ".510"
+            "value": ".497"
           },
           {
             "label": "HR",
@@ -305,21 +305,21 @@
         "jersey": "3",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/evan-bottone/10983",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-09.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "battingAverage": 0.375,
-        "onBasePercentage": 0.471,
-        "sluggingPercentage": 0.563,
-        "ops": 1.034,
-        "atBats": 144,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "battingAverage": 0.374,
+        "onBasePercentage": 0.472,
+        "sluggingPercentage": 0.558,
+        "ops": 1.03,
+        "atBats": 147,
         "runs": 40,
-        "hits": 54,
+        "hits": 55,
         "doubles": 7,
         "triples": 1,
         "homeRuns": 6,
-        "runsBattedIn": 29,
-        "totalBases": 81,
-        "walks": 17,
+        "runsBattedIn": 30,
+        "totalBases": 82,
+        "walks": 18,
         "hitByPitch": 10,
         "strikeouts": 23,
         "intentionalWalks": 0,
@@ -328,10 +328,10 @@
         "sacrificeHits": 4,
         "stolenBases": 8,
         "stolenBasesAttempts": 8,
-        "putouts": 53,
+        "putouts": 55,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 184,
+        "plateAppearances": 188,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -343,9 +343,9 @@
         "jersey": "3",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/evan-bottone/10983",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-09.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 26,
-        "putouts": 53,
+        "gamesPlayed": 27,
+        "gamesStarted": 27,
+        "putouts": 55,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -355,7 +355,7 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 53
+        "totalChances": 55
       },
       "evaluation": {
         "score": 77,
@@ -365,29 +365,29 @@
         },
         "components": {
           "On-base": 100,
-          "Power": 63.947368421052616,
-          "Contact": 96.875,
-          "Discipline": 59.903381642512066,
+          "Power": 62.63157894736844,
+          "Contact": 96.25,
+          "Discipline": 64.7342995169082,
           "Speed": 26.666666666666668
         },
         "summary": "Evan Bottone profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .375",
-          "OBP .471",
-          "SLG .563"
+          "AVG .374",
+          "OBP .472",
+          "SLG .558"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".375"
+            "value": ".374"
           },
           {
             "label": "OBP",
-            "value": ".471"
+            "value": ".472"
           },
           {
             "label": "SLG",
-            "value": ".563"
+            "value": ".558"
           },
           {
             "label": "HR",
@@ -395,7 +395,7 @@
           },
           {
             "label": "RBI",
-            "value": "29"
+            "value": "30"
           },
           {
             "label": "SB",
@@ -450,13 +450,13 @@
         "jersey": "4",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/jackson-halter/10700",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-04.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 35,
-        "battingAverage": 0.259,
-        "onBasePercentage": 0.363,
-        "sluggingPercentage": 0.46,
-        "ops": 0.823,
-        "atBats": 139,
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "battingAverage": 0.254,
+        "onBasePercentage": 0.36,
+        "sluggingPercentage": 0.451,
+        "ops": 0.811,
+        "atBats": 142,
         "runs": 25,
         "hits": 36,
         "doubles": 8,
@@ -464,7 +464,7 @@
         "homeRuns": 6,
         "runsBattedIn": 35,
         "totalBases": 64,
-        "walks": 15,
+        "walks": 16,
         "hitByPitch": 10,
         "strikeouts": 33,
         "intentionalWalks": 0,
@@ -473,10 +473,10 @@
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 4,
-        "putouts": 63,
+        "putouts": 65,
         "assists": 1,
         "errors": 3,
-        "plateAppearances": 175,
+        "plateAppearances": 179,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -488,51 +488,51 @@
         "jersey": "4",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/jackson-halter/10700",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-04.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 26,
-        "putouts": 63,
+        "gamesPlayed": 27,
+        "gamesStarted": 27,
+        "putouts": 65,
         "assists": 1,
         "errors": 3,
-        "fieldingPercentage": 0.955,
+        "fieldingPercentage": 0.957,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 67
+        "totalChances": 69
       },
       "evaluation": {
-        "score": 33,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 46.11111111111109,
-          "Power": 36.842105263157904,
-          "Contact": 24.375000000000004,
-          "Discipline": 28.282828282828277,
+          "On-base": 44.44444444444443,
+          "Power": 34.47368421052632,
+          "Contact": 21.250000000000004,
+          "Discipline": 31.649831649831643,
           "Speed": 3.3333333333333335
         },
         "summary": "Jackson Halter gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .259",
-          "OBP .363",
-          "SLG .460"
+          "AVG .254",
+          "OBP .360",
+          "SLG .451"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".259"
+            "value": ".254"
           },
           {
             "label": "OBP",
-            "value": ".363"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".460"
+            "value": ".451"
           },
           {
             "label": "HR",
@@ -862,21 +862,21 @@
         "jersey": "7",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/jackson-golden/10697",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-07.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 30,
-        "battingAverage": 0.252,
-        "onBasePercentage": 0.331,
-        "sluggingPercentage": 0.336,
-        "ops": 0.667,
-        "atBats": 107,
-        "runs": 17,
+        "gamesPlayed": 31,
+        "gamesStarted": 31,
+        "battingAverage": 0.245,
+        "onBasePercentage": 0.328,
+        "sluggingPercentage": 0.327,
+        "ops": 0.655,
+        "atBats": 110,
+        "runs": 18,
         "hits": 27,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 1,
         "runsBattedIn": 13,
         "totalBases": 36,
-        "walks": 7,
+        "walks": 8,
         "hitByPitch": 6,
         "strikeouts": 19,
         "intentionalWalks": 0,
@@ -885,10 +885,10 @@
         "sacrificeHits": 2,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 274,
+        "putouts": 281,
         "assists": 20,
         "errors": 5,
-        "plateAppearances": 123,
+        "plateAppearances": 127,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -900,51 +900,51 @@
         "jersey": "7",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/jackson-golden/10697",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-07.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 30,
-        "putouts": 274,
+        "gamesPlayed": 31,
+        "gamesStarted": 31,
+        "putouts": 281,
         "assists": 20,
         "errors": 5,
-        "fieldingPercentage": 0.983,
+        "fieldingPercentage": 0.984,
         "doublePlays": 2,
-        "stolenBasesAgainst": 39,
+        "stolenBasesAgainst": 40,
         "caughtStealingBy": 7,
-        "stolenBasesPercentage": 0.848,
+        "stolenBasesPercentage": 0.851,
         "passedBalls": 4,
         "catchersInterference": 2,
-        "totalChances": 299
+        "totalChances": 306
       },
       "evaluation": {
-        "score": 16,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 28.33333333333333,
-          "Power": 4.210526315789478,
-          "Contact": 20,
-          "Discipline": 18.713450292397653,
+          "On-base": 26.66666666666666,
+          "Power": 1.8421052631578967,
+          "Contact": 15.624999999999996,
+          "Discipline": 24.561403508771924,
           "Speed": 0
         },
         "summary": "Jackson Golden gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .252",
-          "OBP .331",
-          "SLG .336"
+          "AVG .245",
+          "OBP .328",
+          "SLG .327"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".252"
+            "value": ".245"
           },
           {
             "label": "OBP",
-            "value": ".331"
+            "value": ".328"
           },
           {
             "label": "SLG",
-            "value": ".336"
+            "value": ".327"
           },
           {
             "label": "HR",
@@ -1150,32 +1150,32 @@
         "jersey": "10",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/landen-doll/10986",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-18.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 1,
-        "appearances": 10,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.07,
-        "whip": 1.2,
+        "earnedRunAverage": 6.04,
+        "whip": 1.16,
         "wins": 2,
-        "losses": 1,
+        "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 26.666666666666668,
-        "inningsPitchedDisplay": "26.2",
+        "inningsPitched": 28.333333333333332,
+        "inningsPitchedDisplay": "28.1",
         "hitsAllowed": 26,
-        "runsAllowed": 22,
-        "earnedRunsAllowed": 18,
-        "walksAllowed": 6,
-        "strikeouts": 35,
+        "runsAllowed": 23,
+        "earnedRunsAllowed": 19,
+        "walksAllowed": 7,
+        "strikeouts": 37,
         "doublesAllowed": 3,
         "triplesAllowed": 2,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 102,
+        "opponentsAtBats": 107,
         "wildPitches": 1,
         "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.255,
-        "walksHits": 32
+        "opponentsBattingAverage": 0.243,
+        "walksHits": 33
       },
       "fieldingStats": {
         "rosterBioId": "10986",
@@ -1199,7 +1199,7 @@
         "totalChances": 4
       },
       "evaluation": {
-        "score": 30,
+        "score": 28,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1207,24 +1207,24 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 71.02272727272727,
-          "Command": 96.66666666666669,
+          "Miss bats": 70.48128342245991,
+          "Command": 85.71428571428571,
           "Damage suppression": 0
         },
         "summary": "Landen Doll looks like a LHP option who misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 6.07",
-          "WHIP 1.20",
+          "ERA 6.04",
+          "WHIP 1.16",
           "K/9 11.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.07"
+            "value": "6.04"
           },
           {
             "label": "WHIP",
-            "value": "1.20"
+            "value": "1.16"
           },
           {
             "label": "K/9",
@@ -1232,15 +1232,15 @@
           },
           {
             "label": "BB/9",
-            "value": "2.0"
+            "value": "2.2"
           },
           {
             "label": "HR/9",
-            "value": "1.01"
+            "value": "0.95"
           },
           {
             "label": "IP",
-            "value": "26.7"
+            "value": "28.3"
           }
         ],
         "metaLine": "FR / L/L",
@@ -1292,32 +1292,32 @@
         "jersey": "11",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/charlie-krebs/10707",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-26.jpg",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 0,
-        "appearances": 14,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.91,
-        "whip": 1.61,
+        "earnedRunAverage": 4.63,
+        "whip": 1.76,
         "wins": 1,
         "losses": 2,
         "saves": 3,
         "shutouts": 0,
-        "inningsPitched": 23,
-        "inningsPitchedDisplay": "23.0",
-        "hitsAllowed": 24,
-        "runsAllowed": 10,
-        "earnedRunsAllowed": 10,
+        "inningsPitched": 23.333333333333332,
+        "inningsPitchedDisplay": "23.1",
+        "hitsAllowed": 28,
+        "runsAllowed": 12,
+        "earnedRunsAllowed": 12,
         "walksAllowed": 13,
         "strikeouts": 28,
         "doublesAllowed": 3,
         "triplesAllowed": 1,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 89,
+        "opponentsAtBats": 94,
         "wildPitches": 2,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.27,
-        "walksHits": 37
+        "opponentsBattingAverage": 0.298,
+        "walksHits": 41
       },
       "fieldingStats": {
         "rosterBioId": "10707",
@@ -1326,14 +1326,14 @@
         "jersey": "11",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/charlie-krebs/10707",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-26.jpg",
-        "gamesPlayed": 3,
+        "gamesPlayed": 4,
         "gamesStarted": 0,
         "putouts": 0,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 0,
         "doublePlays": 0,
-        "stolenBasesAgainst": 4,
+        "stolenBasesAgainst": 5,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
@@ -1349,40 +1349,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 63.24110671936759,
-          "Command": 23.076923076923077,
+          "Miss bats": 61.81818181818183,
+          "Command": 23.076923076923084,
           "Damage suppression": 0
         },
-        "summary": "Charlie Krebs looks like a RHP option who limits runs and misses bats.",
+        "summary": "Charlie Krebs looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 3.91",
-          "WHIP 1.61",
-          "K/9 11.0"
+          "ERA 4.63",
+          "WHIP 1.76",
+          "K/9 10.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.91"
+            "value": "4.63"
           },
           {
             "label": "WHIP",
-            "value": "1.61"
+            "value": "1.76"
           },
           {
             "label": "K/9",
-            "value": "11.0"
+            "value": "10.8"
           },
           {
             "label": "BB/9",
-            "value": "5.1"
+            "value": "5.0"
           },
           {
             "label": "HR/9",
-            "value": "1.57"
+            "value": "1.54"
           },
           {
             "label": "IP",
-            "value": "23.0"
+            "value": "23.3"
           }
         ],
         "metaLine": "JR / R/R",
@@ -1717,34 +1717,34 @@
         "jersey": "15",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/cooper-hinson/10703",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-11.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
         "battingAverage": 0.351,
-        "onBasePercentage": 0.405,
-        "sluggingPercentage": 0.511,
-        "ops": 0.916,
-        "atBats": 131,
+        "onBasePercentage": 0.408,
+        "sluggingPercentage": 0.507,
+        "ops": 0.915,
+        "atBats": 134,
         "runs": 16,
-        "hits": 46,
+        "hits": 47,
         "doubles": 15,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 32,
-        "totalBases": 67,
-        "walks": 10,
+        "totalBases": 68,
+        "walks": 11,
         "hitByPitch": 4,
-        "strikeouts": 25,
+        "strikeouts": 27,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 3,
         "sacrificeHits": 2,
         "stolenBases": 0,
-        "stolenBasesAttempts": 1,
-        "putouts": 62,
+        "stolenBasesAttempts": 2,
+        "putouts": 64,
         "assists": 1,
         "errors": 0,
-        "plateAppearances": 152,
-        "caughtStealing": 1,
+        "plateAppearances": 158,
+        "caughtStealing": 2,
         "pickedOff": 0
       },
       "pitchingStats": null,
@@ -1755,9 +1755,9 @@
         "jersey": "15",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/cooper-hinson/10703",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-11.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 27,
-        "putouts": 62,
+        "gamesPlayed": 28,
+        "gamesStarted": 28,
+        "putouts": 64,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1767,26 +1767,26 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 63
+        "totalChances": 65
       },
       "evaluation": {
-        "score": 53,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 69.44444444444444,
-          "Power": 50.26315789473686,
+          "On-base": 71.11111111111109,
+          "Power": 49.21052631578948,
           "Contact": 81.87499999999999,
-          "Discipline": 22.22222222222222,
+          "Discipline": 23.045267489711925,
           "Speed": 0
         },
         "summary": "Cooper Hinson profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
           "AVG .351",
-          "OBP .405",
-          "SLG .511"
+          "OBP .408",
+          "SLG .507"
         ],
         "statCards": [
           {
@@ -1795,11 +1795,11 @@
           },
           {
             "label": "OBP",
-            "value": ".405"
+            "value": ".408"
           },
           {
             "label": "SLG",
-            "value": ".511"
+            "value": ".507"
           },
           {
             "label": "HR",
@@ -1862,13 +1862,13 @@
         "jersey": "16",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/cleary-simpson/10987",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-02.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 33,
-        "battingAverage": 0.21,
-        "onBasePercentage": 0.384,
-        "sluggingPercentage": 0.286,
-        "ops": 0.67,
-        "atBats": 105,
+        "gamesPlayed": 34,
+        "gamesStarted": 34,
+        "battingAverage": 0.206,
+        "onBasePercentage": 0.387,
+        "sluggingPercentage": 0.28,
+        "ops": 0.667,
+        "atBats": 107,
         "runs": 20,
         "hits": 22,
         "doubles": 5,
@@ -1876,19 +1876,19 @@
         "homeRuns": 1,
         "runsBattedIn": 17,
         "totalBases": 30,
-        "walks": 25,
+        "walks": 27,
         "hitByPitch": 6,
-        "strikeouts": 20,
+        "strikeouts": 21,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 2,
         "sacrificeHits": 3,
-        "stolenBases": 5,
-        "stolenBasesAttempts": 5,
+        "stolenBases": 6,
+        "stolenBasesAttempts": 6,
         "putouts": 18,
-        "assists": 68,
+        "assists": 69,
         "errors": 8,
-        "plateAppearances": 146,
+        "plateAppearances": 151,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1900,51 +1900,51 @@
         "jersey": "16",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/cleary-simpson/10987",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-02.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
         "putouts": 18,
-        "assists": 68,
+        "assists": 69,
         "errors": 8,
-        "fieldingPercentage": 0.915,
+        "fieldingPercentage": 0.916,
         "doublePlays": 9,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 94
+        "totalChances": 95
       },
       "evaluation": {
-        "score": 34,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 57.77777777777777,
+          "On-base": 59.444444444444436,
           "Power": 0,
           "Contact": 0,
           "Discipline": 100,
-          "Speed": 16.666666666666664
+          "Speed": 20
         },
         "summary": "Cleary Simpson profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .210",
-          "OBP .384",
-          "SLG .286"
+          "AVG .206",
+          "OBP .387",
+          "SLG .280"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".210"
+            "value": ".206"
           },
           {
             "label": "OBP",
-            "value": ".384"
+            "value": ".387"
           },
           {
             "label": "SLG",
-            "value": ".286"
+            "value": ".280"
           },
           {
             "label": "HR",
@@ -1956,7 +1956,7 @@
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "6"
           }
         ],
         "metaLine": "GR / L/R",
@@ -2669,13 +2669,13 @@
         "jersey": "22",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/jack-smith/10716",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-08.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 24,
-        "battingAverage": 0.289,
-        "onBasePercentage": 0.327,
-        "sluggingPercentage": 0.351,
-        "ops": 0.678,
-        "atBats": 97,
+        "gamesPlayed": 26,
+        "gamesStarted": 25,
+        "battingAverage": 0.283,
+        "onBasePercentage": 0.321,
+        "sluggingPercentage": 0.343,
+        "ops": 0.664,
+        "atBats": 99,
         "runs": 14,
         "hits": 28,
         "doubles": 6,
@@ -2685,17 +2685,17 @@
         "totalBases": 34,
         "walks": 6,
         "hitByPitch": 1,
-        "strikeouts": 15,
+        "strikeouts": 16,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 3,
-        "sacrificeHits": 0,
+        "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 26,
-        "assists": 53,
+        "putouts": 27,
+        "assists": 54,
         "errors": 6,
-        "plateAppearances": 110,
+        "plateAppearances": 113,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2707,51 +2707,51 @@
         "jersey": "22",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/jack-smith/10716",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-08.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 23,
-        "putouts": 26,
-        "assists": 53,
+        "gamesPlayed": 25,
+        "gamesStarted": 24,
+        "putouts": 27,
+        "assists": 54,
         "errors": 6,
-        "fieldingPercentage": 0.929,
+        "fieldingPercentage": 0.931,
         "doublePlays": 12,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 85
+        "totalChances": 87
       },
       "evaluation": {
-        "score": 22,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 26.111111111111107,
-          "Power": 8.157894736842099,
-          "Contact": 43.124999999999986,
-          "Discipline": 22.22222222222222,
+          "On-base": 22.777777777777768,
+          "Power": 6.052631578947374,
+          "Contact": 39.374999999999986,
+          "Discipline": 19.44444444444444,
           "Speed": 3.3333333333333335
         },
         "summary": "Jack Smith gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .289",
-          "OBP .327",
-          "SLG .351"
+          "AVG .283",
+          "OBP .321",
+          "SLG .343"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": ".283"
           },
           {
             "label": "OBP",
-            "value": ".327"
+            "value": ".321"
           },
           {
             "label": "SLG",
-            "value": ".351"
+            "value": ".343"
           },
           {
             "label": "HR",
@@ -2814,13 +2814,13 @@
         "jersey": "23",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/aj-havrilla/10702",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-34.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "battingAverage": 0.268,
-        "onBasePercentage": 0.474,
-        "sluggingPercentage": 0.447,
-        "ops": 0.921,
-        "atBats": 123,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "battingAverage": 0.262,
+        "onBasePercentage": 0.469,
+        "sluggingPercentage": 0.437,
+        "ops": 0.906,
+        "atBats": 126,
         "runs": 29,
         "hits": 33,
         "doubles": 4,
@@ -2829,7 +2829,7 @@
         "runsBattedIn": 30,
         "totalBases": 55,
         "walks": 39,
-        "hitByPitch": 10,
+        "hitByPitch": 11,
         "strikeouts": 29,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
@@ -2837,10 +2837,10 @@
         "sacrificeHits": 2,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 307,
+        "putouts": 317,
         "assists": 18,
         "errors": 3,
-        "plateAppearances": 177,
+        "plateAppearances": 181,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2852,9 +2852,9 @@
         "jersey": "23",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/aj-havrilla/10702",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-34.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "putouts": 307,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "putouts": 317,
         "assists": 18,
         "errors": 3,
         "fieldingPercentage": 0.991,
@@ -2864,39 +2864,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 328
+        "totalChances": 338
       },
       "evaluation": {
-        "score": 61,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
           "On-base": 100,
-          "Power": 33.42105263157895,
-          "Contact": 30.00000000000001,
+          "Power": 30.789473684210527,
+          "Contact": 26.250000000000007,
           "Discipline": 100,
           "Speed": 6.666666666666667
         },
         "summary": "AJ Havrilla profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .268",
-          "OBP .474",
-          "SLG .447"
+          "AVG .262",
+          "OBP .469",
+          "SLG .437"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".268"
+            "value": ".262"
           },
           {
             "label": "OBP",
-            "value": ".474"
+            "value": ".469"
           },
           {
             "label": "SLG",
-            "value": ".447"
+            "value": ".437"
           },
           {
             "label": "HR",
@@ -3860,32 +3860,32 @@
         "jersey": "31",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/kenyon-collins/10691",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-12.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 9,
-        "appearances": 10,
+        "gamesPlayed": 11,
+        "gamesStarted": 10,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.15,
-        "whip": 1.71,
+        "earnedRunAverage": 5.36,
+        "whip": 1.6,
         "wins": 2,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 41,
-        "inningsPitchedDisplay": "41.0",
-        "hitsAllowed": 47,
-        "runsAllowed": 37,
+        "inningsPitched": 47,
+        "inningsPitchedDisplay": "47.0",
+        "hitsAllowed": 51,
+        "runsAllowed": 38,
         "earnedRunsAllowed": 28,
-        "walksAllowed": 23,
-        "strikeouts": 46,
-        "doublesAllowed": 10,
+        "walksAllowed": 24,
+        "strikeouts": 51,
+        "doublesAllowed": 12,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 159,
+        "opponentsAtBats": 180,
         "wildPitches": 8,
-        "hitBatters": 8,
+        "hitBatters": 9,
         "balks": 1,
-        "opponentsBattingAverage": 0.296,
-        "walksHits": 70
+        "opponentsBattingAverage": 0.283,
+        "walksHits": 75
       },
       "fieldingStats": {
         "rosterBioId": "10691",
@@ -3894,19 +3894,19 @@
         "jersey": "31",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/kenyon-collins/10691",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-12.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 6,
+        "gamesPlayed": 7,
+        "gamesStarted": 7,
         "putouts": 3,
-        "assists": 6,
+        "assists": 8,
         "errors": 1,
-        "fieldingPercentage": 0.9,
+        "fieldingPercentage": 0.917,
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 10
+        "totalChances": 12
       },
       "evaluation": {
         "score": 14,
@@ -3917,40 +3917,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 55.432372505543235,
-          "Command": 20,
+          "Miss bats": 52.417794970986456,
+          "Command": 22.499999999999993,
           "Damage suppression": 0
         },
         "summary": "Kenyon Collins looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.15",
-          "WHIP 1.71",
-          "K/9 10.1"
+          "ERA 5.36",
+          "WHIP 1.60",
+          "K/9 9.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.15"
+            "value": "5.36"
           },
           {
             "label": "WHIP",
-            "value": "1.71"
+            "value": "1.60"
           },
           {
             "label": "K/9",
-            "value": "10.1"
+            "value": "9.8"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "4.6"
           },
           {
             "label": "HR/9",
-            "value": "0.44"
+            "value": "0.38"
           },
           {
             "label": "IP",
-            "value": "41.0"
+            "value": "47.0"
           }
         ],
         "metaLine": "SO / R/R",
@@ -4609,13 +4609,13 @@
         "jersey": "42",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/oliver-service/10992",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-01.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 23,
-        "battingAverage": 0.284,
-        "onBasePercentage": 0.421,
-        "sluggingPercentage": 0.457,
-        "ops": 0.878,
-        "atBats": 81,
+        "gamesPlayed": 28,
+        "gamesStarted": 24,
+        "battingAverage": 0.271,
+        "onBasePercentage": 0.405,
+        "sluggingPercentage": 0.435,
+        "ops": 0.84,
+        "atBats": 85,
         "runs": 17,
         "hits": 23,
         "doubles": 4,
@@ -4625,7 +4625,7 @@
         "totalBases": 37,
         "walks": 14,
         "hitByPitch": 8,
-        "strikeouts": 24,
+        "strikeouts": 25,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 4,
@@ -4635,7 +4635,7 @@
         "putouts": 17,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 113,
+        "plateAppearances": 117,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -4662,36 +4662,36 @@
         "totalChances": 18
       },
       "evaluation": {
-        "score": 48,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 78.33333333333331,
-          "Power": 36.05263157894738,
-          "Contact": 39.99999999999998,
-          "Discipline": 42.59259259259259,
+          "On-base": 69.44444444444444,
+          "Power": 30.263157894736842,
+          "Contact": 31.875000000000007,
+          "Discipline": 40,
           "Speed": 6.666666666666667
         },
         "summary": "Oliver Service profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .284",
-          "OBP .421",
-          "SLG .457"
+          "AVG .271",
+          "OBP .405",
+          "SLG .435"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".284"
+            "value": ".271"
           },
           {
             "label": "OBP",
-            "value": ".421"
+            "value": ".405"
           },
           {
             "label": "SLG",
-            "value": ".457"
+            "value": ".435"
           },
           {
             "label": "HR",
@@ -5194,29 +5194,29 @@
         "position": "INF",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 60,
+        "score": 56,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Tyler Kamerer profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .350",
-          "OBP .411",
-          "SLG .510"
+          "AVG .342",
+          "OBP .402",
+          "SLG .497"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".350"
+            "value": ".342"
           },
           {
             "label": "OBP",
-            "value": ".411"
+            "value": ".402"
           },
           {
             "label": "SLG",
-            "value": ".510"
+            "value": ".497"
           },
           {
             "label": "HR",
@@ -5232,9 +5232,9 @@
           }
         ],
         "components": {
-          "On-base": 72.77777777777776,
-          "Power": 50.000000000000014,
-          "Contact": 81.24999999999999,
+          "On-base": 67.77777777777779,
+          "Power": 46.57894736842106,
+          "Contact": 76.25000000000001,
           "Discipline": 47.95321637426899,
           "Speed": 20
         },
@@ -5270,22 +5270,22 @@
         },
         "summary": "Evan Bottone profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .375",
-          "OBP .471",
-          "SLG .563"
+          "AVG .374",
+          "OBP .472",
+          "SLG .558"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".375"
+            "value": ".374"
           },
           {
             "label": "OBP",
-            "value": ".471"
+            "value": ".472"
           },
           {
             "label": "SLG",
-            "value": ".563"
+            "value": ".558"
           },
           {
             "label": "HR",
@@ -5293,7 +5293,7 @@
           },
           {
             "label": "RBI",
-            "value": "29"
+            "value": "30"
           },
           {
             "label": "SB",
@@ -5302,9 +5302,9 @@
         ],
         "components": {
           "On-base": 100,
-          "Power": 63.947368421052616,
-          "Contact": 96.875,
-          "Discipline": 59.903381642512066,
+          "Power": 62.63157894736844,
+          "Contact": 96.25,
+          "Discipline": 64.7342995169082,
           "Speed": 26.666666666666668
         },
         "metaLine": "JR / L/R",
@@ -5332,29 +5332,29 @@
         "position": "OF",
         "classYear": "GR",
         "handedness": "L/R",
-        "score": 33,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jackson Halter gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .259",
-          "OBP .363",
-          "SLG .460"
+          "AVG .254",
+          "OBP .360",
+          "SLG .451"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".259"
+            "value": ".254"
           },
           {
             "label": "OBP",
-            "value": ".363"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".460"
+            "value": ".451"
           },
           {
             "label": "HR",
@@ -5370,10 +5370,10 @@
           }
         ],
         "components": {
-          "On-base": 46.11111111111109,
-          "Power": 36.842105263157904,
-          "Contact": 24.375000000000004,
-          "Discipline": 28.282828282828277,
+          "On-base": 44.44444444444443,
+          "Power": 34.47368421052632,
+          "Contact": 21.250000000000004,
+          "Discipline": 31.649831649831643,
           "Speed": 3.3333333333333335
         },
         "metaLine": "GR / L/R",
@@ -5539,29 +5539,29 @@
         "position": "C",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 16,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jackson Golden gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .252",
-          "OBP .331",
-          "SLG .336"
+          "AVG .245",
+          "OBP .328",
+          "SLG .327"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".252"
+            "value": ".245"
           },
           {
             "label": "OBP",
-            "value": ".331"
+            "value": ".328"
           },
           {
             "label": "SLG",
-            "value": ".336"
+            "value": ".327"
           },
           {
             "label": "HR",
@@ -5577,10 +5577,10 @@
           }
         ],
         "components": {
-          "On-base": 28.33333333333333,
-          "Power": 4.210526315789478,
-          "Contact": 20,
-          "Discipline": 18.713450292397653,
+          "On-base": 26.66666666666666,
+          "Power": 1.8421052631578967,
+          "Contact": 15.624999999999996,
+          "Discipline": 24.561403508771924,
           "Speed": 0
         },
         "metaLine": "SO / R/R",
@@ -5677,25 +5677,25 @@
         "position": "LHP",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 30,
+        "score": 28,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Landen Doll looks like a LHP option who misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 6.07",
-          "WHIP 1.20",
+          "ERA 6.04",
+          "WHIP 1.16",
           "K/9 11.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.07"
+            "value": "6.04"
           },
           {
             "label": "WHIP",
-            "value": "1.20"
+            "value": "1.16"
           },
           {
             "label": "K/9",
@@ -5703,22 +5703,22 @@
           },
           {
             "label": "BB/9",
-            "value": "2.0"
+            "value": "2.2"
           },
           {
             "label": "HR/9",
-            "value": "1.01"
+            "value": "0.95"
           },
           {
             "label": "IP",
-            "value": "26.7"
+            "value": "28.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 71.02272727272727,
-          "Command": 96.66666666666669,
+          "Miss bats": 70.48128342245991,
+          "Command": 85.71428571428571,
           "Damage suppression": 0
         },
         "metaLine": "FR / L/L",
@@ -5751,43 +5751,43 @@
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Charlie Krebs looks like a RHP option who limits runs and misses bats.",
+        "summary": "Charlie Krebs looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 3.91",
-          "WHIP 1.61",
-          "K/9 11.0"
+          "ERA 4.63",
+          "WHIP 1.76",
+          "K/9 10.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.91"
+            "value": "4.63"
           },
           {
             "label": "WHIP",
-            "value": "1.61"
+            "value": "1.76"
           },
           {
             "label": "K/9",
-            "value": "11.0"
+            "value": "10.8"
           },
           {
             "label": "BB/9",
-            "value": "5.1"
+            "value": "5.0"
           },
           {
             "label": "HR/9",
-            "value": "1.57"
+            "value": "1.54"
           },
           {
             "label": "IP",
-            "value": "23.0"
+            "value": "23.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 63.24110671936759,
-          "Command": 23.076923076923077,
+          "Miss bats": 61.81818181818183,
+          "Command": 23.076923076923084,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -5953,7 +5953,7 @@
         "position": "OF",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 53,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5961,8 +5961,8 @@
         "summary": "Cooper Hinson profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
           "AVG .351",
-          "OBP .405",
-          "SLG .511"
+          "OBP .408",
+          "SLG .507"
         ],
         "statCards": [
           {
@@ -5971,11 +5971,11 @@
           },
           {
             "label": "OBP",
-            "value": ".405"
+            "value": ".408"
           },
           {
             "label": "SLG",
-            "value": ".511"
+            "value": ".507"
           },
           {
             "label": "HR",
@@ -5991,10 +5991,10 @@
           }
         ],
         "components": {
-          "On-base": 69.44444444444444,
-          "Power": 50.26315789473686,
+          "On-base": 71.11111111111109,
+          "Power": 49.21052631578948,
           "Contact": 81.87499999999999,
-          "Discipline": 22.22222222222222,
+          "Discipline": 23.045267489711925,
           "Speed": 0
         },
         "metaLine": "SO / L/R",
@@ -6022,29 +6022,29 @@
         "position": "INF",
         "classYear": "GR",
         "handedness": "L/R",
-        "score": 34,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cleary Simpson profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .210",
-          "OBP .384",
-          "SLG .286"
+          "AVG .206",
+          "OBP .387",
+          "SLG .280"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".210"
+            "value": ".206"
           },
           {
             "label": "OBP",
-            "value": ".384"
+            "value": ".387"
           },
           {
             "label": "SLG",
-            "value": ".286"
+            "value": ".280"
           },
           {
             "label": "HR",
@@ -6056,15 +6056,15 @@
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "6"
           }
         ],
         "components": {
-          "On-base": 57.77777777777777,
+          "On-base": 59.444444444444436,
           "Power": 0,
           "Contact": 0,
           "Discipline": 100,
-          "Speed": 16.666666666666664
+          "Speed": 20
         },
         "metaLine": "GR / L/R",
         "detailBadges": [
@@ -6435,29 +6435,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 22,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Smith gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .289",
-          "OBP .327",
-          "SLG .351"
+          "AVG .283",
+          "OBP .321",
+          "SLG .343"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": ".283"
           },
           {
             "label": "OBP",
-            "value": ".327"
+            "value": ".321"
           },
           {
             "label": "SLG",
-            "value": ".351"
+            "value": ".343"
           },
           {
             "label": "HR",
@@ -6473,10 +6473,10 @@
           }
         ],
         "components": {
-          "On-base": 26.111111111111107,
-          "Power": 8.157894736842099,
-          "Contact": 43.124999999999986,
-          "Discipline": 22.22222222222222,
+          "On-base": 22.777777777777768,
+          "Power": 6.052631578947374,
+          "Contact": 39.374999999999986,
+          "Discipline": 19.44444444444444,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / R/R",
@@ -6504,29 +6504,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 61,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "AJ Havrilla profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .268",
-          "OBP .474",
-          "SLG .447"
+          "AVG .262",
+          "OBP .469",
+          "SLG .437"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".268"
+            "value": ".262"
           },
           {
             "label": "OBP",
-            "value": ".474"
+            "value": ".469"
           },
           {
             "label": "SLG",
-            "value": ".447"
+            "value": ".437"
           },
           {
             "label": "HR",
@@ -6543,8 +6543,8 @@
         ],
         "components": {
           "On-base": 100,
-          "Power": 33.42105263157895,
-          "Contact": 30.00000000000001,
+          "Power": 30.789473684210527,
+          "Contact": 26.250000000000007,
           "Discipline": 100,
           "Speed": 6.666666666666667
         },
@@ -6994,41 +6994,41 @@
         },
         "summary": "Kenyon Collins looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.15",
-          "WHIP 1.71",
-          "K/9 10.1"
+          "ERA 5.36",
+          "WHIP 1.60",
+          "K/9 9.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.15"
+            "value": "5.36"
           },
           {
             "label": "WHIP",
-            "value": "1.71"
+            "value": "1.60"
           },
           {
             "label": "K/9",
-            "value": "10.1"
+            "value": "9.8"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "4.6"
           },
           {
             "label": "HR/9",
-            "value": "0.44"
+            "value": "0.38"
           },
           {
             "label": "IP",
-            "value": "41.0"
+            "value": "47.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 55.432372505543235,
-          "Command": 20,
+          "Miss bats": 52.417794970986456,
+          "Command": 22.499999999999993,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -7399,29 +7399,29 @@
         "position": "C",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 48,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Oliver Service profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .284",
-          "OBP .421",
-          "SLG .457"
+          "AVG .271",
+          "OBP .405",
+          "SLG .435"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".284"
+            "value": ".271"
           },
           {
             "label": "OBP",
-            "value": ".421"
+            "value": ".405"
           },
           {
             "label": "SLG",
-            "value": ".457"
+            "value": ".435"
           },
           {
             "label": "HR",
@@ -7437,10 +7437,10 @@
           }
         ],
         "components": {
-          "On-base": 78.33333333333331,
-          "Power": 36.05263157894738,
-          "Contact": 39.99999999999998,
-          "Discipline": 42.59259259259259,
+          "On-base": 69.44444444444444,
+          "Power": 30.263157894736842,
+          "Contact": 31.875000000000007,
+          "Discipline": 40,
           "Speed": 6.666666666666667
         },
         "metaLine": "JR / R/R",
