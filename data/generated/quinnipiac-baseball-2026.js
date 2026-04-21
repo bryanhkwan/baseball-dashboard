@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.quinnipiac2026 = {
-  "generatedAt": "2026-04-20T11:43:26.748Z",
+  "generatedAt": "2026-04-21T11:33:51.915Z",
   "season": 2026,
   "school": {
     "slug": "quinnipiac",
@@ -4017,7 +4017,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "whip": 0.77,
         "wins": 2,
         "losses": 1,
-        "saves": 4,
+        "saves": 5,
         "shutouts": 0,
         "inningsPitched": 22,
         "inningsPitchedDisplay": "22.0",

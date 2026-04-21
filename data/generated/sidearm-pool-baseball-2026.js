@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
-  "generatedAt": "2026-04-20T11:43:52.629Z",
+  "generatedAt": "2026-04-21T11:34:10.538Z",
   "season": 2026,
   "source": "Generated Sidearm baseball school-site pool",
   "note": "This generated free player pool combines verified public roster and cumulative stats pages from multiple Sidearm baseball programs. It is broader than Toledo alone, but still not a full every-school national directory yet.",
@@ -49186,7 +49186,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "summary": "Paxton Meyers looks like a RHP option who throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
           "ERA 4.70",
-          "WHIP 1.21",
+          "WHIP 1.17",
           "K/9 7.9"
         ],
         "statCards": [
@@ -49196,7 +49196,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.21"
+            "value": "1.17"
           },
           {
             "label": "K/9",
@@ -49530,14 +49530,14 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Greg Shaw III looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.45",
+          "ERA 3.14",
           "WHIP 1.60",
           "K/9 7.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.45"
+            "value": "3.14"
           },
           {
             "label": "WHIP",
@@ -167933,7 +167933,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 16,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -167942,7 +167942,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "summaryMetrics": [
           "ERA 3.91",
           "WHIP 1.26",
-          "K/9 8.5"
+          "K/9 8.9"
         ],
         "statCards": [
           {
@@ -167955,7 +167955,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "8.9"
           },
           {
             "label": "BB/9",
@@ -167973,8 +167973,8 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 41.148325358851686,
-          "Command": 48.57142857142858,
+          "Miss bats": 44.37799043062201,
+          "Command": 51.42857142857144,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",

@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.mercer2026 = {
-  "generatedAt": "2026-04-20T11:43:09.120Z",
+  "generatedAt": "2026-04-21T11:33:40.046Z",
   "season": 2026,
   "school": {
     "slug": "mercer",
@@ -68,7 +68,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
       "flyOuts": "337",
       "groundedIntoDoublePlay": "19",
       "pickedOff": "2",
-      "doublePlaysHitInto": "20",
+      "doublePlaysHitInto": "21",
       "triplePlaysHitInto": "0"
     },
     "fielding": {

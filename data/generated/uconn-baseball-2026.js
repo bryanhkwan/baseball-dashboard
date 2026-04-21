@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.uconn2026 = {
-  "generatedAt": "2026-04-20T11:42:37.881Z",
+  "generatedAt": "2026-04-21T11:33:18.755Z",
   "season": 2026,
   "school": {
     "slug": "uconn",
@@ -41,7 +41,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
   "teamSummary": {
     "record": "21-20, 7-5",
     "battingAverage": ".284",
-    "earnedRunAverage": "4.77",
+    "earnedRunAverage": "4.75",
     "wins": "21",
     "losses": "20",
     "hitting": {
@@ -74,15 +74,15 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
     "fielding": {
       "putouts": "1058",
       "assists": "364",
-      "errors": "44",
+      "errors": "45",
       "passedBalls": "10",
       "catchersInterference": "0",
       "stolenBasesAgainst": "46",
       "caughtStealingBy": "6",
       "involvedInDoublePlays": "32",
       "involvedInTriplePlays": "0",
-      "totalChances": "1466",
-      "fieldingPercentage": ".970"
+      "totalChances": "1467",
+      "fieldingPercentage": ".969"
     },
     "pitching": {
       "orderOfAppearance": "0",
@@ -94,9 +94,9 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
       "shutouts": "4",
       "creditForCombinedShutout": "0",
       "inningsPitched": "352.2",
-      "hitsAllowed": "386",
+      "hitsAllowed": "385",
       "runsAllowed": "224",
-      "earnedRunsAllowed": "187",
+      "earnedRunsAllowed": "186",
       "walksAllowed": "142",
       "strikeouts": "350",
       "battersFaced": "1606",
@@ -621,7 +621,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "stolenBasesAttempts": 6,
         "putouts": 67,
         "assists": 104,
-        "errors": 9,
+        "errors": 10,
         "plateAppearances": 184,
         "caughtStealing": 2,
         "pickedOff": 1
@@ -638,15 +638,15 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "gamesStarted": 38,
         "putouts": 67,
         "assists": 104,
-        "errors": 9,
-        "fieldingPercentage": 0.95,
+        "errors": 10,
+        "fieldingPercentage": 0.945,
         "doublePlays": 24,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 180
+        "totalChances": 181
       },
       "evaluation": {
         "score": 18,
@@ -3865,14 +3865,14 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "appearances": 17,
         "gamesCompleted": 0,
         "earnedRunAverage": 4.7,
-        "whip": 1.21,
+        "whip": 1.17,
         "wins": 1,
         "losses": 4,
         "saves": 3,
         "shutouts": 0,
         "inningsPitched": 30.666666666666668,
         "inningsPitchedDisplay": "30.2",
-        "hitsAllowed": 30,
+        "hitsAllowed": 29,
         "runsAllowed": 18,
         "earnedRunsAllowed": 16,
         "walksAllowed": 7,
@@ -3884,8 +3884,8 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "wildPitches": 3,
         "hitBatters": 6,
         "balks": 0,
-        "opponentsBattingAverage": 0.252,
-        "walksHits": 37
+        "opponentsBattingAverage": 0.244,
+        "walksHits": 36
       },
       "fieldingStats": {
         "rosterBioId": "15474",
@@ -3924,7 +3924,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "summary": "Paxton Meyers looks like a RHP option who throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
           "ERA 4.70",
-          "WHIP 1.21",
+          "WHIP 1.17",
           "K/9 7.9"
         ],
         "statCards": [
@@ -3934,7 +3934,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.21"
+            "value": "1.17"
           },
           {
             "label": "K/9",
@@ -4574,7 +4574,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "gamesStarted": 0,
         "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.45,
+        "earnedRunAverage": 3.14,
         "whip": 1.6,
         "wins": 4,
         "losses": 1,
@@ -4584,7 +4584,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "inningsPitchedDisplay": "28.2",
         "hitsAllowed": 35,
         "runsAllowed": 14,
-        "earnedRunsAllowed": 11,
+        "earnedRunsAllowed": 10,
         "walksAllowed": 11,
         "strikeouts": 25,
         "doublesAllowed": 5,
@@ -4633,14 +4633,14 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         },
         "summary": "Greg Shaw III looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.45",
+          "ERA 3.14",
           "WHIP 1.60",
           "K/9 7.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.45"
+            "value": "3.14"
           },
           {
             "label": "WHIP",
@@ -7367,7 +7367,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "summary": "Paxton Meyers looks like a RHP option who throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
           "ERA 4.70",
-          "WHIP 1.21",
+          "WHIP 1.17",
           "K/9 7.9"
         ],
         "statCards": [
@@ -7377,7 +7377,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.21"
+            "value": "1.17"
           },
           {
             "label": "K/9",
@@ -7711,14 +7711,14 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         },
         "summary": "Greg Shaw III looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.45",
+          "ERA 3.14",
           "WHIP 1.60",
           "K/9 7.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.45"
+            "value": "3.14"
           },
           {
             "label": "WHIP",

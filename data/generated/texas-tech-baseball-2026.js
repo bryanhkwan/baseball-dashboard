@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.texas-tech2026 = {
-  "generatedAt": "2026-04-20T11:43:44.279Z",
+  "generatedAt": "2026-04-21T11:34:02.352Z",
   "season": 2026,
   "school": {
     "slug": "texas-tech",
@@ -98,7 +98,7 @@ window.__BASEBALL_DATASETS__.texas-tech2026 = {
       "runsAllowed": "316",
       "earnedRunsAllowed": "280",
       "walksAllowed": "192",
-      "strikeouts": "300",
+      "strikeouts": "301",
       "battersFaced": "1624",
       "opponentAtBats": "1364",
       "doublesAllowed": "67",
@@ -114,8 +114,8 @@ window.__BASEBALL_DATASETS__.texas-tech2026 = {
       "sacrificeHitsAllowed": "5",
       "sacrificeFliesAllowed": "15",
       "catchersInterferenceAllowed": "2",
-      "pitches": "6315",
-      "flyouts": "314",
+      "pitches": "6316",
+      "flyouts": "313",
       "groundouts": "319",
       "teamUnearnedRuns": "1",
       "saveRecord": "1",
@@ -1377,7 +1377,7 @@ window.__BASEBALL_DATASETS__.texas-tech2026 = {
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 104,
+        "putouts": 103,
         "assists": 6,
         "errors": 0,
         "plateAppearances": 187,
@@ -1394,7 +1394,7 @@ window.__BASEBALL_DATASETS__.texas-tech2026 = {
         "imageUrl": "https://texastech.com/images/2025/10/1/Baseball_Headshots_Hughes_Logan_HS.png",
         "gamesPlayed": 34,
         "gamesStarted": 34,
-        "putouts": 104,
+        "putouts": 103,
         "assists": 6,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1404,7 +1404,7 @@ window.__BASEBALL_DATASETS__.texas-tech2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 110
+        "totalChances": 109
       },
       "evaluation": {
         "score": 84,
@@ -2499,7 +2499,7 @@ window.__BASEBALL_DATASETS__.texas-tech2026 = {
         "runsAllowed": 11,
         "earnedRunsAllowed": 11,
         "walksAllowed": 7,
-        "strikeouts": 24,
+        "strikeouts": 25,
         "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
@@ -2532,7 +2532,7 @@ window.__BASEBALL_DATASETS__.texas-tech2026 = {
         "totalChances": 5
       },
       "evaluation": {
-        "score": 16,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2540,15 +2540,15 @@ window.__BASEBALL_DATASETS__.texas-tech2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 41.148325358851686,
-          "Command": 48.57142857142858,
+          "Miss bats": 44.37799043062201,
+          "Command": 51.42857142857144,
           "Damage suppression": 0
         },
         "summary": "Jonny Lowe looks like a RHP option who limits runs and throws enough strikes.",
         "summaryMetrics": [
           "ERA 3.91",
           "WHIP 1.26",
-          "K/9 8.5"
+          "K/9 8.9"
         ],
         "statCards": [
           {
@@ -2561,7 +2561,7 @@ window.__BASEBALL_DATASETS__.texas-tech2026 = {
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "8.9"
           },
           {
             "label": "BB/9",
@@ -2934,7 +2934,7 @@ window.__BASEBALL_DATASETS__.texas-tech2026 = {
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 251,
+        "putouts": 252,
         "assists": 29,
         "errors": 3,
         "plateAppearances": 167,
@@ -2951,7 +2951,7 @@ window.__BASEBALL_DATASETS__.texas-tech2026 = {
         "imageUrl": "https://texastech.com/images/2025/10/1/Baseball_Headshots_Quintanar_Matt_HS.png",
         "gamesPlayed": 35,
         "gamesStarted": 35,
-        "putouts": 251,
+        "putouts": 252,
         "assists": 29,
         "errors": 3,
         "fieldingPercentage": 0.989,
@@ -2961,7 +2961,7 @@ window.__BASEBALL_DATASETS__.texas-tech2026 = {
         "stolenBasesPercentage": 0.714,
         "passedBalls": 3,
         "catchersInterference": 2,
-        "totalChances": 283
+        "totalChances": 284
       },
       "evaluation": {
         "score": 53,
@@ -6380,7 +6380,7 @@ window.__BASEBALL_DATASETS__.texas-tech2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 16,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -6389,7 +6389,7 @@ window.__BASEBALL_DATASETS__.texas-tech2026 = {
         "summaryMetrics": [
           "ERA 3.91",
           "WHIP 1.26",
-          "K/9 8.5"
+          "K/9 8.9"
         ],
         "statCards": [
           {
@@ -6402,7 +6402,7 @@ window.__BASEBALL_DATASETS__.texas-tech2026 = {
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "8.9"
           },
           {
             "label": "BB/9",
@@ -6420,8 +6420,8 @@ window.__BASEBALL_DATASETS__.texas-tech2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 41.148325358851686,
-          "Command": 48.57142857142858,
+          "Miss bats": 44.37799043062201,
+          "Command": 51.42857142857144,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
