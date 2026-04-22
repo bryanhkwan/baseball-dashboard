@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T11:33:41.891Z",
+  "generatedAt": "2026-04-22T11:22:09.045Z",
   "season": 2026,
   "school": {
     "slug": "michigan",
@@ -38,24 +38,24 @@
     }
   },
   "teamSummary": {
-    "record": "24-15, 10-8",
-    "battingAverage": ".273",
-    "earnedRunAverage": "4.40",
+    "record": "24-16, 10-8",
+    "battingAverage": ".276",
+    "earnedRunAverage": "4.61",
     "wins": "24",
-    "losses": "15",
+    "losses": "16",
     "hitting": {
-      "atBats": "1305",
-      "runsScored": "221",
-      "hits": "356",
-      "runsBattedIn": "200",
-      "doubles": "68",
-      "triples": "6",
-      "homeRuns": "28",
-      "walks": "161",
+      "atBats": "1347",
+      "runsScored": "231",
+      "hits": "372",
+      "runsBattedIn": "209",
+      "doubles": "71",
+      "triples": "7",
+      "homeRuns": "30",
+      "walks": "165",
       "intentionalWalks": "3",
-      "strikeouts": "325",
-      "strikeoutsLooking": "40",
-      "hitByPitch": "53",
+      "strikeouts": "332",
+      "strikeoutsLooking": "41",
+      "hitByPitch": "55",
       "stolenBases": "38",
       "caughtStealing": "18",
       "sacrificeHits": "23",
@@ -63,59 +63,59 @@
       "reachedOnCatchersInteference": "4",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "293",
-      "flyOuts": "308",
-      "groundedIntoDoublePlay": "28",
+      "groundOuts": "300",
+      "flyOuts": "319",
+      "groundedIntoDoublePlay": "30",
       "pickedOff": "3",
-      "doublePlaysHitInto": "28",
+      "doublePlaysHitInto": "30",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1019",
-      "assists": "371",
+      "putouts": "1043",
+      "assists": "382",
       "errors": "28",
       "passedBalls": "1",
       "catchersInterference": "0",
       "stolenBasesAgainst": "26",
       "caughtStealingBy": "13",
-      "involvedInDoublePlays": "28",
+      "involvedInDoublePlays": "29",
       "involvedInTriplePlays": "0",
-      "totalChances": "1418",
-      "fieldingPercentage": ".980"
+      "totalChances": "1453",
+      "fieldingPercentage": ".981"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "24",
-      "saves": "30",
-      "losses": "15",
+      "saves": "31",
+      "losses": "16",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "2",
       "creditForCombinedShutout": "1",
-      "inningsPitched": "339.2",
-      "hitsAllowed": "321",
-      "runsAllowed": "175",
-      "earnedRunsAllowed": "166",
-      "walksAllowed": "151",
-      "strikeouts": "297",
-      "battersFaced": "1504",
-      "opponentAtBats": "1277",
-      "doublesAllowed": "54",
+      "inningsPitched": "347.2",
+      "hitsAllowed": "335",
+      "runsAllowed": "187",
+      "earnedRunsAllowed": "178",
+      "walksAllowed": "156",
+      "strikeouts": "305",
+      "battersFaced": "1550",
+      "opponentAtBats": "1312",
+      "doublesAllowed": "56",
       "triplesAllowed": "12",
-      "homerunsAllowed": "25",
-      "wildPitches": "22",
+      "homerunsAllowed": "30",
+      "wildPitches": "25",
       "balks": "3",
-      "hitBatters": "49",
-      "strikeoutsLooking": "48",
+      "hitBatters": "54",
+      "strikeoutsLooking": "51",
       "intentionalWalks": "6",
-      "inheritedRunners": "75",
-      "inheritedRunnersThatScored": "34",
-      "sacrificeHitsAllowed": "14",
+      "inheritedRunners": "83",
+      "inheritedRunnersThatScored": "39",
+      "sacrificeHitsAllowed": "15",
       "sacrificeFliesAllowed": "13",
       "catchersInterferenceAllowed": "0",
-      "pitches": "5488",
-      "flyouts": "332",
-      "groundouts": "330",
+      "pitches": "5666",
+      "flyouts": "338",
+      "groundouts": "337",
       "teamUnearnedRuns": "0",
       "saveRecord": "12",
       "pickoff": "0"
@@ -160,22 +160,22 @@
         "jersey": "0",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/evan-haeger/27517",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-haeger.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 30,
-        "battingAverage": 0.296,
-        "onBasePercentage": 0.415,
+        "gamesPlayed": 36,
+        "gamesStarted": 31,
+        "battingAverage": 0.294,
+        "onBasePercentage": 0.419,
         "sluggingPercentage": 0.52,
-        "ops": 0.935,
-        "atBats": 98,
+        "ops": 0.939,
+        "atBats": 102,
         "runs": 20,
-        "hits": 29,
-        "doubles": 6,
+        "hits": 30,
+        "doubles": 7,
         "triples": 2,
         "homeRuns": 4,
         "runsBattedIn": 20,
-        "totalBases": 51,
-        "walks": 19,
-        "hitByPitch": 1,
+        "totalBases": 53,
+        "walks": 20,
+        "hitByPitch": 2,
         "strikeouts": 35,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
@@ -186,7 +186,7 @@
         "putouts": 71,
         "assists": 2,
         "errors": 1,
-        "plateAppearances": 136,
+        "plateAppearances": 142,
         "caughtStealing": 5,
         "pickedOff": 0
       },
@@ -213,32 +213,32 @@
         "totalChances": 74
       },
       "evaluation": {
-        "score": 53,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 74.99999999999997,
+          "On-base": 77.2222222222222,
           "Power": 52.63157894736843,
-          "Contact": 47.499999999999986,
-          "Discipline": 38.09523809523808,
+          "Contact": 46.249999999999986,
+          "Discipline": 41.26984126984126,
           "Speed": 13.333333333333334
         },
         "summary": "Evan Haeger profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .296",
-          "OBP .415",
+          "AVG .294",
+          "OBP .419",
           "SLG .520"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".296"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".415"
+            "value": ".419"
           },
           {
             "label": "SLG",
@@ -305,33 +305,33 @@
         "jersey": "2",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/brayden-jefferis/27457",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-jefferis.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 38,
-        "battingAverage": 0.313,
+        "gamesPlayed": 40,
+        "gamesStarted": 39,
+        "battingAverage": 0.315,
         "onBasePercentage": 0.415,
         "sluggingPercentage": 0.403,
         "ops": 0.818,
-        "atBats": 144,
+        "atBats": 149,
         "runs": 20,
-        "hits": 45,
+        "hits": 47,
         "doubles": 6,
         "triples": 2,
         "homeRuns": 1,
         "runsBattedIn": 26,
-        "totalBases": 58,
+        "totalBases": 60,
         "walks": 18,
         "hitByPitch": 8,
-        "strikeouts": 18,
+        "strikeouts": 19,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 2,
         "stolenBases": 6,
         "stolenBasesAttempts": 9,
-        "putouts": 26,
-        "assists": 82,
+        "putouts": 28,
+        "assists": 84,
         "errors": 1,
-        "plateAppearances": 185,
+        "plateAppearances": 190,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -343,22 +343,22 @@
         "jersey": "2",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/brayden-jefferis/27457",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-jefferis.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 35,
-        "putouts": 26,
-        "assists": 82,
+        "gamesPlayed": 37,
+        "gamesStarted": 36,
+        "putouts": 28,
+        "assists": 84,
         "errors": 1,
         "fieldingPercentage": 0.991,
-        "doublePlays": 5,
+        "doublePlays": 6,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 109
+        "totalChances": 113
       },
       "evaluation": {
-        "score": 55,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -366,20 +366,20 @@
         "components": {
           "On-base": 74.99999999999997,
           "Power": 21.8421052631579,
-          "Contact": 58.12499999999999,
-          "Discipline": 88.88888888888889,
+          "Contact": 59.375,
+          "Discipline": 83.04093567251459,
           "Speed": 20
         },
-        "summary": "Brayden Jefferis profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Brayden Jefferis profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .313",
+          "AVG .315",
           "OBP .415",
           "SLG .403"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".313"
+            "value": ".315"
           },
           {
             "label": "OBP",
@@ -450,23 +450,23 @@
         "jersey": "3",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/greg-pace-jr/27469",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-pace.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 38,
-        "battingAverage": 0.254,
-        "onBasePercentage": 0.358,
-        "sluggingPercentage": 0.36,
-        "ops": 0.718,
-        "atBats": 114,
-        "runs": 18,
-        "hits": 29,
+        "gamesPlayed": 40,
+        "gamesStarted": 39,
+        "battingAverage": 0.261,
+        "onBasePercentage": 0.359,
+        "sluggingPercentage": 0.378,
+        "ops": 0.737,
+        "atBats": 119,
+        "runs": 19,
+        "hits": 31,
         "doubles": 6,
-        "triples": 0,
+        "triples": 1,
         "homeRuns": 2,
         "runsBattedIn": 17,
-        "totalBases": 41,
+        "totalBases": 45,
         "walks": 14,
         "hitByPitch": 6,
-        "strikeouts": 40,
+        "strikeouts": 41,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 3,
@@ -474,9 +474,9 @@
         "stolenBases": 8,
         "stolenBasesAttempts": 10,
         "putouts": 76,
-        "assists": 3,
+        "assists": 4,
         "errors": 0,
-        "plateAppearances": 151,
+        "plateAppearances": 156,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -488,10 +488,10 @@
         "jersey": "3",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/greg-pace-jr/27469",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-pace.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
         "putouts": 76,
-        "assists": 3,
+        "assists": 4,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -500,39 +500,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 79
+        "totalChances": 80
       },
       "evaluation": {
-        "score": 25,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 43.333333333333314,
-          "Power": 10.526315789473681,
-          "Contact": 21.250000000000004,
-          "Discipline": 16.66666666666666,
+          "On-base": 43.888888888888864,
+          "Power": 15.263157894736842,
+          "Contact": 25.625000000000004,
+          "Discipline": 15.718157181571815,
           "Speed": 26.666666666666668
         },
         "summary": "Greg Pace Jr. profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .254",
-          "OBP .358",
-          "SLG .360"
+          "AVG .261",
+          "OBP .359",
+          "SLG .378"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".254"
+            "value": ".261"
           },
           {
             "label": "OBP",
-            "value": ".358"
+            "value": ".359"
           },
           {
             "label": "SLG",
-            "value": ".360"
+            "value": ".378"
           },
           {
             "label": "HR",
@@ -595,33 +595,33 @@
         "jersey": "4",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/noah-miller/27465",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-miller.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 29,
-        "battingAverage": 0.293,
-        "onBasePercentage": 0.403,
-        "sluggingPercentage": 0.414,
-        "ops": 0.817,
-        "atBats": 99,
-        "runs": 14,
-        "hits": 29,
-        "doubles": 6,
+        "gamesPlayed": 32,
+        "gamesStarted": 30,
+        "battingAverage": 0.301,
+        "onBasePercentage": 0.407,
+        "sluggingPercentage": 0.427,
+        "ops": 0.834,
+        "atBats": 103,
+        "runs": 16,
+        "hits": 31,
+        "doubles": 7,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 18,
-        "totalBases": 41,
+        "totalBases": 44,
         "walks": 12,
         "hitByPitch": 7,
         "strikeouts": 22,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
+        "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 212,
-        "assists": 17,
+        "putouts": 220,
+        "assists": 18,
         "errors": 3,
-        "plateAppearances": 121,
+        "plateAppearances": 125,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -633,51 +633,51 @@
         "jersey": "4",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/noah-miller/27465",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-miller.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 29,
-        "putouts": 212,
-        "assists": 17,
+        "gamesPlayed": 31,
+        "gamesStarted": 30,
+        "putouts": 220,
+        "assists": 18,
         "errors": 3,
-        "fieldingPercentage": 0.987,
+        "fieldingPercentage": 0.988,
         "doublePlays": 0,
         "stolenBasesAgainst": 18,
         "caughtStealingBy": 6,
         "stolenBasesPercentage": 0.75,
         "passedBalls": 1,
         "catchersInterference": 0,
-        "totalChances": 232
+        "totalChances": 241
       },
       "evaluation": {
-        "score": 42,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 68.33333333333333,
-          "Power": 24.736842105263154,
-          "Contact": 45.624999999999986,
+          "On-base": 70.55555555555553,
+          "Power": 28.157894736842103,
+          "Contact": 50.624999999999986,
           "Discipline": 38.38383838383837,
           "Speed": 3.3333333333333335
         },
         "summary": "Noah Miller profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .293",
-          "OBP .403",
-          "SLG .414"
+          "AVG .301",
+          "OBP .407",
+          "SLG .427"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".293"
+            "value": ".301"
           },
           {
             "label": "OBP",
-            "value": ".403"
+            "value": ".407"
           },
           {
             "label": "SLG",
-            "value": ".414"
+            "value": ".427"
           },
           {
             "label": "HR",
@@ -1169,33 +1169,33 @@
         "jersey": "8",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/drew-culbertson/27524",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-culbertson.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "battingAverage": 0.195,
-        "onBasePercentage": 0.326,
-        "sluggingPercentage": 0.257,
-        "ops": 0.583,
-        "atBats": 113,
-        "runs": 18,
-        "hits": 22,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "battingAverage": 0.2,
+        "onBasePercentage": 0.333,
+        "sluggingPercentage": 0.261,
+        "ops": 0.594,
+        "atBats": 115,
+        "runs": 19,
+        "hits": 23,
         "doubles": 2,
         "triples": 1,
         "homeRuns": 1,
-        "runsBattedIn": 11,
-        "totalBases": 29,
-        "walks": 12,
+        "runsBattedIn": 12,
+        "totalBases": 30,
+        "walks": 13,
         "hitByPitch": 10,
-        "strikeouts": 40,
+        "strikeouts": 41,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 6,
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
-        "putouts": 54,
-        "assists": 104,
+        "putouts": 55,
+        "assists": 105,
         "errors": 9,
-        "plateAppearances": 151,
+        "plateAppearances": 154,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -1207,51 +1207,51 @@
         "jersey": "8",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/drew-culbertson/27524",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-culbertson.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "putouts": 54,
-        "assists": 104,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "putouts": 55,
+        "assists": 105,
         "errors": 9,
-        "fieldingPercentage": 0.946,
+        "fieldingPercentage": 0.947,
         "doublePlays": 19,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 167
+        "totalChances": 169
       },
       "evaluation": {
-        "score": 11,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 25.555555555555546,
+          "On-base": 29.44444444444444,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 11.111111111111107,
+          "Discipline": 13.008130081300811,
           "Speed": 13.333333333333334
         },
         "summary": "Drew Culbertson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .195",
-          "OBP .326",
-          "SLG .257"
+          "AVG .200",
+          "OBP .333",
+          "SLG .261"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".195"
+            "value": ".200"
           },
           {
             "label": "OBP",
-            "value": ".326"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".257"
+            "value": ".261"
           },
           {
             "label": "HR",
@@ -1259,7 +1259,7 @@
           },
           {
             "label": "RBI",
-            "value": "11"
+            "value": "12"
           },
           {
             "label": "SB",
@@ -1599,32 +1599,32 @@
         "jersey": "12",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/max-debiec/27454",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-debiec.jpg",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 1,
-        "appearances": 15,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.71,
-        "whip": 1.85,
+        "earnedRunAverage": 7.71,
+        "whip": 2.04,
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 17.333333333333332,
-        "inningsPitchedDisplay": "17.1",
-        "hitsAllowed": 20,
-        "runsAllowed": 11,
-        "earnedRunsAllowed": 11,
-        "walksAllowed": 12,
-        "strikeouts": 16,
-        "doublesAllowed": 5,
+        "inningsPitched": 18.666666666666668,
+        "inningsPitchedDisplay": "18.2",
+        "hitsAllowed": 23,
+        "runsAllowed": 16,
+        "earnedRunsAllowed": 16,
+        "walksAllowed": 15,
+        "strikeouts": 18,
+        "doublesAllowed": 7,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 64,
-        "wildPitches": 1,
-        "hitBatters": 2,
+        "opponentsAtBats": 70,
+        "wildPitches": 2,
+        "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.313,
-        "walksHits": 32
+        "opponentsBattingAverage": 0.329,
+        "walksHits": 38
       },
       "fieldingStats": {
         "rosterBioId": "27454",
@@ -1656,40 +1656,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.16083916083917,
-          "Command": 6.66666666666667,
+          "Miss bats": 42.532467532467535,
+          "Command": 4.0000000000000036,
           "Damage suppression": 0
         },
         "summary": "Max Debiec gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.71",
-          "WHIP 1.85",
-          "K/9 8.3"
+          "ERA 7.71",
+          "WHIP 2.04",
+          "K/9 8.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.71"
+            "value": "7.71"
           },
           {
             "label": "WHIP",
-            "value": "1.85"
+            "value": "2.04"
           },
           {
             "label": "K/9",
-            "value": "8.3"
+            "value": "8.7"
           },
           {
             "label": "BB/9",
-            "value": "6.2"
+            "value": "7.2"
           },
           {
             "label": "HR/9",
-            "value": "1.04"
+            "value": "0.96"
           },
           {
             "label": "IP",
-            "value": "17.3"
+            "value": "18.7"
           }
         ],
         "metaLine": "SR / N/A",
@@ -1740,33 +1740,33 @@
         "jersey": "14",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/colby-turner/27473",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-turner.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "battingAverage": 0.397,
-        "onBasePercentage": 0.451,
-        "sluggingPercentage": 0.667,
-        "ops": 1.118,
-        "atBats": 156,
-        "runs": 40,
-        "hits": 62,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "battingAverage": 0.398,
+        "onBasePercentage": 0.453,
+        "sluggingPercentage": 0.677,
+        "ops": 1.13,
+        "atBats": 161,
+        "runs": 42,
+        "hits": 64,
         "doubles": 15,
         "triples": 0,
-        "homeRuns": 9,
-        "runsBattedIn": 34,
-        "totalBases": 104,
-        "walks": 12,
+        "homeRuns": 10,
+        "runsBattedIn": 38,
+        "totalBases": 109,
+        "walks": 13,
         "hitByPitch": 4,
         "strikeouts": 21,
         "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 5,
+        "groundedIntoDoublePlay": 6,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 9,
         "stolenBasesAttempts": 12,
         "putouts": 65,
-        "assists": 65,
+        "assists": 69,
         "errors": 5,
-        "plateAppearances": 188,
+        "plateAppearances": 194,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -1778,59 +1778,59 @@
         "jersey": "14",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/colby-turner/27473",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-turner.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 35,
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
         "putouts": 65,
-        "assists": 65,
+        "assists": 69,
         "errors": 5,
-        "fieldingPercentage": 0.963,
+        "fieldingPercentage": 0.964,
         "doublePlays": 11,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 135
+        "totalChances": 139
       },
       "evaluation": {
-        "score": 81,
+        "score": 83,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "components": {
-          "On-base": 95,
-          "Power": 91.31578947368423,
+          "On-base": 96.1111111111111,
+          "Power": 93.94736842105266,
           "Contact": 100,
-          "Discipline": 41.26984126984126,
+          "Discipline": 46.56084656084655,
           "Speed": 30
         },
         "summary": "Colby Turner profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .397",
-          "OBP .451",
-          "SLG .667"
+          "AVG .398",
+          "OBP .453",
+          "SLG .677"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".397"
+            "value": ".398"
           },
           {
             "label": "OBP",
-            "value": ".451"
+            "value": ".453"
           },
           {
             "label": "SLG",
-            "value": ".667"
+            "value": ".677"
           },
           {
             "label": "HR",
-            "value": "9"
+            "value": "10"
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "38"
           },
           {
             "label": "SB",
@@ -1885,7 +1885,7 @@
         "jersey": "15",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/carson-luna/27528",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-luna.jpg",
-        "gamesPlayed": 22,
+        "gamesPlayed": 23,
         "gamesStarted": 14,
         "battingAverage": 0.23,
         "onBasePercentage": 0.299,
@@ -2172,20 +2172,20 @@
         "jersey": "18",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/brenden-stressler/27529",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-stressler.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 27,
-        "battingAverage": 0.232,
-        "onBasePercentage": 0.33,
-        "sluggingPercentage": 0.313,
-        "ops": 0.643,
-        "atBats": 99,
+        "gamesPlayed": 30,
+        "gamesStarted": 28,
+        "battingAverage": 0.233,
+        "onBasePercentage": 0.328,
+        "sluggingPercentage": 0.311,
+        "ops": 0.639,
+        "atBats": 103,
         "runs": 13,
-        "hits": 23,
+        "hits": 24,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 13,
-        "totalBases": 31,
+        "totalBases": 32,
         "walks": 13,
         "hitByPitch": 2,
         "strikeouts": 29,
@@ -2195,10 +2195,10 @@
         "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 3,
-        "putouts": 35,
+        "putouts": 40,
         "assists": 1,
         "errors": 1,
-        "plateAppearances": 121,
+        "plateAppearances": 125,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -2210,19 +2210,19 @@
         "jersey": "18",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/brenden-stressler/27529",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-stressler.jpg",
-        "gamesPlayed": 18,
-        "gamesStarted": 17,
-        "putouts": 35,
+        "gamesPlayed": 19,
+        "gamesStarted": 18,
+        "putouts": 40,
         "assists": 1,
         "errors": 1,
-        "fieldingPercentage": 0.973,
+        "fieldingPercentage": 0.976,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 37
+        "totalChances": 42
       },
       "evaluation": {
         "score": 14,
@@ -2231,30 +2231,30 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 27.777777777777775,
+          "On-base": 26.66666666666666,
           "Power": 0,
-          "Contact": 7.500000000000007,
+          "Contact": 8.125000000000007,
           "Discipline": 27.58620689655172,
           "Speed": 3.3333333333333335
         },
         "summary": "Brenden Stressler gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .232",
-          "OBP .330",
-          "SLG .313"
+          "AVG .233",
+          "OBP .328",
+          "SLG .311"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".232"
+            "value": ".233"
           },
           {
             "label": "OBP",
-            "value": ".330"
+            "value": ".328"
           },
           {
             "label": "SLG",
-            "value": ".313"
+            "value": ".311"
           },
           {
             "label": "HR",
@@ -2318,32 +2318,32 @@
         "jersey": "19",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/brandon-mann/27464",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-mann.jpg",
-        "gamesPlayed": 8,
+        "gamesPlayed": 9,
         "gamesStarted": 0,
-        "appearances": 8,
+        "appearances": 9,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.7,
-        "whip": 1.43,
+        "earnedRunAverage": 5.4,
+        "whip": 1.56,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 7.666666666666667,
-        "inningsPitchedDisplay": "7.2",
-        "hitsAllowed": 8,
-        "runsAllowed": 4,
-        "earnedRunsAllowed": 4,
+        "inningsPitched": 8.333333333333334,
+        "inningsPitchedDisplay": "8.1",
+        "hitsAllowed": 10,
+        "runsAllowed": 5,
+        "earnedRunsAllowed": 5,
         "walksAllowed": 3,
         "strikeouts": 3,
         "doublesAllowed": 0,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 28,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 32,
         "wildPitches": 1,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.286,
-        "walksHits": 11
+        "opponentsBattingAverage": 0.313,
+        "walksHits": 13
       },
       "fieldingStats": {
         "rosterBioId": "27464",
@@ -2381,34 +2381,34 @@
         },
         "summary": "Brandon Mann gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.70",
-          "WHIP 1.43",
-          "K/9 3.5"
+          "ERA 5.40",
+          "WHIP 1.56",
+          "K/9 3.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.70"
+            "value": "5.40"
           },
           {
             "label": "WHIP",
-            "value": "1.43"
+            "value": "1.56"
           },
           {
             "label": "K/9",
-            "value": "3.5"
+            "value": "3.2"
           },
           {
             "label": "BB/9",
-            "value": "3.5"
+            "value": "3.2"
           },
           {
             "label": "HR/9",
-            "value": "1.17"
+            "value": "2.16"
           },
           {
             "label": "IP",
-            "value": "7.7"
+            "value": "8.3"
           }
         ],
         "metaLine": "SR / N/A",
@@ -2750,32 +2750,32 @@
         "jersey": "22",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/wyatt-novara/27467",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-novara.jpg",
-        "gamesPlayed": 5,
+        "gamesPlayed": 6,
         "gamesStarted": 0,
-        "appearances": 5,
+        "appearances": 6,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.71,
-        "whip": 1.5,
+        "earnedRunAverage": 7.94,
+        "whip": 1.41,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 4.666666666666667,
-        "inningsPitchedDisplay": "4.2",
-        "hitsAllowed": 5,
-        "runsAllowed": 4,
-        "earnedRunsAllowed": 4,
+        "inningsPitched": 5.666666666666667,
+        "inningsPitchedDisplay": "5.2",
+        "hitsAllowed": 6,
+        "runsAllowed": 5,
+        "earnedRunsAllowed": 5,
         "walksAllowed": 2,
-        "strikeouts": 6,
+        "strikeouts": 7,
         "doublesAllowed": 1,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 17,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 21,
         "wildPitches": 0,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.294,
-        "walksHits": 7
+        "opponentsBattingAverage": 0.286,
+        "walksHits": 8
       },
       "fieldingStats": {
         "rosterBioId": "27467",
@@ -2799,7 +2799,7 @@
         "totalChances": 1
       },
       "evaluation": {
-        "score": 20,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2807,40 +2807,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 68.83116883116884,
-          "Command": 40.00000000000001,
+          "Miss bats": 64.70588235294117,
+          "Command": 50,
           "Damage suppression": 0
         },
         "summary": "Wyatt Novara looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 7.71",
-          "WHIP 1.50",
-          "K/9 11.6"
+          "ERA 7.94",
+          "WHIP 1.41",
+          "K/9 11.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.71"
+            "value": "7.94"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.41"
           },
           {
             "label": "K/9",
-            "value": "11.6"
+            "value": "11.1"
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "3.2"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "1.59"
           },
           {
             "label": "IP",
-            "value": "4.7"
+            "value": "5.7"
           }
         ],
         "metaLine": "JR / N/A",
@@ -3033,7 +3033,7 @@
         "jersey": "24",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/elie-kligman/27514",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-kligman.jpg",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 10,
         "battingAverage": 0.262,
         "onBasePercentage": 0.326,
@@ -3465,20 +3465,20 @@
         "jersey": "27",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/jack-laffitte/27525",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-laffitte.jpg",
-        "gamesPlayed": 22,
+        "gamesPlayed": 23,
         "gamesStarted": 6,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.415,
-        "sluggingPercentage": 0.281,
-        "ops": 0.696,
-        "atBats": 32,
-        "runs": 4,
-        "hits": 8,
+        "battingAverage": 0.273,
+        "onBasePercentage": 0.429,
+        "sluggingPercentage": 0.303,
+        "ops": 0.732,
+        "atBats": 33,
+        "runs": 5,
+        "hits": 9,
         "doubles": 1,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 5,
-        "totalBases": 9,
+        "totalBases": 10,
         "walks": 7,
         "hitByPitch": 2,
         "strikeouts": 5,
@@ -3491,7 +3491,7 @@
         "putouts": 10,
         "assists": 2,
         "errors": 0,
-        "plateAppearances": 41,
+        "plateAppearances": 42,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3518,36 +3518,36 @@
         "totalChances": 12
       },
       "evaluation": {
-        "score": 41,
+        "score": 46,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 74.99999999999997,
+          "On-base": 82.77777777777776,
           "Power": 0,
-          "Contact": 18.75,
+          "Contact": 33.12500000000001,
           "Discipline": 100,
           "Speed": 0
         },
         "summary": "Jack Laffitte profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .415",
-          "SLG .281"
+          "AVG .273",
+          "OBP .429",
+          "SLG .303"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".415"
+            "value": ".429"
           },
           {
             "label": "SLG",
-            "value": ".281"
+            "value": ".303"
           },
           {
             "label": "HR",
@@ -3610,21 +3610,21 @@
         "jersey": "28",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/cade-ladehoff/27460",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-ladehoff.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 31,
-        "battingAverage": 0.243,
-        "onBasePercentage": 0.353,
-        "sluggingPercentage": 0.405,
-        "ops": 0.758,
-        "atBats": 111,
-        "runs": 15,
-        "hits": 27,
-        "doubles": 7,
+        "gamesPlayed": 36,
+        "gamesStarted": 32,
+        "battingAverage": 0.261,
+        "onBasePercentage": 0.369,
+        "sluggingPercentage": 0.452,
+        "ops": 0.821,
+        "atBats": 115,
+        "runs": 17,
+        "hits": 30,
+        "doubles": 8,
         "triples": 1,
-        "homeRuns": 3,
-        "runsBattedIn": 20,
-        "totalBases": 45,
-        "walks": 17,
+        "homeRuns": 4,
+        "runsBattedIn": 24,
+        "totalBases": 52,
+        "walks": 18,
         "hitByPitch": 4,
         "strikeouts": 25,
         "intentionalWalks": 1,
@@ -3633,10 +3633,10 @@
         "sacrificeHits": 1,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 84,
+        "putouts": 90,
         "assists": 4,
         "errors": 0,
-        "plateAppearances": 137,
+        "plateAppearances": 142,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3648,9 +3648,9 @@
         "jersey": "28",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/cade-ladehoff/27460",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-ladehoff.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 14,
-        "putouts": 84,
+        "gamesPlayed": 15,
+        "gamesStarted": 15,
+        "putouts": 90,
         "assists": 4,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -3660,47 +3660,47 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 88
+        "totalChances": 94
       },
       "evaluation": {
-        "score": 29,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 40.555555555555536,
-          "Power": 22.368421052631586,
-          "Contact": 14.374999999999996,
-          "Discipline": 53.333333333333336,
+          "On-base": 49.44444444444443,
+          "Power": 34.736842105263165,
+          "Contact": 25.625000000000004,
+          "Discipline": 57.77777777777777,
           "Speed": 0
         },
         "summary": "Cade Ladehoff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .243",
-          "OBP .353",
-          "SLG .405"
+          "AVG .261",
+          "OBP .369",
+          "SLG .452"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".243"
+            "value": ".261"
           },
           {
             "label": "OBP",
-            "value": ".353"
+            "value": ".369"
           },
           {
             "label": "SLG",
-            "value": ".405"
+            "value": ".452"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "4"
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "24"
           },
           {
             "label": "SB",
@@ -3792,32 +3792,32 @@
         "jersey": "29",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/keegan-o-hearn/27468",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-ohearn.jpg",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 0,
-        "appearances": 7,
+        "appearances": 8,
         "gamesCompleted": 0,
         "earnedRunAverage": 3.86,
-        "whip": 1.71,
+        "whip": 2.14,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
         "inningsPitched": 4.666666666666667,
         "inningsPitchedDisplay": "4.2",
-        "hitsAllowed": 3,
+        "hitsAllowed": 4,
         "runsAllowed": 2,
         "earnedRunsAllowed": 2,
-        "walksAllowed": 5,
+        "walksAllowed": 6,
         "strikeouts": 2,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 15,
-        "wildPitches": 2,
+        "opponentsAtBats": 16,
+        "wildPitches": 3,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.2,
-        "walksHits": 8
+        "opponentsBattingAverage": 0.25,
+        "walksHits": 10
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3836,7 +3836,7 @@
         "summary": "Keegan O'Hearn looks like a LHP option who limits runs.",
         "summaryMetrics": [
           "ERA 3.86",
-          "WHIP 1.71",
+          "WHIP 2.14",
           "K/9 3.9"
         ],
         "statCards": [
@@ -3846,7 +3846,7 @@
           },
           {
             "label": "WHIP",
-            "value": "1.71"
+            "value": "2.14"
           },
           {
             "label": "K/9",
@@ -3854,7 +3854,7 @@
           },
           {
             "label": "BB/9",
-            "value": "9.6"
+            "value": "11.6"
           },
           {
             "label": "HR/9",
@@ -4265,13 +4265,13 @@
         "jersey": "35",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/matthew-ossenfort/27530",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-ossenfort.jpg",
-        "gamesPlayed": 37,
+        "gamesPlayed": 38,
         "gamesStarted": 19,
-        "battingAverage": 0.231,
-        "onBasePercentage": 0.341,
-        "sluggingPercentage": 0.321,
-        "ops": 0.662,
-        "atBats": 78,
+        "battingAverage": 0.225,
+        "onBasePercentage": 0.333,
+        "sluggingPercentage": 0.313,
+        "ops": 0.646,
+        "atBats": 80,
         "runs": 12,
         "hits": 18,
         "doubles": 4,
@@ -4281,17 +4281,17 @@
         "totalBases": 25,
         "walks": 11,
         "hitByPitch": 2,
-        "strikeouts": 22,
+        "strikeouts": 24,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 191,
+        "putouts": 193,
         "assists": 5,
         "errors": 1,
-        "plateAppearances": 91,
+        "plateAppearances": 93,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4303,51 +4303,51 @@
         "jersey": "35",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/matthew-ossenfort/27530",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-ossenfort.jpg",
-        "gamesPlayed": 34,
+        "gamesPlayed": 35,
         "gamesStarted": 19,
-        "putouts": 191,
+        "putouts": 193,
         "assists": 5,
         "errors": 1,
         "fieldingPercentage": 0.995,
-        "doublePlays": 19,
+        "doublePlays": 20,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 197
+        "totalChances": 199
       },
       "evaluation": {
-        "score": 17,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 33.88888888888889,
-          "Power": 0.26315789473684237,
-          "Contact": 6.875000000000006,
-          "Discipline": 33.33333333333333,
+          "On-base": 29.44444444444444,
+          "Power": 0,
+          "Contact": 3.1250000000000027,
+          "Discipline": 28.7037037037037,
           "Speed": 0
         },
         "summary": "Matthew Ossenfort gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .231",
-          "OBP .341",
-          "SLG .321"
+          "AVG .225",
+          "OBP .333",
+          "SLG .313"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".231"
+            "value": ".225"
           },
           {
             "label": "OBP",
-            "value": ".341"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".321"
+            "value": ".313"
           },
           {
             "label": "HR",
@@ -4556,32 +4556,32 @@
         "jersey": "38",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/slade-moore/27521",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-moore.jpg",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 0,
-        "appearances": 7,
+        "appearances": 8,
         "gamesCompleted": 0,
-        "earnedRunAverage": 9.45,
-        "whip": 2.55,
+        "earnedRunAverage": 7.56,
+        "whip": 2.28,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 6.666666666666667,
-        "inningsPitchedDisplay": "6.2",
-        "hitsAllowed": 12,
+        "inningsPitched": 8.333333333333334,
+        "inningsPitchedDisplay": "8.1",
+        "hitsAllowed": 14,
         "runsAllowed": 7,
         "earnedRunsAllowed": 7,
         "walksAllowed": 5,
-        "strikeouts": 3,
+        "strikeouts": 5,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 32,
-        "wildPitches": 0,
-        "hitBatters": 2,
+        "opponentsAtBats": 38,
+        "wildPitches": 1,
+        "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.375,
-        "walksHits": 17
+        "opponentsBattingAverage": 0.368,
+        "walksHits": 19
       },
       "fieldingStats": {
         "rosterBioId": "27521",
@@ -4590,10 +4590,10 @@
         "jersey": "38",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/slade-moore/27521",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-moore.jpg",
-        "gamesPlayed": 3,
+        "gamesPlayed": 4,
         "gamesStarted": 0,
         "putouts": 0,
-        "assists": 3,
+        "assists": 4,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -4602,10 +4602,10 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 3
+        "totalChances": 4
       },
       "evaluation": {
-        "score": 0,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4613,40 +4613,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 0.454545454545453,
+          "Miss bats": 12.727272727272723,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Slade Moore gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.45",
-          "WHIP 2.55",
-          "K/9 4.0"
+          "ERA 7.56",
+          "WHIP 2.28",
+          "K/9 5.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.45"
+            "value": "7.56"
           },
           {
             "label": "WHIP",
-            "value": "2.55"
+            "value": "2.28"
           },
           {
             "label": "K/9",
-            "value": "4.0"
+            "value": "5.4"
           },
           {
             "label": "BB/9",
-            "value": "6.8"
+            "value": "5.4"
           },
           {
             "label": "HR/9",
-            "value": "1.35"
+            "value": "1.08"
           },
           {
             "label": "IP",
-            "value": "6.7"
+            "value": "8.3"
           }
         ],
         "metaLine": "FR / N/A",
@@ -4785,14 +4785,14 @@
         "jersey": "40",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/cooper-mullens/27466",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-mullens.jpg",
-        "gamesPlayed": 24,
+        "gamesPlayed": 25,
         "gamesStarted": 9,
-        "battingAverage": 0.327,
-        "onBasePercentage": 0.4,
-        "sluggingPercentage": 0.429,
-        "ops": 0.829,
-        "atBats": 49,
-        "runs": 11,
+        "battingAverage": 0.32,
+        "onBasePercentage": 0.404,
+        "sluggingPercentage": 0.42,
+        "ops": 0.824,
+        "atBats": 50,
+        "runs": 12,
         "hits": 16,
         "doubles": 5,
         "triples": 0,
@@ -4800,8 +4800,8 @@
         "runsBattedIn": 7,
         "totalBases": 21,
         "walks": 5,
-        "hitByPitch": 1,
-        "strikeouts": 10,
+        "hitByPitch": 2,
+        "strikeouts": 11,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 0,
@@ -4811,7 +4811,7 @@
         "putouts": 3,
         "assists": 1,
         "errors": 0,
-        "plateAppearances": 60,
+        "plateAppearances": 62,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4838,36 +4838,36 @@
         "totalChances": 4
       },
       "evaluation": {
-        "score": 46,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 66.66666666666666,
-          "Power": 28.68421052631579,
-          "Contact": 66.875,
-          "Discipline": 33.33333333333333,
+          "On-base": 68.88888888888889,
+          "Power": 26.31578947368421,
+          "Contact": 62.5,
+          "Discipline": 28.282828282828277,
           "Speed": 3.3333333333333335
         },
         "summary": "Cooper Mullens profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .327",
-          "OBP .400",
-          "SLG .429"
+          "AVG .320",
+          "OBP .404",
+          "SLG .420"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".327"
+            "value": ".320"
           },
           {
             "label": "OBP",
-            "value": ".400"
+            "value": ".404"
           },
           {
             "label": "SLG",
-            "value": ".429"
+            "value": ".420"
           },
           {
             "label": "HR",
@@ -5073,32 +5073,32 @@
         "jersey": "42",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/justin-brown/27452",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-brown.jpg",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 0,
-        "appearances": 4,
+        "appearances": 5,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.15,
-        "whip": 1.38,
+        "earnedRunAverage": 6,
+        "whip": 1.17,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 4.333333333333333,
-        "inningsPitchedDisplay": "4.1",
-        "hitsAllowed": 4,
-        "runsAllowed": 2,
-        "earnedRunsAllowed": 2,
+        "inningsPitched": 6,
+        "inningsPitchedDisplay": "6.0",
+        "hitsAllowed": 5,
+        "runsAllowed": 4,
+        "earnedRunsAllowed": 4,
         "walksAllowed": 2,
-        "strikeouts": 4,
+        "strikeouts": 6,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 17,
+        "opponentsAtBats": 22,
         "wildPitches": 0,
-        "hitBatters": 1,
+        "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.235,
-        "walksHits": 6
+        "opponentsBattingAverage": 0.227,
+        "walksHits": 7
       },
       "fieldingStats": {
         "rosterBioId": "27452",
@@ -5107,10 +5107,10 @@
         "jersey": "42",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/justin-brown/27452",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-brown.jpg",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 0,
         "putouts": 2,
-        "assists": 1,
+        "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -5119,10 +5119,10 @@
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 3
+        "totalChances": 4
       },
       "evaluation": {
-        "score": 11,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5130,40 +5130,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.16083916083917,
-          "Command": 20,
+          "Miss bats": 45.45454545454545,
+          "Command": 40,
           "Damage suppression": 0
         },
-        "summary": "Justin Brown gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Justin Brown looks like a RHP option who misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.15",
-          "WHIP 1.38",
-          "K/9 8.3"
+          "ERA 6.00",
+          "WHIP 1.17",
+          "K/9 9.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.15"
+            "value": "6.00"
           },
           {
             "label": "WHIP",
-            "value": "1.38"
+            "value": "1.17"
           },
           {
             "label": "K/9",
-            "value": "8.3"
+            "value": "9.0"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "2.08"
+            "value": "1.50"
           },
           {
             "label": "IP",
-            "value": "4.3"
+            "value": "6.0"
           }
         ],
         "metaLine": "R-FR / N/A",
@@ -5391,32 +5391,32 @@
         "jersey": "49",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/erik-puodziunas/27471",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-puodziunas.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 3,
-        "appearances": 7,
+        "gamesPlayed": 8,
+        "gamesStarted": 4,
+        "appearances": 8,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.58,
-        "whip": 1.42,
+        "earnedRunAverage": 5.59,
+        "whip": 1.55,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 17.666666666666668,
-        "inningsPitchedDisplay": "17.2",
-        "hitsAllowed": 18,
-        "runsAllowed": 9,
-        "earnedRunsAllowed": 9,
-        "walksAllowed": 7,
-        "strikeouts": 15,
+        "inningsPitched": 19.333333333333332,
+        "inningsPitchedDisplay": "19.1",
+        "hitsAllowed": 22,
+        "runsAllowed": 12,
+        "earnedRunsAllowed": 12,
+        "walksAllowed": 8,
+        "strikeouts": 16,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 70,
+        "homeRunsAllowed": 4,
+        "opponentsAtBats": 79,
         "wildPitches": 2,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.257,
-        "walksHits": 25
+        "opponentsBattingAverage": 0.278,
+        "walksHits": 30
       },
       "fieldingStats": {
         "rosterBioId": "27471",
@@ -5440,7 +5440,7 @@
         "totalChances": 1
       },
       "evaluation": {
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5448,40 +5448,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 33.10463121783876,
-          "Command": 22.857142857142858,
+          "Miss bats": 31.34796238244515,
+          "Command": 20,
           "Damage suppression": 0
         },
         "summary": "Erik Puodziunas gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.58",
-          "WHIP 1.42",
-          "K/9 7.6"
+          "ERA 5.59",
+          "WHIP 1.55",
+          "K/9 7.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.58"
+            "value": "5.59"
           },
           {
             "label": "WHIP",
-            "value": "1.42"
+            "value": "1.55"
           },
           {
             "label": "K/9",
-            "value": "7.6"
+            "value": "7.4"
           },
           {
             "label": "BB/9",
-            "value": "3.6"
+            "value": "3.7"
           },
           {
             "label": "HR/9",
-            "value": "0.51"
+            "value": "1.86"
           },
           {
             "label": "IP",
-            "value": "17.7"
+            "value": "19.3"
           }
         ],
         "metaLine": "R-FR / N/A",
@@ -5620,23 +5620,23 @@
         "jersey": "51",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/joonsung-park/27470",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-park.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 3,
-        "battingAverage": 0.333,
-        "onBasePercentage": 0.467,
-        "sluggingPercentage": 0.5,
-        "ops": 0.967,
-        "atBats": 12,
+        "gamesPlayed": 8,
+        "gamesStarted": 4,
+        "battingAverage": 0.294,
+        "onBasePercentage": 0.4,
+        "sluggingPercentage": 0.412,
+        "ops": 0.812,
+        "atBats": 17,
         "runs": 2,
-        "hits": 4,
+        "hits": 5,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 4,
-        "totalBases": 6,
+        "totalBases": 7,
         "walks": 3,
         "hitByPitch": 0,
-        "strikeouts": 4,
+        "strikeouts": 5,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -5646,7 +5646,7 @@
         "putouts": 0,
         "assists": 1,
         "errors": 0,
-        "plateAppearances": 15,
+        "plateAppearances": 20,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -5673,36 +5673,36 @@
         "totalChances": 1
       },
       "evaluation": {
-        "score": 66,
+        "score": 42,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 100,
-          "Power": 47.36842105263158,
-          "Contact": 70.625,
-          "Discipline": 61.11111111111111,
+          "On-base": 66.66666666666666,
+          "Power": 24.21052631578947,
+          "Contact": 46.249999999999986,
+          "Discipline": 44.444444444444436,
           "Speed": 0
         },
         "summary": "Joonsung Park profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .333",
-          "OBP .467",
-          "SLG .500"
+          "AVG .294",
+          "OBP .400",
+          "SLG .412"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".333"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".467"
+            "value": ".400"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".412"
           },
           {
             "label": "HR",
@@ -5745,25 +5745,25 @@
         "position": "OF",
         "classYear": "R-SO",
         "handedness": "N/A",
-        "score": 53,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Evan Haeger profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .296",
-          "OBP .415",
+          "AVG .294",
+          "OBP .419",
           "SLG .520"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".296"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".415"
+            "value": ".419"
           },
           {
             "label": "SLG",
@@ -5783,10 +5783,10 @@
           }
         ],
         "components": {
-          "On-base": 74.99999999999997,
+          "On-base": 77.2222222222222,
           "Power": 52.63157894736843,
-          "Contact": 47.499999999999986,
-          "Discipline": 38.09523809523808,
+          "Contact": 46.249999999999986,
+          "Discipline": 41.26984126984126,
           "Speed": 13.333333333333334
         },
         "metaLine": "R-SO / N/A",
@@ -5814,21 +5814,21 @@
         "position": "INF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 55,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Brayden Jefferis profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Brayden Jefferis profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .313",
+          "AVG .315",
           "OBP .415",
           "SLG .403"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".313"
+            "value": ".315"
           },
           {
             "label": "OBP",
@@ -5854,8 +5854,8 @@
         "components": {
           "On-base": 74.99999999999997,
           "Power": 21.8421052631579,
-          "Contact": 58.12499999999999,
-          "Discipline": 88.88888888888889,
+          "Contact": 59.375,
+          "Discipline": 83.04093567251459,
           "Speed": 20
         },
         "metaLine": "SO / N/A",
@@ -5883,29 +5883,29 @@
         "position": "OF",
         "classYear": "R-JR",
         "handedness": "N/A",
-        "score": 25,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Greg Pace Jr. profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .254",
-          "OBP .358",
-          "SLG .360"
+          "AVG .261",
+          "OBP .359",
+          "SLG .378"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".254"
+            "value": ".261"
           },
           {
             "label": "OBP",
-            "value": ".358"
+            "value": ".359"
           },
           {
             "label": "SLG",
-            "value": ".360"
+            "value": ".378"
           },
           {
             "label": "HR",
@@ -5921,10 +5921,10 @@
           }
         ],
         "components": {
-          "On-base": 43.333333333333314,
-          "Power": 10.526315789473681,
-          "Contact": 21.250000000000004,
-          "Discipline": 16.66666666666666,
+          "On-base": 43.888888888888864,
+          "Power": 15.263157894736842,
+          "Contact": 25.625000000000004,
+          "Discipline": 15.718157181571815,
           "Speed": 26.666666666666668
         },
         "metaLine": "R-JR / N/A",
@@ -5952,29 +5952,29 @@
         "position": "C",
         "classYear": "R-SO",
         "handedness": "N/A",
-        "score": 42,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Noah Miller profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .293",
-          "OBP .403",
-          "SLG .414"
+          "AVG .301",
+          "OBP .407",
+          "SLG .427"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".293"
+            "value": ".301"
           },
           {
             "label": "OBP",
-            "value": ".403"
+            "value": ".407"
           },
           {
             "label": "SLG",
-            "value": ".414"
+            "value": ".427"
           },
           {
             "label": "HR",
@@ -5990,9 +5990,9 @@
           }
         ],
         "components": {
-          "On-base": 68.33333333333333,
-          "Power": 24.736842105263154,
-          "Contact": 45.624999999999986,
+          "On-base": 70.55555555555553,
+          "Power": 28.157894736842103,
+          "Contact": 50.624999999999986,
           "Discipline": 38.38383838383837,
           "Speed": 3.3333333333333335
         },
@@ -6228,29 +6228,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 11,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Drew Culbertson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .195",
-          "OBP .326",
-          "SLG .257"
+          "AVG .200",
+          "OBP .333",
+          "SLG .261"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".195"
+            "value": ".200"
           },
           {
             "label": "OBP",
-            "value": ".326"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".257"
+            "value": ".261"
           },
           {
             "label": "HR",
@@ -6258,7 +6258,7 @@
           },
           {
             "label": "RBI",
-            "value": "11"
+            "value": "12"
           },
           {
             "label": "SB",
@@ -6266,10 +6266,10 @@
           }
         ],
         "components": {
-          "On-base": 25.555555555555546,
+          "On-base": 29.44444444444444,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 11.111111111111107,
+          "Discipline": 13.008130081300811,
           "Speed": 13.333333333333334
         },
         "metaLine": "JR / N/A",
@@ -6442,41 +6442,41 @@
         },
         "summary": "Max Debiec gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.71",
-          "WHIP 1.85",
-          "K/9 8.3"
+          "ERA 7.71",
+          "WHIP 2.04",
+          "K/9 8.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.71"
+            "value": "7.71"
           },
           {
             "label": "WHIP",
-            "value": "1.85"
+            "value": "2.04"
           },
           {
             "label": "K/9",
-            "value": "8.3"
+            "value": "8.7"
           },
           {
             "label": "BB/9",
-            "value": "6.2"
+            "value": "7.2"
           },
           {
             "label": "HR/9",
-            "value": "1.04"
+            "value": "0.96"
           },
           {
             "label": "IP",
-            "value": "17.3"
+            "value": "18.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.16083916083917,
-          "Command": 6.66666666666667,
+          "Miss bats": 42.532467532467535,
+          "Command": 4.0000000000000036,
           "Damage suppression": 0
         },
         "metaLine": "SR / N/A",
@@ -6504,37 +6504,37 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 81,
+        "score": 83,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Colby Turner profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .397",
-          "OBP .451",
-          "SLG .667"
+          "AVG .398",
+          "OBP .453",
+          "SLG .677"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".397"
+            "value": ".398"
           },
           {
             "label": "OBP",
-            "value": ".451"
+            "value": ".453"
           },
           {
             "label": "SLG",
-            "value": ".667"
+            "value": ".677"
           },
           {
             "label": "HR",
-            "value": "9"
+            "value": "10"
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "38"
           },
           {
             "label": "SB",
@@ -6542,10 +6542,10 @@
           }
         ],
         "components": {
-          "On-base": 95,
-          "Power": 91.31578947368423,
+          "On-base": 96.1111111111111,
+          "Power": 93.94736842105266,
           "Contact": 100,
-          "Discipline": 41.26984126984126,
+          "Discipline": 46.56084656084655,
           "Speed": 30
         },
         "metaLine": "JR / N/A",
@@ -6718,22 +6718,22 @@
         },
         "summary": "Brenden Stressler gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .232",
-          "OBP .330",
-          "SLG .313"
+          "AVG .233",
+          "OBP .328",
+          "SLG .311"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".232"
+            "value": ".233"
           },
           {
             "label": "OBP",
-            "value": ".330"
+            "value": ".328"
           },
           {
             "label": "SLG",
-            "value": ".313"
+            "value": ".311"
           },
           {
             "label": "HR",
@@ -6749,9 +6749,9 @@
           }
         ],
         "components": {
-          "On-base": 27.777777777777775,
+          "On-base": 26.66666666666666,
           "Power": 0,
-          "Contact": 7.500000000000007,
+          "Contact": 8.125000000000007,
           "Discipline": 27.58620689655172,
           "Speed": 3.3333333333333335
         },
@@ -6787,34 +6787,34 @@
         },
         "summary": "Brandon Mann gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.70",
-          "WHIP 1.43",
-          "K/9 3.5"
+          "ERA 5.40",
+          "WHIP 1.56",
+          "K/9 3.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.70"
+            "value": "5.40"
           },
           {
             "label": "WHIP",
-            "value": "1.43"
+            "value": "1.56"
           },
           {
             "label": "K/9",
-            "value": "3.5"
+            "value": "3.2"
           },
           {
             "label": "BB/9",
-            "value": "3.5"
+            "value": "3.2"
           },
           {
             "label": "HR/9",
-            "value": "1.17"
+            "value": "2.16"
           },
           {
             "label": "IP",
-            "value": "7.7"
+            "value": "8.3"
           }
         ],
         "components": {
@@ -6987,48 +6987,48 @@
         "position": "LHP",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 20,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Wyatt Novara looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 7.71",
-          "WHIP 1.50",
-          "K/9 11.6"
+          "ERA 7.94",
+          "WHIP 1.41",
+          "K/9 11.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.71"
+            "value": "7.94"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.41"
           },
           {
             "label": "K/9",
-            "value": "11.6"
+            "value": "11.1"
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "3.2"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "1.59"
           },
           {
             "label": "IP",
-            "value": "4.7"
+            "value": "5.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 68.83116883116884,
-          "Command": 40.00000000000001,
+          "Miss bats": 64.70588235294117,
+          "Command": 50,
           "Damage suppression": 0
         },
         "metaLine": "JR / N/A",
@@ -7332,29 +7332,29 @@
         "position": "INF",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 41,
+        "score": 46,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Laffitte profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .415",
-          "SLG .281"
+          "AVG .273",
+          "OBP .429",
+          "SLG .303"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".415"
+            "value": ".429"
           },
           {
             "label": "SLG",
-            "value": ".281"
+            "value": ".303"
           },
           {
             "label": "HR",
@@ -7370,9 +7370,9 @@
           }
         ],
         "components": {
-          "On-base": 74.99999999999997,
+          "On-base": 82.77777777777776,
           "Power": 0,
-          "Contact": 18.75,
+          "Contact": 33.12500000000001,
           "Discipline": 100,
           "Speed": 0
         },
@@ -7401,37 +7401,37 @@
         "position": "INF",
         "classYear": "R-SO",
         "handedness": "N/A",
-        "score": 29,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cade Ladehoff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .243",
-          "OBP .353",
-          "SLG .405"
+          "AVG .261",
+          "OBP .369",
+          "SLG .452"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".243"
+            "value": ".261"
           },
           {
             "label": "OBP",
-            "value": ".353"
+            "value": ".369"
           },
           {
             "label": "SLG",
-            "value": ".405"
+            "value": ".452"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "4"
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "24"
           },
           {
             "label": "SB",
@@ -7439,10 +7439,10 @@
           }
         ],
         "components": {
-          "On-base": 40.555555555555536,
-          "Power": 22.368421052631586,
-          "Contact": 14.374999999999996,
-          "Discipline": 53.333333333333336,
+          "On-base": 49.44444444444443,
+          "Power": 34.736842105263165,
+          "Contact": 25.625000000000004,
+          "Discipline": 57.77777777777777,
           "Speed": 0
         },
         "metaLine": "R-SO / N/A",
@@ -7478,7 +7478,7 @@
         "summary": "Keegan O'Hearn looks like a LHP option who limits runs.",
         "summaryMetrics": [
           "ERA 3.86",
-          "WHIP 1.71",
+          "WHIP 2.14",
           "K/9 3.9"
         ],
         "statCards": [
@@ -7488,7 +7488,7 @@
           },
           {
             "label": "WHIP",
-            "value": "1.71"
+            "value": "2.14"
           },
           {
             "label": "K/9",
@@ -7496,7 +7496,7 @@
           },
           {
             "label": "BB/9",
-            "value": "9.6"
+            "value": "11.6"
           },
           {
             "label": "HR/9",
@@ -7745,29 +7745,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 17,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Matthew Ossenfort gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .231",
-          "OBP .341",
-          "SLG .321"
+          "AVG .225",
+          "OBP .333",
+          "SLG .313"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".231"
+            "value": ".225"
           },
           {
             "label": "OBP",
-            "value": ".341"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".321"
+            "value": ".313"
           },
           {
             "label": "HR",
@@ -7783,10 +7783,10 @@
           }
         ],
         "components": {
-          "On-base": 33.88888888888889,
-          "Power": 0.26315789473684237,
-          "Contact": 6.875000000000006,
-          "Discipline": 33.33333333333333,
+          "On-base": 29.44444444444444,
+          "Power": 0,
+          "Contact": 3.1250000000000027,
+          "Discipline": 28.7037037037037,
           "Speed": 0
         },
         "metaLine": "JR / N/A",
@@ -7883,47 +7883,47 @@
         "position": "LHP",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 0,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Slade Moore gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.45",
-          "WHIP 2.55",
-          "K/9 4.0"
+          "ERA 7.56",
+          "WHIP 2.28",
+          "K/9 5.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.45"
+            "value": "7.56"
           },
           {
             "label": "WHIP",
-            "value": "2.55"
+            "value": "2.28"
           },
           {
             "label": "K/9",
-            "value": "4.0"
+            "value": "5.4"
           },
           {
             "label": "BB/9",
-            "value": "6.8"
+            "value": "5.4"
           },
           {
             "label": "HR/9",
-            "value": "1.35"
+            "value": "1.08"
           },
           {
             "label": "IP",
-            "value": "6.7"
+            "value": "8.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 0.454545454545453,
+          "Miss bats": 12.727272727272723,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -8020,29 +8020,29 @@
         "position": "INF",
         "classYear": "R-SO",
         "handedness": "N/A",
-        "score": 46,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cooper Mullens profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .327",
-          "OBP .400",
-          "SLG .429"
+          "AVG .320",
+          "OBP .404",
+          "SLG .420"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".327"
+            "value": ".320"
           },
           {
             "label": "OBP",
-            "value": ".400"
+            "value": ".404"
           },
           {
             "label": "SLG",
-            "value": ".429"
+            "value": ".420"
           },
           {
             "label": "HR",
@@ -8058,10 +8058,10 @@
           }
         ],
         "components": {
-          "On-base": 66.66666666666666,
-          "Power": 28.68421052631579,
-          "Contact": 66.875,
-          "Discipline": 33.33333333333333,
+          "On-base": 68.88888888888889,
+          "Power": 26.31578947368421,
+          "Contact": 62.5,
+          "Discipline": 28.282828282828277,
           "Speed": 3.3333333333333335
         },
         "metaLine": "R-SO / N/A",
@@ -8158,48 +8158,48 @@
         "position": "RHP",
         "classYear": "R-FR",
         "handedness": "N/A",
-        "score": 11,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Justin Brown gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Justin Brown looks like a RHP option who misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.15",
-          "WHIP 1.38",
-          "K/9 8.3"
+          "ERA 6.00",
+          "WHIP 1.17",
+          "K/9 9.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.15"
+            "value": "6.00"
           },
           {
             "label": "WHIP",
-            "value": "1.38"
+            "value": "1.17"
           },
           {
             "label": "K/9",
-            "value": "8.3"
+            "value": "9.0"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "2.08"
+            "value": "1.50"
           },
           {
             "label": "IP",
-            "value": "4.3"
+            "value": "6.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.16083916083917,
-          "Command": 20,
+          "Miss bats": 45.45454545454545,
+          "Command": 40,
           "Damage suppression": 0
         },
         "metaLine": "R-FR / N/A",
@@ -8363,48 +8363,48 @@
         "position": "RHP",
         "classYear": "R-FR",
         "handedness": "N/A",
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Erik Puodziunas gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.58",
-          "WHIP 1.42",
-          "K/9 7.6"
+          "ERA 5.59",
+          "WHIP 1.55",
+          "K/9 7.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.58"
+            "value": "5.59"
           },
           {
             "label": "WHIP",
-            "value": "1.42"
+            "value": "1.55"
           },
           {
             "label": "K/9",
-            "value": "7.6"
+            "value": "7.4"
           },
           {
             "label": "BB/9",
-            "value": "3.6"
+            "value": "3.7"
           },
           {
             "label": "HR/9",
-            "value": "0.51"
+            "value": "1.86"
           },
           {
             "label": "IP",
-            "value": "17.7"
+            "value": "19.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 33.10463121783876,
-          "Command": 22.857142857142858,
+          "Miss bats": 31.34796238244515,
+          "Command": 20,
           "Damage suppression": 0
         },
         "metaLine": "R-FR / N/A",
@@ -8500,29 +8500,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 66,
+        "score": 42,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "summary": "Joonsung Park profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .333",
-          "OBP .467",
-          "SLG .500"
+          "AVG .294",
+          "OBP .400",
+          "SLG .412"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".333"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".467"
+            "value": ".400"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".412"
           },
           {
             "label": "HR",
@@ -8538,10 +8538,10 @@
           }
         ],
         "components": {
-          "On-base": 100,
-          "Power": 47.36842105263158,
-          "Contact": 70.625,
-          "Discipline": 61.11111111111111,
+          "On-base": 66.66666666666666,
+          "Power": 24.21052631578947,
+          "Contact": 46.249999999999986,
+          "Discipline": 44.444444444444436,
           "Speed": 0
         },
         "metaLine": "JR / N/A",

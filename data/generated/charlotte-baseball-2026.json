@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T11:33:16.785Z",
+  "generatedAt": "2026-04-22T11:21:51.914Z",
   "season": 2026,
   "school": {
     "slug": "charlotte",
@@ -42,87 +42,87 @@
     }
   },
   "teamSummary": {
-    "record": "19-20, 4-11",
-    "battingAverage": ".300",
-    "earnedRunAverage": "5.91",
+    "record": "19-21, 4-11",
+    "battingAverage": ".299",
+    "earnedRunAverage": "5.87",
     "wins": "19",
-    "losses": "20",
+    "losses": "21",
     "hitting": {
-      "atBats": "1332",
-      "runsScored": "268",
-      "hits": "400",
-      "runsBattedIn": "242",
-      "doubles": "72",
+      "atBats": "1369",
+      "runsScored": "272",
+      "hits": "409",
+      "runsBattedIn": "245",
+      "doubles": "74",
       "triples": "7",
-      "homeRuns": "44",
-      "walks": "180",
-      "intentionalWalks": "1",
-      "strikeouts": "286",
-      "strikeoutsLooking": "75",
-      "hitByPitch": "46",
-      "stolenBases": "36",
-      "caughtStealing": "5",
-      "sacrificeHits": "13",
+      "homeRuns": "45",
+      "walks": "186",
+      "intentionalWalks": "2",
+      "strikeouts": "296",
+      "strikeoutsLooking": "79",
+      "hitByPitch": "49",
+      "stolenBases": "37",
+      "caughtStealing": "6",
+      "sacrificeHits": "14",
       "sacrificeFlies": "18",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "310",
-      "flyOuts": "332",
+      "groundOuts": "321",
+      "flyOuts": "340",
       "groundedIntoDoublePlay": "24",
       "pickedOff": "4",
       "doublePlaysHitInto": "34",
       "triplePlaysHitInto": "1"
     },
     "fielding": {
-      "putouts": "987",
-      "assists": "360",
-      "errors": "37",
+      "putouts": "1017",
+      "assists": "370",
+      "errors": "38",
       "passedBalls": "1",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "51",
+      "stolenBasesAgainst": "52",
       "caughtStealingBy": "18",
       "involvedInDoublePlays": "31",
       "involvedInTriplePlays": "0",
-      "totalChances": "1384",
+      "totalChances": "1425",
       "fieldingPercentage": ".973"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "19",
       "saves": "6",
-      "losses": "20",
+      "losses": "21",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "4",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "329.0",
-      "hitsAllowed": "369",
-      "runsAllowed": "238",
-      "earnedRunsAllowed": "216",
-      "walksAllowed": "172",
-      "strikeouts": "326",
-      "battersFaced": "1532",
-      "opponentAtBats": "1293",
-      "doublesAllowed": "72",
+      "inningsPitched": "339.0",
+      "hitsAllowed": "379",
+      "runsAllowed": "243",
+      "earnedRunsAllowed": "221",
+      "walksAllowed": "173",
+      "strikeouts": "337",
+      "battersFaced": "1574",
+      "opponentAtBats": "1333",
+      "doublesAllowed": "75",
       "triplesAllowed": "8",
-      "homerunsAllowed": "29",
+      "homerunsAllowed": "30",
       "wildPitches": "29",
-      "balks": "7",
-      "hitBatters": "38",
-      "strikeoutsLooking": "103",
+      "balks": "8",
+      "hitBatters": "39",
+      "strikeoutsLooking": "105",
       "intentionalWalks": "5",
       "inheritedRunners": "0",
       "inheritedRunnersThatScored": "0",
       "sacrificeHitsAllowed": "20",
       "sacrificeFliesAllowed": "9",
       "catchersInterferenceAllowed": "0",
-      "pitches": "5902",
-      "flyouts": "282",
-      "groundouts": "319",
+      "pitches": "6059",
+      "flyouts": "292",
+      "groundouts": "326",
       "teamUnearnedRuns": "1",
       "saveRecord": "6",
-      "pickoff": "7"
+      "pickoff": "8"
     }
   },
   "players": [
@@ -164,13 +164,13 @@
         "jersey": "2",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/juan-rivera/13079",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/RIVERA_JUAN.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 3,
-        "battingAverage": 0.125,
-        "onBasePercentage": 0.176,
-        "sluggingPercentage": 0.125,
-        "ops": 0.301,
-        "atBats": 16,
+        "battingAverage": 0.118,
+        "onBasePercentage": 0.167,
+        "sluggingPercentage": 0.118,
+        "ops": 0.285,
+        "atBats": 17,
         "runs": 2,
         "hits": 2,
         "doubles": 0,
@@ -180,7 +180,7 @@
         "totalBases": 2,
         "walks": 1,
         "hitByPitch": 0,
-        "strikeouts": 1,
+        "strikeouts": 2,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -190,7 +190,7 @@
         "putouts": 6,
         "assists": 5,
         "errors": 2,
-        "plateAppearances": 18,
+        "plateAppearances": 19,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -217,7 +217,7 @@
         "totalChances": 13
       },
       "evaluation": {
-        "score": 13,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -226,27 +226,27 @@
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 88.88888888888889,
+          "Discipline": 33.33333333333333,
           "Speed": 3.3333333333333335
         },
-        "summary": "Juan Rivera profiles as a INF piece who controls at-bats.",
+        "summary": "Juan Rivera gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .125",
-          "OBP .176",
-          "SLG .125"
+          "AVG .118",
+          "OBP .167",
+          "SLG .118"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".125"
+            "value": ".118"
           },
           {
             "label": "OBP",
-            "value": ".176"
+            "value": ".167"
           },
           {
             "label": "SLG",
-            "value": ".125"
+            "value": ".118"
           },
           {
             "label": "HR",
@@ -309,22 +309,22 @@
         "jersey": "3",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/adrian-jimenez/13067",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/JIMENEZ_ADRIAN.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 38,
-        "battingAverage": 0.262,
-        "onBasePercentage": 0.391,
+        "gamesPlayed": 40,
+        "gamesStarted": 39,
+        "battingAverage": 0.264,
+        "onBasePercentage": 0.398,
         "sluggingPercentage": 0.357,
-        "ops": 0.748,
-        "atBats": 126,
-        "runs": 20,
-        "hits": 33,
+        "ops": 0.755,
+        "atBats": 129,
+        "runs": 22,
+        "hits": 34,
         "doubles": 5,
         "triples": 2,
         "homeRuns": 1,
         "runsBattedIn": 16,
-        "totalBases": 45,
-        "walks": 23,
-        "hitByPitch": 5,
+        "totalBases": 46,
+        "walks": 24,
+        "hitByPitch": 6,
         "strikeouts": 19,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
@@ -332,10 +332,10 @@
         "sacrificeHits": 3,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 36,
-        "assists": 79,
+        "putouts": 37,
+        "assists": 80,
         "errors": 6,
-        "plateAppearances": 161,
+        "plateAppearances": 166,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -347,47 +347,47 @@
         "jersey": "3",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/adrian-jimenez/13067",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/JIMENEZ_ADRIAN.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 35,
-        "putouts": 36,
-        "assists": 79,
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "putouts": 37,
+        "assists": 80,
         "errors": 6,
-        "fieldingPercentage": 0.95,
+        "fieldingPercentage": 0.951,
         "doublePlays": 10,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 121
+        "totalChances": 123
       },
       "evaluation": {
-        "score": 42,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 61.66666666666666,
+          "On-base": 65.55555555555556,
           "Power": 9.736842105263154,
-          "Contact": 26.250000000000007,
+          "Contact": 27.500000000000007,
           "Discipline": 100,
           "Speed": 6.666666666666667
         },
         "summary": "Adrian Jimenez profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .262",
-          "OBP .391",
+          "AVG .264",
+          "OBP .398",
           "SLG .357"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".262"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".391"
+            "value": ".398"
           },
           {
             "label": "SLG",
@@ -454,7 +454,7 @@
         "jersey": "6",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/johnny-sutryk/13083",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/SUTRYK_JOHNNY.jpg",
-        "gamesPlayed": 27,
+        "gamesPlayed": 28,
         "gamesStarted": 14,
         "battingAverage": 0.192,
         "onBasePercentage": 0.25,
@@ -475,12 +475,12 @@
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 2,
-        "stolenBases": 4,
-        "stolenBasesAttempts": 4,
+        "stolenBases": 5,
+        "stolenBasesAttempts": 5,
         "putouts": 24,
         "assists": 3,
         "errors": 0,
-        "plateAppearances": 62,
+        "plateAppearances": 63,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -517,7 +517,7 @@
           "Power": 17.10526315789474,
           "Contact": 0,
           "Discipline": 0,
-          "Speed": 13.333333333333334
+          "Speed": 16.666666666666664
         },
         "summary": "Johnny Sutryk gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
@@ -548,7 +548,7 @@
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "metaLine": "JR / R/R",
@@ -599,33 +599,33 @@
         "jersey": "8",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/robert-nedry/13073",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/NEDRY_ROBERT.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "battingAverage": 0.287,
-        "onBasePercentage": 0.412,
-        "sluggingPercentage": 0.419,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "battingAverage": 0.288,
+        "onBasePercentage": 0.414,
+        "sluggingPercentage": 0.417,
         "ops": 0.831,
-        "atBats": 136,
+        "atBats": 139,
         "runs": 24,
-        "hits": 39,
+        "hits": 40,
         "doubles": 7,
         "triples": 1,
         "homeRuns": 3,
         "runsBattedIn": 19,
-        "totalBases": 57,
+        "totalBases": 58,
         "walks": 23,
-        "hitByPitch": 6,
+        "hitByPitch": 7,
         "strikeouts": 35,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
-        "sacrificeHits": 2,
+        "sacrificeHits": 3,
         "stolenBases": 6,
         "stolenBasesAttempts": 8,
-        "putouts": 45,
-        "assists": 68,
+        "putouts": 46,
+        "assists": 70,
         "errors": 8,
-        "plateAppearances": 177,
+        "plateAppearances": 182,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -637,19 +637,19 @@
         "jersey": "8",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/robert-nedry/13073",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/NEDRY_ROBERT.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 35,
-        "putouts": 45,
-        "assists": 68,
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "putouts": 46,
+        "assists": 70,
         "errors": 8,
-        "fieldingPercentage": 0.934,
+        "fieldingPercentage": 0.935,
         "doublePlays": 14,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 121
+        "totalChances": 124
       },
       "evaluation": {
         "score": 47,
@@ -658,30 +658,30 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 73.3333333333333,
-          "Power": 26.052631578947366,
-          "Contact": 41.874999999999986,
+          "On-base": 74.44444444444443,
+          "Power": 25.52631578947368,
+          "Contact": 42.499999999999986,
           "Discipline": 50.79365079365078,
           "Speed": 20
         },
         "summary": "Robert Nedry profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .287",
-          "OBP .412",
-          "SLG .419"
+          "AVG .288",
+          "OBP .414",
+          "SLG .417"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".287"
+            "value": ".288"
           },
           {
             "label": "OBP",
-            "value": ".412"
+            "value": ".414"
           },
           {
             "label": "SLG",
-            "value": ".419"
+            "value": ".417"
           },
           {
             "label": "HR",
@@ -744,23 +744,23 @@
         "jersey": "9",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/alec-demartino/13061",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/DEMARTINO_ALEC.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "battingAverage": 0.324,
-        "onBasePercentage": 0.44,
-        "sluggingPercentage": 0.559,
-        "ops": 0.999,
-        "atBats": 145,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "battingAverage": 0.322,
+        "onBasePercentage": 0.439,
+        "sluggingPercentage": 0.557,
+        "ops": 0.996,
+        "atBats": 149,
         "runs": 31,
-        "hits": 47,
-        "doubles": 12,
+        "hits": 48,
+        "doubles": 13,
         "triples": 2,
         "homeRuns": 6,
-        "runsBattedIn": 31,
-        "totalBases": 81,
-        "walks": 29,
+        "runsBattedIn": 32,
+        "totalBases": 83,
+        "walks": 30,
         "hitByPitch": 1,
-        "strikeouts": 41,
+        "strikeouts": 43,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
@@ -770,7 +770,7 @@
         "putouts": 60,
         "assists": 2,
         "errors": 3,
-        "plateAppearances": 182,
+        "plateAppearances": 187,
         "caughtStealing": 1,
         "pickedOff": 2
       },
@@ -797,36 +797,36 @@
         "totalChances": 65
       },
       "evaluation": {
-        "score": 66,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 88.88888888888889,
-          "Power": 62.89473684210528,
-          "Contact": 65,
-          "Discipline": 56.36856368563685,
+          "On-base": 88.33333333333331,
+          "Power": 62.3684210526316,
+          "Contact": 63.75000000000001,
+          "Discipline": 55.297157622739014,
           "Speed": 16.666666666666664
         },
         "summary": "Alec DeMartino profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .324",
-          "OBP .440",
-          "SLG .559"
+          "AVG .322",
+          "OBP .439",
+          "SLG .557"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".324"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".440"
+            "value": ".439"
           },
           {
             "label": "SLG",
-            "value": ".559"
+            "value": ".557"
           },
           {
             "label": "HR",
@@ -834,7 +834,7 @@
           },
           {
             "label": "RBI",
-            "value": "31"
+            "value": "32"
           },
           {
             "label": "SB",
@@ -1012,32 +1012,32 @@
         "jersey": "12",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/chase-carson/13057",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/CARSON_CHASE.jpg",
-        "gamesPlayed": 20,
+        "gamesPlayed": 21,
         "gamesStarted": 1,
-        "appearances": 20,
+        "appearances": 21,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.49,
-        "whip": 1.66,
+        "earnedRunAverage": 5.32,
+        "whip": 1.59,
         "wins": 2,
-        "losses": 2,
+        "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 41,
-        "inningsPitchedDisplay": "41.0",
-        "hitsAllowed": 50,
-        "runsAllowed": 29,
-        "earnedRunsAllowed": 25,
+        "inningsPitched": 44,
+        "inningsPitchedDisplay": "44.0",
+        "hitsAllowed": 52,
+        "runsAllowed": 30,
+        "earnedRunsAllowed": 26,
         "walksAllowed": 18,
-        "strikeouts": 37,
+        "strikeouts": 39,
         "doublesAllowed": 7,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 167,
+        "homeRunsAllowed": 5,
+        "opponentsAtBats": 179,
         "wildPitches": 4,
         "hitBatters": 4,
-        "balks": 1,
-        "opponentsBattingAverage": 0.299,
-        "walksHits": 68
+        "balks": 2,
+        "opponentsBattingAverage": 0.291,
+        "walksHits": 70
       },
       "fieldingStats": {
         "rosterBioId": "13057",
@@ -1069,40 +1069,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 37.47228381374722,
-          "Command": 21.111111111111107,
+          "Miss bats": 36.15702479338843,
+          "Command": 23.33333333333334,
           "Damage suppression": 0
         },
         "summary": "Chase Carson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.49",
-          "WHIP 1.66",
-          "K/9 8.1"
+          "ERA 5.32",
+          "WHIP 1.59",
+          "K/9 8.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.49"
+            "value": "5.32"
           },
           {
             "label": "WHIP",
-            "value": "1.66"
+            "value": "1.59"
           },
           {
             "label": "K/9",
-            "value": "8.1"
+            "value": "8.0"
           },
           {
             "label": "BB/9",
-            "value": "4.0"
+            "value": "3.7"
           },
           {
             "label": "HR/9",
-            "value": "0.88"
+            "value": "1.02"
           },
           {
             "label": "IP",
-            "value": "41.0"
+            "value": "44.0"
           }
         ],
         "metaLine": "GR / L/L",
@@ -1153,33 +1153,33 @@
         "jersey": "13",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/cale-stricklin/13082",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/STRICKLIN_CALE.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 35,
-        "battingAverage": 0.328,
-        "onBasePercentage": 0.388,
-        "sluggingPercentage": 0.454,
-        "ops": 0.842,
-        "atBats": 119,
+        "gamesPlayed": 37,
+        "gamesStarted": 36,
+        "battingAverage": 0.331,
+        "onBasePercentage": 0.389,
+        "sluggingPercentage": 0.452,
+        "ops": 0.841,
+        "atBats": 124,
         "runs": 20,
-        "hits": 39,
+        "hits": 41,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 3,
-        "runsBattedIn": 27,
-        "totalBases": 54,
+        "runsBattedIn": 28,
+        "totalBases": 56,
         "walks": 10,
         "hitByPitch": 5,
-        "strikeouts": 22,
+        "strikeouts": 23,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 5,
         "sacrificeHits": 4,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 285,
-        "assists": 32,
+        "putouts": 296,
+        "assists": 34,
         "errors": 0,
-        "plateAppearances": 143,
+        "plateAppearances": 148,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1191,51 +1191,51 @@
         "jersey": "13",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/cale-stricklin/13082",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/STRICKLIN_CALE.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 33,
-        "putouts": 285,
-        "assists": 32,
+        "gamesPlayed": 35,
+        "gamesStarted": 34,
+        "putouts": 296,
+        "assists": 34,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 2,
-        "stolenBasesAgainst": 40,
+        "stolenBasesAgainst": 41,
         "caughtStealingBy": 13,
-        "stolenBasesPercentage": 0.755,
+        "stolenBasesPercentage": 0.759,
         "passedBalls": 1,
         "catchersInterference": 0,
-        "totalChances": 317
+        "totalChances": 330
       },
       "evaluation": {
-        "score": 44,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 60,
-          "Power": 35.26315789473685,
-          "Contact": 67.5,
-          "Discipline": 28.282828282828277,
+          "On-base": 60.55555555555555,
+          "Power": 34.736842105263165,
+          "Contact": 69.37500000000001,
+          "Discipline": 26.086956521739125,
           "Speed": 0
         },
         "summary": "Cale Stricklin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .388",
-          "SLG .454"
+          "AVG .331",
+          "OBP .389",
+          "SLG .452"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": ".331"
           },
           {
             "label": "OBP",
-            "value": ".388"
+            "value": ".389"
           },
           {
             "label": "SLG",
-            "value": ".454"
+            "value": ".452"
           },
           {
             "label": "HR",
@@ -1243,7 +1243,7 @@
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "28"
           },
           {
             "label": "SB",
@@ -1585,13 +1585,13 @@
         "jersey": "20",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/dylan-koontz/13069",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/KOONTZ_DYLAN.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 37,
-        "battingAverage": 0.316,
-        "onBasePercentage": 0.465,
-        "sluggingPercentage": 0.579,
-        "ops": 1.044,
-        "atBats": 133,
+        "gamesPlayed": 40,
+        "gamesStarted": 38,
+        "battingAverage": 0.309,
+        "onBasePercentage": 0.463,
+        "sluggingPercentage": 0.566,
+        "ops": 1.029,
+        "atBats": 136,
         "runs": 35,
         "hits": 42,
         "doubles": 5,
@@ -1599,19 +1599,19 @@
         "homeRuns": 10,
         "runsBattedIn": 38,
         "totalBases": 77,
-        "walks": 24,
-        "hitByPitch": 13,
-        "strikeouts": 31,
-        "intentionalWalks": 1,
+        "walks": 25,
+        "hitByPitch": 14,
+        "strikeouts": 32,
+        "intentionalWalks": 2,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 36,
+        "putouts": 46,
         "assists": 4,
         "errors": 0,
-        "plateAppearances": 171,
+        "plateAppearances": 176,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1623,9 +1623,9 @@
         "jersey": "20",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/dylan-koontz/13069",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/KOONTZ_DYLAN.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 4,
-        "putouts": 36,
+        "gamesPlayed": 5,
+        "gamesStarted": 5,
+        "putouts": 46,
         "assists": 4,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1635,39 +1635,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 40
+        "totalChances": 50
       },
       "evaluation": {
-        "score": 70,
+        "score": 68,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
           "On-base": 100,
-          "Power": 68.15789473684211,
-          "Contact": 60,
-          "Discipline": 63.79928315412185,
+          "Power": 64.73684210526315,
+          "Contact": 55.62499999999999,
+          "Discipline": 64.58333333333333,
           "Speed": 3.3333333333333335
         },
         "summary": "Dylan Koontz profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .316",
-          "OBP .465",
-          "SLG .579"
+          "AVG .309",
+          "OBP .463",
+          "SLG .566"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".316"
+            "value": ".309"
           },
           {
             "label": "OBP",
-            "value": ".465"
+            "value": ".463"
           },
           {
             "label": "SLG",
-            "value": ".579"
+            "value": ".566"
           },
           {
             "label": "HR",
@@ -1872,20 +1872,20 @@
         "jersey": "22",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/cody-gunderson/13065",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/GUNDERSON_CODY.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "battingAverage": 0.325,
-        "onBasePercentage": 0.401,
-        "sluggingPercentage": 0.548,
-        "ops": 0.949,
-        "atBats": 157,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "battingAverage": 0.321,
+        "onBasePercentage": 0.396,
+        "sluggingPercentage": 0.537,
+        "ops": 0.933,
+        "atBats": 162,
         "runs": 34,
-        "hits": 51,
+        "hits": 52,
         "doubles": 14,
         "triples": 0,
         "homeRuns": 7,
         "runsBattedIn": 26,
-        "totalBases": 86,
+        "totalBases": 87,
         "walks": 14,
         "hitByPitch": 8,
         "strikeouts": 31,
@@ -1895,10 +1895,10 @@
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 260,
-        "assists": 31,
-        "errors": 3,
-        "plateAppearances": 182,
+        "putouts": 262,
+        "assists": 34,
+        "errors": 4,
+        "plateAppearances": 187,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1910,51 +1910,51 @@
         "jersey": "22",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/cody-gunderson/13065",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/GUNDERSON_CODY.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "putouts": 260,
-        "assists": 31,
-        "errors": 3,
-        "fieldingPercentage": 0.99,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "putouts": 262,
+        "assists": 34,
+        "errors": 4,
+        "fieldingPercentage": 0.987,
         "doublePlays": 20,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 294
+        "totalChances": 300
       },
       "evaluation": {
-        "score": 53,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 67.22222222222223,
-          "Power": 60.00000000000002,
-          "Contact": 65.625,
+          "On-base": 64.44444444444444,
+          "Power": 57.10526315789475,
+          "Contact": 63.125,
           "Discipline": 27.95698924731182,
           "Speed": 0
         },
-        "summary": "Cody Gunderson profiles as a C/1B piece who gets on base at a high clip.",
+        "summary": "Cody Gunderson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .325",
-          "OBP .401",
-          "SLG .548"
+          "AVG .321",
+          "OBP .396",
+          "SLG .537"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".325"
+            "value": ".321"
           },
           {
             "label": "OBP",
-            "value": ".401"
+            "value": ".396"
           },
           {
             "label": "SLG",
-            "value": ".548"
+            "value": ".537"
           },
           {
             "label": "HR",
@@ -2017,34 +2017,34 @@
         "jersey": "23",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/spencer-nolan/13074",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/NOLAN_SPENCER.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "battingAverage": 0.31,
-        "onBasePercentage": 0.383,
-        "sluggingPercentage": 0.415,
-        "ops": 0.798,
-        "atBats": 171,
-        "runs": 35,
-        "hits": 53,
-        "doubles": 10,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "battingAverage": 0.316,
+        "onBasePercentage": 0.397,
+        "sluggingPercentage": 0.443,
+        "ops": 0.84,
+        "atBats": 174,
+        "runs": 37,
+        "hits": 55,
+        "doubles": 11,
         "triples": 1,
-        "homeRuns": 2,
-        "runsBattedIn": 21,
-        "totalBases": 71,
-        "walks": 18,
+        "homeRuns": 3,
+        "runsBattedIn": 22,
+        "totalBases": 77,
+        "walks": 21,
         "hitByPitch": 3,
-        "strikeouts": 29,
+        "strikeouts": 30,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 9,
-        "stolenBasesAttempts": 10,
-        "putouts": 85,
+        "stolenBasesAttempts": 11,
+        "putouts": 88,
         "assists": 40,
         "errors": 2,
-        "plateAppearances": 205,
-        "caughtStealing": 1,
+        "plateAppearances": 213,
+        "caughtStealing": 2,
         "pickedOff": 1
       },
       "pitchingStats": null,
@@ -2055,59 +2055,59 @@
         "jersey": "23",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/spencer-nolan/13074",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/NOLAN_SPENCER.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "putouts": 85,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "putouts": 88,
         "assists": 40,
         "errors": 2,
-        "fieldingPercentage": 0.984,
+        "fieldingPercentage": 0.985,
         "doublePlays": 5,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 127
+        "totalChances": 130
       },
       "evaluation": {
-        "score": 44,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 57.22222222222222,
-          "Power": 24.999999999999996,
-          "Contact": 56.25,
-          "Discipline": 46.74329501915708,
+          "On-base": 65,
+          "Power": 32.36842105263158,
+          "Contact": 60,
+          "Discipline": 55.555555555555536,
           "Speed": 30
         },
         "summary": "Spencer Nolan profiles as a UTL piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .310",
-          "OBP .383",
-          "SLG .415"
+          "AVG .316",
+          "OBP .397",
+          "SLG .443"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".310"
+            "value": ".316"
           },
           {
             "label": "OBP",
-            "value": ".383"
+            "value": ".397"
           },
           {
             "label": "SLG",
-            "value": ".415"
+            "value": ".443"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "3"
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -2163,32 +2163,32 @@
         "jersey": "24",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/aj-camp/13056",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/CAMP_AJ.jpg",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 0,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.39,
-        "whip": 1.46,
+        "earnedRunAverage": 4.23,
+        "whip": 1.45,
         "wins": 1,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 26.666666666666668,
-        "inningsPitchedDisplay": "26.2",
-        "hitsAllowed": 24,
+        "inningsPitched": 27.666666666666668,
+        "inningsPitchedDisplay": "27.2",
+        "hitsAllowed": 25,
         "runsAllowed": 16,
         "earnedRunsAllowed": 13,
         "walksAllowed": 15,
-        "strikeouts": 34,
+        "strikeouts": 36,
         "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 96,
+        "opponentsAtBats": 99,
         "wildPitches": 3,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.25,
-        "walksHits": 39
+        "opponentsBattingAverage": 0.253,
+        "walksHits": 40
       },
       "fieldingStats": {
         "rosterBioId": "13056",
@@ -2220,40 +2220,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 67.95454545454545,
-          "Command": 25.33333333333333,
+          "Miss bats": 70.09857612267251,
+          "Command": 28.000000000000007,
           "Damage suppression": 0
         },
         "summary": "AJ Camp looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.39",
-          "WHIP 1.46",
-          "K/9 11.5"
+          "ERA 4.23",
+          "WHIP 1.45",
+          "K/9 11.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.39"
+            "value": "4.23"
           },
           {
             "label": "WHIP",
-            "value": "1.46"
+            "value": "1.45"
           },
           {
             "label": "K/9",
-            "value": "11.5"
+            "value": "11.7"
           },
           {
             "label": "BB/9",
-            "value": "5.1"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
-            "value": "1.35"
+            "value": "1.30"
           },
           {
             "label": "IP",
-            "value": "26.7"
+            "value": "27.7"
           }
         ],
         "metaLine": "R-SO / S/L",
@@ -2305,32 +2305,32 @@
         "jersey": "25",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/jaden-winter/13085",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/WINTER_JADEN.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 1,
-        "appearances": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.52,
-        "whip": 1.64,
+        "earnedRunAverage": 5.4,
+        "whip": 1.62,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 14.666666666666666,
-        "inningsPitchedDisplay": "14.2",
-        "hitsAllowed": 19,
-        "runsAllowed": 10,
-        "earnedRunsAllowed": 9,
+        "inningsPitched": 16.666666666666668,
+        "inningsPitchedDisplay": "16.2",
+        "hitsAllowed": 22,
+        "runsAllowed": 11,
+        "earnedRunsAllowed": 10,
         "walksAllowed": 5,
-        "strikeouts": 11,
-        "doublesAllowed": 2,
+        "strikeouts": 13,
+        "doublesAllowed": 3,
         "triplesAllowed": 1,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 62,
+        "opponentsAtBats": 71,
         "wildPitches": 3,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.306,
-        "walksHits": 24
+        "opponentsBattingAverage": 0.31,
+        "walksHits": 27
       },
       "fieldingStats": {
         "rosterBioId": "13085",
@@ -2339,14 +2339,14 @@
         "jersey": "25",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/jaden-winter/13085",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/WINTER_JADEN.jpg",
-        "gamesPlayed": 2,
+        "gamesPlayed": 3,
         "gamesStarted": 0,
         "putouts": 0,
         "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 4,
+        "stolenBasesAgainst": 5,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
@@ -2354,7 +2354,7 @@
         "totalChances": 2
       },
       "evaluation": {
-        "score": 9,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2362,32 +2362,32 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 25,
-          "Command": 23.999999999999993,
+          "Miss bats": 27.45454545454545,
+          "Command": 32,
           "Damage suppression": 0
         },
-        "summary": "Jaden Winter gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Jaden Winter looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.52",
-          "WHIP 1.64",
-          "K/9 6.8"
+          "ERA 5.40",
+          "WHIP 1.62",
+          "K/9 7.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.52"
+            "value": "5.40"
           },
           {
             "label": "WHIP",
-            "value": "1.64"
+            "value": "1.62"
           },
           {
             "label": "K/9",
-            "value": "6.8"
+            "value": "7.0"
           },
           {
             "label": "BB/9",
-            "value": "3.1"
+            "value": "2.7"
           },
           {
             "label": "HR/9",
@@ -2395,7 +2395,7 @@
           },
           {
             "label": "IP",
-            "value": "14.7"
+            "value": "16.7"
           }
         ],
         "metaLine": "GR / R/R",
@@ -2446,33 +2446,33 @@
         "jersey": "27",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/todd-hudson/13066",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/HUDSON_TODD.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 33,
-        "battingAverage": 0.336,
-        "onBasePercentage": 0.413,
-        "sluggingPercentage": 0.5,
-        "ops": 0.913,
-        "atBats": 134,
+        "gamesPlayed": 37,
+        "gamesStarted": 34,
+        "battingAverage": 0.329,
+        "onBasePercentage": 0.404,
+        "sluggingPercentage": 0.486,
+        "ops": 0.89,
+        "atBats": 140,
         "runs": 29,
-        "hits": 45,
+        "hits": 46,
         "doubles": 4,
         "triples": 0,
         "homeRuns": 6,
         "runsBattedIn": 29,
-        "totalBases": 67,
+        "totalBases": 68,
         "walks": 19,
         "hitByPitch": 0,
-        "strikeouts": 22,
+        "strikeouts": 23,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 2,
         "sacrificeHits": 1,
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
-        "putouts": 64,
-        "assists": 2,
+        "putouts": 66,
+        "assists": 3,
         "errors": 2,
-        "plateAppearances": 161,
+        "plateAppearances": 167,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2484,51 +2484,51 @@
         "jersey": "27",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/todd-hudson/13066",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/HUDSON_TODD.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
-        "putouts": 64,
-        "assists": 2,
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "putouts": 66,
+        "assists": 3,
         "errors": 2,
-        "fieldingPercentage": 0.971,
+        "fieldingPercentage": 0.972,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 68
+        "totalChances": 71
       },
       "evaluation": {
-        "score": 60,
+        "score": 56,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 73.88888888888886,
-          "Power": 47.36842105263158,
-          "Contact": 72.50000000000001,
-          "Discipline": 73.73737373737373,
+          "On-base": 68.88888888888889,
+          "Power": 43.684210526315795,
+          "Contact": 68.125,
+          "Discipline": 69.56521739130433,
           "Speed": 10
         },
         "summary": "Todd Hudson profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .336",
-          "OBP .413",
-          "SLG .500"
+          "AVG .329",
+          "OBP .404",
+          "SLG .486"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".336"
+            "value": ".329"
           },
           {
             "label": "OBP",
-            "value": ".413"
+            "value": ".404"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".486"
           },
           {
             "label": "HR",
@@ -2592,32 +2592,32 @@
         "jersey": "28",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/ryan-combs/13058",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/COMBS_RYAN.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 1,
-        "appearances": 15,
+        "gamesPlayed": 16,
+        "gamesStarted": 2,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 8.62,
-        "whip": 2.04,
+        "earnedRunAverage": 7.64,
+        "whip": 1.87,
         "wins": 1,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 15.666666666666666,
-        "inningsPitchedDisplay": "15.2",
+        "inningsPitched": 17.666666666666668,
+        "inningsPitchedDisplay": "17.2",
         "hitsAllowed": 23,
         "runsAllowed": 15,
         "earnedRunsAllowed": 15,
-        "walksAllowed": 9,
-        "strikeouts": 24,
+        "walksAllowed": 10,
+        "strikeouts": 27,
         "doublesAllowed": 7,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 67,
+        "opponentsAtBats": 73,
         "wildPitches": 1,
-        "hitBatters": 2,
+        "hitBatters": 3,
         "balks": 2,
-        "opponentsBattingAverage": 0.343,
-        "walksHits": 32
+        "opponentsBattingAverage": 0.315,
+        "walksHits": 33
       },
       "fieldingStats": {
         "rosterBioId": "13058",
@@ -2649,24 +2649,24 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 88.97485493230175,
-          "Command": 33.333333333333336,
+          "Miss bats": 88.67924528301887,
+          "Command": 34,
           "Damage suppression": 0
         },
         "summary": "Ryan Combs looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 8.62",
-          "WHIP 2.04",
+          "ERA 7.64",
+          "WHIP 1.87",
           "K/9 13.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.62"
+            "value": "7.64"
           },
           {
             "label": "WHIP",
-            "value": "2.04"
+            "value": "1.87"
           },
           {
             "label": "K/9",
@@ -2674,15 +2674,15 @@
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
-            "value": "1.72"
+            "value": "1.53"
           },
           {
             "label": "IP",
-            "value": "15.7"
+            "value": "17.7"
           }
         ],
         "metaLine": "SR / R/R",
@@ -2734,32 +2734,32 @@
         "jersey": "29",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/joseph-taylor/13084",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/TAYLOR_JOSEPH.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 1,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.69,
-        "whip": 1.81,
+        "earnedRunAverage": 7.14,
+        "whip": 1.86,
         "wins": 4,
         "losses": 4,
         "saves": 2,
         "shutouts": 0,
         "inningsPitched": 40.333333333333336,
         "inningsPitchedDisplay": "40.1",
-        "hitsAllowed": 46,
-        "runsAllowed": 31,
-        "earnedRunsAllowed": 30,
+        "hitsAllowed": 48,
+        "runsAllowed": 33,
+        "earnedRunsAllowed": 32,
         "walksAllowed": 27,
         "strikeouts": 48,
-        "doublesAllowed": 8,
+        "doublesAllowed": 9,
         "triplesAllowed": 3,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 160,
+        "opponentsAtBats": 163,
         "wildPitches": 5,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.288,
-        "walksHits": 73
+        "opponentsBattingAverage": 0.294,
+        "walksHits": 75
       },
       "fieldingStats": {
         "rosterBioId": "13084",
@@ -2797,18 +2797,18 @@
         },
         "summary": "Joseph Taylor looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.69",
-          "WHIP 1.81",
+          "ERA 7.14",
+          "WHIP 1.86",
           "K/9 10.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.69"
+            "value": "7.14"
           },
           {
             "label": "WHIP",
-            "value": "1.81"
+            "value": "1.86"
           },
           {
             "label": "K/9",
@@ -3018,32 +3018,32 @@
         "jersey": "32",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/drew-munn/13072",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/MUNN_DREW.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 7,
-        "appearances": 11,
+        "appearances": 12,
         "gamesCompleted": 0,
         "earnedRunAverage": 5.45,
-        "whip": 1.48,
+        "whip": 1.47,
         "wins": 3,
         "losses": 2,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 33,
-        "inningsPitchedDisplay": "33.0",
-        "hitsAllowed": 37,
-        "runsAllowed": 23,
-        "earnedRunsAllowed": 20,
+        "inningsPitched": 34.666666666666664,
+        "inningsPitchedDisplay": "34.2",
+        "hitsAllowed": 39,
+        "runsAllowed": 24,
+        "earnedRunsAllowed": 21,
         "walksAllowed": 12,
-        "strikeouts": 21,
-        "doublesAllowed": 8,
+        "strikeouts": 23,
+        "doublesAllowed": 9,
         "triplesAllowed": 1,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 128,
+        "opponentsAtBats": 134,
         "wildPitches": 0,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.289,
-        "walksHits": 49
+        "opponentsBattingAverage": 0.291,
+        "walksHits": 51
       },
       "fieldingStats": {
         "rosterBioId": "13072",
@@ -3052,22 +3052,22 @@
         "jersey": "32",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/drew-munn/13072",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/MUNN_DREW.jpg",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 5,
         "putouts": 4,
-        "assists": 1,
+        "assists": 2,
         "errors": 1,
-        "fieldingPercentage": 0.833,
+        "fieldingPercentage": 0.857,
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 3,
         "stolenBasesPercentage": 0.25,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 6
+        "totalChances": 7
       },
       "evaluation": {
-        "score": 6,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3075,15 +3075,15 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 15.702479338842979,
-          "Command": 15,
+          "Miss bats": 17.919580419580424,
+          "Command": 18.333333333333336,
           "Damage suppression": 0
         },
         "summary": "Drew Munn gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "ERA 5.45",
-          "WHIP 1.48",
-          "K/9 5.7"
+          "WHIP 1.47",
+          "K/9 6.0"
         ],
         "statCards": [
           {
@@ -3092,23 +3092,23 @@
           },
           {
             "label": "WHIP",
-            "value": "1.48"
+            "value": "1.47"
           },
           {
             "label": "K/9",
-            "value": "5.7"
+            "value": "6.0"
           },
           {
             "label": "BB/9",
-            "value": "3.3"
+            "value": "3.1"
           },
           {
             "label": "HR/9",
-            "value": "1.09"
+            "value": "1.04"
           },
           {
             "label": "IP",
-            "value": "33.0"
+            "value": "34.7"
           }
         ],
         "metaLine": "SR / R/R",
@@ -3761,13 +3761,13 @@
         "jersey": "40",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/aaron-orozco/13075",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/OROZCO_AARON.jpg",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 6,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.367,
-        "sluggingPercentage": 0.25,
-        "ops": 0.617,
-        "atBats": 24,
+        "battingAverage": 0.231,
+        "onBasePercentage": 0.344,
+        "sluggingPercentage": 0.231,
+        "ops": 0.575,
+        "atBats": 26,
         "runs": 4,
         "hits": 6,
         "doubles": 0,
@@ -3777,7 +3777,7 @@
         "totalBases": 6,
         "walks": 5,
         "hitByPitch": 0,
-        "strikeouts": 9,
+        "strikeouts": 11,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
@@ -3787,7 +3787,7 @@
         "putouts": 44,
         "assists": 4,
         "errors": 0,
-        "plateAppearances": 30,
+        "plateAppearances": 32,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3814,36 +3814,36 @@
         "totalChances": 48
       },
       "evaluation": {
-        "score": 24,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 48.333333333333314,
+          "On-base": 35.55555555555553,
           "Power": 0,
-          "Contact": 18.75,
-          "Discipline": 39.50617283950617,
+          "Contact": 6.875000000000006,
+          "Discipline": 28.282828282828277,
           "Speed": 0
         },
         "summary": "Aaron Orozco gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .367",
-          "SLG .250"
+          "AVG .231",
+          "OBP .344",
+          "SLG .231"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".231"
           },
           {
             "label": "OBP",
-            "value": ".367"
+            "value": ".344"
           },
           {
             "label": "SLG",
-            "value": ".250"
+            "value": ".231"
           },
           {
             "label": "HR",
@@ -3906,13 +3906,13 @@
         "jersey": "44",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/walker-morgan/13071",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/MORGAN_WALKER.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 1,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.25,
-        "sluggingPercentage": 0.375,
-        "ops": 0.625,
-        "atBats": 8,
+        "gamesPlayed": 9,
+        "gamesStarted": 2,
+        "battingAverage": 0.2,
+        "onBasePercentage": 0.2,
+        "sluggingPercentage": 0.3,
+        "ops": 0.5,
+        "atBats": 10,
         "runs": 2,
         "hits": 2,
         "doubles": 1,
@@ -3922,7 +3922,7 @@
         "totalBases": 3,
         "walks": 0,
         "hitByPitch": 0,
-        "strikeouts": 4,
+        "strikeouts": 5,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -3932,7 +3932,7 @@
         "putouts": 0,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 8,
+        "plateAppearances": 10,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4065,18 +4065,18 @@
         "jersey": "45",
         "profileUrl": "https://charlotte49ers.com/sports/baseball/roster/sebastian-perez/13077",
         "imageUrl": "https://charlotte49ers.com/images/2025/9/26/PEREZ_SEBASTIAN.jpg",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 1,
-        "appearances": 15,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 8.02,
-        "whip": 1.97,
+        "earnedRunAverage": 7.89,
+        "whip": 1.94,
         "wins": 0,
         "losses": 1,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 21.333333333333332,
-        "inningsPitchedDisplay": "21.1",
+        "inningsPitched": 21.666666666666668,
+        "inningsPitchedDisplay": "21.2",
         "hitsAllowed": 29,
         "runsAllowed": 20,
         "earnedRunsAllowed": 19,
@@ -4085,11 +4085,11 @@
         "doublesAllowed": 6,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 90,
+        "opponentsAtBats": 91,
         "wildPitches": 1,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.322,
+        "opponentsBattingAverage": 0.319,
         "walksHits": 42
       },
       "fieldingStats": {
@@ -4122,40 +4122,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.50568181818182,
-          "Command": 9.230769230769228,
+          "Miss bats": 35.38461538461538,
+          "Command": 9.230769230769234,
           "Damage suppression": 0
         },
         "summary": "Sebastian Perez gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 8.02",
-          "WHIP 1.97",
-          "K/9 8.0"
+          "ERA 7.89",
+          "WHIP 1.94",
+          "K/9 7.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.02"
+            "value": "7.89"
           },
           {
             "label": "WHIP",
-            "value": "1.97"
+            "value": "1.94"
           },
           {
             "label": "K/9",
-            "value": "8.0"
+            "value": "7.9"
           },
           {
             "label": "BB/9",
-            "value": "5.5"
+            "value": "5.4"
           },
           {
             "label": "HR/9",
-            "value": "1.27"
+            "value": "1.25"
           },
           {
             "label": "IP",
-            "value": "21.3"
+            "value": "21.7"
           }
         ],
         "metaLine": "SR / R/R",
@@ -4416,29 +4416,29 @@
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 13,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Juan Rivera profiles as a INF piece who controls at-bats.",
+        "summary": "Juan Rivera gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .125",
-          "OBP .176",
-          "SLG .125"
+          "AVG .118",
+          "OBP .167",
+          "SLG .118"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".125"
+            "value": ".118"
           },
           {
             "label": "OBP",
-            "value": ".176"
+            "value": ".167"
           },
           {
             "label": "SLG",
-            "value": ".125"
+            "value": ".118"
           },
           {
             "label": "HR",
@@ -4457,7 +4457,7 @@
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 88.88888888888889,
+          "Discipline": 33.33333333333333,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / L/R",
@@ -4485,25 +4485,25 @@
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 42,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Adrian Jimenez profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .262",
-          "OBP .391",
+          "AVG .264",
+          "OBP .398",
           "SLG .357"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".262"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".391"
+            "value": ".398"
           },
           {
             "label": "SLG",
@@ -4523,9 +4523,9 @@
           }
         ],
         "components": {
-          "On-base": 61.66666666666666,
+          "On-base": 65.55555555555556,
           "Power": 9.736842105263154,
-          "Contact": 26.250000000000007,
+          "Contact": 27.500000000000007,
           "Discipline": 100,
           "Speed": 6.666666666666667
         },
@@ -4588,7 +4588,7 @@
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "components": {
@@ -4596,7 +4596,7 @@
           "Power": 17.10526315789474,
           "Contact": 0,
           "Discipline": 0,
-          "Speed": 13.333333333333334
+          "Speed": 16.666666666666664
         },
         "metaLine": "JR / R/R",
         "detailBadges": [
@@ -4630,22 +4630,22 @@
         },
         "summary": "Robert Nedry profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .287",
-          "OBP .412",
-          "SLG .419"
+          "AVG .288",
+          "OBP .414",
+          "SLG .417"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".287"
+            "value": ".288"
           },
           {
             "label": "OBP",
-            "value": ".412"
+            "value": ".414"
           },
           {
             "label": "SLG",
-            "value": ".419"
+            "value": ".417"
           },
           {
             "label": "HR",
@@ -4661,9 +4661,9 @@
           }
         ],
         "components": {
-          "On-base": 73.3333333333333,
-          "Power": 26.052631578947366,
-          "Contact": 41.874999999999986,
+          "On-base": 74.44444444444443,
+          "Power": 25.52631578947368,
+          "Contact": 42.499999999999986,
           "Discipline": 50.79365079365078,
           "Speed": 20
         },
@@ -4692,29 +4692,29 @@
         "position": "OF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 66,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Alec DeMartino profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .324",
-          "OBP .440",
-          "SLG .559"
+          "AVG .322",
+          "OBP .439",
+          "SLG .557"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".324"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".440"
+            "value": ".439"
           },
           {
             "label": "SLG",
-            "value": ".559"
+            "value": ".557"
           },
           {
             "label": "HR",
@@ -4722,7 +4722,7 @@
           },
           {
             "label": "RBI",
-            "value": "31"
+            "value": "32"
           },
           {
             "label": "SB",
@@ -4730,10 +4730,10 @@
           }
         ],
         "components": {
-          "On-base": 88.88888888888889,
-          "Power": 62.89473684210528,
-          "Contact": 65,
-          "Discipline": 56.36856368563685,
+          "On-base": 88.33333333333331,
+          "Power": 62.3684210526316,
+          "Contact": 63.75000000000001,
+          "Discipline": 55.297157622739014,
           "Speed": 16.666666666666664
         },
         "metaLine": "GR / R/R",
@@ -4837,41 +4837,41 @@
         },
         "summary": "Chase Carson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.49",
-          "WHIP 1.66",
-          "K/9 8.1"
+          "ERA 5.32",
+          "WHIP 1.59",
+          "K/9 8.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.49"
+            "value": "5.32"
           },
           {
             "label": "WHIP",
-            "value": "1.66"
+            "value": "1.59"
           },
           {
             "label": "K/9",
-            "value": "8.1"
+            "value": "8.0"
           },
           {
             "label": "BB/9",
-            "value": "4.0"
+            "value": "3.7"
           },
           {
             "label": "HR/9",
-            "value": "0.88"
+            "value": "1.02"
           },
           {
             "label": "IP",
-            "value": "41.0"
+            "value": "44.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 37.47228381374722,
-          "Command": 21.111111111111107,
+          "Miss bats": 36.15702479338843,
+          "Command": 23.33333333333334,
           "Damage suppression": 0
         },
         "metaLine": "GR / L/L",
@@ -4899,29 +4899,29 @@
         "position": "C",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 44,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cale Stricklin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .388",
-          "SLG .454"
+          "AVG .331",
+          "OBP .389",
+          "SLG .452"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": ".331"
           },
           {
             "label": "OBP",
-            "value": ".388"
+            "value": ".389"
           },
           {
             "label": "SLG",
-            "value": ".454"
+            "value": ".452"
           },
           {
             "label": "HR",
@@ -4929,7 +4929,7 @@
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "28"
           },
           {
             "label": "SB",
@@ -4937,10 +4937,10 @@
           }
         ],
         "components": {
-          "On-base": 60,
-          "Power": 35.26315789473685,
-          "Contact": 67.5,
-          "Discipline": 28.282828282828277,
+          "On-base": 60.55555555555555,
+          "Power": 34.736842105263165,
+          "Contact": 69.37500000000001,
+          "Discipline": 26.086956521739125,
           "Speed": 0
         },
         "metaLine": "JR / R/R",
@@ -5106,29 +5106,29 @@
         "position": "INF",
         "classYear": "GR",
         "handedness": "L/R",
-        "score": 70,
+        "score": 68,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Dylan Koontz profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .316",
-          "OBP .465",
-          "SLG .579"
+          "AVG .309",
+          "OBP .463",
+          "SLG .566"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".316"
+            "value": ".309"
           },
           {
             "label": "OBP",
-            "value": ".465"
+            "value": ".463"
           },
           {
             "label": "SLG",
-            "value": ".579"
+            "value": ".566"
           },
           {
             "label": "HR",
@@ -5145,9 +5145,9 @@
         ],
         "components": {
           "On-base": 100,
-          "Power": 68.15789473684211,
-          "Contact": 60,
-          "Discipline": 63.79928315412185,
+          "Power": 64.73684210526315,
+          "Contact": 55.62499999999999,
+          "Discipline": 64.58333333333333,
           "Speed": 3.3333333333333335
         },
         "metaLine": "GR / L/R",
@@ -5244,29 +5244,29 @@
         "position": "C/1B",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 53,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cody Gunderson profiles as a C/1B piece who gets on base at a high clip.",
+        "summary": "Cody Gunderson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .325",
-          "OBP .401",
-          "SLG .548"
+          "AVG .321",
+          "OBP .396",
+          "SLG .537"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".325"
+            "value": ".321"
           },
           {
             "label": "OBP",
-            "value": ".401"
+            "value": ".396"
           },
           {
             "label": "SLG",
-            "value": ".548"
+            "value": ".537"
           },
           {
             "label": "HR",
@@ -5282,9 +5282,9 @@
           }
         ],
         "components": {
-          "On-base": 67.22222222222223,
-          "Power": 60.00000000000002,
-          "Contact": 65.625,
+          "On-base": 64.44444444444444,
+          "Power": 57.10526315789475,
+          "Contact": 63.125,
           "Discipline": 27.95698924731182,
           "Speed": 0
         },
@@ -5313,37 +5313,37 @@
         "position": "UTL",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 44,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Spencer Nolan profiles as a UTL piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .310",
-          "OBP .383",
-          "SLG .415"
+          "AVG .316",
+          "OBP .397",
+          "SLG .443"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".310"
+            "value": ".316"
           },
           {
             "label": "OBP",
-            "value": ".383"
+            "value": ".397"
           },
           {
             "label": "SLG",
-            "value": ".415"
+            "value": ".443"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "3"
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -5351,10 +5351,10 @@
           }
         ],
         "components": {
-          "On-base": 57.22222222222222,
-          "Power": 24.999999999999996,
-          "Contact": 56.25,
-          "Discipline": 46.74329501915708,
+          "On-base": 65,
+          "Power": 32.36842105263158,
+          "Contact": 60,
+          "Discipline": 55.555555555555536,
           "Speed": 30
         },
         "metaLine": "SR / R/R",
@@ -5389,41 +5389,41 @@
         },
         "summary": "AJ Camp looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.39",
-          "WHIP 1.46",
-          "K/9 11.5"
+          "ERA 4.23",
+          "WHIP 1.45",
+          "K/9 11.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.39"
+            "value": "4.23"
           },
           {
             "label": "WHIP",
-            "value": "1.46"
+            "value": "1.45"
           },
           {
             "label": "K/9",
-            "value": "11.5"
+            "value": "11.7"
           },
           {
             "label": "BB/9",
-            "value": "5.1"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
-            "value": "1.35"
+            "value": "1.30"
           },
           {
             "label": "IP",
-            "value": "26.7"
+            "value": "27.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 67.95454545454545,
-          "Command": 25.33333333333333,
+          "Miss bats": 70.09857612267251,
+          "Command": 28.000000000000007,
           "Damage suppression": 0
         },
         "metaLine": "R-SO / S/L",
@@ -5451,33 +5451,33 @@
         "position": "RHP",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 9,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jaden Winter gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Jaden Winter looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.52",
-          "WHIP 1.64",
-          "K/9 6.8"
+          "ERA 5.40",
+          "WHIP 1.62",
+          "K/9 7.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.52"
+            "value": "5.40"
           },
           {
             "label": "WHIP",
-            "value": "1.64"
+            "value": "1.62"
           },
           {
             "label": "K/9",
-            "value": "6.8"
+            "value": "7.0"
           },
           {
             "label": "BB/9",
-            "value": "3.1"
+            "value": "2.7"
           },
           {
             "label": "HR/9",
@@ -5485,14 +5485,14 @@
           },
           {
             "label": "IP",
-            "value": "14.7"
+            "value": "16.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 25,
-          "Command": 23.999999999999993,
+          "Miss bats": 27.45454545454545,
+          "Command": 32,
           "Damage suppression": 0
         },
         "metaLine": "GR / R/R",
@@ -5520,29 +5520,29 @@
         "position": "OF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 60,
+        "score": 56,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Todd Hudson profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .336",
-          "OBP .413",
-          "SLG .500"
+          "AVG .329",
+          "OBP .404",
+          "SLG .486"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".336"
+            "value": ".329"
           },
           {
             "label": "OBP",
-            "value": ".413"
+            "value": ".404"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".486"
           },
           {
             "label": "HR",
@@ -5558,10 +5558,10 @@
           }
         ],
         "components": {
-          "On-base": 73.88888888888886,
-          "Power": 47.36842105263158,
-          "Contact": 72.50000000000001,
-          "Discipline": 73.73737373737373,
+          "On-base": 68.88888888888889,
+          "Power": 43.684210526315795,
+          "Contact": 68.125,
+          "Discipline": 69.56521739130433,
           "Speed": 10
         },
         "metaLine": "SR / L/R",
@@ -5596,18 +5596,18 @@
         },
         "summary": "Ryan Combs looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 8.62",
-          "WHIP 2.04",
+          "ERA 7.64",
+          "WHIP 1.87",
           "K/9 13.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.62"
+            "value": "7.64"
           },
           {
             "label": "WHIP",
-            "value": "2.04"
+            "value": "1.87"
           },
           {
             "label": "K/9",
@@ -5615,22 +5615,22 @@
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
-            "value": "1.72"
+            "value": "1.53"
           },
           {
             "label": "IP",
-            "value": "15.7"
+            "value": "17.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 88.97485493230175,
-          "Command": 33.333333333333336,
+          "Miss bats": 88.67924528301887,
+          "Command": 34,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -5665,18 +5665,18 @@
         },
         "summary": "Joseph Taylor looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.69",
-          "WHIP 1.81",
+          "ERA 7.14",
+          "WHIP 1.86",
           "K/9 10.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.69"
+            "value": "7.14"
           },
           {
             "label": "WHIP",
-            "value": "1.81"
+            "value": "1.86"
           },
           {
             "label": "K/9",
@@ -5796,7 +5796,7 @@
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 6,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5804,8 +5804,8 @@
         "summary": "Drew Munn gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "ERA 5.45",
-          "WHIP 1.48",
-          "K/9 5.7"
+          "WHIP 1.47",
+          "K/9 6.0"
         ],
         "statCards": [
           {
@@ -5814,30 +5814,30 @@
           },
           {
             "label": "WHIP",
-            "value": "1.48"
+            "value": "1.47"
           },
           {
             "label": "K/9",
-            "value": "5.7"
+            "value": "6.0"
           },
           {
             "label": "BB/9",
-            "value": "3.3"
+            "value": "3.1"
           },
           {
             "label": "HR/9",
-            "value": "1.09"
+            "value": "1.04"
           },
           {
             "label": "IP",
-            "value": "33.0"
+            "value": "34.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 15.702479338842979,
-          "Command": 15,
+          "Miss bats": 17.919580419580424,
+          "Command": 18.333333333333336,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -6208,29 +6208,29 @@
         "position": "C",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 24,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Aaron Orozco gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .367",
-          "SLG .250"
+          "AVG .231",
+          "OBP .344",
+          "SLG .231"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".231"
           },
           {
             "label": "OBP",
-            "value": ".367"
+            "value": ".344"
           },
           {
             "label": "SLG",
-            "value": ".250"
+            "value": ".231"
           },
           {
             "label": "HR",
@@ -6246,10 +6246,10 @@
           }
         ],
         "components": {
-          "On-base": 48.333333333333314,
+          "On-base": 35.55555555555553,
           "Power": 0,
-          "Contact": 18.75,
-          "Discipline": 39.50617283950617,
+          "Contact": 6.875000000000006,
+          "Discipline": 28.282828282828277,
           "Speed": 0
         },
         "metaLine": "FR / R/R",
@@ -6353,41 +6353,41 @@
         },
         "summary": "Sebastian Perez gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 8.02",
-          "WHIP 1.97",
-          "K/9 8.0"
+          "ERA 7.89",
+          "WHIP 1.94",
+          "K/9 7.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.02"
+            "value": "7.89"
           },
           {
             "label": "WHIP",
-            "value": "1.97"
+            "value": "1.94"
           },
           {
             "label": "K/9",
-            "value": "8.0"
+            "value": "7.9"
           },
           {
             "label": "BB/9",
-            "value": "5.5"
+            "value": "5.4"
           },
           {
             "label": "HR/9",
-            "value": "1.27"
+            "value": "1.25"
           },
           {
             "label": "IP",
-            "value": "21.3"
+            "value": "21.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.50568181818182,
-          "Command": 9.230769230769228,
+          "Miss bats": 35.38461538461538,
+          "Command": 9.230769230769234,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",

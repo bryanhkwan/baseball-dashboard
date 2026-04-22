@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T11:33:42.626Z",
+  "generatedAt": "2026-04-22T11:22:09.926Z",
   "season": 2026,
   "school": {
     "slug": "minnesota",
@@ -38,84 +38,84 @@
     }
   },
   "teamSummary": {
-    "record": "22-17, 5-13",
-    "battingAverage": ".267",
-    "earnedRunAverage": "4.44",
-    "wins": "22",
+    "record": "23-17, 5-13",
+    "battingAverage": ".269",
+    "earnedRunAverage": "4.40",
+    "wins": "23",
     "losses": "17",
     "hitting": {
-      "atBats": "1266",
-      "runsScored": "294",
-      "hits": "338",
-      "runsBattedIn": "272",
-      "doubles": "79",
+      "atBats": "1299",
+      "runsScored": "306",
+      "hits": "350",
+      "runsBattedIn": "283",
+      "doubles": "80",
       "triples": "12",
-      "homeRuns": "49",
-      "walks": "228",
+      "homeRuns": "53",
+      "walks": "235",
       "intentionalWalks": "1",
-      "strikeouts": "297",
-      "strikeoutsLooking": "86",
-      "hitByPitch": "54",
-      "stolenBases": "82",
-      "caughtStealing": "15",
+      "strikeouts": "303",
+      "strikeoutsLooking": "89",
+      "hitByPitch": "60",
+      "stolenBases": "87",
+      "caughtStealing": "16",
       "sacrificeHits": "15",
-      "sacrificeFlies": "22",
+      "sacrificeFlies": "23",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "281",
-      "flyOuts": "370",
+      "groundOuts": "289",
+      "flyOuts": "378",
       "groundedIntoDoublePlay": "9",
       "pickedOff": "6",
-      "doublePlaysHitInto": "18",
+      "doublePlaysHitInto": "19",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1004",
-      "assists": "341",
+      "putouts": "1031",
+      "assists": "348",
       "errors": "22",
       "passedBalls": "1",
       "catchersInterference": "1",
-      "stolenBasesAgainst": "35",
+      "stolenBasesAgainst": "36",
       "caughtStealingBy": "7",
       "involvedInDoublePlays": "33",
       "involvedInTriplePlays": "0",
-      "totalChances": "1367",
+      "totalChances": "1401",
       "fieldingPercentage": ".984"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "22",
+      "wins": "23",
       "saves": "6",
       "losses": "17",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "2",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "334.2",
-      "hitsAllowed": "290",
-      "runsAllowed": "181",
-      "earnedRunsAllowed": "165",
-      "walksAllowed": "141",
-      "strikeouts": "326",
-      "battersFaced": "1461",
-      "opponentAtBats": "1235",
-      "doublesAllowed": "63",
+      "inningsPitched": "343.2",
+      "hitsAllowed": "294",
+      "runsAllowed": "184",
+      "earnedRunsAllowed": "168",
+      "walksAllowed": "146",
+      "strikeouts": "340",
+      "battersFaced": "1496",
+      "opponentAtBats": "1265",
+      "doublesAllowed": "64",
       "triplesAllowed": "6",
-      "homerunsAllowed": "35",
+      "homerunsAllowed": "36",
       "wildPitches": "30",
       "balks": "4",
       "hitBatters": "55",
-      "strikeoutsLooking": "92",
+      "strikeoutsLooking": "94",
       "intentionalWalks": "2",
       "inheritedRunners": "14",
       "inheritedRunnersThatScored": "6",
       "sacrificeHitsAllowed": "15",
       "sacrificeFliesAllowed": "14",
       "catchersInterferenceAllowed": "0",
-      "pitches": "5606",
-      "flyouts": "308",
-      "groundouts": "321",
+      "pitches": "5763",
+      "flyouts": "315",
+      "groundouts": "326",
       "teamUnearnedRuns": "0",
       "saveRecord": "1",
       "pickoff": "2"
@@ -160,7 +160,7 @@
         "jersey": "1",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/nathan-o-donnell/23666",
         "imageUrl": "https://gophersports.com/images/2025/12/10/O_Donnell_Nathan_001.jpg",
-        "gamesPlayed": 5,
+        "gamesPlayed": 6,
         "gamesStarted": 0,
         "battingAverage": 0,
         "onBasePercentage": 0,
@@ -197,32 +197,32 @@
         "jersey": "1",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/nathan-o-donnell/23666",
         "imageUrl": "https://gophersports.com/images/2025/12/10/O_Donnell_Nathan_001.jpg",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 0,
-        "appearances": 4,
+        "appearances": 5,
         "gamesCompleted": 0,
-        "earnedRunAverage": 8.31,
-        "whip": 0.92,
+        "earnedRunAverage": 10.13,
+        "whip": 1.13,
         "wins": 2,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 4.333333333333333,
-        "inningsPitchedDisplay": "4.1",
-        "hitsAllowed": 2,
-        "runsAllowed": 4,
-        "earnedRunsAllowed": 4,
-        "walksAllowed": 2,
-        "strikeouts": 2,
+        "inningsPitched": 5.333333333333333,
+        "inningsPitchedDisplay": "5.1",
+        "hitsAllowed": 3,
+        "runsAllowed": 6,
+        "earnedRunsAllowed": 6,
+        "walksAllowed": 3,
+        "strikeouts": 3,
         "doublesAllowed": 1,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 15,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 19,
         "wildPitches": 0,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.133,
-        "walksHits": 4
+        "opponentsBattingAverage": 0.158,
+        "walksHits": 6
       },
       "fieldingStats": {
         "rosterBioId": "23666",
@@ -246,7 +246,7 @@
         "totalChances": 1
       },
       "evaluation": {
-        "score": 0,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -254,40 +254,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 1.3986013986014016,
+          "Miss bats": 9.659090909090908,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Nathan O'Donnell looks like a INF/RHP option who keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 8.31",
-          "WHIP 0.92",
-          "K/9 4.2"
+          "ERA 10.13",
+          "WHIP 1.13",
+          "K/9 5.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.31"
+            "value": "10.13"
           },
           {
             "label": "WHIP",
-            "value": "0.92"
+            "value": "1.13"
           },
           {
             "label": "K/9",
-            "value": "4.2"
+            "value": "5.1"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "1.69"
           },
           {
             "label": "IP",
-            "value": "4.3"
+            "value": "5.3"
           }
         ],
         "metaLine": "FR / N/A",
@@ -338,34 +338,34 @@
         "jersey": "2",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/easton-richter/23657",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Richter_Easton_0010.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 36,
+        "gamesPlayed": 39,
+        "gamesStarted": 37,
         "battingAverage": 0.248,
-        "onBasePercentage": 0.326,
-        "sluggingPercentage": 0.548,
-        "ops": 0.874,
-        "atBats": 157,
+        "onBasePercentage": 0.322,
+        "sluggingPercentage": 0.54,
+        "ops": 0.862,
+        "atBats": 161,
         "runs": 42,
-        "hits": 39,
+        "hits": 40,
         "doubles": 13,
         "triples": 2,
         "homeRuns": 10,
-        "runsBattedIn": 33,
-        "totalBases": 86,
+        "runsBattedIn": 34,
+        "totalBases": 87,
         "walks": 16,
         "hitByPitch": 2,
-        "strikeouts": 40,
+        "strikeouts": 41,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
+        "sacrificeFlies": 1,
         "sacrificeHits": 1,
-        "stolenBases": 16,
-        "stolenBasesAttempts": 17,
-        "putouts": 88,
+        "stolenBases": 17,
+        "stolenBasesAttempts": 19,
+        "putouts": 94,
         "assists": 1,
         "errors": 2,
-        "plateAppearances": 194,
-        "caughtStealing": 1,
+        "plateAppearances": 202,
+        "caughtStealing": 2,
         "pickedOff": 0
       },
       "pitchingStats": null,
@@ -376,19 +376,19 @@
         "jersey": "2",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/easton-richter/23657",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Richter_Easton_0010.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
-        "putouts": 88,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "putouts": 94,
         "assists": 1,
         "errors": 2,
-        "fieldingPercentage": 0.978,
+        "fieldingPercentage": 0.979,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 91
+        "totalChances": 97
       },
       "evaluation": {
         "score": 0,
@@ -483,22 +483,22 @@
         "jersey": "4",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/jack-mosh/23654",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Mosh_Jack_0006.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 19,
-        "battingAverage": 0.297,
-        "onBasePercentage": 0.423,
-        "sluggingPercentage": 0.344,
-        "ops": 0.767,
-        "atBats": 64,
-        "runs": 19,
-        "hits": 19,
+        "gamesPlayed": 27,
+        "gamesStarted": 20,
+        "battingAverage": 0.299,
+        "onBasePercentage": 0.434,
+        "sluggingPercentage": 0.343,
+        "ops": 0.777,
+        "atBats": 67,
+        "runs": 20,
+        "hits": 20,
         "doubles": 3,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 7,
-        "totalBases": 22,
-        "walks": 10,
-        "hitByPitch": 4,
+        "totalBases": 23,
+        "walks": 11,
+        "hitByPitch": 5,
         "strikeouts": 10,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
@@ -507,9 +507,9 @@
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 38,
-        "assists": 51,
+        "assists": 54,
         "errors": 1,
-        "plateAppearances": 84,
+        "plateAppearances": 89,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -521,10 +521,10 @@
         "jersey": "4",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/jack-mosh/23654",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Mosh_Jack_0006.jpg",
-        "gamesPlayed": 18,
-        "gamesStarted": 17,
+        "gamesPlayed": 19,
+        "gamesStarted": 18,
         "putouts": 38,
-        "assists": 51,
+        "assists": 54,
         "errors": 1,
         "fieldingPercentage": 0.989,
         "doublePlays": 17,
@@ -533,39 +533,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 90
+        "totalChances": 93
       },
       "evaluation": {
-        "score": 49,
+        "score": 53,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 79.44444444444443,
-          "Power": 6.315789473684203,
-          "Contact": 48.12499999999999,
-          "Discipline": 88.88888888888889,
+          "On-base": 85.55555555555554,
+          "Power": 6.052631578947374,
+          "Contact": 49.37499999999999,
+          "Discipline": 100,
           "Speed": 6.666666666666667
         },
         "summary": "Jack Mosh profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .297",
-          "OBP .423",
-          "SLG .344"
+          "AVG .299",
+          "OBP .434",
+          "SLG .343"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".297"
+            "value": ".299"
           },
           {
             "label": "OBP",
-            "value": ".423"
+            "value": ".434"
           },
           {
             "label": "SLG",
-            "value": ".344"
+            "value": ".343"
           },
           {
             "label": "HR",
@@ -628,22 +628,22 @@
         "jersey": "7",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/jack-spanier/23660",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Spanier_Jack_0005.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "battingAverage": 0.324,
-        "onBasePercentage": 0.464,
-        "sluggingPercentage": 0.545,
-        "ops": 1.009,
-        "atBats": 145,
-        "runs": 43,
-        "hits": 47,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "battingAverage": 0.322,
+        "onBasePercentage": 0.466,
+        "sluggingPercentage": 0.557,
+        "ops": 1.023,
+        "atBats": 149,
+        "runs": 44,
+        "hits": 48,
         "doubles": 12,
         "triples": 4,
-        "homeRuns": 4,
-        "runsBattedIn": 27,
-        "totalBases": 79,
-        "walks": 35,
-        "hitByPitch": 3,
+        "homeRuns": 5,
+        "runsBattedIn": 28,
+        "totalBases": 83,
+        "walks": 36,
+        "hitByPitch": 4,
         "strikeouts": 23,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
@@ -654,7 +654,7 @@
         "putouts": 52,
         "assists": 89,
         "errors": 3,
-        "plateAppearances": 202,
+        "plateAppearances": 208,
         "caughtStealing": 2,
         "pickedOff": 2
       },
@@ -681,44 +681,44 @@
         "totalChances": 144
       },
       "evaluation": {
-        "score": 77,
+        "score": 78,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
           "On-base": 100,
-          "Power": 59.210526315789494,
-          "Contact": 65,
+          "Power": 62.3684210526316,
+          "Contact": 63.75000000000001,
           "Discipline": 100,
           "Speed": 43.333333333333336
         },
-        "summary": "Jack Spanier profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
+        "summary": "Jack Spanier profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .324",
-          "OBP .464",
-          "SLG .545"
+          "AVG .322",
+          "OBP .466",
+          "SLG .557"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".324"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".464"
+            "value": ".466"
           },
           {
             "label": "SLG",
-            "value": ".545"
+            "value": ".557"
           },
           {
             "label": "HR",
-            "value": "4"
+            "value": "5"
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "28"
           },
           {
             "label": "SB",
@@ -918,33 +918,33 @@
         "jersey": "9",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/davis-hamilton/23665",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Hamilton_Davis_0007.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "battingAverage": 0.292,
-        "onBasePercentage": 0.453,
-        "sluggingPercentage": 0.469,
-        "ops": 0.922,
-        "atBats": 130,
-        "runs": 32,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "battingAverage": 0.286,
+        "onBasePercentage": 0.452,
+        "sluggingPercentage": 0.459,
+        "ops": 0.911,
+        "atBats": 133,
+        "runs": 33,
         "hits": 38,
         "doubles": 11,
         "triples": 0,
         "homeRuns": 4,
         "runsBattedIn": 25,
         "totalBases": 61,
-        "walks": 31,
-        "hitByPitch": 9,
+        "walks": 32,
+        "hitByPitch": 10,
         "strikeouts": 20,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
-        "stolenBases": 9,
-        "stolenBasesAttempts": 14,
+        "stolenBases": 10,
+        "stolenBasesAttempts": 15,
         "putouts": 26,
-        "assists": 63,
+        "assists": 64,
         "errors": 4,
-        "plateAppearances": 191,
+        "plateAppearances": 197,
         "caughtStealing": 5,
         "pickedOff": 1
       },
@@ -956,10 +956,10 @@
         "jersey": "9",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/davis-hamilton/23665",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Hamilton_Davis_0007.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 33,
+        "gamesPlayed": 34,
+        "gamesStarted": 34,
         "putouts": 26,
-        "assists": 63,
+        "assists": 64,
         "errors": 4,
         "fieldingPercentage": 0.957,
         "doublePlays": 10,
@@ -968,39 +968,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 93
+        "totalChances": 94
       },
       "evaluation": {
-        "score": 66,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 96.1111111111111,
-          "Power": 39.210526315789465,
-          "Contact": 44.999999999999986,
+          "On-base": 95.55555555555554,
+          "Power": 36.57894736842106,
+          "Contact": 41.24999999999998,
           "Discipline": 100,
-          "Speed": 30
+          "Speed": 33.33333333333333
         },
         "summary": "Davis Hamilton profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .292",
-          "OBP .453",
-          "SLG .469"
+          "AVG .286",
+          "OBP .452",
+          "SLG .459"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".453"
+            "value": ".452"
           },
           {
             "label": "SLG",
-            "value": ".469"
+            "value": ".459"
           },
           {
             "label": "HR",
@@ -1012,7 +1012,7 @@
           },
           {
             "label": "SB",
-            "value": "9"
+            "value": "10"
           }
         ],
         "metaLine": "SR / L/R",
@@ -1063,33 +1063,33 @@
         "jersey": "10",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/sam-hunt/23652",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Hunt_Sam_0044.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 13,
-        "battingAverage": 0.234,
-        "onBasePercentage": 0.393,
-        "sluggingPercentage": 0.383,
-        "ops": 0.776,
-        "atBats": 47,
-        "runs": 10,
-        "hits": 11,
-        "doubles": 2,
+        "gamesPlayed": 23,
+        "gamesStarted": 14,
+        "battingAverage": 0.25,
+        "onBasePercentage": 0.394,
+        "sluggingPercentage": 0.462,
+        "ops": 0.856,
+        "atBats": 52,
+        "runs": 12,
+        "hits": 13,
+        "doubles": 3,
         "triples": 1,
-        "homeRuns": 1,
-        "runsBattedIn": 12,
-        "totalBases": 18,
+        "homeRuns": 2,
+        "runsBattedIn": 15,
+        "totalBases": 24,
         "walks": 12,
         "hitByPitch": 1,
-        "strikeouts": 18,
+        "strikeouts": 19,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
         "sacrificeHits": 3,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 3,
-        "putouts": 94,
+        "stolenBases": 3,
+        "stolenBasesAttempts": 4,
+        "putouts": 109,
         "assists": 7,
         "errors": 1,
-        "plateAppearances": 68,
+        "plateAppearances": 74,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1101,63 +1101,63 @@
         "jersey": "10",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/sam-hunt/23652",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Hunt_Sam_0044.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 10,
-        "putouts": 94,
+        "gamesPlayed": 17,
+        "gamesStarted": 11,
+        "putouts": 109,
         "assists": 7,
         "errors": 1,
-        "fieldingPercentage": 0.99,
+        "fieldingPercentage": 0.991,
         "doublePlays": 0,
-        "stolenBasesAgainst": 10,
+        "stolenBasesAgainst": 11,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.909,
+        "stolenBasesPercentage": 0.917,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 102
+        "totalChances": 117
       },
       "evaluation": {
-        "score": 34,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 62.77777777777778,
-          "Power": 16.578947368421055,
-          "Contact": 8.750000000000007,
-          "Discipline": 51.85185185185184,
-          "Speed": 6.666666666666667
+          "On-base": 63.33333333333333,
+          "Power": 37.36842105263159,
+          "Contact": 18.75,
+          "Discipline": 47.95321637426899,
+          "Speed": 10
         },
         "summary": "Sam Hunt gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .234",
-          "OBP .393",
-          "SLG .383"
+          "AVG .250",
+          "OBP .394",
+          "SLG .462"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".234"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".393"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".383"
+            "value": ".462"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "2"
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "15"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "3"
           }
         ],
         "metaLine": "R-SR / S/R",
@@ -1208,13 +1208,13 @@
         "jersey": "12",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/ethan-cole/23671",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Cole_Ethan_0008.jpg",
-        "gamesPlayed": 5,
+        "gamesPlayed": 6,
         "gamesStarted": 2,
-        "battingAverage": 0.286,
-        "onBasePercentage": 0.444,
-        "sluggingPercentage": 0.857,
-        "ops": 1.301,
-        "atBats": 7,
+        "battingAverage": 0.25,
+        "onBasePercentage": 0.4,
+        "sluggingPercentage": 0.75,
+        "ops": 1.15,
+        "atBats": 8,
         "runs": 4,
         "hits": 2,
         "doubles": 1,
@@ -1224,7 +1224,7 @@
         "totalBases": 6,
         "walks": 1,
         "hitByPitch": 1,
-        "strikeouts": 3,
+        "strikeouts": 4,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -1234,43 +1234,43 @@
         "putouts": 0,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 9,
+        "plateAppearances": 10,
         "caughtStealing": 0,
         "pickedOff": 0
       },
       "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
-        "score": 65,
+        "score": 51,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 91.1111111111111,
+          "On-base": 66.66666666666666,
           "Power": 100,
-          "Contact": 41.24999999999998,
-          "Discipline": 14.814814814814808,
+          "Contact": 18.75,
+          "Discipline": 5.555555555555554,
           "Speed": 0
         },
         "summary": "Ethan Cole profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .444",
-          "SLG .857"
+          "AVG .250",
+          "OBP .400",
+          "SLG .750"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".444"
+            "value": ".400"
           },
           {
             "label": "SLG",
-            "value": ".857"
+            "value": ".750"
           },
           {
             "label": "HR",
@@ -1617,33 +1617,33 @@
         "jersey": "16",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/ty-allen/23667",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Allen_Ty_0013.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 36,
-        "battingAverage": 0.23,
-        "onBasePercentage": 0.342,
-        "sluggingPercentage": 0.46,
-        "ops": 0.802,
-        "atBats": 126,
-        "runs": 24,
-        "hits": 29,
+        "gamesPlayed": 38,
+        "gamesStarted": 37,
+        "battingAverage": 0.246,
+        "onBasePercentage": 0.356,
+        "sluggingPercentage": 0.469,
+        "ops": 0.825,
+        "atBats": 130,
+        "runs": 25,
+        "hits": 32,
         "doubles": 5,
         "triples": 3,
         "homeRuns": 6,
-        "runsBattedIn": 32,
-        "totalBases": 58,
-        "walks": 22,
+        "runsBattedIn": 34,
+        "totalBases": 61,
+        "walks": 23,
         "hitByPitch": 2,
-        "strikeouts": 33,
+        "strikeouts": 34,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 5,
         "sacrificeHits": 0,
-        "stolenBases": 5,
-        "stolenBasesAttempts": 6,
+        "stolenBases": 6,
+        "stolenBasesAttempts": 7,
         "putouts": 57,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 162,
+        "plateAppearances": 168,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1670,36 +1670,36 @@
         "totalChances": 57
       },
       "evaluation": {
-        "score": 31,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 34.44444444444444,
-          "Power": 36.842105263157904,
-          "Contact": 6.250000000000005,
-          "Discipline": 51.85185185185184,
-          "Speed": 16.666666666666664
+          "On-base": 42.2222222222222,
+          "Power": 39.210526315789465,
+          "Contact": 16.249999999999996,
+          "Discipline": 52.94117647058824,
+          "Speed": 20
         },
         "summary": "Ty Allen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .230",
-          "OBP .342",
-          "SLG .460"
+          "AVG .246",
+          "OBP .356",
+          "SLG .469"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".230"
+            "value": ".246"
           },
           {
             "label": "OBP",
-            "value": ".342"
+            "value": ".356"
           },
           {
             "label": "SLG",
-            "value": ".460"
+            "value": ".469"
           },
           {
             "label": "HR",
@@ -1707,11 +1707,11 @@
           },
           {
             "label": "RBI",
-            "value": "32"
+            "value": "34"
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "6"
           }
         ],
         "metaLine": "JR / N/A",
@@ -2049,33 +2049,33 @@
         "jersey": "19",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/jackson-akin/23669",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Akin_Jackson_0015.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 9,
-        "battingAverage": 0.185,
-        "onBasePercentage": 0.303,
-        "sluggingPercentage": 0.37,
-        "ops": 0.673,
-        "atBats": 27,
-        "runs": 7,
+        "gamesPlayed": 10,
+        "gamesStarted": 10,
+        "battingAverage": 0.172,
+        "onBasePercentage": 0.324,
+        "sluggingPercentage": 0.345,
+        "ops": 0.669,
+        "atBats": 29,
+        "runs": 8,
         "hits": 5,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 1,
         "runsBattedIn": 5,
         "totalBases": 10,
-        "walks": 4,
-        "hitByPitch": 1,
-        "strikeouts": 12,
+        "walks": 5,
+        "hitByPitch": 2,
+        "strikeouts": 14,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 1,
         "putouts": 1,
         "assists": 6,
         "errors": 0,
-        "plateAppearances": 33,
+        "plateAppearances": 38,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2102,36 +2102,36 @@
         "totalChances": 7
       },
       "evaluation": {
-        "score": 10,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 12.77777777777776,
-          "Power": 13.157894736842104,
+          "On-base": 24.444444444444436,
+          "Power": 6.578947368421045,
           "Contact": 0,
-          "Discipline": 14.814814814814808,
-          "Speed": 0
+          "Discipline": 17.460317460317455,
+          "Speed": 3.3333333333333335
         },
         "summary": "Jackson Akin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .185",
-          "OBP .303",
-          "SLG .370"
+          "AVG .172",
+          "OBP .324",
+          "SLG .345"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".185"
+            "value": ".172"
           },
           {
             "label": "OBP",
-            "value": ".303"
+            "value": ".324"
           },
           {
             "label": "SLG",
-            "value": ".370"
+            "value": ".345"
           },
           {
             "label": "HR",
@@ -2143,7 +2143,7 @@
           },
           {
             "label": "SB",
-            "value": "0"
+            "value": "1"
           }
         ],
         "metaLine": "FR / N/A",
@@ -2478,22 +2478,22 @@
         "jersey": "22",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/weber-neels/23655",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Neels_Weber_0022.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 37,
-        "battingAverage": 0.338,
-        "onBasePercentage": 0.439,
-        "sluggingPercentage": 0.588,
-        "ops": 1.027,
-        "atBats": 136,
-        "runs": 37,
-        "hits": 46,
+        "gamesPlayed": 39,
+        "gamesStarted": 38,
+        "battingAverage": 0.345,
+        "onBasePercentage": 0.449,
+        "sluggingPercentage": 0.612,
+        "ops": 1.061,
+        "atBats": 139,
+        "runs": 39,
+        "hits": 48,
         "doubles": 7,
         "triples": 0,
-        "homeRuns": 9,
-        "runsBattedIn": 36,
-        "totalBases": 80,
+        "homeRuns": 10,
+        "runsBattedIn": 37,
+        "totalBases": 85,
         "walks": 18,
-        "hitByPitch": 12,
+        "hitByPitch": 14,
         "strikeouts": 19,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
@@ -2501,10 +2501,10 @@
         "sacrificeHits": 0,
         "stolenBases": 5,
         "stolenBasesAttempts": 7,
-        "putouts": 298,
-        "assists": 21,
+        "putouts": 303,
+        "assists": 22,
         "errors": 2,
-        "plateAppearances": 182,
+        "plateAppearances": 187,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -2516,10 +2516,10 @@
         "jersey": "22",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/weber-neels/23655",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Neels_Weber_0022.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 36,
-        "putouts": 298,
-        "assists": 21,
+        "gamesPlayed": 38,
+        "gamesStarted": 37,
+        "putouts": 303,
+        "assists": 22,
         "errors": 2,
         "fieldingPercentage": 0.994,
         "doublePlays": 10,
@@ -2528,47 +2528,47 @@
         "stolenBasesPercentage": 0.806,
         "passedBalls": 1,
         "catchersInterference": 1,
-        "totalChances": 321
+        "totalChances": 327
       },
       "evaluation": {
-        "score": 73,
+        "score": 77,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 88.33333333333331,
-          "Power": 70.52631578947368,
-          "Contact": 73.75000000000001,
+          "On-base": 93.88888888888889,
+          "Power": 76.8421052631579,
+          "Contact": 78.12499999999997,
           "Discipline": 83.04093567251459,
           "Speed": 16.666666666666664
         },
         "summary": "Weber Neels profiles as a C/INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .338",
-          "OBP .439",
-          "SLG .588"
+          "AVG .345",
+          "OBP .449",
+          "SLG .612"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".338"
+            "value": ".345"
           },
           {
             "label": "OBP",
-            "value": ".439"
+            "value": ".449"
           },
           {
             "label": "SLG",
-            "value": ".588"
+            "value": ".612"
           },
           {
             "label": "HR",
-            "value": "9"
+            "value": "10"
           },
           {
             "label": "RBI",
-            "value": "36"
+            "value": "37"
           },
           {
             "label": "SB",
@@ -2749,31 +2749,31 @@
         "jersey": "28",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/caden-capomaccio/23647",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Capomaccio_Caden_0036.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 0,
-        "appearances": 10,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.5,
-        "whip": 1.19,
-        "wins": 2,
+        "earnedRunAverage": 4,
+        "whip": 1.06,
+        "wins": 3,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 16,
-        "inningsPitchedDisplay": "16.0",
+        "inningsPitched": 18,
+        "inningsPitchedDisplay": "18.0",
         "hitsAllowed": 13,
         "runsAllowed": 9,
         "earnedRunsAllowed": 8,
         "walksAllowed": 6,
-        "strikeouts": 11,
+        "strikeouts": 13,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 55,
+        "opponentsAtBats": 61,
         "wildPitches": 1,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.236,
+        "opponentsBattingAverage": 0.213,
         "walksHits": 19
       },
       "fieldingStats": {
@@ -2798,7 +2798,7 @@
         "totalChances": 2
       },
       "evaluation": {
-        "score": 7,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2806,40 +2806,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 19.886363636363637,
-          "Command": 16.666666666666664,
+          "Miss bats": 22.727272727272727,
+          "Command": 23.333333333333332,
           "Damage suppression": 0
         },
-        "summary": "Caden Capomaccio looks like a RHP option who keeps traffic under control.",
+        "summary": "Caden Capomaccio looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.50",
-          "WHIP 1.19",
-          "K/9 6.2"
+          "ERA 4.00",
+          "WHIP 1.06",
+          "K/9 6.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.50"
+            "value": "4.00"
           },
           {
             "label": "WHIP",
-            "value": "1.19"
+            "value": "1.06"
           },
           {
             "label": "K/9",
-            "value": "6.2"
+            "value": "6.5"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "0.56"
+            "value": "0.50"
           },
           {
             "label": "IP",
-            "value": "16.0"
+            "value": "18.0"
           }
         ],
         "metaLine": "SR / R/R",
@@ -3326,32 +3326,32 @@
         "jersey": "33",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/joe-sperry/23661",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Sperry_Joe_0031.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 0,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.64,
-        "whip": 1.17,
+        "earnedRunAverage": 2.56,
+        "whip": 1.2,
         "wins": 3,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 30.666666666666668,
-        "inningsPitchedDisplay": "30.2",
-        "hitsAllowed": 28,
+        "inningsPitched": 31.666666666666668,
+        "inningsPitchedDisplay": "31.2",
+        "hitsAllowed": 29,
         "runsAllowed": 10,
         "earnedRunsAllowed": 9,
-        "walksAllowed": 8,
-        "strikeouts": 37,
+        "walksAllowed": 9,
+        "strikeouts": 39,
         "doublesAllowed": 7,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 113,
+        "opponentsAtBats": 117,
         "wildPitches": 2,
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.248,
-        "walksHits": 36
+        "walksHits": 38
       },
       "fieldingStats": {
         "rosterBioId": "23661",
@@ -3383,40 +3383,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 62.35177865612648,
-          "Command": 72.5,
+          "Miss bats": 64.4019138755981,
+          "Command": 66.66666666666667,
           "Damage suppression": 0
         },
         "summary": "Joe Sperry looks like a RHP/DH option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.64",
-          "WHIP 1.17",
-          "K/9 10.9"
+          "ERA 2.56",
+          "WHIP 1.20",
+          "K/9 11.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.64"
+            "value": "2.56"
           },
           {
             "label": "WHIP",
-            "value": "1.17"
+            "value": "1.20"
           },
           {
             "label": "K/9",
-            "value": "10.9"
+            "value": "11.1"
           },
           {
             "label": "BB/9",
-            "value": "2.3"
+            "value": "2.6"
           },
           {
             "label": "HR/9",
-            "value": "0.88"
+            "value": "0.85"
           },
           {
             "label": "IP",
-            "value": "30.7"
+            "value": "31.7"
           }
         ],
         "metaLine": "SR / R/R",
@@ -4171,21 +4171,21 @@
         "jersey": "41",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/charlie-sutherland/23662",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Sutherland_Charlie_0001.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 38,
-        "battingAverage": 0.29,
-        "onBasePercentage": 0.419,
-        "sluggingPercentage": 0.558,
-        "ops": 0.977,
-        "atBats": 138,
-        "runs": 34,
-        "hits": 40,
+        "gamesPlayed": 40,
+        "gamesStarted": 39,
+        "battingAverage": 0.296,
+        "onBasePercentage": 0.427,
+        "sluggingPercentage": 0.577,
+        "ops": 1.004,
+        "atBats": 142,
+        "runs": 37,
+        "hits": 42,
         "doubles": 9,
         "triples": 2,
-        "homeRuns": 8,
-        "runsBattedIn": 40,
-        "totalBases": 77,
-        "walks": 25,
+        "homeRuns": 9,
+        "runsBattedIn": 43,
+        "totalBases": 82,
+        "walks": 27,
         "hitByPitch": 7,
         "strikeouts": 26,
         "intentionalWalks": 0,
@@ -4194,10 +4194,10 @@
         "sacrificeHits": 2,
         "stolenBases": 12,
         "stolenBasesAttempts": 13,
-        "putouts": 17,
+        "putouts": 18,
         "assists": 1,
         "errors": 0,
-        "plateAppearances": 188,
+        "plateAppearances": 194,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -4209,9 +4209,9 @@
         "jersey": "41",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/charlie-sutherland/23662",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Sutherland_Charlie_0001.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 12,
-        "putouts": 17,
+        "gamesPlayed": 13,
+        "gamesStarted": 13,
+        "putouts": 18,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -4221,47 +4221,47 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 18
+        "totalChances": 19
       },
       "evaluation": {
-        "score": 65,
+        "score": 69,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Pursue",
+          "className": "fit-pursue"
         },
         "components": {
-          "On-base": 77.2222222222222,
-          "Power": 62.63157894736844,
-          "Contact": 43.749999999999986,
-          "Discipline": 84.6153846153846,
+          "On-base": 81.66666666666666,
+          "Power": 67.63157894736842,
+          "Contact": 47.499999999999986,
+          "Discipline": 93.16239316239316,
           "Speed": 40
         },
-        "summary": "Charlie Sutherland profiles as a INF/OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
+        "summary": "Charlie Sutherland profiles as a INF/OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .290",
-          "OBP .419",
-          "SLG .558"
+          "AVG .296",
+          "OBP .427",
+          "SLG .577"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".296"
           },
           {
             "label": "OBP",
-            "value": ".419"
+            "value": ".427"
           },
           {
             "label": "SLG",
-            "value": ".558"
+            "value": ".577"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "43"
           },
           {
             "label": "SB",
@@ -4317,32 +4317,32 @@
         "jersey": "43",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/josh-kirchhoff/23680",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Kirchhoff_Josh_0029.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 0,
-        "appearances": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.7,
-        "whip": 1.8,
+        "earnedRunAverage": 2.25,
+        "whip": 1.58,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 10,
-        "inningsPitchedDisplay": "10.0",
+        "inningsPitched": 12,
+        "inningsPitchedDisplay": "12.0",
         "hitsAllowed": 12,
         "runsAllowed": 3,
         "earnedRunsAllowed": 3,
-        "walksAllowed": 6,
-        "strikeouts": 3,
+        "walksAllowed": 7,
+        "strikeouts": 5,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 38,
+        "opponentsAtBats": 44,
         "wildPitches": 1,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.316,
-        "walksHits": 18
+        "opponentsBattingAverage": 0.273,
+        "walksHits": 19
       },
       "fieldingStats": {
         "rosterBioId": "23680",
@@ -4351,10 +4351,10 @@
         "jersey": "43",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/josh-kirchhoff/23680",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Kirchhoff_Josh_0029.jpg",
-        "gamesPlayed": 2,
+        "gamesPlayed": 3,
         "gamesStarted": 0,
         "putouts": 1,
-        "assists": 1,
+        "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 1,
@@ -4363,7 +4363,7 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 2
+        "totalChances": 3
       },
       "evaluation": {
         "score": 0,
@@ -4380,34 +4380,34 @@
         },
         "summary": "Josh Kirchhoff looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 2.70",
-          "WHIP 1.80",
-          "K/9 2.7"
+          "ERA 2.25",
+          "WHIP 1.58",
+          "K/9 3.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.70"
+            "value": "2.25"
           },
           {
             "label": "WHIP",
-            "value": "1.80"
+            "value": "1.58"
           },
           {
             "label": "K/9",
-            "value": "2.7"
+            "value": "3.8"
           },
           {
             "label": "BB/9",
-            "value": "5.4"
+            "value": "5.3"
           },
           {
             "label": "HR/9",
-            "value": "0.90"
+            "value": "0.75"
           },
           {
             "label": "IP",
-            "value": "10.0"
+            "value": "12.0"
           }
         ],
         "metaLine": "SR / N/A",
@@ -4689,32 +4689,32 @@
         "jersey": "46",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/logan-winkelman/23678",
         "imageUrl": "https://gophersports.com/images/2025/10/14/Winkelman_Logan_0032.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 0,
-        "appearances": 7,
+        "gamesPlayed": 8,
+        "gamesStarted": 1,
+        "appearances": 8,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.18,
-        "whip": 1.24,
+        "earnedRunAverage": 3.12,
+        "whip": 1.27,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 5.666666666666667,
-        "inningsPitchedDisplay": "5.2",
-        "hitsAllowed": 4,
-        "runsAllowed": 2,
-        "earnedRunsAllowed": 2,
-        "walksAllowed": 3,
-        "strikeouts": 7,
-        "doublesAllowed": 1,
+        "inningsPitched": 8.666666666666666,
+        "inningsPitchedDisplay": "8.2",
+        "hitsAllowed": 6,
+        "runsAllowed": 3,
+        "earnedRunsAllowed": 3,
+        "walksAllowed": 5,
+        "strikeouts": 14,
+        "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 20,
+        "opponentsAtBats": 30,
         "wildPitches": 0,
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.2,
-        "walksHits": 7
+        "walksHits": 11
       },
       "fieldingStats": {
         "rosterBioId": "23678",
@@ -4723,22 +4723,22 @@
         "jersey": "46",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/logan-winkelman/23678",
         "imageUrl": "https://gophersports.com/images/2025/10/14/Winkelman_Logan_0032.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
+        "gamesPlayed": 3,
+        "gamesStarted": 1,
         "putouts": 0,
-        "assists": 2,
+        "assists": 3,
         "errors": 1,
-        "fieldingPercentage": 0.667,
+        "fieldingPercentage": 0.75,
         "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesAgainst": 2,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": 0.667,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 3
+        "totalChances": 4
       },
       "evaluation": {
-        "score": 17,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4746,32 +4746,32 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 64.70588235294117,
-          "Command": 26.66666666666667,
+          "Miss bats": 95.80419580419583,
+          "Command": 36.00000000000001,
           "Damage suppression": 0
         },
-        "summary": "Logan Winkelman looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
+        "summary": "Logan Winkelman looks like a LHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 3.18",
-          "WHIP 1.24",
-          "K/9 11.1"
+          "ERA 3.12",
+          "WHIP 1.27",
+          "K/9 14.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.18"
+            "value": "3.12"
           },
           {
             "label": "WHIP",
-            "value": "1.24"
+            "value": "1.27"
           },
           {
             "label": "K/9",
-            "value": "11.1"
+            "value": "14.5"
           },
           {
             "label": "BB/9",
-            "value": "4.8"
+            "value": "5.2"
           },
           {
             "label": "HR/9",
@@ -4779,7 +4779,7 @@
           },
           {
             "label": "IP",
-            "value": "5.7"
+            "value": "8.7"
           }
         ],
         "metaLine": "SR / N/A",
@@ -5074,47 +5074,47 @@
         "position": "INF/RHP",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 0,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nathan O'Donnell looks like a INF/RHP option who keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 8.31",
-          "WHIP 0.92",
-          "K/9 4.2"
+          "ERA 10.13",
+          "WHIP 1.13",
+          "K/9 5.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.31"
+            "value": "10.13"
           },
           {
             "label": "WHIP",
-            "value": "0.92"
+            "value": "1.13"
           },
           {
             "label": "K/9",
-            "value": "4.2"
+            "value": "5.1"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "1.69"
           },
           {
             "label": "IP",
-            "value": "4.3"
+            "value": "5.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 1.3986013986014016,
+          "Miss bats": 9.659090909090908,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -5212,29 +5212,29 @@
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 49,
+        "score": 53,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Mosh profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .297",
-          "OBP .423",
-          "SLG .344"
+          "AVG .299",
+          "OBP .434",
+          "SLG .343"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".297"
+            "value": ".299"
           },
           {
             "label": "OBP",
-            "value": ".423"
+            "value": ".434"
           },
           {
             "label": "SLG",
-            "value": ".344"
+            "value": ".343"
           },
           {
             "label": "HR",
@@ -5250,10 +5250,10 @@
           }
         ],
         "components": {
-          "On-base": 79.44444444444443,
-          "Power": 6.315789473684203,
-          "Contact": 48.12499999999999,
-          "Discipline": 88.88888888888889,
+          "On-base": 85.55555555555554,
+          "Power": 6.052631578947374,
+          "Contact": 49.37499999999999,
+          "Discipline": 100,
           "Speed": 6.666666666666667
         },
         "metaLine": "SR / L/R",
@@ -5281,37 +5281,37 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 77,
+        "score": 78,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
-        "summary": "Jack Spanier profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
+        "summary": "Jack Spanier profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .324",
-          "OBP .464",
-          "SLG .545"
+          "AVG .322",
+          "OBP .466",
+          "SLG .557"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".324"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".464"
+            "value": ".466"
           },
           {
             "label": "SLG",
-            "value": ".545"
+            "value": ".557"
           },
           {
             "label": "HR",
-            "value": "4"
+            "value": "5"
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "28"
           },
           {
             "label": "SB",
@@ -5320,8 +5320,8 @@
         ],
         "components": {
           "On-base": 100,
-          "Power": 59.210526315789494,
-          "Contact": 65,
+          "Power": 62.3684210526316,
+          "Contact": 63.75000000000001,
           "Discipline": 100,
           "Speed": 43.333333333333336
         },
@@ -5419,29 +5419,29 @@
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 66,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Davis Hamilton profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .292",
-          "OBP .453",
-          "SLG .469"
+          "AVG .286",
+          "OBP .452",
+          "SLG .459"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".453"
+            "value": ".452"
           },
           {
             "label": "SLG",
-            "value": ".469"
+            "value": ".459"
           },
           {
             "label": "HR",
@@ -5453,15 +5453,15 @@
           },
           {
             "label": "SB",
-            "value": "9"
+            "value": "10"
           }
         ],
         "components": {
-          "On-base": 96.1111111111111,
-          "Power": 39.210526315789465,
-          "Contact": 44.999999999999986,
+          "On-base": 95.55555555555554,
+          "Power": 36.57894736842106,
+          "Contact": 41.24999999999998,
           "Discipline": 100,
-          "Speed": 30
+          "Speed": 33.33333333333333
         },
         "metaLine": "SR / L/R",
         "detailBadges": [
@@ -5488,49 +5488,49 @@
         "position": "C",
         "classYear": "R-SR",
         "handedness": "S/R",
-        "score": 34,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Sam Hunt gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .234",
-          "OBP .393",
-          "SLG .383"
+          "AVG .250",
+          "OBP .394",
+          "SLG .462"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".234"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".393"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".383"
+            "value": ".462"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "2"
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "15"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "3"
           }
         ],
         "components": {
-          "On-base": 62.77777777777778,
-          "Power": 16.578947368421055,
-          "Contact": 8.750000000000007,
-          "Discipline": 51.85185185185184,
-          "Speed": 6.666666666666667
+          "On-base": 63.33333333333333,
+          "Power": 37.36842105263159,
+          "Contact": 18.75,
+          "Discipline": 47.95321637426899,
+          "Speed": 10
         },
         "metaLine": "R-SR / S/R",
         "detailBadges": [
@@ -5557,29 +5557,29 @@
         "position": "INF",
         "classYear": "R-SR",
         "handedness": "N/A",
-        "score": 65,
+        "score": 51,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "summary": "Ethan Cole profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .444",
-          "SLG .857"
+          "AVG .250",
+          "OBP .400",
+          "SLG .750"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".444"
+            "value": ".400"
           },
           {
             "label": "SLG",
-            "value": ".857"
+            "value": ".750"
           },
           {
             "label": "HR",
@@ -5595,10 +5595,10 @@
           }
         ],
         "components": {
-          "On-base": 91.1111111111111,
+          "On-base": 66.66666666666666,
           "Power": 100,
-          "Contact": 41.24999999999998,
-          "Discipline": 14.814814814814808,
+          "Contact": 18.75,
+          "Discipline": 5.555555555555554,
           "Speed": 0
         },
         "metaLine": "R-SR / N/A",
@@ -5764,29 +5764,29 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 31,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ty Allen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .230",
-          "OBP .342",
-          "SLG .460"
+          "AVG .246",
+          "OBP .356",
+          "SLG .469"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".230"
+            "value": ".246"
           },
           {
             "label": "OBP",
-            "value": ".342"
+            "value": ".356"
           },
           {
             "label": "SLG",
-            "value": ".460"
+            "value": ".469"
           },
           {
             "label": "HR",
@@ -5794,19 +5794,19 @@
           },
           {
             "label": "RBI",
-            "value": "32"
+            "value": "34"
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "6"
           }
         ],
         "components": {
-          "On-base": 34.44444444444444,
-          "Power": 36.842105263157904,
-          "Contact": 6.250000000000005,
-          "Discipline": 51.85185185185184,
-          "Speed": 16.666666666666664
+          "On-base": 42.2222222222222,
+          "Power": 39.210526315789465,
+          "Contact": 16.249999999999996,
+          "Discipline": 52.94117647058824,
+          "Speed": 20
         },
         "metaLine": "JR / N/A",
         "detailBadges": [
@@ -5971,29 +5971,29 @@
         "position": "INF",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 10,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jackson Akin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .185",
-          "OBP .303",
-          "SLG .370"
+          "AVG .172",
+          "OBP .324",
+          "SLG .345"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".185"
+            "value": ".172"
           },
           {
             "label": "OBP",
-            "value": ".303"
+            "value": ".324"
           },
           {
             "label": "SLG",
-            "value": ".370"
+            "value": ".345"
           },
           {
             "label": "HR",
@@ -6005,15 +6005,15 @@
           },
           {
             "label": "SB",
-            "value": "0"
+            "value": "1"
           }
         ],
         "components": {
-          "On-base": 12.77777777777776,
-          "Power": 13.157894736842104,
+          "On-base": 24.444444444444436,
+          "Power": 6.578947368421045,
           "Contact": 0,
-          "Discipline": 14.814814814814808,
-          "Speed": 0
+          "Discipline": 17.460317460317455,
+          "Speed": 3.3333333333333335
         },
         "metaLine": "FR / N/A",
         "detailBadges": [
@@ -6178,37 +6178,37 @@
         "position": "C/INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 73,
+        "score": 77,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Weber Neels profiles as a C/INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .338",
-          "OBP .439",
-          "SLG .588"
+          "AVG .345",
+          "OBP .449",
+          "SLG .612"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".338"
+            "value": ".345"
           },
           {
             "label": "OBP",
-            "value": ".439"
+            "value": ".449"
           },
           {
             "label": "SLG",
-            "value": ".588"
+            "value": ".612"
           },
           {
             "label": "HR",
-            "value": "9"
+            "value": "10"
           },
           {
             "label": "RBI",
-            "value": "36"
+            "value": "37"
           },
           {
             "label": "SB",
@@ -6216,9 +6216,9 @@
           }
         ],
         "components": {
-          "On-base": 88.33333333333331,
-          "Power": 70.52631578947368,
-          "Contact": 73.75000000000001,
+          "On-base": 93.88888888888889,
+          "Power": 76.8421052631579,
+          "Contact": 78.12499999999997,
           "Discipline": 83.04093567251459,
           "Speed": 16.666666666666664
         },
@@ -6316,48 +6316,48 @@
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 7,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Caden Capomaccio looks like a RHP option who keeps traffic under control.",
+        "summary": "Caden Capomaccio looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.50",
-          "WHIP 1.19",
-          "K/9 6.2"
+          "ERA 4.00",
+          "WHIP 1.06",
+          "K/9 6.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.50"
+            "value": "4.00"
           },
           {
             "label": "WHIP",
-            "value": "1.19"
+            "value": "1.06"
           },
           {
             "label": "K/9",
-            "value": "6.2"
+            "value": "6.5"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "0.56"
+            "value": "0.50"
           },
           {
             "label": "IP",
-            "value": "16.0"
+            "value": "18.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 19.886363636363637,
-          "Command": 16.666666666666664,
+          "Miss bats": 22.727272727272727,
+          "Command": 23.333333333333332,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -6599,41 +6599,41 @@
         },
         "summary": "Joe Sperry looks like a RHP/DH option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.64",
-          "WHIP 1.17",
-          "K/9 10.9"
+          "ERA 2.56",
+          "WHIP 1.20",
+          "K/9 11.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.64"
+            "value": "2.56"
           },
           {
             "label": "WHIP",
-            "value": "1.17"
+            "value": "1.20"
           },
           {
             "label": "K/9",
-            "value": "10.9"
+            "value": "11.1"
           },
           {
             "label": "BB/9",
-            "value": "2.3"
+            "value": "2.6"
           },
           {
             "label": "HR/9",
-            "value": "0.88"
+            "value": "0.85"
           },
           {
             "label": "IP",
-            "value": "30.7"
+            "value": "31.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 62.35177865612648,
-          "Command": 72.5,
+          "Miss bats": 64.4019138755981,
+          "Command": 66.66666666666667,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -7073,37 +7073,37 @@
         "position": "INF/OF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 65,
+        "score": 69,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Pursue",
+          "className": "fit-pursue"
         },
-        "summary": "Charlie Sutherland profiles as a INF/OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
+        "summary": "Charlie Sutherland profiles as a INF/OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .290",
-          "OBP .419",
-          "SLG .558"
+          "AVG .296",
+          "OBP .427",
+          "SLG .577"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".296"
           },
           {
             "label": "OBP",
-            "value": ".419"
+            "value": ".427"
           },
           {
             "label": "SLG",
-            "value": ".558"
+            "value": ".577"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "43"
           },
           {
             "label": "SB",
@@ -7111,10 +7111,10 @@
           }
         ],
         "components": {
-          "On-base": 77.2222222222222,
-          "Power": 62.63157894736844,
-          "Contact": 43.749999999999986,
-          "Discipline": 84.6153846153846,
+          "On-base": 81.66666666666666,
+          "Power": 67.63157894736842,
+          "Contact": 47.499999999999986,
+          "Discipline": 93.16239316239316,
           "Speed": 40
         },
         "metaLine": "JR / L/R",
@@ -7149,34 +7149,34 @@
         },
         "summary": "Josh Kirchhoff looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 2.70",
-          "WHIP 1.80",
-          "K/9 2.7"
+          "ERA 2.25",
+          "WHIP 1.58",
+          "K/9 3.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.70"
+            "value": "2.25"
           },
           {
             "label": "WHIP",
-            "value": "1.80"
+            "value": "1.58"
           },
           {
             "label": "K/9",
-            "value": "2.7"
+            "value": "3.8"
           },
           {
             "label": "BB/9",
-            "value": "5.4"
+            "value": "5.3"
           },
           {
             "label": "HR/9",
-            "value": "0.90"
+            "value": "0.75"
           },
           {
             "label": "IP",
-            "value": "10.0"
+            "value": "12.0"
           }
         ],
         "components": {
@@ -7348,33 +7348,33 @@
         "position": "LHP",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 17,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Logan Winkelman looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
+        "summary": "Logan Winkelman looks like a LHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 3.18",
-          "WHIP 1.24",
-          "K/9 11.1"
+          "ERA 3.12",
+          "WHIP 1.27",
+          "K/9 14.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.18"
+            "value": "3.12"
           },
           {
             "label": "WHIP",
-            "value": "1.24"
+            "value": "1.27"
           },
           {
             "label": "K/9",
-            "value": "11.1"
+            "value": "14.5"
           },
           {
             "label": "BB/9",
-            "value": "4.8"
+            "value": "5.2"
           },
           {
             "label": "HR/9",
@@ -7382,14 +7382,14 @@
           },
           {
             "label": "IP",
-            "value": "5.7"
+            "value": "8.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 64.70588235294117,
-          "Command": 26.66666666666667,
+          "Miss bats": 95.80419580419583,
+          "Command": 36.00000000000001,
           "Damage suppression": 0
         },
         "metaLine": "SR / N/A",

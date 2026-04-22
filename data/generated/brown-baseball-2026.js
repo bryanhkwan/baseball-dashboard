@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.brown2026 = {
-  "generatedAt": "2026-04-21T11:33:14.713Z",
+  "generatedAt": "2026-04-22T11:21:47.868Z",
   "season": 2026,
   "school": {
     "slug": "brown",
@@ -39,86 +39,86 @@ window.__BASEBALL_DATASETS__.brown2026 = {
     }
   },
   "teamSummary": {
-    "record": "17-14, 9-4",
-    "battingAverage": ".261",
-    "earnedRunAverage": "4.63",
-    "wins": "17",
+    "record": "18-14, 10-4",
+    "battingAverage": ".259",
+    "earnedRunAverage": "4.51",
+    "wins": "18",
     "losses": "14",
     "hitting": {
-      "atBats": "1027",
-      "runsScored": "183",
-      "hits": "268",
-      "runsBattedIn": "166",
-      "doubles": "45",
+      "atBats": "1061",
+      "runsScored": "189",
+      "hits": "275",
+      "runsBattedIn": "171",
+      "doubles": "47",
       "triples": "8",
-      "homeRuns": "21",
-      "walks": "121",
+      "homeRuns": "22",
+      "walks": "125",
       "intentionalWalks": "0",
-      "strikeouts": "241",
-      "strikeoutsLooking": "65",
-      "hitByPitch": "49",
-      "stolenBases": "49",
+      "strikeouts": "252",
+      "strikeoutsLooking": "66",
+      "hitByPitch": "53",
+      "stolenBases": "54",
       "caughtStealing": "9",
       "sacrificeHits": "7",
       "sacrificeFlies": "9",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "269",
-      "flyOuts": "243",
-      "groundedIntoDoublePlay": "12",
-      "pickedOff": "8",
-      "doublePlaysHitInto": "13",
+      "groundOuts": "276",
+      "flyOuts": "249",
+      "groundedIntoDoublePlay": "13",
+      "pickedOff": "9",
+      "doublePlaysHitInto": "15",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "788",
-      "assists": "287",
-      "errors": "36",
+      "putouts": "815",
+      "assists": "300",
+      "errors": "37",
       "passedBalls": "5",
       "catchersInterference": "0",
       "stolenBasesAgainst": "61",
-      "caughtStealingBy": "20",
+      "caughtStealingBy": "21",
       "involvedInDoublePlays": "24",
       "involvedInTriplePlays": "0",
-      "totalChances": "1111",
+      "totalChances": "1152",
       "fieldingPercentage": ".968"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "17",
-      "saves": "1",
+      "wins": "18",
+      "saves": "2",
       "losses": "14",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "6",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "262.2",
-      "hitsAllowed": "255",
-      "runsAllowed": "163",
-      "earnedRunsAllowed": "135",
-      "walksAllowed": "151",
-      "strikeouts": "194",
-      "battersFaced": "1211",
-      "opponentAtBats": "994",
-      "doublesAllowed": "46",
+      "inningsPitched": "271.2",
+      "hitsAllowed": "258",
+      "runsAllowed": "166",
+      "earnedRunsAllowed": "136",
+      "walksAllowed": "152",
+      "strikeouts": "202",
+      "battersFaced": "1242",
+      "opponentAtBats": "1023",
+      "doublesAllowed": "48",
       "triplesAllowed": "7",
       "homerunsAllowed": "17",
       "wildPitches": "29",
       "balks": "3",
       "hitBatters": "42",
-      "strikeoutsLooking": "59",
+      "strikeoutsLooking": "62",
       "intentionalWalks": "3",
       "inheritedRunners": "0",
       "inheritedRunnersThatScored": "0",
-      "sacrificeHitsAllowed": "10",
+      "sacrificeHitsAllowed": "11",
       "sacrificeFliesAllowed": "14",
       "catchersInterferenceAllowed": "0",
-      "pitches": "3650",
-      "flyouts": "295",
-      "groundouts": "249",
+      "pitches": "3756",
+      "flyouts": "302",
+      "groundouts": "260",
       "teamUnearnedRuns": "0",
-      "saveRecord": "1",
+      "saveRecord": "2",
       "pickoff": "3"
     }
   },
@@ -161,33 +161,33 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "jersey": "1",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/mika-petersen/21953",
         "imageUrl": "https://brownbears.com/images/2026/2/10/Petersen-headshot-2026.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
-        "battingAverage": 0.339,
-        "onBasePercentage": 0.388,
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "battingAverage": 0.341,
+        "onBasePercentage": 0.403,
         "sluggingPercentage": 0.508,
-        "ops": 0.896,
-        "atBats": 124,
-        "runs": 20,
-        "hits": 42,
+        "ops": 0.911,
+        "atBats": 126,
+        "runs": 22,
+        "hits": 43,
         "doubles": 6,
         "triples": 3,
         "homeRuns": 3,
         "runsBattedIn": 23,
-        "totalBases": 63,
-        "walks": 9,
-        "hitByPitch": 1,
+        "totalBases": 64,
+        "walks": 11,
+        "hitByPitch": 2,
         "strikeouts": 23,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 4,
-        "stolenBases": 9,
-        "stolenBasesAttempts": 10,
-        "putouts": 75,
+        "stolenBases": 10,
+        "stolenBasesAttempts": 11,
+        "putouts": 78,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 149,
+        "plateAppearances": 155,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -199,9 +199,9 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "jersey": "1",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/mika-petersen/21953",
         "imageUrl": "https://brownbears.com/images/2026/2/10/Petersen-headshot-2026.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 26,
-        "putouts": 75,
+        "gamesPlayed": 27,
+        "gamesStarted": 27,
+        "putouts": 78,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -211,35 +211,35 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 75
+        "totalChances": 78
       },
       "evaluation": {
-        "score": 51,
+        "score": 56,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 60,
+          "On-base": 68.33333333333333,
           "Power": 49.47368421052632,
-          "Contact": 74.37500000000001,
-          "Discipline": 21.256038647342994,
-          "Speed": 30
+          "Contact": 75.62500000000001,
+          "Discipline": 30.917874396135264,
+          "Speed": 33.33333333333333
         },
-        "summary": "Mika Petersen profiles as a OF piece who adds running-game pressure.",
+        "summary": "Mika Petersen profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .339",
-          "OBP .388",
+          "AVG .341",
+          "OBP .403",
           "SLG .508"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".339"
+            "value": ".341"
           },
           {
             "label": "OBP",
-            "value": ".388"
+            "value": ".403"
           },
           {
             "label": "SLG",
@@ -255,7 +255,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "SB",
-            "value": "9"
+            "value": "10"
           }
         ],
         "metaLine": "SR / L/L",
@@ -306,35 +306,35 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "jersey": "2",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/matt-luigs/21967",
         "imageUrl": "https://brownbears.com/images/2026/2/10/Luigs-headshot-2026.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
-        "battingAverage": 0.283,
-        "onBasePercentage": 0.397,
-        "sluggingPercentage": 0.342,
-        "ops": 0.739,
-        "atBats": 120,
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "battingAverage": 0.29,
+        "onBasePercentage": 0.404,
+        "sluggingPercentage": 0.347,
+        "ops": 0.751,
+        "atBats": 124,
         "runs": 28,
-        "hits": 34,
+        "hits": 36,
         "doubles": 3,
         "triples": 2,
         "homeRuns": 0,
         "runsBattedIn": 15,
-        "totalBases": 41,
-        "walks": 19,
+        "totalBases": 43,
+        "walks": 20,
         "hitByPitch": 5,
-        "strikeouts": 30,
+        "strikeouts": 31,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
-        "stolenBases": 15,
-        "stolenBasesAttempts": 16,
+        "stolenBases": 17,
+        "stolenBasesAttempts": 18,
         "putouts": 47,
-        "assists": 81,
-        "errors": 4,
-        "plateAppearances": 163,
+        "assists": 85,
+        "errors": 5,
+        "plateAppearances": 170,
         "caughtStealing": 1,
-        "pickedOff": 1
+        "pickedOff": 2
       },
       "pitchingStats": null,
       "fieldingStats": {
@@ -344,51 +344,51 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "jersey": "2",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/matt-luigs/21967",
         "imageUrl": "https://brownbears.com/images/2026/2/10/Luigs-headshot-2026.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
         "putouts": 47,
-        "assists": 81,
-        "errors": 4,
-        "fieldingPercentage": 0.97,
+        "assists": 85,
+        "errors": 5,
+        "fieldingPercentage": 0.964,
         "doublePlays": 15,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 132
+        "totalChances": 137
       },
       "evaluation": {
-        "score": 41,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 65,
-          "Power": 5.789473684210533,
-          "Contact": 39.374999999999986,
-          "Discipline": 48.14814814814813,
-          "Speed": 50
+          "On-base": 68.88888888888889,
+          "Power": 7.10526315789473,
+          "Contact": 43.749999999999986,
+          "Discipline": 49.46236559139784,
+          "Speed": 56.666666666666664
         },
-        "summary": "Matt Luigs profiles as a INF piece who adds running-game pressure.",
+        "summary": "Matt Luigs profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .283",
-          "OBP .397",
-          "SLG .342"
+          "AVG .290",
+          "OBP .404",
+          "SLG .347"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".283"
+            "value": ".290"
           },
           {
             "label": "OBP",
-            "value": ".397"
+            "value": ".404"
           },
           {
             "label": "SLG",
-            "value": ".342"
+            "value": ".347"
           },
           {
             "label": "HR",
@@ -400,7 +400,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "SB",
-            "value": "15"
+            "value": "17"
           }
         ],
         "metaLine": "FR / R/R",
@@ -451,13 +451,13 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "jersey": "3",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/andrew-hanlon/21942",
         "imageUrl": "https://brownbears.com/images/2026/2/10/Hanlon-headshot-2026.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 13,
-        "battingAverage": 0.233,
-        "onBasePercentage": 0.327,
-        "sluggingPercentage": 0.279,
-        "ops": 0.606,
-        "atBats": 43,
+        "gamesPlayed": 16,
+        "gamesStarted": 14,
+        "battingAverage": 0.217,
+        "onBasePercentage": 0.321,
+        "sluggingPercentage": 0.261,
+        "ops": 0.582,
+        "atBats": 46,
         "runs": 5,
         "hits": 10,
         "doubles": 2,
@@ -466,18 +466,18 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "runsBattedIn": 3,
         "totalBases": 12,
         "walks": 5,
-        "hitByPitch": 1,
-        "strikeouts": 13,
+        "hitByPitch": 2,
+        "strikeouts": 15,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 84,
-        "assists": 15,
+        "putouts": 91,
+        "assists": 18,
         "errors": 2,
-        "plateAppearances": 50,
+        "plateAppearances": 54,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -489,51 +489,51 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "jersey": "3",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/andrew-hanlon/21942",
         "imageUrl": "https://brownbears.com/images/2026/2/10/Hanlon-headshot-2026.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 13,
-        "putouts": 84,
-        "assists": 15,
+        "gamesPlayed": 16,
+        "gamesStarted": 14,
+        "putouts": 91,
+        "assists": 18,
         "errors": 2,
-        "fieldingPercentage": 0.98,
+        "fieldingPercentage": 0.982,
         "doublePlays": 0,
         "stolenBasesAgainst": 34,
-        "caughtStealingBy": 11,
-        "stolenBasesPercentage": 0.756,
+        "caughtStealingBy": 12,
+        "stolenBasesPercentage": 0.739,
         "passedBalls": 3,
         "catchersInterference": 0,
-        "totalChances": 101
+        "totalChances": 111
       },
       "evaluation": {
-        "score": 13,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 26.111111111111107,
+          "On-base": 22.777777777777768,
           "Power": 0,
-          "Contact": 8.125000000000007,
-          "Discipline": 20.51282051282051,
+          "Contact": 0,
+          "Discipline": 14.814814814814808,
           "Speed": 0
         },
         "summary": "Andrew Hanlon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .233",
-          "OBP .327",
-          "SLG .279"
+          "AVG .217",
+          "OBP .321",
+          "SLG .261"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".233"
+            "value": ".217"
           },
           {
             "label": "OBP",
-            "value": ".327"
+            "value": ".321"
           },
           {
             "label": "SLG",
-            "value": ".279"
+            "value": ".261"
           },
           {
             "label": "HR",
@@ -596,13 +596,13 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "jersey": "4",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/christian-butera/21935",
         "imageUrl": "https://brownbears.com/images/2026/2/10/Butera-headshot-2026.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
-        "battingAverage": 0.248,
-        "onBasePercentage": 0.351,
-        "sluggingPercentage": 0.398,
-        "ops": 0.749,
-        "atBats": 113,
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "battingAverage": 0.239,
+        "onBasePercentage": 0.341,
+        "sluggingPercentage": 0.385,
+        "ops": 0.726,
+        "atBats": 117,
         "runs": 18,
         "hits": 28,
         "doubles": 4,
@@ -612,17 +612,17 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "totalBases": 45,
         "walks": 11,
         "hitByPitch": 7,
-        "strikeouts": 46,
+        "strikeouts": 47,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
+        "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 246,
-        "assists": 24,
+        "putouts": 258,
+        "assists": 25,
         "errors": 1,
-        "plateAppearances": 133,
+        "plateAppearances": 137,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -634,10 +634,10 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "jersey": "4",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/christian-butera/21935",
         "imageUrl": "https://brownbears.com/images/2026/2/10/Butera-headshot-2026.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
-        "putouts": 246,
-        "assists": 24,
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "putouts": 258,
+        "assists": 25,
         "errors": 1,
         "fieldingPercentage": 0.996,
         "doublePlays": 21,
@@ -646,39 +646,39 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 271
+        "totalChances": 284
       },
       "evaluation": {
-        "score": 22,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 39.44444444444442,
-          "Power": 20.52631578947369,
-          "Contact": 17.5,
-          "Discipline": 4.347826086956521,
+          "On-base": 33.88888888888889,
+          "Power": 17.10526315789474,
+          "Contact": 11.874999999999993,
+          "Discipline": 3.782505910165483,
           "Speed": 6.666666666666667
         },
         "summary": "Christian Butera gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .248",
-          "OBP .351",
-          "SLG .398"
+          "AVG .239",
+          "OBP .341",
+          "SLG .385"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".248"
+            "value": ".239"
           },
           {
             "label": "OBP",
-            "value": ".351"
+            "value": ".341"
           },
           {
             "label": "SLG",
-            "value": ".398"
+            "value": ".385"
           },
           {
             "label": "HR",
@@ -741,33 +741,33 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "jersey": "5",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/alex-benevento/21934",
         "imageUrl": "https://brownbears.com/images/2026/2/10/Benevento-headshot-2026.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
-        "battingAverage": 0.304,
-        "onBasePercentage": 0.396,
-        "sluggingPercentage": 0.487,
-        "ops": 0.883,
-        "atBats": 115,
-        "runs": 29,
-        "hits": 35,
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "battingAverage": 0.305,
+        "onBasePercentage": 0.403,
+        "sluggingPercentage": 0.508,
+        "ops": 0.911,
+        "atBats": 118,
+        "runs": 32,
+        "hits": 36,
         "doubles": 7,
         "triples": 1,
-        "homeRuns": 4,
-        "runsBattedIn": 23,
-        "totalBases": 56,
+        "homeRuns": 5,
+        "runsBattedIn": 25,
+        "totalBases": 60,
         "walks": 13,
-        "hitByPitch": 7,
-        "strikeouts": 20,
+        "hitByPitch": 9,
+        "strikeouts": 21,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 4,
         "sacrificeHits": 1,
-        "stolenBases": 12,
-        "stolenBasesAttempts": 14,
+        "stolenBases": 14,
+        "stolenBasesAttempts": 16,
         "putouts": 69,
         "assists": 3,
         "errors": 2,
-        "plateAppearances": 156,
+        "plateAppearances": 163,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -794,48 +794,48 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "totalChances": 74
       },
       "evaluation": {
-        "score": 52,
+        "score": 55,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 64.44444444444444,
-          "Power": 43.94736842105264,
-          "Contact": 52.49999999999999,
-          "Discipline": 49.99999999999999,
-          "Speed": 40
+          "On-base": 68.33333333333333,
+          "Power": 49.47368421052632,
+          "Contact": 53.124999999999986,
+          "Discipline": 46.56084656084655,
+          "Speed": 46.666666666666664
         },
-        "summary": "Alex Benevento profiles as a OF piece who adds running-game pressure.",
+        "summary": "Alex Benevento profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .304",
-          "OBP .396",
-          "SLG .487"
+          "AVG .305",
+          "OBP .403",
+          "SLG .508"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".304"
+            "value": ".305"
           },
           {
             "label": "OBP",
-            "value": ".396"
+            "value": ".403"
           },
           {
             "label": "SLG",
-            "value": ".487"
+            "value": ".508"
           },
           {
             "label": "HR",
-            "value": "4"
+            "value": "5"
           },
           {
             "label": "RBI",
-            "value": "23"
+            "value": "25"
           },
           {
             "label": "SB",
-            "value": "12"
+            "value": "14"
           }
         ],
         "metaLine": "SO / R/R",
@@ -1136,13 +1136,13 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "jersey": "8",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/jack-edmunds/21941",
         "imageUrl": "https://brownbears.com/images/2026/2/10/Edmunds-headshot-2026.jpg",
-        "gamesPlayed": 23,
-        "gamesStarted": 22,
-        "battingAverage": 0.2,
-        "onBasePercentage": 0.302,
-        "sluggingPercentage": 0.413,
-        "ops": 0.715,
-        "atBats": 75,
+        "gamesPlayed": 24,
+        "gamesStarted": 23,
+        "battingAverage": 0.19,
+        "onBasePercentage": 0.289,
+        "sluggingPercentage": 0.392,
+        "ops": 0.681,
+        "atBats": 79,
         "runs": 8,
         "hits": 15,
         "doubles": 4,
@@ -1152,7 +1152,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "totalBases": 31,
         "walks": 9,
         "hitByPitch": 2,
-        "strikeouts": 20,
+        "strikeouts": 22,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
@@ -1162,7 +1162,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "putouts": 83,
         "assists": 10,
         "errors": 1,
-        "plateAppearances": 88,
+        "plateAppearances": 92,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -1189,36 +1189,36 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "totalChances": 94
       },
       "evaluation": {
-        "score": 14,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 12.222222222222202,
-          "Power": 24.47368421052631,
+          "On-base": 4.999999999999974,
+          "Power": 18.947368421052634,
           "Contact": 0,
-          "Discipline": 27.777777777777775,
+          "Discipline": 23.23232323232323,
           "Speed": 0
         },
         "summary": "Jack Edmunds gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .200",
-          "OBP .302",
-          "SLG .413"
+          "AVG .190",
+          "OBP .289",
+          "SLG .392"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".200"
+            "value": ".190"
           },
           {
             "label": "OBP",
-            "value": ".302"
+            "value": ".289"
           },
           {
             "label": "SLG",
-            "value": ".413"
+            "value": ".392"
           },
           {
             "label": "HR",
@@ -1281,33 +1281,33 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "jersey": "9",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/logan-meusy/21949",
         "imageUrl": "https://brownbears.com/images/2026/2/10/Meusy-headshot-2026.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 30,
-        "battingAverage": 0.265,
-        "onBasePercentage": 0.375,
-        "sluggingPercentage": 0.402,
-        "ops": 0.777,
-        "atBats": 102,
+        "gamesPlayed": 32,
+        "gamesStarted": 31,
+        "battingAverage": 0.264,
+        "onBasePercentage": 0.376,
+        "sluggingPercentage": 0.406,
+        "ops": 0.782,
+        "atBats": 106,
         "runs": 18,
-        "hits": 27,
-        "doubles": 8,
+        "hits": 28,
+        "doubles": 9,
         "triples": 0,
         "homeRuns": 2,
-        "runsBattedIn": 15,
-        "totalBases": 41,
-        "walks": 8,
+        "runsBattedIn": 17,
+        "totalBases": 43,
+        "walks": 9,
         "hitByPitch": 10,
-        "strikeouts": 19,
+        "strikeouts": 21,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 5,
         "stolenBasesAttempts": 6,
-        "putouts": 68,
+        "putouts": 70,
         "assists": 2,
         "errors": 3,
-        "plateAppearances": 128,
+        "plateAppearances": 133,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1319,19 +1319,19 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "jersey": "9",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/logan-meusy/21949",
         "imageUrl": "https://brownbears.com/images/2026/2/10/Meusy-headshot-2026.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 28,
-        "putouts": 68,
+        "gamesPlayed": 29,
+        "gamesStarted": 29,
+        "putouts": 70,
         "assists": 2,
         "errors": 3,
-        "fieldingPercentage": 0.959,
+        "fieldingPercentage": 0.96,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 73
+        "totalChances": 75
       },
       "evaluation": {
         "score": 33,
@@ -1340,30 +1340,30 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 52.77777777777777,
-          "Power": 21.578947368421062,
-          "Contact": 28.125000000000007,
-          "Discipline": 24.561403508771924,
+          "On-base": 53.33333333333332,
+          "Power": 22.631578947368432,
+          "Contact": 27.500000000000007,
+          "Discipline": 25.39682539682539,
           "Speed": 16.666666666666664
         },
         "summary": "Logan Meusy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .265",
-          "OBP .375",
-          "SLG .402"
+          "AVG .264",
+          "OBP .376",
+          "SLG .406"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".265"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".376"
           },
           {
             "label": "SLG",
-            "value": ".402"
+            "value": ".406"
           },
           {
             "label": "HR",
@@ -1371,7 +1371,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "RBI",
-            "value": "15"
+            "value": "17"
           },
           {
             "label": "SB",
@@ -1426,33 +1426,33 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "jersey": "10",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/mark-henshon/21944",
         "imageUrl": "https://brownbears.com/images/2026/2/10/Henshon-headshot-2026.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
-        "battingAverage": 0.263,
-        "onBasePercentage": 0.374,
-        "sluggingPercentage": 0.322,
-        "ops": 0.696,
-        "atBats": 118,
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "battingAverage": 0.26,
+        "onBasePercentage": 0.368,
+        "sluggingPercentage": 0.317,
+        "ops": 0.685,
+        "atBats": 123,
         "runs": 23,
-        "hits": 31,
+        "hits": 32,
         "doubles": 1,
         "triples": 0,
         "homeRuns": 2,
-        "runsBattedIn": 14,
-        "totalBases": 38,
+        "runsBattedIn": 15,
+        "totalBases": 39,
         "walks": 16,
         "hitByPitch": 5,
-        "strikeouts": 14,
+        "strikeouts": 15,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 54,
-        "assists": 70,
+        "putouts": 56,
+        "assists": 73,
         "errors": 5,
-        "plateAppearances": 141,
+        "plateAppearances": 146,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -1464,51 +1464,51 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "jersey": "10",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/mark-henshon/21944",
         "imageUrl": "https://brownbears.com/images/2026/2/10/Henshon-headshot-2026.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 29,
-        "putouts": 54,
-        "assists": 70,
+        "gamesPlayed": 30,
+        "gamesStarted": 30,
+        "putouts": 56,
+        "assists": 73,
         "errors": 5,
-        "fieldingPercentage": 0.961,
+        "fieldingPercentage": 0.963,
         "doublePlays": 17,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 129
+        "totalChances": 134
       },
       "evaluation": {
-        "score": 36,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 52.222222222222214,
-          "Power": 0.5263157894736847,
-          "Contact": 26.875000000000004,
-          "Discipline": 100,
+          "On-base": 48.88888888888887,
+          "Power": 0,
+          "Contact": 25.000000000000007,
+          "Discipline": 96.29629629629628,
           "Speed": 0
         },
         "summary": "Mark Henshon profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .263",
-          "OBP .374",
-          "SLG .322"
+          "AVG .260",
+          "OBP .368",
+          "SLG .317"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".263"
+            "value": ".260"
           },
           {
             "label": "OBP",
-            "value": ".374"
+            "value": ".368"
           },
           {
             "label": "SLG",
-            "value": ".322"
+            "value": ".317"
           },
           {
             "label": "HR",
@@ -1516,7 +1516,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "RBI",
-            "value": "14"
+            "value": "15"
           },
           {
             "label": "SB",
@@ -2321,23 +2321,23 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "jersey": "17",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/dj-dillehay/21939",
         "imageUrl": "https://brownbears.com/images/2026/2/10/Dillehay-headshot-2026.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
-        "battingAverage": 0.261,
-        "onBasePercentage": 0.36,
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "battingAverage": 0.258,
+        "onBasePercentage": 0.354,
         "sluggingPercentage": 0.395,
-        "ops": 0.755,
-        "atBats": 119,
-        "runs": 17,
-        "hits": 31,
-        "doubles": 7,
+        "ops": 0.749,
+        "atBats": 124,
+        "runs": 18,
+        "hits": 32,
+        "doubles": 8,
         "triples": 0,
         "homeRuns": 3,
         "runsBattedIn": 30,
-        "totalBases": 47,
+        "totalBases": 49,
         "walks": 11,
         "hitByPitch": 8,
-        "strikeouts": 18,
+        "strikeouts": 19,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
@@ -2345,9 +2345,9 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
         "putouts": 23,
-        "assists": 50,
+        "assists": 52,
         "errors": 10,
-        "plateAppearances": 143,
+        "plateAppearances": 148,
         "caughtStealing": 1,
         "pickedOff": 2
       },
@@ -2359,47 +2359,47 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "jersey": "17",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/dj-dillehay/21939",
         "imageUrl": "https://brownbears.com/images/2026/2/10/Dillehay-headshot-2026.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 29,
+        "gamesPlayed": 30,
+        "gamesStarted": 30,
         "putouts": 23,
-        "assists": 50,
+        "assists": 52,
         "errors": 10,
-        "fieldingPercentage": 0.88,
+        "fieldingPercentage": 0.882,
         "doublePlays": 6,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 83
+        "totalChances": 85
       },
       "evaluation": {
-        "score": 31,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 44.44444444444443,
+          "On-base": 41.111111111111086,
           "Power": 19.736842105263165,
-          "Contact": 25.625000000000004,
-          "Discipline": 45.67901234567901,
+          "Contact": 23.750000000000004,
+          "Discipline": 42.10526315789473,
           "Speed": 6.666666666666667
         },
         "summary": "DJ Dillehay gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .261",
-          "OBP .360",
+          "AVG .258",
+          "OBP .354",
           "SLG .395"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".261"
+            "value": ".258"
           },
           {
             "label": "OBP",
-            "value": ".360"
+            "value": ".354"
           },
           {
             "label": "SLG",
@@ -3514,32 +3514,32 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "jersey": "28",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/dylan-reid/21956",
         "imageUrl": "https://brownbears.com/images/2026/2/10/Reid-headshot-2026.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 6,
-        "appearances": 8,
+        "gamesPlayed": 9,
+        "gamesStarted": 7,
+        "appearances": 9,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.58,
-        "whip": 1.41,
-        "wins": 3,
+        "earnedRunAverage": 3.18,
+        "whip": 1.26,
+        "wins": 4,
         "losses": 2,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 32.666666666666664,
-        "inningsPitchedDisplay": "32.2",
-        "hitsAllowed": 24,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 13,
-        "walksAllowed": 22,
-        "strikeouts": 27,
-        "doublesAllowed": 4,
+        "inningsPitched": 39.666666666666664,
+        "inningsPitchedDisplay": "39.2",
+        "hitsAllowed": 27,
+        "runsAllowed": 16,
+        "earnedRunsAllowed": 14,
+        "walksAllowed": 23,
+        "strikeouts": 34,
+        "doublesAllowed": 6,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 115,
+        "opponentsAtBats": 138,
         "wildPitches": 1,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.209,
-        "walksHits": 46
+        "opponentsBattingAverage": 0.196,
+        "walksHits": 50
       },
       "fieldingStats": {
         "rosterBioId": "21956",
@@ -3548,22 +3548,22 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "jersey": "28",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/dylan-reid/21956",
         "imageUrl": "https://brownbears.com/images/2026/2/10/Reid-headshot-2026.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 5,
-        "putouts": 2,
+        "gamesPlayed": 7,
+        "gamesStarted": 6,
+        "putouts": 3,
         "assists": 3,
         "errors": 1,
-        "fieldingPercentage": 0.833,
+        "fieldingPercentage": 0.857,
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
-        "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.727,
+        "caughtStealingBy": 4,
+        "stolenBasesPercentage": 0.667,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 6
+        "totalChances": 7
       },
       "evaluation": {
-        "score": 7,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3571,40 +3571,40 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 31.261595547309838,
-          "Command": 4.545454545454546,
+          "Miss bats": 33.76623376623377,
+          "Command": 9.565217391304346,
           "Damage suppression": 0
         },
         "summary": "Dylan Reid looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.58",
-          "WHIP 1.41",
-          "K/9 7.4"
+          "ERA 3.18",
+          "WHIP 1.26",
+          "K/9 7.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.58"
+            "value": "3.18"
           },
           {
             "label": "WHIP",
-            "value": "1.41"
+            "value": "1.26"
           },
           {
             "label": "K/9",
-            "value": "7.4"
+            "value": "7.7"
           },
           {
             "label": "BB/9",
-            "value": "6.1"
+            "value": "5.2"
           },
           {
             "label": "HR/9",
-            "value": "0.28"
+            "value": "0.23"
           },
           {
             "label": "IP",
-            "value": "32.7"
+            "value": "39.7"
           }
         ],
         "metaLine": "SR / R/R",
@@ -4170,31 +4170,31 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "jersey": "33",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/christian-keel/21945",
         "imageUrl": "https://brownbears.com/images/2026/2/10/Keel-headshot-2026.jpg",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 0,
-        "appearances": 14,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.38,
-        "whip": 1.5,
+        "earnedRunAverage": 4.05,
+        "whip": 1.39,
         "wins": 1,
         "losses": 2,
-        "saves": 5,
+        "saves": 6,
         "shutouts": 0,
-        "inningsPitched": 24.666666666666668,
-        "inningsPitchedDisplay": "24.2",
+        "inningsPitched": 26.666666666666668,
+        "inningsPitchedDisplay": "26.2",
         "hitsAllowed": 20,
         "runsAllowed": 13,
         "earnedRunsAllowed": 12,
         "walksAllowed": 17,
-        "strikeouts": 24,
+        "strikeouts": 25,
         "doublesAllowed": 7,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 90,
+        "opponentsAtBats": 96,
         "wildPitches": 5,
         "hitBatters": 7,
         "balks": 0,
-        "opponentsBattingAverage": 0.222,
+        "opponentsBattingAverage": 0.208,
         "walksHits": 37
       },
       "fieldingStats": {
@@ -4227,40 +4227,40 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.24324324324324,
-          "Command": 8.235294117647056,
+          "Miss bats": 40.340909090909086,
+          "Command": 9.411764705882355,
           "Damage suppression": 0
         },
         "summary": "Christian Keel gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.38",
-          "WHIP 1.50",
-          "K/9 8.8"
+          "ERA 4.05",
+          "WHIP 1.39",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.38"
+            "value": "4.05"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.39"
           },
           {
             "label": "K/9",
-            "value": "8.8"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "6.2"
+            "value": "5.7"
           },
           {
             "label": "HR/9",
-            "value": "0.36"
+            "value": "0.34"
           },
           {
             "label": "IP",
-            "value": "24.7"
+            "value": "26.7"
           }
         ],
         "metaLine": "SR / R/R",
@@ -5245,25 +5245,25 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 51,
+        "score": 56,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
-        "summary": "Mika Petersen profiles as a OF piece who adds running-game pressure.",
+        "summary": "Mika Petersen profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .339",
-          "OBP .388",
+          "AVG .341",
+          "OBP .403",
           "SLG .508"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".339"
+            "value": ".341"
           },
           {
             "label": "OBP",
-            "value": ".388"
+            "value": ".403"
           },
           {
             "label": "SLG",
@@ -5279,15 +5279,15 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "SB",
-            "value": "9"
+            "value": "10"
           }
         ],
         "components": {
-          "On-base": 60,
+          "On-base": 68.33333333333333,
           "Power": 49.47368421052632,
-          "Contact": 74.37500000000001,
-          "Discipline": 21.256038647342994,
-          "Speed": 30
+          "Contact": 75.62500000000001,
+          "Discipline": 30.917874396135264,
+          "Speed": 33.33333333333333
         },
         "metaLine": "SR / L/L",
         "detailBadges": [
@@ -5314,29 +5314,29 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 41,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Matt Luigs profiles as a INF piece who adds running-game pressure.",
+        "summary": "Matt Luigs profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .283",
-          "OBP .397",
-          "SLG .342"
+          "AVG .290",
+          "OBP .404",
+          "SLG .347"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".283"
+            "value": ".290"
           },
           {
             "label": "OBP",
-            "value": ".397"
+            "value": ".404"
           },
           {
             "label": "SLG",
-            "value": ".342"
+            "value": ".347"
           },
           {
             "label": "HR",
@@ -5348,15 +5348,15 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "SB",
-            "value": "15"
+            "value": "17"
           }
         ],
         "components": {
-          "On-base": 65,
-          "Power": 5.789473684210533,
-          "Contact": 39.374999999999986,
-          "Discipline": 48.14814814814813,
-          "Speed": 50
+          "On-base": 68.88888888888889,
+          "Power": 7.10526315789473,
+          "Contact": 43.749999999999986,
+          "Discipline": 49.46236559139784,
+          "Speed": 56.666666666666664
         },
         "metaLine": "FR / R/R",
         "detailBadges": [
@@ -5383,29 +5383,29 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 13,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Andrew Hanlon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .233",
-          "OBP .327",
-          "SLG .279"
+          "AVG .217",
+          "OBP .321",
+          "SLG .261"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".233"
+            "value": ".217"
           },
           {
             "label": "OBP",
-            "value": ".327"
+            "value": ".321"
           },
           {
             "label": "SLG",
-            "value": ".279"
+            "value": ".261"
           },
           {
             "label": "HR",
@@ -5421,10 +5421,10 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           }
         ],
         "components": {
-          "On-base": 26.111111111111107,
+          "On-base": 22.777777777777768,
           "Power": 0,
-          "Contact": 8.125000000000007,
-          "Discipline": 20.51282051282051,
+          "Contact": 0,
+          "Discipline": 14.814814814814808,
           "Speed": 0
         },
         "metaLine": "JR / R/R",
@@ -5452,29 +5452,29 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 22,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Christian Butera gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .248",
-          "OBP .351",
-          "SLG .398"
+          "AVG .239",
+          "OBP .341",
+          "SLG .385"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".248"
+            "value": ".239"
           },
           {
             "label": "OBP",
-            "value": ".351"
+            "value": ".341"
           },
           {
             "label": "SLG",
-            "value": ".398"
+            "value": ".385"
           },
           {
             "label": "HR",
@@ -5490,10 +5490,10 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           }
         ],
         "components": {
-          "On-base": 39.44444444444442,
-          "Power": 20.52631578947369,
-          "Contact": 17.5,
-          "Discipline": 4.347826086956521,
+          "On-base": 33.88888888888889,
+          "Power": 17.10526315789474,
+          "Contact": 11.874999999999993,
+          "Discipline": 3.782505910165483,
           "Speed": 6.666666666666667
         },
         "metaLine": "SO / R/R",
@@ -5521,49 +5521,49 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 52,
+        "score": 55,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
-        "summary": "Alex Benevento profiles as a OF piece who adds running-game pressure.",
+        "summary": "Alex Benevento profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .304",
-          "OBP .396",
-          "SLG .487"
+          "AVG .305",
+          "OBP .403",
+          "SLG .508"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".304"
+            "value": ".305"
           },
           {
             "label": "OBP",
-            "value": ".396"
+            "value": ".403"
           },
           {
             "label": "SLG",
-            "value": ".487"
+            "value": ".508"
           },
           {
             "label": "HR",
-            "value": "4"
+            "value": "5"
           },
           {
             "label": "RBI",
-            "value": "23"
+            "value": "25"
           },
           {
             "label": "SB",
-            "value": "12"
+            "value": "14"
           }
         ],
         "components": {
-          "On-base": 64.44444444444444,
-          "Power": 43.94736842105264,
-          "Contact": 52.49999999999999,
-          "Discipline": 49.99999999999999,
-          "Speed": 40
+          "On-base": 68.33333333333333,
+          "Power": 49.47368421052632,
+          "Contact": 53.124999999999986,
+          "Discipline": 46.56084656084655,
+          "Speed": 46.666666666666664
         },
         "metaLine": "SO / R/R",
         "detailBadges": [
@@ -5728,29 +5728,29 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "position": "C/OF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 14,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Edmunds gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .200",
-          "OBP .302",
-          "SLG .413"
+          "AVG .190",
+          "OBP .289",
+          "SLG .392"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".200"
+            "value": ".190"
           },
           {
             "label": "OBP",
-            "value": ".302"
+            "value": ".289"
           },
           {
             "label": "SLG",
-            "value": ".413"
+            "value": ".392"
           },
           {
             "label": "HR",
@@ -5766,10 +5766,10 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           }
         ],
         "components": {
-          "On-base": 12.222222222222202,
-          "Power": 24.47368421052631,
+          "On-base": 4.999999999999974,
+          "Power": 18.947368421052634,
           "Contact": 0,
-          "Discipline": 27.777777777777775,
+          "Discipline": 23.23232323232323,
           "Speed": 0
         },
         "metaLine": "SO / R/R",
@@ -5804,22 +5804,22 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         },
         "summary": "Logan Meusy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .265",
-          "OBP .375",
-          "SLG .402"
+          "AVG .264",
+          "OBP .376",
+          "SLG .406"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".265"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".376"
           },
           {
             "label": "SLG",
-            "value": ".402"
+            "value": ".406"
           },
           {
             "label": "HR",
@@ -5827,7 +5827,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "RBI",
-            "value": "15"
+            "value": "17"
           },
           {
             "label": "SB",
@@ -5835,10 +5835,10 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           }
         ],
         "components": {
-          "On-base": 52.77777777777777,
-          "Power": 21.578947368421062,
-          "Contact": 28.125000000000007,
-          "Discipline": 24.561403508771924,
+          "On-base": 53.33333333333332,
+          "Power": 22.631578947368432,
+          "Contact": 27.500000000000007,
+          "Discipline": 25.39682539682539,
           "Speed": 16.666666666666664
         },
         "metaLine": "SR / R/R",
@@ -5866,29 +5866,29 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 36,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Mark Henshon profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .263",
-          "OBP .374",
-          "SLG .322"
+          "AVG .260",
+          "OBP .368",
+          "SLG .317"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".263"
+            "value": ".260"
           },
           {
             "label": "OBP",
-            "value": ".374"
+            "value": ".368"
           },
           {
             "label": "SLG",
-            "value": ".322"
+            "value": ".317"
           },
           {
             "label": "HR",
@@ -5896,7 +5896,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "RBI",
-            "value": "14"
+            "value": "15"
           },
           {
             "label": "SB",
@@ -5904,10 +5904,10 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           }
         ],
         "components": {
-          "On-base": 52.222222222222214,
-          "Power": 0.5263157894736847,
-          "Contact": 26.875000000000004,
-          "Discipline": 100,
+          "On-base": 48.88888888888887,
+          "Power": 0,
+          "Contact": 25.000000000000007,
+          "Discipline": 96.29629629629628,
           "Speed": 0
         },
         "metaLine": "SR / R/R",
@@ -6347,25 +6347,25 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 31,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "DJ Dillehay gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .261",
-          "OBP .360",
+          "AVG .258",
+          "OBP .354",
           "SLG .395"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".261"
+            "value": ".258"
           },
           {
             "label": "OBP",
-            "value": ".360"
+            "value": ".354"
           },
           {
             "label": "SLG",
@@ -6385,10 +6385,10 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           }
         ],
         "components": {
-          "On-base": 44.44444444444443,
+          "On-base": 41.111111111111086,
           "Power": 19.736842105263165,
-          "Contact": 25.625000000000004,
-          "Discipline": 45.67901234567901,
+          "Contact": 23.750000000000004,
+          "Discipline": 42.10526315789473,
           "Speed": 6.666666666666667
         },
         "metaLine": "SR / R/R",
@@ -6966,48 +6966,48 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 7,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dylan Reid looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.58",
-          "WHIP 1.41",
-          "K/9 7.4"
+          "ERA 3.18",
+          "WHIP 1.26",
+          "K/9 7.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.58"
+            "value": "3.18"
           },
           {
             "label": "WHIP",
-            "value": "1.41"
+            "value": "1.26"
           },
           {
             "label": "K/9",
-            "value": "7.4"
+            "value": "7.7"
           },
           {
             "label": "BB/9",
-            "value": "6.1"
+            "value": "5.2"
           },
           {
             "label": "HR/9",
-            "value": "0.28"
+            "value": "0.23"
           },
           {
             "label": "IP",
-            "value": "32.7"
+            "value": "39.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 31.261595547309838,
-          "Command": 4.545454545454546,
+          "Miss bats": 33.76623376623377,
+          "Command": 9.565217391304346,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -7317,41 +7317,41 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         },
         "summary": "Christian Keel gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.38",
-          "WHIP 1.50",
-          "K/9 8.8"
+          "ERA 4.05",
+          "WHIP 1.39",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.38"
+            "value": "4.05"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.39"
           },
           {
             "label": "K/9",
-            "value": "8.8"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "6.2"
+            "value": "5.7"
           },
           {
             "label": "HR/9",
-            "value": "0.36"
+            "value": "0.34"
           },
           {
             "label": "IP",
-            "value": "24.7"
+            "value": "26.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.24324324324324,
-          "Command": 8.235294117647056,
+          "Miss bats": 40.340909090909086,
+          "Command": 9.411764705882355,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",

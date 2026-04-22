@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
-  "generatedAt": "2026-04-21T11:33:05.087Z",
+  "generatedAt": "2026-04-22T11:21:39.849Z",
   "season": 2026,
   "school": {
     "slug": "sam-houston-st",
@@ -40,86 +40,86 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
     }
   },
   "teamSummary": {
-    "record": "17-23, 7-11",
-    "battingAverage": ".245",
-    "earnedRunAverage": "5.92",
-    "wins": "17",
+    "record": "18-23, 7-11",
+    "battingAverage": ".248",
+    "earnedRunAverage": "5.89",
+    "wins": "18",
     "losses": "23",
     "hitting": {
-      "atBats": "1275",
-      "runsScored": "208",
-      "hits": "313",
-      "runsBattedIn": "179",
-      "doubles": "57",
+      "atBats": "1307",
+      "runsScored": "215",
+      "hits": "324",
+      "runsBattedIn": "185",
+      "doubles": "58",
       "triples": "6",
-      "homeRuns": "27",
-      "walks": "190",
+      "homeRuns": "28",
+      "walks": "194",
       "intentionalWalks": "1",
-      "strikeouts": "384",
-      "strikeoutsLooking": "122",
-      "hitByPitch": "37",
-      "stolenBases": "90",
-      "caughtStealing": "27",
+      "strikeouts": "392",
+      "strikeoutsLooking": "126",
+      "hitByPitch": "39",
+      "stolenBases": "92",
+      "caughtStealing": "28",
       "sacrificeHits": "13",
-      "sacrificeFlies": "16",
+      "sacrificeFlies": "17",
       "reachedOnCatchersInteference": "2",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "279",
-      "flyOuts": "298",
-      "groundedIntoDoublePlay": "21",
+      "groundOuts": "284",
+      "flyOuts": "307",
+      "groundedIntoDoublePlay": "22",
       "pickedOff": "15",
-      "doublePlaysHitInto": "28",
+      "doublePlaysHitInto": "29",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1022",
-      "assists": "323",
+      "putouts": "1049",
+      "assists": "330",
       "errors": "41",
       "passedBalls": "5",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "57",
+      "stolenBasesAgainst": "58",
       "caughtStealingBy": "16",
-      "involvedInDoublePlays": "22",
+      "involvedInDoublePlays": "23",
       "involvedInTriplePlays": "0",
-      "totalChances": "1386",
-      "fieldingPercentage": ".970"
+      "totalChances": "1420",
+      "fieldingPercentage": ".971"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "17",
-      "saves": "8",
+      "wins": "18",
+      "saves": "9",
       "losses": "23",
       "gamesStarted": "0",
       "gamesCompleted": "1",
       "shutouts": "1",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "340.2",
-      "hitsAllowed": "371",
-      "runsAllowed": "255",
-      "earnedRunsAllowed": "224",
-      "walksAllowed": "175",
-      "strikeouts": "317",
-      "battersFaced": "1607",
-      "opponentAtBats": "1347",
-      "doublesAllowed": "72",
+      "inningsPitched": "349.2",
+      "hitsAllowed": "379",
+      "runsAllowed": "260",
+      "earnedRunsAllowed": "229",
+      "walksAllowed": "177",
+      "strikeouts": "327",
+      "battersFaced": "1645",
+      "opponentAtBats": "1379",
+      "doublesAllowed": "74",
       "triplesAllowed": "7",
       "homerunsAllowed": "57",
-      "wildPitches": "43",
+      "wildPitches": "45",
       "balks": "4",
-      "hitBatters": "52",
-      "strikeoutsLooking": "98",
+      "hitBatters": "54",
+      "strikeoutsLooking": "102",
       "intentionalWalks": "1",
       "inheritedRunners": "0",
       "inheritedRunnersThatScored": "0",
-      "sacrificeHitsAllowed": "22",
-      "sacrificeFliesAllowed": "11",
+      "sacrificeHitsAllowed": "23",
+      "sacrificeFliesAllowed": "12",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6243",
-      "flyouts": "361",
-      "groundouts": "300",
+      "pitches": "6382",
+      "flyouts": "371",
+      "groundouts": "306",
       "teamUnearnedRuns": "0",
-      "saveRecord": "8",
+      "saveRecord": "9",
       "pickoff": "1"
     }
   },
@@ -887,34 +887,34 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "7",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/ryan-franden/10320",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Franden_Ryan_6fwI2.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 27,
-        "battingAverage": 0.312,
-        "onBasePercentage": 0.385,
-        "sluggingPercentage": 0.514,
-        "ops": 0.899,
-        "atBats": 109,
-        "runs": 20,
-        "hits": 34,
+        "gamesPlayed": 29,
+        "gamesStarted": 28,
+        "battingAverage": 0.313,
+        "onBasePercentage": 0.394,
+        "sluggingPercentage": 0.536,
+        "ops": 0.93,
+        "atBats": 112,
+        "runs": 22,
+        "hits": 35,
         "doubles": 5,
         "triples": 1,
-        "homeRuns": 5,
-        "runsBattedIn": 25,
-        "totalBases": 56,
-        "walks": 10,
+        "homeRuns": 6,
+        "runsBattedIn": 26,
+        "totalBases": 60,
+        "walks": 12,
         "hitByPitch": 3,
-        "strikeouts": 12,
+        "strikeouts": 13,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 2,
-        "stolenBasesAttempts": 3,
+        "stolenBasesAttempts": 4,
         "putouts": 17,
-        "assists": 39,
+        "assists": 41,
         "errors": 3,
-        "plateAppearances": 127,
-        "caughtStealing": 1,
+        "plateAppearances": 134,
+        "caughtStealing": 2,
         "pickedOff": 0
       },
       "pitchingStats": null,
@@ -925,59 +925,59 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "7",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/ryan-franden/10320",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Franden_Ryan_6fwI2.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 22,
+        "gamesPlayed": 23,
+        "gamesStarted": 23,
         "putouts": 17,
-        "assists": 39,
+        "assists": 41,
         "errors": 3,
-        "fieldingPercentage": 0.949,
-        "doublePlays": 7,
+        "fieldingPercentage": 0.951,
+        "doublePlays": 8,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 59
+        "totalChances": 61
       },
       "evaluation": {
-        "score": 53,
+        "score": 57,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 58.33333333333333,
-          "Power": 51.05263157894737,
-          "Contact": 57.49999999999999,
-          "Discipline": 70.37037037037037,
+          "On-base": 63.33333333333333,
+          "Power": 56.842105263157904,
+          "Contact": 58.12499999999999,
+          "Discipline": 80.34188034188034,
           "Speed": 6.666666666666667
         },
         "summary": "Ryan Franden gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .312",
-          "OBP .385",
-          "SLG .514"
+          "AVG .313",
+          "OBP .394",
+          "SLG .536"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".312"
+            "value": ".313"
           },
           {
             "label": "OBP",
-            "value": ".385"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".514"
+            "value": ".536"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "25"
+            "value": "26"
           },
           {
             "label": "SB",
@@ -1032,20 +1032,20 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "8",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/jace-martinez/10326",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Martinez_Jace_FyIwy.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 38,
-        "battingAverage": 0.226,
-        "onBasePercentage": 0.345,
-        "sluggingPercentage": 0.27,
-        "ops": 0.615,
-        "atBats": 115,
-        "runs": 20,
-        "hits": 26,
+        "gamesPlayed": 40,
+        "gamesStarted": 39,
+        "battingAverage": 0.235,
+        "onBasePercentage": 0.35,
+        "sluggingPercentage": 0.277,
+        "ops": 0.627,
+        "atBats": 119,
+        "runs": 21,
+        "hits": 28,
         "doubles": 5,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 8,
-        "totalBases": 31,
+        "totalBases": 33,
         "walks": 21,
         "hitByPitch": 1,
         "strikeouts": 40,
@@ -1053,12 +1053,12 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
         "sacrificeHits": 4,
-        "stolenBases": 14,
-        "stolenBasesAttempts": 17,
-        "putouts": 55,
-        "assists": 69,
+        "stolenBases": 15,
+        "stolenBasesAttempts": 18,
+        "putouts": 58,
+        "assists": 71,
         "errors": 4,
-        "plateAppearances": 163,
+        "plateAppearances": 168,
         "caughtStealing": 3,
         "pickedOff": 2
       },
@@ -1070,51 +1070,51 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "8",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/jace-martinez/10326",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Martinez_Jace_FyIwy.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 34,
-        "putouts": 55,
-        "assists": 69,
+        "gamesPlayed": 36,
+        "gamesStarted": 35,
+        "putouts": 58,
+        "assists": 71,
         "errors": 4,
-        "fieldingPercentage": 0.969,
-        "doublePlays": 12,
+        "fieldingPercentage": 0.97,
+        "doublePlays": 13,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 128
+        "totalChances": 133
       },
       "evaluation": {
-        "score": 22,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 36.111111111111086,
+          "On-base": 38.888888888888864,
           "Power": 0,
-          "Contact": 3.7500000000000036,
+          "Contact": 9.374999999999991,
           "Discipline": 36.11111111111111,
-          "Speed": 46.666666666666664
+          "Speed": 50
         },
         "summary": "Jace Martinez profiles as a IF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .226",
-          "OBP .345",
-          "SLG .270"
+          "AVG .235",
+          "OBP .350",
+          "SLG .277"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".226"
+            "value": ".235"
           },
           {
             "label": "OBP",
-            "value": ".345"
+            "value": ".350"
           },
           {
             "label": "SLG",
-            "value": ".270"
+            "value": ".277"
           },
           {
             "label": "HR",
@@ -1126,7 +1126,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
           },
           {
             "label": "SB",
-            "value": "14"
+            "value": "15"
           }
         ],
         "metaLine": "JR / R/R",
@@ -1177,13 +1177,13 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "9",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/hunter-alvord/10499",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Alvord_Hunter_cE75D.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "battingAverage": 0.22,
-        "onBasePercentage": 0.343,
-        "sluggingPercentage": 0.38,
-        "ops": 0.723,
-        "atBats": 150,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "battingAverage": 0.214,
+        "onBasePercentage": 0.335,
+        "sluggingPercentage": 0.37,
+        "ops": 0.705,
+        "atBats": 154,
         "runs": 31,
         "hits": 33,
         "doubles": 6,
@@ -1193,7 +1193,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "totalBases": 57,
         "walks": 26,
         "hitByPitch": 3,
-        "strikeouts": 53,
+        "strikeouts": 55,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 2,
@@ -1201,9 +1201,9 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "stolenBases": 15,
         "stolenBasesAttempts": 18,
         "putouts": 37,
-        "assists": 85,
+        "assists": 86,
         "errors": 10,
-        "plateAppearances": 202,
+        "plateAppearances": 206,
         "caughtStealing": 3,
         "pickedOff": 2
       },
@@ -1215,51 +1215,51 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "9",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/hunter-alvord/10499",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Alvord_Hunter_cE75D.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
         "putouts": 37,
-        "assists": 85,
+        "assists": 86,
         "errors": 10,
-        "fieldingPercentage": 0.924,
+        "fieldingPercentage": 0.925,
         "doublePlays": 11,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 132
+        "totalChances": 133
       },
       "evaluation": {
-        "score": 25,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 35,
-          "Power": 15.789473684210527,
+          "On-base": 30.555555555555554,
+          "Power": 13.157894736842104,
           "Contact": 0,
-          "Discipline": 32.285115303983225,
+          "Discipline": 30.303030303030297,
           "Speed": 50
         },
         "summary": "Hunter Alvord profiles as a IF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .220",
-          "OBP .343",
-          "SLG .380"
+          "AVG .214",
+          "OBP .335",
+          "SLG .370"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".220"
+            "value": ".214"
           },
           {
             "label": "OBP",
-            "value": ".343"
+            "value": ".335"
           },
           {
             "label": "SLG",
-            "value": ".380"
+            "value": ".370"
           },
           {
             "label": "HR",
@@ -1612,33 +1612,33 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "12",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/ty-marthiljohni/10325",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Marthiljohni_Ty_eRZpL.jpg",
-        "gamesPlayed": 18,
-        "gamesStarted": 18,
-        "battingAverage": 0.185,
-        "onBasePercentage": 0.29,
-        "sluggingPercentage": 0.259,
-        "ops": 0.549,
-        "atBats": 54,
-        "runs": 8,
-        "hits": 10,
+        "gamesPlayed": 19,
+        "gamesStarted": 19,
+        "battingAverage": 0.207,
+        "onBasePercentage": 0.303,
+        "sluggingPercentage": 0.276,
+        "ops": 0.579,
+        "atBats": 58,
+        "runs": 9,
+        "hits": 12,
         "doubles": 1,
         "triples": 0,
         "homeRuns": 1,
         "runsBattedIn": 10,
-        "totalBases": 14,
+        "totalBases": 16,
         "walks": 7,
         "hitByPitch": 1,
-        "strikeouts": 17,
+        "strikeouts": 18,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 118,
-        "assists": 9,
+        "putouts": 129,
+        "assists": 11,
         "errors": 2,
-        "plateAppearances": 63,
+        "plateAppearances": 67,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1650,51 +1650,51 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "12",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/ty-marthiljohni/10325",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Marthiljohni_Ty_eRZpL.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 17,
-        "putouts": 118,
-        "assists": 9,
+        "gamesPlayed": 18,
+        "gamesStarted": 18,
+        "putouts": 129,
+        "assists": 11,
         "errors": 2,
-        "fieldingPercentage": 0.984,
+        "fieldingPercentage": 0.986,
         "doublePlays": 2,
-        "stolenBasesAgainst": 12,
+        "stolenBasesAgainst": 13,
         "caughtStealingBy": 5,
-        "stolenBasesPercentage": 0.706,
+        "stolenBasesPercentage": 0.722,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 129
+        "totalChances": 142
       },
       "evaluation": {
-        "score": 5,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 5.55555555555553,
+          "On-base": 12.77777777777776,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 23.529411764705877,
+          "Discipline": 20.98765432098765,
           "Speed": 0
         },
         "summary": "Ty Marthiljohni gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .185",
-          "OBP .290",
-          "SLG .259"
+          "AVG .207",
+          "OBP .303",
+          "SLG .276"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".185"
+            "value": ".207"
           },
           {
             "label": "OBP",
-            "value": ".290"
+            "value": ".303"
           },
           {
             "label": "SLG",
-            "value": ".259"
+            "value": ".276"
           },
           {
             "label": "HR",
@@ -1757,33 +1757,33 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "13",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/jeric-curtis/10502",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Curtis_JR7vW.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "battingAverage": 0.326,
-        "onBasePercentage": 0.432,
-        "sluggingPercentage": 0.415,
-        "ops": 0.847,
-        "atBats": 135,
-        "runs": 27,
-        "hits": 44,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "battingAverage": 0.331,
+        "onBasePercentage": 0.437,
+        "sluggingPercentage": 0.417,
+        "ops": 0.854,
+        "atBats": 139,
+        "runs": 28,
+        "hits": 46,
         "doubles": 8,
         "triples": 2,
         "homeRuns": 0,
-        "runsBattedIn": 10,
-        "totalBases": 56,
+        "runsBattedIn": 13,
+        "totalBases": 58,
         "walks": 15,
-        "hitByPitch": 11,
-        "strikeouts": 34,
+        "hitByPitch": 12,
+        "strikeouts": 36,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 7,
         "stolenBases": 18,
         "stolenBasesAttempts": 27,
-        "putouts": 98,
+        "putouts": 99,
         "assists": 2,
         "errors": 1,
-        "plateAppearances": 205,
+        "plateAppearances": 210,
         "caughtStealing": 9,
         "pickedOff": 3
       },
@@ -1795,9 +1795,9 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "13",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/jeric-curtis/10502",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Curtis_JR7vW.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "putouts": 98,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "putouts": 99,
         "assists": 2,
         "errors": 1,
         "fieldingPercentage": 0.99,
@@ -1807,39 +1807,39 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 101
+        "totalChances": 102
       },
       "evaluation": {
-        "score": 55,
+        "score": 56,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 84.44444444444443,
-          "Power": 24.999999999999996,
-          "Contact": 66.25000000000001,
-          "Discipline": 26.797385620915026,
+          "On-base": 87.22222222222221,
+          "Power": 25.52631578947368,
+          "Contact": 69.37500000000001,
+          "Discipline": 24.07407407407407,
           "Speed": 60
         },
         "summary": "Jeric Curtis profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .326",
-          "OBP .432",
-          "SLG .415"
+          "AVG .331",
+          "OBP .437",
+          "SLG .417"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".326"
+            "value": ".331"
           },
           {
             "label": "OBP",
-            "value": ".432"
+            "value": ".437"
           },
           {
             "label": "SLG",
-            "value": ".415"
+            "value": ".417"
           },
           {
             "label": "HR",
@@ -1847,7 +1847,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
           },
           {
             "label": "RBI",
-            "value": "10"
+            "value": "13"
           },
           {
             "label": "SB",
@@ -1902,33 +1902,33 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "14",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/cade-corcoran/10501",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Corcoran_Cade_Ycejj.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "battingAverage": 0.278,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "battingAverage": 0.284,
         "onBasePercentage": 0.397,
-        "sluggingPercentage": 0.431,
-        "ops": 0.828,
-        "atBats": 144,
+        "sluggingPercentage": 0.439,
+        "ops": 0.836,
+        "atBats": 148,
         "runs": 27,
-        "hits": 40,
-        "doubles": 7,
+        "hits": 42,
+        "doubles": 8,
         "triples": 0,
         "homeRuns": 5,
-        "runsBattedIn": 20,
-        "totalBases": 62,
+        "runsBattedIn": 22,
+        "totalBases": 65,
         "walks": 25,
         "hitByPitch": 4,
         "strikeouts": 45,
         "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 1,
+        "groundedIntoDoublePlay": 4,
+        "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
-        "putouts": 286,
+        "putouts": 291,
         "assists": 16,
         "errors": 2,
-        "plateAppearances": 180,
+        "plateAppearances": 185,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -1940,43 +1940,43 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "14",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/cade-corcoran/10501",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Corcoran_Cade_Ycejj.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "putouts": 286,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "putouts": 291,
         "assists": 16,
         "errors": 2,
-        "fieldingPercentage": 0.993,
-        "doublePlays": 17,
+        "fieldingPercentage": 0.994,
+        "doublePlays": 18,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 304
+        "totalChances": 309
       },
       "evaluation": {
-        "score": 42,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
           "On-base": 65,
-          "Power": 29.210526315789476,
-          "Contact": 36.250000000000014,
+          "Power": 31.315789473684212,
+          "Contact": 39.99999999999998,
           "Discipline": 39.50617283950617,
           "Speed": 13.333333333333334
         },
         "summary": "Cade Corcoran gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .278",
+          "AVG .284",
           "OBP .397",
-          "SLG .431"
+          "SLG .439"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".278"
+            "value": ".284"
           },
           {
             "label": "OBP",
@@ -1984,7 +1984,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
           },
           {
             "label": "SLG",
-            "value": ".431"
+            "value": ".439"
           },
           {
             "label": "HR",
@@ -1992,7 +1992,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -2047,22 +2047,22 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "15",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/kirby-orth/10504",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Orth_DFtMJ.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 5,
-        "battingAverage": 0.182,
-        "onBasePercentage": 0.308,
-        "sluggingPercentage": 0.273,
-        "ops": 0.581,
-        "atBats": 22,
-        "runs": 3,
-        "hits": 4,
+        "gamesPlayed": 16,
+        "gamesStarted": 6,
+        "battingAverage": 0.2,
+        "onBasePercentage": 0.333,
+        "sluggingPercentage": 0.28,
+        "ops": 0.613,
+        "atBats": 25,
+        "runs": 5,
+        "hits": 5,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 2,
-        "totalBases": 6,
+        "totalBases": 7,
         "walks": 3,
-        "hitByPitch": 1,
+        "hitByPitch": 2,
         "strikeouts": 11,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
@@ -2070,10 +2070,10 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "sacrificeHits": 0,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 20,
+        "putouts": 24,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 28,
+        "plateAppearances": 32,
         "caughtStealing": 0,
         "pickedOff": 2
       },
@@ -2085,19 +2085,19 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "15",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/kirby-orth/10504",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Orth_DFtMJ.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 5,
-        "putouts": 20,
+        "gamesPlayed": 8,
+        "gamesStarted": 6,
+        "putouts": 24,
         "assists": 0,
         "errors": 1,
-        "fieldingPercentage": 0.952,
+        "fieldingPercentage": 0.96,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 21
+        "totalChances": 25
       },
       "evaluation": {
         "score": 0,
@@ -2334,13 +2334,13 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "19",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/sean-bazmore/10500",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Bazmore_Sean_PA0Nt.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 24,
-        "battingAverage": 0.241,
-        "onBasePercentage": 0.367,
-        "sluggingPercentage": 0.304,
-        "ops": 0.671,
-        "atBats": 79,
+        "gamesPlayed": 29,
+        "gamesStarted": 25,
+        "battingAverage": 0.235,
+        "onBasePercentage": 0.373,
+        "sluggingPercentage": 0.296,
+        "ops": 0.669,
+        "atBats": 81,
         "runs": 12,
         "hits": 19,
         "doubles": 5,
@@ -2348,19 +2348,19 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "homeRuns": 0,
         "runsBattedIn": 8,
         "totalBases": 24,
-        "walks": 12,
+        "walks": 14,
         "hitByPitch": 5,
         "strikeouts": 21,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
-        "stolenBases": 4,
-        "stolenBasesAttempts": 6,
-        "putouts": 38,
+        "stolenBases": 5,
+        "stolenBasesAttempts": 7,
+        "putouts": 41,
         "assists": 2,
         "errors": 3,
-        "plateAppearances": 106,
+        "plateAppearances": 111,
         "caughtStealing": 2,
         "pickedOff": 2
       },
@@ -2405,51 +2405,51 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "19",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/sean-bazmore/10500",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Bazmore_Sean_PA0Nt.jpg",
-        "gamesPlayed": 18,
-        "gamesStarted": 18,
-        "putouts": 38,
+        "gamesPlayed": 19,
+        "gamesStarted": 19,
+        "putouts": 41,
         "assists": 2,
         "errors": 3,
-        "fieldingPercentage": 0.93,
+        "fieldingPercentage": 0.935,
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 43
+        "totalChances": 46
       },
       "evaluation": {
-        "score": 25,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 48.333333333333314,
+          "On-base": 51.66666666666665,
           "Power": 0,
-          "Contact": 13.124999999999995,
-          "Discipline": 41.26984126984126,
-          "Speed": 13.333333333333334
+          "Contact": 9.374999999999991,
+          "Discipline": 51.85185185185184,
+          "Speed": 16.666666666666664
         },
         "summary": "Sean Bazmore gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .241",
-          "OBP .367",
-          "SLG .304"
+          "AVG .235",
+          "OBP .373",
+          "SLG .296"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".241"
+            "value": ".235"
           },
           {
             "label": "OBP",
-            "value": ".367"
+            "value": ".373"
           },
           {
             "label": "SLG",
-            "value": ".304"
+            "value": ".296"
           },
           {
             "label": "HR",
@@ -2461,7 +2461,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "metaLine": "JR / R/R",
@@ -2796,23 +2796,23 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "25",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/nathan-fink/10503",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Fink_Nathan_a18Y2.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 25,
+        "gamesPlayed": 28,
+        "gamesStarted": 26,
         "battingAverage": 0.253,
-        "onBasePercentage": 0.371,
-        "sluggingPercentage": 0.46,
-        "ops": 0.831,
-        "atBats": 87,
+        "onBasePercentage": 0.367,
+        "sluggingPercentage": 0.451,
+        "ops": 0.818,
+        "atBats": 91,
         "runs": 14,
-        "hits": 22,
+        "hits": 23,
         "doubles": 4,
         "triples": 1,
         "homeRuns": 4,
         "runsBattedIn": 16,
-        "totalBases": 40,
+        "totalBases": 41,
         "walks": 14,
         "hitByPitch": 3,
-        "strikeouts": 34,
+        "strikeouts": 36,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
@@ -2822,7 +2822,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "putouts": 20,
         "assists": 1,
         "errors": 0,
-        "plateAppearances": 108,
+        "plateAppearances": 112,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2849,23 +2849,23 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "totalChances": 21
       },
       "evaluation": {
-        "score": 34,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 50.55555555555554,
-          "Power": 36.842105263157904,
+          "On-base": 48.333333333333314,
+          "Power": 34.47368421052632,
           "Contact": 20.625,
-          "Discipline": 23.529411764705877,
+          "Discipline": 20.98765432098765,
           "Speed": 10
         },
         "summary": "Nathan Fink gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .253",
-          "OBP .371",
-          "SLG .460"
+          "OBP .367",
+          "SLG .451"
         ],
         "statCards": [
           {
@@ -2874,11 +2874,11 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": ".367"
           },
           {
             "label": "SLG",
-            "value": ".460"
+            "value": ".451"
           },
           {
             "label": "HR",
@@ -3226,32 +3226,32 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "29",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/jonathan-anders/10489",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Anders_Jonathan_Fg3Eh.jpg",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 0,
-        "appearances": 14,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 1.78,
+        "earnedRunAverage": 2.05,
         "whip": 1.18,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 25.333333333333332,
-        "inningsPitchedDisplay": "25.1",
-        "hitsAllowed": 14,
-        "runsAllowed": 5,
-        "earnedRunsAllowed": 5,
+        "inningsPitched": 26.333333333333332,
+        "inningsPitchedDisplay": "26.1",
+        "hitsAllowed": 15,
+        "runsAllowed": 6,
+        "earnedRunsAllowed": 6,
         "walksAllowed": 16,
         "strikeouts": 19,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 84,
+        "opponentsAtBats": 88,
         "wildPitches": 1,
         "hitBatters": 2,
         "balks": 1,
-        "opponentsBattingAverage": 0.167,
-        "walksHits": 30
+        "opponentsBattingAverage": 0.17,
+        "walksHits": 31
       },
       "fieldingStats": {
         "rosterBioId": "10489",
@@ -3275,7 +3275,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "totalChances": 7
       },
       "evaluation": {
-        "score": 6,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3283,20 +3283,20 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 25,
+          "Miss bats": 22.669735327963174,
           "Command": 3.75,
           "Damage suppression": 0
         },
         "summary": "Jonathan Anders looks like a LHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.78",
+          "ERA 2.05",
           "WHIP 1.18",
-          "K/9 6.8"
+          "K/9 6.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.78"
+            "value": "2.05"
           },
           {
             "label": "WHIP",
@@ -3304,19 +3304,19 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
           },
           {
             "label": "K/9",
-            "value": "6.8"
+            "value": "6.5"
           },
           {
             "label": "BB/9",
-            "value": "5.7"
+            "value": "5.5"
           },
           {
             "label": "HR/9",
-            "value": "0.36"
+            "value": "0.34"
           },
           {
             "label": "IP",
-            "value": "25.3"
+            "value": "26.3"
           }
         ],
         "metaLine": "JR / L/L",
@@ -3368,36 +3368,36 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "30",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/zach-alarid/10487",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Alarid_Zach_DMWvg.jpg",
-        "gamesPlayed": 6,
+        "gamesPlayed": 7,
         "gamesStarted": 1,
-        "appearances": 6,
+        "appearances": 7,
         "gamesCompleted": 0,
-        "earnedRunAverage": 11.7,
-        "whip": 1.8,
+        "earnedRunAverage": 11.45,
+        "whip": 1.82,
         "wins": 0,
         "losses": 2,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 10,
-        "inningsPitchedDisplay": "10.0",
-        "hitsAllowed": 13,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 13,
+        "inningsPitched": 11,
+        "inningsPitchedDisplay": "11.0",
+        "hitsAllowed": 15,
+        "runsAllowed": 14,
+        "earnedRunsAllowed": 14,
         "walksAllowed": 5,
         "strikeouts": 8,
-        "doublesAllowed": 2,
+        "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 43,
+        "opponentsAtBats": 47,
         "wildPitches": 2,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.302,
-        "walksHits": 18
+        "opponentsBattingAverage": 0.319,
+        "walksHits": 20
       },
       "fieldingStats": null,
       "evaluation": {
-        "score": 8,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3405,40 +3405,40 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 29.090909090909093,
+          "Miss bats": 23.1404958677686,
           "Command": 12.000000000000002,
           "Damage suppression": 0
         },
         "summary": "Zach Alarid gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 11.70",
-          "WHIP 1.80",
-          "K/9 7.2"
+          "ERA 11.45",
+          "WHIP 1.82",
+          "K/9 6.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "11.70"
+            "value": "11.45"
           },
           {
             "label": "WHIP",
-            "value": "1.80"
+            "value": "1.82"
           },
           {
             "label": "K/9",
-            "value": "7.2"
+            "value": "6.5"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "4.1"
           },
           {
             "label": "HR/9",
-            "value": "2.70"
+            "value": "2.45"
           },
           {
             "label": "IP",
-            "value": "10.0"
+            "value": "11.0"
           }
         ],
         "metaLine": "FR / R/R",
@@ -4430,32 +4430,32 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "40",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/mason-murphy/10494",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Murphy_wbJBQ.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 1,
-        "appearances": 10,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 8.31,
-        "whip": 2.23,
-        "wins": 0,
+        "earnedRunAverage": 8.36,
+        "whip": 2.14,
+        "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 13,
-        "inningsPitchedDisplay": "13.0",
-        "hitsAllowed": 15,
-        "runsAllowed": 16,
-        "earnedRunsAllowed": 12,
+        "inningsPitched": 14,
+        "inningsPitchedDisplay": "14.0",
+        "hitsAllowed": 16,
+        "runsAllowed": 17,
+        "earnedRunsAllowed": 13,
         "walksAllowed": 14,
-        "strikeouts": 14,
+        "strikeouts": 15,
         "doublesAllowed": 3,
         "triplesAllowed": 1,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 54,
-        "wildPitches": 0,
-        "hitBatters": 5,
+        "opponentsAtBats": 58,
+        "wildPitches": 2,
+        "hitBatters": 7,
         "balks": 0,
-        "opponentsBattingAverage": 0.278,
-        "walksHits": 29
+        "opponentsBattingAverage": 0.276,
+        "walksHits": 30
       },
       "fieldingStats": {
         "rosterBioId": "10494",
@@ -4487,40 +4487,40 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.74825174825174,
-          "Command": 0,
+          "Miss bats": 51.298701298701296,
+          "Command": 1.428571428571428,
           "Damage suppression": 0
         },
         "summary": "Mason Murphy looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 8.31",
-          "WHIP 2.23",
-          "K/9 9.7"
+          "ERA 8.36",
+          "WHIP 2.14",
+          "K/9 9.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.31"
+            "value": "8.36"
           },
           {
             "label": "WHIP",
-            "value": "2.23"
+            "value": "2.14"
           },
           {
             "label": "K/9",
-            "value": "9.7"
+            "value": "9.6"
           },
           {
             "label": "BB/9",
-            "value": "9.7"
+            "value": "9.0"
           },
           {
             "label": "HR/9",
-            "value": "1.38"
+            "value": "1.29"
           },
           {
             "label": "IP",
-            "value": "13.0"
+            "value": "14.0"
           }
         ],
         "metaLine": "FR / R/R",
@@ -4572,32 +4572,32 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "41",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/gabe-winans/10497",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Winans_Gabe_GbLHJ.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 2,
-        "appearances": 11,
+        "gamesPlayed": 12,
+        "gamesStarted": 3,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.75,
-        "whip": 1.72,
+        "earnedRunAverage": 5.79,
+        "whip": 1.63,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 20.333333333333332,
-        "inningsPitchedDisplay": "20.1",
-        "hitsAllowed": 22,
-        "runsAllowed": 14,
-        "earnedRunsAllowed": 13,
-        "walksAllowed": 13,
-        "strikeouts": 25,
+        "inningsPitched": 23.333333333333332,
+        "inningsPitchedDisplay": "23.1",
+        "hitsAllowed": 24,
+        "runsAllowed": 16,
+        "earnedRunsAllowed": 15,
+        "walksAllowed": 14,
+        "strikeouts": 29,
         "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 8,
-        "opponentsAtBats": 80,
+        "opponentsAtBats": 90,
         "wildPitches": 2,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.275,
-        "walksHits": 35
+        "opponentsBattingAverage": 0.267,
+        "walksHits": 38
       },
       "fieldingStats": {
         "rosterBioId": "10497",
@@ -4606,16 +4606,16 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "41",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/gabe-winans/10497",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Winans_Gabe_GbLHJ.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 2,
+        "gamesPlayed": 6,
+        "gamesStarted": 3,
         "putouts": 0,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 4,
+        "stolenBasesAgainst": 5,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": 0.714,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4629,40 +4629,40 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 64.23248882265277,
-          "Command": 18.461538461538463,
+          "Miss bats": 65.32467532467533,
+          "Command": 21.428571428571434,
           "Damage suppression": 0
         },
         "summary": "Gabe Winans looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.75",
-          "WHIP 1.72",
-          "K/9 11.1"
+          "ERA 5.79",
+          "WHIP 1.63",
+          "K/9 11.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.75"
+            "value": "5.79"
           },
           {
             "label": "WHIP",
-            "value": "1.72"
+            "value": "1.63"
           },
           {
             "label": "K/9",
-            "value": "11.1"
+            "value": "11.2"
           },
           {
             "label": "BB/9",
-            "value": "5.8"
+            "value": "5.4"
           },
           {
             "label": "HR/9",
-            "value": "3.54"
+            "value": "3.09"
           },
           {
             "label": "IP",
-            "value": "20.3"
+            "value": "23.3"
           }
         ],
         "metaLine": "FR / R/R",
@@ -4714,32 +4714,32 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "42",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/zak-johnson/10322",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Johnson_Zak_zIZoq.jpg",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 0,
-        "appearances": 19,
+        "appearances": 20,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.65,
-        "whip": 1.34,
+        "earnedRunAverage": 3.51,
+        "whip": 1.32,
         "wins": 2,
         "losses": 2,
-        "saves": 4,
+        "saves": 5,
         "shutouts": 0,
-        "inningsPitched": 24.666666666666668,
-        "inningsPitchedDisplay": "24.2",
-        "hitsAllowed": 25,
+        "inningsPitched": 25.666666666666668,
+        "inningsPitchedDisplay": "25.2",
+        "hitsAllowed": 26,
         "runsAllowed": 13,
         "earnedRunsAllowed": 10,
         "walksAllowed": 8,
-        "strikeouts": 25,
-        "doublesAllowed": 2,
+        "strikeouts": 27,
+        "doublesAllowed": 3,
         "triplesAllowed": 1,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 93,
+        "opponentsAtBats": 97,
         "wildPitches": 5,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.269,
-        "walksHits": 33
+        "opponentsBattingAverage": 0.268,
+        "walksHits": 34
       },
       "fieldingStats": {
         "rosterBioId": "10322",
@@ -4763,7 +4763,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "totalChances": 6
       },
       "evaluation": {
-        "score": 16,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4771,40 +4771,40 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 46.56019656019655,
-          "Command": 42.5,
+          "Miss bats": 49.70484061393151,
+          "Command": 47.49999999999999,
           "Damage suppression": 0
         },
         "summary": "Zak Johnson looks like a RHP option who limits runs and misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.65",
-          "WHIP 1.34",
-          "K/9 9.1"
+          "ERA 3.51",
+          "WHIP 1.32",
+          "K/9 9.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.65"
+            "value": "3.51"
           },
           {
             "label": "WHIP",
-            "value": "1.34"
+            "value": "1.32"
           },
           {
             "label": "K/9",
-            "value": "9.1"
+            "value": "9.5"
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "2.8"
           },
           {
             "label": "HR/9",
-            "value": "1.09"
+            "value": "1.05"
           },
           {
             "label": "IP",
-            "value": "24.7"
+            "value": "25.7"
           }
         ],
         "metaLine": "SR / R/R",
@@ -4856,32 +4856,32 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "jersey": "47",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/connor-mondey/10327",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Mondey_Connor_S3xyA.jpg",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 1,
-        "appearances": 7,
+        "appearances": 8,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.65,
-        "whip": 1.4,
+        "earnedRunAverage": 4.96,
+        "whip": 1.35,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 14.333333333333334,
-        "inningsPitchedDisplay": "14.1",
-        "hitsAllowed": 12,
+        "inningsPitched": 16.333333333333332,
+        "inningsPitchedDisplay": "16.1",
+        "hitsAllowed": 13,
         "runsAllowed": 10,
         "earnedRunsAllowed": 9,
-        "walksAllowed": 8,
-        "strikeouts": 11,
+        "walksAllowed": 9,
+        "strikeouts": 14,
         "doublesAllowed": 2,
         "triplesAllowed": 1,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 52,
+        "opponentsAtBats": 58,
         "wildPitches": 3,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.231,
-        "walksHits": 20
+        "opponentsBattingAverage": 0.224,
+        "walksHits": 22
       },
       "fieldingStats": {
         "rosterBioId": "10327",
@@ -4905,7 +4905,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "totalChances": 5
       },
       "evaluation": {
-        "score": 6,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4913,28 +4913,28 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 26.42706131078224,
-          "Command": 7.5,
+          "Miss bats": 33.76623376623377,
+          "Command": 11.111111111111107,
           "Damage suppression": 0
         },
         "summary": "Connor Mondey gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.65",
-          "WHIP 1.40",
-          "K/9 6.9"
+          "ERA 4.96",
+          "WHIP 1.35",
+          "K/9 7.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.65"
+            "value": "4.96"
           },
           {
             "label": "WHIP",
-            "value": "1.40"
+            "value": "1.35"
           },
           {
             "label": "K/9",
-            "value": "6.9"
+            "value": "7.7"
           },
           {
             "label": "BB/9",
@@ -4942,11 +4942,11 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
           },
           {
             "label": "HR/9",
-            "value": "2.51"
+            "value": "2.20"
           },
           {
             "label": "IP",
-            "value": "14.3"
+            "value": "16.3"
           }
         ],
         "metaLine": "SO / R/R",
@@ -5322,37 +5322,37 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "position": "IF",
         "classYear": "R-JR",
         "handedness": "L/R",
-        "score": 53,
+        "score": 57,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Ryan Franden gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .312",
-          "OBP .385",
-          "SLG .514"
+          "AVG .313",
+          "OBP .394",
+          "SLG .536"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".312"
+            "value": ".313"
           },
           {
             "label": "OBP",
-            "value": ".385"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".514"
+            "value": ".536"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "25"
+            "value": "26"
           },
           {
             "label": "SB",
@@ -5360,10 +5360,10 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
           }
         ],
         "components": {
-          "On-base": 58.33333333333333,
-          "Power": 51.05263157894737,
-          "Contact": 57.49999999999999,
-          "Discipline": 70.37037037037037,
+          "On-base": 63.33333333333333,
+          "Power": 56.842105263157904,
+          "Contact": 58.12499999999999,
+          "Discipline": 80.34188034188034,
           "Speed": 6.666666666666667
         },
         "metaLine": "R-JR / L/R",
@@ -5391,29 +5391,29 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "position": "IF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 22,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jace Martinez profiles as a IF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .226",
-          "OBP .345",
-          "SLG .270"
+          "AVG .235",
+          "OBP .350",
+          "SLG .277"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".226"
+            "value": ".235"
           },
           {
             "label": "OBP",
-            "value": ".345"
+            "value": ".350"
           },
           {
             "label": "SLG",
-            "value": ".270"
+            "value": ".277"
           },
           {
             "label": "HR",
@@ -5425,15 +5425,15 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
           },
           {
             "label": "SB",
-            "value": "14"
+            "value": "15"
           }
         ],
         "components": {
-          "On-base": 36.111111111111086,
+          "On-base": 38.888888888888864,
           "Power": 0,
-          "Contact": 3.7500000000000036,
+          "Contact": 9.374999999999991,
           "Discipline": 36.11111111111111,
-          "Speed": 46.666666666666664
+          "Speed": 50
         },
         "metaLine": "JR / R/R",
         "detailBadges": [
@@ -5460,29 +5460,29 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "position": "IF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 25,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Hunter Alvord profiles as a IF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .220",
-          "OBP .343",
-          "SLG .380"
+          "AVG .214",
+          "OBP .335",
+          "SLG .370"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".220"
+            "value": ".214"
           },
           {
             "label": "OBP",
-            "value": ".343"
+            "value": ".335"
           },
           {
             "label": "SLG",
-            "value": ".380"
+            "value": ".370"
           },
           {
             "label": "HR",
@@ -5498,10 +5498,10 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
           }
         ],
         "components": {
-          "On-base": 35,
-          "Power": 15.789473684210527,
+          "On-base": 30.555555555555554,
+          "Power": 13.157894736842104,
           "Contact": 0,
-          "Discipline": 32.285115303983225,
+          "Discipline": 30.303030303030297,
           "Speed": 50
         },
         "metaLine": "JR / R/R",
@@ -5667,29 +5667,29 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "position": "C",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 5,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ty Marthiljohni gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .185",
-          "OBP .290",
-          "SLG .259"
+          "AVG .207",
+          "OBP .303",
+          "SLG .276"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".185"
+            "value": ".207"
           },
           {
             "label": "OBP",
-            "value": ".290"
+            "value": ".303"
           },
           {
             "label": "SLG",
-            "value": ".259"
+            "value": ".276"
           },
           {
             "label": "HR",
@@ -5705,10 +5705,10 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
           }
         ],
         "components": {
-          "On-base": 5.55555555555553,
+          "On-base": 12.77777777777776,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 23.529411764705877,
+          "Discipline": 20.98765432098765,
           "Speed": 0
         },
         "metaLine": "SR / R/R",
@@ -5736,29 +5736,29 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 55,
+        "score": 56,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Jeric Curtis profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .326",
-          "OBP .432",
-          "SLG .415"
+          "AVG .331",
+          "OBP .437",
+          "SLG .417"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".326"
+            "value": ".331"
           },
           {
             "label": "OBP",
-            "value": ".432"
+            "value": ".437"
           },
           {
             "label": "SLG",
-            "value": ".415"
+            "value": ".417"
           },
           {
             "label": "HR",
@@ -5766,7 +5766,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
           },
           {
             "label": "RBI",
-            "value": "10"
+            "value": "13"
           },
           {
             "label": "SB",
@@ -5774,10 +5774,10 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
           }
         ],
         "components": {
-          "On-base": 84.44444444444443,
-          "Power": 24.999999999999996,
-          "Contact": 66.25000000000001,
-          "Discipline": 26.797385620915026,
+          "On-base": 87.22222222222221,
+          "Power": 25.52631578947368,
+          "Contact": 69.37500000000001,
+          "Discipline": 24.07407407407407,
           "Speed": 60
         },
         "metaLine": "SR / R/R",
@@ -5805,21 +5805,21 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "position": "IF",
         "classYear": "FR",
         "handedness": "L/R",
-        "score": 42,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cade Corcoran gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .278",
+          "AVG .284",
           "OBP .397",
-          "SLG .431"
+          "SLG .439"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".278"
+            "value": ".284"
           },
           {
             "label": "OBP",
@@ -5827,7 +5827,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
           },
           {
             "label": "SLG",
-            "value": ".431"
+            "value": ".439"
           },
           {
             "label": "HR",
@@ -5835,7 +5835,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -5844,8 +5844,8 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         ],
         "components": {
           "On-base": 65,
-          "Power": 29.210526315789476,
-          "Contact": 36.250000000000014,
+          "Power": 31.315789473684212,
+          "Contact": 39.99999999999998,
           "Discipline": 39.50617283950617,
           "Speed": 13.333333333333334
         },
@@ -6012,29 +6012,29 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "position": "IF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 25,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Sean Bazmore gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .241",
-          "OBP .367",
-          "SLG .304"
+          "AVG .235",
+          "OBP .373",
+          "SLG .296"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".241"
+            "value": ".235"
           },
           {
             "label": "OBP",
-            "value": ".367"
+            "value": ".373"
           },
           {
             "label": "SLG",
-            "value": ".304"
+            "value": ".296"
           },
           {
             "label": "HR",
@@ -6046,15 +6046,15 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "components": {
-          "On-base": 48.333333333333314,
+          "On-base": 51.66666666666665,
           "Power": 0,
-          "Contact": 13.124999999999995,
-          "Discipline": 41.26984126984126,
-          "Speed": 13.333333333333334
+          "Contact": 9.374999999999991,
+          "Discipline": 51.85185185185184,
+          "Speed": 16.666666666666664
         },
         "metaLine": "JR / R/R",
         "detailBadges": [
@@ -6219,7 +6219,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "position": "OF",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 34,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -6227,8 +6227,8 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "summary": "Nathan Fink gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .253",
-          "OBP .371",
-          "SLG .460"
+          "OBP .367",
+          "SLG .451"
         ],
         "statCards": [
           {
@@ -6237,11 +6237,11 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": ".367"
           },
           {
             "label": "SLG",
-            "value": ".460"
+            "value": ".451"
           },
           {
             "label": "HR",
@@ -6257,10 +6257,10 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
           }
         ],
         "components": {
-          "On-base": 50.55555555555554,
-          "Power": 36.842105263157904,
+          "On-base": 48.333333333333314,
+          "Power": 34.47368421052632,
           "Contact": 20.625,
-          "Discipline": 23.529411764705877,
+          "Discipline": 20.98765432098765,
           "Speed": 10
         },
         "metaLine": "R-JR / R/R",
@@ -6426,21 +6426,21 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "position": "LHP",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 6,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jonathan Anders looks like a LHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.78",
+          "ERA 2.05",
           "WHIP 1.18",
-          "K/9 6.8"
+          "K/9 6.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.78"
+            "value": "2.05"
           },
           {
             "label": "WHIP",
@@ -6448,25 +6448,25 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
           },
           {
             "label": "K/9",
-            "value": "6.8"
+            "value": "6.5"
           },
           {
             "label": "BB/9",
-            "value": "5.7"
+            "value": "5.5"
           },
           {
             "label": "HR/9",
-            "value": "0.36"
+            "value": "0.34"
           },
           {
             "label": "IP",
-            "value": "25.3"
+            "value": "26.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 25,
+          "Miss bats": 22.669735327963174,
           "Command": 3.75,
           "Damage suppression": 0
         },
@@ -6495,47 +6495,47 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 8,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Zach Alarid gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 11.70",
-          "WHIP 1.80",
-          "K/9 7.2"
+          "ERA 11.45",
+          "WHIP 1.82",
+          "K/9 6.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "11.70"
+            "value": "11.45"
           },
           {
             "label": "WHIP",
-            "value": "1.80"
+            "value": "1.82"
           },
           {
             "label": "K/9",
-            "value": "7.2"
+            "value": "6.5"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "4.1"
           },
           {
             "label": "HR/9",
-            "value": "2.70"
+            "value": "2.45"
           },
           {
             "label": "IP",
-            "value": "10.0"
+            "value": "11.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 29.090909090909093,
+          "Miss bats": 23.1404958677686,
           "Command": 12.000000000000002,
           "Damage suppression": 0
         },
@@ -7053,41 +7053,41 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         },
         "summary": "Mason Murphy looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 8.31",
-          "WHIP 2.23",
-          "K/9 9.7"
+          "ERA 8.36",
+          "WHIP 2.14",
+          "K/9 9.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.31"
+            "value": "8.36"
           },
           {
             "label": "WHIP",
-            "value": "2.23"
+            "value": "2.14"
           },
           {
             "label": "K/9",
-            "value": "9.7"
+            "value": "9.6"
           },
           {
             "label": "BB/9",
-            "value": "9.7"
+            "value": "9.0"
           },
           {
             "label": "HR/9",
-            "value": "1.38"
+            "value": "1.29"
           },
           {
             "label": "IP",
-            "value": "13.0"
+            "value": "14.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.74825174825174,
-          "Command": 0,
+          "Miss bats": 51.298701298701296,
+          "Command": 1.428571428571428,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -7122,41 +7122,41 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         },
         "summary": "Gabe Winans looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.75",
-          "WHIP 1.72",
-          "K/9 11.1"
+          "ERA 5.79",
+          "WHIP 1.63",
+          "K/9 11.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.75"
+            "value": "5.79"
           },
           {
             "label": "WHIP",
-            "value": "1.72"
+            "value": "1.63"
           },
           {
             "label": "K/9",
-            "value": "11.1"
+            "value": "11.2"
           },
           {
             "label": "BB/9",
-            "value": "5.8"
+            "value": "5.4"
           },
           {
             "label": "HR/9",
-            "value": "3.54"
+            "value": "3.09"
           },
           {
             "label": "IP",
-            "value": "20.3"
+            "value": "23.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 64.23248882265277,
-          "Command": 18.461538461538463,
+          "Miss bats": 65.32467532467533,
+          "Command": 21.428571428571434,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -7184,48 +7184,48 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 16,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Zak Johnson looks like a RHP option who limits runs and misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.65",
-          "WHIP 1.34",
-          "K/9 9.1"
+          "ERA 3.51",
+          "WHIP 1.32",
+          "K/9 9.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.65"
+            "value": "3.51"
           },
           {
             "label": "WHIP",
-            "value": "1.34"
+            "value": "1.32"
           },
           {
             "label": "K/9",
-            "value": "9.1"
+            "value": "9.5"
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "2.8"
           },
           {
             "label": "HR/9",
-            "value": "1.09"
+            "value": "1.05"
           },
           {
             "label": "IP",
-            "value": "24.7"
+            "value": "25.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 46.56019656019655,
-          "Command": 42.5,
+          "Miss bats": 49.70484061393151,
+          "Command": 47.49999999999999,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -7253,29 +7253,29 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 6,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Connor Mondey gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.65",
-          "WHIP 1.40",
-          "K/9 6.9"
+          "ERA 4.96",
+          "WHIP 1.35",
+          "K/9 7.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.65"
+            "value": "4.96"
           },
           {
             "label": "WHIP",
-            "value": "1.40"
+            "value": "1.35"
           },
           {
             "label": "K/9",
-            "value": "6.9"
+            "value": "7.7"
           },
           {
             "label": "BB/9",
@@ -7283,18 +7283,18 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
           },
           {
             "label": "HR/9",
-            "value": "2.51"
+            "value": "2.20"
           },
           {
             "label": "IP",
-            "value": "14.3"
+            "value": "16.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 26.42706131078224,
-          "Command": 7.5,
+          "Miss bats": 33.76623376623377,
+          "Command": 11.111111111111107,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",

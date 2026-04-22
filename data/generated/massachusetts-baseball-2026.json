@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T11:33:34.675Z",
+  "generatedAt": "2026-04-22T11:22:05.991Z",
   "season": 2026,
   "school": {
     "slug": "massachusetts",
@@ -38,84 +38,84 @@
     }
   },
   "teamSummary": {
-    "record": "12-19, 8-13",
-    "battingAverage": ".258",
-    "earnedRunAverage": "7.55",
+    "record": "12-20, 8-13",
+    "battingAverage": ".255",
+    "earnedRunAverage": "7.50",
     "wins": "12",
-    "losses": "19",
+    "losses": "20",
     "hitting": {
-      "atBats": "1050",
-      "runsScored": "177",
-      "hits": "271",
-      "runsBattedIn": "163",
+      "atBats": "1083",
+      "runsScored": "181",
+      "hits": "276",
+      "runsBattedIn": "167",
       "doubles": "43",
       "triples": "6",
-      "homeRuns": "30",
-      "walks": "141",
-      "intentionalWalks": "2",
-      "strikeouts": "276",
-      "strikeoutsLooking": "81",
-      "hitByPitch": "43",
-      "stolenBases": "59",
+      "homeRuns": "31",
+      "walks": "146",
+      "intentionalWalks": "3",
+      "strikeouts": "285",
+      "strikeoutsLooking": "83",
+      "hitByPitch": "45",
+      "stolenBases": "65",
       "caughtStealing": "13",
-      "sacrificeHits": "11",
-      "sacrificeFlies": "10",
+      "sacrificeHits": "12",
+      "sacrificeFlies": "11",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "210",
-      "flyOuts": "284",
+      "groundOuts": "216",
+      "flyOuts": "295",
       "groundedIntoDoublePlay": "11",
       "pickedOff": "3",
       "doublePlaysHitInto": "15",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "796",
-      "assists": "224",
+      "putouts": "823",
+      "assists": "234",
       "errors": "34",
       "passedBalls": "5",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "93",
-      "caughtStealingBy": "17",
+      "stolenBasesAgainst": "96",
+      "caughtStealingBy": "18",
       "involvedInDoublePlays": "13",
       "involvedInTriplePlays": "0",
-      "totalChances": "1054",
-      "fieldingPercentage": ".968"
+      "totalChances": "1091",
+      "fieldingPercentage": ".969"
     },
     "pitching": {
       "orderOfAppearance": "3",
       "wins": "12",
-      "saves": "18",
-      "losses": "19",
+      "saves": "19",
+      "losses": "20",
       "gamesStarted": "1",
       "gamesCompleted": "0",
       "shutouts": "2",
       "creditForCombinedShutout": "1",
-      "inningsPitched": "265.2",
-      "hitsAllowed": "281",
-      "runsAllowed": "243",
-      "earnedRunsAllowed": "223",
-      "walksAllowed": "187",
-      "strikeouts": "247",
-      "battersFaced": "1307",
-      "opponentAtBats": "1022",
+      "inningsPitched": "274.2",
+      "hitsAllowed": "288",
+      "runsAllowed": "249",
+      "earnedRunsAllowed": "229",
+      "walksAllowed": "194",
+      "strikeouts": "253",
+      "battersFaced": "1348",
+      "opponentAtBats": "1054",
       "doublesAllowed": "52",
       "triplesAllowed": "10",
-      "homerunsAllowed": "20",
-      "wildPitches": "23",
-      "balks": "3",
-      "hitBatters": "58",
-      "strikeoutsLooking": "74",
+      "homerunsAllowed": "22",
+      "wildPitches": "24",
+      "balks": "4",
+      "hitBatters": "59",
+      "strikeoutsLooking": "77",
       "intentionalWalks": "0",
       "inheritedRunners": "29",
-      "inheritedRunnersThatScored": "15",
-      "sacrificeHitsAllowed": "19",
+      "inheritedRunnersThatScored": "16",
+      "sacrificeHitsAllowed": "20",
       "sacrificeFliesAllowed": "21",
       "catchersInterferenceAllowed": "0",
-      "pitches": "4502",
-      "flyouts": "299",
-      "groundouts": "205",
+      "pitches": "4676",
+      "flyouts": "310",
+      "groundouts": "213",
       "teamUnearnedRuns": "0",
       "saveRecord": "3",
       "pickoff": "3"
@@ -450,33 +450,33 @@
         "jersey": "3",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/ty-fox/17706",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Fox_Ty.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 29,
-        "battingAverage": 0.348,
-        "onBasePercentage": 0.452,
-        "sluggingPercentage": 0.518,
-        "ops": 0.97,
-        "atBats": 112,
-        "runs": 24,
-        "hits": 39,
+        "gamesPlayed": 32,
+        "gamesStarted": 30,
+        "battingAverage": 0.342,
+        "onBasePercentage": 0.443,
+        "sluggingPercentage": 0.504,
+        "ops": 0.947,
+        "atBats": 117,
+        "runs": 25,
+        "hits": 40,
         "doubles": 6,
         "triples": 2,
         "homeRuns": 3,
         "runsBattedIn": 25,
-        "totalBases": 58,
+        "totalBases": 59,
         "walks": 18,
         "hitByPitch": 4,
-        "strikeouts": 26,
+        "strikeouts": 28,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
         "sacrificeHits": 2,
-        "stolenBases": 13,
-        "stolenBasesAttempts": 15,
-        "putouts": 82,
+        "stolenBases": 15,
+        "stolenBasesAttempts": 17,
+        "putouts": 87,
         "assists": 1,
         "errors": 2,
-        "plateAppearances": 154,
+        "plateAppearances": 161,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -488,51 +488,51 @@
         "jersey": "3",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/ty-fox/17706",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Fox_Ty.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 26,
-        "putouts": 82,
+        "gamesPlayed": 27,
+        "gamesStarted": 27,
+        "putouts": 87,
         "assists": 1,
         "errors": 2,
-        "fieldingPercentage": 0.976,
+        "fieldingPercentage": 0.978,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 85
+        "totalChances": 90
       },
       "evaluation": {
-        "score": 71,
+        "score": 67,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 95.55555555555554,
-          "Power": 52.10526315789474,
-          "Contact": 79.99999999999999,
-          "Discipline": 54.700854700854684,
-          "Speed": 43.333333333333336
+          "On-base": 90.55555555555554,
+          "Power": 48.42105263157895,
+          "Contact": 76.25000000000001,
+          "Discipline": 49.2063492063492,
+          "Speed": 50
         },
         "summary": "Ty Fox profiles as a INF/OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .348",
-          "OBP .452",
-          "SLG .518"
+          "AVG .342",
+          "OBP .443",
+          "SLG .504"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".348"
+            "value": ".342"
           },
           {
             "label": "OBP",
-            "value": ".452"
+            "value": ".443"
           },
           {
             "label": "SLG",
-            "value": ".518"
+            "value": ".504"
           },
           {
             "label": "HR",
@@ -544,7 +544,7 @@
           },
           {
             "label": "SB",
-            "value": "13"
+            "value": "15"
           }
         ],
         "metaLine": "R-FR / L/R",
@@ -1004,33 +1004,33 @@
         "jersey": "7",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/anthony-tirado/17699",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Tirado_Anthony.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
-        "battingAverage": 0.319,
-        "onBasePercentage": 0.366,
-        "sluggingPercentage": 0.407,
-        "ops": 0.773,
-        "atBats": 135,
-        "runs": 24,
-        "hits": 43,
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "battingAverage": 0.317,
+        "onBasePercentage": 0.367,
+        "sluggingPercentage": 0.403,
+        "ops": 0.77,
+        "atBats": 139,
+        "runs": 25,
+        "hits": 44,
         "doubles": 7,
         "triples": 1,
         "homeRuns": 1,
         "runsBattedIn": 16,
-        "totalBases": 55,
-        "walks": 8,
+        "totalBases": 56,
+        "walks": 9,
         "hitByPitch": 2,
-        "strikeouts": 30,
+        "strikeouts": 31,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
-        "stolenBases": 17,
-        "stolenBasesAttempts": 20,
-        "putouts": 61,
-        "assists": 38,
+        "stolenBases": 18,
+        "stolenBasesAttempts": 21,
+        "putouts": 64,
+        "assists": 40,
         "errors": 3,
-        "plateAppearances": 169,
+        "plateAppearances": 175,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -1042,19 +1042,19 @@
         "jersey": "7",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/anthony-tirado/17699",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Tirado_Anthony.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 29,
-        "putouts": 61,
-        "assists": 38,
+        "gamesPlayed": 30,
+        "gamesStarted": 30,
+        "putouts": 64,
+        "assists": 40,
         "errors": 3,
-        "fieldingPercentage": 0.971,
+        "fieldingPercentage": 0.972,
         "doublePlays": 3,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 102
+        "totalChances": 107
       },
       "evaluation": {
         "score": 39,
@@ -1063,30 +1063,30 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 47.77777777777776,
-          "Power": 22.894736842105257,
-          "Contact": 61.875,
-          "Discipline": 7.407407407407404,
-          "Speed": 56.666666666666664
+          "On-base": 48.333333333333314,
+          "Power": 21.8421052631579,
+          "Contact": 60.62499999999999,
+          "Discipline": 10.035842293906809,
+          "Speed": 60
         },
         "summary": "Anthony Tirado profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .319",
-          "OBP .366",
-          "SLG .407"
+          "AVG .317",
+          "OBP .367",
+          "SLG .403"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".319"
+            "value": ".317"
           },
           {
             "label": "OBP",
-            "value": ".366"
+            "value": ".367"
           },
           {
             "label": "SLG",
-            "value": ".407"
+            "value": ".403"
           },
           {
             "label": "HR",
@@ -1098,7 +1098,7 @@
           },
           {
             "label": "SB",
-            "value": "17"
+            "value": "18"
           }
         ],
         "metaLine": "R-SO / L/R",
@@ -1149,13 +1149,13 @@
         "jersey": "8",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/reece-mccarthy/17687",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_McCarthy_Reece.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
-        "battingAverage": 0.257,
-        "onBasePercentage": 0.386,
-        "sluggingPercentage": 0.319,
-        "ops": 0.705,
-        "atBats": 113,
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "battingAverage": 0.248,
+        "onBasePercentage": 0.379,
+        "sluggingPercentage": 0.308,
+        "ops": 0.687,
+        "atBats": 117,
         "runs": 20,
         "hits": 29,
         "doubles": 1,
@@ -1163,19 +1163,19 @@
         "homeRuns": 2,
         "runsBattedIn": 19,
         "totalBases": 36,
-        "walks": 21,
+        "walks": 22,
         "hitByPitch": 4,
-        "strikeouts": 28,
+        "strikeouts": 29,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
         "sacrificeHits": 1,
-        "stolenBases": 6,
-        "stolenBasesAttempts": 6,
-        "putouts": 26,
-        "assists": 42,
+        "stolenBases": 8,
+        "stolenBasesAttempts": 8,
+        "putouts": 27,
+        "assists": 44,
         "errors": 8,
-        "plateAppearances": 147,
+        "plateAppearances": 154,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -1187,51 +1187,51 @@
         "jersey": "8",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/reece-mccarthy/17687",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_McCarthy_Reece.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 29,
-        "putouts": 26,
-        "assists": 42,
+        "gamesPlayed": 30,
+        "gamesStarted": 30,
+        "putouts": 27,
+        "assists": 44,
         "errors": 8,
-        "fieldingPercentage": 0.895,
+        "fieldingPercentage": 0.899,
         "doublePlays": 2,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 76
+        "totalChances": 79
       },
       "evaluation": {
-        "score": 34,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 58.88888888888888,
+          "On-base": 54.99999999999999,
           "Power": 0,
-          "Contact": 23.125000000000004,
-          "Discipline": 61.11111111111111,
-          "Speed": 20
+          "Contact": 17.5,
+          "Discipline": 62.06896551724137,
+          "Speed": 26.666666666666668
         },
-        "summary": "Reece McCarthy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Reece McCarthy profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .257",
-          "OBP .386",
-          "SLG .319"
+          "AVG .248",
+          "OBP .379",
+          "SLG .308"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".257"
+            "value": ".248"
           },
           {
             "label": "OBP",
-            "value": ".386"
+            "value": ".379"
           },
           {
             "label": "SLG",
-            "value": ".319"
+            "value": ".308"
           },
           {
             "label": "HR",
@@ -1243,7 +1243,7 @@
           },
           {
             "label": "SB",
-            "value": "6"
+            "value": "8"
           }
         ],
         "metaLine": "SO / L/R",
@@ -1294,13 +1294,13 @@
         "jersey": "9",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/ryan-kolben/17684",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Kolben_Ryan.jpg",
-        "gamesPlayed": 27,
+        "gamesPlayed": 28,
         "gamesStarted": 25,
-        "battingAverage": 0.19,
-        "onBasePercentage": 0.317,
-        "sluggingPercentage": 0.381,
-        "ops": 0.698,
-        "atBats": 84,
+        "battingAverage": 0.188,
+        "onBasePercentage": 0.314,
+        "sluggingPercentage": 0.376,
+        "ops": 0.69,
+        "atBats": 85,
         "runs": 8,
         "hits": 16,
         "doubles": 2,
@@ -1317,10 +1317,10 @@
         "sacrificeHits": 2,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 194,
-        "assists": 19,
+        "putouts": 196,
+        "assists": 20,
         "errors": 4,
-        "plateAppearances": 104,
+        "plateAppearances": 105,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1332,19 +1332,19 @@
         "jersey": "9",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/ryan-kolben/17684",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Kolben_Ryan.jpg",
-        "gamesPlayed": 23,
+        "gamesPlayed": 24,
         "gamesStarted": 23,
-        "putouts": 194,
-        "assists": 19,
+        "putouts": 196,
+        "assists": 20,
         "errors": 4,
         "fieldingPercentage": 0.982,
         "doublePlays": 0,
-        "stolenBasesAgainst": 66,
-        "caughtStealingBy": 12,
-        "stolenBasesPercentage": 0.846,
+        "stolenBasesAgainst": 67,
+        "caughtStealingBy": 13,
+        "stolenBasesPercentage": 0.838,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 217
+        "totalChances": 220
       },
       "evaluation": {
         "score": 14,
@@ -1353,30 +1353,30 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 20.555555555555543,
-          "Power": 16.05263157894737,
+          "On-base": 18.888888888888875,
+          "Power": 14.73684210526316,
           "Contact": 0,
           "Discipline": 23.754789272030646,
           "Speed": 3.3333333333333335
         },
         "summary": "Ryan Kolben gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .190",
-          "OBP .317",
-          "SLG .381"
+          "AVG .188",
+          "OBP .314",
+          "SLG .376"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".190"
+            "value": ".188"
           },
           {
             "label": "OBP",
-            "value": ".317"
+            "value": ".314"
           },
           {
             "label": "SLG",
-            "value": ".381"
+            "value": ".376"
           },
           {
             "label": "HR",
@@ -1581,14 +1581,14 @@
         "jersey": "11",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/jack-beverly/17679",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Beverly_Jack.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 26,
-        "battingAverage": 0.244,
-        "onBasePercentage": 0.343,
-        "sluggingPercentage": 0.289,
-        "ops": 0.632,
-        "atBats": 90,
-        "runs": 11,
+        "gamesPlayed": 28,
+        "gamesStarted": 27,
+        "battingAverage": 0.232,
+        "onBasePercentage": 0.327,
+        "sluggingPercentage": 0.274,
+        "ops": 0.601,
+        "atBats": 95,
+        "runs": 12,
         "hits": 22,
         "doubles": 4,
         "triples": 0,
@@ -1597,17 +1597,17 @@
         "totalBases": 26,
         "walks": 12,
         "hitByPitch": 2,
-        "strikeouts": 26,
+        "strikeouts": 27,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 180,
-        "assists": 6,
+        "putouts": 187,
+        "assists": 7,
         "errors": 0,
-        "plateAppearances": 106,
+        "plateAppearances": 111,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1619,10 +1619,10 @@
         "jersey": "11",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/jack-beverly/17679",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Beverly_Jack.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 26,
-        "putouts": 180,
-        "assists": 6,
+        "gamesPlayed": 28,
+        "gamesStarted": 27,
+        "putouts": 187,
+        "assists": 7,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 9,
@@ -1631,39 +1631,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 186
+        "totalChances": 194
       },
       "evaluation": {
-        "score": 18,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 35,
+          "On-base": 26.111111111111107,
           "Power": 0,
-          "Contact": 14.999999999999996,
-          "Discipline": 29.059829059829056,
+          "Contact": 7.500000000000007,
+          "Discipline": 27.160493827160487,
           "Speed": 0
         },
         "summary": "Jack Beverly gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .244",
-          "OBP .343",
-          "SLG .289"
+          "AVG .232",
+          "OBP .327",
+          "SLG .274"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".244"
+            "value": ".232"
           },
           {
             "label": "OBP",
-            "value": ".343"
+            "value": ".327"
           },
           {
             "label": "SLG",
-            "value": ".289"
+            "value": ".274"
           },
           {
             "label": "HR",
@@ -1727,32 +1727,32 @@
         "jersey": "13",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/dylan-terwilliger/17697",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Terwilliger_Dylan.jpg",
-        "gamesPlayed": 6,
+        "gamesPlayed": 7,
         "gamesStarted": 0,
-        "appearances": 6,
+        "appearances": 7,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.84,
-        "whip": 1.94,
+        "earnedRunAverage": 7.71,
+        "whip": 1.89,
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 10.333333333333334,
-        "inningsPitchedDisplay": "10.1",
-        "hitsAllowed": 13,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 9,
-        "walksAllowed": 7,
-        "strikeouts": 7,
+        "inningsPitched": 11.666666666666666,
+        "inningsPitchedDisplay": "11.2",
+        "hitsAllowed": 14,
+        "runsAllowed": 14,
+        "earnedRunsAllowed": 10,
+        "walksAllowed": 8,
+        "strikeouts": 8,
         "doublesAllowed": 3,
         "triplesAllowed": 2,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 43,
+        "opponentsAtBats": 46,
         "wildPitches": 0,
         "hitBatters": 5,
-        "balks": 0,
-        "opponentsBattingAverage": 0.302,
-        "walksHits": 20
+        "balks": 1,
+        "opponentsBattingAverage": 0.304,
+        "walksHits": 22
       },
       "fieldingStats": {
         "rosterBioId": "17697",
@@ -1761,10 +1761,10 @@
         "jersey": "13",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/dylan-terwilliger/17697",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Terwilliger_Dylan.jpg",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 0,
         "putouts": 1,
-        "assists": 2,
+        "assists": 3,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -1773,7 +1773,7 @@
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 3
+        "totalChances": 4
       },
       "evaluation": {
         "score": 4,
@@ -1784,32 +1784,32 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 19.06158357771261,
+          "Miss bats": 19.740259740259745,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Dylan Terwilliger gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.84",
-          "WHIP 1.94",
-          "K/9 6.1"
+          "ERA 7.71",
+          "WHIP 1.89",
+          "K/9 6.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.84"
+            "value": "7.71"
           },
           {
             "label": "WHIP",
-            "value": "1.94"
+            "value": "1.89"
           },
           {
             "label": "K/9",
-            "value": "6.1"
+            "value": "6.2"
           },
           {
             "label": "BB/9",
-            "value": "6.1"
+            "value": "6.2"
           },
           {
             "label": "HR/9",
@@ -1817,7 +1817,7 @@
           },
           {
             "label": "IP",
-            "value": "10.3"
+            "value": "11.7"
           }
         ],
         "metaLine": "SR / R/R",
@@ -2013,22 +2013,22 @@
         "jersey": "15",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/marc-willi/17701",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Willi_Marc.jpg",
-        "gamesPlayed": 20,
-        "gamesStarted": 11,
-        "battingAverage": 0.231,
-        "onBasePercentage": 0.333,
-        "sluggingPercentage": 0.308,
-        "ops": 0.641,
-        "atBats": 39,
+        "gamesPlayed": 21,
+        "gamesStarted": 12,
+        "battingAverage": 0.244,
+        "onBasePercentage": 0.367,
+        "sluggingPercentage": 0.317,
+        "ops": 0.684,
+        "atBats": 41,
         "runs": 2,
-        "hits": 9,
+        "hits": 10,
         "doubles": 0,
         "triples": 0,
         "homeRuns": 1,
-        "runsBattedIn": 7,
-        "totalBases": 12,
-        "walks": 4,
-        "hitByPitch": 2,
+        "runsBattedIn": 8,
+        "totalBases": 13,
+        "walks": 5,
+        "hitByPitch": 3,
         "strikeouts": 14,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
@@ -2039,7 +2039,7 @@
         "putouts": 21,
         "assists": 1,
         "errors": 0,
-        "plateAppearances": 46,
+        "plateAppearances": 50,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2066,36 +2066,36 @@
         "totalChances": 22
       },
       "evaluation": {
-        "score": 12,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 29.44444444444444,
+          "On-base": 48.333333333333314,
           "Power": 0,
-          "Contact": 6.875000000000006,
-          "Discipline": 9.523809523809518,
+          "Contact": 14.999999999999996,
+          "Discipline": 17.460317460317455,
           "Speed": 0
         },
         "summary": "Marc Willi gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .231",
-          "OBP .333",
-          "SLG .308"
+          "AVG .244",
+          "OBP .367",
+          "SLG .317"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".231"
+            "value": ".244"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".367"
           },
           {
             "label": "SLG",
-            "value": ".308"
+            "value": ".317"
           },
           {
             "label": "HR",
@@ -2103,7 +2103,7 @@
           },
           {
             "label": "RBI",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "SB",
@@ -2158,33 +2158,33 @@
         "jersey": "16",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/gavin-o-brien/17691",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_OBrien_Gavin.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 30,
-        "battingAverage": 0.277,
-        "onBasePercentage": 0.383,
-        "sluggingPercentage": 0.546,
-        "ops": 0.929,
-        "atBats": 119,
-        "runs": 18,
-        "hits": 33,
+        "gamesPlayed": 31,
+        "gamesStarted": 31,
+        "battingAverage": 0.285,
+        "onBasePercentage": 0.39,
+        "sluggingPercentage": 0.569,
+        "ops": 0.959,
+        "atBats": 123,
+        "runs": 19,
+        "hits": 35,
         "doubles": 9,
         "triples": 1,
-        "homeRuns": 7,
-        "runsBattedIn": 31,
-        "totalBases": 65,
-        "walks": 19,
+        "homeRuns": 8,
+        "runsBattedIn": 33,
+        "totalBases": 70,
+        "walks": 20,
         "hitByPitch": 2,
-        "strikeouts": 32,
-        "intentionalWalks": 0,
+        "strikeouts": 33,
+        "intentionalWalks": 1,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 35,
+        "putouts": 39,
         "assists": 1,
         "errors": 2,
-        "plateAppearances": 144,
+        "plateAppearances": 149,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2196,59 +2196,59 @@
         "jersey": "16",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/gavin-o-brien/17691",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_OBrien_Gavin.jpg",
-        "gamesPlayed": 19,
-        "gamesStarted": 19,
-        "putouts": 35,
+        "gamesPlayed": 20,
+        "gamesStarted": 20,
+        "putouts": 39,
         "assists": 1,
         "errors": 2,
-        "fieldingPercentage": 0.947,
+        "fieldingPercentage": 0.952,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 38
+        "totalChances": 42
       },
       "evaluation": {
-        "score": 47,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 57.22222222222222,
-          "Power": 59.473684210526336,
-          "Contact": 35.625000000000014,
-          "Discipline": 43.74999999999999,
+          "On-base": 61.11111111111111,
+          "Power": 65.52631578947367,
+          "Contact": 40.624999999999986,
+          "Discipline": 45.117845117845114,
           "Speed": 10
         },
-        "summary": "Gavin O'Brien gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Gavin O'Brien profiles as a OF/INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .383",
-          "SLG .546"
+          "AVG .285",
+          "OBP .390",
+          "SLG .569"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".285"
           },
           {
             "label": "OBP",
-            "value": ".383"
+            "value": ".390"
           },
           {
             "label": "SLG",
-            "value": ".546"
+            "value": ".569"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "31"
+            "value": "33"
           },
           {
             "label": "SB",
@@ -2303,33 +2303,33 @@
         "jersey": "17",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/vance-bonior/17681",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Bonior_Vance.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 24,
-        "battingAverage": 0.258,
-        "onBasePercentage": 0.444,
-        "sluggingPercentage": 0.394,
-        "ops": 0.838,
-        "atBats": 66,
+        "gamesPlayed": 28,
+        "gamesStarted": 25,
+        "battingAverage": 0.246,
+        "onBasePercentage": 0.432,
+        "sluggingPercentage": 0.377,
+        "ops": 0.809,
+        "atBats": 69,
         "runs": 12,
         "hits": 17,
         "doubles": 3,
         "triples": 0,
         "homeRuns": 2,
-        "runsBattedIn": 11,
+        "runsBattedIn": 12,
         "totalBases": 26,
         "walks": 8,
-        "hitByPitch": 15,
+        "hitByPitch": 16,
         "strikeouts": 11,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 1,
+        "sacrificeFlies": 2,
         "sacrificeHits": 0,
-        "stolenBases": 4,
-        "stolenBasesAttempts": 5,
+        "stolenBases": 5,
+        "stolenBasesAttempts": 6,
         "putouts": 39,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 96,
+        "plateAppearances": 102,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2449,32 +2449,32 @@
         "jersey": "18",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/michael-goodman/17709",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Goodman_Michael.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 0,
-        "appearances": 6,
+        "gamesPlayed": 7,
+        "gamesStarted": 1,
+        "appearances": 7,
         "gamesCompleted": 0,
-        "earnedRunAverage": 11.25,
-        "whip": 2.17,
+        "earnedRunAverage": 10.8,
+        "whip": 2.2,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 12,
-        "inningsPitchedDisplay": "12.0",
-        "hitsAllowed": 16,
-        "runsAllowed": 15,
-        "earnedRunsAllowed": 15,
-        "walksAllowed": 10,
-        "strikeouts": 6,
+        "inningsPitched": 15,
+        "inningsPitchedDisplay": "15.0",
+        "hitsAllowed": 20,
+        "runsAllowed": 18,
+        "earnedRunsAllowed": 18,
+        "walksAllowed": 13,
+        "strikeouts": 8,
         "doublesAllowed": 6,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 48,
+        "homeRunsAllowed": 4,
+        "opponentsAtBats": 61,
         "wildPitches": 0,
         "hitBatters": 6,
         "balks": 2,
-        "opponentsBattingAverage": 0.333,
-        "walksHits": 26
+        "opponentsBattingAverage": 0.328,
+        "walksHits": 33
       },
       "fieldingStats": {
         "rosterBioId": "17709",
@@ -2506,40 +2506,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 4.545454545454546,
+          "Miss bats": 7.272727272727271,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Michael Goodman gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 11.25",
-          "WHIP 2.17",
-          "K/9 4.5"
+          "ERA 10.80",
+          "WHIP 2.20",
+          "K/9 4.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "11.25"
+            "value": "10.80"
           },
           {
             "label": "WHIP",
-            "value": "2.17"
+            "value": "2.20"
           },
           {
             "label": "K/9",
-            "value": "4.5"
+            "value": "4.8"
           },
           {
             "label": "BB/9",
-            "value": "7.5"
+            "value": "7.8"
           },
           {
             "label": "HR/9",
-            "value": "1.50"
+            "value": "2.40"
           },
           {
             "label": "IP",
-            "value": "12.0"
+            "value": "15.0"
           }
         ],
         "metaLine": "R-FR / R/R",
@@ -3174,13 +3174,13 @@
         "jersey": "24",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/matt-travisano/17700",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Travisano_Matt.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 11,
-        "battingAverage": 0.17,
-        "onBasePercentage": 0.245,
-        "sluggingPercentage": 0.191,
-        "ops": 0.436,
-        "atBats": 47,
+        "gamesPlayed": 12,
+        "gamesStarted": 12,
+        "battingAverage": 0.163,
+        "onBasePercentage": 0.25,
+        "sluggingPercentage": 0.184,
+        "ops": 0.434,
+        "atBats": 49,
         "runs": 5,
         "hits": 8,
         "doubles": 1,
@@ -3188,19 +3188,19 @@
         "homeRuns": 0,
         "runsBattedIn": 3,
         "totalBases": 9,
-        "walks": 4,
+        "walks": 5,
         "hitByPitch": 1,
         "strikeouts": 15,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
-        "sacrificeHits": 0,
+        "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 8,
-        "assists": 27,
+        "assists": 30,
         "errors": 0,
-        "plateAppearances": 54,
+        "plateAppearances": 58,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3212,10 +3212,10 @@
         "jersey": "24",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/matt-travisano/17700",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Travisano_Matt.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 11,
+        "gamesPlayed": 12,
+        "gamesStarted": 12,
         "putouts": 8,
-        "assists": 27,
+        "assists": 30,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 4,
@@ -3224,10 +3224,10 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 35
+        "totalChances": 38
       },
       "evaluation": {
-        "score": 1,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3236,27 +3236,27 @@
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 7.407407407407404,
+          "Discipline": 14.814814814814808,
           "Speed": 3.3333333333333335
         },
         "summary": "Matt Travisano gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .170",
-          "OBP .245",
-          "SLG .191"
+          "AVG .163",
+          "OBP .250",
+          "SLG .184"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".170"
+            "value": ".163"
           },
           {
             "label": "OBP",
-            "value": ".245"
+            "value": ".250"
           },
           {
             "label": "SLG",
-            "value": ".191"
+            "value": ".184"
           },
           {
             "label": "HR",
@@ -3589,13 +3589,13 @@
         "jersey": "28",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/will-briggs/17702",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Briggs_Will.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 21,
-        "battingAverage": 0.212,
-        "onBasePercentage": 0.31,
-        "sluggingPercentage": 0.435,
-        "ops": 0.745,
-        "atBats": 85,
+        "gamesPlayed": 27,
+        "gamesStarted": 22,
+        "battingAverage": 0.205,
+        "onBasePercentage": 0.301,
+        "sluggingPercentage": 0.42,
+        "ops": 0.721,
+        "atBats": 88,
         "runs": 14,
         "hits": 18,
         "doubles": 4,
@@ -3605,17 +3605,17 @@
         "totalBases": 37,
         "walks": 8,
         "hitByPitch": 5,
-        "strikeouts": 17,
+        "strikeouts": 20,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 2,
         "sacrificeHits": 1,
         "stolenBases": 4,
         "stolenBasesAttempts": 6,
-        "putouts": 63,
+        "putouts": 67,
         "assists": 4,
         "errors": 3,
-        "plateAppearances": 109,
+        "plateAppearances": 112,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -3627,51 +3627,51 @@
         "jersey": "28",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/will-briggs/17702",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Briggs_Will.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 8,
-        "putouts": 63,
+        "gamesPlayed": 9,
+        "gamesStarted": 9,
+        "putouts": 67,
         "assists": 4,
         "errors": 3,
-        "fieldingPercentage": 0.957,
+        "fieldingPercentage": 0.959,
         "doublePlays": 0,
-        "stolenBasesAgainst": 27,
+        "stolenBasesAgainst": 29,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.871,
+        "stolenBasesPercentage": 0.879,
         "passedBalls": 3,
         "catchersInterference": 0,
-        "totalChances": 70
+        "totalChances": 74
       },
       "evaluation": {
-        "score": 19,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 16.66666666666665,
-          "Power": 30.263157894736842,
+          "On-base": 11.666666666666647,
+          "Power": 26.31578947368421,
           "Contact": 0,
-          "Discipline": 30.065359477124176,
+          "Discipline": 22.22222222222222,
           "Speed": 13.333333333333334
         },
         "summary": "Will Briggs gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .212",
-          "OBP .310",
-          "SLG .435"
+          "AVG .205",
+          "OBP .301",
+          "SLG .420"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".212"
+            "value": ".205"
           },
           {
             "label": "OBP",
-            "value": ".310"
+            "value": ".301"
           },
           {
             "label": "SLG",
-            "value": ".435"
+            "value": ".420"
           },
           {
             "label": "HR",
@@ -4780,32 +4780,32 @@
         "jersey": "44",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/lorcan-lee/17711",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Lee_Lorcan.jpg",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 4,
-        "appearances": 7,
+        "appearances": 8,
         "gamesCompleted": 0,
-        "earnedRunAverage": 10.31,
-        "whip": 2.07,
+        "earnedRunAverage": 9,
+        "whip": 1.87,
         "wins": 0,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 18.333333333333332,
-        "inningsPitchedDisplay": "18.1",
-        "hitsAllowed": 21,
-        "runsAllowed": 22,
-        "earnedRunsAllowed": 21,
-        "walksAllowed": 17,
-        "strikeouts": 21,
+        "inningsPitched": 23,
+        "inningsPitchedDisplay": "23.0",
+        "hitsAllowed": 23,
+        "runsAllowed": 24,
+        "earnedRunsAllowed": 23,
+        "walksAllowed": 20,
+        "strikeouts": 24,
         "doublesAllowed": 2,
         "triplesAllowed": 2,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 72,
-        "wildPitches": 7,
-        "hitBatters": 3,
+        "opponentsAtBats": 88,
+        "wildPitches": 8,
+        "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.292,
-        "walksHits": 38
+        "opponentsBattingAverage": 0.261,
+        "walksHits": 43
       },
       "fieldingStats": {
         "rosterBioId": "17711",
@@ -4814,9 +4814,9 @@
         "jersey": "44",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/lorcan-lee/17711",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Lee_Lorcan.jpg",
-        "gamesPlayed": 3,
+        "gamesPlayed": 4,
         "gamesStarted": 1,
-        "putouts": 0,
+        "putouts": 1,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -4826,10 +4826,10 @@
         "stolenBasesPercentage": 0.75,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 1
+        "totalChances": 2
       },
       "evaluation": {
-        "score": 12,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4837,40 +4837,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 57.355371900826455,
-          "Command": 4.7058823529411775,
+          "Miss bats": 49.01185770750989,
+          "Command": 4.0000000000000036,
           "Damage suppression": 0
         },
         "summary": "Lorcan Lee looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 10.31",
-          "WHIP 2.07",
-          "K/9 10.3"
+          "ERA 9.00",
+          "WHIP 1.87",
+          "K/9 9.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "10.31"
+            "value": "9.00"
           },
           {
             "label": "WHIP",
-            "value": "2.07"
+            "value": "1.87"
           },
           {
             "label": "K/9",
-            "value": "10.3"
+            "value": "9.4"
           },
           {
             "label": "BB/9",
-            "value": "8.3"
+            "value": "7.8"
           },
           {
             "label": "HR/9",
-            "value": "0.49"
+            "value": "0.39"
           },
           {
             "label": "IP",
-            "value": "18.3"
+            "value": "23.0"
           }
         ],
         "metaLine": "FR / R/R",
@@ -5039,29 +5039,29 @@
         "position": "INF/OF",
         "classYear": "R-FR",
         "handedness": "L/R",
-        "score": 71,
+        "score": 67,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Ty Fox profiles as a INF/OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .348",
-          "OBP .452",
-          "SLG .518"
+          "AVG .342",
+          "OBP .443",
+          "SLG .504"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".348"
+            "value": ".342"
           },
           {
             "label": "OBP",
-            "value": ".452"
+            "value": ".443"
           },
           {
             "label": "SLG",
-            "value": ".518"
+            "value": ".504"
           },
           {
             "label": "HR",
@@ -5073,15 +5073,15 @@
           },
           {
             "label": "SB",
-            "value": "13"
+            "value": "15"
           }
         ],
         "components": {
-          "On-base": 95.55555555555554,
-          "Power": 52.10526315789474,
-          "Contact": 79.99999999999999,
-          "Discipline": 54.700854700854684,
-          "Speed": 43.333333333333336
+          "On-base": 90.55555555555554,
+          "Power": 48.42105263157895,
+          "Contact": 76.25000000000001,
+          "Discipline": 49.2063492063492,
+          "Speed": 50
         },
         "metaLine": "R-FR / L/R",
         "detailBadges": [
@@ -5322,22 +5322,22 @@
         },
         "summary": "Anthony Tirado profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .319",
-          "OBP .366",
-          "SLG .407"
+          "AVG .317",
+          "OBP .367",
+          "SLG .403"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".319"
+            "value": ".317"
           },
           {
             "label": "OBP",
-            "value": ".366"
+            "value": ".367"
           },
           {
             "label": "SLG",
-            "value": ".407"
+            "value": ".403"
           },
           {
             "label": "HR",
@@ -5349,15 +5349,15 @@
           },
           {
             "label": "SB",
-            "value": "17"
+            "value": "18"
           }
         ],
         "components": {
-          "On-base": 47.77777777777776,
-          "Power": 22.894736842105257,
-          "Contact": 61.875,
-          "Discipline": 7.407407407407404,
-          "Speed": 56.666666666666664
+          "On-base": 48.333333333333314,
+          "Power": 21.8421052631579,
+          "Contact": 60.62499999999999,
+          "Discipline": 10.035842293906809,
+          "Speed": 60
         },
         "metaLine": "R-SO / L/R",
         "detailBadges": [
@@ -5384,29 +5384,29 @@
         "position": "INF",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 34,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Reece McCarthy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Reece McCarthy profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .257",
-          "OBP .386",
-          "SLG .319"
+          "AVG .248",
+          "OBP .379",
+          "SLG .308"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".257"
+            "value": ".248"
           },
           {
             "label": "OBP",
-            "value": ".386"
+            "value": ".379"
           },
           {
             "label": "SLG",
-            "value": ".319"
+            "value": ".308"
           },
           {
             "label": "HR",
@@ -5418,15 +5418,15 @@
           },
           {
             "label": "SB",
-            "value": "6"
+            "value": "8"
           }
         ],
         "components": {
-          "On-base": 58.88888888888888,
+          "On-base": 54.99999999999999,
           "Power": 0,
-          "Contact": 23.125000000000004,
-          "Discipline": 61.11111111111111,
-          "Speed": 20
+          "Contact": 17.5,
+          "Discipline": 62.06896551724137,
+          "Speed": 26.666666666666668
         },
         "metaLine": "SO / L/R",
         "detailBadges": [
@@ -5460,22 +5460,22 @@
         },
         "summary": "Ryan Kolben gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .190",
-          "OBP .317",
-          "SLG .381"
+          "AVG .188",
+          "OBP .314",
+          "SLG .376"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".190"
+            "value": ".188"
           },
           {
             "label": "OBP",
-            "value": ".317"
+            "value": ".314"
           },
           {
             "label": "SLG",
-            "value": ".381"
+            "value": ".376"
           },
           {
             "label": "HR",
@@ -5491,8 +5491,8 @@
           }
         ],
         "components": {
-          "On-base": 20.555555555555543,
-          "Power": 16.05263157894737,
+          "On-base": 18.888888888888875,
+          "Power": 14.73684210526316,
           "Contact": 0,
           "Discipline": 23.754789272030646,
           "Speed": 3.3333333333333335
@@ -5591,29 +5591,29 @@
         "position": "INF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 18,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Beverly gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .244",
-          "OBP .343",
-          "SLG .289"
+          "AVG .232",
+          "OBP .327",
+          "SLG .274"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".244"
+            "value": ".232"
           },
           {
             "label": "OBP",
-            "value": ".343"
+            "value": ".327"
           },
           {
             "label": "SLG",
-            "value": ".289"
+            "value": ".274"
           },
           {
             "label": "HR",
@@ -5629,10 +5629,10 @@
           }
         ],
         "components": {
-          "On-base": 35,
+          "On-base": 26.111111111111107,
           "Power": 0,
-          "Contact": 14.999999999999996,
-          "Discipline": 29.059829059829056,
+          "Contact": 7.500000000000007,
+          "Discipline": 27.160493827160487,
           "Speed": 0
         },
         "metaLine": "GR / R/R",
@@ -5667,26 +5667,26 @@
         },
         "summary": "Dylan Terwilliger gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.84",
-          "WHIP 1.94",
-          "K/9 6.1"
+          "ERA 7.71",
+          "WHIP 1.89",
+          "K/9 6.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.84"
+            "value": "7.71"
           },
           {
             "label": "WHIP",
-            "value": "1.94"
+            "value": "1.89"
           },
           {
             "label": "K/9",
-            "value": "6.1"
+            "value": "6.2"
           },
           {
             "label": "BB/9",
-            "value": "6.1"
+            "value": "6.2"
           },
           {
             "label": "HR/9",
@@ -5694,13 +5694,13 @@
           },
           {
             "label": "IP",
-            "value": "10.3"
+            "value": "11.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 19.06158357771261,
+          "Miss bats": 19.740259740259745,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -5798,29 +5798,29 @@
         "position": "INF",
         "classYear": "R-JR",
         "handedness": "L/L",
-        "score": 12,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Marc Willi gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .231",
-          "OBP .333",
-          "SLG .308"
+          "AVG .244",
+          "OBP .367",
+          "SLG .317"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".231"
+            "value": ".244"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".367"
           },
           {
             "label": "SLG",
-            "value": ".308"
+            "value": ".317"
           },
           {
             "label": "HR",
@@ -5828,7 +5828,7 @@
           },
           {
             "label": "RBI",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "SB",
@@ -5836,10 +5836,10 @@
           }
         ],
         "components": {
-          "On-base": 29.44444444444444,
+          "On-base": 48.333333333333314,
           "Power": 0,
-          "Contact": 6.875000000000006,
-          "Discipline": 9.523809523809518,
+          "Contact": 14.999999999999996,
+          "Discipline": 17.460317460317455,
           "Speed": 0
         },
         "metaLine": "R-JR / L/L",
@@ -5867,37 +5867,37 @@
         "position": "OF/INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 47,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Gavin O'Brien gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Gavin O'Brien profiles as a OF/INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .383",
-          "SLG .546"
+          "AVG .285",
+          "OBP .390",
+          "SLG .569"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".285"
           },
           {
             "label": "OBP",
-            "value": ".383"
+            "value": ".390"
           },
           {
             "label": "SLG",
-            "value": ".546"
+            "value": ".569"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "31"
+            "value": "33"
           },
           {
             "label": "SB",
@@ -5905,10 +5905,10 @@
           }
         ],
         "components": {
-          "On-base": 57.22222222222222,
-          "Power": 59.473684210526336,
-          "Contact": 35.625000000000014,
-          "Discipline": 43.74999999999999,
+          "On-base": 61.11111111111111,
+          "Power": 65.52631578947367,
+          "Contact": 40.624999999999986,
+          "Discipline": 45.117845117845114,
           "Speed": 10
         },
         "metaLine": "SO / R/R",
@@ -6012,40 +6012,40 @@
         },
         "summary": "Michael Goodman gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 11.25",
-          "WHIP 2.17",
-          "K/9 4.5"
+          "ERA 10.80",
+          "WHIP 2.20",
+          "K/9 4.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "11.25"
+            "value": "10.80"
           },
           {
             "label": "WHIP",
-            "value": "2.17"
+            "value": "2.20"
           },
           {
             "label": "K/9",
-            "value": "4.5"
+            "value": "4.8"
           },
           {
             "label": "BB/9",
-            "value": "7.5"
+            "value": "7.8"
           },
           {
             "label": "HR/9",
-            "value": "1.50"
+            "value": "2.40"
           },
           {
             "label": "IP",
-            "value": "12.0"
+            "value": "15.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 4.545454545454546,
+          "Miss bats": 7.272727272727271,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -6350,29 +6350,29 @@
         "position": "INF",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 1,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Matt Travisano gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .170",
-          "OBP .245",
-          "SLG .191"
+          "AVG .163",
+          "OBP .250",
+          "SLG .184"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".170"
+            "value": ".163"
           },
           {
             "label": "OBP",
-            "value": ".245"
+            "value": ".250"
           },
           {
             "label": "SLG",
-            "value": ".191"
+            "value": ".184"
           },
           {
             "label": "HR",
@@ -6391,7 +6391,7 @@
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 7.407407407407404,
+          "Discipline": 14.814814814814808,
           "Speed": 3.3333333333333335
         },
         "metaLine": "R-JR / R/R",
@@ -6557,29 +6557,29 @@
         "position": "C",
         "classYear": "R-SO",
         "handedness": "R/R",
-        "score": 19,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Will Briggs gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .212",
-          "OBP .310",
-          "SLG .435"
+          "AVG .205",
+          "OBP .301",
+          "SLG .420"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".212"
+            "value": ".205"
           },
           {
             "label": "OBP",
-            "value": ".310"
+            "value": ".301"
           },
           {
             "label": "SLG",
-            "value": ".435"
+            "value": ".420"
           },
           {
             "label": "HR",
@@ -6595,10 +6595,10 @@
           }
         ],
         "components": {
-          "On-base": 16.66666666666665,
-          "Power": 30.263157894736842,
+          "On-base": 11.666666666666647,
+          "Power": 26.31578947368421,
           "Contact": 0,
-          "Discipline": 30.065359477124176,
+          "Discipline": 22.22222222222222,
           "Speed": 13.333333333333334
         },
         "metaLine": "R-SO / R/R",
@@ -7177,48 +7177,48 @@
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 12,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Lorcan Lee looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 10.31",
-          "WHIP 2.07",
-          "K/9 10.3"
+          "ERA 9.00",
+          "WHIP 1.87",
+          "K/9 9.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "10.31"
+            "value": "9.00"
           },
           {
             "label": "WHIP",
-            "value": "2.07"
+            "value": "1.87"
           },
           {
             "label": "K/9",
-            "value": "10.3"
+            "value": "9.4"
           },
           {
             "label": "BB/9",
-            "value": "8.3"
+            "value": "7.8"
           },
           {
             "label": "HR/9",
-            "value": "0.49"
+            "value": "0.39"
           },
           {
             "label": "IP",
-            "value": "18.3"
+            "value": "23.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 57.355371900826455,
-          "Command": 4.7058823529411775,
+          "Miss bats": 49.01185770750989,
+          "Command": 4.0000000000000036,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",

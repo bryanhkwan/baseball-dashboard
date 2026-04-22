@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T11:33:21.656Z",
+  "generatedAt": "2026-04-22T11:21:56.166Z",
   "season": 2026,
   "school": {
     "slug": "delaware",
@@ -41,16 +41,16 @@
   },
   "teamSummary": {
     "record": "11-29, 1-17",
-    "battingAverage": ".254",
+    "battingAverage": ".255",
     "earnedRunAverage": "7.34",
     "wins": "11",
     "losses": "29",
     "hitting": {
       "atBats": "1333",
       "runsScored": "221",
-      "hits": "339",
+      "hits": "340",
       "runsBattedIn": "198",
-      "doubles": "54",
+      "doubles": "55",
       "triples": "8",
       "homeRuns": "40",
       "walks": "192",
@@ -164,18 +164,18 @@
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Sal_0q1zF.jpg",
         "gamesPlayed": 40,
         "gamesStarted": 40,
-        "battingAverage": 0.288,
-        "onBasePercentage": 0.389,
-        "sluggingPercentage": 0.423,
-        "ops": 0.812,
+        "battingAverage": 0.294,
+        "onBasePercentage": 0.395,
+        "sluggingPercentage": 0.436,
+        "ops": 0.831,
         "atBats": 163,
         "runs": 36,
-        "hits": 47,
-        "doubles": 2,
+        "hits": 48,
+        "doubles": 3,
         "triples": 1,
         "homeRuns": 6,
         "runsBattedIn": 22,
-        "totalBases": 69,
+        "totalBases": 71,
         "walks": 18,
         "hitByPitch": 9,
         "strikeouts": 27,
@@ -215,36 +215,36 @@
         "totalChances": 112
       },
       "evaluation": {
-        "score": 45,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 60.55555555555555,
-          "Power": 27.105263157894736,
-          "Contact": 42.499999999999986,
+          "On-base": 63.888888888888886,
+          "Power": 30.526315789473685,
+          "Contact": 46.249999999999986,
           "Discipline": 51.85185185185184,
           "Speed": 36.666666666666664
         },
         "summary": "Sal Mineo profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .288",
-          "OBP .389",
-          "SLG .423"
+          "AVG .294",
+          "OBP .395",
+          "SLG .436"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".288"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".389"
+            "value": ".395"
           },
           {
             "label": "SLG",
-            "value": ".423"
+            "value": ".436"
           },
           {
             "label": "HR",
@@ -5087,29 +5087,29 @@
         "position": "OF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 45,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Sal Mineo profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .288",
-          "OBP .389",
-          "SLG .423"
+          "AVG .294",
+          "OBP .395",
+          "SLG .436"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".288"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".389"
+            "value": ".395"
           },
           {
             "label": "SLG",
-            "value": ".423"
+            "value": ".436"
           },
           {
             "label": "HR",
@@ -5125,9 +5125,9 @@
           }
         ],
         "components": {
-          "On-base": 60.55555555555555,
-          "Power": 27.105263157894736,
-          "Contact": 42.499999999999986,
+          "On-base": 63.888888888888886,
+          "Power": 30.526315789473685,
+          "Contact": 46.249999999999986,
           "Discipline": 51.85185185185184,
           "Speed": 36.666666666666664
         },

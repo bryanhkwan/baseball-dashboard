@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.west-virginia2026 = {
-  "generatedAt": "2026-04-21T11:34:09.796Z",
+  "generatedAt": "2026-04-22T11:22:35.102Z",
   "season": 2026,
   "school": {
     "slug": "west-virginia",
@@ -29,7 +29,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 17,
     "playersWithPitchingStats": 21,
-    "playersWithFieldingStats": 30,
+    "playersWithFieldingStats": 33,
     "mergedPlayersWithAnyStats": 38,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
@@ -43,24 +43,24 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
     }
   },
   "teamSummary": {
-    "record": "27-9, 12-6",
-    "battingAverage": ".309",
-    "earnedRunAverage": "3.91",
+    "record": "27-10, 12-6",
+    "battingAverage": ".306",
+    "earnedRunAverage": "4.35",
     "wins": "27",
-    "losses": "9",
+    "losses": "10",
     "hitting": {
-      "atBats": "1251",
-      "runsScored": "295",
-      "hits": "387",
+      "atBats": "1273",
+      "runsScored": "296",
+      "hits": "389",
       "runsBattedIn": "253",
       "doubles": "83",
       "triples": "13",
       "homeRuns": "26",
-      "walks": "200",
+      "walks": "205",
       "intentionalWalks": "5",
-      "strikeouts": "279",
-      "strikeoutsLooking": "42",
-      "hitByPitch": "39",
+      "strikeouts": "288",
+      "strikeoutsLooking": "44",
+      "hitByPitch": "40",
       "stolenBases": "75",
       "caughtStealing": "18",
       "sacrificeHits": "16",
@@ -68,59 +68,59 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       "reachedOnCatchersInteference": "2",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "262",
-      "flyOuts": "316",
-      "groundedIntoDoublePlay": "23",
+      "groundOuts": "267",
+      "flyOuts": "320",
+      "groundedIntoDoublePlay": "24",
       "pickedOff": "7",
-      "doublePlaysHitInto": "25",
+      "doublePlaysHitInto": "26",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "947",
-      "assists": "325",
-      "errors": "27",
+      "putouts": "968",
+      "assists": "334",
+      "errors": "29",
       "passedBalls": "4",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "28",
+      "stolenBasesAgainst": "29",
       "caughtStealingBy": "9",
-      "involvedInDoublePlays": "34",
+      "involvedInDoublePlays": "35",
       "involvedInTriplePlays": "0",
-      "totalChances": "1299",
-      "fieldingPercentage": ".979"
+      "totalChances": "1331",
+      "fieldingPercentage": ".978"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "27",
-      "saves": "25",
-      "losses": "9",
+      "saves": "26",
+      "losses": "10",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "4",
       "creditForCombinedShutout": "1",
-      "inningsPitched": "315.2",
-      "hitsAllowed": "271",
-      "runsAllowed": "158",
-      "earnedRunsAllowed": "137",
-      "walksAllowed": "143",
-      "strikeouts": "354",
-      "battersFaced": "1376",
-      "opponentAtBats": "1168",
-      "doublesAllowed": "41",
+      "inningsPitched": "322.2",
+      "hitsAllowed": "284",
+      "runsAllowed": "181",
+      "earnedRunsAllowed": "156",
+      "walksAllowed": "158",
+      "strikeouts": "359",
+      "battersFaced": "1428",
+      "opponentAtBats": "1201",
+      "doublesAllowed": "43",
       "triplesAllowed": "4",
-      "homerunsAllowed": "29",
-      "wildPitches": "26",
+      "homerunsAllowed": "34",
+      "wildPitches": "28",
       "balks": "0",
-      "hitBatters": "50",
-      "strikeoutsLooking": "62",
+      "hitBatters": "54",
+      "strikeoutsLooking": "64",
       "intentionalWalks": "6",
-      "inheritedRunners": "84",
-      "inheritedRunnersThatScored": "34",
+      "inheritedRunners": "88",
+      "inheritedRunnersThatScored": "39",
       "sacrificeHitsAllowed": "8",
       "sacrificeFliesAllowed": "7",
       "catchersInterferenceAllowed": "0",
-      "pitches": "5142",
-      "flyouts": "247",
-      "groundouts": "287",
+      "pitches": "5362",
+      "flyouts": "254",
+      "groundouts": "295",
       "teamUnearnedRuns": "0",
       "saveRecord": "7",
       "pickoff": "1"
@@ -165,33 +165,33 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "0",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/matthew-graveline/19299",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Graveline__Matthew.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 35,
-        "battingAverage": 0.29,
-        "onBasePercentage": 0.377,
-        "sluggingPercentage": 0.443,
-        "ops": 0.82,
-        "atBats": 131,
+        "gamesPlayed": 37,
+        "gamesStarted": 36,
+        "battingAverage": 0.293,
+        "onBasePercentage": 0.383,
+        "sluggingPercentage": 0.444,
+        "ops": 0.827,
+        "atBats": 133,
         "runs": 21,
-        "hits": 38,
+        "hits": 39,
         "doubles": 5,
         "triples": 0,
         "homeRuns": 5,
         "runsBattedIn": 28,
-        "totalBases": 58,
-        "walks": 16,
+        "totalBases": 59,
+        "walks": 17,
         "hitByPitch": 3,
-        "strikeouts": 27,
+        "strikeouts": 28,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 2,
         "stolenBases": 4,
         "stolenBasesAttempts": 6,
-        "putouts": 199,
+        "putouts": 201,
         "assists": 12,
-        "errors": 1,
-        "plateAppearances": 161,
+        "errors": 3,
+        "plateAppearances": 164,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -203,51 +203,51 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "0",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/matthew-graveline/19299",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Graveline__Matthew.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
-        "putouts": 199,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "putouts": 201,
         "assists": 12,
-        "errors": 1,
-        "fieldingPercentage": 0.995,
+        "errors": 3,
+        "fieldingPercentage": 0.986,
         "doublePlays": 0,
-        "stolenBasesAgainst": 14,
+        "stolenBasesAgainst": 15,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.875,
+        "stolenBasesPercentage": 0.882,
         "passedBalls": 1,
         "catchersInterference": 0,
-        "totalChances": 212
+        "totalChances": 216
       },
       "evaluation": {
-        "score": 41,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 53.88888888888887,
-          "Power": 32.36842105263158,
-          "Contact": 43.749999999999986,
-          "Discipline": 43.621399176954725,
+          "On-base": 57.22222222222222,
+          "Power": 32.631578947368425,
+          "Contact": 45.624999999999986,
+          "Discipline": 45.23809523809523,
           "Speed": 13.333333333333334
         },
         "summary": "Matthew Graveline gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .290",
-          "OBP .377",
-          "SLG .443"
+          "AVG .293",
+          "OBP .383",
+          "SLG .444"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".293"
           },
           {
             "label": "OBP",
-            "value": ".377"
+            "value": ".383"
           },
           {
             "label": "SLG",
-            "value": ".443"
+            "value": ".444"
           },
           {
             "label": "HR",
@@ -432,13 +432,13 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "2",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/gavin-kelly/19279",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Kelly__Gavin.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 35,
-        "battingAverage": 0.397,
-        "onBasePercentage": 0.482,
-        "sluggingPercentage": 0.645,
-        "ops": 1.127,
-        "atBats": 141,
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "battingAverage": 0.394,
+        "onBasePercentage": 0.483,
+        "sluggingPercentage": 0.641,
+        "ops": 1.124,
+        "atBats": 142,
         "runs": 38,
         "hits": 56,
         "doubles": 16,
@@ -446,7 +446,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "homeRuns": 5,
         "runsBattedIn": 34,
         "totalBases": 91,
-        "walks": 22,
+        "walks": 23,
         "hitByPitch": 4,
         "strikeouts": 22,
         "intentionalWalks": 0,
@@ -455,10 +455,10 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 9,
-        "putouts": 186,
+        "putouts": 188,
         "assists": 54,
         "errors": 4,
-        "plateAppearances": 185,
+        "plateAppearances": 187,
         "caughtStealing": 6,
         "pickedOff": 2
       },
@@ -470,9 +470,9 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "2",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/gavin-kelly/19279",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Kelly__Gavin.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
-        "putouts": 186,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "putouts": 188,
         "assists": 54,
         "errors": 4,
         "fieldingPercentage": 0.984,
@@ -482,7 +482,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "stolenBasesPercentage": 0.611,
         "passedBalls": 3,
         "catchersInterference": 0,
-        "totalChances": 244
+        "totalChances": 246
       },
       "evaluation": {
         "score": 86,
@@ -492,29 +492,29 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         },
         "components": {
           "On-base": 100,
-          "Power": 85.5263157894737,
+          "Power": 84.47368421052633,
           "Contact": 100,
-          "Discipline": 88.88888888888889,
+          "Discipline": 93.93939393939392,
           "Speed": 10
         },
         "summary": "Gavin Kelly profiles as a UTL piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .397",
-          "OBP .482",
-          "SLG .645"
+          "AVG .394",
+          "OBP .483",
+          "SLG .641"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".397"
+            "value": ".394"
           },
           {
             "label": "OBP",
-            "value": ".482"
+            "value": ".483"
           },
           {
             "label": "SLG",
-            "value": ".645"
+            "value": ".641"
           },
           {
             "label": "HR",
@@ -810,21 +810,21 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "5",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/armani-guzman/19275",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Guzman__Armani.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "battingAverage": 0.282,
-        "onBasePercentage": 0.363,
-        "sluggingPercentage": 0.382,
-        "ops": 0.745,
-        "atBats": 131,
-        "runs": 39,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "battingAverage": 0.28,
+        "onBasePercentage": 0.365,
+        "sluggingPercentage": 0.379,
+        "ops": 0.744,
+        "atBats": 132,
+        "runs": 40,
         "hits": 37,
         "doubles": 13,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 26,
         "totalBases": 50,
-        "walks": 20,
+        "walks": 21,
         "hitByPitch": 0,
         "strikeouts": 25,
         "intentionalWalks": 1,
@@ -833,10 +833,10 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "sacrificeHits": 3,
         "stolenBases": 24,
         "stolenBasesAttempts": 25,
-        "putouts": 175,
+        "putouts": 177,
         "assists": 10,
         "errors": 3,
-        "plateAppearances": 186,
+        "plateAppearances": 188,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -848,9 +848,9 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "5",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/armani-guzman/19275",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Guzman__Armani.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
-        "putouts": 175,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "putouts": 177,
         "assists": 10,
         "errors": 3,
         "fieldingPercentage": 0.984,
@@ -860,39 +860,39 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 188
+        "totalChances": 190
       },
       "evaluation": {
-        "score": 43,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 46.11111111111109,
-          "Power": 16.315789473684212,
-          "Contact": 38.74999999999998,
-          "Discipline": 66.66666666666666,
+          "On-base": 47.22222222222221,
+          "Power": 15.526315789473685,
+          "Contact": 37.500000000000014,
+          "Discipline": 71.11111111111109,
           "Speed": 80
         },
         "summary": "Armani Guzman profiles as a UTL piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .282",
-          "OBP .363",
-          "SLG .382"
+          "AVG .280",
+          "OBP .365",
+          "SLG .379"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".282"
+            "value": ".280"
           },
           {
             "label": "OBP",
-            "value": ".363"
+            "value": ".365"
           },
           {
             "label": "SLG",
-            "value": ".382"
+            "value": ".379"
           },
           {
             "label": "HR",
@@ -955,13 +955,13 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "6",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/paul-schoenfeld/19316",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Schoenfeld__Paul.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "battingAverage": 0.368,
-        "onBasePercentage": 0.494,
-        "sluggingPercentage": 0.571,
-        "ops": 1.065,
-        "atBats": 133,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "battingAverage": 0.36,
+        "onBasePercentage": 0.485,
+        "sluggingPercentage": 0.559,
+        "ops": 1.044,
+        "atBats": 136,
         "runs": 33,
         "hits": 49,
         "doubles": 13,
@@ -981,7 +981,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "putouts": 64,
         "assists": 4,
         "errors": 0,
-        "plateAppearances": 195,
+        "plateAppearances": 198,
         "caughtStealing": 3,
         "pickedOff": 3
       },
@@ -1008,36 +1008,36 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "totalChances": 68
       },
       "evaluation": {
-        "score": 86,
+        "score": 84,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "components": {
           "On-base": 100,
-          "Power": 66.05263157894737,
-          "Contact": 92.5,
+          "Power": 62.89473684210528,
+          "Contact": 87.49999999999999,
           "Discipline": 100,
           "Speed": 60
         },
         "summary": "Paul Schoenfeld profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .368",
-          "OBP .494",
-          "SLG .571"
+          "AVG .360",
+          "OBP .485",
+          "SLG .559"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".368"
+            "value": ".360"
           },
           {
             "label": "OBP",
-            "value": ".494"
+            "value": ".485"
           },
           {
             "label": "SLG",
-            "value": ".571"
+            "value": ".559"
           },
           {
             "label": "HR",
@@ -1100,13 +1100,13 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "7",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/maxwell-molessa/19286",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Molessa__Maxwell.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 0,
-        "battingAverage": 0.333,
-        "onBasePercentage": 0.333,
-        "sluggingPercentage": 0.333,
-        "ops": 0.666,
-        "atBats": 3,
+        "battingAverage": 0.25,
+        "onBasePercentage": 0.25,
+        "sluggingPercentage": 0.25,
+        "ops": 0.5,
+        "atBats": 4,
         "runs": 2,
         "hits": 1,
         "doubles": 0,
@@ -1116,53 +1116,73 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "totalBases": 1,
         "walks": 0,
         "hitByPitch": 0,
-        "strikeouts": 2,
+        "strikeouts": 3,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 0,
+        "putouts": 2,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 3,
+        "plateAppearances": 4,
         "caughtStealing": 0,
         "pickedOff": 0
       },
       "pitchingStats": null,
-      "fieldingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "19286",
+        "name": "Maxwell Molessa",
+        "normalizedName": "maxwell molessa",
+        "jersey": "7",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/maxwell-molessa/19286",
+        "imageUrl": "https://wvusports.com/images/2026/1/15/Molessa__Maxwell.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 2,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 2
+      },
       "evaluation": {
-        "score": 23,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 29.44444444444444,
-          "Power": 3.421052631578951,
-          "Contact": 70.625,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 18.75,
           "Discipline": 0,
           "Speed": 0
         },
         "summary": "Maxwell Molessa gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .333",
-          "OBP .333",
-          "SLG .333"
+          "AVG .250",
+          "OBP .250",
+          "SLG .250"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".333"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".250"
           },
           {
             "label": "SLG",
-            "value": ".333"
+            "value": ".250"
           },
           {
             "label": "HR",
@@ -1225,13 +1245,13 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "8",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/tyrus-hall/19305",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Hall__Tyrus.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 35,
-        "battingAverage": 0.294,
-        "onBasePercentage": 0.447,
-        "sluggingPercentage": 0.394,
-        "ops": 0.841,
-        "atBats": 109,
+        "gamesPlayed": 37,
+        "gamesStarted": 36,
+        "battingAverage": 0.288,
+        "onBasePercentage": 0.441,
+        "sluggingPercentage": 0.387,
+        "ops": 0.828,
+        "atBats": 111,
         "runs": 34,
         "hits": 32,
         "doubles": 3,
@@ -1241,7 +1261,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "totalBases": 43,
         "walks": 26,
         "hitByPitch": 5,
-        "strikeouts": 46,
+        "strikeouts": 47,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
@@ -1249,9 +1269,9 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "stolenBases": 15,
         "stolenBasesAttempts": 16,
         "putouts": 19,
-        "assists": 72,
+        "assists": 74,
         "errors": 3,
-        "plateAppearances": 161,
+        "plateAppearances": 163,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1263,51 +1283,51 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "8",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/tyrus-hall/19305",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Hall__Tyrus.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
         "putouts": 19,
-        "assists": 72,
+        "assists": 74,
         "errors": 3,
-        "fieldingPercentage": 0.968,
+        "fieldingPercentage": 0.969,
         "doublePlays": 4,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 94
+        "totalChances": 96
       },
       "evaluation": {
-        "score": 54,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 92.77777777777777,
-          "Power": 19.473684210526322,
-          "Contact": 46.249999999999986,
-          "Discipline": 40.579710144927525,
+          "On-base": 89.44444444444444,
+          "Power": 17.631578947368425,
+          "Contact": 42.499999999999986,
+          "Discipline": 39.2434988179669,
           "Speed": 50
         },
         "summary": "Tyrus Hall profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .294",
-          "OBP .447",
-          "SLG .394"
+          "AVG .288",
+          "OBP .441",
+          "SLG .387"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".294"
+            "value": ".288"
           },
           {
             "label": "OBP",
-            "value": ".447"
+            "value": ".441"
           },
           {
             "label": "SLG",
-            "value": ".394"
+            "value": ".387"
           },
           {
             "label": "HR",
@@ -1513,32 +1533,32 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "10",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/bryson-thacker/19322",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Thacker__Bryson.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 0,
-        "appearances": 12,
+        "gamesPlayed": 13,
+        "gamesStarted": 1,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.12,
-        "whip": 1.62,
+        "earnedRunAverage": 7.2,
+        "whip": 1.9,
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 8.666666666666666,
-        "inningsPitchedDisplay": "8.2",
-        "hitsAllowed": 5,
-        "runsAllowed": 6,
-        "earnedRunsAllowed": 3,
-        "walksAllowed": 9,
+        "inningsPitched": 10,
+        "inningsPitchedDisplay": "10.0",
+        "hitsAllowed": 9,
+        "runsAllowed": 11,
+        "earnedRunsAllowed": 8,
+        "walksAllowed": 10,
         "strikeouts": 13,
         "doublesAllowed": 1,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 29,
+        "homeRunsAllowed": 4,
+        "opponentsAtBats": 37,
         "wildPitches": 3,
-        "hitBatters": 2,
+        "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.172,
-        "walksHits": 14
+        "opponentsBattingAverage": 0.243,
+        "walksHits": 19
       },
       "fieldingStats": {
         "rosterBioId": "19322",
@@ -1562,7 +1582,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "totalChances": 3
       },
       "evaluation": {
-        "score": 19,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1570,40 +1590,40 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 86.36363636363637,
-          "Command": 8.888888888888893,
+          "Miss bats": 70,
+          "Command": 5.9999999999999964,
           "Damage suppression": 0
         },
-        "summary": "Bryson Thacker looks like a LHP option who limits runs and misses bats.",
+        "summary": "Bryson Thacker looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 3.12",
-          "WHIP 1.62",
-          "K/9 13.5"
+          "ERA 7.20",
+          "WHIP 1.90",
+          "K/9 11.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.12"
+            "value": "7.20"
           },
           {
             "label": "WHIP",
-            "value": "1.62"
+            "value": "1.90"
           },
           {
             "label": "K/9",
-            "value": "13.5"
+            "value": "11.7"
           },
           {
             "label": "BB/9",
-            "value": "9.3"
+            "value": "9.0"
           },
           {
             "label": "HR/9",
-            "value": "1.04"
+            "value": "3.60"
           },
           {
             "label": "IP",
-            "value": "8.7"
+            "value": "10.0"
           }
         ],
         "metaLine": "R-SO / L/L",
@@ -1654,13 +1674,13 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "11",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/sean-smith/19319",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Smith__Sean.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 33,
-        "battingAverage": 0.331,
-        "onBasePercentage": 0.42,
-        "sluggingPercentage": 0.524,
-        "ops": 0.944,
-        "atBats": 124,
+        "gamesPlayed": 36,
+        "gamesStarted": 34,
+        "battingAverage": 0.328,
+        "onBasePercentage": 0.421,
+        "sluggingPercentage": 0.52,
+        "ops": 0.941,
+        "atBats": 125,
         "runs": 25,
         "hits": 41,
         "doubles": 7,
@@ -1668,9 +1688,9 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "homeRuns": 5,
         "runsBattedIn": 32,
         "totalBases": 65,
-        "walks": 16,
+        "walks": 17,
         "hitByPitch": 3,
-        "strikeouts": 26,
+        "strikeouts": 27,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 0,
@@ -1680,7 +1700,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "putouts": 7,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 150,
+        "plateAppearances": 152,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1713,30 +1733,30 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 77.77777777777776,
-          "Power": 53.6842105263158,
-          "Contact": 69.37500000000001,
-          "Discipline": 46.15384615384615,
+          "On-base": 78.33333333333331,
+          "Power": 52.63157894736843,
+          "Contact": 67.5,
+          "Discipline": 47.736625514403286,
           "Speed": 10
         },
         "summary": "Sean Smith profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .331",
-          "OBP .420",
-          "SLG .524"
+          "AVG .328",
+          "OBP .421",
+          "SLG .520"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".331"
+            "value": ".328"
           },
           {
             "label": "OBP",
-            "value": ".420"
+            "value": ".421"
           },
           {
             "label": "SLG",
-            "value": ".524"
+            "value": ".520"
           },
           {
             "label": "HR",
@@ -1799,13 +1819,13 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "12",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/brodie-kresser/19280",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Kresser__Brodie.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 28,
-        "battingAverage": 0.292,
-        "onBasePercentage": 0.402,
-        "sluggingPercentage": 0.417,
-        "ops": 0.819,
-        "atBats": 96,
+        "gamesPlayed": 30,
+        "gamesStarted": 29,
+        "battingAverage": 0.286,
+        "onBasePercentage": 0.4,
+        "sluggingPercentage": 0.408,
+        "ops": 0.808,
+        "atBats": 98,
         "runs": 19,
         "hits": 28,
         "doubles": 6,
@@ -1814,7 +1834,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "runsBattedIn": 20,
         "totalBases": 40,
         "walks": 13,
-        "hitByPitch": 6,
+        "hitByPitch": 7,
         "strikeouts": 16,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
@@ -1822,10 +1842,10 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "sacrificeHits": 1,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 99,
+        "putouts": 106,
         "assists": 37,
         "errors": 2,
-        "plateAppearances": 120,
+        "plateAppearances": 123,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -1837,51 +1857,51 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "12",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/brodie-kresser/19280",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Kresser__Brodie.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 27,
-        "putouts": 99,
+        "gamesPlayed": 28,
+        "gamesStarted": 28,
+        "putouts": 106,
         "assists": 37,
         "errors": 2,
         "fieldingPercentage": 0.986,
-        "doublePlays": 23,
+        "doublePlays": 24,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 138
+        "totalChances": 145
       },
       "evaluation": {
-        "score": 47,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 67.77777777777779,
-          "Power": 25.52631578947368,
-          "Contact": 44.999999999999986,
+          "On-base": 66.66666666666666,
+          "Power": 23.1578947368421,
+          "Contact": 41.24999999999998,
           "Discipline": 68.05555555555554,
           "Speed": 6.666666666666667
         },
         "summary": "Brodie Kresser profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .292",
-          "OBP .402",
-          "SLG .417"
+          "AVG .286",
+          "OBP .400",
+          "SLG .408"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".402"
+            "value": ".400"
           },
           {
             "label": "SLG",
-            "value": ".417"
+            "value": ".408"
           },
           {
             "label": "HR",
@@ -1944,13 +1964,13 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "13",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/ryan-maggy/19283",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Maggy__Ryan.jpg",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 1,
-        "battingAverage": 0.214,
-        "onBasePercentage": 0.313,
-        "sluggingPercentage": 0.214,
-        "ops": 0.527,
-        "atBats": 14,
+        "battingAverage": 0.2,
+        "onBasePercentage": 0.294,
+        "sluggingPercentage": 0.2,
+        "ops": 0.494,
+        "atBats": 15,
         "runs": 1,
         "hits": 3,
         "doubles": 0,
@@ -1960,7 +1980,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "totalBases": 3,
         "walks": 2,
         "hitByPitch": 0,
-        "strikeouts": 7,
+        "strikeouts": 8,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -1970,7 +1990,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "putouts": 9,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 17,
+        "plateAppearances": 18,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1997,36 +2017,36 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "totalChances": 9
       },
       "evaluation": {
-        "score": 8,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 18.333333333333318,
+          "On-base": 7.777777777777755,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 9.523809523809518,
+          "Discipline": 5.555555555555554,
           "Speed": 3.3333333333333335
         },
         "summary": "Ryan Maggy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .214",
-          "OBP .313",
-          "SLG .214"
+          "AVG .200",
+          "OBP .294",
+          "SLG .200"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".214"
+            "value": ".200"
           },
           {
             "label": "OBP",
-            "value": ".313"
+            "value": ".294"
           },
           {
             "label": "SLG",
-            "value": ".214"
+            "value": ".200"
           },
           {
             "label": "HR",
@@ -2089,13 +2109,13 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "14",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/weston-mazey/19309",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Mazey__Weston.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 1,
-        "battingAverage": 0.143,
-        "onBasePercentage": 0.333,
-        "sluggingPercentage": 0.143,
-        "ops": 0.476,
-        "atBats": 7,
+        "battingAverage": 0.125,
+        "onBasePercentage": 0.3,
+        "sluggingPercentage": 0.125,
+        "ops": 0.425,
+        "atBats": 8,
         "runs": 4,
         "hits": 1,
         "doubles": 0,
@@ -2105,17 +2125,17 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "totalBases": 1,
         "walks": 2,
         "hitByPitch": 0,
-        "strikeouts": 4,
+        "strikeouts": 5,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 1,
-        "assists": 2,
+        "putouts": 2,
+        "assists": 3,
         "errors": 1,
-        "plateAppearances": 9,
+        "plateAppearances": 10,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2127,51 +2147,51 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "14",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/weston-mazey/19309",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Mazey__Weston.jpg",
-        "gamesPlayed": 3,
+        "gamesPlayed": 4,
         "gamesStarted": 1,
-        "putouts": 1,
-        "assists": 2,
+        "putouts": 2,
+        "assists": 3,
         "errors": 1,
-        "fieldingPercentage": 0.75,
-        "doublePlays": 1,
+        "fieldingPercentage": 0.833,
+        "doublePlays": 2,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 4
+        "totalChances": 6
       },
       "evaluation": {
-        "score": 14,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 29.44444444444444,
+          "On-base": 11.111111111111091,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 33.33333333333333,
+          "Discipline": 22.22222222222222,
           "Speed": 0
         },
         "summary": "Weston Mazey gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .143",
-          "OBP .333",
-          "SLG .143"
+          "AVG .125",
+          "OBP .300",
+          "SLG .125"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".143"
+            "value": ".125"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".300"
           },
           {
             "label": "SLG",
-            "value": ".143"
+            "value": ".125"
           },
           {
             "label": "HR",
@@ -2376,13 +2396,13 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "16",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/brock-wills/19323",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Wills__Brock.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 32,
-        "battingAverage": 0.27,
-        "onBasePercentage": 0.362,
-        "sluggingPercentage": 0.402,
-        "ops": 0.764,
-        "atBats": 122,
+        "gamesPlayed": 37,
+        "gamesStarted": 33,
+        "battingAverage": 0.266,
+        "onBasePercentage": 0.361,
+        "sluggingPercentage": 0.395,
+        "ops": 0.756,
+        "atBats": 124,
         "runs": 21,
         "hits": 33,
         "doubles": 4,
@@ -2390,19 +2410,19 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "homeRuns": 2,
         "runsBattedIn": 20,
         "totalBases": 49,
-        "walks": 11,
+        "walks": 12,
         "hitByPitch": 7,
-        "strikeouts": 29,
+        "strikeouts": 31,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 3,
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
-        "putouts": 56,
+        "putouts": 57,
         "assists": 2,
         "errors": 0,
-        "plateAppearances": 149,
+        "plateAppearances": 152,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2414,9 +2434,9 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "16",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/brock-wills/19323",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Wills__Brock.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 30,
-        "putouts": 56,
+        "gamesPlayed": 33,
+        "gamesStarted": 31,
+        "putouts": 57,
         "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -2426,39 +2446,39 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 58
+        "totalChances": 59
       },
       "evaluation": {
-        "score": 30,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 45.555555555555536,
-          "Power": 21.578947368421062,
-          "Contact": 31.25000000000001,
-          "Discipline": 19.923371647509573,
+          "On-base": 44.99999999999998,
+          "Power": 19.736842105263165,
+          "Contact": 28.750000000000007,
+          "Discipline": 20.788530465949815,
           "Speed": 10
         },
         "summary": "Brock Wills gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .270",
-          "OBP .362",
-          "SLG .402"
+          "AVG .266",
+          "OBP .361",
+          "SLG .395"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".270"
+            "value": ".266"
           },
           {
             "label": "OBP",
-            "value": ".362"
+            "value": ".361"
           },
           {
             "label": "SLG",
-            "value": ".402"
+            "value": ".395"
           },
           {
             "label": "HR",
@@ -2521,33 +2541,33 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "17",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/matt-ineich/19307",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Ineich__Matt.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "battingAverage": 0.324,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "battingAverage": 0.327,
         "onBasePercentage": 0.451,
         "sluggingPercentage": 0.469,
         "ops": 0.92,
-        "atBats": 145,
+        "atBats": 147,
         "runs": 42,
-        "hits": 47,
+        "hits": 48,
         "doubles": 8,
         "triples": 2,
         "homeRuns": 3,
         "runsBattedIn": 30,
-        "totalBases": 68,
+        "totalBases": 69,
         "walks": 30,
         "hitByPitch": 5,
         "strikeouts": 20,
         "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 4,
+        "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 2,
         "stolenBasesAttempts": 5,
-        "putouts": 39,
-        "assists": 87,
+        "putouts": 40,
+        "assists": 88,
         "errors": 4,
-        "plateAppearances": 190,
+        "plateAppearances": 192,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -2559,19 +2579,19 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "17",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/matt-ineich/19307",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Ineich__Matt.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 35,
-        "putouts": 39,
-        "assists": 87,
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "putouts": 40,
+        "assists": 88,
         "errors": 4,
-        "fieldingPercentage": 0.969,
+        "fieldingPercentage": 0.97,
         "doublePlays": 22,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 130
+        "totalChances": 132
       },
       "evaluation": {
         "score": 67,
@@ -2582,20 +2602,20 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "components": {
           "On-base": 95,
           "Power": 39.210526315789465,
-          "Contact": 65,
+          "Contact": 66.875,
           "Discipline": 100,
           "Speed": 6.666666666666667
         },
         "summary": "Matt Ineich profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .324",
+          "AVG .327",
           "OBP .451",
           "SLG .469"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".324"
+            "value": ".327"
           },
           {
             "label": "OBP",
@@ -2808,13 +2828,13 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "19",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/matthew-robaugh/19314",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Robaugh__Matthew.jpg",
-        "gamesPlayed": 16,
+        "gamesPlayed": 17,
         "gamesStarted": 7,
-        "battingAverage": 0.226,
-        "onBasePercentage": 0.314,
-        "sluggingPercentage": 0.258,
-        "ops": 0.572,
-        "atBats": 31,
+        "battingAverage": 0.219,
+        "onBasePercentage": 0.306,
+        "sluggingPercentage": 0.25,
+        "ops": 0.556,
+        "atBats": 32,
         "runs": 4,
         "hits": 7,
         "doubles": 1,
@@ -2834,7 +2854,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "putouts": 10,
         "assists": 15,
         "errors": 2,
-        "plateAppearances": 35,
+        "plateAppearances": 36,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2861,36 +2881,36 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "totalChances": 27
       },
       "evaluation": {
-        "score": 9,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 18.888888888888875,
+          "On-base": 14.444444444444427,
           "Power": 0,
-          "Contact": 3.7500000000000036,
+          "Contact": 0,
           "Discipline": 19.44444444444444,
           "Speed": 0
         },
         "summary": "Matthew Robaugh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .226",
-          "OBP .314",
-          "SLG .258"
+          "AVG .219",
+          "OBP .306",
+          "SLG .250"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".226"
+            "value": ".219"
           },
           {
             "label": "OBP",
-            "value": ".314"
+            "value": ".306"
           },
           {
             "label": "SLG",
-            "value": ".258"
+            "value": ".250"
           },
           {
             "label": "HR",
@@ -3042,32 +3062,32 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "21",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/joshua-surigao/19321",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Surigao__Joshua.jpg",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 0,
-        "appearances": 4,
+        "appearances": 5,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.91,
-        "whip": 1.64,
+        "earnedRunAverage": 3.86,
+        "whip": 1.5,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 3.6666666666666665,
-        "inningsPitchedDisplay": "3.2",
+        "inningsPitched": 4.666666666666667,
+        "inningsPitchedDisplay": "4.2",
         "hitsAllowed": 4,
         "runsAllowed": 2,
         "earnedRunsAllowed": 2,
-        "walksAllowed": 2,
-        "strikeouts": 6,
+        "walksAllowed": 3,
+        "strikeouts": 7,
         "doublesAllowed": 1,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 14,
+        "opponentsAtBats": 16,
         "wildPitches": 0,
         "hitBatters": 0,
         "balks": 0,
-        "opponentsBattingAverage": 0.286,
-        "walksHits": 6
+        "opponentsBattingAverage": 0.25,
+        "walksHits": 7
       },
       "fieldingStats": {
         "rosterBioId": "19321",
@@ -3076,22 +3096,22 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "21",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/joshua-surigao/19321",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Surigao__Joshua.jpg",
-        "gamesPlayed": 1,
+        "gamesPlayed": 2,
         "gamesStarted": 0,
         "putouts": 1,
-        "assists": 0,
+        "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
-        "doublePlays": 0,
+        "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 1
+        "totalChances": 2
       },
       "evaluation": {
-        "score": 26,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3099,32 +3119,32 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 97.5206611570248,
-          "Command": 40,
+          "Miss bats": 86.36363636363636,
+          "Command": 26.66666666666667,
           "Damage suppression": 0
         },
-        "summary": "Joshua Surigao looks like a LHP option who misses bats.",
+        "summary": "Joshua Surigao looks like a LHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 4.91",
-          "WHIP 1.64",
-          "K/9 14.7"
+          "ERA 3.86",
+          "WHIP 1.50",
+          "K/9 13.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.91"
+            "value": "3.86"
           },
           {
             "label": "WHIP",
-            "value": "1.64"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "14.7"
+            "value": "13.5"
           },
           {
             "label": "BB/9",
-            "value": "4.9"
+            "value": "5.8"
           },
           {
             "label": "HR/9",
@@ -3132,7 +3152,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           },
           {
             "label": "IP",
-            "value": "3.7"
+            "value": "4.7"
           }
         ],
         "metaLine": "SO / L/L",
@@ -3184,32 +3204,32 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "23",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/david-hagen/19276",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Hagen__David.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 6,
-        "appearances": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.08,
-        "whip": 1.15,
+        "earnedRunAverage": 4.5,
+        "whip": 1.44,
         "wins": 3,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 17.333333333333332,
-        "inningsPitchedDisplay": "17.1",
-        "hitsAllowed": 10,
-        "runsAllowed": 4,
-        "earnedRunsAllowed": 4,
-        "walksAllowed": 10,
-        "strikeouts": 14,
+        "inningsPitched": 18,
+        "inningsPitchedDisplay": "18.0",
+        "hitsAllowed": 12,
+        "runsAllowed": 9,
+        "earnedRunsAllowed": 9,
+        "walksAllowed": 14,
+        "strikeouts": 15,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 59,
-        "wildPitches": 1,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 63,
+        "wildPitches": 3,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.169,
-        "walksHits": 20
+        "opponentsBattingAverage": 0.19,
+        "walksHits": 26
       },
       "fieldingStats": {
         "rosterBioId": "19276",
@@ -3218,10 +3238,10 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "23",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/david-hagen/19276",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Hagen__David.jpg",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 1,
         "putouts": 1,
-        "assists": 1,
+        "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -3230,7 +3250,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 2
+        "totalChances": 3
       },
       "evaluation": {
         "score": 7,
@@ -3241,40 +3261,40 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 29.72027972027973,
-          "Command": 8.000000000000004,
+          "Miss bats": 31.818181818181817,
+          "Command": 1.428571428571428,
           "Damage suppression": 0
         },
-        "summary": "David Hagen looks like a RHP option who limits runs and keeps traffic under control.",
+        "summary": "David Hagen gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 2.08",
-          "WHIP 1.15",
-          "K/9 7.3"
+          "ERA 4.50",
+          "WHIP 1.44",
+          "K/9 7.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.08"
+            "value": "4.50"
           },
           {
             "label": "WHIP",
-            "value": "1.15"
+            "value": "1.44"
           },
           {
             "label": "K/9",
-            "value": "7.3"
+            "value": "7.5"
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "7.0"
           },
           {
             "label": "HR/9",
-            "value": "1.04"
+            "value": "1.50"
           },
           {
             "label": "IP",
-            "value": "17.3"
+            "value": "18.0"
           }
         ],
         "metaLine": "SO / R/R",
@@ -4229,36 +4249,36 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "34",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/bryant-yoak/19289",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Yoak__Bryant.jpg",
-        "gamesPlayed": 8,
+        "gamesPlayed": 9,
         "gamesStarted": 0,
-        "appearances": 8,
+        "appearances": 9,
         "gamesCompleted": 0,
-        "earnedRunAverage": 9,
-        "whip": 1.71,
+        "earnedRunAverage": 11.05,
+        "whip": 2.05,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 7,
-        "inningsPitchedDisplay": "7.0",
-        "hitsAllowed": 5,
-        "runsAllowed": 7,
-        "earnedRunsAllowed": 7,
-        "walksAllowed": 7,
+        "inningsPitched": 7.333333333333333,
+        "inningsPitchedDisplay": "7.1",
+        "hitsAllowed": 6,
+        "runsAllowed": 10,
+        "earnedRunsAllowed": 9,
+        "walksAllowed": 9,
         "strikeouts": 11,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 26,
+        "opponentsAtBats": 28,
         "wildPitches": 0,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.192,
-        "walksHits": 12
+        "opponentsBattingAverage": 0.214,
+        "walksHits": 15
       },
       "fieldingStats": null,
       "evaluation": {
-        "score": 20,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4266,40 +4286,40 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 92.20779220779221,
-          "Command": 11.428571428571429,
+          "Miss bats": 86.36363636363636,
+          "Command": 4.444444444444442,
           "Damage suppression": 0
         },
         "summary": "Bryant Yoak looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 9.00",
-          "WHIP 1.71",
-          "K/9 14.1"
+          "ERA 11.05",
+          "WHIP 2.05",
+          "K/9 13.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.00"
+            "value": "11.05"
           },
           {
             "label": "WHIP",
-            "value": "1.71"
+            "value": "2.05"
           },
           {
             "label": "K/9",
-            "value": "14.1"
+            "value": "13.5"
           },
           {
             "label": "BB/9",
-            "value": "9.0"
+            "value": "11.0"
           },
           {
             "label": "HR/9",
-            "value": "3.86"
+            "value": "3.68"
           },
           {
             "label": "IP",
-            "value": "7.0"
+            "value": "7.3"
           }
         ],
         "metaLine": "SO / R/R",
@@ -4668,13 +4688,13 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "38",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/creed-erdos/19302",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Erdos__Creed.jpg",
-        "gamesPlayed": 8,
+        "gamesPlayed": 9,
         "gamesStarted": 0,
         "battingAverage": 0,
-        "onBasePercentage": 0.5,
+        "onBasePercentage": 0.4,
         "sluggingPercentage": 0,
-        "ops": 0.5,
-        "atBats": 2,
+        "ops": 0.4,
+        "atBats": 3,
         "runs": 1,
         "hits": 0,
         "doubles": 0,
@@ -4691,10 +4711,10 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 22,
+        "putouts": 25,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 4,
+        "plateAppearances": 5,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4706,9 +4726,9 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "38",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/creed-erdos/19302",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Erdos__Creed.jpg",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 0,
-        "putouts": 22,
+        "putouts": 25,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -4718,16 +4738,16 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 22
+        "totalChances": 25
       },
       "evaluation": {
-        "score": 32,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 100,
+          "On-base": 66.66666666666666,
           "Power": 0,
           "Contact": 0,
           "Discipline": 0,
@@ -4736,7 +4756,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "summary": "Creed Erdos profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
           "AVG .000",
-          "OBP .500",
+          "OBP .400",
           "SLG .000"
         ],
         "statCards": [
@@ -4746,7 +4766,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           },
           {
             "label": "OBP",
-            "value": ".500"
+            "value": ".400"
           },
           {
             "label": "SLG",
@@ -4956,32 +4976,32 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "45",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/david-perez/19313",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Perez__David.jpg",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 0,
-        "appearances": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.4,
-        "whip": 1.33,
+        "earnedRunAverage": 5.74,
+        "whip": 1.47,
         "wins": 2,
         "losses": 1,
         "saves": 6,
         "shutouts": 0,
-        "inningsPitched": 15,
-        "inningsPitchedDisplay": "15.0",
-        "hitsAllowed": 12,
-        "runsAllowed": 12,
-        "earnedRunsAllowed": 9,
-        "walksAllowed": 8,
-        "strikeouts": 18,
-        "doublesAllowed": 4,
+        "inningsPitched": 15.666666666666666,
+        "inningsPitchedDisplay": "15.2",
+        "hitsAllowed": 14,
+        "runsAllowed": 13,
+        "earnedRunsAllowed": 10,
+        "walksAllowed": 9,
+        "strikeouts": 20,
+        "doublesAllowed": 5,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 56,
+        "opponentsAtBats": 60,
         "wildPitches": 1,
         "hitBatters": 0,
         "balks": 0,
-        "opponentsBattingAverage": 0.214,
-        "walksHits": 20
+        "opponentsBattingAverage": 0.233,
+        "walksHits": 23
       },
       "fieldingStats": {
         "rosterBioId": "19313",
@@ -5005,7 +5025,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 16,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5013,40 +5033,40 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 61.81818181818183,
-          "Command": 25.00000000000001,
+          "Miss bats": 68.08510638297872,
+          "Command": 24.444444444444446,
           "Damage suppression": 0
         },
         "summary": "David Perez looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 1.33",
-          "K/9 10.8"
+          "ERA 5.74",
+          "WHIP 1.47",
+          "K/9 11.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.40"
+            "value": "5.74"
           },
           {
             "label": "WHIP",
-            "value": "1.33"
+            "value": "1.47"
           },
           {
             "label": "K/9",
-            "value": "10.8"
+            "value": "11.5"
           },
           {
             "label": "BB/9",
-            "value": "4.8"
+            "value": "5.2"
           },
           {
             "label": "HR/9",
-            "value": "1.80"
+            "value": "1.72"
           },
           {
             "label": "IP",
-            "value": "15.0"
+            "value": "15.7"
           }
         ],
         "metaLine": "FR / R/R",
@@ -5098,32 +5118,32 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "46",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/mac-stiffler/19287",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Stiffler__Mac.jpg",
-        "gamesPlayed": 6,
+        "gamesPlayed": 7,
         "gamesStarted": 0,
-        "appearances": 6,
+        "appearances": 7,
         "gamesCompleted": 0,
-        "earnedRunAverage": 8.44,
-        "whip": 2.44,
+        "earnedRunAverage": 7.94,
+        "whip": 2.47,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 5.333333333333333,
-        "inningsPitchedDisplay": "5.1",
+        "inningsPitched": 5.666666666666667,
+        "inningsPitchedDisplay": "5.2",
         "hitsAllowed": 8,
         "runsAllowed": 7,
         "earnedRunsAllowed": 5,
-        "walksAllowed": 5,
+        "walksAllowed": 6,
         "strikeouts": 10,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 24,
+        "opponentsAtBats": 25,
         "wildPitches": 3,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.333,
-        "walksHits": 13
+        "opponentsBattingAverage": 0.32,
+        "walksHits": 14
       },
       "fieldingStats": {
         "rosterBioId": "19287",
@@ -5132,22 +5152,22 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "46",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/mac-stiffler/19287",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Stiffler__Mac.jpg",
-        "gamesPlayed": 1,
+        "gamesPlayed": 2,
         "gamesStarted": 0,
         "putouts": 0,
-        "assists": 0,
+        "assists": 1,
         "errors": 1,
-        "fieldingPercentage": 0,
+        "fieldingPercentage": 0.5,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 1
+        "totalChances": 2
       },
       "evaluation": {
-        "score": 23,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5156,39 +5176,39 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 100,
-          "Command": 20,
+          "Command": 13.33333333333333,
           "Damage suppression": 0
         },
         "summary": "Mac Stiffler looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 8.44",
-          "WHIP 2.44",
-          "K/9 16.9"
+          "ERA 7.94",
+          "WHIP 2.47",
+          "K/9 15.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.44"
+            "value": "7.94"
           },
           {
             "label": "WHIP",
-            "value": "2.44"
+            "value": "2.47"
           },
           {
             "label": "K/9",
-            "value": "16.9"
+            "value": "15.9"
           },
           {
             "label": "BB/9",
-            "value": "8.4"
+            "value": "9.5"
           },
           {
             "label": "HR/9",
-            "value": "1.69"
+            "value": "1.59"
           },
           {
             "label": "IP",
-            "value": "5.3"
+            "value": "5.7"
           }
         ],
         "metaLine": "SO / R/R",
@@ -5240,32 +5260,32 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "48",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/jt-huether/19306",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Huether__JT.jpg",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 0,
-        "appearances": 4,
+        "appearances": 5,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.86,
-        "whip": 1.71,
+        "earnedRunAverage": 12,
+        "whip": 2.33,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 2.3333333333333335,
-        "inningsPitchedDisplay": "2.1",
-        "hitsAllowed": 0,
-        "runsAllowed": 1,
-        "earnedRunsAllowed": 1,
-        "walksAllowed": 4,
+        "inningsPitched": 3,
+        "inningsPitchedDisplay": "3.0",
+        "hitsAllowed": 1,
+        "runsAllowed": 4,
+        "earnedRunsAllowed": 4,
+        "walksAllowed": 6,
         "strikeouts": 4,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 7,
+        "opponentsAtBats": 10,
         "wildPitches": 1,
-        "hitBatters": 2,
+        "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0,
-        "walksHits": 4
+        "opponentsBattingAverage": 0.1,
+        "walksHits": 7
       },
       "fieldingStats": {
         "rosterBioId": "19306",
@@ -5289,7 +5309,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "totalChances": 0
       },
       "evaluation": {
-        "score": 20,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5297,32 +5317,32 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 100,
+          "Miss bats": 72.72727272727273,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "JT Huether looks like a RHP option who limits runs and misses bats.",
+        "summary": "JT Huether looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 3.86",
-          "WHIP 1.71",
-          "K/9 15.4"
+          "ERA 12.00",
+          "WHIP 2.33",
+          "K/9 12.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.86"
+            "value": "12.00"
           },
           {
             "label": "WHIP",
-            "value": "1.71"
+            "value": "2.33"
           },
           {
             "label": "K/9",
-            "value": "15.4"
+            "value": "12.0"
           },
           {
             "label": "BB/9",
-            "value": "15.4"
+            "value": "18.0"
           },
           {
             "label": "HR/9",
@@ -5330,7 +5350,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           },
           {
             "label": "IP",
-            "value": "2.3"
+            "value": "3.0"
           }
         ],
         "metaLine": "FR / R/R",
@@ -5381,13 +5401,13 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "51",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/colton-sims/19317",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Sims__Colton.jpg",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 0,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.2,
-        "sluggingPercentage": 0.5,
-        "ops": 0.7,
-        "atBats": 4,
+        "battingAverage": 0.2,
+        "onBasePercentage": 0.167,
+        "sluggingPercentage": 0.4,
+        "ops": 0.567,
+        "atBats": 5,
         "runs": 1,
         "hits": 1,
         "doubles": 1,
@@ -5397,7 +5417,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "totalBases": 2,
         "walks": 0,
         "hitByPitch": 0,
-        "strikeouts": 3,
+        "strikeouts": 4,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
@@ -5407,7 +5427,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "putouts": 2,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 5,
+        "plateAppearances": 6,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -5434,36 +5454,36 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 16,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
           "On-base": 0,
-          "Power": 47.36842105263158,
-          "Contact": 18.75,
+          "Power": 21.052631578947377,
+          "Contact": 0,
           "Discipline": 0,
           "Speed": 0
         },
         "summary": "Colton Sims gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .200",
-          "SLG .500"
+          "AVG .200",
+          "OBP .167",
+          "SLG .400"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
-          },
-          {
-            "label": "OBP",
             "value": ".200"
           },
           {
+            "label": "OBP",
+            "value": ".167"
+          },
+          {
             "label": "SLG",
-            "value": ".500"
+            "value": ".400"
           },
           {
             "label": "HR",
@@ -5527,36 +5547,56 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "52",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/weston-smith/19318",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Smith__Weston.jpg",
-        "gamesPlayed": 5,
+        "gamesPlayed": 6,
         "gamesStarted": 0,
-        "appearances": 5,
+        "appearances": 6,
         "gamesCompleted": 0,
-        "earnedRunAverage": 1.93,
-        "whip": 0.86,
+        "earnedRunAverage": 6.35,
+        "whip": 1.24,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 4.666666666666667,
-        "inningsPitchedDisplay": "4.2",
-        "hitsAllowed": 4,
-        "runsAllowed": 1,
-        "earnedRunsAllowed": 1,
-        "walksAllowed": 0,
+        "inningsPitched": 5.666666666666667,
+        "inningsPitchedDisplay": "5.2",
+        "hitsAllowed": 6,
+        "runsAllowed": 4,
+        "earnedRunsAllowed": 4,
+        "walksAllowed": 1,
         "strikeouts": 3,
-        "doublesAllowed": 1,
+        "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 17,
+        "opponentsAtBats": 22,
         "wildPitches": 0,
-        "hitBatters": 0,
+        "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.235,
-        "walksHits": 4
+        "opponentsBattingAverage": 0.273,
+        "walksHits": 7
       },
-      "fieldingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "19318",
+        "name": "Weston Smith",
+        "normalizedName": "weston smith",
+        "jersey": "52",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/weston-smith/19318",
+        "imageUrl": "https://wvusports.com/images/2026/1/15/Smith__Weston.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 1
+      },
       "evaluation": {
-        "score": 19,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5564,40 +5604,40 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 16.233766233766232,
-          "Command": 100,
+          "Miss bats": 6.951871657754011,
+          "Command": 40,
           "Damage suppression": 0
         },
-        "summary": "Weston Smith looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
+        "summary": "Weston Smith looks like a RHP option who throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.93",
-          "WHIP 0.86",
-          "K/9 5.8"
+          "ERA 6.35",
+          "WHIP 1.24",
+          "K/9 4.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.93"
+            "value": "6.35"
           },
           {
             "label": "WHIP",
-            "value": "0.86"
+            "value": "1.24"
           },
           {
             "label": "K/9",
-            "value": "5.8"
+            "value": "4.8"
           },
           {
             "label": "BB/9",
-            "value": "0.0"
+            "value": "1.6"
           },
           {
             "label": "HR/9",
-            "value": "1.93"
+            "value": "1.59"
           },
           {
             "label": "IP",
-            "value": "4.7"
+            "value": "5.7"
           }
         ],
         "metaLine": "FR / R/R",
@@ -5771,36 +5811,56 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "jersey": "55",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/ben-mcdougal/19284",
         "imageUrl": "https://wvusports.com/images/2026/1/15/McDougal__Ben.jpg",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 0,
-        "appearances": 4,
+        "appearances": 5,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.75,
-        "whip": 1.88,
+        "earnedRunAverage": 4.91,
+        "whip": 2.18,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 2.6666666666666665,
-        "inningsPitchedDisplay": "2.2",
-        "hitsAllowed": 2,
-        "runsAllowed": 3,
+        "inningsPitched": 3.6666666666666665,
+        "inningsPitchedDisplay": "3.2",
+        "hitsAllowed": 3,
+        "runsAllowed": 6,
         "earnedRunsAllowed": 2,
-        "walksAllowed": 3,
-        "strikeouts": 1,
+        "walksAllowed": 5,
+        "strikeouts": 2,
         "doublesAllowed": 1,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 9,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 13,
         "wildPitches": 1,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.222,
-        "walksHits": 5
+        "opponentsBattingAverage": 0.231,
+        "walksHits": 8
       },
-      "fieldingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "19284",
+        "name": "Ben McDougal",
+        "normalizedName": "ben mcdougal",
+        "jersey": "55",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/ben-mcdougal/19284",
+        "imageUrl": "https://wvusports.com/images/2026/1/15/McDougal__Ben.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 1
+      },
       "evaluation": {
-        "score": 0,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5808,40 +5868,40 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 0,
+          "Miss bats": 8.264462809917356,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Ben McDougal gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 1.88",
-          "K/9 3.4"
+          "ERA 4.91",
+          "WHIP 2.18",
+          "K/9 4.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "4.91"
           },
           {
             "label": "WHIP",
-            "value": "1.88"
+            "value": "2.18"
           },
           {
             "label": "K/9",
-            "value": "3.4"
+            "value": "4.9"
           },
           {
             "label": "BB/9",
-            "value": "10.1"
+            "value": "12.3"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "2.45"
           },
           {
             "label": "IP",
-            "value": "2.7"
+            "value": "3.7"
           }
         ],
         "metaLine": "SR / L/L",
@@ -5872,29 +5932,29 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "position": "OF/C",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 41,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Matthew Graveline gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .290",
-          "OBP .377",
-          "SLG .443"
+          "AVG .293",
+          "OBP .383",
+          "SLG .444"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".293"
           },
           {
             "label": "OBP",
-            "value": ".377"
+            "value": ".383"
           },
           {
             "label": "SLG",
-            "value": ".443"
+            "value": ".444"
           },
           {
             "label": "HR",
@@ -5910,10 +5970,10 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           }
         ],
         "components": {
-          "On-base": 53.88888888888887,
-          "Power": 32.36842105263158,
-          "Contact": 43.749999999999986,
-          "Discipline": 43.621399176954725,
+          "On-base": 57.22222222222222,
+          "Power": 32.631578947368425,
+          "Contact": 45.624999999999986,
+          "Discipline": 45.23809523809523,
           "Speed": 13.333333333333334
         },
         "metaLine": "SR / R/R",
@@ -6017,22 +6077,22 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         },
         "summary": "Gavin Kelly profiles as a UTL piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .397",
-          "OBP .482",
-          "SLG .645"
+          "AVG .394",
+          "OBP .483",
+          "SLG .641"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".397"
+            "value": ".394"
           },
           {
             "label": "OBP",
-            "value": ".482"
+            "value": ".483"
           },
           {
             "label": "SLG",
-            "value": ".645"
+            "value": ".641"
           },
           {
             "label": "HR",
@@ -6049,9 +6109,9 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 85.5263157894737,
+          "Power": 84.47368421052633,
           "Contact": 100,
-          "Discipline": 88.88888888888889,
+          "Discipline": 93.93939393939392,
           "Speed": 10
         },
         "metaLine": "SO / R/R",
@@ -6216,29 +6276,29 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "position": "UTL",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 43,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Armani Guzman profiles as a UTL piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .282",
-          "OBP .363",
-          "SLG .382"
+          "AVG .280",
+          "OBP .365",
+          "SLG .379"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".282"
+            "value": ".280"
           },
           {
             "label": "OBP",
-            "value": ".363"
+            "value": ".365"
           },
           {
             "label": "SLG",
-            "value": ".382"
+            "value": ".379"
           },
           {
             "label": "HR",
@@ -6254,10 +6314,10 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           }
         ],
         "components": {
-          "On-base": 46.11111111111109,
-          "Power": 16.315789473684212,
-          "Contact": 38.74999999999998,
-          "Discipline": 66.66666666666666,
+          "On-base": 47.22222222222221,
+          "Power": 15.526315789473685,
+          "Contact": 37.500000000000014,
+          "Discipline": 71.11111111111109,
           "Speed": 80
         },
         "metaLine": "JR / L/R",
@@ -6285,29 +6345,29 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "position": "OF",
         "classYear": "5TH",
         "handedness": "L/L",
-        "score": 86,
+        "score": 84,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Paul Schoenfeld profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .368",
-          "OBP .494",
-          "SLG .571"
+          "AVG .360",
+          "OBP .485",
+          "SLG .559"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".368"
+            "value": ".360"
           },
           {
             "label": "OBP",
-            "value": ".494"
+            "value": ".485"
           },
           {
             "label": "SLG",
-            "value": ".571"
+            "value": ".559"
           },
           {
             "label": "HR",
@@ -6324,8 +6384,8 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 66.05263157894737,
-          "Contact": 92.5,
+          "Power": 62.89473684210528,
+          "Contact": 87.49999999999999,
           "Discipline": 100,
           "Speed": 60
         },
@@ -6354,29 +6414,29 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "position": "OF",
         "classYear": "R-FR",
         "handedness": "L/R",
-        "score": 23,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Maxwell Molessa gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .333",
-          "OBP .333",
-          "SLG .333"
+          "AVG .250",
+          "OBP .250",
+          "SLG .250"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".333"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".250"
           },
           {
             "label": "SLG",
-            "value": ".333"
+            "value": ".250"
           },
           {
             "label": "HR",
@@ -6392,9 +6452,9 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           }
         ],
         "components": {
-          "On-base": 29.44444444444444,
-          "Power": 3.421052631578951,
-          "Contact": 70.625,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 18.75,
           "Discipline": 0,
           "Speed": 0
         },
@@ -6423,29 +6483,29 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 54,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tyrus Hall profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .294",
-          "OBP .447",
-          "SLG .394"
+          "AVG .288",
+          "OBP .441",
+          "SLG .387"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".294"
+            "value": ".288"
           },
           {
             "label": "OBP",
-            "value": ".447"
+            "value": ".441"
           },
           {
             "label": "SLG",
-            "value": ".394"
+            "value": ".387"
           },
           {
             "label": "HR",
@@ -6461,10 +6521,10 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           }
         ],
         "components": {
-          "On-base": 92.77777777777777,
-          "Power": 19.473684210526322,
-          "Contact": 46.249999999999986,
-          "Discipline": 40.579710144927525,
+          "On-base": 89.44444444444444,
+          "Power": 17.631578947368425,
+          "Contact": 42.499999999999986,
+          "Discipline": 39.2434988179669,
           "Speed": 50
         },
         "metaLine": "JR / R/R",
@@ -6561,48 +6621,48 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "position": "LHP",
         "classYear": "R-SO",
         "handedness": "L/L",
-        "score": 19,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Bryson Thacker looks like a LHP option who limits runs and misses bats.",
+        "summary": "Bryson Thacker looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 3.12",
-          "WHIP 1.62",
-          "K/9 13.5"
+          "ERA 7.20",
+          "WHIP 1.90",
+          "K/9 11.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.12"
+            "value": "7.20"
           },
           {
             "label": "WHIP",
-            "value": "1.62"
+            "value": "1.90"
           },
           {
             "label": "K/9",
-            "value": "13.5"
+            "value": "11.7"
           },
           {
             "label": "BB/9",
-            "value": "9.3"
+            "value": "9.0"
           },
           {
             "label": "HR/9",
-            "value": "1.04"
+            "value": "3.60"
           },
           {
             "label": "IP",
-            "value": "8.7"
+            "value": "10.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 86.36363636363637,
-          "Command": 8.888888888888893,
+          "Miss bats": 70,
+          "Command": 5.9999999999999964,
           "Damage suppression": 0
         },
         "metaLine": "R-SO / L/L",
@@ -6637,22 +6697,22 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         },
         "summary": "Sean Smith profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .331",
-          "OBP .420",
-          "SLG .524"
+          "AVG .328",
+          "OBP .421",
+          "SLG .520"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".331"
+            "value": ".328"
           },
           {
             "label": "OBP",
-            "value": ".420"
+            "value": ".421"
           },
           {
             "label": "SLG",
-            "value": ".524"
+            "value": ".520"
           },
           {
             "label": "HR",
@@ -6668,10 +6728,10 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           }
         ],
         "components": {
-          "On-base": 77.77777777777776,
-          "Power": 53.6842105263158,
-          "Contact": 69.37500000000001,
-          "Discipline": 46.15384615384615,
+          "On-base": 78.33333333333331,
+          "Power": 52.63157894736843,
+          "Contact": 67.5,
+          "Discipline": 47.736625514403286,
           "Speed": 10
         },
         "metaLine": "GR / R/R",
@@ -6699,29 +6759,29 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "position": "INF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 47,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brodie Kresser profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .292",
-          "OBP .402",
-          "SLG .417"
+          "AVG .286",
+          "OBP .400",
+          "SLG .408"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".402"
+            "value": ".400"
           },
           {
             "label": "SLG",
-            "value": ".417"
+            "value": ".408"
           },
           {
             "label": "HR",
@@ -6737,9 +6797,9 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           }
         ],
         "components": {
-          "On-base": 67.77777777777779,
-          "Power": 25.52631578947368,
-          "Contact": 44.999999999999986,
+          "On-base": 66.66666666666666,
+          "Power": 23.1578947368421,
+          "Contact": 41.24999999999998,
           "Discipline": 68.05555555555554,
           "Speed": 6.666666666666667
         },
@@ -6768,29 +6828,29 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "position": "INF",
         "classYear": "R-FR",
         "handedness": "L/R",
-        "score": 8,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ryan Maggy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .214",
-          "OBP .313",
-          "SLG .214"
+          "AVG .200",
+          "OBP .294",
+          "SLG .200"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".214"
+            "value": ".200"
           },
           {
             "label": "OBP",
-            "value": ".313"
+            "value": ".294"
           },
           {
             "label": "SLG",
-            "value": ".214"
+            "value": ".200"
           },
           {
             "label": "HR",
@@ -6806,10 +6866,10 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           }
         ],
         "components": {
-          "On-base": 18.333333333333318,
+          "On-base": 7.777777777777755,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 9.523809523809518,
+          "Discipline": 5.555555555555554,
           "Speed": 3.3333333333333335
         },
         "metaLine": "R-FR / L/R",
@@ -6837,29 +6897,29 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "B/R",
-        "score": 14,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Weston Mazey gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .143",
-          "OBP .333",
-          "SLG .143"
+          "AVG .125",
+          "OBP .300",
+          "SLG .125"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".143"
+            "value": ".125"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".300"
           },
           {
             "label": "SLG",
-            "value": ".143"
+            "value": ".125"
           },
           {
             "label": "HR",
@@ -6875,10 +6935,10 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           }
         ],
         "components": {
-          "On-base": 29.44444444444444,
+          "On-base": 11.111111111111091,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 33.33333333333333,
+          "Discipline": 22.22222222222222,
           "Speed": 0
         },
         "metaLine": "FR / B/R",
@@ -6975,29 +7035,29 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 30,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brock Wills gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .270",
-          "OBP .362",
-          "SLG .402"
+          "AVG .266",
+          "OBP .361",
+          "SLG .395"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".270"
+            "value": ".266"
           },
           {
             "label": "OBP",
-            "value": ".362"
+            "value": ".361"
           },
           {
             "label": "SLG",
-            "value": ".402"
+            "value": ".395"
           },
           {
             "label": "HR",
@@ -7013,10 +7073,10 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           }
         ],
         "components": {
-          "On-base": 45.555555555555536,
-          "Power": 21.578947368421062,
-          "Contact": 31.25000000000001,
-          "Discipline": 19.923371647509573,
+          "On-base": 44.99999999999998,
+          "Power": 19.736842105263165,
+          "Contact": 28.750000000000007,
+          "Discipline": 20.788530465949815,
           "Speed": 10
         },
         "metaLine": "SR / L/R",
@@ -7051,14 +7111,14 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         },
         "summary": "Matt Ineich profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .324",
+          "AVG .327",
           "OBP .451",
           "SLG .469"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".324"
+            "value": ".327"
           },
           {
             "label": "OBP",
@@ -7084,7 +7144,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "components": {
           "On-base": 95,
           "Power": 39.210526315789465,
-          "Contact": 65,
+          "Contact": 66.875,
           "Discipline": 100,
           "Speed": 6.666666666666667
         },
@@ -7182,29 +7242,29 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 9,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Matthew Robaugh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .226",
-          "OBP .314",
-          "SLG .258"
+          "AVG .219",
+          "OBP .306",
+          "SLG .250"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".226"
+            "value": ".219"
           },
           {
             "label": "OBP",
-            "value": ".314"
+            "value": ".306"
           },
           {
             "label": "SLG",
-            "value": ".258"
+            "value": ".250"
           },
           {
             "label": "HR",
@@ -7220,9 +7280,9 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           }
         ],
         "components": {
-          "On-base": 18.888888888888875,
+          "On-base": 14.444444444444427,
           "Power": 0,
-          "Contact": 3.7500000000000036,
+          "Contact": 0,
           "Discipline": 19.44444444444444,
           "Speed": 0
         },
@@ -7319,33 +7379,33 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "position": "LHP",
         "classYear": "SO",
         "handedness": "L/L",
-        "score": 26,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Joshua Surigao looks like a LHP option who misses bats.",
+        "summary": "Joshua Surigao looks like a LHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 4.91",
-          "WHIP 1.64",
-          "K/9 14.7"
+          "ERA 3.86",
+          "WHIP 1.50",
+          "K/9 13.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.91"
+            "value": "3.86"
           },
           {
             "label": "WHIP",
-            "value": "1.64"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "14.7"
+            "value": "13.5"
           },
           {
             "label": "BB/9",
-            "value": "4.9"
+            "value": "5.8"
           },
           {
             "label": "HR/9",
@@ -7353,14 +7413,14 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           },
           {
             "label": "IP",
-            "value": "3.7"
+            "value": "4.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 97.5206611570248,
-          "Command": 40,
+          "Miss bats": 86.36363636363636,
+          "Command": 26.66666666666667,
           "Damage suppression": 0
         },
         "metaLine": "SO / L/L",
@@ -7393,43 +7453,43 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "David Hagen looks like a RHP option who limits runs and keeps traffic under control.",
+        "summary": "David Hagen gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 2.08",
-          "WHIP 1.15",
-          "K/9 7.3"
+          "ERA 4.50",
+          "WHIP 1.44",
+          "K/9 7.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.08"
+            "value": "4.50"
           },
           {
             "label": "WHIP",
-            "value": "1.15"
+            "value": "1.44"
           },
           {
             "label": "K/9",
-            "value": "7.3"
+            "value": "7.5"
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "7.0"
           },
           {
             "label": "HR/9",
-            "value": "1.04"
+            "value": "1.50"
           },
           {
             "label": "IP",
-            "value": "17.3"
+            "value": "18.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 29.72027972027973,
-          "Command": 8.000000000000004,
+          "Miss bats": 31.818181818181817,
+          "Command": 1.428571428571428,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -7939,48 +7999,48 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 20,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Bryant Yoak looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 9.00",
-          "WHIP 1.71",
-          "K/9 14.1"
+          "ERA 11.05",
+          "WHIP 2.05",
+          "K/9 13.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.00"
+            "value": "11.05"
           },
           {
             "label": "WHIP",
-            "value": "1.71"
+            "value": "2.05"
           },
           {
             "label": "K/9",
-            "value": "14.1"
+            "value": "13.5"
           },
           {
             "label": "BB/9",
-            "value": "9.0"
+            "value": "11.0"
           },
           {
             "label": "HR/9",
-            "value": "3.86"
+            "value": "3.68"
           },
           {
             "label": "IP",
-            "value": "7.0"
+            "value": "7.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 92.20779220779221,
-          "Command": 11.428571428571429,
+          "Miss bats": 86.36363636363636,
+          "Command": 4.444444444444442,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -8213,7 +8273,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "position": "C",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 32,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -8221,7 +8281,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "summary": "Creed Erdos profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
           "AVG .000",
-          "OBP .500",
+          "OBP .400",
           "SLG .000"
         ],
         "statCards": [
@@ -8231,7 +8291,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           },
           {
             "label": "OBP",
-            "value": ".500"
+            "value": ".400"
           },
           {
             "label": "SLG",
@@ -8251,7 +8311,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           }
         ],
         "components": {
-          "On-base": 100,
+          "On-base": 66.66666666666666,
           "Power": 0,
           "Contact": 0,
           "Discipline": 0,
@@ -8351,48 +8411,48 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 16,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "David Perez looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 1.33",
-          "K/9 10.8"
+          "ERA 5.74",
+          "WHIP 1.47",
+          "K/9 11.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.40"
+            "value": "5.74"
           },
           {
             "label": "WHIP",
-            "value": "1.33"
+            "value": "1.47"
           },
           {
             "label": "K/9",
-            "value": "10.8"
+            "value": "11.5"
           },
           {
             "label": "BB/9",
-            "value": "4.8"
+            "value": "5.2"
           },
           {
             "label": "HR/9",
-            "value": "1.80"
+            "value": "1.72"
           },
           {
             "label": "IP",
-            "value": "15.0"
+            "value": "15.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 61.81818181818183,
-          "Command": 25.00000000000001,
+          "Miss bats": 68.08510638297872,
+          "Command": 24.444444444444446,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -8420,48 +8480,48 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 23,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Mac Stiffler looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 8.44",
-          "WHIP 2.44",
-          "K/9 16.9"
+          "ERA 7.94",
+          "WHIP 2.47",
+          "K/9 15.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.44"
+            "value": "7.94"
           },
           {
             "label": "WHIP",
-            "value": "2.44"
+            "value": "2.47"
           },
           {
             "label": "K/9",
-            "value": "16.9"
+            "value": "15.9"
           },
           {
             "label": "BB/9",
-            "value": "8.4"
+            "value": "9.5"
           },
           {
             "label": "HR/9",
-            "value": "1.69"
+            "value": "1.59"
           },
           {
             "label": "IP",
-            "value": "5.3"
+            "value": "5.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 100,
-          "Command": 20,
+          "Command": 13.33333333333333,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -8489,33 +8549,33 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 20,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "JT Huether looks like a RHP option who limits runs and misses bats.",
+        "summary": "JT Huether looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 3.86",
-          "WHIP 1.71",
-          "K/9 15.4"
+          "ERA 12.00",
+          "WHIP 2.33",
+          "K/9 12.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.86"
+            "value": "12.00"
           },
           {
             "label": "WHIP",
-            "value": "1.71"
+            "value": "2.33"
           },
           {
             "label": "K/9",
-            "value": "15.4"
+            "value": "12.0"
           },
           {
             "label": "BB/9",
-            "value": "15.4"
+            "value": "18.0"
           },
           {
             "label": "HR/9",
@@ -8523,13 +8583,13 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           },
           {
             "label": "IP",
-            "value": "2.3"
+            "value": "3.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 100,
+          "Miss bats": 72.72727272727273,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -8558,29 +8618,29 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 16,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Colton Sims gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .200",
-          "SLG .500"
+          "AVG .200",
+          "OBP .167",
+          "SLG .400"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
-          },
-          {
-            "label": "OBP",
             "value": ".200"
           },
           {
+            "label": "OBP",
+            "value": ".167"
+          },
+          {
             "label": "SLG",
-            "value": ".500"
+            "value": ".400"
           },
           {
             "label": "HR",
@@ -8597,8 +8657,8 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         ],
         "components": {
           "On-base": 0,
-          "Power": 47.36842105263158,
-          "Contact": 18.75,
+          "Power": 21.052631578947377,
+          "Contact": 0,
           "Discipline": 0,
           "Speed": 0
         },
@@ -8627,48 +8687,48 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 19,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Weston Smith looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
+        "summary": "Weston Smith looks like a RHP option who throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.93",
-          "WHIP 0.86",
-          "K/9 5.8"
+          "ERA 6.35",
+          "WHIP 1.24",
+          "K/9 4.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.93"
+            "value": "6.35"
           },
           {
             "label": "WHIP",
-            "value": "0.86"
+            "value": "1.24"
           },
           {
             "label": "K/9",
-            "value": "5.8"
+            "value": "4.8"
           },
           {
             "label": "BB/9",
-            "value": "0.0"
+            "value": "1.6"
           },
           {
             "label": "HR/9",
-            "value": "1.93"
+            "value": "1.59"
           },
           {
             "label": "IP",
-            "value": "4.7"
+            "value": "5.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 16.233766233766232,
-          "Command": 100,
+          "Miss bats": 6.951871657754011,
+          "Command": 40,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -8765,47 +8825,47 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "position": "LHP",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 0,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ben McDougal gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 1.88",
-          "K/9 3.4"
+          "ERA 4.91",
+          "WHIP 2.18",
+          "K/9 4.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "4.91"
           },
           {
             "label": "WHIP",
-            "value": "1.88"
+            "value": "2.18"
           },
           {
             "label": "K/9",
-            "value": "3.4"
+            "value": "4.9"
           },
           {
             "label": "BB/9",
-            "value": "10.1"
+            "value": "12.3"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "2.45"
           },
           {
             "label": "IP",
-            "value": "2.7"
+            "value": "3.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 0,
+          "Miss bats": 8.264462809917356,
           "Command": 0,
           "Damage suppression": 0
         },
