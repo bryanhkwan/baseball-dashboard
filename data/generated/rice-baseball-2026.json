@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T11:22:18.433Z",
+  "generatedAt": "2026-04-23T11:37:09.740Z",
   "season": 2026,
   "school": {
     "slug": "rice",
@@ -39,14 +39,14 @@
   },
   "teamSummary": {
     "record": "24-18, 7-8",
-    "battingAverage": ".247",
+    "battingAverage": ".248",
     "earnedRunAverage": "4.50",
     "wins": "24",
     "losses": "18",
     "hitting": {
       "atBats": "1351",
       "runsScored": "218",
-      "hits": "334",
+      "hits": "335",
       "runsBattedIn": "201",
       "doubles": "65",
       "triples": "10",
@@ -4745,18 +4745,18 @@
         "imageUrl": "https://riceowls.com/images/2025/9/1/48_BOCACHICA_HIRAM_III.png",
         "gamesPlayed": 36,
         "gamesStarted": 35,
-        "battingAverage": 0.197,
-        "onBasePercentage": 0.322,
-        "sluggingPercentage": 0.299,
-        "ops": 0.621,
+        "battingAverage": 0.205,
+        "onBasePercentage": 0.329,
+        "sluggingPercentage": 0.307,
+        "ops": 0.636,
         "atBats": 127,
         "runs": 18,
-        "hits": 25,
+        "hits": 26,
         "doubles": 6,
         "triples": 2,
         "homeRuns": 1,
         "runsBattedIn": 10,
-        "totalBases": 38,
+        "totalBases": 39,
         "walks": 18,
         "hitByPitch": 6,
         "strikeouts": 20,
@@ -4796,13 +4796,13 @@
         "totalChances": 139
       },
       "evaluation": {
-        "score": 19,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 23.333333333333325,
+          "On-base": 27.222222222222214,
           "Power": 0,
           "Contact": 0,
           "Discipline": 77.77777777777776,
@@ -4810,22 +4810,22 @@
         },
         "summary": "Hiram Bocachica Jr. gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .197",
-          "OBP .322",
-          "SLG .299"
+          "AVG .205",
+          "OBP .329",
+          "SLG .307"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".197"
+            "value": ".205"
           },
           {
             "label": "OBP",
-            "value": ".322"
+            "value": ".329"
           },
           {
             "label": "SLG",
-            "value": ".299"
+            "value": ".307"
           },
           {
             "label": "HR",
@@ -7900,29 +7900,29 @@
         "position": "INF",
         "classYear": "SO",
         "handedness": "R-R",
-        "score": 19,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Hiram Bocachica Jr. gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .197",
-          "OBP .322",
-          "SLG .299"
+          "AVG .205",
+          "OBP .329",
+          "SLG .307"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".197"
+            "value": ".205"
           },
           {
             "label": "OBP",
-            "value": ".322"
+            "value": ".329"
           },
           {
             "label": "SLG",
-            "value": ".299"
+            "value": ".307"
           },
           {
             "label": "HR",
@@ -7938,7 +7938,7 @@
           }
         ],
         "components": {
-          "On-base": 23.333333333333325,
+          "On-base": 27.222222222222214,
           "Power": 0,
           "Contact": 0,
           "Discipline": 77.77777777777776,

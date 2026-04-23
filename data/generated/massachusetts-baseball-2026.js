@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.massachusetts2026 = {
-  "generatedAt": "2026-04-22T11:22:05.991Z",
+  "generatedAt": "2026-04-23T11:36:56.139Z",
   "season": 2026,
   "school": {
     "slug": "massachusetts",
@@ -29,7 +29,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 18,
     "playersWithPitchingStats": 16,
-    "playersWithFieldingStats": 28,
+    "playersWithFieldingStats": 29,
     "mergedPlayersWithAnyStats": 33,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
     }
   },
   "teamSummary": {
-    "record": "12-20, 8-13",
-    "battingAverage": ".255",
-    "earnedRunAverage": "7.50",
+    "record": "12-21, 8-13",
+    "battingAverage": ".254",
+    "earnedRunAverage": "7.58",
     "wins": "12",
-    "losses": "20",
+    "losses": "21",
     "hitting": {
-      "atBats": "1083",
-      "runsScored": "181",
-      "hits": "276",
-      "runsBattedIn": "167",
-      "doubles": "43",
-      "triples": "6",
+      "atBats": "1117",
+      "runsScored": "186",
+      "hits": "284",
+      "runsBattedIn": "171",
+      "doubles": "45",
+      "triples": "7",
       "homeRuns": "31",
-      "walks": "146",
+      "walks": "151",
       "intentionalWalks": "3",
-      "strikeouts": "285",
-      "strikeoutsLooking": "83",
-      "hitByPitch": "45",
+      "strikeouts": "290",
+      "strikeoutsLooking": "85",
+      "hitByPitch": "49",
       "stolenBases": "65",
       "caughtStealing": "13",
       "sacrificeHits": "12",
-      "sacrificeFlies": "11",
+      "sacrificeFlies": "12",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "216",
-      "flyOuts": "295",
-      "groundedIntoDoublePlay": "11",
+      "groundOuts": "224",
+      "flyOuts": "307",
+      "groundedIntoDoublePlay": "12",
       "pickedOff": "3",
-      "doublePlaysHitInto": "15",
+      "doublePlaysHitInto": "16",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "823",
-      "assists": "234",
-      "errors": "34",
+      "putouts": "850",
+      "assists": "240",
+      "errors": "37",
       "passedBalls": "5",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "96",
+      "stolenBasesAgainst": "97",
       "caughtStealingBy": "18",
       "involvedInDoublePlays": "13",
       "involvedInTriplePlays": "0",
-      "totalChances": "1091",
-      "fieldingPercentage": ".969"
+      "totalChances": "1127",
+      "fieldingPercentage": ".967"
     },
     "pitching": {
       "orderOfAppearance": "3",
       "wins": "12",
-      "saves": "19",
-      "losses": "20",
+      "saves": "20",
+      "losses": "21",
       "gamesStarted": "1",
       "gamesCompleted": "0",
       "shutouts": "2",
       "creditForCombinedShutout": "1",
-      "inningsPitched": "274.2",
-      "hitsAllowed": "288",
-      "runsAllowed": "249",
-      "earnedRunsAllowed": "229",
-      "walksAllowed": "194",
-      "strikeouts": "253",
-      "battersFaced": "1348",
-      "opponentAtBats": "1054",
-      "doublesAllowed": "52",
+      "inningsPitched": "283.2",
+      "hitsAllowed": "302",
+      "runsAllowed": "261",
+      "earnedRunsAllowed": "239",
+      "walksAllowed": "200",
+      "strikeouts": "269",
+      "battersFaced": "1401",
+      "opponentAtBats": "1095",
+      "doublesAllowed": "53",
       "triplesAllowed": "10",
-      "homerunsAllowed": "22",
-      "wildPitches": "24",
+      "homerunsAllowed": "23",
+      "wildPitches": "25",
       "balks": "4",
-      "hitBatters": "59",
-      "strikeoutsLooking": "77",
+      "hitBatters": "64",
+      "strikeoutsLooking": "82",
       "intentionalWalks": "0",
-      "inheritedRunners": "29",
-      "inheritedRunnersThatScored": "16",
+      "inheritedRunners": "34",
+      "inheritedRunnersThatScored": "17",
       "sacrificeHitsAllowed": "20",
-      "sacrificeFliesAllowed": "21",
+      "sacrificeFliesAllowed": "22",
       "catchersInterferenceAllowed": "0",
-      "pitches": "4676",
-      "flyouts": "310",
-      "groundouts": "213",
+      "pitches": "4898",
+      "flyouts": "313",
+      "groundouts": "219",
       "teamUnearnedRuns": "0",
       "saveRecord": "3",
       "pickoff": "3"
@@ -451,13 +451,13 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "jersey": "3",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/ty-fox/17706",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Fox_Ty.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 30,
-        "battingAverage": 0.342,
-        "onBasePercentage": 0.443,
-        "sluggingPercentage": 0.504,
-        "ops": 0.947,
-        "atBats": 117,
+        "gamesPlayed": 33,
+        "gamesStarted": 31,
+        "battingAverage": 0.328,
+        "onBasePercentage": 0.428,
+        "sluggingPercentage": 0.484,
+        "ops": 0.912,
+        "atBats": 122,
         "runs": 25,
         "hits": 40,
         "doubles": 6,
@@ -467,17 +467,17 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "totalBases": 59,
         "walks": 18,
         "hitByPitch": 4,
-        "strikeouts": 28,
+        "strikeouts": 29,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
         "sacrificeHits": 2,
         "stolenBases": 15,
         "stolenBasesAttempts": 17,
-        "putouts": 87,
+        "putouts": 88,
         "assists": 1,
         "errors": 2,
-        "plateAppearances": 161,
+        "plateAppearances": 166,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -489,9 +489,9 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "jersey": "3",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/ty-fox/17706",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Fox_Ty.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 27,
-        "putouts": 87,
+        "gamesPlayed": 28,
+        "gamesStarted": 28,
+        "putouts": 88,
         "assists": 1,
         "errors": 2,
         "fieldingPercentage": 0.978,
@@ -501,39 +501,39 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 90
+        "totalChances": 91
       },
       "evaluation": {
-        "score": 67,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 90.55555555555554,
-          "Power": 48.42105263157895,
-          "Contact": 76.25000000000001,
-          "Discipline": 49.2063492063492,
+          "On-base": 82.22222222222221,
+          "Power": 43.15789473684211,
+          "Contact": 67.5,
+          "Discipline": 46.74329501915708,
           "Speed": 50
         },
         "summary": "Ty Fox profiles as a INF/OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .342",
-          "OBP .443",
-          "SLG .504"
+          "AVG .328",
+          "OBP .428",
+          "SLG .484"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".342"
+            "value": ".328"
           },
           {
             "label": "OBP",
-            "value": ".443"
+            "value": ".428"
           },
           {
             "label": "SLG",
-            "value": ".504"
+            "value": ".484"
           },
           {
             "label": "HR",
@@ -596,25 +596,25 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "jersey": "4",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/kevin-schnupp/17694",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Schnupp_Kevin.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "battingAverage": 0,
-        "onBasePercentage": 0,
-        "sluggingPercentage": 0,
-        "ops": 0,
-        "atBats": 1,
-        "runs": 0,
-        "hits": 0,
+        "gamesPlayed": 2,
+        "gamesStarted": 1,
+        "battingAverage": 0.333,
+        "onBasePercentage": 0.6,
+        "sluggingPercentage": 1,
+        "ops": 1.6,
+        "atBats": 3,
+        "runs": 1,
+        "hits": 1,
         "doubles": 0,
-        "triples": 0,
+        "triples": 1,
         "homeRuns": 0,
         "runsBattedIn": 0,
-        "totalBases": 0,
-        "walks": 0,
-        "hitByPitch": 0,
+        "totalBases": 3,
+        "walks": 1,
+        "hitByPitch": 1,
         "strikeouts": 1,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
+        "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
@@ -622,43 +622,43 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "putouts": 0,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 1,
+        "plateAppearances": 5,
         "caughtStealing": 0,
         "pickedOff": 0
       },
       "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
-        "score": 0,
+        "score": 83,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Priority",
+          "className": "fit-priority"
         },
         "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
+          "On-base": 100,
+          "Power": 100,
+          "Contact": 70.625,
+          "Discipline": 88.88888888888889,
           "Speed": 0
         },
-        "summary": "Kevin Schnupp gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Kevin Schnupp profiles as a C piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
+          "AVG .333",
+          "OBP .600",
+          "SLG 1.000"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".000"
+            "value": ".600"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": "1.000"
           },
           {
             "label": "HR",
@@ -1005,33 +1005,33 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "jersey": "7",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/anthony-tirado/17699",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Tirado_Anthony.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "battingAverage": 0.317,
-        "onBasePercentage": 0.367,
-        "sluggingPercentage": 0.403,
-        "ops": 0.77,
-        "atBats": 139,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "battingAverage": 0.322,
+        "onBasePercentage": 0.368,
+        "sluggingPercentage": 0.413,
+        "ops": 0.781,
+        "atBats": 143,
         "runs": 25,
-        "hits": 44,
-        "doubles": 7,
+        "hits": 46,
+        "doubles": 8,
         "triples": 1,
         "homeRuns": 1,
-        "runsBattedIn": 16,
-        "totalBases": 56,
+        "runsBattedIn": 19,
+        "totalBases": 59,
         "walks": 9,
         "hitByPitch": 2,
-        "strikeouts": 31,
+        "strikeouts": 32,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
+        "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 18,
         "stolenBasesAttempts": 21,
-        "putouts": 64,
-        "assists": 40,
-        "errors": 3,
-        "plateAppearances": 175,
+        "putouts": 66,
+        "assists": 41,
+        "errors": 4,
+        "plateAppearances": 180,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -1043,51 +1043,51 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "jersey": "7",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/anthony-tirado/17699",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Tirado_Anthony.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 30,
-        "putouts": 64,
-        "assists": 40,
-        "errors": 3,
-        "fieldingPercentage": 0.972,
+        "gamesPlayed": 31,
+        "gamesStarted": 31,
+        "putouts": 66,
+        "assists": 41,
+        "errors": 4,
+        "fieldingPercentage": 0.964,
         "doublePlays": 3,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 107
+        "totalChances": 111
       },
       "evaluation": {
-        "score": 39,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 48.333333333333314,
-          "Power": 21.8421052631579,
-          "Contact": 60.62499999999999,
-          "Discipline": 10.035842293906809,
+          "On-base": 48.88888888888887,
+          "Power": 24.47368421052631,
+          "Contact": 63.75000000000001,
+          "Discipline": 9.027777777777775,
           "Speed": 60
         },
         "summary": "Anthony Tirado profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .317",
-          "OBP .367",
-          "SLG .403"
+          "AVG .322",
+          "OBP .368",
+          "SLG .413"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".317"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".367"
+            "value": ".368"
           },
           {
             "label": "SLG",
-            "value": ".403"
+            "value": ".413"
           },
           {
             "label": "HR",
@@ -1095,7 +1095,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
           },
           {
             "label": "RBI",
-            "value": "16"
+            "value": "19"
           },
           {
             "label": "SB",
@@ -1150,21 +1150,21 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "jersey": "8",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/reece-mccarthy/17687",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_McCarthy_Reece.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "battingAverage": 0.248,
-        "onBasePercentage": 0.379,
-        "sluggingPercentage": 0.308,
-        "ops": 0.687,
-        "atBats": 117,
-        "runs": 20,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "battingAverage": 0.242,
+        "onBasePercentage": 0.38,
+        "sluggingPercentage": 0.3,
+        "ops": 0.68,
+        "atBats": 120,
+        "runs": 21,
         "hits": 29,
         "doubles": 1,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 19,
         "totalBases": 36,
-        "walks": 22,
+        "walks": 24,
         "hitByPitch": 4,
         "strikeouts": 29,
         "intentionalWalks": 0,
@@ -1173,10 +1173,10 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "sacrificeHits": 1,
         "stolenBases": 8,
         "stolenBasesAttempts": 8,
-        "putouts": 27,
-        "assists": 44,
-        "errors": 8,
-        "plateAppearances": 154,
+        "putouts": 28,
+        "assists": 46,
+        "errors": 9,
+        "plateAppearances": 159,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -1188,51 +1188,51 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "jersey": "8",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/reece-mccarthy/17687",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_McCarthy_Reece.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 30,
-        "putouts": 27,
-        "assists": 44,
-        "errors": 8,
-        "fieldingPercentage": 0.899,
+        "gamesPlayed": 31,
+        "gamesStarted": 31,
+        "putouts": 28,
+        "assists": 46,
+        "errors": 9,
+        "fieldingPercentage": 0.892,
         "doublePlays": 2,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 79
+        "totalChances": 83
       },
       "evaluation": {
-        "score": 32,
+        "score": 33,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 54.99999999999999,
+          "On-base": 55.55555555555555,
           "Power": 0,
-          "Contact": 17.5,
-          "Discipline": 62.06896551724137,
+          "Contact": 13.749999999999996,
+          "Discipline": 69.7318007662835,
           "Speed": 26.666666666666668
         },
         "summary": "Reece McCarthy profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .248",
-          "OBP .379",
-          "SLG .308"
+          "AVG .242",
+          "OBP .380",
+          "SLG .300"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".248"
+            "value": ".242"
           },
           {
             "label": "OBP",
-            "value": ".379"
+            "value": ".380"
           },
           {
             "label": "SLG",
-            "value": ".308"
+            "value": ".300"
           },
           {
             "label": "HR",
@@ -1295,33 +1295,33 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "jersey": "9",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/ryan-kolben/17684",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Kolben_Ryan.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 25,
-        "battingAverage": 0.188,
-        "onBasePercentage": 0.314,
-        "sluggingPercentage": 0.376,
-        "ops": 0.69,
-        "atBats": 85,
-        "runs": 8,
-        "hits": 16,
+        "gamesPlayed": 29,
+        "gamesStarted": 26,
+        "battingAverage": 0.202,
+        "onBasePercentage": 0.327,
+        "sluggingPercentage": 0.382,
+        "ops": 0.709,
+        "atBats": 89,
+        "runs": 9,
+        "hits": 18,
         "doubles": 2,
         "triples": 1,
         "homeRuns": 4,
         "runsBattedIn": 15,
-        "totalBases": 32,
-        "walks": 12,
+        "totalBases": 34,
+        "walks": 13,
         "hitByPitch": 4,
-        "strikeouts": 29,
+        "strikeouts": 30,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 2,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 196,
+        "putouts": 212,
         "assists": 20,
         "errors": 4,
-        "plateAppearances": 105,
+        "plateAppearances": 110,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1333,51 +1333,51 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "jersey": "9",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/ryan-kolben/17684",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Kolben_Ryan.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 23,
-        "putouts": 196,
+        "gamesPlayed": 25,
+        "gamesStarted": 24,
+        "putouts": 212,
         "assists": 20,
         "errors": 4,
-        "fieldingPercentage": 0.982,
+        "fieldingPercentage": 0.983,
         "doublePlays": 0,
-        "stolenBasesAgainst": 67,
+        "stolenBasesAgainst": 68,
         "caughtStealingBy": 13,
-        "stolenBasesPercentage": 0.838,
+        "stolenBasesPercentage": 0.84,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 220
+        "totalChances": 236
       },
       "evaluation": {
-        "score": 14,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 18.888888888888875,
-          "Power": 14.73684210526316,
+          "On-base": 26.111111111111107,
+          "Power": 16.315789473684212,
           "Contact": 0,
-          "Discipline": 23.754789272030646,
+          "Discipline": 25.925925925925924,
           "Speed": 3.3333333333333335
         },
         "summary": "Ryan Kolben gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .188",
-          "OBP .314",
-          "SLG .376"
+          "AVG .202",
+          "OBP .327",
+          "SLG .382"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".188"
+            "value": ".202"
           },
           {
             "label": "OBP",
-            "value": ".314"
+            "value": ".327"
           },
           {
             "label": "SLG",
-            "value": ".376"
+            "value": ".382"
           },
           {
             "label": "HR",
@@ -2014,33 +2014,33 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "jersey": "15",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/marc-willi/17701",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Willi_Marc.jpg",
-        "gamesPlayed": 21,
-        "gamesStarted": 12,
+        "gamesPlayed": 22,
+        "gamesStarted": 13,
         "battingAverage": 0.244,
-        "onBasePercentage": 0.367,
-        "sluggingPercentage": 0.317,
-        "ops": 0.684,
-        "atBats": 41,
-        "runs": 2,
-        "hits": 10,
-        "doubles": 0,
+        "onBasePercentage": 0.37,
+        "sluggingPercentage": 0.333,
+        "ops": 0.703,
+        "atBats": 45,
+        "runs": 3,
+        "hits": 11,
+        "doubles": 1,
         "triples": 0,
         "homeRuns": 1,
-        "runsBattedIn": 8,
-        "totalBases": 13,
+        "runsBattedIn": 9,
+        "totalBases": 15,
         "walks": 5,
-        "hitByPitch": 3,
-        "strikeouts": 14,
+        "hitByPitch": 4,
+        "strikeouts": 15,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 21,
+        "putouts": 27,
         "assists": 1,
         "errors": 0,
-        "plateAppearances": 50,
+        "plateAppearances": 55,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2052,9 +2052,9 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "jersey": "15",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/marc-willi/17701",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Willi_Marc.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 3,
-        "putouts": 21,
+        "gamesPlayed": 7,
+        "gamesStarted": 4,
+        "putouts": 27,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -2064,26 +2064,26 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 22
+        "totalChances": 28
       },
       "evaluation": {
-        "score": 21,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 48.333333333333314,
-          "Power": 0,
+          "On-base": 49.999999999999986,
+          "Power": 3.421052631578951,
           "Contact": 14.999999999999996,
-          "Discipline": 17.460317460317455,
+          "Discipline": 14.814814814814808,
           "Speed": 0
         },
         "summary": "Marc Willi gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .244",
-          "OBP .367",
-          "SLG .317"
+          "OBP .370",
+          "SLG .333"
         ],
         "statCards": [
           {
@@ -2092,11 +2092,11 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
           },
           {
             "label": "OBP",
-            "value": ".367"
+            "value": ".370"
           },
           {
             "label": "SLG",
-            "value": ".317"
+            "value": ".333"
           },
           {
             "label": "HR",
@@ -2104,7 +2104,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
           },
           {
             "label": "RBI",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "SB",
@@ -2159,33 +2159,33 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "jersey": "16",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/gavin-o-brien/17691",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_OBrien_Gavin.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
-        "battingAverage": 0.285,
-        "onBasePercentage": 0.39,
-        "sluggingPercentage": 0.569,
-        "ops": 0.959,
-        "atBats": 123,
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "battingAverage": 0.289,
+        "onBasePercentage": 0.391,
+        "sluggingPercentage": 0.563,
+        "ops": 0.954,
+        "atBats": 128,
         "runs": 19,
-        "hits": 35,
+        "hits": 37,
         "doubles": 9,
         "triples": 1,
         "homeRuns": 8,
         "runsBattedIn": 33,
-        "totalBases": 70,
+        "totalBases": 72,
         "walks": 20,
         "hitByPitch": 2,
-        "strikeouts": 33,
+        "strikeouts": 34,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 39,
+        "putouts": 40,
         "assists": 1,
         "errors": 2,
-        "plateAppearances": 149,
+        "plateAppearances": 154,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2197,19 +2197,19 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "jersey": "16",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/gavin-o-brien/17691",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_OBrien_Gavin.jpg",
-        "gamesPlayed": 20,
-        "gamesStarted": 20,
-        "putouts": 39,
+        "gamesPlayed": 21,
+        "gamesStarted": 21,
+        "putouts": 40,
         "assists": 1,
         "errors": 2,
-        "fieldingPercentage": 0.952,
+        "fieldingPercentage": 0.953,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 42
+        "totalChances": 43
       },
       "evaluation": {
         "score": 51,
@@ -2218,30 +2218,30 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 61.11111111111111,
-          "Power": 65.52631578947367,
-          "Contact": 40.624999999999986,
-          "Discipline": 45.117845117845114,
+          "On-base": 61.66666666666666,
+          "Power": 63.947368421052616,
+          "Contact": 43.124999999999986,
+          "Discipline": 43.13725490196078,
           "Speed": 10
         },
         "summary": "Gavin O'Brien profiles as a OF/INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .285",
-          "OBP .390",
-          "SLG .569"
+          "AVG .289",
+          "OBP .391",
+          "SLG .563"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".285"
+            "value": ".289"
           },
           {
             "label": "OBP",
-            "value": ".390"
+            "value": ".391"
           },
           {
             "label": "SLG",
-            "value": ".569"
+            "value": ".563"
           },
           {
             "label": "HR",
@@ -2304,13 +2304,13 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "jersey": "17",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/vance-bonior/17681",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Bonior_Vance.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 25,
-        "battingAverage": 0.246,
-        "onBasePercentage": 0.432,
-        "sluggingPercentage": 0.377,
-        "ops": 0.809,
-        "atBats": 69,
+        "gamesPlayed": 29,
+        "gamesStarted": 26,
+        "battingAverage": 0.236,
+        "onBasePercentage": 0.43,
+        "sluggingPercentage": 0.361,
+        "ops": 0.791,
+        "atBats": 72,
         "runs": 12,
         "hits": 17,
         "doubles": 3,
@@ -2319,7 +2319,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "runsBattedIn": 12,
         "totalBases": 26,
         "walks": 8,
-        "hitByPitch": 16,
+        "hitByPitch": 18,
         "strikeouts": 11,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
@@ -2330,7 +2330,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "putouts": 39,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 102,
+        "plateAppearances": 107,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2734,36 +2734,56 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "jersey": "21",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/kai-giro/17707",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Giro_Kai.jpg",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 0,
-        "appearances": 4,
+        "appearances": 5,
         "gamesCompleted": 0,
-        "earnedRunAverage": 19.8,
-        "whip": 3.6,
+        "earnedRunAverage": 18,
+        "whip": 3.33,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 5,
-        "inningsPitchedDisplay": "5.0",
-        "hitsAllowed": 11,
-        "runsAllowed": 11,
-        "earnedRunsAllowed": 11,
+        "inningsPitched": 6,
+        "inningsPitchedDisplay": "6.0",
+        "hitsAllowed": 13,
+        "runsAllowed": 12,
+        "earnedRunsAllowed": 12,
         "walksAllowed": 7,
-        "strikeouts": 4,
+        "strikeouts": 6,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 23,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 27,
         "wildPitches": 0,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.478,
-        "walksHits": 18
+        "opponentsBattingAverage": 0.481,
+        "walksHits": 20
       },
-      "fieldingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "17707",
+        "name": "Kai Giro",
+        "normalizedName": "kai giro",
+        "jersey": "21",
+        "profileUrl": "https://umassathletics.com/sports/baseball/roster/kai-giro/17707",
+        "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Giro_Kai.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 1
+      },
       "evaluation": {
-        "score": 6,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2771,40 +2791,40 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 29.090909090909093,
+          "Miss bats": 45.45454545454545,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Kai Giro gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Kai Giro looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 19.80",
-          "WHIP 3.60",
-          "K/9 7.2"
+          "ERA 18.00",
+          "WHIP 3.33",
+          "K/9 9.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "19.80"
+            "value": "18.00"
           },
           {
             "label": "WHIP",
-            "value": "3.60"
+            "value": "3.33"
           },
           {
             "label": "K/9",
-            "value": "7.2"
+            "value": "9.0"
           },
           {
             "label": "BB/9",
-            "value": "12.6"
+            "value": "10.5"
           },
           {
             "label": "HR/9",
-            "value": "1.80"
+            "value": "3.00"
           },
           {
             "label": "IP",
-            "value": "5.0"
+            "value": "6.0"
           }
         ],
         "metaLine": "GR / R/R",
@@ -2856,32 +2876,32 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "jersey": "22",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/jack-levine/17685",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Levine_Jack.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 2,
-        "appearances": 7,
+        "gamesPlayed": 8,
+        "gamesStarted": 3,
+        "appearances": 8,
         "gamesCompleted": 0,
-        "earnedRunAverage": 15.34,
-        "whip": 2.32,
+        "earnedRunAverage": 15.06,
+        "whip": 2.42,
         "wins": 1,
-        "losses": 2,
+        "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 14.666666666666666,
-        "inningsPitchedDisplay": "14.2",
-        "hitsAllowed": 23,
-        "runsAllowed": 30,
-        "earnedRunsAllowed": 25,
-        "walksAllowed": 11,
-        "strikeouts": 15,
+        "inningsPitched": 17.333333333333332,
+        "inningsPitchedDisplay": "17.1",
+        "hitsAllowed": 29,
+        "runsAllowed": 34,
+        "earnedRunsAllowed": 29,
+        "walksAllowed": 13,
+        "strikeouts": 20,
         "doublesAllowed": 1,
         "triplesAllowed": 1,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 65,
+        "opponentsAtBats": 79,
         "wildPitches": 0,
-        "hitBatters": 5,
+        "hitBatters": 7,
         "balks": 0,
-        "opponentsBattingAverage": 0.354,
-        "walksHits": 34
+        "opponentsBattingAverage": 0.367,
+        "walksHits": 42
       },
       "fieldingStats": {
         "rosterBioId": "17685",
@@ -2905,7 +2925,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "totalChances": 4
       },
       "evaluation": {
-        "score": 11,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2913,28 +2933,28 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 47.31404958677686,
-          "Command": 7.272727272727275,
+          "Miss bats": 58.04195804195804,
+          "Command": 10.769230769230766,
           "Damage suppression": 0
         },
         "summary": "Jack Levine looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 15.34",
-          "WHIP 2.32",
-          "K/9 9.2"
+          "ERA 15.06",
+          "WHIP 2.42",
+          "K/9 10.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "15.34"
+            "value": "15.06"
           },
           {
             "label": "WHIP",
-            "value": "2.32"
+            "value": "2.42"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "10.4"
           },
           {
             "label": "BB/9",
@@ -2942,11 +2962,11 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.84"
+            "value": "1.56"
           },
           {
             "label": "IP",
-            "value": "14.7"
+            "value": "17.3"
           }
         ],
         "metaLine": "R-JR / R/R",
@@ -3034,32 +3054,32 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "jersey": "23",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/gavin-sitarz/17717",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Sitarz_Gavin.jpg",
-        "gamesPlayed": 8,
+        "gamesPlayed": 9,
         "gamesStarted": 0,
-        "appearances": 8,
+        "appearances": 9,
         "gamesCompleted": 0,
-        "earnedRunAverage": 13.5,
-        "whip": 2.25,
+        "earnedRunAverage": 11.57,
+        "whip": 2.04,
         "wins": 1,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 8,
-        "inningsPitchedDisplay": "8.0",
-        "hitsAllowed": 9,
-        "runsAllowed": 13,
+        "inningsPitched": 9.333333333333334,
+        "inningsPitchedDisplay": "9.1",
+        "hitsAllowed": 10,
+        "runsAllowed": 14,
         "earnedRunsAllowed": 12,
         "walksAllowed": 9,
-        "strikeouts": 7,
+        "strikeouts": 9,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 33,
+        "opponentsAtBats": 38,
         "wildPitches": 1,
-        "hitBatters": 3,
+        "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.273,
-        "walksHits": 18
+        "opponentsBattingAverage": 0.263,
+        "walksHits": 19
       },
       "fieldingStats": {
         "rosterBioId": "17717",
@@ -3068,22 +3088,22 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "jersey": "23",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/gavin-sitarz/17717",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Sitarz_Gavin.jpg",
-        "gamesPlayed": 3,
+        "gamesPlayed": 4,
         "gamesStarted": 0,
         "putouts": 1,
-        "assists": 0,
+        "assists": 1,
         "errors": 1,
-        "fieldingPercentage": 0.5,
+        "fieldingPercentage": 0.667,
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 2
+        "totalChances": 3
       },
       "evaluation": {
-        "score": 7,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3091,32 +3111,32 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 35.22727272727273,
+          "Miss bats": 42.532467532467535,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Gavin Sitarz gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 2.25",
-          "K/9 7.9"
+          "ERA 11.57",
+          "WHIP 2.04",
+          "K/9 8.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "13.50"
+            "value": "11.57"
           },
           {
             "label": "WHIP",
-            "value": "2.25"
+            "value": "2.04"
           },
           {
             "label": "K/9",
-            "value": "7.9"
+            "value": "8.7"
           },
           {
             "label": "BB/9",
-            "value": "10.1"
+            "value": "8.7"
           },
           {
             "label": "HR/9",
@@ -3124,7 +3144,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
           },
           {
             "label": "IP",
-            "value": "8.0"
+            "value": "9.3"
           }
         ],
         "metaLine": "GR / N/A",
@@ -3175,21 +3195,21 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "jersey": "24",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/matt-travisano/17700",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Travisano_Matt.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 12,
-        "battingAverage": 0.163,
-        "onBasePercentage": 0.25,
-        "sluggingPercentage": 0.184,
-        "ops": 0.434,
-        "atBats": 49,
-        "runs": 5,
+        "gamesPlayed": 13,
+        "gamesStarted": 13,
+        "battingAverage": 0.151,
+        "onBasePercentage": 0.246,
+        "sluggingPercentage": 0.17,
+        "ops": 0.416,
+        "atBats": 53,
+        "runs": 6,
         "hits": 8,
         "doubles": 1,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 3,
         "totalBases": 9,
-        "walks": 5,
+        "walks": 6,
         "hitByPitch": 1,
         "strikeouts": 15,
         "intentionalWalks": 0,
@@ -3199,9 +3219,9 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 8,
-        "assists": 30,
+        "assists": 31,
         "errors": 0,
-        "plateAppearances": 58,
+        "plateAppearances": 63,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3213,10 +3233,10 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "jersey": "24",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/matt-travisano/17700",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Travisano_Matt.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 12,
+        "gamesPlayed": 13,
+        "gamesStarted": 13,
         "putouts": 8,
-        "assists": 30,
+        "assists": 31,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 4,
@@ -3225,10 +3245,10 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 38
+        "totalChances": 39
       },
       "evaluation": {
-        "score": 2,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3237,27 +3257,27 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 14.814814814814808,
+          "Discipline": 22.22222222222222,
           "Speed": 3.3333333333333335
         },
         "summary": "Matt Travisano gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .163",
-          "OBP .250",
-          "SLG .184"
+          "AVG .151",
+          "OBP .246",
+          "SLG .170"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".163"
+            "value": ".151"
           },
           {
             "label": "OBP",
-            "value": ".250"
+            "value": ".246"
           },
           {
             "label": "SLG",
-            "value": ".184"
+            "value": ".170"
           },
           {
             "label": "HR",
@@ -3861,32 +3881,32 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "jersey": "30",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/drew-sliwkowski/17695",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Sliwkowski_Drew.jpg",
-        "gamesPlayed": 6,
+        "gamesPlayed": 7,
         "gamesStarted": 2,
-        "appearances": 6,
+        "appearances": 7,
         "gamesCompleted": 0,
-        "earnedRunAverage": 12.46,
-        "whip": 2.77,
+        "earnedRunAverage": 14.4,
+        "whip": 2.9,
         "wins": 0,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 8.666666666666666,
-        "inningsPitchedDisplay": "8.2",
-        "hitsAllowed": 13,
-        "runsAllowed": 12,
-        "earnedRunsAllowed": 12,
-        "walksAllowed": 11,
-        "strikeouts": 11,
+        "inningsPitched": 10,
+        "inningsPitchedDisplay": "10.0",
+        "hitsAllowed": 15,
+        "runsAllowed": 16,
+        "earnedRunsAllowed": 16,
+        "walksAllowed": 14,
+        "strikeouts": 15,
         "doublesAllowed": 1,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 37,
+        "opponentsAtBats": 43,
         "wildPitches": 2,
-        "hitBatters": 4,
+        "hitBatters": 6,
         "balks": 0,
-        "opponentsBattingAverage": 0.351,
-        "walksHits": 24
+        "opponentsBattingAverage": 0.349,
+        "walksHits": 29
       },
       "fieldingStats": {
         "rosterBioId": "17695",
@@ -3910,7 +3930,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 13,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3918,40 +3938,40 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 67.4825174825175,
-          "Command": 0,
+          "Miss bats": 86.36363636363636,
+          "Command": 1.428571428571428,
           "Damage suppression": 0
         },
         "summary": "Drew Sliwkowski looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 12.46",
-          "WHIP 2.77",
-          "K/9 11.4"
+          "ERA 14.40",
+          "WHIP 2.90",
+          "K/9 13.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "12.46"
+            "value": "14.40"
           },
           {
             "label": "WHIP",
-            "value": "2.77"
+            "value": "2.90"
           },
           {
             "label": "K/9",
-            "value": "11.4"
+            "value": "13.5"
           },
           {
             "label": "BB/9",
-            "value": "11.4"
+            "value": "12.6"
           },
           {
             "label": "HR/9",
-            "value": "1.04"
+            "value": "0.90"
           },
           {
             "label": "IP",
-            "value": "8.7"
+            "value": "10.0"
           }
         ],
         "metaLine": "SO / L/L",
@@ -4091,32 +4111,32 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "jersey": "33",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/bobby-mcdonough/17688",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_McDonough_Bobby.jpg",
-        "gamesPlayed": 6,
+        "gamesPlayed": 7,
         "gamesStarted": 0,
-        "appearances": 6,
+        "appearances": 7,
         "gamesCompleted": 0,
-        "earnedRunAverage": 12.27,
-        "whip": 1.64,
+        "earnedRunAverage": 9.9,
+        "whip": 1.6,
         "wins": 0,
         "losses": 0,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 7.333333333333333,
-        "inningsPitchedDisplay": "7.1",
-        "hitsAllowed": 9,
-        "runsAllowed": 10,
-        "earnedRunsAllowed": 10,
-        "walksAllowed": 3,
-        "strikeouts": 6,
-        "doublesAllowed": 1,
+        "inningsPitched": 10,
+        "inningsPitchedDisplay": "10.0",
+        "hitsAllowed": 12,
+        "runsAllowed": 12,
+        "earnedRunsAllowed": 11,
+        "walksAllowed": 4,
+        "strikeouts": 9,
+        "doublesAllowed": 2,
         "triplesAllowed": 1,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 30,
-        "wildPitches": 0,
+        "opponentsAtBats": 42,
+        "wildPitches": 1,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.3,
-        "walksHits": 12
+        "opponentsBattingAverage": 0.286,
+        "walksHits": 16
       },
       "fieldingStats": {
         "rosterBioId": "17688",
@@ -4125,11 +4145,11 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "jersey": "33",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/bobby-mcdonough/17688",
         "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_McDonough_Bobby.jpg",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 0,
         "putouts": 0,
         "assists": 0,
-        "errors": 1,
+        "errors": 2,
         "fieldingPercentage": 0,
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
@@ -4137,10 +4157,10 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 1
+        "totalChances": 2
       },
       "evaluation": {
-        "score": 9,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4148,40 +4168,40 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 30.57851239669422,
-          "Command": 20,
+          "Miss bats": 37.272727272727266,
+          "Command": 25,
           "Damage suppression": 0
         },
         "summary": "Bobby McDonough gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 12.27",
-          "WHIP 1.64",
-          "K/9 7.4"
+          "ERA 9.90",
+          "WHIP 1.60",
+          "K/9 8.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "12.27"
+            "value": "9.90"
           },
           {
             "label": "WHIP",
-            "value": "1.64"
+            "value": "1.60"
           },
           {
             "label": "K/9",
-            "value": "7.4"
+            "value": "8.1"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "3.68"
+            "value": "2.70"
           },
           {
             "label": "IP",
-            "value": "7.3"
+            "value": "10.0"
           }
         ],
         "metaLine": "R-JR / R/R",
@@ -5040,29 +5060,29 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "position": "INF/OF",
         "classYear": "R-FR",
         "handedness": "L/R",
-        "score": 67,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Ty Fox profiles as a INF/OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .342",
-          "OBP .443",
-          "SLG .504"
+          "AVG .328",
+          "OBP .428",
+          "SLG .484"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".342"
+            "value": ".328"
           },
           {
             "label": "OBP",
-            "value": ".443"
+            "value": ".428"
           },
           {
             "label": "SLG",
-            "value": ".504"
+            "value": ".484"
           },
           {
             "label": "HR",
@@ -5078,10 +5098,10 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
           }
         ],
         "components": {
-          "On-base": 90.55555555555554,
-          "Power": 48.42105263157895,
-          "Contact": 76.25000000000001,
-          "Discipline": 49.2063492063492,
+          "On-base": 82.22222222222221,
+          "Power": 43.15789473684211,
+          "Contact": 67.5,
+          "Discipline": 46.74329501915708,
           "Speed": 50
         },
         "metaLine": "R-FR / L/R",
@@ -5109,29 +5129,29 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "position": "C",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 0,
+        "score": 83,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Priority",
+          "className": "fit-priority"
         },
-        "summary": "Kevin Schnupp gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Kevin Schnupp profiles as a C piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
+          "AVG .333",
+          "OBP .600",
+          "SLG 1.000"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".000"
+            "value": ".600"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": "1.000"
           },
           {
             "label": "HR",
@@ -5147,10 +5167,10 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
           }
         ],
         "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
+          "On-base": 100,
+          "Power": 100,
+          "Contact": 70.625,
+          "Discipline": 88.88888888888889,
           "Speed": 0
         },
         "metaLine": "SO / R/R",
@@ -5316,29 +5336,29 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "position": "INF",
         "classYear": "R-SO",
         "handedness": "L/R",
-        "score": 39,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Anthony Tirado profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .317",
-          "OBP .367",
-          "SLG .403"
+          "AVG .322",
+          "OBP .368",
+          "SLG .413"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".317"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".367"
+            "value": ".368"
           },
           {
             "label": "SLG",
-            "value": ".403"
+            "value": ".413"
           },
           {
             "label": "HR",
@@ -5346,7 +5366,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
           },
           {
             "label": "RBI",
-            "value": "16"
+            "value": "19"
           },
           {
             "label": "SB",
@@ -5354,10 +5374,10 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
           }
         ],
         "components": {
-          "On-base": 48.333333333333314,
-          "Power": 21.8421052631579,
-          "Contact": 60.62499999999999,
-          "Discipline": 10.035842293906809,
+          "On-base": 48.88888888888887,
+          "Power": 24.47368421052631,
+          "Contact": 63.75000000000001,
+          "Discipline": 9.027777777777775,
           "Speed": 60
         },
         "metaLine": "R-SO / L/R",
@@ -5385,29 +5405,29 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 32,
+        "score": 33,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Reece McCarthy profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .248",
-          "OBP .379",
-          "SLG .308"
+          "AVG .242",
+          "OBP .380",
+          "SLG .300"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".248"
+            "value": ".242"
           },
           {
             "label": "OBP",
-            "value": ".379"
+            "value": ".380"
           },
           {
             "label": "SLG",
-            "value": ".308"
+            "value": ".300"
           },
           {
             "label": "HR",
@@ -5423,10 +5443,10 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
           }
         ],
         "components": {
-          "On-base": 54.99999999999999,
+          "On-base": 55.55555555555555,
           "Power": 0,
-          "Contact": 17.5,
-          "Discipline": 62.06896551724137,
+          "Contact": 13.749999999999996,
+          "Discipline": 69.7318007662835,
           "Speed": 26.666666666666668
         },
         "metaLine": "SO / L/R",
@@ -5454,29 +5474,29 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 14,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ryan Kolben gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .188",
-          "OBP .314",
-          "SLG .376"
+          "AVG .202",
+          "OBP .327",
+          "SLG .382"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".188"
+            "value": ".202"
           },
           {
             "label": "OBP",
-            "value": ".314"
+            "value": ".327"
           },
           {
             "label": "SLG",
-            "value": ".376"
+            "value": ".382"
           },
           {
             "label": "HR",
@@ -5492,10 +5512,10 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
           }
         ],
         "components": {
-          "On-base": 18.888888888888875,
-          "Power": 14.73684210526316,
+          "On-base": 26.111111111111107,
+          "Power": 16.315789473684212,
           "Contact": 0,
-          "Discipline": 23.754789272030646,
+          "Discipline": 25.925925925925924,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / R/R",
@@ -5799,7 +5819,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "position": "INF",
         "classYear": "R-JR",
         "handedness": "L/L",
-        "score": 21,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5807,8 +5827,8 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "summary": "Marc Willi gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .244",
-          "OBP .367",
-          "SLG .317"
+          "OBP .370",
+          "SLG .333"
         ],
         "statCards": [
           {
@@ -5817,11 +5837,11 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
           },
           {
             "label": "OBP",
-            "value": ".367"
+            "value": ".370"
           },
           {
             "label": "SLG",
-            "value": ".317"
+            "value": ".333"
           },
           {
             "label": "HR",
@@ -5829,7 +5849,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
           },
           {
             "label": "RBI",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "SB",
@@ -5837,10 +5857,10 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
           }
         ],
         "components": {
-          "On-base": 48.333333333333314,
-          "Power": 0,
+          "On-base": 49.999999999999986,
+          "Power": 3.421052631578951,
           "Contact": 14.999999999999996,
-          "Discipline": 17.460317460317455,
+          "Discipline": 14.814814814814808,
           "Speed": 0
         },
         "metaLine": "R-JR / L/L",
@@ -5875,22 +5895,22 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         },
         "summary": "Gavin O'Brien profiles as a OF/INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .285",
-          "OBP .390",
-          "SLG .569"
+          "AVG .289",
+          "OBP .391",
+          "SLG .563"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".285"
+            "value": ".289"
           },
           {
             "label": "OBP",
-            "value": ".390"
+            "value": ".391"
           },
           {
             "label": "SLG",
-            "value": ".569"
+            "value": ".563"
           },
           {
             "label": "HR",
@@ -5906,10 +5926,10 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
           }
         ],
         "components": {
-          "On-base": 61.11111111111111,
-          "Power": 65.52631578947367,
-          "Contact": 40.624999999999986,
-          "Discipline": 45.117845117845114,
+          "On-base": 61.66666666666666,
+          "Power": 63.947368421052616,
+          "Contact": 43.124999999999986,
+          "Discipline": 43.13725490196078,
           "Speed": 10
         },
         "metaLine": "SO / R/R",
@@ -6144,47 +6164,47 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "position": "RHP",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 6,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Kai Giro gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Kai Giro looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 19.80",
-          "WHIP 3.60",
-          "K/9 7.2"
+          "ERA 18.00",
+          "WHIP 3.33",
+          "K/9 9.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "19.80"
+            "value": "18.00"
           },
           {
             "label": "WHIP",
-            "value": "3.60"
+            "value": "3.33"
           },
           {
             "label": "K/9",
-            "value": "7.2"
+            "value": "9.0"
           },
           {
             "label": "BB/9",
-            "value": "12.6"
+            "value": "10.5"
           },
           {
             "label": "HR/9",
-            "value": "1.80"
+            "value": "3.00"
           },
           {
             "label": "IP",
-            "value": "5.0"
+            "value": "6.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 29.090909090909093,
+          "Miss bats": 45.45454545454545,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -6213,29 +6233,29 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "position": "RHP",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 11,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Levine looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 15.34",
-          "WHIP 2.32",
-          "K/9 9.2"
+          "ERA 15.06",
+          "WHIP 2.42",
+          "K/9 10.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "15.34"
+            "value": "15.06"
           },
           {
             "label": "WHIP",
-            "value": "2.32"
+            "value": "2.42"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "10.4"
           },
           {
             "label": "BB/9",
@@ -6243,18 +6263,18 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.84"
+            "value": "1.56"
           },
           {
             "label": "IP",
-            "value": "14.7"
+            "value": "17.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 47.31404958677686,
-          "Command": 7.272727272727275,
+          "Miss bats": 58.04195804195804,
+          "Command": 10.769230769230766,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / R/R",
@@ -6282,33 +6302,33 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "position": "LHP",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 7,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Gavin Sitarz gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 2.25",
-          "K/9 7.9"
+          "ERA 11.57",
+          "WHIP 2.04",
+          "K/9 8.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "13.50"
+            "value": "11.57"
           },
           {
             "label": "WHIP",
-            "value": "2.25"
+            "value": "2.04"
           },
           {
             "label": "K/9",
-            "value": "7.9"
+            "value": "8.7"
           },
           {
             "label": "BB/9",
-            "value": "10.1"
+            "value": "8.7"
           },
           {
             "label": "HR/9",
@@ -6316,13 +6336,13 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
           },
           {
             "label": "IP",
-            "value": "8.0"
+            "value": "9.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 35.22727272727273,
+          "Miss bats": 42.532467532467535,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -6351,29 +6371,29 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "position": "INF",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 2,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Matt Travisano gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .163",
-          "OBP .250",
-          "SLG .184"
+          "AVG .151",
+          "OBP .246",
+          "SLG .170"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".163"
+            "value": ".151"
           },
           {
             "label": "OBP",
-            "value": ".250"
+            "value": ".246"
           },
           {
             "label": "SLG",
-            "value": ".184"
+            "value": ".170"
           },
           {
             "label": "HR",
@@ -6392,7 +6412,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 14.814814814814808,
+          "Discipline": 22.22222222222222,
           "Speed": 3.3333333333333335
         },
         "metaLine": "R-JR / R/R",
@@ -6696,48 +6716,48 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "position": "LHP",
         "classYear": "SO",
         "handedness": "L/L",
-        "score": 13,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Drew Sliwkowski looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 12.46",
-          "WHIP 2.77",
-          "K/9 11.4"
+          "ERA 14.40",
+          "WHIP 2.90",
+          "K/9 13.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "12.46"
+            "value": "14.40"
           },
           {
             "label": "WHIP",
-            "value": "2.77"
+            "value": "2.90"
           },
           {
             "label": "K/9",
-            "value": "11.4"
+            "value": "13.5"
           },
           {
             "label": "BB/9",
-            "value": "11.4"
+            "value": "12.6"
           },
           {
             "label": "HR/9",
-            "value": "1.04"
+            "value": "0.90"
           },
           {
             "label": "IP",
-            "value": "8.7"
+            "value": "10.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 67.4825174825175,
-          "Command": 0,
+          "Miss bats": 86.36363636363636,
+          "Command": 1.428571428571428,
           "Damage suppression": 0
         },
         "metaLine": "SO / L/L",
@@ -6833,48 +6853,48 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "position": "RHP",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 9,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Bobby McDonough gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 12.27",
-          "WHIP 1.64",
-          "K/9 7.4"
+          "ERA 9.90",
+          "WHIP 1.60",
+          "K/9 8.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "12.27"
+            "value": "9.90"
           },
           {
             "label": "WHIP",
-            "value": "1.64"
+            "value": "1.60"
           },
           {
             "label": "K/9",
-            "value": "7.4"
+            "value": "8.1"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "3.68"
+            "value": "2.70"
           },
           {
             "label": "IP",
-            "value": "7.3"
+            "value": "10.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 30.57851239669422,
-          "Command": 20,
+          "Miss bats": 37.272727272727266,
+          "Command": 25,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / R/R",

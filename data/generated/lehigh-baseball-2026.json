@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T11:22:03.229Z",
+  "generatedAt": "2026-04-23T11:36:53.124Z",
   "season": 2026,
   "school": {
     "slug": "lehigh",
@@ -38,84 +38,84 @@
     }
   },
   "teamSummary": {
-    "record": "12-26, 6-14",
-    "battingAverage": ".262",
-    "earnedRunAverage": "7.60",
-    "wins": "12",
+    "record": "13-26, 6-14",
+    "battingAverage": ".264",
+    "earnedRunAverage": "7.42",
+    "wins": "13",
     "losses": "26",
     "hitting": {
-      "atBats": "1232",
-      "runsScored": "208",
-      "hits": "323",
-      "runsBattedIn": "192",
-      "doubles": "61",
+      "atBats": "1270",
+      "runsScored": "219",
+      "hits": "335",
+      "runsBattedIn": "201",
+      "doubles": "64",
       "triples": "5",
       "homeRuns": "26",
-      "walks": "169",
+      "walks": "178",
       "intentionalWalks": "1",
-      "strikeouts": "350",
-      "strikeoutsLooking": "94",
-      "hitByPitch": "61",
-      "stolenBases": "20",
-      "caughtStealing": "8",
+      "strikeouts": "365",
+      "strikeoutsLooking": "97",
+      "hitByPitch": "63",
+      "stolenBases": "22",
+      "caughtStealing": "9",
       "sacrificeHits": "16",
-      "sacrificeFlies": "16",
+      "sacrificeFlies": "17",
       "reachedOnCatchersInteference": "1",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "276",
-      "flyOuts": "290",
+      "groundOuts": "279",
+      "flyOuts": "298",
       "groundedIntoDoublePlay": "12",
       "pickedOff": "4",
       "doublePlaysHitInto": "19",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "925",
-      "assists": "317",
-      "errors": "41",
+      "putouts": "952",
+      "assists": "328",
+      "errors": "44",
       "passedBalls": "4",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "73",
+      "stolenBasesAgainst": "76",
       "caughtStealingBy": "21",
       "involvedInDoublePlays": "21",
       "involvedInTriplePlays": "0",
-      "totalChances": "1283",
-      "fieldingPercentage": ".968"
+      "totalChances": "1324",
+      "fieldingPercentage": ".967"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "12",
+      "wins": "13",
       "saves": "5",
       "losses": "26",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "0",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "309.0",
-      "hitsAllowed": "369",
-      "runsAllowed": "298",
-      "earnedRunsAllowed": "261",
-      "walksAllowed": "210",
-      "strikeouts": "301",
-      "battersFaced": "1549",
-      "opponentAtBats": "1226",
+      "inningsPitched": "318.0",
+      "hitsAllowed": "376",
+      "runsAllowed": "303",
+      "earnedRunsAllowed": "262",
+      "walksAllowed": "214",
+      "strikeouts": "316",
+      "battersFaced": "1589",
+      "opponentAtBats": "1262",
       "doublesAllowed": "79",
       "triplesAllowed": "13",
       "homerunsAllowed": "24",
-      "wildPitches": "40",
+      "wildPitches": "41",
       "balks": "13",
       "hitBatters": "75",
-      "strikeoutsLooking": "91",
+      "strikeoutsLooking": "95",
       "intentionalWalks": "4",
       "inheritedRunners": "14",
       "inheritedRunnersThatScored": "14",
       "sacrificeHitsAllowed": "22",
       "sacrificeFliesAllowed": "16",
       "catchersInterferenceAllowed": "0",
-      "pitches": "4816",
-      "flyouts": "274",
-      "groundouts": "295",
+      "pitches": "4980",
+      "flyouts": "277",
+      "groundouts": "303",
       "teamUnearnedRuns": "0",
       "saveRecord": "3",
       "pickoff": "4"
@@ -160,33 +160,33 @@
         "jersey": "1",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/aidan-quinn/19434",
         "imageUrl": "https://lehighsports.com/images/2025/9/2/Aidan_Quinn.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "battingAverage": 0.309,
-        "onBasePercentage": 0.415,
-        "sluggingPercentage": 0.463,
-        "ops": 0.878,
-        "atBats": 136,
-        "runs": 22,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "battingAverage": 0.302,
+        "onBasePercentage": 0.418,
+        "sluggingPercentage": 0.453,
+        "ops": 0.871,
+        "atBats": 139,
+        "runs": 23,
         "hits": 42,
         "doubles": 9,
         "triples": 0,
         "homeRuns": 4,
-        "runsBattedIn": 21,
+        "runsBattedIn": 22,
         "totalBases": 63,
-        "walks": 24,
-        "hitByPitch": 2,
-        "strikeouts": 33,
+        "walks": 26,
+        "hitByPitch": 3,
+        "strikeouts": 34,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 20,
-        "assists": 49,
-        "errors": 5,
-        "plateAppearances": 167,
+        "putouts": 21,
+        "assists": 52,
+        "errors": 6,
+        "plateAppearances": 173,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -198,19 +198,19 @@
         "jersey": "1",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/aidan-quinn/19434",
         "imageUrl": "https://lehighsports.com/images/2025/9/2/Aidan_Quinn.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 29,
-        "putouts": 20,
-        "assists": 49,
-        "errors": 5,
-        "fieldingPercentage": 0.932,
+        "gamesPlayed": 30,
+        "gamesStarted": 30,
+        "putouts": 21,
+        "assists": 52,
+        "errors": 6,
+        "fieldingPercentage": 0.924,
         "doublePlays": 2,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 74
+        "totalChances": 79
       },
       "evaluation": {
         "score": 52,
@@ -219,30 +219,30 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 74.99999999999997,
-          "Power": 37.63157894736843,
-          "Contact": 55.62499999999999,
-          "Discipline": 58.58585858585859,
+          "On-base": 76.66666666666664,
+          "Power": 35.00000000000001,
+          "Contact": 51.24999999999999,
+          "Discipline": 62.74509803921568,
           "Speed": 3.3333333333333335
         },
         "summary": "Aidan Quinn profiles as a IF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .309",
-          "OBP .415",
-          "SLG .463"
+          "AVG .302",
+          "OBP .418",
+          "SLG .453"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".309"
+            "value": ".302"
           },
           {
             "label": "OBP",
-            "value": ".415"
+            "value": ".418"
           },
           {
             "label": "SLG",
-            "value": ".463"
+            "value": ".453"
           },
           {
             "label": "HR",
@@ -250,7 +250,7 @@
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -305,21 +305,21 @@
         "jersey": "2",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/dom-patrizi/19433",
         "imageUrl": "https://lehighsports.com/images/2022/8/30/Dom_Patrizi.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 37,
-        "battingAverage": 0.205,
-        "onBasePercentage": 0.368,
-        "sluggingPercentage": 0.308,
-        "ops": 0.676,
-        "atBats": 117,
-        "runs": 21,
-        "hits": 24,
-        "doubles": 3,
+        "gamesPlayed": 39,
+        "gamesStarted": 38,
+        "battingAverage": 0.223,
+        "onBasePercentage": 0.382,
+        "sluggingPercentage": 0.339,
+        "ops": 0.721,
+        "atBats": 121,
+        "runs": 23,
+        "hits": 27,
+        "doubles": 5,
         "triples": 0,
         "homeRuns": 3,
-        "runsBattedIn": 16,
-        "totalBases": 36,
-        "walks": 21,
+        "runsBattedIn": 18,
+        "totalBases": 41,
+        "walks": 22,
         "hitByPitch": 11,
         "strikeouts": 38,
         "intentionalWalks": 0,
@@ -328,10 +328,10 @@
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 6,
-        "putouts": 94,
+        "putouts": 96,
         "assists": 7,
         "errors": 1,
-        "plateAppearances": 161,
+        "plateAppearances": 166,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -343,9 +343,9 @@
         "jersey": "2",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/dom-patrizi/19433",
         "imageUrl": "https://lehighsports.com/images/2022/8/30/Dom_Patrizi.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 35,
-        "putouts": 94,
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "putouts": 96,
         "assists": 7,
         "errors": 1,
         "fieldingPercentage": 0.99,
@@ -355,39 +355,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 102
+        "totalChances": 104
       },
       "evaluation": {
-        "score": 22,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 48.88888888888887,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 39.1812865497076,
+          "On-base": 56.66666666666666,
+          "Power": 5.000000000000005,
+          "Contact": 1.8750000000000018,
+          "Discipline": 42.10526315789473,
           "Speed": 13.333333333333334
         },
         "summary": "Dom Patrizi gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .205",
-          "OBP .368",
-          "SLG .308"
+          "AVG .223",
+          "OBP .382",
+          "SLG .339"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".205"
+            "value": ".223"
           },
           {
             "label": "OBP",
-            "value": ".368"
+            "value": ".382"
           },
           {
             "label": "SLG",
-            "value": ".308"
+            "value": ".339"
           },
           {
             "label": "HR",
@@ -395,7 +395,7 @@
           },
           {
             "label": "RBI",
-            "value": "16"
+            "value": "18"
           },
           {
             "label": "SB",
@@ -595,23 +595,23 @@
         "jersey": "4",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/silvio-giardina/19924",
         "imageUrl": "https://lehighsports.com/images/2025/9/2/Silvio_Giardina.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 34,
-        "battingAverage": 0.228,
-        "onBasePercentage": 0.322,
-        "sluggingPercentage": 0.287,
-        "ops": 0.609,
-        "atBats": 101,
+        "gamesPlayed": 38,
+        "gamesStarted": 35,
+        "battingAverage": 0.238,
+        "onBasePercentage": 0.333,
+        "sluggingPercentage": 0.295,
+        "ops": 0.628,
+        "atBats": 105,
         "runs": 14,
-        "hits": 23,
+        "hits": 25,
         "doubles": 2,
         "triples": 2,
         "homeRuns": 0,
-        "runsBattedIn": 13,
-        "totalBases": 29,
-        "walks": 12,
+        "runsBattedIn": 14,
+        "totalBases": 31,
+        "walks": 13,
         "hitByPitch": 2,
-        "strikeouts": 33,
+        "strikeouts": 35,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -619,9 +619,9 @@
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
         "putouts": 38,
-        "assists": 77,
-        "errors": 6,
-        "plateAppearances": 124,
+        "assists": 80,
+        "errors": 7,
+        "plateAppearances": 129,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -633,51 +633,51 @@
         "jersey": "4",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/silvio-giardina/19924",
         "imageUrl": "https://lehighsports.com/images/2025/9/2/Silvio_Giardina.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 31,
+        "gamesPlayed": 34,
+        "gamesStarted": 32,
         "putouts": 38,
-        "assists": 77,
-        "errors": 6,
-        "fieldingPercentage": 0.95,
+        "assists": 80,
+        "errors": 7,
+        "fieldingPercentage": 0.944,
         "doublePlays": 9,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 121
+        "totalChances": 125
       },
       "evaluation": {
-        "score": 12,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 23.333333333333325,
+          "On-base": 29.44444444444444,
           "Power": 0,
-          "Contact": 5.000000000000004,
-          "Discipline": 18.18181818181818,
+          "Contact": 11.249999999999991,
+          "Discipline": 19.047619047619044,
           "Speed": 6.666666666666667
         },
         "summary": "Silvio Giardina gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .228",
-          "OBP .322",
-          "SLG .287"
+          "AVG .238",
+          "OBP .333",
+          "SLG .295"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".228"
+            "value": ".238"
           },
           {
             "label": "OBP",
-            "value": ".322"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".287"
+            "value": ".295"
           },
           {
             "label": "HR",
@@ -685,7 +685,7 @@
           },
           {
             "label": "RBI",
-            "value": "13"
+            "value": "14"
           },
           {
             "label": "SB",
@@ -740,34 +740,34 @@
         "jersey": "5",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/owen-walewander/19439",
         "imageUrl": "https://lehighsports.com/images/2025/9/2/Owen_Walewander.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "battingAverage": 0.267,
-        "onBasePercentage": 0.351,
-        "sluggingPercentage": 0.541,
-        "ops": 0.892,
-        "atBats": 135,
-        "runs": 23,
-        "hits": 36,
-        "doubles": 7,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "battingAverage": 0.273,
+        "onBasePercentage": 0.354,
+        "sluggingPercentage": 0.547,
+        "ops": 0.901,
+        "atBats": 139,
+        "runs": 24,
+        "hits": 38,
+        "doubles": 8,
         "triples": 0,
         "homeRuns": 10,
-        "runsBattedIn": 32,
-        "totalBases": 73,
+        "runsBattedIn": 35,
+        "totalBases": 76,
         "walks": 10,
         "hitByPitch": 8,
-        "strikeouts": 32,
+        "strikeouts": 33,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 1,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 3,
         "putouts": 210,
         "assists": 29,
         "errors": 3,
-        "plateAppearances": 157,
-        "caughtStealing": 1,
+        "plateAppearances": 164,
+        "caughtStealing": 2,
         "pickedOff": 0
       },
       "pitchingStats": null,
@@ -793,36 +793,36 @@
         "totalChances": 242
       },
       "evaluation": {
-        "score": 35,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 39.44444444444442,
-          "Power": 58.15789473684212,
-          "Contact": 29.375000000000007,
-          "Discipline": 12.499999999999996,
-          "Speed": 0
+          "On-base": 41.111111111111086,
+          "Power": 59.73684210526318,
+          "Contact": 33.12500000000001,
+          "Discipline": 11.447811447811446,
+          "Speed": 3.3333333333333335
         },
         "summary": "Owen Walewander gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .267",
-          "OBP .351",
-          "SLG .541"
+          "AVG .273",
+          "OBP .354",
+          "SLG .547"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".267"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".351"
+            "value": ".354"
           },
           {
             "label": "SLG",
-            "value": ".541"
+            "value": ".547"
           },
           {
             "label": "HR",
@@ -830,11 +830,11 @@
           },
           {
             "label": "RBI",
-            "value": "32"
+            "value": "35"
           },
           {
             "label": "SB",
-            "value": "0"
+            "value": "1"
           }
         ],
         "metaLine": "SR / R/R",
@@ -885,33 +885,33 @@
         "jersey": "6",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/trystan-crawford/19415",
         "imageUrl": "https://lehighsports.com/images/2025/9/2/Trystan_Crawford.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "battingAverage": 0.3,
-        "onBasePercentage": 0.433,
-        "sluggingPercentage": 0.458,
-        "ops": 0.891,
-        "atBats": 120,
-        "runs": 14,
-        "hits": 36,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "battingAverage": 0.296,
+        "onBasePercentage": 0.429,
+        "sluggingPercentage": 0.448,
+        "ops": 0.877,
+        "atBats": 125,
+        "runs": 15,
+        "hits": 37,
         "doubles": 10,
         "triples": 0,
         "homeRuns": 3,
         "runsBattedIn": 17,
-        "totalBases": 55,
-        "walks": 25,
+        "totalBases": 56,
+        "walks": 26,
         "hitByPitch": 4,
-        "strikeouts": 33,
+        "strikeouts": 35,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 268,
+        "putouts": 277,
         "assists": 12,
-        "errors": 2,
-        "plateAppearances": 150,
+        "errors": 3,
+        "plateAppearances": 156,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -923,51 +923,51 @@
         "jersey": "6",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/trystan-crawford/19415",
         "imageUrl": "https://lehighsports.com/images/2025/9/2/Trystan_Crawford.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "putouts": 268,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "putouts": 277,
         "assists": 12,
-        "errors": 2,
-        "fieldingPercentage": 0.993,
+        "errors": 3,
+        "fieldingPercentage": 0.99,
         "doublePlays": 17,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 282
+        "totalChances": 292
       },
       "evaluation": {
-        "score": 54,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 84.99999999999999,
-          "Power": 36.31578947368422,
-          "Contact": 49.999999999999986,
-          "Discipline": 61.95286195286195,
+          "On-base": 82.77777777777776,
+          "Power": 33.684210526315795,
+          "Contact": 47.499999999999986,
+          "Discipline": 60.317460317460316,
           "Speed": 0
         },
         "summary": "Trystan Crawford profiles as a IF/OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .433",
-          "SLG .458"
+          "AVG .296",
+          "OBP .429",
+          "SLG .448"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": ".296"
           },
           {
             "label": "OBP",
-            "value": ".433"
+            "value": ".429"
           },
           {
             "label": "SLG",
-            "value": ".458"
+            "value": ".448"
           },
           {
             "label": "HR",
@@ -1439,33 +1439,33 @@
         "jersey": "10",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/max-dantoni/19926",
         "imageUrl": "https://lehighsports.com/images/2025/9/2/Max_Dantoni.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 15,
-        "battingAverage": 0.226,
-        "onBasePercentage": 0.368,
-        "sluggingPercentage": 0.226,
-        "ops": 0.594,
-        "atBats": 53,
-        "runs": 13,
+        "gamesPlayed": 27,
+        "gamesStarted": 16,
+        "battingAverage": 0.214,
+        "onBasePercentage": 0.356,
+        "sluggingPercentage": 0.214,
+        "ops": 0.57,
+        "atBats": 56,
+        "runs": 14,
         "hits": 12,
         "doubles": 0,
         "triples": 0,
         "homeRuns": 0,
-        "runsBattedIn": 9,
+        "runsBattedIn": 10,
         "totalBases": 12,
-        "walks": 11,
+        "walks": 12,
         "hitByPitch": 2,
-        "strikeouts": 16,
+        "strikeouts": 19,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 2,
+        "sacrificeFlies": 3,
         "sacrificeHits": 4,
         "stolenBases": 6,
         "stolenBasesAttempts": 9,
-        "putouts": 23,
-        "assists": 26,
+        "putouts": 24,
+        "assists": 28,
         "errors": 6,
-        "plateAppearances": 84,
+        "plateAppearances": 89,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -1477,51 +1477,51 @@
         "jersey": "10",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/max-dantoni/19926",
         "imageUrl": "https://lehighsports.com/images/2025/9/2/Max_Dantoni.jpg",
-        "gamesPlayed": 19,
-        "gamesStarted": 14,
-        "putouts": 23,
-        "assists": 26,
+        "gamesPlayed": 20,
+        "gamesStarted": 15,
+        "putouts": 24,
+        "assists": 28,
         "errors": 6,
-        "fieldingPercentage": 0.891,
+        "fieldingPercentage": 0.897,
         "doublePlays": 5,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 55
+        "totalChances": 58
       },
       "evaluation": {
-        "score": 26,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 48.88888888888887,
+          "On-base": 42.2222222222222,
           "Power": 0,
-          "Contact": 3.7500000000000036,
-          "Discipline": 54.166666666666664,
+          "Contact": 0,
+          "Discipline": 47.95321637426899,
           "Speed": 20
         },
         "summary": "Max Dantoni gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .226",
-          "OBP .368",
-          "SLG .226"
+          "AVG .214",
+          "OBP .356",
+          "SLG .214"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".226"
+            "value": ".214"
           },
           {
             "label": "OBP",
-            "value": ".368"
+            "value": ".356"
           },
           {
             "label": "SLG",
-            "value": ".226"
+            "value": ".214"
           },
           {
             "label": "HR",
@@ -1529,7 +1529,7 @@
           },
           {
             "label": "RBI",
-            "value": "9"
+            "value": "10"
           },
           {
             "label": "SB",
@@ -1726,13 +1726,13 @@
         "jersey": "12",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/jasper-adelman/19408",
         "imageUrl": "https://lehighsports.com/images/2023/9/4/Jasper_Adelman.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 1,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.5,
-        "sluggingPercentage": 0.25,
-        "ops": 0.75,
-        "atBats": 12,
+        "battingAverage": 0.231,
+        "onBasePercentage": 0.474,
+        "sluggingPercentage": 0.231,
+        "ops": 0.705,
+        "atBats": 13,
         "runs": 5,
         "hits": 3,
         "doubles": 0,
@@ -1742,7 +1742,7 @@
         "totalBases": 3,
         "walks": 5,
         "hitByPitch": 1,
-        "strikeouts": 5,
+        "strikeouts": 6,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -1752,7 +1752,7 @@
         "putouts": 1,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 18,
+        "plateAppearances": 19,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1779,7 +1779,7 @@
         "totalChances": 1
       },
       "evaluation": {
-        "score": 48,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1787,28 +1787,28 @@
         "components": {
           "On-base": 100,
           "Power": 0,
-          "Contact": 18.75,
-          "Discipline": 88.88888888888889,
+          "Contact": 6.875000000000006,
+          "Discipline": 70.37037037037037,
           "Speed": 0
         },
-        "summary": "Jasper Adelman profiles as a OF/1B piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Jasper Adelman profiles as a OF/1B piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .500",
-          "SLG .250"
+          "AVG .231",
+          "OBP .474",
+          "SLG .231"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".231"
           },
           {
             "label": "OBP",
-            "value": ".500"
+            "value": ".474"
           },
           {
             "label": "SLG",
-            "value": ".250"
+            "value": ".231"
           },
           {
             "label": "HR",
@@ -2368,14 +2368,14 @@
         "jersey": "17",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/robby-grasso/19927",
         "imageUrl": "https://lehighsports.com/images/2025/9/2/Robby_Grasso.jpg",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 5,
-        "battingAverage": 0.192,
-        "onBasePercentage": 0.25,
-        "sluggingPercentage": 0.231,
-        "ops": 0.481,
-        "atBats": 26,
-        "runs": 5,
+        "battingAverage": 0.185,
+        "onBasePercentage": 0.267,
+        "sluggingPercentage": 0.222,
+        "ops": 0.489,
+        "atBats": 27,
+        "runs": 6,
         "hits": 5,
         "doubles": 1,
         "triples": 0,
@@ -2383,18 +2383,18 @@
         "runsBattedIn": 1,
         "totalBases": 6,
         "walks": 0,
-        "hitByPitch": 2,
-        "strikeouts": 10,
+        "hitByPitch": 3,
+        "strikeouts": 11,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 1,
         "putouts": 11,
         "assists": 1,
         "errors": 0,
-        "plateAppearances": 28,
+        "plateAppearances": 31,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2513,33 +2513,33 @@
         "jersey": "18",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/robbie-carvelli/19412",
         "imageUrl": "https://lehighsports.com/images/2023/9/4/Robbie_Carvelli.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 33,
-        "battingAverage": 0.27,
+        "gamesPlayed": 36,
+        "gamesStarted": 34,
+        "battingAverage": 0.268,
         "onBasePercentage": 0.343,
-        "sluggingPercentage": 0.303,
-        "ops": 0.646,
-        "atBats": 122,
-        "runs": 16,
-        "hits": 33,
+        "sluggingPercentage": 0.299,
+        "ops": 0.642,
+        "atBats": 127,
+        "runs": 17,
+        "hits": 34,
         "doubles": 4,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 11,
-        "totalBases": 37,
-        "walks": 8,
+        "totalBases": 38,
+        "walks": 9,
         "hitByPitch": 6,
-        "strikeouts": 25,
+        "strikeouts": 26,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 3,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 39,
+        "putouts": 40,
         "assists": 3,
         "errors": 0,
-        "plateAppearances": 143,
+        "plateAppearances": 149,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -2551,9 +2551,9 @@
         "jersey": "18",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/robbie-carvelli/19412",
         "imageUrl": "https://lehighsports.com/images/2023/9/4/Robbie_Carvelli.jpg",
-        "gamesPlayed": 21,
-        "gamesStarted": 21,
-        "putouts": 39,
+        "gamesPlayed": 22,
+        "gamesStarted": 22,
+        "putouts": 40,
         "assists": 3,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -2563,7 +2563,7 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 42
+        "totalChances": 43
       },
       "evaluation": {
         "score": 20,
@@ -2574,20 +2574,20 @@
         "components": {
           "On-base": 35,
           "Power": 0,
-          "Contact": 31.25000000000001,
-          "Discipline": 13.33333333333333,
+          "Contact": 30.00000000000001,
+          "Discipline": 16.239316239316235,
           "Speed": 10
         },
         "summary": "Robbie Carvelli gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .270",
+          "AVG .268",
           "OBP .343",
-          "SLG .303"
+          "SLG .299"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".270"
+            "value": ".268"
           },
           {
             "label": "OBP",
@@ -2595,7 +2595,7 @@
           },
           {
             "label": "SLG",
-            "value": ".303"
+            "value": ".299"
           },
           {
             "label": "HR",
@@ -2659,32 +2659,32 @@
         "jersey": "19",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/ryan-holman/19930",
         "imageUrl": "https://lehighsports.com/images/2025/9/2/Ryan_Holman.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 3,
-        "appearances": 11,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 11.95,
-        "whip": 2.51,
+        "earnedRunAverage": 10.41,
+        "whip": 2.27,
         "wins": 1,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 20.333333333333332,
-        "inningsPitchedDisplay": "20.1",
-        "hitsAllowed": 35,
+        "inningsPitched": 23.333333333333332,
+        "inningsPitchedDisplay": "23.1",
+        "hitsAllowed": 36,
         "runsAllowed": 27,
         "earnedRunsAllowed": 27,
-        "walksAllowed": 16,
-        "strikeouts": 19,
+        "walksAllowed": 17,
+        "strikeouts": 25,
         "doublesAllowed": 8,
         "triplesAllowed": 1,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 95,
+        "opponentsAtBats": 105,
         "wildPitches": 4,
         "hitBatters": 2,
         "balks": 1,
-        "opponentsBattingAverage": 0.368,
-        "walksHits": 51
+        "opponentsBattingAverage": 0.343,
+        "walksHits": 53
       },
       "fieldingStats": {
         "rosterBioId": "19930",
@@ -2693,10 +2693,10 @@
         "jersey": "19",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/ryan-holman/19930",
         "imageUrl": "https://lehighsports.com/images/2025/9/2/Ryan_Holman.jpg",
-        "gamesPlayed": 6,
+        "gamesPlayed": 7,
         "gamesStarted": 0,
         "putouts": 0,
-        "assists": 4,
+        "assists": 5,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -2705,10 +2705,10 @@
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 4
+        "totalChances": 5
       },
       "evaluation": {
-        "score": 9,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2716,40 +2716,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 40.08941877794337,
-          "Command": 3.75,
+          "Miss bats": 51.29870129870131,
+          "Command": 9.411764705882355,
           "Damage suppression": 0
         },
-        "summary": "Ryan Holman gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Ryan Holman looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 11.95",
-          "WHIP 2.51",
-          "K/9 8.4"
+          "ERA 10.41",
+          "WHIP 2.27",
+          "K/9 9.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "11.95"
+            "value": "10.41"
           },
           {
             "label": "WHIP",
-            "value": "2.51"
+            "value": "2.27"
           },
           {
             "label": "K/9",
-            "value": "8.4"
+            "value": "9.6"
           },
           {
             "label": "BB/9",
-            "value": "7.1"
+            "value": "6.6"
           },
           {
             "label": "HR/9",
-            "value": "0.44"
+            "value": "0.39"
           },
           {
             "label": "IP",
-            "value": "20.3"
+            "value": "23.3"
           }
         ],
         "metaLine": "FY / R/R",
@@ -4368,33 +4368,33 @@
         "jersey": "34",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/ian-wirtz/19441",
         "imageUrl": "https://lehighsports.com/images/2024/8/27/Ian_Wirtz.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 25,
-        "battingAverage": 0.293,
-        "onBasePercentage": 0.364,
-        "sluggingPercentage": 0.424,
-        "ops": 0.788,
-        "atBats": 92,
-        "runs": 14,
-        "hits": 27,
+        "gamesPlayed": 29,
+        "gamesStarted": 26,
+        "battingAverage": 0.302,
+        "onBasePercentage": 0.381,
+        "sluggingPercentage": 0.427,
+        "ops": 0.808,
+        "atBats": 96,
+        "runs": 17,
+        "hits": 29,
         "doubles": 8,
         "triples": 2,
         "homeRuns": 0,
         "runsBattedIn": 15,
-        "totalBases": 39,
-        "walks": 10,
+        "totalBases": 41,
+        "walks": 12,
         "hitByPitch": 2,
-        "strikeouts": 24,
+        "strikeouts": 25,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 106,
-        "assists": 7,
+        "putouts": 119,
+        "assists": 9,
         "errors": 3,
-        "plateAppearances": 108,
+        "plateAppearances": 114,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4406,51 +4406,51 @@
         "jersey": "34",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/ian-wirtz/19441",
         "imageUrl": "https://lehighsports.com/images/2024/8/27/Ian_Wirtz.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 13,
-        "putouts": 106,
-        "assists": 7,
+        "gamesPlayed": 14,
+        "gamesStarted": 14,
+        "putouts": 119,
+        "assists": 9,
         "errors": 3,
-        "fieldingPercentage": 0.974,
+        "fieldingPercentage": 0.977,
         "doublePlays": 0,
-        "stolenBasesAgainst": 26,
+        "stolenBasesAgainst": 29,
         "caughtStealingBy": 5,
-        "stolenBasesPercentage": 0.839,
+        "stolenBasesPercentage": 0.853,
         "passedBalls": 1,
         "catchersInterference": 0,
-        "totalChances": 116
+        "totalChances": 131
       },
       "evaluation": {
-        "score": 34,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 46.66666666666665,
-          "Power": 27.368421052631575,
-          "Contact": 45.624999999999986,
-          "Discipline": 24.07407407407407,
+          "On-base": 56.1111111111111,
+          "Power": 28.157894736842103,
+          "Contact": 51.24999999999999,
+          "Discipline": 31.111111111111107,
           "Speed": 3.3333333333333335
         },
         "summary": "Ian Wirtz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .293",
-          "OBP .364",
-          "SLG .424"
+          "AVG .302",
+          "OBP .381",
+          "SLG .427"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".293"
+            "value": ".302"
           },
           {
             "label": "OBP",
-            "value": ".364"
+            "value": ".381"
           },
           {
             "label": "SLG",
-            "value": ".424"
+            "value": ".427"
           },
           {
             "label": "HR",
@@ -4514,32 +4514,32 @@
         "jersey": "37",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/ralph-gariano/19420",
         "imageUrl": "https://lehighsports.com/images/2024/8/27/Ralph_Gariano.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 0,
-        "appearances": 11,
+        "gamesPlayed": 12,
+        "gamesStarted": 1,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 8.03,
-        "whip": 2.27,
+        "earnedRunAverage": 6.46,
+        "whip": 2.02,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 12.333333333333334,
-        "inningsPitchedDisplay": "12.1",
-        "hitsAllowed": 18,
-        "runsAllowed": 17,
+        "inningsPitched": 15.333333333333334,
+        "inningsPitchedDisplay": "15.1",
+        "hitsAllowed": 20,
+        "runsAllowed": 18,
         "earnedRunsAllowed": 11,
-        "walksAllowed": 10,
-        "strikeouts": 13,
+        "walksAllowed": 11,
+        "strikeouts": 17,
         "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 48,
-        "wildPitches": 1,
+        "opponentsAtBats": 61,
+        "wildPitches": 2,
         "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.375,
-        "walksHits": 28
+        "opponentsBattingAverage": 0.328,
+        "walksHits": 31
       },
       "fieldingStats": {
         "rosterBioId": "19420",
@@ -4548,14 +4548,14 @@
         "jersey": "37",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/ralph-gariano/19420",
         "imageUrl": "https://lehighsports.com/images/2024/8/27/Ralph_Gariano.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
+        "gamesPlayed": 4,
+        "gamesStarted": 1,
         "putouts": 0,
         "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 1,
+        "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
@@ -4563,7 +4563,7 @@
         "totalChances": 2
       },
       "evaluation": {
-        "score": 11,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4571,40 +4571,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 49.877149877149876,
-          "Command": 5.9999999999999964,
+          "Miss bats": 54.347826086956516,
+          "Command": 10.909090909090908,
           "Damage suppression": 0
         },
         "summary": "Ralph Gariano looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 8.03",
-          "WHIP 2.27",
-          "K/9 9.5"
+          "ERA 6.46",
+          "WHIP 2.02",
+          "K/9 10.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.03"
+            "value": "6.46"
           },
           {
             "label": "WHIP",
-            "value": "2.27"
+            "value": "2.02"
           },
           {
             "label": "K/9",
-            "value": "9.5"
+            "value": "10.0"
           },
           {
             "label": "BB/9",
-            "value": "7.3"
+            "value": "6.5"
           },
           {
             "label": "HR/9",
-            "value": "0.73"
+            "value": "0.59"
           },
           {
             "label": "IP",
-            "value": "12.3"
+            "value": "15.3"
           }
         ],
         "metaLine": "SR / L/L",
@@ -4781,32 +4781,32 @@
         "jersey": "40",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/cole-kochanowicz/19426",
         "imageUrl": "https://lehighsports.com/images/2024/8/27/Cole_Kochanowicz.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 0,
-        "appearances": 12,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 12.79,
-        "whip": 2.37,
+        "earnedRunAverage": 12.15,
+        "whip": 2.45,
         "wins": 0,
         "losses": 3,
         "saves": 2,
         "shutouts": 0,
-        "inningsPitched": 19,
-        "inningsPitchedDisplay": "19.0",
-        "hitsAllowed": 31,
-        "runsAllowed": 30,
+        "inningsPitched": 20,
+        "inningsPitchedDisplay": "20.0",
+        "hitsAllowed": 34,
+        "runsAllowed": 33,
         "earnedRunsAllowed": 27,
-        "walksAllowed": 14,
-        "strikeouts": 20,
+        "walksAllowed": 15,
+        "strikeouts": 21,
         "doublesAllowed": 7,
         "triplesAllowed": 1,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 84,
+        "opponentsAtBats": 90,
         "wildPitches": 3,
         "hitBatters": 8,
         "balks": 0,
-        "opponentsBattingAverage": 0.369,
-        "walksHits": 45
+        "opponentsBattingAverage": 0.378,
+        "walksHits": 49
       },
       "fieldingStats": {
         "rosterBioId": "19426",
@@ -4838,40 +4838,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 49.76076555023923,
-          "Command": 8.571428571428568,
+          "Miss bats": 49.54545454545454,
+          "Command": 7.999999999999999,
           "Damage suppression": 0
         },
         "summary": "Cole Kochanowicz looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 12.79",
-          "WHIP 2.37",
-          "K/9 9.5"
+          "ERA 12.15",
+          "WHIP 2.45",
+          "K/9 9.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "12.79"
+            "value": "12.15"
           },
           {
             "label": "WHIP",
-            "value": "2.37"
+            "value": "2.45"
           },
           {
             "label": "K/9",
-            "value": "9.5"
+            "value": "9.4"
           },
           {
             "label": "BB/9",
-            "value": "6.6"
+            "value": "6.8"
           },
           {
             "label": "HR/9",
-            "value": "0.95"
+            "value": "0.90"
           },
           {
             "label": "IP",
-            "value": "19.0"
+            "value": "20.0"
           }
         ],
         "metaLine": "SO / L/R",
@@ -4923,32 +4923,32 @@
         "jersey": "41",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/david-andolina/19410",
         "imageUrl": "https://lehighsports.com/images/2022/8/30/David_Andolina.jpg",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 0,
-        "appearances": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 12.86,
-        "whip": 2.5,
-        "wins": 0,
+        "earnedRunAverage": 11.81,
+        "whip": 2.31,
+        "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 14,
-        "inningsPitchedDisplay": "14.0",
-        "hitsAllowed": 20,
-        "runsAllowed": 22,
-        "earnedRunsAllowed": 20,
-        "walksAllowed": 15,
-        "strikeouts": 14,
+        "inningsPitched": 16,
+        "inningsPitchedDisplay": "16.0",
+        "hitsAllowed": 21,
+        "runsAllowed": 23,
+        "earnedRunsAllowed": 21,
+        "walksAllowed": 16,
+        "strikeouts": 18,
         "doublesAllowed": 5,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 62,
+        "opponentsAtBats": 69,
         "wildPitches": 1,
         "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.323,
-        "walksHits": 35
+        "opponentsBattingAverage": 0.304,
+        "walksHits": 37
       },
       "fieldingStats": {
         "rosterBioId": "19410",
@@ -4957,14 +4957,14 @@
         "jersey": "41",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/david-andolina/19410",
         "imageUrl": "https://lehighsports.com/images/2022/8/30/David_Andolina.jpg",
-        "gamesPlayed": 3,
+        "gamesPlayed": 4,
         "gamesStarted": 0,
         "putouts": 1,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 2,
+        "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
@@ -4972,7 +4972,7 @@
         "totalChances": 2
       },
       "evaluation": {
-        "score": 9,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4980,40 +4980,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 0,
+          "Miss bats": 55.68181818181818,
+          "Command": 2.5,
           "Damage suppression": 0
         },
         "summary": "David Andolina looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 12.86",
-          "WHIP 2.50",
-          "K/9 9.0"
+          "ERA 11.81",
+          "WHIP 2.31",
+          "K/9 10.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "12.86"
+            "value": "11.81"
           },
           {
             "label": "WHIP",
-            "value": "2.50"
+            "value": "2.31"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "10.1"
           },
           {
             "label": "BB/9",
-            "value": "9.6"
+            "value": "9.0"
           },
           {
             "label": "HR/9",
-            "value": "1.29"
+            "value": "1.13"
           },
           {
             "label": "IP",
-            "value": "14.0"
+            "value": "16.0"
           }
         ],
         "metaLine": "SR / R/R",
@@ -5348,23 +5348,23 @@
         "jersey": "44",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/cadeyrn-ahearn/19409",
         "imageUrl": "https://lehighsports.com/images/2024/8/27/Cade_Ahearn.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 3,
-        "battingAverage": 0.357,
-        "onBasePercentage": 0.609,
-        "sluggingPercentage": 0.643,
-        "ops": 1.252,
-        "atBats": 14,
+        "gamesPlayed": 13,
+        "gamesStarted": 4,
+        "battingAverage": 0.333,
+        "onBasePercentage": 0.556,
+        "sluggingPercentage": 0.556,
+        "ops": 1.112,
+        "atBats": 18,
         "runs": 7,
-        "hits": 5,
+        "hits": 6,
         "doubles": 1,
         "triples": 0,
         "homeRuns": 1,
-        "runsBattedIn": 7,
-        "totalBases": 9,
+        "runsBattedIn": 8,
+        "totalBases": 10,
         "walks": 5,
         "hitByPitch": 4,
-        "strikeouts": 6,
+        "strikeouts": 8,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -5374,7 +5374,7 @@
         "putouts": 0,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 23,
+        "plateAppearances": 27,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -5602,22 +5602,22 @@
         },
         "summary": "Aidan Quinn profiles as a IF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .309",
-          "OBP .415",
-          "SLG .463"
+          "AVG .302",
+          "OBP .418",
+          "SLG .453"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".309"
+            "value": ".302"
           },
           {
             "label": "OBP",
-            "value": ".415"
+            "value": ".418"
           },
           {
             "label": "SLG",
-            "value": ".463"
+            "value": ".453"
           },
           {
             "label": "HR",
@@ -5625,7 +5625,7 @@
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -5633,10 +5633,10 @@
           }
         ],
         "components": {
-          "On-base": 74.99999999999997,
-          "Power": 37.63157894736843,
-          "Contact": 55.62499999999999,
-          "Discipline": 58.58585858585859,
+          "On-base": 76.66666666666664,
+          "Power": 35.00000000000001,
+          "Contact": 51.24999999999999,
+          "Discipline": 62.74509803921568,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / L/R",
@@ -5664,29 +5664,29 @@
         "position": "IF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 22,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dom Patrizi gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .205",
-          "OBP .368",
-          "SLG .308"
+          "AVG .223",
+          "OBP .382",
+          "SLG .339"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".205"
+            "value": ".223"
           },
           {
             "label": "OBP",
-            "value": ".368"
+            "value": ".382"
           },
           {
             "label": "SLG",
-            "value": ".308"
+            "value": ".339"
           },
           {
             "label": "HR",
@@ -5694,7 +5694,7 @@
           },
           {
             "label": "RBI",
-            "value": "16"
+            "value": "18"
           },
           {
             "label": "SB",
@@ -5702,10 +5702,10 @@
           }
         ],
         "components": {
-          "On-base": 48.88888888888887,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 39.1812865497076,
+          "On-base": 56.66666666666666,
+          "Power": 5.000000000000005,
+          "Contact": 1.8750000000000018,
+          "Discipline": 42.10526315789473,
           "Speed": 13.333333333333334
         },
         "metaLine": "SR / R/R",
@@ -5802,29 +5802,29 @@
         "position": "INF",
         "classYear": "FY",
         "handedness": "R/R",
-        "score": 12,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Silvio Giardina gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .228",
-          "OBP .322",
-          "SLG .287"
+          "AVG .238",
+          "OBP .333",
+          "SLG .295"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".228"
+            "value": ".238"
           },
           {
             "label": "OBP",
-            "value": ".322"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".287"
+            "value": ".295"
           },
           {
             "label": "HR",
@@ -5832,7 +5832,7 @@
           },
           {
             "label": "RBI",
-            "value": "13"
+            "value": "14"
           },
           {
             "label": "SB",
@@ -5840,10 +5840,10 @@
           }
         ],
         "components": {
-          "On-base": 23.333333333333325,
+          "On-base": 29.44444444444444,
           "Power": 0,
-          "Contact": 5.000000000000004,
-          "Discipline": 18.18181818181818,
+          "Contact": 11.249999999999991,
+          "Discipline": 19.047619047619044,
           "Speed": 6.666666666666667
         },
         "metaLine": "FY / R/R",
@@ -5871,29 +5871,29 @@
         "position": "C",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 35,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Owen Walewander gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .267",
-          "OBP .351",
-          "SLG .541"
+          "AVG .273",
+          "OBP .354",
+          "SLG .547"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".267"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".351"
+            "value": ".354"
           },
           {
             "label": "SLG",
-            "value": ".541"
+            "value": ".547"
           },
           {
             "label": "HR",
@@ -5901,19 +5901,19 @@
           },
           {
             "label": "RBI",
-            "value": "32"
+            "value": "35"
           },
           {
             "label": "SB",
-            "value": "0"
+            "value": "1"
           }
         ],
         "components": {
-          "On-base": 39.44444444444442,
-          "Power": 58.15789473684212,
-          "Contact": 29.375000000000007,
-          "Discipline": 12.499999999999996,
-          "Speed": 0
+          "On-base": 41.111111111111086,
+          "Power": 59.73684210526318,
+          "Contact": 33.12500000000001,
+          "Discipline": 11.447811447811446,
+          "Speed": 3.3333333333333335
         },
         "metaLine": "SR / R/R",
         "detailBadges": [
@@ -5940,29 +5940,29 @@
         "position": "IF/OF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 54,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Trystan Crawford profiles as a IF/OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .433",
-          "SLG .458"
+          "AVG .296",
+          "OBP .429",
+          "SLG .448"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": ".296"
           },
           {
             "label": "OBP",
-            "value": ".433"
+            "value": ".429"
           },
           {
             "label": "SLG",
-            "value": ".458"
+            "value": ".448"
           },
           {
             "label": "HR",
@@ -5978,10 +5978,10 @@
           }
         ],
         "components": {
-          "On-base": 84.99999999999999,
-          "Power": 36.31578947368422,
-          "Contact": 49.999999999999986,
-          "Discipline": 61.95286195286195,
+          "On-base": 82.77777777777776,
+          "Power": 33.684210526315795,
+          "Contact": 47.499999999999986,
+          "Discipline": 60.317460317460316,
           "Speed": 0
         },
         "metaLine": "SR / R/R",
@@ -6216,29 +6216,29 @@
         "position": "INF",
         "classYear": "FY",
         "handedness": "R/R",
-        "score": 26,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Max Dantoni gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .226",
-          "OBP .368",
-          "SLG .226"
+          "AVG .214",
+          "OBP .356",
+          "SLG .214"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".226"
+            "value": ".214"
           },
           {
             "label": "OBP",
-            "value": ".368"
+            "value": ".356"
           },
           {
             "label": "SLG",
-            "value": ".226"
+            "value": ".214"
           },
           {
             "label": "HR",
@@ -6246,7 +6246,7 @@
           },
           {
             "label": "RBI",
-            "value": "9"
+            "value": "10"
           },
           {
             "label": "SB",
@@ -6254,10 +6254,10 @@
           }
         ],
         "components": {
-          "On-base": 48.88888888888887,
+          "On-base": 42.2222222222222,
           "Power": 0,
-          "Contact": 3.7500000000000036,
-          "Discipline": 54.166666666666664,
+          "Contact": 0,
+          "Discipline": 47.95321637426899,
           "Speed": 20
         },
         "metaLine": "FY / R/R",
@@ -6354,29 +6354,29 @@
         "position": "OF/1B",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 48,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jasper Adelman profiles as a OF/1B piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Jasper Adelman profiles as a OF/1B piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .500",
-          "SLG .250"
+          "AVG .231",
+          "OBP .474",
+          "SLG .231"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".231"
           },
           {
             "label": "OBP",
-            "value": ".500"
+            "value": ".474"
           },
           {
             "label": "SLG",
-            "value": ".250"
+            "value": ".231"
           },
           {
             "label": "HR",
@@ -6394,8 +6394,8 @@
         "components": {
           "On-base": 100,
           "Power": 0,
-          "Contact": 18.75,
-          "Discipline": 88.88888888888889,
+          "Contact": 6.875000000000006,
+          "Discipline": 70.37037037037037,
           "Speed": 0
         },
         "metaLine": "JR / L/R",
@@ -6774,14 +6774,14 @@
         },
         "summary": "Robbie Carvelli gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .270",
+          "AVG .268",
           "OBP .343",
-          "SLG .303"
+          "SLG .299"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".270"
+            "value": ".268"
           },
           {
             "label": "OBP",
@@ -6789,7 +6789,7 @@
           },
           {
             "label": "SLG",
-            "value": ".303"
+            "value": ".299"
           },
           {
             "label": "HR",
@@ -6807,8 +6807,8 @@
         "components": {
           "On-base": 35,
           "Power": 0,
-          "Contact": 31.25000000000001,
-          "Discipline": 13.33333333333333,
+          "Contact": 30.00000000000001,
+          "Discipline": 16.239316239316235,
           "Speed": 10
         },
         "metaLine": "JR / R/R",
@@ -6836,48 +6836,48 @@
         "position": "RHP",
         "classYear": "FY",
         "handedness": "R/R",
-        "score": 9,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ryan Holman gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Ryan Holman looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 11.95",
-          "WHIP 2.51",
-          "K/9 8.4"
+          "ERA 10.41",
+          "WHIP 2.27",
+          "K/9 9.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "11.95"
+            "value": "10.41"
           },
           {
             "label": "WHIP",
-            "value": "2.51"
+            "value": "2.27"
           },
           {
             "label": "K/9",
-            "value": "8.4"
+            "value": "9.6"
           },
           {
             "label": "BB/9",
-            "value": "7.1"
+            "value": "6.6"
           },
           {
             "label": "HR/9",
-            "value": "0.44"
+            "value": "0.39"
           },
           {
             "label": "IP",
-            "value": "20.3"
+            "value": "23.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 40.08941877794337,
-          "Command": 3.75,
+          "Miss bats": 51.29870129870131,
+          "Command": 9.411764705882355,
           "Damage suppression": 0
         },
         "metaLine": "FY / R/R",
@@ -7731,29 +7731,29 @@
         "position": "C",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 34,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ian Wirtz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .293",
-          "OBP .364",
-          "SLG .424"
+          "AVG .302",
+          "OBP .381",
+          "SLG .427"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".293"
+            "value": ".302"
           },
           {
             "label": "OBP",
-            "value": ".364"
+            "value": ".381"
           },
           {
             "label": "SLG",
-            "value": ".424"
+            "value": ".427"
           },
           {
             "label": "HR",
@@ -7769,10 +7769,10 @@
           }
         ],
         "components": {
-          "On-base": 46.66666666666665,
-          "Power": 27.368421052631575,
-          "Contact": 45.624999999999986,
-          "Discipline": 24.07407407407407,
+          "On-base": 56.1111111111111,
+          "Power": 28.157894736842103,
+          "Contact": 51.24999999999999,
+          "Discipline": 31.111111111111107,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SO / R/R",
@@ -7800,48 +7800,48 @@
         "position": "LHP",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 11,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ralph Gariano looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 8.03",
-          "WHIP 2.27",
-          "K/9 9.5"
+          "ERA 6.46",
+          "WHIP 2.02",
+          "K/9 10.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.03"
+            "value": "6.46"
           },
           {
             "label": "WHIP",
-            "value": "2.27"
+            "value": "2.02"
           },
           {
             "label": "K/9",
-            "value": "9.5"
+            "value": "10.0"
           },
           {
             "label": "BB/9",
-            "value": "7.3"
+            "value": "6.5"
           },
           {
             "label": "HR/9",
-            "value": "0.73"
+            "value": "0.59"
           },
           {
             "label": "IP",
-            "value": "12.3"
+            "value": "15.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 49.877149877149876,
-          "Command": 5.9999999999999964,
+          "Miss bats": 54.347826086956516,
+          "Command": 10.909090909090908,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/L",
@@ -7945,41 +7945,41 @@
         },
         "summary": "Cole Kochanowicz looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 12.79",
-          "WHIP 2.37",
-          "K/9 9.5"
+          "ERA 12.15",
+          "WHIP 2.45",
+          "K/9 9.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "12.79"
+            "value": "12.15"
           },
           {
             "label": "WHIP",
-            "value": "2.37"
+            "value": "2.45"
           },
           {
             "label": "K/9",
-            "value": "9.5"
+            "value": "9.4"
           },
           {
             "label": "BB/9",
-            "value": "6.6"
+            "value": "6.8"
           },
           {
             "label": "HR/9",
-            "value": "0.95"
+            "value": "0.90"
           },
           {
             "label": "IP",
-            "value": "19.0"
+            "value": "20.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 49.76076555023923,
-          "Command": 8.571428571428568,
+          "Miss bats": 49.54545454545454,
+          "Command": 7.999999999999999,
           "Damage suppression": 0
         },
         "metaLine": "SO / L/R",
@@ -8007,48 +8007,48 @@
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 9,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "David Andolina looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 12.86",
-          "WHIP 2.50",
-          "K/9 9.0"
+          "ERA 11.81",
+          "WHIP 2.31",
+          "K/9 10.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "12.86"
+            "value": "11.81"
           },
           {
             "label": "WHIP",
-            "value": "2.50"
+            "value": "2.31"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "10.1"
           },
           {
             "label": "BB/9",
-            "value": "9.6"
+            "value": "9.0"
           },
           {
             "label": "HR/9",
-            "value": "1.29"
+            "value": "1.13"
           },
           {
             "label": "IP",
-            "value": "14.0"
+            "value": "16.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 0,
+          "Miss bats": 55.68181818181818,
+          "Command": 2.5,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",

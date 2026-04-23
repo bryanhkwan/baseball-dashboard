@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.east-carolina2026 = {
-  "generatedAt": "2026-04-22T11:21:57.743Z",
+  "generatedAt": "2026-04-23T11:36:46.793Z",
   "season": 2026,
   "school": {
     "slug": "east-carolina",
@@ -33,13 +33,9 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
     "mergedPlayersWithAnyStats": 35,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
-      "hitting": [
-        "00"
-      ],
+      "hitting": [],
       "pitching": [],
-      "fielding": [
-        "00"
-      ]
+      "fielding": []
     }
   },
   "teamSummary": {
@@ -165,33 +161,33 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "0",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/jeff-sabater/14127",
         "imageUrl": "https://ecupirates.com/images/2025/12/2/Sabater_Jeff_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 13,
-        "battingAverage": 0.375,
-        "onBasePercentage": 0.455,
-        "sluggingPercentage": 0.438,
-        "ops": 0.893,
-        "atBats": 48,
-        "runs": 15,
-        "hits": 18,
+        "gamesPlayed": 25,
+        "gamesStarted": 14,
+        "battingAverage": 0.396,
+        "onBasePercentage": 0.467,
+        "sluggingPercentage": 0.453,
+        "ops": 0.92,
+        "atBats": 53,
+        "runs": 17,
+        "hits": 21,
         "doubles": 3,
         "triples": 0,
         "homeRuns": 0,
-        "runsBattedIn": 9,
-        "totalBases": 21,
+        "runsBattedIn": 12,
+        "totalBases": 24,
         "walks": 3,
         "hitByPitch": 4,
-        "strikeouts": 12,
+        "strikeouts": 13,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
+        "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 0,
         "sacrificeHits": 2,
         "stolenBases": 1,
         "stolenBasesAttempts": 5,
-        "putouts": 14,
+        "putouts": 16,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 66,
+        "plateAppearances": 71,
         "caughtStealing": 4,
         "pickedOff": 0
       },
@@ -203,9 +199,9 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "0",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/jeff-sabater/14127",
         "imageUrl": "https://ecupirates.com/images/2025/12/2/Sabater_Jeff_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 8,
-        "putouts": 14,
+        "gamesPlayed": 10,
+        "gamesStarted": 9,
+        "putouts": 16,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -215,39 +211,39 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 14
+        "totalChances": 16
       },
       "evaluation": {
-        "score": 58,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 97.22222222222221,
-          "Power": 31.05263157894737,
-          "Contact": 96.875,
-          "Discipline": 5.555555555555554,
+          "On-base": 100,
+          "Power": 35.00000000000001,
+          "Contact": 100,
+          "Discipline": 3.4188034188034186,
           "Speed": 3.3333333333333335
         },
         "summary": "Jeff Sabater profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .375",
-          "OBP .455",
-          "SLG .438"
+          "AVG .396",
+          "OBP .467",
+          "SLG .453"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".375"
+            "value": ".396"
           },
           {
             "label": "OBP",
-            "value": ".455"
+            "value": ".467"
           },
           {
             "label": "SLG",
-            "value": ".438"
+            "value": ".453"
           },
           {
             "label": "HR",
@@ -255,7 +251,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "RBI",
-            "value": "9"
+            "value": "12"
           },
           {
             "label": "SB",
@@ -5666,29 +5662,29 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "position": "OF",
         "classYear": "GR",
         "handedness": "L/R",
-        "score": 58,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Jeff Sabater profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .375",
-          "OBP .455",
-          "SLG .438"
+          "AVG .396",
+          "OBP .467",
+          "SLG .453"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".375"
+            "value": ".396"
           },
           {
             "label": "OBP",
-            "value": ".455"
+            "value": ".467"
           },
           {
             "label": "SLG",
-            "value": ".438"
+            "value": ".453"
           },
           {
             "label": "HR",
@@ -5696,7 +5692,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "RBI",
-            "value": "9"
+            "value": "12"
           },
           {
             "label": "SB",
@@ -5704,10 +5700,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           }
         ],
         "components": {
-          "On-base": 97.22222222222221,
-          "Power": 31.05263157894737,
-          "Contact": 96.875,
-          "Discipline": 5.555555555555554,
+          "On-base": 100,
+          "Power": 35.00000000000001,
+          "Contact": 100,
+          "Discipline": 3.4188034188034186,
           "Speed": 3.3333333333333335
         },
         "metaLine": "GR / L/R",

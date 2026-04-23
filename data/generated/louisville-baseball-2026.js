@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.louisville2026 = {
-  "generatedAt": "2026-04-22T11:22:04.819Z",
+  "generatedAt": "2026-04-23T11:36:54.540Z",
   "season": 2026,
   "school": {
     "slug": "louisville",
@@ -57,7 +57,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
       "strikeouts": "293",
       "strikeoutsLooking": "70",
       "hitByPitch": "56",
-      "stolenBases": "95",
+      "stolenBases": "96",
       "caughtStealing": "16",
       "sacrificeHits": "18",
       "sacrificeFlies": "14",
@@ -5891,12 +5891,12 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
-        "stolenBases": 26,
-        "stolenBasesAttempts": 30,
+        "stolenBases": 27,
+        "stolenBasesAttempts": 31,
         "putouts": 96,
         "assists": 1,
         "errors": 2,
-        "plateAppearances": 236,
+        "plateAppearances": 237,
         "caughtStealing": 4,
         "pickedOff": 1
       },
@@ -5933,7 +5933,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           "Power": 20.000000000000007,
           "Contact": 31.25000000000001,
           "Discipline": 85.52188552188552,
-          "Speed": 86.66666666666667
+          "Speed": 90
         },
         "summary": "Lucas Moore profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
@@ -5964,7 +5964,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           },
           {
             "label": "SB",
-            "value": "26"
+            "value": "27"
           }
         ],
         "metaLine": "JR / L/R",
@@ -8923,7 +8923,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           },
           {
             "label": "SB",
-            "value": "26"
+            "value": "27"
           }
         ],
         "components": {
@@ -8931,7 +8931,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           "Power": 20.000000000000007,
           "Contact": 31.25000000000001,
           "Discipline": 85.52188552188552,
-          "Speed": 86.66666666666667
+          "Speed": 90
         },
         "metaLine": "JR / L/R",
         "detailBadges": [

@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.dartmouth2026 = {
-  "generatedAt": "2026-04-22T11:21:54.868Z",
+  "generatedAt": "2026-04-23T11:36:43.785Z",
   "season": 2026,
   "school": {
     "slug": "dartmouth",
@@ -33,9 +33,13 @@ window.__BASEBALL_DATASETS__.dartmouth2026 = {
     "mergedPlayersWithAnyStats": 28,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
-      "hitting": [],
+      "hitting": [
+        "Nico Ba&ntilde;ez"
+      ],
       "pitching": [],
-      "fielding": []
+      "fielding": [
+        "Nico Ba&ntilde;ez"
+      ]
     }
   },
   "teamSummary": {
@@ -479,10 +483,10 @@ window.__BASEBALL_DATASETS__.dartmouth2026 = {
       ],
       "hittingStats": {
         "rosterBioId": "41204",
-        "name": "Nico Bañez",
-        "normalizedName": "nico banez",
+        "name": "Nico Ba&ntilde;ez",
+        "normalizedName": "nico ba ntilde ez",
         "jersey": "4",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/nico-ba-ez/41204",
+        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/nico-ba-ntilde-ez/41204",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Nico_Banez.png",
         "gamesPlayed": 29,
         "gamesStarted": 29,
@@ -517,10 +521,10 @@ window.__BASEBALL_DATASETS__.dartmouth2026 = {
       "pitchingStats": null,
       "fieldingStats": {
         "rosterBioId": "41204",
-        "name": "Nico Bañez",
-        "normalizedName": "nico banez",
+        "name": "Nico Ba&ntilde;ez",
+        "normalizedName": "nico ba ntilde ez",
         "jersey": "4",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/nico-ba-ez/41204",
+        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/nico-ba-ntilde-ez/41204",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Nico_Banez.png",
         "gamesPlayed": 28,
         "gamesStarted": 28,

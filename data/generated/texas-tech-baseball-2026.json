@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-22T11:22:28.763Z",
+  "generatedAt": "2026-04-23T11:37:19.736Z",
   "season": 2026,
   "school": {
     "slug": "texas-tech",
@@ -28,7 +28,7 @@
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 17,
     "playersWithPitchingStats": 20,
-    "playersWithFieldingStats": 33,
+    "playersWithFieldingStats": 34,
     "mergedPlayersWithAnyStats": 35,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
@@ -38,84 +38,84 @@
     }
   },
   "teamSummary": {
-    "record": "21-19, 6-12",
+    "record": "22-19, 6-12",
     "battingAverage": ".353",
-    "earnedRunAverage": "7.53",
-    "wins": "21",
+    "earnedRunAverage": "7.36",
+    "wins": "22",
     "losses": "19",
     "hitting": {
-      "atBats": "1427",
-      "runsScored": "381",
-      "hits": "504",
-      "runsBattedIn": "357",
-      "doubles": "114",
+      "atBats": "1466",
+      "runsScored": "390",
+      "hits": "518",
+      "runsBattedIn": "365",
+      "doubles": "115",
       "triples": "10",
-      "homeRuns": "46",
-      "walks": "220",
+      "homeRuns": "47",
+      "walks": "225",
       "intentionalWalks": "4",
-      "strikeouts": "271",
-      "strikeoutsLooking": "64",
-      "hitByPitch": "40",
-      "stolenBases": "54",
+      "strikeouts": "276",
+      "strikeoutsLooking": "65",
+      "hitByPitch": "41",
+      "stolenBases": "56",
       "caughtStealing": "10",
       "sacrificeHits": "15",
       "sacrificeFlies": "22",
       "reachedOnCatchersInteference": "2",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "344",
-      "flyOuts": "324",
-      "groundedIntoDoublePlay": "27",
+      "groundOuts": "355",
+      "flyOuts": "333",
+      "groundedIntoDoublePlay": "28",
       "pickedOff": "1",
-      "doublePlaysHitInto": "33",
+      "doublePlaysHitInto": "35",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1011",
-      "assists": "354",
+      "putouts": "1038",
+      "assists": "362",
       "errors": "45",
       "passedBalls": "4",
       "catchersInterference": "2",
       "stolenBasesAgainst": "52",
       "caughtStealingBy": "18",
-      "involvedInDoublePlays": "22",
+      "involvedInDoublePlays": "23",
       "involvedInTriplePlays": "0",
-      "totalChances": "1410",
-      "fieldingPercentage": ".968"
+      "totalChances": "1445",
+      "fieldingPercentage": ".969"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "21",
+      "wins": "22",
       "saves": "3",
       "losses": "19",
       "gamesStarted": "0",
       "gamesCompleted": "1",
       "shutouts": "1",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "337.0",
-      "hitsAllowed": "433",
-      "runsAllowed": "319",
-      "earnedRunsAllowed": "282",
-      "walksAllowed": "193",
-      "strikeouts": "309",
-      "battersFaced": "1659",
-      "opponentAtBats": "1395",
-      "doublesAllowed": "67",
+      "inningsPitched": "346.0",
+      "hitsAllowed": "440",
+      "runsAllowed": "320",
+      "earnedRunsAllowed": "283",
+      "walksAllowed": "196",
+      "strikeouts": "320",
+      "battersFaced": "1695",
+      "opponentAtBats": "1427",
+      "doublesAllowed": "68",
       "triplesAllowed": "10",
       "homerunsAllowed": "69",
       "wildPitches": "16",
       "balks": "2",
-      "hitBatters": "49",
-      "strikeoutsLooking": "93",
+      "hitBatters": "50",
+      "strikeoutsLooking": "96",
       "intentionalWalks": "3",
       "inheritedRunners": "14",
       "inheritedRunnersThatScored": "7",
       "sacrificeHitsAllowed": "5",
       "sacrificeFliesAllowed": "15",
       "catchersInterferenceAllowed": "2",
-      "pitches": "6447",
-      "flyouts": "321",
-      "groundouts": "324",
+      "pitches": "6588",
+      "flyouts": "328",
+      "groundouts": "331",
       "teamUnearnedRuns": "1",
       "saveRecord": "1",
       "pickoff": "5"
@@ -160,13 +160,13 @@
         "jersey": "1",
         "profileUrl": "https://texastech.com/sports/baseball/roster/coleman-ryan/14082",
         "imageUrl": "https://texastech.com/images/2025/10/2/Ryan_Coleman_HS.png",
-        "gamesPlayed": 25,
-        "gamesStarted": 10,
-        "battingAverage": 0.323,
-        "onBasePercentage": 0.371,
-        "sluggingPercentage": 0.323,
-        "ops": 0.694,
-        "atBats": 31,
+        "gamesPlayed": 26,
+        "gamesStarted": 11,
+        "battingAverage": 0.278,
+        "onBasePercentage": 0.325,
+        "sluggingPercentage": 0.278,
+        "ops": 0.603,
+        "atBats": 36,
         "runs": 12,
         "hits": 10,
         "doubles": 0,
@@ -176,17 +176,17 @@
         "totalBases": 10,
         "walks": 2,
         "hitByPitch": 1,
-        "strikeouts": 6,
+        "strikeouts": 7,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
         "sacrificeHits": 2,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 23,
-        "assists": 23,
+        "putouts": 25,
+        "assists": 25,
         "errors": 5,
-        "plateAppearances": 38,
+        "plateAppearances": 43,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -198,51 +198,51 @@
         "jersey": "1",
         "profileUrl": "https://texastech.com/sports/baseball/roster/coleman-ryan/14082",
         "imageUrl": "https://texastech.com/images/2025/10/2/Ryan_Coleman_HS.png",
-        "gamesPlayed": 13,
-        "gamesStarted": 10,
-        "putouts": 23,
-        "assists": 23,
+        "gamesPlayed": 14,
+        "gamesStarted": 11,
+        "putouts": 25,
+        "assists": 25,
         "errors": 5,
-        "fieldingPercentage": 0.902,
-        "doublePlays": 5,
+        "fieldingPercentage": 0.909,
+        "doublePlays": 6,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 51
+        "totalChances": 55
       },
       "evaluation": {
-        "score": 30,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 50.55555555555554,
-          "Power": 0.7894736842105272,
-          "Contact": 64.375,
-          "Discipline": 14.814814814814808,
+          "On-base": 24.999999999999993,
+          "Power": 0,
+          "Contact": 36.250000000000014,
+          "Discipline": 9.523809523809518,
           "Speed": 3.3333333333333335
         },
         "summary": "Coleman Ryan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .323",
-          "OBP .371",
-          "SLG .323"
+          "AVG .278",
+          "OBP .325",
+          "SLG .278"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".323"
+            "value": ".278"
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": ".325"
           },
           {
             "label": "SLG",
-            "value": ".323"
+            "value": ".278"
           },
           {
             "label": "HR",
@@ -305,20 +305,20 @@
         "jersey": "2",
         "profileUrl": "https://texastech.com/sports/baseball/roster/kyeler-thompson/14084",
         "imageUrl": "https://texastech.com/images/2025/10/1/Baseball_Headshots_Thompson_Kyeler_HS.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "battingAverage": 0.358,
-        "onBasePercentage": 0.469,
-        "sluggingPercentage": 0.466,
-        "ops": 0.935,
-        "atBats": 148,
-        "runs": 41,
-        "hits": 53,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "battingAverage": 0.373,
+        "onBasePercentage": 0.478,
+        "sluggingPercentage": 0.477,
+        "ops": 0.955,
+        "atBats": 153,
+        "runs": 43,
+        "hits": 57,
         "doubles": 12,
         "triples": 2,
         "homeRuns": 0,
         "runsBattedIn": 22,
-        "totalBases": 69,
+        "totalBases": 73,
         "walks": 21,
         "hitByPitch": 10,
         "strikeouts": 23,
@@ -326,12 +326,12 @@
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
         "sacrificeHits": 5,
-        "stolenBases": 20,
-        "stolenBasesAttempts": 25,
-        "putouts": 80,
+        "stolenBases": 22,
+        "stolenBasesAttempts": 27,
+        "putouts": 84,
         "assists": 4,
         "errors": 2,
-        "plateAppearances": 214,
+        "plateAppearances": 221,
         "caughtStealing": 5,
         "pickedOff": 1
       },
@@ -343,51 +343,51 @@
         "jersey": "2",
         "profileUrl": "https://texastech.com/sports/baseball/roster/kyeler-thompson/14084",
         "imageUrl": "https://texastech.com/images/2025/10/1/Baseball_Headshots_Thompson_Kyeler_HS.png",
-        "gamesPlayed": 33,
-        "gamesStarted": 33,
-        "putouts": 80,
+        "gamesPlayed": 34,
+        "gamesStarted": 34,
+        "putouts": 84,
         "assists": 4,
         "errors": 2,
-        "fieldingPercentage": 0.977,
+        "fieldingPercentage": 0.978,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 86
+        "totalChances": 90
       },
       "evaluation": {
-        "score": 75,
+        "score": 78,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
           "On-base": 100,
-          "Power": 38.42105263157896,
-          "Contact": 86.25,
+          "Power": 41.31578947368421,
+          "Contact": 95.625,
           "Discipline": 79.22705314009659,
-          "Speed": 66.66666666666666
+          "Speed": 73.33333333333333
         },
         "summary": "Kyeler Thompson profiles as a CF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .358",
-          "OBP .469",
-          "SLG .466"
+          "AVG .373",
+          "OBP .478",
+          "SLG .477"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".358"
+            "value": ".373"
           },
           {
             "label": "OBP",
-            "value": ".469"
+            "value": ".478"
           },
           {
             "label": "SLG",
-            "value": ".466"
+            "value": ".477"
           },
           {
             "label": "HR",
@@ -399,7 +399,7 @@
           },
           {
             "label": "SB",
-            "value": "20"
+            "value": "22"
           }
         ],
         "metaLine": "JR / R/R",
@@ -450,33 +450,33 @@
         "jersey": "3",
         "profileUrl": "https://texastech.com/sports/baseball/roster/tracer-lopez/14076",
         "imageUrl": "https://texastech.com/images/2025/10/1/Baseball_Headshots_Lopez_Tracer_HS.png",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "battingAverage": 0.361,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "battingAverage": 0.358,
         "onBasePercentage": 0.421,
         "sluggingPercentage": 0.5,
         "ops": 0.921,
-        "atBats": 158,
-        "runs": 43,
-        "hits": 57,
-        "doubles": 15,
+        "atBats": 162,
+        "runs": 45,
+        "hits": 58,
+        "doubles": 16,
         "triples": 2,
         "homeRuns": 1,
-        "runsBattedIn": 30,
-        "totalBases": 79,
-        "walks": 23,
+        "runsBattedIn": 31,
+        "totalBases": 81,
+        "walks": 24,
         "hitByPitch": 0,
-        "strikeouts": 24,
+        "strikeouts": 25,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
+        "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 9,
         "sacrificeHits": 7,
         "stolenBases": 6,
         "stolenBasesAttempts": 7,
-        "putouts": 48,
-        "assists": 101,
+        "putouts": 49,
+        "assists": 102,
         "errors": 2,
-        "plateAppearances": 205,
+        "plateAppearances": 210,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -488,10 +488,10 @@
         "jersey": "3",
         "profileUrl": "https://texastech.com/sports/baseball/roster/tracer-lopez/14076",
         "imageUrl": "https://texastech.com/images/2025/10/1/Baseball_Headshots_Lopez_Tracer_HS.png",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "putouts": 48,
-        "assists": 101,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "putouts": 49,
+        "assists": 102,
         "errors": 2,
         "fieldingPercentage": 0.987,
         "doublePlays": 12,
@@ -500,7 +500,7 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 151
+        "totalChances": 153
       },
       "evaluation": {
         "score": 67,
@@ -511,20 +511,20 @@
         "components": {
           "On-base": 78.33333333333331,
           "Power": 47.36842105263158,
-          "Contact": 88.12499999999999,
-          "Discipline": 84.25925925925924,
+          "Contact": 86.25,
+          "Discipline": 84.44444444444443,
           "Speed": 20
         },
         "summary": "Tracer Lopez profiles as a SS/2B piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .361",
+          "AVG .358",
           "OBP .421",
           "SLG .500"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".361"
+            "value": ".358"
           },
           {
             "label": "OBP",
@@ -540,7 +540,7 @@
           },
           {
             "label": "RBI",
-            "value": "30"
+            "value": "31"
           },
           {
             "label": "SB",
@@ -595,21 +595,21 @@
         "jersey": "4",
         "profileUrl": "https://texastech.com/sports/baseball/roster/linkin-garcia/14087",
         "imageUrl": "https://texastech.com/images/2025/10/1/Baseball_Headshots_Garcia_Linkin_HS.png",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "battingAverage": 0.367,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "battingAverage": 0.364,
         "onBasePercentage": 0.42,
-        "sluggingPercentage": 0.521,
-        "ops": 0.941,
-        "atBats": 169,
-        "runs": 47,
-        "hits": 62,
+        "sluggingPercentage": 0.514,
+        "ops": 0.934,
+        "atBats": 173,
+        "runs": 49,
+        "hits": 63,
         "doubles": 14,
         "triples": 0,
         "homeRuns": 4,
-        "runsBattedIn": 45,
-        "totalBases": 88,
-        "walks": 16,
+        "runsBattedIn": 46,
+        "totalBases": 89,
+        "walks": 17,
         "hitByPitch": 1,
         "strikeouts": 25,
         "intentionalWalks": 0,
@@ -621,7 +621,7 @@
         "putouts": 44,
         "assists": 77,
         "errors": 6,
-        "plateAppearances": 191,
+        "plateAppearances": 196,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -655,21 +655,21 @@
         },
         "components": {
           "On-base": 77.77777777777776,
-          "Power": 52.894736842105274,
-          "Contact": 91.875,
-          "Discipline": 48.88888888888888,
+          "Power": 51.05263157894737,
+          "Contact": 89.99999999999999,
+          "Discipline": 53.333333333333336,
           "Speed": 3.3333333333333335
         },
         "summary": "Linkin Garcia profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .367",
+          "AVG .364",
           "OBP .420",
-          "SLG .521"
+          "SLG .514"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".367"
+            "value": ".364"
           },
           {
             "label": "OBP",
@@ -677,7 +677,7 @@
           },
           {
             "label": "SLG",
-            "value": ".521"
+            "value": ".514"
           },
           {
             "label": "HR",
@@ -685,7 +685,7 @@
           },
           {
             "label": "RBI",
-            "value": "45"
+            "value": "46"
           },
           {
             "label": "SB",
@@ -1030,23 +1030,23 @@
         "jersey": "8",
         "profileUrl": "https://texastech.com/sports/baseball/roster/connor-shouse/14089",
         "imageUrl": "https://texastech.com/images/2025/10/1/Baseball_Headshots_Shouse_Connor_HS.png",
-        "gamesPlayed": 39,
-        "gamesStarted": 38,
+        "gamesPlayed": 40,
+        "gamesStarted": 39,
         "battingAverage": 0.331,
-        "onBasePercentage": 0.42,
-        "sluggingPercentage": 0.577,
+        "onBasePercentage": 0.425,
+        "sluggingPercentage": 0.572,
         "ops": 0.997,
-        "atBats": 163,
-        "runs": 42,
-        "hits": 54,
+        "atBats": 166,
+        "runs": 43,
+        "hits": 55,
         "doubles": 12,
         "triples": 2,
         "homeRuns": 8,
         "runsBattedIn": 54,
-        "totalBases": 94,
-        "walks": 14,
-        "hitByPitch": 11,
-        "strikeouts": 27,
+        "totalBases": 95,
+        "walks": 15,
+        "hitByPitch": 12,
+        "strikeouts": 28,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 8,
         "sacrificeFlies": 0,
@@ -1056,7 +1056,7 @@
         "putouts": 26,
         "assists": 40,
         "errors": 14,
-        "plateAppearances": 196,
+        "plateAppearances": 201,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1067,32 +1067,32 @@
         "jersey": "8",
         "profileUrl": "https://texastech.com/sports/baseball/roster/connor-shouse/14089",
         "imageUrl": "https://texastech.com/images/2025/10/1/Baseball_Headshots_Shouse_Connor_HS.png",
-        "gamesPlayed": 5,
-        "gamesStarted": 0,
-        "appearances": 5,
+        "gamesPlayed": 6,
+        "gamesStarted": 1,
+        "appearances": 6,
         "gamesCompleted": 0,
-        "earnedRunAverage": 10.38,
-        "whip": 1.38,
-        "wins": 0,
+        "earnedRunAverage": 7.11,
+        "whip": 1.26,
+        "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 4.333333333333333,
-        "inningsPitchedDisplay": "4.1",
-        "hitsAllowed": 2,
+        "inningsPitched": 6.333333333333333,
+        "inningsPitchedDisplay": "6.1",
+        "hitsAllowed": 4,
         "runsAllowed": 5,
         "earnedRunsAllowed": 5,
         "walksAllowed": 4,
-        "strikeouts": 8,
+        "strikeouts": 11,
         "doublesAllowed": 1,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 15,
+        "opponentsAtBats": 22,
         "wildPitches": 0,
         "hitBatters": 0,
         "balks": 1,
-        "opponentsBattingAverage": 0.133,
-        "walksHits": 6
+        "opponentsBattingAverage": 0.182,
+        "walksHits": 8
       },
       "fieldingStats": {
         "rosterBioId": "14089",
@@ -1116,23 +1116,23 @@
         "totalChances": 80
       },
       "evaluation": {
-        "score": 62,
+        "score": 63,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 77.77777777777776,
-          "Power": 67.63157894736842,
+          "On-base": 80.55555555555554,
+          "Power": 66.3157894736842,
           "Contact": 69.37500000000001,
-          "Discipline": 35.3909465020576,
+          "Discipline": 37.30158730158729,
           "Speed": 20
         },
         "summary": "Connor Shouse profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
           "AVG .331",
-          "OBP .420",
-          "SLG .577"
+          "OBP .425",
+          "SLG .572"
         ],
         "statCards": [
           {
@@ -1141,11 +1141,11 @@
           },
           {
             "label": "OBP",
-            "value": ".420"
+            "value": ".425"
           },
           {
             "label": "SLG",
-            "value": ".577"
+            "value": ".572"
           },
           {
             "label": "HR",
@@ -1208,7 +1208,7 @@
         "jersey": "9",
         "profileUrl": "https://texastech.com/sports/baseball/roster/jace-souza/14083",
         "imageUrl": "https://texastech.com/images/2025/10/1/Baseball_Headshots_Souza_Jace_HS.png",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 2,
         "battingAverage": 0.143,
         "onBasePercentage": 0.333,
@@ -1353,21 +1353,21 @@
         "jersey": "10",
         "profileUrl": "https://texastech.com/sports/baseball/roster/logan-hughes/14073",
         "imageUrl": "https://texastech.com/images/2025/10/1/Baseball_Headshots_Hughes_Logan_HS.png",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "battingAverage": 0.358,
-        "onBasePercentage": 0.497,
-        "sluggingPercentage": 0.669,
-        "ops": 1.166,
-        "atBats": 148,
-        "runs": 49,
-        "hits": 53,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "battingAverage": 0.355,
+        "onBasePercentage": 0.495,
+        "sluggingPercentage": 0.658,
+        "ops": 1.153,
+        "atBats": 152,
+        "runs": 50,
+        "hits": 54,
         "doubles": 11,
         "triples": 1,
         "homeRuns": 11,
-        "runsBattedIn": 49,
-        "totalBases": 99,
-        "walks": 39,
+        "runsBattedIn": 50,
+        "totalBases": 100,
+        "walks": 40,
         "hitByPitch": 3,
         "strikeouts": 28,
         "intentionalWalks": 3,
@@ -1379,7 +1379,7 @@
         "putouts": 106,
         "assists": 6,
         "errors": 0,
-        "plateAppearances": 192,
+        "plateAppearances": 197,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1406,36 +1406,36 @@
         "totalChances": 112
       },
       "evaluation": {
-        "score": 86,
+        "score": 85,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "components": {
           "On-base": 100,
-          "Power": 91.84210526315792,
-          "Contact": 86.25,
+          "Power": 88.94736842105266,
+          "Contact": 84.37499999999999,
           "Discipline": 100,
           "Speed": 3.3333333333333335
         },
         "summary": "Logan Hughes profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .358",
-          "OBP .497",
-          "SLG .669"
+          "AVG .355",
+          "OBP .495",
+          "SLG .658"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".358"
+            "value": ".355"
           },
           {
             "label": "OBP",
-            "value": ".497"
+            "value": ".495"
           },
           {
             "label": "SLG",
-            "value": ".669"
+            "value": ".658"
           },
           {
             "label": "HR",
@@ -1443,7 +1443,7 @@
           },
           {
             "label": "RBI",
-            "value": "49"
+            "value": "50"
           },
           {
             "label": "SB",
@@ -1644,32 +1644,32 @@
         "jersey": "13",
         "profileUrl": "https://texastech.com/sports/baseball/roster/donovan-becerra/14091",
         "imageUrl": "https://texastech.com/images/2025/10/1/Baseball_Headshots_Becerra_Donovan_HS.png",
-        "gamesPlayed": 6,
+        "gamesPlayed": 7,
         "gamesStarted": 2,
-        "appearances": 6,
+        "appearances": 7,
         "gamesCompleted": 0,
-        "earnedRunAverage": 13.5,
-        "whip": 2.89,
+        "earnedRunAverage": 11.57,
+        "whip": 2.83,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 9.333333333333334,
-        "inningsPitchedDisplay": "9.1",
-        "hitsAllowed": 14,
-        "runsAllowed": 14,
-        "earnedRunsAllowed": 14,
-        "walksAllowed": 13,
-        "strikeouts": 8,
-        "doublesAllowed": 3,
+        "inningsPitched": 11.666666666666666,
+        "inningsPitchedDisplay": "11.2",
+        "hitsAllowed": 19,
+        "runsAllowed": 15,
+        "earnedRunsAllowed": 15,
+        "walksAllowed": 14,
+        "strikeouts": 12,
+        "doublesAllowed": 4,
         "triplesAllowed": 1,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 39,
+        "opponentsAtBats": 51,
         "wildPitches": 1,
-        "hitBatters": 1,
+        "hitBatters": 2,
         "balks": 1,
-        "opponentsBattingAverage": 0.359,
-        "walksHits": 27
+        "opponentsBattingAverage": 0.373,
+        "walksHits": 33
       },
       "fieldingStats": {
         "rosterBioId": "14091",
@@ -1693,7 +1693,7 @@
         "totalChances": 2
       },
       "evaluation": {
-        "score": 7,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1701,40 +1701,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 33.76623376623376,
+          "Miss bats": 47.792207792207805,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Donovan Becerra gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Donovan Becerra looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 2.89",
-          "K/9 7.7"
+          "ERA 11.57",
+          "WHIP 2.83",
+          "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "13.50"
+            "value": "11.57"
           },
           {
             "label": "WHIP",
-            "value": "2.89"
+            "value": "2.83"
           },
           {
             "label": "K/9",
-            "value": "7.7"
+            "value": "9.3"
           },
           {
             "label": "BB/9",
-            "value": "12.5"
+            "value": "10.8"
           },
           {
             "label": "HR/9",
-            "value": "2.89"
+            "value": "2.31"
           },
           {
             "label": "IP",
-            "value": "9.3"
+            "value": "11.7"
           }
         ],
         "metaLine": "JR / R/R",
@@ -1930,21 +1930,21 @@
         "jersey": "15",
         "profileUrl": "https://texastech.com/sports/baseball/roster/caden-ferraro/14093",
         "imageUrl": "https://texastech.com/images/2025/10/1/Baseball_Headshots_Ferraro_Caden_HS.png",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "battingAverage": 0.384,
-        "onBasePercentage": 0.518,
-        "sluggingPercentage": 0.624,
-        "ops": 1.142,
-        "atBats": 125,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "battingAverage": 0.388,
+        "onBasePercentage": 0.52,
+        "sluggingPercentage": 0.62,
+        "ops": 1.14,
+        "atBats": 129,
         "runs": 35,
-        "hits": 48,
+        "hits": 50,
         "doubles": 15,
         "triples": 0,
         "homeRuns": 5,
         "runsBattedIn": 37,
-        "totalBases": 78,
-        "walks": 37,
+        "totalBases": 80,
+        "walks": 38,
         "hitByPitch": 2,
         "strikeouts": 27,
         "intentionalWalks": 1,
@@ -1953,10 +1953,10 @@
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 12,
+        "putouts": 13,
         "assists": 1,
         "errors": 0,
-        "plateAppearances": 168,
+        "plateAppearances": 173,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1968,9 +1968,9 @@
         "jersey": "15",
         "profileUrl": "https://texastech.com/sports/baseball/roster/caden-ferraro/14093",
         "imageUrl": "https://texastech.com/images/2025/10/1/Baseball_Headshots_Ferraro_Caden_HS.png",
-        "gamesPlayed": 6,
-        "gamesStarted": 6,
-        "putouts": 12,
+        "gamesPlayed": 7,
+        "gamesStarted": 7,
+        "putouts": 13,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1980,7 +1980,7 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 13
+        "totalChances": 14
       },
       "evaluation": {
         "score": 85,
@@ -1990,29 +1990,29 @@
         },
         "components": {
           "On-base": 100,
-          "Power": 80,
+          "Power": 78.94736842105264,
           "Contact": 100,
           "Discipline": 100,
           "Speed": 0
         },
         "summary": "Caden Ferraro profiles as a OF/1B piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .384",
-          "OBP .518",
-          "SLG .624"
+          "AVG .388",
+          "OBP .520",
+          "SLG .620"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".384"
+            "value": ".388"
           },
           {
             "label": "OBP",
-            "value": ".518"
+            "value": ".520"
           },
           {
             "label": "SLG",
-            "value": ".624"
+            "value": ".620"
           },
           {
             "label": "HR",
@@ -2910,20 +2910,20 @@
         "jersey": "26",
         "profileUrl": "https://texastech.com/sports/baseball/roster/matt-quintanar/14096",
         "imageUrl": "https://texastech.com/images/2025/10/1/Baseball_Headshots_Quintanar_Matt_HS.png",
-        "gamesPlayed": 39,
-        "gamesStarted": 38,
-        "battingAverage": 0.322,
-        "onBasePercentage": 0.382,
-        "sluggingPercentage": 0.443,
-        "ops": 0.825,
-        "atBats": 149,
-        "runs": 28,
-        "hits": 48,
+        "gamesPlayed": 40,
+        "gamesStarted": 39,
+        "battingAverage": 0.331,
+        "onBasePercentage": 0.389,
+        "sluggingPercentage": 0.468,
+        "ops": 0.857,
+        "atBats": 154,
+        "runs": 29,
+        "hits": 51,
         "doubles": 12,
         "triples": 0,
-        "homeRuns": 2,
-        "runsBattedIn": 31,
-        "totalBases": 66,
+        "homeRuns": 3,
+        "runsBattedIn": 36,
+        "totalBases": 72,
         "walks": 14,
         "hitByPitch": 3,
         "strikeouts": 15,
@@ -2933,10 +2933,10 @@
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 260,
-        "assists": 29,
+        "putouts": 271,
+        "assists": 30,
         "errors": 3,
-        "plateAppearances": 171,
+        "plateAppearances": 176,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2948,10 +2948,10 @@
         "jersey": "26",
         "profileUrl": "https://texastech.com/sports/baseball/roster/matt-quintanar/14096",
         "imageUrl": "https://texastech.com/images/2025/10/1/Baseball_Headshots_Quintanar_Matt_HS.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "putouts": 260,
-        "assists": 29,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "putouts": 271,
+        "assists": 30,
         "errors": 3,
         "fieldingPercentage": 0.99,
         "doublePlays": 2,
@@ -2960,47 +2960,47 @@
         "stolenBasesPercentage": 0.719,
         "passedBalls": 3,
         "catchersInterference": 2,
-        "totalChances": 292
+        "totalChances": 304
       },
       "evaluation": {
-        "score": 50,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 56.66666666666666,
-          "Power": 32.36842105263158,
-          "Contact": 63.75000000000001,
+          "On-base": 60.55555555555555,
+          "Power": 38.947368421052644,
+          "Contact": 69.37500000000001,
           "Discipline": 81.48148148148148,
           "Speed": 3.3333333333333335
         },
         "summary": "Matt Quintanar gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .322",
-          "OBP .382",
-          "SLG .443"
+          "AVG .331",
+          "OBP .389",
+          "SLG .468"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".322"
+            "value": ".331"
           },
           {
             "label": "OBP",
-            "value": ".382"
+            "value": ".389"
           },
           {
             "label": "SLG",
-            "value": ".443"
+            "value": ".468"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "3"
           },
           {
             "label": "RBI",
-            "value": "31"
+            "value": "36"
           },
           {
             "label": "SB",
@@ -3055,33 +3055,33 @@
         "jersey": "28",
         "profileUrl": "https://texastech.com/sports/baseball/roster/robin-villeneuve/14086",
         "imageUrl": "https://texastech.com/images/2025/10/1/Baseball_Headshots_Villeneuve_Robin_HS.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 35,
-        "battingAverage": 0.364,
-        "onBasePercentage": 0.452,
-        "sluggingPercentage": 0.636,
-        "ops": 1.088,
-        "atBats": 132,
+        "gamesPlayed": 37,
+        "gamesStarted": 36,
+        "battingAverage": 0.358,
+        "onBasePercentage": 0.444,
+        "sluggingPercentage": 0.62,
+        "ops": 1.064,
+        "atBats": 137,
         "runs": 35,
-        "hits": 48,
+        "hits": 49,
         "doubles": 9,
         "triples": 0,
         "homeRuns": 9,
         "runsBattedIn": 38,
-        "totalBases": 84,
+        "totalBases": 85,
         "walks": 17,
         "hitByPitch": 5,
-        "strikeouts": 35,
+        "strikeouts": 37,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 263,
-        "assists": 23,
+        "putouts": 270,
+        "assists": 25,
         "errors": 3,
-        "plateAppearances": 158,
+        "plateAppearances": 163,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -3093,51 +3093,51 @@
         "jersey": "28",
         "profileUrl": "https://texastech.com/sports/baseball/roster/robin-villeneuve/14086",
         "imageUrl": "https://texastech.com/images/2025/10/1/Baseball_Headshots_Villeneuve_Robin_HS.png",
-        "gamesPlayed": 35,
-        "gamesStarted": 35,
-        "putouts": 263,
-        "assists": 23,
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "putouts": 270,
+        "assists": 25,
         "errors": 3,
         "fieldingPercentage": 0.99,
-        "doublePlays": 12,
+        "doublePlays": 13,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 289
+        "totalChances": 298
       },
       "evaluation": {
-        "score": 73,
+        "score": 70,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 95.55555555555554,
-          "Power": 83.15789473684212,
-          "Contact": 89.99999999999999,
-          "Discipline": 31.74603174603174,
+          "On-base": 91.1111111111111,
+          "Power": 78.94736842105264,
+          "Contact": 86.25,
+          "Discipline": 28.82882882882883,
           "Speed": 3.3333333333333335
         },
         "summary": "Robin Villeneuve profiles as a 1B/OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .364",
-          "OBP .452",
-          "SLG .636"
+          "AVG .358",
+          "OBP .444",
+          "SLG .620"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".364"
+            "value": ".358"
           },
           {
             "label": "OBP",
-            "value": ".452"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": ".636"
+            "value": ".620"
           },
           {
             "label": "HR",
@@ -3201,32 +3201,32 @@
         "jersey": "29",
         "profileUrl": "https://texastech.com/sports/baseball/roster/jorden-espinoza/14072",
         "imageUrl": "https://texastech.com/images/2025/10/1/Baseball_Headshots_Espinoza_Jorden_HS.png",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 1,
-        "appearances": 12,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 14.59,
-        "whip": 3.16,
+        "earnedRunAverage": 12.86,
+        "whip": 2.86,
         "wins": 1,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 12.333333333333334,
-        "inningsPitchedDisplay": "12.1",
+        "inningsPitched": 14,
+        "inningsPitchedDisplay": "14.0",
         "hitsAllowed": 21,
         "runsAllowed": 20,
         "earnedRunsAllowed": 20,
-        "walksAllowed": 18,
-        "strikeouts": 10,
+        "walksAllowed": 19,
+        "strikeouts": 11,
         "doublesAllowed": 5,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 53,
+        "opponentsAtBats": 57,
         "wildPitches": 1,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.396,
-        "walksHits": 39
+        "opponentsBattingAverage": 0.368,
+        "walksHits": 40
       },
       "fieldingStats": {
         "rosterBioId": "14072",
@@ -3258,40 +3258,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 29.975429975429975,
+          "Miss bats": 27.92207792207792,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Jorden Espinoza gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 14.59",
-          "WHIP 3.16",
-          "K/9 7.3"
+          "ERA 12.86",
+          "WHIP 2.86",
+          "K/9 7.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "14.59"
+            "value": "12.86"
           },
           {
             "label": "WHIP",
-            "value": "3.16"
+            "value": "2.86"
           },
           {
             "label": "K/9",
-            "value": "7.3"
+            "value": "7.1"
           },
           {
             "label": "BB/9",
-            "value": "13.1"
+            "value": "12.2"
           },
           {
             "label": "HR/9",
-            "value": "1.46"
+            "value": "1.29"
           },
           {
             "label": "IP",
-            "value": "12.3"
+            "value": "14.0"
           }
         ],
         "metaLine": "SO / L/L",
@@ -4660,31 +4660,31 @@
         "jersey": "44",
         "profileUrl": "https://texastech.com/sports/baseball/roster/logan-bevis/14069",
         "imageUrl": "https://texastech.com/images/2025/10/1/Baseball_Headshots_Bevis_Logan_HS.png",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 0,
-        "appearances": 14,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.54,
-        "whip": 1.33,
+        "earnedRunAverage": 3.22,
+        "whip": 1.21,
         "wins": 1,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 20.333333333333332,
-        "inningsPitchedDisplay": "20.1",
+        "inningsPitched": 22.333333333333332,
+        "inningsPitchedDisplay": "22.1",
         "hitsAllowed": 18,
         "runsAllowed": 8,
         "earnedRunsAllowed": 8,
         "walksAllowed": 9,
-        "strikeouts": 11,
+        "strikeouts": 12,
         "doublesAllowed": 1,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 74,
+        "opponentsAtBats": 80,
         "wildPitches": 2,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.243,
+        "opponentsBattingAverage": 0.225,
         "walksHits": 27
       },
       "fieldingStats": {
@@ -4694,10 +4694,10 @@
         "jersey": "44",
         "profileUrl": "https://texastech.com/sports/baseball/roster/logan-bevis/14069",
         "imageUrl": "https://texastech.com/images/2025/10/1/Baseball_Headshots_Bevis_Logan_HS.png",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 0,
         "putouts": 0,
-        "assists": 3,
+        "assists": 5,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -4706,10 +4706,10 @@
         "stolenBasesPercentage": 0.778,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 3
+        "totalChances": 5
       },
       "evaluation": {
-        "score": 2,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4717,40 +4717,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 7.898658718330847,
-          "Command": 4.444444444444442,
+          "Miss bats": 7.5983717774762605,
+          "Command": 6.66666666666667,
           "Damage suppression": 0
         },
-        "summary": "Logan Bevis looks like a RHP option who limits runs.",
+        "summary": "Logan Bevis looks like a RHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.54",
-          "WHIP 1.33",
-          "K/9 4.9"
+          "ERA 3.22",
+          "WHIP 1.21",
+          "K/9 4.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.54"
+            "value": "3.22"
           },
           {
             "label": "WHIP",
-            "value": "1.33"
+            "value": "1.21"
           },
           {
             "label": "K/9",
-            "value": "4.9"
+            "value": "4.8"
           },
           {
             "label": "BB/9",
-            "value": "4.0"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "0.89"
+            "value": "0.81"
           },
           {
             "label": "IP",
-            "value": "20.3"
+            "value": "22.3"
           }
         ],
         "metaLine": "JR / R/R",
@@ -5174,36 +5174,56 @@
         "jersey": "51",
         "profileUrl": "https://texastech.com/sports/baseball/roster/jake-spindler/14111",
         "imageUrl": "https://texastech.com/images/2025/10/1/Baseball_Headshots_Spindler_Jake_HS.png",
-        "gamesPlayed": 1,
+        "gamesPlayed": 2,
         "gamesStarted": 0,
-        "appearances": 1,
+        "appearances": 2,
         "gamesCompleted": 0,
-        "earnedRunAverage": 40.5,
-        "whip": 3,
+        "earnedRunAverage": 16.2,
+        "whip": 1.8,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 0.6666666666666666,
-        "inningsPitchedDisplay": "0.2",
+        "inningsPitched": 1.6666666666666665,
+        "inningsPitchedDisplay": "1.2",
         "hitsAllowed": 0,
         "runsAllowed": 3,
         "earnedRunsAllowed": 3,
-        "walksAllowed": 2,
-        "strikeouts": 1,
+        "walksAllowed": 3,
+        "strikeouts": 3,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 2,
+        "opponentsAtBats": 5,
         "wildPitches": 0,
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0,
-        "walksHits": 2
+        "walksHits": 3
       },
-      "fieldingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "14111",
+        "name": "Jake Spindler",
+        "normalizedName": "jake spindler",
+        "jersey": "51",
+        "profileUrl": "https://texastech.com/sports/baseball/roster/jake-spindler/14111",
+        "imageUrl": "https://texastech.com/images/2025/10/1/Baseball_Headshots_Spindler_Jake_HS.png",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 1,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 1
+      },
       "evaluation": {
-        "score": 17,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5211,32 +5231,32 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 86.36363636363636,
+          "Miss bats": 100,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Jake Spindler looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 40.50",
-          "WHIP 3.00",
-          "K/9 13.5"
+          "ERA 16.20",
+          "WHIP 1.80",
+          "K/9 16.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "40.50"
+            "value": "16.20"
           },
           {
             "label": "WHIP",
-            "value": "3.00"
+            "value": "1.80"
           },
           {
             "label": "K/9",
-            "value": "13.5"
+            "value": "16.2"
           },
           {
             "label": "BB/9",
-            "value": "27.0"
+            "value": "16.2"
           },
           {
             "label": "HR/9",
@@ -5244,7 +5264,7 @@
           },
           {
             "label": "IP",
-            "value": "0.7"
+            "value": "1.7"
           }
         ],
         "metaLine": "FR / R/R",
@@ -5275,29 +5295,29 @@
         "position": "SS",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 30,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Coleman Ryan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .323",
-          "OBP .371",
-          "SLG .323"
+          "AVG .278",
+          "OBP .325",
+          "SLG .278"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".323"
+            "value": ".278"
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": ".325"
           },
           {
             "label": "SLG",
-            "value": ".323"
+            "value": ".278"
           },
           {
             "label": "HR",
@@ -5313,10 +5333,10 @@
           }
         ],
         "components": {
-          "On-base": 50.55555555555554,
-          "Power": 0.7894736842105272,
-          "Contact": 64.375,
-          "Discipline": 14.814814814814808,
+          "On-base": 24.999999999999993,
+          "Power": 0,
+          "Contact": 36.250000000000014,
+          "Discipline": 9.523809523809518,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SO / R/R",
@@ -5344,29 +5364,29 @@
         "position": "CF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 75,
+        "score": 78,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Kyeler Thompson profiles as a CF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .358",
-          "OBP .469",
-          "SLG .466"
+          "AVG .373",
+          "OBP .478",
+          "SLG .477"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".358"
+            "value": ".373"
           },
           {
             "label": "OBP",
-            "value": ".469"
+            "value": ".478"
           },
           {
             "label": "SLG",
-            "value": ".466"
+            "value": ".477"
           },
           {
             "label": "HR",
@@ -5378,15 +5398,15 @@
           },
           {
             "label": "SB",
-            "value": "20"
+            "value": "22"
           }
         ],
         "components": {
           "On-base": 100,
-          "Power": 38.42105263157896,
-          "Contact": 86.25,
+          "Power": 41.31578947368421,
+          "Contact": 95.625,
           "Discipline": 79.22705314009659,
-          "Speed": 66.66666666666666
+          "Speed": 73.33333333333333
         },
         "metaLine": "JR / R/R",
         "detailBadges": [
@@ -5420,14 +5440,14 @@
         },
         "summary": "Tracer Lopez profiles as a SS/2B piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .361",
+          "AVG .358",
           "OBP .421",
           "SLG .500"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".361"
+            "value": ".358"
           },
           {
             "label": "OBP",
@@ -5443,7 +5463,7 @@
           },
           {
             "label": "RBI",
-            "value": "30"
+            "value": "31"
           },
           {
             "label": "SB",
@@ -5453,8 +5473,8 @@
         "components": {
           "On-base": 78.33333333333331,
           "Power": 47.36842105263158,
-          "Contact": 88.12499999999999,
-          "Discipline": 84.25925925925924,
+          "Contact": 86.25,
+          "Discipline": 84.44444444444443,
           "Speed": 20
         },
         "metaLine": "SR / L/R",
@@ -5489,14 +5509,14 @@
         },
         "summary": "Linkin Garcia profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .367",
+          "AVG .364",
           "OBP .420",
-          "SLG .521"
+          "SLG .514"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".367"
+            "value": ".364"
           },
           {
             "label": "OBP",
@@ -5504,7 +5524,7 @@
           },
           {
             "label": "SLG",
-            "value": ".521"
+            "value": ".514"
           },
           {
             "label": "HR",
@@ -5512,7 +5532,7 @@
           },
           {
             "label": "RBI",
-            "value": "45"
+            "value": "46"
           },
           {
             "label": "SB",
@@ -5521,9 +5541,9 @@
         ],
         "components": {
           "On-base": 77.77777777777776,
-          "Power": 52.894736842105274,
-          "Contact": 91.875,
-          "Discipline": 48.88888888888888,
+          "Power": 51.05263157894737,
+          "Contact": 89.99999999999999,
+          "Discipline": 53.333333333333336,
           "Speed": 3.3333333333333335
         },
         "metaLine": "FR / R/R",
@@ -5689,7 +5709,7 @@
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 62,
+        "score": 63,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
@@ -5697,8 +5717,8 @@
         "summary": "Connor Shouse profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
           "AVG .331",
-          "OBP .420",
-          "SLG .577"
+          "OBP .425",
+          "SLG .572"
         ],
         "statCards": [
           {
@@ -5707,11 +5727,11 @@
           },
           {
             "label": "OBP",
-            "value": ".420"
+            "value": ".425"
           },
           {
             "label": "SLG",
-            "value": ".577"
+            "value": ".572"
           },
           {
             "label": "HR",
@@ -5727,10 +5747,10 @@
           }
         ],
         "components": {
-          "On-base": 77.77777777777776,
-          "Power": 67.63157894736842,
+          "On-base": 80.55555555555554,
+          "Power": 66.3157894736842,
           "Contact": 69.37500000000001,
-          "Discipline": 35.3909465020576,
+          "Discipline": 37.30158730158729,
           "Speed": 20
         },
         "metaLine": "SO / R/R",
@@ -5827,29 +5847,29 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 86,
+        "score": 85,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Logan Hughes profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .358",
-          "OBP .497",
-          "SLG .669"
+          "AVG .355",
+          "OBP .495",
+          "SLG .658"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".358"
+            "value": ".355"
           },
           {
             "label": "OBP",
-            "value": ".497"
+            "value": ".495"
           },
           {
             "label": "SLG",
-            "value": ".669"
+            "value": ".658"
           },
           {
             "label": "HR",
@@ -5857,7 +5877,7 @@
           },
           {
             "label": "RBI",
-            "value": "49"
+            "value": "50"
           },
           {
             "label": "SB",
@@ -5866,8 +5886,8 @@
         ],
         "components": {
           "On-base": 100,
-          "Power": 91.84210526315792,
-          "Contact": 86.25,
+          "Power": 88.94736842105266,
+          "Contact": 84.37499999999999,
           "Discipline": 100,
           "Speed": 3.3333333333333335
         },
@@ -5965,47 +5985,47 @@
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 7,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Donovan Becerra gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Donovan Becerra looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 2.89",
-          "K/9 7.7"
+          "ERA 11.57",
+          "WHIP 2.83",
+          "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "13.50"
+            "value": "11.57"
           },
           {
             "label": "WHIP",
-            "value": "2.89"
+            "value": "2.83"
           },
           {
             "label": "K/9",
-            "value": "7.7"
+            "value": "9.3"
           },
           {
             "label": "BB/9",
-            "value": "12.5"
+            "value": "10.8"
           },
           {
             "label": "HR/9",
-            "value": "2.89"
+            "value": "2.31"
           },
           {
             "label": "IP",
-            "value": "9.3"
+            "value": "11.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 33.76623376623376,
+          "Miss bats": 47.792207792207805,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -6110,22 +6130,22 @@
         },
         "summary": "Caden Ferraro profiles as a OF/1B piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .384",
-          "OBP .518",
-          "SLG .624"
+          "AVG .388",
+          "OBP .520",
+          "SLG .620"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".384"
+            "value": ".388"
           },
           {
             "label": "OBP",
-            "value": ".518"
+            "value": ".520"
           },
           {
             "label": "SLG",
-            "value": ".624"
+            "value": ".620"
           },
           {
             "label": "HR",
@@ -6142,7 +6162,7 @@
         ],
         "components": {
           "On-base": 100,
-          "Power": 80,
+          "Power": 78.94736842105264,
           "Contact": 100,
           "Discipline": 100,
           "Speed": 0
@@ -6586,37 +6606,37 @@
         "position": "C",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 50,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Matt Quintanar gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .322",
-          "OBP .382",
-          "SLG .443"
+          "AVG .331",
+          "OBP .389",
+          "SLG .468"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".322"
+            "value": ".331"
           },
           {
             "label": "OBP",
-            "value": ".382"
+            "value": ".389"
           },
           {
             "label": "SLG",
-            "value": ".443"
+            "value": ".468"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "3"
           },
           {
             "label": "RBI",
-            "value": "31"
+            "value": "36"
           },
           {
             "label": "SB",
@@ -6624,9 +6644,9 @@
           }
         ],
         "components": {
-          "On-base": 56.66666666666666,
-          "Power": 32.36842105263158,
-          "Contact": 63.75000000000001,
+          "On-base": 60.55555555555555,
+          "Power": 38.947368421052644,
+          "Contact": 69.37500000000001,
           "Discipline": 81.48148148148148,
           "Speed": 3.3333333333333335
         },
@@ -6655,29 +6675,29 @@
         "position": "1B/OF",
         "classYear": "GR",
         "handedness": "R/L",
-        "score": 73,
+        "score": 70,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Robin Villeneuve profiles as a 1B/OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .364",
-          "OBP .452",
-          "SLG .636"
+          "AVG .358",
+          "OBP .444",
+          "SLG .620"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".364"
+            "value": ".358"
           },
           {
             "label": "OBP",
-            "value": ".452"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": ".636"
+            "value": ".620"
           },
           {
             "label": "HR",
@@ -6693,10 +6713,10 @@
           }
         ],
         "components": {
-          "On-base": 95.55555555555554,
-          "Power": 83.15789473684212,
-          "Contact": 89.99999999999999,
-          "Discipline": 31.74603174603174,
+          "On-base": 91.1111111111111,
+          "Power": 78.94736842105264,
+          "Contact": 86.25,
+          "Discipline": 28.82882882882883,
           "Speed": 3.3333333333333335
         },
         "metaLine": "GR / R/L",
@@ -6731,40 +6751,40 @@
         },
         "summary": "Jorden Espinoza gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 14.59",
-          "WHIP 3.16",
-          "K/9 7.3"
+          "ERA 12.86",
+          "WHIP 2.86",
+          "K/9 7.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "14.59"
+            "value": "12.86"
           },
           {
             "label": "WHIP",
-            "value": "3.16"
+            "value": "2.86"
           },
           {
             "label": "K/9",
-            "value": "7.3"
+            "value": "7.1"
           },
           {
             "label": "BB/9",
-            "value": "13.1"
+            "value": "12.2"
           },
           {
             "label": "HR/9",
-            "value": "1.46"
+            "value": "1.29"
           },
           {
             "label": "IP",
-            "value": "12.3"
+            "value": "14.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 29.975429975429975,
+          "Miss bats": 27.92207792207792,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -7414,48 +7434,48 @@
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 2,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Logan Bevis looks like a RHP option who limits runs.",
+        "summary": "Logan Bevis looks like a RHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.54",
-          "WHIP 1.33",
-          "K/9 4.9"
+          "ERA 3.22",
+          "WHIP 1.21",
+          "K/9 4.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.54"
+            "value": "3.22"
           },
           {
             "label": "WHIP",
-            "value": "1.33"
+            "value": "1.21"
           },
           {
             "label": "K/9",
-            "value": "4.9"
+            "value": "4.8"
           },
           {
             "label": "BB/9",
-            "value": "4.0"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "0.89"
+            "value": "0.81"
           },
           {
             "label": "IP",
-            "value": "20.3"
+            "value": "22.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 7.898658718330847,
-          "Command": 4.444444444444442,
+          "Miss bats": 7.5983717774762605,
+          "Command": 6.66666666666667,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -7689,33 +7709,33 @@
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 17,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jake Spindler looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 40.50",
-          "WHIP 3.00",
-          "K/9 13.5"
+          "ERA 16.20",
+          "WHIP 1.80",
+          "K/9 16.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "40.50"
+            "value": "16.20"
           },
           {
             "label": "WHIP",
-            "value": "3.00"
+            "value": "1.80"
           },
           {
             "label": "K/9",
-            "value": "13.5"
+            "value": "16.2"
           },
           {
             "label": "BB/9",
-            "value": "27.0"
+            "value": "16.2"
           },
           {
             "label": "HR/9",
@@ -7723,13 +7743,13 @@
           },
           {
             "label": "IP",
-            "value": "0.7"
+            "value": "1.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 86.36363636363636,
+          "Miss bats": 100,
           "Command": 0,
           "Damage suppression": 0
         },

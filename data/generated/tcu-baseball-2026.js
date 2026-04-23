@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.tcu2026 = {
-  "generatedAt": "2026-04-22T11:21:40.612Z",
+  "generatedAt": "2026-04-23T11:36:30.225Z",
   "season": 2026,
   "school": {
     "slug": "tcu",
@@ -49,8 +49,8 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       "atBats": "1300",
       "runsScored": "293",
       "hits": "352",
-      "runsBattedIn": "270",
-      "doubles": "56",
+      "runsBattedIn": "269",
+      "doubles": "57",
       "triples": "8",
       "homeRuns": "47",
       "walks": "239",
@@ -2290,16 +2290,16 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "gamesStarted": 26,
         "battingAverage": 0.271,
         "onBasePercentage": 0.356,
-        "sluggingPercentage": 0.424,
-        "ops": 0.78,
+        "sluggingPercentage": 0.435,
+        "ops": 0.791,
         "atBats": 85,
         "runs": 19,
         "hits": 23,
-        "doubles": 4,
+        "doubles": 5,
         "triples": 0,
         "homeRuns": 3,
-        "runsBattedIn": 21,
-        "totalBases": 36,
+        "runsBattedIn": 20,
+        "totalBases": 37,
         "walks": 13,
         "hitByPitch": 1,
         "strikeouts": 24,
@@ -2339,14 +2339,14 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "totalChances": 190
       },
       "evaluation": {
-        "score": 33,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
           "On-base": 42.2222222222222,
-          "Power": 27.368421052631575,
+          "Power": 30.263157894736842,
           "Contact": 31.875000000000007,
           "Discipline": 37.962962962962955,
           "Speed": 13.333333333333334
@@ -2355,7 +2355,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "summaryMetrics": [
           "AVG .271",
           "OBP .356",
-          "SLG .424"
+          "SLG .435"
         ],
         "statCards": [
           {
@@ -2368,7 +2368,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           },
           {
             "label": "SLG",
-            "value": ".424"
+            "value": ".435"
           },
           {
             "label": "HR",
@@ -2376,7 +2376,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "20"
           },
           {
             "label": "SB",
@@ -5935,7 +5935,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "position": "UT",
         "classYear": "GR",
         "handedness": "R/L",
-        "score": 33,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5944,7 +5944,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "summaryMetrics": [
           "AVG .271",
           "OBP .356",
-          "SLG .424"
+          "SLG .435"
         ],
         "statCards": [
           {
@@ -5957,7 +5957,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           },
           {
             "label": "SLG",
-            "value": ".424"
+            "value": ".435"
           },
           {
             "label": "HR",
@@ -5965,7 +5965,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "20"
           },
           {
             "label": "SB",
@@ -5974,7 +5974,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         ],
         "components": {
           "On-base": 42.2222222222222,
-          "Power": 27.368421052631575,
+          "Power": 30.263157894736842,
           "Contact": 31.875000000000007,
           "Discipline": 37.962962962962955,
           "Speed": 13.333333333333334

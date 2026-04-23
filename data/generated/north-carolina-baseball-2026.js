@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.north-carolina2026 = {
-  "generatedAt": "2026-04-22T11:22:11.401Z",
+  "generatedAt": "2026-04-23T11:37:01.723Z",
   "season": 2026,
   "school": {
     "slug": "north-carolina",
@@ -4524,10 +4524,10 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "classYear": "JR",
       "handedness": "L/L",
       "jersey": "44",
-      "hometown": "Massapequa, N.Y.",
+      "hometown": "Massapequa Park, N.Y.",
       "highSchool": "Massapequa HS",
       "previousSchool": "Stony Brook",
-      "hometownHighSchool": "Massapequa, N.Y. / Massapequa HS",
+      "hometownHighSchool": "Massapequa Park, N.Y. / Massapequa HS",
       "profileUrl": "https://goheels.com/sports/baseball/roster/erik-paulsen/27946",
       "imageUrl": "https://goheels.com/images/2025/10/2/Paulson_Erik.2026.bb.2716.jpg",
       "espnAthleteId": "",
