@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.houston2026 = {
-  "generatedAt": "2026-04-23T11:36:27.233Z",
+  "generatedAt": "2026-04-24T11:33:24.750Z",
   "season": 2026,
   "school": {
     "slug": "houston",
@@ -78,16 +78,16 @@ window.__BASEBALL_DATASETS__.houston2026 = {
     },
     "fielding": {
       "putouts": "1016",
-      "assists": "370",
-      "errors": "44",
+      "assists": "369",
+      "errors": "43",
       "passedBalls": "3",
       "catchersInterference": "0",
       "stolenBasesAgainst": "73",
       "caughtStealingBy": "11",
       "involvedInDoublePlays": "26",
       "involvedInTriplePlays": "0",
-      "totalChances": "1430",
-      "fieldingPercentage": ".969"
+      "totalChances": "1428",
+      "fieldingPercentage": ".970"
     },
     "pitching": {
       "orderOfAppearance": "0",
@@ -99,7 +99,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
       "shutouts": "0",
       "creditForCombinedShutout": "1",
       "inningsPitched": "338.2",
-      "hitsAllowed": "352",
+      "hitsAllowed": "353",
       "runsAllowed": "261",
       "earnedRunsAllowed": "229",
       "walksAllowed": "164",
@@ -4807,7 +4807,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "stolenBasesAttempts": 0,
         "putouts": 51,
         "assists": 5,
-        "errors": 1,
+        "errors": 0,
         "plateAppearances": 67,
         "caughtStealing": 0,
         "pickedOff": 0
@@ -4824,15 +4824,15 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "gamesStarted": 6,
         "putouts": 51,
         "assists": 5,
-        "errors": 1,
-        "fieldingPercentage": 0.982,
+        "errors": 0,
+        "fieldingPercentage": 1,
         "doublePlays": 3,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 57
+        "totalChances": 56
       },
       "evaluation": {
         "score": 34,
@@ -5021,14 +5021,14 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "appearances": 8,
         "gamesCompleted": 0,
         "earnedRunAverage": 2.89,
-        "whip": 1.02,
+        "whip": 1.07,
         "wins": 2,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
         "inningsPitched": 18.666666666666668,
         "inningsPitchedDisplay": "18.2",
-        "hitsAllowed": 13,
+        "hitsAllowed": 14,
         "runsAllowed": 7,
         "earnedRunsAllowed": 6,
         "walksAllowed": 6,
@@ -5040,8 +5040,8 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "wildPitches": 0,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.188,
-        "walksHits": 19
+        "opponentsBattingAverage": 0.203,
+        "walksHits": 20
       },
       "fieldingStats": {
         "rosterBioId": "9602",
@@ -5080,7 +5080,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "summary": "Richie Roman looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
           "ERA 2.89",
-          "WHIP 1.02",
+          "WHIP 1.07",
           "K/9 9.2"
         ],
         "statCards": [
@@ -5090,7 +5090,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.02"
+            "value": "1.07"
           },
           {
             "label": "K/9",
@@ -5181,7 +5181,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 5,
         "putouts": 25,
-        "assists": 77,
+        "assists": 76,
         "errors": 10,
         "plateAppearances": 157,
         "caughtStealing": 2,
@@ -5198,16 +5198,16 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "gamesPlayed": 36,
         "gamesStarted": 36,
         "putouts": 25,
-        "assists": 77,
+        "assists": 76,
         "errors": 10,
-        "fieldingPercentage": 0.911,
+        "fieldingPercentage": 0.91,
         "doublePlays": 6,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 112
+        "totalChances": 111
       },
       "evaluation": {
         "score": 19,
@@ -7911,7 +7911,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "summary": "Richie Roman looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
           "ERA 2.89",
-          "WHIP 1.02",
+          "WHIP 1.07",
           "K/9 9.2"
         ],
         "statCards": [
@@ -7921,7 +7921,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.02"
+            "value": "1.07"
           },
           {
             "label": "K/9",

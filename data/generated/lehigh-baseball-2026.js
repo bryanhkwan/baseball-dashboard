@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.lehigh2026 = {
-  "generatedAt": "2026-04-23T11:36:53.124Z",
+  "generatedAt": "2026-04-24T11:33:55.959Z",
   "season": 2026,
   "school": {
     "slug": "lehigh",
@@ -2668,7 +2668,7 @@ window.__BASEBALL_DATASETS__.lehigh2026 = {
         "whip": 2.27,
         "wins": 1,
         "losses": 3,
-        "saves": 0,
+        "saves": 1,
         "shutouts": 0,
         "inningsPitched": 23.333333333333332,
         "inningsPitchedDisplay": "23.1",

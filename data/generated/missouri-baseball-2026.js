@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.missouri2026 = {
-  "generatedAt": "2026-04-23T11:36:28.988Z",
+  "generatedAt": "2026-04-24T11:33:26.615Z",
   "season": 2026,
   "school": {
     "slug": "missouri",
@@ -40,84 +40,84 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
     }
   },
   "teamSummary": {
-    "record": "20-21, 3-15",
-    "battingAverage": ".269",
-    "earnedRunAverage": "5.16",
+    "record": "20-22, 3-16",
+    "battingAverage": ".268",
+    "earnedRunAverage": "5.15",
     "wins": "20",
-    "losses": "21",
+    "losses": "22",
     "hitting": {
-      "atBats": "1313",
-      "runsScored": "275",
-      "hits": "353",
-      "runsBattedIn": "257",
+      "atBats": "1346",
+      "runsScored": "279",
+      "hits": "361",
+      "runsBattedIn": "261",
       "doubles": "64",
       "triples": "11",
-      "homeRuns": "36",
-      "walks": "178",
+      "homeRuns": "38",
+      "walks": "180",
       "intentionalWalks": "1",
-      "strikeouts": "317",
-      "strikeoutsLooking": "52",
-      "hitByPitch": "79",
-      "stolenBases": "52",
+      "strikeouts": "329",
+      "strikeoutsLooking": "54",
+      "hitByPitch": "80",
+      "stolenBases": "53",
       "caughtStealing": "16",
       "sacrificeHits": "17",
       "sacrificeFlies": "13",
       "reachedOnCatchersInteference": "1",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "304",
-      "flyOuts": "315",
-      "groundedIntoDoublePlay": "26",
+      "groundOuts": "313",
+      "flyOuts": "317",
+      "groundedIntoDoublePlay": "28",
       "pickedOff": "0",
-      "doublePlaysHitInto": "27",
+      "doublePlaysHitInto": "29",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1042",
-      "assists": "319",
+      "putouts": "1069",
+      "assists": "325",
       "errors": "36",
       "passedBalls": "3",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "57",
-      "caughtStealingBy": "11",
-      "involvedInDoublePlays": "21",
+      "stolenBasesAgainst": "59",
+      "caughtStealingBy": "13",
+      "involvedInDoublePlays": "22",
       "involvedInTriplePlays": "0",
-      "totalChances": "1397",
-      "fieldingPercentage": ".974"
+      "totalChances": "1430",
+      "fieldingPercentage": ".975"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "20",
-      "saves": "30",
-      "losses": "21",
+      "saves": "31",
+      "losses": "22",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "0",
       "creditForCombinedShutout": "2",
-      "inningsPitched": "347.1",
-      "hitsAllowed": "310",
-      "runsAllowed": "231",
-      "earnedRunsAllowed": "199",
-      "walksAllowed": "201",
-      "strikeouts": "387",
-      "battersFaced": "1572",
-      "opponentAtBats": "1295",
-      "doublesAllowed": "55",
+      "inningsPitched": "356.1",
+      "hitsAllowed": "316",
+      "runsAllowed": "236",
+      "earnedRunsAllowed": "204",
+      "walksAllowed": "208",
+      "strikeouts": "400",
+      "battersFaced": "1610",
+      "opponentAtBats": "1326",
+      "doublesAllowed": "57",
       "triplesAllowed": "6",
-      "homerunsAllowed": "52",
-      "wildPitches": "35",
+      "homerunsAllowed": "54",
+      "wildPitches": "36",
       "balks": "8",
       "hitBatters": "45",
-      "strikeoutsLooking": "64",
+      "strikeoutsLooking": "68",
       "intentionalWalks": "3",
-      "inheritedRunners": "88",
-      "inheritedRunnersThatScored": "34",
+      "inheritedRunners": "90",
+      "inheritedRunnersThatScored": "36",
       "sacrificeHitsAllowed": "15",
       "sacrificeFliesAllowed": "15",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6243",
-      "flyouts": "325",
-      "groundouts": "270",
+      "pitches": "6410",
+      "flyouts": "332",
+      "groundouts": "275",
       "teamUnearnedRuns": "0",
       "saveRecord": "7",
       "pickoff": "0"
@@ -162,25 +162,25 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "1",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/cameron-benson/33640",
         "imageUrl": "https://mutigers.com/images/2026/1/29/1_CamBenson.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 29,
-        "battingAverage": 0.275,
-        "onBasePercentage": 0.364,
-        "sluggingPercentage": 0.48,
-        "ops": 0.844,
-        "atBats": 102,
+        "gamesPlayed": 32,
+        "gamesStarted": 30,
+        "battingAverage": 0.274,
+        "onBasePercentage": 0.361,
+        "sluggingPercentage": 0.472,
+        "ops": 0.833,
+        "atBats": 106,
         "runs": 22,
-        "hits": 28,
+        "hits": 29,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 5,
         "runsBattedIn": 20,
-        "totalBases": 49,
+        "totalBases": 50,
         "walks": 12,
         "hitByPitch": 3,
-        "strikeouts": 23,
+        "strikeouts": 24,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
+        "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 6,
@@ -188,7 +188,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "putouts": 21,
         "assists": 1,
         "errors": 2,
-        "plateAppearances": 124,
+        "plateAppearances": 128,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -215,36 +215,36 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "totalChances": 24
       },
       "evaluation": {
-        "score": 39,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 46.66666666666665,
-          "Power": 42.10526315789473,
-          "Contact": 34.375000000000014,
-          "Discipline": 35.748792270531396,
+          "On-base": 44.99999999999998,
+          "Power": 40,
+          "Contact": 33.750000000000014,
+          "Discipline": 33.33333333333333,
           "Speed": 20
         },
         "summary": "Cameron Benson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .275",
-          "OBP .364",
-          "SLG .480"
+          "AVG .274",
+          "OBP .361",
+          "SLG .472"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".275"
+            "value": ".274"
           },
           {
             "label": "OBP",
-            "value": ".364"
+            "value": ".361"
           },
           {
             "label": "SLG",
-            "value": ".480"
+            "value": ".472"
           },
           {
             "label": "HR",
@@ -597,23 +597,23 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "5",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/pierre-seals/33656",
         "imageUrl": "https://mutigers.com/images/2025/12/17/MIZBSB_Headshot_PSeals-02_RK8hr.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 34,
+        "gamesPlayed": 38,
+        "gamesStarted": 35,
         "battingAverage": 0.25,
-        "onBasePercentage": 0.333,
-        "sluggingPercentage": 0.375,
-        "ops": 0.708,
-        "atBats": 136,
+        "onBasePercentage": 0.331,
+        "sluggingPercentage": 0.371,
+        "ops": 0.702,
+        "atBats": 140,
         "runs": 19,
-        "hits": 34,
+        "hits": 35,
         "doubles": 6,
         "triples": 1,
         "homeRuns": 3,
         "runsBattedIn": 19,
-        "totalBases": 51,
+        "totalBases": 52,
         "walks": 15,
         "hitByPitch": 2,
-        "strikeouts": 41,
+        "strikeouts": 42,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 0,
@@ -623,7 +623,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "putouts": 66,
         "assists": 2,
         "errors": 2,
-        "plateAppearances": 159,
+        "plateAppearances": 163,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -656,17 +656,17 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 29.44444444444444,
-          "Power": 14.473684210526317,
+          "On-base": 28.33333333333333,
+          "Power": 13.421052631578947,
           "Contact": 18.75,
-          "Discipline": 18.428184281842814,
+          "Discipline": 17.460317460317455,
           "Speed": 13.333333333333334
         },
         "summary": "Pierre Seals gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .250",
-          "OBP .333",
-          "SLG .375"
+          "OBP .331",
+          "SLG .371"
         ],
         "statCards": [
           {
@@ -675,11 +675,11 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".331"
           },
           {
             "label": "SLG",
-            "value": ".375"
+            "value": ".371"
           },
           {
             "label": "HR",
@@ -742,13 +742,13 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "6",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/tyler-macon/33651",
         "imageUrl": "https://mutigers.com/images/2025/12/17/MIZBSB_Headshot_TMacon-13_Bmi2V.jpg",
-        "gamesPlayed": 30,
+        "gamesPlayed": 31,
         "gamesStarted": 27,
-        "battingAverage": 0.337,
-        "onBasePercentage": 0.456,
-        "sluggingPercentage": 0.449,
-        "ops": 0.905,
-        "atBats": 98,
+        "battingAverage": 0.333,
+        "onBasePercentage": 0.452,
+        "sluggingPercentage": 0.444,
+        "ops": 0.896,
+        "atBats": 99,
         "runs": 27,
         "hits": 33,
         "doubles": 7,
@@ -758,7 +758,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "totalBases": 44,
         "walks": 19,
         "hitByPitch": 5,
-        "strikeouts": 24,
+        "strikeouts": 25,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 3,
@@ -768,7 +768,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "putouts": 136,
         "assists": 7,
         "errors": 5,
-        "plateAppearances": 138,
+        "plateAppearances": 139,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -795,36 +795,36 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "totalChances": 148
       },
       "evaluation": {
-        "score": 65,
+        "score": 63,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 97.77777777777777,
-          "Power": 33.94736842105264,
-          "Contact": 73.125,
-          "Discipline": 65.74074074074072,
+          "On-base": 95.55555555555554,
+          "Power": 32.631578947368425,
+          "Contact": 70.625,
+          "Discipline": 62.22222222222222,
           "Speed": 26.666666666666668
         },
         "summary": "Tyler Macon profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .337",
-          "OBP .456",
-          "SLG .449"
+          "AVG .333",
+          "OBP .452",
+          "SLG .444"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".337"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".456"
+            "value": ".452"
           },
           {
             "label": "SLG",
-            "value": ".449"
+            "value": ".444"
           },
           {
             "label": "HR",
@@ -887,13 +887,13 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "7",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/kaden-peer/33654",
         "imageUrl": "https://mutigers.com/images/2025/12/17/MIZBSB_Headshot_KPeer-41_rfinb.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 29,
-        "battingAverage": 0.29,
-        "onBasePercentage": 0.377,
-        "sluggingPercentage": 0.383,
-        "ops": 0.76,
-        "atBats": 107,
+        "gamesPlayed": 30,
+        "gamesStarted": 30,
+        "battingAverage": 0.279,
+        "onBasePercentage": 0.365,
+        "sluggingPercentage": 0.369,
+        "ops": 0.734,
+        "atBats": 111,
         "runs": 17,
         "hits": 31,
         "doubles": 5,
@@ -903,17 +903,17 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "totalBases": 41,
         "walks": 7,
         "hitByPitch": 8,
-        "strikeouts": 34,
+        "strikeouts": 37,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
         "sacrificeHits": 2,
         "stolenBases": 6,
         "stolenBasesAttempts": 10,
-        "putouts": 64,
+        "putouts": 67,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 138,
+        "plateAppearances": 142,
         "caughtStealing": 4,
         "pickedOff": 0
       },
@@ -925,9 +925,9 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "7",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/kaden-peer/33654",
         "imageUrl": "https://mutigers.com/images/2025/12/17/MIZBSB_Headshot_KPeer-41_rfinb.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 27,
-        "putouts": 64,
+        "gamesPlayed": 28,
+        "gamesStarted": 28,
+        "putouts": 67,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -937,39 +937,39 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 64
+        "totalChances": 67
       },
       "evaluation": {
-        "score": 32,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 53.88888888888887,
-          "Power": 16.578947368421055,
-          "Contact": 43.749999999999986,
-          "Discipline": 0.6535947712418276,
+          "On-base": 47.22222222222221,
+          "Power": 12.894736842105262,
+          "Contact": 36.875000000000014,
+          "Discipline": 0,
           "Speed": 20
         },
         "summary": "Kaden Peer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .290",
-          "OBP .377",
-          "SLG .383"
+          "AVG .279",
+          "OBP .365",
+          "SLG .369"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".279"
           },
           {
             "label": "OBP",
-            "value": ".377"
+            "value": ".365"
           },
           {
             "label": "SLG",
-            "value": ".383"
+            "value": ".369"
           },
           {
             "label": "HR",
@@ -1032,33 +1032,33 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "8",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/mateo-serna/33657",
         "imageUrl": "https://mutigers.com/images/2025/12/17/MIZBSB_Headshot_MSerna-30_opdY7.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 30,
-        "battingAverage": 0.245,
-        "onBasePercentage": 0.374,
+        "gamesPlayed": 33,
+        "gamesStarted": 31,
+        "battingAverage": 0.248,
+        "onBasePercentage": 0.378,
         "sluggingPercentage": 0.333,
-        "ops": 0.707,
-        "atBats": 102,
+        "ops": 0.711,
+        "atBats": 105,
         "runs": 15,
-        "hits": 25,
+        "hits": 26,
         "doubles": 3,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 13,
-        "totalBases": 34,
-        "walks": 12,
+        "totalBases": 35,
+        "walks": 13,
         "hitByPitch": 9,
-        "strikeouts": 32,
+        "strikeouts": 33,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 270,
-        "assists": 24,
+        "putouts": 283,
+        "assists": 26,
         "errors": 3,
-        "plateAppearances": 125,
+        "plateAppearances": 129,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1070,47 +1070,47 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "8",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/mateo-serna/33657",
         "imageUrl": "https://mutigers.com/images/2025/12/17/MIZBSB_Headshot_MSerna-30_opdY7.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 29,
-        "putouts": 270,
-        "assists": 24,
+        "gamesPlayed": 32,
+        "gamesStarted": 30,
+        "putouts": 283,
+        "assists": 26,
         "errors": 3,
         "fieldingPercentage": 0.99,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 40,
-        "caughtStealingBy": 7,
-        "stolenBasesPercentage": 0.851,
+        "doublePlays": 2,
+        "stolenBasesAgainst": 42,
+        "caughtStealingBy": 9,
+        "stolenBasesPercentage": 0.824,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 297
+        "totalChances": 312
       },
       "evaluation": {
-        "score": 23,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 52.222222222222214,
+          "On-base": 54.44444444444443,
           "Power": 3.421052631578951,
-          "Contact": 15.624999999999996,
-          "Discipline": 19.44444444444444,
+          "Contact": 17.5,
+          "Discipline": 21.548821548821543,
           "Speed": 3.3333333333333335
         },
         "summary": "Mateo Serna gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .245",
-          "OBP .374",
+          "AVG .248",
+          "OBP .378",
           "SLG .333"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".245"
+            "value": ".248"
           },
           {
             "label": "OBP",
-            "value": ".374"
+            "value": ".378"
           },
           {
             "label": "SLG",
@@ -1178,32 +1178,32 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "10",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/trey-lawrence/33649",
         "imageUrl": "https://mutigers.com/images/2025/12/17/MIZBSB_Headshot_TLawrence-16_5TuM0.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 0,
-        "appearances": 12,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.5,
-        "whip": 1.5,
+        "earnedRunAverage": 5.09,
+        "whip": 1.53,
         "wins": 2,
-        "losses": 0,
+        "losses": 1,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 16,
-        "inningsPitchedDisplay": "16.0",
-        "hitsAllowed": 15,
-        "runsAllowed": 8,
-        "earnedRunsAllowed": 8,
-        "walksAllowed": 9,
-        "strikeouts": 21,
+        "inningsPitched": 17.666666666666668,
+        "inningsPitchedDisplay": "17.2",
+        "hitsAllowed": 17,
+        "runsAllowed": 10,
+        "earnedRunsAllowed": 10,
+        "walksAllowed": 10,
+        "strikeouts": 22,
         "doublesAllowed": 3,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 58,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 65,
         "wildPitches": 3,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.259,
-        "walksHits": 24
+        "opponentsBattingAverage": 0.262,
+        "walksHits": 27
       },
       "fieldingStats": {
         "rosterBioId": "33649",
@@ -1227,7 +1227,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "totalChances": 4
       },
       "evaluation": {
-        "score": 18,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1235,28 +1235,28 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 71.02272727272727,
-          "Command": 26.66666666666667,
+          "Miss bats": 65.52315608919382,
+          "Command": 24.000000000000004,
           "Damage suppression": 0
         },
         "summary": "Trey Lawrence looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.50",
-          "WHIP 1.50",
-          "K/9 11.8"
+          "ERA 5.09",
+          "WHIP 1.53",
+          "K/9 11.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.50"
+            "value": "5.09"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.53"
           },
           {
             "label": "K/9",
-            "value": "11.8"
+            "value": "11.2"
           },
           {
             "label": "BB/9",
@@ -1264,11 +1264,11 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.13"
+            "value": "1.53"
           },
           {
             "label": "IP",
-            "value": "16.0"
+            "value": "17.7"
           }
         ],
         "metaLine": "SO / R/R",
@@ -1407,13 +1407,13 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "12",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/keegan-knutson/33648",
         "imageUrl": "https://mutigers.com/images/2025/12/17/MIZBSB_Headshot_KKnutson-05_98aIZ.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 24,
-        "battingAverage": 0.169,
-        "onBasePercentage": 0.239,
-        "sluggingPercentage": 0.265,
-        "ops": 0.504,
-        "atBats": 83,
+        "gamesPlayed": 31,
+        "gamesStarted": 25,
+        "battingAverage": 0.163,
+        "onBasePercentage": 0.232,
+        "sluggingPercentage": 0.256,
+        "ops": 0.488,
+        "atBats": 86,
         "runs": 11,
         "hits": 14,
         "doubles": 5,
@@ -1430,10 +1430,10 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "sacrificeHits": 3,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 21,
-        "assists": 36,
+        "putouts": 23,
+        "assists": 37,
         "errors": 2,
-        "plateAppearances": 98,
+        "plateAppearances": 101,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1445,19 +1445,19 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "12",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/keegan-knutson/33648",
         "imageUrl": "https://mutigers.com/images/2025/12/17/MIZBSB_Headshot_KKnutson-05_98aIZ.jpg",
-        "gamesPlayed": 21,
-        "gamesStarted": 19,
-        "putouts": 21,
-        "assists": 36,
+        "gamesPlayed": 22,
+        "gamesStarted": 20,
+        "putouts": 23,
+        "assists": 37,
         "errors": 2,
-        "fieldingPercentage": 0.966,
-        "doublePlays": 1,
+        "fieldingPercentage": 0.968,
+        "doublePlays": 2,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 59
+        "totalChances": 62
       },
       "evaluation": {
         "score": 7,
@@ -1474,22 +1474,22 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         },
         "summary": "Keegan Knutson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .169",
-          "OBP .239",
-          "SLG .265"
+          "AVG .163",
+          "OBP .232",
+          "SLG .256"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".169"
+            "value": ".163"
           },
           {
             "label": "OBP",
-            "value": ".239"
+            "value": ".232"
           },
           {
             "label": "SLG",
-            "value": ".265"
+            "value": ".256"
           },
           {
             "label": "HR",
@@ -1697,13 +1697,13 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "14",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/isaiah-frost/33644",
         "imageUrl": "https://mutigers.com/images/2025/12/17/MIZBSB_Headshot_IFrost-07_8N7kl.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 14,
-        "battingAverage": 0.291,
-        "onBasePercentage": 0.426,
-        "sluggingPercentage": 0.473,
-        "ops": 0.899,
-        "atBats": 55,
+        "gamesPlayed": 26,
+        "gamesStarted": 15,
+        "battingAverage": 0.276,
+        "onBasePercentage": 0.408,
+        "sluggingPercentage": 0.448,
+        "ops": 0.856,
+        "atBats": 58,
         "runs": 17,
         "hits": 16,
         "doubles": 3,
@@ -1713,17 +1713,17 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "totalBases": 26,
         "walks": 11,
         "hitByPitch": 2,
-        "strikeouts": 8,
+        "strikeouts": 10,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 2,
         "stolenBases": 4,
         "stolenBasesAttempts": 6,
-        "putouts": 26,
+        "putouts": 27,
         "assists": 2,
         "errors": 3,
-        "plateAppearances": 78,
+        "plateAppearances": 81,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1735,51 +1735,51 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "14",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/isaiah-frost/33644",
         "imageUrl": "https://mutigers.com/images/2025/12/17/MIZBSB_Headshot_IFrost-07_8N7kl.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 11,
-        "putouts": 26,
+        "gamesPlayed": 17,
+        "gamesStarted": 12,
+        "putouts": 27,
         "assists": 2,
         "errors": 3,
-        "fieldingPercentage": 0.903,
+        "fieldingPercentage": 0.906,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 31
+        "totalChances": 32
       },
       "evaluation": {
-        "score": 60,
+        "score": 53,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 81.11111111111109,
-          "Power": 40.26315789473684,
-          "Contact": 44.374999999999986,
+          "On-base": 71.11111111111109,
+          "Power": 33.684210526315795,
+          "Contact": 35.000000000000014,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },
         "summary": "Isaiah Frost profiles as a OF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .291",
-          "OBP .426",
-          "SLG .473"
+          "AVG .276",
+          "OBP .408",
+          "SLG .448"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".291"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".426"
+            "value": ".408"
           },
           {
             "label": "SLG",
-            "value": ".473"
+            "value": ".448"
           },
           {
             "label": "HR",
@@ -1987,13 +1987,13 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "18",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/eric-maisonet/33799",
         "imageUrl": "https://mutigers.com/images/2025/12/17/MIZBSB_Headshot_EMaisonet-44_WVKJH.jpg",
-        "gamesPlayed": 33,
+        "gamesPlayed": 34,
         "gamesStarted": 24,
-        "battingAverage": 0.213,
-        "onBasePercentage": 0.341,
-        "sluggingPercentage": 0.36,
-        "ops": 0.701,
-        "atBats": 75,
+        "battingAverage": 0.211,
+        "onBasePercentage": 0.337,
+        "sluggingPercentage": 0.355,
+        "ops": 0.692,
+        "atBats": 76,
         "runs": 20,
         "hits": 16,
         "doubles": 1,
@@ -2003,17 +2003,17 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "totalBases": 27,
         "walks": 9,
         "hitByPitch": 6,
-        "strikeouts": 12,
+        "strikeouts": 13,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 4,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 30,
+        "putouts": 32,
         "assists": 51,
         "errors": 2,
-        "plateAppearances": 98,
+        "plateAppearances": 99,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2025,9 +2025,9 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "18",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/eric-maisonet/33799",
         "imageUrl": "https://mutigers.com/images/2025/12/17/MIZBSB_Headshot_EMaisonet-44_WVKJH.jpg",
-        "gamesPlayed": 28,
+        "gamesPlayed": 29,
         "gamesStarted": 23,
-        "putouts": 30,
+        "putouts": 32,
         "assists": 51,
         "errors": 2,
         "fieldingPercentage": 0.976,
@@ -2037,39 +2037,39 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 83
+        "totalChances": 85
       },
       "evaluation": {
-        "score": 23,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 33.88888888888889,
-          "Power": 10.526315789473681,
+          "On-base": 31.666666666666664,
+          "Power": 9.210526315789469,
           "Contact": 0,
-          "Discipline": 61.11111111111111,
+          "Discipline": 54.700854700854684,
           "Speed": 6.666666666666667
         },
         "summary": "Eric Maisonet gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .213",
-          "OBP .341",
-          "SLG .360"
+          "AVG .211",
+          "OBP .337",
+          "SLG .355"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".213"
+            "value": ".211"
           },
           {
             "label": "OBP",
-            "value": ".341"
+            "value": ".337"
           },
           {
             "label": "SLG",
-            "value": ".360"
+            "value": ".355"
           },
           {
             "label": "HR",
@@ -2132,20 +2132,20 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "19",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/blaize-ward/33800",
         "imageUrl": "https://mutigers.com/images/2025/12/17/MIZBSB_Headshot_BWard-33_FbHTV.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 29,
-        "battingAverage": 0.317,
-        "onBasePercentage": 0.431,
-        "sluggingPercentage": 0.446,
-        "ops": 0.877,
-        "atBats": 101,
-        "runs": 18,
-        "hits": 32,
+        "gamesPlayed": 31,
+        "gamesStarted": 30,
+        "battingAverage": 0.327,
+        "onBasePercentage": 0.437,
+        "sluggingPercentage": 0.481,
+        "ops": 0.918,
+        "atBats": 104,
+        "runs": 19,
+        "hits": 34,
         "doubles": 5,
         "triples": 1,
-        "homeRuns": 2,
-        "runsBattedIn": 25,
-        "totalBases": 45,
+        "homeRuns": 3,
+        "runsBattedIn": 27,
+        "totalBases": 50,
         "walks": 9,
         "hitByPitch": 12,
         "strikeouts": 20,
@@ -2155,10 +2155,10 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "sacrificeHits": 2,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 28,
+        "putouts": 29,
         "assists": 37,
         "errors": 2,
-        "plateAppearances": 126,
+        "plateAppearances": 129,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2170,59 +2170,59 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "19",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/blaize-ward/33800",
         "imageUrl": "https://mutigers.com/images/2025/12/17/MIZBSB_Headshot_BWard-33_FbHTV.jpg",
-        "gamesPlayed": 20,
-        "gamesStarted": 19,
-        "putouts": 28,
+        "gamesPlayed": 21,
+        "gamesStarted": 20,
+        "putouts": 29,
         "assists": 37,
         "errors": 2,
-        "fieldingPercentage": 0.97,
+        "fieldingPercentage": 0.971,
         "doublePlays": 7,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 67
+        "totalChances": 68
       },
       "evaluation": {
-        "score": 51,
+        "score": 55,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 83.88888888888889,
-          "Power": 33.15789473684211,
-          "Contact": 60.62499999999999,
+          "On-base": 87.22222222222221,
+          "Power": 42.368421052631575,
+          "Contact": 66.875,
           "Discipline": 27.777777777777775,
           "Speed": 3.3333333333333335
         },
         "summary": "Blaize Ward profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .317",
-          "OBP .431",
-          "SLG .446"
+          "AVG .327",
+          "OBP .437",
+          "SLG .481"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".317"
+            "value": ".327"
           },
           {
             "label": "OBP",
-            "value": ".431"
+            "value": ".437"
           },
           {
             "label": "SLG",
-            "value": ".446"
+            "value": ".481"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "3"
           },
           {
             "label": "RBI",
-            "value": "25"
+            "value": "27"
           },
           {
             "label": "SB",
@@ -2419,14 +2419,14 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "21",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/jamal-george/33801",
         "imageUrl": "https://mutigers.com/images/2025/12/17/MIZBSB_Headshot_JGeorge-24_ivQcd.jpg",
-        "gamesPlayed": 16,
+        "gamesPlayed": 17,
         "gamesStarted": 10,
         "battingAverage": 0.226,
         "onBasePercentage": 0.409,
         "sluggingPercentage": 0.323,
         "ops": 0.732,
         "atBats": 31,
-        "runs": 11,
+        "runs": 12,
         "hits": 7,
         "doubles": 1,
         "triples": 1,
@@ -2707,32 +2707,32 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "23",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/ian-lohse/33650",
         "imageUrl": "https://mutigers.com/images/2025/12/17/MIZBSB_Headshot_-ILohse25_zwIdZ.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 0,
-        "appearances": 10,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 10.24,
-        "whip": 1.76,
+        "earnedRunAverage": 9.28,
+        "whip": 1.78,
         "wins": 0,
         "losses": 0,
         "saves": 4,
         "shutouts": 0,
-        "inningsPitched": 9.666666666666666,
-        "inningsPitchedDisplay": "9.2",
+        "inningsPitched": 10.666666666666666,
+        "inningsPitchedDisplay": "10.2",
         "hitsAllowed": 10,
         "runsAllowed": 11,
         "earnedRunsAllowed": 11,
-        "walksAllowed": 7,
-        "strikeouts": 17,
+        "walksAllowed": 9,
+        "strikeouts": 18,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 36,
+        "opponentsAtBats": 38,
         "wildPitches": 0,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.278,
-        "walksHits": 17
+        "opponentsBattingAverage": 0.263,
+        "walksHits": 19
       },
       "fieldingStats": {
         "rosterBioId": "33650",
@@ -2756,7 +2756,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "totalChances": 0
       },
       "evaluation": {
-        "score": 25,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2765,39 +2765,39 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 100,
-          "Command": 28.571428571428577,
+          "Command": 20,
           "Damage suppression": 0
         },
         "summary": "Ian Lohse looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 10.24",
-          "WHIP 1.76",
-          "K/9 15.8"
+          "ERA 9.28",
+          "WHIP 1.78",
+          "K/9 15.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "10.24"
+            "value": "9.28"
           },
           {
             "label": "WHIP",
-            "value": "1.76"
+            "value": "1.78"
           },
           {
             "label": "K/9",
-            "value": "15.8"
+            "value": "15.2"
           },
           {
             "label": "BB/9",
-            "value": "6.5"
+            "value": "7.6"
           },
           {
             "label": "HR/9",
-            "value": "3.72"
+            "value": "3.38"
           },
           {
             "label": "IP",
-            "value": "9.7"
+            "value": "10.7"
           }
         ],
         "metaLine": "GR / L/L",
@@ -2990,33 +2990,33 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "25",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/jase-woita/33803",
         "imageUrl": "https://mutigers.com/images/2025/12/17/MIZBSB_Headshot_JWoita-31_eQvyG.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "battingAverage": 0.299,
-        "onBasePercentage": 0.429,
-        "sluggingPercentage": 0.533,
-        "ops": 0.962,
-        "atBats": 137,
-        "runs": 33,
-        "hits": 41,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "battingAverage": 0.305,
+        "onBasePercentage": 0.43,
+        "sluggingPercentage": 0.553,
+        "ops": 0.983,
+        "atBats": 141,
+        "runs": 34,
+        "hits": 43,
         "doubles": 5,
         "triples": 0,
-        "homeRuns": 9,
-        "runsBattedIn": 41,
-        "totalBases": 73,
+        "homeRuns": 10,
+        "runsBattedIn": 42,
+        "totalBases": 78,
         "walks": 22,
         "hitByPitch": 9,
-        "strikeouts": 22,
+        "strikeouts": 23,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 5,
-        "putouts": 120,
+        "putouts": 124,
         "assists": 6,
         "errors": 1,
-        "plateAppearances": 175,
+        "plateAppearances": 179,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -3028,9 +3028,9 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "25",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/jase-woita/33803",
         "imageUrl": "https://mutigers.com/images/2025/12/17/MIZBSB_Headshot_JWoita-31_eQvyG.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 17,
-        "putouts": 120,
+        "gamesPlayed": 18,
+        "gamesStarted": 18,
+        "putouts": 124,
         "assists": 6,
         "errors": 1,
         "fieldingPercentage": 0.992,
@@ -3040,47 +3040,47 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 127
+        "totalChances": 131
       },
       "evaluation": {
-        "score": 63,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 82.77777777777776,
-          "Power": 56.052631578947384,
-          "Contact": 49.37499999999999,
-          "Discipline": 88.88888888888889,
+          "On-base": 83.33333333333331,
+          "Power": 61.315789473684234,
+          "Contact": 53.124999999999986,
+          "Discipline": 84.05797101449275,
           "Speed": 10
         },
-        "summary": "Jase Woita profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Jase Woita profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .299",
-          "OBP .429",
-          "SLG .533"
+          "AVG .305",
+          "OBP .430",
+          "SLG .553"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".299"
+            "value": ".305"
           },
           {
             "label": "OBP",
-            "value": ".429"
+            "value": ".430"
           },
           {
             "label": "SLG",
-            "value": ".533"
+            "value": ".553"
           },
           {
             "label": "HR",
-            "value": "9"
+            "value": "10"
           },
           {
             "label": "RBI",
-            "value": "41"
+            "value": "42"
           },
           {
             "label": "SB",
@@ -3277,33 +3277,33 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "27",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/kam-durnin/33805",
         "imageUrl": "https://mutigers.com/images/2025/12/17/MIZBSB_Headshot_KDurnin-23_V3wbz.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 29,
-        "battingAverage": 0.303,
-        "onBasePercentage": 0.395,
-        "sluggingPercentage": 0.468,
-        "ops": 0.863,
-        "atBats": 109,
-        "runs": 17,
+        "gamesPlayed": 30,
+        "gamesStarted": 30,
+        "battingAverage": 0.297,
+        "onBasePercentage": 0.398,
+        "sluggingPercentage": 0.459,
+        "ops": 0.857,
+        "atBats": 111,
+        "runs": 18,
         "hits": 33,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 4,
         "runsBattedIn": 16,
         "totalBases": 51,
-        "walks": 15,
-        "hitByPitch": 3,
-        "strikeouts": 25,
+        "walks": 16,
+        "hitByPitch": 4,
+        "strikeouts": 26,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
+        "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
-        "stolenBases": 8,
-        "stolenBasesAttempts": 10,
-        "putouts": 39,
-        "assists": 59,
+        "stolenBases": 9,
+        "stolenBasesAttempts": 11,
+        "putouts": 40,
+        "assists": 62,
         "errors": 3,
-        "plateAppearances": 141,
+        "plateAppearances": 146,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -3315,19 +3315,19 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "27",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/kam-durnin/33805",
         "imageUrl": "https://mutigers.com/images/2025/12/17/MIZBSB_Headshot_KDurnin-23_V3wbz.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 27,
-        "putouts": 39,
-        "assists": 59,
+        "gamesPlayed": 28,
+        "gamesStarted": 28,
+        "putouts": 40,
+        "assists": 62,
         "errors": 3,
-        "fieldingPercentage": 0.97,
+        "fieldingPercentage": 0.971,
         "doublePlays": 11,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 101
+        "totalChances": 105
       },
       "evaluation": {
         "score": 49,
@@ -3336,30 +3336,30 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 38.947368421052644,
-          "Contact": 51.87499999999999,
-          "Discipline": 44.444444444444436,
-          "Speed": 26.666666666666668
+          "On-base": 65.55555555555556,
+          "Power": 36.57894736842106,
+          "Contact": 48.12499999999999,
+          "Discipline": 46.15384615384615,
+          "Speed": 30
         },
         "summary": "Kam Durnin profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .303",
-          "OBP .395",
-          "SLG .468"
+          "AVG .297",
+          "OBP .398",
+          "SLG .459"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".303"
+            "value": ".297"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": ".398"
           },
           {
             "label": "SLG",
-            "value": ".468"
+            "value": ".459"
           },
           {
             "label": "HR",
@@ -3371,7 +3371,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
           },
           {
             "label": "SB",
-            "value": "8"
+            "value": "9"
           }
         ],
         "metaLine": "JR / R/R",
@@ -5729,32 +5729,32 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "54",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/josh-mcdevitt/33652",
         "imageUrl": "https://mutigers.com/images/2025/12/17/MIZBSB_Headshot_JMcDevitt-28_HiEM0.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 10,
-        "appearances": 10,
+        "gamesPlayed": 11,
+        "gamesStarted": 11,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.08,
+        "earnedRunAverage": 4.1,
         "whip": 1.25,
         "wins": 3,
         "losses": 4,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 53,
-        "inningsPitchedDisplay": "53.0",
-        "hitsAllowed": 37,
-        "runsAllowed": 31,
-        "earnedRunsAllowed": 24,
-        "walksAllowed": 29,
-        "strikeouts": 67,
-        "doublesAllowed": 11,
+        "inningsPitched": 59.333333333333336,
+        "inningsPitchedDisplay": "59.1",
+        "hitsAllowed": 41,
+        "runsAllowed": 34,
+        "earnedRunsAllowed": 27,
+        "walksAllowed": 33,
+        "strikeouts": 78,
+        "doublesAllowed": 13,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 7,
-        "opponentsAtBats": 191,
-        "wildPitches": 3,
+        "homeRunsAllowed": 8,
+        "opponentsAtBats": 213,
+        "wildPitches": 4,
         "hitBatters": 7,
         "balks": 0,
-        "opponentsBattingAverage": 0.194,
-        "walksHits": 66
+        "opponentsBattingAverage": 0.192,
+        "walksHits": 74
       },
       "fieldingStats": {
         "rosterBioId": "33652",
@@ -5778,7 +5778,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "totalChances": 9
       },
       "evaluation": {
-        "score": 18,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5786,20 +5786,20 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 67.06689536878217,
-          "Command": 26.206896551724135,
+          "Miss bats": 71.19509703779366,
+          "Command": 27.272727272727277,
           "Damage suppression": 0
         },
         "summary": "Josh McDevitt looks like a RHP option who misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.08",
+          "ERA 4.10",
           "WHIP 1.25",
-          "K/9 11.4"
+          "K/9 11.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.08"
+            "value": "4.10"
           },
           {
             "label": "WHIP",
@@ -5807,19 +5807,19 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
           },
           {
             "label": "K/9",
-            "value": "11.4"
+            "value": "11.8"
           },
           {
             "label": "BB/9",
-            "value": "4.9"
+            "value": "5.0"
           },
           {
             "label": "HR/9",
-            "value": "1.19"
+            "value": "1.21"
           },
           {
             "label": "IP",
-            "value": "53.0"
+            "value": "59.3"
           }
         ],
         "metaLine": "JR / R/R",
@@ -5870,20 +5870,20 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "jersey": "88",
         "profileUrl": "https://mutigers.com/sports/baseball/roster/donovan-jordan/33846",
         "imageUrl": "https://mutigers.com/images/2025/12/17/MIZBSB_Headshot_DJordan-21_1sNZU.jpg",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 12,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.351,
-        "sluggingPercentage": 0.417,
-        "ops": 0.768,
-        "atBats": 48,
+        "battingAverage": 0.265,
+        "onBasePercentage": 0.362,
+        "sluggingPercentage": 0.429,
+        "ops": 0.791,
+        "atBats": 49,
         "runs": 10,
-        "hits": 12,
+        "hits": 13,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 2,
-        "runsBattedIn": 10,
-        "totalBases": 20,
+        "runsBattedIn": 11,
+        "totalBases": 21,
         "walks": 5,
         "hitByPitch": 3,
         "strikeouts": 18,
@@ -5896,7 +5896,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "putouts": 28,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 58,
+        "plateAppearances": 59,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -5923,36 +5923,36 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "totalChances": 30
       },
       "evaluation": {
-        "score": 24,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 39.44444444444442,
-          "Power": 25.52631578947368,
-          "Contact": 18.75,
+          "On-base": 45.555555555555536,
+          "Power": 28.68421052631579,
+          "Contact": 28.125000000000007,
           "Discipline": 8.641975308641975,
           "Speed": 3.3333333333333335
         },
         "summary": "Donovan Jordan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .351",
-          "SLG .417"
+          "AVG .265",
+          "OBP .362",
+          "SLG .429"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".265"
           },
           {
             "label": "OBP",
-            "value": ".351"
+            "value": ".362"
           },
           {
             "label": "SLG",
-            "value": ".417"
+            "value": ".429"
           },
           {
             "label": "HR",
@@ -5960,7 +5960,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
           },
           {
             "label": "RBI",
-            "value": "10"
+            "value": "11"
           },
           {
             "label": "SB",
@@ -6259,29 +6259,29 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 39,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cameron Benson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .275",
-          "OBP .364",
-          "SLG .480"
+          "AVG .274",
+          "OBP .361",
+          "SLG .472"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".275"
+            "value": ".274"
           },
           {
             "label": "OBP",
-            "value": ".364"
+            "value": ".361"
           },
           {
             "label": "SLG",
-            "value": ".480"
+            "value": ".472"
           },
           {
             "label": "HR",
@@ -6297,10 +6297,10 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
           }
         ],
         "components": {
-          "On-base": 46.66666666666665,
-          "Power": 42.10526315789473,
-          "Contact": 34.375000000000014,
-          "Discipline": 35.748792270531396,
+          "On-base": 44.99999999999998,
+          "Power": 40,
+          "Contact": 33.750000000000014,
+          "Discipline": 33.33333333333333,
           "Speed": 20
         },
         "metaLine": "SR / L/R",
@@ -6474,8 +6474,8 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "summary": "Pierre Seals gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .250",
-          "OBP .333",
-          "SLG .375"
+          "OBP .331",
+          "SLG .371"
         ],
         "statCards": [
           {
@@ -6484,11 +6484,11 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".331"
           },
           {
             "label": "SLG",
-            "value": ".375"
+            "value": ".371"
           },
           {
             "label": "HR",
@@ -6504,10 +6504,10 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
           }
         ],
         "components": {
-          "On-base": 29.44444444444444,
-          "Power": 14.473684210526317,
+          "On-base": 28.33333333333333,
+          "Power": 13.421052631578947,
           "Contact": 18.75,
-          "Discipline": 18.428184281842814,
+          "Discipline": 17.460317460317455,
           "Speed": 13.333333333333334
         },
         "metaLine": "GR / R/R",
@@ -6535,29 +6535,29 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "position": "INF",
         "classYear": "R-SO",
         "handedness": "R/R",
-        "score": 65,
+        "score": 63,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Tyler Macon profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .337",
-          "OBP .456",
-          "SLG .449"
+          "AVG .333",
+          "OBP .452",
+          "SLG .444"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".337"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".456"
+            "value": ".452"
           },
           {
             "label": "SLG",
-            "value": ".449"
+            "value": ".444"
           },
           {
             "label": "HR",
@@ -6573,10 +6573,10 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
           }
         ],
         "components": {
-          "On-base": 97.77777777777777,
-          "Power": 33.94736842105264,
-          "Contact": 73.125,
-          "Discipline": 65.74074074074072,
+          "On-base": 95.55555555555554,
+          "Power": 32.631578947368425,
+          "Contact": 70.625,
+          "Discipline": 62.22222222222222,
           "Speed": 26.666666666666668
         },
         "metaLine": "R-SO / R/R",
@@ -6604,29 +6604,29 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 32,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Kaden Peer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .290",
-          "OBP .377",
-          "SLG .383"
+          "AVG .279",
+          "OBP .365",
+          "SLG .369"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".279"
           },
           {
             "label": "OBP",
-            "value": ".377"
+            "value": ".365"
           },
           {
             "label": "SLG",
-            "value": ".383"
+            "value": ".369"
           },
           {
             "label": "HR",
@@ -6642,10 +6642,10 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
           }
         ],
         "components": {
-          "On-base": 53.88888888888887,
-          "Power": 16.578947368421055,
-          "Contact": 43.749999999999986,
-          "Discipline": 0.6535947712418276,
+          "On-base": 47.22222222222221,
+          "Power": 12.894736842105262,
+          "Contact": 36.875000000000014,
+          "Discipline": 0,
           "Speed": 20
         },
         "metaLine": "JR / L/R",
@@ -6673,25 +6673,25 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "S/R",
-        "score": 23,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Mateo Serna gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .245",
-          "OBP .374",
+          "AVG .248",
+          "OBP .378",
           "SLG .333"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".245"
+            "value": ".248"
           },
           {
             "label": "OBP",
-            "value": ".374"
+            "value": ".378"
           },
           {
             "label": "SLG",
@@ -6711,10 +6711,10 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
           }
         ],
         "components": {
-          "On-base": 52.222222222222214,
+          "On-base": 54.44444444444443,
           "Power": 3.421052631578951,
-          "Contact": 15.624999999999996,
-          "Discipline": 19.44444444444444,
+          "Contact": 17.5,
+          "Discipline": 21.548821548821543,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / S/R",
@@ -6742,29 +6742,29 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 18,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Trey Lawrence looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.50",
-          "WHIP 1.50",
-          "K/9 11.8"
+          "ERA 5.09",
+          "WHIP 1.53",
+          "K/9 11.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.50"
+            "value": "5.09"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.53"
           },
           {
             "label": "K/9",
-            "value": "11.8"
+            "value": "11.2"
           },
           {
             "label": "BB/9",
@@ -6772,18 +6772,18 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.13"
+            "value": "1.53"
           },
           {
             "label": "IP",
-            "value": "16.0"
+            "value": "17.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 71.02272727272727,
-          "Command": 26.66666666666667,
+          "Miss bats": 65.52315608919382,
+          "Command": 24.000000000000004,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -6886,22 +6886,22 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         },
         "summary": "Keegan Knutson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .169",
-          "OBP .239",
-          "SLG .265"
+          "AVG .163",
+          "OBP .232",
+          "SLG .256"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".169"
+            "value": ".163"
           },
           {
             "label": "OBP",
-            "value": ".239"
+            "value": ".232"
           },
           {
             "label": "SLG",
-            "value": ".265"
+            "value": ".256"
           },
           {
             "label": "HR",
@@ -7017,29 +7017,29 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "position": "OF",
         "classYear": "R-SR",
         "handedness": "L/L",
-        "score": 60,
+        "score": 53,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "summary": "Isaiah Frost profiles as a OF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .291",
-          "OBP .426",
-          "SLG .473"
+          "AVG .276",
+          "OBP .408",
+          "SLG .448"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".291"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".426"
+            "value": ".408"
           },
           {
             "label": "SLG",
-            "value": ".473"
+            "value": ".448"
           },
           {
             "label": "HR",
@@ -7055,9 +7055,9 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
           }
         ],
         "components": {
-          "On-base": 81.11111111111109,
-          "Power": 40.26315789473684,
-          "Contact": 44.374999999999986,
+          "On-base": 71.11111111111109,
+          "Power": 33.684210526315795,
+          "Contact": 35.000000000000014,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },
@@ -7155,29 +7155,29 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "S/R",
-        "score": 23,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Eric Maisonet gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .213",
-          "OBP .341",
-          "SLG .360"
+          "AVG .211",
+          "OBP .337",
+          "SLG .355"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".213"
+            "value": ".211"
           },
           {
             "label": "OBP",
-            "value": ".341"
+            "value": ".337"
           },
           {
             "label": "SLG",
-            "value": ".360"
+            "value": ".355"
           },
           {
             "label": "HR",
@@ -7193,10 +7193,10 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
           }
         ],
         "components": {
-          "On-base": 33.88888888888889,
-          "Power": 10.526315789473681,
+          "On-base": 31.666666666666664,
+          "Power": 9.210526315789469,
           "Contact": 0,
-          "Discipline": 61.11111111111111,
+          "Discipline": 54.700854700854684,
           "Speed": 6.666666666666667
         },
         "metaLine": "JR / S/R",
@@ -7224,37 +7224,37 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "L/R",
-        "score": 51,
+        "score": 55,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Blaize Ward profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .317",
-          "OBP .431",
-          "SLG .446"
+          "AVG .327",
+          "OBP .437",
+          "SLG .481"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".317"
+            "value": ".327"
           },
           {
             "label": "OBP",
-            "value": ".431"
+            "value": ".437"
           },
           {
             "label": "SLG",
-            "value": ".446"
+            "value": ".481"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "3"
           },
           {
             "label": "RBI",
-            "value": "25"
+            "value": "27"
           },
           {
             "label": "SB",
@@ -7262,9 +7262,9 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
           }
         ],
         "components": {
-          "On-base": 83.88888888888889,
-          "Power": 33.15789473684211,
-          "Contact": 60.62499999999999,
+          "On-base": 87.22222222222221,
+          "Power": 42.368421052631575,
+          "Contact": 66.875,
           "Discipline": 27.777777777777775,
           "Speed": 3.3333333333333335
         },
@@ -7500,48 +7500,48 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "position": "LHP",
         "classYear": "GR",
         "handedness": "L/L",
-        "score": 25,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ian Lohse looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 10.24",
-          "WHIP 1.76",
-          "K/9 15.8"
+          "ERA 9.28",
+          "WHIP 1.78",
+          "K/9 15.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "10.24"
+            "value": "9.28"
           },
           {
             "label": "WHIP",
-            "value": "1.76"
+            "value": "1.78"
           },
           {
             "label": "K/9",
-            "value": "15.8"
+            "value": "15.2"
           },
           {
             "label": "BB/9",
-            "value": "6.5"
+            "value": "7.6"
           },
           {
             "label": "HR/9",
-            "value": "3.72"
+            "value": "3.38"
           },
           {
             "label": "IP",
-            "value": "9.7"
+            "value": "10.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 100,
-          "Command": 28.571428571428577,
+          "Command": 20,
           "Damage suppression": 0
         },
         "metaLine": "GR / L/L",
@@ -7638,37 +7638,37 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "position": "INF",
         "classYear": "GR",
         "handedness": "L/R",
-        "score": 63,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
-        "summary": "Jase Woita profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Jase Woita profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .299",
-          "OBP .429",
-          "SLG .533"
+          "AVG .305",
+          "OBP .430",
+          "SLG .553"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".299"
+            "value": ".305"
           },
           {
             "label": "OBP",
-            "value": ".429"
+            "value": ".430"
           },
           {
             "label": "SLG",
-            "value": ".533"
+            "value": ".553"
           },
           {
             "label": "HR",
-            "value": "9"
+            "value": "10"
           },
           {
             "label": "RBI",
-            "value": "41"
+            "value": "42"
           },
           {
             "label": "SB",
@@ -7676,10 +7676,10 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
           }
         ],
         "components": {
-          "On-base": 82.77777777777776,
-          "Power": 56.052631578947384,
-          "Contact": 49.37499999999999,
-          "Discipline": 88.88888888888889,
+          "On-base": 83.33333333333331,
+          "Power": 61.315789473684234,
+          "Contact": 53.124999999999986,
+          "Discipline": 84.05797101449275,
           "Speed": 10
         },
         "metaLine": "GR / L/R",
@@ -7783,22 +7783,22 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         },
         "summary": "Kam Durnin profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .303",
-          "OBP .395",
-          "SLG .468"
+          "AVG .297",
+          "OBP .398",
+          "SLG .459"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".303"
+            "value": ".297"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": ".398"
           },
           {
             "label": "SLG",
-            "value": ".468"
+            "value": ".459"
           },
           {
             "label": "HR",
@@ -7810,15 +7810,15 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
           },
           {
             "label": "SB",
-            "value": "8"
+            "value": "9"
           }
         ],
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 38.947368421052644,
-          "Contact": 51.87499999999999,
-          "Discipline": 44.444444444444436,
-          "Speed": 26.666666666666668
+          "On-base": 65.55555555555556,
+          "Power": 36.57894736842106,
+          "Contact": 48.12499999999999,
+          "Discipline": 46.15384615384615,
+          "Speed": 30
         },
         "metaLine": "JR / R/R",
         "detailBadges": [
@@ -9083,21 +9083,21 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 18,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Josh McDevitt looks like a RHP option who misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.08",
+          "ERA 4.10",
           "WHIP 1.25",
-          "K/9 11.4"
+          "K/9 11.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.08"
+            "value": "4.10"
           },
           {
             "label": "WHIP",
@@ -9105,26 +9105,26 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
           },
           {
             "label": "K/9",
-            "value": "11.4"
+            "value": "11.8"
           },
           {
             "label": "BB/9",
-            "value": "4.9"
+            "value": "5.0"
           },
           {
             "label": "HR/9",
-            "value": "1.19"
+            "value": "1.21"
           },
           {
             "label": "IP",
-            "value": "53.0"
+            "value": "59.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 67.06689536878217,
-          "Command": 26.206896551724135,
+          "Miss bats": 71.19509703779366,
+          "Command": 27.272727272727277,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -9152,29 +9152,29 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "position": "OF",
         "classYear": "R-FR",
         "handedness": "R/R",
-        "score": 24,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Donovan Jordan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .351",
-          "SLG .417"
+          "AVG .265",
+          "OBP .362",
+          "SLG .429"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".265"
           },
           {
             "label": "OBP",
-            "value": ".351"
+            "value": ".362"
           },
           {
             "label": "SLG",
-            "value": ".417"
+            "value": ".429"
           },
           {
             "label": "HR",
@@ -9182,7 +9182,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
           },
           {
             "label": "RBI",
-            "value": "10"
+            "value": "11"
           },
           {
             "label": "SB",
@@ -9190,9 +9190,9 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
           }
         ],
         "components": {
-          "On-base": 39.44444444444442,
-          "Power": 25.52631578947368,
-          "Contact": 18.75,
+          "On-base": 45.555555555555536,
+          "Power": 28.68421052631579,
+          "Contact": 28.125000000000007,
           "Discipline": 8.641975308641975,
           "Speed": 3.3333333333333335
         },

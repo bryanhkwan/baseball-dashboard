@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.minnesota2026 = {
-  "generatedAt": "2026-04-23T11:36:59.979Z",
+  "generatedAt": "2026-04-24T11:34:02.632Z",
   "season": 2026,
   "school": {
     "slug": "minnesota",
@@ -55,7 +55,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
       "walks": "235",
       "intentionalWalks": "1",
       "strikeouts": "303",
-      "strikeoutsLooking": "89",
+      "strikeoutsLooking": "90",
       "hitByPitch": "60",
       "stolenBases": "87",
       "caughtStealing": "16",
@@ -67,7 +67,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
       "groundOuts": "289",
       "flyOuts": "378",
       "groundedIntoDoublePlay": "9",
-      "pickedOff": "6",
+      "pickedOff": "7",
       "doublePlaysHitInto": "19",
       "triplePlaysHitInto": "0"
     },
@@ -91,8 +91,8 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
       "losses": "17",
       "gamesStarted": "0",
       "gamesCompleted": "0",
-      "shutouts": "2",
-      "creditForCombinedShutout": "0",
+      "shutouts": "3",
+      "creditForCombinedShutout": "1",
       "inningsPitched": "343.2",
       "hitsAllowed": "294",
       "runsAllowed": "184",
@@ -107,7 +107,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
       "wildPitches": "30",
       "balks": "4",
       "hitBatters": "55",
-      "strikeoutsLooking": "94",
+      "strikeoutsLooking": "96",
       "intentionalWalks": "2",
       "inheritedRunners": "14",
       "inheritedRunnersThatScored": "6",
@@ -1933,7 +1933,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "errors": 0,
         "plateAppearances": 136,
         "caughtStealing": 1,
-        "pickedOff": 0
+        "pickedOff": 1
       },
       "pitchingStats": null,
       "fieldingStats": {
