@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T11:33:33.740Z",
+  "generatedAt": "2026-04-25T11:04:13.604Z",
   "season": 2026,
   "school": {
     "slug": "baylor",
@@ -26,9 +26,9 @@
   "coverage": {
     "rosterPlayers": 37,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 16,
+    "playersWithHittingStats": 17,
     "playersWithPitchingStats": 19,
-    "playersWithFieldingStats": 31,
+    "playersWithFieldingStats": 32,
     "mergedPlayersWithAnyStats": 35,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
@@ -38,84 +38,84 @@
     }
   },
   "teamSummary": {
-    "record": "22-18, 9-9",
-    "battingAverage": ".267",
-    "earnedRunAverage": "5.31",
+    "record": "22-19, 9-10",
+    "battingAverage": ".264",
+    "earnedRunAverage": "5.47",
     "wins": "22",
-    "losses": "18",
+    "losses": "19",
     "hitting": {
-      "atBats": "1315",
-      "runsScored": "246",
-      "hits": "351",
-      "runsBattedIn": "208",
-      "doubles": "66",
+      "atBats": "1344",
+      "runsScored": "248",
+      "hits": "355",
+      "runsBattedIn": "210",
+      "doubles": "67",
       "triples": "13",
-      "homeRuns": "32",
-      "walks": "184",
+      "homeRuns": "34",
+      "walks": "187",
       "intentionalWalks": "3",
-      "strikeouts": "393",
-      "strikeoutsLooking": "59",
+      "strikeouts": "410",
+      "strikeoutsLooking": "63",
       "hitByPitch": "63",
-      "stolenBases": "73",
-      "caughtStealing": "14",
+      "stolenBases": "74",
+      "caughtStealing": "15",
       "sacrificeHits": "19",
       "sacrificeFlies": "11",
       "reachedOnCatchersInteference": "1",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "285",
-      "flyOuts": "266",
+      "groundOuts": "291",
+      "flyOuts": "268",
       "groundedIntoDoublePlay": "28",
       "pickedOff": "5",
       "doublePlaysHitInto": "28",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1048",
-      "assists": "347",
+      "putouts": "1072",
+      "assists": "355",
       "errors": "39",
       "passedBalls": "6",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "28",
-      "caughtStealingBy": "10",
-      "involvedInDoublePlays": "35",
+      "stolenBasesAgainst": "29",
+      "caughtStealingBy": "11",
+      "involvedInDoublePlays": "37",
       "involvedInTriplePlays": "0",
-      "totalChances": "1434",
+      "totalChances": "1466",
       "fieldingPercentage": ".973"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "22",
-      "saves": "31",
-      "losses": "18",
+      "saves": "32",
+      "losses": "19",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "0",
       "creditForCombinedShutout": "1",
-      "inningsPitched": "349.1",
-      "hitsAllowed": "375",
-      "runsAllowed": "231",
-      "earnedRunsAllowed": "206",
-      "walksAllowed": "149",
-      "strikeouts": "319",
-      "battersFaced": "1581",
-      "opponentAtBats": "1354",
-      "doublesAllowed": "71",
+      "inningsPitched": "357.1",
+      "hitsAllowed": "391",
+      "runsAllowed": "242",
+      "earnedRunsAllowed": "217",
+      "walksAllowed": "152",
+      "strikeouts": "327",
+      "battersFaced": "1622",
+      "opponentAtBats": "1392",
+      "doublesAllowed": "72",
       "triplesAllowed": "8",
-      "homerunsAllowed": "38",
-      "wildPitches": "23",
-      "balks": "2",
+      "homerunsAllowed": "43",
+      "wildPitches": "24",
+      "balks": "3",
       "hitBatters": "38",
-      "strikeoutsLooking": "40",
+      "strikeoutsLooking": "42",
       "intentionalWalks": "6",
       "inheritedRunners": "60",
       "inheritedRunnersThatScored": "34",
       "sacrificeHitsAllowed": "20",
       "sacrificeFliesAllowed": "18",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6071",
-      "flyouts": "366",
-      "groundouts": "291",
+      "pitches": "6214",
+      "flyouts": "373",
+      "groundouts": "298",
       "teamUnearnedRuns": "0",
       "saveRecord": "6",
       "pickoff": "0"
@@ -160,13 +160,13 @@
         "jersey": "0",
         "profileUrl": "https://baylorbears.com/sports/baseball/roster/dylan-perez/15484",
         "imageUrl": "https://baylorbears.com/images/2025/12/18/_0_Perez_Dylan_2026.png",
-        "gamesPlayed": 18,
-        "gamesStarted": 9,
-        "battingAverage": 0.225,
-        "onBasePercentage": 0.333,
-        "sluggingPercentage": 0.275,
-        "ops": 0.608,
-        "atBats": 40,
+        "gamesPlayed": 19,
+        "gamesStarted": 10,
+        "battingAverage": 0.22,
+        "onBasePercentage": 0.353,
+        "sluggingPercentage": 0.268,
+        "ops": 0.621,
+        "atBats": 41,
         "runs": 2,
         "hits": 9,
         "doubles": 2,
@@ -174,9 +174,9 @@
         "homeRuns": 0,
         "runsBattedIn": 5,
         "totalBases": 11,
-        "walks": 6,
+        "walks": 8,
         "hitByPitch": 1,
-        "strikeouts": 13,
+        "strikeouts": 14,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
@@ -186,7 +186,7 @@
         "putouts": 9,
         "assists": 1,
         "errors": 0,
-        "plateAppearances": 50,
+        "plateAppearances": 53,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -213,36 +213,36 @@
         "totalChances": 10
       },
       "evaluation": {
-        "score": 14,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 29.44444444444444,
+          "On-base": 40.555555555555536,
           "Power": 0,
-          "Contact": 3.1250000000000027,
-          "Discipline": 29.059829059829056,
+          "Contact": 0,
+          "Discipline": 41.26984126984126,
           "Speed": 3.3333333333333335
         },
         "summary": "Dylan Perez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .225",
-          "OBP .333",
-          "SLG .275"
+          "AVG .220",
+          "OBP .353",
+          "SLG .268"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".225"
+            "value": ".220"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".353"
           },
           {
             "label": "SLG",
-            "value": ".275"
+            "value": ".268"
           },
           {
             "label": "HR",
@@ -393,13 +393,13 @@
         "jersey": "2",
         "profileUrl": "https://baylorbears.com/sports/baseball/roster/brytton-clements/15470",
         "imageUrl": "https://baylorbears.com/images/2025/12/18/_2_Clements_Brytton_2026.png",
-        "gamesPlayed": 33,
-        "gamesStarted": 29,
-        "battingAverage": 0.297,
-        "onBasePercentage": 0.354,
-        "sluggingPercentage": 0.366,
-        "ops": 0.72,
-        "atBats": 101,
+        "gamesPlayed": 34,
+        "gamesStarted": 30,
+        "battingAverage": 0.294,
+        "onBasePercentage": 0.351,
+        "sluggingPercentage": 0.363,
+        "ops": 0.714,
+        "atBats": 102,
         "runs": 18,
         "hits": 30,
         "doubles": 7,
@@ -409,17 +409,17 @@
         "totalBases": 37,
         "walks": 8,
         "hitByPitch": 2,
-        "strikeouts": 21,
+        "strikeouts": 22,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 2,
         "sacrificeHits": 5,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 22,
+        "putouts": 23,
         "assists": 34,
         "errors": 7,
-        "plateAppearances": 121,
+        "plateAppearances": 122,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -431,51 +431,51 @@
         "jersey": "2",
         "profileUrl": "https://baylorbears.com/sports/baseball/roster/brytton-clements/15470",
         "imageUrl": "https://baylorbears.com/images/2025/12/18/_2_Clements_Brytton_2026.png",
-        "gamesPlayed": 28,
-        "gamesStarted": 28,
-        "putouts": 22,
+        "gamesPlayed": 29,
+        "gamesStarted": 29,
+        "putouts": 23,
         "assists": 34,
         "errors": 7,
-        "fieldingPercentage": 0.889,
+        "fieldingPercentage": 0.891,
         "doublePlays": 8,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 63
+        "totalChances": 64
       },
       "evaluation": {
-        "score": 28,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 41.111111111111086,
-          "Power": 12.105263157894735,
-          "Contact": 48.12499999999999,
-          "Discipline": 20.1058201058201,
+          "On-base": 39.44444444444442,
+          "Power": 11.315789473684207,
+          "Contact": 46.249999999999986,
+          "Discipline": 18.18181818181818,
           "Speed": 3.3333333333333335
         },
         "summary": "Brytton Clements gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .297",
-          "OBP .354",
-          "SLG .366"
+          "AVG .294",
+          "OBP .351",
+          "SLG .363"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".297"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".354"
+            "value": ".351"
           },
           {
             "label": "SLG",
-            "value": ".366"
+            "value": ".363"
           },
           {
             "label": "HR",
@@ -683,33 +683,33 @@
         "jersey": "4",
         "profileUrl": "https://baylorbears.com/sports/baseball/roster/jj-kennett/15475",
         "imageUrl": "https://baylorbears.com/images/2025/12/18/_4_Kennett_JJ_2026.png",
-        "gamesPlayed": 32,
-        "gamesStarted": 26,
-        "battingAverage": 0.274,
-        "onBasePercentage": 0.398,
-        "sluggingPercentage": 0.345,
-        "ops": 0.743,
-        "atBats": 84,
-        "runs": 15,
-        "hits": 23,
+        "gamesPlayed": 33,
+        "gamesStarted": 27,
+        "battingAverage": 0.276,
+        "onBasePercentage": 0.396,
+        "sluggingPercentage": 0.379,
+        "ops": 0.775,
+        "atBats": 87,
+        "runs": 16,
+        "hits": 24,
         "doubles": 6,
         "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 11,
-        "totalBases": 29,
+        "homeRuns": 1,
+        "runsBattedIn": 12,
+        "totalBases": 33,
         "walks": 14,
         "hitByPitch": 4,
-        "strikeouts": 13,
+        "strikeouts": 14,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 1,
         "sacrificeHits": 2,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 206,
-        "assists": 21,
+        "putouts": 214,
+        "assists": 23,
         "errors": 4,
-        "plateAppearances": 106,
+        "plateAppearances": 109,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -721,59 +721,59 @@
         "jersey": "4",
         "profileUrl": "https://baylorbears.com/sports/baseball/roster/jj-kennett/15475",
         "imageUrl": "https://baylorbears.com/images/2025/12/18/_4_Kennett_JJ_2026.png",
-        "gamesPlayed": 30,
-        "gamesStarted": 25,
-        "putouts": 206,
-        "assists": 21,
+        "gamesPlayed": 31,
+        "gamesStarted": 26,
+        "putouts": 214,
+        "assists": 23,
         "errors": 4,
         "fieldingPercentage": 0.983,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 14,
-        "caughtStealingBy": 5,
-        "stolenBasesPercentage": 0.737,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 15,
+        "caughtStealingBy": 6,
+        "stolenBasesPercentage": 0.714,
         "passedBalls": 4,
         "catchersInterference": 0,
-        "totalChances": 231
+        "totalChances": 241
       },
       "evaluation": {
-        "score": 43,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 65.55555555555556,
-          "Power": 6.578947368421045,
-          "Contact": 33.750000000000014,
-          "Discipline": 97.43589743589742,
+          "On-base": 64.44444444444444,
+          "Power": 15.526315789473685,
+          "Contact": 35.000000000000014,
+          "Discipline": 88.88888888888889,
           "Speed": 3.3333333333333335
         },
         "summary": "JJ Kennett profiles as a C piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .274",
-          "OBP .398",
-          "SLG .345"
+          "AVG .276",
+          "OBP .396",
+          "SLG .379"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".274"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".398"
+            "value": ".396"
           },
           {
             "label": "SLG",
-            "value": ".345"
+            "value": ".379"
           },
           {
             "label": "HR",
-            "value": "0"
+            "value": "1"
           },
           {
             "label": "RBI",
-            "value": "11"
+            "value": "12"
           },
           {
             "label": "SB",
@@ -828,13 +828,13 @@
         "jersey": "5",
         "profileUrl": "https://baylorbears.com/sports/baseball/roster/pearson-riebock/15478",
         "imageUrl": "https://baylorbears.com/images/2025/12/18/_5_Riebock_Pearson_2026.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 34,
-        "battingAverage": 0.208,
-        "onBasePercentage": 0.377,
-        "sluggingPercentage": 0.283,
-        "ops": 0.66,
-        "atBats": 120,
+        "gamesPlayed": 37,
+        "gamesStarted": 35,
+        "battingAverage": 0.202,
+        "onBasePercentage": 0.367,
+        "sluggingPercentage": 0.274,
+        "ops": 0.641,
+        "atBats": 124,
         "runs": 29,
         "hits": 25,
         "doubles": 4,
@@ -844,17 +844,17 @@
         "totalBases": 34,
         "walks": 22,
         "hitByPitch": 11,
-        "strikeouts": 42,
+        "strikeouts": 46,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 4,
         "stolenBases": 10,
         "stolenBasesAttempts": 10,
-        "putouts": 63,
-        "assists": 54,
+        "putouts": 67,
+        "assists": 56,
         "errors": 3,
-        "plateAppearances": 168,
+        "plateAppearances": 172,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -866,51 +866,51 @@
         "jersey": "5",
         "profileUrl": "https://baylorbears.com/sports/baseball/roster/pearson-riebock/15478",
         "imageUrl": "https://baylorbears.com/images/2025/12/18/_5_Riebock_Pearson_2026.png",
-        "gamesPlayed": 33,
-        "gamesStarted": 32,
-        "putouts": 63,
-        "assists": 54,
+        "gamesPlayed": 34,
+        "gamesStarted": 33,
+        "putouts": 67,
+        "assists": 56,
         "errors": 3,
-        "fieldingPercentage": 0.975,
-        "doublePlays": 16,
+        "fieldingPercentage": 0.976,
+        "doublePlays": 18,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 120
+        "totalChances": 126
       },
       "evaluation": {
-        "score": 26,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 53.88888888888887,
+          "On-base": 48.333333333333314,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 35.978835978835974,
+          "Discipline": 30.917874396135264,
           "Speed": 33.33333333333333
         },
         "summary": "Pearson Riebock profiles as a INF/OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .208",
-          "OBP .377",
-          "SLG .283"
+          "AVG .202",
+          "OBP .367",
+          "SLG .274"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".208"
+            "value": ".202"
           },
           {
             "label": "OBP",
-            "value": ".377"
+            "value": ".367"
           },
           {
             "label": "SLG",
-            "value": ".283"
+            "value": ".274"
           },
           {
             "label": "HR",
@@ -973,20 +973,20 @@
         "jersey": "6",
         "profileUrl": "https://baylorbears.com/sports/baseball/roster/travis-sanders/15480",
         "imageUrl": "https://baylorbears.com/images/2025/12/18/_6_Sanders_Travis_2026.png",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "battingAverage": 0.353,
-        "onBasePercentage": 0.443,
-        "sluggingPercentage": 0.513,
-        "ops": 0.956,
-        "atBats": 156,
-        "runs": 31,
-        "hits": 55,
-        "doubles": 12,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "battingAverage": 0.363,
+        "onBasePercentage": 0.449,
+        "sluggingPercentage": 0.544,
+        "ops": 0.993,
+        "atBats": 160,
+        "runs": 32,
+        "hits": 58,
+        "doubles": 13,
         "triples": 2,
-        "homeRuns": 3,
-        "runsBattedIn": 28,
-        "totalBases": 80,
+        "homeRuns": 4,
+        "runsBattedIn": 29,
+        "totalBases": 87,
         "walks": 24,
         "hitByPitch": 2,
         "strikeouts": 51,
@@ -994,13 +994,13 @@
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
-        "stolenBases": 15,
-        "stolenBasesAttempts": 16,
+        "stolenBases": 16,
+        "stolenBasesAttempts": 18,
         "putouts": 56,
-        "assists": 98,
+        "assists": 100,
         "errors": 6,
-        "plateAppearances": 200,
-        "caughtStealing": 1,
+        "plateAppearances": 207,
+        "caughtStealing": 2,
         "pickedOff": 1
       },
       "pitchingStats": null,
@@ -1011,63 +1011,63 @@
         "jersey": "6",
         "profileUrl": "https://baylorbears.com/sports/baseball/roster/travis-sanders/15480",
         "imageUrl": "https://baylorbears.com/images/2025/12/18/_6_Sanders_Travis_2026.png",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
         "putouts": 56,
-        "assists": 98,
+        "assists": 100,
         "errors": 6,
         "fieldingPercentage": 0.963,
-        "doublePlays": 28,
+        "doublePlays": 29,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 160
+        "totalChances": 162
       },
       "evaluation": {
-        "score": 66,
+        "score": 71,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Pursue",
+          "className": "fit-pursue"
         },
         "components": {
-          "On-base": 90.55555555555554,
-          "Power": 50.78947368421054,
-          "Contact": 83.12499999999999,
+          "On-base": 93.88888888888889,
+          "Power": 58.94736842105265,
+          "Contact": 89.375,
           "Discipline": 30.065359477124176,
-          "Speed": 50
+          "Speed": 53.333333333333336
         },
         "summary": "Travis Sanders profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .353",
-          "OBP .443",
-          "SLG .513"
+          "AVG .363",
+          "OBP .449",
+          "SLG .544"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".353"
+            "value": ".363"
           },
           {
             "label": "OBP",
-            "value": ".443"
+            "value": ".449"
           },
           {
             "label": "SLG",
-            "value": ".513"
+            "value": ".544"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "4"
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "29"
           },
           {
             "label": "SB",
-            "value": "15"
+            "value": "16"
           }
         ],
         "metaLine": "R-JR / 2nd Year",
@@ -1087,7 +1087,7 @@
       "schoolLongName": "Baylor University",
       "name": "Cole Lanclos",
       "normalizedName": "cole lanclos",
-      "compositeRole": "Pitcher",
+      "compositeRole": "Two-Way",
       "role": "Pitcher",
       "position": "INF/OF/RHP",
       "positionLong": "Infielder/Outfielder/Right-Handed Pitcher",
@@ -1111,7 +1111,43 @@
         "Baylor Athletics roster",
         "Baylor cumulative stats"
       ],
-      "hittingStats": null,
+      "hittingStats": {
+        "rosterBioId": "15487",
+        "name": "Cole Lanclos",
+        "normalizedName": "cole lanclos",
+        "jersey": "8",
+        "profileUrl": "https://baylorbears.com/sports/baseball/roster/cole-lanclos/15487",
+        "imageUrl": "https://baylorbears.com/images/2025/12/18/_8_Lanclos_Cole_2026.png",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "battingAverage": 0,
+        "onBasePercentage": 0,
+        "sluggingPercentage": 0,
+        "ops": 0,
+        "atBats": 3,
+        "runs": 0,
+        "hits": 0,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 0,
+        "totalBases": 0,
+        "walks": 0,
+        "hitByPitch": 0,
+        "strikeouts": 2,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 0,
+        "assists": 1,
+        "errors": 0,
+        "plateAppearances": 3,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
       "pitchingStats": {
         "rosterBioId": "15487",
         "name": "Cole Lanclos",
@@ -1146,7 +1182,27 @@
         "opponentsBattingAverage": 0.4,
         "walksHits": 4
       },
-      "fieldingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "15487",
+        "name": "Cole Lanclos",
+        "normalizedName": "cole lanclos",
+        "jersey": "8",
+        "profileUrl": "https://baylorbears.com/sports/baseball/roster/cole-lanclos/15487",
+        "imageUrl": "https://baylorbears.com/images/2025/12/18/_8_Lanclos_Cole_2026.png",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 1
+      },
       "evaluation": {
         "score": 30,
         "fit": {
@@ -1197,7 +1253,7 @@
           "INF/OF/RHP",
           "FR",
           "1st Year",
-          "Pitcher"
+          "Two-Way"
         ],
         "sourceSummary": "Baylor Athletics roster + Baylor cumulative stats"
       }
@@ -1240,13 +1296,13 @@
         "jersey": "9",
         "profileUrl": "https://baylorbears.com/sports/baseball/roster/brady-janusek/15488",
         "imageUrl": "https://baylorbears.com/images/2025/12/18/_9_Janusek_Brady_2026.png",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "battingAverage": 0.333,
-        "onBasePercentage": 0.411,
-        "sluggingPercentage": 0.593,
-        "ops": 1.004,
-        "atBats": 162,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "battingAverage": 0.325,
+        "onBasePercentage": 0.402,
+        "sluggingPercentage": 0.578,
+        "ops": 0.98,
+        "atBats": 166,
         "runs": 37,
         "hits": 54,
         "doubles": 9,
@@ -1256,17 +1312,17 @@
         "totalBases": 96,
         "walks": 20,
         "hitByPitch": 2,
-        "strikeouts": 51,
+        "strikeouts": 54,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 16,
         "stolenBasesAttempts": 21,
-        "putouts": 88,
+        "putouts": 91,
         "assists": 2,
         "errors": 1,
-        "plateAppearances": 211,
+        "plateAppearances": 215,
         "caughtStealing": 5,
         "pickedOff": 2
       },
@@ -1278,9 +1334,9 @@
         "jersey": "9",
         "profileUrl": "https://baylorbears.com/sports/baseball/roster/brady-janusek/15488",
         "imageUrl": "https://baylorbears.com/images/2025/12/18/_9_Janusek_Brady_2026.png",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "putouts": 88,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "putouts": 91,
         "assists": 2,
         "errors": 1,
         "fieldingPercentage": 0.989,
@@ -1290,39 +1346,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 91
+        "totalChances": 94
       },
       "evaluation": {
-        "score": 63,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 72.77777777777776,
-          "Power": 71.84210526315789,
-          "Contact": 70.625,
-          "Discipline": 21.350762527233112,
+          "On-base": 67.77777777777779,
+          "Power": 67.89473684210526,
+          "Contact": 65.625,
+          "Discipline": 18.930041152263367,
           "Speed": 53.333333333333336
         },
         "summary": "Brady Janusek profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .333",
-          "OBP .411",
-          "SLG .593"
+          "AVG .325",
+          "OBP .402",
+          "SLG .578"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".333"
+            "value": ".325"
           },
           {
             "label": "OBP",
-            "value": ".411"
+            "value": ".402"
           },
           {
             "label": "SLG",
-            "value": ".593"
+            "value": ".578"
           },
           {
             "label": "HR",
@@ -1527,13 +1583,13 @@
         "jersey": "11",
         "profileUrl": "https://baylorbears.com/sports/baseball/roster/tyce-armstrong/15489",
         "imageUrl": "https://baylorbears.com/images/2025/12/18/_11_Armstrong_Tyce_2026.png",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "battingAverage": 0.305,
-        "onBasePercentage": 0.411,
-        "sluggingPercentage": 0.643,
-        "ops": 1.054,
-        "atBats": 154,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "battingAverage": 0.299,
+        "onBasePercentage": 0.407,
+        "sluggingPercentage": 0.631,
+        "ops": 1.038,
+        "atBats": 157,
         "runs": 33,
         "hits": 47,
         "doubles": 8,
@@ -1541,19 +1597,19 @@
         "homeRuns": 14,
         "runsBattedIn": 45,
         "totalBases": 99,
-        "walks": 21,
+        "walks": 22,
         "hitByPitch": 8,
-        "strikeouts": 46,
+        "strikeouts": 48,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
-        "putouts": 303,
+        "putouts": 309,
         "assists": 22,
         "errors": 6,
-        "plateAppearances": 190,
+        "plateAppearances": 194,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1565,51 +1621,51 @@
         "jersey": "11",
         "profileUrl": "https://baylorbears.com/sports/baseball/roster/tyce-armstrong/15489",
         "imageUrl": "https://baylorbears.com/images/2025/12/18/_11_Armstrong_Tyce_2026.png",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "putouts": 303,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "putouts": 309,
         "assists": 22,
         "errors": 6,
         "fieldingPercentage": 0.982,
-        "doublePlays": 33,
+        "doublePlays": 34,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 331
+        "totalChances": 337
       },
       "evaluation": {
-        "score": 60,
+        "score": 58,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 72.77777777777776,
-          "Power": 85.00000000000001,
-          "Contact": 53.124999999999986,
-          "Discipline": 28.502415458937193,
+          "On-base": 70.55555555555553,
+          "Power": 81.8421052631579,
+          "Contact": 49.37499999999999,
+          "Discipline": 28.7037037037037,
           "Speed": 13.333333333333334
         },
         "summary": "Tyce Armstrong profiles as a 1B piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .305",
-          "OBP .411",
-          "SLG .643"
+          "AVG .299",
+          "OBP .407",
+          "SLG .631"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".305"
+            "value": ".299"
           },
           {
             "label": "OBP",
-            "value": ".411"
+            "value": ".407"
           },
           {
             "label": "SLG",
-            "value": ".643"
+            "value": ".631"
           },
           {
             "label": "HR",
@@ -2766,13 +2822,13 @@
         "jersey": "22",
         "profileUrl": "https://baylorbears.com/sports/baseball/roster/bo-caraway/15495",
         "imageUrl": "https://baylorbears.com/images/2025/12/18/_22_Caraway_Bo_2026.png",
-        "gamesPlayed": 26,
-        "gamesStarted": 15,
-        "battingAverage": 0.232,
-        "onBasePercentage": 0.259,
-        "sluggingPercentage": 0.286,
-        "ops": 0.545,
-        "atBats": 56,
+        "gamesPlayed": 27,
+        "gamesStarted": 16,
+        "battingAverage": 0.22,
+        "onBasePercentage": 0.246,
+        "sluggingPercentage": 0.271,
+        "ops": 0.517,
+        "atBats": 59,
         "runs": 13,
         "hits": 13,
         "doubles": 1,
@@ -2782,17 +2838,17 @@
         "totalBases": 16,
         "walks": 2,
         "hitByPitch": 0,
-        "strikeouts": 19,
+        "strikeouts": 22,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
-        "putouts": 27,
+        "putouts": 28,
         "assists": 3,
         "errors": 0,
-        "plateAppearances": 64,
+        "plateAppearances": 67,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2804,9 +2860,9 @@
         "jersey": "22",
         "profileUrl": "https://baylorbears.com/sports/baseball/roster/bo-caraway/15495",
         "imageUrl": "https://baylorbears.com/images/2025/12/18/_22_Caraway_Bo_2026.png",
-        "gamesPlayed": 13,
-        "gamesStarted": 12,
-        "putouts": 27,
+        "gamesPlayed": 14,
+        "gamesStarted": 13,
+        "putouts": 28,
         "assists": 3,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -2816,10 +2872,10 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 30
+        "totalChances": 31
       },
       "evaluation": {
-        "score": 3,
+        "score": 1,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2827,28 +2883,28 @@
         "components": {
           "On-base": 0,
           "Power": 0,
-          "Contact": 7.500000000000007,
+          "Contact": 0,
           "Discipline": 0,
           "Speed": 13.333333333333334
         },
         "summary": "Bo Caraway gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .232",
-          "OBP .259",
-          "SLG .286"
+          "AVG .220",
+          "OBP .246",
+          "SLG .271"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".232"
+            "value": ".220"
           },
           {
             "label": "OBP",
-            "value": ".259"
+            "value": ".246"
           },
           {
             "label": "SLG",
-            "value": ".286"
+            "value": ".271"
           },
           {
             "label": "HR",
@@ -2911,13 +2967,13 @@
         "jersey": "23",
         "profileUrl": "https://baylorbears.com/sports/baseball/roster/ty-johnson/15474",
         "imageUrl": "https://baylorbears.com/images/2025/12/18/_23_Johnson_Ty_2026.png",
-        "gamesPlayed": 37,
-        "gamesStarted": 35,
-        "battingAverage": 0.22,
-        "onBasePercentage": 0.333,
-        "sluggingPercentage": 0.276,
-        "ops": 0.609,
-        "atBats": 123,
+        "gamesPlayed": 38,
+        "gamesStarted": 36,
+        "battingAverage": 0.214,
+        "onBasePercentage": 0.327,
+        "sluggingPercentage": 0.27,
+        "ops": 0.597,
+        "atBats": 126,
         "runs": 18,
         "hits": 27,
         "doubles": 3,
@@ -2934,10 +2990,10 @@
         "sacrificeHits": 3,
         "stolenBases": 8,
         "stolenBasesAttempts": 12,
-        "putouts": 88,
+        "putouts": 89,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 163,
+        "plateAppearances": 166,
         "caughtStealing": 4,
         "pickedOff": 1
       },
@@ -2949,9 +3005,9 @@
         "jersey": "23",
         "profileUrl": "https://baylorbears.com/sports/baseball/roster/ty-johnson/15474",
         "imageUrl": "https://baylorbears.com/images/2025/12/18/_23_Johnson_Ty_2026.png",
-        "gamesPlayed": 34,
-        "gamesStarted": 33,
-        "putouts": 88,
+        "gamesPlayed": 35,
+        "gamesStarted": 34,
+        "putouts": 89,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -2961,16 +3017,16 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 88
+        "totalChances": 89
       },
       "evaluation": {
-        "score": 18,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 29.44444444444444,
+          "On-base": 26.111111111111107,
           "Power": 0,
           "Contact": 0,
           "Discipline": 40,
@@ -2978,22 +3034,22 @@
         },
         "summary": "Ty Johnson profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .220",
-          "OBP .333",
-          "SLG .276"
+          "AVG .214",
+          "OBP .327",
+          "SLG .270"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".220"
+            "value": ".214"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".327"
           },
           {
             "label": "SLG",
-            "value": ".276"
+            "value": ".270"
           },
           {
             "label": "HR",
@@ -3605,32 +3661,32 @@
         "jersey": "30",
         "profileUrl": "https://baylorbears.com/sports/baseball/roster/charlie-atkinson/15500",
         "imageUrl": "https://baylorbears.com/images/2025/12/18/_30_Atkinson_Charlie_2026.png",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 0,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.33,
-        "whip": 1.48,
+        "earnedRunAverage": 4.71,
+        "whip": 1.64,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 27,
-        "inningsPitchedDisplay": "27.0",
-        "hitsAllowed": 27,
-        "runsAllowed": 17,
-        "earnedRunsAllowed": 10,
-        "walksAllowed": 13,
-        "strikeouts": 18,
+        "inningsPitched": 28.666666666666668,
+        "inningsPitchedDisplay": "28.2",
+        "hitsAllowed": 33,
+        "runsAllowed": 22,
+        "earnedRunsAllowed": 15,
+        "walksAllowed": 14,
+        "strikeouts": 21,
         "doublesAllowed": 7,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 104,
-        "wildPitches": 3,
+        "homeRunsAllowed": 4,
+        "opponentsAtBats": 115,
+        "wildPitches": 4,
         "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.26,
-        "walksHits": 40
+        "balks": 1,
+        "opponentsBattingAverage": 0.287,
+        "walksHits": 47
       },
       "fieldingStats": {
         "rosterBioId": "15500",
@@ -3639,22 +3695,22 @@
         "jersey": "30",
         "profileUrl": "https://baylorbears.com/sports/baseball/roster/charlie-atkinson/15500",
         "imageUrl": "https://baylorbears.com/images/2025/12/18/_30_Atkinson_Charlie_2026.png",
-        "gamesPlayed": 6,
+        "gamesPlayed": 7,
         "gamesStarted": 0,
         "putouts": 4,
-        "assists": 1,
+        "assists": 2,
         "errors": 1,
-        "fieldingPercentage": 0.833,
+        "fieldingPercentage": 0.857,
         "doublePlays": 2,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 6
+        "totalChances": 7
       },
       "evaluation": {
-        "score": 5,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3662,40 +3718,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 18.181818181818183,
-          "Command": 7.692307692307695,
+          "Miss bats": 23.57293868921776,
+          "Command": 10,
           "Damage suppression": 0
         },
-        "summary": "Charlie Atkinson looks like a RHP option who limits runs.",
+        "summary": "Charlie Atkinson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 3.33",
-          "WHIP 1.48",
-          "K/9 6.0"
+          "ERA 4.71",
+          "WHIP 1.64",
+          "K/9 6.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.33"
+            "value": "4.71"
           },
           {
             "label": "WHIP",
-            "value": "1.48"
+            "value": "1.64"
           },
           {
             "label": "K/9",
-            "value": "6.0"
+            "value": "6.6"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "4.4"
           },
           {
             "label": "HR/9",
-            "value": "0.67"
+            "value": "1.26"
           },
           {
             "label": "IP",
-            "value": "27.0"
+            "value": "28.7"
           }
         ],
         "metaLine": "JR / 1st Year",
@@ -4443,18 +4499,18 @@
         "jersey": "46",
         "profileUrl": "https://baylorbears.com/sports/baseball/roster/grayson-murry/15477",
         "imageUrl": "https://baylorbears.com/images/2025/12/18/_46_Murry_Grayson_2026.png",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 1,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.45,
-        "whip": 1.88,
+        "earnedRunAverage": 6.35,
+        "whip": 1.85,
         "wins": 0,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 22.333333333333332,
-        "inningsPitchedDisplay": "22.1",
+        "inningsPitched": 22.666666666666668,
+        "inningsPitchedDisplay": "22.2",
         "hitsAllowed": 24,
         "runsAllowed": 17,
         "earnedRunsAllowed": 16,
@@ -4463,11 +4519,11 @@
         "doublesAllowed": 8,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 86,
+        "opponentsAtBats": 87,
         "wildPitches": 1,
         "hitBatters": 4,
         "balks": 1,
-        "opponentsBattingAverage": 0.279,
+        "opponentsBattingAverage": 0.276,
         "walksHits": 42
       },
       "fieldingStats": {
@@ -4500,32 +4556,32 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.560379918588886,
+          "Miss bats": 50.26737967914438,
           "Command": 6.66666666666667,
           "Damage suppression": 0
         },
         "summary": "Grayson Murry looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.45",
-          "WHIP 1.88",
-          "K/9 9.7"
+          "ERA 6.35",
+          "WHIP 1.85",
+          "K/9 9.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.45"
+            "value": "6.35"
           },
           {
             "label": "WHIP",
-            "value": "1.88"
+            "value": "1.85"
           },
           {
             "label": "K/9",
-            "value": "9.7"
+            "value": "9.5"
           },
           {
             "label": "BB/9",
-            "value": "7.3"
+            "value": "7.1"
           },
           {
             "label": "HR/9",
@@ -4533,7 +4589,7 @@
           },
           {
             "label": "IP",
-            "value": "22.3"
+            "value": "22.7"
           }
         ],
         "metaLine": "SR / 2nd Year",
@@ -4585,32 +4641,32 @@
         "jersey": "48",
         "profileUrl": "https://baylorbears.com/sports/baseball/roster/lucas-davenport/15472",
         "imageUrl": "https://baylorbears.com/images/2025/12/18/_48_Davenport_Lucas_2026.png",
-        "gamesPlayed": 8,
-        "gamesStarted": 8,
-        "appearances": 8,
+        "gamesPlayed": 9,
+        "gamesStarted": 9,
+        "appearances": 9,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.86,
-        "whip": 1.26,
+        "earnedRunAverage": 4.57,
+        "whip": 1.36,
         "wins": 4,
-        "losses": 1,
+        "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 37.333333333333336,
-        "inningsPitchedDisplay": "37.1",
-        "hitsAllowed": 37,
-        "runsAllowed": 17,
-        "earnedRunsAllowed": 16,
-        "walksAllowed": 10,
-        "strikeouts": 48,
-        "doublesAllowed": 7,
+        "inningsPitched": 43.333333333333336,
+        "inningsPitchedDisplay": "43.1",
+        "hitsAllowed": 47,
+        "runsAllowed": 23,
+        "earnedRunsAllowed": 22,
+        "walksAllowed": 12,
+        "strikeouts": 53,
+        "doublesAllowed": 8,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 145,
+        "homeRunsAllowed": 7,
+        "opponentsAtBats": 171,
         "wildPitches": 1,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.255,
-        "walksHits": 47
+        "opponentsBattingAverage": 0.275,
+        "walksHits": 59
       },
       "fieldingStats": {
         "rosterBioId": "15472",
@@ -4634,7 +4690,7 @@
         "totalChances": 9
       },
       "evaluation": {
-        "score": 26,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4642,40 +4698,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 68.83116883116884,
-          "Command": 76,
+          "Miss bats": 63.70629370629371,
+          "Command": 68.33333333333333,
           "Damage suppression": 0
         },
-        "summary": "Lucas Davenport looks like a RHP option who limits runs and misses bats and throws enough strikes.",
+        "summary": "Lucas Davenport looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.86",
-          "WHIP 1.26",
-          "K/9 11.6"
+          "ERA 4.57",
+          "WHIP 1.36",
+          "K/9 11.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.86"
+            "value": "4.57"
           },
           {
             "label": "WHIP",
-            "value": "1.26"
+            "value": "1.36"
           },
           {
             "label": "K/9",
-            "value": "11.6"
+            "value": "11.0"
           },
           {
             "label": "BB/9",
-            "value": "2.4"
+            "value": "2.5"
           },
           {
             "label": "HR/9",
-            "value": "0.96"
+            "value": "1.45"
           },
           {
             "label": "IP",
-            "value": "37.3"
+            "value": "43.3"
           }
         ],
         "metaLine": "R-JR / 2nd Year",
@@ -5254,29 +5310,29 @@
         "position": "OF",
         "classYear": "FR",
         "handedness": "1st Year",
-        "score": 14,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dylan Perez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .225",
-          "OBP .333",
-          "SLG .275"
+          "AVG .220",
+          "OBP .353",
+          "SLG .268"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".225"
+            "value": ".220"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".353"
           },
           {
             "label": "SLG",
-            "value": ".275"
+            "value": ".268"
           },
           {
             "label": "HR",
@@ -5292,10 +5348,10 @@
           }
         ],
         "components": {
-          "On-base": 29.44444444444444,
+          "On-base": 40.555555555555536,
           "Power": 0,
-          "Contact": 3.1250000000000027,
-          "Discipline": 29.059829059829056,
+          "Contact": 0,
+          "Discipline": 41.26984126984126,
           "Speed": 3.3333333333333335
         },
         "metaLine": "FR / 1st Year",
@@ -5391,29 +5447,29 @@
         "position": "INF",
         "classYear": "R-FR",
         "handedness": "2nd Year",
-        "score": 28,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brytton Clements gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .297",
-          "OBP .354",
-          "SLG .366"
+          "AVG .294",
+          "OBP .351",
+          "SLG .363"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".297"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".354"
+            "value": ".351"
           },
           {
             "label": "SLG",
-            "value": ".366"
+            "value": ".363"
           },
           {
             "label": "HR",
@@ -5429,10 +5485,10 @@
           }
         ],
         "components": {
-          "On-base": 41.111111111111086,
-          "Power": 12.105263157894735,
-          "Contact": 48.12499999999999,
-          "Discipline": 20.1058201058201,
+          "On-base": 39.44444444444442,
+          "Power": 11.315789473684207,
+          "Contact": 46.249999999999986,
+          "Discipline": 18.18181818181818,
           "Speed": 3.3333333333333335
         },
         "metaLine": "R-FR / 2nd Year",
@@ -5529,37 +5585,37 @@
         "position": "C",
         "classYear": "JR",
         "handedness": "2nd Year",
-        "score": 43,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "JJ Kennett profiles as a C piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .274",
-          "OBP .398",
-          "SLG .345"
+          "AVG .276",
+          "OBP .396",
+          "SLG .379"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".274"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".398"
+            "value": ".396"
           },
           {
             "label": "SLG",
-            "value": ".345"
+            "value": ".379"
           },
           {
             "label": "HR",
-            "value": "0"
+            "value": "1"
           },
           {
             "label": "RBI",
-            "value": "11"
+            "value": "12"
           },
           {
             "label": "SB",
@@ -5567,10 +5623,10 @@
           }
         ],
         "components": {
-          "On-base": 65.55555555555556,
-          "Power": 6.578947368421045,
-          "Contact": 33.750000000000014,
-          "Discipline": 97.43589743589742,
+          "On-base": 64.44444444444444,
+          "Power": 15.526315789473685,
+          "Contact": 35.000000000000014,
+          "Discipline": 88.88888888888889,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / 2nd Year",
@@ -5598,29 +5654,29 @@
         "position": "INF/OF",
         "classYear": "SO",
         "handedness": "2nd Year",
-        "score": 26,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Pearson Riebock profiles as a INF/OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .208",
-          "OBP .377",
-          "SLG .283"
+          "AVG .202",
+          "OBP .367",
+          "SLG .274"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".208"
+            "value": ".202"
           },
           {
             "label": "OBP",
-            "value": ".377"
+            "value": ".367"
           },
           {
             "label": "SLG",
-            "value": ".283"
+            "value": ".274"
           },
           {
             "label": "HR",
@@ -5636,10 +5692,10 @@
           }
         ],
         "components": {
-          "On-base": 53.88888888888887,
+          "On-base": 48.333333333333314,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 35.978835978835974,
+          "Discipline": 30.917874396135264,
           "Speed": 33.33333333333333
         },
         "metaLine": "SO / 2nd Year",
@@ -5667,49 +5723,49 @@
         "position": "INF",
         "classYear": "R-JR",
         "handedness": "2nd Year",
-        "score": 66,
+        "score": 71,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Pursue",
+          "className": "fit-pursue"
         },
         "summary": "Travis Sanders profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .353",
-          "OBP .443",
-          "SLG .513"
+          "AVG .363",
+          "OBP .449",
+          "SLG .544"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".353"
+            "value": ".363"
           },
           {
             "label": "OBP",
-            "value": ".443"
+            "value": ".449"
           },
           {
             "label": "SLG",
-            "value": ".513"
+            "value": ".544"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "4"
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "29"
           },
           {
             "label": "SB",
-            "value": "15"
+            "value": "16"
           }
         ],
         "components": {
-          "On-base": 90.55555555555554,
-          "Power": 50.78947368421054,
-          "Contact": 83.12499999999999,
+          "On-base": 93.88888888888889,
+          "Power": 58.94736842105265,
+          "Contact": 89.375,
           "Discipline": 30.065359477124176,
-          "Speed": 50
+          "Speed": 53.333333333333336
         },
         "metaLine": "R-JR / 2nd Year",
         "detailBadges": [
@@ -5785,7 +5841,7 @@
           "INF/OF/RHP",
           "FR",
           "1st Year",
-          "Pitcher"
+          "Two-Way"
         ],
         "leaderboards": [
           "Baylor Athletics roster",
@@ -5793,7 +5849,7 @@
         ],
         "sourceSummary": "Baylor Athletics roster + Baylor cumulative stats",
         "schoolSlug": "baylor",
-        "compositeRole": "Pitcher",
+        "compositeRole": "Two-Way",
         "profileUrl": "https://baylorbears.com/sports/baseball/roster/cole-lanclos/15487",
         "espnAthleteId": ""
       },
@@ -5805,29 +5861,29 @@
         "position": "OF",
         "classYear": "FR",
         "handedness": "1st Year",
-        "score": 63,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Brady Janusek profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .333",
-          "OBP .411",
-          "SLG .593"
+          "AVG .325",
+          "OBP .402",
+          "SLG .578"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".333"
+            "value": ".325"
           },
           {
             "label": "OBP",
-            "value": ".411"
+            "value": ".402"
           },
           {
             "label": "SLG",
-            "value": ".593"
+            "value": ".578"
           },
           {
             "label": "HR",
@@ -5843,10 +5899,10 @@
           }
         ],
         "components": {
-          "On-base": 72.77777777777776,
-          "Power": 71.84210526315789,
-          "Contact": 70.625,
-          "Discipline": 21.350762527233112,
+          "On-base": 67.77777777777779,
+          "Power": 67.89473684210526,
+          "Contact": 65.625,
+          "Discipline": 18.930041152263367,
           "Speed": 53.333333333333336
         },
         "metaLine": "FR / 1st Year",
@@ -5943,29 +5999,29 @@
         "position": "1B",
         "classYear": "R-SR",
         "handedness": "1st Year",
-        "score": 60,
+        "score": 58,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Tyce Armstrong profiles as a 1B piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .305",
-          "OBP .411",
-          "SLG .643"
+          "AVG .299",
+          "OBP .407",
+          "SLG .631"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".305"
+            "value": ".299"
           },
           {
             "label": "OBP",
-            "value": ".411"
+            "value": ".407"
           },
           {
             "label": "SLG",
-            "value": ".643"
+            "value": ".631"
           },
           {
             "label": "HR",
@@ -5981,10 +6037,10 @@
           }
         ],
         "components": {
-          "On-base": 72.77777777777776,
-          "Power": 85.00000000000001,
-          "Contact": 53.124999999999986,
-          "Discipline": 28.502415458937193,
+          "On-base": 70.55555555555553,
+          "Power": 81.8421052631579,
+          "Contact": 49.37499999999999,
+          "Discipline": 28.7037037037037,
           "Speed": 13.333333333333334
         },
         "metaLine": "R-SR / 1st Year",
@@ -6563,29 +6619,29 @@
         "position": "OF",
         "classYear": "FR",
         "handedness": "1st Year",
-        "score": 3,
+        "score": 1,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Bo Caraway gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .232",
-          "OBP .259",
-          "SLG .286"
+          "AVG .220",
+          "OBP .246",
+          "SLG .271"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".232"
+            "value": ".220"
           },
           {
             "label": "OBP",
-            "value": ".259"
+            "value": ".246"
           },
           {
             "label": "SLG",
-            "value": ".286"
+            "value": ".271"
           },
           {
             "label": "HR",
@@ -6603,7 +6659,7 @@
         "components": {
           "On-base": 0,
           "Power": 0,
-          "Contact": 7.500000000000007,
+          "Contact": 0,
           "Discipline": 0,
           "Speed": 13.333333333333334
         },
@@ -6632,29 +6688,29 @@
         "position": "OF",
         "classYear": "5TH",
         "handedness": "3rd Year",
-        "score": 18,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ty Johnson profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .220",
-          "OBP .333",
-          "SLG .276"
+          "AVG .214",
+          "OBP .327",
+          "SLG .270"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".220"
+            "value": ".214"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".327"
           },
           {
             "label": "SLG",
-            "value": ".276"
+            "value": ".270"
           },
           {
             "label": "HR",
@@ -6670,7 +6726,7 @@
           }
         ],
         "components": {
-          "On-base": 29.44444444444444,
+          "On-base": 26.111111111111107,
           "Power": 0,
           "Contact": 0,
           "Discipline": 40,
@@ -6977,48 +7033,48 @@
         "position": "RHP",
         "classYear": "JR",
         "handedness": "1st Year",
-        "score": 5,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Charlie Atkinson looks like a RHP option who limits runs.",
+        "summary": "Charlie Atkinson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 3.33",
-          "WHIP 1.48",
-          "K/9 6.0"
+          "ERA 4.71",
+          "WHIP 1.64",
+          "K/9 6.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.33"
+            "value": "4.71"
           },
           {
             "label": "WHIP",
-            "value": "1.48"
+            "value": "1.64"
           },
           {
             "label": "K/9",
-            "value": "6.0"
+            "value": "6.6"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "4.4"
           },
           {
             "label": "HR/9",
-            "value": "0.67"
+            "value": "1.26"
           },
           {
             "label": "IP",
-            "value": "27.0"
+            "value": "28.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 18.181818181818183,
-          "Command": 7.692307692307695,
+          "Miss bats": 23.57293868921776,
+          "Command": 10,
           "Damage suppression": 0
         },
         "metaLine": "JR / 1st Year",
@@ -7398,26 +7454,26 @@
         },
         "summary": "Grayson Murry looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.45",
-          "WHIP 1.88",
-          "K/9 9.7"
+          "ERA 6.35",
+          "WHIP 1.85",
+          "K/9 9.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.45"
+            "value": "6.35"
           },
           {
             "label": "WHIP",
-            "value": "1.88"
+            "value": "1.85"
           },
           {
             "label": "K/9",
-            "value": "9.7"
+            "value": "9.5"
           },
           {
             "label": "BB/9",
-            "value": "7.3"
+            "value": "7.1"
           },
           {
             "label": "HR/9",
@@ -7425,13 +7481,13 @@
           },
           {
             "label": "IP",
-            "value": "22.3"
+            "value": "22.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.560379918588886,
+          "Miss bats": 50.26737967914438,
           "Command": 6.66666666666667,
           "Damage suppression": 0
         },
@@ -7460,48 +7516,48 @@
         "position": "RHP",
         "classYear": "R-JR",
         "handedness": "2nd Year",
-        "score": 26,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Lucas Davenport looks like a RHP option who limits runs and misses bats and throws enough strikes.",
+        "summary": "Lucas Davenport looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.86",
-          "WHIP 1.26",
-          "K/9 11.6"
+          "ERA 4.57",
+          "WHIP 1.36",
+          "K/9 11.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.86"
+            "value": "4.57"
           },
           {
             "label": "WHIP",
-            "value": "1.26"
+            "value": "1.36"
           },
           {
             "label": "K/9",
-            "value": "11.6"
+            "value": "11.0"
           },
           {
             "label": "BB/9",
-            "value": "2.4"
+            "value": "2.5"
           },
           {
             "label": "HR/9",
-            "value": "0.96"
+            "value": "1.45"
           },
           {
             "label": "IP",
-            "value": "37.3"
+            "value": "43.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 68.83116883116884,
-          "Command": 76,
+          "Miss bats": 63.70629370629371,
+          "Command": 68.33333333333333,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / 2nd Year",

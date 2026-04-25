@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.northwestern2026 = {
-  "generatedAt": "2026-04-24T11:34:05.866Z",
+  "generatedAt": "2026-04-25T11:04:47.878Z",
   "season": 2026,
   "school": {
     "slug": "northwestern",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
     }
   },
   "teamSummary": {
-    "record": "16-21-1, 5-13",
+    "record": "16-22-1, 5-14",
     "battingAverage": ".266",
-    "earnedRunAverage": "7.19",
+    "earnedRunAverage": "7.41",
     "wins": "16",
-    "losses": "22",
+    "losses": "23",
     "hitting": {
-      "atBats": "1277",
-      "runsScored": "234",
-      "hits": "340",
-      "runsBattedIn": "219",
-      "doubles": "73",
+      "atBats": "1303",
+      "runsScored": "235",
+      "hits": "346",
+      "runsBattedIn": "220",
+      "doubles": "76",
       "triples": "7",
       "homeRuns": "52",
-      "walks": "147",
+      "walks": "150",
       "intentionalWalks": "2",
-      "strikeouts": "324",
-      "strikeoutsLooking": "83",
+      "strikeouts": "334",
+      "strikeoutsLooking": "85",
       "hitByPitch": "32",
-      "stolenBases": "19",
+      "stolenBases": "20",
       "caughtStealing": "10",
       "sacrificeHits": "10",
       "sacrificeFlies": "16",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "284",
-      "flyOuts": "333",
+      "groundOuts": "290",
+      "flyOuts": "337",
       "groundedIntoDoublePlay": "14",
       "pickedOff": "0",
-      "doublePlaysHitInto": "17",
+      "doublePlaysHitInto": "18",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "962",
-      "assists": "352",
-      "errors": "28",
+      "putouts": "980",
+      "assists": "354",
+      "errors": "29",
       "passedBalls": "7",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "34",
+      "stolenBasesAgainst": "36",
       "caughtStealingBy": "14",
       "involvedInDoublePlays": "30",
       "involvedInTriplePlays": "0",
-      "totalChances": "1342",
+      "totalChances": "1363",
       "fieldingPercentage": ".979"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "16",
       "saves": "7",
-      "losses": "21",
+      "losses": "22",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "0",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "320.2",
-      "hitsAllowed": "384",
-      "runsAllowed": "282",
-      "earnedRunsAllowed": "256",
-      "walksAllowed": "177",
-      "strikeouts": "238",
-      "battersFaced": "1556",
-      "opponentAtBats": "1280",
-      "doublesAllowed": "81",
+      "inningsPitched": "326.2",
+      "hitsAllowed": "398",
+      "runsAllowed": "295",
+      "earnedRunsAllowed": "269",
+      "walksAllowed": "182",
+      "strikeouts": "244",
+      "battersFaced": "1597",
+      "opponentAtBats": "1312",
+      "doublesAllowed": "82",
       "triplesAllowed": "10",
-      "homerunsAllowed": "62",
+      "homerunsAllowed": "65",
       "wildPitches": "24",
-      "balks": "2",
-      "hitBatters": "63",
-      "strikeoutsLooking": "77",
-      "intentionalWalks": "7",
+      "balks": "3",
+      "hitBatters": "66",
+      "strikeoutsLooking": "79",
+      "intentionalWalks": "9",
       "inheritedRunners": "4",
       "inheritedRunnersThatScored": "3",
       "sacrificeHitsAllowed": "18",
-      "sacrificeFliesAllowed": "18",
+      "sacrificeFliesAllowed": "19",
       "catchersInterferenceAllowed": "0",
-      "pitches": "4750",
-      "flyouts": "344",
-      "groundouts": "323",
+      "pitches": "4902",
+      "flyouts": "353",
+      "groundouts": "326",
       "teamUnearnedRuns": "0",
       "saveRecord": "4",
       "pickoff": "6"
@@ -161,19 +161,19 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "1",
         "profileUrl": "https://nusports.com/sports/baseball/roster/noah-ruiz/13008",
         "imageUrl": "https://nusports.com/images/2026/1/21/01_Ruiz.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "battingAverage": 0.308,
-        "onBasePercentage": 0.36,
-        "sluggingPercentage": 0.493,
-        "ops": 0.853,
-        "atBats": 146,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "battingAverage": 0.302,
+        "onBasePercentage": 0.354,
+        "sluggingPercentage": 0.483,
+        "ops": 0.837,
+        "atBats": 149,
         "runs": 25,
         "hits": 45,
         "doubles": 9,
         "triples": 0,
         "homeRuns": 6,
-        "runsBattedIn": 32,
+        "runsBattedIn": 33,
         "totalBases": 72,
         "walks": 7,
         "hitByPitch": 6,
@@ -184,10 +184,10 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "sacrificeHits": 3,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 157,
+        "putouts": 159,
         "assists": 44,
-        "errors": 4,
-        "plateAppearances": 166,
+        "errors": 5,
+        "plateAppearances": 169,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -199,51 +199,51 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "1",
         "profileUrl": "https://nusports.com/sports/baseball/roster/noah-ruiz/13008",
         "imageUrl": "https://nusports.com/images/2026/1/21/01_Ruiz.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "putouts": 157,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "putouts": 159,
         "assists": 44,
-        "errors": 4,
-        "fieldingPercentage": 0.98,
+        "errors": 5,
+        "fieldingPercentage": 0.976,
         "doublePlays": 19,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 205
+        "totalChances": 208
       },
       "evaluation": {
-        "score": 38,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 44.44444444444443,
-          "Power": 45.526315789473685,
-          "Contact": 54.99999999999999,
+          "On-base": 41.111111111111086,
+          "Power": 42.89473684210526,
+          "Contact": 51.24999999999999,
           "Discipline": 14.814814814814808,
           "Speed": 0
         },
         "summary": "Noah Ruiz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .308",
-          "OBP .360",
-          "SLG .493"
+          "AVG .302",
+          "OBP .354",
+          "SLG .483"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".308"
+            "value": ".302"
           },
           {
             "label": "OBP",
-            "value": ".360"
+            "value": ".354"
           },
           {
             "label": "SLG",
-            "value": ".493"
+            "value": ".483"
           },
           {
             "label": "HR",
@@ -251,7 +251,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
           },
           {
             "label": "RBI",
-            "value": "32"
+            "value": "33"
           },
           {
             "label": "SB",
@@ -596,7 +596,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "7",
         "profileUrl": "https://nusports.com/sports/baseball/roster/marty-kaplan/12999",
         "imageUrl": "https://nusports.com/images/2026/1/21/07_Kaplan.jpg",
-        "gamesPlayed": 3,
+        "gamesPlayed": 4,
         "gamesStarted": 0,
         "battingAverage": 0.5,
         "onBasePercentage": 0.667,
@@ -741,33 +741,33 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "8",
         "profileUrl": "https://nusports.com/sports/baseball/roster/owen-mcelfatrick/13004",
         "imageUrl": "https://nusports.com/images/2026/1/21/08_McElfatrick.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "battingAverage": 0.221,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "battingAverage": 0.224,
         "onBasePercentage": 0.312,
-        "sluggingPercentage": 0.43,
-        "ops": 0.742,
-        "atBats": 149,
+        "sluggingPercentage": 0.428,
+        "ops": 0.74,
+        "atBats": 152,
         "runs": 24,
-        "hits": 33,
+        "hits": 34,
         "doubles": 8,
         "triples": 1,
         "homeRuns": 7,
         "runsBattedIn": 30,
-        "totalBases": 64,
+        "totalBases": 65,
         "walks": 19,
         "hitByPitch": 1,
-        "strikeouts": 42,
+        "strikeouts": 43,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 2,
-        "putouts": 33,
+        "stolenBases": 2,
+        "stolenBasesAttempts": 3,
+        "putouts": 35,
         "assists": 78,
         "errors": 6,
-        "plateAppearances": 173,
+        "plateAppearances": 177,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -779,19 +779,19 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "8",
         "profileUrl": "https://nusports.com/sports/baseball/roster/owen-mcelfatrick/13004",
         "imageUrl": "https://nusports.com/images/2026/1/21/08_McElfatrick.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 35,
-        "putouts": 33,
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "putouts": 35,
         "assists": 78,
         "errors": 6,
-        "fieldingPercentage": 0.949,
+        "fieldingPercentage": 0.95,
         "doublePlays": 6,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 117
+        "totalChances": 119
       },
       "evaluation": {
         "score": 18,
@@ -801,21 +801,21 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         },
         "components": {
           "On-base": 17.777777777777764,
-          "Power": 28.947368421052634,
-          "Contact": 0.6250000000000006,
-          "Discipline": 28.042328042328034,
-          "Speed": 3.3333333333333335
+          "Power": 28.421052631578945,
+          "Contact": 2.500000000000002,
+          "Discipline": 26.873385012919893,
+          "Speed": 6.666666666666667
         },
         "summary": "Owen McElfatrick gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .221",
+          "AVG .224",
           "OBP .312",
-          "SLG .430"
+          "SLG .428"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".221"
+            "value": ".224"
           },
           {
             "label": "OBP",
@@ -823,7 +823,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
           },
           {
             "label": "SLG",
-            "value": ".430"
+            "value": ".428"
           },
           {
             "label": "HR",
@@ -835,7 +835,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "metaLine": "SR / N/A",
@@ -886,20 +886,20 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "9",
         "profileUrl": "https://nusports.com/sports/baseball/roster/nick-barron/13009",
         "imageUrl": "https://nusports.com/images/2026/1/21/09_Barron.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 37,
-        "battingAverage": 0.281,
+        "gamesPlayed": 39,
+        "gamesStarted": 38,
+        "battingAverage": 0.282,
         "onBasePercentage": 0.344,
-        "sluggingPercentage": 0.482,
-        "ops": 0.826,
-        "atBats": 139,
+        "sluggingPercentage": 0.486,
+        "ops": 0.83,
+        "atBats": 142,
         "runs": 26,
-        "hits": 39,
-        "doubles": 10,
+        "hits": 40,
+        "doubles": 11,
         "triples": 0,
         "homeRuns": 6,
         "runsBattedIn": 25,
-        "totalBases": 67,
+        "totalBases": 69,
         "walks": 13,
         "hitByPitch": 2,
         "strikeouts": 21,
@@ -912,7 +912,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "putouts": 167,
         "assists": 17,
         "errors": 0,
-        "plateAppearances": 157,
+        "plateAppearances": 160,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -946,21 +946,21 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         },
         "components": {
           "On-base": 35.55555555555553,
-          "Power": 42.63157894736842,
-          "Contact": 38.125000000000014,
+          "Power": 43.684210526315795,
+          "Contact": 38.74999999999998,
           "Discipline": 46.56084656084655,
           "Speed": 0
         },
         "summary": "Nick Barron gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .281",
+          "AVG .282",
           "OBP .344",
-          "SLG .482"
+          "SLG .486"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".281"
+            "value": ".282"
           },
           {
             "label": "OBP",
@@ -968,7 +968,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
           },
           {
             "label": "SLG",
-            "value": ".482"
+            "value": ".486"
           },
           {
             "label": "HR",
@@ -1176,7 +1176,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "11",
         "profileUrl": "https://nusports.com/sports/baseball/roster/shane-hofstadler/13117",
         "imageUrl": "https://nusports.com/images/2026/1/21/11_Hofstadler.jpg",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 8,
         "battingAverage": 0.217,
         "onBasePercentage": 0.455,
@@ -1199,7 +1199,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "sacrificeHits": 1,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 53,
+        "putouts": 54,
         "assists": 1,
         "errors": 0,
         "plateAppearances": 34,
@@ -1214,9 +1214,9 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "11",
         "profileUrl": "https://nusports.com/sports/baseball/roster/shane-hofstadler/13117",
         "imageUrl": "https://nusports.com/images/2026/1/21/11_Hofstadler.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 6,
-        "putouts": 53,
+        "putouts": 54,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1226,7 +1226,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "stolenBasesPercentage": 1,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 54
+        "totalChances": 55
       },
       "evaluation": {
         "score": 56,
@@ -1321,13 +1321,13 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "12",
         "profileUrl": "https://nusports.com/sports/baseball/roster/jackson-freeman/12995",
         "imageUrl": "https://nusports.com/images/2026/1/21/12_Freeman.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "battingAverage": 0.26,
-        "onBasePercentage": 0.325,
-        "sluggingPercentage": 0.461,
-        "ops": 0.786,
-        "atBats": 154,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "battingAverage": 0.255,
+        "onBasePercentage": 0.32,
+        "sluggingPercentage": 0.452,
+        "ops": 0.772,
+        "atBats": 157,
         "runs": 24,
         "hits": 40,
         "doubles": 5,
@@ -1337,17 +1337,17 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "totalBases": 71,
         "walks": 14,
         "hitByPitch": 1,
-        "strikeouts": 43,
+        "strikeouts": 44,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 3,
-        "putouts": 89,
+        "putouts": 90,
         "assists": 4,
         "errors": 1,
-        "plateAppearances": 175,
+        "plateAppearances": 178,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1359,9 +1359,9 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "12",
         "profileUrl": "https://nusports.com/sports/baseball/roster/jackson-freeman/12995",
         "imageUrl": "https://nusports.com/images/2026/1/21/12_Freeman.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "putouts": 89,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "putouts": 90,
         "assists": 4,
         "errors": 1,
         "fieldingPercentage": 0.989,
@@ -1371,39 +1371,39 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 94
+        "totalChances": 95
       },
       "evaluation": {
-        "score": 24,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 24.999999999999993,
-          "Power": 37.10526315789475,
-          "Contact": 25.000000000000007,
-          "Discipline": 13.953488372093023,
+          "On-base": 22.222222222222214,
+          "Power": 34.736842105263165,
+          "Contact": 21.875000000000004,
+          "Discipline": 13.131313131313128,
           "Speed": 3.3333333333333335
         },
         "summary": "Jackson Freeman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .260",
-          "OBP .325",
-          "SLG .461"
+          "AVG .255",
+          "OBP .320",
+          "SLG .452"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".260"
+            "value": ".255"
           },
           {
             "label": "OBP",
-            "value": ".325"
+            "value": ".320"
           },
           {
             "label": "SLG",
-            "value": ".461"
+            "value": ".452"
           },
           {
             "label": "HR",
@@ -1466,33 +1466,33 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "13",
         "profileUrl": "https://nusports.com/sports/baseball/roster/jack-lausch/13002",
         "imageUrl": "https://nusports.com/images/2026/1/21/04_Lausch.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "battingAverage": 0.315,
-        "onBasePercentage": 0.401,
-        "sluggingPercentage": 0.623,
-        "ops": 1.024,
-        "atBats": 146,
-        "runs": 36,
-        "hits": 46,
-        "doubles": 12,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "battingAverage": 0.32,
+        "onBasePercentage": 0.403,
+        "sluggingPercentage": 0.627,
+        "ops": 1.03,
+        "atBats": 150,
+        "runs": 37,
+        "hits": 48,
+        "doubles": 13,
         "triples": 3,
         "homeRuns": 9,
         "runsBattedIn": 29,
-        "totalBases": 91,
+        "totalBases": 94,
         "walks": 19,
         "hitByPitch": 4,
-        "strikeouts": 49,
+        "strikeouts": 51,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 7,
         "stolenBasesAttempts": 9,
-        "putouts": 95,
+        "putouts": 99,
         "assists": 1,
         "errors": 2,
-        "plateAppearances": 183,
+        "plateAppearances": 187,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1504,9 +1504,9 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "13",
         "profileUrl": "https://nusports.com/sports/baseball/roster/jack-lausch/13002",
         "imageUrl": "https://nusports.com/images/2026/1/21/04_Lausch.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 35,
-        "putouts": 95,
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "putouts": 99,
         "assists": 1,
         "errors": 2,
         "fieldingPercentage": 0.98,
@@ -1516,39 +1516,39 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 98
+        "totalChances": 102
       },
       "evaluation": {
-        "score": 58,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 67.22222222222223,
-          "Power": 79.73684210526316,
-          "Contact": 59.375,
-          "Discipline": 20.861678004535143,
+          "On-base": 68.33333333333333,
+          "Power": 80.78947368421053,
+          "Contact": 62.5,
+          "Discipline": 19.172113289760347,
           "Speed": 23.333333333333332
         },
         "summary": "Jack Lausch profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .315",
-          "OBP .401",
-          "SLG .623"
+          "AVG .320",
+          "OBP .403",
+          "SLG .627"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".315"
+            "value": ".320"
           },
           {
             "label": "OBP",
-            "value": ".401"
+            "value": ".403"
           },
           {
             "label": "SLG",
-            "value": ".623"
+            "value": ".627"
           },
           {
             "label": "HR",
@@ -1753,13 +1753,13 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "15",
         "profileUrl": "https://nusports.com/sports/baseball/roster/charlie-caruso/12990",
         "imageUrl": "https://nusports.com/images/2026/1/21/15_Caruso.jpg",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 8,
-        "battingAverage": 0.12,
-        "onBasePercentage": 0.29,
-        "sluggingPercentage": 0.2,
-        "ops": 0.49,
-        "atBats": 25,
+        "battingAverage": 0.115,
+        "onBasePercentage": 0.281,
+        "sluggingPercentage": 0.192,
+        "ops": 0.473,
+        "atBats": 26,
         "runs": 2,
         "hits": 3,
         "doubles": 2,
@@ -1769,7 +1769,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "totalBases": 5,
         "walks": 4,
         "hitByPitch": 2,
-        "strikeouts": 9,
+        "strikeouts": 10,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -1779,7 +1779,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "putouts": 1,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 31,
+        "plateAppearances": 32,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1806,36 +1806,36 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "totalChances": 1
       },
       "evaluation": {
-        "score": 6,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 5.55555555555553,
+          "On-base": 0.5555555555555561,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 27.160493827160487,
+          "Discipline": 22.22222222222222,
           "Speed": 0
         },
         "summary": "Charlie Caruso gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .120",
-          "OBP .290",
-          "SLG .200"
+          "AVG .115",
+          "OBP .281",
+          "SLG .192"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".120"
+            "value": ".115"
           },
           {
             "label": "OBP",
-            "value": ".290"
+            "value": ".281"
           },
           {
             "label": "SLG",
-            "value": ".200"
+            "value": ".192"
           },
           {
             "label": "HR",
@@ -2040,13 +2040,13 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "17",
         "profileUrl": "https://nusports.com/sports/baseball/roster/ryan-kucherak/13001",
         "imageUrl": "https://nusports.com/images/2026/1/21/17_Kucherak.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "battingAverage": 0.289,
-        "onBasePercentage": 0.372,
-        "sluggingPercentage": 0.517,
-        "ops": 0.889,
-        "atBats": 149,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "battingAverage": 0.285,
+        "onBasePercentage": 0.371,
+        "sluggingPercentage": 0.51,
+        "ops": 0.881,
+        "atBats": 151,
         "runs": 33,
         "hits": 43,
         "doubles": 7,
@@ -2054,9 +2054,9 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "homeRuns": 9,
         "runsBattedIn": 33,
         "totalBases": 77,
-        "walks": 18,
+        "walks": 19,
         "hitByPitch": 3,
-        "strikeouts": 43,
+        "strikeouts": 45,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 2,
@@ -2066,7 +2066,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "putouts": 51,
         "assists": 92,
         "errors": 5,
-        "plateAppearances": 182,
+        "plateAppearances": 185,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2093,36 +2093,36 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "totalChances": 148
       },
       "evaluation": {
-        "score": 43,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 51.11111111111109,
-          "Power": 51.8421052631579,
-          "Contact": 43.124999999999986,
-          "Discipline": 24.28940568475452,
+          "On-base": 50.55555555555554,
+          "Power": 50.000000000000014,
+          "Contact": 40.624999999999986,
+          "Discipline": 24.691358024691354,
           "Speed": 23.333333333333332
         },
         "summary": "Ryan Kucherak gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .289",
-          "OBP .372",
-          "SLG .517"
+          "AVG .285",
+          "OBP .371",
+          "SLG .510"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": ".285"
           },
           {
             "label": "OBP",
-            "value": ".372"
+            "value": ".371"
           },
           {
             "label": "SLG",
-            "value": ".517"
+            "value": ".510"
           },
           {
             "label": "HR",
@@ -2185,13 +2185,13 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "18",
         "profileUrl": "https://nusports.com/sports/baseball/roster/noah-brocklebank/13010",
         "imageUrl": "https://nusports.com/images/2026/1/21/18_Brocklebank.jpg",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 5,
-        "battingAverage": 0.067,
-        "onBasePercentage": 0.3,
-        "sluggingPercentage": 0.067,
-        "ops": 0.367,
-        "atBats": 15,
+        "battingAverage": 0.063,
+        "onBasePercentage": 0.286,
+        "sluggingPercentage": 0.063,
+        "ops": 0.349,
+        "atBats": 16,
         "runs": 4,
         "hits": 1,
         "doubles": 0,
@@ -2201,7 +2201,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "totalBases": 1,
         "walks": 5,
         "hitByPitch": 0,
-        "strikeouts": 8,
+        "strikeouts": 9,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -2211,7 +2211,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "putouts": 6,
         "assists": 9,
         "errors": 0,
-        "plateAppearances": 20,
+        "plateAppearances": 21,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2238,36 +2238,36 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "totalChances": 15
       },
       "evaluation": {
-        "score": 10,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 11.111111111111091,
+          "On-base": 3.3333333333333055,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 47.222222222222214,
+          "Discipline": 39.50617283950617,
           "Speed": 0
         },
         "summary": "Noah Brocklebank gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .067",
-          "OBP .300",
-          "SLG .067"
+          "AVG .063",
+          "OBP .286",
+          "SLG .063"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".067"
+            "value": ".063"
           },
           {
             "label": "OBP",
-            "value": ".300"
+            "value": ".286"
           },
           {
             "label": "SLG",
-            "value": ".067"
+            "value": ".063"
           },
           {
             "label": "HR",
@@ -2330,13 +2330,13 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "19",
         "profileUrl": "https://nusports.com/sports/baseball/roster/jake-yang/13011",
         "imageUrl": "https://nusports.com/images/2026/1/21/19_Yang.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 6,
-        "battingAverage": 0.308,
-        "onBasePercentage": 0.4,
-        "sluggingPercentage": 0.346,
-        "ops": 0.746,
-        "atBats": 26,
+        "gamesPlayed": 16,
+        "gamesStarted": 7,
+        "battingAverage": 0.286,
+        "onBasePercentage": 0.394,
+        "sluggingPercentage": 0.321,
+        "ops": 0.715,
+        "atBats": 28,
         "runs": 8,
         "hits": 8,
         "doubles": 1,
@@ -2344,9 +2344,9 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "homeRuns": 0,
         "runsBattedIn": 3,
         "totalBases": 9,
-        "walks": 3,
+        "walks": 4,
         "hitByPitch": 1,
-        "strikeouts": 5,
+        "strikeouts": 6,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -2354,9 +2354,9 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 13,
-        "assists": 19,
+        "assists": 20,
         "errors": 1,
-        "plateAppearances": 33,
+        "plateAppearances": 36,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2368,51 +2368,51 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "19",
         "profileUrl": "https://nusports.com/sports/baseball/roster/jake-yang/13011",
         "imageUrl": "https://nusports.com/images/2026/1/21/19_Yang.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 5,
+        "gamesPlayed": 7,
+        "gamesStarted": 6,
         "putouts": 13,
-        "assists": 19,
+        "assists": 20,
         "errors": 1,
-        "fieldingPercentage": 0.97,
+        "fieldingPercentage": 0.971,
         "doublePlays": 8,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 33
+        "totalChances": 34
       },
       "evaluation": {
-        "score": 39,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 66.66666666666666,
-          "Power": 6.842105263157887,
-          "Contact": 54.99999999999999,
-          "Discipline": 44.444444444444436,
+          "On-base": 63.33333333333333,
+          "Power": 0.26315789473684237,
+          "Contact": 41.24999999999998,
+          "Discipline": 51.85185185185184,
           "Speed": 0
         },
-        "summary": "Jake Yang profiles as a INF piece who gets on base at a high clip.",
+        "summary": "Jake Yang gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .308",
-          "OBP .400",
-          "SLG .346"
+          "AVG .286",
+          "OBP .394",
+          "SLG .321"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".308"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".400"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".346"
+            "value": ".321"
           },
           {
             "label": "HR",
@@ -2938,11 +2938,11 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "24",
         "profileUrl": "https://nusports.com/sports/baseball/roster/christian-forniss/12994",
         "imageUrl": "https://nusports.com/images/2026/1/21/24_Forniss.jpg",
-        "gamesPlayed": 5,
+        "gamesPlayed": 6,
         "gamesStarted": 1,
-        "appearances": 5,
+        "appearances": 6,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.36,
+        "earnedRunAverage": 9.82,
         "whip": 2.05,
         "wins": 0,
         "losses": 0,
@@ -2951,8 +2951,8 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "inningsPitched": 7.333333333333333,
         "inningsPitchedDisplay": "7.1",
         "hitsAllowed": 5,
-        "runsAllowed": 6,
-        "earnedRunsAllowed": 6,
+        "runsAllowed": 8,
+        "earnedRunsAllowed": 8,
         "walksAllowed": 10,
         "strikeouts": 6,
         "doublesAllowed": 1,
@@ -2960,8 +2960,8 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "homeRunsAllowed": 2,
         "opponentsAtBats": 24,
         "wildPitches": 1,
-        "hitBatters": 3,
-        "balks": 0,
+        "hitBatters": 5,
+        "balks": 1,
         "opponentsBattingAverage": 0.208,
         "walksHits": 15
       },
@@ -3001,14 +3001,14 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         },
         "summary": "Christian Forniss gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.36",
+          "ERA 9.82",
           "WHIP 2.05",
           "K/9 7.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.36"
+            "value": "9.82"
           },
           {
             "label": "WHIP",
@@ -3309,20 +3309,20 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "28",
         "profileUrl": "https://nusports.com/sports/baseball/roster/jay-slater/13013",
         "imageUrl": "https://nusports.com/images/2026/1/21/28_Slater.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 31,
-        "battingAverage": 0.217,
-        "onBasePercentage": 0.303,
-        "sluggingPercentage": 0.406,
-        "ops": 0.709,
-        "atBats": 106,
+        "gamesPlayed": 33,
+        "gamesStarted": 32,
+        "battingAverage": 0.231,
+        "onBasePercentage": 0.314,
+        "sluggingPercentage": 0.426,
+        "ops": 0.74,
+        "atBats": 108,
         "runs": 15,
-        "hits": 23,
-        "doubles": 5,
+        "hits": 25,
+        "doubles": 6,
         "triples": 0,
         "homeRuns": 5,
         "runsBattedIn": 19,
-        "totalBases": 43,
+        "totalBases": 46,
         "walks": 8,
         "hitByPitch": 5,
         "strikeouts": 19,
@@ -3332,10 +3332,10 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "sacrificeHits": 1,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 179,
-        "assists": 20,
+        "putouts": 185,
+        "assists": 21,
         "errors": 2,
-        "plateAppearances": 120,
+        "plateAppearances": 122,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3347,51 +3347,51 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "28",
         "profileUrl": "https://nusports.com/sports/baseball/roster/jay-slater/13013",
         "imageUrl": "https://nusports.com/images/2026/1/21/28_Slater.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 31,
-        "putouts": 179,
-        "assists": 20,
+        "gamesPlayed": 33,
+        "gamesStarted": 32,
+        "putouts": 185,
+        "assists": 21,
         "errors": 2,
         "fieldingPercentage": 0.99,
         "doublePlays": 2,
-        "stolenBasesAgainst": 22,
+        "stolenBasesAgainst": 24,
         "caughtStealingBy": 11,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": 0.686,
         "passedBalls": 5,
         "catchersInterference": 0,
-        "totalChances": 201
+        "totalChances": 208
       },
       "evaluation": {
-        "score": 13,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 12.77777777777776,
-          "Power": 22.631578947368432,
-          "Contact": 0,
+          "On-base": 18.888888888888875,
+          "Power": 27.89473684210526,
+          "Contact": 6.875000000000006,
           "Discipline": 24.561403508771924,
           "Speed": 0
         },
         "summary": "Jay Slater gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .217",
-          "OBP .303",
-          "SLG .406"
+          "AVG .231",
+          "OBP .314",
+          "SLG .426"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".217"
+            "value": ".231"
           },
           {
             "label": "OBP",
-            "value": ".303"
+            "value": ".314"
           },
           {
             "label": "SLG",
-            "value": ".406"
+            "value": ".426"
           },
           {
             "label": "HR",
@@ -3597,32 +3597,32 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "30",
         "profileUrl": "https://nusports.com/sports/baseball/roster/garrett-shearer/13007",
         "imageUrl": "https://nusports.com/images/2026/1/21/30_Shearer.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 7,
-        "appearances": 10,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.04,
-        "whip": 1.5,
+        "earnedRunAverage": 7.99,
+        "whip": 1.59,
         "wins": 1,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 30.666666666666668,
-        "inningsPitchedDisplay": "30.2",
-        "hitsAllowed": 26,
-        "runsAllowed": 24,
-        "earnedRunsAllowed": 24,
-        "walksAllowed": 20,
-        "strikeouts": 28,
-        "doublesAllowed": 6,
+        "inningsPitched": 32.666666666666664,
+        "inningsPitchedDisplay": "32.2",
+        "hitsAllowed": 30,
+        "runsAllowed": 29,
+        "earnedRunsAllowed": 29,
+        "walksAllowed": 22,
+        "strikeouts": 31,
+        "doublesAllowed": 7,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 109,
+        "homeRunsAllowed": 6,
+        "opponentsAtBats": 119,
         "wildPitches": 3,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.239,
-        "walksHits": 46
+        "opponentsBattingAverage": 0.252,
+        "walksHits": 52
       },
       "fieldingStats": {
         "rosterBioId": "13007",
@@ -3631,22 +3631,22 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "30",
         "profileUrl": "https://nusports.com/sports/baseball/roster/garrett-shearer/13007",
         "imageUrl": "https://nusports.com/images/2026/1/21/30_Shearer.jpg",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 3,
         "putouts": 2,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 1,
+        "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": 0.667,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
       },
       "evaluation": {
-        "score": 9,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3654,40 +3654,40 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 38.3399209486166,
-          "Command": 8.000000000000004,
+          "Miss bats": 41.28014842300558,
+          "Command": 8.181818181818183,
           "Damage suppression": 0
         },
         "summary": "Garrett Shearer gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.04",
-          "WHIP 1.50",
-          "K/9 8.2"
+          "ERA 7.99",
+          "WHIP 1.59",
+          "K/9 8.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.04"
+            "value": "7.99"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.59"
           },
           {
             "label": "K/9",
-            "value": "8.2"
+            "value": "8.5"
           },
           {
             "label": "BB/9",
-            "value": "5.9"
+            "value": "6.1"
           },
           {
             "label": "HR/9",
-            "value": "1.47"
+            "value": "1.65"
           },
           {
             "label": "IP",
-            "value": "30.7"
+            "value": "32.7"
           }
         ],
         "metaLine": "JR / N/A",
@@ -3739,32 +3739,32 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "31",
         "profileUrl": "https://nusports.com/sports/baseball/roster/dominic-deloreto/13015",
         "imageUrl": "https://nusports.com/images/2026/1/21/31_DeLoreto.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 0,
-        "appearances": 11,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.09,
-        "whip": 1.89,
+        "earnedRunAverage": 3.46,
+        "whip": 1.85,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 11.666666666666666,
-        "inningsPitchedDisplay": "11.2",
-        "hitsAllowed": 14,
-        "runsAllowed": 8,
-        "earnedRunsAllowed": 4,
+        "inningsPitched": 13,
+        "inningsPitchedDisplay": "13.0",
+        "hitsAllowed": 16,
+        "runsAllowed": 9,
+        "earnedRunsAllowed": 5,
         "walksAllowed": 8,
         "strikeouts": 7,
         "doublesAllowed": 4,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 46,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 53,
         "wildPitches": 4,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.304,
-        "walksHits": 22
+        "opponentsBattingAverage": 0.302,
+        "walksHits": 24
       },
       "fieldingStats": {
         "rosterBioId": "13015",
@@ -3788,7 +3788,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "totalChances": 3
       },
       "evaluation": {
-        "score": 3,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3796,40 +3796,40 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 12.727272727272732,
+          "Miss bats": 7.692307692307689,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Dominic DeLoreto looks like a LHP/OF option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.09",
-          "WHIP 1.89",
-          "K/9 5.4"
+          "ERA 3.46",
+          "WHIP 1.85",
+          "K/9 4.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.09"
+            "value": "3.46"
           },
           {
             "label": "WHIP",
-            "value": "1.89"
+            "value": "1.85"
           },
           {
             "label": "K/9",
-            "value": "5.4"
+            "value": "4.8"
           },
           {
             "label": "BB/9",
-            "value": "6.2"
+            "value": "5.5"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "0.69"
           },
           {
             "label": "IP",
-            "value": "11.7"
+            "value": "13.0"
           }
         ],
         "metaLine": "FY / N/A",
@@ -3968,13 +3968,13 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "33",
         "profileUrl": "https://nusports.com/sports/baseball/roster/logan-de-groot/13017",
         "imageUrl": "https://nusports.com/images/2026/1/21/33_deGroot.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 27,
-        "battingAverage": 0.314,
-        "onBasePercentage": 0.422,
-        "sluggingPercentage": 0.36,
-        "ops": 0.782,
-        "atBats": 86,
+        "gamesPlayed": 30,
+        "gamesStarted": 28,
+        "battingAverage": 0.307,
+        "onBasePercentage": 0.419,
+        "sluggingPercentage": 0.352,
+        "ops": 0.771,
+        "atBats": 88,
         "runs": 10,
         "hits": 27,
         "doubles": 4,
@@ -3982,19 +3982,19 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "homeRuns": 0,
         "runsBattedIn": 9,
         "totalBases": 31,
-        "walks": 13,
+        "walks": 14,
         "hitByPitch": 3,
-        "strikeouts": 24,
+        "strikeouts": 25,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 51,
+        "putouts": 53,
         "assists": 1,
         "errors": 1,
-        "plateAppearances": 105,
+        "plateAppearances": 108,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4006,51 +4006,51 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "33",
         "profileUrl": "https://nusports.com/sports/baseball/roster/logan-de-groot/13017",
         "imageUrl": "https://nusports.com/images/2026/1/21/33_deGroot.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 26,
-        "putouts": 51,
+        "gamesPlayed": 27,
+        "gamesStarted": 27,
+        "putouts": 53,
         "assists": 1,
         "errors": 1,
-        "fieldingPercentage": 0.981,
+        "fieldingPercentage": 0.982,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 53
+        "totalChances": 55
       },
       "evaluation": {
-        "score": 45,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 78.88888888888886,
-          "Power": 10.526315789473681,
-          "Contact": 58.75,
-          "Discipline": 37.962962962962955,
+          "On-base": 77.2222222222222,
+          "Power": 8.421052631578942,
+          "Contact": 54.37499999999999,
+          "Discipline": 40,
           "Speed": 10
         },
         "summary": "Logan de Groot profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .314",
-          "OBP .422",
-          "SLG .360"
+          "AVG .307",
+          "OBP .419",
+          "SLG .352"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".314"
+            "value": ".307"
           },
           {
             "label": "OBP",
-            "value": ".422"
+            "value": ".419"
           },
           {
             "label": "SLG",
-            "value": ".360"
+            "value": ".352"
           },
           {
             "label": "HR",
@@ -4486,32 +4486,32 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "39",
         "profileUrl": "https://nusports.com/sports/baseball/roster/jake-rifenburg/13021",
         "imageUrl": "https://nusports.com/images/2026/1/21/39_Rifenburg.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 3,
-        "appearances": 11,
+        "gamesPlayed": 12,
+        "gamesStarted": 4,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.18,
-        "whip": 1.5,
+        "earnedRunAverage": 6.86,
+        "whip": 1.67,
         "wins": 2,
-        "losses": 4,
+        "losses": 5,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 39.333333333333336,
-        "inningsPitchedDisplay": "39.1",
-        "hitsAllowed": 46,
-        "runsAllowed": 27,
-        "earnedRunsAllowed": 27,
-        "walksAllowed": 13,
-        "strikeouts": 30,
+        "inningsPitched": 42,
+        "inningsPitchedDisplay": "42.0",
+        "hitsAllowed": 54,
+        "runsAllowed": 32,
+        "earnedRunsAllowed": 32,
+        "walksAllowed": 16,
+        "strikeouts": 33,
         "doublesAllowed": 12,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 156,
+        "homeRunsAllowed": 4,
+        "opponentsAtBats": 171,
         "wildPitches": 1,
-        "hitBatters": 10,
+        "hitBatters": 11,
         "balks": 0,
-        "opponentsBattingAverage": 0.295,
-        "walksHits": 59
+        "opponentsBattingAverage": 0.316,
+        "walksHits": 70
       },
       "fieldingStats": {
         "rosterBioId": "13021",
@@ -4520,16 +4520,16 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "jersey": "39",
         "profileUrl": "https://nusports.com/sports/baseball/roster/jake-rifenburg/13021",
         "imageUrl": "https://nusports.com/images/2026/1/21/39_Rifenburg.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 2,
+        "gamesPlayed": 9,
+        "gamesStarted": 3,
         "putouts": 1,
         "assists": 7,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 3,
+        "stolenBasesAgainst": 4,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.6,
+        "stolenBasesPercentage": 0.667,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -4543,40 +4543,40 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 26.04006163328197,
-          "Command": 26.15384615384616,
+          "Miss bats": 27.92207792207792,
+          "Command": 21.25,
           "Damage suppression": 0
         },
-        "summary": "Jake Rifenburg looks like a LHP option who throws enough strikes.",
+        "summary": "Jake Rifenburg gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.18",
-          "WHIP 1.50",
-          "K/9 6.9"
+          "ERA 6.86",
+          "WHIP 1.67",
+          "K/9 7.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.18"
+            "value": "6.86"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.67"
           },
           {
             "label": "K/9",
-            "value": "6.9"
+            "value": "7.1"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
-            "value": "0.69"
+            "value": "0.86"
           },
           {
             "label": "IP",
-            "value": "39.3"
+            "value": "42.0"
           }
         ],
         "metaLine": "FY / N/A",
@@ -5104,29 +5104,29 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "position": "INF",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 38,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Noah Ruiz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .308",
-          "OBP .360",
-          "SLG .493"
+          "AVG .302",
+          "OBP .354",
+          "SLG .483"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".308"
+            "value": ".302"
           },
           {
             "label": "OBP",
-            "value": ".360"
+            "value": ".354"
           },
           {
             "label": "SLG",
-            "value": ".493"
+            "value": ".483"
           },
           {
             "label": "HR",
@@ -5134,7 +5134,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
           },
           {
             "label": "RBI",
-            "value": "32"
+            "value": "33"
           },
           {
             "label": "SB",
@@ -5142,9 +5142,9 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
           }
         ],
         "components": {
-          "On-base": 44.44444444444443,
-          "Power": 45.526315789473685,
-          "Contact": 54.99999999999999,
+          "On-base": 41.111111111111086,
+          "Power": 42.89473684210526,
+          "Contact": 51.24999999999999,
           "Discipline": 14.814814814814808,
           "Speed": 0
         },
@@ -5387,14 +5387,14 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         },
         "summary": "Owen McElfatrick gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .221",
+          "AVG .224",
           "OBP .312",
-          "SLG .430"
+          "SLG .428"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".221"
+            "value": ".224"
           },
           {
             "label": "OBP",
@@ -5402,7 +5402,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
           },
           {
             "label": "SLG",
-            "value": ".430"
+            "value": ".428"
           },
           {
             "label": "HR",
@@ -5414,15 +5414,15 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "components": {
           "On-base": 17.777777777777764,
-          "Power": 28.947368421052634,
-          "Contact": 0.6250000000000006,
-          "Discipline": 28.042328042328034,
-          "Speed": 3.3333333333333335
+          "Power": 28.421052631578945,
+          "Contact": 2.500000000000002,
+          "Discipline": 26.873385012919893,
+          "Speed": 6.666666666666667
         },
         "metaLine": "SR / N/A",
         "detailBadges": [
@@ -5456,14 +5456,14 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         },
         "summary": "Nick Barron gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .281",
+          "AVG .282",
           "OBP .344",
-          "SLG .482"
+          "SLG .486"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".281"
+            "value": ".282"
           },
           {
             "label": "OBP",
@@ -5471,7 +5471,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
           },
           {
             "label": "SLG",
-            "value": ".482"
+            "value": ".486"
           },
           {
             "label": "HR",
@@ -5488,8 +5488,8 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         ],
         "components": {
           "On-base": 35.55555555555553,
-          "Power": 42.63157894736842,
-          "Contact": 38.125000000000014,
+          "Power": 43.684210526315795,
+          "Contact": 38.74999999999998,
           "Discipline": 46.56084656084655,
           "Speed": 0
         },
@@ -5656,29 +5656,29 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 24,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jackson Freeman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .260",
-          "OBP .325",
-          "SLG .461"
+          "AVG .255",
+          "OBP .320",
+          "SLG .452"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".260"
+            "value": ".255"
           },
           {
             "label": "OBP",
-            "value": ".325"
+            "value": ".320"
           },
           {
             "label": "SLG",
-            "value": ".461"
+            "value": ".452"
           },
           {
             "label": "HR",
@@ -5694,10 +5694,10 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
           }
         ],
         "components": {
-          "On-base": 24.999999999999993,
-          "Power": 37.10526315789475,
-          "Contact": 25.000000000000007,
-          "Discipline": 13.953488372093023,
+          "On-base": 22.222222222222214,
+          "Power": 34.736842105263165,
+          "Contact": 21.875000000000004,
+          "Discipline": 13.131313131313128,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / N/A",
@@ -5725,29 +5725,29 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 58,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Jack Lausch profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .315",
-          "OBP .401",
-          "SLG .623"
+          "AVG .320",
+          "OBP .403",
+          "SLG .627"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".315"
+            "value": ".320"
           },
           {
             "label": "OBP",
-            "value": ".401"
+            "value": ".403"
           },
           {
             "label": "SLG",
-            "value": ".623"
+            "value": ".627"
           },
           {
             "label": "HR",
@@ -5763,10 +5763,10 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
           }
         ],
         "components": {
-          "On-base": 67.22222222222223,
-          "Power": 79.73684210526316,
-          "Contact": 59.375,
-          "Discipline": 20.861678004535143,
+          "On-base": 68.33333333333333,
+          "Power": 80.78947368421053,
+          "Contact": 62.5,
+          "Discipline": 19.172113289760347,
           "Speed": 23.333333333333332
         },
         "metaLine": "SR / N/A",
@@ -5863,29 +5863,29 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "position": "C",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 6,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Charlie Caruso gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .120",
-          "OBP .290",
-          "SLG .200"
+          "AVG .115",
+          "OBP .281",
+          "SLG .192"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".120"
+            "value": ".115"
           },
           {
             "label": "OBP",
-            "value": ".290"
+            "value": ".281"
           },
           {
             "label": "SLG",
-            "value": ".200"
+            "value": ".192"
           },
           {
             "label": "HR",
@@ -5901,10 +5901,10 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
           }
         ],
         "components": {
-          "On-base": 5.55555555555553,
+          "On-base": 0.5555555555555561,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 27.160493827160487,
+          "Discipline": 22.22222222222222,
           "Speed": 0
         },
         "metaLine": "SO / N/A",
@@ -6001,29 +6001,29 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 43,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ryan Kucherak gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .289",
-          "OBP .372",
-          "SLG .517"
+          "AVG .285",
+          "OBP .371",
+          "SLG .510"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": ".285"
           },
           {
             "label": "OBP",
-            "value": ".372"
+            "value": ".371"
           },
           {
             "label": "SLG",
-            "value": ".517"
+            "value": ".510"
           },
           {
             "label": "HR",
@@ -6039,10 +6039,10 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
           }
         ],
         "components": {
-          "On-base": 51.11111111111109,
-          "Power": 51.8421052631579,
-          "Contact": 43.124999999999986,
-          "Discipline": 24.28940568475452,
+          "On-base": 50.55555555555554,
+          "Power": 50.000000000000014,
+          "Contact": 40.624999999999986,
+          "Discipline": 24.691358024691354,
           "Speed": 23.333333333333332
         },
         "metaLine": "JR / N/A",
@@ -6070,29 +6070,29 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "position": "INF",
         "classYear": "FY",
         "handedness": "N/A",
-        "score": 10,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Noah Brocklebank gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .067",
-          "OBP .300",
-          "SLG .067"
+          "AVG .063",
+          "OBP .286",
+          "SLG .063"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".067"
+            "value": ".063"
           },
           {
             "label": "OBP",
-            "value": ".300"
+            "value": ".286"
           },
           {
             "label": "SLG",
-            "value": ".067"
+            "value": ".063"
           },
           {
             "label": "HR",
@@ -6108,10 +6108,10 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
           }
         ],
         "components": {
-          "On-base": 11.111111111111091,
+          "On-base": 3.3333333333333055,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 47.222222222222214,
+          "Discipline": 39.50617283950617,
           "Speed": 0
         },
         "metaLine": "FY / N/A",
@@ -6139,29 +6139,29 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "position": "INF",
         "classYear": "FY",
         "handedness": "N/A",
-        "score": 39,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jake Yang profiles as a INF piece who gets on base at a high clip.",
+        "summary": "Jake Yang gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .308",
-          "OBP .400",
-          "SLG .346"
+          "AVG .286",
+          "OBP .394",
+          "SLG .321"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".308"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".400"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".346"
+            "value": ".321"
           },
           {
             "label": "HR",
@@ -6177,10 +6177,10 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
           }
         ],
         "components": {
-          "On-base": 66.66666666666666,
-          "Power": 6.842105263157887,
-          "Contact": 54.99999999999999,
-          "Discipline": 44.444444444444436,
+          "On-base": 63.33333333333333,
+          "Power": 0.26315789473684237,
+          "Contact": 41.24999999999998,
+          "Discipline": 51.85185185185184,
           "Speed": 0
         },
         "metaLine": "FY / N/A",
@@ -6422,14 +6422,14 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         },
         "summary": "Christian Forniss gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.36",
+          "ERA 9.82",
           "WHIP 2.05",
           "K/9 7.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.36"
+            "value": "9.82"
           },
           {
             "label": "WHIP",
@@ -6621,29 +6621,29 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "position": "C",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 13,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jay Slater gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .217",
-          "OBP .303",
-          "SLG .406"
+          "AVG .231",
+          "OBP .314",
+          "SLG .426"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".217"
+            "value": ".231"
           },
           {
             "label": "OBP",
-            "value": ".303"
+            "value": ".314"
           },
           {
             "label": "SLG",
-            "value": ".406"
+            "value": ".426"
           },
           {
             "label": "HR",
@@ -6659,9 +6659,9 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
           }
         ],
         "components": {
-          "On-base": 12.77777777777776,
-          "Power": 22.631578947368432,
-          "Contact": 0,
+          "On-base": 18.888888888888875,
+          "Power": 27.89473684210526,
+          "Contact": 6.875000000000006,
           "Discipline": 24.561403508771924,
           "Speed": 0
         },
@@ -6759,48 +6759,48 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 9,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Garrett Shearer gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.04",
-          "WHIP 1.50",
-          "K/9 8.2"
+          "ERA 7.99",
+          "WHIP 1.59",
+          "K/9 8.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.04"
+            "value": "7.99"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.59"
           },
           {
             "label": "K/9",
-            "value": "8.2"
+            "value": "8.5"
           },
           {
             "label": "BB/9",
-            "value": "5.9"
+            "value": "6.1"
           },
           {
             "label": "HR/9",
-            "value": "1.47"
+            "value": "1.65"
           },
           {
             "label": "IP",
-            "value": "30.7"
+            "value": "32.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 38.3399209486166,
-          "Command": 8.000000000000004,
+          "Miss bats": 41.28014842300558,
+          "Command": 8.181818181818183,
           "Damage suppression": 0
         },
         "metaLine": "JR / N/A",
@@ -6828,47 +6828,47 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "position": "LHP/OF",
         "classYear": "FY",
         "handedness": "N/A",
-        "score": 3,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dominic DeLoreto looks like a LHP/OF option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.09",
-          "WHIP 1.89",
-          "K/9 5.4"
+          "ERA 3.46",
+          "WHIP 1.85",
+          "K/9 4.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.09"
+            "value": "3.46"
           },
           {
             "label": "WHIP",
-            "value": "1.89"
+            "value": "1.85"
           },
           {
             "label": "K/9",
-            "value": "5.4"
+            "value": "4.8"
           },
           {
             "label": "BB/9",
-            "value": "6.2"
+            "value": "5.5"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "0.69"
           },
           {
             "label": "IP",
-            "value": "11.7"
+            "value": "13.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 12.727272727272732,
+          "Miss bats": 7.692307692307689,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -6965,29 +6965,29 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 45,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Logan de Groot profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .314",
-          "OBP .422",
-          "SLG .360"
+          "AVG .307",
+          "OBP .419",
+          "SLG .352"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".314"
+            "value": ".307"
           },
           {
             "label": "OBP",
-            "value": ".422"
+            "value": ".419"
           },
           {
             "label": "SLG",
-            "value": ".360"
+            "value": ".352"
           },
           {
             "label": "HR",
@@ -7003,10 +7003,10 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
           }
         ],
         "components": {
-          "On-base": 78.88888888888886,
-          "Power": 10.526315789473681,
-          "Contact": 58.75,
-          "Discipline": 37.962962962962955,
+          "On-base": 77.2222222222222,
+          "Power": 8.421052631578942,
+          "Contact": 54.37499999999999,
+          "Discipline": 40,
           "Speed": 10
         },
         "metaLine": "SO / N/A",
@@ -7245,43 +7245,43 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jake Rifenburg looks like a LHP option who throws enough strikes.",
+        "summary": "Jake Rifenburg gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.18",
-          "WHIP 1.50",
-          "K/9 6.9"
+          "ERA 6.86",
+          "WHIP 1.67",
+          "K/9 7.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.18"
+            "value": "6.86"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.67"
           },
           {
             "label": "K/9",
-            "value": "6.9"
+            "value": "7.1"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
-            "value": "0.69"
+            "value": "0.86"
           },
           {
             "label": "IP",
-            "value": "39.3"
+            "value": "42.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 26.04006163328197,
-          "Command": 26.15384615384616,
+          "Miss bats": 27.92207792207792,
+          "Command": 21.25,
           "Damage suppression": 0
         },
         "metaLine": "FY / N/A",

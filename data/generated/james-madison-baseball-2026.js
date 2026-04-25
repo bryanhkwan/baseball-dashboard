@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.james-madison2026 = {
-  "generatedAt": "2026-04-24T11:33:53.165Z",
+  "generatedAt": "2026-04-25T11:04:33.869Z",
   "season": 2026,
   "school": {
     "slug": "james-madison",
@@ -39,86 +39,86 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
     }
   },
   "teamSummary": {
-    "record": "16-23, 6-12",
-    "battingAverage": ".276",
-    "earnedRunAverage": "7.33",
-    "wins": "16",
+    "record": "17-23, 7-12",
+    "battingAverage": ".280",
+    "earnedRunAverage": "7.22",
+    "wins": "17",
     "losses": "23",
     "hitting": {
-      "atBats": "1256",
-      "runsScored": "239",
-      "hits": "347",
-      "runsBattedIn": "216",
-      "doubles": "67",
+      "atBats": "1297",
+      "runsScored": "250",
+      "hits": "363",
+      "runsBattedIn": "227",
+      "doubles": "71",
       "triples": "10",
-      "homeRuns": "31",
-      "walks": "146",
+      "homeRuns": "34",
+      "walks": "148",
       "intentionalWalks": "4",
-      "strikeouts": "289",
-      "strikeoutsLooking": "61",
+      "strikeouts": "298",
+      "strikeoutsLooking": "64",
       "hitByPitch": "55",
-      "stolenBases": "118",
+      "stolenBases": "123",
       "caughtStealing": "17",
-      "sacrificeHits": "49",
+      "sacrificeHits": "51",
       "sacrificeFlies": "15",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "334",
-      "flyOuts": "319",
+      "groundOuts": "344",
+      "flyOuts": "325",
       "groundedIntoDoublePlay": "17",
       "pickedOff": "7",
       "doublePlaysHitInto": "21",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "994",
-      "assists": "365",
+      "putouts": "1021",
+      "assists": "376",
       "errors": "41",
       "passedBalls": "6",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "69",
+      "stolenBasesAgainst": "70",
       "caughtStealingBy": "19",
-      "involvedInDoublePlays": "22",
+      "involvedInDoublePlays": "24",
       "involvedInTriplePlays": "0",
-      "totalChances": "1400",
+      "totalChances": "1438",
       "fieldingPercentage": ".971"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "16",
-      "saves": "10",
+      "wins": "17",
+      "saves": "11",
       "losses": "23",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "0",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "331.1",
-      "hitsAllowed": "391",
-      "runsAllowed": "299",
-      "earnedRunsAllowed": "270",
-      "walksAllowed": "198",
-      "strikeouts": "306",
-      "battersFaced": "1627",
-      "opponentAtBats": "1317",
-      "doublesAllowed": "77",
+      "inningsPitched": "340.1",
+      "hitsAllowed": "400",
+      "runsAllowed": "302",
+      "earnedRunsAllowed": "273",
+      "walksAllowed": "202",
+      "strikeouts": "312",
+      "battersFaced": "1666",
+      "opponentAtBats": "1349",
+      "doublesAllowed": "79",
       "triplesAllowed": "7",
       "homerunsAllowed": "47",
-      "wildPitches": "38",
+      "wildPitches": "39",
       "balks": "7",
-      "hitBatters": "77",
-      "strikeoutsLooking": "73",
+      "hitBatters": "78",
+      "strikeoutsLooking": "74",
       "intentionalWalks": "4",
-      "inheritedRunners": "47",
+      "inheritedRunners": "51",
       "inheritedRunnersThatScored": "21",
-      "sacrificeHitsAllowed": "23",
-      "sacrificeFliesAllowed": "12",
+      "sacrificeHitsAllowed": "24",
+      "sacrificeFliesAllowed": "13",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6109",
-      "flyouts": "310",
-      "groundouts": "320",
+      "pitches": "6258",
+      "flyouts": "319",
+      "groundouts": "329",
       "teamUnearnedRuns": "0",
-      "saveRecord": "3",
+      "saveRecord": "4",
       "pickoff": "11"
     }
   },
@@ -161,33 +161,33 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "jersey": "1",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/reece-moody/23791",
         "imageUrl": "https://jmusports.com/images/2025/12/9/moody-reece-26-2.png",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "battingAverage": 0.314,
-        "onBasePercentage": 0.407,
-        "sluggingPercentage": 0.436,
-        "ops": 0.843,
-        "atBats": 140,
-        "runs": 28,
-        "hits": 44,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "battingAverage": 0.31,
+        "onBasePercentage": 0.401,
+        "sluggingPercentage": 0.428,
+        "ops": 0.829,
+        "atBats": 145,
+        "runs": 29,
+        "hits": 45,
         "doubles": 7,
         "triples": 2,
         "homeRuns": 2,
         "runsBattedIn": 25,
-        "totalBases": 61,
+        "totalBases": 62,
         "walks": 15,
         "hitByPitch": 9,
-        "strikeouts": 18,
+        "strikeouts": 19,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 3,
         "sacrificeHits": 6,
         "stolenBases": 29,
         "stolenBasesAttempts": 31,
-        "putouts": 71,
-        "assists": 80,
+        "putouts": 74,
+        "assists": 84,
         "errors": 4,
-        "plateAppearances": 206,
+        "plateAppearances": 211,
         "caughtStealing": 2,
         "pickedOff": 2
       },
@@ -199,51 +199,51 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "jersey": "1",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/reece-moody/23791",
         "imageUrl": "https://jmusports.com/images/2025/12/9/moody-reece-26-2.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "putouts": 71,
-        "assists": 80,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "putouts": 74,
+        "assists": 84,
         "errors": 4,
-        "fieldingPercentage": 0.974,
-        "doublePlays": 16,
+        "fieldingPercentage": 0.975,
+        "doublePlays": 18,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 155
+        "totalChances": 162
       },
       "evaluation": {
-        "score": 61,
+        "score": 58,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 70.55555555555553,
-          "Power": 30.526315789473685,
-          "Contact": 58.75,
-          "Discipline": 70.37037037037037,
+          "On-base": 67.22222222222223,
+          "Power": 28.421052631578945,
+          "Contact": 56.25,
+          "Discipline": 65.49707602339181,
           "Speed": 96.66666666666667
         },
         "summary": "Reece Moody profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .314",
-          "OBP .407",
-          "SLG .436"
+          "AVG .310",
+          "OBP .401",
+          "SLG .428"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".314"
+            "value": ".310"
           },
           {
             "label": "OBP",
-            "value": ".407"
+            "value": ".401"
           },
           {
             "label": "SLG",
-            "value": ".436"
+            "value": ".428"
           },
           {
             "label": "HR",
@@ -306,33 +306,33 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "jersey": "2",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/kyle-langley/23787",
         "imageUrl": "https://jmusports.com/images/2025/12/9/longley-kyle-26-2.png",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "battingAverage": 0.331,
-        "onBasePercentage": 0.409,
-        "sluggingPercentage": 0.459,
-        "ops": 0.868,
-        "atBats": 148,
-        "runs": 33,
-        "hits": 49,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "battingAverage": 0.329,
+        "onBasePercentage": 0.406,
+        "sluggingPercentage": 0.454,
+        "ops": 0.86,
+        "atBats": 152,
+        "runs": 34,
+        "hits": 50,
         "doubles": 6,
         "triples": 2,
         "homeRuns": 3,
         "runsBattedIn": 28,
-        "totalBases": 68,
+        "totalBases": 69,
         "walks": 17,
         "hitByPitch": 4,
-        "strikeouts": 28,
+        "strikeouts": 30,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
-        "sacrificeHits": 9,
+        "sacrificeHits": 10,
         "stolenBases": 13,
         "stolenBasesAttempts": 14,
         "putouts": 72,
         "assists": 3,
         "errors": 1,
-        "plateAppearances": 195,
+        "plateAppearances": 200,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -359,36 +359,36 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "totalChances": 76
       },
       "evaluation": {
-        "score": 56,
+        "score": 54,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 71.66666666666664,
-          "Power": 36.57894736842106,
-          "Contact": 69.37500000000001,
-          "Discipline": 45.23809523809523,
+          "On-base": 70,
+          "Power": 35.26315789473685,
+          "Contact": 68.125,
+          "Discipline": 40.74074074074073,
           "Speed": 43.333333333333336
         },
         "summary": "Kyle Langley profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .331",
-          "OBP .409",
-          "SLG .459"
+          "AVG .329",
+          "OBP .406",
+          "SLG .454"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".331"
+            "value": ".329"
           },
           {
             "label": "OBP",
-            "value": ".409"
+            "value": ".406"
           },
           {
             "label": "SLG",
-            "value": ".459"
+            "value": ".454"
           },
           {
             "label": "HR",
@@ -451,69 +451,69 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "jersey": "3",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/cameron-aycock/23797",
         "imageUrl": "https://jmusports.com/images/2025/12/9/ayecock-cameron-26-2.png",
-        "gamesPlayed": 32,
-        "gamesStarted": 21,
-        "battingAverage": 0.33,
-        "onBasePercentage": 0.372,
-        "sluggingPercentage": 0.42,
-        "ops": 0.792,
-        "atBats": 88,
+        "gamesPlayed": 33,
+        "gamesStarted": 22,
+        "battingAverage": 0.337,
+        "onBasePercentage": 0.384,
+        "sluggingPercentage": 0.435,
+        "ops": 0.819,
+        "atBats": 92,
         "runs": 16,
-        "hits": 29,
-        "doubles": 4,
+        "hits": 31,
+        "doubles": 5,
         "triples": 2,
         "homeRuns": 0,
-        "runsBattedIn": 6,
-        "totalBases": 37,
-        "walks": 5,
+        "runsBattedIn": 8,
+        "totalBases": 40,
+        "walks": 6,
         "hitByPitch": 1,
         "strikeouts": 20,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
-        "stolenBases": 12,
-        "stolenBasesAttempts": 14,
+        "stolenBases": 14,
+        "stolenBasesAttempts": 16,
         "putouts": 0,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 110,
+        "plateAppearances": 117,
         "caughtStealing": 2,
         "pickedOff": 0
       },
       "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
-        "score": 40,
+        "score": 46,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 51.11111111111109,
-          "Power": 26.31578947368421,
-          "Contact": 68.75000000000001,
-          "Discipline": 5.555555555555554,
-          "Speed": 40
+          "On-base": 57.77777777777777,
+          "Power": 30.263157894736842,
+          "Contact": 73.125,
+          "Discipline": 11.111111111111107,
+          "Speed": 46.666666666666664
         },
         "summary": "Cameron Aycock profiles as a UT piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .330",
-          "OBP .372",
-          "SLG .420"
+          "AVG .337",
+          "OBP .384",
+          "SLG .435"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".330"
+            "value": ".337"
           },
           {
             "label": "OBP",
-            "value": ".372"
+            "value": ".384"
           },
           {
             "label": "SLG",
-            "value": ".420"
+            "value": ".435"
           },
           {
             "label": "HR",
@@ -521,11 +521,11 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
           },
           {
             "label": "RBI",
-            "value": "6"
+            "value": "8"
           },
           {
             "label": "SB",
-            "value": "12"
+            "value": "14"
           }
         ],
         "metaLine": "FR / L/R",
@@ -718,20 +718,20 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "jersey": "5",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/wyatt-campbell/23800",
         "imageUrl": "https://jmusports.com/images/2025/12/9/campbell-wyatt-3.png",
-        "gamesPlayed": 37,
-        "gamesStarted": 34,
-        "battingAverage": 0.213,
-        "onBasePercentage": 0.361,
-        "sluggingPercentage": 0.426,
-        "ops": 0.787,
-        "atBats": 108,
-        "runs": 20,
-        "hits": 23,
+        "gamesPlayed": 38,
+        "gamesStarted": 35,
+        "battingAverage": 0.23,
+        "onBasePercentage": 0.37,
+        "sluggingPercentage": 0.46,
+        "ops": 0.83,
+        "atBats": 113,
+        "runs": 22,
+        "hits": 26,
         "doubles": 3,
         "triples": 1,
-        "homeRuns": 6,
-        "runsBattedIn": 19,
-        "totalBases": 46,
+        "homeRuns": 7,
+        "runsBattedIn": 21,
+        "totalBases": 52,
         "walks": 20,
         "hitByPitch": 5,
         "strikeouts": 32,
@@ -741,10 +741,10 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "sacrificeHits": 0,
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
-        "putouts": 232,
+        "putouts": 240,
         "assists": 18,
         "errors": 3,
-        "plateAppearances": 139,
+        "plateAppearances": 144,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -756,59 +756,59 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "jersey": "5",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/wyatt-campbell/23800",
         "imageUrl": "https://jmusports.com/images/2025/12/9/campbell-wyatt-3.png",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "putouts": 232,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "putouts": 240,
         "assists": 18,
         "errors": 3,
-        "fieldingPercentage": 0.988,
-        "doublePlays": 20,
+        "fieldingPercentage": 0.989,
+        "doublePlays": 22,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 253
+        "totalChances": 261
       },
       "evaluation": {
-        "score": 30,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 44.99999999999998,
-          "Power": 27.89473684210526,
-          "Contact": 0,
+          "On-base": 49.999999999999986,
+          "Power": 36.842105263157904,
+          "Contact": 6.250000000000005,
           "Discipline": 47.222222222222214,
           "Speed": 20
         },
         "summary": "Wyatt Campbell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .213",
-          "OBP .361",
-          "SLG .426"
+          "AVG .230",
+          "OBP .370",
+          "SLG .460"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".213"
+            "value": ".230"
           },
           {
             "label": "OBP",
-            "value": ".361"
+            "value": ".370"
           },
           {
             "label": "SLG",
-            "value": ".426"
+            "value": ".460"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "7"
           },
           {
             "label": "RBI",
-            "value": "19"
+            "value": "21"
           },
           {
             "label": "SB",
@@ -1562,33 +1562,33 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "jersey": "11",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/ryan-gocio/23804",
         "imageUrl": "https://jmusports.com/images/2025/12/9/gocio-ryan-26-2.png",
-        "gamesPlayed": 24,
-        "gamesStarted": 20,
-        "battingAverage": 0.321,
-        "onBasePercentage": 0.473,
-        "sluggingPercentage": 0.357,
-        "ops": 0.83,
-        "atBats": 56,
-        "runs": 13,
-        "hits": 18,
+        "gamesPlayed": 25,
+        "gamesStarted": 21,
+        "battingAverage": 0.311,
+        "onBasePercentage": 0.456,
+        "sluggingPercentage": 0.344,
+        "ops": 0.8,
+        "atBats": 61,
+        "runs": 14,
+        "hits": 19,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 9,
-        "totalBases": 20,
+        "totalBases": 21,
         "walks": 15,
         "hitByPitch": 2,
-        "strikeouts": 8,
+        "strikeouts": 10,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
         "sacrificeHits": 2,
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
-        "putouts": 149,
+        "putouts": 155,
         "assists": 18,
         "errors": 4,
-        "plateAppearances": 81,
+        "plateAppearances": 86,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1600,51 +1600,51 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "jersey": "11",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/ryan-gocio/23804",
         "imageUrl": "https://jmusports.com/images/2025/12/9/gocio-ryan-26-2.png",
-        "gamesPlayed": 24,
-        "gamesStarted": 20,
-        "putouts": 149,
+        "gamesPlayed": 25,
+        "gamesStarted": 21,
+        "putouts": 155,
         "assists": 18,
         "errors": 4,
         "fieldingPercentage": 0.977,
         "doublePlays": 0,
-        "stolenBasesAgainst": 49,
+        "stolenBasesAgainst": 50,
         "caughtStealingBy": 10,
-        "stolenBasesPercentage": 0.831,
+        "stolenBasesPercentage": 0.833,
         "passedBalls": 5,
         "catchersInterference": 0,
-        "totalChances": 171
+        "totalChances": 177
       },
       "evaluation": {
-        "score": 61,
+        "score": 58,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 100,
-          "Power": 9.736842105263154,
-          "Contact": 63.125,
+          "On-base": 97.77777777777777,
+          "Power": 6.315789473684203,
+          "Contact": 56.875,
           "Discipline": 100,
           "Speed": 10
         },
         "summary": "Ryan Gocio profiles as a C piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .321",
-          "OBP .473",
-          "SLG .357"
+          "AVG .311",
+          "OBP .456",
+          "SLG .344"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".321"
+            "value": ".311"
           },
           {
             "label": "OBP",
-            "value": ".473"
+            "value": ".456"
           },
           {
             "label": "SLG",
-            "value": ".357"
+            "value": ".344"
           },
           {
             "label": "HR",
@@ -1849,33 +1849,33 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "jersey": "13",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/will-haacke/23806",
         "imageUrl": "https://jmusports.com/images/2025/12/9/haacke-will-26-2.png",
-        "gamesPlayed": 21,
-        "gamesStarted": 9,
-        "battingAverage": 0.167,
-        "onBasePercentage": 0.342,
-        "sluggingPercentage": 0.2,
-        "ops": 0.542,
-        "atBats": 30,
-        "runs": 11,
-        "hits": 5,
-        "doubles": 1,
+        "gamesPlayed": 22,
+        "gamesStarted": 10,
+        "battingAverage": 0.171,
+        "onBasePercentage": 0.326,
+        "sluggingPercentage": 0.229,
+        "ops": 0.555,
+        "atBats": 35,
+        "runs": 12,
+        "hits": 6,
+        "doubles": 2,
         "triples": 0,
         "homeRuns": 0,
-        "runsBattedIn": 1,
-        "totalBases": 6,
+        "runsBattedIn": 2,
+        "totalBases": 8,
         "walks": 5,
         "hitByPitch": 3,
-        "strikeouts": 12,
+        "strikeouts": 13,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 8,
+        "putouts": 10,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 42,
+        "plateAppearances": 47,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1887,51 +1887,51 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "jersey": "13",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/will-haacke/23806",
         "imageUrl": "https://jmusports.com/images/2025/12/9/haacke-will-26-2.png",
-        "gamesPlayed": 7,
-        "gamesStarted": 4,
-        "putouts": 8,
+        "gamesPlayed": 8,
+        "gamesStarted": 5,
+        "putouts": 10,
         "assists": 0,
         "errors": 1,
-        "fieldingPercentage": 0.889,
+        "fieldingPercentage": 0.909,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 9
+        "totalChances": 11
       },
       "evaluation": {
-        "score": 15,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 34.44444444444444,
+          "On-base": 25.555555555555546,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 24.07407407407407,
+          "Discipline": 20.51282051282051,
           "Speed": 10
         },
         "summary": "Will Haacke gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .167",
-          "OBP .342",
-          "SLG .200"
+          "AVG .171",
+          "OBP .326",
+          "SLG .229"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".167"
+            "value": ".171"
           },
           {
             "label": "OBP",
-            "value": ".342"
+            "value": ".326"
           },
           {
             "label": "SLG",
-            "value": ".200"
+            "value": ".229"
           },
           {
             "label": "HR",
@@ -1939,7 +1939,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
           },
           {
             "label": "RBI",
-            "value": "1"
+            "value": "2"
           },
           {
             "label": "SB",
@@ -1994,14 +1994,14 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "jersey": "14",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/conner-worth/23815",
         "imageUrl": "https://jmusports.com/images/2025/12/9/worth-conner-26-2.png",
-        "gamesPlayed": 21,
+        "gamesPlayed": 22,
         "gamesStarted": 8,
         "battingAverage": 0.091,
         "onBasePercentage": 0.143,
         "sluggingPercentage": 0.121,
         "ops": 0.264,
         "atBats": 33,
-        "runs": 1,
+        "runs": 2,
         "hits": 3,
         "doubles": 1,
         "triples": 0,
@@ -2406,33 +2406,33 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "jersey": "18",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/jack-anderson/23778",
         "imageUrl": "https://jmusports.com/images/2025/12/9/anderson-jack-26-2.png",
-        "gamesPlayed": 26,
-        "gamesStarted": 22,
-        "battingAverage": 0.189,
-        "onBasePercentage": 0.274,
-        "sluggingPercentage": 0.257,
-        "ops": 0.531,
-        "atBats": 74,
-        "runs": 10,
-        "hits": 14,
+        "gamesPlayed": 27,
+        "gamesStarted": 23,
+        "battingAverage": 0.218,
+        "onBasePercentage": 0.303,
+        "sluggingPercentage": 0.282,
+        "ops": 0.585,
+        "atBats": 78,
+        "runs": 11,
+        "hits": 17,
         "doubles": 3,
         "triples": 1,
         "homeRuns": 0,
-        "runsBattedIn": 9,
-        "totalBases": 19,
-        "walks": 2,
+        "runsBattedIn": 10,
+        "totalBases": 22,
+        "walks": 3,
         "hitByPitch": 7,
         "strikeouts": 21,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 1,
         "sacrificeHits": 6,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 29,
-        "assists": 61,
+        "stolenBases": 4,
+        "stolenBasesAttempts": 4,
+        "putouts": 31,
+        "assists": 66,
         "errors": 5,
-        "plateAppearances": 91,
+        "plateAppearances": 99,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2444,51 +2444,51 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "jersey": "18",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/jack-anderson/23778",
         "imageUrl": "https://jmusports.com/images/2025/12/9/anderson-jack-26-2.png",
-        "gamesPlayed": 25,
-        "gamesStarted": 22,
-        "putouts": 29,
-        "assists": 61,
+        "gamesPlayed": 26,
+        "gamesStarted": 23,
+        "putouts": 31,
+        "assists": 66,
         "errors": 5,
-        "fieldingPercentage": 0.947,
-        "doublePlays": 10,
+        "fieldingPercentage": 0.951,
+        "doublePlays": 12,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 95
+        "totalChances": 102
       },
       "evaluation": {
-        "score": 0,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 0,
+          "On-base": 12.77777777777776,
           "Power": 0,
           "Contact": 0,
           "Discipline": 0,
-          "Speed": 3.3333333333333335
+          "Speed": 13.333333333333334
         },
         "summary": "Jack Anderson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .189",
-          "OBP .274",
-          "SLG .257"
+          "AVG .218",
+          "OBP .303",
+          "SLG .282"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".189"
+            "value": ".218"
           },
           {
             "label": "OBP",
-            "value": ".274"
+            "value": ".303"
           },
           {
             "label": "SLG",
-            "value": ".257"
+            "value": ".282"
           },
           {
             "label": "HR",
@@ -2496,11 +2496,11 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
           },
           {
             "label": "RBI",
-            "value": "9"
+            "value": "10"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "4"
           }
         ],
         "metaLine": "SO / R/R",
@@ -2552,32 +2552,32 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "jersey": "20",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/jonathan-strohecker/23813",
         "imageUrl": "https://jmusports.com/images/2025/12/9/strohecker-jonathan-26-2.png",
-        "gamesPlayed": 6,
-        "gamesStarted": 0,
-        "appearances": 6,
+        "gamesPlayed": 7,
+        "gamesStarted": 1,
+        "appearances": 7,
         "gamesCompleted": 0,
-        "earnedRunAverage": 20.25,
-        "whip": 4.5,
+        "earnedRunAverage": 14.85,
+        "whip": 3.6,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 4,
-        "inningsPitchedDisplay": "4.0",
-        "hitsAllowed": 12,
-        "runsAllowed": 15,
-        "earnedRunsAllowed": 9,
-        "walksAllowed": 6,
-        "strikeouts": 4,
-        "doublesAllowed": 4,
+        "inningsPitched": 6.666666666666667,
+        "inningsPitchedDisplay": "6.2",
+        "hitsAllowed": 14,
+        "runsAllowed": 17,
+        "earnedRunsAllowed": 11,
+        "walksAllowed": 10,
+        "strikeouts": 5,
+        "doublesAllowed": 5,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 24,
+        "opponentsAtBats": 31,
         "wildPitches": 3,
-        "hitBatters": 3,
+        "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.5,
-        "walksHits": 18
+        "opponentsBattingAverage": 0.452,
+        "walksHits": 24
       },
       "fieldingStats": {
         "rosterBioId": "23813",
@@ -2601,7 +2601,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "totalChances": 0
       },
       "evaluation": {
-        "score": 9,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2609,28 +2609,28 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
+          "Miss bats": 25,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Jonathan Strohecker looks like a RHP option who misses bats.",
+        "summary": "Jonathan Strohecker gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 20.25",
-          "WHIP 4.50",
-          "K/9 9.0"
+          "ERA 14.85",
+          "WHIP 3.60",
+          "K/9 6.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "20.25"
+            "value": "14.85"
           },
           {
             "label": "WHIP",
-            "value": "4.50"
+            "value": "3.60"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "6.8"
           },
           {
             "label": "BB/9",
@@ -2638,11 +2638,11 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
           },
           {
             "label": "HR/9",
-            "value": "2.25"
+            "value": "1.35"
           },
           {
             "label": "IP",
-            "value": "4.0"
+            "value": "6.7"
           }
         ],
         "metaLine": "FR / R/R",
@@ -2960,33 +2960,33 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "jersey": "24",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/jack-guerrero/23783",
         "imageUrl": "https://jmusports.com/images/2025/12/9/guerrero-jack-26-2.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 30,
-        "battingAverage": 0.274,
-        "onBasePercentage": 0.333,
-        "sluggingPercentage": 0.402,
-        "ops": 0.735,
-        "atBats": 117,
+        "gamesPlayed": 37,
+        "gamesStarted": 31,
+        "battingAverage": 0.273,
+        "onBasePercentage": 0.331,
+        "sluggingPercentage": 0.405,
+        "ops": 0.736,
+        "atBats": 121,
         "runs": 18,
-        "hits": 32,
-        "doubles": 9,
+        "hits": 33,
+        "doubles": 10,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 18,
-        "totalBases": 47,
+        "totalBases": 49,
         "walks": 9,
         "hitByPitch": 2,
-        "strikeouts": 22,
+        "strikeouts": 23,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
-        "sacrificeHits": 6,
+        "sacrificeHits": 7,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 18,
-        "assists": 42,
+        "putouts": 19,
+        "assists": 44,
         "errors": 2,
-        "plateAppearances": 136,
+        "plateAppearances": 141,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -2998,51 +2998,51 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "jersey": "24",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/jack-guerrero/23783",
         "imageUrl": "https://jmusports.com/images/2025/12/9/guerrero-jack-26-2.png",
-        "gamesPlayed": 27,
-        "gamesStarted": 27,
-        "putouts": 18,
-        "assists": 42,
+        "gamesPlayed": 28,
+        "gamesStarted": 28,
+        "putouts": 19,
+        "assists": 44,
         "errors": 2,
-        "fieldingPercentage": 0.968,
+        "fieldingPercentage": 0.969,
         "doublePlays": 2,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 62
+        "totalChances": 65
       },
       "evaluation": {
-        "score": 25,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 29.44444444444444,
-          "Power": 21.578947368421062,
-          "Contact": 33.750000000000014,
-          "Discipline": 23.23232323232323,
+          "On-base": 28.33333333333333,
+          "Power": 22.368421052631586,
+          "Contact": 33.12500000000001,
+          "Discipline": 21.256038647342994,
           "Speed": 3.3333333333333335
         },
         "summary": "Jack Guerrero gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .274",
-          "OBP .333",
-          "SLG .402"
+          "AVG .273",
+          "OBP .331",
+          "SLG .405"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".274"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".331"
           },
           {
             "label": "SLG",
-            "value": ".402"
+            "value": ".405"
           },
           {
             "label": "HR",
@@ -3373,32 +3373,32 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "jersey": "28",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/jaden-kinsler/23785",
         "imageUrl": "https://jmusports.com/images/2025/12/9/kinsler-jaden-26-2.png",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 1,
-        "appearances": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.52,
-        "whip": 1.36,
+        "earnedRunAverage": 5.23,
+        "whip": 1.32,
         "wins": 4,
         "losses": 1,
-        "saves": 0,
+        "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 29.333333333333332,
-        "inningsPitchedDisplay": "29.1",
-        "hitsAllowed": 26,
-        "runsAllowed": 19,
-        "earnedRunsAllowed": 18,
+        "inningsPitched": 32.666666666666664,
+        "inningsPitchedDisplay": "32.2",
+        "hitsAllowed": 29,
+        "runsAllowed": 20,
+        "earnedRunsAllowed": 19,
         "walksAllowed": 14,
-        "strikeouts": 32,
+        "strikeouts": 36,
         "doublesAllowed": 5,
         "triplesAllowed": 1,
         "homeRunsAllowed": 6,
-        "opponentsAtBats": 107,
-        "wildPitches": 4,
+        "opponentsAtBats": 120,
+        "wildPitches": 5,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.243,
-        "walksHits": 40
+        "opponentsBattingAverage": 0.242,
+        "walksHits": 43
       },
       "fieldingStats": {
         "rosterBioId": "23785",
@@ -3422,7 +3422,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "totalChances": 10
       },
       "evaluation": {
-        "score": 15,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3430,40 +3430,40 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 52.892561983471076,
-          "Command": 25.71428571428571,
+          "Miss bats": 53.80333951762524,
+          "Command": 31.428571428571434,
           "Damage suppression": 0
         },
         "summary": "Jaden Kinsler looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.52",
-          "WHIP 1.36",
-          "K/9 9.8"
+          "ERA 5.23",
+          "WHIP 1.32",
+          "K/9 9.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.52"
+            "value": "5.23"
           },
           {
             "label": "WHIP",
-            "value": "1.36"
+            "value": "1.32"
           },
           {
             "label": "K/9",
-            "value": "9.8"
+            "value": "9.9"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "3.9"
           },
           {
             "label": "HR/9",
-            "value": "1.84"
+            "value": "1.65"
           },
           {
             "label": "IP",
-            "value": "29.3"
+            "value": "32.7"
           }
         ],
         "metaLine": "SR / L/L",
@@ -4366,33 +4366,33 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "jersey": "37",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/ike-schmidly/23794",
         "imageUrl": "https://jmusports.com/images/2025/12/9/schmidly-ike-26-2.png",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "battingAverage": 0.266,
-        "onBasePercentage": 0.35,
-        "sluggingPercentage": 0.46,
-        "ops": 0.81,
-        "atBats": 139,
-        "runs": 24,
-        "hits": 37,
-        "doubles": 7,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "battingAverage": 0.278,
+        "onBasePercentage": 0.358,
+        "sluggingPercentage": 0.514,
+        "ops": 0.872,
+        "atBats": 144,
+        "runs": 27,
+        "hits": 40,
+        "doubles": 8,
         "triples": 1,
-        "homeRuns": 6,
-        "runsBattedIn": 27,
-        "totalBases": 64,
+        "homeRuns": 8,
+        "runsBattedIn": 32,
+        "totalBases": 74,
         "walks": 16,
         "hitByPitch": 3,
-        "strikeouts": 44,
+        "strikeouts": 46,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
         "sacrificeHits": 3,
         "stolenBases": 12,
         "stolenBasesAttempts": 16,
-        "putouts": 64,
+        "putouts": 69,
         "assists": 1,
         "errors": 0,
-        "plateAppearances": 183,
+        "plateAppearances": 188,
         "caughtStealing": 4,
         "pickedOff": 1
       },
@@ -4404,9 +4404,9 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "jersey": "37",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/ike-schmidly/23794",
         "imageUrl": "https://jmusports.com/images/2025/12/9/schmidly-ike-26-2.png",
-        "gamesPlayed": 28,
-        "gamesStarted": 28,
-        "putouts": 64,
+        "gamesPlayed": 29,
+        "gamesStarted": 29,
+        "putouts": 69,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -4416,47 +4416,47 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 65
+        "totalChances": 70
       },
       "evaluation": {
-        "score": 34,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 38.888888888888864,
-          "Power": 36.842105263157904,
-          "Contact": 28.750000000000007,
-          "Discipline": 18.18181818181818,
+          "On-base": 43.333333333333314,
+          "Power": 51.05263157894737,
+          "Contact": 36.250000000000014,
+          "Discipline": 16.425120772946855,
           "Speed": 40
         },
         "summary": "Ike Schmidly profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .266",
-          "OBP .350",
-          "SLG .460"
+          "AVG .278",
+          "OBP .358",
+          "SLG .514"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".266"
+            "value": ".278"
           },
           {
             "label": "OBP",
-            "value": ".350"
+            "value": ".358"
           },
           {
             "label": "SLG",
-            "value": ".460"
+            "value": ".514"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "32"
           },
           {
             "label": "SB",
@@ -4941,32 +4941,32 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "jersey": "43",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/holden-mckinney/23790",
         "imageUrl": "https://jmusports.com/images/2025/12/9/mckinney-holden-26-2.png",
-        "gamesPlayed": 16,
+        "gamesPlayed": 17,
         "gamesStarted": 2,
-        "appearances": 16,
+        "appearances": 17,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.57,
-        "whip": 1.54,
-        "wins": 0,
+        "earnedRunAverage": 6.82,
+        "whip": 1.52,
+        "wins": 1,
         "losses": 2,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 27.333333333333332,
-        "inningsPitchedDisplay": "27.1",
-        "hitsAllowed": 33,
+        "inningsPitched": 30.333333333333332,
+        "inningsPitchedDisplay": "30.1",
+        "hitsAllowed": 37,
         "runsAllowed": 26,
         "earnedRunsAllowed": 23,
         "walksAllowed": 9,
-        "strikeouts": 23,
-        "doublesAllowed": 8,
+        "strikeouts": 24,
+        "doublesAllowed": 9,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 112,
+        "opponentsAtBats": 124,
         "wildPitches": 3,
         "hitBatters": 7,
         "balks": 0,
-        "opponentsBattingAverage": 0.295,
-        "walksHits": 42
+        "opponentsBattingAverage": 0.298,
+        "walksHits": 46
       },
       "fieldingStats": {
         "rosterBioId": "23790",
@@ -4998,40 +4998,40 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 32.48337028824834,
-          "Command": 31.111111111111118,
+          "Miss bats": 28.371628371628375,
+          "Command": 33.33333333333333,
           "Damage suppression": 0
         },
         "summary": "Holden McKinney looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 7.57",
-          "WHIP 1.54",
-          "K/9 7.6"
+          "ERA 6.82",
+          "WHIP 1.52",
+          "K/9 7.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.57"
+            "value": "6.82"
           },
           {
             "label": "WHIP",
-            "value": "1.54"
+            "value": "1.52"
           },
           {
             "label": "K/9",
-            "value": "7.6"
+            "value": "7.1"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "2.7"
           },
           {
             "label": "HR/9",
-            "value": "0.66"
+            "value": "0.59"
           },
           {
             "label": "IP",
-            "value": "27.3"
+            "value": "30.3"
           }
         ],
         "metaLine": "R-SO / R/R",
@@ -5349,29 +5349,29 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 61,
+        "score": 58,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Reece Moody profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .314",
-          "OBP .407",
-          "SLG .436"
+          "AVG .310",
+          "OBP .401",
+          "SLG .428"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".314"
+            "value": ".310"
           },
           {
             "label": "OBP",
-            "value": ".407"
+            "value": ".401"
           },
           {
             "label": "SLG",
-            "value": ".436"
+            "value": ".428"
           },
           {
             "label": "HR",
@@ -5387,10 +5387,10 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
           }
         ],
         "components": {
-          "On-base": 70.55555555555553,
-          "Power": 30.526315789473685,
-          "Contact": 58.75,
-          "Discipline": 70.37037037037037,
+          "On-base": 67.22222222222223,
+          "Power": 28.421052631578945,
+          "Contact": 56.25,
+          "Discipline": 65.49707602339181,
           "Speed": 96.66666666666667
         },
         "metaLine": "SO / R/R",
@@ -5418,29 +5418,29 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 56,
+        "score": 54,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "summary": "Kyle Langley profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .331",
-          "OBP .409",
-          "SLG .459"
+          "AVG .329",
+          "OBP .406",
+          "SLG .454"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".331"
+            "value": ".329"
           },
           {
             "label": "OBP",
-            "value": ".409"
+            "value": ".406"
           },
           {
             "label": "SLG",
-            "value": ".459"
+            "value": ".454"
           },
           {
             "label": "HR",
@@ -5456,10 +5456,10 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
           }
         ],
         "components": {
-          "On-base": 71.66666666666664,
-          "Power": 36.57894736842106,
-          "Contact": 69.37500000000001,
-          "Discipline": 45.23809523809523,
+          "On-base": 70,
+          "Power": 35.26315789473685,
+          "Contact": 68.125,
+          "Discipline": 40.74074074074073,
           "Speed": 43.333333333333336
         },
         "metaLine": "JR / L/L",
@@ -5487,29 +5487,29 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "position": "UT",
         "classYear": "FR",
         "handedness": "L/R",
-        "score": 40,
+        "score": 46,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cameron Aycock profiles as a UT piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .330",
-          "OBP .372",
-          "SLG .420"
+          "AVG .337",
+          "OBP .384",
+          "SLG .435"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".330"
+            "value": ".337"
           },
           {
             "label": "OBP",
-            "value": ".372"
+            "value": ".384"
           },
           {
             "label": "SLG",
-            "value": ".420"
+            "value": ".435"
           },
           {
             "label": "HR",
@@ -5517,19 +5517,19 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
           },
           {
             "label": "RBI",
-            "value": "6"
+            "value": "8"
           },
           {
             "label": "SB",
-            "value": "12"
+            "value": "14"
           }
         ],
         "components": {
-          "On-base": 51.11111111111109,
-          "Power": 26.31578947368421,
-          "Contact": 68.75000000000001,
-          "Discipline": 5.555555555555554,
-          "Speed": 40
+          "On-base": 57.77777777777777,
+          "Power": 30.263157894736842,
+          "Contact": 73.125,
+          "Discipline": 11.111111111111107,
+          "Speed": 46.666666666666664
         },
         "metaLine": "FR / L/R",
         "detailBadges": [
@@ -5625,37 +5625,37 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "position": "1B",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 30,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Wyatt Campbell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .213",
-          "OBP .361",
-          "SLG .426"
+          "AVG .230",
+          "OBP .370",
+          "SLG .460"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".213"
+            "value": ".230"
           },
           {
             "label": "OBP",
-            "value": ".361"
+            "value": ".370"
           },
           {
             "label": "SLG",
-            "value": ".426"
+            "value": ".460"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "7"
           },
           {
             "label": "RBI",
-            "value": "19"
+            "value": "21"
           },
           {
             "label": "SB",
@@ -5663,9 +5663,9 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
           }
         ],
         "components": {
-          "On-base": 44.99999999999998,
-          "Power": 27.89473684210526,
-          "Contact": 0,
+          "On-base": 49.999999999999986,
+          "Power": 36.842105263157904,
+          "Contact": 6.250000000000005,
           "Discipline": 47.222222222222214,
           "Speed": 20
         },
@@ -6039,29 +6039,29 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "position": "C",
         "classYear": "FR",
         "handedness": "L/R",
-        "score": 61,
+        "score": 58,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Ryan Gocio profiles as a C piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .321",
-          "OBP .473",
-          "SLG .357"
+          "AVG .311",
+          "OBP .456",
+          "SLG .344"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".321"
+            "value": ".311"
           },
           {
             "label": "OBP",
-            "value": ".473"
+            "value": ".456"
           },
           {
             "label": "SLG",
-            "value": ".357"
+            "value": ".344"
           },
           {
             "label": "HR",
@@ -6077,9 +6077,9 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
           }
         ],
         "components": {
-          "On-base": 100,
-          "Power": 9.736842105263154,
-          "Contact": 63.125,
+          "On-base": 97.77777777777777,
+          "Power": 6.315789473684203,
+          "Contact": 56.875,
           "Discipline": 100,
           "Speed": 10
         },
@@ -6177,29 +6177,29 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "position": "OF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 15,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Will Haacke gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .167",
-          "OBP .342",
-          "SLG .200"
+          "AVG .171",
+          "OBP .326",
+          "SLG .229"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".167"
+            "value": ".171"
           },
           {
             "label": "OBP",
-            "value": ".342"
+            "value": ".326"
           },
           {
             "label": "SLG",
-            "value": ".200"
+            "value": ".229"
           },
           {
             "label": "HR",
@@ -6207,7 +6207,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
           },
           {
             "label": "RBI",
-            "value": "1"
+            "value": "2"
           },
           {
             "label": "SB",
@@ -6215,10 +6215,10 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
           }
         ],
         "components": {
-          "On-base": 34.44444444444444,
+          "On-base": 25.555555555555546,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 24.07407407407407,
+          "Discipline": 20.51282051282051,
           "Speed": 10
         },
         "metaLine": "FR / R/R",
@@ -6453,29 +6453,29 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 0,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Anderson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .189",
-          "OBP .274",
-          "SLG .257"
+          "AVG .218",
+          "OBP .303",
+          "SLG .282"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".189"
+            "value": ".218"
           },
           {
             "label": "OBP",
-            "value": ".274"
+            "value": ".303"
           },
           {
             "label": "SLG",
-            "value": ".257"
+            "value": ".282"
           },
           {
             "label": "HR",
@@ -6483,19 +6483,19 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
           },
           {
             "label": "RBI",
-            "value": "9"
+            "value": "10"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "4"
           }
         ],
         "components": {
-          "On-base": 0,
+          "On-base": 12.77777777777776,
           "Power": 0,
           "Contact": 0,
           "Discipline": 0,
-          "Speed": 3.3333333333333335
+          "Speed": 13.333333333333334
         },
         "metaLine": "SO / R/R",
         "detailBadges": [
@@ -6522,29 +6522,29 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 9,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jonathan Strohecker looks like a RHP option who misses bats.",
+        "summary": "Jonathan Strohecker gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 20.25",
-          "WHIP 4.50",
-          "K/9 9.0"
+          "ERA 14.85",
+          "WHIP 3.60",
+          "K/9 6.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "20.25"
+            "value": "14.85"
           },
           {
             "label": "WHIP",
-            "value": "4.50"
+            "value": "3.60"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "6.8"
           },
           {
             "label": "BB/9",
@@ -6552,17 +6552,17 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
           },
           {
             "label": "HR/9",
-            "value": "2.25"
+            "value": "1.35"
           },
           {
             "label": "IP",
-            "value": "4.0"
+            "value": "6.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
+          "Miss bats": 25,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -6729,29 +6729,29 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 25,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Guerrero gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .274",
-          "OBP .333",
-          "SLG .402"
+          "AVG .273",
+          "OBP .331",
+          "SLG .405"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".274"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".331"
           },
           {
             "label": "SLG",
-            "value": ".402"
+            "value": ".405"
           },
           {
             "label": "HR",
@@ -6767,10 +6767,10 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
           }
         ],
         "components": {
-          "On-base": 29.44444444444444,
-          "Power": 21.578947368421062,
-          "Contact": 33.750000000000014,
-          "Discipline": 23.23232323232323,
+          "On-base": 28.33333333333333,
+          "Power": 22.368421052631586,
+          "Contact": 33.12500000000001,
+          "Discipline": 21.256038647342994,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / L/R",
@@ -6936,48 +6936,48 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "position": "LHP",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 15,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jaden Kinsler looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.52",
-          "WHIP 1.36",
-          "K/9 9.8"
+          "ERA 5.23",
+          "WHIP 1.32",
+          "K/9 9.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.52"
+            "value": "5.23"
           },
           {
             "label": "WHIP",
-            "value": "1.36"
+            "value": "1.32"
           },
           {
             "label": "K/9",
-            "value": "9.8"
+            "value": "9.9"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "3.9"
           },
           {
             "label": "HR/9",
-            "value": "1.84"
+            "value": "1.65"
           },
           {
             "label": "IP",
-            "value": "29.3"
+            "value": "32.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 52.892561983471076,
-          "Command": 25.71428571428571,
+          "Miss bats": 53.80333951762524,
+          "Command": 31.428571428571434,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/L",
@@ -7419,37 +7419,37 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 34,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ike Schmidly profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .266",
-          "OBP .350",
-          "SLG .460"
+          "AVG .278",
+          "OBP .358",
+          "SLG .514"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".266"
+            "value": ".278"
           },
           {
             "label": "OBP",
-            "value": ".350"
+            "value": ".358"
           },
           {
             "label": "SLG",
-            "value": ".460"
+            "value": ".514"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "32"
           },
           {
             "label": "SB",
@@ -7457,10 +7457,10 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
           }
         ],
         "components": {
-          "On-base": 38.888888888888864,
-          "Power": 36.842105263157904,
-          "Contact": 28.750000000000007,
-          "Discipline": 18.18181818181818,
+          "On-base": 43.333333333333314,
+          "Power": 51.05263157894737,
+          "Contact": 36.250000000000014,
+          "Discipline": 16.425120772946855,
           "Speed": 40
         },
         "metaLine": "JR / R/R",
@@ -7702,41 +7702,41 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         },
         "summary": "Holden McKinney looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 7.57",
-          "WHIP 1.54",
-          "K/9 7.6"
+          "ERA 6.82",
+          "WHIP 1.52",
+          "K/9 7.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.57"
+            "value": "6.82"
           },
           {
             "label": "WHIP",
-            "value": "1.54"
+            "value": "1.52"
           },
           {
             "label": "K/9",
-            "value": "7.6"
+            "value": "7.1"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "2.7"
           },
           {
             "label": "HR/9",
-            "value": "0.66"
+            "value": "0.59"
           },
           {
             "label": "IP",
-            "value": "27.3"
+            "value": "30.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 32.48337028824834,
-          "Command": 31.111111111111118,
+          "Miss bats": 28.371628371628375,
+          "Command": 33.33333333333333,
           "Damage suppression": 0
         },
         "metaLine": "R-SO / R/R",

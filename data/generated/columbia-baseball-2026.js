@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.columbia2026 = {
-  "generatedAt": "2026-04-24T11:33:39.292Z",
+  "generatedAt": "2026-04-25T11:04:19.675Z",
   "season": 2026,
   "school": {
     "slug": "columbia",
@@ -39,86 +39,86 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
     }
   },
   "teamSummary": {
-    "record": "11-21, 6-8",
-    "battingAverage": ".273",
-    "earnedRunAverage": "6.68",
-    "wins": "11",
+    "record": "12-21, 7-8",
+    "battingAverage": ".275",
+    "earnedRunAverage": "6.57",
+    "wins": "12",
     "losses": "21",
     "hitting": {
-      "atBats": "1108",
-      "runsScored": "188",
-      "hits": "303",
-      "runsBattedIn": "183",
-      "doubles": "62",
+      "atBats": "1141",
+      "runsScored": "194",
+      "hits": "314",
+      "runsBattedIn": "188",
+      "doubles": "64",
       "triples": "4",
-      "homeRuns": "27",
-      "walks": "129",
+      "homeRuns": "29",
+      "walks": "131",
       "intentionalWalks": "1",
-      "strikeouts": "228",
-      "strikeoutsLooking": "35",
+      "strikeouts": "235",
+      "strikeoutsLooking": "37",
       "hitByPitch": "38",
-      "stolenBases": "19",
+      "stolenBases": "21",
       "caughtStealing": "11",
-      "sacrificeHits": "7",
+      "sacrificeHits": "8",
       "sacrificeFlies": "9",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "276",
-      "flyOuts": "279",
+      "groundOuts": "287",
+      "flyOuts": "284",
       "groundedIntoDoublePlay": "30",
       "pickedOff": "3",
       "doublePlaysHitInto": "31",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "828",
-      "assists": "297",
-      "errors": "40",
+      "putouts": "855",
+      "assists": "305",
+      "errors": "41",
       "passedBalls": "4",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "31",
+      "stolenBasesAgainst": "33",
       "caughtStealingBy": "17",
-      "involvedInDoublePlays": "24",
+      "involvedInDoublePlays": "25",
       "involvedInTriplePlays": "0",
-      "totalChances": "1165",
+      "totalChances": "1201",
       "fieldingPercentage": ".966"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "11",
-      "saves": "21",
+      "wins": "12",
+      "saves": "22",
       "losses": "21",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "0",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "276.0",
-      "hitsAllowed": "317",
-      "runsAllowed": "227",
-      "earnedRunsAllowed": "205",
-      "walksAllowed": "173",
-      "strikeouts": "227",
-      "battersFaced": "1336",
-      "opponentAtBats": "1087",
-      "doublesAllowed": "63",
+      "inningsPitched": "285.0",
+      "hitsAllowed": "325",
+      "runsAllowed": "231",
+      "earnedRunsAllowed": "208",
+      "walksAllowed": "179",
+      "strikeouts": "239",
+      "battersFaced": "1379",
+      "opponentAtBats": "1122",
+      "doublesAllowed": "68",
       "triplesAllowed": "8",
-      "homerunsAllowed": "30",
-      "wildPitches": "30",
+      "homerunsAllowed": "31",
+      "wildPitches": "31",
       "balks": "6",
-      "hitBatters": "49",
-      "strikeoutsLooking": "41",
+      "hitBatters": "51",
+      "strikeoutsLooking": "46",
       "intentionalWalks": "2",
       "inheritedRunners": "39",
       "inheritedRunnersThatScored": "14",
       "sacrificeHitsAllowed": "18",
       "sacrificeFliesAllowed": "9",
       "catchersInterferenceAllowed": "0",
-      "pitches": "4736",
-      "flyouts": "288",
-      "groundouts": "250",
+      "pitches": "4899",
+      "flyouts": "294",
+      "groundouts": "259",
       "teamUnearnedRuns": "0",
-      "saveRecord": "6",
+      "saveRecord": "7",
       "pickoff": "3"
     }
   },
@@ -161,7 +161,7 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "jersey": "1",
         "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/charlie-slabaugh/22351",
         "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0106_s5a8n.jpg",
-        "gamesPlayed": 21,
+        "gamesPlayed": 22,
         "gamesStarted": 18,
         "battingAverage": 0.197,
         "onBasePercentage": 0.316,
@@ -451,20 +451,20 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "jersey": "3",
         "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/cole-fellows/21708",
         "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0042_9NTXt.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "battingAverage": 0.281,
-        "onBasePercentage": 0.359,
-        "sluggingPercentage": 0.508,
-        "ops": 0.867,
-        "atBats": 128,
-        "runs": 24,
-        "hits": 36,
-        "doubles": 9,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "battingAverage": 0.303,
+        "onBasePercentage": 0.376,
+        "sluggingPercentage": 0.553,
+        "ops": 0.929,
+        "atBats": 132,
+        "runs": 26,
+        "hits": 40,
+        "doubles": 10,
         "triples": 1,
-        "homeRuns": 6,
-        "runsBattedIn": 28,
-        "totalBases": 65,
+        "homeRuns": 7,
+        "runsBattedIn": 29,
+        "totalBases": 73,
         "walks": 13,
         "hitByPitch": 3,
         "strikeouts": 25,
@@ -472,12 +472,12 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "groundedIntoDoublePlay": 7,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 3,
+        "stolenBases": 2,
+        "stolenBasesAttempts": 4,
         "putouts": 63,
         "assists": 4,
         "errors": 4,
-        "plateAppearances": 150,
+        "plateAppearances": 155,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -504,48 +504,48 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "totalChances": 71
       },
       "evaluation": {
-        "score": 39,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 43.888888888888864,
-          "Power": 49.47368421052632,
-          "Contact": 38.125000000000014,
+          "On-base": 53.33333333333332,
+          "Power": 61.315789473684234,
+          "Contact": 51.87499999999999,
           "Discipline": 35.55555555555555,
-          "Speed": 3.3333333333333335
+          "Speed": 6.666666666666667
         },
-        "summary": "Cole Fellows gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Cole Fellows profiles as a OF/1B piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .281",
-          "OBP .359",
-          "SLG .508"
+          "AVG .303",
+          "OBP .376",
+          "SLG .553"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".281"
+            "value": ".303"
           },
           {
             "label": "OBP",
-            "value": ".359"
+            "value": ".376"
           },
           {
             "label": "SLG",
-            "value": ".508"
+            "value": ".553"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "7"
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "29"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "metaLine": "SR / Columbia College",
@@ -596,20 +596,20 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "jersey": "4",
         "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/hunter-snyder/21722",
         "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0068_fSSsC.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 22,
-        "battingAverage": 0.284,
-        "onBasePercentage": 0.37,
-        "sluggingPercentage": 0.42,
-        "ops": 0.79,
-        "atBats": 81,
-        "runs": 22,
-        "hits": 23,
-        "doubles": 5,
+        "gamesPlayed": 25,
+        "gamesStarted": 23,
+        "battingAverage": 0.318,
+        "onBasePercentage": 0.396,
+        "sluggingPercentage": 0.459,
+        "ops": 0.855,
+        "atBats": 85,
+        "runs": 23,
+        "hits": 27,
+        "doubles": 6,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 15,
-        "totalBases": 34,
+        "totalBases": 39,
         "walks": 7,
         "hitByPitch": 4,
         "strikeouts": 21,
@@ -622,7 +622,7 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "putouts": 32,
         "assists": 26,
         "errors": 3,
-        "plateAppearances": 93,
+        "plateAppearances": 97,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -649,36 +649,36 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "totalChances": 61
       },
       "evaluation": {
-        "score": 32,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 49.999999999999986,
-          "Power": 26.31578947368421,
-          "Contact": 39.99999999999998,
+          "On-base": 64.44444444444444,
+          "Power": 36.57894736842106,
+          "Contact": 61.25000000000001,
           "Discipline": 14.814814814814808,
           "Speed": 0
         },
         "summary": "Hunter Snyder gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .284",
-          "OBP .370",
-          "SLG .420"
+          "AVG .318",
+          "OBP .396",
+          "SLG .459"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".284"
+            "value": ".318"
           },
           {
             "label": "OBP",
-            "value": ".370"
+            "value": ".396"
           },
           {
             "label": "SLG",
-            "value": ".420"
+            "value": ".459"
           },
           {
             "label": "HR",
@@ -829,33 +829,33 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "jersey": "6",
         "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jack-kail/21714",
         "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0078_nMSIp.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 29,
-        "battingAverage": 0.36,
-        "onBasePercentage": 0.41,
-        "sluggingPercentage": 0.504,
-        "ops": 0.914,
-        "atBats": 125,
-        "runs": 22,
-        "hits": 45,
+        "gamesPlayed": 30,
+        "gamesStarted": 30,
+        "battingAverage": 0.359,
+        "onBasePercentage": 0.413,
+        "sluggingPercentage": 0.5,
+        "ops": 0.913,
+        "atBats": 128,
+        "runs": 23,
+        "hits": 46,
         "doubles": 12,
         "triples": 0,
         "homeRuns": 2,
-        "runsBattedIn": 31,
-        "totalBases": 63,
-        "walks": 11,
+        "runsBattedIn": 32,
+        "totalBases": 64,
+        "walks": 12,
         "hitByPitch": 1,
-        "strikeouts": 6,
+        "strikeouts": 7,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
-        "stolenBases": 4,
-        "stolenBasesAttempts": 4,
+        "stolenBases": 5,
+        "stolenBasesAttempts": 5,
         "putouts": 56,
-        "assists": 54,
+        "assists": 56,
         "errors": 4,
-        "plateAppearances": 143,
+        "plateAppearances": 148,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -867,19 +867,19 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "jersey": "6",
         "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jack-kail/21714",
         "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0078_nMSIp.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 29,
+        "gamesPlayed": 30,
+        "gamesStarted": 30,
         "putouts": 56,
-        "assists": 54,
+        "assists": 56,
         "errors": 4,
-        "fieldingPercentage": 0.965,
-        "doublePlays": 12,
+        "fieldingPercentage": 0.966,
+        "doublePlays": 13,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 114
+        "totalChances": 116
       },
       "evaluation": {
         "score": 67,
@@ -888,30 +888,30 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 72.2222222222222,
-          "Power": 48.42105263157895,
-          "Contact": 87.49999999999999,
+          "On-base": 73.88888888888886,
+          "Power": 47.36842105263158,
+          "Contact": 86.87499999999999,
           "Discipline": 100,
-          "Speed": 13.333333333333334
+          "Speed": 16.666666666666664
         },
         "summary": "Jack Kail profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .360",
-          "OBP .410",
-          "SLG .504"
+          "AVG .359",
+          "OBP .413",
+          "SLG .500"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".360"
+            "value": ".359"
           },
           {
             "label": "OBP",
-            "value": ".410"
+            "value": ".413"
           },
           {
             "label": "SLG",
-            "value": ".504"
+            "value": ".500"
           },
           {
             "label": "HR",
@@ -919,11 +919,11 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "RBI",
-            "value": "31"
+            "value": "32"
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "metaLine": "SR / Columbia College",
@@ -1116,13 +1116,13 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "jersey": "9",
         "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/anthony-temesvary/21725",
         "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0082_BbHC3.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
-        "battingAverage": 0.319,
-        "onBasePercentage": 0.386,
-        "sluggingPercentage": 0.457,
-        "ops": 0.843,
-        "atBats": 116,
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "battingAverage": 0.308,
+        "onBasePercentage": 0.375,
+        "sluggingPercentage": 0.442,
+        "ops": 0.817,
+        "atBats": 120,
         "runs": 16,
         "hits": 37,
         "doubles": 5,
@@ -1132,17 +1132,17 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "totalBases": 53,
         "walks": 11,
         "hitByPitch": 3,
-        "strikeouts": 27,
+        "strikeouts": 29,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
         "sacrificeHits": 1,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 49,
-        "assists": 50,
+        "putouts": 50,
+        "assists": 52,
         "errors": 7,
-        "plateAppearances": 135,
+        "plateAppearances": 139,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1154,51 +1154,51 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "jersey": "9",
         "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/anthony-temesvary/21725",
         "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0082_BbHC3.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 27,
-        "putouts": 49,
-        "assists": 50,
+        "gamesPlayed": 28,
+        "gamesStarted": 28,
+        "putouts": 50,
+        "assists": 52,
         "errors": 7,
-        "fieldingPercentage": 0.934,
+        "fieldingPercentage": 0.936,
         "doublePlays": 4,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 3,
         "catchersInterference": 0,
-        "totalChances": 106
+        "totalChances": 109
       },
       "evaluation": {
-        "score": 43,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 58.88888888888888,
-          "Power": 36.05263157894738,
-          "Contact": 61.875,
-          "Discipline": 23.045267489711925,
+          "On-base": 52.77777777777777,
+          "Power": 32.10526315789474,
+          "Contact": 54.99999999999999,
+          "Discipline": 19.923371647509573,
           "Speed": 6.666666666666667
         },
         "summary": "Anthony Temesvary gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .319",
-          "OBP .386",
-          "SLG .457"
+          "AVG .308",
+          "OBP .375",
+          "SLG .442"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".319"
+            "value": ".308"
           },
           {
             "label": "OBP",
-            "value": ".386"
+            "value": ".375"
           },
           {
             "label": "SLG",
-            "value": ".457"
+            "value": ".442"
           },
           {
             "label": "HR",
@@ -1403,33 +1403,33 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "jersey": "11",
         "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jackson-brewer/21704",
         "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0076_vYIBy.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 24,
+        "gamesPlayed": 25,
+        "gamesStarted": 25,
         "battingAverage": 0.245,
-        "onBasePercentage": 0.333,
-        "sluggingPercentage": 0.459,
-        "ops": 0.792,
-        "atBats": 98,
-        "runs": 17,
-        "hits": 24,
+        "onBasePercentage": 0.33,
+        "sluggingPercentage": 0.48,
+        "ops": 0.81,
+        "atBats": 102,
+        "runs": 18,
+        "hits": 25,
         "doubles": 4,
         "triples": 1,
-        "homeRuns": 5,
-        "runsBattedIn": 23,
-        "totalBases": 45,
+        "homeRuns": 6,
+        "runsBattedIn": 25,
+        "totalBases": 49,
         "walks": 8,
         "hitByPitch": 5,
-        "strikeouts": 28,
+        "strikeouts": 30,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 5,
-        "putouts": 39,
+        "putouts": 42,
         "assists": 2,
         "errors": 2,
-        "plateAppearances": 118,
+        "plateAppearances": 122,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1441,38 +1441,38 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "jersey": "11",
         "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jackson-brewer/21704",
         "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0076_vYIBy.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 22,
-        "putouts": 39,
+        "gamesPlayed": 23,
+        "gamesStarted": 23,
+        "putouts": 42,
         "assists": 2,
         "errors": 2,
-        "fieldingPercentage": 0.953,
+        "fieldingPercentage": 0.957,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 43
+        "totalChances": 46
       },
       "evaluation": {
-        "score": 24,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 29.44444444444444,
-          "Power": 36.57894736842106,
+          "On-base": 27.777777777777775,
+          "Power": 42.10526315789473,
           "Contact": 15.624999999999996,
-          "Discipline": 9.523809523809518,
+          "Discipline": 7.407407407407404,
           "Speed": 10
         },
         "summary": "Jackson Brewer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .245",
-          "OBP .333",
-          "SLG .459"
+          "OBP .330",
+          "SLG .480"
         ],
         "statCards": [
           {
@@ -1481,19 +1481,19 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".330"
           },
           {
             "label": "SLG",
-            "value": ".459"
+            "value": ".480"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "23"
+            "value": "25"
           },
           {
             "label": "SB",
@@ -1778,33 +1778,33 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "jersey": "14",
         "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jimmy-chadwell/21705",
         "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0054_lhWEZ.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "battingAverage": 0.3,
-        "onBasePercentage": 0.406,
-        "sluggingPercentage": 0.375,
-        "ops": 0.781,
-        "atBats": 120,
-        "runs": 19,
-        "hits": 36,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "battingAverage": 0.298,
+        "onBasePercentage": 0.401,
+        "sluggingPercentage": 0.371,
+        "ops": 0.772,
+        "atBats": 124,
+        "runs": 20,
+        "hits": 37,
         "doubles": 9,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 8,
-        "totalBases": 45,
+        "totalBases": 46,
         "walks": 19,
         "hitByPitch": 3,
-        "strikeouts": 26,
+        "strikeouts": 27,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 1,
         "sacrificeHits": 3,
         "stolenBases": 1,
         "stolenBasesAttempts": 3,
-        "putouts": 44,
-        "assists": 60,
+        "putouts": 46,
+        "assists": 63,
         "errors": 6,
-        "plateAppearances": 151,
+        "plateAppearances": 155,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1816,51 +1816,51 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "jersey": "14",
         "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jimmy-chadwell/21705",
         "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0054_lhWEZ.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 28,
-        "putouts": 44,
-        "assists": 60,
+        "gamesPlayed": 29,
+        "gamesStarted": 29,
+        "putouts": 46,
+        "assists": 63,
         "errors": 6,
-        "fieldingPercentage": 0.945,
-        "doublePlays": 12,
+        "fieldingPercentage": 0.948,
+        "doublePlays": 13,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 110
+        "totalChances": 115
       },
       "evaluation": {
-        "score": 44,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 70,
-          "Power": 14.473684210526317,
-          "Contact": 49.999999999999986,
-          "Discipline": 58.97435897435896,
+          "On-base": 67.22222222222223,
+          "Power": 13.421052631578947,
+          "Contact": 48.749999999999986,
+          "Discipline": 55.96707818930041,
           "Speed": 3.3333333333333335
         },
         "summary": "Jimmy Chadwell profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .406",
-          "SLG .375"
+          "AVG .298",
+          "OBP .401",
+          "SLG .371"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": ".298"
           },
           {
             "label": "OBP",
-            "value": ".406"
+            "value": ".401"
           },
           {
             "label": "SLG",
-            "value": ".375"
+            "value": ".371"
           },
           {
             "label": "HR",
@@ -2011,13 +2011,13 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "jersey": "17",
         "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/ben-fishel/21709",
         "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0046_LFGCh.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "battingAverage": 0.261,
-        "onBasePercentage": 0.364,
-        "sluggingPercentage": 0.311,
-        "ops": 0.675,
-        "atBats": 119,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "battingAverage": 0.254,
+        "onBasePercentage": 0.361,
+        "sluggingPercentage": 0.303,
+        "ops": 0.664,
+        "atBats": 122,
         "runs": 19,
         "hits": 31,
         "doubles": 6,
@@ -2025,7 +2025,7 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "homeRuns": 0,
         "runsBattedIn": 13,
         "totalBases": 37,
-        "walks": 11,
+        "walks": 12,
         "hitByPitch": 9,
         "strikeouts": 21,
         "intentionalWalks": 0,
@@ -2034,10 +2034,10 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 9,
-        "putouts": 87,
+        "putouts": 88,
         "assists": 3,
         "errors": 2,
-        "plateAppearances": 154,
+        "plateAppearances": 158,
         "caughtStealing": 5,
         "pickedOff": 0
       },
@@ -2049,9 +2049,9 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "jersey": "17",
         "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/ben-fishel/21709",
         "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0046_LFGCh.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
-        "putouts": 87,
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "putouts": 88,
         "assists": 3,
         "errors": 2,
         "fieldingPercentage": 0.978,
@@ -2061,39 +2061,39 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 92
+        "totalChances": 93
       },
       "evaluation": {
-        "score": 26,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 46.66666666666665,
+          "On-base": 44.99999999999998,
           "Power": 0,
-          "Contact": 25.625000000000004,
-          "Discipline": 35.978835978835974,
+          "Contact": 21.250000000000004,
+          "Discipline": 41.26984126984126,
           "Speed": 13.333333333333334
         },
         "summary": "Ben Fishel gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .261",
-          "OBP .364",
-          "SLG .311"
+          "AVG .254",
+          "OBP .361",
+          "SLG .303"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".261"
+            "value": ".254"
           },
           {
             "label": "OBP",
-            "value": ".364"
+            "value": ".361"
           },
           {
             "label": "SLG",
-            "value": ".311"
+            "value": ".303"
           },
           {
             "label": "HR",
@@ -2881,32 +2881,32 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "jersey": "25",
         "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/payton-soske/21723",
         "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0044_KQ0LQ.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 0,
-        "appearances": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.03,
-        "whip": 0.83,
+        "earnedRunAverage": 2.25,
+        "whip": 1.06,
         "wins": 1,
         "losses": 0,
         "saves": 2,
         "shutouts": 0,
-        "inningsPitched": 13.333333333333334,
-        "inningsPitchedDisplay": "13.1",
-        "hitsAllowed": 9,
-        "runsAllowed": 3,
-        "earnedRunsAllowed": 3,
-        "walksAllowed": 2,
-        "strikeouts": 19,
-        "doublesAllowed": 1,
+        "inningsPitched": 16,
+        "inningsPitchedDisplay": "16.0",
+        "hitsAllowed": 11,
+        "runsAllowed": 5,
+        "earnedRunsAllowed": 4,
+        "walksAllowed": 6,
+        "strikeouts": 24,
+        "doublesAllowed": 3,
         "triplesAllowed": 1,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 47,
-        "wildPitches": 0,
-        "hitBatters": 3,
+        "opponentsAtBats": 57,
+        "wildPitches": 1,
+        "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.191,
-        "walksHits": 11
+        "opponentsBattingAverage": 0.193,
+        "walksHits": 17
       },
       "fieldingStats": {
         "rosterBioId": "21723",
@@ -2915,22 +2915,22 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "jersey": "25",
         "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/payton-soske/21723",
         "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0044_KQ0LQ.jpg",
-        "gamesPlayed": 2,
+        "gamesPlayed": 3,
         "gamesStarted": 0,
         "putouts": 1,
         "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
+        "errors": 1,
+        "fieldingPercentage": 0.5,
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 1
+        "totalChances": 2
       },
       "evaluation": {
-        "score": 32,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2938,32 +2938,32 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 80.22727272727272,
-          "Command": 100,
+          "Miss bats": 86.36363636363636,
+          "Command": 60,
           "Damage suppression": 0
         },
-        "summary": "Payton Soske looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Payton Soske looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.03",
-          "WHIP 0.83",
-          "K/9 12.8"
+          "ERA 2.25",
+          "WHIP 1.06",
+          "K/9 13.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.03"
+            "value": "2.25"
           },
           {
             "label": "WHIP",
-            "value": "0.83"
+            "value": "1.06"
           },
           {
             "label": "K/9",
-            "value": "12.8"
+            "value": "13.5"
           },
           {
             "label": "BB/9",
-            "value": "1.3"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
@@ -2971,7 +2971,7 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "IP",
-            "value": "13.3"
+            "value": "16.0"
           }
         ],
         "metaLine": "JR / Columbia College",
@@ -3022,13 +3022,13 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "jersey": "27",
         "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/tate-vogler/21727",
         "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0080_KhCTd.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 23,
-        "battingAverage": 0.224,
-        "onBasePercentage": 0.298,
-        "sluggingPercentage": 0.365,
-        "ops": 0.663,
-        "atBats": 85,
+        "gamesPlayed": 26,
+        "gamesStarted": 24,
+        "battingAverage": 0.213,
+        "onBasePercentage": 0.286,
+        "sluggingPercentage": 0.348,
+        "ops": 0.634,
+        "atBats": 89,
         "runs": 15,
         "hits": 19,
         "doubles": 1,
@@ -3045,10 +3045,10 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 174,
+        "putouts": 181,
         "assists": 14,
         "errors": 2,
-        "plateAppearances": 95,
+        "plateAppearances": 99,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3060,51 +3060,51 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "jersey": "27",
         "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/tate-vogler/21727",
         "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0080_KhCTd.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 23,
-        "putouts": 174,
+        "gamesPlayed": 25,
+        "gamesStarted": 24,
+        "putouts": 181,
         "assists": 14,
         "errors": 2,
-        "fieldingPercentage": 0.989,
-        "doublePlays": 9,
+        "fieldingPercentage": 0.99,
+        "doublePlays": 10,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 190
+        "totalChances": 197
       },
       "evaluation": {
-        "score": 10,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 9.999999999999979,
-          "Power": 11.842105263157892,
-          "Contact": 2.500000000000002,
+          "On-base": 3.3333333333333055,
+          "Power": 7.368421052631572,
+          "Contact": 0,
           "Discipline": 18.713450292397653,
           "Speed": 3.3333333333333335
         },
         "summary": "Tate Vogler gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .224",
-          "OBP .298",
-          "SLG .365"
+          "AVG .213",
+          "OBP .286",
+          "SLG .348"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".224"
+            "value": ".213"
           },
           {
             "label": "OBP",
-            "value": ".298"
+            "value": ".286"
           },
           {
             "label": "SLG",
-            "value": ".365"
+            "value": ".348"
           },
           {
             "label": "HR",
@@ -3256,18 +3256,18 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "jersey": "29",
         "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/evan-kleinhans/21715",
         "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0092_AkRul.jpg",
-        "gamesPlayed": 16,
+        "gamesPlayed": 17,
         "gamesStarted": 1,
-        "appearances": 16,
+        "appearances": 17,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.11,
-        "whip": 1.61,
+        "earnedRunAverage": 6.04,
+        "whip": 1.59,
         "wins": 1,
         "losses": 2,
-        "saves": 1,
+        "saves": 2,
         "shutouts": 0,
-        "inningsPitched": 28,
-        "inningsPitchedDisplay": "28.0",
+        "inningsPitched": 28.333333333333332,
+        "inningsPitchedDisplay": "28.1",
         "hitsAllowed": 36,
         "runsAllowed": 21,
         "earnedRunsAllowed": 19,
@@ -3276,11 +3276,11 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "doublesAllowed": 10,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 114,
+        "opponentsAtBats": 115,
         "wildPitches": 5,
         "hitBatters": 7,
         "balks": 1,
-        "opponentsBattingAverage": 0.316,
+        "opponentsBattingAverage": 0.313,
         "walksHits": 45
       },
       "fieldingStats": {
@@ -3290,19 +3290,19 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "jersey": "29",
         "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/evan-kleinhans/21715",
         "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0092_AkRul.jpg",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 1,
         "putouts": 3,
-        "assists": 2,
+        "assists": 3,
         "errors": 4,
-        "fieldingPercentage": 0.556,
+        "fieldingPercentage": 0.6,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 9
+        "totalChances": 10
       },
       "evaluation": {
         "score": 18,
@@ -3313,28 +3313,28 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.298701298701296,
+          "Miss bats": 50.26737967914438,
           "Command": 46.666666666666664,
           "Damage suppression": 0
         },
         "summary": "Evan Kleinhans looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.11",
-          "WHIP 1.61",
-          "K/9 9.6"
+          "ERA 6.04",
+          "WHIP 1.59",
+          "K/9 9.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.11"
+            "value": "6.04"
           },
           {
             "label": "WHIP",
-            "value": "1.61"
+            "value": "1.59"
           },
           {
             "label": "K/9",
-            "value": "9.6"
+            "value": "9.5"
           },
           {
             "label": "BB/9",
@@ -3346,7 +3346,7 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "IP",
-            "value": "28.0"
+            "value": "28.3"
           }
         ],
         "metaLine": "SR / Columbia College",
@@ -3540,32 +3540,32 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "jersey": "33",
         "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/thomas-santana/21720",
         "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0095_YQ8fs.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 8,
-        "appearances": 8,
+        "gamesPlayed": 9,
+        "gamesStarted": 9,
+        "appearances": 9,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.93,
-        "whip": 1.57,
-        "wins": 3,
+        "earnedRunAverage": 4.69,
+        "whip": 1.54,
+        "wins": 4,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 42,
-        "inningsPitchedDisplay": "42.0",
-        "hitsAllowed": 43,
-        "runsAllowed": 27,
-        "earnedRunsAllowed": 23,
-        "walksAllowed": 23,
-        "strikeouts": 33,
-        "doublesAllowed": 6,
+        "inningsPitched": 48,
+        "inningsPitchedDisplay": "48.0",
+        "hitsAllowed": 49,
+        "runsAllowed": 29,
+        "earnedRunsAllowed": 25,
+        "walksAllowed": 25,
+        "strikeouts": 40,
+        "doublesAllowed": 9,
         "triplesAllowed": 3,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 159,
+        "homeRunsAllowed": 6,
+        "opponentsAtBats": 183,
         "wildPitches": 1,
-        "hitBatters": 11,
+        "hitBatters": 12,
         "balks": 1,
-        "opponentsBattingAverage": 0.27,
-        "walksHits": 66
+        "opponentsBattingAverage": 0.268,
+        "walksHits": 74
       },
       "fieldingStats": {
         "rosterBioId": "21720",
@@ -3574,22 +3574,22 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "jersey": "33",
         "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/thomas-santana/21720",
         "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0095_YQ8fs.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 6,
-        "putouts": 6,
+        "gamesPlayed": 7,
+        "gamesStarted": 7,
+        "putouts": 7,
         "assists": 5,
         "errors": 1,
-        "fieldingPercentage": 0.917,
+        "fieldingPercentage": 0.923,
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": 0.75,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 12
+        "totalChances": 13
       },
       "evaluation": {
-        "score": 7,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3597,40 +3597,40 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 27.92207792207792,
-          "Command": 8.695652173913041,
+          "Miss bats": 31.818181818181817,
+          "Command": 12.000000000000002,
           "Damage suppression": 0
         },
         "summary": "Thomas Santana gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.93",
-          "WHIP 1.57",
-          "K/9 7.1"
+          "ERA 4.69",
+          "WHIP 1.54",
+          "K/9 7.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.93"
+            "value": "4.69"
           },
           {
             "label": "WHIP",
-            "value": "1.57"
+            "value": "1.54"
           },
           {
             "label": "K/9",
-            "value": "7.1"
+            "value": "7.5"
           },
           {
             "label": "BB/9",
-            "value": "4.9"
+            "value": "4.7"
           },
           {
             "label": "HR/9",
-            "value": "1.07"
+            "value": "1.13"
           },
           {
             "label": "IP",
-            "value": "42.0"
+            "value": "48.0"
           }
         ],
         "metaLine": "SR / Columbia College",
@@ -3968,33 +3968,33 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "jersey": "36",
         "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/owen-estabrook/21707",
         "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0090_Bk057.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 29,
-        "battingAverage": 0.202,
-        "onBasePercentage": 0.363,
-        "sluggingPercentage": 0.364,
-        "ops": 0.727,
-        "atBats": 99,
+        "gamesPlayed": 30,
+        "gamesStarted": 30,
+        "battingAverage": 0.196,
+        "onBasePercentage": 0.354,
+        "sluggingPercentage": 0.353,
+        "ops": 0.707,
+        "atBats": 102,
         "runs": 14,
         "hits": 20,
         "doubles": 4,
         "triples": 0,
         "homeRuns": 4,
-        "runsBattedIn": 16,
+        "runsBattedIn": 17,
         "totalBases": 36,
         "walks": 23,
         "hitByPitch": 2,
-        "strikeouts": 22,
+        "strikeouts": 23,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 0,
-        "sacrificeHits": 0,
+        "sacrificeHits": 1,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 195,
+        "putouts": 207,
         "assists": 36,
         "errors": 1,
-        "plateAppearances": 124,
+        "plateAppearances": 128,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4006,51 +4006,51 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "jersey": "36",
         "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/owen-estabrook/21707",
         "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0090_Bk057.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 28,
-        "putouts": 195,
+        "gamesPlayed": 29,
+        "gamesStarted": 29,
+        "putouts": 207,
         "assists": 36,
         "errors": 1,
         "fieldingPercentage": 0.996,
         "doublePlays": 3,
-        "stolenBasesAgainst": 23,
+        "stolenBasesAgainst": 25,
         "caughtStealingBy": 17,
-        "stolenBasesPercentage": 0.575,
+        "stolenBasesPercentage": 0.595,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 232
+        "totalChances": 244
       },
       "evaluation": {
-        "score": 31,
+        "score": 28,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 46.11111111111109,
-          "Power": 11.57894736842105,
+          "On-base": 41.111111111111086,
+          "Power": 8.684210526315784,
           "Contact": 0,
-          "Discipline": 93.93939393939392,
+          "Discipline": 88.88888888888889,
           "Speed": 0
         },
         "summary": "Owen Estabrook profiles as a C piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .202",
-          "OBP .363",
-          "SLG .364"
+          "AVG .196",
+          "OBP .354",
+          "SLG .353"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".202"
+            "value": ".196"
           },
           {
             "label": "OBP",
-            "value": ".363"
+            "value": ".354"
           },
           {
             "label": "SLG",
-            "value": ".364"
+            "value": ".353"
           },
           {
             "label": "HR",
@@ -4058,7 +4058,7 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "RBI",
-            "value": "16"
+            "value": "17"
           },
           {
             "label": "SB",
@@ -5234,49 +5234,49 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "position": "OF/1B",
         "classYear": "SR",
         "handedness": "Columbia College",
-        "score": 39,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cole Fellows gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Cole Fellows profiles as a OF/1B piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .281",
-          "OBP .359",
-          "SLG .508"
+          "AVG .303",
+          "OBP .376",
+          "SLG .553"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".281"
+            "value": ".303"
           },
           {
             "label": "OBP",
-            "value": ".359"
+            "value": ".376"
           },
           {
             "label": "SLG",
-            "value": ".508"
+            "value": ".553"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "7"
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "29"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "components": {
-          "On-base": 43.888888888888864,
-          "Power": 49.47368421052632,
-          "Contact": 38.125000000000014,
+          "On-base": 53.33333333333332,
+          "Power": 61.315789473684234,
+          "Contact": 51.87499999999999,
           "Discipline": 35.55555555555555,
-          "Speed": 3.3333333333333335
+          "Speed": 6.666666666666667
         },
         "metaLine": "SR / Columbia College",
         "detailBadges": [
@@ -5303,29 +5303,29 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "Columbia College",
-        "score": 32,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Hunter Snyder gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .284",
-          "OBP .370",
-          "SLG .420"
+          "AVG .318",
+          "OBP .396",
+          "SLG .459"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".284"
+            "value": ".318"
           },
           {
             "label": "OBP",
-            "value": ".370"
+            "value": ".396"
           },
           {
             "label": "SLG",
-            "value": ".420"
+            "value": ".459"
           },
           {
             "label": "HR",
@@ -5341,9 +5341,9 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           }
         ],
         "components": {
-          "On-base": 49.999999999999986,
-          "Power": 26.31578947368421,
-          "Contact": 39.99999999999998,
+          "On-base": 64.44444444444444,
+          "Power": 36.57894736842106,
+          "Contact": 61.25000000000001,
           "Discipline": 14.814814814814808,
           "Speed": 0
         },
@@ -5447,22 +5447,22 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         },
         "summary": "Jack Kail profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .360",
-          "OBP .410",
-          "SLG .504"
+          "AVG .359",
+          "OBP .413",
+          "SLG .500"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".360"
+            "value": ".359"
           },
           {
             "label": "OBP",
-            "value": ".410"
+            "value": ".413"
           },
           {
             "label": "SLG",
-            "value": ".504"
+            "value": ".500"
           },
           {
             "label": "HR",
@@ -5470,19 +5470,19 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "RBI",
-            "value": "31"
+            "value": "32"
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "components": {
-          "On-base": 72.2222222222222,
-          "Power": 48.42105263157895,
-          "Contact": 87.49999999999999,
+          "On-base": 73.88888888888886,
+          "Power": 47.36842105263158,
+          "Contact": 86.87499999999999,
           "Discipline": 100,
-          "Speed": 13.333333333333334
+          "Speed": 16.666666666666664
         },
         "metaLine": "SR / Columbia College",
         "detailBadges": [
@@ -5578,29 +5578,29 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "position": "C/INF",
         "classYear": "SO",
         "handedness": "Columbia College",
-        "score": 43,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Anthony Temesvary gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .319",
-          "OBP .386",
-          "SLG .457"
+          "AVG .308",
+          "OBP .375",
+          "SLG .442"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".319"
+            "value": ".308"
           },
           {
             "label": "OBP",
-            "value": ".386"
+            "value": ".375"
           },
           {
             "label": "SLG",
-            "value": ".457"
+            "value": ".442"
           },
           {
             "label": "HR",
@@ -5616,10 +5616,10 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           }
         ],
         "components": {
-          "On-base": 58.88888888888888,
-          "Power": 36.05263157894738,
-          "Contact": 61.875,
-          "Discipline": 23.045267489711925,
+          "On-base": 52.77777777777777,
+          "Power": 32.10526315789474,
+          "Contact": 54.99999999999999,
+          "Discipline": 19.923371647509573,
           "Speed": 6.666666666666667
         },
         "metaLine": "SO / Columbia College",
@@ -5716,7 +5716,7 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "position": "OF/1B",
         "classYear": "SO",
         "handedness": "Fu Foundation School of Engineering and Applied Science",
-        "score": 24,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5724,8 +5724,8 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "summary": "Jackson Brewer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .245",
-          "OBP .333",
-          "SLG .459"
+          "OBP .330",
+          "SLG .480"
         ],
         "statCards": [
           {
@@ -5734,19 +5734,19 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".330"
           },
           {
             "label": "SLG",
-            "value": ".459"
+            "value": ".480"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "23"
+            "value": "25"
           },
           {
             "label": "SB",
@@ -5754,10 +5754,10 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           }
         ],
         "components": {
-          "On-base": 29.44444444444444,
-          "Power": 36.57894736842106,
+          "On-base": 27.777777777777775,
+          "Power": 42.10526315789473,
           "Contact": 15.624999999999996,
-          "Discipline": 9.523809523809518,
+          "Discipline": 7.407407407407404,
           "Speed": 10
         },
         "metaLine": "SO / Fu Foundation School of Engineering and Applied Science",
@@ -5922,29 +5922,29 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "Columbia College",
-        "score": 44,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jimmy Chadwell profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .406",
-          "SLG .375"
+          "AVG .298",
+          "OBP .401",
+          "SLG .371"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": ".298"
           },
           {
             "label": "OBP",
-            "value": ".406"
+            "value": ".401"
           },
           {
             "label": "SLG",
-            "value": ".375"
+            "value": ".371"
           },
           {
             "label": "HR",
@@ -5960,10 +5960,10 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           }
         ],
         "components": {
-          "On-base": 70,
-          "Power": 14.473684210526317,
-          "Contact": 49.999999999999986,
-          "Discipline": 58.97435897435896,
+          "On-base": 67.22222222222223,
+          "Power": 13.421052631578947,
+          "Contact": 48.749999999999986,
+          "Discipline": 55.96707818930041,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SO / Columbia College",
@@ -6059,29 +6059,29 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "Columbia College",
-        "score": 26,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ben Fishel gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .261",
-          "OBP .364",
-          "SLG .311"
+          "AVG .254",
+          "OBP .361",
+          "SLG .303"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".261"
+            "value": ".254"
           },
           {
             "label": "OBP",
-            "value": ".364"
+            "value": ".361"
           },
           {
             "label": "SLG",
-            "value": ".311"
+            "value": ".303"
           },
           {
             "label": "HR",
@@ -6097,10 +6097,10 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           }
         ],
         "components": {
-          "On-base": 46.66666666666665,
+          "On-base": 44.99999999999998,
           "Power": 0,
-          "Contact": 25.625000000000004,
-          "Discipline": 35.978835978835974,
+          "Contact": 21.250000000000004,
+          "Discipline": 41.26984126984126,
           "Speed": 13.333333333333334
         },
         "metaLine": "SO / Columbia College",
@@ -6540,33 +6540,33 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "Columbia College",
-        "score": 32,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Payton Soske looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Payton Soske looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.03",
-          "WHIP 0.83",
-          "K/9 12.8"
+          "ERA 2.25",
+          "WHIP 1.06",
+          "K/9 13.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.03"
+            "value": "2.25"
           },
           {
             "label": "WHIP",
-            "value": "0.83"
+            "value": "1.06"
           },
           {
             "label": "K/9",
-            "value": "12.8"
+            "value": "13.5"
           },
           {
             "label": "BB/9",
-            "value": "1.3"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
@@ -6574,14 +6574,14 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "IP",
-            "value": "13.3"
+            "value": "16.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 80.22727272727272,
-          "Command": 100,
+          "Miss bats": 86.36363636363636,
+          "Command": 60,
           "Damage suppression": 0
         },
         "metaLine": "JR / Columbia College",
@@ -6609,29 +6609,29 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "Columbia College",
-        "score": 10,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tate Vogler gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .224",
-          "OBP .298",
-          "SLG .365"
+          "AVG .213",
+          "OBP .286",
+          "SLG .348"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".224"
+            "value": ".213"
           },
           {
             "label": "OBP",
-            "value": ".298"
+            "value": ".286"
           },
           {
             "label": "SLG",
-            "value": ".365"
+            "value": ".348"
           },
           {
             "label": "HR",
@@ -6647,9 +6647,9 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           }
         ],
         "components": {
-          "On-base": 9.999999999999979,
-          "Power": 11.842105263157892,
-          "Contact": 2.500000000000002,
+          "On-base": 3.3333333333333055,
+          "Power": 7.368421052631572,
+          "Contact": 0,
           "Discipline": 18.713450292397653,
           "Speed": 3.3333333333333335
         },
@@ -6753,22 +6753,22 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         },
         "summary": "Evan Kleinhans looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.11",
-          "WHIP 1.61",
-          "K/9 9.6"
+          "ERA 6.04",
+          "WHIP 1.59",
+          "K/9 9.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.11"
+            "value": "6.04"
           },
           {
             "label": "WHIP",
-            "value": "1.61"
+            "value": "1.59"
           },
           {
             "label": "K/9",
-            "value": "9.6"
+            "value": "9.5"
           },
           {
             "label": "BB/9",
@@ -6780,13 +6780,13 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "IP",
-            "value": "28.0"
+            "value": "28.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.298701298701296,
+          "Miss bats": 50.26737967914438,
           "Command": 46.666666666666664,
           "Damage suppression": 0
         },
@@ -6884,48 +6884,48 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "Columbia College",
-        "score": 7,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Thomas Santana gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.93",
-          "WHIP 1.57",
-          "K/9 7.1"
+          "ERA 4.69",
+          "WHIP 1.54",
+          "K/9 7.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.93"
+            "value": "4.69"
           },
           {
             "label": "WHIP",
-            "value": "1.57"
+            "value": "1.54"
           },
           {
             "label": "K/9",
-            "value": "7.1"
+            "value": "7.5"
           },
           {
             "label": "BB/9",
-            "value": "4.9"
+            "value": "4.7"
           },
           {
             "label": "HR/9",
-            "value": "1.07"
+            "value": "1.13"
           },
           {
             "label": "IP",
-            "value": "42.0"
+            "value": "48.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 27.92207792207792,
-          "Command": 8.695652173913041,
+          "Miss bats": 31.818181818181817,
+          "Command": 12.000000000000002,
           "Damage suppression": 0
         },
         "metaLine": "SR / Columbia College",
@@ -7091,29 +7091,29 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "Columbia College",
-        "score": 31,
+        "score": 28,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Owen Estabrook profiles as a C piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .202",
-          "OBP .363",
-          "SLG .364"
+          "AVG .196",
+          "OBP .354",
+          "SLG .353"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".202"
+            "value": ".196"
           },
           {
             "label": "OBP",
-            "value": ".363"
+            "value": ".354"
           },
           {
             "label": "SLG",
-            "value": ".364"
+            "value": ".353"
           },
           {
             "label": "HR",
@@ -7121,7 +7121,7 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "RBI",
-            "value": "16"
+            "value": "17"
           },
           {
             "label": "SB",
@@ -7129,10 +7129,10 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           }
         ],
         "components": {
-          "On-base": 46.11111111111109,
-          "Power": 11.57894736842105,
+          "On-base": 41.111111111111086,
+          "Power": 8.684210526315784,
           "Contact": 0,
-          "Discipline": 93.93939393939392,
+          "Discipline": 88.88888888888889,
           "Speed": 0
         },
         "metaLine": "JR / Columbia College",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-24T11:34:13.122Z",
+  "generatedAt": "2026-04-25T11:04:56.892Z",
   "season": 2026,
   "school": {
     "slug": "rutgers",
@@ -38,84 +38,84 @@
     }
   },
   "teamSummary": {
-    "record": "20-21, 7-11",
-    "battingAverage": ".277",
-    "earnedRunAverage": "5.47",
+    "record": "20-22, 7-12",
+    "battingAverage": ".274",
+    "earnedRunAverage": "5.50",
     "wins": "20",
-    "losses": "21",
+    "losses": "22",
     "hitting": {
-      "atBats": "1401",
+      "atBats": "1431",
       "runsScored": "269",
-      "hits": "388",
+      "hits": "392",
       "runsBattedIn": "244",
       "doubles": "63",
       "triples": "7",
       "homeRuns": "45",
-      "walks": "164",
+      "walks": "169",
       "intentionalWalks": "2",
-      "strikeouts": "333",
-      "strikeoutsLooking": "50",
-      "hitByPitch": "46",
-      "stolenBases": "42",
+      "strikeouts": "340",
+      "strikeoutsLooking": "52",
+      "hitByPitch": "47",
+      "stolenBases": "43",
       "caughtStealing": "7",
       "sacrificeHits": "17",
       "sacrificeFlies": "18",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "310",
-      "flyOuts": "344",
-      "groundedIntoDoublePlay": "26",
+      "groundOuts": "320",
+      "flyOuts": "351",
+      "groundedIntoDoublePlay": "28",
       "pickedOff": "2",
-      "doublePlaysHitInto": "27",
+      "doublePlaysHitInto": "29",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1056",
-      "assists": "367",
-      "errors": "52",
+      "putouts": "1083",
+      "assists": "377",
+      "errors": "53",
       "passedBalls": "3",
       "catchersInterference": "0",
       "stolenBasesAgainst": "34",
-      "caughtStealingBy": "18",
+      "caughtStealingBy": "20",
       "involvedInDoublePlays": "34",
       "involvedInTriplePlays": "0",
-      "totalChances": "1475",
+      "totalChances": "1513",
       "fieldingPercentage": ".965"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "20",
-      "saves": "33",
-      "losses": "20",
+      "saves": "34",
+      "losses": "21",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "1",
       "creditForCombinedShutout": "2",
-      "inningsPitched": "352.1",
-      "hitsAllowed": "396",
-      "runsAllowed": "243",
-      "earnedRunsAllowed": "214",
-      "walksAllowed": "174",
-      "strikeouts": "340",
-      "battersFaced": "1633",
-      "opponentAtBats": "1395",
-      "doublesAllowed": "82",
+      "inningsPitched": "361.1",
+      "hitsAllowed": "404",
+      "runsAllowed": "251",
+      "earnedRunsAllowed": "221",
+      "walksAllowed": "177",
+      "strikeouts": "344",
+      "battersFaced": "1671",
+      "opponentAtBats": "1426",
+      "doublesAllowed": "84",
       "triplesAllowed": "6",
-      "homerunsAllowed": "39",
-      "wildPitches": "27",
+      "homerunsAllowed": "41",
+      "wildPitches": "28",
       "balks": "7",
-      "hitBatters": "30",
-      "strikeoutsLooking": "65",
+      "hitBatters": "31",
+      "strikeoutsLooking": "66",
       "intentionalWalks": "1",
-      "inheritedRunners": "92",
-      "inheritedRunnersThatScored": "36",
-      "sacrificeHitsAllowed": "17",
+      "inheritedRunners": "94",
+      "inheritedRunnersThatScored": "37",
+      "sacrificeHitsAllowed": "20",
       "sacrificeFliesAllowed": "17",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6259",
-      "flyouts": "324",
-      "groundouts": "323",
+      "pitches": "6406",
+      "flyouts": "334",
+      "groundouts": "331",
       "teamUnearnedRuns": "0",
       "saveRecord": "6",
       "pickoff": "0"
@@ -444,13 +444,13 @@
         "jersey": "3",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/charlie-meglio/15956",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/3_Meglio.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "battingAverage": 0.235,
-        "onBasePercentage": 0.351,
-        "sluggingPercentage": 0.444,
-        "ops": 0.795,
-        "atBats": 153,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "battingAverage": 0.232,
+        "onBasePercentage": 0.354,
+        "sluggingPercentage": 0.439,
+        "ops": 0.793,
+        "atBats": 155,
         "runs": 32,
         "hits": 36,
         "doubles": 6,
@@ -458,19 +458,19 @@
         "homeRuns": 8,
         "runsBattedIn": 31,
         "totalBases": 68,
-        "walks": 23,
+        "walks": 25,
         "hitByPitch": 6,
-        "strikeouts": 37,
+        "strikeouts": 38,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
-        "putouts": 28,
-        "assists": 67,
-        "errors": 8,
-        "plateAppearances": 189,
+        "putouts": 29,
+        "assists": 69,
+        "errors": 9,
+        "plateAppearances": 193,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -482,19 +482,19 @@
         "jersey": "3",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/charlie-meglio/15956",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/3_Meglio.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
-        "putouts": 28,
-        "assists": 67,
-        "errors": 8,
-        "fieldingPercentage": 0.922,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "putouts": 29,
+        "assists": 69,
+        "errors": 9,
+        "fieldingPercentage": 0.916,
         "doublePlays": 14,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 103
+        "totalChances": 107
       },
       "evaluation": {
         "score": 31,
@@ -503,30 +503,30 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 39.44444444444442,
-          "Power": 32.631578947368425,
-          "Contact": 9.374999999999991,
-          "Discipline": 46.84684684684684,
+          "On-base": 41.111111111111086,
+          "Power": 31.315789473684212,
+          "Contact": 7.500000000000007,
+          "Discipline": 50.87719298245613,
           "Speed": 13.333333333333334
         },
         "summary": "Charlie Meglio gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .235",
-          "OBP .351",
-          "SLG .444"
+          "AVG .232",
+          "OBP .354",
+          "SLG .439"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".235"
+            "value": ".232"
           },
           {
             "label": "OBP",
-            "value": ".351"
+            "value": ".354"
           },
           {
             "label": "SLG",
-            "value": ".444"
+            "value": ".439"
           },
           {
             "label": "HR",
@@ -589,13 +589,13 @@
         "jersey": "4",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/trey-wells/15957",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/4_Wells.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "battingAverage": 0.304,
-        "onBasePercentage": 0.362,
-        "sluggingPercentage": 0.464,
-        "ops": 0.826,
-        "atBats": 168,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "battingAverage": 0.3,
+        "onBasePercentage": 0.365,
+        "sluggingPercentage": 0.459,
+        "ops": 0.824,
+        "atBats": 170,
         "runs": 34,
         "hits": 51,
         "doubles": 9,
@@ -603,7 +603,7 @@
         "homeRuns": 4,
         "runsBattedIn": 30,
         "totalBases": 78,
-        "walks": 13,
+        "walks": 15,
         "hitByPitch": 4,
         "strikeouts": 38,
         "intentionalWalks": 0,
@@ -615,7 +615,7 @@
         "putouts": 172,
         "assists": 17,
         "errors": 3,
-        "plateAppearances": 196,
+        "plateAppearances": 200,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -642,36 +642,36 @@
         "totalChances": 192
       },
       "evaluation": {
-        "score": 38,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 45.555555555555536,
-          "Power": 37.89473684210527,
-          "Contact": 52.49999999999999,
-          "Discipline": 15.789473684210522,
+          "On-base": 47.22222222222221,
+          "Power": 36.57894736842106,
+          "Contact": 49.999999999999986,
+          "Discipline": 21.637426900584792,
           "Speed": 20
         },
         "summary": "Trey Wells gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .304",
-          "OBP .362",
-          "SLG .464"
+          "AVG .300",
+          "OBP .365",
+          "SLG .459"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".304"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".362"
+            "value": ".365"
           },
           {
             "label": "SLG",
-            "value": ".464"
+            "value": ".459"
           },
           {
             "label": "HR",
@@ -734,13 +734,13 @@
         "jersey": "5",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/chase-krewson/15958",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/5_Krewson.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 39,
-        "battingAverage": 0.262,
-        "onBasePercentage": 0.385,
-        "sluggingPercentage": 0.404,
-        "ops": 0.789,
-        "atBats": 141,
+        "gamesPlayed": 41,
+        "gamesStarted": 40,
+        "battingAverage": 0.255,
+        "onBasePercentage": 0.376,
+        "sluggingPercentage": 0.393,
+        "ops": 0.769,
+        "atBats": 145,
         "runs": 26,
         "hits": 37,
         "doubles": 3,
@@ -750,17 +750,17 @@
         "totalBases": 57,
         "walks": 22,
         "hitByPitch": 6,
-        "strikeouts": 33,
+        "strikeouts": 34,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
+        "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 0,
         "sacrificeHits": 4,
         "stolenBases": 7,
         "stolenBasesAttempts": 8,
-        "putouts": 67,
+        "putouts": 69,
         "assists": 2,
         "errors": 1,
-        "plateAppearances": 182,
+        "plateAppearances": 186,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -772,9 +772,9 @@
         "jersey": "5",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/chase-krewson/15958",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/5_Krewson.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 34,
-        "putouts": 67,
+        "gamesPlayed": 36,
+        "gamesStarted": 35,
+        "putouts": 69,
         "assists": 2,
         "errors": 1,
         "fieldingPercentage": 0.986,
@@ -784,39 +784,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 70
+        "totalChances": 72
       },
       "evaluation": {
-        "score": 39,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 58.33333333333333,
-          "Power": 22.105263157894743,
-          "Contact": 26.250000000000007,
-          "Discipline": 51.85185185185184,
+          "On-base": 53.33333333333332,
+          "Power": 19.21052631578948,
+          "Contact": 21.875000000000004,
+          "Discipline": 49.67320261437908,
           "Speed": 23.333333333333332
         },
         "summary": "Chase Krewson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .262",
-          "OBP .385",
-          "SLG .404"
+          "AVG .255",
+          "OBP .376",
+          "SLG .393"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".262"
+            "value": ".255"
           },
           {
             "label": "OBP",
-            "value": ".385"
+            "value": ".376"
           },
           {
             "label": "SLG",
-            "value": ".404"
+            "value": ".393"
           },
           {
             "label": "HR",
@@ -967,20 +967,20 @@
         "jersey": "7",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/ryan-jaros/15959",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/7_Jaros.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 40,
-        "battingAverage": 0.287,
-        "onBasePercentage": 0.371,
-        "sluggingPercentage": 0.471,
-        "ops": 0.842,
-        "atBats": 136,
+        "gamesPlayed": 42,
+        "gamesStarted": 41,
+        "battingAverage": 0.286,
+        "onBasePercentage": 0.368,
+        "sluggingPercentage": 0.464,
+        "ops": 0.832,
+        "atBats": 140,
         "runs": 25,
-        "hits": 39,
+        "hits": 40,
         "doubles": 8,
         "triples": 1,
         "homeRuns": 5,
         "runsBattedIn": 24,
-        "totalBases": 64,
+        "totalBases": 65,
         "walks": 13,
         "hitByPitch": 7,
         "strikeouts": 37,
@@ -988,12 +988,12 @@
         "groundedIntoDoublePlay": 6,
         "sacrificeFlies": 3,
         "sacrificeHits": 4,
-        "stolenBases": 4,
-        "stolenBasesAttempts": 5,
-        "putouts": 299,
-        "assists": 22,
+        "stolenBases": 5,
+        "stolenBasesAttempts": 6,
+        "putouts": 307,
+        "assists": 23,
         "errors": 4,
-        "plateAppearances": 169,
+        "plateAppearances": 174,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1005,10 +1005,10 @@
         "jersey": "7",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/ryan-jaros/15959",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/7_Jaros.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "putouts": 299,
-        "assists": 22,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "putouts": 307,
+        "assists": 23,
         "errors": 4,
         "fieldingPercentage": 0.988,
         "doublePlays": 30,
@@ -1017,39 +1017,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 325
+        "totalChances": 334
       },
       "evaluation": {
-        "score": 38,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 50.55555555555554,
-          "Power": 39.73684210526315,
-          "Contact": 41.874999999999986,
+          "On-base": 48.88888888888887,
+          "Power": 37.89473684210527,
+          "Contact": 41.24999999999998,
           "Discipline": 16.816816816816814,
-          "Speed": 13.333333333333334
+          "Speed": 16.666666666666664
         },
         "summary": "Ryan Jaros gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .287",
-          "OBP .371",
-          "SLG .471"
+          "AVG .286",
+          "OBP .368",
+          "SLG .464"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".287"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": ".368"
           },
           {
             "label": "SLG",
-            "value": ".471"
+            "value": ".464"
           },
           {
             "label": "HR",
@@ -1061,7 +1061,7 @@
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "metaLine": "JR / N/A",
@@ -1487,20 +1487,20 @@
         "jersey": "12",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/yomar-carreras/15943",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/12_Carreras.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 38,
-        "battingAverage": 0.278,
-        "onBasePercentage": 0.32,
-        "sluggingPercentage": 0.392,
-        "ops": 0.712,
-        "atBats": 158,
+        "gamesPlayed": 40,
+        "gamesStarted": 39,
+        "battingAverage": 0.284,
+        "onBasePercentage": 0.324,
+        "sluggingPercentage": 0.395,
+        "ops": 0.719,
+        "atBats": 162,
         "runs": 25,
-        "hits": 44,
+        "hits": 46,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 4,
         "runsBattedIn": 34,
-        "totalBases": 62,
+        "totalBases": 64,
         "walks": 11,
         "hitByPitch": 0,
         "strikeouts": 25,
@@ -1510,10 +1510,10 @@
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 47,
-        "assists": 84,
+        "putouts": 50,
+        "assists": 86,
         "errors": 9,
-        "plateAppearances": 173,
+        "plateAppearances": 177,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1525,51 +1525,51 @@
         "jersey": "12",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/yomar-carreras/15943",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/12_Carreras.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 36,
-        "putouts": 47,
-        "assists": 84,
+        "gamesPlayed": 38,
+        "gamesStarted": 37,
+        "putouts": 50,
+        "assists": 86,
         "errors": 9,
-        "fieldingPercentage": 0.936,
+        "fieldingPercentage": 0.938,
         "doublePlays": 15,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 140
+        "totalChances": 145
       },
       "evaluation": {
-        "score": 23,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 22.222222222222214,
-          "Power": 18.947368421052634,
-          "Contact": 36.250000000000014,
+          "On-base": 24.444444444444436,
+          "Power": 19.736842105263165,
+          "Contact": 39.99999999999998,
           "Discipline": 26.66666666666666,
           "Speed": 3.3333333333333335
         },
         "summary": "Yomar Carreras gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .278",
-          "OBP .320",
-          "SLG .392"
+          "AVG .284",
+          "OBP .324",
+          "SLG .395"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".278"
+            "value": ".284"
           },
           {
             "label": "OBP",
-            "value": ".320"
+            "value": ".324"
           },
           {
             "label": "SLG",
-            "value": ".392"
+            "value": ".395"
           },
           {
             "label": "HR",
@@ -2008,32 +2008,32 @@
         "jersey": "17",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/dallin-harrison/15964",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/17_Harrison.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 9,
-        "appearances": 10,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 9.53,
-        "whip": 2.26,
+        "earnedRunAverage": 9.46,
+        "whip": 2.16,
         "wins": 2,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 28.333333333333332,
-        "inningsPitchedDisplay": "28.1",
-        "hitsAllowed": 50,
-        "runsAllowed": 34,
-        "earnedRunsAllowed": 30,
-        "walksAllowed": 14,
-        "strikeouts": 29,
+        "inningsPitched": 32.333333333333336,
+        "inningsPitchedDisplay": "32.1",
+        "hitsAllowed": 54,
+        "runsAllowed": 38,
+        "earnedRunsAllowed": 34,
+        "walksAllowed": 16,
+        "strikeouts": 30,
         "doublesAllowed": 10,
         "triplesAllowed": 2,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 130,
-        "wildPitches": 2,
-        "hitBatters": 6,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 144,
+        "wildPitches": 3,
+        "hitBatters": 7,
         "balks": 1,
-        "opponentsBattingAverage": 0.385,
-        "walksHits": 64
+        "opponentsBattingAverage": 0.375,
+        "walksHits": 70
       },
       "fieldingStats": {
         "rosterBioId": "15964",
@@ -2042,22 +2042,22 @@
         "jersey": "17",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/dallin-harrison/15964",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/17_Harrison.jpg",
-        "gamesPlayed": 3,
+        "gamesPlayed": 4,
         "gamesStarted": 3,
-        "putouts": 1,
+        "putouts": 2,
         "assists": 1,
         "errors": 1,
-        "fieldingPercentage": 0.667,
+        "fieldingPercentage": 0.75,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 3
+        "totalChances": 4
       },
       "evaluation": {
-        "score": 13,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2065,40 +2065,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 47.37967914438504,
-          "Command": 21.428571428571434,
+          "Miss bats": 39.550140581068405,
+          "Command": 17.5,
           "Damage suppression": 0
         },
-        "summary": "Dallin Harrison looks like a RHP option who misses bats.",
+        "summary": "Dallin Harrison gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.53",
-          "WHIP 2.26",
-          "K/9 9.2"
+          "ERA 9.46",
+          "WHIP 2.16",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.53"
+            "value": "9.46"
           },
           {
             "label": "WHIP",
-            "value": "2.26"
+            "value": "2.16"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "4.4"
+            "value": "4.5"
           },
           {
             "label": "HR/9",
-            "value": "0.64"
+            "value": "0.84"
           },
           {
             "label": "IP",
-            "value": "28.3"
+            "value": "32.3"
           }
         ],
         "metaLine": "JR / N/A",
@@ -2295,32 +2295,32 @@
         "jersey": "19",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/zack-konstantinovsky/15950",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/19_Konstantinovsky.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 10,
-        "appearances": 10,
+        "gamesPlayed": 11,
+        "gamesStarted": 11,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.12,
-        "whip": 1.55,
+        "earnedRunAverage": 6.04,
+        "whip": 1.49,
         "wins": 3,
-        "losses": 3,
+        "losses": 4,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 42.666666666666664,
-        "inningsPitchedDisplay": "42.2",
-        "hitsAllowed": 51,
-        "runsAllowed": 31,
-        "earnedRunsAllowed": 29,
-        "walksAllowed": 15,
-        "strikeouts": 54,
-        "doublesAllowed": 8,
+        "inningsPitched": 47.666666666666664,
+        "inningsPitchedDisplay": "47.2",
+        "hitsAllowed": 55,
+        "runsAllowed": 35,
+        "earnedRunsAllowed": 32,
+        "walksAllowed": 16,
+        "strikeouts": 57,
+        "doublesAllowed": 10,
         "triplesAllowed": 2,
-        "homeRunsAllowed": 7,
-        "opponentsAtBats": 171,
+        "homeRunsAllowed": 8,
+        "opponentsAtBats": 188,
         "wildPitches": 0,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.298,
-        "walksHits": 66
+        "opponentsBattingAverage": 0.293,
+        "walksHits": 71
       },
       "fieldingStats": {
         "rosterBioId": "15950",
@@ -2329,22 +2329,22 @@
         "jersey": "19",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/zack-konstantinovsky/15950",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/19_Konstantinovsky.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 5,
-        "putouts": 0,
-        "assists": 4,
+        "gamesPlayed": 6,
+        "gamesStarted": 6,
+        "putouts": 1,
+        "assists": 6,
         "errors": 1,
-        "fieldingPercentage": 0.8,
+        "fieldingPercentage": 0.875,
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 5
+        "totalChances": 8
       },
       "evaluation": {
-        "score": 22,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2352,40 +2352,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 67.1875,
-          "Command": 52,
+          "Miss bats": 61.47488874761603,
+          "Command": 51.24999999999999,
           "Damage suppression": 0
         },
         "summary": "Zack Konstantinovsky looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.12",
-          "WHIP 1.55",
-          "K/9 11.4"
+          "ERA 6.04",
+          "WHIP 1.49",
+          "K/9 10.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.12"
+            "value": "6.04"
           },
           {
             "label": "WHIP",
-            "value": "1.55"
+            "value": "1.49"
           },
           {
             "label": "K/9",
-            "value": "11.4"
+            "value": "10.8"
           },
           {
             "label": "BB/9",
-            "value": "3.2"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "1.48"
+            "value": "1.51"
           },
           {
             "label": "IP",
-            "value": "42.7"
+            "value": "47.7"
           }
         ],
         "metaLine": "R-SO / N/A",
@@ -3007,13 +3007,13 @@
         "jersey": "27",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/gabriel-rivera/15968",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/27_Rivera.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 8,
-        "battingAverage": 0.306,
-        "onBasePercentage": 0.395,
-        "sluggingPercentage": 0.444,
-        "ops": 0.839,
-        "atBats": 36,
+        "gamesPlayed": 17,
+        "gamesStarted": 9,
+        "battingAverage": 0.282,
+        "onBasePercentage": 0.383,
+        "sluggingPercentage": 0.41,
+        "ops": 0.793,
+        "atBats": 39,
         "runs": 10,
         "hits": 11,
         "doubles": 2,
@@ -3021,19 +3021,19 @@
         "homeRuns": 1,
         "runsBattedIn": 6,
         "totalBases": 16,
-        "walks": 3,
+        "walks": 4,
         "hitByPitch": 3,
-        "strikeouts": 10,
+        "strikeouts": 11,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
+        "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 2,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 19,
-        "assists": 12,
+        "putouts": 22,
+        "assists": 14,
         "errors": 3,
-        "plateAppearances": 45,
+        "plateAppearances": 49,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3045,51 +3045,51 @@
         "jersey": "27",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/gabriel-rivera/15968",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/27_Rivera.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 6,
-        "putouts": 19,
-        "assists": 12,
+        "gamesPlayed": 12,
+        "gamesStarted": 7,
+        "putouts": 22,
+        "assists": 14,
         "errors": 3,
-        "fieldingPercentage": 0.912,
+        "fieldingPercentage": 0.923,
         "doublePlays": 4,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 34
+        "totalChances": 39
       },
       "evaluation": {
-        "score": 40,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 32.631578947368425,
-          "Contact": 53.75,
-          "Discipline": 11.111111111111107,
+          "On-base": 57.22222222222222,
+          "Power": 23.684210526315784,
+          "Contact": 38.74999999999998,
+          "Discipline": 18.18181818181818,
           "Speed": 0
         },
         "summary": "Gabriel Rivera gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .306",
-          "OBP .395",
-          "SLG .444"
+          "AVG .282",
+          "OBP .383",
+          "SLG .410"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".306"
+            "value": ".282"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": ".383"
           },
           {
             "label": "SLG",
-            "value": ".444"
+            "value": ".410"
           },
           {
             "label": "HR",
@@ -3152,13 +3152,13 @@
         "jersey": "28",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/matt-chatelle/15944",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/28_Chatelle.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 31,
-        "battingAverage": 0.316,
-        "onBasePercentage": 0.417,
-        "sluggingPercentage": 0.376,
-        "ops": 0.793,
-        "atBats": 117,
+        "gamesPlayed": 33,
+        "gamesStarted": 32,
+        "battingAverage": 0.306,
+        "onBasePercentage": 0.406,
+        "sluggingPercentage": 0.364,
+        "ops": 0.77,
+        "atBats": 121,
         "runs": 23,
         "hits": 37,
         "doubles": 4,
@@ -3168,17 +3168,17 @@
         "totalBases": 44,
         "walks": 20,
         "hitByPitch": 1,
-        "strikeouts": 31,
+        "strikeouts": 32,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
         "sacrificeHits": 2,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 165,
-        "assists": 16,
+        "putouts": 169,
+        "assists": 17,
         "errors": 4,
-        "plateAppearances": 143,
+        "plateAppearances": 147,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -3190,51 +3190,51 @@
         "jersey": "28",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/matt-chatelle/15944",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/28_Chatelle.jpg",
-        "gamesPlayed": 19,
-        "gamesStarted": 19,
-        "putouts": 165,
-        "assists": 16,
+        "gamesPlayed": 20,
+        "gamesStarted": 20,
+        "putouts": 169,
+        "assists": 17,
         "errors": 4,
-        "fieldingPercentage": 0.978,
+        "fieldingPercentage": 0.979,
         "doublePlays": 1,
         "stolenBasesAgainst": 16,
-        "caughtStealingBy": 10,
-        "stolenBasesPercentage": 0.615,
+        "caughtStealingBy": 12,
+        "stolenBasesPercentage": 0.571,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 185
+        "totalChances": 190
       },
       "evaluation": {
-        "score": 46,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 76.11111111111109,
-          "Power": 14.73684210526316,
-          "Contact": 60,
-          "Discipline": 49.46236559139784,
+          "On-base": 70,
+          "Power": 11.57894736842105,
+          "Contact": 53.75,
+          "Discipline": 47.222222222222214,
           "Speed": 0
         },
         "summary": "Matt Chatelle profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .316",
-          "OBP .417",
-          "SLG .376"
+          "AVG .306",
+          "OBP .406",
+          "SLG .364"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".316"
+            "value": ".306"
           },
           {
             "label": "OBP",
-            "value": ".417"
+            "value": ".406"
           },
           {
             "label": "SLG",
-            "value": ".376"
+            "value": ".364"
           },
           {
             "label": "HR",
@@ -3706,20 +3706,20 @@
         "jersey": "34",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/jack-sweeney/15955",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/34_Sweeney.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 10,
-        "battingAverage": 0.286,
-        "onBasePercentage": 0.375,
-        "sluggingPercentage": 0.667,
-        "ops": 1.042,
-        "atBats": 42,
+        "gamesPlayed": 16,
+        "gamesStarted": 11,
+        "battingAverage": 0.283,
+        "onBasePercentage": 0.365,
+        "sluggingPercentage": 0.63,
+        "ops": 0.995,
+        "atBats": 46,
         "runs": 9,
-        "hits": 12,
+        "hits": 13,
         "doubles": 1,
         "triples": 0,
         "homeRuns": 5,
         "runsBattedIn": 8,
-        "totalBases": 28,
+        "totalBases": 29,
         "walks": 2,
         "hitByPitch": 4,
         "strikeouts": 9,
@@ -3729,10 +3729,10 @@
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 14,
+        "putouts": 17,
         "assists": 1,
         "errors": 0,
-        "plateAppearances": 49,
+        "plateAppearances": 53,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3744,9 +3744,9 @@
         "jersey": "34",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/jack-sweeney/15955",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/34_Sweeney.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 5,
-        "putouts": 14,
+        "gamesPlayed": 6,
+        "gamesStarted": 6,
+        "putouts": 17,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -3756,39 +3756,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 15
+        "totalChances": 18
       },
       "evaluation": {
-        "score": 49,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 52.77777777777777,
-          "Power": 91.31578947368423,
-          "Contact": 41.24999999999998,
+          "On-base": 47.22222222222221,
+          "Power": 81.57894736842107,
+          "Contact": 39.374999999999986,
           "Discipline": 2.469135802469133,
           "Speed": 3.3333333333333335
         },
         "summary": "Jack Sweeney profiles as a OF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .375",
-          "SLG .667"
+          "AVG .283",
+          "OBP .365",
+          "SLG .630"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".283"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".365"
           },
           {
             "label": "SLG",
-            "value": ".667"
+            "value": ".630"
           },
           {
             "label": "HR",
@@ -3851,13 +3851,13 @@
         "jersey": "36",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/tristan-salinas/15972",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/36_Salinas.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 31,
-        "battingAverage": 0.275,
-        "onBasePercentage": 0.36,
-        "sluggingPercentage": 0.433,
-        "ops": 0.793,
-        "atBats": 120,
+        "gamesPlayed": 34,
+        "gamesStarted": 32,
+        "battingAverage": 0.268,
+        "onBasePercentage": 0.357,
+        "sluggingPercentage": 0.423,
+        "ops": 0.78,
+        "atBats": 123,
         "runs": 19,
         "hits": 33,
         "doubles": 7,
@@ -3866,18 +3866,18 @@
         "runsBattedIn": 14,
         "totalBases": 52,
         "walks": 13,
-        "hitByPitch": 3,
-        "strikeouts": 30,
+        "hitByPitch": 4,
+        "strikeouts": 33,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
-        "putouts": 43,
+        "putouts": 44,
         "assists": 16,
         "errors": 2,
-        "plateAppearances": 141,
+        "plateAppearances": 145,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -3889,51 +3889,51 @@
         "jersey": "36",
         "profileUrl": "https://scarletknights.com/sports/baseball/roster/tristan-salinas/15972",
         "imageUrl": "https://scarletknights.com/images/2026/2/9/36_Salinas.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 26,
-        "putouts": 43,
+        "gamesPlayed": 27,
+        "gamesStarted": 27,
+        "putouts": 44,
         "assists": 16,
         "errors": 2,
-        "fieldingPercentage": 0.967,
+        "fieldingPercentage": 0.968,
         "doublePlays": 2,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 61
+        "totalChances": 62
       },
       "evaluation": {
-        "score": 33,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 44.44444444444443,
-          "Power": 29.73684210526316,
-          "Contact": 34.375000000000014,
-          "Discipline": 25.925925925925924,
+          "On-base": 42.77777777777775,
+          "Power": 27.105263157894736,
+          "Contact": 30.00000000000001,
+          "Discipline": 21.548821548821543,
           "Speed": 10
         },
         "summary": "Tristan Salinas gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .275",
-          "OBP .360",
-          "SLG .433"
+          "AVG .268",
+          "OBP .357",
+          "SLG .423"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".275"
+            "value": ".268"
           },
           {
             "label": "OBP",
-            "value": ".360"
+            "value": ".357"
           },
           {
             "label": "SLG",
-            "value": ".433"
+            "value": ".423"
           },
           {
             "label": "HR",
@@ -5419,22 +5419,22 @@
         },
         "summary": "Charlie Meglio gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .235",
-          "OBP .351",
-          "SLG .444"
+          "AVG .232",
+          "OBP .354",
+          "SLG .439"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".235"
+            "value": ".232"
           },
           {
             "label": "OBP",
-            "value": ".351"
+            "value": ".354"
           },
           {
             "label": "SLG",
-            "value": ".444"
+            "value": ".439"
           },
           {
             "label": "HR",
@@ -5450,10 +5450,10 @@
           }
         ],
         "components": {
-          "On-base": 39.44444444444442,
-          "Power": 32.631578947368425,
-          "Contact": 9.374999999999991,
-          "Discipline": 46.84684684684684,
+          "On-base": 41.111111111111086,
+          "Power": 31.315789473684212,
+          "Contact": 7.500000000000007,
+          "Discipline": 50.87719298245613,
           "Speed": 13.333333333333334
         },
         "metaLine": "JR / N/A",
@@ -5481,29 +5481,29 @@
         "position": "C",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 38,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Trey Wells gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .304",
-          "OBP .362",
-          "SLG .464"
+          "AVG .300",
+          "OBP .365",
+          "SLG .459"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".304"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".362"
+            "value": ".365"
           },
           {
             "label": "SLG",
-            "value": ".464"
+            "value": ".459"
           },
           {
             "label": "HR",
@@ -5519,10 +5519,10 @@
           }
         ],
         "components": {
-          "On-base": 45.555555555555536,
-          "Power": 37.89473684210527,
-          "Contact": 52.49999999999999,
-          "Discipline": 15.789473684210522,
+          "On-base": 47.22222222222221,
+          "Power": 36.57894736842106,
+          "Contact": 49.999999999999986,
+          "Discipline": 21.637426900584792,
           "Speed": 20
         },
         "metaLine": "SR / N/A",
@@ -5550,29 +5550,29 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 39,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Chase Krewson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .262",
-          "OBP .385",
-          "SLG .404"
+          "AVG .255",
+          "OBP .376",
+          "SLG .393"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".262"
+            "value": ".255"
           },
           {
             "label": "OBP",
-            "value": ".385"
+            "value": ".376"
           },
           {
             "label": "SLG",
-            "value": ".404"
+            "value": ".393"
           },
           {
             "label": "HR",
@@ -5588,10 +5588,10 @@
           }
         ],
         "components": {
-          "On-base": 58.33333333333333,
-          "Power": 22.105263157894743,
-          "Contact": 26.250000000000007,
-          "Discipline": 51.85185185185184,
+          "On-base": 53.33333333333332,
+          "Power": 19.21052631578948,
+          "Contact": 21.875000000000004,
+          "Discipline": 49.67320261437908,
           "Speed": 23.333333333333332
         },
         "metaLine": "JR / N/A",
@@ -5687,29 +5687,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 38,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ryan Jaros gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .287",
-          "OBP .371",
-          "SLG .471"
+          "AVG .286",
+          "OBP .368",
+          "SLG .464"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".287"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": ".368"
           },
           {
             "label": "SLG",
-            "value": ".471"
+            "value": ".464"
           },
           {
             "label": "HR",
@@ -5721,15 +5721,15 @@
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "components": {
-          "On-base": 50.55555555555554,
-          "Power": 39.73684210526315,
-          "Contact": 41.874999999999986,
+          "On-base": 48.88888888888887,
+          "Power": 37.89473684210527,
+          "Contact": 41.24999999999998,
           "Discipline": 16.816816816816814,
-          "Speed": 13.333333333333334
+          "Speed": 16.666666666666664
         },
         "metaLine": "JR / N/A",
         "detailBadges": [
@@ -5962,29 +5962,29 @@
         "position": "INF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 23,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Yomar Carreras gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .278",
-          "OBP .320",
-          "SLG .392"
+          "AVG .284",
+          "OBP .324",
+          "SLG .395"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".278"
+            "value": ".284"
           },
           {
             "label": "OBP",
-            "value": ".320"
+            "value": ".324"
           },
           {
             "label": "SLG",
-            "value": ".392"
+            "value": ".395"
           },
           {
             "label": "HR",
@@ -6000,9 +6000,9 @@
           }
         ],
         "components": {
-          "On-base": 22.222222222222214,
-          "Power": 18.947368421052634,
-          "Contact": 36.250000000000014,
+          "On-base": 24.444444444444436,
+          "Power": 19.736842105263165,
+          "Contact": 39.99999999999998,
           "Discipline": 26.66666666666666,
           "Speed": 3.3333333333333335
         },
@@ -6237,48 +6237,48 @@
         "position": "RHP",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 13,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Dallin Harrison looks like a RHP option who misses bats.",
+        "summary": "Dallin Harrison gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.53",
-          "WHIP 2.26",
-          "K/9 9.2"
+          "ERA 9.46",
+          "WHIP 2.16",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.53"
+            "value": "9.46"
           },
           {
             "label": "WHIP",
-            "value": "2.26"
+            "value": "2.16"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "4.4"
+            "value": "4.5"
           },
           {
             "label": "HR/9",
-            "value": "0.64"
+            "value": "0.84"
           },
           {
             "label": "IP",
-            "value": "28.3"
+            "value": "32.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 47.37967914438504,
-          "Command": 21.428571428571434,
+          "Miss bats": 39.550140581068405,
+          "Command": 17.5,
           "Damage suppression": 0
         },
         "metaLine": "JR / N/A",
@@ -6375,48 +6375,48 @@
         "position": "RHP",
         "classYear": "R-SO",
         "handedness": "N/A",
-        "score": 22,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Zack Konstantinovsky looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.12",
-          "WHIP 1.55",
-          "K/9 11.4"
+          "ERA 6.04",
+          "WHIP 1.49",
+          "K/9 10.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.12"
+            "value": "6.04"
           },
           {
             "label": "WHIP",
-            "value": "1.55"
+            "value": "1.49"
           },
           {
             "label": "K/9",
-            "value": "11.4"
+            "value": "10.8"
           },
           {
             "label": "BB/9",
-            "value": "3.2"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "1.48"
+            "value": "1.51"
           },
           {
             "label": "IP",
-            "value": "42.7"
+            "value": "47.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 67.1875,
-          "Command": 52,
+          "Miss bats": 61.47488874761603,
+          "Command": 51.24999999999999,
           "Damage suppression": 0
         },
         "metaLine": "R-SO / N/A",
@@ -6720,29 +6720,29 @@
         "position": "INF",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 40,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Gabriel Rivera gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .306",
-          "OBP .395",
-          "SLG .444"
+          "AVG .282",
+          "OBP .383",
+          "SLG .410"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".306"
+            "value": ".282"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": ".383"
           },
           {
             "label": "SLG",
-            "value": ".444"
+            "value": ".410"
           },
           {
             "label": "HR",
@@ -6758,10 +6758,10 @@
           }
         ],
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 32.631578947368425,
-          "Contact": 53.75,
-          "Discipline": 11.111111111111107,
+          "On-base": 57.22222222222222,
+          "Power": 23.684210526315784,
+          "Contact": 38.74999999999998,
+          "Discipline": 18.18181818181818,
           "Speed": 0
         },
         "metaLine": "FR / N/A",
@@ -6789,29 +6789,29 @@
         "position": "C",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 46,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Matt Chatelle profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .316",
-          "OBP .417",
-          "SLG .376"
+          "AVG .306",
+          "OBP .406",
+          "SLG .364"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".316"
+            "value": ".306"
           },
           {
             "label": "OBP",
-            "value": ".417"
+            "value": ".406"
           },
           {
             "label": "SLG",
-            "value": ".376"
+            "value": ".364"
           },
           {
             "label": "HR",
@@ -6827,10 +6827,10 @@
           }
         ],
         "components": {
-          "On-base": 76.11111111111109,
-          "Power": 14.73684210526316,
-          "Contact": 60,
-          "Discipline": 49.46236559139784,
+          "On-base": 70,
+          "Power": 11.57894736842105,
+          "Contact": 53.75,
+          "Discipline": 47.222222222222214,
           "Speed": 0
         },
         "metaLine": "SR / N/A",
@@ -7131,29 +7131,29 @@
         "position": "OF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 49,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Sweeney profiles as a OF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .375",
-          "SLG .667"
+          "AVG .283",
+          "OBP .365",
+          "SLG .630"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".283"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".365"
           },
           {
             "label": "SLG",
-            "value": ".667"
+            "value": ".630"
           },
           {
             "label": "HR",
@@ -7169,9 +7169,9 @@
           }
         ],
         "components": {
-          "On-base": 52.77777777777777,
-          "Power": 91.31578947368423,
-          "Contact": 41.24999999999998,
+          "On-base": 47.22222222222221,
+          "Power": 81.57894736842107,
+          "Contact": 39.374999999999986,
           "Discipline": 2.469135802469133,
           "Speed": 3.3333333333333335
         },
@@ -7200,29 +7200,29 @@
         "position": "INF",
         "classYear": "R-SO",
         "handedness": "N/A",
-        "score": 33,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tristan Salinas gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .275",
-          "OBP .360",
-          "SLG .433"
+          "AVG .268",
+          "OBP .357",
+          "SLG .423"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".275"
+            "value": ".268"
           },
           {
             "label": "OBP",
-            "value": ".360"
+            "value": ".357"
           },
           {
             "label": "SLG",
-            "value": ".433"
+            "value": ".423"
           },
           {
             "label": "HR",
@@ -7238,10 +7238,10 @@
           }
         ],
         "components": {
-          "On-base": 44.44444444444443,
-          "Power": 29.73684210526316,
-          "Contact": 34.375000000000014,
-          "Discipline": 25.925925925925924,
+          "On-base": 42.77777777777775,
+          "Power": 27.105263157894736,
+          "Contact": 30.00000000000001,
+          "Discipline": 21.548821548821543,
           "Speed": 10
         },
         "metaLine": "R-SO / N/A",
