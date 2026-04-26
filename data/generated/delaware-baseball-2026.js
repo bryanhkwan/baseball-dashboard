@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.delaware2026 = {
-  "generatedAt": "2026-04-25T11:04:25.367Z",
+  "generatedAt": "2026-04-26T11:03:49.443Z",
   "season": 2026,
   "school": {
     "slug": "delaware",
@@ -41,84 +41,84 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
     }
   },
   "teamSummary": {
-    "record": "13-29, 2-17",
-    "battingAverage": ".256",
-    "earnedRunAverage": "7.12",
+    "record": "13-30, 2-18",
+    "battingAverage": ".255",
+    "earnedRunAverage": "7.14",
     "wins": "13",
-    "losses": "29",
+    "losses": "30",
     "hitting": {
-      "atBats": "1403",
-      "runsScored": "241",
-      "hits": "359",
-      "runsBattedIn": "217",
-      "doubles": "57",
+      "atBats": "1437",
+      "runsScored": "246",
+      "hits": "367",
+      "runsBattedIn": "222",
+      "doubles": "60",
       "triples": "8",
-      "homeRuns": "43",
-      "walks": "205",
+      "homeRuns": "44",
+      "walks": "209",
       "intentionalWalks": "2",
-      "strikeouts": "329",
-      "strikeoutsLooking": "90",
+      "strikeouts": "335",
+      "strikeoutsLooking": "92",
       "hitByPitch": "50",
       "stolenBases": "50",
       "caughtStealing": "9",
       "sacrificeHits": "4",
-      "sacrificeFlies": "11",
+      "sacrificeFlies": "12",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "338",
-      "flyOuts": "346",
+      "groundOuts": "347",
+      "flyOuts": "358",
       "groundedIntoDoublePlay": "29",
       "pickedOff": "5",
       "doublePlaysHitInto": "35",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1061",
-      "assists": "371",
-      "errors": "57",
+      "putouts": "1085",
+      "assists": "377",
+      "errors": "61",
       "passedBalls": "19",
       "catchersInterference": "1",
-      "stolenBasesAgainst": "66",
-      "caughtStealingBy": "11",
+      "stolenBasesAgainst": "67",
+      "caughtStealingBy": "12",
       "involvedInDoublePlays": "29",
       "involvedInTriplePlays": "0",
-      "totalChances": "1489",
-      "fieldingPercentage": ".962"
+      "totalChances": "1523",
+      "fieldingPercentage": ".960"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "12",
       "saves": "5",
-      "losses": "29",
+      "losses": "30",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "2",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "354.0",
-      "hitsAllowed": "410",
-      "runsAllowed": "330",
-      "earnedRunsAllowed": "280",
-      "walksAllowed": "243",
-      "strikeouts": "310",
-      "battersFaced": "1752",
-      "opponentAtBats": "1416",
-      "doublesAllowed": "96",
-      "triplesAllowed": "3",
+      "inningsPitched": "362.0",
+      "hitsAllowed": "422",
+      "runsAllowed": "341",
+      "earnedRunsAllowed": "287",
+      "walksAllowed": "250",
+      "strikeouts": "314",
+      "battersFaced": "1796",
+      "opponentAtBats": "1449",
+      "doublesAllowed": "100",
+      "triplesAllowed": "4",
       "homerunsAllowed": "46",
-      "wildPitches": "40",
+      "wildPitches": "42",
       "balks": "6",
-      "hitBatters": "60",
-      "strikeoutsLooking": "72",
+      "hitBatters": "61",
+      "strikeoutsLooking": "73",
       "intentionalWalks": "3",
       "inheritedRunners": "28",
       "inheritedRunnersThatScored": "18",
       "sacrificeHitsAllowed": "10",
-      "sacrificeFliesAllowed": "22",
+      "sacrificeFliesAllowed": "25",
       "catchersInterferenceAllowed": "1",
-      "pitches": "6240",
-      "flyouts": "341",
-      "groundouts": "349",
+      "pitches": "6425",
+      "flyouts": "355",
+      "groundouts": "354",
       "teamUnearnedRuns": "0",
       "saveRecord": "2",
       "pickoff": "4"
@@ -163,20 +163,20 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "jersey": "1",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/sal-mineo/30511",
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Sal_0q1zF.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "battingAverage": 0.292,
-        "onBasePercentage": 0.398,
-        "sluggingPercentage": 0.444,
-        "ops": 0.842,
-        "atBats": 171,
+        "gamesPlayed": 43,
+        "gamesStarted": 43,
+        "battingAverage": 0.29,
+        "onBasePercentage": 0.393,
+        "sluggingPercentage": 0.443,
+        "ops": 0.836,
+        "atBats": 176,
         "runs": 39,
-        "hits": 50,
-        "doubles": 3,
+        "hits": 51,
+        "doubles": 4,
         "triples": 1,
         "homeRuns": 7,
         "runsBattedIn": 25,
-        "totalBases": 76,
+        "totalBases": 78,
         "walks": 19,
         "hitByPitch": 11,
         "strikeouts": 28,
@@ -186,10 +186,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "sacrificeHits": 0,
         "stolenBases": 12,
         "stolenBasesAttempts": 15,
-        "putouts": 105,
+        "putouts": 108,
         "assists": 6,
-        "errors": 5,
-        "plateAppearances": 219,
+        "errors": 7,
+        "plateAppearances": 224,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -201,51 +201,51 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "jersey": "1",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/sal-mineo/30511",
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Sal_0q1zF.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "putouts": 105,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "putouts": 108,
         "assists": 6,
-        "errors": 5,
-        "fieldingPercentage": 0.957,
+        "errors": 7,
+        "fieldingPercentage": 0.942,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 116
+        "totalChances": 121
       },
       "evaluation": {
-        "score": 49,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 65.55555555555556,
-          "Power": 32.631578947368425,
-          "Contact": 44.999999999999986,
+          "On-base": 62.77777777777778,
+          "Power": 32.36842105263158,
+          "Contact": 43.749999999999986,
           "Discipline": 53.17460317460318,
           "Speed": 40
         },
         "summary": "Sal Mineo profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .292",
-          "OBP .398",
-          "SLG .444"
+          "AVG .290",
+          "OBP .393",
+          "SLG .443"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".290"
           },
           {
             "label": "OBP",
-            "value": ".398"
+            "value": ".393"
           },
           {
             "label": "SLG",
-            "value": ".444"
+            "value": ".443"
           },
           {
             "label": "HR",
@@ -453,33 +453,33 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "jersey": "3",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/matthew-minckler/30240",
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Matthew_Minckler_fhUnS.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 30,
-        "battingAverage": 0.182,
-        "onBasePercentage": 0.308,
-        "sluggingPercentage": 0.263,
-        "ops": 0.571,
-        "atBats": 99,
+        "gamesPlayed": 38,
+        "gamesStarted": 31,
+        "battingAverage": 0.186,
+        "onBasePercentage": 0.306,
+        "sluggingPercentage": 0.275,
+        "ops": 0.581,
+        "atBats": 102,
         "runs": 13,
-        "hits": 18,
-        "doubles": 2,
+        "hits": 19,
+        "doubles": 3,
         "triples": 0,
         "homeRuns": 2,
-        "runsBattedIn": 7,
-        "totalBases": 26,
+        "runsBattedIn": 8,
+        "totalBases": 28,
         "walks": 16,
         "hitByPitch": 2,
         "strikeouts": 26,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 0,
+        "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 8,
         "stolenBasesAttempts": 8,
-        "putouts": 29,
+        "putouts": 36,
         "assists": 87,
         "errors": 17,
-        "plateAppearances": 126,
+        "plateAppearances": 130,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -524,19 +524,19 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "jersey": "3",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/matthew-minckler/30240",
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Matthew_Minckler_fhUnS.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 30,
-        "putouts": 29,
+        "gamesPlayed": 32,
+        "gamesStarted": 31,
+        "putouts": 36,
         "assists": 87,
         "errors": 17,
-        "fieldingPercentage": 0.872,
+        "fieldingPercentage": 0.879,
         "doublePlays": 15,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 133
+        "totalChances": 140
       },
       "evaluation": {
         "score": 27,
@@ -719,33 +719,33 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "jersey": "5",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/jeremy-wolf/30513",
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Jeremy_Wolf_msdCz.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "battingAverage": 0.252,
-        "onBasePercentage": 0.394,
-        "sluggingPercentage": 0.409,
-        "ops": 0.803,
-        "atBats": 127,
-        "runs": 30,
-        "hits": 32,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "battingAverage": 0.26,
+        "onBasePercentage": 0.396,
+        "sluggingPercentage": 0.435,
+        "ops": 0.831,
+        "atBats": 131,
+        "runs": 32,
+        "hits": 34,
         "doubles": 9,
         "triples": 1,
-        "homeRuns": 3,
-        "runsBattedIn": 17,
-        "totalBases": 52,
+        "homeRuns": 4,
+        "runsBattedIn": 20,
+        "totalBases": 57,
         "walks": 17,
         "hitByPitch": 14,
-        "strikeouts": 23,
+        "strikeouts": 24,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 7,
         "stolenBasesAttempts": 7,
-        "putouts": 53,
-        "assists": 77,
+        "putouts": 54,
+        "assists": 78,
         "errors": 3,
-        "plateAppearances": 167,
+        "plateAppearances": 171,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -757,59 +757,59 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "jersey": "5",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/jeremy-wolf/30513",
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Jeremy_Wolf_msdCz.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "putouts": 53,
-        "assists": 77,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "putouts": 54,
+        "assists": 78,
         "errors": 3,
-        "fieldingPercentage": 0.977,
+        "fieldingPercentage": 0.978,
         "doublePlays": 18,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 133
+        "totalChances": 135
       },
       "evaluation": {
-        "score": 41,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 63.33333333333333,
-          "Power": 23.42105263157894,
-          "Contact": 20,
-          "Discipline": 59.903381642512066,
+          "On-base": 64.44444444444444,
+          "Power": 30.263157894736842,
+          "Contact": 25.000000000000007,
+          "Discipline": 56.48148148148147,
           "Speed": 23.333333333333332
         },
         "summary": "Jeremy Wolf gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .252",
-          "OBP .394",
-          "SLG .409"
+          "AVG .260",
+          "OBP .396",
+          "SLG .435"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".252"
+            "value": ".260"
           },
           {
             "label": "OBP",
-            "value": ".394"
+            "value": ".396"
           },
           {
             "label": "SLG",
-            "value": ".409"
+            "value": ".435"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "4"
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "20"
           },
           {
             "label": "SB",
@@ -864,23 +864,23 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "jersey": "6",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/lt-cockrill/30230",
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_LT_Cockrill_GS3Yh.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
         "battingAverage": 0.238,
         "onBasePercentage": 0.396,
-        "sluggingPercentage": 0.364,
-        "ops": 0.76,
-        "atBats": 143,
+        "sluggingPercentage": 0.361,
+        "ops": 0.757,
+        "atBats": 147,
         "runs": 26,
-        "hits": 34,
+        "hits": 35,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 4,
         "runsBattedIn": 19,
-        "totalBases": 52,
-        "walks": 30,
+        "totalBases": 53,
+        "walks": 31,
         "hitByPitch": 8,
-        "strikeouts": 38,
+        "strikeouts": 40,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
@@ -890,7 +890,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "putouts": 189,
         "assists": 17,
         "errors": 0,
-        "plateAppearances": 184,
+        "plateAppearances": 189,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -924,16 +924,16 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         },
         "components": {
           "On-base": 64.44444444444444,
-          "Power": 11.57894736842105,
+          "Power": 10.789473684210522,
           "Contact": 11.249999999999991,
-          "Discipline": 65.49707602339181,
+          "Discipline": 63.88888888888887,
           "Speed": 6.666666666666667
         },
         "summary": "LT Cockrill gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .238",
           "OBP .396",
-          "SLG .364"
+          "SLG .361"
         ],
         "statCards": [
           {
@@ -946,7 +946,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           },
           {
             "label": "SLG",
-            "value": ".364"
+            "value": ".361"
           },
           {
             "label": "HR",
@@ -1009,33 +1009,33 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "jersey": "7",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/evan-bouldin/30226",
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Evan_Bouldin_IJAjW.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "battingAverage": 0.346,
-        "onBasePercentage": 0.435,
-        "sluggingPercentage": 0.586,
-        "ops": 1.021,
-        "atBats": 162,
-        "runs": 30,
+        "gamesPlayed": 43,
+        "gamesStarted": 43,
+        "battingAverage": 0.339,
+        "onBasePercentage": 0.434,
+        "sluggingPercentage": 0.576,
+        "ops": 1.01,
+        "atBats": 165,
+        "runs": 31,
         "hits": 56,
         "doubles": 12,
         "triples": 0,
         "homeRuns": 9,
         "runsBattedIn": 34,
         "totalBases": 95,
-        "walks": 26,
+        "walks": 28,
         "hitByPitch": 1,
-        "strikeouts": 15,
+        "strikeouts": 16,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
-        "putouts": 299,
-        "assists": 20,
+        "putouts": 303,
+        "assists": 22,
         "errors": 7,
-        "plateAppearances": 197,
+        "plateAppearances": 202,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1047,10 +1047,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "jersey": "7",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/evan-bouldin/30226",
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Evan_Bouldin_IJAjW.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "putouts": 299,
-        "assists": 20,
+        "gamesPlayed": 43,
+        "gamesStarted": 43,
+        "putouts": 303,
+        "assists": 22,
         "errors": 7,
         "fieldingPercentage": 0.979,
         "doublePlays": 23,
@@ -1059,39 +1059,39 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 326
+        "totalChances": 332
       },
       "evaluation": {
-        "score": 75,
+        "score": 74,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 86.1111111111111,
-          "Power": 70,
-          "Contact": 78.74999999999999,
+          "On-base": 85.55555555555554,
+          "Power": 67.36842105263158,
+          "Contact": 74.37500000000001,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },
         "summary": "Evan Bouldin profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .346",
-          "OBP .435",
-          "SLG .586"
+          "AVG .339",
+          "OBP .434",
+          "SLG .576"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".346"
+            "value": ".339"
           },
           {
             "label": "OBP",
-            "value": ".435"
+            "value": ".434"
           },
           {
             "label": "SLG",
-            "value": ".586"
+            "value": ".576"
           },
           {
             "label": "HR",
@@ -1154,20 +1154,20 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "jersey": "8",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/anthony-charles/30514",
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Anthony_Charles_kqHd4.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 28,
+        "gamesPlayed": 33,
+        "gamesStarted": 29,
         "battingAverage": 0.255,
-        "onBasePercentage": 0.365,
-        "sluggingPercentage": 0.316,
-        "ops": 0.681,
-        "atBats": 98,
+        "onBasePercentage": 0.361,
+        "sluggingPercentage": 0.314,
+        "ops": 0.675,
+        "atBats": 102,
         "runs": 12,
-        "hits": 25,
+        "hits": 26,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 0,
-        "runsBattedIn": 12,
-        "totalBases": 31,
+        "runsBattedIn": 13,
+        "totalBases": 32,
         "walks": 15,
         "hitByPitch": 2,
         "strikeouts": 20,
@@ -1177,10 +1177,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "sacrificeHits": 2,
         "stolenBases": 7,
         "stolenBasesAttempts": 7,
-        "putouts": 45,
+        "putouts": 48,
         "assists": 2,
         "errors": 0,
-        "plateAppearances": 124,
+        "plateAppearances": 128,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1192,9 +1192,9 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "jersey": "8",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/anthony-charles/30514",
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Anthony_Charles_kqHd4.jpg",
-        "gamesPlayed": 21,
-        "gamesStarted": 21,
-        "putouts": 45,
+        "gamesPlayed": 22,
+        "gamesStarted": 22,
+        "putouts": 48,
         "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1204,16 +1204,16 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 47
+        "totalChances": 50
       },
       "evaluation": {
-        "score": 30,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 47.22222222222221,
+          "On-base": 44.99999999999998,
           "Power": 0,
           "Contact": 21.875000000000004,
           "Discipline": 61.11111111111111,
@@ -1222,8 +1222,8 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "summary": "Anthony Charles gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .255",
-          "OBP .365",
-          "SLG .316"
+          "OBP .361",
+          "SLG .314"
         ],
         "statCards": [
           {
@@ -1232,11 +1232,11 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           },
           {
             "label": "OBP",
-            "value": ".365"
+            "value": ".361"
           },
           {
             "label": "SLG",
-            "value": ".316"
+            "value": ".314"
           },
           {
             "label": "HR",
@@ -1244,7 +1244,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "SB",
@@ -1728,13 +1728,13 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "jersey": "14",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/harry-carr/30515",
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Harry_Carr_HXILJ.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 32,
-        "battingAverage": 0.17,
-        "onBasePercentage": 0.315,
-        "sluggingPercentage": 0.245,
-        "ops": 0.56,
-        "atBats": 106,
+        "gamesPlayed": 36,
+        "gamesStarted": 33,
+        "battingAverage": 0.164,
+        "onBasePercentage": 0.306,
+        "sluggingPercentage": 0.236,
+        "ops": 0.542,
+        "atBats": 110,
         "runs": 10,
         "hits": 18,
         "doubles": 3,
@@ -1744,7 +1744,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "totalBases": 26,
         "walks": 23,
         "hitByPitch": 0,
-        "strikeouts": 36,
+        "strikeouts": 37,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
@@ -1752,9 +1752,9 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
         "putouts": 25,
-        "assists": 50,
+        "assists": 51,
         "errors": 7,
-        "plateAppearances": 134,
+        "plateAppearances": 138,
         "caughtStealing": 0,
         "pickedOff": 2
       },
@@ -1766,51 +1766,51 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "jersey": "14",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/harry-carr/30515",
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Harry_Carr_HXILJ.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 30,
+        "gamesPlayed": 32,
+        "gamesStarted": 31,
         "putouts": 25,
-        "assists": 50,
+        "assists": 51,
         "errors": 7,
-        "fieldingPercentage": 0.915,
+        "fieldingPercentage": 0.916,
         "doublePlays": 6,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 82
+        "totalChances": 83
       },
       "evaluation": {
-        "score": 14,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 19.444444444444432,
+          "On-base": 14.444444444444427,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 48.765432098765416,
+          "Discipline": 46.84684684684684,
           "Speed": 13.333333333333334
         },
         "summary": "Harry Carr gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .170",
-          "OBP .315",
-          "SLG .245"
+          "AVG .164",
+          "OBP .306",
+          "SLG .236"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".170"
+            "value": ".164"
           },
           {
             "label": "OBP",
-            "value": ".315"
+            "value": ".306"
           },
           {
             "label": "SLG",
-            "value": ".245"
+            "value": ".236"
           },
           {
             "label": "HR",
@@ -2536,32 +2536,32 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "jersey": "20",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/doug-marose/30238",
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Doug_Marose_9NgX5.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 8,
-        "appearances": 8,
+        "gamesPlayed": 9,
+        "gamesStarted": 9,
+        "appearances": 9,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.75,
-        "whip": 1.73,
+        "earnedRunAverage": 7.44,
+        "whip": 1.87,
         "wins": 1,
-        "losses": 4,
+        "losses": 5,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 30.666666666666668,
-        "inningsPitchedDisplay": "30.2",
-        "hitsAllowed": 41,
-        "runsAllowed": 25,
-        "earnedRunsAllowed": 23,
-        "walksAllowed": 12,
-        "strikeouts": 20,
-        "doublesAllowed": 11,
-        "triplesAllowed": 0,
+        "inningsPitched": 32.666666666666664,
+        "inningsPitchedDisplay": "32.2",
+        "hitsAllowed": 47,
+        "runsAllowed": 32,
+        "earnedRunsAllowed": 27,
+        "walksAllowed": 14,
+        "strikeouts": 21,
+        "doublesAllowed": 13,
+        "triplesAllowed": 1,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 125,
+        "opponentsAtBats": 136,
         "wildPitches": 0,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.328,
-        "walksHits": 53
+        "opponentsBattingAverage": 0.346,
+        "walksHits": 61
       },
       "fieldingStats": {
         "rosterBioId": "30238",
@@ -2570,22 +2570,22 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "jersey": "20",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/doug-marose/30238",
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Doug_Marose_9NgX5.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 8,
+        "gamesPlayed": 9,
+        "gamesStarted": 9,
         "putouts": 6,
         "assists": 4,
-        "errors": 0,
-        "fieldingPercentage": 1,
+        "errors": 1,
+        "fieldingPercentage": 0.909,
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 10
+        "totalChances": 11
       },
       "evaluation": {
-        "score": 6,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2593,40 +2593,40 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 16.996047430830032,
-          "Command": 13.333333333333336,
+          "Miss bats": 16.233766233766243,
+          "Command": 10.000000000000005,
           "Damage suppression": 0
         },
         "summary": "Doug Marose gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 1.73",
-          "K/9 5.9"
+          "ERA 7.44",
+          "WHIP 1.87",
+          "K/9 5.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "7.44"
           },
           {
             "label": "WHIP",
-            "value": "1.73"
+            "value": "1.87"
           },
           {
             "label": "K/9",
-            "value": "5.9"
+            "value": "5.8"
           },
           {
             "label": "BB/9",
-            "value": "3.5"
+            "value": "3.9"
           },
           {
             "label": "HR/9",
-            "value": "1.47"
+            "value": "1.38"
           },
           {
             "label": "IP",
-            "value": "30.7"
+            "value": "32.7"
           }
         ],
         "metaLine": "GR / N/A",
@@ -2819,23 +2819,23 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "jersey": "22",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/sam-winsett/30520",
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Sam_Winsett_QTZ80.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 22,
-        "battingAverage": 0.299,
-        "onBasePercentage": 0.375,
-        "sluggingPercentage": 0.433,
-        "ops": 0.808,
-        "atBats": 97,
-        "runs": 13,
-        "hits": 29,
-        "doubles": 3,
+        "gamesPlayed": 34,
+        "gamesStarted": 23,
+        "battingAverage": 0.307,
+        "onBasePercentage": 0.379,
+        "sluggingPercentage": 0.446,
+        "ops": 0.825,
+        "atBats": 101,
+        "runs": 15,
+        "hits": 31,
+        "doubles": 4,
         "triples": 2,
         "homeRuns": 2,
         "runsBattedIn": 17,
-        "totalBases": 42,
+        "totalBases": 45,
         "walks": 13,
         "hitByPitch": 0,
-        "strikeouts": 29,
+        "strikeouts": 30,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
@@ -2843,9 +2843,9 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 21,
-        "assists": 52,
+        "assists": 53,
         "errors": 4,
-        "plateAppearances": 114,
+        "plateAppearances": 118,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -2857,51 +2857,51 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "jersey": "22",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/sam-winsett/30520",
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Sam_Winsett_QTZ80.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 18,
+        "gamesPlayed": 23,
+        "gamesStarted": 19,
         "putouts": 21,
-        "assists": 52,
+        "assists": 53,
         "errors": 4,
-        "fieldingPercentage": 0.948,
+        "fieldingPercentage": 0.949,
         "doublePlays": 5,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 77
+        "totalChances": 78
       },
       "evaluation": {
-        "score": 38,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 52.77777777777777,
-          "Power": 29.73684210526316,
-          "Contact": 49.37499999999999,
-          "Discipline": 27.58620689655172,
+          "On-base": 54.99999999999999,
+          "Power": 33.15789473684211,
+          "Contact": 54.37499999999999,
+          "Discipline": 25.925925925925924,
           "Speed": 3.3333333333333335
         },
         "summary": "Sam Winsett gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .299",
-          "OBP .375",
-          "SLG .433"
+          "AVG .307",
+          "OBP .379",
+          "SLG .446"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".299"
+            "value": ".307"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".379"
           },
           {
             "label": "SLG",
-            "value": ".433"
+            "value": ".446"
           },
           {
             "label": "HR",
@@ -3336,13 +3336,13 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "jersey": "27",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/anthony-decesare/30522",
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Anthony_DeCeasare_FAm9c.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 27,
-        "battingAverage": 0.275,
-        "onBasePercentage": 0.39,
-        "sluggingPercentage": 0.431,
-        "ops": 0.821,
-        "atBats": 102,
+        "gamesPlayed": 32,
+        "gamesStarted": 28,
+        "battingAverage": 0.267,
+        "onBasePercentage": 0.386,
+        "sluggingPercentage": 0.419,
+        "ops": 0.805,
+        "atBats": 105,
         "runs": 25,
         "hits": 28,
         "doubles": 4,
@@ -3350,7 +3350,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "homeRuns": 4,
         "runsBattedIn": 21,
         "totalBases": 44,
-        "walks": 17,
+        "walks": 18,
         "hitByPitch": 3,
         "strikeouts": 22,
         "intentionalWalks": 0,
@@ -3359,10 +3359,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 2,
-        "putouts": 101,
-        "assists": 6,
+        "putouts": 105,
+        "assists": 7,
         "errors": 2,
-        "plateAppearances": 127,
+        "plateAppearances": 131,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -3374,51 +3374,51 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "jersey": "27",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/anthony-decesare/30522",
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Anthony_DeCeasare_FAm9c.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 14,
-        "putouts": 101,
-        "assists": 6,
+        "gamesPlayed": 17,
+        "gamesStarted": 15,
+        "putouts": 105,
+        "assists": 7,
         "errors": 2,
         "fieldingPercentage": 0.982,
         "doublePlays": 0,
-        "stolenBasesAgainst": 27,
-        "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.9,
+        "stolenBasesAgainst": 28,
+        "caughtStealingBy": 4,
+        "stolenBasesPercentage": 0.875,
         "passedBalls": 5,
         "catchersInterference": 1,
-        "totalChances": 109
+        "totalChances": 114
       },
       "evaluation": {
-        "score": 42,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 61.11111111111111,
-          "Power": 29.210526315789476,
-          "Contact": 34.375000000000014,
-          "Discipline": 63.636363636363626,
+          "On-base": 58.88888888888888,
+          "Power": 26.052631578947366,
+          "Contact": 29.375000000000007,
+          "Discipline": 68.68686868686868,
           "Speed": 0
         },
         "summary": "Anthony DeCesare gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .275",
-          "OBP .390",
-          "SLG .431"
+          "AVG .267",
+          "OBP .386",
+          "SLG .419"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".275"
+            "value": ".267"
           },
           {
             "label": "OBP",
-            "value": ".390"
+            "value": ".386"
           },
           {
             "label": "SLG",
-            "value": ".431"
+            "value": ".419"
           },
           {
             "label": "HR",
@@ -3570,32 +3570,32 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "jersey": "29",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/chase-deibler/30523",
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Chase_Deibler_jqAPl.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 10,
-        "appearances": 12,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.75,
-        "whip": 1.69,
+        "earnedRunAverage": 7.71,
+        "whip": 1.71,
         "wins": 1,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 33.666666666666664,
-        "inningsPitchedDisplay": "33.2",
-        "hitsAllowed": 37,
-        "runsAllowed": 30,
-        "earnedRunsAllowed": 29,
-        "walksAllowed": 20,
-        "strikeouts": 24,
-        "doublesAllowed": 9,
+        "inningsPitched": 37.333333333333336,
+        "inningsPitchedDisplay": "37.1",
+        "hitsAllowed": 42,
+        "runsAllowed": 33,
+        "earnedRunsAllowed": 32,
+        "walksAllowed": 22,
+        "strikeouts": 26,
+        "doublesAllowed": 11,
         "triplesAllowed": 1,
         "homeRunsAllowed": 6,
-        "opponentsAtBats": 131,
-        "wildPitches": 2,
-        "hitBatters": 1,
+        "opponentsAtBats": 145,
+        "wildPitches": 3,
+        "hitBatters": 2,
         "balks": 1,
-        "opponentsBattingAverage": 0.282,
-        "walksHits": 57
+        "opponentsBattingAverage": 0.29,
+        "walksHits": 64
       },
       "fieldingStats": {
         "rosterBioId": "30523",
@@ -3604,19 +3604,19 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "jersey": "29",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/chase-deibler/30523",
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Chase_Deibler_jqAPl.jpg",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 7,
-        "putouts": 2,
+        "putouts": 3,
         "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
+        "errors": 1,
+        "fieldingPercentage": 0.833,
         "doublePlays": 1,
-        "stolenBasesAgainst": 6,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesAgainst": 7,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": 0.875,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 4
+        "totalChances": 6
       },
       "evaluation": {
         "score": 5,
@@ -3627,28 +3627,28 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 21.962196219621966,
-          "Command": 3.9999999999999996,
+          "Miss bats": 20.616883116883113,
+          "Command": 3.6363636363636376,
           "Damage suppression": 0
         },
         "summary": "Chase Deibler gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.75",
-          "WHIP 1.69",
-          "K/9 6.4"
+          "ERA 7.71",
+          "WHIP 1.71",
+          "K/9 6.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.75"
+            "value": "7.71"
           },
           {
             "label": "WHIP",
-            "value": "1.69"
+            "value": "1.71"
           },
           {
             "label": "K/9",
-            "value": "6.4"
+            "value": "6.3"
           },
           {
             "label": "BB/9",
@@ -3656,11 +3656,11 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.60"
+            "value": "1.45"
           },
           {
             "label": "IP",
-            "value": "33.7"
+            "value": "37.3"
           }
         ],
         "metaLine": "FR / N/A",
@@ -4368,32 +4368,32 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "jersey": "36",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/ben-moyzan/30241",
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Ben_Moyzan_fj3Mz.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 0,
-        "appearances": 12,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.85,
+        "earnedRunAverage": 6.23,
         "whip": 1.69,
         "wins": 1,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 23.666666666666668,
-        "inningsPitchedDisplay": "23.2",
-        "hitsAllowed": 23,
-        "runsAllowed": 18,
+        "inningsPitched": 26,
+        "inningsPitchedDisplay": "26.0",
+        "hitsAllowed": 24,
+        "runsAllowed": 19,
         "earnedRunsAllowed": 18,
-        "walksAllowed": 17,
-        "strikeouts": 23,
+        "walksAllowed": 20,
+        "strikeouts": 24,
         "doublesAllowed": 6,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 89,
-        "wildPitches": 1,
+        "opponentsAtBats": 97,
+        "wildPitches": 2,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.258,
-        "walksHits": 40
+        "opponentsBattingAverage": 0.247,
+        "walksHits": 44
       },
       "fieldingStats": {
         "rosterBioId": "30241",
@@ -4402,9 +4402,9 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "jersey": "36",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/ben-moyzan/30241",
         "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Ben_Moyzan_fj3Mz.jpg",
-        "gamesPlayed": 2,
+        "gamesPlayed": 3,
         "gamesStarted": 0,
-        "putouts": 0,
+        "putouts": 1,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -4414,10 +4414,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 1
+        "totalChances": 2
       },
       "evaluation": {
-        "score": 10,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4425,20 +4425,20 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.14980793854033,
-          "Command": 7.058823529411762,
+          "Miss bats": 39.16083916083917,
+          "Command": 3.9999999999999996,
           "Damage suppression": 0
         },
         "summary": "Ben Moyzan gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.85",
+          "ERA 6.23",
           "WHIP 1.69",
-          "K/9 8.7"
+          "K/9 8.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.85"
+            "value": "6.23"
           },
           {
             "label": "WHIP",
@@ -4446,19 +4446,19 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           },
           {
             "label": "K/9",
-            "value": "8.7"
+            "value": "8.3"
           },
           {
             "label": "BB/9",
-            "value": "6.5"
+            "value": "6.9"
           },
           {
             "label": "HR/9",
-            "value": "0.76"
+            "value": "0.69"
           },
           {
             "label": "IP",
-            "value": "23.7"
+            "value": "26.0"
           }
         ],
         "metaLine": "JR / N/A",
@@ -5088,29 +5088,29 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 49,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Sal Mineo profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .292",
-          "OBP .398",
-          "SLG .444"
+          "AVG .290",
+          "OBP .393",
+          "SLG .443"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".290"
           },
           {
             "label": "OBP",
-            "value": ".398"
+            "value": ".393"
           },
           {
             "label": "SLG",
-            "value": ".444"
+            "value": ".443"
           },
           {
             "label": "HR",
@@ -5126,9 +5126,9 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           }
         ],
         "components": {
-          "On-base": 65.55555555555556,
-          "Power": 32.631578947368425,
-          "Contact": 44.999999999999986,
+          "On-base": 62.77777777777778,
+          "Power": 32.36842105263158,
+          "Contact": 43.749999999999986,
           "Discipline": 53.17460317460318,
           "Speed": 40
         },
@@ -5363,37 +5363,37 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 41,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jeremy Wolf gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .252",
-          "OBP .394",
-          "SLG .409"
+          "AVG .260",
+          "OBP .396",
+          "SLG .435"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".252"
+            "value": ".260"
           },
           {
             "label": "OBP",
-            "value": ".394"
+            "value": ".396"
           },
           {
             "label": "SLG",
-            "value": ".409"
+            "value": ".435"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "4"
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "20"
           },
           {
             "label": "SB",
@@ -5401,10 +5401,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           }
         ],
         "components": {
-          "On-base": 63.33333333333333,
-          "Power": 23.42105263157894,
-          "Contact": 20,
-          "Discipline": 59.903381642512066,
+          "On-base": 64.44444444444444,
+          "Power": 30.263157894736842,
+          "Contact": 25.000000000000007,
+          "Discipline": 56.48148148148147,
           "Speed": 23.333333333333332
         },
         "metaLine": "SR / N/A",
@@ -5441,7 +5441,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "summaryMetrics": [
           "AVG .238",
           "OBP .396",
-          "SLG .364"
+          "SLG .361"
         ],
         "statCards": [
           {
@@ -5454,7 +5454,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           },
           {
             "label": "SLG",
-            "value": ".364"
+            "value": ".361"
           },
           {
             "label": "HR",
@@ -5471,9 +5471,9 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         ],
         "components": {
           "On-base": 64.44444444444444,
-          "Power": 11.57894736842105,
+          "Power": 10.789473684210522,
           "Contact": 11.249999999999991,
-          "Discipline": 65.49707602339181,
+          "Discipline": 63.88888888888887,
           "Speed": 6.666666666666667
         },
         "metaLine": "SR / N/A",
@@ -5501,29 +5501,29 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 75,
+        "score": 74,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Evan Bouldin profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .346",
-          "OBP .435",
-          "SLG .586"
+          "AVG .339",
+          "OBP .434",
+          "SLG .576"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".346"
+            "value": ".339"
           },
           {
             "label": "OBP",
-            "value": ".435"
+            "value": ".434"
           },
           {
             "label": "SLG",
-            "value": ".586"
+            "value": ".576"
           },
           {
             "label": "HR",
@@ -5539,9 +5539,9 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           }
         ],
         "components": {
-          "On-base": 86.1111111111111,
-          "Power": 70,
-          "Contact": 78.74999999999999,
+          "On-base": 85.55555555555554,
+          "Power": 67.36842105263158,
+          "Contact": 74.37500000000001,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },
@@ -5570,7 +5570,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 30,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5578,8 +5578,8 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "summary": "Anthony Charles gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .255",
-          "OBP .365",
-          "SLG .316"
+          "OBP .361",
+          "SLG .314"
         ],
         "statCards": [
           {
@@ -5588,11 +5588,11 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           },
           {
             "label": "OBP",
-            "value": ".365"
+            "value": ".361"
           },
           {
             "label": "SLG",
-            "value": ".316"
+            "value": ".314"
           },
           {
             "label": "HR",
@@ -5600,7 +5600,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "SB",
@@ -5608,7 +5608,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           }
         ],
         "components": {
-          "On-base": 47.22222222222221,
+          "On-base": 44.99999999999998,
           "Power": 0,
           "Contact": 21.875000000000004,
           "Discipline": 61.11111111111111,
@@ -5846,29 +5846,29 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 14,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Harry Carr gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .170",
-          "OBP .315",
-          "SLG .245"
+          "AVG .164",
+          "OBP .306",
+          "SLG .236"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".170"
+            "value": ".164"
           },
           {
             "label": "OBP",
-            "value": ".315"
+            "value": ".306"
           },
           {
             "label": "SLG",
-            "value": ".245"
+            "value": ".236"
           },
           {
             "label": "HR",
@@ -5884,10 +5884,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           }
         ],
         "components": {
-          "On-base": 19.444444444444432,
+          "On-base": 14.444444444444427,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 48.765432098765416,
+          "Discipline": 46.84684684684684,
           "Speed": 13.333333333333334
         },
         "metaLine": "SO / N/A",
@@ -6259,48 +6259,48 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "position": "RHP",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 6,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Doug Marose gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 1.73",
-          "K/9 5.9"
+          "ERA 7.44",
+          "WHIP 1.87",
+          "K/9 5.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "7.44"
           },
           {
             "label": "WHIP",
-            "value": "1.73"
+            "value": "1.87"
           },
           {
             "label": "K/9",
-            "value": "5.9"
+            "value": "5.8"
           },
           {
             "label": "BB/9",
-            "value": "3.5"
+            "value": "3.9"
           },
           {
             "label": "HR/9",
-            "value": "1.47"
+            "value": "1.38"
           },
           {
             "label": "IP",
-            "value": "30.7"
+            "value": "32.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 16.996047430830032,
-          "Command": 13.333333333333336,
+          "Miss bats": 16.233766233766243,
+          "Command": 10.000000000000005,
           "Damage suppression": 0
         },
         "metaLine": "GR / N/A",
@@ -6397,29 +6397,29 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 38,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Sam Winsett gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .299",
-          "OBP .375",
-          "SLG .433"
+          "AVG .307",
+          "OBP .379",
+          "SLG .446"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".299"
+            "value": ".307"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".379"
           },
           {
             "label": "SLG",
-            "value": ".433"
+            "value": ".446"
           },
           {
             "label": "HR",
@@ -6435,10 +6435,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           }
         ],
         "components": {
-          "On-base": 52.77777777777777,
-          "Power": 29.73684210526316,
-          "Contact": 49.37499999999999,
-          "Discipline": 27.58620689655172,
+          "On-base": 54.99999999999999,
+          "Power": 33.15789473684211,
+          "Contact": 54.37499999999999,
+          "Discipline": 25.925925925925924,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SO / N/A",
@@ -6672,29 +6672,29 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "position": "C",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 42,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Anthony DeCesare gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .275",
-          "OBP .390",
-          "SLG .431"
+          "AVG .267",
+          "OBP .386",
+          "SLG .419"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".275"
+            "value": ".267"
           },
           {
             "label": "OBP",
-            "value": ".390"
+            "value": ".386"
           },
           {
             "label": "SLG",
-            "value": ".431"
+            "value": ".419"
           },
           {
             "label": "HR",
@@ -6710,10 +6710,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           }
         ],
         "components": {
-          "On-base": 61.11111111111111,
-          "Power": 29.210526315789476,
-          "Contact": 34.375000000000014,
-          "Discipline": 63.636363636363626,
+          "On-base": 58.88888888888888,
+          "Power": 26.052631578947366,
+          "Contact": 29.375000000000007,
+          "Discipline": 68.68686868686868,
           "Speed": 0
         },
         "metaLine": "FR / N/A",
@@ -6816,22 +6816,22 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         },
         "summary": "Chase Deibler gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.75",
-          "WHIP 1.69",
-          "K/9 6.4"
+          "ERA 7.71",
+          "WHIP 1.71",
+          "K/9 6.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.75"
+            "value": "7.71"
           },
           {
             "label": "WHIP",
-            "value": "1.69"
+            "value": "1.71"
           },
           {
             "label": "K/9",
-            "value": "6.4"
+            "value": "6.3"
           },
           {
             "label": "BB/9",
@@ -6839,18 +6839,18 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.60"
+            "value": "1.45"
           },
           {
             "label": "IP",
-            "value": "33.7"
+            "value": "37.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 21.962196219621966,
-          "Command": 3.9999999999999996,
+          "Miss bats": 20.616883116883113,
+          "Command": 3.6363636363636376,
           "Damage suppression": 0
         },
         "metaLine": "FR / N/A",
@@ -7222,21 +7222,21 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 10,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ben Moyzan gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.85",
+          "ERA 6.23",
           "WHIP 1.69",
-          "K/9 8.7"
+          "K/9 8.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.85"
+            "value": "6.23"
           },
           {
             "label": "WHIP",
@@ -7244,26 +7244,26 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           },
           {
             "label": "K/9",
-            "value": "8.7"
+            "value": "8.3"
           },
           {
             "label": "BB/9",
-            "value": "6.5"
+            "value": "6.9"
           },
           {
             "label": "HR/9",
-            "value": "0.76"
+            "value": "0.69"
           },
           {
             "label": "IP",
-            "value": "23.7"
+            "value": "26.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.14980793854033,
-          "Command": 7.058823529411762,
+          "Miss bats": 39.16083916083917,
+          "Command": 3.9999999999999996,
           "Damage suppression": 0
         },
         "metaLine": "JR / N/A",

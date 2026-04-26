@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.rutgers2026 = {
-  "generatedAt": "2026-04-25T11:04:56.892Z",
+  "generatedAt": "2026-04-26T11:04:27.351Z",
   "season": 2026,
   "school": {
     "slug": "rutgers",
@@ -39,7 +39,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
     }
   },
   "teamSummary": {
-    "record": "20-22, 7-12",
+    "record": "21-22, 8-12",
     "battingAverage": ".274",
     "earnedRunAverage": "5.50",
     "wins": "20",

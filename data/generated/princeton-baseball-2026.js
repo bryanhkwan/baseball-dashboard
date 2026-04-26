@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.princeton2026 = {
-  "generatedAt": "2026-04-25T11:04:52.907Z",
+  "generatedAt": "2026-04-26T11:04:22.870Z",
   "season": 2026,
   "school": {
     "slug": "princeton",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
     }
   },
   "teamSummary": {
-    "record": "12-23, 6-9",
+    "record": "13-24, 7-10",
     "battingAverage": ".242",
-    "earnedRunAverage": "7.05",
-    "wins": "12",
-    "losses": "23",
+    "earnedRunAverage": "6.89",
+    "wins": "13",
+    "losses": "24",
     "hitting": {
-      "atBats": "1157",
-      "runsScored": "167",
-      "hits": "280",
-      "runsBattedIn": "149",
-      "doubles": "42",
+      "atBats": "1223",
+      "runsScored": "175",
+      "hits": "296",
+      "runsBattedIn": "156",
+      "doubles": "45",
       "triples": "4",
       "homeRuns": "23",
-      "walks": "124",
+      "walks": "133",
       "intentionalWalks": "1",
-      "strikeouts": "300",
-      "strikeoutsLooking": "56",
-      "hitByPitch": "38",
-      "stolenBases": "32",
-      "caughtStealing": "12",
+      "strikeouts": "320",
+      "strikeoutsLooking": "61",
+      "hitByPitch": "40",
+      "stolenBases": "37",
+      "caughtStealing": "14",
       "sacrificeHits": "9",
       "sacrificeFlies": "5",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "273",
-      "flyOuts": "278",
+      "groundOuts": "291",
+      "flyOuts": "289",
       "groundedIntoDoublePlay": "15",
-      "pickedOff": "10",
+      "pickedOff": "11",
       "doublePlaysHitInto": "25",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "881",
-      "assists": "353",
-      "errors": "44",
-      "passedBalls": "5",
+      "putouts": "932",
+      "assists": "380",
+      "errors": "45",
+      "passedBalls": "6",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "80",
-      "caughtStealingBy": "13",
-      "involvedInDoublePlays": "28",
+      "stolenBasesAgainst": "84",
+      "caughtStealingBy": "14",
+      "involvedInDoublePlays": "32",
       "involvedInTriplePlays": "0",
-      "totalChances": "1278",
-      "fieldingPercentage": ".966"
+      "totalChances": "1357",
+      "fieldingPercentage": ".967"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "12",
+      "wins": "13",
       "saves": "16",
-      "losses": "23",
+      "losses": "24",
       "gamesStarted": "0",
       "gamesCompleted": "1",
       "shutouts": "2",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "293.2",
-      "hitsAllowed": "322",
-      "runsAllowed": "257",
-      "earnedRunsAllowed": "230",
-      "walksAllowed": "172",
-      "strikeouts": "230",
-      "battersFaced": "1437",
-      "opponentAtBats": "1139",
-      "doublesAllowed": "71",
+      "inningsPitched": "310.2",
+      "hitsAllowed": "336",
+      "runsAllowed": "266",
+      "earnedRunsAllowed": "238",
+      "walksAllowed": "183",
+      "strikeouts": "240",
+      "battersFaced": "1511",
+      "opponentAtBats": "1198",
+      "doublesAllowed": "72",
       "triplesAllowed": "6",
-      "homerunsAllowed": "33",
+      "homerunsAllowed": "34",
       "wildPitches": "49",
-      "balks": "8",
-      "hitBatters": "92",
-      "strikeoutsLooking": "45",
+      "balks": "9",
+      "hitBatters": "95",
+      "strikeoutsLooking": "47",
       "intentionalWalks": "2",
       "inheritedRunners": "7",
       "inheritedRunnersThatScored": "5",
       "sacrificeHitsAllowed": "14",
-      "sacrificeFliesAllowed": "20",
+      "sacrificeFliesAllowed": "21",
       "catchersInterferenceAllowed": "0",
       "pitches": "5444",
-      "flyouts": "289",
-      "groundouts": "299",
+      "flyouts": "304",
+      "groundouts": "320",
       "teamUnearnedRuns": "0",
       "saveRecord": "6",
       "pickoff": "5"
@@ -161,35 +161,35 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "1",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/isaac-lamson/24881",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Isaac_Lamson_BSBCropped.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 26,
-        "battingAverage": 0.19,
-        "onBasePercentage": 0.352,
-        "sluggingPercentage": 0.238,
-        "ops": 0.59,
-        "atBats": 84,
-        "runs": 12,
-        "hits": 16,
-        "doubles": 1,
+        "gamesPlayed": 31,
+        "gamesStarted": 28,
+        "battingAverage": 0.209,
+        "onBasePercentage": 0.363,
+        "sluggingPercentage": 0.275,
+        "ops": 0.638,
+        "atBats": 91,
+        "runs": 14,
+        "hits": 19,
+        "doubles": 3,
         "triples": 0,
         "homeRuns": 1,
-        "runsBattedIn": 11,
-        "totalBases": 20,
+        "runsBattedIn": 14,
+        "totalBases": 25,
         "walks": 17,
-        "hitByPitch": 4,
-        "strikeouts": 17,
+        "hitByPitch": 5,
+        "strikeouts": 20,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 0,
         "sacrificeHits": 2,
-        "stolenBases": 4,
-        "stolenBasesAttempts": 6,
-        "putouts": 46,
-        "assists": 68,
+        "stolenBases": 5,
+        "stolenBasesAttempts": 7,
+        "putouts": 52,
+        "assists": 75,
         "errors": 7,
-        "plateAppearances": 115,
+        "plateAppearances": 124,
         "caughtStealing": 2,
-        "pickedOff": 1
+        "pickedOff": 2
       },
       "pitchingStats": null,
       "fieldingStats": {
@@ -199,19 +199,19 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "1",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/isaac-lamson/24881",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Isaac_Lamson_BSBCropped.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 26,
-        "putouts": 46,
-        "assists": 68,
+        "gamesPlayed": 28,
+        "gamesStarted": 28,
+        "putouts": 52,
+        "assists": 75,
         "errors": 7,
-        "fieldingPercentage": 0.942,
-        "doublePlays": 13,
+        "fieldingPercentage": 0.948,
+        "doublePlays": 16,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 121
+        "totalChances": 134
       },
       "evaluation": {
         "score": 27,
@@ -220,30 +220,30 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 39.99999999999997,
+          "On-base": 46.11111111111109,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 88.88888888888889,
-          "Speed": 13.333333333333334
+          "Discipline": 72.2222222222222,
+          "Speed": 16.666666666666664
         },
-        "summary": "Isaac Lamson profiles as a INF piece who controls at-bats.",
+        "summary": "Isaac Lamson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .190",
-          "OBP .352",
-          "SLG .238"
+          "AVG .209",
+          "OBP .363",
+          "SLG .275"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".190"
+            "value": ".209"
           },
           {
             "label": "OBP",
-            "value": ".352"
+            "value": ".363"
           },
           {
             "label": "SLG",
-            "value": ".238"
+            "value": ".275"
           },
           {
             "label": "HR",
@@ -251,11 +251,11 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           },
           {
             "label": "RBI",
-            "value": "11"
+            "value": "14"
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "metaLine": "SO / R/R",
@@ -448,33 +448,33 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "3",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/jake-koonin/24880",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Jake_Koonin_BSB_HSCropped.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 35,
-        "battingAverage": 0.237,
-        "onBasePercentage": 0.34,
-        "sluggingPercentage": 0.374,
-        "ops": 0.714,
-        "atBats": 131,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "battingAverage": 0.234,
+        "onBasePercentage": 0.346,
+        "sluggingPercentage": 0.372,
+        "ops": 0.718,
+        "atBats": 137,
         "runs": 17,
-        "hits": 31,
-        "doubles": 6,
+        "hits": 32,
+        "doubles": 7,
         "triples": 0,
         "homeRuns": 4,
         "runsBattedIn": 20,
-        "totalBases": 49,
-        "walks": 13,
-        "hitByPitch": 8,
-        "strikeouts": 22,
+        "totalBases": 51,
+        "walks": 15,
+        "hitByPitch": 9,
+        "strikeouts": 24,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
-        "stolenBases": 6,
-        "stolenBasesAttempts": 8,
-        "putouts": 80,
-        "assists": 14,
-        "errors": 0,
-        "plateAppearances": 163,
+        "stolenBases": 7,
+        "stolenBasesAttempts": 9,
+        "putouts": 85,
+        "assists": 15,
+        "errors": 1,
+        "plateAppearances": 173,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -486,51 +486,51 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "3",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/jake-koonin/24880",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Jake_Koonin_BSB_HSCropped.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
-        "putouts": 80,
-        "assists": 14,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 3,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "putouts": 85,
+        "assists": 15,
+        "errors": 1,
+        "fieldingPercentage": 0.99,
+        "doublePlays": 4,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 94
+        "totalChances": 101
       },
       "evaluation": {
-        "score": 24,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 33.33333333333333,
-          "Power": 14.210526315789473,
-          "Contact": 10.624999999999991,
-          "Discipline": 43.43434343434343,
-          "Speed": 20
+          "On-base": 36.666666666666636,
+          "Power": 13.684210526315788,
+          "Contact": 8.750000000000007,
+          "Discipline": 47.222222222222214,
+          "Speed": 23.333333333333332
         },
         "summary": "Jake Koonin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .237",
-          "OBP .340",
-          "SLG .374"
+          "AVG .234",
+          "OBP .346",
+          "SLG .372"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".237"
+            "value": ".234"
           },
           {
             "label": "OBP",
-            "value": ".340"
+            "value": ".346"
           },
           {
             "label": "SLG",
-            "value": ".374"
+            "value": ".372"
           },
           {
             "label": "HR",
@@ -542,7 +542,7 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           },
           {
             "label": "SB",
-            "value": "6"
+            "value": "7"
           }
         ],
         "metaLine": "SR / R/R",
@@ -1025,33 +1025,33 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "7",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/tommy-googins/24875",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Tommy_Googins_BSB_HSCropped.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 30,
+        "gamesPlayed": 33,
+        "gamesStarted": 32,
         "battingAverage": 0.243,
-        "onBasePercentage": 0.35,
-        "sluggingPercentage": 0.33,
-        "ops": 0.68,
-        "atBats": 103,
+        "onBasePercentage": 0.344,
+        "sluggingPercentage": 0.324,
+        "ops": 0.668,
+        "atBats": 111,
         "runs": 13,
-        "hits": 25,
+        "hits": 27,
         "doubles": 4,
         "triples": 1,
         "homeRuns": 1,
-        "runsBattedIn": 11,
-        "totalBases": 34,
+        "runsBattedIn": 12,
+        "totalBases": 36,
         "walks": 14,
         "hitByPitch": 3,
-        "strikeouts": 39,
+        "strikeouts": 42,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 0,
         "stolenBasesAttempts": 3,
-        "putouts": 45,
-        "assists": 94,
+        "putouts": 47,
+        "assists": 105,
         "errors": 5,
-        "plateAppearances": 127,
+        "plateAppearances": 135,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -1063,38 +1063,38 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "7",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/tommy-googins/24875",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Tommy_Googins_BSB_HSCropped.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 30,
-        "putouts": 45,
-        "assists": 94,
+        "gamesPlayed": 33,
+        "gamesStarted": 32,
+        "putouts": 47,
+        "assists": 105,
         "errors": 5,
-        "fieldingPercentage": 0.965,
-        "doublePlays": 12,
+        "fieldingPercentage": 0.968,
+        "doublePlays": 16,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 144
+        "totalChances": 157
       },
       "evaluation": {
-        "score": 18,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 38.888888888888864,
-          "Power": 2.631578947368424,
+          "On-base": 35.55555555555553,
+          "Power": 1.0526315789473695,
           "Contact": 14.374999999999996,
-          "Discipline": 17.66381766381766,
+          "Discipline": 14.814814814814808,
           "Speed": 0
         },
         "summary": "Tommy Googins gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .243",
-          "OBP .350",
-          "SLG .330"
+          "OBP .344",
+          "SLG .324"
         ],
         "statCards": [
           {
@@ -1103,11 +1103,11 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           },
           {
             "label": "OBP",
-            "value": ".350"
+            "value": ".344"
           },
           {
             "label": "SLG",
-            "value": ".330"
+            "value": ".324"
           },
           {
             "label": "HR",
@@ -1115,7 +1115,7 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           },
           {
             "label": "RBI",
-            "value": "11"
+            "value": "12"
           },
           {
             "label": "SB",
@@ -1171,32 +1171,32 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "8",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/charlie-wolf/24887",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Charlie_Wolf_BSB_HSCropped.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 0,
-        "appearances": 12,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 10,
-        "whip": 2.11,
+        "earnedRunAverage": 9.31,
+        "whip": 2.17,
         "wins": 1,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 18,
-        "inningsPitchedDisplay": "18.0",
-        "hitsAllowed": 25,
+        "inningsPitched": 19.333333333333332,
+        "inningsPitchedDisplay": "19.1",
+        "hitsAllowed": 26,
         "runsAllowed": 22,
         "earnedRunsAllowed": 20,
-        "walksAllowed": 13,
+        "walksAllowed": 16,
         "strikeouts": 17,
         "doublesAllowed": 2,
         "triplesAllowed": 1,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 73,
+        "opponentsAtBats": 77,
         "wildPitches": 2,
         "hitBatters": 7,
-        "balks": 1,
-        "opponentsBattingAverage": 0.342,
-        "walksHits": 38
+        "balks": 2,
+        "opponentsBattingAverage": 0.338,
+        "walksHits": 42
       },
       "fieldingStats": {
         "rosterBioId": "24887",
@@ -1220,7 +1220,7 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 9,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1228,40 +1228,40 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 40.909090909090914,
-          "Command": 6.153846153846154,
+          "Miss bats": 35.579937304075244,
+          "Command": 1.25,
           "Damage suppression": 0
         },
         "summary": "Charlie Wolf gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 10.00",
-          "WHIP 2.11",
-          "K/9 8.5"
+          "ERA 9.31",
+          "WHIP 2.17",
+          "K/9 7.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "10.00"
+            "value": "9.31"
           },
           {
             "label": "WHIP",
-            "value": "2.11"
+            "value": "2.17"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "7.9"
           },
           {
             "label": "BB/9",
-            "value": "6.5"
+            "value": "7.4"
           },
           {
             "label": "HR/9",
-            "value": "2.00"
+            "value": "1.86"
           },
           {
             "label": "IP",
-            "value": "18.0"
+            "value": "19.3"
           }
         ],
         "metaLine": "JR / R/R",
@@ -1457,33 +1457,33 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "10",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/brady-kaufman/24894",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Brady_Kaufman_BSB_WSCropped.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 31,
+        "gamesPlayed": 34,
+        "gamesStarted": 33,
         "battingAverage": 0.283,
-        "onBasePercentage": 0.345,
-        "sluggingPercentage": 0.415,
-        "ops": 0.76,
-        "atBats": 106,
-        "runs": 15,
-        "hits": 30,
+        "onBasePercentage": 0.347,
+        "sluggingPercentage": 0.407,
+        "ops": 0.754,
+        "atBats": 113,
+        "runs": 18,
+        "hits": 32,
         "doubles": 8,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 16,
-        "totalBases": 44,
-        "walks": 9,
+        "totalBases": 46,
+        "walks": 10,
         "hitByPitch": 1,
-        "strikeouts": 30,
+        "strikeouts": 32,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 3,
-        "putouts": 30,
+        "stolenBases": 4,
+        "stolenBasesAttempts": 4,
+        "putouts": 33,
         "assists": 3,
         "errors": 3,
-        "plateAppearances": 119,
+        "plateAppearances": 128,
         "caughtStealing": 0,
         "pickedOff": 2
       },
@@ -1528,19 +1528,19 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "10",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/brady-kaufman/24894",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Brady_Kaufman_BSB_WSCropped.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 22,
-        "putouts": 30,
+        "gamesPlayed": 24,
+        "gamesStarted": 24,
+        "putouts": 33,
         "assists": 3,
         "errors": 3,
-        "fieldingPercentage": 0.917,
+        "fieldingPercentage": 0.923,
         "doublePlays": 2,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 36
+        "totalChances": 39
       },
       "evaluation": {
         "score": 1,
@@ -1635,13 +1635,13 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "11",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/dylan-zdunek/24888",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Dylan_Zdunek_BSB_HSCropped.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 12,
-        "battingAverage": 0.146,
-        "onBasePercentage": 0.212,
-        "sluggingPercentage": 0.208,
-        "ops": 0.42,
-        "atBats": 48,
+        "battingAverage": 0.143,
+        "onBasePercentage": 0.208,
+        "sluggingPercentage": 0.204,
+        "ops": 0.412,
+        "atBats": 49,
         "runs": 3,
         "hits": 7,
         "doubles": 0,
@@ -1651,17 +1651,17 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "totalBases": 10,
         "walks": 4,
         "hitByPitch": 0,
-        "strikeouts": 12,
+        "strikeouts": 13,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 43,
+        "putouts": 45,
         "assists": 6,
         "errors": 0,
-        "plateAppearances": 52,
+        "plateAppearances": 53,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1673,19 +1673,19 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "11",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/dylan-zdunek/24888",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Dylan_Zdunek_BSB_HSCropped.jpg",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 6,
-        "putouts": 43,
+        "putouts": 45,
         "assists": 6,
         "errors": 0,
         "fieldingPercentage": 1,
-        "doublePlays": 1,
+        "doublePlays": 2,
         "stolenBasesAgainst": 19,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 49
+        "totalChances": 51
       },
       "evaluation": {
         "score": 2,
@@ -1697,27 +1697,27 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 14.814814814814808,
+          "Discipline": 11.965811965811964,
           "Speed": 0
         },
         "summary": "Dylan Zdunek gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .146",
-          "OBP .212",
-          "SLG .208"
+          "AVG .143",
+          "OBP .208",
+          "SLG .204"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".146"
+            "value": ".143"
           },
           {
             "label": "OBP",
-            "value": ".212"
+            "value": ".208"
           },
           {
             "label": "SLG",
-            "value": ".208"
+            "value": ".204"
           },
           {
             "label": "HR",
@@ -1781,32 +1781,32 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "13",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/will-sword/24885",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Will_Sword_BSB_HSCropped.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 1,
-        "appearances": 10,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.62,
-        "whip": 1.88,
+        "earnedRunAverage": 7.81,
+        "whip": 1.92,
         "wins": 1,
         "losses": 2,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 26,
-        "inningsPitchedDisplay": "26.0",
-        "hitsAllowed": 34,
-        "runsAllowed": 26,
-        "earnedRunsAllowed": 22,
-        "walksAllowed": 15,
+        "inningsPitched": 27.666666666666668,
+        "inningsPitchedDisplay": "27.2",
+        "hitsAllowed": 37,
+        "runsAllowed": 28,
+        "earnedRunsAllowed": 24,
+        "walksAllowed": 16,
         "strikeouts": 26,
-        "doublesAllowed": 7,
+        "doublesAllowed": 8,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 106,
+        "opponentsAtBats": 111,
         "wildPitches": 5,
-        "hitBatters": 8,
+        "hitBatters": 9,
         "balks": 0,
-        "opponentsBattingAverage": 0.321,
-        "walksHits": 49
+        "opponentsBattingAverage": 0.333,
+        "walksHits": 53
       },
       "fieldingStats": {
         "rosterBioId": "24885",
@@ -1815,7 +1815,7 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "13",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/will-sword/24885",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Will_Sword_BSB_HSCropped.jpg",
-        "gamesPlayed": 5,
+        "gamesPlayed": 6,
         "gamesStarted": 1,
         "putouts": 3,
         "assists": 0,
@@ -1823,14 +1823,14 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "fieldingPercentage": 0.6,
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": 0.75,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
       },
       "evaluation": {
-        "score": 11,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1838,28 +1838,28 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 14.666666666666664,
+          "Miss bats": 40.525739320920046,
+          "Command": 12.5,
           "Damage suppression": 0
         },
-        "summary": "Will Sword looks like a P option who misses bats.",
+        "summary": "Will Sword gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.62",
-          "WHIP 1.88",
-          "K/9 9.0"
+          "ERA 7.81",
+          "WHIP 1.92",
+          "K/9 8.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.62"
+            "value": "7.81"
           },
           {
             "label": "WHIP",
-            "value": "1.88"
+            "value": "1.92"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "8.5"
           },
           {
             "label": "BB/9",
@@ -1867,11 +1867,11 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.69"
+            "value": "0.65"
           },
           {
             "label": "IP",
-            "value": "26.0"
+            "value": "27.7"
           }
         ],
         "metaLine": "SR / R/R",
@@ -1922,34 +1922,34 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "14",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/bennett-crerar/24893",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Bennett_Crerar_BSB_HSCropped.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 30,
+        "gamesPlayed": 33,
+        "gamesStarted": 32,
         "battingAverage": 0.281,
-        "onBasePercentage": 0.296,
-        "sluggingPercentage": 0.405,
-        "ops": 0.701,
-        "atBats": 121,
-        "runs": 18,
-        "hits": 34,
+        "onBasePercentage": 0.301,
+        "sluggingPercentage": 0.398,
+        "ops": 0.699,
+        "atBats": 128,
+        "runs": 19,
+        "hits": 36,
         "doubles": 4,
         "triples": 1,
         "homeRuns": 3,
-        "runsBattedIn": 15,
-        "totalBases": 49,
-        "walks": 2,
+        "runsBattedIn": 16,
+        "totalBases": 51,
+        "walks": 3,
         "hitByPitch": 1,
-        "strikeouts": 37,
+        "strikeouts": 38,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 2,
-        "stolenBasesAttempts": 3,
+        "stolenBasesAttempts": 4,
         "putouts": 35,
         "assists": 40,
         "errors": 6,
-        "plateAppearances": 129,
-        "caughtStealing": 1,
+        "plateAppearances": 139,
+        "caughtStealing": 2,
         "pickedOff": 3
       },
       "pitchingStats": null,
@@ -1975,14 +1975,14 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "totalChances": 81
       },
       "evaluation": {
-        "score": 16,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 8.888888888888866,
-          "Power": 22.368421052631586,
+          "On-base": 11.666666666666647,
+          "Power": 20.52631578947369,
           "Contact": 38.125000000000014,
           "Discipline": 0,
           "Speed": 6.666666666666667
@@ -1990,8 +1990,8 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "summary": "Bennett Crerar gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .281",
-          "OBP .296",
-          "SLG .405"
+          "OBP .301",
+          "SLG .398"
         ],
         "statCards": [
           {
@@ -2000,11 +2000,11 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           },
           {
             "label": "OBP",
-            "value": ".296"
+            "value": ".301"
           },
           {
             "label": "SLG",
-            "value": ".405"
+            "value": ".398"
           },
           {
             "label": "HR",
@@ -2012,7 +2012,7 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           },
           {
             "label": "RBI",
-            "value": "15"
+            "value": "16"
           },
           {
             "label": "SB",
@@ -2209,33 +2209,33 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "16",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/tomas-cernius/24890",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Tomas_Cernius_BSB_HSCropped.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 33,
-        "battingAverage": 0.306,
-        "onBasePercentage": 0.371,
-        "sluggingPercentage": 0.476,
-        "ops": 0.847,
-        "atBats": 124,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "battingAverage": 0.313,
+        "onBasePercentage": 0.383,
+        "sluggingPercentage": 0.473,
+        "ops": 0.856,
+        "atBats": 131,
         "runs": 17,
-        "hits": 38,
+        "hits": 41,
         "doubles": 7,
         "triples": 1,
         "homeRuns": 4,
-        "runsBattedIn": 20,
-        "totalBases": 59,
-        "walks": 12,
+        "runsBattedIn": 22,
+        "totalBases": 62,
+        "walks": 14,
         "hitByPitch": 2,
         "strikeouts": 16,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
-        "stolenBases": 5,
-        "stolenBasesAttempts": 5,
-        "putouts": 251,
-        "assists": 15,
+        "stolenBases": 6,
+        "stolenBasesAttempts": 6,
+        "putouts": 266,
+        "assists": 17,
         "errors": 3,
-        "plateAppearances": 145,
+        "plateAppearances": 155,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -2247,51 +2247,51 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "16",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/tomas-cernius/24890",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Tomas_Cernius_BSB_HSCropped.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 33,
-        "putouts": 251,
-        "assists": 15,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "putouts": 266,
+        "assists": 17,
         "errors": 3,
-        "fieldingPercentage": 0.989,
-        "doublePlays": 17,
+        "fieldingPercentage": 0.99,
+        "doublePlays": 20,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 269
+        "totalChances": 286
       },
       "evaluation": {
-        "score": 47,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 50.55555555555554,
-          "Power": 41.05263157894737,
-          "Contact": 53.75,
-          "Discipline": 61.11111111111111,
-          "Speed": 16.666666666666664
+          "On-base": 57.22222222222222,
+          "Power": 40.26315789473684,
+          "Contact": 58.12499999999999,
+          "Discipline": 74.99999999999999,
+          "Speed": 20
         },
         "summary": "Tomas Cernius gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .306",
-          "OBP .371",
-          "SLG .476"
+          "AVG .313",
+          "OBP .383",
+          "SLG .473"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".306"
+            "value": ".313"
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": ".383"
           },
           {
             "label": "SLG",
-            "value": ".476"
+            "value": ".473"
           },
           {
             "label": "HR",
@@ -2299,11 +2299,11 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "22"
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "6"
           }
         ],
         "metaLine": "FR / L/L",
@@ -2354,34 +2354,34 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "17",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/grant-werdesheim/24886",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Grant_Werdesheim_BSB_HSCropped.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 33,
-        "battingAverage": 0.276,
-        "onBasePercentage": 0.345,
-        "sluggingPercentage": 0.323,
-        "ops": 0.668,
-        "atBats": 127,
-        "runs": 21,
-        "hits": 35,
+        "gamesPlayed": 37,
+        "gamesStarted": 35,
+        "battingAverage": 0.279,
+        "onBasePercentage": 0.349,
+        "sluggingPercentage": 0.324,
+        "ops": 0.673,
+        "atBats": 136,
+        "runs": 22,
+        "hits": 38,
         "doubles": 4,
         "triples": 1,
         "homeRuns": 0,
         "runsBattedIn": 11,
-        "totalBases": 41,
-        "walks": 10,
+        "totalBases": 44,
+        "walks": 11,
         "hitByPitch": 4,
-        "strikeouts": 31,
+        "strikeouts": 33,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 4,
-        "stolenBases": 11,
-        "stolenBasesAttempts": 14,
-        "putouts": 86,
+        "stolenBases": 12,
+        "stolenBasesAttempts": 16,
+        "putouts": 92,
         "assists": 2,
         "errors": 1,
-        "plateAppearances": 163,
-        "caughtStealing": 3,
+        "plateAppearances": 176,
+        "caughtStealing": 4,
         "pickedOff": 1
       },
       "pitchingStats": null,
@@ -2392,9 +2392,9 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "17",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/grant-werdesheim/24886",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Grant_Werdesheim_BSB_HSCropped.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "putouts": 86,
+        "gamesPlayed": 34,
+        "gamesStarted": 34,
+        "putouts": 92,
         "assists": 2,
         "errors": 1,
         "fieldingPercentage": 0.989,
@@ -2404,39 +2404,39 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 89
+        "totalChances": 95
       },
       "evaluation": {
-        "score": 24,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 36.111111111111086,
-          "Power": 0.7894736842105272,
-          "Contact": 35.000000000000014,
-          "Discipline": 13.62007168458781,
-          "Speed": 36.666666666666664
+          "On-base": 38.33333333333331,
+          "Power": 1.0526315789473695,
+          "Contact": 36.875000000000014,
+          "Discipline": 14.814814814814808,
+          "Speed": 40
         },
         "summary": "Grant Werdesheim profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .276",
-          "OBP .345",
-          "SLG .323"
+          "AVG .279",
+          "OBP .349",
+          "SLG .324"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".276"
+            "value": ".279"
           },
           {
             "label": "OBP",
-            "value": ".345"
+            "value": ".349"
           },
           {
             "label": "SLG",
-            "value": ".323"
+            "value": ".324"
           },
           {
             "label": "HR",
@@ -2448,7 +2448,7 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           },
           {
             "label": "SB",
-            "value": "11"
+            "value": "12"
           }
         ],
         "metaLine": "SO / R/R",
@@ -2818,32 +2818,32 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "23",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/liam-kinneen/24879",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Liam_Kinneen_BSB_HSCropped.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 9,
-        "appearances": 9,
+        "gamesPlayed": 10,
+        "gamesStarted": 10,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.56,
-        "whip": 1.61,
-        "wins": 1,
+        "earnedRunAverage": 5.6,
+        "whip": 1.5,
+        "wins": 2,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 46.666666666666664,
-        "inningsPitchedDisplay": "46.2",
-        "hitsAllowed": 46,
+        "inningsPitched": 54.666666666666664,
+        "inningsPitchedDisplay": "54.2",
+        "hitsAllowed": 52,
         "runsAllowed": 40,
         "earnedRunsAllowed": 34,
-        "walksAllowed": 29,
-        "strikeouts": 34,
+        "walksAllowed": 30,
+        "strikeouts": 38,
         "doublesAllowed": 11,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 173,
+        "opponentsAtBats": 202,
         "wildPitches": 6,
         "hitBatters": 15,
         "balks": 0,
-        "opponentsBattingAverage": 0.266,
-        "walksHits": 75
+        "opponentsBattingAverage": 0.257,
+        "walksHits": 82
       },
       "fieldingStats": {
         "rosterBioId": "24879",
@@ -2852,16 +2852,16 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "23",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/liam-kinneen/24879",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Liam_Kinneen_BSB_HSCropped.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 7,
+        "gamesPlayed": 8,
+        "gamesStarted": 8,
         "putouts": 1,
         "assists": 4,
         "errors": 2,
         "fieldingPercentage": 0.714,
         "doublePlays": 0,
-        "stolenBasesAgainst": 6,
+        "stolenBasesAgainst": 7,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": 0.7,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -2875,40 +2875,40 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 23.24675324675325,
-          "Command": 3.4482758620689635,
+          "Miss bats": 20.509977827051003,
+          "Command": 5.333333333333332,
           "Damage suppression": 0
         },
         "summary": "Liam Kinneen gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.56",
-          "WHIP 1.61",
-          "K/9 6.6"
+          "ERA 5.60",
+          "WHIP 1.50",
+          "K/9 6.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.56"
+            "value": "5.60"
           },
           {
             "label": "WHIP",
-            "value": "1.61"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "6.6"
+            "value": "6.3"
           },
           {
             "label": "BB/9",
-            "value": "5.6"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
-            "value": "0.58"
+            "value": "0.49"
           },
           {
             "label": "IP",
-            "value": "46.7"
+            "value": "54.7"
           }
         ],
         "metaLine": "SO / R/R",
@@ -2959,13 +2959,13 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "24",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/will-robbins/24883",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/WillRobbinsCropped.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 29,
-        "battingAverage": 0.24,
-        "onBasePercentage": 0.387,
-        "sluggingPercentage": 0.49,
-        "ops": 0.877,
-        "atBats": 96,
+        "gamesPlayed": 33,
+        "gamesStarted": 31,
+        "battingAverage": 0.223,
+        "onBasePercentage": 0.37,
+        "sluggingPercentage": 0.456,
+        "ops": 0.826,
+        "atBats": 103,
         "runs": 19,
         "hits": 23,
         "doubles": 6,
@@ -2973,19 +2973,19 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "homeRuns": 6,
         "runsBattedIn": 22,
         "totalBases": 47,
-        "walks": 20,
+        "walks": 21,
         "hitByPitch": 3,
-        "strikeouts": 24,
+        "strikeouts": 25,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 176,
-        "assists": 31,
+        "putouts": 187,
+        "assists": 33,
         "errors": 4,
-        "plateAppearances": 119,
+        "plateAppearances": 127,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2997,51 +2997,51 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "24",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/will-robbins/24883",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/WillRobbinsCropped.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 29,
-        "putouts": 176,
-        "assists": 31,
+        "gamesPlayed": 33,
+        "gamesStarted": 31,
+        "putouts": 187,
+        "assists": 33,
         "errors": 4,
-        "fieldingPercentage": 0.981,
+        "fieldingPercentage": 0.982,
         "doublePlays": 5,
-        "stolenBasesAgainst": 60,
-        "caughtStealingBy": 13,
-        "stolenBasesPercentage": 0.822,
-        "passedBalls": 3,
+        "stolenBasesAgainst": 64,
+        "caughtStealingBy": 14,
+        "stolenBasesPercentage": 0.821,
+        "passedBalls": 4,
         "catchersInterference": 0,
-        "totalChances": 211
+        "totalChances": 224
       },
       "evaluation": {
-        "score": 43,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 59.444444444444436,
-          "Power": 44.73684210526316,
-          "Contact": 12.499999999999993,
-          "Discipline": 70.37037037037037,
+          "On-base": 49.999999999999986,
+          "Power": 35.789473684210535,
+          "Contact": 1.8750000000000018,
+          "Discipline": 71.11111111111109,
           "Speed": 0
         },
         "summary": "Will Robbins gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .240",
-          "OBP .387",
-          "SLG .490"
+          "AVG .223",
+          "OBP .370",
+          "SLG .456"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".240"
+            "value": ".223"
           },
           {
             "label": "OBP",
-            "value": ".387"
+            "value": ".370"
           },
           {
             "label": "SLG",
-            "value": ".490"
+            "value": ".456"
           },
           {
             "label": "HR",
@@ -3105,32 +3105,32 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "25",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/parker-codington/24892",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Parker_Codington_BSB_HSCropped.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 0,
-        "appearances": 10,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 9.82,
+        "earnedRunAverage": 9.39,
         "whip": 1.7,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 14.666666666666666,
-        "inningsPitchedDisplay": "14.2",
+        "inningsPitched": 15.333333333333334,
+        "inningsPitchedDisplay": "15.1",
         "hitsAllowed": 13,
         "runsAllowed": 18,
         "earnedRunsAllowed": 16,
-        "walksAllowed": 12,
+        "walksAllowed": 13,
         "strikeouts": 9,
         "doublesAllowed": 3,
         "triplesAllowed": 1,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 51,
+        "opponentsAtBats": 52,
         "wildPitches": 3,
         "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.255,
-        "walksHits": 25
+        "opponentsBattingAverage": 0.25,
+        "walksHits": 26
       },
       "fieldingStats": {
         "rosterBioId": "24892",
@@ -3154,7 +3154,7 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "totalChances": 0
       },
       "evaluation": {
-        "score": 3,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3162,20 +3162,20 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 13.842975206611577,
+          "Miss bats": 11.660079051383399,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Parker Codington gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.82",
+          "ERA 9.39",
           "WHIP 1.70",
-          "K/9 5.5"
+          "K/9 5.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.82"
+            "value": "9.39"
           },
           {
             "label": "WHIP",
@@ -3183,19 +3183,19 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           },
           {
             "label": "K/9",
-            "value": "5.5"
+            "value": "5.3"
           },
           {
             "label": "BB/9",
-            "value": "7.4"
+            "value": "7.6"
           },
           {
             "label": "HR/9",
-            "value": "0.61"
+            "value": "0.59"
           },
           {
             "label": "IP",
-            "value": "14.7"
+            "value": "15.3"
           }
         ],
         "metaLine": "FR / R/R",
@@ -3457,32 +3457,32 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "33",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/elliott-eaton/24871",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Elliot_Eaton_BSB_WSCropped.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 4,
-        "appearances": 12,
+        "gamesPlayed": 13,
+        "gamesStarted": 5,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.69,
-        "whip": 1.46,
+        "earnedRunAverage": 7.27,
+        "whip": 1.48,
         "wins": 2,
-        "losses": 4,
+        "losses": 5,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 39,
-        "inningsPitchedDisplay": "39.0",
-        "hitsAllowed": 41,
-        "runsAllowed": 32,
-        "earnedRunsAllowed": 29,
-        "walksAllowed": 16,
-        "strikeouts": 30,
+        "inningsPitched": 43.333333333333336,
+        "inningsPitchedDisplay": "43.1",
+        "hitsAllowed": 43,
+        "runsAllowed": 38,
+        "earnedRunsAllowed": 35,
+        "walksAllowed": 21,
+        "strikeouts": 34,
         "doublesAllowed": 12,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 147,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 162,
         "wildPitches": 7,
-        "hitBatters": 14,
+        "hitBatters": 16,
         "balks": 0,
-        "opponentsBattingAverage": 0.279,
-        "walksHits": 57
+        "opponentsBattingAverage": 0.265,
+        "walksHits": 64
       },
       "fieldingStats": {
         "rosterBioId": "24871",
@@ -3491,16 +3491,16 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "33",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/elliott-eaton/24871",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Elliot_Eaton_BSB_WSCropped.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 3,
+        "gamesPlayed": 9,
+        "gamesStarted": 4,
         "putouts": 1,
         "assists": 7,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 4,
+        "stolenBasesAgainst": 7,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": 0.778,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -3514,40 +3514,40 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 26.573426573426577,
-          "Command": 17.5,
+          "Miss bats": 27.83216783216783,
+          "Command": 12.380952380952381,
           "Damage suppression": 0
         },
         "summary": "Elliott Eaton gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.69",
-          "WHIP 1.46",
-          "K/9 6.9"
+          "ERA 7.27",
+          "WHIP 1.48",
+          "K/9 7.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.69"
+            "value": "7.27"
           },
           {
             "label": "WHIP",
-            "value": "1.46"
+            "value": "1.48"
           },
           {
             "label": "K/9",
-            "value": "6.9"
+            "value": "7.1"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "4.4"
           },
           {
             "label": "HR/9",
-            "value": "0.46"
+            "value": "0.62"
           },
           {
             "label": "IP",
-            "value": "39.0"
+            "value": "43.3"
           }
         ],
         "metaLine": "JR / R/R",
@@ -3598,23 +3598,23 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "34",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/jake-kernodle/24877",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Jake_Kernodle_BSB_HSCropped.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 30,
-        "battingAverage": 0.236,
-        "onBasePercentage": 0.362,
-        "sluggingPercentage": 0.274,
-        "ops": 0.636,
-        "atBats": 106,
-        "runs": 20,
+        "gamesPlayed": 32,
+        "gamesStarted": 31,
+        "battingAverage": 0.227,
+        "onBasePercentage": 0.356,
+        "sluggingPercentage": 0.264,
+        "ops": 0.62,
+        "atBats": 110,
+        "runs": 21,
         "hits": 25,
         "doubles": 1,
         "triples": 0,
         "homeRuns": 1,
         "runsBattedIn": 15,
         "totalBases": 29,
-        "walks": 13,
+        "walks": 14,
         "hitByPitch": 8,
-        "strikeouts": 34,
+        "strikeouts": 38,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
@@ -3622,9 +3622,9 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 45,
-        "assists": 49,
+        "assists": 51,
         "errors": 5,
-        "plateAppearances": 128,
+        "plateAppearances": 133,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3636,51 +3636,51 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "34",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/jake-kernodle/24877",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Jake_Kernodle_BSB_HSCropped.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 27,
+        "gamesPlayed": 29,
+        "gamesStarted": 28,
         "putouts": 45,
-        "assists": 49,
+        "assists": 51,
         "errors": 5,
-        "fieldingPercentage": 0.949,
+        "fieldingPercentage": 0.95,
         "doublePlays": 4,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 99
+        "totalChances": 101
       },
       "evaluation": {
-        "score": 20,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 45.555555555555536,
+          "On-base": 42.2222222222222,
           "Power": 0,
-          "Contact": 9.999999999999991,
-          "Discipline": 20.261437908496724,
+          "Contact": 4.3750000000000036,
+          "Discipline": 18.713450292397653,
           "Speed": 3.3333333333333335
         },
         "summary": "Jake Kernodle gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .236",
-          "OBP .362",
-          "SLG .274"
+          "AVG .227",
+          "OBP .356",
+          "SLG .264"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".236"
+            "value": ".227"
           },
           {
             "label": "OBP",
-            "value": ".362"
+            "value": ".356"
           },
           {
             "label": "SLG",
-            "value": ".274"
+            "value": ".264"
           },
           {
             "label": "HR",
@@ -3743,13 +3743,13 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "35",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/joe-montembeau/24896",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Joe_Montembeau_BSB_HSCropped.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 21,
-        "battingAverage": 0.177,
-        "onBasePercentage": 0.286,
-        "sluggingPercentage": 0.19,
-        "ops": 0.476,
-        "atBats": 79,
+        "gamesPlayed": 27,
+        "gamesStarted": 22,
+        "battingAverage": 0.171,
+        "onBasePercentage": 0.277,
+        "sluggingPercentage": 0.183,
+        "ops": 0.46,
+        "atBats": 82,
         "runs": 8,
         "hits": 14,
         "doubles": 1,
@@ -3759,17 +3759,17 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "totalBases": 15,
         "walks": 8,
         "hitByPitch": 4,
-        "strikeouts": 24,
+        "strikeouts": 25,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 22,
-        "assists": 2,
+        "putouts": 23,
+        "assists": 4,
         "errors": 1,
-        "plateAppearances": 93,
+        "plateAppearances": 96,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -3814,51 +3814,51 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "35",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/joe-montembeau/24896",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Joe_Montembeau_BSB_HSCropped.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 5,
-        "putouts": 22,
-        "assists": 2,
+        "gamesPlayed": 9,
+        "gamesStarted": 6,
+        "putouts": 23,
+        "assists": 4,
         "errors": 1,
-        "fieldingPercentage": 0.96,
+        "fieldingPercentage": 0.964,
         "doublePlays": 1,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 25
+        "totalChances": 28
       },
       "evaluation": {
-        "score": 3,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 3.3333333333333055,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 14.814814814814808,
+          "Discipline": 13.33333333333333,
           "Speed": 0
         },
         "summary": "Joe Montembeau gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .177",
-          "OBP .286",
-          "SLG .190"
+          "AVG .171",
+          "OBP .277",
+          "SLG .183"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".177"
+            "value": ".171"
           },
           {
             "label": "OBP",
-            "value": ".286"
+            "value": ".277"
           },
           {
             "label": "SLG",
-            "value": ".190"
+            "value": ".183"
           },
           {
             "label": "HR",
@@ -3922,32 +3922,32 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "jersey": "45",
         "profileUrl": "https://goprincetontigers.com/sports/baseball/roster/ryan-penney/24897",
         "imageUrl": "https://goprincetontigers.com/images/2026/2/7/26_Ryan_Penney_BSB_WSCropped.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 1,
-        "appearances": 11,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.81,
-        "whip": 1.29,
+        "earnedRunAverage": 5.6,
+        "whip": 1.32,
         "wins": 0,
         "losses": 4,
         "saves": 3,
         "shutouts": 0,
-        "inningsPitched": 26.333333333333332,
-        "inningsPitchedDisplay": "26.1",
-        "hitsAllowed": 23,
-        "runsAllowed": 19,
+        "inningsPitched": 27.333333333333332,
+        "inningsPitchedDisplay": "27.1",
+        "hitsAllowed": 25,
+        "runsAllowed": 20,
         "earnedRunsAllowed": 17,
         "walksAllowed": 11,
-        "strikeouts": 23,
+        "strikeouts": 25,
         "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 97,
+        "opponentsAtBats": 102,
         "wildPitches": 3,
         "hitBatters": 11,
         "balks": 5,
-        "opponentsBattingAverage": 0.237,
-        "walksHits": 34
+        "opponentsBattingAverage": 0.245,
+        "walksHits": 36
       },
       "fieldingStats": {
         "rosterBioId": "24897",
@@ -3971,7 +3971,7 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "totalChances": 4
       },
       "evaluation": {
-        "score": 11,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3979,40 +3979,40 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 35.09781357882623,
-          "Command": 21.818181818181817,
+          "Miss bats": 38.47006651884701,
+          "Command": 25.454545454545457,
           "Damage suppression": 0
         },
         "summary": "Ryan Penney gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.81",
-          "WHIP 1.29",
-          "K/9 7.9"
+          "ERA 5.60",
+          "WHIP 1.32",
+          "K/9 8.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.81"
+            "value": "5.60"
           },
           {
             "label": "WHIP",
-            "value": "1.29"
+            "value": "1.32"
           },
           {
             "label": "K/9",
-            "value": "7.9"
+            "value": "8.2"
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "1.37"
+            "value": "1.32"
           },
           {
             "label": "IP",
-            "value": "26.3"
+            "value": "27.3"
           }
         ],
         "metaLine": "FR / R/R",
@@ -4048,24 +4048,24 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Isaac Lamson profiles as a INF piece who controls at-bats.",
+        "summary": "Isaac Lamson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .190",
-          "OBP .352",
-          "SLG .238"
+          "AVG .209",
+          "OBP .363",
+          "SLG .275"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".190"
+            "value": ".209"
           },
           {
             "label": "OBP",
-            "value": ".352"
+            "value": ".363"
           },
           {
             "label": "SLG",
-            "value": ".238"
+            "value": ".275"
           },
           {
             "label": "HR",
@@ -4073,19 +4073,19 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           },
           {
             "label": "RBI",
-            "value": "11"
+            "value": "14"
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "components": {
-          "On-base": 39.99999999999997,
+          "On-base": 46.11111111111109,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 88.88888888888889,
-          "Speed": 13.333333333333334
+          "Discipline": 72.2222222222222,
+          "Speed": 16.666666666666664
         },
         "metaLine": "SO / R/R",
         "detailBadges": [
@@ -4181,29 +4181,29 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 24,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jake Koonin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .237",
-          "OBP .340",
-          "SLG .374"
+          "AVG .234",
+          "OBP .346",
+          "SLG .372"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".237"
+            "value": ".234"
           },
           {
             "label": "OBP",
-            "value": ".340"
+            "value": ".346"
           },
           {
             "label": "SLG",
-            "value": ".374"
+            "value": ".372"
           },
           {
             "label": "HR",
@@ -4215,15 +4215,15 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           },
           {
             "label": "SB",
-            "value": "6"
+            "value": "7"
           }
         ],
         "components": {
-          "On-base": 33.33333333333333,
-          "Power": 14.210526315789473,
-          "Contact": 10.624999999999991,
-          "Discipline": 43.43434343434343,
-          "Speed": 20
+          "On-base": 36.666666666666636,
+          "Power": 13.684210526315788,
+          "Contact": 8.750000000000007,
+          "Discipline": 47.222222222222214,
+          "Speed": 23.333333333333332
         },
         "metaLine": "SR / R/R",
         "detailBadges": [
@@ -4457,7 +4457,7 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 18,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4465,8 +4465,8 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "summary": "Tommy Googins gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .243",
-          "OBP .350",
-          "SLG .330"
+          "OBP .344",
+          "SLG .324"
         ],
         "statCards": [
           {
@@ -4475,11 +4475,11 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           },
           {
             "label": "OBP",
-            "value": ".350"
+            "value": ".344"
           },
           {
             "label": "SLG",
-            "value": ".330"
+            "value": ".324"
           },
           {
             "label": "HR",
@@ -4487,7 +4487,7 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           },
           {
             "label": "RBI",
-            "value": "11"
+            "value": "12"
           },
           {
             "label": "SB",
@@ -4495,10 +4495,10 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           }
         ],
         "components": {
-          "On-base": 38.888888888888864,
-          "Power": 2.631578947368424,
+          "On-base": 35.55555555555553,
+          "Power": 1.0526315789473695,
           "Contact": 14.374999999999996,
-          "Discipline": 17.66381766381766,
+          "Discipline": 14.814814814814808,
           "Speed": 0
         },
         "metaLine": "JR / R/R",
@@ -4526,48 +4526,48 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "position": "P",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 9,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Charlie Wolf gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 10.00",
-          "WHIP 2.11",
-          "K/9 8.5"
+          "ERA 9.31",
+          "WHIP 2.17",
+          "K/9 7.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "10.00"
+            "value": "9.31"
           },
           {
             "label": "WHIP",
-            "value": "2.11"
+            "value": "2.17"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "7.9"
           },
           {
             "label": "BB/9",
-            "value": "6.5"
+            "value": "7.4"
           },
           {
             "label": "HR/9",
-            "value": "2.00"
+            "value": "1.86"
           },
           {
             "label": "IP",
-            "value": "18.0"
+            "value": "19.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 40.909090909090914,
-          "Command": 6.153846153846154,
+          "Miss bats": 35.579937304075244,
+          "Command": 1.25,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -4740,22 +4740,22 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         },
         "summary": "Dylan Zdunek gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .146",
-          "OBP .212",
-          "SLG .208"
+          "AVG .143",
+          "OBP .208",
+          "SLG .204"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".146"
+            "value": ".143"
           },
           {
             "label": "OBP",
-            "value": ".212"
+            "value": ".208"
           },
           {
             "label": "SLG",
-            "value": ".208"
+            "value": ".204"
           },
           {
             "label": "HR",
@@ -4774,7 +4774,7 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 14.814814814814808,
+          "Discipline": 11.965811965811964,
           "Speed": 0
         },
         "metaLine": "JR / R/R",
@@ -4802,29 +4802,29 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "position": "P",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 11,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Will Sword looks like a P option who misses bats.",
+        "summary": "Will Sword gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.62",
-          "WHIP 1.88",
-          "K/9 9.0"
+          "ERA 7.81",
+          "WHIP 1.92",
+          "K/9 8.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.62"
+            "value": "7.81"
           },
           {
             "label": "WHIP",
-            "value": "1.88"
+            "value": "1.92"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "8.5"
           },
           {
             "label": "BB/9",
@@ -4832,18 +4832,18 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.69"
+            "value": "0.65"
           },
           {
             "label": "IP",
-            "value": "26.0"
+            "value": "27.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 14.666666666666664,
+          "Miss bats": 40.525739320920046,
+          "Command": 12.5,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -4871,7 +4871,7 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 16,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4879,8 +4879,8 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "summary": "Bennett Crerar gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .281",
-          "OBP .296",
-          "SLG .405"
+          "OBP .301",
+          "SLG .398"
         ],
         "statCards": [
           {
@@ -4889,11 +4889,11 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           },
           {
             "label": "OBP",
-            "value": ".296"
+            "value": ".301"
           },
           {
             "label": "SLG",
-            "value": ".405"
+            "value": ".398"
           },
           {
             "label": "HR",
@@ -4901,7 +4901,7 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           },
           {
             "label": "RBI",
-            "value": "15"
+            "value": "16"
           },
           {
             "label": "SB",
@@ -4909,8 +4909,8 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           }
         ],
         "components": {
-          "On-base": 8.888888888888866,
-          "Power": 22.368421052631586,
+          "On-base": 11.666666666666647,
+          "Power": 20.52631578947369,
           "Contact": 38.125000000000014,
           "Discipline": 0,
           "Speed": 6.666666666666667
@@ -5009,29 +5009,29 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "position": "1B/OF",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 47,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tomas Cernius gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .306",
-          "OBP .371",
-          "SLG .476"
+          "AVG .313",
+          "OBP .383",
+          "SLG .473"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".306"
+            "value": ".313"
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": ".383"
           },
           {
             "label": "SLG",
-            "value": ".476"
+            "value": ".473"
           },
           {
             "label": "HR",
@@ -5039,19 +5039,19 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "22"
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "6"
           }
         ],
         "components": {
-          "On-base": 50.55555555555554,
-          "Power": 41.05263157894737,
-          "Contact": 53.75,
-          "Discipline": 61.11111111111111,
-          "Speed": 16.666666666666664
+          "On-base": 57.22222222222222,
+          "Power": 40.26315789473684,
+          "Contact": 58.12499999999999,
+          "Discipline": 74.99999999999999,
+          "Speed": 20
         },
         "metaLine": "FR / L/L",
         "detailBadges": [
@@ -5078,29 +5078,29 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 24,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Grant Werdesheim profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .276",
-          "OBP .345",
-          "SLG .323"
+          "AVG .279",
+          "OBP .349",
+          "SLG .324"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".276"
+            "value": ".279"
           },
           {
             "label": "OBP",
-            "value": ".345"
+            "value": ".349"
           },
           {
             "label": "SLG",
-            "value": ".323"
+            "value": ".324"
           },
           {
             "label": "HR",
@@ -5112,15 +5112,15 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           },
           {
             "label": "SB",
-            "value": "11"
+            "value": "12"
           }
         ],
         "components": {
-          "On-base": 36.111111111111086,
-          "Power": 0.7894736842105272,
-          "Contact": 35.000000000000014,
-          "Discipline": 13.62007168458781,
-          "Speed": 36.666666666666664
+          "On-base": 38.33333333333331,
+          "Power": 1.0526315789473695,
+          "Contact": 36.875000000000014,
+          "Discipline": 14.814814814814808,
+          "Speed": 40
         },
         "metaLine": "SO / R/R",
         "detailBadges": [
@@ -5359,41 +5359,41 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         },
         "summary": "Liam Kinneen gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.56",
-          "WHIP 1.61",
-          "K/9 6.6"
+          "ERA 5.60",
+          "WHIP 1.50",
+          "K/9 6.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.56"
+            "value": "5.60"
           },
           {
             "label": "WHIP",
-            "value": "1.61"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "6.6"
+            "value": "6.3"
           },
           {
             "label": "BB/9",
-            "value": "5.6"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
-            "value": "0.58"
+            "value": "0.49"
           },
           {
             "label": "IP",
-            "value": "46.7"
+            "value": "54.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 23.24675324675325,
-          "Command": 3.4482758620689635,
+          "Miss bats": 20.509977827051003,
+          "Command": 5.333333333333332,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -5421,29 +5421,29 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "position": "C",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 43,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Will Robbins gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .240",
-          "OBP .387",
-          "SLG .490"
+          "AVG .223",
+          "OBP .370",
+          "SLG .456"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".240"
+            "value": ".223"
           },
           {
             "label": "OBP",
-            "value": ".387"
+            "value": ".370"
           },
           {
             "label": "SLG",
-            "value": ".490"
+            "value": ".456"
           },
           {
             "label": "HR",
@@ -5459,10 +5459,10 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           }
         ],
         "components": {
-          "On-base": 59.444444444444436,
-          "Power": 44.73684210526316,
-          "Contact": 12.499999999999993,
-          "Discipline": 70.37037037037037,
+          "On-base": 49.999999999999986,
+          "Power": 35.789473684210535,
+          "Contact": 1.8750000000000018,
+          "Discipline": 71.11111111111109,
           "Speed": 0
         },
         "metaLine": "SO / R/R",
@@ -5490,21 +5490,21 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "position": "P",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 3,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Parker Codington gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.82",
+          "ERA 9.39",
           "WHIP 1.70",
-          "K/9 5.5"
+          "K/9 5.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.82"
+            "value": "9.39"
           },
           {
             "label": "WHIP",
@@ -5512,25 +5512,25 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           },
           {
             "label": "K/9",
-            "value": "5.5"
+            "value": "5.3"
           },
           {
             "label": "BB/9",
-            "value": "7.4"
+            "value": "7.6"
           },
           {
             "label": "HR/9",
-            "value": "0.61"
+            "value": "0.59"
           },
           {
             "label": "IP",
-            "value": "14.7"
+            "value": "15.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 13.842975206611577,
+          "Miss bats": 11.660079051383399,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -5703,41 +5703,41 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         },
         "summary": "Elliott Eaton gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.69",
-          "WHIP 1.46",
-          "K/9 6.9"
+          "ERA 7.27",
+          "WHIP 1.48",
+          "K/9 7.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.69"
+            "value": "7.27"
           },
           {
             "label": "WHIP",
-            "value": "1.46"
+            "value": "1.48"
           },
           {
             "label": "K/9",
-            "value": "6.9"
+            "value": "7.1"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "4.4"
           },
           {
             "label": "HR/9",
-            "value": "0.46"
+            "value": "0.62"
           },
           {
             "label": "IP",
-            "value": "39.0"
+            "value": "43.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 26.573426573426577,
-          "Command": 17.5,
+          "Miss bats": 27.83216783216783,
+          "Command": 12.380952380952381,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -5765,29 +5765,29 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 20,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jake Kernodle gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .236",
-          "OBP .362",
-          "SLG .274"
+          "AVG .227",
+          "OBP .356",
+          "SLG .264"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".236"
+            "value": ".227"
           },
           {
             "label": "OBP",
-            "value": ".362"
+            "value": ".356"
           },
           {
             "label": "SLG",
-            "value": ".274"
+            "value": ".264"
           },
           {
             "label": "HR",
@@ -5803,10 +5803,10 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           }
         ],
         "components": {
-          "On-base": 45.555555555555536,
+          "On-base": 42.2222222222222,
           "Power": 0,
-          "Contact": 9.999999999999991,
-          "Discipline": 20.261437908496724,
+          "Contact": 4.3750000000000036,
+          "Discipline": 18.713450292397653,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / R/R",
@@ -5834,29 +5834,29 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "position": "UTL",
         "classYear": "FR",
         "handedness": "L/R",
-        "score": 3,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Joe Montembeau gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .177",
-          "OBP .286",
-          "SLG .190"
+          "AVG .171",
+          "OBP .277",
+          "SLG .183"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".177"
+            "value": ".171"
           },
           {
             "label": "OBP",
-            "value": ".286"
+            "value": ".277"
           },
           {
             "label": "SLG",
-            "value": ".190"
+            "value": ".183"
           },
           {
             "label": "HR",
@@ -5872,10 +5872,10 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
           }
         ],
         "components": {
-          "On-base": 3.3333333333333055,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 14.814814814814808,
+          "Discipline": 13.33333333333333,
           "Speed": 0
         },
         "metaLine": "FR / L/R",
@@ -5903,48 +5903,48 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "position": "P",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 11,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ryan Penney gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.81",
-          "WHIP 1.29",
-          "K/9 7.9"
+          "ERA 5.60",
+          "WHIP 1.32",
+          "K/9 8.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.81"
+            "value": "5.60"
           },
           {
             "label": "WHIP",
-            "value": "1.29"
+            "value": "1.32"
           },
           {
             "label": "K/9",
-            "value": "7.9"
+            "value": "8.2"
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "1.37"
+            "value": "1.32"
           },
           {
             "label": "IP",
-            "value": "26.3"
+            "value": "27.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 35.09781357882623,
-          "Command": 21.818181818181817,
+          "Miss bats": 38.47006651884701,
+          "Command": 25.454545454545457,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",

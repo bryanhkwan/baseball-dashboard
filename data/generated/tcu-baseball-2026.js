@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.tcu2026 = {
-  "generatedAt": "2026-04-25T11:04:07.642Z",
+  "generatedAt": "2026-04-26T11:03:26.417Z",
   "season": 2026,
   "school": {
     "slug": "tcu",
@@ -40,22 +40,22 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
     }
   },
   "teamSummary": {
-    "record": "26-15, 11-8",
+    "record": "27-15, 12-8",
     "battingAverage": ".272",
-    "earnedRunAverage": "5.57",
-    "wins": "26",
+    "earnedRunAverage": "5.49",
+    "wins": "27",
     "losses": "15",
     "hitting": {
-      "atBats": "1333",
-      "runsScored": "301",
-      "hits": "362",
-      "runsBattedIn": "277",
-      "doubles": "57",
+      "atBats": "1365",
+      "runsScored": "305",
+      "hits": "371",
+      "runsBattedIn": "281",
+      "doubles": "61",
       "triples": "8",
-      "homeRuns": "49",
-      "walks": "243",
+      "homeRuns": "50",
+      "walks": "246",
       "intentionalWalks": "6",
-      "strikeouts": "331",
+      "strikeouts": "336",
       "strikeoutsLooking": "62",
       "hitByPitch": "56",
       "stolenBases": "63",
@@ -65,61 +65,61 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "288",
-      "flyOuts": "332",
-      "groundedIntoDoublePlay": "23",
+      "groundOuts": "296",
+      "flyOuts": "342",
+      "groundedIntoDoublePlay": "24",
       "pickedOff": "5",
-      "doublePlaysHitInto": "23",
+      "doublePlaysHitInto": "24",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1048",
-      "assists": "359",
-      "errors": "44",
+      "putouts": "1075",
+      "assists": "368",
+      "errors": "45",
       "passedBalls": "15",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "47",
+      "stolenBasesAgainst": "51",
       "caughtStealingBy": "19",
       "involvedInDoublePlays": "41",
       "involvedInTriplePlays": "0",
-      "totalChances": "1451",
+      "totalChances": "1488",
       "fieldingPercentage": ".970"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "26",
-      "saves": "31",
+      "wins": "27",
+      "saves": "32",
       "losses": "15",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "3",
       "creditForCombinedShutout": "2",
-      "inningsPitched": "350.1",
-      "hitsAllowed": "388",
-      "runsAllowed": "244",
-      "earnedRunsAllowed": "217",
-      "walksAllowed": "175",
-      "strikeouts": "336",
-      "battersFaced": "1626",
-      "opponentAtBats": "1376",
+      "inningsPitched": "359.1",
+      "hitsAllowed": "396",
+      "runsAllowed": "246",
+      "earnedRunsAllowed": "219",
+      "walksAllowed": "177",
+      "strikeouts": "343",
+      "battersFaced": "1664",
+      "opponentAtBats": "1411",
       "doublesAllowed": "67",
       "triplesAllowed": "5",
-      "homerunsAllowed": "38",
+      "homerunsAllowed": "40",
       "wildPitches": "33",
       "balks": "2",
       "hitBatters": "46",
-      "strikeoutsLooking": "71",
+      "strikeoutsLooking": "74",
       "intentionalWalks": "4",
       "inheritedRunners": "59",
       "inheritedRunnersThatScored": "29",
-      "sacrificeHitsAllowed": "14",
+      "sacrificeHitsAllowed": "15",
       "sacrificeFliesAllowed": "15",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6000",
-      "flyouts": "346",
-      "groundouts": "301",
+      "pitches": "6135",
+      "flyouts": "357",
+      "groundouts": "309",
       "teamUnearnedRuns": "2",
-      "saveRecord": "7",
+      "saveRecord": "8",
       "pickoff": "2"
     }
   },
@@ -162,13 +162,13 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "jersey": "1",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/jack-bell/17709",
         "imageUrl": "https://gofrogs.com/images/2025/11/20/_0033_1_-_Jack_Bell.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 35,
-        "battingAverage": 0.283,
-        "onBasePercentage": 0.456,
-        "sluggingPercentage": 0.469,
-        "ops": 0.925,
-        "atBats": 113,
+        "gamesPlayed": 39,
+        "gamesStarted": 36,
+        "battingAverage": 0.276,
+        "onBasePercentage": 0.451,
+        "sluggingPercentage": 0.457,
+        "ops": 0.908,
+        "atBats": 116,
         "runs": 31,
         "hits": 32,
         "doubles": 6,
@@ -176,7 +176,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "homeRuns": 5,
         "runsBattedIn": 20,
         "totalBases": 53,
-        "walks": 33,
+        "walks": 34,
         "hitByPitch": 3,
         "strikeouts": 38,
         "intentionalWalks": 0,
@@ -186,9 +186,9 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
         "putouts": 31,
-        "assists": 69,
+        "assists": 72,
         "errors": 7,
-        "plateAppearances": 156,
+        "plateAppearances": 160,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -200,51 +200,51 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "jersey": "1",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/jack-bell/17709",
         "imageUrl": "https://gofrogs.com/images/2025/11/20/_0033_1_-_Jack_Bell.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 33,
+        "gamesPlayed": 36,
+        "gamesStarted": 34,
         "putouts": 31,
-        "assists": 69,
+        "assists": 72,
         "errors": 7,
-        "fieldingPercentage": 0.935,
+        "fieldingPercentage": 0.936,
         "doublePlays": 11,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 107
+        "totalChances": 110
       },
       "evaluation": {
-        "score": 60,
+        "score": 58,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 97.77777777777777,
-          "Power": 39.210526315789465,
-          "Contact": 39.374999999999986,
-          "Discipline": 74.26900584795322,
+          "On-base": 95,
+          "Power": 36.05263157894738,
+          "Contact": 35.000000000000014,
+          "Discipline": 77.19298245614034,
           "Speed": 10
         },
         "summary": "Jack Bell profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .283",
-          "OBP .456",
-          "SLG .469"
+          "AVG .276",
+          "OBP .451",
+          "SLG .457"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".283"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".456"
+            "value": ".451"
           },
           {
             "label": "SLG",
-            "value": ".469"
+            "value": ".457"
           },
           {
             "label": "HR",
@@ -307,33 +307,33 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "jersey": "2",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/preston-gamster/17718",
         "imageUrl": "https://gofrogs.com/images/2025/11/20/_0032_2_-_Preston_Gamster.jpg",
-        "gamesPlayed": 21,
-        "gamesStarted": 13,
-        "battingAverage": 0.294,
-        "onBasePercentage": 0.379,
-        "sluggingPercentage": 0.549,
-        "ops": 0.928,
-        "atBats": 51,
-        "runs": 15,
-        "hits": 15,
+        "gamesPlayed": 22,
+        "gamesStarted": 14,
+        "battingAverage": 0.315,
+        "onBasePercentage": 0.393,
+        "sluggingPercentage": 0.611,
+        "ops": 1.004,
+        "atBats": 54,
+        "runs": 16,
+        "hits": 17,
         "doubles": 4,
         "triples": 0,
-        "homeRuns": 3,
-        "runsBattedIn": 14,
-        "totalBases": 28,
+        "homeRuns": 4,
+        "runsBattedIn": 15,
+        "totalBases": 33,
         "walks": 5,
         "hitByPitch": 2,
-        "strikeouts": 19,
+        "strikeouts": 20,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
-        "putouts": 22,
-        "assists": 19,
+        "putouts": 25,
+        "assists": 22,
         "errors": 0,
-        "plateAppearances": 63,
+        "plateAppearances": 66,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -345,10 +345,10 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "jersey": "2",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/preston-gamster/17718",
         "imageUrl": "https://gofrogs.com/images/2025/11/20/_0032_2_-_Preston_Gamster.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 12,
-        "putouts": 22,
-        "assists": 19,
+        "gamesPlayed": 16,
+        "gamesStarted": 13,
+        "putouts": 25,
+        "assists": 22,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 6,
@@ -357,47 +357,47 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 41
+        "totalChances": 47
       },
       "evaluation": {
-        "score": 44,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 54.99999999999999,
-          "Power": 60.263157894736864,
-          "Contact": 46.249999999999986,
-          "Discipline": 7.017543859649118,
+          "On-base": 62.77777777777778,
+          "Power": 76.57894736842105,
+          "Contact": 59.375,
+          "Discipline": 5.555555555555554,
           "Speed": 10
         },
-        "summary": "Preston Gamster gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Preston Gamster profiles as a INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .294",
-          "OBP .379",
-          "SLG .549"
+          "AVG .315",
+          "OBP .393",
+          "SLG .611"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".294"
+            "value": ".315"
           },
           {
             "label": "OBP",
-            "value": ".379"
+            "value": ".393"
           },
           {
             "label": "SLG",
-            "value": ".549"
+            "value": ".611"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "4"
           },
           {
             "label": "RBI",
-            "value": "14"
+            "value": "15"
           },
           {
             "label": "SB",
@@ -951,33 +951,33 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "jersey": "7",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/cole-cramer/17713",
         "imageUrl": "https://gofrogs.com/images/2025/11/20/_0027_7_-_Cole_Cramer.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "battingAverage": 0.315,
-        "onBasePercentage": 0.411,
-        "sluggingPercentage": 0.43,
-        "ops": 0.841,
-        "atBats": 165,
-        "runs": 44,
-        "hits": 52,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "battingAverage": 0.314,
+        "onBasePercentage": 0.408,
+        "sluggingPercentage": 0.426,
+        "ops": 0.834,
+        "atBats": 169,
+        "runs": 45,
+        "hits": 53,
         "doubles": 8,
         "triples": 1,
         "homeRuns": 3,
         "runsBattedIn": 36,
-        "totalBases": 71,
+        "totalBases": 72,
         "walks": 26,
         "hitByPitch": 3,
-        "strikeouts": 38,
+        "strikeouts": 39,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 8,
         "stolenBasesAttempts": 9,
-        "putouts": 104,
-        "assists": 81,
-        "errors": 3,
-        "plateAppearances": 207,
+        "putouts": 106,
+        "assists": 82,
+        "errors": 4,
+        "plateAppearances": 211,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -989,51 +989,51 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "jersey": "7",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/cole-cramer/17713",
         "imageUrl": "https://gofrogs.com/images/2025/11/20/_0027_7_-_Cole_Cramer.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "putouts": 104,
-        "assists": 81,
-        "errors": 3,
-        "fieldingPercentage": 0.984,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "putouts": 106,
+        "assists": 82,
+        "errors": 4,
+        "fieldingPercentage": 0.979,
         "doublePlays": 26,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 188
+        "totalChances": 192
       },
       "evaluation": {
-        "score": 52,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 72.77777777777776,
-          "Power": 28.947368421052634,
-          "Contact": 59.375,
-          "Discipline": 53.80116959064327,
+          "On-base": 71.11111111111109,
+          "Power": 27.89473684210526,
+          "Contact": 58.75,
+          "Discipline": 51.85185185185184,
           "Speed": 26.666666666666668
         },
         "summary": "Cole Cramer profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .315",
-          "OBP .411",
-          "SLG .430"
+          "AVG .314",
+          "OBP .408",
+          "SLG .426"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".315"
+            "value": ".314"
           },
           {
             "label": "OBP",
-            "value": ".411"
+            "value": ".408"
           },
           {
             "label": "SLG",
-            "value": ".430"
+            "value": ".426"
           },
           {
             "label": "HR",
@@ -1383,20 +1383,20 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "jersey": "10",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/sawyer-strosnider/17729",
         "imageUrl": "https://gofrogs.com/images/2025/11/20/_0025_10_-_Sawyer_Strosnider.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "battingAverage": 0.275,
-        "onBasePercentage": 0.428,
-        "sluggingPercentage": 0.564,
-        "ops": 0.992,
-        "atBats": 149,
-        "runs": 44,
-        "hits": 41,
-        "doubles": 7,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "battingAverage": 0.281,
+        "onBasePercentage": 0.429,
+        "sluggingPercentage": 0.575,
+        "ops": 1.004,
+        "atBats": 153,
+        "runs": 45,
+        "hits": 43,
+        "doubles": 9,
         "triples": 3,
         "homeRuns": 10,
         "runsBattedIn": 41,
-        "totalBases": 84,
+        "totalBases": 88,
         "walks": 38,
         "hitByPitch": 4,
         "strikeouts": 33,
@@ -1406,10 +1406,10 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "sacrificeHits": 0,
         "stolenBases": 10,
         "stolenBasesAttempts": 12,
-        "putouts": 77,
+        "putouts": 80,
         "assists": 1,
         "errors": 3,
-        "plateAppearances": 208,
+        "plateAppearances": 212,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -1421,51 +1421,51 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "jersey": "10",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/sawyer-strosnider/17729",
         "imageUrl": "https://gofrogs.com/images/2025/11/20/_0025_10_-_Sawyer_Strosnider.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 35,
-        "putouts": 77,
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "putouts": 80,
         "assists": 1,
         "errors": 3,
-        "fieldingPercentage": 0.963,
+        "fieldingPercentage": 0.964,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 81
+        "totalChances": 84
       },
       "evaluation": {
-        "score": 67,
+        "score": 68,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Pursue",
+          "className": "fit-pursue"
         },
         "components": {
-          "On-base": 82.22222222222221,
-          "Power": 64.21052631578947,
-          "Contact": 34.375000000000014,
+          "On-base": 82.77777777777776,
+          "Power": 67.10526315789474,
+          "Contact": 38.125000000000014,
           "Discipline": 100,
           "Speed": 33.33333333333333
         },
         "summary": "Sawyer Strosnider profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .275",
-          "OBP .428",
-          "SLG .564"
+          "AVG .281",
+          "OBP .429",
+          "SLG .575"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".275"
+            "value": ".281"
           },
           {
             "label": "OBP",
-            "value": ".428"
+            "value": ".429"
           },
           {
             "label": "SLG",
-            "value": ".564"
+            "value": ".575"
           },
           {
             "label": "HR",
@@ -1528,20 +1528,20 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "jersey": "11",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/colton-griffin/17719",
         "imageUrl": "https://gofrogs.com/images/2025/11/20/_0024_11_-_Colton_Griffin.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 30,
-        "battingAverage": 0.284,
-        "onBasePercentage": 0.422,
-        "sluggingPercentage": 0.333,
-        "ops": 0.755,
-        "atBats": 102,
+        "gamesPlayed": 33,
+        "gamesStarted": 31,
+        "battingAverage": 0.283,
+        "onBasePercentage": 0.417,
+        "sluggingPercentage": 0.33,
+        "ops": 0.747,
+        "atBats": 106,
         "runs": 24,
-        "hits": 29,
+        "hits": 30,
         "doubles": 3,
         "triples": 1,
         "homeRuns": 0,
         "runsBattedIn": 13,
-        "totalBases": 34,
+        "totalBases": 35,
         "walks": 22,
         "hitByPitch": 3,
         "strikeouts": 18,
@@ -1551,10 +1551,10 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "sacrificeHits": 4,
         "stolenBases": 10,
         "stolenBasesAttempts": 10,
-        "putouts": 60,
+        "putouts": 61,
         "assists": 1,
         "errors": 0,
-        "plateAppearances": 142,
+        "plateAppearances": 146,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1566,9 +1566,9 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "jersey": "11",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/colton-griffin/17719",
         "imageUrl": "https://gofrogs.com/images/2025/11/20/_0024_11_-_Colton_Griffin.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 26,
-        "putouts": 60,
+        "gamesPlayed": 28,
+        "gamesStarted": 27,
+        "putouts": 61,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1578,39 +1578,39 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 61
+        "totalChances": 62
       },
       "evaluation": {
-        "score": 51,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 78.88888888888886,
-          "Power": 3.421052631578951,
-          "Contact": 39.99999999999998,
+          "On-base": 76.11111111111109,
+          "Power": 2.631578947368424,
+          "Contact": 39.374999999999986,
           "Discipline": 100,
           "Speed": 33.33333333333333
         },
         "summary": "Colton Griffin profiles as a UT piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .284",
-          "OBP .422",
-          "SLG .333"
+          "AVG .283",
+          "OBP .417",
+          "SLG .330"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".284"
+            "value": ".283"
           },
           {
             "label": "OBP",
-            "value": ".422"
+            "value": ".417"
           },
           {
             "label": "SLG",
-            "value": ".333"
+            "value": ".330"
           },
           {
             "label": "HR",
@@ -1996,33 +1996,33 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "jersey": "15",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/chase-brunson/17711",
         "imageUrl": "https://gofrogs.com/images/2025/11/20/_0021_15_-_Chase_Brunson.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "battingAverage": 0.297,
-        "onBasePercentage": 0.462,
-        "sluggingPercentage": 0.543,
-        "ops": 1.005,
-        "atBats": 138,
-        "runs": 28,
-        "hits": 41,
-        "doubles": 8,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "battingAverage": 0.298,
+        "onBasePercentage": 0.463,
+        "sluggingPercentage": 0.546,
+        "ops": 1.009,
+        "atBats": 141,
+        "runs": 29,
+        "hits": 42,
+        "doubles": 9,
         "triples": 1,
         "homeRuns": 8,
-        "runsBattedIn": 43,
-        "totalBases": 75,
-        "walks": 28,
+        "runsBattedIn": 45,
+        "totalBases": 77,
+        "walks": 29,
         "hitByPitch": 16,
         "strikeouts": 34,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
+        "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 12,
         "stolenBasesAttempts": 17,
-        "putouts": 88,
+        "putouts": 89,
         "assists": 3,
         "errors": 2,
-        "plateAppearances": 206,
+        "plateAppearances": 210,
         "caughtStealing": 5,
         "pickedOff": 2
       },
@@ -2034,19 +2034,19 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "jersey": "15",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/chase-brunson/17711",
         "imageUrl": "https://gofrogs.com/images/2025/11/20/_0021_15_-_Chase_Brunson.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "putouts": 88,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "putouts": 89,
         "assists": 3,
         "errors": 2,
-        "fieldingPercentage": 0.978,
+        "fieldingPercentage": 0.979,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 93
+        "totalChances": 94
       },
       "evaluation": {
         "score": 70,
@@ -2056,29 +2056,29 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         },
         "components": {
           "On-base": 100,
-          "Power": 58.68421052631581,
-          "Contact": 48.12499999999999,
-          "Discipline": 69.28104575163397,
+          "Power": 59.473684210526336,
+          "Contact": 48.749999999999986,
+          "Discipline": 72.5490196078431,
           "Speed": 40
         },
         "summary": "Chase Brunson profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .297",
-          "OBP .462",
-          "SLG .543"
+          "AVG .298",
+          "OBP .463",
+          "SLG .546"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".297"
+            "value": ".298"
           },
           {
             "label": "OBP",
-            "value": ".462"
+            "value": ".463"
           },
           {
             "label": "SLG",
-            "value": ".543"
+            "value": ".546"
           },
           {
             "label": "HR",
@@ -2086,7 +2086,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           },
           {
             "label": "RBI",
-            "value": "43"
+            "value": "45"
           },
           {
             "label": "SB",
@@ -2141,23 +2141,23 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "jersey": "16",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/nolan-traeger/17730",
         "imageUrl": "https://gofrogs.com/images/2025/11/20/_0020_16_-_Nolan_Traeger.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 32,
-        "battingAverage": 0.299,
-        "onBasePercentage": 0.39,
-        "sluggingPercentage": 0.419,
-        "ops": 0.809,
-        "atBats": 117,
+        "gamesPlayed": 35,
+        "gamesStarted": 33,
+        "battingAverage": 0.3,
+        "onBasePercentage": 0.393,
+        "sluggingPercentage": 0.417,
+        "ops": 0.81,
+        "atBats": 120,
         "runs": 16,
-        "hits": 35,
+        "hits": 36,
         "doubles": 5,
         "triples": 0,
         "homeRuns": 3,
         "runsBattedIn": 30,
-        "totalBases": 49,
-        "walks": 17,
+        "totalBases": 50,
+        "walks": 18,
         "hitByPitch": 3,
-        "strikeouts": 15,
+        "strikeouts": 16,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 4,
@@ -2167,7 +2167,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "putouts": 191,
         "assists": 23,
         "errors": 3,
-        "plateAppearances": 142,
+        "plateAppearances": 146,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2200,30 +2200,30 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 61.11111111111111,
-          "Power": 26.052631578947366,
-          "Contact": 49.37499999999999,
+          "On-base": 62.77777777777778,
+          "Power": 25.52631578947368,
+          "Contact": 49.999999999999986,
           "Discipline": 100,
           "Speed": 3.3333333333333335
         },
         "summary": "Nolan Traeger profiles as a C piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .299",
-          "OBP .390",
-          "SLG .419"
+          "AVG .300",
+          "OBP .393",
+          "SLG .417"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".299"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".390"
+            "value": ".393"
           },
           {
             "label": "SLG",
-            "value": ".419"
+            "value": ".417"
           },
           {
             "label": "HR",
@@ -2286,13 +2286,13 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "jersey": "17",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/rob-liddington/18001",
         "imageUrl": "https://gofrogs.com/images/2025/11/20/_0019_17_-_Rob_Liddington.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 27,
-        "battingAverage": 0.281,
-        "onBasePercentage": 0.361,
-        "sluggingPercentage": 0.438,
-        "ops": 0.799,
-        "atBats": 89,
+        "gamesPlayed": 33,
+        "gamesStarted": 28,
+        "battingAverage": 0.269,
+        "onBasePercentage": 0.348,
+        "sluggingPercentage": 0.419,
+        "ops": 0.767,
+        "atBats": 93,
         "runs": 21,
         "hits": 25,
         "doubles": 5,
@@ -2302,17 +2302,17 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "totalBases": 39,
         "walks": 13,
         "hitByPitch": 1,
-        "strikeouts": 24,
+        "strikeouts": 26,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 5,
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
-        "putouts": 187,
+        "putouts": 197,
         "assists": 9,
         "errors": 2,
-        "plateAppearances": 114,
+        "plateAppearances": 118,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -2324,9 +2324,9 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "jersey": "17",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/rob-liddington/18001",
         "imageUrl": "https://gofrogs.com/images/2025/11/20/_0019_17_-_Rob_Liddington.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 27,
-        "putouts": 187,
+        "gamesPlayed": 31,
+        "gamesStarted": 28,
+        "putouts": 197,
         "assists": 9,
         "errors": 2,
         "fieldingPercentage": 0.99,
@@ -2336,39 +2336,39 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 198
+        "totalChances": 208
       },
       "evaluation": {
-        "score": 36,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 44.99999999999998,
-          "Power": 31.05263157894737,
-          "Contact": 38.125000000000014,
-          "Discipline": 37.962962962962955,
+          "On-base": 37.77777777777775,
+          "Power": 26.052631578947366,
+          "Contact": 30.625000000000007,
+          "Discipline": 33.33333333333333,
           "Speed": 13.333333333333334
         },
         "summary": "Rob Liddington gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .281",
-          "OBP .361",
-          "SLG .438"
+          "AVG .269",
+          "OBP .348",
+          "SLG .419"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".281"
+            "value": ".269"
           },
           {
             "label": "OBP",
-            "value": ".361"
+            "value": ".348"
           },
           {
             "label": "SLG",
-            "value": ".438"
+            "value": ".419"
           },
           {
             "label": "HR",
@@ -3091,32 +3091,32 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "jersey": "24",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/tanner-sagouspe/18004",
         "imageUrl": "https://gofrogs.com/images/2025/11/20/_0013_24_-_Tanner_Sagouspe.jpg",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 0,
-        "appearances": 14,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 1.67,
+        "earnedRunAverage": 1.61,
         "whip": 0.96,
         "wins": 2,
         "losses": 2,
-        "saves": 2,
+        "saves": 3,
         "shutouts": 0,
-        "inningsPitched": 27,
-        "inningsPitchedDisplay": "27.0",
-        "hitsAllowed": 18,
+        "inningsPitched": 28,
+        "inningsPitchedDisplay": "28.0",
+        "hitsAllowed": 19,
         "runsAllowed": 6,
         "earnedRunsAllowed": 5,
         "walksAllowed": 8,
-        "strikeouts": 33,
+        "strikeouts": 34,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 92,
+        "opponentsAtBats": 96,
         "wildPitches": 7,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.196,
-        "walksHits": 26
+        "opponentsBattingAverage": 0.198,
+        "walksHits": 27
       },
       "fieldingStats": {
         "rosterBioId": "18004",
@@ -3148,20 +3148,20 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 63.63636363636363,
-          "Command": 62.5,
+          "Miss bats": 62.98701298701299,
+          "Command": 65,
           "Damage suppression": 0
         },
         "summary": "Tanner Sagouspe looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.67",
+          "ERA 1.61",
           "WHIP 0.96",
-          "K/9 11.0"
+          "K/9 10.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.67"
+            "value": "1.61"
           },
           {
             "label": "WHIP",
@@ -3169,19 +3169,19 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           },
           {
             "label": "K/9",
-            "value": "11.0"
+            "value": "10.9"
           },
           {
             "label": "BB/9",
-            "value": "2.7"
+            "value": "2.6"
           },
           {
             "label": "HR/9",
-            "value": "0.67"
+            "value": "0.64"
           },
           {
             "label": "IP",
-            "value": "27.0"
+            "value": "28.0"
           }
         ],
         "metaLine": "SR / R/R",
@@ -3496,20 +3496,20 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "jersey": "27",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/brady-dallimore/18000",
         "imageUrl": "https://gofrogs.com/images/2025/11/20/_0009_27_-_Brady_Dallimore.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 23,
-        "battingAverage": 0.276,
-        "onBasePercentage": 0.388,
-        "sluggingPercentage": 0.517,
-        "ops": 0.905,
-        "atBats": 87,
+        "gamesPlayed": 28,
+        "gamesStarted": 24,
+        "battingAverage": 0.275,
+        "onBasePercentage": 0.383,
+        "sluggingPercentage": 0.516,
+        "ops": 0.899,
+        "atBats": 91,
         "runs": 21,
-        "hits": 24,
-        "doubles": 4,
+        "hits": 25,
+        "doubles": 5,
         "triples": 1,
         "homeRuns": 5,
-        "runsBattedIn": 12,
-        "totalBases": 45,
+        "runsBattedIn": 13,
+        "totalBases": 47,
         "walks": 11,
         "hitByPitch": 5,
         "strikeouts": 22,
@@ -3519,10 +3519,10 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 158,
+        "putouts": 165,
         "assists": 19,
         "errors": 2,
-        "plateAppearances": 103,
+        "plateAppearances": 107,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3534,51 +3534,51 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "jersey": "27",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/brady-dallimore/18000",
         "imageUrl": "https://gofrogs.com/images/2025/11/20/_0009_27_-_Brady_Dallimore.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 20,
-        "putouts": 158,
+        "gamesPlayed": 23,
+        "gamesStarted": 21,
+        "putouts": 165,
         "assists": 19,
         "errors": 2,
         "fieldingPercentage": 0.989,
         "doublePlays": 5,
-        "stolenBasesAgainst": 13,
+        "stolenBasesAgainst": 17,
         "caughtStealingBy": 9,
-        "stolenBasesPercentage": 0.591,
+        "stolenBasesPercentage": 0.654,
         "passedBalls": 7,
         "catchersInterference": 0,
-        "totalChances": 179
+        "totalChances": 186
       },
       "evaluation": {
-        "score": 44,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 60,
-          "Power": 51.8421052631579,
-          "Contact": 35.000000000000014,
+          "On-base": 57.22222222222222,
+          "Power": 51.578947368421055,
+          "Contact": 34.375000000000014,
           "Discipline": 33.33333333333333,
           "Speed": 0
         },
         "summary": "Brady Dallimore gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .276",
-          "OBP .388",
-          "SLG .517"
+          "AVG .275",
+          "OBP .383",
+          "SLG .516"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".276"
+            "value": ".275"
           },
           {
             "label": "OBP",
-            "value": ".388"
+            "value": ".383"
           },
           {
             "label": "SLG",
-            "value": ".517"
+            "value": ".516"
           },
           {
             "label": "HR",
@@ -3586,7 +3586,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "SB",
@@ -4355,32 +4355,32 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "jersey": "45",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/lance-davis/18006",
         "imageUrl": "https://gofrogs.com/images/2025/11/20/_0003_45_-_Lance_Davis.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 10,
-        "appearances": 10,
+        "gamesPlayed": 11,
+        "gamesStarted": 11,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.14,
-        "whip": 1.27,
+        "earnedRunAverage": 4.82,
+        "whip": 1.23,
         "wins": 3,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 49,
-        "inningsPitchedDisplay": "49.0",
-        "hitsAllowed": 50,
-        "runsAllowed": 31,
-        "earnedRunsAllowed": 28,
+        "inningsPitched": 56,
+        "inningsPitchedDisplay": "56.0",
+        "hitsAllowed": 57,
+        "runsAllowed": 33,
+        "earnedRunsAllowed": 30,
         "walksAllowed": 12,
-        "strikeouts": 32,
+        "strikeouts": 37,
         "doublesAllowed": 7,
         "triplesAllowed": 2,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 188,
+        "homeRunsAllowed": 6,
+        "opponentsAtBats": 217,
         "wildPitches": 1,
         "hitBatters": 7,
         "balks": 1,
-        "opponentsBattingAverage": 0.266,
-        "walksHits": 62
+        "opponentsBattingAverage": 0.263,
+        "walksHits": 69
       },
       "fieldingStats": {
         "rosterBioId": "18006",
@@ -4389,22 +4389,22 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "jersey": "45",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/lance-davis/18006",
         "imageUrl": "https://gofrogs.com/images/2025/11/20/_0003_45_-_Lance_Davis.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 9,
+        "gamesPlayed": 10,
+        "gamesStarted": 10,
         "putouts": 5,
-        "assists": 8,
+        "assists": 9,
         "errors": 1,
-        "fieldingPercentage": 0.929,
+        "fieldingPercentage": 0.933,
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 2,
         "stolenBasesPercentage": 0.75,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 14
+        "totalChances": 15
       },
       "evaluation": {
-        "score": 9,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4412,24 +4412,24 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 17.068645640074216,
-          "Command": 33.333333333333336,
+          "Miss bats": 17.694805194805195,
+          "Command": 41.666666666666664,
           "Damage suppression": 0
         },
-        "summary": "Lance Davis looks like a RHP option who throws enough strikes.",
+        "summary": "Lance Davis looks like a RHP option who throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 5.14",
-          "WHIP 1.27",
+          "ERA 4.82",
+          "WHIP 1.23",
           "K/9 5.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.14"
+            "value": "4.82"
           },
           {
             "label": "WHIP",
-            "value": "1.27"
+            "value": "1.23"
           },
           {
             "label": "K/9",
@@ -4437,15 +4437,15 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           },
           {
             "label": "BB/9",
-            "value": "2.2"
+            "value": "1.9"
           },
           {
             "label": "HR/9",
-            "value": "0.73"
+            "value": "0.96"
           },
           {
             "label": "IP",
-            "value": "49.0"
+            "value": "56.0"
           }
         ],
         "metaLine": "R-FR / R/R",
@@ -4497,32 +4497,32 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "jersey": "48",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/nate-stern/17728",
         "imageUrl": "https://gofrogs.com/images/2025/11/20/_0002_48_-_Nate_Stern.jpg",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 0,
-        "appearances": 14,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.22,
-        "whip": 1.66,
-        "wins": 2,
+        "earnedRunAverage": 3.09,
+        "whip": 1.67,
+        "wins": 3,
         "losses": 0,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 22.333333333333332,
-        "inningsPitchedDisplay": "22.1",
+        "inningsPitched": 23.333333333333332,
+        "inningsPitchedDisplay": "23.1",
         "hitsAllowed": 22,
         "runsAllowed": 8,
         "earnedRunsAllowed": 8,
-        "walksAllowed": 15,
-        "strikeouts": 28,
+        "walksAllowed": 17,
+        "strikeouts": 29,
         "doublesAllowed": 5,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 84,
+        "opponentsAtBats": 86,
         "wildPitches": 3,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.262,
-        "walksHits": 37
+        "opponentsBattingAverage": 0.256,
+        "walksHits": 39
       },
       "fieldingStats": {
         "rosterBioId": "17728",
@@ -4531,10 +4531,10 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "jersey": "48",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/nate-stern/17728",
         "imageUrl": "https://gofrogs.com/images/2025/11/20/_0002_48_-_Nate_Stern.jpg",
-        "gamesPlayed": 5,
+        "gamesPlayed": 6,
         "gamesStarted": 0,
         "putouts": 3,
-        "assists": 1,
+        "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 1,
@@ -4543,10 +4543,10 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 4
+        "totalChances": 5
       },
       "evaluation": {
-        "score": 16,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4554,40 +4554,40 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 66.2143826322931,
-          "Command": 17.33333333333334,
+          "Miss bats": 65.32467532467533,
+          "Command": 14.117647058823529,
           "Damage suppression": 0
         },
         "summary": "Nate Stern looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 3.22",
-          "WHIP 1.66",
-          "K/9 11.3"
+          "ERA 3.09",
+          "WHIP 1.67",
+          "K/9 11.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.22"
+            "value": "3.09"
           },
           {
             "label": "WHIP",
-            "value": "1.66"
+            "value": "1.67"
           },
           {
             "label": "K/9",
-            "value": "11.3"
+            "value": "11.2"
           },
           {
             "label": "BB/9",
-            "value": "6.0"
+            "value": "6.6"
           },
           {
             "label": "HR/9",
-            "value": "0.40"
+            "value": "0.39"
           },
           {
             "label": "IP",
-            "value": "22.3"
+            "value": "23.3"
           }
         ],
         "metaLine": "SO / N/A",
@@ -4902,29 +4902,29 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 60,
+        "score": 58,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Jack Bell profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .283",
-          "OBP .456",
-          "SLG .469"
+          "AVG .276",
+          "OBP .451",
+          "SLG .457"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".283"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".456"
+            "value": ".451"
           },
           {
             "label": "SLG",
-            "value": ".469"
+            "value": ".457"
           },
           {
             "label": "HR",
@@ -4940,10 +4940,10 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           }
         ],
         "components": {
-          "On-base": 97.77777777777777,
-          "Power": 39.210526315789465,
-          "Contact": 39.374999999999986,
-          "Discipline": 74.26900584795322,
+          "On-base": 95,
+          "Power": 36.05263157894738,
+          "Contact": 35.000000000000014,
+          "Discipline": 77.19298245614034,
           "Speed": 10
         },
         "metaLine": "JR / N/A",
@@ -4971,37 +4971,37 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 44,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Preston Gamster gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Preston Gamster profiles as a INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .294",
-          "OBP .379",
-          "SLG .549"
+          "AVG .315",
+          "OBP .393",
+          "SLG .611"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".294"
+            "value": ".315"
           },
           {
             "label": "OBP",
-            "value": ".379"
+            "value": ".393"
           },
           {
             "label": "SLG",
-            "value": ".549"
+            "value": ".611"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "4"
           },
           {
             "label": "RBI",
-            "value": "14"
+            "value": "15"
           },
           {
             "label": "SB",
@@ -5009,10 +5009,10 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           }
         ],
         "components": {
-          "On-base": 54.99999999999999,
-          "Power": 60.263157894736864,
-          "Contact": 46.249999999999986,
-          "Discipline": 7.017543859649118,
+          "On-base": 62.77777777777778,
+          "Power": 76.57894736842105,
+          "Contact": 59.375,
+          "Discipline": 5.555555555555554,
           "Speed": 10
         },
         "metaLine": "SR / N/A",
@@ -5314,29 +5314,29 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "position": "INF",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 52,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cole Cramer profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .315",
-          "OBP .411",
-          "SLG .430"
+          "AVG .314",
+          "OBP .408",
+          "SLG .426"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".315"
+            "value": ".314"
           },
           {
             "label": "OBP",
-            "value": ".411"
+            "value": ".408"
           },
           {
             "label": "SLG",
-            "value": ".430"
+            "value": ".426"
           },
           {
             "label": "HR",
@@ -5352,10 +5352,10 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           }
         ],
         "components": {
-          "On-base": 72.77777777777776,
-          "Power": 28.947368421052634,
-          "Contact": 59.375,
-          "Discipline": 53.80116959064327,
+          "On-base": 71.11111111111109,
+          "Power": 27.89473684210526,
+          "Contact": 58.75,
+          "Discipline": 51.85185185185184,
           "Speed": 26.666666666666668
         },
         "metaLine": "GR / N/A",
@@ -5521,29 +5521,29 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 67,
+        "score": 68,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Pursue",
+          "className": "fit-pursue"
         },
         "summary": "Sawyer Strosnider profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .275",
-          "OBP .428",
-          "SLG .564"
+          "AVG .281",
+          "OBP .429",
+          "SLG .575"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".275"
+            "value": ".281"
           },
           {
             "label": "OBP",
-            "value": ".428"
+            "value": ".429"
           },
           {
             "label": "SLG",
-            "value": ".564"
+            "value": ".575"
           },
           {
             "label": "HR",
@@ -5559,9 +5559,9 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           }
         ],
         "components": {
-          "On-base": 82.22222222222221,
-          "Power": 64.21052631578947,
-          "Contact": 34.375000000000014,
+          "On-base": 82.77777777777776,
+          "Power": 67.10526315789474,
+          "Contact": 38.125000000000014,
           "Discipline": 100,
           "Speed": 33.33333333333333
         },
@@ -5590,29 +5590,29 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "position": "UT",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 51,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Colton Griffin profiles as a UT piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .284",
-          "OBP .422",
-          "SLG .333"
+          "AVG .283",
+          "OBP .417",
+          "SLG .330"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".284"
+            "value": ".283"
           },
           {
             "label": "OBP",
-            "value": ".422"
+            "value": ".417"
           },
           {
             "label": "SLG",
-            "value": ".333"
+            "value": ".330"
           },
           {
             "label": "HR",
@@ -5628,9 +5628,9 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           }
         ],
         "components": {
-          "On-base": 78.88888888888886,
-          "Power": 3.421052631578951,
-          "Contact": 39.99999999999998,
+          "On-base": 76.11111111111109,
+          "Power": 2.631578947368424,
+          "Contact": 39.374999999999986,
           "Discipline": 100,
           "Speed": 33.33333333333333
         },
@@ -5804,22 +5804,22 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         },
         "summary": "Chase Brunson profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .297",
-          "OBP .462",
-          "SLG .543"
+          "AVG .298",
+          "OBP .463",
+          "SLG .546"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".297"
+            "value": ".298"
           },
           {
             "label": "OBP",
-            "value": ".462"
+            "value": ".463"
           },
           {
             "label": "SLG",
-            "value": ".543"
+            "value": ".546"
           },
           {
             "label": "HR",
@@ -5827,7 +5827,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           },
           {
             "label": "RBI",
-            "value": "43"
+            "value": "45"
           },
           {
             "label": "SB",
@@ -5836,9 +5836,9 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 58.68421052631581,
-          "Contact": 48.12499999999999,
-          "Discipline": 69.28104575163397,
+          "Power": 59.473684210526336,
+          "Contact": 48.749999999999986,
+          "Discipline": 72.5490196078431,
           "Speed": 40
         },
         "metaLine": "JR / N/A",
@@ -5873,22 +5873,22 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         },
         "summary": "Nolan Traeger profiles as a C piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .299",
-          "OBP .390",
-          "SLG .419"
+          "AVG .300",
+          "OBP .393",
+          "SLG .417"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".299"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".390"
+            "value": ".393"
           },
           {
             "label": "SLG",
-            "value": ".419"
+            "value": ".417"
           },
           {
             "label": "HR",
@@ -5904,9 +5904,9 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           }
         ],
         "components": {
-          "On-base": 61.11111111111111,
-          "Power": 26.052631578947366,
-          "Contact": 49.37499999999999,
+          "On-base": 62.77777777777778,
+          "Power": 25.52631578947368,
+          "Contact": 49.999999999999986,
           "Discipline": 100,
           "Speed": 3.3333333333333335
         },
@@ -5935,29 +5935,29 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "position": "UT",
         "classYear": "GR",
         "handedness": "R/L",
-        "score": 36,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Rob Liddington gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .281",
-          "OBP .361",
-          "SLG .438"
+          "AVG .269",
+          "OBP .348",
+          "SLG .419"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".281"
+            "value": ".269"
           },
           {
             "label": "OBP",
-            "value": ".361"
+            "value": ".348"
           },
           {
             "label": "SLG",
-            "value": ".438"
+            "value": ".419"
           },
           {
             "label": "HR",
@@ -5973,10 +5973,10 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           }
         ],
         "components": {
-          "On-base": 44.99999999999998,
-          "Power": 31.05263157894737,
-          "Contact": 38.125000000000014,
-          "Discipline": 37.962962962962955,
+          "On-base": 37.77777777777775,
+          "Power": 26.052631578947366,
+          "Contact": 30.625000000000007,
+          "Discipline": 33.33333333333333,
           "Speed": 13.333333333333334
         },
         "metaLine": "GR / R/L",
@@ -6355,14 +6355,14 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         },
         "summary": "Tanner Sagouspe looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.67",
+          "ERA 1.61",
           "WHIP 0.96",
-          "K/9 11.0"
+          "K/9 10.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.67"
+            "value": "1.61"
           },
           {
             "label": "WHIP",
@@ -6370,26 +6370,26 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           },
           {
             "label": "K/9",
-            "value": "11.0"
+            "value": "10.9"
           },
           {
             "label": "BB/9",
-            "value": "2.7"
+            "value": "2.6"
           },
           {
             "label": "HR/9",
-            "value": "0.67"
+            "value": "0.64"
           },
           {
             "label": "IP",
-            "value": "27.0"
+            "value": "28.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 63.63636363636363,
-          "Command": 62.5,
+          "Miss bats": 62.98701298701299,
+          "Command": 65,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -6555,29 +6555,29 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "position": "C",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 44,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brady Dallimore gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .276",
-          "OBP .388",
-          "SLG .517"
+          "AVG .275",
+          "OBP .383",
+          "SLG .516"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".276"
+            "value": ".275"
           },
           {
             "label": "OBP",
-            "value": ".388"
+            "value": ".383"
           },
           {
             "label": "SLG",
-            "value": ".517"
+            "value": ".516"
           },
           {
             "label": "HR",
@@ -6585,7 +6585,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "SB",
@@ -6593,9 +6593,9 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           }
         ],
         "components": {
-          "On-base": 60,
-          "Power": 51.8421052631579,
-          "Contact": 35.000000000000014,
+          "On-base": 57.22222222222222,
+          "Power": 51.578947368421055,
+          "Contact": 34.375000000000014,
           "Discipline": 33.33333333333333,
           "Speed": 0
         },
@@ -6969,25 +6969,25 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "position": "RHP",
         "classYear": "R-FR",
         "handedness": "R/R",
-        "score": 9,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Lance Davis looks like a RHP option who throws enough strikes.",
+        "summary": "Lance Davis looks like a RHP option who throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 5.14",
-          "WHIP 1.27",
+          "ERA 4.82",
+          "WHIP 1.23",
           "K/9 5.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.14"
+            "value": "4.82"
           },
           {
             "label": "WHIP",
-            "value": "1.27"
+            "value": "1.23"
           },
           {
             "label": "K/9",
@@ -6995,22 +6995,22 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           },
           {
             "label": "BB/9",
-            "value": "2.2"
+            "value": "1.9"
           },
           {
             "label": "HR/9",
-            "value": "0.73"
+            "value": "0.96"
           },
           {
             "label": "IP",
-            "value": "49.0"
+            "value": "56.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 17.068645640074216,
-          "Command": 33.333333333333336,
+          "Miss bats": 17.694805194805195,
+          "Command": 41.666666666666664,
           "Damage suppression": 0
         },
         "metaLine": "R-FR / R/R",
@@ -7038,48 +7038,48 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 16,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nate Stern looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 3.22",
-          "WHIP 1.66",
-          "K/9 11.3"
+          "ERA 3.09",
+          "WHIP 1.67",
+          "K/9 11.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.22"
+            "value": "3.09"
           },
           {
             "label": "WHIP",
-            "value": "1.66"
+            "value": "1.67"
           },
           {
             "label": "K/9",
-            "value": "11.3"
+            "value": "11.2"
           },
           {
             "label": "BB/9",
-            "value": "6.0"
+            "value": "6.6"
           },
           {
             "label": "HR/9",
-            "value": "0.40"
+            "value": "0.39"
           },
           {
             "label": "IP",
-            "value": "22.3"
+            "value": "23.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 66.2143826322931,
-          "Command": 17.33333333333334,
+          "Miss bats": 65.32467532467533,
+          "Command": 14.117647058823529,
           "Damage suppression": 0
         },
         "metaLine": "SO / N/A",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T11:04:56.892Z",
+  "generatedAt": "2026-04-26T11:04:27.351Z",
   "season": 2026,
   "school": {
     "slug": "rutgers",
@@ -38,7 +38,7 @@
     }
   },
   "teamSummary": {
-    "record": "20-22, 7-12",
+    "record": "21-22, 8-12",
     "battingAverage": ".274",
     "earnedRunAverage": "5.50",
     "wins": "20",
