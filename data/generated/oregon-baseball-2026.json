@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T11:04:19.386Z",
+  "generatedAt": "2026-04-27T12:00:37.194Z",
   "season": 2026,
   "school": {
     "slug": "oregon",
@@ -28,7 +28,7 @@
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 16,
     "playersWithPitchingStats": 20,
-    "playersWithFieldingStats": 30,
+    "playersWithFieldingStats": 31,
     "mergedPlayersWithAnyStats": 36,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
@@ -38,84 +38,84 @@
     }
   },
   "teamSummary": {
-    "record": "31-11, 14-6",
+    "record": "32-11, 15-6",
     "battingAverage": ".297",
-    "earnedRunAverage": "4.25",
-    "wins": "31",
+    "earnedRunAverage": "4.15",
+    "wins": "32",
     "losses": "11",
     "hitting": {
-      "atBats": "1435",
-      "runsScored": "324",
-      "hits": "426",
-      "runsBattedIn": "301",
-      "doubles": "80",
+      "atBats": "1466",
+      "runsScored": "329",
+      "hits": "435",
+      "runsBattedIn": "306",
+      "doubles": "83",
       "triples": "9",
-      "homeRuns": "78",
-      "walks": "193",
+      "homeRuns": "80",
+      "walks": "197",
       "intentionalWalks": "10",
-      "strikeouts": "334",
-      "strikeoutsLooking": "99",
+      "strikeouts": "345",
+      "strikeoutsLooking": "101",
       "hitByPitch": "86",
       "stolenBases": "54",
       "caughtStealing": "19",
       "sacrificeHits": "16",
-      "sacrificeFlies": "9",
+      "sacrificeFlies": "10",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "312",
-      "flyOuts": "365",
-      "groundedIntoDoublePlay": "19",
+      "groundOuts": "319",
+      "flyOuts": "370",
+      "groundedIntoDoublePlay": "20",
       "pickedOff": "3",
-      "doublePlaysHitInto": "23",
+      "doublePlaysHitInto": "24",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1105",
-      "assists": "344",
+      "putouts": "1132",
+      "assists": "357",
       "errors": "31",
       "passedBalls": "4",
       "catchersInterference": "0",
       "stolenBasesAgainst": "14",
-      "caughtStealingBy": "15",
-      "involvedInDoublePlays": "28",
+      "caughtStealingBy": "16",
+      "involvedInDoublePlays": "29",
       "involvedInTriplePlays": "0",
-      "totalChances": "1480",
-      "fieldingPercentage": ".979"
+      "totalChances": "1520",
+      "fieldingPercentage": ".980"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "31",
+      "wins": "32",
       "saves": "10",
       "losses": "11",
       "gamesStarted": "0",
       "gamesCompleted": "1",
-      "shutouts": "6",
+      "shutouts": "7",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "368.1",
-      "hitsAllowed": "284",
+      "inningsPitched": "377.1",
+      "hitsAllowed": "289",
       "runsAllowed": "191",
       "earnedRunsAllowed": "174",
-      "walksAllowed": "161",
-      "strikeouts": "447",
-      "battersFaced": "1587",
-      "opponentAtBats": "1334",
+      "walksAllowed": "165",
+      "strikeouts": "458",
+      "battersFaced": "1623",
+      "opponentAtBats": "1365",
       "doublesAllowed": "57",
       "triplesAllowed": "5",
       "homerunsAllowed": "42",
-      "wildPitches": "31",
+      "wildPitches": "33",
       "balks": "3",
-      "hitBatters": "65",
-      "strikeoutsLooking": "123",
+      "hitBatters": "66",
+      "strikeoutsLooking": "127",
       "intentionalWalks": "3",
       "inheritedRunners": "0",
       "inheritedRunnersThatScored": "0",
       "sacrificeHitsAllowed": "18",
       "sacrificeFliesAllowed": "9",
       "catchersInterferenceAllowed": "0",
-      "pitches": "5275",
-      "flyouts": "321",
-      "groundouts": "289",
+      "pitches": "5442",
+      "flyouts": "325",
+      "groundouts": "300",
       "teamUnearnedRuns": "0",
       "saveRecord": "10",
       "pickoff": "12"
@@ -248,13 +248,13 @@
         "jersey": "3",
         "profileUrl": "https://goducks.com/sports/baseball/roster/elijah-cook/18217",
         "imageUrl": "https://goducks.com/images/2026/2/3/Cook__Elijah.png",
-        "gamesPlayed": 31,
-        "gamesStarted": 3,
-        "battingAverage": 0.133,
-        "onBasePercentage": 0.316,
-        "sluggingPercentage": 0.133,
-        "ops": 0.449,
-        "atBats": 15,
+        "gamesPlayed": 32,
+        "gamesStarted": 4,
+        "battingAverage": 0.105,
+        "onBasePercentage": 0.261,
+        "sluggingPercentage": 0.105,
+        "ops": 0.366,
+        "atBats": 19,
         "runs": 5,
         "hits": 2,
         "doubles": 0,
@@ -264,7 +264,7 @@
         "totalBases": 2,
         "walks": 1,
         "hitByPitch": 3,
-        "strikeouts": 10,
+        "strikeouts": 13,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -274,7 +274,7 @@
         "putouts": 11,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 29,
+        "plateAppearances": 33,
         "caughtStealing": 4,
         "pickedOff": 1
       },
@@ -301,13 +301,13 @@
         "totalChances": 11
       },
       "evaluation": {
-        "score": 7,
+        "score": 1,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 19.999999999999986,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
           "Discipline": 0,
@@ -315,22 +315,22 @@
         },
         "summary": "Elijah Cook gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .133",
-          "OBP .316",
-          "SLG .133"
+          "AVG .105",
+          "OBP .261",
+          "SLG .105"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".133"
+            "value": ".105"
           },
           {
             "label": "OBP",
-            "value": ".316"
+            "value": ".261"
           },
           {
             "label": "SLG",
-            "value": ".133"
+            "value": ".105"
           },
           {
             "label": "HR",
@@ -535,20 +535,20 @@
         "jersey": "5",
         "profileUrl": "https://goducks.com/sports/baseball/roster/burke-lee-mabeus/17564",
         "imageUrl": "https://goducks.com/images/2026/2/3/Mabeus__Burke-Lee.png",
-        "gamesPlayed": 37,
-        "gamesStarted": 28,
-        "battingAverage": 0.3,
-        "onBasePercentage": 0.379,
-        "sluggingPercentage": 0.518,
-        "ops": 0.897,
-        "atBats": 110,
-        "runs": 27,
-        "hits": 33,
-        "doubles": 9,
+        "gamesPlayed": 38,
+        "gamesStarted": 29,
+        "battingAverage": 0.316,
+        "onBasePercentage": 0.391,
+        "sluggingPercentage": 0.57,
+        "ops": 0.961,
+        "atBats": 114,
+        "runs": 28,
+        "hits": 36,
+        "doubles": 11,
         "triples": 0,
-        "homeRuns": 5,
-        "runsBattedIn": 22,
-        "totalBases": 57,
+        "homeRuns": 6,
+        "runsBattedIn": 24,
+        "totalBases": 65,
         "walks": 11,
         "hitByPitch": 3,
         "strikeouts": 24,
@@ -558,10 +558,10 @@
         "sacrificeHits": 2,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 320,
-        "assists": 21,
+        "putouts": 330,
+        "assists": 22,
         "errors": 4,
-        "plateAppearances": 129,
+        "plateAppearances": 133,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -573,59 +573,59 @@
         "jersey": "5",
         "profileUrl": "https://goducks.com/sports/baseball/roster/burke-lee-mabeus/17564",
         "imageUrl": "https://goducks.com/images/2026/2/3/Mabeus__Burke-Lee.png",
-        "gamesPlayed": 34,
-        "gamesStarted": 28,
-        "putouts": 320,
-        "assists": 21,
+        "gamesPlayed": 35,
+        "gamesStarted": 29,
+        "putouts": 330,
+        "assists": 22,
         "errors": 4,
-        "fieldingPercentage": 0.988,
+        "fieldingPercentage": 0.989,
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
-        "caughtStealingBy": 7,
-        "stolenBasesPercentage": 0.533,
+        "caughtStealingBy": 8,
+        "stolenBasesPercentage": 0.5,
         "passedBalls": 3,
         "catchersInterference": 0,
-        "totalChances": 345
+        "totalChances": 356
       },
       "evaluation": {
-        "score": 44,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 54.99999999999999,
-          "Power": 52.10526315789474,
-          "Contact": 49.999999999999986,
+          "On-base": 61.66666666666666,
+          "Power": 65.78947368421052,
+          "Contact": 60,
           "Discipline": 28.7037037037037,
           "Speed": 3.3333333333333335
         },
-        "summary": "Burke-Lee Mabeus gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Burke-Lee Mabeus profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .379",
-          "SLG .518"
+          "AVG .316",
+          "OBP .391",
+          "SLG .570"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": ".316"
           },
           {
             "label": "OBP",
-            "value": ".379"
+            "value": ".391"
           },
           {
             "label": "SLG",
-            "value": ".518"
+            "value": ".570"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "22"
+            "value": "24"
           },
           {
             "label": "SB",
@@ -680,13 +680,13 @@
         "jersey": "6",
         "profileUrl": "https://goducks.com/sports/baseball/roster/jack-brooks/17546",
         "imageUrl": "https://goducks.com/images/2026/2/3/Brooks__Jack.png",
-        "gamesPlayed": 39,
-        "gamesStarted": 36,
-        "battingAverage": 0.257,
-        "onBasePercentage": 0.391,
-        "sluggingPercentage": 0.45,
-        "ops": 0.841,
-        "atBats": 109,
+        "gamesPlayed": 40,
+        "gamesStarted": 37,
+        "battingAverage": 0.25,
+        "onBasePercentage": 0.387,
+        "sluggingPercentage": 0.438,
+        "ops": 0.825,
+        "atBats": 112,
         "runs": 21,
         "hits": 28,
         "doubles": 4,
@@ -694,7 +694,7 @@
         "homeRuns": 5,
         "runsBattedIn": 20,
         "totalBases": 49,
-        "walks": 19,
+        "walks": 20,
         "hitByPitch": 5,
         "strikeouts": 31,
         "intentionalWalks": 0,
@@ -703,10 +703,10 @@
         "sacrificeHits": 5,
         "stolenBases": 14,
         "stolenBasesAttempts": 16,
-        "putouts": 79,
+        "putouts": 80,
         "assists": 2,
         "errors": 2,
-        "plateAppearances": 156,
+        "plateAppearances": 160,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -718,9 +718,9 @@
         "jersey": "6",
         "profileUrl": "https://goducks.com/sports/baseball/roster/jack-brooks/17546",
         "imageUrl": "https://goducks.com/images/2026/2/3/Brooks__Jack.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 34,
-        "putouts": 79,
+        "gamesPlayed": 37,
+        "gamesStarted": 35,
+        "putouts": 80,
         "assists": 2,
         "errors": 2,
         "fieldingPercentage": 0.976,
@@ -730,39 +730,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 83
+        "totalChances": 84
       },
       "evaluation": {
-        "score": 44,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 61.66666666666666,
-          "Power": 34.21052631578948,
-          "Contact": 23.125000000000004,
-          "Discipline": 45.87813620071684,
+          "On-base": 59.444444444444436,
+          "Power": 31.05263157894737,
+          "Contact": 18.75,
+          "Discipline": 49.46236559139784,
           "Speed": 46.666666666666664
         },
         "summary": "Jack Brooks profiles as a UTL piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .257",
-          "OBP .391",
-          "SLG .450"
+          "AVG .250",
+          "OBP .387",
+          "SLG .438"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".257"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".391"
+            "value": ".387"
           },
           {
             "label": "SLG",
-            "value": ".450"
+            "value": ".438"
           },
           {
             "label": "HR",
@@ -970,33 +970,33 @@
         "jersey": "9",
         "profileUrl": "https://goducks.com/sports/baseball/roster/maddox-molony/17567",
         "imageUrl": "https://goducks.com/images/2026/2/3/Molony__Maddox.png",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.368,
-        "sluggingPercentage": 0.461,
-        "ops": 0.829,
-        "atBats": 152,
-        "runs": 33,
+        "gamesPlayed": 43,
+        "gamesStarted": 43,
+        "battingAverage": 0.245,
+        "onBasePercentage": 0.365,
+        "sluggingPercentage": 0.452,
+        "ops": 0.817,
+        "atBats": 155,
+        "runs": 34,
         "hits": 38,
         "doubles": 8,
         "triples": 0,
         "homeRuns": 8,
         "runsBattedIn": 27,
         "totalBases": 70,
-        "walks": 19,
+        "walks": 20,
         "hitByPitch": 11,
         "strikeouts": 28,
         "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 1,
+        "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 3,
         "sacrificeHits": 1,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 41,
-        "assists": 78,
+        "putouts": 42,
+        "assists": 79,
         "errors": 3,
-        "plateAppearances": 188,
+        "plateAppearances": 192,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1008,51 +1008,51 @@
         "jersey": "9",
         "profileUrl": "https://goducks.com/sports/baseball/roster/maddox-molony/17567",
         "imageUrl": "https://goducks.com/images/2026/2/3/Molony__Maddox.png",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "putouts": 41,
-        "assists": 78,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "putouts": 42,
+        "assists": 79,
         "errors": 3,
-        "fieldingPercentage": 0.975,
+        "fieldingPercentage": 0.976,
         "doublePlays": 15,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 122
+        "totalChances": 124
       },
       "evaluation": {
-        "score": 37,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 48.88888888888887,
-          "Power": 37.10526315789475,
-          "Contact": 18.75,
-          "Discipline": 53.17460317460318,
+          "On-base": 47.22222222222221,
+          "Power": 34.736842105263165,
+          "Contact": 15.624999999999996,
+          "Discipline": 57.14285714285713,
           "Speed": 6.666666666666667
         },
         "summary": "Maddox Molony gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .368",
-          "SLG .461"
+          "AVG .245",
+          "OBP .365",
+          "SLG .452"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".245"
           },
           {
             "label": "OBP",
-            "value": ".368"
+            "value": ".365"
           },
           {
             "label": "SLG",
-            "value": ".461"
+            "value": ".452"
           },
           {
             "label": "HR",
@@ -1257,33 +1257,33 @@
         "jersey": "11",
         "profileUrl": "https://goducks.com/sports/baseball/roster/brayden-jaksa/18218",
         "imageUrl": "https://goducks.com/images/2026/2/3/Jaksa__Brayden.png",
-        "gamesPlayed": 30,
-        "gamesStarted": 25,
-        "battingAverage": 0.337,
-        "onBasePercentage": 0.42,
-        "sluggingPercentage": 0.582,
-        "ops": 1.002,
-        "atBats": 98,
+        "gamesPlayed": 31,
+        "gamesStarted": 26,
+        "battingAverage": 0.333,
+        "onBasePercentage": 0.414,
+        "sluggingPercentage": 0.569,
+        "ops": 0.983,
+        "atBats": 102,
         "runs": 23,
-        "hits": 33,
+        "hits": 34,
         "doubles": 4,
         "triples": 1,
         "homeRuns": 6,
         "runsBattedIn": 19,
-        "totalBases": 57,
+        "totalBases": 58,
         "walks": 11,
         "hitByPitch": 3,
-        "strikeouts": 20,
+        "strikeouts": 22,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 5,
         "stolenBasesAttempts": 8,
-        "putouts": 184,
-        "assists": 9,
+        "putouts": 192,
+        "assists": 11,
         "errors": 4,
-        "plateAppearances": 123,
+        "plateAppearances": 127,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -1295,51 +1295,51 @@
         "jersey": "11",
         "profileUrl": "https://goducks.com/sports/baseball/roster/brayden-jaksa/18218",
         "imageUrl": "https://goducks.com/images/2026/2/3/Jaksa__Brayden.png",
-        "gamesPlayed": 30,
-        "gamesStarted": 25,
-        "putouts": 184,
-        "assists": 9,
+        "gamesPlayed": 31,
+        "gamesStarted": 26,
+        "putouts": 192,
+        "assists": 11,
         "errors": 4,
-        "fieldingPercentage": 0.98,
-        "doublePlays": 10,
+        "fieldingPercentage": 0.981,
+        "doublePlays": 11,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 2,
         "stolenBasesPercentage": 0.75,
         "passedBalls": 1,
         "catchersInterference": 0,
-        "totalChances": 197
+        "totalChances": 207
       },
       "evaluation": {
-        "score": 63,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 77.77777777777776,
-          "Power": 68.94736842105263,
-          "Contact": 73.125,
-          "Discipline": 38.88888888888889,
+          "On-base": 74.44444444444443,
+          "Power": 65.52631578947367,
+          "Contact": 70.625,
+          "Discipline": 33.33333333333333,
           "Speed": 16.666666666666664
         },
         "summary": "Brayden Jaksa profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .337",
-          "OBP .420",
-          "SLG .582"
+          "AVG .333",
+          "OBP .414",
+          "SLG .569"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".337"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".420"
+            "value": ".414"
           },
           {
             "label": "SLG",
-            "value": ".582"
+            "value": ".569"
           },
           {
             "label": "HR",
@@ -1402,13 +1402,13 @@
         "jersey": "12",
         "profileUrl": "https://goducks.com/sports/baseball/roster/ryan-cooney/17549",
         "imageUrl": "https://goducks.com/images/2026/2/3/Cooney__Ryan.png",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "battingAverage": 0.377,
-        "onBasePercentage": 0.456,
-        "sluggingPercentage": 0.617,
-        "ops": 1.073,
-        "atBats": 175,
+        "gamesPlayed": 43,
+        "gamesStarted": 43,
+        "battingAverage": 0.373,
+        "onBasePercentage": 0.455,
+        "sluggingPercentage": 0.61,
+        "ops": 1.065,
+        "atBats": 177,
         "runs": 40,
         "hits": 66,
         "doubles": 16,
@@ -1416,7 +1416,7 @@
         "homeRuns": 8,
         "runsBattedIn": 36,
         "totalBases": 108,
-        "walks": 19,
+        "walks": 20,
         "hitByPitch": 9,
         "strikeouts": 19,
         "intentionalWalks": 2,
@@ -1425,10 +1425,10 @@
         "sacrificeHits": 2,
         "stolenBases": 12,
         "stolenBasesAttempts": 14,
-        "putouts": 57,
-        "assists": 100,
+        "putouts": 58,
+        "assists": 102,
         "errors": 4,
-        "plateAppearances": 224,
+        "plateAppearances": 227,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1440,51 +1440,51 @@
         "jersey": "12",
         "profileUrl": "https://goducks.com/sports/baseball/roster/ryan-cooney/17549",
         "imageUrl": "https://goducks.com/images/2026/2/3/Cooney__Ryan.png",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "putouts": 57,
-        "assists": 100,
+        "gamesPlayed": 43,
+        "gamesStarted": 43,
+        "putouts": 58,
+        "assists": 102,
         "errors": 4,
-        "fieldingPercentage": 0.975,
+        "fieldingPercentage": 0.976,
         "doublePlays": 20,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 161
+        "totalChances": 164
       },
       "evaluation": {
-        "score": 86,
+        "score": 85,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "components": {
-          "On-base": 97.77777777777777,
-          "Power": 78.15789473684211,
-          "Contact": 98.125,
-          "Discipline": 88.88888888888889,
+          "On-base": 97.22222222222221,
+          "Power": 76.31578947368422,
+          "Contact": 95.625,
+          "Discipline": 94.73684210526314,
           "Speed": 40
         },
         "summary": "Ryan Cooney profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .377",
-          "OBP .456",
-          "SLG .617"
+          "AVG .373",
+          "OBP .455",
+          "SLG .610"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".377"
+            "value": ".373"
           },
           {
             "label": "OBP",
-            "value": ".456"
+            "value": ".455"
           },
           {
             "label": "SLG",
-            "value": ".617"
+            "value": ".610"
           },
           {
             "label": "HR",
@@ -1548,32 +1548,32 @@
         "jersey": "13",
         "profileUrl": "https://goducks.com/sports/baseball/roster/miles-gosztola/18219",
         "imageUrl": "https://goducks.com/images/2026/2/3/Gosztola__Miles.png",
-        "gamesPlayed": 11,
-        "gamesStarted": 4,
-        "appearances": 11,
+        "gamesPlayed": 12,
+        "gamesStarted": 5,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.85,
-        "whip": 1.28,
-        "wins": 1,
+        "earnedRunAverage": 4,
+        "whip": 1.22,
+        "wins": 2,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 29.666666666666668,
-        "inningsPitchedDisplay": "29.2",
-        "hitsAllowed": 25,
+        "inningsPitched": 36,
+        "inningsPitchedDisplay": "36.0",
+        "hitsAllowed": 28,
         "runsAllowed": 16,
         "earnedRunsAllowed": 16,
-        "walksAllowed": 13,
-        "strikeouts": 34,
+        "walksAllowed": 16,
+        "strikeouts": 41,
         "doublesAllowed": 6,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 109,
-        "wildPitches": 0,
+        "opponentsAtBats": 130,
+        "wildPitches": 1,
         "hitBatters": 5,
         "balks": 1,
-        "opponentsBattingAverage": 0.229,
-        "walksHits": 38
+        "opponentsBattingAverage": 0.215,
+        "walksHits": 44
       },
       "fieldingStats": {
         "rosterBioId": "18219",
@@ -1582,22 +1582,22 @@
         "jersey": "13",
         "profileUrl": "https://goducks.com/sports/baseball/roster/miles-gosztola/18219",
         "imageUrl": "https://goducks.com/images/2026/2/3/Gosztola__Miles.png",
-        "gamesPlayed": 5,
-        "gamesStarted": 3,
-        "putouts": 3,
-        "assists": 2,
+        "gamesPlayed": 6,
+        "gamesStarted": 4,
+        "putouts": 4,
+        "assists": 4,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "caughtStealingBy": 2,
+        "stolenBasesPercentage": 0.333,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 5
+        "totalChances": 8
       },
       "evaluation": {
-        "score": 17,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1605,24 +1605,24 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 57.40551583248212,
-          "Command": 32.30769230769231,
+          "Miss bats": 56.81818181818182,
+          "Command": 31.25,
           "Damage suppression": 0
         },
-        "summary": "Miles Gosztola looks like a LHP option who misses bats.",
+        "summary": "Miles Gosztola looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.85",
-          "WHIP 1.28",
+          "ERA 4.00",
+          "WHIP 1.22",
           "K/9 10.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.85"
+            "value": "4.00"
           },
           {
             "label": "WHIP",
-            "value": "1.28"
+            "value": "1.22"
           },
           {
             "label": "K/9",
@@ -1630,15 +1630,15 @@
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "4.0"
           },
           {
             "label": "HR/9",
-            "value": "0.91"
+            "value": "0.75"
           },
           {
             "label": "IP",
-            "value": "29.7"
+            "value": "36.0"
           }
         ],
         "metaLine": "JR / L/L",
@@ -1689,23 +1689,23 @@
         "jersey": "17",
         "profileUrl": "https://goducks.com/sports/baseball/roster/drew-smith/17572",
         "imageUrl": "https://goducks.com/images/2026/2/3/Smith__Drew.png",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "battingAverage": 0.348,
-        "onBasePercentage": 0.44,
-        "sluggingPercentage": 0.665,
-        "ops": 1.105,
-        "atBats": 155,
-        "runs": 36,
-        "hits": 54,
-        "doubles": 6,
+        "gamesPlayed": 43,
+        "gamesStarted": 43,
+        "battingAverage": 0.358,
+        "onBasePercentage": 0.446,
+        "sluggingPercentage": 0.692,
+        "ops": 1.138,
+        "atBats": 159,
+        "runs": 38,
+        "hits": 57,
+        "doubles": 7,
         "triples": 2,
-        "homeRuns": 13,
-        "runsBattedIn": 45,
-        "totalBases": 103,
+        "homeRuns": 14,
+        "runsBattedIn": 46,
+        "totalBases": 110,
         "walks": 22,
         "hitByPitch": 4,
-        "strikeouts": 41,
+        "strikeouts": 42,
         "intentionalWalks": 3,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
@@ -1713,9 +1713,9 @@
         "stolenBases": 4,
         "stolenBasesAttempts": 7,
         "putouts": 22,
-        "assists": 68,
+        "assists": 71,
         "errors": 3,
-        "plateAppearances": 194,
+        "plateAppearances": 198,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -1727,59 +1727,59 @@
         "jersey": "17",
         "profileUrl": "https://goducks.com/sports/baseball/roster/drew-smith/17572",
         "imageUrl": "https://goducks.com/images/2026/2/3/Smith__Drew.png",
-        "gamesPlayed": 35,
-        "gamesStarted": 35,
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
         "putouts": 22,
-        "assists": 68,
+        "assists": 71,
         "errors": 3,
-        "fieldingPercentage": 0.968,
-        "doublePlays": 9,
+        "fieldingPercentage": 0.969,
+        "doublePlays": 10,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 93
+        "totalChances": 96
       },
       "evaluation": {
-        "score": 73,
+        "score": 77,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 88.88888888888889,
-          "Power": 90.78947368421055,
-          "Contact": 79.99999999999999,
-          "Discipline": 37.39837398373984,
+          "On-base": 92.22222222222221,
+          "Power": 97.89473684210526,
+          "Contact": 86.25,
+          "Discipline": 35.978835978835974,
           "Speed": 13.333333333333334
         },
         "summary": "Drew Smith profiles as a INF/OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .348",
-          "OBP .440",
-          "SLG .665"
+          "AVG .358",
+          "OBP .446",
+          "SLG .692"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".348"
+            "value": ".358"
           },
           {
             "label": "OBP",
-            "value": ".440"
+            "value": ".446"
           },
           {
             "label": "SLG",
-            "value": ".665"
+            "value": ".692"
           },
           {
             "label": "HR",
-            "value": "13"
+            "value": "14"
           },
           {
             "label": "RBI",
-            "value": "45"
+            "value": "46"
           },
           {
             "label": "SB",
@@ -1834,33 +1834,33 @@
         "jersey": "18",
         "profileUrl": "https://goducks.com/sports/baseball/roster/naulivou-lauaki-jr/17563",
         "imageUrl": "https://goducks.com/images/2026/2/3/Lauaki_Jr.__Naulivou.png",
-        "gamesPlayed": 22,
-        "gamesStarted": 12,
-        "battingAverage": 0.379,
-        "onBasePercentage": 0.455,
-        "sluggingPercentage": 0.776,
-        "ops": 1.231,
-        "atBats": 58,
+        "gamesPlayed": 23,
+        "gamesStarted": 13,
+        "battingAverage": 0.367,
+        "onBasePercentage": 0.435,
+        "sluggingPercentage": 0.75,
+        "ops": 1.185,
+        "atBats": 60,
         "runs": 13,
         "hits": 22,
         "doubles": 5,
         "triples": 0,
         "homeRuns": 6,
-        "runsBattedIn": 19,
+        "runsBattedIn": 20,
         "totalBases": 45,
         "walks": 5,
         "hitByPitch": 3,
-        "strikeouts": 24,
+        "strikeouts": 26,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
+        "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 10,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 68,
+        "plateAppearances": 71,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1979,13 +1979,13 @@
         "jersey": "20",
         "profileUrl": "https://goducks.com/sports/baseball/roster/malosi-mata-afa-alferos/18220",
         "imageUrl": "https://goducks.com/images/2026/2/3/Mata_afa-Alferos__Malosi.png",
-        "gamesPlayed": 5,
+        "gamesPlayed": 6,
         "gamesStarted": 0,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.25,
-        "sluggingPercentage": 0.25,
-        "ops": 0.5,
-        "atBats": 4,
+        "battingAverage": 0.2,
+        "onBasePercentage": 0.2,
+        "sluggingPercentage": 0.2,
+        "ops": 0.4,
+        "atBats": 5,
         "runs": 0,
         "hits": 1,
         "doubles": 0,
@@ -1995,17 +1995,17 @@
         "totalBases": 1,
         "walks": 0,
         "hitByPitch": 0,
-        "strikeouts": 1,
+        "strikeouts": 2,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 4,
-        "assists": 3,
+        "putouts": 6,
+        "assists": 5,
         "errors": 0,
-        "plateAppearances": 4,
+        "plateAppearances": 5,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2017,22 +2017,22 @@
         "jersey": "20",
         "profileUrl": "https://goducks.com/sports/baseball/roster/malosi-mata-afa-alferos/18220",
         "imageUrl": "https://goducks.com/images/2026/2/3/Mata_afa-Alferos__Malosi.png",
-        "gamesPlayed": 3,
+        "gamesPlayed": 4,
         "gamesStarted": 0,
-        "putouts": 4,
-        "assists": 3,
+        "putouts": 6,
+        "assists": 5,
         "errors": 0,
         "fieldingPercentage": 1,
-        "doublePlays": 1,
+        "doublePlays": 2,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 7
+        "totalChances": 11
       },
       "evaluation": {
-        "score": 3,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2040,28 +2040,28 @@
         "components": {
           "On-base": 0,
           "Power": 0,
-          "Contact": 18.75,
+          "Contact": 0,
           "Discipline": 0,
           "Speed": 0
         },
         "summary": "Malosi Mata'afa-Alferos gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .250",
-          "SLG .250"
+          "AVG .200",
+          "OBP .200",
+          "SLG .200"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".200"
           },
           {
             "label": "OBP",
-            "value": ".250"
+            "value": ".200"
           },
           {
             "label": "SLG",
-            "value": ".250"
+            "value": ".200"
           },
           {
             "label": "HR",
@@ -3280,13 +3280,13 @@
         "jersey": "34",
         "profileUrl": "https://goducks.com/sports/baseball/roster/owen-morgan/18225",
         "imageUrl": "https://goducks.com/images/2026/2/3/Morgan__Owen.png",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 0,
-        "battingAverage": 0.071,
-        "onBasePercentage": 0.235,
-        "sluggingPercentage": 0.071,
-        "ops": 0.306,
-        "atBats": 14,
+        "battingAverage": 0.067,
+        "onBasePercentage": 0.222,
+        "sluggingPercentage": 0.067,
+        "ops": 0.289,
+        "atBats": 15,
         "runs": 3,
         "hits": 1,
         "doubles": 0,
@@ -3296,7 +3296,7 @@
         "totalBases": 1,
         "walks": 3,
         "hitByPitch": 0,
-        "strikeouts": 6,
+        "strikeouts": 7,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -3306,7 +3306,7 @@
         "putouts": 0,
         "assists": 1,
         "errors": 0,
-        "plateAppearances": 18,
+        "plateAppearances": 19,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3333,7 +3333,7 @@
         "totalChances": 1
       },
       "evaluation": {
-        "score": 5,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3342,27 +3342,27 @@
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 33.33333333333333,
+          "Discipline": 25.39682539682539,
           "Speed": 3.3333333333333335
         },
         "summary": "Owen Morgan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .071",
-          "OBP .235",
-          "SLG .071"
+          "AVG .067",
+          "OBP .222",
+          "SLG .067"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".071"
+            "value": ".067"
           },
           {
             "label": "OBP",
-            "value": ".235"
+            "value": ".222"
           },
           {
             "label": "SLG",
-            "value": ".071"
+            "value": ".067"
           },
           {
             "label": "HR",
@@ -3713,18 +3713,18 @@
         "jersey": "38",
         "profileUrl": "https://goducks.com/sports/baseball/roster/gabe-howard/17559",
         "imageUrl": "https://goducks.com/images/2026/2/3/Howard__Gabe.png",
-        "gamesPlayed": 3,
+        "gamesPlayed": 4,
         "gamesStarted": 0,
-        "appearances": 3,
+        "appearances": 4,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.71,
-        "whip": 1.71,
+        "earnedRunAverage": 6,
+        "whip": 1.33,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 2.3333333333333335,
-        "inningsPitchedDisplay": "2.1",
+        "inningsPitched": 3,
+        "inningsPitchedDisplay": "3.0",
         "hitsAllowed": 2,
         "runsAllowed": 3,
         "earnedRunsAllowed": 2,
@@ -3733,11 +3733,11 @@
         "doublesAllowed": 1,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 8,
+        "opponentsAtBats": 10,
         "wildPitches": 0,
         "hitBatters": 0,
         "balks": 0,
-        "opponentsBattingAverage": 0.25,
+        "opponentsBattingAverage": 0.2,
         "walksHits": 4
       },
       "fieldingStats": null,
@@ -3756,26 +3756,26 @@
         },
         "summary": "Gabe Howard gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.71",
-          "WHIP 1.71",
-          "K/9 3.9"
+          "ERA 6.00",
+          "WHIP 1.33",
+          "K/9 3.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.71"
+            "value": "6.00"
           },
           {
             "label": "WHIP",
-            "value": "1.71"
+            "value": "1.33"
           },
           {
             "label": "K/9",
-            "value": "3.9"
+            "value": "3.0"
           },
           {
             "label": "BB/9",
-            "value": "7.7"
+            "value": "6.0"
           },
           {
             "label": "HR/9",
@@ -3783,7 +3783,7 @@
           },
           {
             "label": "IP",
-            "value": "2.3"
+            "value": "3.0"
           }
         ],
         "metaLine": "SO / R/R",
@@ -3835,32 +3835,32 @@
         "jersey": "39",
         "profileUrl": "https://goducks.com/sports/baseball/roster/leo-uelmen/17574",
         "imageUrl": "https://goducks.com/images/2026/2/3/Uelmen__Leo.png",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 1,
-        "appearances": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.55,
-        "whip": 1.55,
+        "earnedRunAverage": 6.17,
+        "whip": 1.54,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 11,
-        "inningsPitchedDisplay": "11.0",
+        "inningsPitched": 11.666666666666666,
+        "inningsPitchedDisplay": "11.2",
         "hitsAllowed": 12,
         "runsAllowed": 10,
         "earnedRunsAllowed": 8,
-        "walksAllowed": 5,
-        "strikeouts": 11,
+        "walksAllowed": 6,
+        "strikeouts": 12,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 42,
+        "opponentsAtBats": 44,
         "wildPitches": 4,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.286,
-        "walksHits": 17
+        "opponentsBattingAverage": 0.273,
+        "walksHits": 18
       },
       "fieldingStats": {
         "rosterBioId": "17574",
@@ -3892,40 +3892,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 24.000000000000004,
+          "Miss bats": 47.792207792207805,
+          "Command": 20,
           "Damage suppression": 0
         },
         "summary": "Leo Uelmen looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.55",
-          "WHIP 1.55",
-          "K/9 9.0"
+          "ERA 6.17",
+          "WHIP 1.54",
+          "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.55"
+            "value": "6.17"
           },
           {
             "label": "WHIP",
-            "value": "1.55"
+            "value": "1.54"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "9.3"
           },
           {
             "label": "BB/9",
-            "value": "4.1"
+            "value": "4.6"
           },
           {
             "label": "HR/9",
-            "value": "0.82"
+            "value": "0.77"
           },
           {
             "label": "IP",
-            "value": "11.0"
+            "value": "11.7"
           }
         ],
         "metaLine": "R-SO / R/R",
@@ -4119,36 +4119,36 @@
         "jersey": "41",
         "profileUrl": "https://goducks.com/sports/baseball/roster/cooper-strawn/18229",
         "imageUrl": "https://goducks.com/images/2026/2/3/Strawn__Cooper.png",
-        "gamesPlayed": 2,
+        "gamesPlayed": 3,
         "gamesStarted": 1,
-        "appearances": 2,
+        "appearances": 3,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.5,
-        "whip": 2.5,
+        "earnedRunAverage": 3.86,
+        "whip": 2.57,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 2,
-        "inningsPitchedDisplay": "2.0",
-        "hitsAllowed": 3,
+        "inningsPitched": 2.3333333333333335,
+        "inningsPitchedDisplay": "2.1",
+        "hitsAllowed": 4,
         "runsAllowed": 1,
         "earnedRunsAllowed": 1,
         "walksAllowed": 2,
-        "strikeouts": 2,
+        "strikeouts": 3,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 8,
+        "opponentsAtBats": 10,
         "wildPitches": 1,
-        "hitBatters": 0,
+        "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.375,
-        "walksHits": 5
+        "opponentsBattingAverage": 0.4,
+        "walksHits": 6
       },
       "fieldingStats": null,
       "evaluation": {
-        "score": 9,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4156,40 +4156,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 0,
+          "Miss bats": 68.83116883116884,
+          "Command": 10.000000000000005,
           "Damage suppression": 0
         },
-        "summary": "Cooper Strawn looks like a RHP option who misses bats.",
+        "summary": "Cooper Strawn looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 4.50",
-          "WHIP 2.50",
-          "K/9 9.0"
+          "ERA 3.86",
+          "WHIP 2.57",
+          "K/9 11.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.50"
+            "value": "3.86"
           },
           {
             "label": "WHIP",
-            "value": "2.50"
+            "value": "2.57"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "11.6"
           },
           {
             "label": "BB/9",
-            "value": "9.0"
+            "value": "7.7"
           },
           {
             "label": "HR/9",
-            "value": "4.50"
+            "value": "3.86"
           },
           {
             "label": "IP",
-            "value": "2.0"
+            "value": "2.3"
           }
         ],
         "metaLine": "R-SO / R/R",
@@ -4241,36 +4241,56 @@
         "jersey": "43",
         "profileUrl": "https://goducks.com/sports/baseball/roster/cooper-markham/18230",
         "imageUrl": "https://goducks.com/images/2026/2/3/Markham__Cooper.png",
-        "gamesPlayed": 6,
+        "gamesPlayed": 7,
         "gamesStarted": 0,
-        "appearances": 6,
+        "appearances": 7,
         "gamesCompleted": 0,
         "earnedRunAverage": 0,
-        "whip": 1.13,
+        "whip": 1.11,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 5.333333333333333,
-        "inningsPitchedDisplay": "5.1",
-        "hitsAllowed": 0,
+        "inningsPitched": 6.333333333333333,
+        "inningsPitchedDisplay": "6.1",
+        "hitsAllowed": 1,
         "runsAllowed": 0,
         "earnedRunsAllowed": 0,
         "walksAllowed": 6,
-        "strikeouts": 5,
+        "strikeouts": 7,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 16,
-        "wildPitches": 1,
+        "opponentsAtBats": 20,
+        "wildPitches": 2,
         "hitBatters": 0,
         "balks": 0,
-        "opponentsBattingAverage": 0,
-        "walksHits": 6
+        "opponentsBattingAverage": 0.05,
+        "walksHits": 7
       },
-      "fieldingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "18230",
+        "name": "Cooper Markham",
+        "normalizedName": "cooper markham",
+        "jersey": "43",
+        "profileUrl": "https://goducks.com/sports/baseball/roster/cooper-markham/18230",
+        "imageUrl": "https://goducks.com/images/2026/2/3/Markham__Cooper.png",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 1,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 1
+      },
       "evaluation": {
-        "score": 8,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4278,15 +4298,15 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 40.340909090909086,
-          "Command": 0,
+          "Miss bats": 54.066985645933016,
+          "Command": 3.3333333333333304,
           "Damage suppression": 0
         },
-        "summary": "Cooper Markham looks like a RHP/INF option who limits runs and keeps traffic under control.",
+        "summary": "Cooper Markham looks like a RHP/INF option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
           "ERA 0.00",
-          "WHIP 1.13",
-          "K/9 8.4"
+          "WHIP 1.11",
+          "K/9 9.9"
         ],
         "statCards": [
           {
@@ -4295,15 +4315,15 @@
           },
           {
             "label": "WHIP",
-            "value": "1.13"
+            "value": "1.11"
           },
           {
             "label": "K/9",
-            "value": "8.4"
+            "value": "9.9"
           },
           {
             "label": "BB/9",
-            "value": "10.1"
+            "value": "8.5"
           },
           {
             "label": "HR/9",
@@ -4311,7 +4331,7 @@
           },
           {
             "label": "IP",
-            "value": "5.3"
+            "value": "6.3"
           }
         ],
         "metaLine": "FR / R/R",
@@ -4913,33 +4933,33 @@
         "jersey": "53",
         "profileUrl": "https://goducks.com/sports/baseball/roster/angel-laya/18233",
         "imageUrl": "https://goducks.com/images/2026/2/3/Laya__Angel.png",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "battingAverage": 0.294,
-        "onBasePercentage": 0.409,
-        "sluggingPercentage": 0.58,
-        "ops": 0.989,
-        "atBats": 143,
-        "runs": 35,
-        "hits": 42,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "battingAverage": 0.301,
+        "onBasePercentage": 0.417,
+        "sluggingPercentage": 0.582,
+        "ops": 0.999,
+        "atBats": 146,
+        "runs": 36,
+        "hits": 44,
         "doubles": 6,
         "triples": 1,
         "homeRuns": 11,
-        "runsBattedIn": 35,
-        "totalBases": 83,
-        "walks": 19,
+        "runsBattedIn": 36,
+        "totalBases": 85,
+        "walks": 20,
         "hitByPitch": 9,
-        "strikeouts": 16,
+        "strikeouts": 17,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 6,
-        "putouts": 53,
+        "putouts": 55,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 179,
+        "plateAppearances": 183,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -4951,9 +4971,9 @@
         "jersey": "53",
         "profileUrl": "https://goducks.com/sports/baseball/roster/angel-laya/18233",
         "imageUrl": "https://goducks.com/images/2026/2/3/Laya__Angel.png",
-        "gamesPlayed": 28,
-        "gamesStarted": 28,
-        "putouts": 53,
+        "gamesPlayed": 29,
+        "gamesStarted": 29,
+        "putouts": 55,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -4963,39 +4983,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 53
+        "totalChances": 55
       },
       "evaluation": {
-        "score": 64,
+        "score": 67,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 71.66666666666664,
-          "Power": 68.42105263157895,
-          "Contact": 46.249999999999986,
+          "On-base": 76.11111111111109,
+          "Power": 68.94736842105263,
+          "Contact": 50.624999999999986,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },
         "summary": "Angel Laya profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .294",
-          "OBP .409",
-          "SLG .580"
+          "AVG .301",
+          "OBP .417",
+          "SLG .582"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".294"
+            "value": ".301"
           },
           {
             "label": "OBP",
-            "value": ".409"
+            "value": ".417"
           },
           {
             "label": "SLG",
-            "value": ".580"
+            "value": ".582"
           },
           {
             "label": "HR",
@@ -5003,7 +5023,7 @@
           },
           {
             "label": "RBI",
-            "value": "35"
+            "value": "36"
           },
           {
             "label": "SB",
@@ -5512,29 +5532,29 @@
         "position": "OF",
         "classYear": "SR",
         "handedness": "R/L",
-        "score": 7,
+        "score": 1,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Elijah Cook gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .133",
-          "OBP .316",
-          "SLG .133"
+          "AVG .105",
+          "OBP .261",
+          "SLG .105"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".133"
+            "value": ".105"
           },
           {
             "label": "OBP",
-            "value": ".316"
+            "value": ".261"
           },
           {
             "label": "SLG",
-            "value": ".133"
+            "value": ".105"
           },
           {
             "label": "HR",
@@ -5550,7 +5570,7 @@
           }
         ],
         "components": {
-          "On-base": 19.999999999999986,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
           "Discipline": 0,
@@ -5650,37 +5670,37 @@
         "position": "C",
         "classYear": "SO",
         "handedness": "S/R",
-        "score": 44,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Burke-Lee Mabeus gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Burke-Lee Mabeus profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .379",
-          "SLG .518"
+          "AVG .316",
+          "OBP .391",
+          "SLG .570"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": ".316"
           },
           {
             "label": "OBP",
-            "value": ".379"
+            "value": ".391"
           },
           {
             "label": "SLG",
-            "value": ".518"
+            "value": ".570"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "22"
+            "value": "24"
           },
           {
             "label": "SB",
@@ -5688,9 +5708,9 @@
           }
         ],
         "components": {
-          "On-base": 54.99999999999999,
-          "Power": 52.10526315789474,
-          "Contact": 49.999999999999986,
+          "On-base": 61.66666666666666,
+          "Power": 65.78947368421052,
+          "Contact": 60,
           "Discipline": 28.7037037037037,
           "Speed": 3.3333333333333335
         },
@@ -5719,29 +5739,29 @@
         "position": "UTL",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 44,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Brooks profiles as a UTL piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .257",
-          "OBP .391",
-          "SLG .450"
+          "AVG .250",
+          "OBP .387",
+          "SLG .438"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".257"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".391"
+            "value": ".387"
           },
           {
             "label": "SLG",
-            "value": ".450"
+            "value": ".438"
           },
           {
             "label": "HR",
@@ -5757,10 +5777,10 @@
           }
         ],
         "components": {
-          "On-base": 61.66666666666666,
-          "Power": 34.21052631578948,
-          "Contact": 23.125000000000004,
-          "Discipline": 45.87813620071684,
+          "On-base": 59.444444444444436,
+          "Power": 31.05263157894737,
+          "Contact": 18.75,
+          "Discipline": 49.46236559139784,
           "Speed": 46.666666666666664
         },
         "metaLine": "JR / L/R",
@@ -5857,29 +5877,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 37,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Maddox Molony gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .368",
-          "SLG .461"
+          "AVG .245",
+          "OBP .365",
+          "SLG .452"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".245"
           },
           {
             "label": "OBP",
-            "value": ".368"
+            "value": ".365"
           },
           {
             "label": "SLG",
-            "value": ".461"
+            "value": ".452"
           },
           {
             "label": "HR",
@@ -5895,10 +5915,10 @@
           }
         ],
         "components": {
-          "On-base": 48.88888888888887,
-          "Power": 37.10526315789475,
-          "Contact": 18.75,
-          "Discipline": 53.17460317460318,
+          "On-base": 47.22222222222221,
+          "Power": 34.736842105263165,
+          "Contact": 15.624999999999996,
+          "Discipline": 57.14285714285713,
           "Speed": 6.666666666666667
         },
         "metaLine": "JR / R/R",
@@ -5995,29 +6015,29 @@
         "position": "C",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 63,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Brayden Jaksa profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .337",
-          "OBP .420",
-          "SLG .582"
+          "AVG .333",
+          "OBP .414",
+          "SLG .569"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".337"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".420"
+            "value": ".414"
           },
           {
             "label": "SLG",
-            "value": ".582"
+            "value": ".569"
           },
           {
             "label": "HR",
@@ -6033,10 +6053,10 @@
           }
         ],
         "components": {
-          "On-base": 77.77777777777776,
-          "Power": 68.94736842105263,
-          "Contact": 73.125,
-          "Discipline": 38.88888888888889,
+          "On-base": 74.44444444444443,
+          "Power": 65.52631578947367,
+          "Contact": 70.625,
+          "Discipline": 33.33333333333333,
           "Speed": 16.666666666666664
         },
         "metaLine": "FR / R/R",
@@ -6064,29 +6084,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 86,
+        "score": 85,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Ryan Cooney profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .377",
-          "OBP .456",
-          "SLG .617"
+          "AVG .373",
+          "OBP .455",
+          "SLG .610"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".377"
+            "value": ".373"
           },
           {
             "label": "OBP",
-            "value": ".456"
+            "value": ".455"
           },
           {
             "label": "SLG",
-            "value": ".617"
+            "value": ".610"
           },
           {
             "label": "HR",
@@ -6102,10 +6122,10 @@
           }
         ],
         "components": {
-          "On-base": 97.77777777777777,
-          "Power": 78.15789473684211,
-          "Contact": 98.125,
-          "Discipline": 88.88888888888889,
+          "On-base": 97.22222222222221,
+          "Power": 76.31578947368422,
+          "Contact": 95.625,
+          "Discipline": 94.73684210526314,
           "Speed": 40
         },
         "metaLine": "JR / R/R",
@@ -6133,25 +6153,25 @@
         "position": "LHP",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 17,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Miles Gosztola looks like a LHP option who misses bats.",
+        "summary": "Miles Gosztola looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.85",
-          "WHIP 1.28",
+          "ERA 4.00",
+          "WHIP 1.22",
           "K/9 10.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.85"
+            "value": "4.00"
           },
           {
             "label": "WHIP",
-            "value": "1.28"
+            "value": "1.22"
           },
           {
             "label": "K/9",
@@ -6159,22 +6179,22 @@
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "4.0"
           },
           {
             "label": "HR/9",
-            "value": "0.91"
+            "value": "0.75"
           },
           {
             "label": "IP",
-            "value": "29.7"
+            "value": "36.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 57.40551583248212,
-          "Command": 32.30769230769231,
+          "Miss bats": 56.81818181818182,
+          "Command": 31.25,
           "Damage suppression": 0
         },
         "metaLine": "JR / L/L",
@@ -6202,37 +6222,37 @@
         "position": "INF/OF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 73,
+        "score": 77,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Drew Smith profiles as a INF/OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .348",
-          "OBP .440",
-          "SLG .665"
+          "AVG .358",
+          "OBP .446",
+          "SLG .692"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".348"
+            "value": ".358"
           },
           {
             "label": "OBP",
-            "value": ".440"
+            "value": ".446"
           },
           {
             "label": "SLG",
-            "value": ".665"
+            "value": ".692"
           },
           {
             "label": "HR",
-            "value": "13"
+            "value": "14"
           },
           {
             "label": "RBI",
-            "value": "45"
+            "value": "46"
           },
           {
             "label": "SB",
@@ -6240,10 +6260,10 @@
           }
         ],
         "components": {
-          "On-base": 88.88888888888889,
-          "Power": 90.78947368421055,
-          "Contact": 79.99999999999999,
-          "Discipline": 37.39837398373984,
+          "On-base": 92.22222222222221,
+          "Power": 97.89473684210526,
+          "Contact": 86.25,
+          "Discipline": 35.978835978835974,
           "Speed": 13.333333333333334
         },
         "metaLine": "SR / R/R",
@@ -6340,29 +6360,29 @@
         "position": "INF",
         "classYear": "FR",
         "handedness": "L/R",
-        "score": 3,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Malosi Mata'afa-Alferos gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .250",
-          "SLG .250"
+          "AVG .200",
+          "OBP .200",
+          "SLG .200"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".200"
           },
           {
             "label": "OBP",
-            "value": ".250"
+            "value": ".200"
           },
           {
             "label": "SLG",
-            "value": ".250"
+            "value": ".200"
           },
           {
             "label": "HR",
@@ -6380,7 +6400,7 @@
         "components": {
           "On-base": 0,
           "Power": 0,
-          "Contact": 18.75,
+          "Contact": 0,
           "Discipline": 0,
           "Speed": 0
         },
@@ -7028,29 +7048,29 @@
         "position": "INF/OF",
         "classYear": "FR",
         "handedness": "L/R",
-        "score": 5,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Owen Morgan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .071",
-          "OBP .235",
-          "SLG .071"
+          "AVG .067",
+          "OBP .222",
+          "SLG .067"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".071"
+            "value": ".067"
           },
           {
             "label": "OBP",
-            "value": ".235"
+            "value": ".222"
           },
           {
             "label": "SLG",
-            "value": ".071"
+            "value": ".067"
           },
           {
             "label": "HR",
@@ -7069,7 +7089,7 @@
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 33.33333333333333,
+          "Discipline": 25.39682539682539,
           "Speed": 3.3333333333333335
         },
         "metaLine": "FR / L/R",
@@ -7242,26 +7262,26 @@
         },
         "summary": "Gabe Howard gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.71",
-          "WHIP 1.71",
-          "K/9 3.9"
+          "ERA 6.00",
+          "WHIP 1.33",
+          "K/9 3.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.71"
+            "value": "6.00"
           },
           {
             "label": "WHIP",
-            "value": "1.71"
+            "value": "1.33"
           },
           {
             "label": "K/9",
-            "value": "3.9"
+            "value": "3.0"
           },
           {
             "label": "BB/9",
-            "value": "7.7"
+            "value": "6.0"
           },
           {
             "label": "HR/9",
@@ -7269,7 +7289,7 @@
           },
           {
             "label": "IP",
-            "value": "2.3"
+            "value": "3.0"
           }
         ],
         "components": {
@@ -7311,41 +7331,41 @@
         },
         "summary": "Leo Uelmen looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.55",
-          "WHIP 1.55",
-          "K/9 9.0"
+          "ERA 6.17",
+          "WHIP 1.54",
+          "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.55"
+            "value": "6.17"
           },
           {
             "label": "WHIP",
-            "value": "1.55"
+            "value": "1.54"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "9.3"
           },
           {
             "label": "BB/9",
-            "value": "4.1"
+            "value": "4.6"
           },
           {
             "label": "HR/9",
-            "value": "0.82"
+            "value": "0.77"
           },
           {
             "label": "IP",
-            "value": "11.0"
+            "value": "11.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 24.000000000000004,
+          "Miss bats": 47.792207792207805,
+          "Command": 20,
           "Damage suppression": 0
         },
         "metaLine": "R-SO / R/R",
@@ -7442,48 +7462,48 @@
         "position": "RHP",
         "classYear": "R-SO",
         "handedness": "R/R",
-        "score": 9,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cooper Strawn looks like a RHP option who misses bats.",
+        "summary": "Cooper Strawn looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 4.50",
-          "WHIP 2.50",
-          "K/9 9.0"
+          "ERA 3.86",
+          "WHIP 2.57",
+          "K/9 11.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.50"
+            "value": "3.86"
           },
           {
             "label": "WHIP",
-            "value": "2.50"
+            "value": "2.57"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "11.6"
           },
           {
             "label": "BB/9",
-            "value": "9.0"
+            "value": "7.7"
           },
           {
             "label": "HR/9",
-            "value": "4.50"
+            "value": "3.86"
           },
           {
             "label": "IP",
-            "value": "2.0"
+            "value": "2.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 0,
+          "Miss bats": 68.83116883116884,
+          "Command": 10.000000000000005,
           "Damage suppression": 0
         },
         "metaLine": "R-SO / R/R",
@@ -7511,16 +7531,16 @@
         "position": "RHP/INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 8,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cooper Markham looks like a RHP/INF option who limits runs and keeps traffic under control.",
+        "summary": "Cooper Markham looks like a RHP/INF option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
           "ERA 0.00",
-          "WHIP 1.13",
-          "K/9 8.4"
+          "WHIP 1.11",
+          "K/9 9.9"
         ],
         "statCards": [
           {
@@ -7529,15 +7549,15 @@
           },
           {
             "label": "WHIP",
-            "value": "1.13"
+            "value": "1.11"
           },
           {
             "label": "K/9",
-            "value": "8.4"
+            "value": "9.9"
           },
           {
             "label": "BB/9",
-            "value": "10.1"
+            "value": "8.5"
           },
           {
             "label": "HR/9",
@@ -7545,14 +7565,14 @@
           },
           {
             "label": "IP",
-            "value": "5.3"
+            "value": "6.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 40.340909090909086,
-          "Command": 0,
+          "Miss bats": 54.066985645933016,
+          "Command": 3.3333333333333304,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -7856,29 +7876,29 @@
         "position": "OF",
         "classYear": "FR",
         "handedness": "L/R",
-        "score": 64,
+        "score": 67,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Angel Laya profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .294",
-          "OBP .409",
-          "SLG .580"
+          "AVG .301",
+          "OBP .417",
+          "SLG .582"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".294"
+            "value": ".301"
           },
           {
             "label": "OBP",
-            "value": ".409"
+            "value": ".417"
           },
           {
             "label": "SLG",
-            "value": ".580"
+            "value": ".582"
           },
           {
             "label": "HR",
@@ -7886,7 +7906,7 @@
           },
           {
             "label": "RBI",
-            "value": "35"
+            "value": "36"
           },
           {
             "label": "SB",
@@ -7894,9 +7914,9 @@
           }
         ],
         "components": {
-          "On-base": 71.66666666666664,
-          "Power": 68.42105263157895,
-          "Contact": 46.249999999999986,
+          "On-base": 76.11111111111109,
+          "Power": 68.94736842105263,
+          "Contact": 50.624999999999986,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },

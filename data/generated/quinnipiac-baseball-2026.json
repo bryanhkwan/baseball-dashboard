@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T11:04:23.978Z",
+  "generatedAt": "2026-04-27T12:00:41.713Z",
   "season": 2026,
   "school": {
     "slug": "quinnipiac",
@@ -38,84 +38,84 @@
     }
   },
   "teamSummary": {
-    "record": "19-22, 10-10",
-    "battingAverage": ".274",
-    "earnedRunAverage": "6.07",
-    "wins": "19",
+    "record": "20-22, 11-10",
+    "battingAverage": ".273",
+    "earnedRunAverage": "5.95",
+    "wins": "20",
     "losses": "22",
     "hitting": {
-      "atBats": "1370",
-      "runsScored": "248",
-      "hits": "376",
-      "runsBattedIn": "226",
-      "doubles": "69",
+      "atBats": "1397",
+      "runsScored": "251",
+      "hits": "382",
+      "runsBattedIn": "229",
+      "doubles": "70",
       "triples": "9",
       "homeRuns": "24",
-      "walks": "225",
+      "walks": "228",
       "intentionalWalks": "5",
-      "strikeouts": "274",
+      "strikeouts": "276",
       "strikeoutsLooking": "71",
       "hitByPitch": "46",
-      "stolenBases": "59",
+      "stolenBases": "62",
       "caughtStealing": "24",
-      "sacrificeHits": "33",
+      "sacrificeHits": "35",
       "sacrificeFlies": "25",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "387",
-      "flyOuts": "336",
+      "groundOuts": "399",
+      "flyOuts": "344",
       "groundedIntoDoublePlay": "20",
       "pickedOff": "10",
       "doublePlaysHitInto": "28",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1057",
-      "assists": "362",
-      "errors": "54",
+      "putouts": "1084",
+      "assists": "371",
+      "errors": "55",
       "passedBalls": "16",
       "catchersInterference": "1",
-      "stolenBasesAgainst": "72",
+      "stolenBasesAgainst": "73",
       "caughtStealingBy": "12",
-      "involvedInDoublePlays": "27",
+      "involvedInDoublePlays": "29",
       "involvedInTriplePlays": "0",
-      "totalChances": "1473",
-      "fieldingPercentage": ".963"
+      "totalChances": "1510",
+      "fieldingPercentage": ".964"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "19",
+      "wins": "20",
       "saves": "6",
       "losses": "22",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "2",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "352.2",
-      "hitsAllowed": "389",
-      "runsAllowed": "268",
-      "earnedRunsAllowed": "238",
-      "walksAllowed": "178",
-      "strikeouts": "365",
-      "battersFaced": "1672",
-      "opponentAtBats": "1396",
-      "doublesAllowed": "74",
+      "inningsPitched": "361.2",
+      "hitsAllowed": "399",
+      "runsAllowed": "270",
+      "earnedRunsAllowed": "239",
+      "walksAllowed": "181",
+      "strikeouts": "367",
+      "battersFaced": "1712",
+      "opponentAtBats": "1432",
+      "doublesAllowed": "77",
       "triplesAllowed": "9",
       "homerunsAllowed": "23",
       "wildPitches": "35",
       "balks": "5",
-      "hitBatters": "63",
-      "strikeoutsLooking": "95",
+      "hitBatters": "64",
+      "strikeoutsLooking": "96",
       "intentionalWalks": "0",
       "inheritedRunners": "11",
       "inheritedRunnersThatScored": "5",
       "sacrificeHitsAllowed": "16",
       "sacrificeFliesAllowed": "18",
       "catchersInterferenceAllowed": "0",
-      "pitches": "5718",
-      "flyouts": "313",
-      "groundouts": "322",
+      "pitches": "5854",
+      "flyouts": "329",
+      "groundouts": "329",
       "teamUnearnedRuns": "0",
       "saveRecord": "2",
       "pickoff": "5"
@@ -160,13 +160,13 @@
         "jersey": "1",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/peyton-vancas/15079",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Peyton_Vancas_It3wT.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 26,
-        "battingAverage": 0.272,
-        "onBasePercentage": 0.397,
-        "sluggingPercentage": 0.359,
-        "ops": 0.756,
-        "atBats": 92,
+        "gamesPlayed": 31,
+        "gamesStarted": 27,
+        "battingAverage": 0.26,
+        "onBasePercentage": 0.383,
+        "sluggingPercentage": 0.344,
+        "ops": 0.727,
+        "atBats": 96,
         "runs": 14,
         "hits": 25,
         "doubles": 3,
@@ -183,10 +183,10 @@
         "sacrificeHits": 4,
         "stolenBases": 5,
         "stolenBasesAttempts": 7,
-        "putouts": 38,
-        "assists": 51,
+        "putouts": 40,
+        "assists": 52,
         "errors": 7,
-        "plateAppearances": 129,
+        "plateAppearances": 133,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -198,51 +198,51 @@
         "jersey": "1",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/peyton-vancas/15079",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Peyton_Vancas_It3wT.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 25,
-        "putouts": 38,
-        "assists": 51,
+        "gamesPlayed": 28,
+        "gamesStarted": 26,
+        "putouts": 40,
+        "assists": 52,
         "errors": 7,
-        "fieldingPercentage": 0.927,
-        "doublePlays": 9,
+        "fieldingPercentage": 0.929,
+        "doublePlays": 10,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 96
+        "totalChances": 99
       },
       "evaluation": {
-        "score": 43,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 65,
-          "Power": 10.263157894736837,
-          "Contact": 32.500000000000014,
+          "On-base": 57.22222222222222,
+          "Power": 6.315789473684203,
+          "Contact": 25.000000000000007,
           "Discipline": 88.88888888888889,
           "Speed": 16.666666666666664
         },
         "summary": "Peyton Vancas profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .272",
-          "OBP .397",
-          "SLG .359"
+          "AVG .260",
+          "OBP .383",
+          "SLG .344"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".272"
+            "value": ".260"
           },
           {
             "label": "OBP",
-            "value": ".397"
+            "value": ".383"
           },
           {
             "label": "SLG",
-            "value": ".359"
+            "value": ".344"
           },
           {
             "label": "HR",
@@ -538,20 +538,20 @@
         "jersey": "4",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/chase-camac/15068",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Chase_0w24I.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 29,
-        "battingAverage": 0.273,
-        "onBasePercentage": 0.357,
-        "sluggingPercentage": 0.318,
-        "ops": 0.675,
-        "atBats": 110,
+        "gamesPlayed": 35,
+        "gamesStarted": 30,
+        "battingAverage": 0.283,
+        "onBasePercentage": 0.364,
+        "sluggingPercentage": 0.327,
+        "ops": 0.691,
+        "atBats": 113,
         "runs": 22,
-        "hits": 30,
+        "hits": 32,
         "doubles": 5,
         "triples": 0,
         "homeRuns": 0,
-        "runsBattedIn": 18,
-        "totalBases": 35,
+        "runsBattedIn": 20,
+        "totalBases": 37,
         "walks": 16,
         "hitByPitch": 0,
         "strikeouts": 14,
@@ -561,10 +561,10 @@
         "sacrificeHits": 2,
         "stolenBases": 10,
         "stolenBasesAttempts": 11,
-        "putouts": 65,
+        "putouts": 69,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 143,
+        "plateAppearances": 146,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -576,51 +576,51 @@
         "jersey": "4",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/chase-camac/15068",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Chase_0w24I.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 28,
-        "putouts": 65,
+        "gamesPlayed": 30,
+        "gamesStarted": 29,
+        "putouts": 69,
         "assists": 0,
         "errors": 1,
-        "fieldingPercentage": 0.985,
+        "fieldingPercentage": 0.986,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 66
+        "totalChances": 70
       },
       "evaluation": {
-        "score": 37,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 42.77777777777775,
-          "Power": 0,
-          "Contact": 33.12500000000001,
+          "On-base": 46.66666666666665,
+          "Power": 1.8421052631578967,
+          "Contact": 39.374999999999986,
           "Discipline": 100,
           "Speed": 33.33333333333333
         },
         "summary": "Chase Camac profiles as a OF piece who controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .273",
-          "OBP .357",
-          "SLG .318"
+          "AVG .283",
+          "OBP .364",
+          "SLG .327"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".273"
+            "value": ".283"
           },
           {
             "label": "OBP",
-            "value": ".357"
+            "value": ".364"
           },
           {
             "label": "SLG",
-            "value": ".318"
+            "value": ".327"
           },
           {
             "label": "HR",
@@ -628,7 +628,7 @@
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "20"
           },
           {
             "label": "SB",
@@ -684,18 +684,18 @@
         "jersey": "5",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/jc-franconere/15042",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/JC_Franconere_jctRa.jpg",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 0,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.54,
-        "whip": 1.62,
+        "earnedRunAverage": 5.4,
+        "whip": 1.58,
         "wins": 1,
         "losses": 1,
-        "saves": 0,
+        "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 26,
-        "inningsPitchedDisplay": "26.0",
+        "inningsPitched": 26.666666666666668,
+        "inningsPitchedDisplay": "26.2",
         "hitsAllowed": 25,
         "runsAllowed": 17,
         "earnedRunsAllowed": 16,
@@ -704,11 +704,11 @@
         "doublesAllowed": 5,
         "triplesAllowed": 1,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 103,
+        "opponentsAtBats": 104,
         "wildPitches": 1,
         "hitBatters": 2,
         "balks": 2,
-        "opponentsBattingAverage": 0.243,
+        "opponentsBattingAverage": 0.24,
         "walksHits": 42
       },
       "fieldingStats": {
@@ -733,7 +733,7 @@
         "totalChances": 6
       },
       "evaluation": {
-        "score": 12,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -741,32 +741,32 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 48.60139860139861,
+          "Miss bats": 46.47727272727272,
           "Command": 11.76470588235294,
           "Damage suppression": 0
         },
         "summary": "J.C. Franconere looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.54",
-          "WHIP 1.62",
-          "K/9 9.3"
+          "ERA 5.40",
+          "WHIP 1.58",
+          "K/9 9.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.54"
+            "value": "5.40"
           },
           {
             "label": "WHIP",
-            "value": "1.62"
+            "value": "1.58"
           },
           {
             "label": "K/9",
-            "value": "9.3"
+            "value": "9.1"
           },
           {
             "label": "BB/9",
-            "value": "5.9"
+            "value": "5.7"
           },
           {
             "label": "HR/9",
@@ -774,7 +774,7 @@
           },
           {
             "label": "IP",
-            "value": "26.0"
+            "value": "26.7"
           }
         ],
         "metaLine": "SO / L/L",
@@ -825,13 +825,13 @@
         "jersey": "6",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/kyle-garbowski/15043",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Kyle_Garbowski_jZnSt.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "battingAverage": 0.298,
-        "onBasePercentage": 0.432,
-        "sluggingPercentage": 0.424,
-        "ops": 0.856,
-        "atBats": 151,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "battingAverage": 0.29,
+        "onBasePercentage": 0.423,
+        "sluggingPercentage": 0.413,
+        "ops": 0.836,
+        "atBats": 155,
         "runs": 26,
         "hits": 45,
         "doubles": 6,
@@ -848,10 +848,10 @@
         "sacrificeHits": 8,
         "stolenBases": 9,
         "stolenBasesAttempts": 12,
-        "putouts": 99,
+        "putouts": 107,
         "assists": 86,
         "errors": 8,
-        "plateAppearances": 215,
+        "plateAppearances": 219,
         "caughtStealing": 3,
         "pickedOff": 3
       },
@@ -863,51 +863,51 @@
         "jersey": "6",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/kyle-garbowski/15043",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Kyle_Garbowski_jZnSt.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "putouts": 99,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "putouts": 107,
         "assists": 86,
         "errors": 8,
-        "fieldingPercentage": 0.959,
-        "doublePlays": 18,
+        "fieldingPercentage": 0.96,
+        "doublePlays": 20,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 193
+        "totalChances": 201
       },
       "evaluation": {
-        "score": 60,
+        "score": 57,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 84.44444444444443,
-          "Power": 27.368421052631575,
-          "Contact": 48.749999999999986,
+          "On-base": 79.44444444444443,
+          "Power": 24.47368421052631,
+          "Contact": 43.749999999999986,
           "Discipline": 100,
           "Speed": 30
         },
         "summary": "Kyle Garbowski profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .298",
-          "OBP .432",
-          "SLG .424"
+          "AVG .290",
+          "OBP .423",
+          "SLG .413"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".298"
+            "value": ".290"
           },
           {
             "label": "OBP",
-            "value": ".432"
+            "value": ".423"
           },
           {
             "label": "SLG",
-            "value": ".424"
+            "value": ".413"
           },
           {
             "label": "HR",
@@ -970,33 +970,33 @@
         "jersey": "7",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/caden-williamson/15080",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Caden_Williamson_lqAtn.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "battingAverage": 0.296,
-        "onBasePercentage": 0.385,
-        "sluggingPercentage": 0.349,
-        "ops": 0.734,
-        "atBats": 169,
-        "runs": 30,
-        "hits": 50,
-        "doubles": 4,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "battingAverage": 0.295,
+        "onBasePercentage": 0.382,
+        "sluggingPercentage": 0.353,
+        "ops": 0.735,
+        "atBats": 173,
+        "runs": 31,
+        "hits": 51,
+        "doubles": 5,
         "triples": 1,
         "homeRuns": 1,
         "runsBattedIn": 16,
-        "totalBases": 59,
+        "totalBases": 61,
         "walks": 20,
         "hitByPitch": 5,
-        "strikeouts": 32,
+        "strikeouts": 33,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 1,
         "sacrificeHits": 5,
         "stolenBases": 8,
         "stolenBasesAttempts": 14,
-        "putouts": 72,
+        "putouts": 75,
         "assists": 5,
         "errors": 1,
-        "plateAppearances": 220,
+        "plateAppearances": 224,
         "caughtStealing": 6,
         "pickedOff": 1
       },
@@ -1008,19 +1008,19 @@
         "jersey": "7",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/caden-williamson/15080",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Caden_Williamson_lqAtn.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "putouts": 72,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "putouts": 75,
         "assists": 5,
         "errors": 1,
-        "fieldingPercentage": 0.987,
+        "fieldingPercentage": 0.988,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 78
+        "totalChances": 81
       },
       "evaluation": {
         "score": 38,
@@ -1029,30 +1029,30 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 58.33333333333333,
-          "Power": 7.631578947368414,
-          "Contact": 47.499999999999986,
-          "Discipline": 47.222222222222214,
+          "On-base": 56.66666666666666,
+          "Power": 8.684210526315784,
+          "Contact": 46.874999999999986,
+          "Discipline": 45.117845117845114,
           "Speed": 26.666666666666668
         },
         "summary": "Caden Williamson profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .296",
-          "OBP .385",
-          "SLG .349"
+          "AVG .295",
+          "OBP .382",
+          "SLG .353"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".296"
+            "value": ".295"
           },
           {
             "label": "OBP",
-            "value": ".385"
+            "value": ".382"
           },
           {
             "label": "SLG",
-            "value": ".349"
+            "value": ".353"
           },
           {
             "label": "HR",
@@ -1115,33 +1115,33 @@
         "jersey": "8",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/alex-irizarry/15044",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Alex_Irizarry_ndXmV.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
         "battingAverage": 0.293,
-        "onBasePercentage": 0.44,
-        "sluggingPercentage": 0.435,
+        "onBasePercentage": 0.442,
+        "sluggingPercentage": 0.433,
         "ops": 0.875,
-        "atBats": 147,
-        "runs": 31,
-        "hits": 43,
+        "atBats": 150,
+        "runs": 32,
+        "hits": 44,
         "doubles": 9,
         "triples": 0,
         "homeRuns": 4,
         "runsBattedIn": 30,
-        "totalBases": 64,
-        "walks": 39,
+        "totalBases": 65,
+        "walks": 40,
         "hitByPitch": 3,
         "strikeouts": 24,
         "intentionalWalks": 3,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 4,
         "sacrificeHits": 0,
-        "stolenBases": 8,
-        "stolenBasesAttempts": 10,
-        "putouts": 39,
-        "assists": 93,
-        "errors": 10,
-        "plateAppearances": 205,
+        "stolenBases": 9,
+        "stolenBasesAttempts": 11,
+        "putouts": 42,
+        "assists": 97,
+        "errors": 11,
+        "plateAppearances": 210,
         "caughtStealing": 2,
         "pickedOff": 2
       },
@@ -1153,38 +1153,38 @@
         "jersey": "8",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/alex-irizarry/15044",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Alex_Irizarry_ndXmV.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "putouts": 39,
-        "assists": 93,
-        "errors": 10,
-        "fieldingPercentage": 0.93,
-        "doublePlays": 18,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "putouts": 42,
+        "assists": 97,
+        "errors": 11,
+        "fieldingPercentage": 0.927,
+        "doublePlays": 20,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 142
+        "totalChances": 150
       },
       "evaluation": {
-        "score": 61,
+        "score": 62,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 88.88888888888889,
-          "Power": 30.263157894736842,
+          "On-base": 89.99999999999999,
+          "Power": 29.73684210526316,
           "Contact": 45.624999999999986,
           "Discipline": 100,
-          "Speed": 26.666666666666668
+          "Speed": 30
         },
         "summary": "Alex Irizarry profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .293",
-          "OBP .440",
-          "SLG .435"
+          "OBP .442",
+          "SLG .433"
         ],
         "statCards": [
           {
@@ -1193,11 +1193,11 @@
           },
           {
             "label": "OBP",
-            "value": ".440"
+            "value": ".442"
           },
           {
             "label": "SLG",
-            "value": ".435"
+            "value": ".433"
           },
           {
             "label": "HR",
@@ -1209,7 +1209,7 @@
           },
           {
             "label": "SB",
-            "value": "8"
+            "value": "9"
           }
         ],
         "metaLine": "SR / L/R",
@@ -1808,23 +1808,23 @@
         "jersey": "13",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/matt-park/15049",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Matt_Park_C67bg.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 19,
-        "battingAverage": 0.185,
+        "gamesPlayed": 23,
+        "gamesStarted": 20,
+        "battingAverage": 0.191,
         "onBasePercentage": 0.349,
-        "sluggingPercentage": 0.246,
-        "ops": 0.595,
-        "atBats": 65,
+        "sluggingPercentage": 0.25,
+        "ops": 0.599,
+        "atBats": 68,
         "runs": 10,
-        "hits": 12,
+        "hits": 13,
         "doubles": 2,
         "triples": 1,
         "homeRuns": 0,
         "runsBattedIn": 9,
-        "totalBases": 16,
+        "totalBases": 17,
         "walks": 14,
         "hitByPitch": 3,
-        "strikeouts": 20,
+        "strikeouts": 21,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
@@ -1832,9 +1832,9 @@
         "stolenBases": 0,
         "stolenBasesAttempts": 2,
         "putouts": 62,
-        "assists": 21,
+        "assists": 23,
         "errors": 5,
-        "plateAppearances": 88,
+        "plateAppearances": 91,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -1846,19 +1846,19 @@
         "jersey": "13",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/matt-park/15049",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Matt_Park_C67bg.jpg",
-        "gamesPlayed": 18,
-        "gamesStarted": 17,
+        "gamesPlayed": 19,
+        "gamesStarted": 18,
         "putouts": 62,
-        "assists": 21,
+        "assists": 23,
         "errors": 5,
-        "fieldingPercentage": 0.943,
+        "fieldingPercentage": 0.944,
         "doublePlays": 6,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 88
+        "totalChances": 90
       },
       "evaluation": {
         "score": 20,
@@ -1870,19 +1870,19 @@
           "On-base": 38.33333333333331,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 55.555555555555536,
+          "Discipline": 51.85185185185184,
           "Speed": 0
         },
         "summary": "Matt Park gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .185",
+          "AVG .191",
           "OBP .349",
-          "SLG .246"
+          "SLG .250"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".185"
+            "value": ".191"
           },
           {
             "label": "OBP",
@@ -1890,7 +1890,7 @@
           },
           {
             "label": "SLG",
-            "value": ".246"
+            "value": ".250"
           },
           {
             "label": "HR",
@@ -2933,13 +2933,13 @@
         "jersey": "23",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/cole-constable/15041",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Cole_Constable_REC45.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 27,
-        "battingAverage": 0.231,
-        "onBasePercentage": 0.39,
-        "sluggingPercentage": 0.297,
-        "ops": 0.687,
-        "atBats": 91,
+        "gamesPlayed": 30,
+        "gamesStarted": 28,
+        "battingAverage": 0.228,
+        "onBasePercentage": 0.392,
+        "sluggingPercentage": 0.293,
+        "ops": 0.685,
+        "atBats": 92,
         "runs": 18,
         "hits": 21,
         "doubles": 3,
@@ -2947,19 +2947,19 @@
         "homeRuns": 1,
         "runsBattedIn": 12,
         "totalBases": 27,
-        "walks": 19,
+        "walks": 20,
         "hitByPitch": 6,
         "strikeouts": 13,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
-        "sacrificeHits": 4,
-        "stolenBases": 8,
-        "stolenBasesAttempts": 9,
-        "putouts": 245,
-        "assists": 17,
+        "sacrificeHits": 5,
+        "stolenBases": 9,
+        "stolenBasesAttempts": 10,
+        "putouts": 246,
+        "assists": 18,
         "errors": 1,
-        "plateAppearances": 132,
+        "plateAppearances": 136,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -2971,51 +2971,51 @@
         "jersey": "23",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/cole-constable/15041",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Cole_Constable_REC45.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 26,
-        "putouts": 245,
-        "assists": 17,
+        "gamesPlayed": 29,
+        "gamesStarted": 27,
+        "putouts": 246,
+        "assists": 18,
         "errors": 1,
         "fieldingPercentage": 0.996,
         "doublePlays": 0,
-        "stolenBasesAgainst": 44,
+        "stolenBasesAgainst": 45,
         "caughtStealingBy": 6,
-        "stolenBasesPercentage": 0.88,
+        "stolenBasesPercentage": 0.882,
         "passedBalls": 4,
         "catchersInterference": 1,
-        "totalChances": 263
+        "totalChances": 265
       },
       "evaluation": {
-        "score": 37,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 61.11111111111111,
+          "On-base": 62.22222222222222,
           "Power": 0,
-          "Contact": 6.875000000000006,
+          "Contact": 5.000000000000004,
           "Discipline": 100,
-          "Speed": 26.666666666666668
+          "Speed": 30
         },
         "summary": "Cole Constable profiles as a C/OF piece who controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .231",
-          "OBP .390",
-          "SLG .297"
+          "AVG .228",
+          "OBP .392",
+          "SLG .293"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".231"
+            "value": ".228"
           },
           {
             "label": "OBP",
-            "value": ".390"
+            "value": ".392"
           },
           {
             "label": "SLG",
-            "value": ".297"
+            "value": ".293"
           },
           {
             "label": "HR",
@@ -3027,7 +3027,7 @@
           },
           {
             "label": "SB",
-            "value": "8"
+            "value": "9"
           }
         ],
         "metaLine": "R-SO / R/R",
@@ -4028,19 +4028,19 @@
         "jersey": "34",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/matt-alduino/15038",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Matt_Alduino_XL7aa.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 0,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 1.8,
-        "whip": 0.8,
+        "earnedRunAverage": 1.78,
+        "whip": 0.87,
         "wins": 3,
         "losses": 1,
         "saves": 5,
         "shutouts": 0,
-        "inningsPitched": 25,
-        "inningsPitchedDisplay": "25.0",
-        "hitsAllowed": 11,
+        "inningsPitched": 25.333333333333332,
+        "inningsPitchedDisplay": "25.1",
+        "hitsAllowed": 13,
         "runsAllowed": 5,
         "earnedRunsAllowed": 5,
         "walksAllowed": 9,
@@ -4048,12 +4048,12 @@
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 83,
+        "opponentsAtBats": 86,
         "wildPitches": 0,
-        "hitBatters": 1,
+        "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.133,
-        "walksHits": 20
+        "opponentsBattingAverage": 0.151,
+        "walksHits": 22
       },
       "fieldingStats": {
         "rosterBioId": "15038",
@@ -4062,14 +4062,14 @@
         "jersey": "34",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/matt-alduino/15038",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Matt_Alduino_XL7aa.jpg",
-        "gamesPlayed": 3,
+        "gamesPlayed": 4,
         "gamesStarted": 0,
         "putouts": 1,
         "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 1,
+        "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
@@ -4085,28 +4085,28 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
+          "Miss bats": 44.37799043062201,
           "Command": 35.55555555555555,
           "Damage suppression": 0
         },
-        "summary": "Matt Alduino looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
+        "summary": "Matt Alduino looks like a LHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.80",
-          "WHIP 0.80",
-          "K/9 9.0"
+          "ERA 1.78",
+          "WHIP 0.87",
+          "K/9 8.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.80"
+            "value": "1.78"
           },
           {
             "label": "WHIP",
-            "value": "0.80"
+            "value": "0.87"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "8.9"
           },
           {
             "label": "BB/9",
@@ -4118,7 +4118,7 @@
           },
           {
             "label": "IP",
-            "value": "25.0"
+            "value": "25.3"
           }
         ],
         "metaLine": "SR / L/L",
@@ -4170,32 +4170,32 @@
         "jersey": "35",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/nick-balcom/15040",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Nick_Balcom_tPWwv.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 6,
-        "appearances": 12,
+        "gamesPlayed": 13,
+        "gamesStarted": 7,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.47,
-        "whip": 1.66,
+        "earnedRunAverage": 6.69,
+        "whip": 1.62,
         "wins": 2,
         "losses": 5,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 31.333333333333332,
-        "inningsPitchedDisplay": "31.1",
-        "hitsAllowed": 37,
-        "runsAllowed": 27,
-        "earnedRunsAllowed": 26,
-        "walksAllowed": 15,
-        "strikeouts": 38,
-        "doublesAllowed": 9,
+        "inningsPitched": 36.333333333333336,
+        "inningsPitchedDisplay": "36.1",
+        "hitsAllowed": 43,
+        "runsAllowed": 28,
+        "earnedRunsAllowed": 27,
+        "walksAllowed": 16,
+        "strikeouts": 40,
+        "doublesAllowed": 12,
         "triplesAllowed": 0,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 128,
+        "opponentsAtBats": 149,
         "wildPitches": 3,
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.289,
-        "walksHits": 52
+        "walksHits": 59
       },
       "fieldingStats": {
         "rosterBioId": "15040",
@@ -4204,22 +4204,22 @@
         "jersey": "35",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/nick-balcom/15040",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Nick_Balcom_tPWwv.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 3,
+        "gamesPlayed": 8,
+        "gamesStarted": 4,
         "putouts": 2,
-        "assists": 5,
+        "assists": 6,
         "errors": 2,
-        "fieldingPercentage": 0.778,
+        "fieldingPercentage": 0.8,
         "doublePlays": 1,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": 0.667,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 9
+        "totalChances": 10
       },
       "evaluation": {
-        "score": 17,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4227,40 +4227,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 62.862669245647986,
-          "Command": 30.666666666666675,
+          "Miss bats": 53.7114261884904,
+          "Command": 30,
           "Damage suppression": 0
         },
         "summary": "Nick Balcom looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 7.47",
-          "WHIP 1.66",
-          "K/9 10.9"
+          "ERA 6.69",
+          "WHIP 1.62",
+          "K/9 9.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.47"
+            "value": "6.69"
           },
           {
             "label": "WHIP",
-            "value": "1.66"
+            "value": "1.62"
           },
           {
             "label": "K/9",
-            "value": "10.9"
+            "value": "9.9"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "4.0"
           },
           {
             "label": "HR/9",
-            "value": "1.15"
+            "value": "0.99"
           },
           {
             "label": "IP",
-            "value": "31.3"
+            "value": "36.3"
           }
         ],
         "metaLine": "SR / R/R",
@@ -4311,33 +4311,33 @@
         "jersey": "36",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/james-marino/15046",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/James_Marino_t1bfR.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 32,
-        "battingAverage": 0.288,
-        "onBasePercentage": 0.413,
-        "sluggingPercentage": 0.486,
-        "ops": 0.899,
-        "atBats": 111,
-        "runs": 20,
+        "gamesPlayed": 34,
+        "gamesStarted": 33,
+        "battingAverage": 0.283,
+        "onBasePercentage": 0.411,
+        "sluggingPercentage": 0.478,
+        "ops": 0.889,
+        "atBats": 113,
+        "runs": 21,
         "hits": 32,
         "doubles": 8,
         "triples": 1,
         "homeRuns": 4,
         "runsBattedIn": 29,
         "totalBases": 54,
-        "walks": 18,
+        "walks": 19,
         "hitByPitch": 7,
         "strikeouts": 32,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
         "sacrificeHits": 4,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 4,
-        "putouts": 45,
+        "stolenBases": 2,
+        "stolenBasesAttempts": 5,
+        "putouts": 51,
         "assists": 2,
         "errors": 1,
-        "plateAppearances": 149,
+        "plateAppearances": 153,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -4349,51 +4349,51 @@
         "jersey": "36",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/james-marino/15046",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/James_Marino_t1bfR.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 24,
-        "putouts": 45,
+        "gamesPlayed": 25,
+        "gamesStarted": 25,
+        "putouts": 51,
         "assists": 2,
         "errors": 1,
-        "fieldingPercentage": 0.979,
+        "fieldingPercentage": 0.981,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 48
+        "totalChances": 54
       },
       "evaluation": {
-        "score": 49,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 73.88888888888886,
-          "Power": 43.684210526315795,
-          "Contact": 42.499999999999986,
-          "Discipline": 40.27777777777777,
-          "Speed": 3.3333333333333335
+          "On-base": 72.77777777777776,
+          "Power": 41.57894736842105,
+          "Contact": 39.374999999999986,
+          "Discipline": 43.74999999999999,
+          "Speed": 6.666666666666667
         },
         "summary": "James Marino profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .288",
-          "OBP .413",
-          "SLG .486"
+          "AVG .283",
+          "OBP .411",
+          "SLG .478"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".288"
+            "value": ".283"
           },
           {
             "label": "OBP",
-            "value": ".413"
+            "value": ".411"
           },
           {
             "label": "SLG",
-            "value": ".486"
+            "value": ".478"
           },
           {
             "label": "HR",
@@ -4405,7 +4405,7 @@
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "metaLine": "GR / L/R",
@@ -4457,32 +4457,32 @@
         "jersey": "37",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/jacob-belecky/15067",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Jacob_Belecky_cshHA.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 5,
-        "appearances": 11,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.92,
-        "whip": 1.65,
-        "wins": 1,
+        "earnedRunAverage": 6.21,
+        "whip": 1.62,
+        "wins": 2,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 26,
-        "inningsPitchedDisplay": "26.0",
-        "hitsAllowed": 34,
-        "runsAllowed": 24,
+        "inningsPitched": 29,
+        "inningsPitchedDisplay": "29.0",
+        "hitsAllowed": 36,
+        "runsAllowed": 25,
         "earnedRunsAllowed": 20,
-        "walksAllowed": 9,
+        "walksAllowed": 11,
         "strikeouts": 23,
         "doublesAllowed": 5,
         "triplesAllowed": 2,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 111,
+        "opponentsAtBats": 122,
         "wildPitches": 2,
         "hitBatters": 6,
         "balks": 1,
-        "opponentsBattingAverage": 0.306,
-        "walksHits": 43
+        "opponentsBattingAverage": 0.295,
+        "walksHits": 47
       },
       "fieldingStats": {
         "rosterBioId": "15067",
@@ -4506,7 +4506,7 @@
         "totalChances": 4
       },
       "evaluation": {
-        "score": 12,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4514,40 +4514,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.01398601398601,
-          "Command": 31.111111111111107,
+          "Miss bats": 28.526645768025084,
+          "Command": 21.818181818181817,
           "Damage suppression": 0
         },
         "summary": "Jacob Belecky gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.92",
-          "WHIP 1.65",
-          "K/9 8.0"
+          "ERA 6.21",
+          "WHIP 1.62",
+          "K/9 7.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.92"
+            "value": "6.21"
           },
           {
             "label": "WHIP",
-            "value": "1.65"
+            "value": "1.62"
           },
           {
             "label": "K/9",
-            "value": "8.0"
+            "value": "7.1"
           },
           {
             "label": "BB/9",
-            "value": "3.1"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
-            "value": "0.69"
+            "value": "0.62"
           },
           {
             "label": "IP",
-            "value": "26.0"
+            "value": "29.0"
           }
         ],
         "metaLine": "FY / R/R",
@@ -4598,33 +4598,33 @@
         "jersey": "39",
         "profileUrl": "https://gobobcats.com/sports/baseball/roster/jack-balcer/15065",
         "imageUrl": "https://gobobcats.com/images/2025/12/8/Jack_Balcer_Z8sgH.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 38,
-        "battingAverage": 0.307,
-        "onBasePercentage": 0.381,
-        "sluggingPercentage": 0.392,
-        "ops": 0.773,
-        "atBats": 153,
+        "gamesPlayed": 40,
+        "gamesStarted": 39,
+        "battingAverage": 0.308,
+        "onBasePercentage": 0.38,
+        "sluggingPercentage": 0.391,
+        "ops": 0.771,
+        "atBats": 156,
         "runs": 26,
-        "hits": 47,
+        "hits": 48,
         "doubles": 7,
         "triples": 0,
         "homeRuns": 2,
-        "runsBattedIn": 21,
-        "totalBases": 60,
+        "runsBattedIn": 22,
+        "totalBases": 61,
         "walks": 20,
         "hitByPitch": 0,
         "strikeouts": 27,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 3,
-        "sacrificeHits": 1,
+        "sacrificeHits": 2,
         "stolenBases": 8,
         "stolenBasesAttempts": 9,
         "putouts": 7,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 187,
+        "plateAppearances": 191,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -4657,30 +4657,30 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 56.1111111111111,
-          "Power": 18.947368421052634,
-          "Contact": 54.37499999999999,
+          "On-base": 55.55555555555555,
+          "Power": 18.684210526315795,
+          "Contact": 54.99999999999999,
           "Discipline": 60.08230452674896,
           "Speed": 26.666666666666668
         },
         "summary": "Jack Balcer profiles as a OF/1B piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .307",
-          "OBP .381",
-          "SLG .392"
+          "AVG .308",
+          "OBP .380",
+          "SLG .391"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".307"
+            "value": ".308"
           },
           {
             "label": "OBP",
-            "value": ".381"
+            "value": ".380"
           },
           {
             "label": "SLG",
-            "value": ".392"
+            "value": ".391"
           },
           {
             "label": "HR",
@@ -4688,7 +4688,7 @@
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -5010,29 +5010,29 @@
         "position": "INF",
         "classYear": "FY",
         "handedness": "R/R",
-        "score": 43,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Peyton Vancas profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .272",
-          "OBP .397",
-          "SLG .359"
+          "AVG .260",
+          "OBP .383",
+          "SLG .344"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".272"
+            "value": ".260"
           },
           {
             "label": "OBP",
-            "value": ".397"
+            "value": ".383"
           },
           {
             "label": "SLG",
-            "value": ".359"
+            "value": ".344"
           },
           {
             "label": "HR",
@@ -5048,9 +5048,9 @@
           }
         ],
         "components": {
-          "On-base": 65,
-          "Power": 10.263157894736837,
-          "Contact": 32.500000000000014,
+          "On-base": 57.22222222222222,
+          "Power": 6.315789473684203,
+          "Contact": 25.000000000000007,
           "Discipline": 88.88888888888889,
           "Speed": 16.666666666666664
         },
@@ -5216,29 +5216,29 @@
         "position": "OF",
         "classYear": "FY",
         "handedness": "L/R",
-        "score": 37,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Chase Camac profiles as a OF piece who controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .273",
-          "OBP .357",
-          "SLG .318"
+          "AVG .283",
+          "OBP .364",
+          "SLG .327"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".273"
+            "value": ".283"
           },
           {
             "label": "OBP",
-            "value": ".357"
+            "value": ".364"
           },
           {
             "label": "SLG",
-            "value": ".318"
+            "value": ".327"
           },
           {
             "label": "HR",
@@ -5246,7 +5246,7 @@
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "20"
           },
           {
             "label": "SB",
@@ -5254,9 +5254,9 @@
           }
         ],
         "components": {
-          "On-base": 42.77777777777775,
-          "Power": 0,
-          "Contact": 33.12500000000001,
+          "On-base": 46.66666666666665,
+          "Power": 1.8421052631578967,
+          "Contact": 39.374999999999986,
           "Discipline": 100,
           "Speed": 33.33333333333333
         },
@@ -5285,33 +5285,33 @@
         "position": "LHP",
         "classYear": "SO",
         "handedness": "L/L",
-        "score": 12,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "J.C. Franconere looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.54",
-          "WHIP 1.62",
-          "K/9 9.3"
+          "ERA 5.40",
+          "WHIP 1.58",
+          "K/9 9.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.54"
+            "value": "5.40"
           },
           {
             "label": "WHIP",
-            "value": "1.62"
+            "value": "1.58"
           },
           {
             "label": "K/9",
-            "value": "9.3"
+            "value": "9.1"
           },
           {
             "label": "BB/9",
-            "value": "5.9"
+            "value": "5.7"
           },
           {
             "label": "HR/9",
@@ -5319,13 +5319,13 @@
           },
           {
             "label": "IP",
-            "value": "26.0"
+            "value": "26.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 48.60139860139861,
+          "Miss bats": 46.47727272727272,
           "Command": 11.76470588235294,
           "Damage suppression": 0
         },
@@ -5354,29 +5354,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 60,
+        "score": 57,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Kyle Garbowski profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .298",
-          "OBP .432",
-          "SLG .424"
+          "AVG .290",
+          "OBP .423",
+          "SLG .413"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".298"
+            "value": ".290"
           },
           {
             "label": "OBP",
-            "value": ".432"
+            "value": ".423"
           },
           {
             "label": "SLG",
-            "value": ".424"
+            "value": ".413"
           },
           {
             "label": "HR",
@@ -5392,9 +5392,9 @@
           }
         ],
         "components": {
-          "On-base": 84.44444444444443,
-          "Power": 27.368421052631575,
-          "Contact": 48.749999999999986,
+          "On-base": 79.44444444444443,
+          "Power": 24.47368421052631,
+          "Contact": 43.749999999999986,
           "Discipline": 100,
           "Speed": 30
         },
@@ -5430,22 +5430,22 @@
         },
         "summary": "Caden Williamson profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .296",
-          "OBP .385",
-          "SLG .349"
+          "AVG .295",
+          "OBP .382",
+          "SLG .353"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".296"
+            "value": ".295"
           },
           {
             "label": "OBP",
-            "value": ".385"
+            "value": ".382"
           },
           {
             "label": "SLG",
-            "value": ".349"
+            "value": ".353"
           },
           {
             "label": "HR",
@@ -5461,10 +5461,10 @@
           }
         ],
         "components": {
-          "On-base": 58.33333333333333,
-          "Power": 7.631578947368414,
-          "Contact": 47.499999999999986,
-          "Discipline": 47.222222222222214,
+          "On-base": 56.66666666666666,
+          "Power": 8.684210526315784,
+          "Contact": 46.874999999999986,
+          "Discipline": 45.117845117845114,
           "Speed": 26.666666666666668
         },
         "metaLine": "FY / R/R",
@@ -5492,7 +5492,7 @@
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 61,
+        "score": 62,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
@@ -5500,8 +5500,8 @@
         "summary": "Alex Irizarry profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .293",
-          "OBP .440",
-          "SLG .435"
+          "OBP .442",
+          "SLG .433"
         ],
         "statCards": [
           {
@@ -5510,11 +5510,11 @@
           },
           {
             "label": "OBP",
-            "value": ".440"
+            "value": ".442"
           },
           {
             "label": "SLG",
-            "value": ".435"
+            "value": ".433"
           },
           {
             "label": "HR",
@@ -5526,15 +5526,15 @@
           },
           {
             "label": "SB",
-            "value": "8"
+            "value": "9"
           }
         ],
         "components": {
-          "On-base": 88.88888888888889,
-          "Power": 30.263157894736842,
+          "On-base": 89.99999999999999,
+          "Power": 29.73684210526316,
           "Contact": 45.624999999999986,
           "Discipline": 100,
-          "Speed": 26.666666666666668
+          "Speed": 30
         },
         "metaLine": "SR / L/R",
         "detailBadges": [
@@ -5844,14 +5844,14 @@
         },
         "summary": "Matt Park gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .185",
+          "AVG .191",
           "OBP .349",
-          "SLG .246"
+          "SLG .250"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".185"
+            "value": ".191"
           },
           {
             "label": "OBP",
@@ -5859,7 +5859,7 @@
           },
           {
             "label": "SLG",
-            "value": ".246"
+            "value": ".250"
           },
           {
             "label": "HR",
@@ -5878,7 +5878,7 @@
           "On-base": 38.33333333333331,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 55.555555555555536,
+          "Discipline": 51.85185185185184,
           "Speed": 0
         },
         "metaLine": "SO / R/R",
@@ -6389,29 +6389,29 @@
         "position": "C/OF",
         "classYear": "R-SO",
         "handedness": "R/R",
-        "score": 37,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cole Constable profiles as a C/OF piece who controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .231",
-          "OBP .390",
-          "SLG .297"
+          "AVG .228",
+          "OBP .392",
+          "SLG .293"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".231"
+            "value": ".228"
           },
           {
             "label": "OBP",
-            "value": ".390"
+            "value": ".392"
           },
           {
             "label": "SLG",
-            "value": ".297"
+            "value": ".293"
           },
           {
             "label": "HR",
@@ -6423,15 +6423,15 @@
           },
           {
             "label": "SB",
-            "value": "8"
+            "value": "9"
           }
         ],
         "components": {
-          "On-base": 61.11111111111111,
+          "On-base": 62.22222222222222,
           "Power": 0,
-          "Contact": 6.875000000000006,
+          "Contact": 5.000000000000004,
           "Discipline": 100,
-          "Speed": 26.666666666666668
+          "Speed": 30
         },
         "metaLine": "R-SO / R/R",
         "detailBadges": [
@@ -6945,24 +6945,24 @@
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Matt Alduino looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
+        "summary": "Matt Alduino looks like a LHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.80",
-          "WHIP 0.80",
-          "K/9 9.0"
+          "ERA 1.78",
+          "WHIP 0.87",
+          "K/9 8.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.80"
+            "value": "1.78"
           },
           {
             "label": "WHIP",
-            "value": "0.80"
+            "value": "0.87"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "8.9"
           },
           {
             "label": "BB/9",
@@ -6974,13 +6974,13 @@
           },
           {
             "label": "IP",
-            "value": "25.0"
+            "value": "25.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
+          "Miss bats": 44.37799043062201,
           "Command": 35.55555555555555,
           "Damage suppression": 0
         },
@@ -7009,48 +7009,48 @@
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 17,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nick Balcom looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 7.47",
-          "WHIP 1.66",
-          "K/9 10.9"
+          "ERA 6.69",
+          "WHIP 1.62",
+          "K/9 9.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.47"
+            "value": "6.69"
           },
           {
             "label": "WHIP",
-            "value": "1.66"
+            "value": "1.62"
           },
           {
             "label": "K/9",
-            "value": "10.9"
+            "value": "9.9"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "4.0"
           },
           {
             "label": "HR/9",
-            "value": "1.15"
+            "value": "0.99"
           },
           {
             "label": "IP",
-            "value": "31.3"
+            "value": "36.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 62.862669245647986,
-          "Command": 30.666666666666675,
+          "Miss bats": 53.7114261884904,
+          "Command": 30,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -7078,29 +7078,29 @@
         "position": "OF",
         "classYear": "GR",
         "handedness": "L/R",
-        "score": 49,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "James Marino profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .288",
-          "OBP .413",
-          "SLG .486"
+          "AVG .283",
+          "OBP .411",
+          "SLG .478"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".288"
+            "value": ".283"
           },
           {
             "label": "OBP",
-            "value": ".413"
+            "value": ".411"
           },
           {
             "label": "SLG",
-            "value": ".486"
+            "value": ".478"
           },
           {
             "label": "HR",
@@ -7112,15 +7112,15 @@
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "components": {
-          "On-base": 73.88888888888886,
-          "Power": 43.684210526315795,
-          "Contact": 42.499999999999986,
-          "Discipline": 40.27777777777777,
-          "Speed": 3.3333333333333335
+          "On-base": 72.77777777777776,
+          "Power": 41.57894736842105,
+          "Contact": 39.374999999999986,
+          "Discipline": 43.74999999999999,
+          "Speed": 6.666666666666667
         },
         "metaLine": "GR / L/R",
         "detailBadges": [
@@ -7147,48 +7147,48 @@
         "position": "RHP",
         "classYear": "FY",
         "handedness": "R/R",
-        "score": 12,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jacob Belecky gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.92",
-          "WHIP 1.65",
-          "K/9 8.0"
+          "ERA 6.21",
+          "WHIP 1.62",
+          "K/9 7.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.92"
+            "value": "6.21"
           },
           {
             "label": "WHIP",
-            "value": "1.65"
+            "value": "1.62"
           },
           {
             "label": "K/9",
-            "value": "8.0"
+            "value": "7.1"
           },
           {
             "label": "BB/9",
-            "value": "3.1"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
-            "value": "0.69"
+            "value": "0.62"
           },
           {
             "label": "IP",
-            "value": "26.0"
+            "value": "29.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.01398601398601,
-          "Command": 31.111111111111107,
+          "Miss bats": 28.526645768025084,
+          "Command": 21.818181818181817,
           "Damage suppression": 0
         },
         "metaLine": "FY / R/R",
@@ -7223,22 +7223,22 @@
         },
         "summary": "Jack Balcer profiles as a OF/1B piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .307",
-          "OBP .381",
-          "SLG .392"
+          "AVG .308",
+          "OBP .380",
+          "SLG .391"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".307"
+            "value": ".308"
           },
           {
             "label": "OBP",
-            "value": ".381"
+            "value": ".380"
           },
           {
             "label": "SLG",
-            "value": ".392"
+            "value": ".391"
           },
           {
             "label": "HR",
@@ -7246,7 +7246,7 @@
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -7254,9 +7254,9 @@
           }
         ],
         "components": {
-          "On-base": 56.1111111111111,
-          "Power": 18.947368421052634,
-          "Contact": 54.37499999999999,
+          "On-base": 55.55555555555555,
+          "Power": 18.684210526315795,
+          "Contact": 54.99999999999999,
           "Discipline": 60.08230452674896,
           "Speed": 26.666666666666668
         },

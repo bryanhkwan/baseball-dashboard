@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T11:04:16.529Z",
+  "generatedAt": "2026-04-27T12:00:33.423Z",
   "season": 2026,
   "school": {
     "slug": "north-florida",
@@ -38,84 +38,84 @@
     }
   },
   "teamSummary": {
-    "record": "24-18, 15-5",
-    "battingAverage": ".257",
-    "earnedRunAverage": "4.61",
+    "record": "24-19, 15-6",
+    "battingAverage": ".258",
+    "earnedRunAverage": "4.84",
     "wins": "24",
-    "losses": "18",
+    "losses": "19",
     "hitting": {
-      "atBats": "1372",
-      "runsScored": "260",
-      "hits": "352",
-      "runsBattedIn": "233",
-      "doubles": "80",
+      "atBats": "1406",
+      "runsScored": "263",
+      "hits": "363",
+      "runsBattedIn": "236",
+      "doubles": "81",
       "triples": "4",
-      "homeRuns": "43",
-      "walks": "204",
+      "homeRuns": "44",
+      "walks": "206",
       "intentionalWalks": "6",
-      "strikeouts": "378",
-      "strikeoutsLooking": "97",
-      "hitByPitch": "44",
-      "stolenBases": "59",
-      "caughtStealing": "9",
+      "strikeouts": "383",
+      "strikeoutsLooking": "98",
+      "hitByPitch": "45",
+      "stolenBases": "60",
+      "caughtStealing": "10",
       "sacrificeHits": "3",
       "sacrificeFlies": "15",
       "reachedOnCatchersInteference": "1",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "299",
-      "flyOuts": "327",
+      "groundOuts": "307",
+      "flyOuts": "335",
       "groundedIntoDoublePlay": "23",
-      "pickedOff": "5",
+      "pickedOff": "6",
       "doublePlaysHitInto": "27",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1077",
-      "assists": "380",
+      "putouts": "1099",
+      "assists": "386",
       "errors": "55",
       "passedBalls": "10",
       "catchersInterference": "1",
-      "stolenBasesAgainst": "46",
+      "stolenBasesAgainst": "47",
       "caughtStealingBy": "11",
-      "involvedInDoublePlays": "33",
+      "involvedInDoublePlays": "34",
       "involvedInTriplePlays": "0",
-      "totalChances": "1512",
+      "totalChances": "1540",
       "fieldingPercentage": ".964"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "24",
-      "saves": "10",
-      "losses": "18",
+      "saves": "11",
+      "losses": "19",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "1",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "359.0",
-      "hitsAllowed": "332",
-      "runsAllowed": "217",
-      "earnedRunsAllowed": "184",
-      "walksAllowed": "176",
-      "strikeouts": "368",
-      "battersFaced": "1619",
-      "opponentAtBats": "1344",
-      "doublesAllowed": "73",
-      "triplesAllowed": "6",
-      "homerunsAllowed": "24",
-      "wildPitches": "28",
+      "inningsPitched": "366.1",
+      "hitsAllowed": "345",
+      "runsAllowed": "230",
+      "earnedRunsAllowed": "197",
+      "walksAllowed": "180",
+      "strikeouts": "371",
+      "battersFaced": "1662",
+      "opponentAtBats": "1378",
+      "doublesAllowed": "74",
+      "triplesAllowed": "7",
+      "homerunsAllowed": "26",
+      "wildPitches": "29",
       "balks": "1",
-      "hitBatters": "50",
-      "strikeoutsLooking": "79",
-      "intentionalWalks": "2",
-      "inheritedRunners": "11",
-      "inheritedRunnersThatScored": "8",
+      "hitBatters": "55",
+      "strikeoutsLooking": "80",
+      "intentionalWalks": "3",
+      "inheritedRunners": "17",
+      "inheritedRunnersThatScored": "16",
       "sacrificeHitsAllowed": "27",
       "sacrificeFliesAllowed": "21",
       "catchersInterferenceAllowed": "1",
-      "pitches": "2865",
-      "flyouts": "314",
-      "groundouts": "341",
+      "pitches": "3018",
+      "flyouts": "326",
+      "groundouts": "347",
       "teamUnearnedRuns": "0",
       "saveRecord": "4",
       "pickoff": "4"
@@ -160,7 +160,7 @@
         "jersey": "1",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/jonathan-acosta/14903",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/1_JonathanAcosta.jpg",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 11,
         "battingAverage": 0.088,
         "onBasePercentage": 0.179,
@@ -305,33 +305,33 @@
         "jersey": "3",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/mitchell-collins/14883",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/3_MitchellCollins.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 32,
-        "battingAverage": 0.308,
+        "gamesPlayed": 35,
+        "gamesStarted": 33,
+        "battingAverage": 0.307,
         "onBasePercentage": 0.391,
-        "sluggingPercentage": 0.383,
-        "ops": 0.774,
-        "atBats": 133,
-        "runs": 33,
-        "hits": 41,
+        "sluggingPercentage": 0.38,
+        "ops": 0.771,
+        "atBats": 137,
+        "runs": 34,
+        "hits": 42,
         "doubles": 7,
         "triples": 0,
         "homeRuns": 1,
         "runsBattedIn": 10,
-        "totalBases": 51,
-        "walks": 17,
+        "totalBases": 52,
+        "walks": 18,
         "hitByPitch": 1,
-        "strikeouts": 20,
+        "strikeouts": 21,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 10,
         "stolenBasesAttempts": 14,
-        "putouts": 43,
-        "assists": 77,
+        "putouts": 45,
+        "assists": 79,
         "errors": 6,
-        "plateAppearances": 169,
+        "plateAppearances": 174,
         "caughtStealing": 4,
         "pickedOff": 0
       },
@@ -343,19 +343,19 @@
         "jersey": "3",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/mitchell-collins/14883",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/3_MitchellCollins.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
-        "putouts": 43,
-        "assists": 77,
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "putouts": 45,
+        "assists": 79,
         "errors": 6,
-        "fieldingPercentage": 0.952,
+        "fieldingPercentage": 0.954,
         "doublePlays": 21,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 126
+        "totalChances": 130
       },
       "evaluation": {
         "score": 47,
@@ -365,21 +365,21 @@
         },
         "components": {
           "On-base": 61.66666666666666,
-          "Power": 16.578947368421055,
-          "Contact": 54.99999999999999,
-          "Discipline": 72.2222222222222,
+          "Power": 15.789473684210527,
+          "Contact": 54.37499999999999,
+          "Discipline": 73.01587301587298,
           "Speed": 33.33333333333333
         },
         "summary": "Mitchell Collins profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .308",
+          "AVG .307",
           "OBP .391",
-          "SLG .383"
+          "SLG .380"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".308"
+            "value": ".307"
           },
           {
             "label": "OBP",
@@ -387,7 +387,7 @@
           },
           {
             "label": "SLG",
-            "value": ".383"
+            "value": ".380"
           },
           {
             "label": "HR",
@@ -450,20 +450,20 @@
         "jersey": "4",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/carter-white/14901",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/4_CarterWhite.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 37,
-        "battingAverage": 0.288,
-        "onBasePercentage": 0.377,
-        "sluggingPercentage": 0.606,
-        "ops": 0.983,
-        "atBats": 132,
-        "runs": 26,
-        "hits": 38,
+        "gamesPlayed": 40,
+        "gamesStarted": 38,
+        "battingAverage": 0.287,
+        "onBasePercentage": 0.373,
+        "sluggingPercentage": 0.596,
+        "ops": 0.969,
+        "atBats": 136,
+        "runs": 27,
+        "hits": 39,
         "doubles": 11,
         "triples": 2,
         "homeRuns": 9,
         "runsBattedIn": 40,
-        "totalBases": 80,
+        "totalBases": 81,
         "walks": 19,
         "hitByPitch": 1,
         "strikeouts": 35,
@@ -473,10 +473,10 @@
         "sacrificeHits": 1,
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
-        "putouts": 66,
+        "putouts": 70,
         "assists": 3,
         "errors": 2,
-        "plateAppearances": 161,
+        "plateAppearances": 165,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -488,51 +488,51 @@
         "jersey": "4",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/carter-white/14901",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/4_CarterWhite.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 27,
-        "putouts": 66,
+        "gamesPlayed": 28,
+        "gamesStarted": 28,
+        "putouts": 70,
         "assists": 3,
         "errors": 2,
-        "fieldingPercentage": 0.972,
+        "fieldingPercentage": 0.973,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 71
+        "totalChances": 75
       },
       "evaluation": {
-        "score": 51,
+        "score": 50,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 53.88888888888887,
-          "Power": 75.26315789473685,
-          "Contact": 42.499999999999986,
+          "On-base": 51.66666666666665,
+          "Power": 72.63157894736842,
+          "Contact": 41.874999999999986,
           "Discipline": 38.09523809523808,
           "Speed": 13.333333333333334
         },
         "summary": "Carter White profiles as a OF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .288",
-          "OBP .377",
-          "SLG .606"
+          "AVG .287",
+          "OBP .373",
+          "SLG .596"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".288"
+            "value": ".287"
           },
           {
             "label": "OBP",
-            "value": ".377"
+            "value": ".373"
           },
           {
             "label": "SLG",
-            "value": ".606"
+            "value": ".596"
           },
           {
             "label": "HR",
@@ -720,20 +720,20 @@
         "jersey": "6",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/sean-benjamin/14881",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/6_SeanBenjamin.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 34,
-        "battingAverage": 0.315,
-        "onBasePercentage": 0.399,
-        "sluggingPercentage": 0.402,
-        "ops": 0.801,
-        "atBats": 127,
+        "gamesPlayed": 38,
+        "gamesStarted": 35,
+        "battingAverage": 0.321,
+        "onBasePercentage": 0.401,
+        "sluggingPercentage": 0.412,
+        "ops": 0.813,
+        "atBats": 131,
         "runs": 24,
-        "hits": 40,
-        "doubles": 11,
+        "hits": 42,
+        "doubles": 12,
         "triples": 0,
         "homeRuns": 0,
-        "runsBattedIn": 15,
-        "totalBases": 51,
+        "runsBattedIn": 16,
+        "totalBases": 54,
         "walks": 13,
         "hitByPitch": 6,
         "strikeouts": 18,
@@ -742,13 +742,13 @@
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 3,
-        "stolenBasesAttempts": 3,
-        "putouts": 48,
+        "stolenBasesAttempts": 4,
+        "putouts": 49,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 151,
-        "caughtStealing": 0,
-        "pickedOff": 0
+        "plateAppearances": 157,
+        "caughtStealing": 1,
+        "pickedOff": 1
       },
       "pitchingStats": null,
       "fieldingStats": {
@@ -758,9 +758,9 @@
         "jersey": "6",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/sean-benjamin/14881",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/6_SeanBenjamin.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 23,
-        "putouts": 48,
+        "gamesPlayed": 25,
+        "gamesStarted": 24,
+        "putouts": 49,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -770,39 +770,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 48
+        "totalChances": 49
       },
       "evaluation": {
-        "score": 47,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 66.11111111111111,
-          "Power": 21.578947368421062,
-          "Contact": 59.375,
+          "On-base": 67.22222222222223,
+          "Power": 24.21052631578947,
+          "Contact": 63.125,
           "Discipline": 58.02469135802467,
           "Speed": 10
         },
-        "summary": "Sean Benjamin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Sean Benjamin profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .315",
-          "OBP .399",
-          "SLG .402"
+          "AVG .321",
+          "OBP .401",
+          "SLG .412"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".315"
+            "value": ".321"
           },
           {
             "label": "OBP",
-            "value": ".399"
+            "value": ".401"
           },
           {
             "label": "SLG",
-            "value": ".402"
+            "value": ".412"
           },
           {
             "label": "HR",
@@ -810,7 +810,7 @@
           },
           {
             "label": "RBI",
-            "value": "15"
+            "value": "16"
           },
           {
             "label": "SB",
@@ -1010,13 +1010,13 @@
         "jersey": "8",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/boone-hosey/14905",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/8_BooneHosey.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 36,
-        "battingAverage": 0.336,
-        "onBasePercentage": 0.487,
-        "sluggingPercentage": 0.496,
-        "ops": 0.983,
-        "atBats": 119,
+        "gamesPlayed": 39,
+        "gamesStarted": 37,
+        "battingAverage": 0.328,
+        "onBasePercentage": 0.481,
+        "sluggingPercentage": 0.484,
+        "ops": 0.965,
+        "atBats": 122,
         "runs": 27,
         "hits": 40,
         "doubles": 8,
@@ -1024,9 +1024,9 @@
         "homeRuns": 3,
         "runsBattedIn": 18,
         "totalBases": 59,
-        "walks": 33,
+        "walks": 34,
         "hitByPitch": 3,
-        "strikeouts": 45,
+        "strikeouts": 46,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
@@ -1036,7 +1036,7 @@
         "putouts": 95,
         "assists": 8,
         "errors": 2,
-        "plateAppearances": 162,
+        "plateAppearances": 166,
         "caughtStealing": 1,
         "pickedOff": 2
       },
@@ -1063,36 +1063,36 @@
         "totalChances": 105
       },
       "evaluation": {
-        "score": 67,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
           "On-base": 100,
-          "Power": 46.31578947368421,
-          "Contact": 72.50000000000001,
-          "Discipline": 59.25925925925923,
+          "Power": 43.15789473684211,
+          "Contact": 67.5,
+          "Discipline": 59.903381642512066,
           "Speed": 13.333333333333334
         },
         "summary": "Boone Hosey profiles as a UTL piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .336",
-          "OBP .487",
-          "SLG .496"
+          "AVG .328",
+          "OBP .481",
+          "SLG .484"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".336"
+            "value": ".328"
           },
           {
             "label": "OBP",
-            "value": ".487"
+            "value": ".481"
           },
           {
             "label": "SLG",
-            "value": ".496"
+            "value": ".484"
           },
           {
             "label": "HR",
@@ -1300,33 +1300,33 @@
         "jersey": "10",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/mathew-farner/14907",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/10_MathewFarner.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "battingAverage": 0.29,
-        "onBasePercentage": 0.416,
-        "sluggingPercentage": 0.548,
-        "ops": 0.964,
-        "atBats": 155,
+        "gamesPlayed": 43,
+        "gamesStarted": 43,
+        "battingAverage": 0.289,
+        "onBasePercentage": 0.412,
+        "sluggingPercentage": 0.541,
+        "ops": 0.953,
+        "atBats": 159,
         "runs": 41,
-        "hits": 45,
+        "hits": 46,
         "doubles": 10,
         "triples": 0,
         "homeRuns": 10,
         "runsBattedIn": 31,
-        "totalBases": 85,
+        "totalBases": 86,
         "walks": 29,
         "hitByPitch": 5,
-        "strikeouts": 37,
+        "strikeouts": 38,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 15,
         "stolenBasesAttempts": 15,
-        "putouts": 43,
-        "assists": 88,
+        "putouts": 44,
+        "assists": 90,
         "errors": 8,
-        "plateAppearances": 205,
+        "plateAppearances": 209,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1338,51 +1338,51 @@
         "jersey": "10",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/mathew-farner/14907",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/10_MathewFarner.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "putouts": 43,
-        "assists": 88,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "putouts": 44,
+        "assists": 90,
         "errors": 8,
-        "fieldingPercentage": 0.942,
+        "fieldingPercentage": 0.944,
         "doublePlays": 16,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 139
+        "totalChances": 142
       },
       "evaluation": {
-        "score": 62,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 75.55555555555553,
-          "Power": 60.00000000000002,
-          "Contact": 43.749999999999986,
-          "Discipline": 64.86486486486486,
+          "On-base": 73.3333333333333,
+          "Power": 58.15789473684212,
+          "Contact": 43.124999999999986,
+          "Discipline": 62.573099415204666,
           "Speed": 50
         },
         "summary": "Mathew Farner profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .290",
-          "OBP .416",
-          "SLG .548"
+          "AVG .289",
+          "OBP .412",
+          "SLG .541"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".289"
           },
           {
             "label": "OBP",
-            "value": ".416"
+            "value": ".412"
           },
           {
             "label": "SLG",
-            "value": ".548"
+            "value": ".541"
           },
           {
             "label": "HR",
@@ -1590,20 +1590,20 @@
         "jersey": "13",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/gialdri-gomez/14904",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/2_GialdriGomez.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 33,
-        "battingAverage": 0.336,
-        "onBasePercentage": 0.449,
-        "sluggingPercentage": 0.522,
-        "ops": 0.971,
-        "atBats": 113,
-        "runs": 24,
-        "hits": 38,
+        "gamesPlayed": 37,
+        "gamesStarted": 34,
+        "battingAverage": 0.333,
+        "onBasePercentage": 0.444,
+        "sluggingPercentage": 0.538,
+        "ops": 0.982,
+        "atBats": 117,
+        "runs": 25,
+        "hits": 39,
         "doubles": 9,
         "triples": 0,
-        "homeRuns": 4,
-        "runsBattedIn": 22,
-        "totalBases": 59,
+        "homeRuns": 5,
+        "runsBattedIn": 23,
+        "totalBases": 63,
         "walks": 18,
         "hitByPitch": 6,
         "strikeouts": 22,
@@ -1613,10 +1613,10 @@
         "sacrificeHits": 0,
         "stolenBases": 5,
         "stolenBasesAttempts": 6,
-        "putouts": 45,
+        "putouts": 47,
         "assists": 3,
         "errors": 1,
-        "plateAppearances": 146,
+        "plateAppearances": 150,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1628,9 +1628,9 @@
         "jersey": "13",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/gialdri-gomez/14904",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/2_GialdriGomez.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 25,
-        "putouts": 45,
+        "gamesPlayed": 26,
+        "gamesStarted": 26,
+        "putouts": 47,
         "assists": 3,
         "errors": 1,
         "fieldingPercentage": 0.98,
@@ -1640,7 +1640,7 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 49
+        "totalChances": 51
       },
       "evaluation": {
         "score": 68,
@@ -1649,38 +1649,38 @@
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 93.88888888888889,
-          "Power": 53.15789473684212,
-          "Contact": 72.50000000000001,
+          "On-base": 91.1111111111111,
+          "Power": 57.36842105263159,
+          "Contact": 70.625,
           "Discipline": 68.68686868686868,
           "Speed": 16.666666666666664
         },
         "summary": "Gialdri Gomez profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .336",
-          "OBP .449",
-          "SLG .522"
+          "AVG .333",
+          "OBP .444",
+          "SLG .538"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".336"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".449"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": ".522"
+            "value": ".538"
           },
           {
             "label": "HR",
-            "value": "4"
+            "value": "5"
           },
           {
             "label": "RBI",
-            "value": "22"
+            "value": "23"
           },
           {
             "label": "SB",
@@ -1735,20 +1735,20 @@
         "jersey": "14",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/santiago-ordonez/14896",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/14_SantiagoOrdonez.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 31,
-        "battingAverage": 0.202,
-        "onBasePercentage": 0.379,
-        "sluggingPercentage": 0.277,
-        "ops": 0.656,
-        "atBats": 94,
+        "gamesPlayed": 34,
+        "gamesStarted": 32,
+        "battingAverage": 0.204,
+        "onBasePercentage": 0.375,
+        "sluggingPercentage": 0.276,
+        "ops": 0.651,
+        "atBats": 98,
         "runs": 14,
-        "hits": 19,
+        "hits": 20,
         "doubles": 7,
         "triples": 0,
         "homeRuns": 0,
-        "runsBattedIn": 10,
-        "totalBases": 26,
+        "runsBattedIn": 11,
+        "totalBases": 27,
         "walks": 24,
         "hitByPitch": 4,
         "strikeouts": 22,
@@ -1758,10 +1758,10 @@
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 227,
+        "putouts": 230,
         "assists": 18,
         "errors": 2,
-        "plateAppearances": 124,
+        "plateAppearances": 128,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -1773,19 +1773,19 @@
         "jersey": "14",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/santiago-ordonez/14896",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/14_SantiagoOrdonez.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 25,
-        "putouts": 227,
+        "gamesPlayed": 27,
+        "gamesStarted": 26,
+        "putouts": 230,
         "assists": 18,
         "errors": 2,
         "fieldingPercentage": 0.992,
         "doublePlays": 2,
-        "stolenBasesAgainst": 27,
+        "stolenBasesAgainst": 28,
         "caughtStealingBy": 6,
-        "stolenBasesPercentage": 0.818,
+        "stolenBasesPercentage": 0.824,
         "passedBalls": 4,
         "catchersInterference": 1,
-        "totalChances": 247
+        "totalChances": 250
       },
       "evaluation": {
         "score": 31,
@@ -1794,7 +1794,7 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 54.99999999999999,
+          "On-base": 52.77777777777777,
           "Power": 0,
           "Contact": 0,
           "Discipline": 98.98989898989898,
@@ -1802,22 +1802,22 @@
         },
         "summary": "Santiago Ordonez profiles as a C piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .202",
-          "OBP .379",
-          "SLG .277"
+          "AVG .204",
+          "OBP .375",
+          "SLG .276"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".202"
+            "value": ".204"
           },
           {
             "label": "OBP",
-            "value": ".379"
+            "value": ".375"
           },
           {
             "label": "SLG",
-            "value": ".277"
+            "value": ".276"
           },
           {
             "label": "HR",
@@ -1825,7 +1825,7 @@
           },
           {
             "label": "RBI",
-            "value": "10"
+            "value": "11"
           },
           {
             "label": "SB",
@@ -2025,20 +2025,20 @@
         "jersey": "16",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/jackson-toberman/14917",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/16_JacksonToberman.jpg",
-        "gamesPlayed": 40,
+        "gamesPlayed": 41,
         "gamesStarted": 40,
-        "battingAverage": 0.216,
-        "onBasePercentage": 0.3,
-        "sluggingPercentage": 0.365,
-        "ops": 0.665,
-        "atBats": 148,
+        "battingAverage": 0.221,
+        "onBasePercentage": 0.304,
+        "sluggingPercentage": 0.369,
+        "ops": 0.673,
+        "atBats": 149,
         "runs": 22,
-        "hits": 32,
+        "hits": 33,
         "doubles": 7,
         "triples": 0,
         "homeRuns": 5,
         "runsBattedIn": 28,
-        "totalBases": 54,
+        "totalBases": 55,
         "walks": 14,
         "hitByPitch": 5,
         "strikeouts": 46,
@@ -2048,10 +2048,10 @@
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 293,
+        "putouts": 294,
         "assists": 19,
         "errors": 2,
-        "plateAppearances": 171,
+        "plateAppearances": 172,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2063,9 +2063,9 @@
         "jersey": "16",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/jackson-toberman/14917",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/16_JacksonToberman.jpg",
-        "gamesPlayed": 39,
+        "gamesPlayed": 40,
         "gamesStarted": 39,
-        "putouts": 293,
+        "putouts": 294,
         "assists": 19,
         "errors": 2,
         "fieldingPercentage": 0.994,
@@ -2075,39 +2075,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 314
+        "totalChances": 315
       },
       "evaluation": {
-        "score": 9,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 11.111111111111091,
-          "Power": 11.842105263157892,
-          "Contact": 0,
+          "On-base": 13.333333333333314,
+          "Power": 12.894736842105262,
+          "Contact": 0.6250000000000006,
           "Discipline": 11.594202898550723,
           "Speed": 3.3333333333333335
         },
         "summary": "Jackson Toberman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .216",
-          "OBP .300",
-          "SLG .365"
+          "AVG .221",
+          "OBP .304",
+          "SLG .369"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".216"
+            "value": ".221"
           },
           {
             "label": "OBP",
-            "value": ".300"
+            "value": ".304"
           },
           {
             "label": "SLG",
-            "value": ".365"
+            "value": ".369"
           },
           {
             "label": "HR",
@@ -2170,33 +2170,33 @@
         "jersey": "17",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/drew-buchanan/14908",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/17_DrewBuchanan.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 26,
-        "battingAverage": 0.182,
-        "onBasePercentage": 0.291,
-        "sluggingPercentage": 0.273,
-        "ops": 0.564,
-        "atBats": 88,
+        "gamesPlayed": 35,
+        "gamesStarted": 27,
+        "battingAverage": 0.189,
+        "onBasePercentage": 0.302,
+        "sluggingPercentage": 0.278,
+        "ops": 0.58,
+        "atBats": 90,
         "runs": 10,
-        "hits": 16,
+        "hits": 17,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 16,
-        "totalBases": 24,
+        "totalBases": 25,
         "walks": 8,
-        "hitByPitch": 6,
-        "strikeouts": 32,
+        "hitByPitch": 7,
+        "strikeouts": 33,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 4,
-        "putouts": 25,
-        "assists": 52,
+        "stolenBases": 4,
+        "stolenBasesAttempts": 5,
+        "putouts": 27,
+        "assists": 53,
         "errors": 5,
-        "plateAppearances": 108,
+        "plateAppearances": 112,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -2208,51 +2208,51 @@
         "jersey": "17",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/drew-buchanan/14908",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/17_DrewBuchanan.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 25,
-        "putouts": 25,
-        "assists": 52,
+        "gamesPlayed": 28,
+        "gamesStarted": 26,
+        "putouts": 27,
+        "assists": 53,
         "errors": 5,
-        "fieldingPercentage": 0.939,
-        "doublePlays": 7,
+        "fieldingPercentage": 0.941,
+        "doublePlays": 8,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 82
+        "totalChances": 85
       },
       "evaluation": {
-        "score": 4,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 6.111111111111086,
+          "On-base": 12.222222222222202,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 5.555555555555554,
-          "Speed": 10
+          "Discipline": 4.713804713804713,
+          "Speed": 13.333333333333334
         },
         "summary": "Drew Buchanan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .182",
-          "OBP .291",
-          "SLG .273"
+          "AVG .189",
+          "OBP .302",
+          "SLG .278"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".182"
+            "value": ".189"
           },
           {
             "label": "OBP",
-            "value": ".291"
+            "value": ".302"
           },
           {
             "label": "SLG",
-            "value": ".273"
+            "value": ".278"
           },
           {
             "label": "HR",
@@ -2264,7 +2264,7 @@
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "4"
           }
         ],
         "metaLine": "FR / R/R",
@@ -2603,32 +2603,32 @@
         "jersey": "20",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/trevor-nikolis/14895",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/20_TrevorNikolis.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 7,
-        "appearances": 11,
+        "gamesPlayed": 12,
+        "gamesStarted": 8,
+        "appearances": 12,
         "gamesCompleted": 1,
-        "earnedRunAverage": 4.93,
-        "whip": 1.36,
+        "earnedRunAverage": 4.54,
+        "whip": 1.29,
         "wins": 2,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 34.666666666666664,
-        "inningsPitchedDisplay": "34.2",
-        "hitsAllowed": 27,
-        "runsAllowed": 21,
-        "earnedRunsAllowed": 19,
+        "inningsPitched": 39.666666666666664,
+        "inningsPitchedDisplay": "39.2",
+        "hitsAllowed": 31,
+        "runsAllowed": 22,
+        "earnedRunsAllowed": 20,
         "walksAllowed": 20,
-        "strikeouts": 27,
+        "strikeouts": 30,
         "doublesAllowed": 3,
-        "triplesAllowed": 2,
+        "triplesAllowed": 3,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 119,
+        "opponentsAtBats": 138,
         "wildPitches": 2,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.227,
-        "walksHits": 47
+        "opponentsBattingAverage": 0.225,
+        "walksHits": 51
       },
       "fieldingStats": {
         "rosterBioId": "14895",
@@ -2637,10 +2637,10 @@
         "jersey": "20",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/trevor-nikolis/14895",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/20_TrevorNikolis.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 3,
+        "gamesPlayed": 7,
+        "gamesStarted": 4,
         "putouts": 4,
-        "assists": 5,
+        "assists": 6,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -2649,7 +2649,7 @@
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 9
+        "totalChances": 10
       },
       "evaluation": {
         "score": 7,
@@ -2660,40 +2660,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 27.360139860139864,
-          "Command": 7.000000000000002,
+          "Miss bats": 25.515660809778463,
+          "Command": 10.000000000000005,
           "Damage suppression": 0
         },
         "summary": "Trevor Nikolis gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.93",
-          "WHIP 1.36",
-          "K/9 7.0"
+          "ERA 4.54",
+          "WHIP 1.29",
+          "K/9 6.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.93"
+            "value": "4.54"
           },
           {
             "label": "WHIP",
-            "value": "1.36"
+            "value": "1.29"
           },
           {
             "label": "K/9",
-            "value": "7.0"
+            "value": "6.8"
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "4.5"
           },
           {
             "label": "HR/9",
-            "value": "1.30"
+            "value": "1.13"
           },
           {
             "label": "IP",
-            "value": "34.7"
+            "value": "39.7"
           }
         ],
         "metaLine": "SO / R/R",
@@ -2886,33 +2886,33 @@
         "jersey": "22",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/jackson-schrafft/14911",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/22_JacksonSchrafft.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 13,
-        "battingAverage": 0.167,
-        "onBasePercentage": 0.294,
-        "sluggingPercentage": 0.357,
-        "ops": 0.651,
-        "atBats": 42,
+        "gamesPlayed": 26,
+        "gamesStarted": 14,
+        "battingAverage": 0.2,
+        "onBasePercentage": 0.315,
+        "sluggingPercentage": 0.378,
+        "ops": 0.693,
+        "atBats": 45,
         "runs": 8,
-        "hits": 7,
+        "hits": 9,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 12,
-        "totalBases": 15,
+        "totalBases": 17,
         "walks": 6,
         "hitByPitch": 2,
-        "strikeouts": 21,
+        "strikeouts": 22,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 50,
+        "putouts": 56,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 52,
+        "plateAppearances": 55,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2924,51 +2924,51 @@
         "jersey": "22",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/jackson-schrafft/14911",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/22_JacksonSchrafft.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 12,
-        "putouts": 50,
+        "gamesPlayed": 16,
+        "gamesStarted": 13,
+        "putouts": 56,
         "assists": 0,
         "errors": 2,
-        "fieldingPercentage": 0.962,
-        "doublePlays": 5,
+        "fieldingPercentage": 0.966,
+        "doublePlays": 6,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 52
+        "totalChances": 58
       },
       "evaluation": {
-        "score": 7,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 7.777777777777755,
-          "Power": 9.736842105263154,
+          "On-base": 19.444444444444432,
+          "Power": 15.263157894736842,
           "Contact": 0,
-          "Discipline": 9.523809523809518,
+          "Discipline": 8.080808080808076,
           "Speed": 3.3333333333333335
         },
         "summary": "Jackson Schrafft gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .167",
-          "OBP .294",
-          "SLG .357"
+          "AVG .200",
+          "OBP .315",
+          "SLG .378"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".167"
+            "value": ".200"
           },
           {
             "label": "OBP",
-            "value": ".294"
+            "value": ".315"
           },
           {
             "label": "SLG",
-            "value": ".357"
+            "value": ".378"
           },
           {
             "label": "HR",
@@ -3316,19 +3316,19 @@
         "jersey": "26",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/clay-hendry/14891",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/26_ClayHendry.jpg",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 5,
-        "appearances": 14,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 8.65,
+        "earnedRunAverage": 8.44,
         "whip": 1.65,
         "wins": 1,
         "losses": 4,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 26,
-        "inningsPitchedDisplay": "26.0",
-        "hitsAllowed": 32,
+        "inningsPitched": 26.666666666666668,
+        "inningsPitchedDisplay": "26.2",
+        "hitsAllowed": 33,
         "runsAllowed": 26,
         "earnedRunsAllowed": 25,
         "walksAllowed": 11,
@@ -3336,12 +3336,12 @@
         "doublesAllowed": 15,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 106,
+        "opponentsAtBats": 108,
         "wildPitches": 1,
-        "hitBatters": 8,
+        "hitBatters": 9,
         "balks": 1,
-        "opponentsBattingAverage": 0.302,
-        "walksHits": 43
+        "opponentsBattingAverage": 0.306,
+        "walksHits": 44
       },
       "fieldingStats": {
         "rosterBioId": "14891",
@@ -3373,20 +3373,20 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 48.60139860139861,
-          "Command": 29.0909090909091,
+          "Miss bats": 46.47727272727272,
+          "Command": 29.090909090909083,
           "Damage suppression": 0
         },
         "summary": "Clay Hendry looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 8.65",
+          "ERA 8.44",
           "WHIP 1.65",
-          "K/9 9.3"
+          "K/9 9.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.65"
+            "value": "8.44"
           },
           {
             "label": "WHIP",
@@ -3394,19 +3394,19 @@
           },
           {
             "label": "K/9",
-            "value": "9.3"
+            "value": "9.1"
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "3.7"
           },
           {
             "label": "HR/9",
-            "value": "0.35"
+            "value": "0.34"
           },
           {
             "label": "IP",
-            "value": "26.0"
+            "value": "26.7"
           }
         ],
         "metaLine": "SR / R/R",
@@ -3955,11 +3955,11 @@
         "jersey": "32",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/joseph-dimino/14885",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/32_JosephDimino.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 4,
-        "appearances": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.68,
+        "earnedRunAverage": 6.39,
         "whip": 1.58,
         "wins": 2,
         "losses": 1,
@@ -3968,8 +3968,8 @@
         "inningsPitched": 12.666666666666666,
         "inningsPitchedDisplay": "12.2",
         "hitsAllowed": 8,
-        "runsAllowed": 10,
-        "earnedRunsAllowed": 8,
+        "runsAllowed": 11,
+        "earnedRunsAllowed": 9,
         "walksAllowed": 12,
         "strikeouts": 15,
         "doublesAllowed": 2,
@@ -3977,7 +3977,7 @@
         "homeRunsAllowed": 0,
         "opponentsAtBats": 45,
         "wildPitches": 1,
-        "hitBatters": 4,
+        "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.178,
         "walksHits": 20
@@ -4018,14 +4018,14 @@
         },
         "summary": "Joseph Dimino looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.68",
+          "ERA 6.39",
           "WHIP 1.58",
           "K/9 10.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.68"
+            "value": "6.39"
           },
           {
             "label": "WHIP",
@@ -4239,32 +4239,32 @@
         "jersey": "34",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/brandon-adams/14878",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/34_BrandonAdams.jpg",
-        "gamesPlayed": 16,
+        "gamesPlayed": 17,
         "gamesStarted": 0,
-        "appearances": 16,
+        "appearances": 17,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.64,
-        "whip": 1.01,
+        "earnedRunAverage": 2.93,
+        "whip": 1.08,
         "wins": 4,
         "losses": 1,
         "saves": 2,
         "shutouts": 0,
         "inningsPitched": 30.666666666666668,
         "inningsPitchedDisplay": "30.2",
-        "hitsAllowed": 19,
-        "runsAllowed": 10,
-        "earnedRunsAllowed": 9,
-        "walksAllowed": 12,
+        "hitsAllowed": 20,
+        "runsAllowed": 11,
+        "earnedRunsAllowed": 10,
+        "walksAllowed": 13,
         "strikeouts": 46,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 106,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 107,
         "wildPitches": 4,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.179,
-        "walksHits": 31
+        "opponentsBattingAverage": 0.187,
+        "walksHits": 33
       },
       "fieldingStats": {
         "rosterBioId": "14878",
@@ -4288,7 +4288,7 @@
         "totalChances": 6
       },
       "evaluation": {
-        "score": 26,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4297,23 +4297,23 @@
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 86.36363636363636,
-          "Command": 56.66666666666668,
+          "Command": 50.76923076923078,
           "Damage suppression": 0
         },
         "summary": "Brandon Adams looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.64",
-          "WHIP 1.01",
+          "ERA 2.93",
+          "WHIP 1.08",
           "K/9 13.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.64"
+            "value": "2.93"
           },
           {
             "label": "WHIP",
-            "value": "1.01"
+            "value": "1.08"
           },
           {
             "label": "K/9",
@@ -4321,11 +4321,11 @@
           },
           {
             "label": "BB/9",
-            "value": "3.5"
+            "value": "3.8"
           },
           {
             "label": "HR/9",
-            "value": "0.59"
+            "value": "0.88"
           },
           {
             "label": "IP",
@@ -4468,13 +4468,13 @@
         "jersey": "36",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/ty-velardo/14900",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/36_TyVelardo.jpg",
-        "gamesPlayed": 6,
+        "gamesPlayed": 7,
         "gamesStarted": 0,
         "battingAverage": 0,
-        "onBasePercentage": 0.143,
+        "onBasePercentage": 0.125,
         "sluggingPercentage": 0,
-        "ops": 0.143,
-        "atBats": 6,
+        "ops": 0.125,
+        "atBats": 7,
         "runs": 2,
         "hits": 0,
         "doubles": 0,
@@ -4494,7 +4494,7 @@
         "putouts": 2,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 7,
+        "plateAppearances": 8,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4536,7 +4536,7 @@
         "summary": "Ty Velardo profiles as a UTL piece who controls at-bats.",
         "summaryMetrics": [
           "AVG .000",
-          "OBP .143",
+          "OBP .125",
           "SLG .000"
         ],
         "statCards": [
@@ -4546,7 +4546,7 @@
           },
           {
             "label": "OBP",
-            "value": ".143"
+            "value": ".125"
           },
           {
             "label": "SLG",
@@ -4614,32 +4614,32 @@
         "jersey": "37",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/tyler-kozera/14916",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/37_TylerKozero_2.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 6,
-        "appearances": 10,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.74,
-        "whip": 1.57,
+        "earnedRunAverage": 4.57,
+        "whip": 1.66,
         "wins": 0,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
         "inningsPitched": 21.666666666666668,
         "inningsPitchedDisplay": "21.2",
-        "hitsAllowed": 26,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 9,
-        "walksAllowed": 8,
+        "hitsAllowed": 27,
+        "runsAllowed": 15,
+        "earnedRunsAllowed": 11,
+        "walksAllowed": 9,
         "strikeouts": 21,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 86,
+        "opponentsAtBats": 87,
         "wildPitches": 1,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.302,
-        "walksHits": 34
+        "opponentsBattingAverage": 0.31,
+        "walksHits": 36
       },
       "fieldingStats": {
         "rosterBioId": "14916",
@@ -4663,7 +4663,7 @@
         "totalChances": 2
       },
       "evaluation": {
-        "score": 14,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4672,23 +4672,23 @@
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 42.93706293706293,
-          "Command": 32.5,
+          "Command": 26.66666666666667,
           "Damage suppression": 0
         },
-        "summary": "Tyler Kozera looks like a RHP option who limits runs.",
+        "summary": "Tyler Kozera gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 3.74",
-          "WHIP 1.57",
+          "ERA 4.57",
+          "WHIP 1.66",
           "K/9 8.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.74"
+            "value": "4.57"
           },
           {
             "label": "WHIP",
-            "value": "1.57"
+            "value": "1.66"
           },
           {
             "label": "K/9",
@@ -4696,7 +4696,7 @@
           },
           {
             "label": "BB/9",
-            "value": "3.3"
+            "value": "3.7"
           },
           {
             "label": "HR/9",
@@ -4756,32 +4756,32 @@
         "jersey": "40",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/tommy-groom/14890",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/40_TommyGroom.jpg",
-        "gamesPlayed": 3,
+        "gamesPlayed": 4,
         "gamesStarted": 3,
-        "appearances": 3,
+        "appearances": 4,
         "gamesCompleted": 0,
-        "earnedRunAverage": 23.14,
-        "whip": 5.14,
+        "earnedRunAverage": 20.25,
+        "whip": 4.88,
         "wins": 0,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 2.3333333333333335,
-        "inningsPitchedDisplay": "2.1",
+        "inningsPitched": 2.6666666666666665,
+        "inningsPitchedDisplay": "2.2",
         "hitsAllowed": 4,
         "runsAllowed": 6,
         "earnedRunsAllowed": 6,
-        "walksAllowed": 8,
+        "walksAllowed": 9,
         "strikeouts": 0,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 10,
-        "wildPitches": 1,
+        "opponentsAtBats": 11,
+        "wildPitches": 2,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.4,
-        "walksHits": 12
+        "opponentsBattingAverage": 0.364,
+        "walksHits": 13
       },
       "fieldingStats": {
         "rosterBioId": "14890",
@@ -4819,18 +4819,18 @@
         },
         "summary": "Tommy Groom gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 23.14",
-          "WHIP 5.14",
+          "ERA 20.25",
+          "WHIP 4.88",
           "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "23.14"
+            "value": "20.25"
           },
           {
             "label": "WHIP",
-            "value": "5.14"
+            "value": "4.88"
           },
           {
             "label": "K/9",
@@ -4838,7 +4838,7 @@
           },
           {
             "label": "BB/9",
-            "value": "30.9"
+            "value": "30.4"
           },
           {
             "label": "HR/9",
@@ -4846,7 +4846,7 @@
           },
           {
             "label": "IP",
-            "value": "2.3"
+            "value": "2.7"
           }
         ],
         "metaLine": "GR / R/R",
@@ -4898,32 +4898,32 @@
         "jersey": "41",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/jeremiah-stewart/14918",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/41_JeremiahStewart.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 0,
-        "appearances": 12,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.12,
-        "whip": 1.5,
+        "earnedRunAverage": 6.52,
+        "whip": 1.6,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
         "inningsPitched": 19.333333333333332,
         "inningsPitchedDisplay": "19.1",
-        "hitsAllowed": 21,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 11,
-        "walksAllowed": 8,
+        "hitsAllowed": 22,
+        "runsAllowed": 16,
+        "earnedRunsAllowed": 14,
+        "walksAllowed": 9,
         "strikeouts": 18,
         "doublesAllowed": 4,
         "triplesAllowed": 1,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 75,
+        "opponentsAtBats": 76,
         "wildPitches": 0,
-        "hitBatters": 7,
+        "hitBatters": 8,
         "balks": 0,
-        "opponentsBattingAverage": 0.28,
-        "walksHits": 29
+        "opponentsBattingAverage": 0.289,
+        "walksHits": 31
       },
       "fieldingStats": {
         "rosterBioId": "14918",
@@ -4947,7 +4947,7 @@
         "totalChances": 4
       },
       "evaluation": {
-        "score": 12,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4956,23 +4956,23 @@
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 39.811912225705335,
-          "Command": 25,
+          "Command": 20,
           "Damage suppression": 0
         },
         "summary": "Jeremiah Stewart gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.12",
-          "WHIP 1.50",
+          "ERA 6.52",
+          "WHIP 1.60",
           "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.12"
+            "value": "6.52"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.60"
           },
           {
             "label": "K/9",
@@ -4980,7 +4980,7 @@
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "4.2"
           },
           {
             "label": "HR/9",
@@ -5185,32 +5185,32 @@
         "jersey": "43",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/john-costa/14884",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/43_JohnCosta.jpg",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 0,
-        "appearances": 19,
+        "appearances": 20,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.6,
-        "whip": 1.23,
+        "earnedRunAverage": 4.31,
+        "whip": 1.24,
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 30,
-        "inningsPitchedDisplay": "30.0",
-        "hitsAllowed": 26,
-        "runsAllowed": 12,
-        "earnedRunsAllowed": 12,
+        "inningsPitched": 31.333333333333332,
+        "inningsPitchedDisplay": "31.1",
+        "hitsAllowed": 28,
+        "runsAllowed": 15,
+        "earnedRunsAllowed": 15,
         "walksAllowed": 11,
         "strikeouts": 27,
         "doublesAllowed": 5,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 107,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 113,
         "wildPitches": 3,
-        "hitBatters": 1,
+        "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.243,
-        "walksHits": 37
+        "opponentsBattingAverage": 0.248,
+        "walksHits": 39
       },
       "fieldingStats": {
         "rosterBioId": "14884",
@@ -5234,7 +5234,7 @@
         "totalChances": 10
       },
       "evaluation": {
-        "score": 12,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5242,40 +5242,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 37.272727272727266,
+          "Miss bats": 34.13926499032882,
           "Command": 29.09090909090909,
           "Damage suppression": 0
         },
-        "summary": "John Costa looks like a RHP option who limits runs and keeps traffic under control.",
+        "summary": "John Costa looks like a RHP option who keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.60",
-          "WHIP 1.23",
-          "K/9 8.1"
+          "ERA 4.31",
+          "WHIP 1.24",
+          "K/9 7.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.60"
+            "value": "4.31"
           },
           {
             "label": "WHIP",
-            "value": "1.23"
+            "value": "1.24"
           },
           {
             "label": "K/9",
-            "value": "8.1"
+            "value": "7.8"
           },
           {
             "label": "BB/9",
-            "value": "3.3"
+            "value": "3.2"
           },
           {
             "label": "HR/9",
-            "value": "0.60"
+            "value": "0.86"
           },
           {
             "label": "IP",
-            "value": "30.0"
+            "value": "31.3"
           }
         ],
         "metaLine": "R-SR / R/R",
@@ -5415,32 +5415,32 @@
         "jersey": "46",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/jackson-bellhorn/14880",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/46_JacksonBellhorn.jpg",
-        "gamesPlayed": 3,
+        "gamesPlayed": 4,
         "gamesStarted": 0,
-        "appearances": 3,
+        "appearances": 4,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.75,
-        "whip": 3,
+        "earnedRunAverage": 11.25,
+        "whip": 3.75,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
         "inningsPitched": 4,
         "inningsPitchedDisplay": "4.0",
-        "hitsAllowed": 5,
-        "runsAllowed": 7,
-        "earnedRunsAllowed": 3,
+        "hitsAllowed": 8,
+        "runsAllowed": 9,
+        "earnedRunsAllowed": 5,
         "walksAllowed": 7,
         "strikeouts": 2,
-        "doublesAllowed": 1,
+        "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 17,
+        "opponentsAtBats": 20,
         "wildPitches": 1,
         "hitBatters": 0,
         "balks": 0,
-        "opponentsBattingAverage": 0.294,
-        "walksHits": 12
+        "opponentsBattingAverage": 0.4,
+        "walksHits": 15
       },
       "fieldingStats": {
         "rosterBioId": "14880",
@@ -5478,18 +5478,18 @@
         },
         "summary": "Jackson Bellhorn gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 3.00",
+          "ERA 11.25",
+          "WHIP 3.75",
           "K/9 4.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "11.25"
           },
           {
             "label": "WHIP",
-            "value": "3.00"
+            "value": "3.75"
           },
           {
             "label": "K/9",
@@ -5612,14 +5612,14 @@
         },
         "summary": "Mitchell Collins profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .308",
+          "AVG .307",
           "OBP .391",
-          "SLG .383"
+          "SLG .380"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".308"
+            "value": ".307"
           },
           {
             "label": "OBP",
@@ -5627,7 +5627,7 @@
           },
           {
             "label": "SLG",
-            "value": ".383"
+            "value": ".380"
           },
           {
             "label": "HR",
@@ -5644,9 +5644,9 @@
         ],
         "components": {
           "On-base": 61.66666666666666,
-          "Power": 16.578947368421055,
-          "Contact": 54.99999999999999,
-          "Discipline": 72.2222222222222,
+          "Power": 15.789473684210527,
+          "Contact": 54.37499999999999,
+          "Discipline": 73.01587301587298,
           "Speed": 33.33333333333333
         },
         "metaLine": "JR / L/R",
@@ -5674,29 +5674,29 @@
         "position": "OF",
         "classYear": "R-SO",
         "handedness": "L/R",
-        "score": 51,
+        "score": 50,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Carter White profiles as a OF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .288",
-          "OBP .377",
-          "SLG .606"
+          "AVG .287",
+          "OBP .373",
+          "SLG .596"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".288"
+            "value": ".287"
           },
           {
             "label": "OBP",
-            "value": ".377"
+            "value": ".373"
           },
           {
             "label": "SLG",
-            "value": ".606"
+            "value": ".596"
           },
           {
             "label": "HR",
@@ -5712,9 +5712,9 @@
           }
         ],
         "components": {
-          "On-base": 53.88888888888887,
-          "Power": 75.26315789473685,
-          "Contact": 42.499999999999986,
+          "On-base": 51.66666666666665,
+          "Power": 72.63157894736842,
+          "Contact": 41.874999999999986,
           "Discipline": 38.09523809523808,
           "Speed": 13.333333333333334
         },
@@ -5812,29 +5812,29 @@
         "position": "OF",
         "classYear": "R-FR",
         "handedness": "R/R",
-        "score": 47,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Sean Benjamin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Sean Benjamin profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .315",
-          "OBP .399",
-          "SLG .402"
+          "AVG .321",
+          "OBP .401",
+          "SLG .412"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".315"
+            "value": ".321"
           },
           {
             "label": "OBP",
-            "value": ".399"
+            "value": ".401"
           },
           {
             "label": "SLG",
-            "value": ".402"
+            "value": ".412"
           },
           {
             "label": "HR",
@@ -5842,7 +5842,7 @@
           },
           {
             "label": "RBI",
-            "value": "15"
+            "value": "16"
           },
           {
             "label": "SB",
@@ -5850,9 +5850,9 @@
           }
         ],
         "components": {
-          "On-base": 66.11111111111111,
-          "Power": 21.578947368421062,
-          "Contact": 59.375,
+          "On-base": 67.22222222222223,
+          "Power": 24.21052631578947,
+          "Contact": 63.125,
           "Discipline": 58.02469135802467,
           "Speed": 10
         },
@@ -5950,29 +5950,29 @@
         "position": "UTL",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 67,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Boone Hosey profiles as a UTL piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .336",
-          "OBP .487",
-          "SLG .496"
+          "AVG .328",
+          "OBP .481",
+          "SLG .484"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".336"
+            "value": ".328"
           },
           {
             "label": "OBP",
-            "value": ".487"
+            "value": ".481"
           },
           {
             "label": "SLG",
-            "value": ".496"
+            "value": ".484"
           },
           {
             "label": "HR",
@@ -5989,9 +5989,9 @@
         ],
         "components": {
           "On-base": 100,
-          "Power": 46.31578947368421,
-          "Contact": 72.50000000000001,
-          "Discipline": 59.25925925925923,
+          "Power": 43.15789473684211,
+          "Contact": 67.5,
+          "Discipline": 59.903381642512066,
           "Speed": 13.333333333333334
         },
         "metaLine": "R-JR / R/R",
@@ -6088,29 +6088,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 62,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Mathew Farner profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .290",
-          "OBP .416",
-          "SLG .548"
+          "AVG .289",
+          "OBP .412",
+          "SLG .541"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".289"
           },
           {
             "label": "OBP",
-            "value": ".416"
+            "value": ".412"
           },
           {
             "label": "SLG",
-            "value": ".548"
+            "value": ".541"
           },
           {
             "label": "HR",
@@ -6126,10 +6126,10 @@
           }
         ],
         "components": {
-          "On-base": 75.55555555555553,
-          "Power": 60.00000000000002,
-          "Contact": 43.749999999999986,
-          "Discipline": 64.86486486486486,
+          "On-base": 73.3333333333333,
+          "Power": 58.15789473684212,
+          "Contact": 43.124999999999986,
+          "Discipline": 62.573099415204666,
           "Speed": 50
         },
         "metaLine": "JR / R/R",
@@ -6233,30 +6233,30 @@
         },
         "summary": "Gialdri Gomez profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .336",
-          "OBP .449",
-          "SLG .522"
+          "AVG .333",
+          "OBP .444",
+          "SLG .538"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".336"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".449"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": ".522"
+            "value": ".538"
           },
           {
             "label": "HR",
-            "value": "4"
+            "value": "5"
           },
           {
             "label": "RBI",
-            "value": "22"
+            "value": "23"
           },
           {
             "label": "SB",
@@ -6264,9 +6264,9 @@
           }
         ],
         "components": {
-          "On-base": 93.88888888888889,
-          "Power": 53.15789473684212,
-          "Contact": 72.50000000000001,
+          "On-base": 91.1111111111111,
+          "Power": 57.36842105263159,
+          "Contact": 70.625,
           "Discipline": 68.68686868686868,
           "Speed": 16.666666666666664
         },
@@ -6302,22 +6302,22 @@
         },
         "summary": "Santiago Ordonez profiles as a C piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .202",
-          "OBP .379",
-          "SLG .277"
+          "AVG .204",
+          "OBP .375",
+          "SLG .276"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".202"
+            "value": ".204"
           },
           {
             "label": "OBP",
-            "value": ".379"
+            "value": ".375"
           },
           {
             "label": "SLG",
-            "value": ".277"
+            "value": ".276"
           },
           {
             "label": "HR",
@@ -6325,7 +6325,7 @@
           },
           {
             "label": "RBI",
-            "value": "10"
+            "value": "11"
           },
           {
             "label": "SB",
@@ -6333,7 +6333,7 @@
           }
         ],
         "components": {
-          "On-base": 54.99999999999999,
+          "On-base": 52.77777777777777,
           "Power": 0,
           "Contact": 0,
           "Discipline": 98.98989898989898,
@@ -6433,29 +6433,29 @@
         "position": "UTL",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 9,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jackson Toberman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .216",
-          "OBP .300",
-          "SLG .365"
+          "AVG .221",
+          "OBP .304",
+          "SLG .369"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".216"
+            "value": ".221"
           },
           {
             "label": "OBP",
-            "value": ".300"
+            "value": ".304"
           },
           {
             "label": "SLG",
-            "value": ".365"
+            "value": ".369"
           },
           {
             "label": "HR",
@@ -6471,9 +6471,9 @@
           }
         ],
         "components": {
-          "On-base": 11.111111111111091,
-          "Power": 11.842105263157892,
-          "Contact": 0,
+          "On-base": 13.333333333333314,
+          "Power": 12.894736842105262,
+          "Contact": 0.6250000000000006,
           "Discipline": 11.594202898550723,
           "Speed": 3.3333333333333335
         },
@@ -6502,29 +6502,29 @@
         "position": "INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 4,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Drew Buchanan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .182",
-          "OBP .291",
-          "SLG .273"
+          "AVG .189",
+          "OBP .302",
+          "SLG .278"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".182"
+            "value": ".189"
           },
           {
             "label": "OBP",
-            "value": ".291"
+            "value": ".302"
           },
           {
             "label": "SLG",
-            "value": ".273"
+            "value": ".278"
           },
           {
             "label": "HR",
@@ -6536,15 +6536,15 @@
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "4"
           }
         ],
         "components": {
-          "On-base": 6.111111111111086,
+          "On-base": 12.222222222222202,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 5.555555555555554,
-          "Speed": 10
+          "Discipline": 4.713804713804713,
+          "Speed": 13.333333333333334
         },
         "metaLine": "FR / R/R",
         "detailBadges": [
@@ -6716,41 +6716,41 @@
         },
         "summary": "Trevor Nikolis gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.93",
-          "WHIP 1.36",
-          "K/9 7.0"
+          "ERA 4.54",
+          "WHIP 1.29",
+          "K/9 6.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.93"
+            "value": "4.54"
           },
           {
             "label": "WHIP",
-            "value": "1.36"
+            "value": "1.29"
           },
           {
             "label": "K/9",
-            "value": "7.0"
+            "value": "6.8"
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "4.5"
           },
           {
             "label": "HR/9",
-            "value": "1.30"
+            "value": "1.13"
           },
           {
             "label": "IP",
-            "value": "34.7"
+            "value": "39.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 27.360139860139864,
-          "Command": 7.000000000000002,
+          "Miss bats": 25.515660809778463,
+          "Command": 10.000000000000005,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -6847,29 +6847,29 @@
         "position": "UTL",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 7,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jackson Schrafft gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .167",
-          "OBP .294",
-          "SLG .357"
+          "AVG .200",
+          "OBP .315",
+          "SLG .378"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".167"
+            "value": ".200"
           },
           {
             "label": "OBP",
-            "value": ".294"
+            "value": ".315"
           },
           {
             "label": "SLG",
-            "value": ".357"
+            "value": ".378"
           },
           {
             "label": "HR",
@@ -6885,10 +6885,10 @@
           }
         ],
         "components": {
-          "On-base": 7.777777777777755,
-          "Power": 9.736842105263154,
+          "On-base": 19.444444444444432,
+          "Power": 15.263157894736842,
           "Contact": 0,
-          "Discipline": 9.523809523809518,
+          "Discipline": 8.080808080808076,
           "Speed": 3.3333333333333335
         },
         "metaLine": "R-JR / R/R",
@@ -7061,14 +7061,14 @@
         },
         "summary": "Clay Hendry looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 8.65",
+          "ERA 8.44",
           "WHIP 1.65",
-          "K/9 9.3"
+          "K/9 9.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.65"
+            "value": "8.44"
           },
           {
             "label": "WHIP",
@@ -7076,26 +7076,26 @@
           },
           {
             "label": "K/9",
-            "value": "9.3"
+            "value": "9.1"
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "3.7"
           },
           {
             "label": "HR/9",
-            "value": "0.35"
+            "value": "0.34"
           },
           {
             "label": "IP",
-            "value": "26.0"
+            "value": "26.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 48.60139860139861,
-          "Command": 29.0909090909091,
+          "Miss bats": 46.47727272727272,
+          "Command": 29.090909090909083,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -7405,14 +7405,14 @@
         },
         "summary": "Joseph Dimino looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.68",
+          "ERA 6.39",
           "WHIP 1.58",
           "K/9 10.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.68"
+            "value": "6.39"
           },
           {
             "label": "WHIP",
@@ -7536,25 +7536,25 @@
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 26,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brandon Adams looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.64",
-          "WHIP 1.01",
+          "ERA 2.93",
+          "WHIP 1.08",
           "K/9 13.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.64"
+            "value": "2.93"
           },
           {
             "label": "WHIP",
-            "value": "1.01"
+            "value": "1.08"
           },
           {
             "label": "K/9",
@@ -7562,11 +7562,11 @@
           },
           {
             "label": "BB/9",
-            "value": "3.5"
+            "value": "3.8"
           },
           {
             "label": "HR/9",
-            "value": "0.59"
+            "value": "0.88"
           },
           {
             "label": "IP",
@@ -7577,7 +7577,7 @@
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 86.36363636363636,
-          "Command": 56.66666666666668,
+          "Command": 50.76923076923078,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -7681,7 +7681,7 @@
         "summary": "Ty Velardo profiles as a UTL piece who controls at-bats.",
         "summaryMetrics": [
           "AVG .000",
-          "OBP .143",
+          "OBP .125",
           "SLG .000"
         ],
         "statCards": [
@@ -7691,7 +7691,7 @@
           },
           {
             "label": "OBP",
-            "value": ".143"
+            "value": ".125"
           },
           {
             "label": "SLG",
@@ -7742,25 +7742,25 @@
         "position": "RHP",
         "classYear": "R-SO",
         "handedness": "R/R",
-        "score": 14,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Tyler Kozera looks like a RHP option who limits runs.",
+        "summary": "Tyler Kozera gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 3.74",
-          "WHIP 1.57",
+          "ERA 4.57",
+          "WHIP 1.66",
           "K/9 8.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.74"
+            "value": "4.57"
           },
           {
             "label": "WHIP",
-            "value": "1.57"
+            "value": "1.66"
           },
           {
             "label": "K/9",
@@ -7768,7 +7768,7 @@
           },
           {
             "label": "BB/9",
-            "value": "3.3"
+            "value": "3.7"
           },
           {
             "label": "HR/9",
@@ -7783,7 +7783,7 @@
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 42.93706293706293,
-          "Command": 32.5,
+          "Command": 26.66666666666667,
           "Damage suppression": 0
         },
         "metaLine": "R-SO / R/R",
@@ -7818,18 +7818,18 @@
         },
         "summary": "Tommy Groom gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 23.14",
-          "WHIP 5.14",
+          "ERA 20.25",
+          "WHIP 4.88",
           "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "23.14"
+            "value": "20.25"
           },
           {
             "label": "WHIP",
-            "value": "5.14"
+            "value": "4.88"
           },
           {
             "label": "K/9",
@@ -7837,7 +7837,7 @@
           },
           {
             "label": "BB/9",
-            "value": "30.9"
+            "value": "30.4"
           },
           {
             "label": "HR/9",
@@ -7845,7 +7845,7 @@
           },
           {
             "label": "IP",
-            "value": "2.3"
+            "value": "2.7"
           }
         ],
         "components": {
@@ -7880,25 +7880,25 @@
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 12,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jeremiah Stewart gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.12",
-          "WHIP 1.50",
+          "ERA 6.52",
+          "WHIP 1.60",
           "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.12"
+            "value": "6.52"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.60"
           },
           {
             "label": "K/9",
@@ -7906,7 +7906,7 @@
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "4.2"
           },
           {
             "label": "HR/9",
@@ -7921,7 +7921,7 @@
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 39.811912225705335,
-          "Command": 25,
+          "Command": 20,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -8018,47 +8018,47 @@
         "position": "RHP",
         "classYear": "R-SR",
         "handedness": "R/R",
-        "score": 12,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "John Costa looks like a RHP option who limits runs and keeps traffic under control.",
+        "summary": "John Costa looks like a RHP option who keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.60",
-          "WHIP 1.23",
-          "K/9 8.1"
+          "ERA 4.31",
+          "WHIP 1.24",
+          "K/9 7.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.60"
+            "value": "4.31"
           },
           {
             "label": "WHIP",
-            "value": "1.23"
+            "value": "1.24"
           },
           {
             "label": "K/9",
-            "value": "8.1"
+            "value": "7.8"
           },
           {
             "label": "BB/9",
-            "value": "3.3"
+            "value": "3.2"
           },
           {
             "label": "HR/9",
-            "value": "0.60"
+            "value": "0.86"
           },
           {
             "label": "IP",
-            "value": "30.0"
+            "value": "31.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 37.272727272727266,
+          "Miss bats": 34.13926499032882,
           "Command": 29.09090909090909,
           "Damage suppression": 0
         },
@@ -8162,18 +8162,18 @@
         },
         "summary": "Jackson Bellhorn gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 3.00",
+          "ERA 11.25",
+          "WHIP 3.75",
           "K/9 4.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "11.25"
           },
           {
             "label": "WHIP",
-            "value": "3.00"
+            "value": "3.75"
           },
           {
             "label": "K/9",

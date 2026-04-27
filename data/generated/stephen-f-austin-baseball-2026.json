@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-26T11:04:34.781Z",
+  "generatedAt": "2026-04-27T12:00:51.839Z",
   "season": 2026,
   "school": {
     "slug": "stephen-f-austin",
@@ -38,86 +38,86 @@
     }
   },
   "teamSummary": {
-    "record": "22-22, 11-12",
-    "battingAverage": ".275",
-    "earnedRunAverage": "6.08",
-    "wins": "22",
+    "record": "23-22, 12-12",
+    "battingAverage": ".278",
+    "earnedRunAverage": "6.07",
+    "wins": "23",
     "losses": "22",
     "hitting": {
-      "atBats": "1435",
-      "runsScored": "289",
-      "hits": "394",
-      "runsBattedIn": "250",
+      "atBats": "1476",
+      "runsScored": "300",
+      "hits": "410",
+      "runsBattedIn": "261",
       "doubles": "72",
       "triples": "12",
-      "homeRuns": "28",
-      "walks": "228",
+      "homeRuns": "29",
+      "walks": "235",
       "intentionalWalks": "2",
-      "strikeouts": "293",
-      "strikeoutsLooking": "58",
+      "strikeouts": "303",
+      "strikeoutsLooking": "62",
       "hitByPitch": "34",
-      "stolenBases": "68",
+      "stolenBases": "74",
       "caughtStealing": "14",
       "sacrificeHits": "14",
       "sacrificeFlies": "16",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "301",
-      "flyOuts": "414",
-      "groundedIntoDoublePlay": "34",
+      "groundOuts": "308",
+      "flyOuts": "420",
+      "groundedIntoDoublePlay": "35",
       "pickedOff": "4",
-      "doublePlaysHitInto": "39",
+      "doublePlaysHitInto": "40",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1111",
-      "assists": "393",
-      "errors": "53",
+      "putouts": "1138",
+      "assists": "406",
+      "errors": "58",
       "passedBalls": "2",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "47",
+      "stolenBasesAgainst": "50",
       "caughtStealingBy": "8",
-      "involvedInDoublePlays": "33",
+      "involvedInDoublePlays": "34",
       "involvedInTriplePlays": "0",
-      "totalChances": "1557",
-      "fieldingPercentage": ".966"
+      "totalChances": "1602",
+      "fieldingPercentage": ".964"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "22",
-      "saves": "33",
+      "wins": "23",
+      "saves": "34",
       "losses": "22",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "0",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "370.1",
-      "hitsAllowed": "447",
-      "runsAllowed": "284",
-      "earnedRunsAllowed": "250",
-      "walksAllowed": "172",
-      "strikeouts": "376",
-      "battersFaced": "1761",
-      "opponentAtBats": "1502",
-      "doublesAllowed": "79",
-      "triplesAllowed": "5",
-      "homerunsAllowed": "33",
+      "inningsPitched": "379.1",
+      "hitsAllowed": "457",
+      "runsAllowed": "292",
+      "earnedRunsAllowed": "256",
+      "walksAllowed": "177",
+      "strikeouts": "380",
+      "battersFaced": "1804",
+      "opponentAtBats": "1535",
+      "doublesAllowed": "80",
+      "triplesAllowed": "6",
+      "homerunsAllowed": "34",
       "wildPitches": "39",
       "balks": "3",
-      "hitBatters": "46",
+      "hitBatters": "47",
       "strikeoutsLooking": "58",
       "intentionalWalks": "6",
-      "inheritedRunners": "112",
-      "inheritedRunnersThatScored": "58",
-      "sacrificeHitsAllowed": "23",
-      "sacrificeFliesAllowed": "17",
+      "inheritedRunners": "117",
+      "inheritedRunnersThatScored": "59",
+      "sacrificeHitsAllowed": "24",
+      "sacrificeFliesAllowed": "20",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6050",
-      "flyouts": "328",
-      "groundouts": "340",
+      "pitches": "6208",
+      "flyouts": "337",
+      "groundouts": "352",
       "teamUnearnedRuns": "0",
-      "saveRecord": "5",
+      "saveRecord": "6",
       "pickoff": "0"
     }
   },
@@ -160,33 +160,33 @@
         "jersey": "1",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/cermodrick-bland/7822",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Cermodrick_Bland_vbsiw.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 42,
-        "battingAverage": 0.284,
-        "onBasePercentage": 0.401,
-        "sluggingPercentage": 0.419,
-        "ops": 0.82,
-        "atBats": 148,
-        "runs": 30,
-        "hits": 42,
+        "gamesPlayed": 44,
+        "gamesStarted": 43,
+        "battingAverage": 0.288,
+        "onBasePercentage": 0.404,
+        "sluggingPercentage": 0.418,
+        "ops": 0.822,
+        "atBats": 153,
+        "runs": 32,
+        "hits": 44,
         "doubles": 6,
         "triples": 4,
         "homeRuns": 2,
-        "runsBattedIn": 24,
-        "totalBases": 62,
-        "walks": 25,
+        "runsBattedIn": 25,
+        "totalBases": 64,
+        "walks": 26,
         "hitByPitch": 6,
-        "strikeouts": 46,
+        "strikeouts": 47,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 3,
         "sacrificeHits": 1,
-        "stolenBases": 20,
-        "stolenBasesAttempts": 21,
+        "stolenBases": 24,
+        "stolenBasesAttempts": 25,
         "putouts": 79,
         "assists": 1,
-        "errors": 3,
-        "plateAppearances": 205,
+        "errors": 4,
+        "plateAppearances": 215,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -198,51 +198,51 @@
         "jersey": "1",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/cermodrick-bland/7822",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Cermodrick_Bland_vbsiw.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 34,
+        "gamesPlayed": 36,
+        "gamesStarted": 35,
         "putouts": 79,
         "assists": 1,
-        "errors": 3,
-        "fieldingPercentage": 0.964,
+        "errors": 4,
+        "fieldingPercentage": 0.952,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 83
+        "totalChances": 84
       },
       "evaluation": {
-        "score": 47,
+        "score": 50,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 67.22222222222223,
-          "Power": 26.052631578947366,
-          "Contact": 39.99999999999998,
-          "Discipline": 38.164251207729464,
-          "Speed": 66.66666666666666
+          "On-base": 68.88888888888889,
+          "Power": 25.789473684210524,
+          "Contact": 42.499999999999986,
+          "Discipline": 39.2434988179669,
+          "Speed": 80
         },
         "summary": "Cermodrick Bland profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .284",
-          "OBP .401",
-          "SLG .419"
+          "AVG .288",
+          "OBP .404",
+          "SLG .418"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".284"
+            "value": ".288"
           },
           {
             "label": "OBP",
-            "value": ".401"
+            "value": ".404"
           },
           {
             "label": "SLG",
-            "value": ".419"
+            "value": ".418"
           },
           {
             "label": "HR",
@@ -250,11 +250,11 @@
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "25"
           },
           {
             "label": "SB",
-            "value": "20"
+            "value": "24"
           }
         ],
         "metaLine": "SO / R/R",
@@ -305,7 +305,7 @@
         "jersey": "2",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/ethan-adkisson/7819",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Ethan_Adkisson_Vzekb.jpg",
-        "gamesPlayed": 26,
+        "gamesPlayed": 27,
         "gamesStarted": 23,
         "battingAverage": 0.244,
         "onBasePercentage": 0.276,
@@ -328,7 +328,7 @@
         "sacrificeHits": 3,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 189,
+        "putouts": 190,
         "assists": 17,
         "errors": 1,
         "plateAppearances": 90,
@@ -343,9 +343,9 @@
         "jersey": "2",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/ethan-adkisson/7819",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Ethan_Adkisson_Vzekb.jpg",
-        "gamesPlayed": 25,
+        "gamesPlayed": 26,
         "gamesStarted": 23,
-        "putouts": 189,
+        "putouts": 190,
         "assists": 17,
         "errors": 1,
         "fieldingPercentage": 0.995,
@@ -355,7 +355,7 @@
         "stolenBasesPercentage": 0.8,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 207
+        "totalChances": 208
       },
       "evaluation": {
         "score": 5,
@@ -450,33 +450,33 @@
         "jersey": "3",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/coby-dejesus/7850",
         "imageUrl": "https://sfajacks.com/images/2025/10/16/Coby_DeJesus_eDYky.jpg",
-        "gamesPlayed": 23,
-        "gamesStarted": 21,
-        "battingAverage": 0.215,
-        "onBasePercentage": 0.333,
-        "sluggingPercentage": 0.246,
-        "ops": 0.579,
-        "atBats": 65,
+        "gamesPlayed": 24,
+        "gamesStarted": 22,
+        "battingAverage": 0.229,
+        "onBasePercentage": 0.337,
+        "sluggingPercentage": 0.257,
+        "ops": 0.594,
+        "atBats": 70,
         "runs": 10,
-        "hits": 14,
+        "hits": 16,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 0,
-        "runsBattedIn": 6,
-        "totalBases": 16,
+        "runsBattedIn": 8,
+        "totalBases": 18,
         "walks": 11,
         "hitByPitch": 1,
         "strikeouts": 9,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
+        "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 34,
-        "assists": 56,
+        "stolenBases": 2,
+        "stolenBasesAttempts": 2,
+        "putouts": 35,
+        "assists": 60,
         "errors": 1,
-        "plateAppearances": 79,
+        "plateAppearances": 85,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -488,51 +488,51 @@
         "jersey": "3",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/coby-dejesus/7850",
         "imageUrl": "https://sfajacks.com/images/2025/10/16/Coby_DeJesus_eDYky.jpg",
-        "gamesPlayed": 21,
-        "gamesStarted": 21,
-        "putouts": 34,
-        "assists": 56,
+        "gamesPlayed": 22,
+        "gamesStarted": 22,
+        "putouts": 35,
+        "assists": 60,
         "errors": 1,
-        "fieldingPercentage": 0.989,
-        "doublePlays": 11,
+        "fieldingPercentage": 0.99,
+        "doublePlays": 12,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 91
+        "totalChances": 96
       },
       "evaluation": {
-        "score": 24,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 29.44444444444444,
+          "On-base": 31.666666666666664,
           "Power": 0,
-          "Contact": 0,
+          "Contact": 5.625000000000005,
           "Discipline": 100,
-          "Speed": 3.3333333333333335
+          "Speed": 6.666666666666667
         },
         "summary": "Coby DeJesus profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .215",
-          "OBP .333",
-          "SLG .246"
+          "AVG .229",
+          "OBP .337",
+          "SLG .257"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".215"
+            "value": ".229"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".337"
           },
           {
             "label": "SLG",
-            "value": ".246"
+            "value": ".257"
           },
           {
             "label": "HR",
@@ -540,11 +540,11 @@
           },
           {
             "label": "RBI",
-            "value": "6"
+            "value": "8"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "metaLine": "SR / R/R",
@@ -595,33 +595,33 @@
         "jersey": "4",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/jhett-creel/7842",
         "imageUrl": "https://sfajacks.com/images/2025/10/16/Jhett_Creel_csoFE.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 42,
-        "battingAverage": 0.326,
-        "onBasePercentage": 0.468,
-        "sluggingPercentage": 0.424,
-        "ops": 0.892,
-        "atBats": 144,
-        "runs": 34,
-        "hits": 47,
+        "gamesPlayed": 44,
+        "gamesStarted": 43,
+        "battingAverage": 0.324,
+        "onBasePercentage": 0.469,
+        "sluggingPercentage": 0.439,
+        "ops": 0.908,
+        "atBats": 148,
+        "runs": 35,
+        "hits": 48,
         "doubles": 8,
         "triples": 0,
-        "homeRuns": 2,
-        "runsBattedIn": 22,
-        "totalBases": 61,
-        "walks": 38,
+        "homeRuns": 3,
+        "runsBattedIn": 24,
+        "totalBases": 65,
+        "walks": 40,
         "hitByPitch": 3,
-        "strikeouts": 23,
+        "strikeouts": 25,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 173,
-        "assists": 10,
-        "errors": 4,
-        "plateAppearances": 190,
+        "putouts": 176,
+        "assists": 11,
+        "errors": 6,
+        "plateAppearances": 196,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -633,59 +633,59 @@
         "jersey": "4",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/jhett-creel/7842",
         "imageUrl": "https://sfajacks.com/images/2025/10/16/Jhett_Creel_csoFE.jpg",
-        "gamesPlayed": 21,
-        "gamesStarted": 20,
-        "putouts": 173,
-        "assists": 10,
-        "errors": 4,
-        "fieldingPercentage": 0.979,
+        "gamesPlayed": 22,
+        "gamesStarted": 21,
+        "putouts": 176,
+        "assists": 11,
+        "errors": 6,
+        "fieldingPercentage": 0.969,
         "doublePlays": 0,
-        "stolenBasesAgainst": 24,
+        "stolenBasesAgainst": 27,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.889,
+        "stolenBasesPercentage": 0.9,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 187
+        "totalChances": 193
       },
       "evaluation": {
-        "score": 66,
+        "score": 67,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
           "On-base": 100,
-          "Power": 27.368421052631575,
-          "Contact": 66.25000000000001,
+          "Power": 31.315789473684212,
+          "Contact": 65,
           "Discipline": 100,
           "Speed": 6.666666666666667
         },
         "summary": "Jhett Creel profiles as a C piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .326",
-          "OBP .468",
-          "SLG .424"
+          "AVG .324",
+          "OBP .469",
+          "SLG .439"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".326"
+            "value": ".324"
           },
           {
             "label": "OBP",
-            "value": ".468"
+            "value": ".469"
           },
           {
             "label": "SLG",
-            "value": ".424"
+            "value": ".439"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "3"
           },
           {
             "label": "RBI",
-            "value": "22"
+            "value": "24"
           },
           {
             "label": "SB",
@@ -1027,23 +1027,23 @@
         "jersey": "8",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/rodric-black/7867",
         "imageUrl": "https://sfajacks.com/images/2026/2/16/DSC01784.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 18,
-        "battingAverage": 0.255,
-        "onBasePercentage": 0.379,
-        "sluggingPercentage": 0.364,
-        "ops": 0.743,
-        "atBats": 55,
-        "runs": 12,
-        "hits": 14,
+        "gamesPlayed": 26,
+        "gamesStarted": 19,
+        "battingAverage": 0.254,
+        "onBasePercentage": 0.38,
+        "sluggingPercentage": 0.356,
+        "ops": 0.736,
+        "atBats": 59,
+        "runs": 13,
+        "hits": 15,
         "doubles": 1,
         "triples": 1,
         "homeRuns": 1,
-        "runsBattedIn": 9,
-        "totalBases": 20,
-        "walks": 11,
+        "runsBattedIn": 10,
+        "totalBases": 21,
+        "walks": 12,
         "hitByPitch": 0,
-        "strikeouts": 18,
+        "strikeouts": 19,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
@@ -1051,9 +1051,9 @@
         "stolenBases": 7,
         "stolenBasesAttempts": 7,
         "putouts": 22,
-        "assists": 50,
+        "assists": 54,
         "errors": 8,
-        "plateAppearances": 75,
+        "plateAppearances": 80,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1065,19 +1065,19 @@
         "jersey": "8",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/rodric-black/7867",
         "imageUrl": "https://sfajacks.com/images/2026/2/16/DSC01784.jpg",
-        "gamesPlayed": 20,
-        "gamesStarted": 18,
+        "gamesPlayed": 21,
+        "gamesStarted": 19,
         "putouts": 22,
-        "assists": 50,
+        "assists": 54,
         "errors": 8,
-        "fieldingPercentage": 0.9,
-        "doublePlays": 9,
+        "fieldingPercentage": 0.905,
+        "doublePlays": 10,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 80
+        "totalChances": 84
       },
       "evaluation": {
         "score": 33,
@@ -1086,30 +1086,30 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 54.99999999999999,
-          "Power": 11.57894736842105,
-          "Contact": 21.875000000000004,
-          "Discipline": 45.67901234567901,
+          "On-base": 55.55555555555555,
+          "Power": 9.47368421052631,
+          "Contact": 21.250000000000004,
+          "Discipline": 47.95321637426899,
           "Speed": 23.333333333333332
         },
         "summary": "Rodric Black gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .255",
-          "OBP .379",
-          "SLG .364"
+          "AVG .254",
+          "OBP .380",
+          "SLG .356"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".255"
+            "value": ".254"
           },
           {
             "label": "OBP",
-            "value": ".379"
+            "value": ".380"
           },
           {
             "label": "SLG",
-            "value": ".364"
+            "value": ".356"
           },
           {
             "label": "HR",
@@ -1117,7 +1117,7 @@
           },
           {
             "label": "RBI",
-            "value": "9"
+            "value": "10"
           },
           {
             "label": "SB",
@@ -1406,32 +1406,32 @@
         "jersey": "11",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/dylan-mulcahy/7831",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Dylan_Mulcahy_YS5Uc.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 8,
-        "appearances": 9,
+        "gamesPlayed": 10,
+        "gamesStarted": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.08,
-        "whip": 1.41,
+        "earnedRunAverage": 4.22,
+        "whip": 1.43,
         "wins": 3,
         "losses": 4,
         "saves": 0,
         "shutouts": 1,
-        "inningsPitched": 39.666666666666664,
-        "inningsPitchedDisplay": "39.2",
-        "hitsAllowed": 38,
-        "runsAllowed": 19,
-        "earnedRunsAllowed": 18,
-        "walksAllowed": 18,
+        "inningsPitched": 42.666666666666664,
+        "inningsPitchedDisplay": "42.2",
+        "hitsAllowed": 41,
+        "runsAllowed": 23,
+        "earnedRunsAllowed": 20,
+        "walksAllowed": 20,
         "strikeouts": 55,
         "doublesAllowed": 5,
-        "triplesAllowed": 0,
+        "triplesAllowed": 1,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 151,
+        "opponentsAtBats": 161,
         "wildPitches": 2,
-        "hitBatters": 1,
+        "hitBatters": 2,
         "balks": 3,
-        "opponentsBattingAverage": 0.252,
-        "walksHits": 56
+        "opponentsBattingAverage": 0.255,
+        "walksHits": 61
       },
       "fieldingStats": {
         "rosterBioId": "7831",
@@ -1440,10 +1440,10 @@
         "jersey": "11",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/dylan-mulcahy/7831",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Dylan_Mulcahy_YS5Uc.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 2,
+        "gamesPlayed": 3,
+        "gamesStarted": 3,
         "putouts": 1,
-        "assists": 3,
+        "assists": 4,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -1452,10 +1452,10 @@
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 4
+        "totalChances": 5
       },
       "evaluation": {
-        "score": 22,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1463,40 +1463,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 77.08174178762414,
-          "Command": 41.1111111111111,
+          "Miss bats": 69.10511363636364,
+          "Command": 35,
           "Damage suppression": 0
         },
         "summary": "Dylan Mulcahy looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.08",
-          "WHIP 1.41",
-          "K/9 12.5"
+          "ERA 4.22",
+          "WHIP 1.43",
+          "K/9 11.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.08"
+            "value": "4.22"
           },
           {
             "label": "WHIP",
-            "value": "1.41"
+            "value": "1.43"
           },
           {
             "label": "K/9",
-            "value": "12.5"
+            "value": "11.6"
           },
           {
             "label": "BB/9",
-            "value": "4.1"
+            "value": "4.2"
           },
           {
             "label": "HR/9",
-            "value": "0.45"
+            "value": "0.42"
           },
           {
             "label": "IP",
-            "value": "39.7"
+            "value": "42.7"
           }
         ],
         "metaLine": "JR / R/R",
@@ -1692,33 +1692,33 @@
         "jersey": "14",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/cooper-schneider/7834",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Cooper_Schneider_uPaDm.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 27,
-        "battingAverage": 0.22,
-        "onBasePercentage": 0.402,
-        "sluggingPercentage": 0.232,
-        "ops": 0.634,
-        "atBats": 82,
-        "runs": 22,
-        "hits": 18,
+        "gamesPlayed": 31,
+        "gamesStarted": 28,
+        "battingAverage": 0.224,
+        "onBasePercentage": 0.411,
+        "sluggingPercentage": 0.235,
+        "ops": 0.646,
+        "atBats": 85,
+        "runs": 24,
+        "hits": 19,
         "doubles": 1,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 12,
-        "totalBases": 19,
-        "walks": 22,
+        "totalBases": 20,
+        "walks": 24,
         "hitByPitch": 3,
-        "strikeouts": 19,
+        "strikeouts": 21,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 3,
         "stolenBases": 8,
         "stolenBasesAttempts": 8,
-        "putouts": 56,
+        "putouts": 57,
         "assists": 1,
-        "errors": 1,
-        "plateAppearances": 118,
+        "errors": 2,
+        "plateAppearances": 123,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -1730,51 +1730,51 @@
         "jersey": "14",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/cooper-schneider/7834",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Cooper_Schneider_uPaDm.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 26,
-        "putouts": 56,
+        "gamesPlayed": 28,
+        "gamesStarted": 27,
+        "putouts": 57,
         "assists": 1,
-        "errors": 1,
-        "fieldingPercentage": 0.983,
+        "errors": 2,
+        "fieldingPercentage": 0.967,
         "doublePlays": 2,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 58
+        "totalChances": 60
       },
       "evaluation": {
-        "score": 38,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 67.77777777777779,
+          "On-base": 72.77777777777776,
           "Power": 0,
-          "Contact": 0,
+          "Contact": 2.500000000000002,
           "Discipline": 100,
           "Speed": 26.666666666666668
         },
         "summary": "Cooper Schneider profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .220",
-          "OBP .402",
-          "SLG .232"
+          "AVG .224",
+          "OBP .411",
+          "SLG .235"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".220"
+            "value": ".224"
           },
           {
             "label": "OBP",
-            "value": ".402"
+            "value": ".411"
           },
           {
             "label": "SLG",
-            "value": ".232"
+            "value": ".235"
           },
           {
             "label": "HR",
@@ -2121,20 +2121,20 @@
         "jersey": "17",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/mark-henning/7825",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Mark_Henning_mZGFP.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "battingAverage": 0.291,
-        "onBasePercentage": 0.423,
-        "sluggingPercentage": 0.447,
-        "ops": 0.87,
-        "atBats": 141,
-        "runs": 30,
-        "hits": 41,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "battingAverage": 0.308,
+        "onBasePercentage": 0.433,
+        "sluggingPercentage": 0.459,
+        "ops": 0.892,
+        "atBats": 146,
+        "runs": 32,
+        "hits": 45,
         "doubles": 10,
         "triples": 0,
         "homeRuns": 4,
-        "runsBattedIn": 27,
-        "totalBases": 63,
+        "runsBattedIn": 29,
+        "totalBases": 67,
         "walks": 27,
         "hitByPitch": 6,
         "strikeouts": 21,
@@ -2142,12 +2142,12 @@
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
-        "stolenBases": 4,
-        "stolenBasesAttempts": 6,
-        "putouts": 321,
+        "stolenBases": 5,
+        "stolenBasesAttempts": 7,
+        "putouts": 335,
         "assists": 21,
         "errors": 1,
-        "plateAppearances": 184,
+        "plateAppearances": 190,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -2159,51 +2159,51 @@
         "jersey": "17",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/mark-henning/7825",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Mark_Henning_mZGFP.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "putouts": 321,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "putouts": 335,
         "assists": 21,
         "errors": 1,
         "fieldingPercentage": 0.997,
-        "doublePlays": 29,
+        "doublePlays": 30,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 343
+        "totalChances": 357
       },
       "evaluation": {
-        "score": 57,
+        "score": 62,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 79.44444444444443,
-          "Power": 33.42105263157895,
-          "Contact": 44.374999999999986,
+          "On-base": 84.99999999999999,
+          "Power": 36.57894736842106,
+          "Contact": 54.99999999999999,
           "Discipline": 100,
-          "Speed": 13.333333333333334
+          "Speed": 16.666666666666664
         },
         "summary": "Mark Henning profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .291",
-          "OBP .423",
-          "SLG .447"
+          "AVG .308",
+          "OBP .433",
+          "SLG .459"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".291"
+            "value": ".308"
           },
           {
             "label": "OBP",
-            "value": ".423"
+            "value": ".433"
           },
           {
             "label": "SLG",
-            "value": ".447"
+            "value": ".459"
           },
           {
             "label": "HR",
@@ -2211,11 +2211,11 @@
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "29"
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "metaLine": "SR / L/R",
@@ -2267,18 +2267,18 @@
         "jersey": "18",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/kadin-munson/7832",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Kadin_Munson_tI3tG.jpg",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 0,
-        "appearances": 15,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.76,
-        "whip": 2.03,
-        "wins": 1,
+        "earnedRunAverage": 4.5,
+        "whip": 1.92,
+        "wins": 2,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 11.333333333333334,
-        "inningsPitchedDisplay": "11.1",
+        "inningsPitched": 12,
+        "inningsPitchedDisplay": "12.0",
         "hitsAllowed": 16,
         "runsAllowed": 6,
         "earnedRunsAllowed": 6,
@@ -2287,11 +2287,11 @@
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 47,
+        "opponentsAtBats": 48,
         "wildPitches": 3,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.34,
+        "opponentsBattingAverage": 0.333,
         "walksHits": 23
       },
       "fieldingStats": {
@@ -2301,10 +2301,10 @@
         "jersey": "18",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/kadin-munson/7832",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Kadin_Munson_tI3tG.jpg",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 0,
         "putouts": 0,
-        "assists": 4,
+        "assists": 5,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -2313,10 +2313,10 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 4
+        "totalChances": 5
       },
       "evaluation": {
-        "score": 9,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2324,40 +2324,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 35.828877005347586,
+          "Miss bats": 31.818181818181817,
           "Command": 8.571428571428571,
           "Damage suppression": 0
         },
         "summary": "Kadin Munson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.76",
-          "WHIP 2.03",
-          "K/9 7.9"
+          "ERA 4.50",
+          "WHIP 1.92",
+          "K/9 7.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.76"
+            "value": "4.50"
           },
           {
             "label": "WHIP",
-            "value": "2.03"
+            "value": "1.92"
           },
           {
             "label": "K/9",
-            "value": "7.9"
+            "value": "7.5"
           },
           {
             "label": "BB/9",
-            "value": "5.6"
+            "value": "5.3"
           },
           {
             "label": "HR/9",
-            "value": "1.59"
+            "value": "1.50"
           },
           {
             "label": "IP",
-            "value": "11.3"
+            "value": "12.0"
           }
         ],
         "metaLine": "SR / L/L",
@@ -2837,13 +2837,13 @@
         "jersey": "22",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/josh-ibe/7827",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Josh_Ibe_0Y2Ht.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 32,
-        "battingAverage": 0.269,
-        "onBasePercentage": 0.398,
-        "sluggingPercentage": 0.433,
-        "ops": 0.831,
-        "atBats": 104,
+        "gamesPlayed": 35,
+        "gamesStarted": 33,
+        "battingAverage": 0.264,
+        "onBasePercentage": 0.392,
+        "sluggingPercentage": 0.425,
+        "ops": 0.817,
+        "atBats": 106,
         "runs": 26,
         "hits": 28,
         "doubles": 5,
@@ -2853,7 +2853,7 @@
         "totalBases": 45,
         "walks": 21,
         "hitByPitch": 2,
-        "strikeouts": 30,
+        "strikeouts": 32,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 8,
         "sacrificeFlies": 1,
@@ -2863,7 +2863,7 @@
         "putouts": 19,
         "assists": 2,
         "errors": 0,
-        "plateAppearances": 133,
+        "plateAppearances": 135,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -2890,36 +2890,36 @@
         "totalChances": 21
       },
       "evaluation": {
-        "score": 43,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 65.55555555555556,
-          "Power": 29.73684210526316,
-          "Contact": 30.625000000000007,
-          "Discipline": 55.555555555555536,
+          "On-base": 62.22222222222222,
+          "Power": 27.631578947368418,
+          "Contact": 27.500000000000007,
+          "Discipline": 50.69444444444443,
           "Speed": 6.666666666666667
         },
         "summary": "Josh Ibe gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .269",
-          "OBP .398",
-          "SLG .433"
+          "AVG .264",
+          "OBP .392",
+          "SLG .425"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".269"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".398"
+            "value": ".392"
           },
           {
             "label": "SLG",
-            "value": ".433"
+            "value": ".425"
           },
           {
             "label": "HR",
@@ -2983,32 +2983,32 @@
         "jersey": "23",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/reid-bowyer/7823",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Reid_Bowyer_HP0hV.jpg",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 0,
-        "appearances": 15,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.06,
-        "whip": 1.35,
+        "earnedRunAverage": 4.71,
+        "whip": 1.33,
         "wins": 2,
         "losses": 2,
-        "saves": 1,
+        "saves": 2,
         "shutouts": 0,
-        "inningsPitched": 26.666666666666668,
-        "inningsPitchedDisplay": "26.2",
-        "hitsAllowed": 29,
+        "inningsPitched": 28.666666666666668,
+        "inningsPitchedDisplay": "28.2",
+        "hitsAllowed": 30,
         "runsAllowed": 19,
         "earnedRunsAllowed": 15,
-        "walksAllowed": 7,
-        "strikeouts": 19,
+        "walksAllowed": 8,
+        "strikeouts": 21,
         "doublesAllowed": 5,
         "triplesAllowed": 1,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 102,
+        "opponentsAtBats": 108,
         "wildPitches": 0,
         "hitBatters": 7,
         "balks": 0,
-        "opponentsBattingAverage": 0.284,
-        "walksHits": 36
+        "opponentsBattingAverage": 0.278,
+        "walksHits": 38
       },
       "fieldingStats": {
         "rosterBioId": "7823",
@@ -3040,32 +3040,32 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 21.931818181818176,
-          "Command": 34.285714285714285,
+          "Miss bats": 23.57293868921776,
+          "Command": 32.5,
           "Damage suppression": 0
         },
         "summary": "Reid Bowyer looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.06",
-          "WHIP 1.35",
-          "K/9 6.4"
+          "ERA 4.71",
+          "WHIP 1.33",
+          "K/9 6.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.06"
+            "value": "4.71"
           },
           {
             "label": "WHIP",
-            "value": "1.35"
+            "value": "1.33"
           },
           {
             "label": "K/9",
-            "value": "6.4"
+            "value": "6.6"
           },
           {
             "label": "BB/9",
-            "value": "2.4"
+            "value": "2.5"
           },
           {
             "label": "HR/9",
@@ -3073,7 +3073,7 @@
           },
           {
             "label": "IP",
-            "value": "26.7"
+            "value": "28.7"
           }
         ],
         "metaLine": "SR / R/R",
@@ -3124,21 +3124,21 @@
         "jersey": "24",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/julian-swift/7835",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Julian_Swift_QflLg.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "battingAverage": 0.331,
-        "onBasePercentage": 0.373,
-        "sluggingPercentage": 0.522,
-        "ops": 0.895,
-        "atBats": 178,
-        "runs": 33,
-        "hits": 59,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "battingAverage": 0.333,
+        "onBasePercentage": 0.377,
+        "sluggingPercentage": 0.519,
+        "ops": 0.896,
+        "atBats": 183,
+        "runs": 35,
+        "hits": 61,
         "doubles": 11,
         "triples": 4,
         "homeRuns": 5,
-        "runsBattedIn": 50,
-        "totalBases": 93,
-        "walks": 11,
+        "runsBattedIn": 51,
+        "totalBases": 95,
+        "walks": 12,
         "hitByPitch": 2,
         "strikeouts": 17,
         "intentionalWalks": 0,
@@ -3148,9 +3148,9 @@
         "stolenBases": 8,
         "stolenBasesAttempts": 13,
         "putouts": 45,
-        "assists": 99,
-        "errors": 9,
-        "plateAppearances": 212,
+        "assists": 100,
+        "errors": 10,
+        "plateAppearances": 218,
         "caughtStealing": 5,
         "pickedOff": 1
       },
@@ -3162,51 +3162,51 @@
         "jersey": "24",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/julian-swift/7835",
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Julian_Swift_QflLg.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
         "putouts": 45,
-        "assists": 99,
-        "errors": 9,
-        "fieldingPercentage": 0.941,
+        "assists": 100,
+        "errors": 10,
+        "fieldingPercentage": 0.935,
         "doublePlays": 15,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 153
+        "totalChances": 155
       },
       "evaluation": {
-        "score": 52,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 53.15789473684212,
-          "Contact": 69.37500000000001,
-          "Discipline": 49.67320261437908,
+          "On-base": 53.88888888888887,
+          "Power": 52.36842105263159,
+          "Contact": 70.625,
+          "Discipline": 56.20915032679738,
           "Speed": 26.666666666666668
         },
         "summary": "Julian Swift profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .331",
-          "OBP .373",
-          "SLG .522"
+          "AVG .333",
+          "OBP .377",
+          "SLG .519"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".331"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".377"
           },
           {
             "label": "SLG",
-            "value": ".522"
+            "value": ".519"
           },
           {
             "label": "HR",
@@ -3214,7 +3214,7 @@
           },
           {
             "label": "RBI",
-            "value": "50"
+            "value": "51"
           },
           {
             "label": "SB",
@@ -3411,23 +3411,23 @@
         "jersey": "26",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/evan-aslaksen/7843",
         "imageUrl": "https://sfajacks.com/images/2025/10/16/Evan_Aslaksen_J4Zk7.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 4,
-        "battingAverage": 0.357,
-        "onBasePercentage": 0.4,
-        "sluggingPercentage": 0.821,
-        "ops": 1.221,
-        "atBats": 28,
-        "runs": 7,
-        "hits": 10,
+        "battingAverage": 0.355,
+        "onBasePercentage": 0.394,
+        "sluggingPercentage": 0.774,
+        "ops": 1.168,
+        "atBats": 31,
+        "runs": 8,
+        "hits": 11,
         "doubles": 2,
         "triples": 1,
         "homeRuns": 3,
-        "runsBattedIn": 10,
-        "totalBases": 23,
+        "runsBattedIn": 11,
+        "totalBases": 24,
         "walks": 2,
         "hitByPitch": 0,
-        "strikeouts": 4,
+        "strikeouts": 5,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
@@ -3437,7 +3437,7 @@
         "putouts": 23,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 30,
+        "plateAppearances": 33,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3464,36 +3464,36 @@
         "totalChances": 23
       },
       "evaluation": {
-        "score": 67,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 66.66666666666666,
+          "On-base": 63.33333333333333,
           "Power": 100,
-          "Contact": 85.62499999999999,
-          "Discipline": 33.33333333333333,
+          "Contact": 84.37499999999999,
+          "Discipline": 22.22222222222222,
           "Speed": 0
         },
-        "summary": "Evan Aslaksen profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Evan Aslaksen profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .357",
-          "OBP .400",
-          "SLG .821"
+          "AVG .355",
+          "OBP .394",
+          "SLG .774"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".357"
+            "value": ".355"
           },
           {
             "label": "OBP",
-            "value": ".400"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".821"
+            "value": ".774"
           },
           {
             "label": "HR",
@@ -3501,7 +3501,7 @@
           },
           {
             "label": "RBI",
-            "value": "10"
+            "value": "11"
           },
           {
             "label": "SB",
@@ -4820,32 +4820,32 @@
         "jersey": "41",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/charlie-feris/7855",
         "imageUrl": "https://sfajacks.com/images/2025/10/16/Charlie_Feris_mJLfh.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 0,
-        "appearances": 12,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 8.36,
-        "whip": 1.86,
+        "earnedRunAverage": 8.62,
+        "whip": 1.98,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 14,
-        "inningsPitchedDisplay": "14.0",
-        "hitsAllowed": 19,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 13,
-        "walksAllowed": 7,
+        "inningsPitched": 15.666666666666666,
+        "inningsPitchedDisplay": "15.2",
+        "hitsAllowed": 22,
+        "runsAllowed": 15,
+        "earnedRunsAllowed": 15,
+        "walksAllowed": 9,
         "strikeouts": 13,
-        "doublesAllowed": 4,
+        "doublesAllowed": 5,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 59,
+        "opponentsAtBats": 67,
         "wildPitches": 0,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.322,
-        "walksHits": 26
+        "opponentsBattingAverage": 0.328,
+        "walksHits": 31
       },
       "fieldingStats": {
         "rosterBioId": "7855",
@@ -4869,7 +4869,7 @@
         "totalChances": 4
       },
       "evaluation": {
-        "score": 11,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4877,40 +4877,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.61038961038961,
-          "Command": 17.142857142857142,
+          "Miss bats": 31.528046421663447,
+          "Command": 8.888888888888888,
           "Damage suppression": 0
         },
         "summary": "Charlie Feris gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 8.36",
-          "WHIP 1.86",
-          "K/9 8.4"
+          "ERA 8.62",
+          "WHIP 1.98",
+          "K/9 7.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.36"
+            "value": "8.62"
           },
           {
             "label": "WHIP",
-            "value": "1.86"
+            "value": "1.98"
           },
           {
             "label": "K/9",
-            "value": "8.4"
+            "value": "7.5"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "5.2"
           },
           {
             "label": "HR/9",
-            "value": "1.29"
+            "value": "1.15"
           },
           {
             "label": "IP",
-            "value": "14.0"
+            "value": "15.7"
           }
         ],
         "metaLine": "SR / R/R",
@@ -4961,33 +4961,33 @@
         "jersey": "42",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/juan-cantua/7846",
         "imageUrl": "https://sfajacks.com/images/2025/10/16/Juan_Cantua-Linnear_Hoxus.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 39,
-        "battingAverage": 0.303,
-        "onBasePercentage": 0.448,
-        "sluggingPercentage": 0.426,
-        "ops": 0.874,
-        "atBats": 122,
+        "gamesPlayed": 41,
+        "gamesStarted": 40,
+        "battingAverage": 0.307,
+        "onBasePercentage": 0.447,
+        "sluggingPercentage": 0.425,
+        "ops": 0.872,
+        "atBats": 127,
         "runs": 28,
-        "hits": 37,
+        "hits": 39,
         "doubles": 10,
         "triples": 1,
         "homeRuns": 1,
-        "runsBattedIn": 17,
-        "totalBases": 52,
+        "runsBattedIn": 18,
+        "totalBases": 54,
         "walks": 27,
         "hitByPitch": 5,
-        "strikeouts": 31,
+        "strikeouts": 32,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 7,
         "stolenBasesAttempts": 11,
-        "putouts": 56,
+        "putouts": 63,
         "assists": 3,
         "errors": 0,
-        "plateAppearances": 170,
+        "plateAppearances": 175,
         "caughtStealing": 4,
         "pickedOff": 0
       },
@@ -4999,9 +4999,9 @@
         "jersey": "42",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/juan-cantua/7846",
         "imageUrl": "https://sfajacks.com/images/2025/10/16/Juan_Cantua-Linnear_Hoxus.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 34,
-        "putouts": 56,
+        "gamesPlayed": 36,
+        "gamesStarted": 35,
+        "putouts": 63,
         "assists": 3,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -5011,7 +5011,7 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 59
+        "totalChances": 66
       },
       "evaluation": {
         "score": 59,
@@ -5020,30 +5020,30 @@
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 93.33333333333333,
-          "Power": 27.89473684210526,
-          "Contact": 51.87499999999999,
-          "Discipline": 74.55197132616486,
+          "On-base": 92.77777777777777,
+          "Power": 27.631578947368418,
+          "Contact": 54.37499999999999,
+          "Discipline": 71.52777777777777,
           "Speed": 23.333333333333332
         },
         "summary": "Juan Cantua profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .303",
-          "OBP .448",
-          "SLG .426"
+          "AVG .307",
+          "OBP .447",
+          "SLG .425"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".303"
+            "value": ".307"
           },
           {
             "label": "OBP",
-            "value": ".448"
+            "value": ".447"
           },
           {
             "label": "SLG",
-            "value": ".426"
+            "value": ".425"
           },
           {
             "label": "HR",
@@ -5051,7 +5051,7 @@
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "18"
           },
           {
             "label": "SB",
@@ -5374,32 +5374,32 @@
         "jersey": "45",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/noah-o-farrell/7859",
         "imageUrl": "https://sfajacks.com/images/2025/10/16/Noah_O_Farrell_28jrB.jpg",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 4,
-        "appearances": 7,
+        "appearances": 8,
         "gamesCompleted": 0,
-        "earnedRunAverage": 9.72,
-        "whip": 2.1,
+        "earnedRunAverage": 9.82,
+        "whip": 2.07,
         "wins": 1,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 16.666666666666668,
-        "inningsPitchedDisplay": "16.2",
-        "hitsAllowed": 28,
-        "runsAllowed": 18,
-        "earnedRunsAllowed": 18,
+        "inningsPitched": 18.333333333333332,
+        "inningsPitchedDisplay": "18.1",
+        "hitsAllowed": 31,
+        "runsAllowed": 20,
+        "earnedRunsAllowed": 20,
         "walksAllowed": 7,
-        "strikeouts": 10,
+        "strikeouts": 12,
         "doublesAllowed": 5,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 77,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 85,
         "wildPitches": 4,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.364,
-        "walksHits": 35
+        "opponentsBattingAverage": 0.365,
+        "walksHits": 38
       },
       "fieldingStats": {
         "rosterBioId": "7859",
@@ -5408,10 +5408,10 @@
         "jersey": "45",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/noah-o-farrell/7859",
         "imageUrl": "https://sfajacks.com/images/2025/10/16/Noah_O_Farrell_28jrB.jpg",
-        "gamesPlayed": 1,
+        "gamesPlayed": 2,
         "gamesStarted": 1,
         "putouts": 0,
-        "assists": 3,
+        "assists": 4,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -5420,10 +5420,10 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 3
+        "totalChances": 4
       },
       "evaluation": {
-        "score": 4,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5431,40 +5431,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 12.727272727272723,
-          "Command": 8.571428571428571,
+          "Miss bats": 17.190082644628106,
+          "Command": 14.285714285714288,
           "Damage suppression": 0
         },
         "summary": "Noah O'Farrell gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.72",
-          "WHIP 2.10",
-          "K/9 5.4"
+          "ERA 9.82",
+          "WHIP 2.07",
+          "K/9 5.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.72"
+            "value": "9.82"
           },
           {
             "label": "WHIP",
-            "value": "2.10"
+            "value": "2.07"
           },
           {
             "label": "K/9",
-            "value": "5.4"
+            "value": "5.9"
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
-            "value": "1.08"
+            "value": "1.47"
           },
           {
             "label": "IP",
-            "value": "16.7"
+            "value": "18.3"
           }
         ],
         "metaLine": "JR / R/R",
@@ -5816,29 +5816,29 @@
         "position": "OF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 47,
+        "score": 50,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cermodrick Bland profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .284",
-          "OBP .401",
-          "SLG .419"
+          "AVG .288",
+          "OBP .404",
+          "SLG .418"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".284"
+            "value": ".288"
           },
           {
             "label": "OBP",
-            "value": ".401"
+            "value": ".404"
           },
           {
             "label": "SLG",
-            "value": ".419"
+            "value": ".418"
           },
           {
             "label": "HR",
@@ -5846,19 +5846,19 @@
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "25"
           },
           {
             "label": "SB",
-            "value": "20"
+            "value": "24"
           }
         ],
         "components": {
-          "On-base": 67.22222222222223,
-          "Power": 26.052631578947366,
-          "Contact": 39.99999999999998,
-          "Discipline": 38.164251207729464,
-          "Speed": 66.66666666666666
+          "On-base": 68.88888888888889,
+          "Power": 25.789473684210524,
+          "Contact": 42.499999999999986,
+          "Discipline": 39.2434988179669,
+          "Speed": 80
         },
         "metaLine": "SO / R/R",
         "detailBadges": [
@@ -5954,29 +5954,29 @@
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 24,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Coby DeJesus profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .215",
-          "OBP .333",
-          "SLG .246"
+          "AVG .229",
+          "OBP .337",
+          "SLG .257"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".215"
+            "value": ".229"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".337"
           },
           {
             "label": "SLG",
-            "value": ".246"
+            "value": ".257"
           },
           {
             "label": "HR",
@@ -5984,19 +5984,19 @@
           },
           {
             "label": "RBI",
-            "value": "6"
+            "value": "8"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "components": {
-          "On-base": 29.44444444444444,
+          "On-base": 31.666666666666664,
           "Power": 0,
-          "Contact": 0,
+          "Contact": 5.625000000000005,
           "Discipline": 100,
-          "Speed": 3.3333333333333335
+          "Speed": 6.666666666666667
         },
         "metaLine": "SR / R/R",
         "detailBadges": [
@@ -6023,37 +6023,37 @@
         "position": "C",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 66,
+        "score": 67,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Jhett Creel profiles as a C piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .326",
-          "OBP .468",
-          "SLG .424"
+          "AVG .324",
+          "OBP .469",
+          "SLG .439"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".326"
+            "value": ".324"
           },
           {
             "label": "OBP",
-            "value": ".468"
+            "value": ".469"
           },
           {
             "label": "SLG",
-            "value": ".424"
+            "value": ".439"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "3"
           },
           {
             "label": "RBI",
-            "value": "22"
+            "value": "24"
           },
           {
             "label": "SB",
@@ -6062,8 +6062,8 @@
         ],
         "components": {
           "On-base": 100,
-          "Power": 27.368421052631575,
-          "Contact": 66.25000000000001,
+          "Power": 31.315789473684212,
+          "Contact": 65,
           "Discipline": 100,
           "Speed": 6.666666666666667
         },
@@ -6237,22 +6237,22 @@
         },
         "summary": "Rodric Black gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .255",
-          "OBP .379",
-          "SLG .364"
+          "AVG .254",
+          "OBP .380",
+          "SLG .356"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".255"
+            "value": ".254"
           },
           {
             "label": "OBP",
-            "value": ".379"
+            "value": ".380"
           },
           {
             "label": "SLG",
-            "value": ".364"
+            "value": ".356"
           },
           {
             "label": "HR",
@@ -6260,7 +6260,7 @@
           },
           {
             "label": "RBI",
-            "value": "9"
+            "value": "10"
           },
           {
             "label": "SB",
@@ -6268,10 +6268,10 @@
           }
         ],
         "components": {
-          "On-base": 54.99999999999999,
-          "Power": 11.57894736842105,
-          "Contact": 21.875000000000004,
-          "Discipline": 45.67901234567901,
+          "On-base": 55.55555555555555,
+          "Power": 9.47368421052631,
+          "Contact": 21.250000000000004,
+          "Discipline": 47.95321637426899,
           "Speed": 23.333333333333332
         },
         "metaLine": "SR / R/R",
@@ -6436,48 +6436,48 @@
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 22,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dylan Mulcahy looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.08",
-          "WHIP 1.41",
-          "K/9 12.5"
+          "ERA 4.22",
+          "WHIP 1.43",
+          "K/9 11.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.08"
+            "value": "4.22"
           },
           {
             "label": "WHIP",
-            "value": "1.41"
+            "value": "1.43"
           },
           {
             "label": "K/9",
-            "value": "12.5"
+            "value": "11.6"
           },
           {
             "label": "BB/9",
-            "value": "4.1"
+            "value": "4.2"
           },
           {
             "label": "HR/9",
-            "value": "0.45"
+            "value": "0.42"
           },
           {
             "label": "IP",
-            "value": "39.7"
+            "value": "42.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 77.08174178762414,
-          "Command": 41.1111111111111,
+          "Miss bats": 69.10511363636364,
+          "Command": 35,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -6574,29 +6574,29 @@
         "position": "OF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 38,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cooper Schneider profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .220",
-          "OBP .402",
-          "SLG .232"
+          "AVG .224",
+          "OBP .411",
+          "SLG .235"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".220"
+            "value": ".224"
           },
           {
             "label": "OBP",
-            "value": ".402"
+            "value": ".411"
           },
           {
             "label": "SLG",
-            "value": ".232"
+            "value": ".235"
           },
           {
             "label": "HR",
@@ -6612,9 +6612,9 @@
           }
         ],
         "components": {
-          "On-base": 67.77777777777779,
+          "On-base": 72.77777777777776,
           "Power": 0,
-          "Contact": 0,
+          "Contact": 2.500000000000002,
           "Discipline": 100,
           "Speed": 26.666666666666668
         },
@@ -6781,29 +6781,29 @@
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 57,
+        "score": 62,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Mark Henning profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .291",
-          "OBP .423",
-          "SLG .447"
+          "AVG .308",
+          "OBP .433",
+          "SLG .459"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".291"
+            "value": ".308"
           },
           {
             "label": "OBP",
-            "value": ".423"
+            "value": ".433"
           },
           {
             "label": "SLG",
-            "value": ".447"
+            "value": ".459"
           },
           {
             "label": "HR",
@@ -6811,19 +6811,19 @@
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "29"
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "components": {
-          "On-base": 79.44444444444443,
-          "Power": 33.42105263157895,
-          "Contact": 44.374999999999986,
+          "On-base": 84.99999999999999,
+          "Power": 36.57894736842106,
+          "Contact": 54.99999999999999,
           "Discipline": 100,
-          "Speed": 13.333333333333334
+          "Speed": 16.666666666666664
         },
         "metaLine": "SR / L/R",
         "detailBadges": [
@@ -6850,47 +6850,47 @@
         "position": "LHP",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 9,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Kadin Munson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.76",
-          "WHIP 2.03",
-          "K/9 7.9"
+          "ERA 4.50",
+          "WHIP 1.92",
+          "K/9 7.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.76"
+            "value": "4.50"
           },
           {
             "label": "WHIP",
-            "value": "2.03"
+            "value": "1.92"
           },
           {
             "label": "K/9",
-            "value": "7.9"
+            "value": "7.5"
           },
           {
             "label": "BB/9",
-            "value": "5.6"
+            "value": "5.3"
           },
           {
             "label": "HR/9",
-            "value": "1.59"
+            "value": "1.50"
           },
           {
             "label": "IP",
-            "value": "11.3"
+            "value": "12.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 35.828877005347586,
+          "Miss bats": 31.818181818181817,
           "Command": 8.571428571428571,
           "Damage suppression": 0
         },
@@ -7126,29 +7126,29 @@
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 43,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Josh Ibe gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .269",
-          "OBP .398",
-          "SLG .433"
+          "AVG .264",
+          "OBP .392",
+          "SLG .425"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".269"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".398"
+            "value": ".392"
           },
           {
             "label": "SLG",
-            "value": ".433"
+            "value": ".425"
           },
           {
             "label": "HR",
@@ -7164,10 +7164,10 @@
           }
         ],
         "components": {
-          "On-base": 65.55555555555556,
-          "Power": 29.73684210526316,
-          "Contact": 30.625000000000007,
-          "Discipline": 55.555555555555536,
+          "On-base": 62.22222222222222,
+          "Power": 27.631578947368418,
+          "Contact": 27.500000000000007,
+          "Discipline": 50.69444444444443,
           "Speed": 6.666666666666667
         },
         "metaLine": "SR / R/R",
@@ -7202,26 +7202,26 @@
         },
         "summary": "Reid Bowyer looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.06",
-          "WHIP 1.35",
-          "K/9 6.4"
+          "ERA 4.71",
+          "WHIP 1.33",
+          "K/9 6.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.06"
+            "value": "4.71"
           },
           {
             "label": "WHIP",
-            "value": "1.35"
+            "value": "1.33"
           },
           {
             "label": "K/9",
-            "value": "6.4"
+            "value": "6.6"
           },
           {
             "label": "BB/9",
-            "value": "2.4"
+            "value": "2.5"
           },
           {
             "label": "HR/9",
@@ -7229,14 +7229,14 @@
           },
           {
             "label": "IP",
-            "value": "26.7"
+            "value": "28.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 21.931818181818176,
-          "Command": 34.285714285714285,
+          "Miss bats": 23.57293868921776,
+          "Command": 32.5,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -7264,29 +7264,29 @@
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 52,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Julian Swift profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .331",
-          "OBP .373",
-          "SLG .522"
+          "AVG .333",
+          "OBP .377",
+          "SLG .519"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".331"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".377"
           },
           {
             "label": "SLG",
-            "value": ".522"
+            "value": ".519"
           },
           {
             "label": "HR",
@@ -7294,7 +7294,7 @@
           },
           {
             "label": "RBI",
-            "value": "50"
+            "value": "51"
           },
           {
             "label": "SB",
@@ -7302,10 +7302,10 @@
           }
         ],
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 53.15789473684212,
-          "Contact": 69.37500000000001,
-          "Discipline": 49.67320261437908,
+          "On-base": 53.88888888888887,
+          "Power": 52.36842105263159,
+          "Contact": 70.625,
+          "Discipline": 56.20915032679738,
           "Speed": 26.666666666666668
         },
         "metaLine": "SR / R/R",
@@ -7402,29 +7402,29 @@
         "position": "C",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 67,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
-        "summary": "Evan Aslaksen profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Evan Aslaksen profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .357",
-          "OBP .400",
-          "SLG .821"
+          "AVG .355",
+          "OBP .394",
+          "SLG .774"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".357"
+            "value": ".355"
           },
           {
             "label": "OBP",
-            "value": ".400"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".821"
+            "value": ".774"
           },
           {
             "label": "HR",
@@ -7432,7 +7432,7 @@
           },
           {
             "label": "RBI",
-            "value": "10"
+            "value": "11"
           },
           {
             "label": "SB",
@@ -7440,10 +7440,10 @@
           }
         ],
         "components": {
-          "On-base": 66.66666666666666,
+          "On-base": 63.33333333333333,
           "Power": 100,
-          "Contact": 85.62499999999999,
-          "Discipline": 33.33333333333333,
+          "Contact": 84.37499999999999,
+          "Discipline": 22.22222222222222,
           "Speed": 0
         },
         "metaLine": "JR / R/R",
@@ -8091,48 +8091,48 @@
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 11,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Charlie Feris gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 8.36",
-          "WHIP 1.86",
-          "K/9 8.4"
+          "ERA 8.62",
+          "WHIP 1.98",
+          "K/9 7.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.36"
+            "value": "8.62"
           },
           {
             "label": "WHIP",
-            "value": "1.86"
+            "value": "1.98"
           },
           {
             "label": "K/9",
-            "value": "8.4"
+            "value": "7.5"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "5.2"
           },
           {
             "label": "HR/9",
-            "value": "1.29"
+            "value": "1.15"
           },
           {
             "label": "IP",
-            "value": "14.0"
+            "value": "15.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.61038961038961,
-          "Command": 17.142857142857142,
+          "Miss bats": 31.528046421663447,
+          "Command": 8.888888888888888,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -8167,22 +8167,22 @@
         },
         "summary": "Juan Cantua profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .303",
-          "OBP .448",
-          "SLG .426"
+          "AVG .307",
+          "OBP .447",
+          "SLG .425"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".303"
+            "value": ".307"
           },
           {
             "label": "OBP",
-            "value": ".448"
+            "value": ".447"
           },
           {
             "label": "SLG",
-            "value": ".426"
+            "value": ".425"
           },
           {
             "label": "HR",
@@ -8190,7 +8190,7 @@
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "18"
           },
           {
             "label": "SB",
@@ -8198,10 +8198,10 @@
           }
         ],
         "components": {
-          "On-base": 93.33333333333333,
-          "Power": 27.89473684210526,
-          "Contact": 51.87499999999999,
-          "Discipline": 74.55197132616486,
+          "On-base": 92.77777777777777,
+          "Power": 27.631578947368418,
+          "Contact": 54.37499999999999,
+          "Discipline": 71.52777777777777,
           "Speed": 23.333333333333332
         },
         "metaLine": "JR / L/L",
@@ -8367,48 +8367,48 @@
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 4,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Noah O'Farrell gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.72",
-          "WHIP 2.10",
-          "K/9 5.4"
+          "ERA 9.82",
+          "WHIP 2.07",
+          "K/9 5.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.72"
+            "value": "9.82"
           },
           {
             "label": "WHIP",
-            "value": "2.10"
+            "value": "2.07"
           },
           {
             "label": "K/9",
-            "value": "5.4"
+            "value": "5.9"
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
-            "value": "1.08"
+            "value": "1.47"
           },
           {
             "label": "IP",
-            "value": "16.7"
+            "value": "18.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 12.727272727272723,
-          "Command": 8.571428571428571,
+          "Miss bats": 17.190082644628106,
+          "Command": 14.285714285714288,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",

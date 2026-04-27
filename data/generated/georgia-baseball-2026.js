@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.georgia2026 = {
-  "generatedAt": "2026-04-26T11:03:53.887Z",
+  "generatedAt": "2026-04-27T12:00:18.235Z",
   "season": 2026,
   "school": {
     "slug": "georgia",
@@ -39,86 +39,86 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
     }
   },
   "teamSummary": {
-    "record": "33-11, 14-6",
-    "battingAverage": ".322",
-    "earnedRunAverage": "5.13",
-    "wins": "33",
+    "record": "34-11, 15-6",
+    "battingAverage": ".321",
+    "earnedRunAverage": "5.04",
+    "wins": "34",
     "losses": "11",
     "hitting": {
-      "atBats": "1520",
-      "runsScored": "419",
-      "hits": "489",
-      "runsBattedIn": "400",
-      "doubles": "84",
+      "atBats": "1556",
+      "runsScored": "424",
+      "hits": "500",
+      "runsBattedIn": "405",
+      "doubles": "87",
       "triples": "3",
-      "homeRuns": "119",
-      "walks": "242",
-      "intentionalWalks": "4",
-      "strikeouts": "353",
-      "strikeoutsLooking": "91",
-      "hitByPitch": "92",
-      "stolenBases": "42",
+      "homeRuns": "120",
+      "walks": "243",
+      "intentionalWalks": "5",
+      "strikeouts": "362",
+      "strikeoutsLooking": "93",
+      "hitByPitch": "94",
+      "stolenBases": "45",
       "caughtStealing": "5",
       "sacrificeHits": "1",
-      "sacrificeFlies": "18",
+      "sacrificeFlies": "20",
       "reachedOnCatchersInteference": "1",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "300",
-      "flyOuts": "381",
-      "groundedIntoDoublePlay": "29",
+      "groundOuts": "310",
+      "flyOuts": "388",
+      "groundedIntoDoublePlay": "30",
       "pickedOff": "4",
-      "doublePlaysHitInto": "33",
+      "doublePlaysHitInto": "34",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1131",
-      "assists": "382",
+      "putouts": "1158",
+      "assists": "390",
       "errors": "27",
       "passedBalls": "8",
       "catchersInterference": "1",
-      "stolenBasesAgainst": "39",
+      "stolenBasesAgainst": "40",
       "caughtStealingBy": "14",
-      "involvedInDoublePlays": "29",
+      "involvedInDoublePlays": "30",
       "involvedInTriplePlays": "0",
-      "totalChances": "1540",
-      "fieldingPercentage": ".982"
+      "totalChances": "1575",
+      "fieldingPercentage": ".983"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "33",
-      "saves": "10",
+      "wins": "34",
+      "saves": "11",
       "losses": "11",
       "gamesStarted": "0",
       "gamesCompleted": "1",
       "shutouts": "5",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "377.0",
-      "hitsAllowed": "343",
-      "runsAllowed": "232",
-      "earnedRunsAllowed": "215",
-      "walksAllowed": "205",
-      "strikeouts": "461",
-      "battersFaced": "1690",
-      "opponentAtBats": "1426",
+      "inningsPitched": "386.0",
+      "hitsAllowed": "348",
+      "runsAllowed": "233",
+      "earnedRunsAllowed": "216",
+      "walksAllowed": "208",
+      "strikeouts": "474",
+      "battersFaced": "1726",
+      "opponentAtBats": "1457",
       "doublesAllowed": "66",
       "triplesAllowed": "2",
       "homerunsAllowed": "52",
-      "wildPitches": "35",
+      "wildPitches": "36",
       "balks": "1",
-      "hitBatters": "38",
-      "strikeoutsLooking": "121",
+      "hitBatters": "40",
+      "strikeoutsLooking": "126",
       "intentionalWalks": "1",
       "inheritedRunners": "0",
       "inheritedRunnersThatScored": "0",
       "sacrificeHitsAllowed": "7",
       "sacrificeFliesAllowed": "13",
       "catchersInterferenceAllowed": "1",
-      "pitches": "5680",
-      "flyouts": "265",
-      "groundouts": "354",
+      "pitches": "5838",
+      "flyouts": "271",
+      "groundouts": "361",
       "teamUnearnedRuns": "1",
-      "saveRecord": "10",
+      "saveRecord": "11",
       "pickoff": "3"
     }
   },
@@ -161,20 +161,20 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "0",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/ryan-wynn/10323",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/Wynn__Ryan.JPG",
-        "gamesPlayed": 31,
-        "gamesStarted": 11,
-        "battingAverage": 0.322,
-        "onBasePercentage": 0.348,
-        "sluggingPercentage": 0.712,
-        "ops": 1.06,
-        "atBats": 59,
+        "gamesPlayed": 32,
+        "gamesStarted": 12,
+        "battingAverage": 0.317,
+        "onBasePercentage": 0.343,
+        "sluggingPercentage": 0.683,
+        "ops": 1.026,
+        "atBats": 63,
         "runs": 17,
-        "hits": 19,
+        "hits": 20,
         "doubles": 8,
         "triples": 0,
         "homeRuns": 5,
-        "runsBattedIn": 20,
-        "totalBases": 42,
+        "runsBattedIn": 21,
+        "totalBases": 43,
         "walks": 3,
         "hitByPitch": 1,
         "strikeouts": 13,
@@ -184,10 +184,10 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 14,
-        "assists": 26,
+        "putouts": 17,
+        "assists": 30,
         "errors": 2,
-        "plateAppearances": 69,
+        "plateAppearances": 73,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -199,51 +199,51 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "0",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/ryan-wynn/10323",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/Wynn__Ryan.JPG",
-        "gamesPlayed": 17,
-        "gamesStarted": 10,
-        "putouts": 14,
-        "assists": 26,
+        "gamesPlayed": 18,
+        "gamesStarted": 11,
+        "putouts": 17,
+        "assists": 30,
         "errors": 2,
-        "fieldingPercentage": 0.952,
-        "doublePlays": 3,
+        "fieldingPercentage": 0.959,
+        "doublePlays": 4,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 42
+        "totalChances": 49
       },
       "evaluation": {
-        "score": 50,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 37.77777777777775,
-          "Power": 100,
-          "Contact": 63.75000000000001,
+          "On-base": 35,
+          "Power": 95.5263157894737,
+          "Contact": 60.62499999999999,
           "Discipline": 3.4188034188034186,
           "Speed": 3.3333333333333335
         },
         "summary": "Ryan Wynn profiles as a INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .322",
-          "OBP .348",
-          "SLG .712"
+          "AVG .317",
+          "OBP .343",
+          "SLG .683"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".322"
+            "value": ".317"
           },
           {
             "label": "OBP",
-            "value": ".348"
+            "value": ".343"
           },
           {
             "label": "SLG",
-            "value": ".712"
+            "value": ".683"
           },
           {
             "label": "HR",
@@ -251,7 +251,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "21"
           },
           {
             "label": "SB",
@@ -306,14 +306,14 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "1",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/tre-phelps/8933",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/Phelps__Tre.JPG",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "battingAverage": 0.37,
-        "onBasePercentage": 0.49,
-        "sluggingPercentage": 0.697,
-        "ops": 1.187,
-        "atBats": 165,
-        "runs": 59,
+        "gamesPlayed": 44,
+        "gamesStarted": 44,
+        "battingAverage": 0.361,
+        "onBasePercentage": 0.483,
+        "sluggingPercentage": 0.68,
+        "ops": 1.163,
+        "atBats": 169,
+        "runs": 60,
         "hits": 61,
         "doubles": 7,
         "triples": 1,
@@ -321,18 +321,18 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "runsBattedIn": 41,
         "totalBases": 115,
         "walks": 14,
-        "hitByPitch": 26,
+        "hitByPitch": 27,
         "strikeouts": 29,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 2,
-        "putouts": 29,
-        "assists": 55,
+        "stolenBases": 4,
+        "stolenBasesAttempts": 4,
+        "putouts": 30,
+        "assists": 56,
         "errors": 3,
-        "plateAppearances": 209,
+        "plateAppearances": 216,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -344,10 +344,10 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "1",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/tre-phelps/8933",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/Phelps__Tre.JPG",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
-        "putouts": 29,
-        "assists": 55,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "putouts": 30,
+        "assists": 56,
         "errors": 3,
         "fieldingPercentage": 0.966,
         "doublePlays": 7,
@@ -356,39 +356,39 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 87
+        "totalChances": 89
       },
       "evaluation": {
-        "score": 80,
+        "score": 78,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
           "On-base": 100,
-          "Power": 99.21052631578947,
-          "Contact": 93.75,
+          "Power": 94.73684210526318,
+          "Contact": 88.12499999999999,
           "Discipline": 31.417624521072796,
-          "Speed": 6.666666666666667
+          "Speed": 13.333333333333334
         },
         "summary": "Tre Phelps profiles as a INF/OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .370",
-          "OBP .490",
-          "SLG .697"
+          "AVG .361",
+          "OBP .483",
+          "SLG .680"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".370"
+            "value": ".361"
           },
           {
             "label": "OBP",
-            "value": ".490"
+            "value": ".483"
           },
           {
             "label": "SLG",
-            "value": ".697"
+            "value": ".680"
           },
           {
             "label": "HR",
@@ -400,7 +400,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "4"
           }
         ],
         "metaLine": "JR / R/R",
@@ -451,33 +451,33 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "2",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/ryan-black/8944",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/Black__Ryan.JPG",
-        "gamesPlayed": 37,
-        "gamesStarted": 36,
+        "gamesPlayed": 38,
+        "gamesStarted": 37,
         "battingAverage": 0.311,
-        "onBasePercentage": 0.447,
-        "sluggingPercentage": 0.529,
-        "ops": 0.976,
-        "atBats": 119,
-        "runs": 29,
-        "hits": 37,
-        "doubles": 6,
+        "onBasePercentage": 0.448,
+        "sluggingPercentage": 0.533,
+        "ops": 0.981,
+        "atBats": 122,
+        "runs": 30,
+        "hits": 38,
+        "doubles": 7,
         "triples": 1,
         "homeRuns": 6,
         "runsBattedIn": 19,
-        "totalBases": 63,
+        "totalBases": 65,
         "walks": 27,
-        "hitByPitch": 3,
+        "hitByPitch": 4,
         "strikeouts": 29,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
+        "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 3,
+        "stolenBases": 3,
+        "stolenBasesAttempts": 4,
         "putouts": 56,
         "assists": 53,
         "errors": 0,
-        "plateAppearances": 154,
+        "plateAppearances": 159,
         "caughtStealing": 1,
         "pickedOff": 2
       },
@@ -504,23 +504,23 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "totalChances": 109
       },
       "evaluation": {
-        "score": 66,
+        "score": 67,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 92.77777777777777,
-          "Power": 55.000000000000014,
+          "On-base": 93.33333333333333,
+          "Power": 56.052631578947384,
           "Contact": 56.875,
           "Discipline": 81.22605363984673,
-          "Speed": 6.666666666666667
+          "Speed": 10
         },
         "summary": "Ryan Black profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
           "AVG .311",
-          "OBP .447",
-          "SLG .529"
+          "OBP .448",
+          "SLG .533"
         ],
         "statCards": [
           {
@@ -529,11 +529,11 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           },
           {
             "label": "OBP",
-            "value": ".447"
+            "value": ".448"
           },
           {
             "label": "SLG",
-            "value": ".529"
+            "value": ".533"
           },
           {
             "label": "HR",
@@ -545,7 +545,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "3"
           }
         ],
         "metaLine": "SR / L/R",
@@ -596,33 +596,33 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "3",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/daniel-jackson/8957",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/Jackson__Daniel.JPG",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "battingAverage": 0.383,
-        "onBasePercentage": 0.474,
-        "sluggingPercentage": 0.789,
-        "ops": 1.263,
-        "atBats": 175,
-        "runs": 60,
-        "hits": 67,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "battingAverage": 0.38,
+        "onBasePercentage": 0.467,
+        "sluggingPercentage": 0.793,
+        "ops": 1.26,
+        "atBats": 179,
+        "runs": 61,
+        "hits": 68,
         "doubles": 9,
         "triples": 1,
-        "homeRuns": 20,
-        "runsBattedIn": 60,
-        "totalBases": 138,
+        "homeRuns": 21,
+        "runsBattedIn": 62,
+        "totalBases": 142,
         "walks": 26,
         "hitByPitch": 6,
-        "strikeouts": 41,
+        "strikeouts": 43,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 4,
-        "sacrificeFlies": 2,
+        "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 21,
         "stolenBasesAttempts": 22,
-        "putouts": 361,
+        "putouts": 374,
         "assists": 32,
         "errors": 2,
-        "plateAppearances": 232,
+        "plateAppearances": 237,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -634,22 +634,22 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "3",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/daniel-jackson/8957",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/Jackson__Daniel.JPG",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "putouts": 361,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "putouts": 374,
         "assists": 32,
         "errors": 2,
         "fieldingPercentage": 0.995,
         "doublePlays": 0,
-        "stolenBasesAgainst": 32,
+        "stolenBasesAgainst": 33,
         "caughtStealingBy": 11,
-        "stolenBasesPercentage": 0.744,
+        "stolenBasesPercentage": 0.75,
         "passedBalls": 7,
         "catchersInterference": 1,
-        "totalChances": 395
+        "totalChances": 408
       },
       "evaluation": {
-        "score": 90,
+        "score": 89,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
@@ -658,35 +658,35 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           "On-base": 100,
           "Power": 100,
           "Contact": 100,
-          "Discipline": 48.23848238482384,
+          "Discipline": 44.96124031007751,
           "Speed": 70
         },
         "summary": "Daniel Jackson profiles as a C/OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .383",
-          "OBP .474",
-          "SLG .789"
+          "AVG .380",
+          "OBP .467",
+          "SLG .793"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".383"
+            "value": ".380"
           },
           {
             "label": "OBP",
-            "value": ".474"
+            "value": ".467"
           },
           {
             "label": "SLG",
-            "value": ".789"
+            "value": ".793"
           },
           {
             "label": "HR",
-            "value": "20"
+            "value": "21"
           },
           {
             "label": "RBI",
-            "value": "60"
+            "value": "62"
           },
           {
             "label": "SB",
@@ -741,33 +741,33 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "4",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/michael-o-shaughnessy/10324",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/O_Shaughnessy__Michael.JPG",
-        "gamesPlayed": 36,
-        "gamesStarted": 29,
-        "battingAverage": 0.29,
-        "onBasePercentage": 0.418,
-        "sluggingPercentage": 0.701,
-        "ops": 1.119,
-        "atBats": 107,
+        "gamesPlayed": 37,
+        "gamesStarted": 30,
+        "battingAverage": 0.295,
+        "onBasePercentage": 0.417,
+        "sluggingPercentage": 0.688,
+        "ops": 1.105,
+        "atBats": 112,
         "runs": 24,
-        "hits": 31,
+        "hits": 33,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 14,
-        "runsBattedIn": 40,
-        "totalBases": 75,
+        "runsBattedIn": 41,
+        "totalBases": 77,
         "walks": 16,
         "hitByPitch": 9,
-        "strikeouts": 38,
+        "strikeouts": 40,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 102,
+        "putouts": 109,
         "assists": 24,
         "errors": 1,
-        "plateAppearances": 134,
+        "plateAppearances": 139,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -779,51 +779,51 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "4",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/michael-o-shaughnessy/10324",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/O_Shaughnessy__Michael.JPG",
-        "gamesPlayed": 24,
-        "gamesStarted": 21,
-        "putouts": 102,
+        "gamesPlayed": 25,
+        "gamesStarted": 22,
+        "putouts": 109,
         "assists": 24,
         "errors": 1,
-        "fieldingPercentage": 0.992,
-        "doublePlays": 11,
+        "fieldingPercentage": 0.993,
+        "doublePlays": 12,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 127
+        "totalChances": 134
       },
       "evaluation": {
-        "score": 62,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 76.66666666666664,
-          "Power": 100,
-          "Contact": 43.749999999999986,
-          "Discipline": 24.561403508771924,
+          "On-base": 76.11111111111109,
+          "Power": 96.84210526315789,
+          "Contact": 46.874999999999986,
+          "Discipline": 22.22222222222222,
           "Speed": 0
         },
         "summary": "Michael O'Shaughnessy profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .290",
-          "OBP .418",
-          "SLG .701"
+          "AVG .295",
+          "OBP .417",
+          "SLG .688"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".295"
           },
           {
             "label": "OBP",
-            "value": ".418"
+            "value": ".417"
           },
           {
             "label": "SLG",
-            "value": ".701"
+            "value": ".688"
           },
           {
             "label": "HR",
@@ -831,7 +831,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "41"
           },
           {
             "label": "SB",
@@ -887,31 +887,31 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "5",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/justin-byrd/8965",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/Byrd__Justin.JPG",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 1,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.3,
-        "whip": 1.01,
+        "earnedRunAverage": 4.15,
+        "whip": 0.97,
         "wins": 2,
         "losses": 2,
-        "saves": 4,
+        "saves": 5,
         "shutouts": 0,
-        "inningsPitched": 37.666666666666664,
-        "inningsPitchedDisplay": "37.2",
+        "inningsPitched": 39,
+        "inningsPitchedDisplay": "39.0",
         "hitsAllowed": 31,
         "runsAllowed": 18,
         "earnedRunsAllowed": 18,
         "walksAllowed": 7,
-        "strikeouts": 46,
+        "strikeouts": 49,
         "doublesAllowed": 8,
         "triplesAllowed": 0,
         "homeRunsAllowed": 9,
-        "opponentsAtBats": 143,
+        "opponentsAtBats": 147,
         "wildPitches": 1,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.217,
+        "opponentsBattingAverage": 0.211,
         "walksHits": 38
       },
       "fieldingStats": {
@@ -944,40 +944,40 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 63.555913113435246,
+          "Miss bats": 66.43356643356644,
           "Command": 100,
           "Damage suppression": 0
         },
         "summary": "Justin Byrd looks like a RHP option who misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.30",
-          "WHIP 1.01",
-          "K/9 11.0"
+          "ERA 4.15",
+          "WHIP 0.97",
+          "K/9 11.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.30"
+            "value": "4.15"
           },
           {
             "label": "WHIP",
-            "value": "1.01"
+            "value": "0.97"
           },
           {
             "label": "K/9",
-            "value": "11.0"
+            "value": "11.3"
           },
           {
             "label": "BB/9",
-            "value": "1.7"
+            "value": "1.6"
           },
           {
             "label": "HR/9",
-            "value": "2.15"
+            "value": "2.08"
           },
           {
             "label": "IP",
-            "value": "37.7"
+            "value": "39.0"
           }
         ],
         "metaLine": "R-JR / R/R",
@@ -1315,33 +1315,33 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "8",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/rylan-lujo/10326",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/Lujo__Rylan.JPG",
-        "gamesPlayed": 37,
-        "gamesStarted": 32,
+        "gamesPlayed": 38,
+        "gamesStarted": 33,
         "battingAverage": 0.357,
-        "onBasePercentage": 0.453,
-        "sluggingPercentage": 0.587,
-        "ops": 1.04,
-        "atBats": 126,
+        "onBasePercentage": 0.452,
+        "sluggingPercentage": 0.589,
+        "ops": 1.041,
+        "atBats": 129,
         "runs": 34,
-        "hits": 45,
-        "doubles": 8,
+        "hits": 46,
+        "doubles": 9,
         "triples": 0,
         "homeRuns": 7,
-        "runsBattedIn": 28,
-        "totalBases": 74,
-        "walks": 15,
+        "runsBattedIn": 29,
+        "totalBases": 76,
+        "walks": 16,
         "hitByPitch": 8,
-        "strikeouts": 10,
-        "intentionalWalks": 1,
+        "strikeouts": 11,
+        "intentionalWalks": 2,
         "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 1,
+        "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 6,
         "stolenBasesAttempts": 7,
-        "putouts": 58,
+        "putouts": 61,
         "assists": 5,
         "errors": 0,
-        "plateAppearances": 158,
+        "plateAppearances": 163,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1353,9 +1353,9 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "8",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/rylan-lujo/10326",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/Lujo__Rylan.JPG",
-        "gamesPlayed": 29,
-        "gamesStarted": 27,
-        "putouts": 58,
+        "gamesPlayed": 30,
+        "gamesStarted": 28,
+        "putouts": 61,
         "assists": 5,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1365,7 +1365,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 63
+        "totalChances": 66
       },
       "evaluation": {
         "score": 80,
@@ -1374,8 +1374,8 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           "className": "fit-priority"
         },
         "components": {
-          "On-base": 96.1111111111111,
-          "Power": 70.26315789473684,
+          "On-base": 95.55555555555554,
+          "Power": 70.78947368421052,
           "Contact": 85.62499999999999,
           "Discipline": 100,
           "Speed": 20
@@ -1383,8 +1383,8 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "summary": "Rylan Lujo profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
           "AVG .357",
-          "OBP .453",
-          "SLG .587"
+          "OBP .452",
+          "SLG .589"
         ],
         "statCards": [
           {
@@ -1393,11 +1393,11 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           },
           {
             "label": "OBP",
-            "value": ".453"
+            "value": ".452"
           },
           {
             "label": "SLG",
-            "value": ".587"
+            "value": ".589"
           },
           {
             "label": "HR",
@@ -1405,7 +1405,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -1460,23 +1460,23 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "9",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/kolby-branch/8895",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/Branch__Kolby.JPG",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "battingAverage": 0.277,
-        "onBasePercentage": 0.383,
-        "sluggingPercentage": 0.591,
-        "ops": 0.974,
-        "atBats": 159,
-        "runs": 39,
-        "hits": 44,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "battingAverage": 0.288,
+        "onBasePercentage": 0.391,
+        "sluggingPercentage": 0.595,
+        "ops": 0.986,
+        "atBats": 163,
+        "runs": 40,
+        "hits": 47,
         "doubles": 11,
         "triples": 0,
         "homeRuns": 13,
         "runsBattedIn": 41,
-        "totalBases": 94,
+        "totalBases": 97,
         "walks": 26,
         "hitByPitch": 2,
-        "strikeouts": 48,
+        "strikeouts": 49,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 1,
@@ -1484,9 +1484,9 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 58,
-        "assists": 132,
+        "assists": 134,
         "errors": 6,
-        "plateAppearances": 190,
+        "plateAppearances": 194,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1498,51 +1498,51 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "9",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/kolby-branch/8895",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/Branch__Kolby.JPG",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
+        "gamesPlayed": 44,
+        "gamesStarted": 44,
         "putouts": 58,
-        "assists": 132,
+        "assists": 134,
         "errors": 6,
-        "fieldingPercentage": 0.969,
-        "doublePlays": 23,
+        "fieldingPercentage": 0.97,
+        "doublePlays": 24,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 196
+        "totalChances": 198
       },
       "evaluation": {
-        "score": 49,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 57.22222222222222,
-          "Power": 71.3157894736842,
-          "Contact": 35.625000000000014,
-          "Discipline": 37.962962962962955,
+          "On-base": 61.66666666666666,
+          "Power": 72.36842105263158,
+          "Contact": 42.499999999999986,
+          "Discipline": 36.73469387755102,
           "Speed": 6.666666666666667
         },
         "summary": "Kolby Branch profiles as a INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .383",
-          "SLG .591"
+          "AVG .288",
+          "OBP .391",
+          "SLG .595"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".288"
           },
           {
             "label": "OBP",
-            "value": ".383"
+            "value": ".391"
           },
           {
             "label": "SLG",
-            "value": ".591"
+            "value": ".595"
           },
           {
             "label": "HR",
@@ -1747,13 +1747,13 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "11",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/bryce-calloway/10328",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/Calloway__Bryce.JPG",
-        "gamesPlayed": 24,
-        "gamesStarted": 12,
-        "battingAverage": 0.267,
-        "onBasePercentage": 0.484,
-        "sluggingPercentage": 0.489,
-        "ops": 0.973,
-        "atBats": 45,
+        "gamesPlayed": 25,
+        "gamesStarted": 13,
+        "battingAverage": 0.24,
+        "onBasePercentage": 0.449,
+        "sluggingPercentage": 0.44,
+        "ops": 0.889,
+        "atBats": 50,
         "runs": 10,
         "hits": 12,
         "doubles": 1,
@@ -1763,7 +1763,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "totalBases": 22,
         "walks": 14,
         "hitByPitch": 5,
-        "strikeouts": 13,
+        "strikeouts": 16,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
@@ -1773,7 +1773,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "putouts": 70,
         "assists": 2,
         "errors": 3,
-        "plateAppearances": 64,
+        "plateAppearances": 69,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1893,32 +1893,32 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "12",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/caden-aoki/10329",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/Aoki__Caden.JPG",
-        "gamesPlayed": 12,
-        "gamesStarted": 2,
-        "appearances": 12,
+        "gamesPlayed": 13,
+        "gamesStarted": 3,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.43,
-        "whip": 1.29,
-        "wins": 5,
+        "earnedRunAverage": 3.19,
+        "whip": 1.25,
+        "wins": 6,
         "losses": 0,
         "saves": 3,
         "shutouts": 0,
-        "inningsPitched": 42,
-        "inningsPitchedDisplay": "42.0",
-        "hitsAllowed": 39,
-        "runsAllowed": 18,
-        "earnedRunsAllowed": 16,
-        "walksAllowed": 15,
-        "strikeouts": 56,
+        "inningsPitched": 48,
+        "inningsPitchedDisplay": "48.0",
+        "hitsAllowed": 43,
+        "runsAllowed": 19,
+        "earnedRunsAllowed": 17,
+        "walksAllowed": 17,
+        "strikeouts": 63,
         "doublesAllowed": 8,
         "triplesAllowed": 0,
         "homeRunsAllowed": 6,
-        "opponentsAtBats": 160,
+        "opponentsAtBats": 181,
         "wildPitches": 2,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.244,
-        "walksHits": 54
+        "opponentsBattingAverage": 0.238,
+        "walksHits": 60
       },
       "fieldingStats": {
         "rosterBioId": "10329",
@@ -1927,16 +1927,16 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "12",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/caden-aoki/10329",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/Aoki__Caden.JPG",
-        "gamesPlayed": 6,
-        "gamesStarted": 2,
+        "gamesPlayed": 7,
+        "gamesStarted": 3,
         "putouts": 1,
         "assists": 4,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 2,
-        "stolenBasesAgainst": 3,
+        "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": 0.8,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -1950,28 +1950,28 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 72.72727272727273,
-          "Command": 54.666666666666664,
+          "Miss bats": 71.02272727272727,
+          "Command": 54.117647058823536,
           "Damage suppression": 0
         },
-        "summary": "Caden Aoki looks like a RHP option who limits runs and misses bats.",
+        "summary": "Caden Aoki looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.43",
-          "WHIP 1.29",
-          "K/9 12.0"
+          "ERA 3.19",
+          "WHIP 1.25",
+          "K/9 11.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.43"
+            "value": "3.19"
           },
           {
             "label": "WHIP",
-            "value": "1.29"
+            "value": "1.25"
           },
           {
             "label": "K/9",
-            "value": "12.0"
+            "value": "11.8"
           },
           {
             "label": "BB/9",
@@ -1979,11 +1979,11 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.29"
+            "value": "1.13"
           },
           {
             "label": "IP",
-            "value": "42.0"
+            "value": "48.0"
           }
         ],
         "metaLine": "GR / R/R",
@@ -2179,7 +2179,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "14",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/kenny-ishikawa/10331",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/Ishikawa__Kenny.JPG",
-        "gamesPlayed": 25,
+        "gamesPlayed": 26,
         "gamesStarted": 23,
         "battingAverage": 0.345,
         "onBasePercentage": 0.463,
@@ -2216,32 +2216,32 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "14",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/kenny-ishikawa/10331",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/Ishikawa__Kenny.JPG",
-        "gamesPlayed": 8,
+        "gamesPlayed": 9,
         "gamesStarted": 6,
-        "appearances": 8,
+        "appearances": 9,
         "gamesCompleted": 0,
-        "earnedRunAverage": 13.83,
-        "whip": 2.41,
+        "earnedRunAverage": 13.5,
+        "whip": 2.43,
         "wins": 1,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 13.666666666666666,
-        "inningsPitchedDisplay": "13.2",
+        "inningsPitched": 14,
+        "inningsPitchedDisplay": "14.0",
         "hitsAllowed": 20,
         "runsAllowed": 22,
         "earnedRunsAllowed": 21,
-        "walksAllowed": 13,
-        "strikeouts": 18,
+        "walksAllowed": 14,
+        "strikeouts": 19,
         "doublesAllowed": 5,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 58,
+        "opponentsAtBats": 59,
         "wildPitches": 5,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.345,
-        "walksHits": 33
+        "opponentsBattingAverage": 0.339,
+        "walksHits": 34
       },
       "fieldingStats": {
         "rosterBioId": "10331",
@@ -2273,40 +2273,40 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 71.3968957871397,
-          "Command": 7.692307692307692,
+          "Miss bats": 74.67532467532467,
+          "Command": 7.14285714285714,
           "Damage suppression": 0
         },
         "summary": "Kenny Ishikawa looks like a LHP/OF option who misses bats.",
         "summaryMetrics": [
-          "ERA 13.83",
-          "WHIP 2.41",
-          "K/9 11.9"
+          "ERA 13.50",
+          "WHIP 2.43",
+          "K/9 12.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "13.83"
+            "value": "13.50"
           },
           {
             "label": "WHIP",
-            "value": "2.41"
+            "value": "2.43"
           },
           {
             "label": "K/9",
-            "value": "11.9"
+            "value": "12.2"
           },
           {
             "label": "BB/9",
-            "value": "8.6"
+            "value": "9.0"
           },
           {
             "label": "HR/9",
-            "value": "1.32"
+            "value": "1.29"
           },
           {
             "label": "IP",
-            "value": "13.7"
+            "value": "14.0"
           }
         ],
         "metaLine": "SO / L/L",
@@ -2503,31 +2503,31 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "16",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/zach-brown/8964",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/Brown__Zach.JPG",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 5,
-        "appearances": 12,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.07,
-        "whip": 1.11,
+        "earnedRunAverage": 3.91,
+        "whip": 1.07,
         "wins": 2,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 24.333333333333332,
-        "inningsPitchedDisplay": "24.1",
+        "inningsPitched": 25.333333333333332,
+        "inningsPitchedDisplay": "25.1",
         "hitsAllowed": 20,
         "runsAllowed": 12,
         "earnedRunsAllowed": 11,
         "walksAllowed": 7,
-        "strikeouts": 25,
+        "strikeouts": 26,
         "doublesAllowed": 1,
         "triplesAllowed": 0,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 90,
-        "wildPitches": 1,
+        "opponentsAtBats": 93,
+        "wildPitches": 2,
         "hitBatters": 0,
         "balks": 0,
-        "opponentsBattingAverage": 0.222,
+        "opponentsBattingAverage": 0.215,
         "walksHits": 27
       },
       "fieldingStats": {
@@ -2537,10 +2537,10 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "16",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/zach-brown/8964",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/Brown__Zach.JPG",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 1,
         "putouts": 1,
-        "assists": 2,
+        "assists": 3,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -2549,7 +2549,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 3
+        "totalChances": 4
       },
       "evaluation": {
         "score": 18,
@@ -2560,24 +2560,24 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 47.6961394769614,
-          "Command": 51.42857142857142,
+          "Miss bats": 47.60765550239234,
+          "Command": 54.285714285714285,
           "Damage suppression": 0
         },
-        "summary": "Zach Brown looks like a RHP option who misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Zach Brown looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.07",
-          "WHIP 1.11",
+          "ERA 3.91",
+          "WHIP 1.07",
           "K/9 9.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.07"
+            "value": "3.91"
           },
           {
             "label": "WHIP",
-            "value": "1.11"
+            "value": "1.07"
           },
           {
             "label": "K/9",
@@ -2585,15 +2585,15 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           },
           {
             "label": "BB/9",
-            "value": "2.6"
+            "value": "2.5"
           },
           {
             "label": "HR/9",
-            "value": "1.85"
+            "value": "1.78"
           },
           {
             "label": "IP",
-            "value": "24.3"
+            "value": "25.3"
           }
         ],
         "metaLine": "JR / R/R",
@@ -3286,20 +3286,20 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "22",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/henry-allen/10337",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/Allen__TxLjV.JPG",
-        "gamesPlayed": 43,
-        "gamesStarted": 39,
-        "battingAverage": 0.318,
-        "onBasePercentage": 0.443,
-        "sluggingPercentage": 0.642,
-        "ops": 1.085,
-        "atBats": 148,
-        "runs": 40,
-        "hits": 47,
-        "doubles": 9,
+        "gamesPlayed": 44,
+        "gamesStarted": 40,
+        "battingAverage": 0.322,
+        "onBasePercentage": 0.444,
+        "sluggingPercentage": 0.645,
+        "ops": 1.089,
+        "atBats": 152,
+        "runs": 41,
+        "hits": 49,
+        "doubles": 10,
         "triples": 0,
         "homeRuns": 13,
         "runsBattedIn": 41,
-        "totalBases": 95,
+        "totalBases": 98,
         "walks": 28,
         "hitByPitch": 7,
         "strikeouts": 39,
@@ -3312,7 +3312,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "putouts": 47,
         "assists": 7,
         "errors": 2,
-        "plateAppearances": 188,
+        "plateAppearances": 192,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3339,36 +3339,36 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "totalChances": 56
       },
       "evaluation": {
-        "score": 71,
+        "score": 72,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 90.55555555555554,
-          "Power": 84.73684210526316,
-          "Contact": 61.25000000000001,
+          "On-base": 91.1111111111111,
+          "Power": 85.5263157894737,
+          "Contact": 63.75000000000001,
           "Discipline": 57.54985754985753,
           "Speed": 10
         },
         "summary": "Henry Allen profiles as a UTIL piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .318",
-          "OBP .443",
-          "SLG .642"
+          "AVG .322",
+          "OBP .444",
+          "SLG .645"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".318"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".443"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": ".642"
+            "value": ".645"
           },
           {
             "label": "HR",
@@ -3986,9 +3986,9 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "32",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/grant-edwards/10341",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/Edwards__Grant.JPG",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 1,
-        "appearances": 15,
+        "appearances": 16,
         "gamesCompleted": 0,
         "earnedRunAverage": 6.39,
         "whip": 1.42,
@@ -4008,7 +4008,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "homeRunsAllowed": 2,
         "opponentsAtBats": 45,
         "wildPitches": 0,
-        "hitBatters": 3,
+        "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.267,
         "walksHits": 18
@@ -4392,32 +4392,32 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "jersey": "35",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/paul-farley/8921",
         "imageUrl": "https://georgiadogs.com/images/2025/8/19/Farley__Paul.JPG",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 2,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.67,
-        "whip": 1.62,
+        "earnedRunAverage": 5.61,
+        "whip": 1.63,
         "wins": 5,
         "losses": 1,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 33.333333333333336,
-        "inningsPitchedDisplay": "33.1",
-        "hitsAllowed": 36,
+        "inningsPitched": 33.666666666666664,
+        "inningsPitchedDisplay": "33.2",
+        "hitsAllowed": 37,
         "runsAllowed": 24,
         "earnedRunsAllowed": 21,
         "walksAllowed": 18,
-        "strikeouts": 34,
+        "strikeouts": 35,
         "doublesAllowed": 9,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 129,
+        "opponentsAtBats": 131,
         "wildPitches": 1,
-        "hitBatters": 2,
+        "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.279,
-        "walksHits": 54
+        "opponentsBattingAverage": 0.282,
+        "walksHits": 55
       },
       "fieldingStats": {
         "rosterBioId": "8921",
@@ -4441,7 +4441,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "totalChances": 7
       },
       "evaluation": {
-        "score": 12,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4449,40 +4449,40 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 47.090909090909086,
-          "Command": 17.777777777777782,
+          "Miss bats": 48.6948694869487,
+          "Command": 18.888888888888882,
           "Damage suppression": 0
         },
         "summary": "Paul Farley looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.67",
-          "WHIP 1.62",
-          "K/9 9.2"
+          "ERA 5.61",
+          "WHIP 1.63",
+          "K/9 9.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.67"
+            "value": "5.61"
           },
           {
             "label": "WHIP",
-            "value": "1.62"
+            "value": "1.63"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "9.4"
           },
           {
             "label": "BB/9",
-            "value": "4.9"
+            "value": "4.8"
           },
           {
             "label": "HR/9",
-            "value": "0.81"
+            "value": "0.80"
           },
           {
             "label": "IP",
-            "value": "33.3"
+            "value": "33.7"
           }
         ],
         "metaLine": "R-SO / R/R",
@@ -5768,29 +5768,29 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 50,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ryan Wynn profiles as a INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .322",
-          "OBP .348",
-          "SLG .712"
+          "AVG .317",
+          "OBP .343",
+          "SLG .683"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".322"
+            "value": ".317"
           },
           {
             "label": "OBP",
-            "value": ".348"
+            "value": ".343"
           },
           {
             "label": "SLG",
-            "value": ".712"
+            "value": ".683"
           },
           {
             "label": "HR",
@@ -5798,7 +5798,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "21"
           },
           {
             "label": "SB",
@@ -5806,9 +5806,9 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           }
         ],
         "components": {
-          "On-base": 37.77777777777775,
-          "Power": 100,
-          "Contact": 63.75000000000001,
+          "On-base": 35,
+          "Power": 95.5263157894737,
+          "Contact": 60.62499999999999,
           "Discipline": 3.4188034188034186,
           "Speed": 3.3333333333333335
         },
@@ -5837,29 +5837,29 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "position": "INF/OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 80,
+        "score": 78,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Tre Phelps profiles as a INF/OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .370",
-          "OBP .490",
-          "SLG .697"
+          "AVG .361",
+          "OBP .483",
+          "SLG .680"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".370"
+            "value": ".361"
           },
           {
             "label": "OBP",
-            "value": ".490"
+            "value": ".483"
           },
           {
             "label": "SLG",
-            "value": ".697"
+            "value": ".680"
           },
           {
             "label": "HR",
@@ -5871,15 +5871,15 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "4"
           }
         ],
         "components": {
           "On-base": 100,
-          "Power": 99.21052631578947,
-          "Contact": 93.75,
+          "Power": 94.73684210526318,
+          "Contact": 88.12499999999999,
           "Discipline": 31.417624521072796,
-          "Speed": 6.666666666666667
+          "Speed": 13.333333333333334
         },
         "metaLine": "JR / R/R",
         "detailBadges": [
@@ -5906,7 +5906,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 66,
+        "score": 67,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
@@ -5914,8 +5914,8 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "summary": "Ryan Black profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
           "AVG .311",
-          "OBP .447",
-          "SLG .529"
+          "OBP .448",
+          "SLG .533"
         ],
         "statCards": [
           {
@@ -5924,11 +5924,11 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           },
           {
             "label": "OBP",
-            "value": ".447"
+            "value": ".448"
           },
           {
             "label": "SLG",
-            "value": ".529"
+            "value": ".533"
           },
           {
             "label": "HR",
@@ -5940,15 +5940,15 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "3"
           }
         ],
         "components": {
-          "On-base": 92.77777777777777,
-          "Power": 55.000000000000014,
+          "On-base": 93.33333333333333,
+          "Power": 56.052631578947384,
           "Contact": 56.875,
           "Discipline": 81.22605363984673,
-          "Speed": 6.666666666666667
+          "Speed": 10
         },
         "metaLine": "SR / L/R",
         "detailBadges": [
@@ -5975,37 +5975,37 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "position": "C/OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 90,
+        "score": 89,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Daniel Jackson profiles as a C/OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .383",
-          "OBP .474",
-          "SLG .789"
+          "AVG .380",
+          "OBP .467",
+          "SLG .793"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".383"
+            "value": ".380"
           },
           {
             "label": "OBP",
-            "value": ".474"
+            "value": ".467"
           },
           {
             "label": "SLG",
-            "value": ".789"
+            "value": ".793"
           },
           {
             "label": "HR",
-            "value": "20"
+            "value": "21"
           },
           {
             "label": "RBI",
-            "value": "60"
+            "value": "62"
           },
           {
             "label": "SB",
@@ -6016,7 +6016,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           "On-base": 100,
           "Power": 100,
           "Contact": 100,
-          "Discipline": 48.23848238482384,
+          "Discipline": 44.96124031007751,
           "Speed": 70
         },
         "metaLine": "JR / R/R",
@@ -6044,29 +6044,29 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 62,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Michael O'Shaughnessy profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .290",
-          "OBP .418",
-          "SLG .701"
+          "AVG .295",
+          "OBP .417",
+          "SLG .688"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".295"
           },
           {
             "label": "OBP",
-            "value": ".418"
+            "value": ".417"
           },
           {
             "label": "SLG",
-            "value": ".701"
+            "value": ".688"
           },
           {
             "label": "HR",
@@ -6074,7 +6074,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "41"
           },
           {
             "label": "SB",
@@ -6082,10 +6082,10 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           }
         ],
         "components": {
-          "On-base": 76.66666666666664,
-          "Power": 100,
-          "Contact": 43.749999999999986,
-          "Discipline": 24.561403508771924,
+          "On-base": 76.11111111111109,
+          "Power": 96.84210526315789,
+          "Contact": 46.874999999999986,
+          "Discipline": 22.22222222222222,
           "Speed": 0
         },
         "metaLine": "SR / L/R",
@@ -6120,40 +6120,40 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         },
         "summary": "Justin Byrd looks like a RHP option who misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.30",
-          "WHIP 1.01",
-          "K/9 11.0"
+          "ERA 4.15",
+          "WHIP 0.97",
+          "K/9 11.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.30"
+            "value": "4.15"
           },
           {
             "label": "WHIP",
-            "value": "1.01"
+            "value": "0.97"
           },
           {
             "label": "K/9",
-            "value": "11.0"
+            "value": "11.3"
           },
           {
             "label": "BB/9",
-            "value": "1.7"
+            "value": "1.6"
           },
           {
             "label": "HR/9",
-            "value": "2.15"
+            "value": "2.08"
           },
           {
             "label": "IP",
-            "value": "37.7"
+            "value": "39.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 63.555913113435246,
+          "Miss bats": 66.43356643356644,
           "Command": 100,
           "Damage suppression": 0
         },
@@ -6328,8 +6328,8 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "summary": "Rylan Lujo profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
           "AVG .357",
-          "OBP .453",
-          "SLG .587"
+          "OBP .452",
+          "SLG .589"
         ],
         "statCards": [
           {
@@ -6338,11 +6338,11 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           },
           {
             "label": "OBP",
-            "value": ".453"
+            "value": ".452"
           },
           {
             "label": "SLG",
-            "value": ".587"
+            "value": ".589"
           },
           {
             "label": "HR",
@@ -6350,7 +6350,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -6358,8 +6358,8 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           }
         ],
         "components": {
-          "On-base": 96.1111111111111,
-          "Power": 70.26315789473684,
+          "On-base": 95.55555555555554,
+          "Power": 70.78947368421052,
           "Contact": 85.62499999999999,
           "Discipline": 100,
           "Speed": 20
@@ -6389,29 +6389,29 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 49,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Kolby Branch profiles as a INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .383",
-          "SLG .591"
+          "AVG .288",
+          "OBP .391",
+          "SLG .595"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".288"
           },
           {
             "label": "OBP",
-            "value": ".383"
+            "value": ".391"
           },
           {
             "label": "SLG",
-            "value": ".591"
+            "value": ".595"
           },
           {
             "label": "HR",
@@ -6427,10 +6427,10 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           }
         ],
         "components": {
-          "On-base": 57.22222222222222,
-          "Power": 71.3157894736842,
-          "Contact": 35.625000000000014,
-          "Discipline": 37.962962962962955,
+          "On-base": 61.66666666666666,
+          "Power": 72.36842105263158,
+          "Contact": 42.499999999999986,
+          "Discipline": 36.73469387755102,
           "Speed": 6.666666666666667
         },
         "metaLine": "SR / R/R",
@@ -6601,24 +6601,24 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Caden Aoki looks like a RHP option who limits runs and misses bats.",
+        "summary": "Caden Aoki looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.43",
-          "WHIP 1.29",
-          "K/9 12.0"
+          "ERA 3.19",
+          "WHIP 1.25",
+          "K/9 11.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.43"
+            "value": "3.19"
           },
           {
             "label": "WHIP",
-            "value": "1.29"
+            "value": "1.25"
           },
           {
             "label": "K/9",
-            "value": "12.0"
+            "value": "11.8"
           },
           {
             "label": "BB/9",
@@ -6626,18 +6626,18 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.29"
+            "value": "1.13"
           },
           {
             "label": "IP",
-            "value": "42.0"
+            "value": "48.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 72.72727272727273,
-          "Command": 54.666666666666664,
+          "Miss bats": 71.02272727272727,
+          "Command": 54.117647058823536,
           "Damage suppression": 0
         },
         "metaLine": "GR / R/R",
@@ -6741,41 +6741,41 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         },
         "summary": "Kenny Ishikawa looks like a LHP/OF option who misses bats.",
         "summaryMetrics": [
-          "ERA 13.83",
-          "WHIP 2.41",
-          "K/9 11.9"
+          "ERA 13.50",
+          "WHIP 2.43",
+          "K/9 12.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "13.83"
+            "value": "13.50"
           },
           {
             "label": "WHIP",
-            "value": "2.41"
+            "value": "2.43"
           },
           {
             "label": "K/9",
-            "value": "11.9"
+            "value": "12.2"
           },
           {
             "label": "BB/9",
-            "value": "8.6"
+            "value": "9.0"
           },
           {
             "label": "HR/9",
-            "value": "1.32"
+            "value": "1.29"
           },
           {
             "label": "IP",
-            "value": "13.7"
+            "value": "14.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 71.3968957871397,
-          "Command": 7.692307692307692,
+          "Miss bats": 74.67532467532467,
+          "Command": 7.14285714285714,
           "Damage suppression": 0
         },
         "metaLine": "SO / L/L",
@@ -6877,20 +6877,20 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Zach Brown looks like a RHP option who misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Zach Brown looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.07",
-          "WHIP 1.11",
+          "ERA 3.91",
+          "WHIP 1.07",
           "K/9 9.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.07"
+            "value": "3.91"
           },
           {
             "label": "WHIP",
-            "value": "1.11"
+            "value": "1.07"
           },
           {
             "label": "K/9",
@@ -6898,22 +6898,22 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           },
           {
             "label": "BB/9",
-            "value": "2.6"
+            "value": "2.5"
           },
           {
             "label": "HR/9",
-            "value": "1.85"
+            "value": "1.78"
           },
           {
             "label": "IP",
-            "value": "24.3"
+            "value": "25.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 47.6961394769614,
-          "Command": 51.42857142857142,
+          "Miss bats": 47.60765550239234,
+          "Command": 54.285714285714285,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -7285,29 +7285,29 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "position": "UTIL",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 71,
+        "score": 72,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Henry Allen profiles as a UTIL piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .318",
-          "OBP .443",
-          "SLG .642"
+          "AVG .322",
+          "OBP .444",
+          "SLG .645"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".318"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".443"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": ".642"
+            "value": ".645"
           },
           {
             "label": "HR",
@@ -7323,9 +7323,9 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           }
         ],
         "components": {
-          "On-base": 90.55555555555554,
-          "Power": 84.73684210526316,
-          "Contact": 61.25000000000001,
+          "On-base": 91.1111111111111,
+          "Power": 85.5263157894737,
+          "Contact": 63.75000000000001,
           "Discipline": 57.54985754985753,
           "Speed": 10
         },
@@ -7837,48 +7837,48 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "position": "RHP",
         "classYear": "R-SO",
         "handedness": "R/R",
-        "score": 12,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Paul Farley looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.67",
-          "WHIP 1.62",
-          "K/9 9.2"
+          "ERA 5.61",
+          "WHIP 1.63",
+          "K/9 9.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.67"
+            "value": "5.61"
           },
           {
             "label": "WHIP",
-            "value": "1.62"
+            "value": "1.63"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "9.4"
           },
           {
             "label": "BB/9",
-            "value": "4.9"
+            "value": "4.8"
           },
           {
             "label": "HR/9",
-            "value": "0.81"
+            "value": "0.80"
           },
           {
             "label": "IP",
-            "value": "33.3"
+            "value": "33.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 47.090909090909086,
-          "Command": 17.777777777777782,
+          "Miss bats": 48.6948694869487,
+          "Command": 18.888888888888882,
           "Damage suppression": 0
         },
         "metaLine": "R-SO / R/R",
