@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.abilene-christian2026 = {
-  "generatedAt": "2026-04-27T11:59:54.388Z",
+  "generatedAt": "2026-04-28T12:02:08.996Z",
   "season": 2026,
   "school": {
     "slug": "abilene-christian",
@@ -5015,8 +5015,8 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
       "normalizedName": "maddox miesse",
       "compositeRole": "Hitter",
       "role": "Hitter",
-      "position": "C",
-      "positionLong": "Catcher",
+      "position": "UTL",
+      "positionLong": "Utility",
       "classYear": "SR",
       "handedness": "R/R",
       "jersey": "99",
@@ -5109,7 +5109,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           "Discipline": 98.14814814814812,
           "Speed": 0
         },
-        "summary": "Maddox Miesse profiles as a C piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Maddox Miesse profiles as a UTL piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
           "AVG .304",
           "OBP .476",
@@ -5143,7 +5143,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         ],
         "metaLine": "SR / R/R",
         "detailBadges": [
-          "C",
+          "UTL",
           "SR",
           "R/R",
           "Hitter"
@@ -7579,7 +7579,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "name": "Maddox Miesse",
         "school": "Abilene Christian",
         "role": "Hitter",
-        "position": "C",
+        "position": "UTL",
         "classYear": "SR",
         "handedness": "R/R",
         "score": 68,
@@ -7587,7 +7587,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           "label": "Monitor",
           "className": "fit-monitor"
         },
-        "summary": "Maddox Miesse profiles as a C piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Maddox Miesse profiles as a UTL piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
           "AVG .304",
           "OBP .476",
@@ -7628,7 +7628,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         },
         "metaLine": "SR / R/R",
         "detailBadges": [
-          "C",
+          "UTL",
           "SR",
           "R/R",
           "Hitter"

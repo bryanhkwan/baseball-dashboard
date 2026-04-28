@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.marshall2026 = {
-  "generatedAt": "2026-04-27T12:00:25.478Z",
+  "generatedAt": "2026-04-28T12:02:46.800Z",
   "season": 2026,
   "school": {
     "slug": "marshall",
@@ -105,7 +105,7 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
       "triplesAllowed": "10",
       "homerunsAllowed": "39",
       "wildPitches": "42",
-      "balks": "4",
+      "balks": "2",
       "hitBatters": "53",
       "strikeoutsLooking": "99",
       "intentionalWalks": "3",
@@ -1600,7 +1600,7 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "opponentsAtBats": 248,
         "wildPitches": 12,
         "hitBatters": 9,
-        "balks": 3,
+        "balks": 1,
         "opponentsBattingAverage": 0.282,
         "walksHits": 96
       },

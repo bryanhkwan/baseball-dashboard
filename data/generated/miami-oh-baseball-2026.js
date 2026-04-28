@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.miami-oh2026 = {
-  "generatedAt": "2026-04-27T12:00:28.660Z",
+  "generatedAt": "2026-04-28T12:02:52.661Z",
   "season": 2026,
   "school": {
     "slug": "miami-oh",
@@ -77,7 +77,7 @@ window.__BASEBALL_DATASETS__.miami-oh2026 = {
       "errors": "48",
       "passedBalls": "6",
       "catchersInterference": "2",
-      "stolenBasesAgainst": "41",
+      "stolenBasesAgainst": "42",
       "caughtStealingBy": "20",
       "involvedInDoublePlays": "17",
       "involvedInTriplePlays": "0",
@@ -104,7 +104,7 @@ window.__BASEBALL_DATASETS__.miami-oh2026 = {
       "doublesAllowed": "87",
       "triplesAllowed": "17",
       "homerunsAllowed": "39",
-      "wildPitches": "26",
+      "wildPitches": "25",
       "balks": "3",
       "hitBatters": "52",
       "strikeoutsLooking": "94",
@@ -1890,7 +1890,7 @@ window.__BASEBALL_DATASETS__.miami-oh2026 = {
         "triplesAllowed": 2,
         "homeRunsAllowed": 5,
         "opponentsAtBats": 236,
-        "wildPitches": 1,
+        "wildPitches": 0,
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.263,
@@ -1910,9 +1910,9 @@ window.__BASEBALL_DATASETS__.miami-oh2026 = {
         "errors": 2,
         "fieldingPercentage": 0.909,
         "doublePlays": 1,
-        "stolenBasesAgainst": 9,
+        "stolenBasesAgainst": 10,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.692,
+        "stolenBasesPercentage": 0.714,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 22
@@ -2055,9 +2055,9 @@ window.__BASEBALL_DATASETS__.miami-oh2026 = {
         "errors": 3,
         "fieldingPercentage": 0.988,
         "doublePlays": 0,
-        "stolenBasesAgainst": 26,
+        "stolenBasesAgainst": 27,
         "caughtStealingBy": 14,
-        "stolenBasesPercentage": 0.65,
+        "stolenBasesPercentage": 0.659,
         "passedBalls": 4,
         "catchersInterference": 2,
         "totalChances": 241
