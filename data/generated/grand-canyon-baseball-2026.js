@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.grand-canyon2026 = {
-  "generatedAt": "2026-04-28T12:02:40.145Z",
+  "generatedAt": "2026-04-29T11:55:04.288Z",
   "season": 2026,
   "school": {
     "slug": "grand-canyon",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
     }
   },
   "teamSummary": {
-    "record": "15-26, 6-9",
-    "battingAverage": ".267",
-    "earnedRunAverage": "6.44",
-    "wins": "15",
+    "record": "16-26, 6-9",
+    "battingAverage": ".272",
+    "earnedRunAverage": "6.43",
+    "wins": "16",
     "losses": "26",
     "hitting": {
-      "atBats": "1356",
-      "runsScored": "222",
-      "hits": "362",
-      "runsBattedIn": "207",
-      "doubles": "76",
+      "atBats": "1396",
+      "runsScored": "231",
+      "hits": "380",
+      "runsBattedIn": "213",
+      "doubles": "80",
       "triples": "9",
-      "homeRuns": "41",
-      "walks": "154",
+      "homeRuns": "42",
+      "walks": "157",
       "intentionalWalks": "2",
-      "strikeouts": "325",
-      "strikeoutsLooking": "35",
-      "hitByPitch": "58",
-      "stolenBases": "40",
+      "strikeouts": "335",
+      "strikeoutsLooking": "39",
+      "hitByPitch": "59",
+      "stolenBases": "42",
       "caughtStealing": "11",
       "sacrificeHits": "19",
-      "sacrificeFlies": "22",
+      "sacrificeFlies": "23",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "299",
-      "flyOuts": "366",
-      "groundedIntoDoublePlay": "32",
-      "pickedOff": "5",
-      "doublePlaysHitInto": "33",
+      "groundOuts": "303",
+      "flyOuts": "375",
+      "groundedIntoDoublePlay": "34",
+      "pickedOff": "6",
+      "doublePlaysHitInto": "35",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1069",
-      "assists": "379",
-      "errors": "45",
-      "passedBalls": "1",
+      "putouts": "1096",
+      "assists": "385",
+      "errors": "46",
+      "passedBalls": "2",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "32",
+      "stolenBasesAgainst": "33",
       "caughtStealingBy": "6",
-      "involvedInDoublePlays": "35",
+      "involvedInDoublePlays": "36",
       "involvedInTriplePlays": "0",
-      "totalChances": "1493",
+      "totalChances": "1527",
       "fieldingPercentage": ".970"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "15",
-      "saves": "37",
+      "wins": "16",
+      "saves": "38",
       "losses": "26",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "1",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "356.1",
-      "hitsAllowed": "434",
-      "runsAllowed": "282",
-      "earnedRunsAllowed": "255",
-      "walksAllowed": "172",
-      "strikeouts": "324",
-      "battersFaced": "1698",
-      "opponentAtBats": "1445",
-      "doublesAllowed": "86",
-      "triplesAllowed": "10",
+      "inningsPitched": "365.1",
+      "hitsAllowed": "445",
+      "runsAllowed": "290",
+      "earnedRunsAllowed": "261",
+      "walksAllowed": "176",
+      "strikeouts": "336",
+      "battersFaced": "1740",
+      "opponentAtBats": "1482",
+      "doublesAllowed": "87",
+      "triplesAllowed": "12",
       "homerunsAllowed": "44",
       "wildPitches": "29",
       "balks": "2",
       "hitBatters": "51",
-      "strikeoutsLooking": "48",
+      "strikeoutsLooking": "53",
       "intentionalWalks": "5",
       "inheritedRunners": "60",
       "inheritedRunnersThatScored": "35",
       "sacrificeHitsAllowed": "19",
-      "sacrificeFliesAllowed": "11",
+      "sacrificeFliesAllowed": "12",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6227",
-      "flyouts": "365",
-      "groundouts": "314",
+      "pitches": "6397",
+      "flyouts": "376",
+      "groundouts": "317",
       "teamUnearnedRuns": "0",
       "saveRecord": "7",
       "pickoff": "1"
@@ -576,22 +576,22 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "6",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/mito-perez/14302",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Perez.jpg",
-        "gamesPlayed": 34,
+        "gamesPlayed": 35,
         "gamesStarted": 31,
-        "battingAverage": 0.283,
-        "onBasePercentage": 0.379,
-        "sluggingPercentage": 0.383,
-        "ops": 0.762,
-        "atBats": 120,
-        "runs": 22,
-        "hits": 34,
+        "battingAverage": 0.289,
+        "onBasePercentage": 0.387,
+        "sluggingPercentage": 0.388,
+        "ops": 0.775,
+        "atBats": 121,
+        "runs": 23,
+        "hits": 35,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 11,
-        "totalBases": 46,
+        "totalBases": 47,
         "walks": 12,
-        "hitByPitch": 7,
+        "hitByPitch": 8,
         "strikeouts": 7,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
@@ -602,7 +602,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "putouts": 238,
         "assists": 26,
         "errors": 3,
-        "plateAppearances": 149,
+        "plateAppearances": 151,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -629,36 +629,36 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "totalChances": 267
       },
       "evaluation": {
-        "score": 44,
+        "score": 47,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 54.99999999999999,
-          "Power": 16.578947368421055,
-          "Contact": 39.374999999999986,
+          "On-base": 59.444444444444436,
+          "Power": 17.894736842105267,
+          "Contact": 43.124999999999986,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },
         "summary": "Mito Perez profiles as a C piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .283",
-          "OBP .379",
-          "SLG .383"
+          "AVG .289",
+          "OBP .387",
+          "SLG .388"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".283"
+            "value": ".289"
           },
           {
             "label": "OBP",
-            "value": ".379"
+            "value": ".387"
           },
           {
             "label": "SLG",
-            "value": ".383"
+            "value": ".388"
           },
           {
             "label": "HR",
@@ -721,25 +721,25 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "7",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/trevor-schmidt/14296",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Schmidt.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 18,
-        "battingAverage": 0.378,
-        "onBasePercentage": 0.44,
-        "sluggingPercentage": 0.77,
-        "ops": 1.21,
-        "atBats": 74,
-        "runs": 16,
-        "hits": 28,
-        "doubles": 5,
+        "gamesPlayed": 25,
+        "gamesStarted": 19,
+        "battingAverage": 0.38,
+        "onBasePercentage": 0.438,
+        "sluggingPercentage": 0.759,
+        "ops": 1.197,
+        "atBats": 79,
+        "runs": 17,
+        "hits": 30,
+        "doubles": 6,
         "triples": 0,
         "homeRuns": 8,
         "runsBattedIn": 28,
-        "totalBases": 57,
+        "totalBases": 60,
         "walks": 7,
         "hitByPitch": 2,
-        "strikeouts": 18,
+        "strikeouts": 19,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
+        "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 0,
@@ -747,7 +747,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "putouts": 3,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 84,
+        "plateAppearances": 89,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -780,30 +780,30 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 88.88888888888889,
+          "On-base": 87.77777777777777,
           "Power": 100,
-          "Contact": 98.75,
-          "Discipline": 20.98765432098765,
+          "Contact": 100,
+          "Discipline": 18.713450292397653,
           "Speed": 0
         },
         "summary": "Trevor Schmidt profiles as a 1B/OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .378",
-          "OBP .440",
-          "SLG .770"
+          "AVG .380",
+          "OBP .438",
+          "SLG .759"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".378"
+            "value": ".380"
           },
           {
             "label": "OBP",
-            "value": ".440"
+            "value": ".438"
           },
           {
             "label": "SLG",
-            "value": ".770"
+            "value": ".759"
           },
           {
             "label": "HR",
@@ -866,33 +866,33 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "8",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/jake-sanko/14284",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Sanko.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 35,
-        "battingAverage": 0.314,
-        "onBasePercentage": 0.383,
-        "sluggingPercentage": 0.414,
-        "ops": 0.797,
-        "atBats": 140,
+        "gamesPlayed": 37,
+        "gamesStarted": 36,
+        "battingAverage": 0.319,
+        "onBasePercentage": 0.389,
+        "sluggingPercentage": 0.417,
+        "ops": 0.806,
+        "atBats": 144,
         "runs": 20,
-        "hits": 44,
+        "hits": 46,
         "doubles": 9,
         "triples": 1,
         "homeRuns": 1,
         "runsBattedIn": 21,
-        "totalBases": 58,
-        "walks": 14,
+        "totalBases": 60,
+        "walks": 15,
         "hitByPitch": 4,
-        "strikeouts": 24,
+        "strikeouts": 25,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 4,
         "sacrificeHits": 1,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 5,
+        "stolenBases": 4,
+        "stolenBasesAttempts": 6,
         "putouts": 50,
-        "assists": 83,
+        "assists": 85,
         "errors": 4,
-        "plateAppearances": 170,
+        "plateAppearances": 176,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -904,10 +904,10 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "8",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/jake-sanko/14284",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Sanko.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
         "putouts": 50,
-        "assists": 83,
+        "assists": 85,
         "errors": 4,
         "fieldingPercentage": 0.971,
         "doublePlays": 15,
@@ -916,39 +916,39 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 137
+        "totalChances": 139
       },
       "evaluation": {
-        "score": 42,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 57.22222222222222,
-          "Power": 24.736842105263154,
-          "Contact": 58.75,
-          "Discipline": 42.59259259259259,
-          "Speed": 10
+          "On-base": 60.55555555555555,
+          "Power": 25.52631578947368,
+          "Contact": 61.875,
+          "Discipline": 44.444444444444436,
+          "Speed": 13.333333333333334
         },
         "summary": "Jake Sanko gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .314",
-          "OBP .383",
-          "SLG .414"
+          "AVG .319",
+          "OBP .389",
+          "SLG .417"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".314"
+            "value": ".319"
           },
           {
             "label": "OBP",
-            "value": ".383"
+            "value": ".389"
           },
           {
             "label": "SLG",
-            "value": ".414"
+            "value": ".417"
           },
           {
             "label": "HR",
@@ -960,7 +960,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "4"
           }
         ],
         "metaLine": "SO / R/R",
@@ -1099,35 +1099,35 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "11",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/billy-scaldeferri/14285",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Scaldeferri.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 38,
-        "battingAverage": 0.318,
+        "gamesPlayed": 40,
+        "gamesStarted": 39,
+        "battingAverage": 0.321,
         "onBasePercentage": 0.383,
-        "sluggingPercentage": 0.526,
-        "ops": 0.909,
-        "atBats": 154,
+        "sluggingPercentage": 0.522,
+        "ops": 0.905,
+        "atBats": 159,
         "runs": 25,
-        "hits": 49,
+        "hits": 51,
         "doubles": 10,
         "triples": 2,
         "homeRuns": 6,
         "runsBattedIn": 31,
-        "totalBases": 81,
+        "totalBases": 83,
         "walks": 8,
         "hitByPitch": 10,
         "strikeouts": 32,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 6,
+        "groundedIntoDoublePlay": 7,
         "sacrificeFlies": 3,
         "sacrificeHits": 1,
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
-        "putouts": 77,
-        "assists": 7,
+        "putouts": 78,
+        "assists": 8,
         "errors": 0,
-        "plateAppearances": 180,
+        "plateAppearances": 185,
         "caughtStealing": 0,
-        "pickedOff": 1
+        "pickedOff": 2
       },
       "pitchingStats": null,
       "fieldingStats": {
@@ -1137,10 +1137,10 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "11",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/billy-scaldeferri/14285",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Scaldeferri.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 33,
-        "putouts": 77,
-        "assists": 7,
+        "gamesPlayed": 34,
+        "gamesStarted": 34,
+        "putouts": 78,
+        "assists": 8,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 1,
@@ -1149,7 +1149,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 84
+        "totalChances": 86
       },
       "evaluation": {
         "score": 46,
@@ -1159,21 +1159,21 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         },
         "components": {
           "On-base": 57.22222222222222,
-          "Power": 54.21052631578949,
-          "Contact": 61.25000000000001,
+          "Power": 53.15789473684212,
+          "Contact": 63.125,
           "Discipline": 5.555555555555554,
           "Speed": 13.333333333333334
         },
         "summary": "Billy Scaldeferri gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .318",
+          "AVG .321",
           "OBP .383",
-          "SLG .526"
+          "SLG .522"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".318"
+            "value": ".321"
           },
           {
             "label": "OBP",
@@ -1181,7 +1181,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           },
           {
             "label": "SLG",
-            "value": ".526"
+            "value": ".522"
           },
           {
             "label": "HR",
@@ -1244,20 +1244,20 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "12",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/carson-ohland/14279",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Ohland.jpg",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 9,
-        "battingAverage": 0.275,
-        "onBasePercentage": 0.356,
-        "sluggingPercentage": 0.525,
-        "ops": 0.881,
-        "atBats": 40,
+        "battingAverage": 0.279,
+        "onBasePercentage": 0.354,
+        "sluggingPercentage": 0.535,
+        "ops": 0.889,
+        "atBats": 43,
         "runs": 5,
-        "hits": 11,
-        "doubles": 2,
+        "hits": 12,
+        "doubles": 3,
         "triples": 1,
         "homeRuns": 2,
-        "runsBattedIn": 4,
-        "totalBases": 21,
+        "runsBattedIn": 5,
+        "totalBases": 23,
         "walks": 5,
         "hitByPitch": 0,
         "strikeouts": 9,
@@ -1270,7 +1270,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "putouts": 12,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 46,
+        "plateAppearances": 49,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1297,36 +1297,36 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "totalChances": 13
       },
       "evaluation": {
-        "score": 39,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 42.2222222222222,
-          "Power": 53.947368421052644,
-          "Contact": 34.375000000000014,
+          "On-base": 41.111111111111086,
+          "Power": 56.57894736842106,
+          "Contact": 36.875000000000014,
           "Discipline": 39.50617283950617,
           "Speed": 0
         },
         "summary": "Carson Ohland gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .275",
-          "OBP .356",
-          "SLG .525"
+          "AVG .279",
+          "OBP .354",
+          "SLG .535"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".275"
+            "value": ".279"
           },
           {
             "label": "OBP",
-            "value": ".356"
+            "value": ".354"
           },
           {
             "label": "SLG",
-            "value": ".525"
+            "value": ".535"
           },
           {
             "label": "HR",
@@ -1334,7 +1334,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           },
           {
             "label": "RBI",
-            "value": "4"
+            "value": "5"
           },
           {
             "label": "SB",
@@ -1676,33 +1676,33 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "15",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/griffin-cameron/14299",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Cameron.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 28,
-        "battingAverage": 0.267,
-        "onBasePercentage": 0.391,
-        "sluggingPercentage": 0.4,
-        "ops": 0.791,
-        "atBats": 90,
-        "runs": 21,
-        "hits": 24,
+        "gamesPlayed": 35,
+        "gamesStarted": 29,
+        "battingAverage": 0.287,
+        "onBasePercentage": 0.409,
+        "sluggingPercentage": 0.415,
+        "ops": 0.824,
+        "atBats": 94,
+        "runs": 22,
+        "hits": 27,
         "doubles": 3,
         "triples": 0,
         "homeRuns": 3,
-        "runsBattedIn": 18,
-        "totalBases": 36,
-        "walks": 16,
+        "runsBattedIn": 20,
+        "totalBases": 39,
+        "walks": 17,
         "hitByPitch": 3,
         "strikeouts": 20,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
         "sacrificeHits": 3,
-        "stolenBases": 4,
-        "stolenBasesAttempts": 4,
-        "putouts": 87,
+        "stolenBases": 5,
+        "stolenBasesAttempts": 5,
+        "putouts": 91,
         "assists": 3,
         "errors": 0,
-        "plateAppearances": 117,
+        "plateAppearances": 123,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1714,9 +1714,9 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "15",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/griffin-cameron/14299",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Cameron.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 27,
-        "putouts": 87,
+        "gamesPlayed": 30,
+        "gamesStarted": 28,
+        "putouts": 91,
         "assists": 3,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1726,39 +1726,39 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 90
+        "totalChances": 94
       },
       "evaluation": {
-        "score": 41,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 61.66666666666666,
-          "Power": 21.052631578947377,
-          "Contact": 29.375000000000007,
-          "Discipline": 66.66666666666666,
-          "Speed": 13.333333333333334
+          "On-base": 71.66666666666664,
+          "Power": 24.999999999999996,
+          "Contact": 41.874999999999986,
+          "Discipline": 72.2222222222222,
+          "Speed": 16.666666666666664
         },
-        "summary": "Griffin Cameron gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Griffin Cameron profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .267",
-          "OBP .391",
-          "SLG .400"
+          "AVG .287",
+          "OBP .409",
+          "SLG .415"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".267"
+            "value": ".287"
           },
           {
             "label": "OBP",
-            "value": ".391"
+            "value": ".409"
           },
           {
             "label": "SLG",
-            "value": ".400"
+            "value": ".415"
           },
           {
             "label": "HR",
@@ -1766,11 +1766,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "20"
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "metaLine": "JR / L/L",
@@ -2102,32 +2102,32 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "21",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/gunnar-penzkover/14282",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Penzkover.jpg",
-        "gamesPlayed": 2,
+        "gamesPlayed": 3,
         "gamesStarted": 1,
-        "appearances": 2,
+        "appearances": 3,
         "gamesCompleted": 0,
-        "earnedRunAverage": 0,
-        "whip": 2,
-        "wins": 0,
+        "earnedRunAverage": 4.5,
+        "whip": 2.25,
+        "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 3,
-        "inningsPitchedDisplay": "3.0",
-        "hitsAllowed": 4,
-        "runsAllowed": 0,
-        "earnedRunsAllowed": 0,
+        "inningsPitched": 4,
+        "inningsPitchedDisplay": "4.0",
+        "hitsAllowed": 7,
+        "runsAllowed": 2,
+        "earnedRunsAllowed": 2,
         "walksAllowed": 2,
         "strikeouts": 0,
         "doublesAllowed": 2,
-        "triplesAllowed": 0,
+        "triplesAllowed": 1,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 12,
+        "opponentsAtBats": 17,
         "wildPitches": 0,
         "hitBatters": 0,
         "balks": 0,
-        "opponentsBattingAverage": 0.333,
-        "walksHits": 6
+        "opponentsBattingAverage": 0.412,
+        "walksHits": 9
       },
       "fieldingStats": {
         "rosterBioId": "14282",
@@ -2163,20 +2163,20 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Gunnar Penzkover looks like a RHP/OF option who limits runs.",
+        "summary": "Gunnar Penzkover gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 2.00",
+          "ERA 4.50",
+          "WHIP 2.25",
           "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "0.00"
+            "value": "4.50"
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "2.25"
           },
           {
             "label": "K/9",
@@ -2184,7 +2184,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           },
           {
             "label": "BB/9",
-            "value": "6.0"
+            "value": "4.5"
           },
           {
             "label": "HR/9",
@@ -2192,7 +2192,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           },
           {
             "label": "IP",
-            "value": "3.0"
+            "value": "4.0"
           }
         ],
         "metaLine": "SO / R/R",
@@ -2385,33 +2385,33 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "23",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/cannon-peery/14281",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Peery.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "battingAverage": 0.288,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "battingAverage": 0.291,
         "onBasePercentage": 0.414,
-        "sluggingPercentage": 0.521,
-        "ops": 0.935,
-        "atBats": 146,
-        "runs": 25,
-        "hits": 42,
+        "sluggingPercentage": 0.536,
+        "ops": 0.95,
+        "atBats": 151,
+        "runs": 27,
+        "hits": 44,
         "doubles": 11,
         "triples": 1,
-        "homeRuns": 7,
-        "runsBattedIn": 24,
-        "totalBases": 76,
+        "homeRuns": 8,
+        "runsBattedIn": 26,
+        "totalBases": 81,
         "walks": 21,
         "hitByPitch": 12,
-        "strikeouts": 36,
+        "strikeouts": 38,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 8,
         "stolenBasesAttempts": 9,
-        "putouts": 311,
-        "assists": 23,
+        "putouts": 317,
+        "assists": 24,
         "errors": 5,
-        "plateAppearances": 191,
+        "plateAppearances": 196,
         "caughtStealing": 1,
         "pickedOff": 2
       },
@@ -2423,43 +2423,43 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "23",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/cannon-peery/14281",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Peery.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "putouts": 311,
-        "assists": 23,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "putouts": 317,
+        "assists": 24,
         "errors": 5,
-        "fieldingPercentage": 0.985,
-        "doublePlays": 32,
+        "fieldingPercentage": 0.986,
+        "doublePlays": 33,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 339
+        "totalChances": 346
       },
       "evaluation": {
-        "score": 54,
+        "score": 55,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
           "On-base": 74.44444444444443,
-          "Power": 52.894736842105274,
-          "Contact": 42.499999999999986,
-          "Discipline": 42.59259259259259,
+          "Power": 56.842105263157904,
+          "Contact": 44.374999999999986,
+          "Discipline": 39.1812865497076,
           "Speed": 26.666666666666668
         },
         "summary": "Cannon Peery profiles as a 1B piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .288",
+          "AVG .291",
           "OBP .414",
-          "SLG .521"
+          "SLG .536"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".288"
+            "value": ".291"
           },
           {
             "label": "OBP",
@@ -2467,15 +2467,15 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           },
           {
             "label": "SLG",
-            "value": ".521"
+            "value": ".536"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "26"
           },
           {
             "label": "SB",
@@ -2815,32 +2815,32 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "27",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/tommy-mcguire/14311",
         "imageUrl": "https://gculopes.com/images/2025/9/18/McGuire.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 0,
-        "appearances": 12,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 9.15,
-        "whip": 1.69,
+        "earnedRunAverage": 7.99,
+        "whip": 1.65,
         "wins": 0,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 20.666666666666668,
-        "inningsPitchedDisplay": "20.2",
-        "hitsAllowed": 30,
-        "runsAllowed": 24,
+        "inningsPitched": 23.666666666666668,
+        "inningsPitchedDisplay": "23.2",
+        "hitsAllowed": 33,
+        "runsAllowed": 26,
         "earnedRunsAllowed": 21,
-        "walksAllowed": 5,
-        "strikeouts": 24,
-        "doublesAllowed": 10,
+        "walksAllowed": 6,
+        "strikeouts": 29,
+        "doublesAllowed": 11,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 89,
+        "opponentsAtBats": 102,
         "wildPitches": 2,
         "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.337,
-        "walksHits": 35
+        "opponentsBattingAverage": 0.324,
+        "walksHits": 39
       },
       "fieldingStats": {
         "rosterBioId": "14311",
@@ -2849,22 +2849,22 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "27",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/tommy-mcguire/14311",
         "imageUrl": "https://gculopes.com/images/2025/9/18/McGuire.jpg",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 0,
         "putouts": 1,
         "assists": 2,
-        "errors": 2,
-        "fieldingPercentage": 0.6,
+        "errors": 3,
+        "fieldingPercentage": 0.5,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 5
+        "totalChances": 6
       },
       "evaluation": {
-        "score": 24,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2872,40 +2872,40 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 58.65102639296187,
-          "Command": 76,
+          "Miss bats": 63.89244558258642,
+          "Command": 76.66666666666666,
           "Damage suppression": 0
         },
         "summary": "Tommy McGuire looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 9.15",
-          "WHIP 1.69",
-          "K/9 10.5"
+          "ERA 7.99",
+          "WHIP 1.65",
+          "K/9 11.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.15"
+            "value": "7.99"
           },
           {
             "label": "WHIP",
-            "value": "1.69"
+            "value": "1.65"
           },
           {
             "label": "K/9",
-            "value": "10.5"
+            "value": "11.0"
           },
           {
             "label": "BB/9",
-            "value": "2.2"
+            "value": "2.3"
           },
           {
             "label": "HR/9",
-            "value": "1.31"
+            "value": "1.14"
           },
           {
             "label": "IP",
-            "value": "20.7"
+            "value": "23.7"
           }
         ],
         "metaLine": "JR / R/R",
@@ -2956,23 +2956,23 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "28",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/kade-huff/14275",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Huff.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 1,
-        "battingAverage": 0.2,
-        "onBasePercentage": 0.333,
-        "sluggingPercentage": 0.2,
-        "ops": 0.533,
-        "atBats": 5,
-        "runs": 1,
-        "hits": 1,
+        "gamesPlayed": 5,
+        "gamesStarted": 2,
+        "battingAverage": 0.286,
+        "onBasePercentage": 0.375,
+        "sluggingPercentage": 0.286,
+        "ops": 0.661,
+        "atBats": 7,
+        "runs": 2,
+        "hits": 2,
         "doubles": 0,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 0,
-        "totalBases": 1,
+        "totalBases": 2,
         "walks": 1,
         "hitByPitch": 0,
-        "strikeouts": 1,
+        "strikeouts": 2,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -2982,7 +2982,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "putouts": 6,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 6,
+        "plateAppearances": 8,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3009,36 +3009,36 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "totalChances": 6
       },
       "evaluation": {
-        "score": 22,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 29.44444444444444,
+          "On-base": 52.77777777777777,
           "Power": 0,
-          "Contact": 0,
-          "Discipline": 88.88888888888889,
+          "Contact": 41.24999999999998,
+          "Discipline": 33.33333333333333,
           "Speed": 0
         },
-        "summary": "Kade Huff profiles as a C piece who controls at-bats.",
+        "summary": "Kade Huff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .200",
-          "OBP .333",
-          "SLG .200"
+          "AVG .286",
+          "OBP .375",
+          "SLG .286"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".200"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".375"
           },
           {
             "label": "SLG",
-            "value": ".200"
+            "value": ".286"
           },
           {
             "label": "HR",
@@ -3102,32 +3102,32 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "29",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/cam-cunnings/14271",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Cunnings.jpg",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 0,
-        "appearances": 15,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.7,
-        "whip": 1.4,
+        "earnedRunAverage": 4.62,
+        "whip": 1.5,
         "wins": 2,
         "losses": 3,
         "saves": 3,
         "shutouts": 0,
-        "inningsPitched": 24.333333333333332,
-        "inningsPitchedDisplay": "24.1",
-        "hitsAllowed": 27,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 10,
-        "walksAllowed": 7,
-        "strikeouts": 17,
+        "inningsPitched": 25.333333333333332,
+        "inningsPitchedDisplay": "25.1",
+        "hitsAllowed": 29,
+        "runsAllowed": 16,
+        "earnedRunsAllowed": 13,
+        "walksAllowed": 9,
+        "strikeouts": 19,
         "doublesAllowed": 4,
-        "triplesAllowed": 1,
+        "triplesAllowed": 2,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 97,
+        "opponentsAtBats": 102,
         "wildPitches": 1,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.278,
-        "walksHits": 34
+        "opponentsBattingAverage": 0.284,
+        "walksHits": 38
       },
       "fieldingStats": {
         "rosterBioId": "14271",
@@ -3159,40 +3159,40 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 20.79701120797012,
-          "Command": 28.571428571428577,
+          "Miss bats": 25,
+          "Command": 22.222222222222214,
           "Damage suppression": 0
         },
-        "summary": "Cam Cunnings looks like a RHP option who limits runs and throws enough strikes.",
+        "summary": "Cam Cunnings gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 3.70",
-          "WHIP 1.40",
-          "K/9 6.3"
+          "ERA 4.62",
+          "WHIP 1.50",
+          "K/9 6.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.70"
+            "value": "4.62"
           },
           {
             "label": "WHIP",
-            "value": "1.40"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "6.3"
+            "value": "6.8"
           },
           {
             "label": "BB/9",
-            "value": "2.6"
+            "value": "3.2"
           },
           {
             "label": "HR/9",
-            "value": "0.37"
+            "value": "0.36"
           },
           {
             "label": "IP",
-            "value": "24.3"
+            "value": "25.3"
           }
         ],
         "metaLine": "SR / R/R",
@@ -3243,14 +3243,14 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "30",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/dominic-chacon/14269",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Chacon.jpg",
-        "gamesPlayed": 29,
+        "gamesPlayed": 30,
         "gamesStarted": 23,
         "battingAverage": 0.226,
         "onBasePercentage": 0.347,
         "sluggingPercentage": 0.393,
         "ops": 0.74,
         "atBats": 84,
-        "runs": 20,
+        "runs": 21,
         "hits": 19,
         "doubles": 5,
         "triples": 0,
@@ -4169,13 +4169,13 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "37",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/marcus-galvan/14272",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Galvan.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 12,
-        "battingAverage": 0.176,
-        "onBasePercentage": 0.328,
-        "sluggingPercentage": 0.196,
-        "ops": 0.524,
-        "atBats": 51,
+        "gamesPlayed": 26,
+        "gamesStarted": 13,
+        "battingAverage": 0.167,
+        "onBasePercentage": 0.313,
+        "sluggingPercentage": 0.185,
+        "ops": 0.498,
+        "atBats": 54,
         "runs": 6,
         "hits": 9,
         "doubles": 1,
@@ -4185,17 +4185,17 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "totalBases": 10,
         "walks": 8,
         "hitByPitch": 4,
-        "strikeouts": 13,
+        "strikeouts": 15,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 72,
-        "assists": 4,
+        "putouts": 83,
+        "assists": 6,
         "errors": 3,
-        "plateAppearances": 67,
+        "plateAppearances": 70,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -4207,51 +4207,51 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "37",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/marcus-galvan/14272",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Galvan.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 10,
-        "putouts": 72,
-        "assists": 4,
+        "gamesPlayed": 14,
+        "gamesStarted": 11,
+        "putouts": 83,
+        "assists": 6,
         "errors": 3,
-        "fieldingPercentage": 0.962,
+        "fieldingPercentage": 0.967,
         "doublePlays": 1,
-        "stolenBasesAgainst": 10,
+        "stolenBasesAgainst": 11,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
-        "passedBalls": 1,
+        "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 79
+        "totalChances": 92
       },
       "evaluation": {
-        "score": 15,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 26.66666666666666,
+          "On-base": 18.333333333333318,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 46.15384615384615,
+          "Discipline": 37.03703703703703,
           "Speed": 0
         },
         "summary": "Marcus Galvan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .176",
-          "OBP .328",
-          "SLG .196"
+          "AVG .167",
+          "OBP .313",
+          "SLG .185"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".176"
+            "value": ".167"
           },
           {
             "label": "OBP",
-            "value": ".328"
+            "value": ".313"
           },
           {
             "label": "SLG",
-            "value": ".196"
+            "value": ".185"
           },
           {
             "label": "HR",
@@ -5010,21 +5010,21 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "46",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/jose-lopez-iii/14290",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Lopez.jpg",
-        "gamesPlayed": 26,
+        "gamesPlayed": 27,
         "gamesStarted": 22,
-        "battingAverage": 0.27,
-        "onBasePercentage": 0.323,
-        "sluggingPercentage": 0.528,
-        "ops": 0.851,
-        "atBats": 89,
-        "runs": 11,
-        "hits": 24,
-        "doubles": 6,
+        "battingAverage": 0.286,
+        "onBasePercentage": 0.343,
+        "sluggingPercentage": 0.56,
+        "ops": 0.903,
+        "atBats": 91,
+        "runs": 12,
+        "hits": 26,
+        "doubles": 8,
         "triples": 1,
         "homeRuns": 5,
         "runsBattedIn": 14,
-        "totalBases": 47,
-        "walks": 5,
+        "totalBases": 51,
+        "walks": 6,
         "hitByPitch": 2,
         "strikeouts": 23,
         "intentionalWalks": 1,
@@ -5033,10 +5033,10 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
-        "putouts": 16,
+        "putouts": 18,
         "assists": 41,
         "errors": 12,
-        "plateAppearances": 100,
+        "plateAppearances": 103,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -5048,51 +5048,51 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "46",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/jose-lopez-iii/14290",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Lopez.jpg",
-        "gamesPlayed": 20,
+        "gamesPlayed": 21,
         "gamesStarted": 20,
-        "putouts": 16,
+        "putouts": 18,
         "assists": 41,
         "errors": 12,
-        "fieldingPercentage": 0.826,
+        "fieldingPercentage": 0.831,
         "doublePlays": 9,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 69
+        "totalChances": 71
       },
       "evaluation": {
-        "score": 29,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 23.88888888888888,
-          "Power": 54.73684210526317,
-          "Contact": 31.25000000000001,
-          "Discipline": 1.932367149758452,
+          "On-base": 35,
+          "Power": 63.157894736842124,
+          "Contact": 41.24999999999998,
+          "Discipline": 6.763285024154586,
           "Speed": 13.333333333333334
         },
-        "summary": "Jose Lopez III gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Jose Lopez III profiles as a 3B/C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .270",
-          "OBP .323",
-          "SLG .528"
+          "AVG .286",
+          "OBP .343",
+          "SLG .560"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".270"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".323"
+            "value": ".343"
           },
           {
             "label": "SLG",
-            "value": ".528"
+            "value": ".560"
           },
           {
             "label": "HR",
@@ -5298,32 +5298,32 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "48",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/cody-kiemele/14308",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Kiemele.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 7,
-        "appearances": 11,
+        "gamesPlayed": 12,
+        "gamesStarted": 8,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.45,
-        "whip": 2.19,
+        "earnedRunAverage": 5.81,
+        "whip": 2.01,
         "wins": 0,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 22.333333333333332,
-        "inningsPitchedDisplay": "22.1",
-        "hitsAllowed": 30,
-        "runsAllowed": 20,
-        "earnedRunsAllowed": 16,
-        "walksAllowed": 19,
-        "strikeouts": 16,
+        "inningsPitched": 26.333333333333332,
+        "inningsPitchedDisplay": "26.1",
+        "hitsAllowed": 33,
+        "runsAllowed": 21,
+        "earnedRunsAllowed": 17,
+        "walksAllowed": 20,
+        "strikeouts": 21,
         "doublesAllowed": 6,
         "triplesAllowed": 1,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 92,
+        "opponentsAtBats": 106,
         "wildPitches": 2,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.326,
-        "walksHits": 49
+        "opponentsBattingAverage": 0.311,
+        "walksHits": 53
       },
       "fieldingStats": {
         "rosterBioId": "14308",
@@ -5347,7 +5347,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "totalChances": 3
       },
       "evaluation": {
-        "score": 4,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5355,40 +5355,40 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 22.25237449118046,
-          "Command": 0,
+          "Miss bats": 28.883774453394707,
+          "Command": 1.0000000000000009,
           "Damage suppression": 0
         },
         "summary": "Cody Kiemele gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.45",
-          "WHIP 2.19",
-          "K/9 6.4"
+          "ERA 5.81",
+          "WHIP 2.01",
+          "K/9 7.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.45"
+            "value": "5.81"
           },
           {
             "label": "WHIP",
-            "value": "2.19"
+            "value": "2.01"
           },
           {
             "label": "K/9",
-            "value": "6.4"
+            "value": "7.2"
           },
           {
             "label": "BB/9",
-            "value": "7.7"
+            "value": "6.8"
           },
           {
             "label": "HR/9",
-            "value": "0.81"
+            "value": "0.68"
           },
           {
             "label": "IP",
-            "value": "22.3"
+            "value": "26.3"
           }
         ],
         "metaLine": "FR / L/L",
@@ -5439,33 +5439,33 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "51",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/camden-bates/14309",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Bates.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 24,
-        "battingAverage": 0.333,
-        "onBasePercentage": 0.455,
-        "sluggingPercentage": 0.485,
-        "ops": 0.94,
-        "atBats": 66,
+        "gamesPlayed": 29,
+        "gamesStarted": 25,
+        "battingAverage": 0.329,
+        "onBasePercentage": 0.441,
+        "sluggingPercentage": 0.471,
+        "ops": 0.912,
+        "atBats": 70,
         "runs": 23,
-        "hits": 22,
+        "hits": 23,
         "doubles": 4,
         "triples": 0,
         "homeRuns": 2,
-        "runsBattedIn": 14,
-        "totalBases": 32,
+        "runsBattedIn": 15,
+        "totalBases": 33,
         "walks": 12,
         "hitByPitch": 6,
-        "strikeouts": 16,
+        "strikeouts": 18,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 4,
+        "sacrificeFlies": 5,
         "sacrificeHits": 4,
         "stolenBases": 7,
         "stolenBasesAttempts": 10,
-        "putouts": 20,
+        "putouts": 22,
         "assists": 43,
         "errors": 6,
-        "plateAppearances": 105,
+        "plateAppearances": 110,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -5477,51 +5477,51 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "51",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/camden-bates/14309",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Bates.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 20,
-        "putouts": 20,
+        "gamesPlayed": 23,
+        "gamesStarted": 21,
+        "putouts": 22,
         "assists": 43,
         "errors": 6,
-        "fieldingPercentage": 0.913,
-        "doublePlays": 13,
+        "fieldingPercentage": 0.915,
+        "doublePlays": 14,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 69
+        "totalChances": 71
       },
       "evaluation": {
-        "score": 66,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 97.22222222222221,
-          "Power": 43.42105263157895,
-          "Contact": 70.625,
-          "Discipline": 61.11111111111111,
+          "On-base": 89.44444444444444,
+          "Power": 39.73684210526315,
+          "Contact": 68.125,
+          "Discipline": 51.85185185185184,
           "Speed": 23.333333333333332
         },
         "summary": "Camden Bates profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .333",
-          "OBP .455",
-          "SLG .485"
+          "AVG .329",
+          "OBP .441",
+          "SLG .471"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".333"
+            "value": ".329"
           },
           {
             "label": "OBP",
-            "value": ".455"
+            "value": ".441"
           },
           {
             "label": "SLG",
-            "value": ".485"
+            "value": ".471"
           },
           {
             "label": "HR",
@@ -5529,7 +5529,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           },
           {
             "label": "RBI",
-            "value": "14"
+            "value": "15"
           },
           {
             "label": "SB",
@@ -5871,33 +5871,33 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "66",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/tanner-johns/14294",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Johns.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 18,
-        "battingAverage": 0.29,
-        "onBasePercentage": 0.333,
-        "sluggingPercentage": 0.391,
-        "ops": 0.724,
-        "atBats": 69,
-        "runs": 8,
-        "hits": 20,
+        "gamesPlayed": 26,
+        "gamesStarted": 19,
+        "battingAverage": 0.296,
+        "onBasePercentage": 0.338,
+        "sluggingPercentage": 0.394,
+        "ops": 0.732,
+        "atBats": 71,
+        "runs": 9,
+        "hits": 21,
         "doubles": 4,
         "triples": 0,
         "homeRuns": 1,
         "runsBattedIn": 11,
-        "totalBases": 27,
+        "totalBases": 28,
         "walks": 4,
         "hitByPitch": 1,
-        "strikeouts": 22,
+        "strikeouts": 23,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 31,
+        "putouts": 32,
         "assists": 2,
         "errors": 1,
-        "plateAppearances": 77,
+        "plateAppearances": 79,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -5909,9 +5909,9 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "66",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/tanner-johns/14294",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Johns.jpg",
-        "gamesPlayed": 20,
-        "gamesStarted": 18,
-        "putouts": 31,
+        "gamesPlayed": 21,
+        "gamesStarted": 19,
+        "putouts": 32,
         "assists": 2,
         "errors": 1,
         "fieldingPercentage": 0.971,
@@ -5921,39 +5921,39 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 34
+        "totalChances": 35
       },
       "evaluation": {
-        "score": 22,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 29.44444444444444,
-          "Power": 18.684210526315795,
-          "Contact": 43.749999999999986,
+          "On-base": 32.22222222222222,
+          "Power": 19.473684210526322,
+          "Contact": 47.499999999999986,
           "Discipline": 0,
           "Speed": 0
         },
         "summary": "Tanner Johns gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .290",
-          "OBP .333",
-          "SLG .391"
+          "AVG .296",
+          "OBP .338",
+          "SLG .394"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".296"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".338"
           },
           {
             "label": "SLG",
-            "value": ".391"
+            "value": ".394"
           },
           {
             "label": "HR",
@@ -6325,29 +6325,29 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "position": "C",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 44,
+        "score": 47,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Mito Perez profiles as a C piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .283",
-          "OBP .379",
-          "SLG .383"
+          "AVG .289",
+          "OBP .387",
+          "SLG .388"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".283"
+            "value": ".289"
           },
           {
             "label": "OBP",
-            "value": ".379"
+            "value": ".387"
           },
           {
             "label": "SLG",
-            "value": ".383"
+            "value": ".388"
           },
           {
             "label": "HR",
@@ -6363,9 +6363,9 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           }
         ],
         "components": {
-          "On-base": 54.99999999999999,
-          "Power": 16.578947368421055,
-          "Contact": 39.374999999999986,
+          "On-base": 59.444444444444436,
+          "Power": 17.894736842105267,
+          "Contact": 43.124999999999986,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },
@@ -6401,22 +6401,22 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         },
         "summary": "Trevor Schmidt profiles as a 1B/OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .378",
-          "OBP .440",
-          "SLG .770"
+          "AVG .380",
+          "OBP .438",
+          "SLG .759"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".378"
+            "value": ".380"
           },
           {
             "label": "OBP",
-            "value": ".440"
+            "value": ".438"
           },
           {
             "label": "SLG",
-            "value": ".770"
+            "value": ".759"
           },
           {
             "label": "HR",
@@ -6432,10 +6432,10 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           }
         ],
         "components": {
-          "On-base": 88.88888888888889,
+          "On-base": 87.77777777777777,
           "Power": 100,
-          "Contact": 98.75,
-          "Discipline": 20.98765432098765,
+          "Contact": 100,
+          "Discipline": 18.713450292397653,
           "Speed": 0
         },
         "metaLine": "JR / L/L",
@@ -6463,29 +6463,29 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 42,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jake Sanko gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .314",
-          "OBP .383",
-          "SLG .414"
+          "AVG .319",
+          "OBP .389",
+          "SLG .417"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".314"
+            "value": ".319"
           },
           {
             "label": "OBP",
-            "value": ".383"
+            "value": ".389"
           },
           {
             "label": "SLG",
-            "value": ".414"
+            "value": ".417"
           },
           {
             "label": "HR",
@@ -6497,15 +6497,15 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "4"
           }
         ],
         "components": {
-          "On-base": 57.22222222222222,
-          "Power": 24.736842105263154,
-          "Contact": 58.75,
-          "Discipline": 42.59259259259259,
-          "Speed": 10
+          "On-base": 60.55555555555555,
+          "Power": 25.52631578947368,
+          "Contact": 61.875,
+          "Discipline": 44.444444444444436,
+          "Speed": 13.333333333333334
         },
         "metaLine": "SO / R/R",
         "detailBadges": [
@@ -6607,14 +6607,14 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         },
         "summary": "Billy Scaldeferri gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .318",
+          "AVG .321",
           "OBP .383",
-          "SLG .526"
+          "SLG .522"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".318"
+            "value": ".321"
           },
           {
             "label": "OBP",
@@ -6622,7 +6622,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           },
           {
             "label": "SLG",
-            "value": ".526"
+            "value": ".522"
           },
           {
             "label": "HR",
@@ -6639,8 +6639,8 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         ],
         "components": {
           "On-base": 57.22222222222222,
-          "Power": 54.21052631578949,
-          "Contact": 61.25000000000001,
+          "Power": 53.15789473684212,
+          "Contact": 63.125,
           "Discipline": 5.555555555555554,
           "Speed": 13.333333333333334
         },
@@ -6669,29 +6669,29 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "S/R",
-        "score": 39,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Carson Ohland gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .275",
-          "OBP .356",
-          "SLG .525"
+          "AVG .279",
+          "OBP .354",
+          "SLG .535"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".275"
+            "value": ".279"
           },
           {
             "label": "OBP",
-            "value": ".356"
+            "value": ".354"
           },
           {
             "label": "SLG",
-            "value": ".525"
+            "value": ".535"
           },
           {
             "label": "HR",
@@ -6699,7 +6699,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           },
           {
             "label": "RBI",
-            "value": "4"
+            "value": "5"
           },
           {
             "label": "SB",
@@ -6707,9 +6707,9 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           }
         ],
         "components": {
-          "On-base": 42.2222222222222,
-          "Power": 53.947368421052644,
-          "Contact": 34.375000000000014,
+          "On-base": 41.111111111111086,
+          "Power": 56.57894736842106,
+          "Contact": 36.875000000000014,
           "Discipline": 39.50617283950617,
           "Speed": 0
         },
@@ -6876,29 +6876,29 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 41,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Griffin Cameron gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Griffin Cameron profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .267",
-          "OBP .391",
-          "SLG .400"
+          "AVG .287",
+          "OBP .409",
+          "SLG .415"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".267"
+            "value": ".287"
           },
           {
             "label": "OBP",
-            "value": ".391"
+            "value": ".409"
           },
           {
             "label": "SLG",
-            "value": ".400"
+            "value": ".415"
           },
           {
             "label": "HR",
@@ -6906,19 +6906,19 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "20"
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "components": {
-          "On-base": 61.66666666666666,
-          "Power": 21.052631578947377,
-          "Contact": 29.375000000000007,
-          "Discipline": 66.66666666666666,
-          "Speed": 13.333333333333334
+          "On-base": 71.66666666666664,
+          "Power": 24.999999999999996,
+          "Contact": 41.874999999999986,
+          "Discipline": 72.2222222222222,
+          "Speed": 16.666666666666664
         },
         "metaLine": "JR / L/L",
         "detailBadges": [
@@ -7088,20 +7088,20 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Gunnar Penzkover looks like a RHP/OF option who limits runs.",
+        "summary": "Gunnar Penzkover gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 2.00",
+          "ERA 4.50",
+          "WHIP 2.25",
           "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "0.00"
+            "value": "4.50"
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "2.25"
           },
           {
             "label": "K/9",
@@ -7109,7 +7109,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           },
           {
             "label": "BB/9",
-            "value": "6.0"
+            "value": "4.5"
           },
           {
             "label": "HR/9",
@@ -7117,7 +7117,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           },
           {
             "label": "IP",
-            "value": "3.0"
+            "value": "4.0"
           }
         ],
         "components": {
@@ -7221,21 +7221,21 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "position": "1B",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 54,
+        "score": 55,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cannon Peery profiles as a 1B piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .288",
+          "AVG .291",
           "OBP .414",
-          "SLG .521"
+          "SLG .536"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".288"
+            "value": ".291"
           },
           {
             "label": "OBP",
@@ -7243,15 +7243,15 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           },
           {
             "label": "SLG",
-            "value": ".521"
+            "value": ".536"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "26"
           },
           {
             "label": "SB",
@@ -7260,9 +7260,9 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         ],
         "components": {
           "On-base": 74.44444444444443,
-          "Power": 52.894736842105274,
-          "Contact": 42.499999999999986,
-          "Discipline": 42.59259259259259,
+          "Power": 56.842105263157904,
+          "Contact": 44.374999999999986,
+          "Discipline": 39.1812865497076,
           "Speed": 26.666666666666668
         },
         "metaLine": "JR / R/R",
@@ -7428,48 +7428,48 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 24,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tommy McGuire looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 9.15",
-          "WHIP 1.69",
-          "K/9 10.5"
+          "ERA 7.99",
+          "WHIP 1.65",
+          "K/9 11.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.15"
+            "value": "7.99"
           },
           {
             "label": "WHIP",
-            "value": "1.69"
+            "value": "1.65"
           },
           {
             "label": "K/9",
-            "value": "10.5"
+            "value": "11.0"
           },
           {
             "label": "BB/9",
-            "value": "2.2"
+            "value": "2.3"
           },
           {
             "label": "HR/9",
-            "value": "1.31"
+            "value": "1.14"
           },
           {
             "label": "IP",
-            "value": "20.7"
+            "value": "23.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 58.65102639296187,
-          "Command": 76,
+          "Miss bats": 63.89244558258642,
+          "Command": 76.66666666666666,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -7497,29 +7497,29 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "position": "C",
         "classYear": "R-JR",
         "handedness": "L/R",
-        "score": 22,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Kade Huff profiles as a C piece who controls at-bats.",
+        "summary": "Kade Huff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .200",
-          "OBP .333",
-          "SLG .200"
+          "AVG .286",
+          "OBP .375",
+          "SLG .286"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".200"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".375"
           },
           {
             "label": "SLG",
-            "value": ".200"
+            "value": ".286"
           },
           {
             "label": "HR",
@@ -7535,10 +7535,10 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           }
         ],
         "components": {
-          "On-base": 29.44444444444444,
+          "On-base": 52.77777777777777,
           "Power": 0,
-          "Contact": 0,
-          "Discipline": 88.88888888888889,
+          "Contact": 41.24999999999998,
+          "Discipline": 33.33333333333333,
           "Speed": 0
         },
         "metaLine": "R-JR / L/R",
@@ -7571,43 +7571,43 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cam Cunnings looks like a RHP option who limits runs and throws enough strikes.",
+        "summary": "Cam Cunnings gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 3.70",
-          "WHIP 1.40",
-          "K/9 6.3"
+          "ERA 4.62",
+          "WHIP 1.50",
+          "K/9 6.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.70"
+            "value": "4.62"
           },
           {
             "label": "WHIP",
-            "value": "1.40"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "6.3"
+            "value": "6.8"
           },
           {
             "label": "BB/9",
-            "value": "2.6"
+            "value": "3.2"
           },
           {
             "label": "HR/9",
-            "value": "0.37"
+            "value": "0.36"
           },
           {
             "label": "IP",
-            "value": "24.3"
+            "value": "25.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 20.79701120797012,
-          "Command": 28.571428571428577,
+          "Miss bats": 25,
+          "Command": 22.222222222222214,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -8117,29 +8117,29 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 15,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Marcus Galvan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .176",
-          "OBP .328",
-          "SLG .196"
+          "AVG .167",
+          "OBP .313",
+          "SLG .185"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".176"
+            "value": ".167"
           },
           {
             "label": "OBP",
-            "value": ".328"
+            "value": ".313"
           },
           {
             "label": "SLG",
-            "value": ".196"
+            "value": ".185"
           },
           {
             "label": "HR",
@@ -8155,10 +8155,10 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           }
         ],
         "components": {
-          "On-base": 26.66666666666666,
+          "On-base": 18.333333333333318,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 46.15384615384615,
+          "Discipline": 37.03703703703703,
           "Speed": 0
         },
         "metaLine": "JR / L/R",
@@ -8597,29 +8597,29 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "position": "3B/C",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 29,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jose Lopez III gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Jose Lopez III profiles as a 3B/C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .270",
-          "OBP .323",
-          "SLG .528"
+          "AVG .286",
+          "OBP .343",
+          "SLG .560"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".270"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".323"
+            "value": ".343"
           },
           {
             "label": "SLG",
-            "value": ".528"
+            "value": ".560"
           },
           {
             "label": "HR",
@@ -8635,10 +8635,10 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           }
         ],
         "components": {
-          "On-base": 23.88888888888888,
-          "Power": 54.73684210526317,
-          "Contact": 31.25000000000001,
-          "Discipline": 1.932367149758452,
+          "On-base": 35,
+          "Power": 63.157894736842124,
+          "Contact": 41.24999999999998,
+          "Discipline": 6.763285024154586,
           "Speed": 13.333333333333334
         },
         "metaLine": "FR / R/R",
@@ -8735,48 +8735,48 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "position": "LHP",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 4,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cody Kiemele gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.45",
-          "WHIP 2.19",
-          "K/9 6.4"
+          "ERA 5.81",
+          "WHIP 2.01",
+          "K/9 7.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.45"
+            "value": "5.81"
           },
           {
             "label": "WHIP",
-            "value": "2.19"
+            "value": "2.01"
           },
           {
             "label": "K/9",
-            "value": "6.4"
+            "value": "7.2"
           },
           {
             "label": "BB/9",
-            "value": "7.7"
+            "value": "6.8"
           },
           {
             "label": "HR/9",
-            "value": "0.81"
+            "value": "0.68"
           },
           {
             "label": "IP",
-            "value": "22.3"
+            "value": "26.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 22.25237449118046,
-          "Command": 0,
+          "Miss bats": 28.883774453394707,
+          "Command": 1.0000000000000009,
           "Damage suppression": 0
         },
         "metaLine": "FR / L/L",
@@ -8804,29 +8804,29 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 66,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Camden Bates profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .333",
-          "OBP .455",
-          "SLG .485"
+          "AVG .329",
+          "OBP .441",
+          "SLG .471"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".333"
+            "value": ".329"
           },
           {
             "label": "OBP",
-            "value": ".455"
+            "value": ".441"
           },
           {
             "label": "SLG",
-            "value": ".485"
+            "value": ".471"
           },
           {
             "label": "HR",
@@ -8834,7 +8834,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           },
           {
             "label": "RBI",
-            "value": "14"
+            "value": "15"
           },
           {
             "label": "SB",
@@ -8842,10 +8842,10 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           }
         ],
         "components": {
-          "On-base": 97.22222222222221,
-          "Power": 43.42105263157895,
-          "Contact": 70.625,
-          "Discipline": 61.11111111111111,
+          "On-base": 89.44444444444444,
+          "Power": 39.73684210526315,
+          "Contact": 68.125,
+          "Discipline": 51.85185185185184,
           "Speed": 23.333333333333332
         },
         "metaLine": "JR / R/R",
@@ -9011,29 +9011,29 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "position": "1B/OF",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 22,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tanner Johns gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .290",
-          "OBP .333",
-          "SLG .391"
+          "AVG .296",
+          "OBP .338",
+          "SLG .394"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".296"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".338"
           },
           {
             "label": "SLG",
-            "value": ".391"
+            "value": ".394"
           },
           {
             "label": "HR",
@@ -9049,9 +9049,9 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           }
         ],
         "components": {
-          "On-base": 29.44444444444444,
-          "Power": 18.684210526315795,
-          "Contact": 43.749999999999986,
+          "On-base": 32.22222222222222,
+          "Power": 19.473684210526322,
+          "Contact": 47.499999999999986,
           "Discipline": 0,
           "Speed": 0
         },

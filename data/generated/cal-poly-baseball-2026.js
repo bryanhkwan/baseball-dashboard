@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.cal-poly2026 = {
-  "generatedAt": "2026-04-28T12:02:21.977Z",
+  "generatedAt": "2026-04-29T11:54:54.115Z",
   "season": 2026,
   "school": {
     "slug": "cal-poly",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
     }
   },
   "teamSummary": {
-    "record": "24-18, 15-6",
-    "battingAverage": ".305",
-    "earnedRunAverage": "5.04",
-    "wins": "24",
+    "record": "25-18, 15-6",
+    "battingAverage": ".306",
+    "earnedRunAverage": "4.90",
+    "wins": "25",
     "losses": "18",
     "hitting": {
-      "atBats": "1510",
-      "runsScored": "278",
-      "hits": "461",
-      "runsBattedIn": "247",
-      "doubles": "111",
+      "atBats": "1546",
+      "runsScored": "285",
+      "hits": "473",
+      "runsBattedIn": "254",
+      "doubles": "116",
       "triples": "13",
-      "homeRuns": "41",
-      "walks": "153",
+      "homeRuns": "42",
+      "walks": "154",
       "intentionalWalks": "1",
-      "strikeouts": "282",
-      "strikeoutsLooking": "41",
-      "hitByPitch": "41",
-      "stolenBases": "15",
+      "strikeouts": "288",
+      "strikeoutsLooking": "43",
+      "hitByPitch": "42",
+      "stolenBases": "16",
       "caughtStealing": "9",
       "sacrificeHits": "18",
       "sacrificeFlies": "20",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "334",
-      "flyOuts": "414",
+      "groundOuts": "340",
+      "flyOuts": "427",
       "groundedIntoDoublePlay": "37",
       "pickedOff": "1",
       "doublePlaysHitInto": "41",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1135",
-      "assists": "338",
-      "errors": "40",
+      "putouts": "1162",
+      "assists": "345",
+      "errors": "42",
       "passedBalls": "3",
       "catchersInterference": "0",
       "stolenBasesAgainst": "41",
       "caughtStealingBy": "14",
       "involvedInDoublePlays": "18",
       "involvedInTriplePlays": "0",
-      "totalChances": "1513",
-      "fieldingPercentage": ".974"
+      "totalChances": "1549",
+      "fieldingPercentage": ".973"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "24",
-      "saves": "30",
+      "wins": "25",
+      "saves": "31",
       "losses": "18",
       "gamesStarted": "0",
       "gamesCompleted": "0",
-      "shutouts": "0",
-      "creditForCombinedShutout": "0",
-      "inningsPitched": "378.1",
-      "hitsAllowed": "395",
+      "shutouts": "1",
+      "creditForCombinedShutout": "1",
+      "inningsPitched": "387.1",
+      "hitsAllowed": "398",
       "runsAllowed": "233",
-      "earnedRunsAllowed": "212",
-      "walksAllowed": "167",
-      "strikeouts": "394",
-      "battersFaced": "1732",
-      "opponentAtBats": "1480",
+      "earnedRunsAllowed": "211",
+      "walksAllowed": "168",
+      "strikeouts": "406",
+      "battersFaced": "1767",
+      "opponentAtBats": "1512",
       "doublesAllowed": "85",
       "triplesAllowed": "12",
       "homerunsAllowed": "30",
       "wildPitches": "36",
       "balks": "3",
-      "hitBatters": "56",
-      "strikeoutsLooking": "58",
+      "hitBatters": "58",
+      "strikeoutsLooking": "62",
       "intentionalWalks": "0",
-      "inheritedRunners": "46",
+      "inheritedRunners": "45",
       "inheritedRunnersThatScored": "23",
       "sacrificeHitsAllowed": "14",
       "sacrificeFliesAllowed": "15",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6470",
-      "flyouts": "399",
-      "groundouts": "291",
+      "pitches": "6617",
+      "flyouts": "405",
+      "groundouts": "301",
       "teamUnearnedRuns": "0",
       "saveRecord": "11",
       "pickoff": "2"
@@ -161,14 +161,14 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "1",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/casey-murray-jr/10592",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Casey_Murray_-_03999.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "battingAverage": 0.329,
-        "onBasePercentage": 0.424,
-        "sluggingPercentage": 0.506,
-        "ops": 0.93,
-        "atBats": 164,
-        "runs": 32,
+        "gamesPlayed": 43,
+        "gamesStarted": 43,
+        "battingAverage": 0.323,
+        "onBasePercentage": 0.418,
+        "sluggingPercentage": 0.497,
+        "ops": 0.915,
+        "atBats": 167,
+        "runs": 33,
         "hits": 54,
         "doubles": 9,
         "triples": 4,
@@ -177,17 +177,17 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "totalBases": 83,
         "walks": 23,
         "hitByPitch": 4,
-        "strikeouts": 41,
+        "strikeouts": 43,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 2,
         "stolenBasesAttempts": 4,
-        "putouts": 111,
+        "putouts": 112,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 198,
+        "plateAppearances": 201,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -199,9 +199,9 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "1",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/casey-murray-jr/10592",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Casey_Murray_-_03999.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "putouts": 111,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "putouts": 112,
         "assists": 0,
         "errors": 2,
         "fieldingPercentage": 0.982,
@@ -211,39 +211,39 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 113
+        "totalChances": 114
       },
       "evaluation": {
-        "score": 57,
+        "score": 54,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 79.99999999999999,
-          "Power": 48.94736842105264,
-          "Contact": 68.125,
-          "Discipline": 40.108401084010836,
+          "On-base": 76.66666666666664,
+          "Power": 46.57894736842106,
+          "Contact": 64.375,
+          "Discipline": 37.20930232558138,
           "Speed": 6.666666666666667
         },
         "summary": "Casey Murray Jr. profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .329",
-          "OBP .424",
-          "SLG .506"
+          "AVG .323",
+          "OBP .418",
+          "SLG .497"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".329"
+            "value": ".323"
           },
           {
             "label": "OBP",
-            "value": ".424"
+            "value": ".418"
           },
           {
             "label": "SLG",
-            "value": ".506"
+            "value": ".497"
           },
           {
             "label": "HR",
@@ -306,23 +306,23 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "2",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/jake-downing/10582",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Jacob_Downing_-_03951.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 35,
-        "battingAverage": 0.273,
-        "onBasePercentage": 0.349,
-        "sluggingPercentage": 0.386,
-        "ops": 0.735,
-        "atBats": 132,
-        "runs": 28,
-        "hits": 36,
-        "doubles": 8,
+        "gamesPlayed": 41,
+        "gamesStarted": 36,
+        "battingAverage": 0.272,
+        "onBasePercentage": 0.346,
+        "sluggingPercentage": 0.39,
+        "ops": 0.736,
+        "atBats": 136,
+        "runs": 29,
+        "hits": 37,
+        "doubles": 9,
         "triples": 2,
         "homeRuns": 1,
-        "runsBattedIn": 20,
-        "totalBases": 51,
+        "runsBattedIn": 21,
+        "totalBases": 53,
         "walks": 15,
         "hitByPitch": 2,
-        "strikeouts": 46,
+        "strikeouts": 47,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 3,
@@ -330,9 +330,9 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 157,
-        "assists": 35,
+        "assists": 37,
         "errors": 1,
-        "plateAppearances": 160,
+        "plateAppearances": 164,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -344,10 +344,10 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "2",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/jake-downing/10582",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Jacob_Downing_-_03951.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 33,
+        "gamesPlayed": 38,
+        "gamesStarted": 34,
         "putouts": 157,
-        "assists": 35,
+        "assists": 37,
         "errors": 1,
         "fieldingPercentage": 0.995,
         "doublePlays": 12,
@@ -356,39 +356,39 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 193
+        "totalChances": 195
       },
       "evaluation": {
-        "score": 25,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 38.33333333333331,
-          "Power": 17.368421052631582,
-          "Contact": 33.12500000000001,
-          "Discipline": 14.00966183574879,
+          "On-base": 36.666666666666636,
+          "Power": 18.421052631578952,
+          "Contact": 32.500000000000014,
+          "Discipline": 13.238770685579196,
           "Speed": 0
         },
         "summary": "Jake Downing gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .273",
-          "OBP .349",
-          "SLG .386"
+          "AVG .272",
+          "OBP .346",
+          "SLG .390"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".273"
+            "value": ".272"
           },
           {
             "label": "OBP",
-            "value": ".349"
+            "value": ".346"
           },
           {
             "label": "SLG",
-            "value": ".386"
+            "value": ".390"
           },
           {
             "label": "HR",
@@ -396,7 +396,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "21"
           },
           {
             "label": "SB",
@@ -451,22 +451,22 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "4",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/dylan-kordic/10587",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Dylan_Kordic_-_03974.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 23,
-        "battingAverage": 0.278,
-        "onBasePercentage": 0.377,
-        "sluggingPercentage": 0.522,
-        "ops": 0.899,
-        "atBats": 90,
+        "gamesPlayed": 36,
+        "gamesStarted": 24,
+        "battingAverage": 0.29,
+        "onBasePercentage": 0.391,
+        "sluggingPercentage": 0.527,
+        "ops": 0.918,
+        "atBats": 93,
         "runs": 13,
-        "hits": 25,
+        "hits": 27,
         "doubles": 7,
         "triples": 0,
         "homeRuns": 5,
-        "runsBattedIn": 21,
-        "totalBases": 47,
+        "runsBattedIn": 23,
+        "totalBases": 49,
         "walks": 14,
-        "hitByPitch": 1,
+        "hitByPitch": 2,
         "strikeouts": 24,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
@@ -474,10 +474,10 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "sacrificeHits": 1,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 56,
+        "putouts": 57,
         "assists": 1,
         "errors": 3,
-        "plateAppearances": 109,
+        "plateAppearances": 113,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -489,51 +489,51 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "4",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/dylan-kordic/10587",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Dylan_Kordic_-_03974.jpg",
-        "gamesPlayed": 21,
-        "gamesStarted": 19,
-        "putouts": 56,
+        "gamesPlayed": 22,
+        "gamesStarted": 20,
+        "putouts": 57,
         "assists": 1,
         "errors": 3,
-        "fieldingPercentage": 0.95,
+        "fieldingPercentage": 0.951,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 60
+        "totalChances": 61
       },
       "evaluation": {
-        "score": 44,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 53.88888888888887,
-          "Power": 53.15789473684212,
-          "Contact": 36.250000000000014,
+          "On-base": 61.66666666666666,
+          "Power": 54.47368421052633,
+          "Contact": 43.749999999999986,
           "Discipline": 42.59259259259259,
           "Speed": 0
         },
         "summary": "Dylan Kordic gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .278",
-          "OBP .377",
-          "SLG .522"
+          "AVG .290",
+          "OBP .391",
+          "SLG .527"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".278"
+            "value": ".290"
           },
           {
             "label": "OBP",
-            "value": ".377"
+            "value": ".391"
           },
           {
             "label": "SLG",
-            "value": ".522"
+            "value": ".527"
           },
           {
             "label": "HR",
@@ -541,7 +541,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "23"
           },
           {
             "label": "SB",
@@ -596,23 +596,23 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "5",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/alejandro-garza/10584",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Alejandro_Garza_-_03963.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "battingAverage": 0.359,
+        "gamesPlayed": 43,
+        "gamesStarted": 43,
+        "battingAverage": 0.36,
         "onBasePercentage": 0.389,
-        "sluggingPercentage": 0.521,
-        "ops": 0.91,
-        "atBats": 192,
-        "runs": 34,
-        "hits": 69,
-        "doubles": 16,
+        "sluggingPercentage": 0.523,
+        "ops": 0.912,
+        "atBats": 197,
+        "runs": 35,
+        "hits": 71,
+        "doubles": 17,
         "triples": 0,
         "homeRuns": 5,
-        "runsBattedIn": 38,
-        "totalBases": 100,
+        "runsBattedIn": 39,
+        "totalBases": 103,
         "walks": 8,
         "hitByPitch": 2,
-        "strikeouts": 11,
+        "strikeouts": 12,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 7,
         "sacrificeFlies": 1,
@@ -620,9 +620,9 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 44,
-        "assists": 67,
-        "errors": 6,
-        "plateAppearances": 206,
+        "assists": 68,
+        "errors": 8,
+        "plateAppearances": 211,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -634,43 +634,43 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "5",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/alejandro-garza/10584",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Alejandro_Garza_-_03963.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
         "putouts": 44,
-        "assists": 67,
-        "errors": 6,
-        "fieldingPercentage": 0.949,
+        "assists": 68,
+        "errors": 8,
+        "fieldingPercentage": 0.933,
         "doublePlays": 8,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 117
+        "totalChances": 120
       },
       "evaluation": {
-        "score": 58,
+        "score": 57,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
           "On-base": 60.55555555555555,
-          "Power": 52.894736842105274,
-          "Contact": 86.87499999999999,
-          "Discipline": 58.58585858585859,
+          "Power": 53.42105263157896,
+          "Contact": 87.49999999999999,
+          "Discipline": 51.85185185185184,
           "Speed": 10
         },
         "summary": "Alejandro Garza gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .359",
+          "AVG .360",
           "OBP .389",
-          "SLG .521"
+          "SLG .523"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".359"
+            "value": ".360"
           },
           {
             "label": "OBP",
@@ -678,7 +678,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "SLG",
-            "value": ".521"
+            "value": ".523"
           },
           {
             "label": "HR",
@@ -686,7 +686,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "RBI",
-            "value": "38"
+            "value": "39"
           },
           {
             "label": "SB",
@@ -741,20 +741,20 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "6",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/dante-vachini/10598",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Dante_Vachini_-_04032.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 30,
-        "battingAverage": 0.279,
-        "onBasePercentage": 0.315,
-        "sluggingPercentage": 0.402,
-        "ops": 0.717,
-        "atBats": 122,
-        "runs": 17,
-        "hits": 34,
-        "doubles": 8,
+        "gamesPlayed": 37,
+        "gamesStarted": 31,
+        "battingAverage": 0.286,
+        "onBasePercentage": 0.321,
+        "sluggingPercentage": 0.413,
+        "ops": 0.734,
+        "atBats": 126,
+        "runs": 18,
+        "hits": 36,
+        "doubles": 9,
         "triples": 2,
         "homeRuns": 1,
         "runsBattedIn": 13,
-        "totalBases": 49,
+        "totalBases": 52,
         "walks": 7,
         "hitByPitch": 0,
         "strikeouts": 24,
@@ -764,10 +764,10 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "sacrificeHits": 3,
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
-        "putouts": 48,
+        "putouts": 50,
         "assists": 2,
         "errors": 1,
-        "plateAppearances": 137,
+        "plateAppearances": 141,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -779,51 +779,51 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "6",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/dante-vachini/10598",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Dante_Vachini_-_04032.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 24,
-        "putouts": 48,
+        "gamesPlayed": 27,
+        "gamesStarted": 25,
+        "putouts": 50,
         "assists": 2,
         "errors": 1,
-        "fieldingPercentage": 0.98,
+        "fieldingPercentage": 0.981,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 51
+        "totalChances": 53
       },
       "evaluation": {
-        "score": 21,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 19.444444444444432,
-          "Power": 21.578947368421062,
-          "Contact": 36.875000000000014,
+          "On-base": 22.777777777777768,
+          "Power": 24.47368421052631,
+          "Contact": 41.24999999999998,
           "Discipline": 10.185185185185185,
           "Speed": 6.666666666666667
         },
         "summary": "Dante Vachini gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .279",
-          "OBP .315",
-          "SLG .402"
+          "AVG .286",
+          "OBP .321",
+          "SLG .413"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".279"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".315"
+            "value": ".321"
           },
           {
             "label": "SLG",
-            "value": ".402"
+            "value": ".413"
           },
           {
             "label": "HR",
@@ -886,33 +886,33 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "7",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/nate-castellon/10580",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Nate_Castellon_-_03936.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "battingAverage": 0.343,
-        "onBasePercentage": 0.436,
-        "sluggingPercentage": 0.482,
-        "ops": 0.918,
-        "atBats": 166,
-        "runs": 38,
-        "hits": 57,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "battingAverage": 0.351,
+        "onBasePercentage": 0.44,
+        "sluggingPercentage": 0.503,
+        "ops": 0.943,
+        "atBats": 171,
+        "runs": 40,
+        "hits": 60,
         "doubles": 14,
         "triples": 0,
-        "homeRuns": 3,
-        "runsBattedIn": 17,
-        "totalBases": 80,
+        "homeRuns": 4,
+        "runsBattedIn": 19,
+        "totalBases": 86,
         "walks": 21,
         "hitByPitch": 7,
-        "strikeouts": 9,
+        "strikeouts": 10,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
         "sacrificeHits": 2,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 5,
-        "putouts": 60,
-        "assists": 79,
+        "stolenBases": 4,
+        "stolenBasesAttempts": 6,
+        "putouts": 61,
+        "assists": 81,
         "errors": 7,
-        "plateAppearances": 204,
+        "plateAppearances": 210,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -924,63 +924,63 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "7",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/nate-castellon/10580",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Nate_Castellon_-_03936.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "putouts": 60,
-        "assists": 79,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "putouts": 61,
+        "assists": 81,
         "errors": 7,
-        "fieldingPercentage": 0.952,
+        "fieldingPercentage": 0.953,
         "doublePlays": 11,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 146
+        "totalChances": 149
       },
       "evaluation": {
-        "score": 68,
+        "score": 71,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Pursue",
+          "className": "fit-pursue"
         },
         "components": {
-          "On-base": 86.66666666666666,
-          "Power": 42.63157894736842,
-          "Contact": 76.87500000000001,
+          "On-base": 88.88888888888889,
+          "Power": 48.15789473684211,
+          "Contact": 81.87499999999999,
           "Discipline": 100,
-          "Speed": 10
+          "Speed": 13.333333333333334
         },
         "summary": "Nate Castellon profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .343",
-          "OBP .436",
-          "SLG .482"
+          "AVG .351",
+          "OBP .440",
+          "SLG .503"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".343"
+            "value": ".351"
           },
           {
             "label": "OBP",
-            "value": ".436"
+            "value": ".440"
           },
           {
             "label": "SLG",
-            "value": ".482"
+            "value": ".503"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "4"
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "19"
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "4"
           }
         ],
         "metaLine": "SO / 1V",
@@ -1031,13 +1031,13 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "10",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/antonio-castro/10601",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Antonio_Castro_-_03939.jpg",
-        "gamesPlayed": 24,
+        "gamesPlayed": 25,
         "gamesStarted": 16,
-        "battingAverage": 0.213,
-        "onBasePercentage": 0.342,
-        "sluggingPercentage": 0.393,
-        "ops": 0.735,
-        "atBats": 61,
+        "battingAverage": 0.21,
+        "onBasePercentage": 0.338,
+        "sluggingPercentage": 0.387,
+        "ops": 0.725,
+        "atBats": 62,
         "runs": 9,
         "hits": 13,
         "doubles": 3,
@@ -1054,10 +1054,10 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 54,
+        "putouts": 56,
         "assists": 25,
         "errors": 2,
-        "plateAppearances": 76,
+        "plateAppearances": 77,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1069,51 +1069,51 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "10",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/antonio-castro/10601",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Antonio_Castro_-_03939.jpg",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 16,
-        "putouts": 54,
+        "putouts": 56,
         "assists": 25,
         "errors": 2,
-        "fieldingPercentage": 0.975,
+        "fieldingPercentage": 0.976,
         "doublePlays": 7,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 81
+        "totalChances": 83
       },
       "evaluation": {
-        "score": 21,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 34.44444444444444,
-          "Power": 19.21052631578948,
+          "On-base": 32.22222222222222,
+          "Power": 17.631578947368425,
           "Contact": 0,
           "Discipline": 28.282828282828277,
           "Speed": 10
         },
         "summary": "Antonio Castro gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .213",
-          "OBP .342",
-          "SLG .393"
+          "AVG .210",
+          "OBP .338",
+          "SLG .387"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".213"
+            "value": ".210"
           },
           {
             "label": "OBP",
-            "value": ".342"
+            "value": ".338"
           },
           {
             "label": "SLG",
-            "value": ".393"
+            "value": ".387"
           },
           {
             "label": "HR",
@@ -1318,13 +1318,13 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "12",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/gavin-spiridonoff/10603",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Gavin_Spiridonoff_-_04023.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 27,
-        "battingAverage": 0.313,
-        "onBasePercentage": 0.373,
-        "sluggingPercentage": 0.505,
-        "ops": 0.878,
-        "atBats": 99,
+        "gamesPlayed": 36,
+        "gamesStarted": 28,
+        "battingAverage": 0.304,
+        "onBasePercentage": 0.363,
+        "sluggingPercentage": 0.49,
+        "ops": 0.853,
+        "atBats": 102,
         "runs": 20,
         "hits": 31,
         "doubles": 7,
@@ -1341,10 +1341,10 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 41,
-        "assists": 31,
+        "putouts": 47,
+        "assists": 32,
         "errors": 4,
-        "plateAppearances": 110,
+        "plateAppearances": 113,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1356,51 +1356,51 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "12",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/gavin-spiridonoff/10603",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Gavin_Spiridonoff_-_04023.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 21,
-        "putouts": 41,
-        "assists": 31,
+        "gamesPlayed": 26,
+        "gamesStarted": 22,
+        "putouts": 47,
+        "assists": 32,
         "errors": 4,
-        "fieldingPercentage": 0.947,
+        "fieldingPercentage": 0.952,
         "doublePlays": 7,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 76
+        "totalChances": 83
       },
       "evaluation": {
-        "score": 40,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 48.684210526315795,
-          "Contact": 58.12499999999999,
+          "On-base": 46.11111111111109,
+          "Power": 44.73684210526316,
+          "Contact": 52.49999999999999,
           "Discipline": 5.555555555555554,
           "Speed": 0
         },
         "summary": "Gavin Spiridonoff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .313",
-          "OBP .373",
-          "SLG .505"
+          "AVG .304",
+          "OBP .363",
+          "SLG .490"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".313"
+            "value": ".304"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".363"
           },
           {
             "label": "SLG",
-            "value": ".505"
+            "value": ".490"
           },
           {
             "label": "HR",
@@ -1551,13 +1551,13 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "15",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/cam-hoiland/10585",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Cameron_Hoiland_-_03968.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 32,
-        "battingAverage": 0.298,
-        "onBasePercentage": 0.385,
-        "sluggingPercentage": 0.46,
-        "ops": 0.845,
-        "atBats": 124,
+        "gamesPlayed": 36,
+        "gamesStarted": 33,
+        "battingAverage": 0.291,
+        "onBasePercentage": 0.377,
+        "sluggingPercentage": 0.449,
+        "ops": 0.826,
+        "atBats": 127,
         "runs": 26,
         "hits": 37,
         "doubles": 11,
@@ -1577,7 +1577,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "putouts": 56,
         "assists": 5,
         "errors": 0,
-        "plateAppearances": 152,
+        "plateAppearances": 155,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1696,20 +1696,20 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "16",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/ryan-tayman/10605",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Ryan_Tayman_-_04026.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 41,
-        "battingAverage": 0.325,
-        "onBasePercentage": 0.415,
-        "sluggingPercentage": 0.638,
-        "ops": 1.053,
-        "atBats": 160,
-        "runs": 33,
-        "hits": 52,
-        "doubles": 9,
+        "gamesPlayed": 43,
+        "gamesStarted": 42,
+        "battingAverage": 0.329,
+        "onBasePercentage": 0.417,
+        "sluggingPercentage": 0.646,
+        "ops": 1.063,
+        "atBats": 164,
+        "runs": 34,
+        "hits": 54,
+        "doubles": 11,
         "triples": 1,
         "homeRuns": 13,
-        "runsBattedIn": 43,
-        "totalBases": 102,
+        "runsBattedIn": 44,
+        "totalBases": 106,
         "walks": 20,
         "hitByPitch": 6,
         "strikeouts": 33,
@@ -1719,10 +1719,10 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "sacrificeHits": 2,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 373,
+        "putouts": 385,
         "assists": 38,
         "errors": 4,
-        "plateAppearances": 192,
+        "plateAppearances": 196,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1734,51 +1734,51 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "16",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/ryan-tayman/10605",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Ryan_Tayman_-_04026.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 41,
-        "putouts": 373,
+        "gamesPlayed": 43,
+        "gamesStarted": 42,
+        "putouts": 385,
         "assists": 38,
         "errors": 4,
-        "fieldingPercentage": 0.99,
+        "fieldingPercentage": 0.991,
         "doublePlays": 2,
         "stolenBasesAgainst": 39,
         "caughtStealingBy": 12,
         "stolenBasesPercentage": 0.765,
         "passedBalls": 3,
         "catchersInterference": 0,
-        "totalChances": 415
+        "totalChances": 427
       },
       "evaluation": {
-        "score": 64,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 74.99999999999997,
-          "Power": 83.68421052631581,
-          "Contact": 65.625,
+          "On-base": 76.11111111111109,
+          "Power": 85.78947368421053,
+          "Contact": 68.125,
           "Discipline": 45.117845117845114,
           "Speed": 0
         },
         "summary": "Ryan Tayman profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .325",
-          "OBP .415",
-          "SLG .638"
+          "AVG .329",
+          "OBP .417",
+          "SLG .646"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".325"
+            "value": ".329"
           },
           {
             "label": "OBP",
-            "value": ".415"
+            "value": ".417"
           },
           {
             "label": "SLG",
-            "value": ".638"
+            "value": ".646"
           },
           {
             "label": "HR",
@@ -1786,7 +1786,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "RBI",
-            "value": "43"
+            "value": "44"
           },
           {
             "label": "SB",
@@ -1987,19 +1987,19 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "19",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/chris-downs/10583",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Christopher_Downs_-_03954.jpg",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 0,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
         "earnedRunAverage": 5.84,
-        "whip": 1.7,
+        "whip": 1.73,
         "wins": 2,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
         "inningsPitched": 37,
         "inningsPitchedDisplay": "37.0",
-        "hitsAllowed": 45,
+        "hitsAllowed": 46,
         "runsAllowed": 32,
         "earnedRunsAllowed": 24,
         "walksAllowed": 18,
@@ -2007,12 +2007,12 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "doublesAllowed": 10,
         "triplesAllowed": 2,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 151,
+        "opponentsAtBats": 154,
         "wildPitches": 8,
         "hitBatters": 8,
         "balks": 0,
-        "opponentsBattingAverage": 0.298,
-        "walksHits": 63
+        "opponentsBattingAverage": 0.299,
+        "walksHits": 64
       },
       "fieldingStats": {
         "rosterBioId": "10583",
@@ -2051,7 +2051,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "summary": "Chris Downs looks like a LHP option who misses bats.",
         "summaryMetrics": [
           "ERA 5.84",
-          "WHIP 1.70",
+          "WHIP 1.73",
           "K/9 9.0"
         ],
         "statCards": [
@@ -2061,7 +2061,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.70"
+            "value": "1.73"
           },
           {
             "label": "K/9",
@@ -2128,12 +2128,12 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "20",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/xander-mclaurin/10590",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Alexander_Mclaurin_-_03986.jpg",
-        "gamesPlayed": 31,
+        "gamesPlayed": 32,
         "gamesStarted": 14,
         "battingAverage": 0.319,
-        "onBasePercentage": 0.351,
+        "onBasePercentage": 0.36,
         "sluggingPercentage": 0.522,
-        "ops": 0.873,
+        "ops": 0.882,
         "atBats": 69,
         "runs": 11,
         "hits": 22,
@@ -2142,7 +2142,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "homeRuns": 2,
         "runsBattedIn": 13,
         "totalBases": 36,
-        "walks": 2,
+        "walks": 3,
         "hitByPitch": 2,
         "strikeouts": 11,
         "intentionalWalks": 0,
@@ -2154,7 +2154,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "putouts": 16,
         "assists": 1,
         "errors": 0,
-        "plateAppearances": 76,
+        "plateAppearances": 77,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2181,22 +2181,22 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "totalChances": 17
       },
       "evaluation": {
-        "score": 38,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 39.44444444444442,
+          "On-base": 44.44444444444443,
           "Power": 53.15789473684212,
           "Contact": 61.875,
-          "Discipline": 0,
+          "Discipline": 8.080808080808076,
           "Speed": 0
         },
         "summary": "Xander McLaurin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .319",
-          "OBP .351",
+          "OBP .360",
           "SLG .522"
         ],
         "statCards": [
@@ -2206,7 +2206,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "OBP",
-            "value": ".351"
+            "value": ".360"
           },
           {
             "label": "SLG",
@@ -2489,7 +2489,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "appearances": 18,
         "gamesCompleted": 0,
         "earnedRunAverage": 5.29,
-        "whip": 1.53,
+        "whip": 1.5,
         "wins": 3,
         "losses": 1,
         "saves": 0,
@@ -2499,7 +2499,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "hitsAllowed": 35,
         "runsAllowed": 23,
         "earnedRunsAllowed": 20,
-        "walksAllowed": 17,
+        "walksAllowed": 16,
         "strikeouts": 38,
         "doublesAllowed": 6,
         "triplesAllowed": 2,
@@ -2509,7 +2509,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.267,
-        "walksHits": 52
+        "walksHits": 51
       },
       "fieldingStats": {
         "rosterBioId": "10591",
@@ -2542,13 +2542,13 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 55.080213903743314,
-          "Command": 24.705882352941178,
+          "Command": 27.500000000000004,
           "Damage suppression": 0
         },
         "summary": "Josh Morano looks like a LHP option who misses bats.",
         "summaryMetrics": [
           "ERA 5.29",
-          "WHIP 1.53",
+          "WHIP 1.50",
           "K/9 10.1"
         ],
         "statCards": [
@@ -2558,7 +2558,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.53"
+            "value": "1.50"
           },
           {
             "label": "K/9",
@@ -2566,7 +2566,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "4.2"
           },
           {
             "label": "HR/9",
@@ -2772,28 +2772,28 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "gamesStarted": 0,
         "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.64,
-        "whip": 1.39,
+        "earnedRunAverage": 4.37,
+        "whip": 1.34,
         "wins": 0,
         "losses": 4,
         "saves": 11,
         "shutouts": 0,
-        "inningsPitched": 33,
-        "inningsPitchedDisplay": "33.0",
+        "inningsPitched": 35,
+        "inningsPitchedDisplay": "35.0",
         "hitsAllowed": 32,
         "runsAllowed": 17,
         "earnedRunsAllowed": 17,
-        "walksAllowed": 14,
-        "strikeouts": 30,
+        "walksAllowed": 15,
+        "strikeouts": 34,
         "doublesAllowed": 6,
         "triplesAllowed": 2,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 125,
+        "opponentsAtBats": 130,
         "wildPitches": 3,
         "hitBatters": 8,
         "balks": 0,
-        "opponentsBattingAverage": 0.256,
-        "walksHits": 46
+        "opponentsBattingAverage": 0.246,
+        "walksHits": 47
       },
       "fieldingStats": {
         "rosterBioId": "10606",
@@ -2817,7 +2817,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "totalChances": 3
       },
       "evaluation": {
-        "score": 11,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2825,32 +2825,32 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 38.01652892561984,
-          "Command": 22.857142857142858,
+          "Miss bats": 43.11688311688311,
+          "Command": 25.33333333333333,
           "Damage suppression": 0
         },
         "summary": "Nick Bonn gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.64",
-          "WHIP 1.39",
-          "K/9 8.2"
+          "ERA 4.37",
+          "WHIP 1.34",
+          "K/9 8.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.64"
+            "value": "4.37"
           },
           {
             "label": "WHIP",
-            "value": "1.39"
+            "value": "1.34"
           },
           {
             "label": "K/9",
-            "value": "8.2"
+            "value": "8.7"
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "3.9"
           },
           {
             "label": "HR/9",
@@ -2858,7 +2858,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "IP",
-            "value": "33.0"
+            "value": "35.0"
           }
         ],
         "metaLine": "SR / 3V",
@@ -3039,9 +3039,9 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "errors": 1,
         "fieldingPercentage": 0.833,
         "doublePlays": 0,
-        "stolenBasesAgainst": 5,
+        "stolenBasesAgainst": 7,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.833,
+        "stolenBasesPercentage": 0.875,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -3139,13 +3139,13 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "33",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/owen-meli/10608",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Owen_Meli_-_03989.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 0,
-        "battingAverage": 0.375,
-        "onBasePercentage": 0.375,
-        "sluggingPercentage": 0.5,
-        "ops": 0.875,
-        "atBats": 8,
+        "battingAverage": 0.333,
+        "onBasePercentage": 0.333,
+        "sluggingPercentage": 0.444,
+        "ops": 0.777,
+        "atBats": 9,
         "runs": 4,
         "hits": 3,
         "doubles": 1,
@@ -3155,17 +3155,17 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "totalBases": 4,
         "walks": 0,
         "hitByPitch": 0,
-        "strikeouts": 2,
+        "strikeouts": 3,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 2,
+        "putouts": 3,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 8,
+        "plateAppearances": 9,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3177,9 +3177,9 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "33",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/owen-meli/10608",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Owen_Meli_-_03989.jpg",
-        "gamesPlayed": 1,
+        "gamesPlayed": 2,
         "gamesStarted": 0,
-        "putouts": 2,
+        "putouts": 3,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -3189,39 +3189,39 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 2
+        "totalChances": 3
       },
       "evaluation": {
-        "score": 47,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 52.77777777777777,
-          "Power": 47.36842105263158,
-          "Contact": 96.875,
+          "On-base": 29.44444444444444,
+          "Power": 32.631578947368425,
+          "Contact": 70.625,
           "Discipline": 0,
           "Speed": 0
         },
         "summary": "Owen Meli gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .375",
-          "OBP .375",
-          "SLG .500"
+          "AVG .333",
+          "OBP .333",
+          "SLG .444"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".375"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".444"
           },
           {
             "label": "HR",
@@ -3607,17 +3607,17 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "gamesStarted": 8,
         "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.04,
-        "whip": 1.48,
+        "earnedRunAverage": 4.86,
+        "whip": 1.46,
         "wins": 3,
         "losses": 2,
         "saves": 1,
         "shutouts": 0,
         "inningsPitched": 50,
         "inningsPitchedDisplay": "50.0",
-        "hitsAllowed": 55,
+        "hitsAllowed": 54,
         "runsAllowed": 29,
-        "earnedRunsAllowed": 28,
+        "earnedRunsAllowed": 27,
         "walksAllowed": 19,
         "strikeouts": 56,
         "doublesAllowed": 16,
@@ -3627,8 +3627,8 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "wildPitches": 5,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.279,
-        "walksHits": 74
+        "opponentsBattingAverage": 0.274,
+        "walksHits": 73
       },
       "fieldingStats": {
         "rosterBioId": "10611",
@@ -3666,18 +3666,18 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         },
         "summary": "Corden Pettey looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.04",
-          "WHIP 1.48",
+          "ERA 4.86",
+          "WHIP 1.46",
           "K/9 10.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.04"
+            "value": "4.86"
           },
           {
             "label": "WHIP",
-            "value": "1.48"
+            "value": "1.46"
           },
           {
             "label": "K/9",
@@ -3832,7 +3832,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "39",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/vinnie-van-der-wel/10599",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Vincent_Van_Der_Wel_-_04035.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 2,
         "battingAverage": 0,
         "onBasePercentage": 0,
@@ -3978,32 +3978,32 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "41",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/sean-mcgrath/10612",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Sean_McGrath_-_03983.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 4,
-        "appearances": 11,
+        "gamesPlayed": 12,
+        "gamesStarted": 5,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.11,
-        "whip": 1.93,
-        "wins": 2,
+        "earnedRunAverage": 5.93,
+        "whip": 1.68,
+        "wins": 3,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 25.333333333333332,
-        "inningsPitchedDisplay": "25.1",
-        "hitsAllowed": 42,
+        "inningsPitched": 30.333333333333332,
+        "inningsPitchedDisplay": "30.1",
+        "hitsAllowed": 44,
         "runsAllowed": 22,
         "earnedRunsAllowed": 20,
         "walksAllowed": 7,
-        "strikeouts": 26,
+        "strikeouts": 32,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 116,
+        "opponentsAtBats": 133,
         "wildPitches": 0,
-        "hitBatters": 0,
+        "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.362,
-        "walksHits": 49
+        "opponentsBattingAverage": 0.331,
+        "walksHits": 51
       },
       "fieldingStats": {
         "rosterBioId": "10612",
@@ -4012,10 +4012,10 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "41",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/sean-mcgrath/10612",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Sean_McGrath_-_03983.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 2,
-        "putouts": 0,
-        "assists": 3,
+        "gamesPlayed": 5,
+        "gamesStarted": 3,
+        "putouts": 1,
+        "assists": 4,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -4024,10 +4024,10 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 3
+        "totalChances": 5
       },
       "evaluation": {
-        "score": 18,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4035,40 +4035,40 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 47.60765550239234,
-          "Command": 54.285714285714285,
+          "Miss bats": 49.95004995004995,
+          "Command": 71.42857142857142,
           "Damage suppression": 0
         },
         "summary": "Sean McGrath looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 7.11",
-          "WHIP 1.93",
-          "K/9 9.2"
+          "ERA 5.93",
+          "WHIP 1.68",
+          "K/9 9.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.11"
+            "value": "5.93"
           },
           {
             "label": "WHIP",
-            "value": "1.93"
+            "value": "1.68"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "9.5"
           },
           {
             "label": "BB/9",
-            "value": "2.5"
+            "value": "2.1"
           },
           {
             "label": "HR/9",
-            "value": "1.07"
+            "value": "0.89"
           },
           {
             "label": "IP",
-            "value": "25.3"
+            "value": "30.3"
           }
         ],
         "metaLine": "FR / HS",
@@ -4438,32 +4438,32 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "47",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/luke-kalfsbeek/10586",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Luke_Kalfsbeek_-_03971.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 2,
-        "appearances": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.11,
-        "whip": 1.74,
+        "earnedRunAverage": 6.59,
+        "whip": 1.68,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 12.666666666666666,
-        "inningsPitchedDisplay": "12.2",
+        "inningsPitched": 13.666666666666666,
+        "inningsPitchedDisplay": "13.2",
         "hitsAllowed": 16,
         "runsAllowed": 10,
         "earnedRunsAllowed": 10,
-        "walksAllowed": 6,
+        "walksAllowed": 7,
         "strikeouts": 11,
         "doublesAllowed": 3,
         "triplesAllowed": 1,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 52,
+        "opponentsAtBats": 55,
         "wildPitches": 2,
         "hitBatters": 3,
         "balks": 1,
-        "opponentsBattingAverage": 0.308,
-        "walksHits": 22
+        "opponentsBattingAverage": 0.291,
+        "walksHits": 23
       },
       "fieldingStats": {
         "rosterBioId": "10586",
@@ -4487,7 +4487,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "totalChances": 1
       },
       "evaluation": {
-        "score": 10,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4495,40 +4495,40 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 34.68899521531101,
-          "Command": 16.666666666666664,
+          "Miss bats": 29.490022172949004,
+          "Command": 11.428571428571429,
           "Damage suppression": 0
         },
         "summary": "Luke Kalfsbeek gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.11",
-          "WHIP 1.74",
-          "K/9 7.8"
+          "ERA 6.59",
+          "WHIP 1.68",
+          "K/9 7.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.11"
+            "value": "6.59"
           },
           {
             "label": "WHIP",
-            "value": "1.74"
+            "value": "1.68"
           },
           {
             "label": "K/9",
-            "value": "7.8"
+            "value": "7.2"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "4.6"
           },
           {
             "label": "HR/9",
-            "value": "0.71"
+            "value": "0.66"
           },
           {
             "label": "IP",
-            "value": "12.7"
+            "value": "13.7"
           }
         ],
         "metaLine": "SO / 1V",
@@ -4580,36 +4580,36 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "jersey": "48",
         "profileUrl": "https://gopoly.com/sports/baseball/roster/arlo-pendleton/10613",
         "imageUrl": "https://gopoly.com/images/2026/2/9/Arlo_Pendleton_-_04012.jpg",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 0,
-        "appearances": 4,
+        "appearances": 5,
         "gamesCompleted": 0,
         "earnedRunAverage": 0,
-        "whip": 0,
+        "whip": 0.23,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 3.3333333333333335,
-        "inningsPitchedDisplay": "3.1",
-        "hitsAllowed": 0,
+        "inningsPitched": 4.333333333333333,
+        "inningsPitchedDisplay": "4.1",
+        "hitsAllowed": 1,
         "runsAllowed": 0,
         "earnedRunsAllowed": 0,
         "walksAllowed": 0,
-        "strikeouts": 0,
+        "strikeouts": 2,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 10,
+        "opponentsAtBats": 14,
         "wildPitches": 0,
-        "hitBatters": 0,
+        "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0,
-        "walksHits": 0
+        "opponentsBattingAverage": 0.071,
+        "walksHits": 1
       },
       "fieldingStats": null,
       "evaluation": {
-        "score": 0,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4617,15 +4617,15 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
+          "Miss bats": 1.3986013986014016,
+          "Command": 100,
           "Damage suppression": 0
         },
         "summary": "Arlo Pendleton looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
           "ERA 0.00",
-          "WHIP 0.00",
-          "K/9 0.0"
+          "WHIP 0.23",
+          "K/9 4.2"
         ],
         "statCards": [
           {
@@ -4634,11 +4634,11 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "WHIP",
-            "value": "0.00"
+            "value": "0.23"
           },
           {
             "label": "K/9",
-            "value": "0.0"
+            "value": "4.2"
           },
           {
             "label": "BB/9",
@@ -4650,7 +4650,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "IP",
-            "value": "3.3"
+            "value": "4.3"
           }
         ],
         "metaLine": "FR / HS",
@@ -4823,29 +4823,29 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "position": "OF",
         "classYear": "GR",
         "handedness": "4V",
-        "score": 57,
+        "score": 54,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "summary": "Casey Murray Jr. profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .329",
-          "OBP .424",
-          "SLG .506"
+          "AVG .323",
+          "OBP .418",
+          "SLG .497"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".329"
+            "value": ".323"
           },
           {
             "label": "OBP",
-            "value": ".424"
+            "value": ".418"
           },
           {
             "label": "SLG",
-            "value": ".506"
+            "value": ".497"
           },
           {
             "label": "HR",
@@ -4861,10 +4861,10 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           }
         ],
         "components": {
-          "On-base": 79.99999999999999,
-          "Power": 48.94736842105264,
-          "Contact": 68.125,
-          "Discipline": 40.108401084010836,
+          "On-base": 76.66666666666664,
+          "Power": 46.57894736842106,
+          "Contact": 64.375,
+          "Discipline": 37.20930232558138,
           "Speed": 6.666666666666667
         },
         "metaLine": "GR / 4V",
@@ -4892,29 +4892,29 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "1V",
-        "score": 25,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jake Downing gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .273",
-          "OBP .349",
-          "SLG .386"
+          "AVG .272",
+          "OBP .346",
+          "SLG .390"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".273"
+            "value": ".272"
           },
           {
             "label": "OBP",
-            "value": ".349"
+            "value": ".346"
           },
           {
             "label": "SLG",
-            "value": ".386"
+            "value": ".390"
           },
           {
             "label": "HR",
@@ -4922,7 +4922,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "21"
           },
           {
             "label": "SB",
@@ -4930,10 +4930,10 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           }
         ],
         "components": {
-          "On-base": 38.33333333333331,
-          "Power": 17.368421052631582,
-          "Contact": 33.12500000000001,
-          "Discipline": 14.00966183574879,
+          "On-base": 36.666666666666636,
+          "Power": 18.421052631578952,
+          "Contact": 32.500000000000014,
+          "Discipline": 13.238770685579196,
           "Speed": 0
         },
         "metaLine": "SO / 1V",
@@ -4961,29 +4961,29 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "position": "OF",
         "classYear": "GR",
         "handedness": "4V",
-        "score": 44,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dylan Kordic gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .278",
-          "OBP .377",
-          "SLG .522"
+          "AVG .290",
+          "OBP .391",
+          "SLG .527"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".278"
+            "value": ".290"
           },
           {
             "label": "OBP",
-            "value": ".377"
+            "value": ".391"
           },
           {
             "label": "SLG",
-            "value": ".522"
+            "value": ".527"
           },
           {
             "label": "HR",
@@ -4991,7 +4991,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "23"
           },
           {
             "label": "SB",
@@ -4999,9 +4999,9 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           }
         ],
         "components": {
-          "On-base": 53.88888888888887,
-          "Power": 53.15789473684212,
-          "Contact": 36.250000000000014,
+          "On-base": 61.66666666666666,
+          "Power": 54.47368421052633,
+          "Contact": 43.749999999999986,
           "Discipline": 42.59259259259259,
           "Speed": 0
         },
@@ -5030,21 +5030,21 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "2V",
-        "score": 58,
+        "score": 57,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Alejandro Garza gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .359",
+          "AVG .360",
           "OBP .389",
-          "SLG .521"
+          "SLG .523"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".359"
+            "value": ".360"
           },
           {
             "label": "OBP",
@@ -5052,7 +5052,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "SLG",
-            "value": ".521"
+            "value": ".523"
           },
           {
             "label": "HR",
@@ -5060,7 +5060,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "RBI",
-            "value": "38"
+            "value": "39"
           },
           {
             "label": "SB",
@@ -5069,9 +5069,9 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         ],
         "components": {
           "On-base": 60.55555555555555,
-          "Power": 52.894736842105274,
-          "Contact": 86.87499999999999,
-          "Discipline": 58.58585858585859,
+          "Power": 53.42105263157896,
+          "Contact": 87.49999999999999,
+          "Discipline": 51.85185185185184,
           "Speed": 10
         },
         "metaLine": "JR / 2V",
@@ -5099,29 +5099,29 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "1V",
-        "score": 21,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dante Vachini gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .279",
-          "OBP .315",
-          "SLG .402"
+          "AVG .286",
+          "OBP .321",
+          "SLG .413"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".279"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".315"
+            "value": ".321"
           },
           {
             "label": "SLG",
-            "value": ".402"
+            "value": ".413"
           },
           {
             "label": "HR",
@@ -5137,9 +5137,9 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           }
         ],
         "components": {
-          "On-base": 19.444444444444432,
-          "Power": 21.578947368421062,
-          "Contact": 36.875000000000014,
+          "On-base": 22.777777777777768,
+          "Power": 24.47368421052631,
+          "Contact": 41.24999999999998,
           "Discipline": 10.185185185185185,
           "Speed": 6.666666666666667
         },
@@ -5168,49 +5168,49 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "1V",
-        "score": 68,
+        "score": 71,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Pursue",
+          "className": "fit-pursue"
         },
         "summary": "Nate Castellon profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .343",
-          "OBP .436",
-          "SLG .482"
+          "AVG .351",
+          "OBP .440",
+          "SLG .503"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".343"
+            "value": ".351"
           },
           {
             "label": "OBP",
-            "value": ".436"
+            "value": ".440"
           },
           {
             "label": "SLG",
-            "value": ".482"
+            "value": ".503"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "4"
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "19"
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "4"
           }
         ],
         "components": {
-          "On-base": 86.66666666666666,
-          "Power": 42.63157894736842,
-          "Contact": 76.87500000000001,
+          "On-base": 88.88888888888889,
+          "Power": 48.15789473684211,
+          "Contact": 81.87499999999999,
           "Discipline": 100,
-          "Speed": 10
+          "Speed": 13.333333333333334
         },
         "metaLine": "SO / 1V",
         "detailBadges": [
@@ -5237,29 +5237,29 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "HS",
-        "score": 21,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Antonio Castro gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .213",
-          "OBP .342",
-          "SLG .393"
+          "AVG .210",
+          "OBP .338",
+          "SLG .387"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".213"
+            "value": ".210"
           },
           {
             "label": "OBP",
-            "value": ".342"
+            "value": ".338"
           },
           {
             "label": "SLG",
-            "value": ".393"
+            "value": ".387"
           },
           {
             "label": "HR",
@@ -5275,8 +5275,8 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           }
         ],
         "components": {
-          "On-base": 34.44444444444444,
-          "Power": 19.21052631578948,
+          "On-base": 32.22222222222222,
+          "Power": 17.631578947368425,
           "Contact": 0,
           "Discipline": 28.282828282828277,
           "Speed": 10
@@ -5375,29 +5375,29 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "HS",
-        "score": 40,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Gavin Spiridonoff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .313",
-          "OBP .373",
-          "SLG .505"
+          "AVG .304",
+          "OBP .363",
+          "SLG .490"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".313"
+            "value": ".304"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".363"
           },
           {
             "label": "SLG",
-            "value": ".505"
+            "value": ".490"
           },
           {
             "label": "HR",
@@ -5413,9 +5413,9 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           }
         ],
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 48.684210526315795,
-          "Contact": 58.12499999999999,
+          "On-base": 46.11111111111109,
+          "Power": 44.73684210526316,
+          "Contact": 52.49999999999999,
           "Discipline": 5.555555555555554,
           "Speed": 0
         },
@@ -5581,29 +5581,29 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "2V",
-        "score": 64,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Ryan Tayman profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .325",
-          "OBP .415",
-          "SLG .638"
+          "AVG .329",
+          "OBP .417",
+          "SLG .646"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".325"
+            "value": ".329"
           },
           {
             "label": "OBP",
-            "value": ".415"
+            "value": ".417"
           },
           {
             "label": "SLG",
-            "value": ".638"
+            "value": ".646"
           },
           {
             "label": "HR",
@@ -5611,7 +5611,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "RBI",
-            "value": "43"
+            "value": "44"
           },
           {
             "label": "SB",
@@ -5619,9 +5619,9 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           }
         ],
         "components": {
-          "On-base": 74.99999999999997,
-          "Power": 83.68421052631581,
-          "Contact": 65.625,
+          "On-base": 76.11111111111109,
+          "Power": 85.78947368421053,
+          "Contact": 68.125,
           "Discipline": 45.117845117845114,
           "Speed": 0
         },
@@ -5727,7 +5727,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "summary": "Chris Downs looks like a LHP option who misses bats.",
         "summaryMetrics": [
           "ERA 5.84",
-          "WHIP 1.70",
+          "WHIP 1.73",
           "K/9 9.0"
         ],
         "statCards": [
@@ -5737,7 +5737,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.70"
+            "value": "1.73"
           },
           {
             "label": "K/9",
@@ -5788,7 +5788,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "3V",
-        "score": 38,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5796,7 +5796,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "summary": "Xander McLaurin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .319",
-          "OBP .351",
+          "OBP .360",
           "SLG .522"
         ],
         "statCards": [
@@ -5806,7 +5806,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "OBP",
-            "value": ".351"
+            "value": ".360"
           },
           {
             "label": "SLG",
@@ -5826,10 +5826,10 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           }
         ],
         "components": {
-          "On-base": 39.44444444444442,
+          "On-base": 44.44444444444443,
           "Power": 53.15789473684212,
           "Contact": 61.875,
-          "Discipline": 0,
+          "Discipline": 8.080808080808076,
           "Speed": 0
         },
         "metaLine": "SR / 3V",
@@ -6002,7 +6002,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "summary": "Josh Morano looks like a LHP option who misses bats.",
         "summaryMetrics": [
           "ERA 5.29",
-          "WHIP 1.53",
+          "WHIP 1.50",
           "K/9 10.1"
         ],
         "statCards": [
@@ -6012,7 +6012,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.53"
+            "value": "1.50"
           },
           {
             "label": "K/9",
@@ -6020,7 +6020,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "4.2"
           },
           {
             "label": "HR/9",
@@ -6035,7 +6035,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 55.080213903743314,
-          "Command": 24.705882352941178,
+          "Command": 27.500000000000004,
           "Damage suppression": 0
         },
         "metaLine": "JR / 2V",
@@ -6132,33 +6132,33 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "3V",
-        "score": 11,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nick Bonn gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.64",
-          "WHIP 1.39",
-          "K/9 8.2"
+          "ERA 4.37",
+          "WHIP 1.34",
+          "K/9 8.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.64"
+            "value": "4.37"
           },
           {
             "label": "WHIP",
-            "value": "1.39"
+            "value": "1.34"
           },
           {
             "label": "K/9",
-            "value": "8.2"
+            "value": "8.7"
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "3.9"
           },
           {
             "label": "HR/9",
@@ -6166,14 +6166,14 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "IP",
-            "value": "33.0"
+            "value": "35.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 38.01652892561984,
-          "Command": 22.857142857142858,
+          "Miss bats": 43.11688311688311,
+          "Command": 25.33333333333333,
           "Damage suppression": 0
         },
         "metaLine": "SR / 3V",
@@ -6338,29 +6338,29 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "position": "OF",
         "classYear": "FR",
         "handedness": "HS",
-        "score": 47,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Owen Meli gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .375",
-          "OBP .375",
-          "SLG .500"
+          "AVG .333",
+          "OBP .333",
+          "SLG .444"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".375"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".444"
           },
           {
             "label": "HR",
@@ -6376,9 +6376,9 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           }
         ],
         "components": {
-          "On-base": 52.77777777777777,
-          "Power": 47.36842105263158,
-          "Contact": 96.875,
+          "On-base": 29.44444444444444,
+          "Power": 32.631578947368425,
+          "Contact": 70.625,
           "Discipline": 0,
           "Speed": 0
         },
@@ -6619,18 +6619,18 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         },
         "summary": "Corden Pettey looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.04",
-          "WHIP 1.48",
+          "ERA 4.86",
+          "WHIP 1.46",
           "K/9 10.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.04"
+            "value": "4.86"
           },
           {
             "label": "WHIP",
-            "value": "1.48"
+            "value": "1.46"
           },
           {
             "label": "K/9",
@@ -6818,48 +6818,48 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "HS",
-        "score": 18,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Sean McGrath looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 7.11",
-          "WHIP 1.93",
-          "K/9 9.2"
+          "ERA 5.93",
+          "WHIP 1.68",
+          "K/9 9.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.11"
+            "value": "5.93"
           },
           {
             "label": "WHIP",
-            "value": "1.93"
+            "value": "1.68"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "9.5"
           },
           {
             "label": "BB/9",
-            "value": "2.5"
+            "value": "2.1"
           },
           {
             "label": "HR/9",
-            "value": "1.07"
+            "value": "0.89"
           },
           {
             "label": "IP",
-            "value": "25.3"
+            "value": "30.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 47.60765550239234,
-          "Command": 54.285714285714285,
+          "Miss bats": 49.95004995004995,
+          "Command": 71.42857142857142,
           "Damage suppression": 0
         },
         "metaLine": "FR / HS",
@@ -7092,48 +7092,48 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "position": "LHP",
         "classYear": "SO",
         "handedness": "1V",
-        "score": 10,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Luke Kalfsbeek gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.11",
-          "WHIP 1.74",
-          "K/9 7.8"
+          "ERA 6.59",
+          "WHIP 1.68",
+          "K/9 7.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.11"
+            "value": "6.59"
           },
           {
             "label": "WHIP",
-            "value": "1.74"
+            "value": "1.68"
           },
           {
             "label": "K/9",
-            "value": "7.8"
+            "value": "7.2"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "4.6"
           },
           {
             "label": "HR/9",
-            "value": "0.71"
+            "value": "0.66"
           },
           {
             "label": "IP",
-            "value": "12.7"
+            "value": "13.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 34.68899521531101,
-          "Command": 16.666666666666664,
+          "Miss bats": 29.490022172949004,
+          "Command": 11.428571428571429,
           "Damage suppression": 0
         },
         "metaLine": "SO / 1V",
@@ -7161,7 +7161,7 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "HS",
-        "score": 0,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -7169,8 +7169,8 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
         "summary": "Arlo Pendleton looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
           "ERA 0.00",
-          "WHIP 0.00",
-          "K/9 0.0"
+          "WHIP 0.23",
+          "K/9 4.2"
         ],
         "statCards": [
           {
@@ -7179,11 +7179,11 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "WHIP",
-            "value": "0.00"
+            "value": "0.23"
           },
           {
             "label": "K/9",
-            "value": "0.0"
+            "value": "4.2"
           },
           {
             "label": "BB/9",
@@ -7195,14 +7195,14 @@ window.__BASEBALL_DATASETS__.cal-poly2026 = {
           },
           {
             "label": "IP",
-            "value": "3.3"
+            "value": "4.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
+          "Miss bats": 1.3986013986014016,
+          "Command": 100,
           "Damage suppression": 0
         },
         "metaLine": "FR / HS",

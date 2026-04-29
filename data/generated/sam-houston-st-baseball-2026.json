@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T12:02:04.758Z",
+  "generatedAt": "2026-04-29T11:54:44.627Z",
   "season": 2026,
   "school": {
     "slug": "sam-houston-st",
@@ -39,84 +39,84 @@
     }
   },
   "teamSummary": {
-    "record": "20-24, 9-12",
-    "battingAverage": ".252",
-    "earnedRunAverage": "5.90",
+    "record": "20-25, 9-12",
+    "battingAverage": ".255",
+    "earnedRunAverage": "6.12",
     "wins": "20",
-    "losses": "24",
+    "losses": "25",
     "hitting": {
-      "atBats": "1405",
-      "runsScored": "238",
-      "hits": "354",
-      "runsBattedIn": "205",
-      "doubles": "61",
+      "atBats": "1445",
+      "runsScored": "252",
+      "hits": "368",
+      "runsBattedIn": "217",
+      "doubles": "66",
       "triples": "9",
-      "homeRuns": "33",
-      "walks": "211",
+      "homeRuns": "36",
+      "walks": "215",
       "intentionalWalks": "1",
-      "strikeouts": "411",
-      "strikeoutsLooking": "132",
-      "hitByPitch": "39",
-      "stolenBases": "99",
+      "strikeouts": "422",
+      "strikeoutsLooking": "136",
+      "hitByPitch": "40",
+      "stolenBases": "100",
       "caughtStealing": "30",
       "sacrificeHits": "15",
       "sacrificeFlies": "17",
       "reachedOnCatchersInteference": "2",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "313",
-      "flyOuts": "328",
-      "groundedIntoDoublePlay": "26",
+      "groundOuts": "321",
+      "flyOuts": "335",
+      "groundedIntoDoublePlay": "27",
       "pickedOff": "16",
-      "doublePlaysHitInto": "33",
+      "doublePlaysHitInto": "34",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1130",
-      "assists": "364",
-      "errors": "43",
-      "passedBalls": "5",
+      "putouts": "1155",
+      "assists": "370",
+      "errors": "44",
+      "passedBalls": "6",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "59",
+      "stolenBasesAgainst": "64",
       "caughtStealingBy": "17",
       "involvedInDoublePlays": "26",
       "involvedInTriplePlays": "0",
-      "totalChances": "1537",
+      "totalChances": "1569",
       "fieldingPercentage": ".972"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "20",
       "saves": "10",
-      "losses": "24",
+      "losses": "25",
       "gamesStarted": "0",
       "gamesCompleted": "1",
       "shutouts": "1",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "376.2",
-      "hitsAllowed": "411",
-      "runsAllowed": "279",
-      "earnedRunsAllowed": "247",
-      "walksAllowed": "189",
-      "strikeouts": "347",
-      "battersFaced": "1765",
-      "opponentAtBats": "1486",
-      "doublesAllowed": "78",
+      "inningsPitched": "385.0",
+      "hitsAllowed": "422",
+      "runsAllowed": "294",
+      "earnedRunsAllowed": "262",
+      "walksAllowed": "199",
+      "strikeouts": "355",
+      "battersFaced": "1812",
+      "opponentAtBats": "1520",
+      "doublesAllowed": "79",
       "triplesAllowed": "7",
-      "homerunsAllowed": "64",
-      "wildPitches": "48",
+      "homerunsAllowed": "68",
+      "wildPitches": "49",
       "balks": "4",
-      "hitBatters": "55",
-      "strikeoutsLooking": "109",
+      "hitBatters": "57",
+      "strikeoutsLooking": "111",
       "intentionalWalks": "1",
       "inheritedRunners": "0",
       "inheritedRunnersThatScored": "0",
       "sacrificeHitsAllowed": "23",
-      "sacrificeFliesAllowed": "12",
+      "sacrificeFliesAllowed": "13",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6799",
-      "flyouts": "395",
-      "groundouts": "337",
+      "pitches": "7001",
+      "flyouts": "406",
+      "groundouts": "342",
       "teamUnearnedRuns": "0",
       "saveRecord": "10",
       "pickoff": "1"
@@ -161,14 +161,14 @@
         "jersey": "1",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/blake-brown/10316",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Brown_nHSl4.jpg",
-        "gamesPlayed": 20,
+        "gamesPlayed": 21,
         "gamesStarted": 15,
         "battingAverage": 0.109,
         "onBasePercentage": 0.288,
         "sluggingPercentage": 0.109,
         "ops": 0.397,
         "atBats": 46,
-        "runs": 3,
+        "runs": 4,
         "hits": 5,
         "doubles": 0,
         "triples": 0,
@@ -451,13 +451,13 @@
         "jersey": "3",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/parker-blackman/10315",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Blackman_Parker_AjXoB.jpg",
-        "gamesPlayed": 25,
+        "gamesPlayed": 26,
         "gamesStarted": 8,
-        "battingAverage": 0.167,
-        "onBasePercentage": 0.231,
-        "sluggingPercentage": 0.25,
-        "ops": 0.481,
-        "atBats": 36,
+        "battingAverage": 0.162,
+        "onBasePercentage": 0.244,
+        "sluggingPercentage": 0.243,
+        "ops": 0.487,
+        "atBats": 37,
         "runs": 4,
         "hits": 6,
         "doubles": 1,
@@ -465,9 +465,9 @@
         "homeRuns": 0,
         "runsBattedIn": 4,
         "totalBases": 9,
-        "walks": 3,
+        "walks": 4,
         "hitByPitch": 0,
-        "strikeouts": 12,
+        "strikeouts": 13,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -477,7 +477,7 @@
         "putouts": 19,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 45,
+        "plateAppearances": 47,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -504,7 +504,7 @@
         "totalChances": 19
       },
       "evaluation": {
-        "score": 3,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -513,27 +513,27 @@
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 5.555555555555554,
+          "Discipline": 11.965811965811964,
           "Speed": 20
         },
         "summary": "Parker Blackman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .167",
-          "OBP .231",
-          "SLG .250"
+          "AVG .162",
+          "OBP .244",
+          "SLG .243"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".167"
+            "value": ".162"
           },
           {
             "label": "OBP",
-            "value": ".231"
+            "value": ".244"
           },
           {
             "label": "SLG",
-            "value": ".250"
+            "value": ".243"
           },
           {
             "label": "HR",
@@ -741,33 +741,33 @@
         "jersey": "5",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/wes-baker/10498",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Baker_Wes_y9Qag.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 31,
-        "battingAverage": 0.211,
-        "onBasePercentage": 0.376,
-        "sluggingPercentage": 0.411,
-        "ops": 0.787,
-        "atBats": 95,
-        "runs": 15,
-        "hits": 20,
+        "gamesPlayed": 36,
+        "gamesStarted": 32,
+        "battingAverage": 0.23,
+        "onBasePercentage": 0.385,
+        "sluggingPercentage": 0.48,
+        "ops": 0.865,
+        "atBats": 100,
+        "runs": 17,
+        "hits": 23,
         "doubles": 4,
         "triples": 0,
-        "homeRuns": 5,
-        "runsBattedIn": 24,
-        "totalBases": 39,
+        "homeRuns": 7,
+        "runsBattedIn": 31,
+        "totalBases": 48,
         "walks": 26,
         "hitByPitch": 1,
-        "strikeouts": 30,
+        "strikeouts": 31,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 3,
         "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 3,
-        "putouts": 217,
+        "putouts": 225,
         "assists": 22,
         "errors": 0,
-        "plateAppearances": 132,
+        "plateAppearances": 137,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -779,59 +779,59 @@
         "jersey": "5",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/wes-baker/10498",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Baker_Wes_y9Qag.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 28,
-        "putouts": 217,
+        "gamesPlayed": 33,
+        "gamesStarted": 29,
+        "putouts": 225,
         "assists": 22,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 2,
-        "stolenBasesAgainst": 46,
+        "stolenBasesAgainst": 51,
         "caughtStealingBy": 11,
-        "stolenBasesPercentage": 0.807,
-        "passedBalls": 3,
+        "stolenBasesPercentage": 0.823,
+        "passedBalls": 4,
         "catchersInterference": 0,
-        "totalChances": 239
+        "totalChances": 247
       },
       "evaluation": {
-        "score": 34,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 53.33333333333332,
-          "Power": 23.947368421052627,
-          "Contact": 0,
-          "Discipline": 74.07407407407408,
+          "On-base": 58.33333333333333,
+          "Power": 42.10526315789473,
+          "Contact": 6.250000000000005,
+          "Discipline": 70.96774193548386,
           "Speed": 3.3333333333333335
         },
         "summary": "Wes Baker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .211",
-          "OBP .376",
-          "SLG .411"
+          "AVG .230",
+          "OBP .385",
+          "SLG .480"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".211"
+            "value": ".230"
           },
           {
             "label": "OBP",
-            "value": ".376"
+            "value": ".385"
           },
           {
             "label": "SLG",
-            "value": ".411"
+            "value": ".480"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "7"
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "31"
           },
           {
             "label": "SB",
@@ -886,20 +886,20 @@
         "jersey": "7",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/ryan-franden/10320",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Franden_Ryan_6fwI2.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 31,
-        "battingAverage": 0.331,
-        "onBasePercentage": 0.415,
-        "sluggingPercentage": 0.597,
-        "ops": 1.012,
-        "atBats": 124,
+        "gamesPlayed": 33,
+        "gamesStarted": 32,
+        "battingAverage": 0.326,
+        "onBasePercentage": 0.408,
+        "sluggingPercentage": 0.589,
+        "ops": 0.997,
+        "atBats": 129,
         "runs": 25,
-        "hits": 41,
-        "doubles": 7,
+        "hits": 42,
+        "doubles": 8,
         "triples": 1,
         "homeRuns": 8,
         "runsBattedIn": 32,
-        "totalBases": 74,
+        "totalBases": 76,
         "walks": 15,
         "hitByPitch": 3,
         "strikeouts": 13,
@@ -909,10 +909,10 @@
         "sacrificeHits": 0,
         "stolenBases": 2,
         "stolenBasesAttempts": 4,
-        "putouts": 22,
+        "putouts": 23,
         "assists": 44,
         "errors": 3,
-        "plateAppearances": 149,
+        "plateAppearances": 154,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -924,9 +924,9 @@
         "jersey": "7",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/ryan-franden/10320",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Franden_Ryan_6fwI2.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 26,
-        "putouts": 22,
+        "gamesPlayed": 27,
+        "gamesStarted": 27,
+        "putouts": 23,
         "assists": 44,
         "errors": 3,
         "fieldingPercentage": 0.957,
@@ -936,39 +936,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 69
+        "totalChances": 70
       },
       "evaluation": {
-        "score": 70,
+        "score": 68,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 74.99999999999997,
-          "Power": 72.89473684210527,
-          "Contact": 69.37500000000001,
+          "On-base": 71.11111111111109,
+          "Power": 70.78947368421052,
+          "Contact": 66.25000000000001,
           "Discipline": 100,
           "Speed": 6.666666666666667
         },
         "summary": "Ryan Franden profiles as a IF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .331",
-          "OBP .415",
-          "SLG .597"
+          "AVG .326",
+          "OBP .408",
+          "SLG .589"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".331"
+            "value": ".326"
           },
           {
             "label": "OBP",
-            "value": ".415"
+            "value": ".408"
           },
           {
             "label": "SLG",
-            "value": ".597"
+            "value": ".589"
           },
           {
             "label": "HR",
@@ -1031,13 +1031,13 @@
         "jersey": "8",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/jace-martinez/10326",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Martinez_Jace_FyIwy.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 42,
-        "battingAverage": 0.24,
-        "onBasePercentage": 0.355,
-        "sluggingPercentage": 0.295,
-        "ops": 0.65,
-        "atBats": 129,
+        "gamesPlayed": 44,
+        "gamesStarted": 43,
+        "battingAverage": 0.231,
+        "onBasePercentage": 0.344,
+        "sluggingPercentage": 0.284,
+        "ops": 0.628,
+        "atBats": 134,
         "runs": 24,
         "hits": 31,
         "doubles": 5,
@@ -1047,17 +1047,17 @@
         "totalBases": 38,
         "walks": 23,
         "hitByPitch": 1,
-        "strikeouts": 42,
+        "strikeouts": 45,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
+        "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 2,
         "sacrificeHits": 4,
         "stolenBases": 16,
         "stolenBasesAttempts": 19,
-        "putouts": 67,
+        "putouts": 69,
         "assists": 79,
         "errors": 6,
-        "plateAppearances": 181,
+        "plateAppearances": 186,
         "caughtStealing": 3,
         "pickedOff": 2
       },
@@ -1069,9 +1069,9 @@
         "jersey": "8",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/jace-martinez/10326",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Martinez_Jace_FyIwy.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 38,
-        "putouts": 67,
+        "gamesPlayed": 40,
+        "gamesStarted": 39,
+        "putouts": 69,
         "assists": 79,
         "errors": 6,
         "fieldingPercentage": 0.961,
@@ -1081,39 +1081,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 152
+        "totalChances": 154
       },
       "evaluation": {
-        "score": 26,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 41.66666666666664,
+          "On-base": 35.55555555555553,
           "Power": 0,
-          "Contact": 12.499999999999993,
-          "Discipline": 38.62433862433862,
+          "Contact": 6.875000000000006,
+          "Discipline": 34.56790123456789,
           "Speed": 53.333333333333336
         },
         "summary": "Jace Martinez profiles as a IF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .240",
-          "OBP .355",
-          "SLG .295"
+          "AVG .231",
+          "OBP .344",
+          "SLG .284"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".240"
+            "value": ".231"
           },
           {
             "label": "OBP",
-            "value": ".355"
+            "value": ".344"
           },
           {
             "label": "SLG",
-            "value": ".295"
+            "value": ".284"
           },
           {
             "label": "HR",
@@ -1176,33 +1176,33 @@
         "jersey": "9",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/hunter-alvord/10499",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Alvord_Hunter_cE75D.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "battingAverage": 0.226,
-        "onBasePercentage": 0.345,
-        "sluggingPercentage": 0.372,
-        "ops": 0.717,
-        "atBats": 164,
-        "runs": 34,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "battingAverage": 0.222,
+        "onBasePercentage": 0.347,
+        "sluggingPercentage": 0.365,
+        "ops": 0.712,
+        "atBats": 167,
+        "runs": 36,
         "hits": 37,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 6,
         "runsBattedIn": 25,
         "totalBases": 61,
-        "walks": 28,
+        "walks": 30,
         "hitByPitch": 3,
-        "strikeouts": 57,
+        "strikeouts": 59,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 18,
         "stolenBasesAttempts": 21,
-        "putouts": 43,
-        "assists": 96,
+        "putouts": 44,
+        "assists": 100,
         "errors": 10,
-        "plateAppearances": 221,
+        "plateAppearances": 226,
         "caughtStealing": 3,
         "pickedOff": 2
       },
@@ -1214,19 +1214,19 @@
         "jersey": "9",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/hunter-alvord/10499",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Alvord_Hunter_cE75D.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "putouts": 43,
-        "assists": 96,
+        "gamesPlayed": 44,
+        "gamesStarted": 44,
+        "putouts": 44,
+        "assists": 100,
         "errors": 10,
-        "fieldingPercentage": 0.933,
+        "fieldingPercentage": 0.935,
         "doublePlays": 12,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 149
+        "totalChances": 154
       },
       "evaluation": {
         "score": 26,
@@ -1235,30 +1235,30 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 36.111111111111086,
-          "Power": 13.684210526315788,
-          "Contact": 3.7500000000000036,
-          "Discipline": 32.35867446393762,
+          "On-base": 37.22222222222219,
+          "Power": 11.842105263157892,
+          "Contact": 1.250000000000001,
+          "Discipline": 34.274952919020706,
           "Speed": 60
         },
         "summary": "Hunter Alvord profiles as a IF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .226",
-          "OBP .345",
-          "SLG .372"
+          "AVG .222",
+          "OBP .347",
+          "SLG .365"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".226"
+            "value": ".222"
           },
           {
             "label": "OBP",
-            "value": ".345"
+            "value": ".347"
           },
           {
             "label": "SLG",
-            "value": ".372"
+            "value": ".365"
           },
           {
             "label": "HR",
@@ -1756,33 +1756,33 @@
         "jersey": "13",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/jeric-curtis/10502",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Curtis_JR7vW.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "battingAverage": 0.322,
+        "gamesPlayed": 44,
+        "gamesStarted": 44,
+        "battingAverage": 0.325,
         "onBasePercentage": 0.425,
-        "sluggingPercentage": 0.428,
-        "ops": 0.853,
-        "atBats": 152,
-        "runs": 30,
-        "hits": 49,
-        "doubles": 9,
+        "sluggingPercentage": 0.433,
+        "ops": 0.858,
+        "atBats": 157,
+        "runs": 32,
+        "hits": 51,
+        "doubles": 10,
         "triples": 2,
         "homeRuns": 1,
         "runsBattedIn": 14,
-        "totalBases": 65,
+        "totalBases": 68,
         "walks": 16,
         "hitByPitch": 12,
-        "strikeouts": 37,
+        "strikeouts": 38,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 8,
-        "stolenBases": 20,
-        "stolenBasesAttempts": 30,
+        "stolenBases": 21,
+        "stolenBasesAttempts": 31,
         "putouts": 104,
-        "assists": 2,
+        "assists": 3,
         "errors": 1,
-        "plateAppearances": 229,
+        "plateAppearances": 235,
         "caughtStealing": 10,
         "pickedOff": 4
       },
@@ -1794,10 +1794,10 @@
         "jersey": "13",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/jeric-curtis/10502",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Curtis_JR7vW.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
         "putouts": 104,
-        "assists": 2,
+        "assists": 3,
         "errors": 1,
         "fieldingPercentage": 0.991,
         "doublePlays": 0,
@@ -1806,31 +1806,31 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 107
+        "totalChances": 108
       },
       "evaluation": {
-        "score": 55,
+        "score": 56,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
           "On-base": 80.55555555555554,
-          "Power": 28.421052631578945,
-          "Contact": 63.75000000000001,
-          "Discipline": 25.82582582582582,
-          "Speed": 66.66666666666666
+          "Power": 29.73684210526316,
+          "Contact": 65.625,
+          "Discipline": 24.561403508771924,
+          "Speed": 70
         },
         "summary": "Jeric Curtis profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .322",
+          "AVG .325",
           "OBP .425",
-          "SLG .428"
+          "SLG .433"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".322"
+            "value": ".325"
           },
           {
             "label": "OBP",
@@ -1838,7 +1838,7 @@
           },
           {
             "label": "SLG",
-            "value": ".428"
+            "value": ".433"
           },
           {
             "label": "HR",
@@ -1850,7 +1850,7 @@
           },
           {
             "label": "SB",
-            "value": "20"
+            "value": "21"
           }
         ],
         "metaLine": "SR / R/R",
@@ -1901,33 +1901,33 @@
         "jersey": "14",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/cade-corcoran/10501",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Corcoran_Cade_Ycejj.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "battingAverage": 0.291,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "battingAverage": 0.29,
         "onBasePercentage": 0.409,
-        "sluggingPercentage": 0.437,
-        "ops": 0.846,
-        "atBats": 158,
-        "runs": 29,
-        "hits": 46,
-        "doubles": 8,
+        "sluggingPercentage": 0.438,
+        "ops": 0.847,
+        "atBats": 162,
+        "runs": 31,
+        "hits": 47,
+        "doubles": 9,
         "triples": 0,
         "homeRuns": 5,
         "runsBattedIn": 24,
-        "totalBases": 69,
-        "walks": 29,
+        "totalBases": 71,
+        "walks": 30,
         "hitByPitch": 4,
-        "strikeouts": 48,
+        "strikeouts": 49,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 6,
-        "putouts": 315,
+        "putouts": 318,
         "assists": 18,
         "errors": 2,
-        "plateAppearances": 201,
+        "plateAppearances": 206,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -1939,9 +1939,9 @@
         "jersey": "14",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/cade-corcoran/10501",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Corcoran_Cade_Ycejj.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "putouts": 315,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "putouts": 318,
         "assists": 18,
         "errors": 2,
         "fieldingPercentage": 0.994,
@@ -1951,7 +1951,7 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 335
+        "totalChances": 338
       },
       "evaluation": {
         "score": 47,
@@ -1961,21 +1961,21 @@
         },
         "components": {
           "On-base": 71.66666666666664,
-          "Power": 30.789473684210527,
-          "Contact": 44.374999999999986,
-          "Discipline": 44.9074074074074,
+          "Power": 31.05263157894737,
+          "Contact": 43.749999999999986,
+          "Discipline": 45.804988662131514,
           "Speed": 13.333333333333334
         },
         "summary": "Cade Corcoran profiles as a IF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .291",
+          "AVG .290",
           "OBP .409",
-          "SLG .437"
+          "SLG .438"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".291"
+            "value": ".290"
           },
           {
             "label": "OBP",
@@ -1983,7 +1983,7 @@
           },
           {
             "label": "SLG",
-            "value": ".437"
+            "value": ".438"
           },
           {
             "label": "HR",
@@ -2046,20 +2046,20 @@
         "jersey": "15",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/kirby-orth/10504",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Orth_DFtMJ.jpg",
-        "gamesPlayed": 19,
-        "gamesStarted": 9,
-        "battingAverage": 0.257,
-        "onBasePercentage": 0.381,
-        "sluggingPercentage": 0.429,
-        "ops": 0.81,
-        "atBats": 35,
-        "runs": 8,
-        "hits": 9,
+        "gamesPlayed": 20,
+        "gamesStarted": 10,
+        "battingAverage": 0.3,
+        "onBasePercentage": 0.404,
+        "sluggingPercentage": 0.525,
+        "ops": 0.929,
+        "atBats": 40,
+        "runs": 10,
+        "hits": 12,
         "doubles": 2,
         "triples": 2,
-        "homeRuns": 0,
-        "runsBattedIn": 3,
-        "totalBases": 15,
+        "homeRuns": 1,
+        "runsBattedIn": 6,
+        "totalBases": 21,
         "walks": 5,
         "hitByPitch": 2,
         "strikeouts": 14,
@@ -2069,10 +2069,10 @@
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 31,
+        "putouts": 36,
         "assists": 0,
-        "errors": 1,
-        "plateAppearances": 45,
+        "errors": 2,
+        "plateAppearances": 50,
         "caughtStealing": 0,
         "pickedOff": 2
       },
@@ -2084,19 +2084,19 @@
         "jersey": "15",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/kirby-orth/10504",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Orth_DFtMJ.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 9,
-        "putouts": 31,
+        "gamesPlayed": 12,
+        "gamesStarted": 10,
+        "putouts": 36,
         "assists": 0,
-        "errors": 1,
-        "fieldingPercentage": 0.969,
+        "errors": 2,
+        "fieldingPercentage": 0.947,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 32
+        "totalChances": 38
       },
       "evaluation": {
         "score": 0,
@@ -2333,13 +2333,13 @@
         "jersey": "19",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/sean-bazmore/10500",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Bazmore_Sean_PA0Nt.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 28,
-        "battingAverage": 0.22,
-        "onBasePercentage": 0.354,
-        "sluggingPercentage": 0.275,
-        "ops": 0.629,
-        "atBats": 91,
+        "gamesPlayed": 33,
+        "gamesStarted": 29,
+        "battingAverage": 0.213,
+        "onBasePercentage": 0.345,
+        "sluggingPercentage": 0.266,
+        "ops": 0.611,
+        "atBats": 94,
         "runs": 13,
         "hits": 20,
         "doubles": 5,
@@ -2349,17 +2349,17 @@
         "totalBases": 25,
         "walks": 15,
         "hitByPitch": 5,
-        "strikeouts": 24,
+        "strikeouts": 26,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 2,
         "sacrificeHits": 1,
         "stolenBases": 5,
         "stolenBasesAttempts": 7,
-        "putouts": 45,
+        "putouts": 50,
         "assists": 4,
         "errors": 3,
-        "plateAppearances": 123,
+        "plateAppearances": 126,
         "caughtStealing": 2,
         "pickedOff": 2
       },
@@ -2404,51 +2404,51 @@
         "jersey": "19",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/sean-bazmore/10500",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Bazmore_Sean_PA0Nt.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 22,
-        "putouts": 45,
+        "gamesPlayed": 23,
+        "gamesStarted": 23,
+        "putouts": 50,
         "assists": 4,
         "errors": 3,
-        "fieldingPercentage": 0.942,
+        "fieldingPercentage": 0.947,
         "doublePlays": 1,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 52
+        "totalChances": 57
       },
       "evaluation": {
-        "score": 21,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 41.111111111111086,
+          "On-base": 36.111111111111086,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 47.222222222222214,
+          "Discipline": 41.88034188034187,
           "Speed": 16.666666666666664
         },
         "summary": "Sean Bazmore gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .220",
-          "OBP .354",
-          "SLG .275"
+          "AVG .213",
+          "OBP .345",
+          "SLG .266"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".220"
+            "value": ".213"
           },
           {
             "label": "OBP",
-            "value": ".354"
+            "value": ".345"
           },
           {
             "label": "SLG",
-            "value": ".275"
+            "value": ".266"
           },
           {
             "label": "HR",
@@ -2795,22 +2795,22 @@
         "jersey": "25",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/nathan-fink/10503",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Fink_Nathan_a18Y2.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 29,
-        "battingAverage": 0.24,
-        "onBasePercentage": 0.344,
-        "sluggingPercentage": 0.442,
-        "ops": 0.786,
-        "atBats": 104,
-        "runs": 16,
-        "hits": 25,
-        "doubles": 4,
+        "gamesPlayed": 32,
+        "gamesStarted": 30,
+        "battingAverage": 0.269,
+        "onBasePercentage": 0.37,
+        "sluggingPercentage": 0.481,
+        "ops": 0.851,
+        "atBats": 108,
+        "runs": 19,
+        "hits": 29,
+        "doubles": 6,
         "triples": 1,
         "homeRuns": 5,
-        "runsBattedIn": 18,
-        "totalBases": 46,
+        "runsBattedIn": 20,
+        "totalBases": 52,
         "walks": 14,
-        "hitByPitch": 3,
+        "hitByPitch": 4,
         "strikeouts": 39,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
@@ -2821,7 +2821,7 @@
         "putouts": 20,
         "assists": 1,
         "errors": 0,
-        "plateAppearances": 125,
+        "plateAppearances": 130,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2848,36 +2848,36 @@
         "totalChances": 21
       },
       "evaluation": {
-        "score": 25,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 35.55555555555553,
-          "Power": 32.10526315789474,
-          "Contact": 12.499999999999993,
+          "On-base": 49.999999999999986,
+          "Power": 42.368421052631575,
+          "Contact": 30.625000000000007,
           "Discipline": 17.66381766381766,
           "Speed": 10
         },
         "summary": "Nathan Fink gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .240",
-          "OBP .344",
-          "SLG .442"
+          "AVG .269",
+          "OBP .370",
+          "SLG .481"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".240"
+            "value": ".269"
           },
           {
             "label": "OBP",
-            "value": ".344"
+            "value": ".370"
           },
           {
             "label": "SLG",
-            "value": ".442"
+            "value": ".481"
           },
           {
             "label": "HR",
@@ -2885,7 +2885,7 @@
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "20"
           },
           {
             "label": "SB",
@@ -3225,32 +3225,32 @@
         "jersey": "29",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/jonathan-anders/10489",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Anders_Jonathan_Fg3Eh.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 0,
-        "appearances": 16,
+        "gamesPlayed": 17,
+        "gamesStarted": 1,
+        "appearances": 17,
         "gamesCompleted": 0,
-        "earnedRunAverage": 1.93,
-        "whip": 1.18,
+        "earnedRunAverage": 2.4,
+        "whip": 1.2,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 28,
-        "inningsPitchedDisplay": "28.0",
-        "hitsAllowed": 17,
-        "runsAllowed": 6,
-        "earnedRunsAllowed": 6,
-        "walksAllowed": 16,
-        "strikeouts": 19,
+        "inningsPitched": 30,
+        "inningsPitchedDisplay": "30.0",
+        "hitsAllowed": 19,
+        "runsAllowed": 8,
+        "earnedRunsAllowed": 8,
+        "walksAllowed": 17,
+        "strikeouts": 21,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 95,
+        "opponentsAtBats": 102,
         "wildPitches": 1,
-        "hitBatters": 2,
+        "hitBatters": 3,
         "balks": 1,
-        "opponentsBattingAverage": 0.179,
-        "walksHits": 33
+        "opponentsBattingAverage": 0.186,
+        "walksHits": 36
       },
       "fieldingStats": {
         "rosterBioId": "10489",
@@ -3259,22 +3259,22 @@
         "jersey": "29",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/jonathan-anders/10489",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Anders_Jonathan_Fg3Eh.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 0,
+        "gamesPlayed": 9,
+        "gamesStarted": 1,
         "putouts": 2,
-        "assists": 6,
+        "assists": 7,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 2,
+        "stolenBasesAgainst": 4,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": 0.667,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 8
+        "totalChances": 9
       },
       "evaluation": {
-        "score": 4,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3282,28 +3282,28 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 19.15584415584415,
-          "Command": 3.7499999999999956,
+          "Miss bats": 20.909090909090907,
+          "Command": 4.7058823529411775,
           "Damage suppression": 0
         },
         "summary": "Jonathan Anders looks like a LHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.93",
-          "WHIP 1.18",
-          "K/9 6.1"
+          "ERA 2.40",
+          "WHIP 1.20",
+          "K/9 6.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.93"
+            "value": "2.40"
           },
           {
             "label": "WHIP",
-            "value": "1.18"
+            "value": "1.20"
           },
           {
             "label": "K/9",
-            "value": "6.1"
+            "value": "6.3"
           },
           {
             "label": "BB/9",
@@ -3311,11 +3311,11 @@
           },
           {
             "label": "HR/9",
-            "value": "0.32"
+            "value": "0.30"
           },
           {
             "label": "IP",
-            "value": "28.0"
+            "value": "30.0"
           }
         ],
         "metaLine": "JR / L/L",
@@ -3915,32 +3915,32 @@
         "jersey": "35",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/noah-kendrick/10323",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Kendrick_Noah__jfDL5.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 1,
-        "appearances": 10,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 9.98,
-        "whip": 1.96,
+        "earnedRunAverage": 11.49,
+        "whip": 2.04,
         "wins": 1,
-        "losses": 1,
+        "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 15.333333333333334,
-        "inningsPitchedDisplay": "15.1",
-        "hitsAllowed": 25,
-        "runsAllowed": 19,
-        "earnedRunsAllowed": 17,
+        "inningsPitched": 15.666666666666666,
+        "inningsPitchedDisplay": "15.2",
+        "hitsAllowed": 27,
+        "runsAllowed": 22,
+        "earnedRunsAllowed": 20,
         "walksAllowed": 5,
-        "strikeouts": 8,
+        "strikeouts": 9,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 6,
-        "opponentsAtBats": 69,
+        "homeRunsAllowed": 7,
+        "opponentsAtBats": 72,
         "wildPitches": 3,
-        "hitBatters": 2,
+        "hitBatters": 3,
         "balks": 1,
-        "opponentsBattingAverage": 0.362,
-        "walksHits": 30
+        "opponentsBattingAverage": 0.375,
+        "walksHits": 32
       },
       "fieldingStats": {
         "rosterBioId": "10323",
@@ -3949,22 +3949,22 @@
         "jersey": "35",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/noah-kendrick/10323",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Kendrick_Noah__jfDL5.jpg",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 1,
         "putouts": 1,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 3,
+        "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": 0.8,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
       },
       "evaluation": {
-        "score": 3,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3972,28 +3972,28 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 6.324110671936754,
-          "Command": 12.000000000000002,
+          "Miss bats": 10.638297872340429,
+          "Command": 16,
           "Damage suppression": 0
         },
         "summary": "Noah Kendrick looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 9.98",
-          "WHIP 1.96",
-          "K/9 4.7"
+          "ERA 11.49",
+          "WHIP 2.04",
+          "K/9 5.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.98"
+            "value": "11.49"
           },
           {
             "label": "WHIP",
-            "value": "1.96"
+            "value": "2.04"
           },
           {
             "label": "K/9",
-            "value": "4.7"
+            "value": "5.2"
           },
           {
             "label": "BB/9",
@@ -4001,11 +4001,11 @@
           },
           {
             "label": "HR/9",
-            "value": "3.52"
+            "value": "4.02"
           },
           {
             "label": "IP",
-            "value": "15.3"
+            "value": "15.7"
           }
         ],
         "metaLine": "JR / R/R",
@@ -4057,32 +4057,32 @@
         "jersey": "36",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/cooper-harris/10491",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Harris_Cooper_V9lG8.jpg",
-        "gamesPlayed": 16,
+        "gamesPlayed": 17,
         "gamesStarted": 1,
-        "appearances": 16,
+        "appearances": 17,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.6,
-        "whip": 1.5,
+        "earnedRunAverage": 6.91,
+        "whip": 1.65,
         "wins": 1,
         "losses": 1,
         "saves": 1,
         "shutouts": 0,
         "inningsPitched": 27.333333333333332,
         "inningsPitchedDisplay": "27.1",
-        "hitsAllowed": 24,
-        "runsAllowed": 17,
-        "earnedRunsAllowed": 17,
-        "walksAllowed": 17,
+        "hitsAllowed": 25,
+        "runsAllowed": 21,
+        "earnedRunsAllowed": 21,
+        "walksAllowed": 20,
         "strikeouts": 20,
         "doublesAllowed": 5,
         "triplesAllowed": 1,
         "homeRunsAllowed": 6,
-        "opponentsAtBats": 98,
+        "opponentsAtBats": 99,
         "wildPitches": 2,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.245,
-        "walksHits": 41
+        "opponentsBattingAverage": 0.253,
+        "walksHits": 45
       },
       "fieldingStats": {
         "rosterBioId": "10491",
@@ -4115,23 +4115,23 @@
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 23.503325942350337,
-          "Command": 3.529411764705883,
+          "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Cooper Harris gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.60",
-          "WHIP 1.50",
+          "ERA 6.91",
+          "WHIP 1.65",
           "K/9 6.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.60"
+            "value": "6.91"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.65"
           },
           {
             "label": "K/9",
@@ -4139,7 +4139,7 @@
           },
           {
             "label": "BB/9",
-            "value": "5.6"
+            "value": "6.6"
           },
           {
             "label": "HR/9",
@@ -4429,32 +4429,32 @@
         "jersey": "40",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/mason-murphy/10494",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Murphy_wbJBQ.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 1,
-        "appearances": 11,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 8.36,
-        "whip": 2.14,
+        "earnedRunAverage": 7.88,
+        "whip": 2.06,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 14,
-        "inningsPitchedDisplay": "14.0",
-        "hitsAllowed": 16,
-        "runsAllowed": 17,
-        "earnedRunsAllowed": 13,
-        "walksAllowed": 14,
-        "strikeouts": 15,
+        "inningsPitched": 16,
+        "inningsPitchedDisplay": "16.0",
+        "hitsAllowed": 17,
+        "runsAllowed": 18,
+        "earnedRunsAllowed": 14,
+        "walksAllowed": 16,
+        "strikeouts": 18,
         "doublesAllowed": 3,
         "triplesAllowed": 1,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 58,
+        "opponentsAtBats": 65,
         "wildPitches": 2,
         "hitBatters": 7,
         "balks": 0,
-        "opponentsBattingAverage": 0.276,
-        "walksHits": 30
+        "opponentsBattingAverage": 0.262,
+        "walksHits": 33
       },
       "fieldingStats": {
         "rosterBioId": "10494",
@@ -4463,14 +4463,14 @@
         "jersey": "40",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/mason-murphy/10494",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Murphy_wbJBQ.jpg",
-        "gamesPlayed": 1,
+        "gamesPlayed": 2,
         "gamesStarted": 0,
         "putouts": 0,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 0,
         "doublePlays": 0,
-        "stolenBasesAgainst": 1,
+        "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": 1,
         "passedBalls": 0,
@@ -4478,7 +4478,7 @@
         "totalChances": 0
       },
       "evaluation": {
-        "score": 10,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4486,28 +4486,28 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.298701298701296,
-          "Command": 1.428571428571428,
+          "Miss bats": 55.68181818181818,
+          "Command": 2.5,
           "Damage suppression": 0
         },
         "summary": "Mason Murphy looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 8.36",
-          "WHIP 2.14",
-          "K/9 9.6"
+          "ERA 7.88",
+          "WHIP 2.06",
+          "K/9 10.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.36"
+            "value": "7.88"
           },
           {
             "label": "WHIP",
-            "value": "2.14"
+            "value": "2.06"
           },
           {
             "label": "K/9",
-            "value": "9.6"
+            "value": "10.1"
           },
           {
             "label": "BB/9",
@@ -4515,11 +4515,11 @@
           },
           {
             "label": "HR/9",
-            "value": "1.29"
+            "value": "1.13"
           },
           {
             "label": "IP",
-            "value": "14.0"
+            "value": "16.0"
           }
         ],
         "metaLine": "FR / R/R",
@@ -4571,32 +4571,32 @@
         "jersey": "41",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/gabe-winans/10497",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Winans_Gabe_GbLHJ.jpg",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 3,
-        "appearances": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.13,
-        "whip": 1.75,
+        "earnedRunAverage": 8.28,
+        "whip": 1.84,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 24,
-        "inningsPitchedDisplay": "24.0",
-        "hitsAllowed": 27,
-        "runsAllowed": 20,
-        "earnedRunsAllowed": 19,
-        "walksAllowed": 15,
-        "strikeouts": 30,
+        "inningsPitched": 25,
+        "inningsPitchedDisplay": "25.0",
+        "hitsAllowed": 29,
+        "runsAllowed": 24,
+        "earnedRunsAllowed": 23,
+        "walksAllowed": 17,
+        "strikeouts": 31,
         "doublesAllowed": 4,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 10,
-        "opponentsAtBats": 95,
+        "homeRunsAllowed": 12,
+        "opponentsAtBats": 99,
         "wildPitches": 3,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.284,
-        "walksHits": 42
+        "opponentsBattingAverage": 0.293,
+        "walksHits": 46
       },
       "fieldingStats": {
         "rosterBioId": "10497",
@@ -4628,40 +4628,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 65.9090909090909,
-          "Command": 20,
+          "Miss bats": 65.0909090909091,
+          "Command": 16.470588235294116,
           "Damage suppression": 0
         },
         "summary": "Gabe Winans looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 7.13",
-          "WHIP 1.75",
-          "K/9 11.3"
+          "ERA 8.28",
+          "WHIP 1.84",
+          "K/9 11.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.13"
+            "value": "8.28"
           },
           {
             "label": "WHIP",
-            "value": "1.75"
+            "value": "1.84"
           },
           {
             "label": "K/9",
-            "value": "11.3"
+            "value": "11.2"
           },
           {
             "label": "BB/9",
-            "value": "5.6"
+            "value": "6.1"
           },
           {
             "label": "HR/9",
-            "value": "3.75"
+            "value": "4.32"
           },
           {
             "label": "IP",
-            "value": "24.0"
+            "value": "25.0"
           }
         ],
         "metaLine": "FR / R/R",
@@ -4713,32 +4713,32 @@
         "jersey": "42",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/zak-johnson/10322",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Johnson_Zak_zIZoq.jpg",
-        "gamesPlayed": 21,
+        "gamesPlayed": 22,
         "gamesStarted": 0,
-        "appearances": 21,
+        "appearances": 22,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.39,
-        "whip": 1.43,
+        "earnedRunAverage": 4.23,
+        "whip": 1.41,
         "wins": 2,
         "losses": 2,
         "saves": 5,
         "shutouts": 0,
-        "inningsPitched": 26.666666666666668,
-        "inningsPitchedDisplay": "26.2",
-        "hitsAllowed": 29,
+        "inningsPitched": 27.666666666666668,
+        "inningsPitchedDisplay": "27.2",
+        "hitsAllowed": 30,
         "runsAllowed": 16,
         "earnedRunsAllowed": 13,
         "walksAllowed": 9,
-        "strikeouts": 27,
-        "doublesAllowed": 4,
+        "strikeouts": 28,
+        "doublesAllowed": 5,
         "triplesAllowed": 1,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 103,
+        "opponentsAtBats": 107,
         "wildPitches": 5,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.282,
-        "walksHits": 38
+        "opponentsBattingAverage": 0.28,
+        "walksHits": 39
       },
       "fieldingStats": {
         "rosterBioId": "10322",
@@ -4747,16 +4747,16 @@
         "jersey": "42",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/zak-johnson/10322",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Johnson_Zak_zIZoq.jpg",
-        "gamesPlayed": 8,
+        "gamesPlayed": 9,
         "gamesStarted": 0,
         "putouts": 2,
         "assists": 4,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 5,
+        "stolenBasesAgainst": 6,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.714,
+        "stolenBasesPercentage": 0.75,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -4770,24 +4770,24 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 46.47727272727272,
-          "Command": 40,
+          "Miss bats": 46.440306681270535,
+          "Command": 42.22222222222222,
           "Damage suppression": 0
         },
-        "summary": "Zak Johnson looks like a RHP option who misses bats.",
+        "summary": "Zak Johnson looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.39",
-          "WHIP 1.43",
+          "ERA 4.23",
+          "WHIP 1.41",
           "K/9 9.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.39"
+            "value": "4.23"
           },
           {
             "label": "WHIP",
-            "value": "1.43"
+            "value": "1.41"
           },
           {
             "label": "K/9",
@@ -4795,15 +4795,15 @@
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "2.9"
           },
           {
             "label": "HR/9",
-            "value": "1.01"
+            "value": "0.98"
           },
           {
             "label": "IP",
-            "value": "26.7"
+            "value": "27.7"
           }
         ],
         "metaLine": "SR / R/R",
@@ -4855,32 +4855,32 @@
         "jersey": "47",
         "profileUrl": "https://gobearkats.com/sports/baseball/roster/connor-mondey/10327",
         "imageUrl": "https://gobearkats.com/images/2025/10/11/2026_Headshots_Mondey_Connor_S3xyA.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 1,
-        "appearances": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5,
-        "whip": 1.39,
+        "earnedRunAverage": 4.95,
+        "whip": 1.45,
         "wins": 1,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 18,
-        "inningsPitchedDisplay": "18.0",
-        "hitsAllowed": 15,
-        "runsAllowed": 11,
-        "earnedRunsAllowed": 10,
-        "walksAllowed": 10,
+        "inningsPitched": 20,
+        "inningsPitchedDisplay": "20.0",
+        "hitsAllowed": 17,
+        "runsAllowed": 12,
+        "earnedRunsAllowed": 11,
+        "walksAllowed": 12,
         "strikeouts": 16,
         "doublesAllowed": 2,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 65,
-        "wildPitches": 4,
+        "homeRunsAllowed": 5,
+        "opponentsAtBats": 73,
+        "wildPitches": 5,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.231,
-        "walksHits": 25
+        "opponentsBattingAverage": 0.233,
+        "walksHits": 29
       },
       "fieldingStats": {
         "rosterBioId": "10327",
@@ -4904,7 +4904,7 @@
         "totalChances": 5
       },
       "evaluation": {
-        "score": 9,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4912,40 +4912,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.36363636363637,
-          "Command": 12.000000000000002,
+          "Miss bats": 29.090909090909093,
+          "Command": 6.666666666666665,
           "Damage suppression": 0
         },
         "summary": "Connor Mondey gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.00",
-          "WHIP 1.39",
-          "K/9 8.0"
+          "ERA 4.95",
+          "WHIP 1.45",
+          "K/9 7.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.00"
+            "value": "4.95"
           },
           {
             "label": "WHIP",
-            "value": "1.39"
+            "value": "1.45"
           },
           {
             "label": "K/9",
-            "value": "8.0"
+            "value": "7.2"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "5.4"
           },
           {
             "label": "HR/9",
-            "value": "2.00"
+            "value": "2.25"
           },
           {
             "label": "IP",
-            "value": "18.0"
+            "value": "20.0"
           }
         ],
         "metaLine": "SO / R/R",
@@ -5114,29 +5114,29 @@
         "position": "OF",
         "classYear": "SO",
         "handedness": "L/L",
-        "score": 3,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Parker Blackman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .167",
-          "OBP .231",
-          "SLG .250"
+          "AVG .162",
+          "OBP .244",
+          "SLG .243"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".167"
+            "value": ".162"
           },
           {
             "label": "OBP",
-            "value": ".231"
+            "value": ".244"
           },
           {
             "label": "SLG",
-            "value": ".250"
+            "value": ".243"
           },
           {
             "label": "HR",
@@ -5155,7 +5155,7 @@
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 5.555555555555554,
+          "Discipline": 11.965811965811964,
           "Speed": 20
         },
         "metaLine": "SO / L/L",
@@ -5252,37 +5252,37 @@
         "position": "C",
         "classYear": "FR",
         "handedness": "S/R",
-        "score": 34,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Wes Baker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .211",
-          "OBP .376",
-          "SLG .411"
+          "AVG .230",
+          "OBP .385",
+          "SLG .480"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".211"
+            "value": ".230"
           },
           {
             "label": "OBP",
-            "value": ".376"
+            "value": ".385"
           },
           {
             "label": "SLG",
-            "value": ".411"
+            "value": ".480"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "7"
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "31"
           },
           {
             "label": "SB",
@@ -5290,10 +5290,10 @@
           }
         ],
         "components": {
-          "On-base": 53.33333333333332,
-          "Power": 23.947368421052627,
-          "Contact": 0,
-          "Discipline": 74.07407407407408,
+          "On-base": 58.33333333333333,
+          "Power": 42.10526315789473,
+          "Contact": 6.250000000000005,
+          "Discipline": 70.96774193548386,
           "Speed": 3.3333333333333335
         },
         "metaLine": "FR / S/R",
@@ -5321,29 +5321,29 @@
         "position": "IF",
         "classYear": "R-JR",
         "handedness": "L/R",
-        "score": 70,
+        "score": 68,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Ryan Franden profiles as a IF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .331",
-          "OBP .415",
-          "SLG .597"
+          "AVG .326",
+          "OBP .408",
+          "SLG .589"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".331"
+            "value": ".326"
           },
           {
             "label": "OBP",
-            "value": ".415"
+            "value": ".408"
           },
           {
             "label": "SLG",
-            "value": ".597"
+            "value": ".589"
           },
           {
             "label": "HR",
@@ -5359,9 +5359,9 @@
           }
         ],
         "components": {
-          "On-base": 74.99999999999997,
-          "Power": 72.89473684210527,
-          "Contact": 69.37500000000001,
+          "On-base": 71.11111111111109,
+          "Power": 70.78947368421052,
+          "Contact": 66.25000000000001,
           "Discipline": 100,
           "Speed": 6.666666666666667
         },
@@ -5390,29 +5390,29 @@
         "position": "IF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 26,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jace Martinez profiles as a IF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .240",
-          "OBP .355",
-          "SLG .295"
+          "AVG .231",
+          "OBP .344",
+          "SLG .284"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".240"
+            "value": ".231"
           },
           {
             "label": "OBP",
-            "value": ".355"
+            "value": ".344"
           },
           {
             "label": "SLG",
-            "value": ".295"
+            "value": ".284"
           },
           {
             "label": "HR",
@@ -5428,10 +5428,10 @@
           }
         ],
         "components": {
-          "On-base": 41.66666666666664,
+          "On-base": 35.55555555555553,
           "Power": 0,
-          "Contact": 12.499999999999993,
-          "Discipline": 38.62433862433862,
+          "Contact": 6.875000000000006,
+          "Discipline": 34.56790123456789,
           "Speed": 53.333333333333336
         },
         "metaLine": "JR / R/R",
@@ -5466,22 +5466,22 @@
         },
         "summary": "Hunter Alvord profiles as a IF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .226",
-          "OBP .345",
-          "SLG .372"
+          "AVG .222",
+          "OBP .347",
+          "SLG .365"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".226"
+            "value": ".222"
           },
           {
             "label": "OBP",
-            "value": ".345"
+            "value": ".347"
           },
           {
             "label": "SLG",
-            "value": ".372"
+            "value": ".365"
           },
           {
             "label": "HR",
@@ -5497,10 +5497,10 @@
           }
         ],
         "components": {
-          "On-base": 36.111111111111086,
-          "Power": 13.684210526315788,
-          "Contact": 3.7500000000000036,
-          "Discipline": 32.35867446393762,
+          "On-base": 37.22222222222219,
+          "Power": 11.842105263157892,
+          "Contact": 1.250000000000001,
+          "Discipline": 34.274952919020706,
           "Speed": 60
         },
         "metaLine": "JR / R/R",
@@ -5735,21 +5735,21 @@
         "position": "OF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 55,
+        "score": 56,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Jeric Curtis profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .322",
+          "AVG .325",
           "OBP .425",
-          "SLG .428"
+          "SLG .433"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".322"
+            "value": ".325"
           },
           {
             "label": "OBP",
@@ -5757,7 +5757,7 @@
           },
           {
             "label": "SLG",
-            "value": ".428"
+            "value": ".433"
           },
           {
             "label": "HR",
@@ -5769,15 +5769,15 @@
           },
           {
             "label": "SB",
-            "value": "20"
+            "value": "21"
           }
         ],
         "components": {
           "On-base": 80.55555555555554,
-          "Power": 28.421052631578945,
-          "Contact": 63.75000000000001,
-          "Discipline": 25.82582582582582,
-          "Speed": 66.66666666666666
+          "Power": 29.73684210526316,
+          "Contact": 65.625,
+          "Discipline": 24.561403508771924,
+          "Speed": 70
         },
         "metaLine": "SR / R/R",
         "detailBadges": [
@@ -5811,14 +5811,14 @@
         },
         "summary": "Cade Corcoran profiles as a IF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .291",
+          "AVG .290",
           "OBP .409",
-          "SLG .437"
+          "SLG .438"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".291"
+            "value": ".290"
           },
           {
             "label": "OBP",
@@ -5826,7 +5826,7 @@
           },
           {
             "label": "SLG",
-            "value": ".437"
+            "value": ".438"
           },
           {
             "label": "HR",
@@ -5843,9 +5843,9 @@
         ],
         "components": {
           "On-base": 71.66666666666664,
-          "Power": 30.789473684210527,
-          "Contact": 44.374999999999986,
-          "Discipline": 44.9074074074074,
+          "Power": 31.05263157894737,
+          "Contact": 43.749999999999986,
+          "Discipline": 45.804988662131514,
           "Speed": 13.333333333333334
         },
         "metaLine": "FR / L/R",
@@ -6011,29 +6011,29 @@
         "position": "IF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 21,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Sean Bazmore gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .220",
-          "OBP .354",
-          "SLG .275"
+          "AVG .213",
+          "OBP .345",
+          "SLG .266"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".220"
+            "value": ".213"
           },
           {
             "label": "OBP",
-            "value": ".354"
+            "value": ".345"
           },
           {
             "label": "SLG",
-            "value": ".275"
+            "value": ".266"
           },
           {
             "label": "HR",
@@ -6049,10 +6049,10 @@
           }
         ],
         "components": {
-          "On-base": 41.111111111111086,
+          "On-base": 36.111111111111086,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 47.222222222222214,
+          "Discipline": 41.88034188034187,
           "Speed": 16.666666666666664
         },
         "metaLine": "JR / R/R",
@@ -6218,29 +6218,29 @@
         "position": "OF",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 25,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nathan Fink gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .240",
-          "OBP .344",
-          "SLG .442"
+          "AVG .269",
+          "OBP .370",
+          "SLG .481"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".240"
+            "value": ".269"
           },
           {
             "label": "OBP",
-            "value": ".344"
+            "value": ".370"
           },
           {
             "label": "SLG",
-            "value": ".442"
+            "value": ".481"
           },
           {
             "label": "HR",
@@ -6248,7 +6248,7 @@
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "20"
           },
           {
             "label": "SB",
@@ -6256,9 +6256,9 @@
           }
         ],
         "components": {
-          "On-base": 35.55555555555553,
-          "Power": 32.10526315789474,
-          "Contact": 12.499999999999993,
+          "On-base": 49.999999999999986,
+          "Power": 42.368421052631575,
+          "Contact": 30.625000000000007,
           "Discipline": 17.66381766381766,
           "Speed": 10
         },
@@ -6425,29 +6425,29 @@
         "position": "LHP",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 4,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jonathan Anders looks like a LHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.93",
-          "WHIP 1.18",
-          "K/9 6.1"
+          "ERA 2.40",
+          "WHIP 1.20",
+          "K/9 6.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.93"
+            "value": "2.40"
           },
           {
             "label": "WHIP",
-            "value": "1.18"
+            "value": "1.20"
           },
           {
             "label": "K/9",
-            "value": "6.1"
+            "value": "6.3"
           },
           {
             "label": "BB/9",
@@ -6455,18 +6455,18 @@
           },
           {
             "label": "HR/9",
-            "value": "0.32"
+            "value": "0.30"
           },
           {
             "label": "IP",
-            "value": "28.0"
+            "value": "30.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 19.15584415584415,
-          "Command": 3.7499999999999956,
+          "Miss bats": 20.909090909090907,
+          "Command": 4.7058823529411775,
           "Damage suppression": 0
         },
         "metaLine": "JR / L/L",
@@ -6770,29 +6770,29 @@
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 3,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Noah Kendrick looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 9.98",
-          "WHIP 1.96",
-          "K/9 4.7"
+          "ERA 11.49",
+          "WHIP 2.04",
+          "K/9 5.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.98"
+            "value": "11.49"
           },
           {
             "label": "WHIP",
-            "value": "1.96"
+            "value": "2.04"
           },
           {
             "label": "K/9",
-            "value": "4.7"
+            "value": "5.2"
           },
           {
             "label": "BB/9",
@@ -6800,18 +6800,18 @@
           },
           {
             "label": "HR/9",
-            "value": "3.52"
+            "value": "4.02"
           },
           {
             "label": "IP",
-            "value": "15.3"
+            "value": "15.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 6.324110671936754,
-          "Command": 12.000000000000002,
+          "Miss bats": 10.638297872340429,
+          "Command": 16,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -6846,18 +6846,18 @@
         },
         "summary": "Cooper Harris gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.60",
-          "WHIP 1.50",
+          "ERA 6.91",
+          "WHIP 1.65",
           "K/9 6.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.60"
+            "value": "6.91"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.65"
           },
           {
             "label": "K/9",
@@ -6865,7 +6865,7 @@
           },
           {
             "label": "BB/9",
-            "value": "5.6"
+            "value": "6.6"
           },
           {
             "label": "HR/9",
@@ -6880,7 +6880,7 @@
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 23.503325942350337,
-          "Command": 3.529411764705883,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -7045,29 +7045,29 @@
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 10,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Mason Murphy looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 8.36",
-          "WHIP 2.14",
-          "K/9 9.6"
+          "ERA 7.88",
+          "WHIP 2.06",
+          "K/9 10.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.36"
+            "value": "7.88"
           },
           {
             "label": "WHIP",
-            "value": "2.14"
+            "value": "2.06"
           },
           {
             "label": "K/9",
-            "value": "9.6"
+            "value": "10.1"
           },
           {
             "label": "BB/9",
@@ -7075,18 +7075,18 @@
           },
           {
             "label": "HR/9",
-            "value": "1.29"
+            "value": "1.13"
           },
           {
             "label": "IP",
-            "value": "14.0"
+            "value": "16.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.298701298701296,
-          "Command": 1.428571428571428,
+          "Miss bats": 55.68181818181818,
+          "Command": 2.5,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -7121,41 +7121,41 @@
         },
         "summary": "Gabe Winans looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 7.13",
-          "WHIP 1.75",
-          "K/9 11.3"
+          "ERA 8.28",
+          "WHIP 1.84",
+          "K/9 11.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.13"
+            "value": "8.28"
           },
           {
             "label": "WHIP",
-            "value": "1.75"
+            "value": "1.84"
           },
           {
             "label": "K/9",
-            "value": "11.3"
+            "value": "11.2"
           },
           {
             "label": "BB/9",
-            "value": "5.6"
+            "value": "6.1"
           },
           {
             "label": "HR/9",
-            "value": "3.75"
+            "value": "4.32"
           },
           {
             "label": "IP",
-            "value": "24.0"
+            "value": "25.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 65.9090909090909,
-          "Command": 20,
+          "Miss bats": 65.0909090909091,
+          "Command": 16.470588235294116,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -7188,20 +7188,20 @@
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Zak Johnson looks like a RHP option who misses bats.",
+        "summary": "Zak Johnson looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.39",
-          "WHIP 1.43",
+          "ERA 4.23",
+          "WHIP 1.41",
           "K/9 9.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.39"
+            "value": "4.23"
           },
           {
             "label": "WHIP",
-            "value": "1.43"
+            "value": "1.41"
           },
           {
             "label": "K/9",
@@ -7209,22 +7209,22 @@
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "2.9"
           },
           {
             "label": "HR/9",
-            "value": "1.01"
+            "value": "0.98"
           },
           {
             "label": "IP",
-            "value": "26.7"
+            "value": "27.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 46.47727272727272,
-          "Command": 40,
+          "Miss bats": 46.440306681270535,
+          "Command": 42.22222222222222,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -7252,48 +7252,48 @@
         "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 9,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Connor Mondey gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.00",
-          "WHIP 1.39",
-          "K/9 8.0"
+          "ERA 4.95",
+          "WHIP 1.45",
+          "K/9 7.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.00"
+            "value": "4.95"
           },
           {
             "label": "WHIP",
-            "value": "1.39"
+            "value": "1.45"
           },
           {
             "label": "K/9",
-            "value": "8.0"
+            "value": "7.2"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "5.4"
           },
           {
             "label": "HR/9",
-            "value": "2.00"
+            "value": "2.25"
           },
           {
             "label": "IP",
-            "value": "18.0"
+            "value": "20.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.36363636363637,
-          "Command": 12.000000000000002,
+          "Miss bats": 29.090909090909093,
+          "Command": 6.666666666666665,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",

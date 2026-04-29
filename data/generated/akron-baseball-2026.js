@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.akron2026 = {
-  "generatedAt": "2026-04-28T12:02:11.848Z",
+  "generatedAt": "2026-04-29T11:54:48.070Z",
   "season": 2026,
   "school": {
     "slug": "akron",
@@ -28,7 +28,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
     "rosterPlayers": 36,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 18,
-    "playersWithPitchingStats": 16,
+    "playersWithPitchingStats": 17,
     "playersWithFieldingStats": 33,
     "mergedPlayersWithAnyStats": 33,
     "matchedEspnPlayers": 0,
@@ -39,24 +39,24 @@ window.__BASEBALL_DATASETS__.akron2026 = {
     }
   },
   "teamSummary": {
-    "record": "20-24, 10-14",
-    "battingAverage": ".285",
-    "earnedRunAverage": "7.23",
+    "record": "20-25, 10-14",
+    "battingAverage": ".284",
+    "earnedRunAverage": "7.35",
     "wins": "20",
-    "losses": "24",
+    "losses": "25",
     "hitting": {
-      "atBats": "1439",
-      "runsScored": "308",
-      "hits": "410",
-      "runsBattedIn": "269",
-      "doubles": "88",
+      "atBats": "1473",
+      "runsScored": "312",
+      "hits": "418",
+      "runsBattedIn": "272",
+      "doubles": "89",
       "triples": "6",
-      "homeRuns": "39",
-      "walks": "249",
+      "homeRuns": "40",
+      "walks": "252",
       "intentionalWalks": "6",
-      "strikeouts": "328",
-      "strikeoutsLooking": "92",
-      "hitByPitch": "78",
+      "strikeouts": "341",
+      "strikeoutsLooking": "95",
+      "hitByPitch": "83",
       "stolenBases": "107",
       "caughtStealing": "22",
       "sacrificeHits": "27",
@@ -64,59 +64,59 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "354",
-      "flyOuts": "353",
-      "groundedIntoDoublePlay": "22",
+      "groundOuts": "360",
+      "flyOuts": "360",
+      "groundedIntoDoublePlay": "23",
       "pickedOff": "6",
-      "doublePlaysHitInto": "28",
+      "doublePlaysHitInto": "29",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1084",
-      "assists": "415",
+      "putouts": "1108",
+      "assists": "424",
       "errors": "57",
       "passedBalls": "8",
       "catchersInterference": "2",
-      "stolenBasesAgainst": "91",
-      "caughtStealingBy": "19",
-      "involvedInDoublePlays": "33",
+      "stolenBasesAgainst": "92",
+      "caughtStealingBy": "20",
+      "involvedInDoublePlays": "34",
       "involvedInTriplePlays": "0",
-      "totalChances": "1556",
-      "fieldingPercentage": ".963"
+      "totalChances": "1589",
+      "fieldingPercentage": ".964"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "20",
       "saves": "9",
-      "losses": "24",
+      "losses": "25",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "1",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "362.0",
-      "hitsAllowed": "386",
-      "runsAllowed": "345",
-      "earnedRunsAllowed": "291",
-      "walksAllowed": "270",
-      "strikeouts": "303",
-      "battersFaced": "1804",
-      "opponentAtBats": "1407",
-      "doublesAllowed": "72",
+      "inningsPitched": "370.0",
+      "hitsAllowed": "398",
+      "runsAllowed": "356",
+      "earnedRunsAllowed": "302",
+      "walksAllowed": "276",
+      "strikeouts": "311",
+      "battersFaced": "1846",
+      "opponentAtBats": "1441",
+      "doublesAllowed": "75",
       "triplesAllowed": "14",
-      "homerunsAllowed": "54",
-      "wildPitches": "27",
+      "homerunsAllowed": "57",
+      "wildPitches": "28",
       "balks": "2",
-      "hitBatters": "89",
-      "strikeoutsLooking": "86",
+      "hitBatters": "91",
+      "strikeoutsLooking": "89",
       "intentionalWalks": "4",
       "inheritedRunners": "23",
       "inheritedRunnersThatScored": "16",
       "sacrificeHitsAllowed": "21",
       "sacrificeFliesAllowed": "15",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6212",
-      "flyouts": "335",
-      "groundouts": "377",
+      "pitches": "6364",
+      "flyouts": "341",
+      "groundouts": "385",
       "teamUnearnedRuns": "0",
       "saveRecord": "3",
       "pickoff": "7"
@@ -303,13 +303,13 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "1",
         "profileUrl": "https://gozips.com/sports/baseball/roster/austin-lafferty/9852",
         "imageUrl": "https://gozips.com/images/2026/1/13/1_Austin_Lafferty.jpg",
-        "gamesPlayed": 28,
+        "gamesPlayed": 29,
         "gamesStarted": 24,
-        "battingAverage": 0.235,
-        "onBasePercentage": 0.41,
-        "sluggingPercentage": 0.444,
-        "ops": 0.854,
-        "atBats": 81,
+        "battingAverage": 0.226,
+        "onBasePercentage": 0.398,
+        "sluggingPercentage": 0.429,
+        "ops": 0.827,
+        "atBats": 84,
         "runs": 23,
         "hits": 19,
         "doubles": 6,
@@ -319,17 +319,17 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "totalBases": 36,
         "walks": 20,
         "hitByPitch": 4,
-        "strikeouts": 23,
+        "strikeouts": 24,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 6,
         "stolenBasesAttempts": 7,
-        "putouts": 32,
+        "putouts": 33,
         "assists": 3,
         "errors": 0,
-        "plateAppearances": 114,
+        "plateAppearances": 117,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -341,9 +341,9 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "1",
         "profileUrl": "https://gozips.com/sports/baseball/roster/austin-lafferty/9852",
         "imageUrl": "https://gozips.com/images/2026/1/13/1_Austin_Lafferty.jpg",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 17,
-        "putouts": 32,
+        "putouts": 33,
         "assists": 3,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -353,39 +353,39 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 35
+        "totalChances": 36
       },
       "evaluation": {
-        "score": 46,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 72.2222222222222,
-          "Power": 32.631578947368425,
-          "Contact": 9.374999999999991,
-          "Discipline": 74.39613526570045,
+          "On-base": 65.55555555555556,
+          "Power": 28.68421052631579,
+          "Contact": 3.7500000000000036,
+          "Discipline": 70.37037037037037,
           "Speed": 20
         },
-        "summary": "Austin Lafferty profiles as a OF piece who gets on base at a high clip.",
+        "summary": "Austin Lafferty gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .235",
-          "OBP .410",
-          "SLG .444"
+          "AVG .226",
+          "OBP .398",
+          "SLG .429"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".235"
+            "value": ".226"
           },
           {
             "label": "OBP",
-            "value": ".410"
+            "value": ".398"
           },
           {
             "label": "SLG",
-            "value": ".444"
+            "value": ".429"
           },
           {
             "label": "HR",
@@ -448,13 +448,13 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "2",
         "profileUrl": "https://gozips.com/sports/baseball/roster/kyle-mcconachie/9853",
         "imageUrl": "https://gozips.com/images/2026/1/13/2_Kyle_McConachie.jpg",
-        "gamesPlayed": 32,
+        "gamesPlayed": 33,
         "gamesStarted": 26,
-        "battingAverage": 0.206,
-        "onBasePercentage": 0.271,
-        "sluggingPercentage": 0.299,
-        "ops": 0.57,
-        "atBats": 97,
+        "battingAverage": 0.204,
+        "onBasePercentage": 0.275,
+        "sluggingPercentage": 0.296,
+        "ops": 0.571,
+        "atBats": 98,
         "runs": 12,
         "hits": 20,
         "doubles": 6,
@@ -463,7 +463,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "runsBattedIn": 17,
         "totalBases": 29,
         "walks": 7,
-        "hitByPitch": 2,
+        "hitByPitch": 3,
         "strikeouts": 26,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
@@ -471,10 +471,10 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "sacrificeHits": 4,
         "stolenBases": 5,
         "stolenBasesAttempts": 5,
-        "putouts": 37,
-        "assists": 66,
+        "putouts": 38,
+        "assists": 68,
         "errors": 3,
-        "plateAppearances": 116,
+        "plateAppearances": 118,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -486,10 +486,10 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "2",
         "profileUrl": "https://gozips.com/sports/baseball/roster/kyle-mcconachie/9853",
         "imageUrl": "https://gozips.com/images/2026/1/13/2_Kyle_McConachie.jpg",
-        "gamesPlayed": 29,
+        "gamesPlayed": 30,
         "gamesStarted": 25,
-        "putouts": 37,
-        "assists": 66,
+        "putouts": 38,
+        "assists": 68,
         "errors": 3,
         "fieldingPercentage": 0.972,
         "doublePlays": 15,
@@ -498,7 +498,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 106
+        "totalChances": 109
       },
       "evaluation": {
         "score": 3,
@@ -515,22 +515,22 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         },
         "summary": "Kyle McConachie gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .206",
-          "OBP .271",
-          "SLG .299"
+          "AVG .204",
+          "OBP .275",
+          "SLG .296"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".206"
+            "value": ".204"
           },
           {
             "label": "OBP",
-            "value": ".271"
+            "value": ".275"
           },
           {
             "label": "SLG",
-            "value": ".299"
+            "value": ".296"
           },
           {
             "label": "HR",
@@ -593,13 +593,13 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "3",
         "profileUrl": "https://gozips.com/sports/baseball/roster/gio-melchione/9863",
         "imageUrl": "https://gozips.com/images/2026/1/13/3_Gio_Melchione.jpg",
-        "gamesPlayed": 26,
+        "gamesPlayed": 27,
         "gamesStarted": 20,
-        "battingAverage": 0.185,
-        "onBasePercentage": 0.254,
-        "sluggingPercentage": 0.231,
-        "ops": 0.485,
-        "atBats": 65,
+        "battingAverage": 0.182,
+        "onBasePercentage": 0.25,
+        "sluggingPercentage": 0.227,
+        "ops": 0.477,
+        "atBats": 66,
         "runs": 6,
         "hits": 12,
         "doubles": 3,
@@ -616,10 +616,10 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 129,
+        "putouts": 131,
         "assists": 12,
         "errors": 2,
-        "plateAppearances": 73,
+        "plateAppearances": 74,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -631,9 +631,9 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "3",
         "profileUrl": "https://gozips.com/sports/baseball/roster/gio-melchione/9863",
         "imageUrl": "https://gozips.com/images/2026/1/13/3_Gio_Melchione.jpg",
-        "gamesPlayed": 24,
+        "gamesPlayed": 25,
         "gamesStarted": 20,
-        "putouts": 129,
+        "putouts": 131,
         "assists": 12,
         "errors": 2,
         "fieldingPercentage": 0.986,
@@ -643,7 +643,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "stolenBasesPercentage": 0.839,
         "passedBalls": 2,
         "catchersInterference": 1,
-        "totalChances": 143
+        "totalChances": 145
       },
       "evaluation": {
         "score": 0,
@@ -660,22 +660,22 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         },
         "summary": "Gio Melchione gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .185",
-          "OBP .254",
-          "SLG .231"
+          "AVG .182",
+          "OBP .250",
+          "SLG .227"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".185"
+            "value": ".182"
           },
           {
             "label": "OBP",
-            "value": ".254"
+            "value": ".250"
           },
           {
             "label": "SLG",
-            "value": ".231"
+            "value": ".227"
           },
           {
             "label": "HR",
@@ -739,32 +739,32 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "4",
         "profileUrl": "https://gozips.com/sports/baseball/roster/jeremiah-newman/9864",
         "imageUrl": "https://gozips.com/images/2026/1/13/4_Jeremiah_Newman.jpg",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 2,
-        "appearances": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 17.05,
-        "whip": 3.24,
+        "earnedRunAverage": 13.79,
+        "whip": 2.74,
         "wins": 0,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 12.666666666666666,
-        "inningsPitchedDisplay": "12.2",
-        "hitsAllowed": 13,
+        "inningsPitched": 15.666666666666666,
+        "inningsPitchedDisplay": "15.2",
+        "hitsAllowed": 15,
         "runsAllowed": 26,
         "earnedRunsAllowed": 24,
         "walksAllowed": 28,
-        "strikeouts": 12,
+        "strikeouts": 15,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 48,
+        "opponentsAtBats": 58,
         "wildPitches": 3,
         "hitBatters": 8,
         "balks": 0,
-        "opponentsBattingAverage": 0.271,
-        "walksHits": 41
+        "opponentsBattingAverage": 0.259,
+        "walksHits": 43
       },
       "fieldingStats": {
         "rosterBioId": "9864",
@@ -796,40 +796,40 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 41.148325358851686,
+          "Miss bats": 41.97292069632495,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Jeremiah Newman gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 17.05",
-          "WHIP 3.24",
-          "K/9 8.5"
+          "ERA 13.79",
+          "WHIP 2.74",
+          "K/9 8.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "17.05"
+            "value": "13.79"
           },
           {
             "label": "WHIP",
-            "value": "3.24"
+            "value": "2.74"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "8.6"
           },
           {
             "label": "BB/9",
-            "value": "19.9"
+            "value": "16.1"
           },
           {
             "label": "HR/9",
-            "value": "2.84"
+            "value": "2.30"
           },
           {
             "label": "IP",
-            "value": "12.7"
+            "value": "15.7"
           }
         ],
         "metaLine": "R-SR / R/R",
@@ -880,33 +880,33 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "5",
         "profileUrl": "https://gozips.com/sports/baseball/roster/brody-chrisman/9860",
         "imageUrl": "https://gozips.com/images/2026/1/13/5_Brody_Chrisman.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "battingAverage": 0.384,
-        "onBasePercentage": 0.495,
-        "sluggingPercentage": 0.616,
-        "ops": 1.111,
-        "atBats": 164,
-        "runs": 45,
-        "hits": 63,
-        "doubles": 11,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "battingAverage": 0.381,
+        "onBasePercentage": 0.49,
+        "sluggingPercentage": 0.613,
+        "ops": 1.103,
+        "atBats": 168,
+        "runs": 46,
+        "hits": 64,
+        "doubles": 12,
         "triples": 0,
         "homeRuns": 9,
         "runsBattedIn": 39,
-        "totalBases": 101,
+        "totalBases": 103,
         "walks": 31,
         "hitByPitch": 6,
-        "strikeouts": 22,
+        "strikeouts": 24,
         "intentionalWalks": 3,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 21,
         "stolenBasesAttempts": 25,
-        "putouts": 67,
+        "putouts": 69,
         "assists": 4,
         "errors": 0,
-        "plateAppearances": 231,
+        "plateAppearances": 235,
         "caughtStealing": 4,
         "pickedOff": 0
       },
@@ -918,9 +918,9 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "5",
         "profileUrl": "https://gozips.com/sports/baseball/roster/brody-chrisman/9860",
         "imageUrl": "https://gozips.com/images/2026/1/13/5_Brody_Chrisman.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
-        "putouts": 67,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "putouts": 69,
         "assists": 4,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -930,7 +930,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 71
+        "totalChances": 73
       },
       "evaluation": {
         "score": 91,
@@ -940,29 +940,29 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         },
         "components": {
           "On-base": 100,
-          "Power": 77.89473684210527,
+          "Power": 77.10526315789474,
           "Contact": 100,
           "Discipline": 100,
           "Speed": 70
         },
         "summary": "Brody Chrisman profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .384",
-          "OBP .495",
-          "SLG .616"
+          "AVG .381",
+          "OBP .490",
+          "SLG .613"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".384"
+            "value": ".381"
           },
           {
             "label": "OBP",
-            "value": ".495"
+            "value": ".490"
           },
           {
             "label": "SLG",
-            "value": ".616"
+            "value": ".613"
           },
           {
             "label": "HR",
@@ -1025,25 +1025,25 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "6",
         "profileUrl": "https://gozips.com/sports/baseball/roster/kelton-phillips/9865",
         "imageUrl": "https://gozips.com/images/2026/1/13/6_Kelton_Philips.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "battingAverage": 0.328,
-        "onBasePercentage": 0.404,
-        "sluggingPercentage": 0.406,
-        "ops": 0.81,
-        "atBats": 128,
-        "runs": 24,
-        "hits": 42,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "battingAverage": 0.323,
+        "onBasePercentage": 0.397,
+        "sluggingPercentage": 0.398,
+        "ops": 0.795,
+        "atBats": 133,
+        "runs": 25,
+        "hits": 43,
         "doubles": 5,
         "triples": 1,
         "homeRuns": 1,
         "runsBattedIn": 23,
-        "totalBases": 52,
+        "totalBases": 53,
         "walks": 15,
         "hitByPitch": 2,
-        "strikeouts": 25,
+        "strikeouts": 26,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
+        "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
         "sacrificeHits": 3,
         "stolenBases": 15,
@@ -1051,7 +1051,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "putouts": 77,
         "assists": 1,
         "errors": 0,
-        "plateAppearances": 174,
+        "plateAppearances": 179,
         "caughtStealing": 5,
         "pickedOff": 1
       },
@@ -1078,36 +1078,36 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "totalChances": 78
       },
       "evaluation": {
-        "score": 51,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 68.88888888888889,
-          "Power": 22.631578947368432,
-          "Contact": 67.5,
-          "Discipline": 44.444444444444436,
+          "On-base": 65,
+          "Power": 20.52631578947369,
+          "Contact": 64.375,
+          "Discipline": 41.88034188034187,
           "Speed": 50
         },
-        "summary": "Kelton Phillips profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Kelton Phillips profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .404",
-          "SLG .406"
+          "AVG .323",
+          "OBP .397",
+          "SLG .398"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": ".323"
           },
           {
             "label": "OBP",
-            "value": ".404"
+            "value": ".397"
           },
           {
             "label": "SLG",
-            "value": ".406"
+            "value": ".398"
           },
           {
             "label": "HR",
@@ -1170,13 +1170,13 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "7",
         "profileUrl": "https://gozips.com/sports/baseball/roster/derek-occhipinti/9855",
         "imageUrl": "https://gozips.com/images/2026/1/13/7_Derek_Occhipinti.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 1,
-        "battingAverage": 0.091,
-        "onBasePercentage": 0.286,
-        "sluggingPercentage": 0.182,
-        "ops": 0.468,
-        "atBats": 11,
+        "battingAverage": 0.083,
+        "onBasePercentage": 0.267,
+        "sluggingPercentage": 0.167,
+        "ops": 0.434,
+        "atBats": 12,
         "runs": 0,
         "hits": 1,
         "doubles": 1,
@@ -1186,7 +1186,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "totalBases": 2,
         "walks": 2,
         "hitByPitch": 1,
-        "strikeouts": 6,
+        "strikeouts": 7,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -1196,7 +1196,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "putouts": 4,
         "assists": 3,
         "errors": 0,
-        "plateAppearances": 14,
+        "plateAppearances": 15,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1223,36 +1223,36 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "totalChances": 7
       },
       "evaluation": {
-        "score": 3,
+        "score": 1,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 3.3333333333333055,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 14.814814814814808,
+          "Discipline": 9.523809523809518,
           "Speed": 0
         },
         "summary": "Derek Occhipinti gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .091",
-          "OBP .286",
-          "SLG .182"
+          "AVG .083",
+          "OBP .267",
+          "SLG .167"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".091"
+            "value": ".083"
           },
           {
             "label": "OBP",
-            "value": ".286"
+            "value": ".267"
           },
           {
             "label": "SLG",
-            "value": ".182"
+            "value": ".167"
           },
           {
             "label": "HR",
@@ -1316,32 +1316,32 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "8",
         "profileUrl": "https://gozips.com/sports/baseball/roster/nathan-currah/9848",
         "imageUrl": "https://gozips.com/images/2026/1/13/8_Nathan_Currah.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 0,
-        "appearances": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 9.95,
+        "earnedRunAverage": 9.88,
         "whip": 2.05,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 12.666666666666666,
-        "inningsPitchedDisplay": "12.2",
+        "inningsPitched": 13.666666666666666,
+        "inningsPitchedDisplay": "13.2",
         "hitsAllowed": 12,
-        "runsAllowed": 14,
-        "earnedRunsAllowed": 14,
-        "walksAllowed": 14,
-        "strikeouts": 6,
+        "runsAllowed": 15,
+        "earnedRunsAllowed": 15,
+        "walksAllowed": 16,
+        "strikeouts": 7,
         "doublesAllowed": 2,
         "triplesAllowed": 1,
         "homeRunsAllowed": 6,
-        "opponentsAtBats": 45,
+        "opponentsAtBats": 48,
         "wildPitches": 1,
-        "hitBatters": 1,
+        "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.267,
-        "walksHits": 26
+        "opponentsBattingAverage": 0.25,
+        "walksHits": 28
       },
       "fieldingStats": {
         "rosterBioId": "9848",
@@ -1365,7 +1365,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 0,
+        "score": 1,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1373,20 +1373,20 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 2.392344497607659,
+          "Miss bats": 5.543237250554329,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Nathan Currah gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.95",
+          "ERA 9.88",
           "WHIP 2.05",
-          "K/9 4.3"
+          "K/9 4.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.95"
+            "value": "9.88"
           },
           {
             "label": "WHIP",
@@ -1394,19 +1394,19 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           },
           {
             "label": "K/9",
-            "value": "4.3"
+            "value": "4.6"
           },
           {
             "label": "BB/9",
-            "value": "9.9"
+            "value": "10.5"
           },
           {
             "label": "HR/9",
-            "value": "4.26"
+            "value": "3.95"
           },
           {
             "label": "IP",
-            "value": "12.7"
+            "value": "13.7"
           }
         ],
         "metaLine": "SO / L/L",
@@ -1775,22 +1775,22 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "12",
         "profileUrl": "https://gozips.com/sports/baseball/roster/tucker-biehl/9868",
         "imageUrl": "https://gozips.com/images/2026/1/13/12_Tucker_Biehl.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 37,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.407,
-        "sluggingPercentage": 0.302,
-        "ops": 0.709,
-        "atBats": 116,
+        "gamesPlayed": 41,
+        "gamesStarted": 38,
+        "battingAverage": 0.256,
+        "onBasePercentage": 0.414,
+        "sluggingPercentage": 0.308,
+        "ops": 0.722,
+        "atBats": 117,
         "runs": 29,
-        "hits": 29,
+        "hits": 30,
         "doubles": 4,
         "triples": 1,
         "homeRuns": 0,
         "runsBattedIn": 9,
-        "totalBases": 35,
+        "totalBases": 36,
         "walks": 24,
-        "hitByPitch": 8,
+        "hitByPitch": 9,
         "strikeouts": 23,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
@@ -1798,10 +1798,10 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "sacrificeHits": 11,
         "stolenBases": 14,
         "stolenBasesAttempts": 18,
-        "putouts": 60,
-        "assists": 118,
+        "putouts": 63,
+        "assists": 119,
         "errors": 15,
-        "plateAppearances": 183,
+        "plateAppearances": 185,
         "caughtStealing": 4,
         "pickedOff": 4
       },
@@ -1813,51 +1813,51 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "12",
         "profileUrl": "https://gozips.com/sports/baseball/roster/tucker-biehl/9868",
         "imageUrl": "https://gozips.com/images/2026/1/13/12_Tucker_Biehl.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 36,
-        "putouts": 60,
-        "assists": 118,
+        "gamesPlayed": 39,
+        "gamesStarted": 37,
+        "putouts": 63,
+        "assists": 119,
         "errors": 15,
-        "fieldingPercentage": 0.922,
-        "doublePlays": 19,
+        "fieldingPercentage": 0.924,
+        "doublePlays": 20,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 193
+        "totalChances": 197
       },
       "evaluation": {
-        "score": 44,
+        "score": 46,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 70.55555555555553,
+          "On-base": 74.44444444444443,
           "Power": 0,
-          "Contact": 18.75,
+          "Contact": 22.500000000000004,
           "Discipline": 93.719806763285,
           "Speed": 46.666666666666664
         },
         "summary": "Tucker Biehl profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .407",
-          "SLG .302"
+          "AVG .256",
+          "OBP .414",
+          "SLG .308"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".256"
           },
           {
             "label": "OBP",
-            "value": ".407"
+            "value": ".414"
           },
           {
             "label": "SLG",
-            "value": ".302"
+            "value": ".308"
           },
           {
             "label": "HR",
@@ -1920,13 +1920,13 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "13",
         "profileUrl": "https://gozips.com/sports/baseball/roster/ryan-jones/9869",
         "imageUrl": "https://gozips.com/images/2026/1/13/13_Ryan_Jones.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 6,
-        "battingAverage": 0.2,
-        "onBasePercentage": 0.5,
-        "sluggingPercentage": 0.2,
-        "ops": 0.7,
-        "atBats": 15,
+        "battingAverage": 0.188,
+        "onBasePercentage": 0.48,
+        "sluggingPercentage": 0.188,
+        "ops": 0.668,
+        "atBats": 16,
         "runs": 3,
         "hits": 3,
         "doubles": 0,
@@ -1936,7 +1936,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "totalBases": 3,
         "walks": 7,
         "hitByPitch": 2,
-        "strikeouts": 5,
+        "strikeouts": 6,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -1946,7 +1946,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "putouts": 45,
         "assists": 4,
         "errors": 1,
-        "plateAppearances": 24,
+        "plateAppearances": 25,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1987,22 +1987,22 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         },
         "summary": "Ryan Jones profiles as a C piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .200",
-          "OBP .500",
-          "SLG .200"
+          "AVG .188",
+          "OBP .480",
+          "SLG .188"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".200"
+            "value": ".188"
           },
           {
             "label": "OBP",
-            "value": ".500"
+            "value": ".480"
           },
           {
             "label": "SLG",
-            "value": ".200"
+            "value": ".188"
           },
           {
             "label": "HR",
@@ -2066,32 +2066,32 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "15",
         "profileUrl": "https://gozips.com/sports/baseball/roster/john-allen/9845",
         "imageUrl": "https://gozips.com/images/2026/1/13/15_John_Allen.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 2,
-        "appearances": 16,
+        "gamesPlayed": 17,
+        "gamesStarted": 3,
+        "appearances": 17,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.42,
-        "whip": 1.8,
+        "earnedRunAverage": 9.33,
+        "whip": 2,
         "wins": 1,
-        "losses": 3,
+        "losses": 4,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 26.666666666666668,
-        "inningsPitchedDisplay": "26.2",
-        "hitsAllowed": 34,
-        "runsAllowed": 26,
-        "earnedRunsAllowed": 22,
-        "walksAllowed": 14,
-        "strikeouts": 22,
-        "doublesAllowed": 7,
+        "inningsPitched": 27,
+        "inningsPitchedDisplay": "27.0",
+        "hitsAllowed": 39,
+        "runsAllowed": 32,
+        "earnedRunsAllowed": 28,
+        "walksAllowed": 15,
+        "strikeouts": 23,
+        "doublesAllowed": 8,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 8,
-        "opponentsAtBats": 113,
+        "homeRunsAllowed": 10,
+        "opponentsAtBats": 119,
         "wildPitches": 1,
         "hitBatters": 10,
         "balks": 0,
-        "opponentsBattingAverage": 0.301,
-        "walksHits": 48
+        "opponentsBattingAverage": 0.328,
+        "walksHits": 54
       },
       "fieldingStats": {
         "rosterBioId": "9845",
@@ -2123,40 +2123,40 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 31.136363636363633,
-          "Command": 11.428571428571432,
+          "Miss bats": 33.333333333333336,
+          "Command": 10.666666666666668,
           "Damage suppression": 0
         },
         "summary": "John Allen gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.42",
-          "WHIP 1.80",
-          "K/9 7.4"
+          "ERA 9.33",
+          "WHIP 2.00",
+          "K/9 7.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.42"
+            "value": "9.33"
           },
           {
             "label": "WHIP",
-            "value": "1.80"
+            "value": "2.00"
           },
           {
             "label": "K/9",
-            "value": "7.4"
+            "value": "7.7"
           },
           {
             "label": "BB/9",
-            "value": "4.7"
+            "value": "5.0"
           },
           {
             "label": "HR/9",
-            "value": "2.70"
+            "value": "3.33"
           },
           {
             "label": "IP",
-            "value": "26.7"
+            "value": "27.0"
           }
         ],
         "metaLine": "R-JR / L/L",
@@ -2776,32 +2776,32 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "20",
         "profileUrl": "https://gozips.com/sports/baseball/roster/garrett-groce/9875",
         "imageUrl": "https://gozips.com/images/2026/1/13/20_Garrett_Groce.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 0,
-        "appearances": 12,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 12.66,
-        "whip": 2.72,
+        "earnedRunAverage": 11.68,
+        "whip": 2.76,
         "wins": 0,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 10.666666666666666,
-        "inningsPitchedDisplay": "10.2",
-        "hitsAllowed": 12,
-        "runsAllowed": 17,
-        "earnedRunsAllowed": 15,
-        "walksAllowed": 17,
+        "inningsPitched": 12.333333333333334,
+        "inningsPitchedDisplay": "12.1",
+        "hitsAllowed": 14,
+        "runsAllowed": 18,
+        "earnedRunsAllowed": 16,
+        "walksAllowed": 20,
         "strikeouts": 9,
-        "doublesAllowed": 4,
+        "doublesAllowed": 5,
         "triplesAllowed": 1,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 42,
-        "wildPitches": 2,
-        "hitBatters": 4,
+        "opponentsAtBats": 48,
+        "wildPitches": 3,
+        "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.286,
-        "walksHits": 29
+        "opponentsBattingAverage": 0.292,
+        "walksHits": 34
       },
       "fieldingStats": {
         "rosterBioId": "9875",
@@ -2810,22 +2810,22 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "20",
         "profileUrl": "https://gozips.com/sports/baseball/roster/garrett-groce/9875",
         "imageUrl": "https://gozips.com/images/2026/1/13/20_Garrett_Groce.jpg",
-        "gamesPlayed": 6,
+        "gamesPlayed": 7,
         "gamesStarted": 0,
         "putouts": 1,
         "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 5,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesAgainst": 6,
+        "caughtStealingBy": 1,
+        "stolenBasesPercentage": 0.857,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
       },
       "evaluation": {
-        "score": 7,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2833,40 +2833,40 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 32.67045454545455,
+          "Miss bats": 23.34152334152334,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Garrett Groce gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 12.66",
-          "WHIP 2.72",
-          "K/9 7.6"
+          "ERA 11.68",
+          "WHIP 2.76",
+          "K/9 6.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "12.66"
+            "value": "11.68"
           },
           {
             "label": "WHIP",
-            "value": "2.72"
+            "value": "2.76"
           },
           {
             "label": "K/9",
-            "value": "7.6"
+            "value": "6.6"
           },
           {
             "label": "BB/9",
-            "value": "14.3"
+            "value": "14.6"
           },
           {
             "label": "HR/9",
-            "value": "2.53"
+            "value": "2.19"
           },
           {
             "label": "IP",
-            "value": "10.7"
+            "value": "12.3"
           }
         ],
         "metaLine": "FR / R/R",
@@ -2886,7 +2886,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "schoolLongName": "University of Akron",
       "name": "Brennan Morgan",
       "normalizedName": "brennan morgan",
-      "compositeRole": "Pitcher",
+      "compositeRole": "Two-Way",
       "role": "Pitcher",
       "position": "INF/RHP",
       "positionLong": "",
@@ -2917,7 +2917,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "21",
         "profileUrl": "https://gozips.com/sports/baseball/roster/brennan-morgan/9859",
         "imageUrl": "https://gozips.com/images/2026/1/13/21_Brennan_Morgan.jpg",
-        "gamesPlayed": 40,
+        "gamesPlayed": 41,
         "gamesStarted": 39,
         "battingAverage": 0.282,
         "onBasePercentage": 0.446,
@@ -2947,7 +2947,40 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "caughtStealing": 2,
         "pickedOff": 0
       },
-      "pitchingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "9859",
+        "name": "Brennan Morgan",
+        "normalizedName": "brennan morgan",
+        "jersey": "21",
+        "profileUrl": "https://gozips.com/sports/baseball/roster/brennan-morgan/9859",
+        "imageUrl": "https://gozips.com/images/2026/1/13/21_Brennan_Morgan.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "appearances": 1,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 27,
+        "whip": 3,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 1,
+        "inningsPitchedDisplay": "1.0",
+        "hitsAllowed": 3,
+        "runsAllowed": 3,
+        "earnedRunsAllowed": 3,
+        "walksAllowed": 0,
+        "strikeouts": 1,
+        "doublesAllowed": 1,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 6,
+        "wildPitches": 0,
+        "hitBatters": 0,
+        "balks": 0,
+        "opponentsBattingAverage": 0.5,
+        "walksHits": 3
+      },
       "fieldingStats": {
         "rosterBioId": "9859",
         "name": "Brennan Morgan",
@@ -2970,7 +3003,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "totalChances": 77
       },
       "evaluation": {
-        "score": 0,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2978,28 +3011,28 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
+          "Miss bats": 45.45454545454545,
+          "Command": 100,
           "Damage suppression": 0
         },
-        "summary": "Brennan Morgan looks like a INF/RHP option who throws enough strikes.",
+        "summary": "Brennan Morgan looks like a INF/RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
+          "ERA 27.00",
+          "WHIP 3.00",
+          "K/9 9.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "--"
+            "value": "27.00"
           },
           {
             "label": "WHIP",
-            "value": "--"
+            "value": "3.00"
           },
           {
             "label": "K/9",
-            "value": "0.0"
+            "value": "9.0"
           },
           {
             "label": "BB/9",
@@ -3007,11 +3040,11 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "9.00"
           },
           {
             "label": "IP",
-            "value": "0.0"
+            "value": "1.0"
           }
         ],
         "metaLine": "R-JR / R/R",
@@ -3019,7 +3052,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "INF/RHP",
           "R-JR",
           "R/R",
-          "Pitcher"
+          "Two-Way"
         ],
         "sourceSummary": "Akron Athletics roster + Akron cumulative stats"
       }
@@ -3204,33 +3237,33 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "23",
         "profileUrl": "https://gozips.com/sports/baseball/roster/easton-amundson/9861",
         "imageUrl": "https://gozips.com/images/2026/1/13/23_Easton_Amundson.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 32,
-        "battingAverage": 0.265,
-        "onBasePercentage": 0.385,
-        "sluggingPercentage": 0.607,
-        "ops": 0.992,
-        "atBats": 117,
-        "runs": 27,
-        "hits": 31,
+        "gamesPlayed": 34,
+        "gamesStarted": 33,
+        "battingAverage": 0.264,
+        "onBasePercentage": 0.381,
+        "sluggingPercentage": 0.62,
+        "ops": 1.001,
+        "atBats": 121,
+        "runs": 28,
+        "hits": 32,
         "doubles": 6,
         "triples": 2,
-        "homeRuns": 10,
-        "runsBattedIn": 38,
-        "totalBases": 71,
+        "homeRuns": 11,
+        "runsBattedIn": 41,
+        "totalBases": 75,
         "walks": 18,
         "hitByPitch": 6,
-        "strikeouts": 40,
+        "strikeouts": 41,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 5,
         "stolenBasesAttempts": 5,
-        "putouts": 128,
+        "putouts": 135,
         "assists": 7,
         "errors": 3,
-        "plateAppearances": 148,
+        "plateAppearances": 152,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3242,19 +3275,19 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "23",
         "profileUrl": "https://gozips.com/sports/baseball/roster/easton-amundson/9861",
         "imageUrl": "https://gozips.com/images/2026/1/13/23_Easton_Amundson.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 17,
-        "putouts": 128,
+        "gamesPlayed": 18,
+        "gamesStarted": 18,
+        "putouts": 135,
         "assists": 7,
         "errors": 3,
-        "fieldingPercentage": 0.978,
-        "doublePlays": 15,
+        "fieldingPercentage": 0.979,
+        "doublePlays": 16,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 138
+        "totalChances": 145
       },
       "evaluation": {
         "score": 49,
@@ -3263,38 +3296,38 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 58.33333333333333,
-          "Power": 75.52631578947368,
-          "Contact": 28.125000000000007,
-          "Discipline": 27.777777777777775,
+          "On-base": 56.1111111111111,
+          "Power": 78.94736842105264,
+          "Contact": 27.500000000000007,
+          "Discipline": 26.55826558265582,
           "Speed": 16.666666666666664
         },
         "summary": "Easton Amundson profiles as a INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .265",
-          "OBP .385",
-          "SLG .607"
+          "AVG .264",
+          "OBP .381",
+          "SLG .620"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".265"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".385"
+            "value": ".381"
           },
           {
             "label": "SLG",
-            "value": ".607"
+            "value": ".620"
           },
           {
             "label": "HR",
-            "value": "10"
+            "value": "11"
           },
           {
             "label": "RBI",
-            "value": "38"
+            "value": "41"
           },
           {
             "label": "SB",
@@ -3349,13 +3382,13 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "24",
         "profileUrl": "https://gozips.com/sports/baseball/roster/prince-deboskie/9874",
         "imageUrl": "https://gozips.com/images/2026/1/13/24_Prince_DeBoskie.jpg",
-        "gamesPlayed": 23,
-        "gamesStarted": 14,
-        "battingAverage": 0.4,
-        "onBasePercentage": 0.458,
-        "sluggingPercentage": 0.6,
-        "ops": 1.058,
-        "atBats": 65,
+        "gamesPlayed": 24,
+        "gamesStarted": 15,
+        "battingAverage": 0.388,
+        "onBasePercentage": 0.446,
+        "sluggingPercentage": 0.582,
+        "ops": 1.028,
+        "atBats": 67,
         "runs": 15,
         "hits": 26,
         "doubles": 5,
@@ -3365,7 +3398,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "totalBases": 39,
         "walks": 2,
         "hitByPitch": 5,
-        "strikeouts": 15,
+        "strikeouts": 17,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
@@ -3375,7 +3408,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "putouts": 22,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 84,
+        "plateAppearances": 86,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3402,36 +3435,36 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "totalChances": 22
       },
       "evaluation": {
-        "score": 73,
+        "score": 69,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 98.88888888888889,
-          "Power": 73.6842105263158,
+          "On-base": 92.22222222222221,
+          "Power": 68.94736842105263,
           "Contact": 100,
           "Discipline": 0,
           "Speed": 40
         },
         "summary": "Prince DeBoskie profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .400",
-          "OBP .458",
-          "SLG .600"
+          "AVG .388",
+          "OBP .446",
+          "SLG .582"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".400"
+            "value": ".388"
           },
           {
             "label": "OBP",
-            "value": ".458"
+            "value": ".446"
           },
           {
             "label": "SLG",
-            "value": ".600"
+            "value": ".582"
           },
           {
             "label": "HR",
@@ -3636,20 +3669,20 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "26",
         "profileUrl": "https://gozips.com/sports/baseball/roster/mitchel-szymczak/9866",
         "imageUrl": "https://gozips.com/images/2026/1/13/26_Mitchel_Szmczak.jpg",
-        "gamesPlayed": 20,
-        "gamesStarted": 16,
-        "battingAverage": 0.241,
-        "onBasePercentage": 0.357,
-        "sluggingPercentage": 0.414,
-        "ops": 0.771,
-        "atBats": 58,
+        "gamesPlayed": 21,
+        "gamesStarted": 17,
+        "battingAverage": 0.262,
+        "onBasePercentage": 0.37,
+        "sluggingPercentage": 0.426,
+        "ops": 0.796,
+        "atBats": 61,
         "runs": 16,
-        "hits": 14,
+        "hits": 16,
         "doubles": 4,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 10,
-        "totalBases": 24,
+        "totalBases": 26,
         "walks": 7,
         "hitByPitch": 4,
         "strikeouts": 14,
@@ -3659,10 +3692,10 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 107,
-        "assists": 8,
+        "putouts": 113,
+        "assists": 9,
         "errors": 1,
-        "plateAppearances": 71,
+        "plateAppearances": 74,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3674,51 +3707,51 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "26",
         "profileUrl": "https://gozips.com/sports/baseball/roster/mitchel-szymczak/9866",
         "imageUrl": "https://gozips.com/images/2026/1/13/26_Mitchel_Szmczak.jpg",
-        "gamesPlayed": 20,
-        "gamesStarted": 16,
-        "putouts": 107,
-        "assists": 8,
+        "gamesPlayed": 21,
+        "gamesStarted": 17,
+        "putouts": 113,
+        "assists": 9,
         "errors": 1,
-        "fieldingPercentage": 0.991,
+        "fieldingPercentage": 0.992,
         "doublePlays": 0,
-        "stolenBasesAgainst": 19,
-        "caughtStealingBy": 5,
-        "stolenBasesPercentage": 0.792,
+        "stolenBasesAgainst": 20,
+        "caughtStealingBy": 6,
+        "stolenBasesPercentage": 0.769,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 116
+        "totalChances": 123
       },
       "evaluation": {
-        "score": 27,
+        "score": 33,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 42.77777777777775,
-          "Power": 24.736842105263154,
-          "Contact": 13.124999999999995,
+          "On-base": 49.999999999999986,
+          "Power": 27.89473684210526,
+          "Contact": 26.250000000000007,
           "Discipline": 33.33333333333333,
           "Speed": 3.3333333333333335
         },
         "summary": "Mitchel Szymczak gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .241",
-          "OBP .357",
-          "SLG .414"
+          "AVG .262",
+          "OBP .370",
+          "SLG .426"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".241"
+            "value": ".262"
           },
           {
             "label": "OBP",
-            "value": ".357"
+            "value": ".370"
           },
           {
             "label": "SLG",
-            "value": ".414"
+            "value": ".426"
           },
           {
             "label": "HR",
@@ -3781,23 +3814,23 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "27",
         "profileUrl": "https://gozips.com/sports/baseball/roster/blake-bowen/9847",
         "imageUrl": "https://gozips.com/images/2026/1/13/27_Blake_Bowen.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "battingAverage": 0.297,
-        "onBasePercentage": 0.503,
-        "sluggingPercentage": 0.464,
-        "ops": 0.967,
-        "atBats": 138,
-        "runs": 34,
-        "hits": 41,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "battingAverage": 0.298,
+        "onBasePercentage": 0.502,
+        "sluggingPercentage": 0.461,
+        "ops": 0.963,
+        "atBats": 141,
+        "runs": 35,
+        "hits": 42,
         "doubles": 11,
         "triples": 0,
         "homeRuns": 4,
         "runsBattedIn": 22,
-        "totalBases": 64,
-        "walks": 50,
+        "totalBases": 65,
+        "walks": 51,
         "hitByPitch": 8,
-        "strikeouts": 37,
+        "strikeouts": 38,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
@@ -3805,9 +3838,9 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 9,
         "putouts": 218,
-        "assists": 7,
+        "assists": 11,
         "errors": 1,
-        "plateAppearances": 206,
+        "plateAppearances": 210,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3819,10 +3852,10 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "27",
         "profileUrl": "https://gozips.com/sports/baseball/roster/blake-bowen/9847",
         "imageUrl": "https://gozips.com/images/2026/1/13/27_Blake_Bowen.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 26,
+        "gamesPlayed": 27,
+        "gamesStarted": 27,
         "putouts": 218,
-        "assists": 7,
+        "assists": 11,
         "errors": 1,
         "fieldingPercentage": 0.996,
         "doublePlays": 13,
@@ -3831,39 +3864,39 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 226
+        "totalChances": 230
       },
       "evaluation": {
-        "score": 68,
+        "score": 67,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
           "On-base": 100,
-          "Power": 37.89473684210527,
-          "Contact": 48.12499999999999,
+          "Power": 37.10526315789475,
+          "Contact": 48.749999999999986,
           "Discipline": 100,
           "Speed": 30
         },
         "summary": "Blake Bowen profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .297",
-          "OBP .503",
-          "SLG .464"
+          "AVG .298",
+          "OBP .502",
+          "SLG .461"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".297"
+            "value": ".298"
           },
           {
             "label": "OBP",
-            "value": ".503"
+            "value": ".502"
           },
           {
             "label": "SLG",
-            "value": ".464"
+            "value": ".461"
           },
           {
             "label": "HR",
@@ -3926,23 +3959,23 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "29",
         "profileUrl": "https://gozips.com/sports/baseball/roster/brady-bowen/9873",
         "imageUrl": "https://gozips.com/images/2026/1/13/29_Brady_Bowen.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 17,
-        "battingAverage": 0.442,
-        "onBasePercentage": 0.538,
-        "sluggingPercentage": 0.712,
-        "ops": 1.25,
-        "atBats": 52,
+        "gamesPlayed": 29,
+        "gamesStarted": 18,
+        "battingAverage": 0.444,
+        "onBasePercentage": 0.544,
+        "sluggingPercentage": 0.704,
+        "ops": 1.248,
+        "atBats": 54,
         "runs": 13,
-        "hits": 23,
+        "hits": 24,
         "doubles": 5,
         "triples": 0,
         "homeRuns": 3,
         "runsBattedIn": 15,
-        "totalBases": 37,
-        "walks": 10,
+        "totalBases": 38,
+        "walks": 11,
         "hitByPitch": 2,
-        "strikeouts": 5,
+        "strikeouts": 6,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
@@ -3952,7 +3985,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "putouts": 22,
         "assists": 33,
         "errors": 3,
-        "plateAppearances": 77,
+        "plateAppearances": 80,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -4026,22 +4059,22 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         },
         "summary": "Brady Bowen profiles as a UTL piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .442",
-          "OBP .538",
-          "SLG .712"
+          "AVG .444",
+          "OBP .544",
+          "SLG .704"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".442"
+            "value": ".444"
           },
           {
             "label": "OBP",
-            "value": ".538"
+            "value": ".544"
           },
           {
             "label": "SLG",
-            "value": ".712"
+            "value": ".704"
           },
           {
             "label": "HR",
@@ -4104,13 +4137,13 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "30",
         "profileUrl": "https://gozips.com/sports/baseball/roster/gabe-mathison/9876",
         "imageUrl": "https://gozips.com/images/2026/1/13/30_Gabe_Mathison.jpg",
-        "gamesPlayed": 30,
+        "gamesPlayed": 31,
         "gamesStarted": 17,
-        "battingAverage": 0.268,
-        "onBasePercentage": 0.447,
-        "sluggingPercentage": 0.31,
-        "ops": 0.757,
-        "atBats": 71,
+        "battingAverage": 0.264,
+        "onBasePercentage": 0.448,
+        "sluggingPercentage": 0.306,
+        "ops": 0.754,
+        "atBats": 72,
         "runs": 16,
         "hits": 19,
         "doubles": 3,
@@ -4119,8 +4152,8 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "runsBattedIn": 14,
         "totalBases": 22,
         "walks": 14,
-        "hitByPitch": 9,
-        "strikeouts": 19,
+        "hitByPitch": 10,
+        "strikeouts": 20,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -4130,7 +4163,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "putouts": 25,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 113,
+        "plateAppearances": 115,
         "caughtStealing": 4,
         "pickedOff": 1
       },
@@ -4163,30 +4196,30 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 92.77777777777777,
+          "On-base": 93.33333333333333,
           "Power": 0,
-          "Contact": 30.00000000000001,
-          "Discipline": 59.64912280701752,
+          "Contact": 27.500000000000007,
+          "Discipline": 55.555555555555536,
           "Speed": 30
         },
         "summary": "Gabe Mathison profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .268",
-          "OBP .447",
-          "SLG .310"
+          "AVG .264",
+          "OBP .448",
+          "SLG .306"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".268"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".447"
+            "value": ".448"
           },
           {
             "label": "SLG",
-            "value": ".310"
+            "value": ".306"
           },
           {
             "label": "HR",
@@ -4249,12 +4282,12 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "31",
         "profileUrl": "https://gozips.com/sports/baseball/roster/atticus-huffstutler/9870",
         "imageUrl": "https://gozips.com/images/2026/1/13/31_Atticus_Huffstutler.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 3,
         "battingAverage": 0.217,
-        "onBasePercentage": 0.25,
+        "onBasePercentage": 0.28,
         "sluggingPercentage": 0.391,
-        "ops": 0.641,
+        "ops": 0.671,
         "atBats": 23,
         "runs": 2,
         "hits": 5,
@@ -4263,7 +4296,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "homeRuns": 1,
         "runsBattedIn": 5,
         "totalBases": 9,
-        "walks": 1,
+        "walks": 2,
         "hitByPitch": 0,
         "strikeouts": 3,
         "intentionalWalks": 0,
@@ -4275,7 +4308,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "putouts": 27,
         "assists": 2,
         "errors": 1,
-        "plateAppearances": 24,
+        "plateAppearances": 25,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4302,7 +4335,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "totalChances": 30
       },
       "evaluation": {
-        "score": 7,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4311,13 +4344,13 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "On-base": 0,
           "Power": 18.684210526315795,
           "Contact": 0,
-          "Discipline": 14.814814814814808,
+          "Discipline": 51.85185185185184,
           "Speed": 0
         },
         "summary": "Atticus Huffstutler gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .217",
-          "OBP .250",
+          "OBP .280",
           "SLG .391"
         ],
         "statCards": [
@@ -4327,7 +4360,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           },
           {
             "label": "OBP",
-            "value": ".250"
+            "value": ".280"
           },
           {
             "label": "SLG",
@@ -4679,31 +4712,31 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "36",
         "profileUrl": "https://gozips.com/sports/baseball/roster/trieg-matthews/9899",
         "imageUrl": "https://gozips.com/images/2026/1/13/36_Trieg_Matthews.jpg",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 2,
-        "appearances": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.17,
-        "whip": 1.42,
+        "earnedRunAverage": 4.06,
+        "whip": 1.38,
         "wins": 3,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 36.666666666666664,
-        "inningsPitchedDisplay": "36.2",
+        "inningsPitched": 37.666666666666664,
+        "inningsPitchedDisplay": "37.2",
         "hitsAllowed": 23,
         "runsAllowed": 24,
         "earnedRunsAllowed": 17,
         "walksAllowed": 29,
-        "strikeouts": 30,
+        "strikeouts": 32,
         "doublesAllowed": 7,
         "triplesAllowed": 2,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 129,
+        "opponentsAtBats": 132,
         "wildPitches": 2,
         "hitBatters": 6,
         "balks": 0,
-        "opponentsBattingAverage": 0.178,
+        "opponentsBattingAverage": 0.174,
         "walksHits": 52
       },
       "fieldingStats": {
@@ -4728,7 +4761,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "totalChances": 7
       },
       "evaluation": {
-        "score": 6,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4736,40 +4769,40 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 30.57851239669422,
-          "Command": 0.68965517241379,
+          "Miss bats": 33.1456154465004,
+          "Command": 2.068965517241379,
           "Damage suppression": 0
         },
         "summary": "Trieg Matthews gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.17",
-          "WHIP 1.42",
-          "K/9 7.4"
+          "ERA 4.06",
+          "WHIP 1.38",
+          "K/9 7.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.17"
+            "value": "4.06"
           },
           {
             "label": "WHIP",
-            "value": "1.42"
+            "value": "1.38"
           },
           {
             "label": "K/9",
-            "value": "7.4"
+            "value": "7.6"
           },
           {
             "label": "BB/9",
-            "value": "7.1"
+            "value": "6.9"
           },
           {
             "label": "HR/9",
-            "value": "0.49"
+            "value": "0.48"
           },
           {
             "label": "IP",
-            "value": "36.7"
+            "value": "37.7"
           }
         ],
         "metaLine": "FR / L/L",
@@ -4908,13 +4941,13 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "40",
         "profileUrl": "https://gozips.com/sports/baseball/roster/henry-hayman/9871",
         "imageUrl": "https://gozips.com/images/2026/1/13/40_Henry_Hayman.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 28,
-        "battingAverage": 0.255,
-        "onBasePercentage": 0.328,
-        "sluggingPercentage": 0.415,
-        "ops": 0.743,
-        "atBats": 106,
+        "gamesPlayed": 33,
+        "gamesStarted": 29,
+        "battingAverage": 0.25,
+        "onBasePercentage": 0.333,
+        "sluggingPercentage": 0.407,
+        "ops": 0.74,
+        "atBats": 108,
         "runs": 19,
         "hits": 27,
         "doubles": 8,
@@ -4923,18 +4956,18 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "runsBattedIn": 17,
         "totalBases": 44,
         "walks": 8,
-        "hitByPitch": 4,
-        "strikeouts": 25,
+        "hitByPitch": 6,
+        "strikeouts": 26,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 48,
-        "assists": 41,
+        "putouts": 50,
+        "assists": 42,
         "errors": 7,
-        "plateAppearances": 120,
+        "plateAppearances": 124,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4946,51 +4979,51 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "jersey": "40",
         "profileUrl": "https://gozips.com/sports/baseball/roster/henry-hayman/9871",
         "imageUrl": "https://gozips.com/images/2026/1/13/40_Henry_Hayman.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 25,
-        "putouts": 48,
-        "assists": 41,
+        "gamesPlayed": 28,
+        "gamesStarted": 26,
+        "putouts": 50,
+        "assists": 42,
         "errors": 7,
-        "fieldingPercentage": 0.927,
+        "fieldingPercentage": 0.929,
         "doublePlays": 10,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 96
+        "totalChances": 99
       },
       "evaluation": {
-        "score": 21,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 26.66666666666666,
-          "Power": 24.999999999999996,
-          "Contact": 21.875000000000004,
-          "Discipline": 13.33333333333333,
+          "On-base": 29.44444444444444,
+          "Power": 22.894736842105257,
+          "Contact": 18.75,
+          "Discipline": 11.965811965811964,
           "Speed": 0
         },
         "summary": "Henry Hayman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .255",
-          "OBP .328",
-          "SLG .415"
+          "AVG .250",
+          "OBP .333",
+          "SLG .407"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".255"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".328"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".415"
+            "value": ".407"
           },
           {
             "label": "HR",
@@ -5247,29 +5280,29 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 46,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Austin Lafferty profiles as a OF piece who gets on base at a high clip.",
+        "summary": "Austin Lafferty gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .235",
-          "OBP .410",
-          "SLG .444"
+          "AVG .226",
+          "OBP .398",
+          "SLG .429"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".235"
+            "value": ".226"
           },
           {
             "label": "OBP",
-            "value": ".410"
+            "value": ".398"
           },
           {
             "label": "SLG",
-            "value": ".444"
+            "value": ".429"
           },
           {
             "label": "HR",
@@ -5285,10 +5318,10 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           }
         ],
         "components": {
-          "On-base": 72.2222222222222,
-          "Power": 32.631578947368425,
-          "Contact": 9.374999999999991,
-          "Discipline": 74.39613526570045,
+          "On-base": 65.55555555555556,
+          "Power": 28.68421052631579,
+          "Contact": 3.7500000000000036,
+          "Discipline": 70.37037037037037,
           "Speed": 20
         },
         "metaLine": "JR / R/R",
@@ -5323,22 +5356,22 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         },
         "summary": "Kyle McConachie gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .206",
-          "OBP .271",
-          "SLG .299"
+          "AVG .204",
+          "OBP .275",
+          "SLG .296"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".206"
+            "value": ".204"
           },
           {
             "label": "OBP",
-            "value": ".271"
+            "value": ".275"
           },
           {
             "label": "SLG",
-            "value": ".299"
+            "value": ".296"
           },
           {
             "label": "HR",
@@ -5392,22 +5425,22 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         },
         "summary": "Gio Melchione gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .185",
-          "OBP .254",
-          "SLG .231"
+          "AVG .182",
+          "OBP .250",
+          "SLG .227"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".185"
+            "value": ".182"
           },
           {
             "label": "OBP",
-            "value": ".254"
+            "value": ".250"
           },
           {
             "label": "SLG",
-            "value": ".231"
+            "value": ".227"
           },
           {
             "label": "HR",
@@ -5461,40 +5494,40 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         },
         "summary": "Jeremiah Newman gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 17.05",
-          "WHIP 3.24",
-          "K/9 8.5"
+          "ERA 13.79",
+          "WHIP 2.74",
+          "K/9 8.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "17.05"
+            "value": "13.79"
           },
           {
             "label": "WHIP",
-            "value": "3.24"
+            "value": "2.74"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "8.6"
           },
           {
             "label": "BB/9",
-            "value": "19.9"
+            "value": "16.1"
           },
           {
             "label": "HR/9",
-            "value": "2.84"
+            "value": "2.30"
           },
           {
             "label": "IP",
-            "value": "12.7"
+            "value": "15.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 41.148325358851686,
+          "Miss bats": 41.97292069632495,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -5530,22 +5563,22 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         },
         "summary": "Brody Chrisman profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .384",
-          "OBP .495",
-          "SLG .616"
+          "AVG .381",
+          "OBP .490",
+          "SLG .613"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".384"
+            "value": ".381"
           },
           {
             "label": "OBP",
-            "value": ".495"
+            "value": ".490"
           },
           {
             "label": "SLG",
-            "value": ".616"
+            "value": ".613"
           },
           {
             "label": "HR",
@@ -5562,7 +5595,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 77.89473684210527,
+          "Power": 77.10526315789474,
           "Contact": 100,
           "Discipline": 100,
           "Speed": 70
@@ -5592,29 +5625,29 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 51,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Kelton Phillips profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Kelton Phillips profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .404",
-          "SLG .406"
+          "AVG .323",
+          "OBP .397",
+          "SLG .398"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": ".323"
           },
           {
             "label": "OBP",
-            "value": ".404"
+            "value": ".397"
           },
           {
             "label": "SLG",
-            "value": ".406"
+            "value": ".398"
           },
           {
             "label": "HR",
@@ -5630,10 +5663,10 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           }
         ],
         "components": {
-          "On-base": 68.88888888888889,
-          "Power": 22.631578947368432,
-          "Contact": 67.5,
-          "Discipline": 44.444444444444436,
+          "On-base": 65,
+          "Power": 20.52631578947369,
+          "Contact": 64.375,
+          "Discipline": 41.88034188034187,
           "Speed": 50
         },
         "metaLine": "SR / R/R",
@@ -5661,29 +5694,29 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 3,
+        "score": 1,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Derek Occhipinti gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .091",
-          "OBP .286",
-          "SLG .182"
+          "AVG .083",
+          "OBP .267",
+          "SLG .167"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".091"
+            "value": ".083"
           },
           {
             "label": "OBP",
-            "value": ".286"
+            "value": ".267"
           },
           {
             "label": "SLG",
-            "value": ".182"
+            "value": ".167"
           },
           {
             "label": "HR",
@@ -5699,10 +5732,10 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           }
         ],
         "components": {
-          "On-base": 3.3333333333333055,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 14.814814814814808,
+          "Discipline": 9.523809523809518,
           "Speed": 0
         },
         "metaLine": "SO / R/R",
@@ -5730,21 +5763,21 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "position": "LHP",
         "classYear": "SO",
         "handedness": "L/L",
-        "score": 0,
+        "score": 1,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nathan Currah gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.95",
+          "ERA 9.88",
           "WHIP 2.05",
-          "K/9 4.3"
+          "K/9 4.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.95"
+            "value": "9.88"
           },
           {
             "label": "WHIP",
@@ -5752,25 +5785,25 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           },
           {
             "label": "K/9",
-            "value": "4.3"
+            "value": "4.6"
           },
           {
             "label": "BB/9",
-            "value": "9.9"
+            "value": "10.5"
           },
           {
             "label": "HR/9",
-            "value": "4.26"
+            "value": "3.95"
           },
           {
             "label": "IP",
-            "value": "12.7"
+            "value": "13.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 2.392344497607659,
+          "Miss bats": 5.543237250554329,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -6004,29 +6037,29 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "position": "INF",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 44,
+        "score": 46,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tucker Biehl profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .407",
-          "SLG .302"
+          "AVG .256",
+          "OBP .414",
+          "SLG .308"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".256"
           },
           {
             "label": "OBP",
-            "value": ".407"
+            "value": ".414"
           },
           {
             "label": "SLG",
-            "value": ".302"
+            "value": ".308"
           },
           {
             "label": "HR",
@@ -6042,9 +6075,9 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           }
         ],
         "components": {
-          "On-base": 70.55555555555553,
+          "On-base": 74.44444444444443,
           "Power": 0,
-          "Contact": 18.75,
+          "Contact": 22.500000000000004,
           "Discipline": 93.719806763285,
           "Speed": 46.666666666666664
         },
@@ -6080,22 +6113,22 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         },
         "summary": "Ryan Jones profiles as a C piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .200",
-          "OBP .500",
-          "SLG .200"
+          "AVG .188",
+          "OBP .480",
+          "SLG .188"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".200"
+            "value": ".188"
           },
           {
             "label": "OBP",
-            "value": ".500"
+            "value": ".480"
           },
           {
             "label": "SLG",
-            "value": ".200"
+            "value": ".188"
           },
           {
             "label": "HR",
@@ -6149,41 +6182,41 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         },
         "summary": "John Allen gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.42",
-          "WHIP 1.80",
-          "K/9 7.4"
+          "ERA 9.33",
+          "WHIP 2.00",
+          "K/9 7.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.42"
+            "value": "9.33"
           },
           {
             "label": "WHIP",
-            "value": "1.80"
+            "value": "2.00"
           },
           {
             "label": "K/9",
-            "value": "7.4"
+            "value": "7.7"
           },
           {
             "label": "BB/9",
-            "value": "4.7"
+            "value": "5.0"
           },
           {
             "label": "HR/9",
-            "value": "2.70"
+            "value": "3.33"
           },
           {
             "label": "IP",
-            "value": "26.7"
+            "value": "27.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 31.136363636363633,
-          "Command": 11.428571428571432,
+          "Miss bats": 33.333333333333336,
+          "Command": 10.666666666666668,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / L/L",
@@ -6487,47 +6520,47 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 7,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Garrett Groce gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 12.66",
-          "WHIP 2.72",
-          "K/9 7.6"
+          "ERA 11.68",
+          "WHIP 2.76",
+          "K/9 6.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "12.66"
+            "value": "11.68"
           },
           {
             "label": "WHIP",
-            "value": "2.72"
+            "value": "2.76"
           },
           {
             "label": "K/9",
-            "value": "7.6"
+            "value": "6.6"
           },
           {
             "label": "BB/9",
-            "value": "14.3"
+            "value": "14.6"
           },
           {
             "label": "HR/9",
-            "value": "2.53"
+            "value": "2.19"
           },
           {
             "label": "IP",
-            "value": "10.7"
+            "value": "12.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 32.67045454545455,
+          "Miss bats": 23.34152334152334,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -6556,29 +6589,29 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "position": "INF/RHP",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 0,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Brennan Morgan looks like a INF/RHP option who throws enough strikes.",
+        "summary": "Brennan Morgan looks like a INF/RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
+          "ERA 27.00",
+          "WHIP 3.00",
+          "K/9 9.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "--"
+            "value": "27.00"
           },
           {
             "label": "WHIP",
-            "value": "--"
+            "value": "3.00"
           },
           {
             "label": "K/9",
-            "value": "0.0"
+            "value": "9.0"
           },
           {
             "label": "BB/9",
@@ -6586,18 +6619,18 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "9.00"
           },
           {
             "label": "IP",
-            "value": "0.0"
+            "value": "1.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
+          "Miss bats": 45.45454545454545,
+          "Command": 100,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / R/R",
@@ -6605,7 +6638,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "INF/RHP",
           "R-JR",
           "R/R",
-          "Pitcher"
+          "Two-Way"
         ],
         "leaderboards": [
           "Akron Athletics roster",
@@ -6613,7 +6646,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         ],
         "sourceSummary": "Akron Athletics roster + Akron cumulative stats",
         "schoolSlug": "akron",
-        "compositeRole": "Pitcher",
+        "compositeRole": "Two-Way",
         "profileUrl": "https://gozips.com/sports/baseball/roster/brennan-morgan/9859",
         "espnAthleteId": ""
       },
@@ -6701,30 +6734,30 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         },
         "summary": "Easton Amundson profiles as a INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .265",
-          "OBP .385",
-          "SLG .607"
+          "AVG .264",
+          "OBP .381",
+          "SLG .620"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".265"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".385"
+            "value": ".381"
           },
           {
             "label": "SLG",
-            "value": ".607"
+            "value": ".620"
           },
           {
             "label": "HR",
-            "value": "10"
+            "value": "11"
           },
           {
             "label": "RBI",
-            "value": "38"
+            "value": "41"
           },
           {
             "label": "SB",
@@ -6732,10 +6765,10 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           }
         ],
         "components": {
-          "On-base": 58.33333333333333,
-          "Power": 75.52631578947368,
-          "Contact": 28.125000000000007,
-          "Discipline": 27.777777777777775,
+          "On-base": 56.1111111111111,
+          "Power": 78.94736842105264,
+          "Contact": 27.500000000000007,
+          "Discipline": 26.55826558265582,
           "Speed": 16.666666666666664
         },
         "metaLine": "GR / L/R",
@@ -6763,29 +6796,29 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "position": "OF",
         "classYear": "R-JR",
         "handedness": "S/R",
-        "score": 73,
+        "score": 69,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Prince DeBoskie profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .400",
-          "OBP .458",
-          "SLG .600"
+          "AVG .388",
+          "OBP .446",
+          "SLG .582"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".400"
+            "value": ".388"
           },
           {
             "label": "OBP",
-            "value": ".458"
+            "value": ".446"
           },
           {
             "label": "SLG",
-            "value": ".600"
+            "value": ".582"
           },
           {
             "label": "HR",
@@ -6801,8 +6834,8 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           }
         ],
         "components": {
-          "On-base": 98.88888888888889,
-          "Power": 73.6842105263158,
+          "On-base": 92.22222222222221,
+          "Power": 68.94736842105263,
           "Contact": 100,
           "Discipline": 0,
           "Speed": 40
@@ -6901,29 +6934,29 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "position": "C",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 27,
+        "score": 33,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Mitchel Szymczak gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .241",
-          "OBP .357",
-          "SLG .414"
+          "AVG .262",
+          "OBP .370",
+          "SLG .426"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".241"
+            "value": ".262"
           },
           {
             "label": "OBP",
-            "value": ".357"
+            "value": ".370"
           },
           {
             "label": "SLG",
-            "value": ".414"
+            "value": ".426"
           },
           {
             "label": "HR",
@@ -6939,9 +6972,9 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           }
         ],
         "components": {
-          "On-base": 42.77777777777775,
-          "Power": 24.736842105263154,
-          "Contact": 13.124999999999995,
+          "On-base": 49.999999999999986,
+          "Power": 27.89473684210526,
+          "Contact": 26.250000000000007,
           "Discipline": 33.33333333333333,
           "Speed": 3.3333333333333335
         },
@@ -6970,29 +7003,29 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "position": "INF",
         "classYear": "R-SO",
         "handedness": "L/R",
-        "score": 68,
+        "score": 67,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Blake Bowen profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .297",
-          "OBP .503",
-          "SLG .464"
+          "AVG .298",
+          "OBP .502",
+          "SLG .461"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".297"
+            "value": ".298"
           },
           {
             "label": "OBP",
-            "value": ".503"
+            "value": ".502"
           },
           {
             "label": "SLG",
-            "value": ".464"
+            "value": ".461"
           },
           {
             "label": "HR",
@@ -7009,8 +7042,8 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 37.89473684210527,
-          "Contact": 48.12499999999999,
+          "Power": 37.10526315789475,
+          "Contact": 48.749999999999986,
           "Discipline": 100,
           "Speed": 30
         },
@@ -7046,22 +7079,22 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         },
         "summary": "Brady Bowen profiles as a UTL piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .442",
-          "OBP .538",
-          "SLG .712"
+          "AVG .444",
+          "OBP .544",
+          "SLG .704"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".442"
+            "value": ".444"
           },
           {
             "label": "OBP",
-            "value": ".538"
+            "value": ".544"
           },
           {
             "label": "SLG",
-            "value": ".712"
+            "value": ".704"
           },
           {
             "label": "HR",
@@ -7115,22 +7148,22 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         },
         "summary": "Gabe Mathison profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .268",
-          "OBP .447",
-          "SLG .310"
+          "AVG .264",
+          "OBP .448",
+          "SLG .306"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".268"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".447"
+            "value": ".448"
           },
           {
             "label": "SLG",
-            "value": ".310"
+            "value": ".306"
           },
           {
             "label": "HR",
@@ -7146,10 +7179,10 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           }
         ],
         "components": {
-          "On-base": 92.77777777777777,
+          "On-base": 93.33333333333333,
           "Power": 0,
-          "Contact": 30.00000000000001,
-          "Discipline": 59.64912280701752,
+          "Contact": 27.500000000000007,
+          "Discipline": 55.555555555555536,
           "Speed": 30
         },
         "metaLine": "FR / S/L",
@@ -7177,7 +7210,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "position": "C",
         "classYear": "R-FR",
         "handedness": "R/R",
-        "score": 7,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -7185,7 +7218,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "summary": "Atticus Huffstutler gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .217",
-          "OBP .250",
+          "OBP .280",
           "SLG .391"
         ],
         "statCards": [
@@ -7195,7 +7228,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           },
           {
             "label": "OBP",
-            "value": ".250"
+            "value": ".280"
           },
           {
             "label": "SLG",
@@ -7218,7 +7251,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "On-base": 0,
           "Power": 18.684210526315795,
           "Contact": 0,
-          "Discipline": 14.814814814814808,
+          "Discipline": 51.85185185185184,
           "Speed": 0
         },
         "metaLine": "R-FR / R/R",
@@ -7384,48 +7417,48 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "position": "LHP",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 6,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Trieg Matthews gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.17",
-          "WHIP 1.42",
-          "K/9 7.4"
+          "ERA 4.06",
+          "WHIP 1.38",
+          "K/9 7.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.17"
+            "value": "4.06"
           },
           {
             "label": "WHIP",
-            "value": "1.42"
+            "value": "1.38"
           },
           {
             "label": "K/9",
-            "value": "7.4"
+            "value": "7.6"
           },
           {
             "label": "BB/9",
-            "value": "7.1"
+            "value": "6.9"
           },
           {
             "label": "HR/9",
-            "value": "0.49"
+            "value": "0.48"
           },
           {
             "label": "IP",
-            "value": "36.7"
+            "value": "37.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 30.57851239669422,
-          "Command": 0.68965517241379,
+          "Miss bats": 33.1456154465004,
+          "Command": 2.068965517241379,
           "Damage suppression": 0
         },
         "metaLine": "FR / L/L",
@@ -7521,29 +7554,29 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 21,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Henry Hayman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .255",
-          "OBP .328",
-          "SLG .415"
+          "AVG .250",
+          "OBP .333",
+          "SLG .407"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".255"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".328"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".415"
+            "value": ".407"
           },
           {
             "label": "HR",
@@ -7559,10 +7592,10 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           }
         ],
         "components": {
-          "On-base": 26.66666666666666,
-          "Power": 24.999999999999996,
-          "Contact": 21.875000000000004,
-          "Discipline": 13.33333333333333,
+          "On-base": 29.44444444444444,
+          "Power": 22.894736842105257,
+          "Contact": 18.75,
+          "Discipline": 11.965811965811964,
           "Speed": 0
         },
         "metaLine": "SR / R/R",

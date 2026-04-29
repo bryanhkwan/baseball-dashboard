@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.brown2026 = {
-  "generatedAt": "2026-04-28T12:02:17.593Z",
+  "generatedAt": "2026-04-29T11:54:52.272Z",
   "season": 2026,
   "school": {
     "slug": "brown",
@@ -68,7 +68,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "flyOuts": "297",
       "groundedIntoDoublePlay": "14",
       "pickedOff": "9",
-      "doublePlaysHitInto": "16",
+      "doublePlaysHitInto": "17",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
@@ -79,7 +79,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "catchersInterference": "0",
       "stolenBasesAgainst": "63",
       "caughtStealingBy": "21",
-      "involvedInDoublePlays": "29",
+      "involvedInDoublePlays": "30",
       "involvedInTriplePlays": "0",
       "totalChances": "1291",
       "fieldingPercentage": ".966"
@@ -640,7 +640,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "assists": 28,
         "errors": 1,
         "fieldingPercentage": 0.997,
-        "doublePlays": 25,
+        "doublePlays": 26,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
@@ -1180,7 +1180,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "assists": 11,
         "errors": 1,
         "fieldingPercentage": 0.99,
-        "doublePlays": 0,
+        "doublePlays": 1,
         "stolenBasesAgainst": 24,
         "caughtStealingBy": 5,
         "stolenBasesPercentage": 0.828,
@@ -2402,7 +2402,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "assists": 59,
         "errors": 12,
         "fieldingPercentage": 0.88,
-        "doublePlays": 8,
+        "doublePlays": 9,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,

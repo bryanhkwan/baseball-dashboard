@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.tulane2026 = {
-  "generatedAt": "2026-04-28T12:03:26.427Z",
+  "generatedAt": "2026-04-29T11:55:36.412Z",
   "season": 2026,
   "school": {
     "slug": "tulane",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
     }
   },
   "teamSummary": {
-    "record": "22-23, 8-10",
+    "record": "23-23, 8-10",
     "battingAverage": ".256",
     "earnedRunAverage": "5.19",
-    "wins": "22",
+    "wins": "23",
     "losses": "23",
     "hitting": {
-      "atBats": "1431",
-      "runsScored": "290",
-      "hits": "366",
-      "runsBattedIn": "269",
-      "doubles": "101",
+      "atBats": "1463",
+      "runsScored": "297",
+      "hits": "375",
+      "runsBattedIn": "276",
+      "doubles": "102",
       "triples": "7",
-      "homeRuns": "29",
-      "walks": "238",
+      "homeRuns": "31",
+      "walks": "241",
       "intentionalWalks": "8",
-      "strikeouts": "315",
+      "strikeouts": "321",
       "strikeoutsLooking": "40",
-      "hitByPitch": "62",
-      "stolenBases": "66",
+      "hitByPitch": "64",
+      "stolenBases": "67",
       "caughtStealing": "16",
       "sacrificeHits": "31",
       "sacrificeFlies": "23",
       "reachedOnCatchersInteference": "1",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "360",
-      "flyOuts": "394",
-      "groundedIntoDoublePlay": "35",
+      "groundOuts": "365",
+      "flyOuts": "406",
+      "groundedIntoDoublePlay": "36",
       "pickedOff": "1",
-      "doublePlaysHitInto": "35",
+      "doublePlaysHitInto": "36",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1155",
-      "assists": "388",
-      "errors": "41",
+      "putouts": "1182",
+      "assists": "398",
+      "errors": "43",
       "passedBalls": "9",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "62",
+      "stolenBasesAgainst": "63",
       "caughtStealingBy": "9",
       "involvedInDoublePlays": "38",
       "involvedInTriplePlays": "0",
-      "totalChances": "1584",
+      "totalChances": "1623",
       "fieldingPercentage": ".974"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "22",
-      "saves": "36",
+      "wins": "23",
+      "saves": "37",
       "losses": "23",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "1",
       "creditForCombinedShutout": "1",
-      "inningsPitched": "384.2",
-      "hitsAllowed": "391",
-      "runsAllowed": "246",
-      "earnedRunsAllowed": "222",
-      "walksAllowed": "210",
-      "strikeouts": "370",
-      "battersFaced": "1772",
-      "opponentAtBats": "1482",
-      "doublesAllowed": "83",
+      "inningsPitched": "393.2",
+      "hitsAllowed": "399",
+      "runsAllowed": "252",
+      "earnedRunsAllowed": "227",
+      "walksAllowed": "213",
+      "strikeouts": "377",
+      "battersFaced": "1814",
+      "opponentAtBats": "1519",
+      "doublesAllowed": "85",
       "triplesAllowed": "0",
-      "homerunsAllowed": "45",
+      "homerunsAllowed": "48",
       "wildPitches": "32",
       "balks": "1",
-      "hitBatters": "48",
-      "strikeoutsLooking": "59",
+      "hitBatters": "50",
+      "strikeoutsLooking": "62",
       "intentionalWalks": "9",
-      "inheritedRunners": "135",
+      "inheritedRunners": "138",
       "inheritedRunnersThatScored": "46",
       "sacrificeHitsAllowed": "18",
       "sacrificeFliesAllowed": "12",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6603",
-      "flyouts": "352",
-      "groundouts": "363",
+      "pitches": "6756",
+      "flyouts": "363",
+      "groundouts": "372",
       "teamUnearnedRuns": "0",
       "saveRecord": "13",
       "pickoff": "1"
@@ -162,32 +162,32 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "0",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/jude-abbadessa/16922",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Jude_Abbadessa_HS-26.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 1,
-        "appearances": 22,
+        "gamesPlayed": 23,
+        "gamesStarted": 2,
+        "appearances": 23,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.44,
-        "whip": 2.08,
+        "earnedRunAverage": 6.89,
+        "whip": 2.07,
         "wins": 2,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 29.333333333333332,
-        "inningsPitchedDisplay": "29.1",
-        "hitsAllowed": 35,
-        "runsAllowed": 22,
-        "earnedRunsAllowed": 21,
-        "walksAllowed": 26,
-        "strikeouts": 26,
-        "doublesAllowed": 6,
+        "inningsPitched": 31.333333333333332,
+        "inningsPitchedDisplay": "31.1",
+        "hitsAllowed": 38,
+        "runsAllowed": 25,
+        "earnedRunsAllowed": 24,
+        "walksAllowed": 27,
+        "strikeouts": 27,
+        "doublesAllowed": 7,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 116,
+        "homeRunsAllowed": 5,
+        "opponentsAtBats": 125,
         "wildPitches": 6,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.302,
-        "walksHits": 61
+        "opponentsBattingAverage": 0.304,
+        "walksHits": 65
       },
       "fieldingStats": {
         "rosterBioId": "16922",
@@ -219,40 +219,40 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.15702479338843,
+          "Miss bats": 34.13926499032882,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Jude Abbadessa gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.44",
-          "WHIP 2.08",
-          "K/9 8.0"
+          "ERA 6.89",
+          "WHIP 2.07",
+          "K/9 7.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.44"
+            "value": "6.89"
           },
           {
             "label": "WHIP",
-            "value": "2.08"
+            "value": "2.07"
           },
           {
             "label": "K/9",
-            "value": "8.0"
+            "value": "7.8"
           },
           {
             "label": "BB/9",
-            "value": "8.0"
+            "value": "7.8"
           },
           {
             "label": "HR/9",
-            "value": "1.23"
+            "value": "1.44"
           },
           {
             "label": "IP",
-            "value": "29.3"
+            "value": "31.3"
           }
         ],
         "metaLine": "R-JR / R/R",
@@ -303,14 +303,14 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "1",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/james-agabedis/16416",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/James_Agabedis_HS_26.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 21,
-        "battingAverage": 0.218,
-        "onBasePercentage": 0.337,
-        "sluggingPercentage": 0.462,
-        "ops": 0.799,
-        "atBats": 78,
-        "runs": 16,
+        "gamesPlayed": 34,
+        "gamesStarted": 22,
+        "battingAverage": 0.21,
+        "onBasePercentage": 0.333,
+        "sluggingPercentage": 0.444,
+        "ops": 0.777,
+        "atBats": 81,
+        "runs": 17,
         "hits": 17,
         "doubles": 2,
         "triples": 1,
@@ -318,8 +318,8 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "runsBattedIn": 21,
         "totalBases": 36,
         "walks": 12,
-        "hitByPitch": 2,
-        "strikeouts": 30,
+        "hitByPitch": 3,
+        "strikeouts": 31,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
@@ -327,9 +327,9 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 19,
-        "assists": 34,
-        "errors": 4,
-        "plateAppearances": 101,
+        "assists": 35,
+        "errors": 6,
+        "plateAppearances": 105,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -341,51 +341,51 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "1",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/james-agabedis/16416",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/James_Agabedis_HS_26.jpg",
-        "gamesPlayed": 23,
-        "gamesStarted": 18,
+        "gamesPlayed": 24,
+        "gamesStarted": 19,
         "putouts": 19,
-        "assists": 34,
-        "errors": 4,
-        "fieldingPercentage": 0.93,
+        "assists": 35,
+        "errors": 6,
+        "fieldingPercentage": 0.9,
         "doublePlays": 4,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 57
+        "totalChances": 60
       },
       "evaluation": {
-        "score": 24,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 31.666666666666664,
-          "Power": 37.36842105263159,
+          "On-base": 29.44444444444444,
+          "Power": 32.631578947368425,
           "Contact": 0,
-          "Discipline": 22.22222222222222,
+          "Discipline": 20.788530465949815,
           "Speed": 6.666666666666667
         },
         "summary": "James Agabedis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .218",
-          "OBP .337",
-          "SLG .462"
+          "AVG .210",
+          "OBP .333",
+          "SLG .444"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".218"
+            "value": ".210"
           },
           {
             "label": "OBP",
-            "value": ".337"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".462"
+            "value": ".444"
           },
           {
             "label": "HR",
@@ -448,23 +448,23 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "3",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/kaikea-harrison/16426",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Kaikea_Harrison_HS_26.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "battingAverage": 0.255,
-        "onBasePercentage": 0.332,
-        "sluggingPercentage": 0.386,
-        "ops": 0.718,
-        "atBats": 184,
-        "runs": 40,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "battingAverage": 0.253,
+        "onBasePercentage": 0.335,
+        "sluggingPercentage": 0.382,
+        "ops": 0.717,
+        "atBats": 186,
+        "runs": 41,
         "hits": 47,
         "doubles": 12,
         "triples": 0,
         "homeRuns": 4,
         "runsBattedIn": 33,
         "totalBases": 71,
-        "walks": 18,
+        "walks": 20,
         "hitByPitch": 4,
-        "strikeouts": 35,
+        "strikeouts": 36,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 2,
@@ -472,9 +472,9 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "stolenBases": 8,
         "stolenBasesAttempts": 12,
         "putouts": 56,
-        "assists": 128,
+        "assists": 131,
         "errors": 11,
-        "plateAppearances": 226,
+        "plateAppearances": 230,
         "caughtStealing": 4,
         "pickedOff": 0
       },
@@ -486,10 +486,10 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "3",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/kaikea-harrison/16426",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Kaikea_Harrison_HS_26.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
         "putouts": 56,
-        "assists": 128,
+        "assists": 131,
         "errors": 11,
         "fieldingPercentage": 0.944,
         "doublePlays": 24,
@@ -498,39 +498,39 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 195
+        "totalChances": 198
       },
       "evaluation": {
-        "score": 25,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 28.888888888888886,
-          "Power": 17.368421052631582,
-          "Contact": 21.875000000000004,
-          "Discipline": 34.92063492063491,
+          "On-base": 30.555555555555554,
+          "Power": 16.315789473684212,
+          "Contact": 20.625,
+          "Discipline": 39.50617283950617,
           "Speed": 26.666666666666668
         },
         "summary": "Kaikea Harrison profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .255",
-          "OBP .332",
-          "SLG .386"
+          "AVG .253",
+          "OBP .335",
+          "SLG .382"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".255"
+            "value": ".253"
           },
           {
             "label": "OBP",
-            "value": ".332"
+            "value": ".335"
           },
           {
             "label": "SLG",
-            "value": ".386"
+            "value": ".382"
           },
           {
             "label": "HR",
@@ -593,33 +593,33 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "4",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/tye-wood/16923",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Tye_Wood_HS_26.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "battingAverage": 0.283,
-        "onBasePercentage": 0.419,
-        "sluggingPercentage": 0.421,
-        "ops": 0.84,
-        "atBats": 159,
-        "runs": 38,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "battingAverage": 0.276,
+        "onBasePercentage": 0.413,
+        "sluggingPercentage": 0.411,
+        "ops": 0.824,
+        "atBats": 163,
+        "runs": 39,
         "hits": 45,
         "doubles": 13,
         "triples": 0,
         "homeRuns": 3,
         "runsBattedIn": 28,
         "totalBases": 67,
-        "walks": 30,
+        "walks": 31,
         "hitByPitch": 10,
-        "strikeouts": 20,
+        "strikeouts": 21,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 4,
         "sacrificeHits": 4,
         "stolenBases": 18,
         "stolenBasesAttempts": 20,
-        "putouts": 96,
+        "putouts": 98,
         "assists": 1,
         "errors": 1,
-        "plateAppearances": 229,
+        "plateAppearances": 234,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -631,9 +631,9 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "4",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/tye-wood/16923",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Tye_Wood_HS_26.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "putouts": 96,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "putouts": 98,
         "assists": 1,
         "errors": 1,
         "fieldingPercentage": 0.99,
@@ -643,39 +643,39 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 98
+        "totalChances": 100
       },
       "evaluation": {
-        "score": 59,
+        "score": 56,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 77.2222222222222,
-          "Power": 26.57894736842105,
-          "Contact": 39.374999999999986,
+          "On-base": 73.88888888888886,
+          "Power": 23.947368421052627,
+          "Contact": 35.000000000000014,
           "Discipline": 100,
           "Speed": 60
         },
         "summary": "Tye Wood profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .283",
-          "OBP .419",
-          "SLG .421"
+          "AVG .276",
+          "OBP .413",
+          "SLG .411"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".283"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".419"
+            "value": ".413"
           },
           {
             "label": "SLG",
-            "value": ".421"
+            "value": ".411"
           },
           {
             "label": "HR",
@@ -1028,20 +1028,20 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "9",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/matthias-haas/16425",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Matthias_Haas_DSC09450_HS_26.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 38,
-        "battingAverage": 0.281,
-        "onBasePercentage": 0.349,
-        "sluggingPercentage": 0.378,
-        "ops": 0.727,
-        "atBats": 135,
-        "runs": 20,
-        "hits": 38,
+        "gamesPlayed": 43,
+        "gamesStarted": 39,
+        "battingAverage": 0.295,
+        "onBasePercentage": 0.359,
+        "sluggingPercentage": 0.41,
+        "ops": 0.769,
+        "atBats": 139,
+        "runs": 21,
+        "hits": 41,
         "doubles": 10,
         "triples": 0,
-        "homeRuns": 1,
-        "runsBattedIn": 27,
-        "totalBases": 51,
+        "homeRuns": 2,
+        "runsBattedIn": 30,
+        "totalBases": 57,
         "walks": 11,
         "hitByPitch": 4,
         "strikeouts": 25,
@@ -1054,7 +1054,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "putouts": 46,
         "assists": 7,
         "errors": 2,
-        "plateAppearances": 161,
+        "plateAppearances": 165,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1081,44 +1081,44 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "totalChances": 55
       },
       "evaluation": {
-        "score": 28,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 38.33333333333331,
-          "Power": 15.263157894736842,
-          "Contact": 38.125000000000014,
+          "On-base": 43.888888888888864,
+          "Power": 23.684210526315784,
+          "Contact": 46.874999999999986,
           "Discipline": 26.66666666666666,
           "Speed": 16.666666666666664
         },
         "summary": "Matthias Haas gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .281",
-          "OBP .349",
-          "SLG .378"
+          "AVG .295",
+          "OBP .359",
+          "SLG .410"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".281"
+            "value": ".295"
           },
           {
             "label": "OBP",
-            "value": ".349"
+            "value": ".359"
           },
           {
             "label": "SLG",
-            "value": ".378"
+            "value": ".410"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "2"
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "30"
           },
           {
             "label": "SB",
@@ -1420,33 +1420,33 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "14",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/tanner-chun/16419",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Tanner_Chun_HS_26.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 42,
-        "battingAverage": 0.197,
-        "onBasePercentage": 0.417,
-        "sluggingPercentage": 0.307,
-        "ops": 0.724,
-        "atBats": 127,
-        "runs": 27,
-        "hits": 25,
+        "gamesPlayed": 44,
+        "gamesStarted": 43,
+        "battingAverage": 0.206,
+        "onBasePercentage": 0.418,
+        "sluggingPercentage": 0.313,
+        "ops": 0.731,
+        "atBats": 131,
+        "runs": 28,
+        "hits": 27,
         "doubles": 12,
         "triples": 1,
         "homeRuns": 0,
-        "runsBattedIn": 17,
-        "totalBases": 39,
+        "runsBattedIn": 19,
+        "totalBases": 41,
         "walks": 36,
         "hitByPitch": 14,
-        "strikeouts": 43,
+        "strikeouts": 45,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 3,
         "sacrificeHits": 4,
-        "stolenBases": 13,
-        "stolenBasesAttempts": 16,
-        "putouts": 78,
+        "stolenBases": 14,
+        "stolenBasesAttempts": 17,
+        "putouts": 81,
         "assists": 1,
         "errors": 1,
-        "plateAppearances": 203,
+        "plateAppearances": 208,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -1458,9 +1458,9 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "14",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/tanner-chun/16419",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Tanner_Chun_HS_26.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 33,
-        "putouts": 78,
+        "gamesPlayed": 34,
+        "gamesStarted": 34,
+        "putouts": 81,
         "assists": 1,
         "errors": 1,
         "fieldingPercentage": 0.988,
@@ -1470,7 +1470,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 80
+        "totalChances": 83
       },
       "evaluation": {
         "score": 39,
@@ -1479,30 +1479,30 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 76.11111111111109,
+          "On-base": 76.66666666666664,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 70.80103359173125,
-          "Speed": 43.333333333333336
+          "Discipline": 66.66666666666666,
+          "Speed": 46.666666666666664
         },
         "summary": "Tanner Chun profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .197",
-          "OBP .417",
-          "SLG .307"
+          "AVG .206",
+          "OBP .418",
+          "SLG .313"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".197"
+            "value": ".206"
           },
           {
             "label": "OBP",
-            "value": ".417"
+            "value": ".418"
           },
           {
             "label": "SLG",
-            "value": ".307"
+            "value": ".313"
           },
           {
             "label": "HR",
@@ -1510,11 +1510,11 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "19"
           },
           {
             "label": "SB",
-            "value": "13"
+            "value": "14"
           }
         ],
         "metaLine": "SO / R/R",
@@ -1566,32 +1566,32 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "15",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/sam-larson/16928",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Sam_Larson_HS_26.jpg",
-        "gamesPlayed": 24,
+        "gamesPlayed": 25,
         "gamesStarted": 0,
-        "appearances": 24,
+        "appearances": 25,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.07,
-        "whip": 1.19,
-        "wins": 1,
+        "earnedRunAverage": 2.93,
+        "whip": 1.17,
+        "wins": 2,
         "losses": 2,
         "saves": 4,
         "shutouts": 0,
-        "inningsPitched": 29.333333333333332,
-        "inningsPitchedDisplay": "29.1",
+        "inningsPitched": 30.666666666666668,
+        "inningsPitchedDisplay": "30.2",
         "hitsAllowed": 20,
         "runsAllowed": 13,
         "earnedRunsAllowed": 10,
-        "walksAllowed": 15,
-        "strikeouts": 38,
+        "walksAllowed": 16,
+        "strikeouts": 39,
         "doublesAllowed": 5,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 101,
+        "opponentsAtBats": 105,
         "wildPitches": 4,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.198,
-        "walksHits": 35
+        "opponentsBattingAverage": 0.19,
+        "walksHits": 36
       },
       "fieldingStats": {
         "rosterBioId": "16928",
@@ -1615,7 +1615,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "totalChances": 8
       },
       "evaluation": {
-        "score": 19,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1623,40 +1623,40 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 69.62809917355372,
-          "Command": 30.666666666666664,
+          "Miss bats": 67.68774703557312,
+          "Command": 28.749999999999996,
           "Damage suppression": 0
         },
         "summary": "Sam Larson looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.07",
-          "WHIP 1.19",
-          "K/9 11.7"
+          "ERA 2.93",
+          "WHIP 1.17",
+          "K/9 11.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.07"
+            "value": "2.93"
           },
           {
             "label": "WHIP",
-            "value": "1.19"
+            "value": "1.17"
           },
           {
             "label": "K/9",
-            "value": "11.7"
+            "value": "11.4"
           },
           {
             "label": "BB/9",
-            "value": "4.6"
+            "value": "4.7"
           },
           {
             "label": "HR/9",
-            "value": "0.61"
+            "value": "0.59"
           },
           {
             "label": "IP",
-            "value": "29.3"
+            "value": "30.7"
           }
         ],
         "metaLine": "JR / R/R",
@@ -1708,31 +1708,31 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "16",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/caden-tarango/16929",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Caden_Tarango_HS_26.jpg",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 0,
-        "appearances": 7,
+        "appearances": 8,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.36,
-        "whip": 1.77,
+        "earnedRunAverage": 6.48,
+        "whip": 1.56,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 7.333333333333333,
-        "inningsPitchedDisplay": "7.1",
+        "inningsPitched": 8.333333333333334,
+        "inningsPitchedDisplay": "8.1",
         "hitsAllowed": 7,
         "runsAllowed": 7,
         "earnedRunsAllowed": 6,
         "walksAllowed": 6,
-        "strikeouts": 8,
+        "strikeouts": 9,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 29,
+        "opponentsAtBats": 32,
         "wildPitches": 2,
-        "hitBatters": 2,
+        "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.241,
+        "opponentsBattingAverage": 0.219,
         "walksHits": 13
       },
       "fieldingStats": {
@@ -1765,32 +1765,32 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 52.892561983471076,
-          "Command": 6.666666666666665,
+          "Miss bats": 51.99999999999999,
+          "Command": 10,
           "Damage suppression": 0
         },
         "summary": "Caden Tarango looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 7.36",
-          "WHIP 1.77",
-          "K/9 9.8"
+          "ERA 6.48",
+          "WHIP 1.56",
+          "K/9 9.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.36"
+            "value": "6.48"
           },
           {
             "label": "WHIP",
-            "value": "1.77"
+            "value": "1.56"
           },
           {
             "label": "K/9",
-            "value": "9.8"
+            "value": "9.7"
           },
           {
             "label": "BB/9",
-            "value": "7.4"
+            "value": "6.5"
           },
           {
             "label": "HR/9",
@@ -1798,7 +1798,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "IP",
-            "value": "7.3"
+            "value": "8.3"
           }
         ],
         "metaLine": "JR / R/R",
@@ -2028,31 +2028,31 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "19",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/julius-ejike-charles/16422",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Julius_Ejike-Charles_HS_26.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 0,
-        "appearances": 11,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4,
-        "whip": 1.67,
+        "earnedRunAverage": 3.6,
+        "whip": 1.5,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 9,
-        "inningsPitchedDisplay": "9.0",
+        "inningsPitched": 10,
+        "inningsPitchedDisplay": "10.0",
         "hitsAllowed": 6,
         "runsAllowed": 5,
         "earnedRunsAllowed": 4,
         "walksAllowed": 9,
-        "strikeouts": 10,
+        "strikeouts": 11,
         "doublesAllowed": 1,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 32,
+        "opponentsAtBats": 36,
         "wildPitches": 1,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.188,
+        "opponentsBattingAverage": 0.167,
         "walksHits": 15
       },
       "fieldingStats": {
@@ -2085,32 +2085,32 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 54.54545454545454,
-          "Command": 2.222222222222223,
+          "Miss bats": 53.63636363636364,
+          "Command": 4.444444444444446,
           "Damage suppression": 0
         },
         "summary": "Julius Ejike-Charles looks like a OF/LHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 4.00",
-          "WHIP 1.67",
-          "K/9 10.0"
+          "ERA 3.60",
+          "WHIP 1.50",
+          "K/9 9.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.00"
+            "value": "3.60"
           },
           {
             "label": "WHIP",
-            "value": "1.67"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "10.0"
+            "value": "9.9"
           },
           {
             "label": "BB/9",
-            "value": "9.0"
+            "value": "8.1"
           },
           {
             "label": "HR/9",
@@ -2118,7 +2118,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "IP",
-            "value": "9.0"
+            "value": "10.0"
           }
         ],
         "metaLine": "SO / L/L",
@@ -2314,19 +2314,19 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "22",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/jason-wachs/16434",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Jason_Wachs_HS_26.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "battingAverage": 0.35,
-        "onBasePercentage": 0.478,
-        "sluggingPercentage": 0.594,
-        "ops": 1.072,
-        "atBats": 160,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "battingAverage": 0.341,
+        "onBasePercentage": 0.469,
+        "sluggingPercentage": 0.579,
+        "ops": 1.048,
+        "atBats": 164,
         "runs": 42,
         "hits": 56,
         "doubles": 19,
         "triples": 1,
         "homeRuns": 6,
-        "runsBattedIn": 40,
+        "runsBattedIn": 41,
         "totalBases": 95,
         "walks": 34,
         "hitByPitch": 9,
@@ -2337,10 +2337,10 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
-        "putouts": 59,
+        "putouts": 62,
         "assists": 1,
         "errors": 2,
-        "plateAppearances": 214,
+        "plateAppearances": 218,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2352,51 +2352,51 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "22",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/jason-wachs/16434",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Jason_Wachs_HS_26.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "putouts": 59,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "putouts": 62,
         "assists": 1,
         "errors": 2,
-        "fieldingPercentage": 0.968,
+        "fieldingPercentage": 0.969,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 62
+        "totalChances": 65
       },
       "evaluation": {
-        "score": 81,
+        "score": 79,
         "fit": {
-          "label": "Priority",
-          "className": "fit-priority"
+          "label": "Pursue",
+          "className": "fit-pursue"
         },
         "components": {
           "On-base": 100,
-          "Power": 72.10526315789474,
-          "Contact": 81.24999999999999,
+          "Power": 68.15789473684211,
+          "Contact": 75.62500000000001,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },
         "summary": "Jason Wachs profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .350",
-          "OBP .478",
-          "SLG .594"
+          "AVG .341",
+          "OBP .469",
+          "SLG .579"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".350"
+            "value": ".341"
           },
           {
             "label": "OBP",
-            "value": ".478"
+            "value": ".469"
           },
           {
             "label": "SLG",
-            "value": ".594"
+            "value": ".579"
           },
           {
             "label": "HR",
@@ -2404,7 +2404,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "41"
           },
           {
             "label": "SB",
@@ -2834,33 +2834,33 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "28",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/trent-liolios/16933",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Trent_Liolios_HS_26.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 36,
+        "gamesPlayed": 42,
+        "gamesStarted": 37,
         "battingAverage": 0.266,
-        "onBasePercentage": 0.391,
-        "sluggingPercentage": 0.379,
-        "ops": 0.77,
-        "atBats": 124,
-        "runs": 26,
-        "hits": 33,
+        "onBasePercentage": 0.387,
+        "sluggingPercentage": 0.398,
+        "ops": 0.785,
+        "atBats": 128,
+        "runs": 27,
+        "hits": 34,
         "doubles": 11,
         "triples": 0,
-        "homeRuns": 1,
-        "runsBattedIn": 27,
-        "totalBases": 47,
+        "homeRuns": 2,
+        "runsBattedIn": 28,
+        "totalBases": 51,
         "walks": 24,
         "hitByPitch": 2,
-        "strikeouts": 20,
+        "strikeouts": 21,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
         "sacrificeHits": 6,
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
-        "putouts": 251,
+        "putouts": 261,
         "assists": 13,
         "errors": 0,
-        "plateAppearances": 161,
+        "plateAppearances": 165,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2872,9 +2872,9 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "28",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/trent-liolios/16933",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Trent_Liolios_HS_26.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 33,
-        "putouts": 251,
+        "gamesPlayed": 36,
+        "gamesStarted": 34,
+        "putouts": 261,
         "assists": 13,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -2884,17 +2884,17 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 264
+        "totalChances": 274
       },
       "evaluation": {
-        "score": 44,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 61.66666666666666,
-          "Power": 15.526315789473685,
+          "On-base": 59.444444444444436,
+          "Power": 20.52631578947369,
           "Contact": 28.750000000000007,
           "Discipline": 100,
           "Speed": 13.333333333333334
@@ -2902,8 +2902,8 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "summary": "Trent Liolios profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
           "AVG .266",
-          "OBP .391",
-          "SLG .379"
+          "OBP .387",
+          "SLG .398"
         ],
         "statCards": [
           {
@@ -2912,19 +2912,19 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "OBP",
-            "value": ".391"
+            "value": ".387"
           },
           {
             "label": "SLG",
-            "value": ".379"
+            "value": ".398"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "2"
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "28"
           },
           {
             "label": "SB",
@@ -2979,22 +2979,22 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "30",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/nate-johnson/16427",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Nate_Johnson_HS_26.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 33,
-        "battingAverage": 0.273,
-        "onBasePercentage": 0.392,
-        "sluggingPercentage": 0.413,
-        "ops": 0.805,
-        "atBats": 121,
+        "gamesPlayed": 40,
+        "gamesStarted": 34,
+        "battingAverage": 0.282,
+        "onBasePercentage": 0.401,
+        "sluggingPercentage": 0.427,
+        "ops": 0.828,
+        "atBats": 124,
         "runs": 22,
-        "hits": 33,
-        "doubles": 4,
+        "hits": 35,
+        "doubles": 5,
         "triples": 2,
         "homeRuns": 3,
         "runsBattedIn": 27,
-        "totalBases": 50,
+        "totalBases": 53,
         "walks": 21,
-        "hitByPitch": 4,
+        "hitByPitch": 5,
         "strikeouts": 33,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 2,
@@ -3002,10 +3002,10 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "sacrificeHits": 1,
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
-        "putouts": 103,
-        "assists": 76,
+        "putouts": 104,
+        "assists": 81,
         "errors": 6,
-        "plateAppearances": 155,
+        "plateAppearances": 159,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -3017,51 +3017,51 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "30",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/nate-johnson/16427",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Nate_Johnson_HS_26.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 32,
-        "putouts": 103,
-        "assists": 76,
+        "gamesPlayed": 38,
+        "gamesStarted": 33,
+        "putouts": 104,
+        "assists": 81,
         "errors": 6,
-        "fieldingPercentage": 0.968,
+        "fieldingPercentage": 0.969,
         "doublePlays": 26,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 185
+        "totalChances": 191
       },
       "evaluation": {
-        "score": 40,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 62.22222222222222,
-          "Power": 24.47368421052631,
-          "Contact": 33.12500000000001,
+          "On-base": 67.22222222222223,
+          "Power": 28.157894736842103,
+          "Contact": 38.74999999999998,
           "Discipline": 48.48484848484848,
           "Speed": 13.333333333333334
         },
-        "summary": "Nate Johnson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Nate Johnson profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .273",
-          "OBP .392",
-          "SLG .413"
+          "AVG .282",
+          "OBP .401",
+          "SLG .427"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".273"
+            "value": ".282"
           },
           {
             "label": "OBP",
-            "value": ".392"
+            "value": ".401"
           },
           {
             "label": "SLG",
-            "value": ".413"
+            "value": ".427"
           },
           {
             "label": "HR",
@@ -3125,32 +3125,32 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "31",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/jack-brafa/16934",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Jack_Brafa_HS_26.jpg",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 5,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5,
-        "whip": 1.44,
+        "earnedRunAverage": 5.14,
+        "whip": 1.46,
         "wins": 3,
         "losses": 0,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 27,
-        "inningsPitchedDisplay": "27.0",
-        "hitsAllowed": 29,
-        "runsAllowed": 17,
-        "earnedRunsAllowed": 15,
+        "inningsPitched": 28,
+        "inningsPitchedDisplay": "28.0",
+        "hitsAllowed": 31,
+        "runsAllowed": 19,
+        "earnedRunsAllowed": 16,
         "walksAllowed": 10,
-        "strikeouts": 28,
-        "doublesAllowed": 7,
+        "strikeouts": 29,
+        "doublesAllowed": 8,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 102,
+        "homeRunsAllowed": 4,
+        "opponentsAtBats": 108,
         "wildPitches": 0,
-        "hitBatters": 0,
+        "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.284,
-        "walksHits": 39
+        "opponentsBattingAverage": 0.287,
+        "walksHits": 41
       },
       "fieldingStats": {
         "rosterBioId": "16934",
@@ -3174,7 +3174,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "totalChances": 3
       },
       "evaluation": {
-        "score": 15,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3182,24 +3182,24 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 48.48484848484849,
-          "Command": 36.00000000000001,
+          "Miss bats": 48.37662337662337,
+          "Command": 38,
           "Damage suppression": 0
         },
         "summary": "Jack Brafa looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.00",
-          "WHIP 1.44",
+          "ERA 5.14",
+          "WHIP 1.46",
           "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.00"
+            "value": "5.14"
           },
           {
             "label": "WHIP",
-            "value": "1.44"
+            "value": "1.46"
           },
           {
             "label": "K/9",
@@ -3207,15 +3207,15 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "BB/9",
-            "value": "3.3"
+            "value": "3.2"
           },
           {
             "label": "HR/9",
-            "value": "1.00"
+            "value": "1.29"
           },
           {
             "label": "IP",
-            "value": "27.0"
+            "value": "28.0"
           }
         ],
         "metaLine": "JR / R/R",
@@ -3266,7 +3266,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "32",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/jack-johnson/16935",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Jack_Johnson_HS_26.jpg",
-        "gamesPlayed": 30,
+        "gamesPlayed": 31,
         "gamesStarted": 15,
         "battingAverage": 0.2,
         "onBasePercentage": 0.353,
@@ -3959,7 +3959,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "39",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/evan-burg/16938",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Evan_Burg_HS_26.jpg",
-        "gamesPlayed": 22,
+        "gamesPlayed": 23,
         "gamesStarted": 3,
         "battingAverage": 0,
         "onBasePercentage": 0.125,
@@ -3982,7 +3982,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 14,
+        "putouts": 15,
         "assists": 0,
         "errors": 0,
         "plateAppearances": 26,
@@ -3997,9 +3997,9 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "39",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/evan-burg/16938",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Evan_Burg_HS_26.jpg",
-        "gamesPlayed": 6,
+        "gamesPlayed": 7,
         "gamesStarted": 3,
-        "putouts": 14,
+        "putouts": 15,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -4009,7 +4009,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 14
+        "totalChances": 15
       },
       "evaluation": {
         "score": 5,
@@ -4105,19 +4105,19 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "40",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/tom-vincent/16939",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Tom_Vincent_HS_26.jpg",
-        "gamesPlayed": 16,
+        "gamesPlayed": 17,
         "gamesStarted": 0,
-        "appearances": 16,
+        "appearances": 17,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.91,
-        "whip": 1.32,
+        "earnedRunAverage": 4.76,
+        "whip": 1.37,
         "wins": 2,
         "losses": 2,
         "saves": 3,
         "shutouts": 0,
-        "inningsPitched": 22,
-        "inningsPitchedDisplay": "22.0",
-        "hitsAllowed": 18,
+        "inningsPitched": 22.666666666666668,
+        "inningsPitchedDisplay": "22.2",
+        "hitsAllowed": 20,
         "runsAllowed": 13,
         "earnedRunsAllowed": 12,
         "walksAllowed": 11,
@@ -4125,12 +4125,12 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 81,
+        "opponentsAtBats": 85,
         "wildPitches": 5,
         "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.222,
-        "walksHits": 29
+        "opponentsBattingAverage": 0.235,
+        "walksHits": 31
       },
       "fieldingStats": {
         "rosterBioId": "16939",
@@ -4162,40 +4162,40 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 26.8595041322314,
-          "Command": 10.909090909090908,
+          "Miss bats": 25,
+          "Command": 10.909090909090914,
           "Damage suppression": 0
         },
         "summary": "Tom Vincent gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.91",
-          "WHIP 1.32",
-          "K/9 7.0"
+          "ERA 4.76",
+          "WHIP 1.37",
+          "K/9 6.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.91"
+            "value": "4.76"
           },
           {
             "label": "WHIP",
-            "value": "1.32"
+            "value": "1.37"
           },
           {
             "label": "K/9",
-            "value": "7.0"
+            "value": "6.8"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "4.4"
           },
           {
             "label": "HR/9",
-            "value": "0.82"
+            "value": "0.79"
           },
           {
             "label": "IP",
-            "value": "22.0"
+            "value": "22.7"
           }
         ],
         "metaLine": "GR / L/L",
@@ -4334,33 +4334,33 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "44",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/johnny-elliott/16941",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Johnny_Elliott_HS_26.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 16,
+        "gamesPlayed": 23,
+        "gamesStarted": 17,
         "battingAverage": 0.241,
-        "onBasePercentage": 0.3,
-        "sluggingPercentage": 0.37,
-        "ops": 0.67,
-        "atBats": 54,
-        "runs": 7,
-        "hits": 13,
+        "onBasePercentage": 0.297,
+        "sluggingPercentage": 0.362,
+        "ops": 0.659,
+        "atBats": 58,
+        "runs": 8,
+        "hits": 14,
         "doubles": 4,
         "triples": 0,
         "homeRuns": 1,
         "runsBattedIn": 7,
-        "totalBases": 20,
+        "totalBases": 21,
         "walks": 4,
         "hitByPitch": 1,
         "strikeouts": 12,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
+        "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 149,
-        "assists": 9,
+        "putouts": 156,
+        "assists": 10,
         "errors": 4,
-        "plateAppearances": 61,
+        "plateAppearances": 65,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4372,29 +4372,29 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "44",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/johnny-elliott/16941",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Johnny_Elliott_HS_26.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 16,
-        "putouts": 149,
-        "assists": 9,
+        "gamesPlayed": 23,
+        "gamesStarted": 17,
+        "putouts": 156,
+        "assists": 10,
         "errors": 4,
-        "fieldingPercentage": 0.975,
+        "fieldingPercentage": 0.976,
         "doublePlays": 4,
-        "stolenBasesAgainst": 24,
+        "stolenBasesAgainst": 25,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.857,
+        "stolenBasesPercentage": 0.862,
         "passedBalls": 8,
         "catchersInterference": 0,
-        "totalChances": 162
+        "totalChances": 170
       },
       "evaluation": {
-        "score": 11,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 11.111111111111091,
-          "Power": 13.157894736842104,
+          "On-base": 9.444444444444422,
+          "Power": 11.052631578947365,
           "Contact": 13.124999999999995,
           "Discipline": 14.814814814814808,
           "Speed": 0
@@ -4402,8 +4402,8 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "summary": "Johnny Elliott gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .241",
-          "OBP .300",
-          "SLG .370"
+          "OBP .297",
+          "SLG .362"
         ],
         "statCards": [
           {
@@ -4412,11 +4412,11 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "OBP",
-            "value": ".300"
+            "value": ".297"
           },
           {
             "label": "SLG",
-            "value": ".370"
+            "value": ".362"
           },
           {
             "label": "HR",
@@ -4480,31 +4480,31 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "45",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/jacob-moore/16430",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Jacob_Moore_HS_26.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 0,
-        "appearances": 11,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.75,
-        "whip": 1.61,
+        "earnedRunAverage": 5.91,
+        "whip": 1.41,
         "wins": 0,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 9.333333333333334,
-        "inningsPitchedDisplay": "9.1",
+        "inningsPitched": 10.666666666666666,
+        "inningsPitchedDisplay": "10.2",
         "hitsAllowed": 10,
         "runsAllowed": 7,
         "earnedRunsAllowed": 7,
         "walksAllowed": 5,
-        "strikeouts": 10,
+        "strikeouts": 11,
         "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 36,
+        "opponentsAtBats": 40,
         "wildPitches": 2,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.278,
+        "opponentsBattingAverage": 0.25,
         "walksHits": 15
       },
       "fieldingStats": null,
@@ -4517,40 +4517,40 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.298701298701296,
-          "Command": 20,
+          "Miss bats": 48.01136363636363,
+          "Command": 24.000000000000004,
           "Damage suppression": 0
         },
         "summary": "Jacob Moore looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 1.61",
-          "K/9 9.6"
+          "ERA 5.91",
+          "WHIP 1.41",
+          "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "5.91"
           },
           {
             "label": "WHIP",
-            "value": "1.61"
+            "value": "1.41"
           },
           {
             "label": "K/9",
-            "value": "9.6"
+            "value": "9.3"
           },
           {
             "label": "BB/9",
-            "value": "4.8"
+            "value": "4.2"
           },
           {
             "label": "HR/9",
-            "value": "0.96"
+            "value": "0.84"
           },
           {
             "label": "IP",
-            "value": "9.3"
+            "value": "10.7"
           }
         ],
         "metaLine": "R-SR / R/R",
@@ -4974,36 +4974,36 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "jersey": "55",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/aidan-rath/16944",
         "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Aidan_Rath_HS_26.jpg",
-        "gamesPlayed": 1,
+        "gamesPlayed": 2,
         "gamesStarted": 0,
-        "appearances": 1,
+        "appearances": 2,
         "gamesCompleted": 0,
-        "earnedRunAverage": 0,
-        "whip": 2,
+        "earnedRunAverage": 5.4,
+        "whip": 2.4,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 1,
-        "inningsPitchedDisplay": "1.0",
-        "hitsAllowed": 0,
-        "runsAllowed": 0,
-        "earnedRunsAllowed": 0,
-        "walksAllowed": 2,
-        "strikeouts": 1,
+        "inningsPitched": 1.6666666666666665,
+        "inningsPitchedDisplay": "1.2",
+        "hitsAllowed": 1,
+        "runsAllowed": 1,
+        "earnedRunsAllowed": 1,
+        "walksAllowed": 3,
+        "strikeouts": 2,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 3,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 6,
         "wildPitches": 0,
         "hitBatters": 0,
         "balks": 0,
-        "opponentsBattingAverage": 0,
-        "walksHits": 2
+        "opponentsBattingAverage": 0.167,
+        "walksHits": 4
       },
       "fieldingStats": null,
       "evaluation": {
-        "score": 9,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5011,40 +5011,40 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
+          "Miss bats": 61.81818181818183,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Aidan Rath looks like a RHP option who limits runs and misses bats.",
+        "summary": "Aidan Rath looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 2.00",
-          "K/9 9.0"
+          "ERA 5.40",
+          "WHIP 2.40",
+          "K/9 10.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "0.00"
+            "value": "5.40"
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "2.40"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "10.8"
           },
           {
             "label": "BB/9",
-            "value": "18.0"
+            "value": "16.2"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "5.40"
           },
           {
             "label": "IP",
-            "value": "1.0"
+            "value": "1.7"
           }
         ],
         "metaLine": "GR / R/R",
@@ -5224,40 +5224,40 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         },
         "summary": "Jude Abbadessa gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.44",
-          "WHIP 2.08",
-          "K/9 8.0"
+          "ERA 6.89",
+          "WHIP 2.07",
+          "K/9 7.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.44"
+            "value": "6.89"
           },
           {
             "label": "WHIP",
-            "value": "2.08"
+            "value": "2.07"
           },
           {
             "label": "K/9",
-            "value": "8.0"
+            "value": "7.8"
           },
           {
             "label": "BB/9",
-            "value": "8.0"
+            "value": "7.8"
           },
           {
             "label": "HR/9",
-            "value": "1.23"
+            "value": "1.44"
           },
           {
             "label": "IP",
-            "value": "29.3"
+            "value": "31.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.15702479338843,
+          "Miss bats": 34.13926499032882,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -5286,29 +5286,29 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 24,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "James Agabedis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .218",
-          "OBP .337",
-          "SLG .462"
+          "AVG .210",
+          "OBP .333",
+          "SLG .444"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".218"
+            "value": ".210"
           },
           {
             "label": "OBP",
-            "value": ".337"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".462"
+            "value": ".444"
           },
           {
             "label": "HR",
@@ -5324,10 +5324,10 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           }
         ],
         "components": {
-          "On-base": 31.666666666666664,
-          "Power": 37.36842105263159,
+          "On-base": 29.44444444444444,
+          "Power": 32.631578947368425,
           "Contact": 0,
-          "Discipline": 22.22222222222222,
+          "Discipline": 20.788530465949815,
           "Speed": 6.666666666666667
         },
         "metaLine": "SR / L/R",
@@ -5355,29 +5355,29 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 25,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Kaikea Harrison profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .255",
-          "OBP .332",
-          "SLG .386"
+          "AVG .253",
+          "OBP .335",
+          "SLG .382"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".255"
+            "value": ".253"
           },
           {
             "label": "OBP",
-            "value": ".332"
+            "value": ".335"
           },
           {
             "label": "SLG",
-            "value": ".386"
+            "value": ".382"
           },
           {
             "label": "HR",
@@ -5393,10 +5393,10 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           }
         ],
         "components": {
-          "On-base": 28.888888888888886,
-          "Power": 17.368421052631582,
-          "Contact": 21.875000000000004,
-          "Discipline": 34.92063492063491,
+          "On-base": 30.555555555555554,
+          "Power": 16.315789473684212,
+          "Contact": 20.625,
+          "Discipline": 39.50617283950617,
           "Speed": 26.666666666666668
         },
         "metaLine": "SR / L/R",
@@ -5424,29 +5424,29 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "position": "OF",
         "classYear": "GR",
         "handedness": "S/L",
-        "score": 59,
+        "score": 56,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Tye Wood profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .283",
-          "OBP .419",
-          "SLG .421"
+          "AVG .276",
+          "OBP .413",
+          "SLG .411"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".283"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".419"
+            "value": ".413"
           },
           {
             "label": "SLG",
-            "value": ".421"
+            "value": ".411"
           },
           {
             "label": "HR",
@@ -5462,9 +5462,9 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           }
         ],
         "components": {
-          "On-base": 77.2222222222222,
-          "Power": 26.57894736842105,
-          "Contact": 39.374999999999986,
+          "On-base": 73.88888888888886,
+          "Power": 23.947368421052627,
+          "Contact": 35.000000000000014,
           "Discipline": 100,
           "Speed": 60
         },
@@ -5631,37 +5631,37 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "position": "INF/OF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 28,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Matthias Haas gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .281",
-          "OBP .349",
-          "SLG .378"
+          "AVG .295",
+          "OBP .359",
+          "SLG .410"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".281"
+            "value": ".295"
           },
           {
             "label": "OBP",
-            "value": ".349"
+            "value": ".359"
           },
           {
             "label": "SLG",
-            "value": ".378"
+            "value": ".410"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "2"
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "30"
           },
           {
             "label": "SB",
@@ -5669,9 +5669,9 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           }
         ],
         "components": {
-          "On-base": 38.33333333333331,
-          "Power": 15.263157894736842,
-          "Contact": 38.125000000000014,
+          "On-base": 43.888888888888864,
+          "Power": 23.684210526315784,
+          "Contact": 46.874999999999986,
           "Discipline": 26.66666666666666,
           "Speed": 16.666666666666664
         },
@@ -5845,22 +5845,22 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         },
         "summary": "Tanner Chun profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .197",
-          "OBP .417",
-          "SLG .307"
+          "AVG .206",
+          "OBP .418",
+          "SLG .313"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".197"
+            "value": ".206"
           },
           {
             "label": "OBP",
-            "value": ".417"
+            "value": ".418"
           },
           {
             "label": "SLG",
-            "value": ".307"
+            "value": ".313"
           },
           {
             "label": "HR",
@@ -5868,19 +5868,19 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "19"
           },
           {
             "label": "SB",
-            "value": "13"
+            "value": "14"
           }
         ],
         "components": {
-          "On-base": 76.11111111111109,
+          "On-base": 76.66666666666664,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 70.80103359173125,
-          "Speed": 43.333333333333336
+          "Discipline": 66.66666666666666,
+          "Speed": 46.666666666666664
         },
         "metaLine": "SO / R/R",
         "detailBadges": [
@@ -5907,48 +5907,48 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 19,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Sam Larson looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.07",
-          "WHIP 1.19",
-          "K/9 11.7"
+          "ERA 2.93",
+          "WHIP 1.17",
+          "K/9 11.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.07"
+            "value": "2.93"
           },
           {
             "label": "WHIP",
-            "value": "1.19"
+            "value": "1.17"
           },
           {
             "label": "K/9",
-            "value": "11.7"
+            "value": "11.4"
           },
           {
             "label": "BB/9",
-            "value": "4.6"
+            "value": "4.7"
           },
           {
             "label": "HR/9",
-            "value": "0.61"
+            "value": "0.59"
           },
           {
             "label": "IP",
-            "value": "29.3"
+            "value": "30.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 69.62809917355372,
-          "Command": 30.666666666666664,
+          "Miss bats": 67.68774703557312,
+          "Command": 28.749999999999996,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -5983,26 +5983,26 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         },
         "summary": "Caden Tarango looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 7.36",
-          "WHIP 1.77",
-          "K/9 9.8"
+          "ERA 6.48",
+          "WHIP 1.56",
+          "K/9 9.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.36"
+            "value": "6.48"
           },
           {
             "label": "WHIP",
-            "value": "1.77"
+            "value": "1.56"
           },
           {
             "label": "K/9",
-            "value": "9.8"
+            "value": "9.7"
           },
           {
             "label": "BB/9",
-            "value": "7.4"
+            "value": "6.5"
           },
           {
             "label": "HR/9",
@@ -6010,14 +6010,14 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "IP",
-            "value": "7.3"
+            "value": "8.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 52.892561983471076,
-          "Command": 6.666666666666665,
+          "Miss bats": 51.99999999999999,
+          "Command": 10,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -6121,26 +6121,26 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         },
         "summary": "Julius Ejike-Charles looks like a OF/LHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 4.00",
-          "WHIP 1.67",
-          "K/9 10.0"
+          "ERA 3.60",
+          "WHIP 1.50",
+          "K/9 9.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.00"
+            "value": "3.60"
           },
           {
             "label": "WHIP",
-            "value": "1.67"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "10.0"
+            "value": "9.9"
           },
           {
             "label": "BB/9",
-            "value": "9.0"
+            "value": "8.1"
           },
           {
             "label": "HR/9",
@@ -6148,14 +6148,14 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "IP",
-            "value": "9.0"
+            "value": "10.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 54.54545454545454,
-          "Command": 2.222222222222223,
+          "Miss bats": 53.63636363636364,
+          "Command": 4.444444444444446,
           "Damage suppression": 0
         },
         "metaLine": "SO / L/L",
@@ -6252,29 +6252,29 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 81,
+        "score": 79,
         "fit": {
-          "label": "Priority",
-          "className": "fit-priority"
+          "label": "Pursue",
+          "className": "fit-pursue"
         },
         "summary": "Jason Wachs profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .350",
-          "OBP .478",
-          "SLG .594"
+          "AVG .341",
+          "OBP .469",
+          "SLG .579"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".350"
+            "value": ".341"
           },
           {
             "label": "OBP",
-            "value": ".478"
+            "value": ".469"
           },
           {
             "label": "SLG",
-            "value": ".594"
+            "value": ".579"
           },
           {
             "label": "HR",
@@ -6282,7 +6282,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "41"
           },
           {
             "label": "SB",
@@ -6291,8 +6291,8 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 72.10526315789474,
-          "Contact": 81.24999999999999,
+          "Power": 68.15789473684211,
+          "Contact": 75.62500000000001,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },
@@ -6527,7 +6527,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "position": "INF",
         "classYear": "GR",
         "handedness": "L/R",
-        "score": 44,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -6535,8 +6535,8 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "summary": "Trent Liolios profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
           "AVG .266",
-          "OBP .391",
-          "SLG .379"
+          "OBP .387",
+          "SLG .398"
         ],
         "statCards": [
           {
@@ -6545,19 +6545,19 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "OBP",
-            "value": ".391"
+            "value": ".387"
           },
           {
             "label": "SLG",
-            "value": ".379"
+            "value": ".398"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "2"
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "28"
           },
           {
             "label": "SB",
@@ -6565,8 +6565,8 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           }
         ],
         "components": {
-          "On-base": 61.66666666666666,
-          "Power": 15.526315789473685,
+          "On-base": 59.444444444444436,
+          "Power": 20.52631578947369,
           "Contact": 28.750000000000007,
           "Discipline": 100,
           "Speed": 13.333333333333334
@@ -6596,29 +6596,29 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "S/R",
-        "score": 40,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Nate Johnson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Nate Johnson profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .273",
-          "OBP .392",
-          "SLG .413"
+          "AVG .282",
+          "OBP .401",
+          "SLG .427"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".273"
+            "value": ".282"
           },
           {
             "label": "OBP",
-            "value": ".392"
+            "value": ".401"
           },
           {
             "label": "SLG",
-            "value": ".413"
+            "value": ".427"
           },
           {
             "label": "HR",
@@ -6634,9 +6634,9 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           }
         ],
         "components": {
-          "On-base": 62.22222222222222,
-          "Power": 24.47368421052631,
-          "Contact": 33.12500000000001,
+          "On-base": 67.22222222222223,
+          "Power": 28.157894736842103,
+          "Contact": 38.74999999999998,
           "Discipline": 48.48484848484848,
           "Speed": 13.333333333333334
         },
@@ -6665,25 +6665,25 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 15,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Brafa looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.00",
-          "WHIP 1.44",
+          "ERA 5.14",
+          "WHIP 1.46",
           "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.00"
+            "value": "5.14"
           },
           {
             "label": "WHIP",
-            "value": "1.44"
+            "value": "1.46"
           },
           {
             "label": "K/9",
@@ -6691,22 +6691,22 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "BB/9",
-            "value": "3.3"
+            "value": "3.2"
           },
           {
             "label": "HR/9",
-            "value": "1.00"
+            "value": "1.29"
           },
           {
             "label": "IP",
-            "value": "27.0"
+            "value": "28.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 48.48484848484849,
-          "Command": 36.00000000000001,
+          "Miss bats": 48.37662337662337,
+          "Command": 38,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -7155,41 +7155,41 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         },
         "summary": "Tom Vincent gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.91",
-          "WHIP 1.32",
-          "K/9 7.0"
+          "ERA 4.76",
+          "WHIP 1.37",
+          "K/9 6.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.91"
+            "value": "4.76"
           },
           {
             "label": "WHIP",
-            "value": "1.32"
+            "value": "1.37"
           },
           {
             "label": "K/9",
-            "value": "7.0"
+            "value": "6.8"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "4.4"
           },
           {
             "label": "HR/9",
-            "value": "0.82"
+            "value": "0.79"
           },
           {
             "label": "IP",
-            "value": "22.0"
+            "value": "22.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 26.8595041322314,
-          "Command": 10.909090909090908,
+          "Miss bats": 25,
+          "Command": 10.909090909090914,
           "Damage suppression": 0
         },
         "metaLine": "GR / L/L",
@@ -7285,7 +7285,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "position": "C",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 11,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -7293,8 +7293,8 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "summary": "Johnny Elliott gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .241",
-          "OBP .300",
-          "SLG .370"
+          "OBP .297",
+          "SLG .362"
         ],
         "statCards": [
           {
@@ -7303,11 +7303,11 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "OBP",
-            "value": ".300"
+            "value": ".297"
           },
           {
             "label": "SLG",
-            "value": ".370"
+            "value": ".362"
           },
           {
             "label": "HR",
@@ -7323,8 +7323,8 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           }
         ],
         "components": {
-          "On-base": 11.111111111111091,
-          "Power": 13.157894736842104,
+          "On-base": 9.444444444444422,
+          "Power": 11.052631578947365,
           "Contact": 13.124999999999995,
           "Discipline": 14.814814814814808,
           "Speed": 0
@@ -7361,41 +7361,41 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         },
         "summary": "Jacob Moore looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 1.61",
-          "K/9 9.6"
+          "ERA 5.91",
+          "WHIP 1.41",
+          "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "5.91"
           },
           {
             "label": "WHIP",
-            "value": "1.61"
+            "value": "1.41"
           },
           {
             "label": "K/9",
-            "value": "9.6"
+            "value": "9.3"
           },
           {
             "label": "BB/9",
-            "value": "4.8"
+            "value": "4.2"
           },
           {
             "label": "HR/9",
-            "value": "0.96"
+            "value": "0.84"
           },
           {
             "label": "IP",
-            "value": "9.3"
+            "value": "10.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.298701298701296,
-          "Command": 20,
+          "Miss bats": 48.01136363636363,
+          "Command": 24.000000000000004,
           "Damage suppression": 0
         },
         "metaLine": "R-SR / R/R",
@@ -7629,47 +7629,47 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "position": "RHP",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 9,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Aidan Rath looks like a RHP option who limits runs and misses bats.",
+        "summary": "Aidan Rath looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 2.00",
-          "K/9 9.0"
+          "ERA 5.40",
+          "WHIP 2.40",
+          "K/9 10.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "0.00"
+            "value": "5.40"
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "2.40"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "10.8"
           },
           {
             "label": "BB/9",
-            "value": "18.0"
+            "value": "16.2"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "5.40"
           },
           {
             "label": "IP",
-            "value": "1.0"
+            "value": "1.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
+          "Miss bats": 61.81818181818183,
           "Command": 0,
           "Damage suppression": 0
         },
