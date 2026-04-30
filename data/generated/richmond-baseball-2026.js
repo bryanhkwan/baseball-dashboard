@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.richmond2026 = {
-  "generatedAt": "2026-04-29T11:55:25.602Z",
+  "generatedAt": "2026-04-30T11:54:25.650Z",
   "season": 2026,
   "school": {
     "slug": "richmond",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 2,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 4,
         "caughtStealing": 0,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
         "putouts": 25,
-        "assists": 58,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 102,
         "caughtStealing": 1,
@@ -475,7 +475,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "stolenBases": 23,
         "stolenBasesAttempts": 26,
         "putouts": 87,
-        "assists": 81,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 230,
         "caughtStealing": 3,
@@ -620,7 +620,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 6,
         "putouts": 75,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 147,
         "caughtStealing": 2,
@@ -1057,7 +1057,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "hitBatters": 10,
         "balks": 0,
         "opponentsBattingAverage": 0.204,
-        "walksHits": 61
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7818",
@@ -1075,7 +1075,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -1199,7 +1199,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.265,
-        "walksHits": 14
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7816",
@@ -1341,7 +1341,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.222,
-        "walksHits": 12
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7814",
@@ -1359,7 +1359,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -1481,7 +1481,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 14,
-        "assists": 25,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 45,
         "caughtStealing": 1,
@@ -1626,7 +1626,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 15,
         "putouts": 343,
-        "assists": 30,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 223,
         "caughtStealing": 6,
@@ -1649,7 +1649,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "doublePlays": 9,
         "stolenBasesAgainst": 32,
         "caughtStealingBy": 14,
-        "stolenBasesPercentage": 0.696,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 375
@@ -1771,7 +1771,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 7,
         "putouts": 160,
-        "assists": 24,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 138,
         "caughtStealing": 3,
@@ -1916,7 +1916,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "stolenBases": 7,
         "stolenBasesAttempts": 11,
         "putouts": 56,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 153,
         "caughtStealing": 4,
@@ -1954,7 +1954,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.355,
-        "walksHits": 14
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8062",
@@ -2094,7 +2094,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 5,
         "putouts": 137,
-        "assists": 25,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 104,
         "caughtStealing": 2,
@@ -2117,7 +2117,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "doublePlays": 2,
         "stolenBasesAgainst": 10,
         "caughtStealingBy": 9,
-        "stolenBasesPercentage": 0.526,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 163
@@ -2241,7 +2241,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 17
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8061",
@@ -2383,7 +2383,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.313,
-        "walksHits": 31
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7815",
@@ -2401,7 +2401,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -2525,7 +2525,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7806",
@@ -2543,7 +2543,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -2665,7 +2665,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 7,
         "putouts": 43,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 99,
         "caughtStealing": 2,
@@ -3170,7 +3170,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.4,
-        "walksHits": 11
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8044",
@@ -3312,7 +3312,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "hitBatters": 9,
         "balks": 0,
         "opponentsBattingAverage": 0.268,
-        "walksHits": 45
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7805",
@@ -3330,7 +3330,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -3452,7 +3452,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 13,
-        "assists": 13,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 70,
         "caughtStealing": 0,
@@ -3490,7 +3490,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "hitBatters": 5,
         "balks": 1,
         "opponentsBattingAverage": 0.364,
-        "walksHits": 15
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8036",
@@ -3508,7 +3508,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 30
@@ -3632,7 +3632,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.207,
-        "walksHits": 23
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8037",
@@ -3650,7 +3650,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -3774,7 +3774,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.212,
-        "walksHits": 16
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8040",
@@ -3792,7 +3792,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -3916,7 +3916,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.37,
-        "walksHits": 12
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4038,7 +4038,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "hitBatters": 12,
         "balks": 0,
         "opponentsBattingAverage": 0.239,
-        "walksHits": 59
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7807",
@@ -4305,7 +4305,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.34,
-        "walksHits": 56
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7817",
@@ -4323,7 +4323,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -4445,7 +4445,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "stolenBases": 13,
         "stolenBasesAttempts": 16,
         "putouts": 87,
-        "assists": 1,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 158,
         "caughtStealing": 3,
@@ -4590,7 +4590,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
         "putouts": 32,
-        "assists": 72,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 133,
         "caughtStealing": 0,
@@ -4628,7 +4628,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.4,
-        "walksHits": 11
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8043",
@@ -4858,7 +4858,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.205,
-        "walksHits": 23
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8032",
@@ -5233,7 +5233,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.238,
-        "walksHits": 71
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7804",
@@ -5251,7 +5251,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.4,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 12
@@ -5375,7 +5375,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.269,
-        "walksHits": 15
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -5497,7 +5497,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.455,
-        "walksHits": 6
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8054",
@@ -5639,7 +5639,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "hitBatters": 3,
         "balks": 1,
         "opponentsBattingAverage": 0.188,
-        "walksHits": 20
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8058",

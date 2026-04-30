@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.charlotte2026 = {
-  "generatedAt": "2026-04-29T11:54:54.767Z",
+  "generatedAt": "2026-04-30T11:53:51.376Z",
   "season": 2026,
   "school": {
     "slug": "charlotte",
@@ -189,7 +189,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 8,
-        "assists": 6,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 26,
         "caughtStealing": 0,
@@ -334,7 +334,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 37,
-        "assists": 94,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 183,
         "caughtStealing": 0,
@@ -479,7 +479,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 6,
         "putouts": 32,
-        "assists": 4,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 74,
         "caughtStealing": 1,
@@ -624,7 +624,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 8,
         "putouts": 53,
-        "assists": 77,
+        "assists": 0,
         "errors": 9,
         "plateAppearances": 197,
         "caughtStealing": 2,
@@ -769,7 +769,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 6,
         "putouts": 62,
-        "assists": 2,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 193,
         "caughtStealing": 1,
@@ -916,7 +916,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 1,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -1038,7 +1038,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "hitBatters": 5,
         "balks": 2,
         "opponentsBattingAverage": 0.296,
-        "walksHits": 79
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13057",
@@ -1056,7 +1056,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 17
@@ -1178,7 +1178,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 320,
-        "assists": 36,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 163,
         "caughtStealing": 0,
@@ -1201,7 +1201,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "doublePlays": 4,
         "stolenBasesAgainst": 46,
         "caughtStealingBy": 13,
-        "stolenBasesPercentage": 0.78,
+        "stolenBasesPercentage": null,
         "passedBalls": 3,
         "catchersInterference": 0,
         "totalChances": 356
@@ -1325,7 +1325,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "hitBatters": 0,
         "balks": 1,
         "opponentsBattingAverage": 0.309,
-        "walksHits": 36
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13068",
@@ -1343,7 +1343,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -1465,7 +1465,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 5,
         "putouts": 12,
-        "assists": 46,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 115,
         "caughtStealing": 0,
@@ -1610,7 +1610,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 75,
-        "assists": 8,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 192,
         "caughtStealing": 0,
@@ -1757,7 +1757,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "hitBatters": 5,
         "balks": 3,
         "opponentsBattingAverage": 0.269,
-        "walksHits": 62
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13081",
@@ -1775,7 +1775,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "doublePlays": 3,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 10
@@ -1897,7 +1897,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 265,
-        "assists": 38,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 203,
         "caughtStealing": 0,
@@ -2042,7 +2042,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 11,
         "putouts": 94,
-        "assists": 40,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 230,
         "caughtStealing": 2,
@@ -2189,7 +2189,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.257,
-        "walksHits": 42
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13056",
@@ -2207,7 +2207,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -2331,7 +2331,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.316,
-        "walksHits": 34
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13085",
@@ -2349,7 +2349,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -2471,7 +2471,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 5,
         "putouts": 74,
-        "assists": 4,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 186,
         "caughtStealing": 2,
@@ -2618,7 +2618,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "hitBatters": 3,
         "balks": 2,
         "opponentsBattingAverage": 0.289,
-        "walksHits": 37
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13058",
@@ -2636,7 +2636,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -2760,7 +2760,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.295,
-        "walksHits": 78
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13084",
@@ -2778,7 +2778,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.889,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 11
@@ -2902,7 +2902,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.248,
-        "walksHits": 67
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13059",
@@ -2920,7 +2920,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.727,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -3044,7 +3044,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.308,
-        "walksHits": 58
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13072",
@@ -3062,7 +3062,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.25,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -3186,7 +3186,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.286,
-        "walksHits": 39
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13076",
@@ -3204,7 +3204,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.571,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -3328,7 +3328,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.2,
-        "walksHits": 20
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13070",
@@ -3346,7 +3346,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.857,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -3470,7 +3470,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.2,
-        "walksHits": 8
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13053",
@@ -3488,7 +3488,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -3786,7 +3786,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 44,
-        "assists": 4,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 40,
         "caughtStealing": 0,
@@ -3809,7 +3809,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 10,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.909,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 48
@@ -4091,7 +4091,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 46
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13077",
@@ -4109,7 +4109,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -4233,7 +4233,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.667,
-        "walksHits": 2
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13080",
@@ -4251,7 +4251,7 @@ window.__BASEBALL_DATASETS__.charlotte2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0

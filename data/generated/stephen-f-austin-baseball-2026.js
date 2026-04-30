@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
-  "generatedAt": "2026-04-29T11:55:31.696Z",
+  "generatedAt": "2026-04-30T11:54:32.157Z",
   "season": 2026,
   "school": {
     "slug": "stephen-f-austin",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "stolenBases": 24,
         "stolenBasesAttempts": 25,
         "putouts": 80,
-        "assists": 1,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 220,
         "caughtStealing": 1,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 196,
-        "assists": 19,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 92,
         "caughtStealing": 0,
@@ -353,7 +353,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 20,
         "caughtStealingBy": 6,
-        "stolenBasesPercentage": 0.769,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 216
@@ -475,7 +475,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 38,
-        "assists": 61,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 89,
         "caughtStealing": 0,
@@ -620,7 +620,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 176,
-        "assists": 11,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 200,
         "caughtStealing": 0,
@@ -643,7 +643,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 27,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.9,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 193
@@ -912,7 +912,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.291,
-        "walksHits": 39
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7820",
@@ -1052,7 +1052,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "stolenBases": 7,
         "stolenBasesAttempts": 7,
         "putouts": 24,
-        "assists": 57,
+        "assists": 0,
         "errors": 8,
         "plateAppearances": 84,
         "caughtStealing": 0,
@@ -1197,7 +1197,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
         "putouts": 6,
-        "assists": 2,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 30,
         "caughtStealing": 1,
@@ -1432,7 +1432,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "hitBatters": 2,
         "balks": 3,
         "opponentsBattingAverage": 0.255,
-        "walksHits": 61
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7831",
@@ -1450,7 +1450,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -1572,7 +1572,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 33,
-        "assists": 60,
+        "assists": 0,
         "errors": 13,
         "plateAppearances": 177,
         "caughtStealing": 0,
@@ -1717,7 +1717,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "stolenBases": 8,
         "stolenBasesAttempts": 8,
         "putouts": 62,
-        "assists": 2,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 127,
         "caughtStealing": 0,
@@ -1864,7 +1864,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.259,
-        "walksHits": 35
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7864",
@@ -1882,7 +1882,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -2006,7 +2006,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.301,
-        "walksHits": 95
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7836",
@@ -2024,7 +2024,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 13
@@ -2146,7 +2146,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 7,
         "putouts": 340,
-        "assists": 21,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 194,
         "caughtStealing": 2,
@@ -2293,7 +2293,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.327,
-        "walksHits": 23
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7832",
@@ -2435,7 +2435,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.278,
-        "walksHits": 23
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7824",
@@ -2575,7 +2575,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 18,
-        "assists": 18,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 58,
         "caughtStealing": 0,
@@ -2722,7 +2722,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.36,
-        "walksHits": 19
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7865",
@@ -2862,7 +2862,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
         "putouts": 19,
-        "assists": 2,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 135,
         "caughtStealing": 1,
@@ -3009,7 +3009,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.278,
-        "walksHits": 38
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7823",
@@ -3149,7 +3149,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 14,
         "putouts": 46,
-        "assists": 100,
+        "assists": 0,
         "errors": 10,
         "plateAppearances": 223,
         "caughtStealing": 5,
@@ -3296,7 +3296,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.28,
-        "walksHits": 20
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7862",
@@ -3314,7 +3314,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -3459,7 +3459,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 26
@@ -3583,7 +3583,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.288,
-        "walksHits": 24
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7856",
@@ -3601,7 +3601,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -3725,7 +3725,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.312,
-        "walksHits": 60
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7857",
@@ -3955,7 +3955,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.345,
-        "walksHits": 16
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7852",
@@ -3973,7 +3973,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4133,7 +4133,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.277,
-        "walksHits": 18
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7863",
@@ -4275,7 +4275,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.302,
-        "walksHits": 22
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7853",
@@ -4417,7 +4417,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.423,
-        "walksHits": 28
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7838",
@@ -4559,7 +4559,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.225,
-        "walksHits": 30
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7830",
@@ -4793,7 +4793,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right Handed Pitcher",
-      "classYear": "SR",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "41",
       "hometown": "Canyon Lake, Texas",
@@ -4846,7 +4846,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.328,
-        "walksHits": 31
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7855",
@@ -4914,10 +4914,10 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
             "value": "15.7"
           }
         ],
-        "metaLine": "SR / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SR",
+          "JR",
           "R/R",
           "Pitcher"
         ],
@@ -4986,7 +4986,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "stolenBases": 7,
         "stolenBasesAttempts": 11,
         "putouts": 64,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 179,
         "caughtStealing": 4,
@@ -5133,7 +5133,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 27
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7837",
@@ -5151,7 +5151,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -5400,7 +5400,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.365,
-        "walksHits": 38
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "7859",
@@ -5540,7 +5540,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 8,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 23,
         "caughtStealing": 0,
@@ -8090,7 +8090,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "school": "Stephen F. Austin",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SR",
+        "classYear": "JR",
         "handedness": "R/R",
         "score": 8,
         "fit": {
@@ -8136,10 +8136,10 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           "Command": 8.888888888888888,
           "Damage suppression": 0
         },
-        "metaLine": "SR / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SR",
+          "JR",
           "R/R",
           "Pitcher"
         ],

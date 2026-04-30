@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.tulane2026 = {
-  "generatedAt": "2026-04-29T11:55:36.412Z",
+  "generatedAt": "2026-04-30T11:54:37.282Z",
   "season": 2026,
   "school": {
     "slug": "tulane",
@@ -187,7 +187,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.304,
-        "walksHits": 65
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "16922",
@@ -205,7 +205,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -327,7 +327,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 19,
-        "assists": 35,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 105,
         "caughtStealing": 0,
@@ -472,7 +472,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "stolenBases": 8,
         "stolenBasesAttempts": 12,
         "putouts": 56,
-        "assists": 131,
+        "assists": 0,
         "errors": 11,
         "plateAppearances": 230,
         "caughtStealing": 4,
@@ -617,7 +617,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "stolenBases": 18,
         "stolenBasesAttempts": 20,
         "putouts": 98,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 234,
         "caughtStealing": 2,
@@ -762,7 +762,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 11,
-        "assists": 11,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 39,
         "caughtStealing": 0,
@@ -907,7 +907,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 6,
         "putouts": 0,
-        "assists": 6,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 77,
         "caughtStealing": 1,
@@ -1052,7 +1052,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 6,
         "putouts": 46,
-        "assists": 7,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 165,
         "caughtStealing": 1,
@@ -1199,7 +1199,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0,
-        "walksHits": 1
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -1444,7 +1444,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "stolenBases": 14,
         "stolenBasesAttempts": 17,
         "putouts": 81,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 208,
         "caughtStealing": 3,
@@ -1591,7 +1591,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.19,
-        "walksHits": 36
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "16928",
@@ -1733,7 +1733,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.219,
-        "walksHits": 13
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "16929",
@@ -1751,7 +1751,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -1875,7 +1875,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.303,
-        "walksHits": 42
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "16930",
@@ -1893,7 +1893,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -2053,7 +2053,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.167,
-        "walksHits": 15
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "16422",
@@ -2071,7 +2071,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -2193,7 +2193,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 8,
-        "assists": 11,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 29,
         "caughtStealing": 1,
@@ -2338,7 +2338,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
         "putouts": 62,
-        "assists": 1,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 218,
         "caughtStealing": 1,
@@ -2483,7 +2483,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 236,
-        "assists": 16,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 126,
         "caughtStealing": 1,
@@ -2506,7 +2506,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "doublePlays": 2,
         "stolenBasesAgainst": 38,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.905,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 254
@@ -2718,7 +2718,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.249,
-        "walksHits": 70
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "16433",
@@ -2736,7 +2736,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 11
@@ -2858,7 +2858,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
         "putouts": 261,
-        "assists": 13,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 165,
         "caughtStealing": 0,
@@ -3003,7 +3003,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
         "putouts": 104,
-        "assists": 81,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 159,
         "caughtStealing": 1,
@@ -3150,7 +3150,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.287,
-        "walksHits": 41
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "16934",
@@ -3168,7 +3168,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -3290,7 +3290,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 13,
-        "assists": 23,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 53,
         "caughtStealing": 0,
@@ -3437,7 +3437,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.275,
-        "walksHits": 35
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "16936",
@@ -3579,7 +3579,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "hitBatters": 2,
         "balks": 1,
         "opponentsBattingAverage": 0.556,
-        "walksHits": 6
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "16420",
@@ -3597,7 +3597,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -3721,7 +3721,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.304,
-        "walksHits": 12
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3843,7 +3843,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.276,
-        "walksHits": 51
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "16937",
@@ -3861,7 +3861,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -4130,7 +4130,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.235,
-        "walksHits": 31
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "16939",
@@ -4358,7 +4358,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 156,
-        "assists": 10,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 65,
         "caughtStealing": 0,
@@ -4381,7 +4381,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "doublePlays": 4,
         "stolenBasesAgainst": 25,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.862,
+        "stolenBasesPercentage": null,
         "passedBalls": 8,
         "catchersInterference": 0,
         "totalChances": 170
@@ -4505,7 +4505,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 15
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4715,7 +4715,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.158,
-        "walksHits": 35
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "16943",
@@ -4857,7 +4857,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.245,
-        "walksHits": 49
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "16435",
@@ -4999,7 +4999,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.167,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -5121,7 +5121,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "hitBatters": 9,
         "balks": 0,
         "opponentsBattingAverage": 0.327,
-        "walksHits": 91
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "16418",
@@ -5139,7 +5139,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7

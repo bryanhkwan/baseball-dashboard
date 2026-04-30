@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.bucknell2026 = {
-  "generatedAt": "2026-04-29T11:54:53.202Z",
+  "generatedAt": "2026-04-30T11:53:49.492Z",
   "season": 2026,
   "school": {
     "slug": "bucknell",
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 69,
-        "assists": 92,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 158,
         "caughtStealing": 0,
@@ -475,7 +475,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 7,
         "putouts": 81,
-        "assists": 99,
+        "assists": 0,
         "errors": 13,
         "plateAppearances": 198,
         "caughtStealing": 1,
@@ -498,7 +498,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "doublePlays": 17,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.556,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 193
@@ -620,7 +620,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
         "putouts": 29,
-        "assists": 4,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 73,
         "caughtStealing": 1,
@@ -765,7 +765,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 212,
-        "assists": 16,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 107,
         "caughtStealing": 0,
@@ -788,7 +788,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 66,
         "caughtStealingBy": 10,
-        "stolenBasesPercentage": 0.868,
+        "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 0,
         "totalChances": 231
@@ -910,7 +910,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 174,
-        "assists": 8,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 106,
         "caughtStealing": 0,
@@ -1055,7 +1055,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 54,
-        "assists": 8,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 27,
         "caughtStealing": 0,
@@ -1078,7 +1078,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 19,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.905,
+        "stolenBasesPercentage": null,
         "passedBalls": 5,
         "catchersInterference": 0,
         "totalChances": 65
@@ -1200,7 +1200,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 6,
-        "assists": 6,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 17,
         "caughtStealing": 0,
@@ -1347,7 +1347,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "hitBatters": 8,
         "balks": 0,
         "opponentsBattingAverage": 0.297,
-        "walksHits": 78
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13434",
@@ -1365,7 +1365,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 12,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 10
@@ -1632,7 +1632,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 9,
         "putouts": 98,
-        "assists": 1,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 206,
         "caughtStealing": 4,
@@ -1777,7 +1777,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 152,
-        "assists": 8,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 88,
         "caughtStealing": 0,
@@ -1922,7 +1922,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 0,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 3,
         "caughtStealing": 0,
@@ -2067,7 +2067,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 28,
-        "assists": 72,
+        "assists": 0,
         "errors": 9,
         "plateAppearances": 185,
         "caughtStealing": 0,
@@ -2090,7 +2090,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "doublePlays": 5,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 109
@@ -2214,7 +2214,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "hitBatters": 11,
         "balks": 0,
         "opponentsBattingAverage": 0.289,
-        "walksHits": 43
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13436",
@@ -2232,7 +2232,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -2356,7 +2356,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.198,
-        "walksHits": 34
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13415",
@@ -2374,7 +2374,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -2496,7 +2496,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 16,
-        "assists": 6,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 17,
         "caughtStealing": 0,
@@ -2519,7 +2519,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.25,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 22
@@ -2643,7 +2643,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.412,
-        "walksHits": 14
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13433",
@@ -2661,7 +2661,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -2785,7 +2785,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.228,
-        "walksHits": 34
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13438",
@@ -2803,7 +2803,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -2927,7 +2927,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.4,
-        "walksHits": 11
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13425",
@@ -2945,7 +2945,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -3069,7 +3069,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "hitBatters": 5,
         "balks": 1,
         "opponentsBattingAverage": 0.221,
-        "walksHits": 47
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13446",
@@ -3087,7 +3087,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -3211,7 +3211,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "hitBatters": 6,
         "balks": 1,
         "opponentsBattingAverage": 0.27,
-        "walksHits": 72
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13427",
@@ -3229,7 +3229,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 20,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.952,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 10
@@ -3441,7 +3441,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.357,
-        "walksHits": 30
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13447",
@@ -3459,7 +3459,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.429,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -3671,7 +3671,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.323,
-        "walksHits": 34
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13417",
@@ -3689,7 +3689,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.857,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -3813,7 +3813,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.273,
-        "walksHits": 5
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13445",
@@ -3831,7 +3831,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -3955,7 +3955,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.357,
-        "walksHits": 45
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13428",
@@ -3973,7 +3973,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.778,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -4097,7 +4097,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.24,
-        "walksHits": 72
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13449",
@@ -4115,7 +4115,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.7,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 16
@@ -4237,7 +4237,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 60,
-        "assists": 3,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 197,
         "caughtStealing": 0,
@@ -4384,7 +4384,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.381,
-        "walksHits": 32
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13423",
@@ -4402,7 +4402,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4759,7 +4759,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.667,
-        "walksHits": 5
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4879,7 +4879,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 64,
-        "assists": 5,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 121,
         "caughtStealing": 1,
@@ -5026,7 +5026,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "hitBatters": 3,
         "balks": 1,
         "opponentsBattingAverage": 0.205,
-        "walksHits": 27
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13431",
@@ -5044,7 +5044,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -5168,7 +5168,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.226,
-        "walksHits": 32
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13430",
@@ -5186,7 +5186,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.857,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2

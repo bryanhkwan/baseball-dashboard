@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.west-virginia2026 = {
-  "generatedAt": "2026-04-29T11:55:40.396Z",
+  "generatedAt": "2026-04-30T11:54:42.389Z",
   "season": 2026,
   "school": {
     "slug": "west-virginia",
@@ -189,7 +189,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 7,
         "putouts": 218,
-        "assists": 14,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 177,
         "caughtStealing": 2,
@@ -212,7 +212,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 17,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.85,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 236
@@ -456,7 +456,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 9,
         "putouts": 209,
-        "assists": 59,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 203,
         "caughtStealing": 6,
@@ -479,7 +479,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "doublePlays": 13,
         "stolenBasesAgainst": 15,
         "caughtStealingBy": 8,
-        "stolenBasesPercentage": 0.652,
+        "stolenBasesPercentage": null,
         "passedBalls": 3,
         "catchersInterference": 0,
         "totalChances": 273
@@ -834,7 +834,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "stolenBases": 24,
         "stolenBasesAttempts": 27,
         "putouts": 196,
-        "assists": 13,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 208,
         "caughtStealing": 3,
@@ -979,7 +979,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "stolenBases": 19,
         "stolenBasesAttempts": 23,
         "putouts": 75,
-        "assists": 4,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 217,
         "caughtStealing": 4,
@@ -1269,7 +1269,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "stolenBases": 15,
         "stolenBasesAttempts": 16,
         "putouts": 20,
-        "assists": 80,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 173,
         "caughtStealing": 1,
@@ -1416,7 +1416,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.5,
-        "walksHits": 2
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19277",
@@ -1558,7 +1558,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.243,
-        "walksHits": 19
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19322",
@@ -1843,7 +1843,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 111,
-        "assists": 41,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 130,
         "caughtStealing": 0,
@@ -2133,7 +2133,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 2,
-        "assists": 3,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 10,
         "caughtStealing": 0,
@@ -2280,7 +2280,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "hitBatters": 9,
         "balks": 0,
         "opponentsBattingAverage": 0.237,
-        "walksHits": 60
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19288",
@@ -2298,7 +2298,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -2420,7 +2420,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
         "putouts": 62,
-        "assists": 2,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 166,
         "caughtStealing": 1,
@@ -2565,7 +2565,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 6,
         "putouts": 42,
-        "assists": 96,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 207,
         "caughtStealing": 3,
@@ -2712,7 +2712,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.247,
-        "walksHits": 44
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19308",
@@ -2730,7 +2730,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -2852,7 +2852,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 10,
-        "assists": 16,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 39,
         "caughtStealing": 0,
@@ -3087,7 +3087,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 9
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19321",
@@ -3229,7 +3229,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.194,
-        "walksHits": 29
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19276",
@@ -3247,7 +3247,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -3369,7 +3369,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 49,
-        "assists": 4,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 46,
         "caughtStealing": 0,
@@ -3516,7 +3516,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.5,
-        "walksHits": 10
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3726,7 +3726,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.239,
-        "walksHits": 42
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19270",
@@ -3868,7 +3868,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.249,
-        "walksHits": 78
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19311",
@@ -4010,7 +4010,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19312",
@@ -4152,7 +4152,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.667,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4274,7 +4274,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.214,
-        "walksHits": 15
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4396,7 +4396,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.22,
-        "walksHits": 69
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19301",
@@ -4414,7 +4414,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -4735,7 +4735,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 25
@@ -4859,7 +4859,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.253,
-        "walksHits": 31
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19273",
@@ -4877,7 +4877,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -5001,7 +5001,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.243,
-        "walksHits": 29
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19313",
@@ -5143,7 +5143,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.32,
-        "walksHits": 14
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19287",
@@ -5285,7 +5285,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.1,
-        "walksHits": 7
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19306",
@@ -5303,7 +5303,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -5572,7 +5572,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.273,
-        "walksHits": 7
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19318",
@@ -5714,7 +5714,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.5,
-        "walksHits": 2
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -5836,7 +5836,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.231,
-        "walksHits": 8
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19284",

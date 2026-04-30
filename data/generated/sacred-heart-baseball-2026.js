@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.sacred-heart2026 = {
-  "generatedAt": "2026-04-29T11:55:27.366Z",
+  "generatedAt": "2026-04-30T11:54:27.806Z",
   "season": 2026,
   "school": {
     "slug": "sacred-heart",
@@ -101,7 +101,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
       "strikeouts": "187",
       "battersFaced": "1662",
       "opponentAtBats": "1313",
-      "doublesAllowed": "74",
+      "doublesAllowed": "75",
       "triplesAllowed": "12",
       "homerunsAllowed": "43",
       "wildPitches": "52",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 15,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 35,
         "caughtStealing": 0,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 5,
         "putouts": 70,
-        "assists": 57,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 89,
         "caughtStealing": 2,
@@ -475,7 +475,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 4,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 28,
         "caughtStealing": 0,
@@ -620,7 +620,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 8,
         "putouts": 26,
-        "assists": 35,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 86,
         "caughtStealing": 3,
@@ -767,7 +767,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.274,
-        "walksHits": 101
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17605",
@@ -785,7 +785,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.889,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 13
@@ -907,7 +907,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "stolenBases": 7,
         "stolenBasesAttempts": 8,
         "putouts": 45,
-        "assists": 81,
+        "assists": 0,
         "errors": 13,
         "plateAppearances": 153,
         "caughtStealing": 1,
@@ -1052,7 +1052,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "stolenBases": 17,
         "stolenBasesAttempts": 19,
         "putouts": 62,
-        "assists": 2,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 156,
         "caughtStealing": 2,
@@ -1197,7 +1197,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 72,
-        "assists": 10,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 59,
         "caughtStealing": 0,
@@ -1220,7 +1220,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 28,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.903,
+        "stolenBasesPercentage": null,
         "passedBalls": 7,
         "catchersInterference": 0,
         "totalChances": 84
@@ -1342,7 +1342,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "stolenBases": 15,
         "stolenBasesAttempts": 20,
         "putouts": 34,
-        "assists": 78,
+        "assists": 0,
         "errors": 13,
         "plateAppearances": 197,
         "caughtStealing": 5,
@@ -1577,7 +1577,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 19
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17612",
@@ -1595,7 +1595,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -1717,7 +1717,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 0,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 26,
         "caughtStealing": 0,
@@ -1862,7 +1862,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 14,
-        "assists": 26,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 49,
         "caughtStealing": 0,
@@ -2009,7 +2009,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.315,
-        "walksHits": 45
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17614",
@@ -2027,7 +2027,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -2151,7 +2151,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.323,
-        "walksHits": 34
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17615",
@@ -2169,7 +2169,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -2291,7 +2291,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
         "putouts": 106,
-        "assists": 1,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 177,
         "caughtStealing": 0,
@@ -2438,7 +2438,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "hitBatters": 1,
         "balks": 3,
         "opponentsBattingAverage": 0.33,
-        "walksHits": 100
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17602",
@@ -2456,7 +2456,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.6,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 14
@@ -2660,7 +2660,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "earnedRunsAllowed": 27,
         "walksAllowed": 19,
         "strikeouts": 11,
-        "doublesAllowed": 10,
+        "doublesAllowed": 11,
         "triplesAllowed": 1,
         "homeRunsAllowed": 2,
         "opponentsAtBats": 77,
@@ -2668,7 +2668,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "hitBatters": 11,
         "balks": 1,
         "opponentsBattingAverage": 0.351,
-        "walksHits": 46
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17617",
@@ -2686,7 +2686,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -2953,7 +2953,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 121,
-        "assists": 23,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 96,
         "caughtStealing": 1,
@@ -2976,7 +2976,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "doublePlays": 2,
         "stolenBasesAgainst": 28,
         "caughtStealingBy": 12,
-        "stolenBasesPercentage": 0.7,
+        "stolenBasesPercentage": null,
         "passedBalls": 6,
         "catchersInterference": 0,
         "totalChances": 147
@@ -3313,7 +3313,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "hitBatters": 7,
         "balks": 3,
         "opponentsBattingAverage": 0.421,
-        "walksHits": 17
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17606",
@@ -3331,7 +3331,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -3453,7 +3453,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 80,
-        "assists": 3,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 152,
         "caughtStealing": 1,
@@ -3600,7 +3600,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.326,
-        "walksHits": 49
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17608",
@@ -3618,7 +3618,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -3887,7 +3887,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "hitBatters": 11,
         "balks": 2,
         "opponentsBattingAverage": 0.258,
-        "walksHits": 44
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17623",
@@ -3905,7 +3905,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4029,7 +4029,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.259,
-        "walksHits": 13
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17596",
@@ -4047,7 +4047,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -4171,7 +4171,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "hitBatters": 10,
         "balks": 0,
         "opponentsBattingAverage": 0.316,
-        "walksHits": 62
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17598",
@@ -4189,7 +4189,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -4313,7 +4313,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 24
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17624",
@@ -4453,7 +4453,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 268,
-        "assists": 11,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 151,
         "caughtStealing": 0,
@@ -4600,7 +4600,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 3
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17626",
@@ -4618,7 +4618,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -4742,7 +4742,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "hitBatters": 1,
         "balks": 1,
         "opponentsBattingAverage": 0.255,
-        "walksHits": 30
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17610",
@@ -4760,7 +4760,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4884,7 +4884,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.303,
-        "walksHits": 29
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17627",
@@ -4902,7 +4902,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.833,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -5114,7 +5114,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.167,
-        "walksHits": 15
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17629",

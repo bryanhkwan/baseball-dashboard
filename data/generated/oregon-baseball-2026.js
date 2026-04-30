@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.oregon2026 = {
-  "generatedAt": "2026-04-29T11:55:19.639Z",
+  "generatedAt": "2026-04-30T11:54:20.658Z",
   "season": 2026,
   "school": {
     "slug": "oregon",
@@ -477,7 +477,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "hitBatters": 7,
         "balks": 1,
         "opponentsBattingAverage": 0.22,
-        "walksHits": 33
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17573",
@@ -617,7 +617,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 340,
-        "assists": 23,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 137,
         "caughtStealing": 1,
@@ -640,7 +640,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 9,
         "caughtStealingBy": 8,
-        "stolenBasesPercentage": 0.529,
+        "stolenBasesPercentage": null,
         "passedBalls": 3,
         "catchersInterference": 0,
         "totalChances": 367
@@ -762,7 +762,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "stolenBases": 14,
         "stolenBasesAttempts": 16,
         "putouts": 82,
-        "assists": 2,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 164,
         "caughtStealing": 2,
@@ -907,7 +907,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "stolenBases": 8,
         "stolenBasesAttempts": 8,
         "putouts": 74,
-        "assists": 1,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 207,
         "caughtStealing": 0,
@@ -1052,7 +1052,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 42,
-        "assists": 84,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 196,
         "caughtStealing": 0,
@@ -1199,7 +1199,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "hitBatters": 12,
         "balks": 0,
         "opponentsBattingAverage": 0.232,
-        "walksHits": 69
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17548",
@@ -1217,7 +1217,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 17
@@ -1339,7 +1339,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 8,
         "putouts": 201,
-        "assists": 11,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 131,
         "caughtStealing": 3,
@@ -1362,7 +1362,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "doublePlays": 12,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 216
@@ -1484,7 +1484,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "stolenBases": 12,
         "stolenBasesAttempts": 14,
         "putouts": 58,
-        "assists": 102,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 227,
         "caughtStealing": 2,
@@ -1631,7 +1631,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "hitBatters": 5,
         "balks": 1,
         "opponentsBattingAverage": 0.215,
-        "walksHits": 44
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18219",
@@ -1649,7 +1649,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.333,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -1771,7 +1771,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 7,
         "putouts": 24,
-        "assists": 73,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 202,
         "caughtStealing": 3,
@@ -2061,7 +2061,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 6,
-        "assists": 6,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 5,
         "caughtStealing": 0,
@@ -2208,7 +2208,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.295,
-        "walksHits": 35
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17565",
@@ -2226,7 +2226,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -2438,7 +2438,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 2
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -2703,7 +2703,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 212,
-        "assists": 15,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 129,
         "caughtStealing": 0,
@@ -2850,7 +2850,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "hitBatters": 10,
         "balks": 1,
         "opponentsBattingAverage": 0.18,
-        "walksHits": 64
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17571",
@@ -2868,7 +2868,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -2992,7 +2992,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.145,
-        "walksHits": 31
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17545",
@@ -3010,7 +3010,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -3134,7 +3134,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 9
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18224",
@@ -3276,7 +3276,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 1
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3396,7 +3396,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 0,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 20,
         "caughtStealing": 0,
@@ -3541,7 +3541,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 3,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 8,
         "caughtStealing": 0,
@@ -3688,7 +3688,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.208,
-        "walksHits": 44
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18227",
@@ -3706,7 +3706,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.25,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -3830,7 +3830,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.154,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3952,7 +3952,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.273,
-        "walksHits": 18
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17574",
@@ -3970,7 +3970,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -4094,7 +4094,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.31,
-        "walksHits": 19
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18228",
@@ -4236,7 +4236,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.4,
-        "walksHits": 6
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4358,7 +4358,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.125,
-        "walksHits": 9
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18230",
@@ -4498,7 +4498,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 12,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 146,
         "caughtStealing": 1,
@@ -4645,7 +4645,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.154,
-        "walksHits": 8
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17552",
@@ -4787,7 +4787,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.188,
-        "walksHits": 10
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17550",
@@ -4929,7 +4929,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.267,
-        "walksHits": 7
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -5196,7 +5196,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0,
-        "walksHits": 1
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -5318,7 +5318,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.191,
-        "walksHits": 22
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18235",
@@ -5336,7 +5336,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.6,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -5460,7 +5460,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.218,
-        "walksHits": 27
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18236",
@@ -5478,7 +5478,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2

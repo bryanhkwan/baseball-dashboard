@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.san-francisco2026 = {
-  "generatedAt": "2026-04-29T11:55:27.975Z",
+  "generatedAt": "2026-04-30T11:54:28.663Z",
   "season": 2026,
   "school": {
     "slug": "san-francisco",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 47,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 105,
         "caughtStealing": 0,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 6,
         "putouts": 22,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 71,
         "caughtStealing": 1,
@@ -475,7 +475,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 20,
-        "assists": 34,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 57,
         "caughtStealing": 1,
@@ -745,7 +745,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 99,
-        "assists": 2,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 195,
         "caughtStealing": 0,
@@ -890,7 +890,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 45,
-        "assists": 58,
+        "assists": 0,
         "errors": 10,
         "plateAppearances": 112,
         "caughtStealing": 0,
@@ -1035,7 +1035,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
         "putouts": 28,
-        "assists": 2,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 55,
         "caughtStealing": 1,
@@ -1182,7 +1182,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.538,
-        "walksHits": 10
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "6256",
@@ -1324,7 +1324,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.16,
-        "walksHits": 36
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "6258",
@@ -1342,7 +1342,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.333,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -1464,7 +1464,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 20,
-        "assists": 60,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 120,
         "caughtStealing": 0,
@@ -1609,7 +1609,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "stolenBases": 8,
         "stolenBasesAttempts": 8,
         "putouts": 71,
-        "assists": 113,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 182,
         "caughtStealing": 0,
@@ -1756,7 +1756,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "hitBatters": 4,
         "balks": 2,
         "opponentsBattingAverage": 0.298,
-        "walksHits": 31
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "6253",
@@ -1774,7 +1774,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -1898,7 +1898,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "hitBatters": 0,
         "balks": 1,
         "opponentsBattingAverage": 0.265,
-        "walksHits": 19
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "6362",
@@ -1916,7 +1916,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -2040,7 +2040,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.288,
-        "walksHits": 28
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "6363",
@@ -2058,7 +2058,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -2182,7 +2182,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.303,
-        "walksHits": 67
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "6364",
@@ -2200,7 +2200,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 5,
-        "stolenBasesPercentage": 0.444,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 10
@@ -2324,7 +2324,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "hitBatters": 2,
         "balks": 1,
         "opponentsBattingAverage": 0.324,
-        "walksHits": 37
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "6365",
@@ -2342,7 +2342,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -2466,7 +2466,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.203,
-        "walksHits": 25
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "6366",
@@ -2484,7 +2484,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -2608,7 +2608,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "hitBatters": 9,
         "balks": 1,
         "opponentsBattingAverage": 0.18,
-        "walksHits": 57
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "6367",
@@ -2626,7 +2626,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 6,
-        "stolenBasesPercentage": 0.455,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -2748,7 +2748,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
         "putouts": 20,
-        "assists": 36,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 84,
         "caughtStealing": 1,
@@ -2893,7 +2893,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 4,
-        "assists": 6,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 11,
         "caughtStealing": 0,
@@ -3040,7 +3040,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.583,
-        "walksHits": 8
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3248,7 +3248,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 176,
-        "assists": 22,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 117,
         "caughtStealing": 0,
@@ -3271,7 +3271,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "doublePlays": 6,
         "stolenBasesAgainst": 14,
         "caughtStealingBy": 9,
-        "stolenBasesPercentage": 0.609,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 201
@@ -3540,7 +3540,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.309,
-        "walksHits": 33
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "6243",
@@ -3558,7 +3558,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -3682,7 +3682,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.313,
-        "walksHits": 26
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "6371",
@@ -4093,7 +4093,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.409,
-        "walksHits": 14
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "6374",
@@ -4233,7 +4233,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 1,
-        "assists": 2,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 8,
         "caughtStealing": 0,
@@ -4380,7 +4380,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.286,
-        "walksHits": 21
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "6376",
@@ -4522,7 +4522,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.162,
-        "walksHits": 21
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "6262",
@@ -4664,7 +4664,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "hitBatters": 5,
         "balks": 2,
         "opponentsBattingAverage": 0.277,
-        "walksHits": 16
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4784,7 +4784,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 15,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 7,
         "caughtStealing": 0,
@@ -4807,7 +4807,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 16
@@ -4931,7 +4931,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.344,
-        "walksHits": 15
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "6379",
@@ -4949,7 +4949,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -5073,7 +5073,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.241,
-        "walksHits": 20
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "6380",
@@ -5215,7 +5215,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "hitBatters": 7,
         "balks": 1,
         "opponentsBattingAverage": 0.324,
-        "walksHits": 85
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "6244",
@@ -5233,7 +5233,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.6,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 12
@@ -5443,7 +5443,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 227,
-        "assists": 13,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 124,
         "caughtStealing": 1,
@@ -5590,7 +5590,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.438,
-        "walksHits": 9
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "6252",
@@ -5730,7 +5730,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 194,
-        "assists": 25,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 96,
         "caughtStealing": 0,
@@ -5753,7 +5753,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "doublePlays": 3,
         "stolenBasesAgainst": 17,
         "caughtStealingBy": 13,
-        "stolenBasesPercentage": 0.567,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 222

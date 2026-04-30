@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.florida2026 = {
-  "generatedAt": "2026-04-29T11:55:02.213Z",
+  "generatedAt": "2026-04-30T11:53:59.170Z",
   "season": 2026,
   "school": {
     "slug": "florida",
@@ -273,7 +273,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 11,
-        "assists": 13,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 16,
         "caughtStealing": 0,
@@ -418,7 +418,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 2,
         "putouts": 6,
-        "assists": 16,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 55,
         "caughtStealing": 2,
@@ -563,7 +563,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "stolenBases": 16,
         "stolenBasesAttempts": 20,
         "putouts": 91,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 235,
         "caughtStealing": 4,
@@ -708,7 +708,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 33,
-        "assists": 75,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 138,
         "caughtStealing": 1,
@@ -1088,7 +1088,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.5,
-        "walksHits": 3
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -1210,7 +1210,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.258,
-        "walksHits": 47
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18075",
@@ -1228,7 +1228,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -1350,7 +1350,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
         "putouts": 187,
-        "assists": 30,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 210,
         "caughtStealing": 1,
@@ -1495,7 +1495,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "stolenBases": 10,
         "stolenBasesAttempts": 12,
         "putouts": 34,
-        "assists": 59,
+        "assists": 0,
         "errors": 10,
         "plateAppearances": 193,
         "caughtStealing": 2,
@@ -1642,7 +1642,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.24,
-        "walksHits": 78
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18078",
@@ -1660,7 +1660,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -1782,7 +1782,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 110,
-        "assists": 10,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 78,
         "caughtStealing": 0,
@@ -1927,7 +1927,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 355,
-        "assists": 17,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 173,
         "caughtStealing": 0,
@@ -1950,7 +1950,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "doublePlays": 5,
         "stolenBasesAgainst": 38,
         "caughtStealingBy": 9,
-        "stolenBasesPercentage": 0.809,
+        "stolenBasesPercentage": null,
         "passedBalls": 3,
         "catchersInterference": 0,
         "totalChances": 374
@@ -2074,7 +2074,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.192,
-        "walksHits": 31
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18083",
@@ -2214,7 +2214,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 32,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 61,
         "caughtStealing": 0,
@@ -2361,7 +2361,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.233,
-        "walksHits": 44
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18093",
@@ -2379,7 +2379,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -2591,7 +2591,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.2,
-        "walksHits": 21
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18081",
@@ -2731,7 +2731,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 0,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 22,
         "caughtStealing": 0,
@@ -2769,7 +2769,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.273,
-        "walksHits": 35
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18074",
@@ -2787,7 +2787,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -2911,7 +2911,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.143,
-        "walksHits": 26
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18064",
@@ -2929,7 +2929,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.857,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -3053,7 +3053,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.301,
-        "walksHits": 31
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18065",
@@ -3071,7 +3071,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -3281,7 +3281,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
         "putouts": 25,
-        "assists": 46,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 96,
         "caughtStealing": 0,
@@ -3784,7 +3784,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 128,
-        "assists": 12,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 113,
         "caughtStealing": 0,
@@ -3807,7 +3807,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 3,
         "catchersInterference": 1,
         "totalChances": 146
@@ -4076,7 +4076,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.304,
-        "walksHits": 26
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18098",
@@ -4094,7 +4094,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -4306,7 +4306,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0,
-        "walksHits": 1
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4428,7 +4428,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.278,
-        "walksHits": 13
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18100",
@@ -4446,7 +4446,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4570,7 +4570,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.241,
-        "walksHits": 13
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18101",
@@ -4800,7 +4800,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.311,
-        "walksHits": 51
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18102",
@@ -4818,7 +4818,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -5087,7 +5087,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.229,
-        "walksHits": 32
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18104",
@@ -5105,7 +5105,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -5317,7 +5317,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.182,
-        "walksHits": 53
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18071",
@@ -5335,7 +5335,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -5457,7 +5457,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 14,
-        "assists": 28,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 68,
         "caughtStealing": 0,

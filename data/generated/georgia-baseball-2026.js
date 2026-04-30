@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.georgia2026 = {
-  "generatedAt": "2026-04-29T11:55:03.512Z",
+  "generatedAt": "2026-04-30T11:54:01.542Z",
   "season": 2026,
   "school": {
     "slug": "georgia",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 17,
-        "assists": 30,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 73,
         "caughtStealing": 1,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
         "putouts": 30,
-        "assists": 56,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 216,
         "caughtStealing": 0,
@@ -475,7 +475,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
         "putouts": 56,
-        "assists": 53,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 159,
         "caughtStealing": 1,
@@ -620,7 +620,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "stolenBases": 21,
         "stolenBasesAttempts": 22,
         "putouts": 374,
-        "assists": 32,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 237,
         "caughtStealing": 1,
@@ -643,7 +643,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 33,
         "caughtStealingBy": 11,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 7,
         "catchersInterference": 1,
         "totalChances": 408
@@ -765,7 +765,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 109,
-        "assists": 24,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 139,
         "caughtStealing": 0,
@@ -912,7 +912,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.211,
-        "walksHits": 38
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8965",
@@ -1054,7 +1054,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.313,
-        "walksHits": 25
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8947",
@@ -1072,7 +1072,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -1194,7 +1194,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 19,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 70,
         "caughtStealing": 0,
@@ -1339,7 +1339,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 7,
         "putouts": 61,
-        "assists": 5,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 163,
         "caughtStealing": 1,
@@ -1484,7 +1484,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 58,
-        "assists": 134,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 194,
         "caughtStealing": 0,
@@ -1631,7 +1631,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.225,
-        "walksHits": 54
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10327",
@@ -1649,7 +1649,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -1771,7 +1771,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 70,
-        "assists": 2,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 69,
         "caughtStealing": 0,
@@ -1918,7 +1918,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.238,
-        "walksHits": 60
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10329",
@@ -1936,7 +1936,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "doublePlays": 2,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -2203,7 +2203,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 19,
-        "assists": 4,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 71,
         "caughtStealing": 1,
@@ -2241,7 +2241,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.339,
-        "walksHits": 34
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10331",
@@ -2259,7 +2259,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.6,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 23
@@ -2381,7 +2381,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 4,
-        "assists": 4,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 23,
         "caughtStealing": 0,
@@ -2528,7 +2528,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.215,
-        "walksHits": 27
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8964",
@@ -2546,7 +2546,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -2670,7 +2670,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.364,
-        "walksHits": 10
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10333",
@@ -3025,7 +3025,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.216,
-        "walksHits": 15
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10335",
@@ -3043,7 +3043,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -3310,7 +3310,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 47,
-        "assists": 7,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 192,
         "caughtStealing": 0,
@@ -3602,7 +3602,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.214,
-        "walksHits": 9
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3724,7 +3724,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.161,
-        "walksHits": 49
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10340",
@@ -3742,7 +3742,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "doublePlays": 2,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -3864,7 +3864,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 220,
-        "assists": 11,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 135,
         "caughtStealing": 0,
@@ -3887,7 +3887,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "doublePlays": 10,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.778,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 233
@@ -4011,7 +4011,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.267,
-        "walksHits": 18
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10341",
@@ -4029,7 +4029,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.833,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -4153,7 +4153,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0,
-        "walksHits": 1
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4275,7 +4275,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.313,
-        "walksHits": 22
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10343",
@@ -4293,7 +4293,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4417,7 +4417,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.282,
-        "walksHits": 55
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8921",
@@ -4435,7 +4435,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.333,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -4559,7 +4559,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "hitBatters": 4,
         "balks": 1,
         "opponentsBattingAverage": 0.236,
-        "walksHits": 79
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10344",
@@ -4577,7 +4577,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 10,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.714,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -4701,7 +4701,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.3,
-        "walksHits": 17
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10345",
@@ -4843,7 +4843,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0,
-        "walksHits": 7
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -5320,7 +5320,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.277,
-        "walksHits": 21
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10347",
@@ -5338,7 +5338,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -5550,7 +5550,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0,
-        "walksHits": 2
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8970",
@@ -5692,7 +5692,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.077,
-        "walksHits": 8
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {

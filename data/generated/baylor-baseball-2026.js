@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.baylor2026 = {
-  "generatedAt": "2026-04-29T11:54:49.571Z",
+  "generatedAt": "2026-04-30T11:53:46.237Z",
   "season": 2026,
   "school": {
     "slug": "baylor",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 13,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 65,
         "caughtStealing": 0,
@@ -418,7 +418,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 23,
-        "assists": 34,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 122,
         "caughtStealing": 1,
@@ -563,7 +563,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "stolenBases": 8,
         "stolenBasesAttempts": 8,
         "putouts": 7,
-        "assists": 34,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 100,
         "caughtStealing": 0,
@@ -708,7 +708,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 227,
-        "assists": 26,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 120,
         "caughtStealing": 0,
@@ -731,7 +731,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 16,
         "caughtStealingBy": 8,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 0,
         "totalChances": 257
@@ -853,7 +853,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "stolenBases": 10,
         "stolenBasesAttempts": 10,
         "putouts": 75,
-        "assists": 64,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 183,
         "caughtStealing": 0,
@@ -998,7 +998,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "stolenBases": 18,
         "stolenBasesAttempts": 21,
         "putouts": 57,
-        "assists": 110,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 224,
         "caughtStealing": 3,
@@ -1143,7 +1143,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 2,
-        "assists": 7,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 13,
         "caughtStealing": 1,
@@ -1181,7 +1181,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.4,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15487",
@@ -1321,7 +1321,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "stolenBases": 16,
         "stolenBasesAttempts": 21,
         "putouts": 97,
-        "assists": 2,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 227,
         "caughtStealing": 5,
@@ -1468,7 +1468,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "hitBatters": 5,
         "balks": 1,
         "opponentsBattingAverage": 0.179,
-        "walksHits": 30
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15465",
@@ -1486,7 +1486,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -1608,7 +1608,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
         "putouts": 331,
-        "assists": 23,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 206,
         "caughtStealing": 0,
@@ -1755,7 +1755,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.143,
-        "walksHits": 5
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15473",
@@ -1773,7 +1773,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -1895,7 +1895,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 15,
-        "assists": 29,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 57,
         "caughtStealing": 0,
@@ -2042,7 +2042,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.406,
-        "walksHits": 51
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15491",
@@ -2060,7 +2060,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -2182,7 +2182,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 102,
-        "assists": 12,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 63,
         "caughtStealing": 0,
@@ -2205,7 +2205,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 11,
         "caughtStealingBy": 5,
-        "stolenBasesPercentage": 0.688,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 114
@@ -2327,7 +2327,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 5,
         "putouts": 24,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 116,
         "caughtStealing": 2,
@@ -2562,7 +2562,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.224,
-        "walksHits": 21
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15493",
@@ -2725,7 +2725,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -2847,7 +2847,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
         "putouts": 29,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 71,
         "caughtStealing": 1,
@@ -3139,7 +3139,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.571,
-        "walksHits": 13
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3261,7 +3261,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.289,
-        "walksHits": 62
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15497",
@@ -3403,7 +3403,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.316,
-        "walksHits": 29
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15498",
@@ -3545,7 +3545,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.354,
-        "walksHits": 25
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15499",
@@ -3687,7 +3687,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "hitBatters": 3,
         "balks": 1,
         "opponentsBattingAverage": 0.28,
-        "walksHits": 48
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15500",
@@ -3705,7 +3705,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "doublePlays": 2,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -3827,7 +3827,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 7,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 18,
         "caughtStealing": 0,
@@ -3974,7 +3974,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.315,
-        "walksHits": 32
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15464",
@@ -4116,7 +4116,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.305,
-        "walksHits": 79
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15469",
@@ -4134,7 +4134,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -4258,7 +4258,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.4,
-        "walksHits": 8
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4525,7 +4525,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "hitBatters": 4,
         "balks": 1,
         "opponentsBattingAverage": 0.27,
-        "walksHits": 43
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15477",
@@ -4667,7 +4667,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.275,
-        "walksHits": 59
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15472",
@@ -4809,7 +4809,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.205,
-        "walksHits": 12
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15482",
@@ -4951,7 +4951,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.206,
-        "walksHits": 38
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15468",
@@ -5093,7 +5093,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 1
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -5215,7 +5215,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.211,
-        "walksHits": 25
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15479",
@@ -5233,7 +5233,7 @@ window.__BASEBALL_DATASETS__.baylor2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3

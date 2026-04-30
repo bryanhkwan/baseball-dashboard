@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.minnesota2026 = {
-  "generatedAt": "2026-04-29T11:55:14.800Z",
+  "generatedAt": "2026-04-30T11:54:14.750Z",
   "season": 2026,
   "school": {
     "slug": "minnesota",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 0,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 1,
         "caughtStealing": 0,
@@ -223,7 +223,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.158,
-        "walksHits": 6
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23666",
@@ -363,7 +363,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "stolenBases": 17,
         "stolenBasesAttempts": 19,
         "putouts": 102,
-        "assists": 2,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 217,
         "caughtStealing": 2,
@@ -508,7 +508,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
         "putouts": 44,
-        "assists": 67,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 104,
         "caughtStealing": 0,
@@ -653,7 +653,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "stolenBases": 13,
         "stolenBasesAttempts": 15,
         "putouts": 57,
-        "assists": 102,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 225,
         "caughtStealing": 2,
@@ -798,7 +798,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "stolenBases": 8,
         "stolenBasesAttempts": 8,
         "putouts": 28,
-        "assists": 59,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 103,
         "caughtStealing": 0,
@@ -943,7 +943,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "stolenBases": 13,
         "stolenBasesAttempts": 18,
         "putouts": 28,
-        "assists": 71,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 217,
         "caughtStealing": 5,
@@ -1088,7 +1088,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 6,
         "putouts": 114,
-        "assists": 7,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 83,
         "caughtStealing": 1,
@@ -1111,7 +1111,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 11,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.917,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 122
@@ -1360,7 +1360,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "hitBatters": 6,
         "balks": 2,
         "opponentsBattingAverage": 0.266,
-        "walksHits": 74
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23659",
@@ -1378,7 +1378,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.571,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -1502,7 +1502,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "hitBatters": 3,
         "balks": 1,
         "opponentsBattingAverage": 0.178,
-        "walksHits": 39
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23681",
@@ -1520,7 +1520,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -1789,7 +1789,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.181,
-        "walksHits": 28
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23658",
@@ -1807,7 +1807,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -1929,7 +1929,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 10,
         "putouts": 42,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 136,
         "caughtStealing": 1,
@@ -2074,7 +2074,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 1,
-        "assists": 6,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 38,
         "caughtStealing": 0,
@@ -2221,7 +2221,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "hitBatters": 8,
         "balks": 1,
         "opponentsBattingAverage": 0.227,
-        "walksHits": 60
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23674",
@@ -2239,7 +2239,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.857,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 11
@@ -2363,7 +2363,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.087,
-        "walksHits": 7
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23648",
@@ -2381,7 +2381,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -2503,7 +2503,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 9,
         "putouts": 327,
-        "assists": 24,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 207,
         "caughtStealing": 3,
@@ -2526,7 +2526,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "doublePlays": 10,
         "stolenBasesAgainst": 27,
         "caughtStealingBy": 6,
-        "stolenBasesPercentage": 0.818,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 1,
         "totalChances": 353
@@ -2795,7 +2795,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.206,
-        "walksHits": 21
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23647",
@@ -3080,7 +3080,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 0,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 1,
         "caughtStealing": 0,
@@ -3225,7 +3225,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 272,
-        "assists": 11,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 134,
         "caughtStealing": 0,
@@ -3372,7 +3372,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.241,
-        "walksHits": 41
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23661",
@@ -3390,7 +3390,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -3690,7 +3690,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.31,
-        "walksHits": 14
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23676",
@@ -3708,7 +3708,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -3832,7 +3832,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.242,
-        "walksHits": 33
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23663",
@@ -3850,7 +3850,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -3974,7 +3974,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.364,
-        "walksHits": 8
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4096,7 +4096,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.276,
-        "walksHits": 21
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4216,7 +4216,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "stolenBases": 13,
         "stolenBasesAttempts": 14,
         "putouts": 25,
-        "assists": 2,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 212,
         "caughtStealing": 1,
@@ -4363,7 +4363,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.283,
-        "walksHits": 22
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23680",
@@ -4505,7 +4505,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.28,
-        "walksHits": 47
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23673",
@@ -4523,7 +4523,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -4735,7 +4735,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.216,
-        "walksHits": 14
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23678",
@@ -4753,7 +4753,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -4877,7 +4877,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.179,
-        "walksHits": 26
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23682",
@@ -5019,7 +5019,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.231,
-        "walksHits": 14
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {

@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.utah2026 = {
-  "generatedAt": "2026-04-29T11:55:38.690Z",
+  "generatedAt": "2026-04-30T11:54:40.197Z",
   "season": 2026,
   "school": {
     "slug": "utah",
@@ -187,7 +187,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.24,
-        "walksHits": 72
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17034",
@@ -205,7 +205,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -327,7 +327,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 8,
         "putouts": 54,
-        "assists": 97,
+        "assists": 0,
         "errors": 11,
         "plateAppearances": 164,
         "caughtStealing": 2,
@@ -472,7 +472,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 19,
-        "assists": 29,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 57,
         "caughtStealing": 0,
@@ -617,7 +617,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 32,
-        "assists": 48,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 95,
         "caughtStealing": 0,
@@ -764,7 +764,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.329,
-        "walksHits": 35
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17036",
@@ -992,7 +992,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 91,
-        "assists": 12,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 55,
         "caughtStealing": 1,
@@ -1015,7 +1015,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "doublePlays": 4,
         "stolenBasesAgainst": 9,
         "caughtStealingBy": 6,
-        "stolenBasesPercentage": 0.6,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 103
@@ -1137,7 +1137,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 6,
         "putouts": 68,
-        "assists": 2,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 197,
         "caughtStealing": 2,
@@ -1284,7 +1284,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.381,
-        "walksHits": 11
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -1406,7 +1406,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "hitBatters": 3,
         "balks": 1,
         "opponentsBattingAverage": 0.371,
-        "walksHits": 50
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17045",
@@ -1548,7 +1548,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.34,
-        "walksHits": 44
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17042",
@@ -1726,7 +1726,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.276,
-        "walksHits": 40
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17023",
@@ -1868,7 +1868,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.205,
-        "walksHits": 14
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17095",
@@ -2153,7 +2153,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 8,
         "putouts": 299,
-        "assists": 13,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 194,
         "caughtStealing": 2,
@@ -2300,7 +2300,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.303,
-        "walksHits": 15
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17103",
@@ -2440,7 +2440,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
         "putouts": 26,
-        "assists": 57,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 192,
         "caughtStealing": 1,
@@ -2587,7 +2587,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.298,
-        "walksHits": 71
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17038",
@@ -2605,7 +2605,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -2727,7 +2727,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 3,
         "putouts": 76,
-        "assists": 2,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 192,
         "caughtStealing": 2,
@@ -2872,7 +2872,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 24,
-        "assists": 35,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 155,
         "caughtStealing": 1,
@@ -3017,7 +3017,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 131,
-        "assists": 9,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 75,
         "caughtStealing": 0,
@@ -3040,7 +3040,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.636,
+        "stolenBasesPercentage": null,
         "passedBalls": 5,
         "catchersInterference": 0,
         "totalChances": 142
@@ -3164,7 +3164,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.364,
-        "walksHits": 26
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17035",
@@ -3182,7 +3182,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -3306,7 +3306,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.344,
-        "walksHits": 28
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17021",
@@ -3448,7 +3448,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.323,
-        "walksHits": 19
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17107",
@@ -3713,7 +3713,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 55,
-        "assists": 5,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 40,
         "caughtStealing": 1,
@@ -3736,7 +3736,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 60
@@ -3860,7 +3860,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 13
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4070,7 +4070,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.252,
-        "walksHits": 48
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17026",
@@ -4212,7 +4212,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.417,
-        "walksHits": 31
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17100",
@@ -4354,7 +4354,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.156,
-        "walksHits": 10
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17024",
@@ -4372,7 +4372,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -4496,7 +4496,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.362,
-        "walksHits": 54
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17106",
@@ -4638,7 +4638,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.5,
-        "walksHits": 6
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {

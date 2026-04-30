@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.north-carolina2026 = {
-  "generatedAt": "2026-04-29T11:55:16.340Z",
+  "generatedAt": "2026-04-30T11:54:16.822Z",
   "season": 2026,
   "school": {
     "slug": "north-carolina",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 20,
-        "assists": 79,
+        "assists": 0,
         "errors": 11,
         "plateAppearances": 190,
         "caughtStealing": 0,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "stolenBases": 21,
         "stolenBasesAttempts": 24,
         "putouts": 60,
-        "assists": 93,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 252,
         "caughtStealing": 3,
@@ -475,7 +475,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 2,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 19,
         "caughtStealing": 0,
@@ -765,7 +765,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
         "putouts": 70,
-        "assists": 126,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 234,
         "caughtStealing": 0,
@@ -910,7 +910,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 2,
         "putouts": 272,
-        "assists": 20,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 219,
         "caughtStealing": 2,
@@ -933,7 +933,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 10,
         "caughtStealingBy": 8,
-        "stolenBasesPercentage": 0.556,
+        "stolenBasesPercentage": null,
         "passedBalls": 3,
         "catchersInterference": 0,
         "totalChances": 294
@@ -1055,7 +1055,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 1,
-        "assists": 2,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 13,
         "caughtStealing": 0,
@@ -1347,7 +1347,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.213,
-        "walksHits": 19
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27913",
@@ -1575,7 +1575,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 79,
-        "assists": 3,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 175,
         "caughtStealing": 0,
@@ -1720,7 +1720,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 2,
         "putouts": 13,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 44,
         "caughtStealing": 2,
@@ -1867,7 +1867,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.277,
-        "walksHits": 31
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27926",
@@ -2009,7 +2009,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.2,
-        "walksHits": 7
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -2129,7 +2129,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
         "putouts": 61,
-        "assists": 2,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 114,
         "caughtStealing": 1,
@@ -2276,7 +2276,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.188,
-        "walksHits": 21
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27928",
@@ -2294,7 +2294,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -2416,7 +2416,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 1,
-        "assists": 5,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 7,
         "caughtStealing": 0,
@@ -2561,7 +2561,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 142,
-        "assists": 6,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 192,
         "caughtStealing": 0,
@@ -2584,7 +2584,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.833,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 150
@@ -2708,7 +2708,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.286,
-        "walksHits": 31
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27924",
@@ -2848,7 +2848,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 18,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 44,
         "caughtStealing": 0,
@@ -2995,7 +2995,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.227,
-        "walksHits": 7
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3117,7 +3117,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "hitBatters": 4,
         "balks": 1,
         "opponentsBattingAverage": 0.19,
-        "walksHits": 59
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27941",
@@ -3135,7 +3135,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -3404,7 +3404,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "hitBatters": 7,
         "balks": 1,
         "opponentsBattingAverage": 0.239,
-        "walksHits": 76
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27914",
@@ -3634,7 +3634,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.175,
-        "walksHits": 37
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27943",
@@ -3776,7 +3776,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.32,
-        "walksHits": 74
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27912",
@@ -3918,7 +3918,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.182,
-        "walksHits": 5
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27944",
@@ -4060,7 +4060,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "hitBatters": 7,
         "balks": 1,
         "opponentsBattingAverage": 0.181,
-        "walksHits": 56
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27925",
@@ -4078,7 +4078,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -4290,7 +4290,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.242,
-        "walksHits": 32
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27915",
@@ -4432,7 +4432,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0,
-        "walksHits": 1
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27922",
@@ -4572,7 +4572,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 333,
-        "assists": 22,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 209,
         "caughtStealing": 0,
@@ -5071,7 +5071,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "hitBatters": 13,
         "balks": 0,
         "opponentsBattingAverage": 0.267,
-        "walksHits": 81
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27923",

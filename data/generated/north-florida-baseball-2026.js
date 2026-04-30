@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.north-florida2026 = {
-  "generatedAt": "2026-04-29T11:55:17.291Z",
+  "generatedAt": "2026-04-30T11:54:17.885Z",
   "season": 2026,
   "school": {
     "slug": "north-florida",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 13,
-        "assists": 19,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 41,
         "caughtStealing": 0,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "stolenBases": 10,
         "stolenBasesAttempts": 14,
         "putouts": 45,
-        "assists": 79,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 174,
         "caughtStealing": 4,
@@ -475,7 +475,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
         "putouts": 70,
-        "assists": 3,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 165,
         "caughtStealing": 1,
@@ -890,7 +890,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "stolenBases": 10,
         "stolenBasesAttempts": 10,
         "putouts": 44,
-        "assists": 30,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 117,
         "caughtStealing": 0,
@@ -1035,7 +1035,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
         "putouts": 95,
-        "assists": 8,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 166,
         "caughtStealing": 1,
@@ -1058,7 +1058,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 12,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.857,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 105
@@ -1180,7 +1180,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 0,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 4,
         "caughtStealing": 0,
@@ -1325,7 +1325,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "stolenBases": 15,
         "stolenBasesAttempts": 15,
         "putouts": 44,
-        "assists": 90,
+        "assists": 0,
         "errors": 8,
         "plateAppearances": 209,
         "caughtStealing": 0,
@@ -1615,7 +1615,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 6,
         "putouts": 47,
-        "assists": 3,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 150,
         "caughtStealing": 1,
@@ -1760,7 +1760,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 230,
-        "assists": 18,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 128,
         "caughtStealing": 0,
@@ -1783,7 +1783,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "doublePlays": 2,
         "stolenBasesAgainst": 28,
         "caughtStealingBy": 6,
-        "stolenBasesPercentage": 0.824,
+        "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 1,
         "totalChances": 250
@@ -2050,7 +2050,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 294,
-        "assists": 19,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 172,
         "caughtStealing": 0,
@@ -2195,7 +2195,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
         "putouts": 27,
-        "assists": 53,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 112,
         "caughtStealing": 1,
@@ -2340,7 +2340,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 35,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 25,
         "caughtStealing": 0,
@@ -2363,7 +2363,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 3,
         "catchersInterference": 0,
         "totalChances": 38
@@ -2487,7 +2487,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.221,
-        "walksHits": 33
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14910",
@@ -2505,7 +2505,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -2629,7 +2629,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.225,
-        "walksHits": 51
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14895",
@@ -2647,7 +2647,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 10
@@ -2771,7 +2771,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.217,
-        "walksHits": 35
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14886",
@@ -2789,7 +2789,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.25,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 10
@@ -3058,7 +3058,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.267,
-        "walksHits": 15
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14897",
@@ -3076,7 +3076,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -3200,7 +3200,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.211,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14912",
@@ -3342,7 +3342,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "hitBatters": 9,
         "balks": 1,
         "opponentsBattingAverage": 0.306,
-        "walksHits": 44
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14891",
@@ -3360,7 +3360,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 12
@@ -3484,7 +3484,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.295,
-        "walksHits": 24
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14898",
@@ -3502,7 +3502,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -3839,7 +3839,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.211,
-        "walksHits": 71
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14914",
@@ -3857,7 +3857,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 9,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.9,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 12
@@ -3981,7 +3981,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.178,
-        "walksHits": 20
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14885",
@@ -3999,7 +3999,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.333,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -4123,7 +4123,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.302,
-        "walksHits": 61
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14888",
@@ -4141,7 +4141,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 11
@@ -4265,7 +4265,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.187,
-        "walksHits": 33
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14878",
@@ -4283,7 +4283,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.857,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -4640,7 +4640,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.31,
-        "walksHits": 36
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14916",
@@ -4658,7 +4658,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -4782,7 +4782,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.364,
-        "walksHits": 13
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14890",
@@ -4924,7 +4924,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "hitBatters": 8,
         "balks": 0,
         "opponentsBattingAverage": 0.289,
-        "walksHits": 31
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14918",
@@ -4942,7 +4942,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -5087,7 +5087,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 12
@@ -5211,7 +5211,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.248,
-        "walksHits": 39
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14884",
@@ -5229,7 +5229,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 10
@@ -5441,7 +5441,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.4,
-        "walksHits": 15
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14880",

@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.akron2026 = {
-  "generatedAt": "2026-04-29T11:54:48.070Z",
+  "generatedAt": "2026-04-30T11:53:44.293Z",
   "season": 2026,
   "school": {
     "slug": "akron",
@@ -187,7 +187,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "hitBatters": 9,
         "balks": 0,
         "opponentsBattingAverage": 0.224,
-        "walksHits": 27
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9854",
@@ -205,7 +205,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -327,7 +327,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 7,
         "putouts": 33,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 117,
         "caughtStealing": 1,
@@ -472,7 +472,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 5,
         "putouts": 38,
-        "assists": 68,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 118,
         "caughtStealing": 0,
@@ -617,7 +617,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 131,
-        "assists": 12,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 74,
         "caughtStealing": 0,
@@ -640,7 +640,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 52,
         "caughtStealingBy": 10,
-        "stolenBasesPercentage": 0.839,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 1,
         "totalChances": 145
@@ -764,7 +764,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "hitBatters": 8,
         "balks": 0,
         "opponentsBattingAverage": 0.259,
-        "walksHits": 43
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9864",
@@ -782,7 +782,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -904,7 +904,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "stolenBases": 21,
         "stolenBasesAttempts": 25,
         "putouts": 69,
-        "assists": 4,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 235,
         "caughtStealing": 4,
@@ -1049,7 +1049,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "stolenBases": 15,
         "stolenBasesAttempts": 20,
         "putouts": 77,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 179,
         "caughtStealing": 5,
@@ -1194,7 +1194,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 4,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 15,
         "caughtStealing": 0,
@@ -1341,7 +1341,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 28
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9848",
@@ -1359,7 +1359,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.6,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -1659,7 +1659,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "hitBatters": 10,
         "balks": 1,
         "opponentsBattingAverage": 0.244,
-        "walksHits": 74
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9850",
@@ -1677,7 +1677,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.333,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -1799,7 +1799,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "stolenBases": 14,
         "stolenBasesAttempts": 18,
         "putouts": 63,
-        "assists": 119,
+        "assists": 0,
         "errors": 15,
         "plateAppearances": 185,
         "caughtStealing": 4,
@@ -1944,7 +1944,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 45,
-        "assists": 4,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 25,
         "caughtStealing": 0,
@@ -1967,7 +1967,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 11,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.846,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 50
@@ -2091,7 +2091,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "hitBatters": 10,
         "balks": 0,
         "opponentsBattingAverage": 0.328,
-        "walksHits": 54
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9845",
@@ -2109,7 +2109,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 12
@@ -2233,7 +2233,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "hitBatters": 9,
         "balks": 0,
         "opponentsBattingAverage": 0.403,
-        "walksHits": 63
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9857",
@@ -2251,7 +2251,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.833,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -2375,7 +2375,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.286,
-        "walksHits": 15
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9858",
@@ -2393,7 +2393,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -2517,7 +2517,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "hitBatters": 9,
         "balks": 0,
         "opponentsBattingAverage": 0.336,
-        "walksHits": 70
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9856",
@@ -2535,7 +2535,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.571,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -2659,7 +2659,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.396,
-        "walksHits": 24
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9867",
@@ -2677,7 +2677,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -2801,7 +2801,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.292,
-        "walksHits": 34
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9875",
@@ -2819,7 +2819,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.857,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -2941,7 +2941,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 5,
         "putouts": 19,
-        "assists": 52,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 174,
         "caughtStealing": 2,
@@ -2979,7 +2979,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.5,
-        "walksHits": 3
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9859",
@@ -3121,7 +3121,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.342,
-        "walksHits": 45
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9846",
@@ -3139,7 +3139,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -3261,7 +3261,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 5,
         "putouts": 135,
-        "assists": 7,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 152,
         "caughtStealing": 0,
@@ -3553,7 +3553,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.241,
-        "walksHits": 30
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9879",
@@ -3571,7 +3571,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.889,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -3693,7 +3693,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 113,
-        "assists": 9,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 74,
         "caughtStealing": 0,
@@ -3716,7 +3716,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 20,
         "caughtStealingBy": 6,
-        "stolenBasesPercentage": 0.769,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 123
@@ -3838,7 +3838,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 9,
         "putouts": 218,
-        "assists": 11,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 210,
         "caughtStealing": 0,
@@ -3983,7 +3983,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 7,
         "putouts": 22,
-        "assists": 33,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 80,
         "caughtStealing": 2,
@@ -4021,7 +4021,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.22,
-        "walksHits": 50
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9873",
@@ -4039,7 +4039,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "doublePlays": 4,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 59
@@ -4306,7 +4306,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 27,
-        "assists": 2,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 25,
         "caughtStealing": 0,
@@ -4329,7 +4329,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.889,
+        "stolenBasesPercentage": null,
         "passedBalls": 3,
         "catchersInterference": 1,
         "totalChances": 30
@@ -4453,7 +4453,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.217,
-        "walksHits": 34
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9862",
@@ -4471,7 +4471,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.833,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 14
@@ -4595,7 +4595,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "hitBatters": 4,
         "balks": 1,
         "opponentsBattingAverage": 0.325,
-        "walksHits": 28
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9872",
@@ -4613,7 +4613,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -4737,7 +4737,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.174,
-        "walksHits": 52
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9899",
@@ -4755,7 +4755,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 18,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.947,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -4965,7 +4965,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 50,
-        "assists": 42,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 124,
         "caughtStealing": 0,

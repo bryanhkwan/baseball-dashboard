@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.louisville2026 = {
-  "generatedAt": "2026-04-29T11:55:09.571Z",
+  "generatedAt": "2026-04-30T11:54:07.976Z",
   "season": 2026,
   "school": {
     "slug": "louisville",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "stolenBases": 8,
         "stolenBasesAttempts": 11,
         "putouts": 34,
-        "assists": 66,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 169,
         "caughtStealing": 3,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 4,
-        "assists": 8,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 11,
         "caughtStealing": 0,
@@ -475,7 +475,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
         "putouts": 79,
-        "assists": 103,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 191,
         "caughtStealing": 0,
@@ -767,7 +767,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.322,
-        "walksHits": 62
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17924",
@@ -785,7 +785,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 10
@@ -907,7 +907,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "stolenBases": 8,
         "stolenBasesAttempts": 11,
         "putouts": 60,
-        "assists": 2,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 190,
         "caughtStealing": 3,
@@ -1054,7 +1054,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 43
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17925",
@@ -1072,7 +1072,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -1196,7 +1196,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.281,
-        "walksHits": 44
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17874",
@@ -1214,7 +1214,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.333,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -1338,7 +1338,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "hitBatters": 9,
         "balks": 0,
         "opponentsBattingAverage": 0.276,
-        "walksHits": 38
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17854",
@@ -1356,7 +1356,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -1480,7 +1480,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.143,
-        "walksHits": 9
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17867",
@@ -1622,7 +1622,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.258,
-        "walksHits": 20
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17875",
@@ -1762,7 +1762,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 330,
-        "assists": 34,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 215,
         "caughtStealing": 0,
@@ -1800,7 +1800,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.667,
-        "walksHits": 3
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17859",
@@ -1940,7 +1940,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 125,
-        "assists": 13,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 62,
         "caughtStealing": 0,
@@ -1963,7 +1963,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "doublePlays": 2,
         "stolenBasesAgainst": 9,
         "caughtStealingBy": 6,
-        "stolenBasesPercentage": 0.6,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 139
@@ -2087,7 +2087,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.306,
-        "walksHits": 72
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17865",
@@ -2105,7 +2105,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -2607,7 +2607,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.35,
-        "walksHits": 24
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17873",
@@ -2625,7 +2625,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -2749,7 +2749,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.412,
-        "walksHits": 12
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -2871,7 +2871,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 8
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17929",
@@ -3013,7 +3013,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "hitBatters": 8,
         "balks": 0,
         "opponentsBattingAverage": 0.249,
-        "walksHits": 82
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17858",
@@ -3031,7 +3031,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 7,
-        "stolenBasesPercentage": 0.417,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 13
@@ -3155,7 +3155,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0,
-        "walksHits": 2
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3275,7 +3275,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "stolenBases": 8,
         "stolenBasesAttempts": 11,
         "putouts": 252,
-        "assists": 28,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 171,
         "caughtStealing": 3,
@@ -3298,7 +3298,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 15,
         "caughtStealingBy": 11,
-        "stolenBasesPercentage": 0.577,
+        "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 0,
         "totalChances": 283
@@ -3420,7 +3420,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "stolenBases": 15,
         "stolenBasesAttempts": 18,
         "putouts": 29,
-        "assists": 91,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 227,
         "caughtStealing": 3,
@@ -3655,7 +3655,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 36
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17868",
@@ -3673,7 +3673,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.333,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -3795,7 +3795,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
         "putouts": 17,
-        "assists": 30,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 52,
         "caughtStealing": 0,
@@ -3940,7 +3940,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "stolenBases": 16,
         "stolenBasesAttempts": 16,
         "putouts": 15,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 127,
         "caughtStealing": 0,
@@ -4087,7 +4087,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.161,
-        "walksHits": 13
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17933",
@@ -4374,7 +4374,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.167,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17934",
@@ -4604,7 +4604,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.429,
-        "walksHits": 12
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4724,7 +4724,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 2,
         "putouts": 29,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 145,
         "caughtStealing": 2,
@@ -4996,7 +4996,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.4,
-        "walksHits": 20
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17876",
@@ -5014,7 +5014,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.333,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -5138,7 +5138,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "hitBatters": 5,
         "balks": 2,
         "opponentsBattingAverage": 0.234,
-        "walksHits": 33
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17871",
@@ -5368,7 +5368,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.279,
-        "walksHits": 38
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17862",
@@ -5386,7 +5386,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.4,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -5510,7 +5510,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.292,
-        "walksHits": 12
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -5632,7 +5632,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "hitBatters": 10,
         "balks": 0,
         "opponentsBattingAverage": 0.301,
-        "walksHits": 90
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17861",
@@ -5650,7 +5650,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -5774,7 +5774,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.4,
-        "walksHits": 2
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -5894,7 +5894,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "stolenBases": 31,
         "stolenBasesAttempts": 36,
         "putouts": 104,
-        "assists": 1,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 264,
         "caughtStealing": 5,

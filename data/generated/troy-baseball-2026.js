@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.troy2026 = {
-  "generatedAt": "2026-04-29T11:55:35.643Z",
+  "generatedAt": "2026-04-30T11:54:36.570Z",
   "season": 2026,
   "school": {
     "slug": "troy",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "stolenBases": 7,
         "stolenBasesAttempts": 10,
         "putouts": 74,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 181,
         "caughtStealing": 3,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
         "putouts": 80,
-        "assists": 28,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 218,
         "caughtStealing": 0,
@@ -563,7 +563,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 53,
-        "assists": 113,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 157,
         "caughtStealing": 1,
@@ -708,7 +708,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 5,
         "putouts": 323,
-        "assists": 27,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 212,
         "caughtStealing": 2,
@@ -731,7 +731,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 25,
         "caughtStealingBy": 7,
-        "stolenBasesPercentage": 0.781,
+        "stolenBasesPercentage": null,
         "passedBalls": 8,
         "catchersInterference": 1,
         "totalChances": 354
@@ -853,7 +853,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 0,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 3,
         "caughtStealing": 0,
@@ -891,7 +891,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.265,
-        "walksHits": 19
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11891",
@@ -1323,7 +1323,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.33,
-        "walksHits": 50
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11894",
@@ -1553,7 +1553,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.615,
-        "walksHits": 9
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -1673,7 +1673,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 13,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 55,
         "caughtStealing": 1,
@@ -1820,7 +1820,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "hitBatters": 9,
         "balks": 1,
         "opponentsBattingAverage": 0.269,
-        "walksHits": 75
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11899",
@@ -1838,7 +1838,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -1962,7 +1962,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.191,
-        "walksHits": 27
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11900",
@@ -2104,7 +2104,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.254,
-        "walksHits": 50
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11901",
@@ -2122,7 +2122,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 11
@@ -2244,7 +2244,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 70,
-        "assists": 3,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 54,
         "caughtStealing": 0,
@@ -2267,7 +2267,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.875,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 74
@@ -2391,7 +2391,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.351,
-        "walksHits": 21
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11904",
@@ -2409,7 +2409,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -2531,7 +2531,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 76,
-        "assists": 3,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 189,
         "caughtStealing": 0,
@@ -2569,7 +2569,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.158,
-        "walksHits": 10
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11905",
@@ -2856,7 +2856,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.323,
-        "walksHits": 38
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11907",
@@ -2998,7 +2998,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.259,
-        "walksHits": 47
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11908",
@@ -3140,7 +3140,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.37,
-        "walksHits": 13
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11909",
@@ -3282,7 +3282,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.286,
-        "walksHits": 12
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11910",
@@ -3300,7 +3300,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -3424,7 +3424,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.268,
-        "walksHits": 51
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11911",
@@ -3442,7 +3442,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -3566,7 +3566,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.249,
-        "walksHits": 78
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11912",
@@ -3584,7 +3584,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -3706,7 +3706,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 4,
         "putouts": 19,
-        "assists": 60,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 200,
         "caughtStealing": 3,
@@ -3996,7 +3996,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
         "putouts": 319,
-        "assists": 20,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 206,
         "caughtStealing": 1,
@@ -4143,7 +4143,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.462,
-        "walksHits": 11
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11916",
@@ -4161,7 +4161,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -4285,7 +4285,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 11
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11917",
@@ -4303,7 +4303,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -4425,7 +4425,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
         "putouts": 79,
-        "assists": 96,
+        "assists": 0,
         "errors": 8,
         "plateAppearances": 195,
         "caughtStealing": 0,
@@ -4572,7 +4572,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 3
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4692,7 +4692,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 4,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 34,
         "caughtStealing": 0,
@@ -4984,7 +4984,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 1,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -5106,7 +5106,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.299,
-        "walksHits": 60
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11923",

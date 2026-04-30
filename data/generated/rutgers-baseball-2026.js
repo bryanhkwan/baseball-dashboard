@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.rutgers2026 = {
-  "generatedAt": "2026-04-29T11:55:26.740Z",
+  "generatedAt": "2026-04-30T11:54:26.654Z",
   "season": 2026,
   "school": {
     "slug": "rutgers",
@@ -187,7 +187,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.315,
-        "walksHits": 31
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15945",
@@ -205,7 +205,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -329,7 +329,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "hitBatters": 1,
         "balks": 1,
         "opponentsBattingAverage": 0.232,
-        "walksHits": 38
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15991",
@@ -347,7 +347,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -469,7 +469,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
         "putouts": 35,
-        "assists": 75,
+        "assists": 0,
         "errors": 10,
         "plateAppearances": 205,
         "caughtStealing": 0,
@@ -614,7 +614,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 7,
         "putouts": 185,
-        "assists": 17,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 213,
         "caughtStealing": 1,
@@ -637,7 +637,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 18,
         "caughtStealingBy": 9,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 205
@@ -759,7 +759,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "stolenBases": 7,
         "stolenBasesAttempts": 8,
         "putouts": 78,
-        "assists": 2,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 198,
         "caughtStealing": 1,
@@ -992,7 +992,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 6,
         "putouts": 331,
-        "assists": 24,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 187,
         "caughtStealing": 1,
@@ -1139,7 +1139,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "hitBatters": 6,
         "balks": 1,
         "opponentsBattingAverage": 0.33,
-        "walksHits": 50
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15960",
@@ -1279,7 +1279,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 39,
-        "assists": 38,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 69,
         "caughtStealing": 0,
@@ -1512,7 +1512,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 54,
-        "assists": 91,
+        "assists": 0,
         "errors": 10,
         "plateAppearances": 191,
         "caughtStealing": 0,
@@ -1657,7 +1657,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 25,
-        "assists": 45,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 54,
         "caughtStealing": 0,
@@ -1892,7 +1892,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.178,
-        "walksHits": 18
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15948",
@@ -2034,7 +2034,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "hitBatters": 7,
         "balks": 1,
         "opponentsBattingAverage": 0.367,
-        "walksHits": 71
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15964",
@@ -2321,7 +2321,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.293,
-        "walksHits": 71
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15950",
@@ -2339,7 +2339,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -2463,7 +2463,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "hitBatters": 1,
         "balks": 2,
         "opponentsBattingAverage": 0.274,
-        "walksHits": 67
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15966",
@@ -2481,7 +2481,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 11
@@ -2605,7 +2605,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.193,
-        "walksHits": 27
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15953",
@@ -2747,7 +2747,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.247,
-        "walksHits": 34
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15967",
@@ -2887,7 +2887,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "stolenBases": 13,
         "stolenBasesAttempts": 15,
         "putouts": 80,
-        "assists": 1,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 175,
         "caughtStealing": 2,
@@ -3032,7 +3032,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 26,
-        "assists": 20,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 63,
         "caughtStealing": 0,
@@ -3177,7 +3177,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 177,
-        "assists": 18,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 155,
         "caughtStealing": 1,
@@ -3200,7 +3200,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 16,
         "caughtStealingBy": 13,
-        "stolenBasesPercentage": 0.552,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 199
@@ -3731,7 +3731,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 22,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 69,
         "caughtStealing": 1,
@@ -3876,7 +3876,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
         "putouts": 48,
-        "assists": 16,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 153,
         "caughtStealing": 1,
@@ -4023,7 +4023,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.267,
-        "walksHits": 41
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15951",
@@ -4165,7 +4165,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "hitBatters": 0,
         "balks": 2,
         "opponentsBattingAverage": 0.295,
-        "walksHits": 33
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15973",
@@ -4307,7 +4307,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.302,
-        "walksHits": 41
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15947",
@@ -4325,7 +4325,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -4625,7 +4625,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.185,
-        "walksHits": 11
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15976",
@@ -4767,7 +4767,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.259,
-        "walksHits": 46
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15977",
@@ -4909,7 +4909,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.294,
-        "walksHits": 35
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15949",
@@ -4927,7 +4927,7 @@ window.__BASEBALL_DATASETS__.rutgers2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6

@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.massachusetts2026 = {
-  "generatedAt": "2026-04-29T11:55:10.836Z",
+  "generatedAt": "2026-04-30T11:54:10.542Z",
   "season": 2026,
   "school": {
     "slug": "massachusetts",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 9,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 24,
         "caughtStealing": 0,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
         "putouts": 57,
-        "assists": 55,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 142,
         "caughtStealing": 0,
@@ -475,7 +475,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "stolenBases": 16,
         "stolenBasesAttempts": 19,
         "putouts": 98,
-        "assists": 1,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 190,
         "caughtStealing": 3,
@@ -747,7 +747,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.286,
-        "walksHits": 38
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17714",
@@ -765,7 +765,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -889,7 +889,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "hitBatters": 1,
         "balks": 1,
         "opponentsBattingAverage": 0.247,
-        "walksHits": 36
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17698",
@@ -1029,7 +1029,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "stolenBases": 20,
         "stolenBasesAttempts": 23,
         "putouts": 76,
-        "assists": 54,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 203,
         "caughtStealing": 3,
@@ -1174,7 +1174,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "stolenBases": 10,
         "stolenBasesAttempts": 10,
         "putouts": 29,
-        "assists": 57,
+        "assists": 0,
         "errors": 9,
         "plateAppearances": 181,
         "caughtStealing": 0,
@@ -1319,7 +1319,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 232,
-        "assists": 22,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 125,
         "caughtStealing": 0,
@@ -1342,7 +1342,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 73,
         "caughtStealingBy": 15,
-        "stolenBasesPercentage": 0.83,
+        "stolenBasesPercentage": null,
         "passedBalls": 3,
         "catchersInterference": 0,
         "totalChances": 258
@@ -1466,7 +1466,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.29,
-        "walksHits": 35
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17718",
@@ -1484,7 +1484,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -1606,7 +1606,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 212,
-        "assists": 9,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 127,
         "caughtStealing": 0,
@@ -1753,7 +1753,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "hitBatters": 6,
         "balks": 1,
         "opponentsBattingAverage": 0.269,
-        "walksHits": 23
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17697",
@@ -1771,7 +1771,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -2038,7 +2038,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 35,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 74,
         "caughtStealing": 0,
@@ -2183,7 +2183,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 5,
         "putouts": 45,
-        "assists": 1,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 176,
         "caughtStealing": 0,
@@ -2475,7 +2475,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "hitBatters": 6,
         "balks": 2,
         "opponentsBattingAverage": 0.355,
-        "walksHits": 40
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17709",
@@ -2493,7 +2493,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -2617,7 +2617,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "hitBatters": 8,
         "balks": 0,
         "opponentsBattingAverage": 0.229,
-        "walksHits": 30
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17715",
@@ -2635,7 +2635,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -2759,7 +2759,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.481,
-        "walksHits": 20
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17707",
@@ -2901,7 +2901,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.358,
-        "walksHits": 43
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17685",
@@ -3079,7 +3079,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.31,
-        "walksHits": 23
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17717",
@@ -3097,7 +3097,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -3219,7 +3219,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 13,
-        "assists": 35,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 82,
         "caughtStealing": 0,
@@ -3634,7 +3634,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 6,
         "putouts": 75,
-        "assists": 4,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 116,
         "caughtStealing": 2,
@@ -3657,7 +3657,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 31,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.886,
+        "stolenBasesPercentage": null,
         "passedBalls": 3,
         "catchersInterference": 0,
         "totalChances": 82
@@ -3906,7 +3906,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.349,
-        "walksHits": 29
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17695",
@@ -3924,7 +3924,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -4136,7 +4136,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.264,
-        "walksHits": 18
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17688",
@@ -4154,7 +4154,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -4278,7 +4278,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.571,
-        "walksHits": 5
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4400,7 +4400,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "hitBatters": 7,
         "balks": 1,
         "opponentsBattingAverage": 0.193,
-        "walksHits": 52
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17689",
@@ -4418,7 +4418,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -4542,7 +4542,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.237,
-        "walksHits": 79
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17692",
@@ -4560,7 +4560,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.6,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 14
@@ -4684,7 +4684,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.358,
-        "walksHits": 48
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17686",
@@ -4702,7 +4702,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4826,7 +4826,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.253,
-        "walksHits": 48
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17711",
@@ -4844,7 +4844,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3

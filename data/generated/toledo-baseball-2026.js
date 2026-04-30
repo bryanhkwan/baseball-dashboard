@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.toledo2026 = {
-  "generatedAt": "2026-04-29T11:54:46.171Z",
+  "generatedAt": "2026-04-30T11:53:41.465Z",
   "season": 2026,
   "school": {
     "slug": "toledo",
@@ -476,7 +476,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 18,
-        "assists": 20,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 49,
         "caughtStealing": 0,
@@ -621,7 +621,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "stolenBases": 21,
         "stolenBasesAttempts": 25,
         "putouts": 52,
-        "assists": 85,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 247,
         "caughtStealing": 4,
@@ -766,7 +766,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 66,
-        "assists": 5,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 51,
         "caughtStealing": 0,
@@ -911,7 +911,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "stolenBases": 16,
         "stolenBasesAttempts": 18,
         "putouts": 95,
-        "assists": 4,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 243,
         "caughtStealing": 2,
@@ -1056,7 +1056,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "stolenBases": 10,
         "stolenBasesAttempts": 15,
         "putouts": 29,
-        "assists": 82,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 232,
         "caughtStealing": 5,
@@ -1346,7 +1346,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 82,
-        "assists": 11,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 84,
         "caughtStealing": 1,
@@ -1369,7 +1369,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 31,
         "caughtStealingBy": 5,
-        "stolenBasesPercentage": 0.861,
+        "stolenBasesPercentage": null,
         "passedBalls": 5,
         "catchersInterference": 0,
         "totalChances": 94
@@ -1491,7 +1491,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 290,
-        "assists": 31,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 158,
         "caughtStealing": 0,
@@ -1514,7 +1514,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 66,
         "caughtStealingBy": 16,
-        "stolenBasesPercentage": 0.805,
+        "stolenBasesPercentage": null,
         "passedBalls": 7,
         "catchersInterference": 0,
         "totalChances": 327
@@ -1636,7 +1636,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 96,
-        "assists": 13,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 84,
         "caughtStealing": 0,
@@ -1783,7 +1783,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "hitBatters": 10,
         "balks": 1,
         "opponentsBattingAverage": 0.229,
-        "walksHits": 65
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10281",
@@ -1801,7 +1801,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 15
@@ -2068,7 +2068,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 6,
         "putouts": 42,
-        "assists": 71,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 179,
         "caughtStealing": 3,
@@ -2213,7 +2213,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 11,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 124,
         "caughtStealing": 0,
@@ -2358,7 +2358,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "stolenBases": 11,
         "stolenBasesAttempts": 12,
         "putouts": 67,
-        "assists": 2,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 183,
         "caughtStealing": 1,
@@ -2505,7 +2505,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.258,
-        "walksHits": 65
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10260",
@@ -2523,7 +2523,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 17,
         "caughtStealingBy": 5,
-        "stolenBasesPercentage": 0.773,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -2645,7 +2645,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
         "putouts": 129,
-        "assists": 10,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 99,
         "caughtStealing": 1,
@@ -2792,7 +2792,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.29,
-        "walksHits": 71
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10285",
@@ -2810,7 +2810,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.889,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -2934,7 +2934,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "hitBatters": 9,
         "balks": 1,
         "opponentsBattingAverage": 0.293,
-        "walksHits": 69
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10286",
@@ -2952,7 +2952,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -3164,7 +3164,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.263,
-        "walksHits": 38
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10287",
@@ -3182,7 +3182,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -3306,7 +3306,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.364,
-        "walksHits": 49
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10288",
@@ -3324,7 +3324,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.714,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -3448,7 +3448,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.75,
-        "walksHits": 3
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3570,7 +3570,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "hitBatters": 8,
         "balks": 1,
         "opponentsBattingAverage": 0.2,
-        "walksHits": 75
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10264",
@@ -3588,7 +3588,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 14,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.824,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 17
@@ -3710,7 +3710,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 20,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 12,
         "caughtStealing": 0,
@@ -3733,7 +3733,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 10,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 3,
         "catchersInterference": 0,
         "totalChances": 23
@@ -3857,7 +3857,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "hitBatters": 1,
         "balks": 1,
         "opponentsBattingAverage": 0.248,
-        "walksHits": 46
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10290",
@@ -3875,7 +3875,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.857,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -3999,7 +3999,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.26,
-        "walksHits": 38
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10291",
@@ -4017,7 +4017,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.833,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4141,7 +4141,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0,
-        "walksHits": 1
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4263,7 +4263,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.217,
-        "walksHits": 9
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10292",
@@ -4281,7 +4281,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.833,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -4405,7 +4405,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.228,
-        "walksHits": 18
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10266",
@@ -4423,7 +4423,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -4547,7 +4547,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.394,
-        "walksHits": 43
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10262",
@@ -4565,7 +4565,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -4689,7 +4689,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.467,
-        "walksHits": 7
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10261",
@@ -4707,7 +4707,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -4829,7 +4829,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 45,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 47,
         "caughtStealing": 0,
@@ -4976,7 +4976,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0,
-        "walksHits": 3
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10294",
@@ -4994,7 +4994,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0

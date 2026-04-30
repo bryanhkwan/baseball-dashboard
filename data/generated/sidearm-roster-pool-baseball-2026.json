@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T11:55:49.831Z",
+  "generatedAt": "2026-04-30T11:54:56.661Z",
   "season": 2026,
   "source": "Generated Sidearm baseball roster pool",
   "note": "This compact roster-only pool captures public school-site baseball rosters so non-appearing players can still enter coverage before they log a reachable NCAA boxscore.",
@@ -492,7 +492,7 @@
       "slug": "washington",
       "name": "Washington",
       "longName": "University of Washington",
-      "rosterPlayers": 36,
+      "rosterPlayers": 35,
       "rosterUrl": "https://gohuskies.com/sports/baseball/roster"
     },
     {
@@ -514,10 +514,10 @@
     "schoolsRequested": 73,
     "schoolsLoaded": 72,
     "schoolsFailed": 1,
-    "totalPlayers": 2747,
+    "totalPlayers": 2746,
     "roleCounts": {
       "Hitter": 1371,
-      "Pitcher": 1376
+      "Pitcher": 1375
     },
     "failures": [
       {
@@ -32524,7 +32524,7 @@
       "Charlie Feris",
       "Pitcher",
       "RHP",
-      "SR",
+      "JR",
       "R/R",
       "41",
       "Canyon Lake, Texas",
@@ -37473,20 +37473,6 @@
       "Chaparral HS",
       "Arizona / New Mexico State",
       "https://gohuskies.com/sports/baseball/roster/hayden-lewis/17544"
-    ],
-    [
-      "washington-17545",
-      "washington",
-      "Nate Tichy",
-      "Pitcher",
-      "RHP",
-      "SO",
-      "R/R",
-      "18",
-      "San Jose, Calif.",
-      "Pioneer HS",
-      "Pepperdine",
-      "https://gohuskies.com/sports/baseball/roster/nate-tichy/17545"
     ],
     [
       "washington-17524",

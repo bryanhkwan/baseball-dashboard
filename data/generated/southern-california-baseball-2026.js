@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.southern-california2026 = {
-  "generatedAt": "2026-04-29T11:55:29.793Z",
+  "generatedAt": "2026-04-30T11:54:30.402Z",
   "season": 2026,
   "school": {
     "slug": "southern-california",
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 7,
-        "assists": 9,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 22,
         "caughtStealing": 0,
@@ -368,7 +368,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.19,
-        "walksHits": 17
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18009",
@@ -508,7 +508,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
         "putouts": 249,
-        "assists": 29,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 202,
         "caughtStealing": 1,
@@ -653,7 +653,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 4,
         "putouts": 108,
-        "assists": 15,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 98,
         "caughtStealing": 2,
@@ -798,7 +798,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "stolenBases": 16,
         "stolenBasesAttempts": 22,
         "putouts": 58,
-        "assists": 89,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 227,
         "caughtStealing": 6,
@@ -943,7 +943,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "stolenBases": 11,
         "stolenBasesAttempts": 12,
         "putouts": 109,
-        "assists": 4,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 215,
         "caughtStealing": 1,
@@ -1088,7 +1088,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
         "putouts": 40,
-        "assists": 79,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 156,
         "caughtStealing": 1,
@@ -1233,7 +1233,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 2,
         "putouts": 16,
-        "assists": 43,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 152,
         "caughtStealing": 2,
@@ -1613,7 +1613,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.241,
-        "walksHits": 74
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17995",
@@ -1631,7 +1631,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -2131,7 +2131,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 64,
-        "assists": 4,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 18,
         "caughtStealing": 0,
@@ -2154,7 +2154,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 68
@@ -2276,7 +2276,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
         "putouts": 206,
-        "assists": 16,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 186,
         "caughtStealing": 1,
@@ -2299,7 +2299,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 14,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.875,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 223
@@ -2568,7 +2568,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "hitBatters": 5,
         "balks": 2,
         "opponentsBattingAverage": 0.224,
-        "walksHits": 47
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18016",
@@ -2586,7 +2586,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -2710,7 +2710,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0,
-        "walksHits": 1
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -2957,7 +2957,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.198,
-        "walksHits": 40
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18000",
@@ -2975,7 +2975,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -3099,7 +3099,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.14,
-        "walksHits": 17
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18018",
@@ -3241,7 +3241,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.2,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18019",
@@ -3259,7 +3259,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -3383,7 +3383,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "hitBatters": 1,
         "balks": 1,
         "opponentsBattingAverage": 0.351,
-        "walksHits": 16
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3503,7 +3503,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 51,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 140,
         "caughtStealing": 0,
@@ -3650,7 +3650,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "hitBatters": 4,
         "balks": 1,
         "opponentsBattingAverage": 0.14,
-        "walksHits": 63
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17992",
@@ -3668,7 +3668,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -3878,7 +3878,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 206,
-        "assists": 10,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 75,
         "caughtStealing": 0,
@@ -3901,7 +3901,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 3,
         "catchersInterference": 0,
         "totalChances": 218
@@ -4025,7 +4025,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.229,
-        "walksHits": 35
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18020",
@@ -4043,7 +4043,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -4255,7 +4255,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.222,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17994",
@@ -4397,7 +4397,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.1,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4519,7 +4519,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 2
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4641,7 +4641,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 7
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18027",
@@ -4659,7 +4659,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -5016,7 +5016,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.2,
-        "walksHits": 18
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17990",
@@ -5158,7 +5158,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.211,
-        "walksHits": 18
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18024",
@@ -5300,7 +5300,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.26,
-        "walksHits": 67
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "18025",
@@ -5318,7 +5318,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -5442,7 +5442,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.19,
-        "walksHits": 54
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17993",
@@ -5460,7 +5460,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9

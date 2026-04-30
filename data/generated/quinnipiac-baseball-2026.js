@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.quinnipiac2026 = {
-  "generatedAt": "2026-04-29T11:55:23.645Z",
+  "generatedAt": "2026-04-30T11:54:24.091Z",
   "season": 2026,
   "school": {
     "slug": "quinnipiac",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 7,
         "putouts": 40,
-        "assists": 52,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 133,
         "caughtStealing": 2,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 231,
-        "assists": 11,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 141,
         "caughtStealing": 0,
@@ -353,7 +353,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "doublePlays": 13,
         "stolenBasesAgainst": 10,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.769,
+        "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 0,
         "totalChances": 245
@@ -710,7 +710,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "hitBatters": 2,
         "balks": 2,
         "opponentsBattingAverage": 0.24,
-        "walksHits": 42
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15042",
@@ -728,7 +728,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 9,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -850,7 +850,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 12,
         "putouts": 107,
-        "assists": 86,
+        "assists": 0,
         "errors": 8,
         "plateAppearances": 219,
         "caughtStealing": 3,
@@ -995,7 +995,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "stolenBases": 8,
         "stolenBasesAttempts": 14,
         "putouts": 75,
-        "assists": 5,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 224,
         "caughtStealing": 6,
@@ -1140,7 +1140,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 11,
         "putouts": 42,
-        "assists": 97,
+        "assists": 0,
         "errors": 11,
         "plateAppearances": 210,
         "caughtStealing": 2,
@@ -1287,7 +1287,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.308,
-        "walksHits": 38
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15054",
@@ -1429,7 +1429,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "hitBatters": 1,
         "balks": 1,
         "opponentsBattingAverage": 0,
-        "walksHits": 5
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -1551,7 +1551,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.296,
-        "walksHits": 59
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15057",
@@ -1569,7 +1569,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.714,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -1693,7 +1693,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.292,
-        "walksHits": 22
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15045",
@@ -1711,7 +1711,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -1833,7 +1833,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 2,
         "putouts": 62,
-        "assists": 23,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 91,
         "caughtStealing": 2,
@@ -1978,7 +1978,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 55,
-        "assists": 8,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 34,
         "caughtStealing": 0,
@@ -2001,7 +2001,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 18,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.857,
+        "stolenBasesPercentage": null,
         "passedBalls": 8,
         "catchersInterference": 0,
         "totalChances": 64
@@ -2125,7 +2125,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.354,
-        "walksHits": 34
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15072",
@@ -2143,7 +2143,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -2267,7 +2267,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.321,
-        "walksHits": 12
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15078",
@@ -2285,7 +2285,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -2409,7 +2409,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "hitBatters": 11,
         "balks": 0,
         "opponentsBattingAverage": 0.285,
-        "walksHits": 66
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15077",
@@ -2427,7 +2427,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 9,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.9,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -2549,7 +2549,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 6,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 27,
         "caughtStealing": 1,
@@ -2696,7 +2696,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.283,
-        "walksHits": 25
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15070",
@@ -2714,7 +2714,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -2838,7 +2838,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.5,
-        "walksHits": 5
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -2958,7 +2958,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 10,
         "putouts": 246,
-        "assists": 18,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 136,
         "caughtStealing": 1,
@@ -2981,7 +2981,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 45,
         "caughtStealingBy": 6,
-        "stolenBasesPercentage": 0.882,
+        "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 1,
         "totalChances": 265
@@ -3103,7 +3103,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 15,
-        "assists": 19,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 57,
         "caughtStealing": 1,
@@ -3248,7 +3248,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 34,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 25,
         "caughtStealing": 0,
@@ -3393,7 +3393,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 22,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 49,
         "caughtStealing": 1,
@@ -3540,7 +3540,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "hitBatters": 9,
         "balks": 1,
         "opponentsBattingAverage": 0.237,
-        "walksHits": 30
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15050",
@@ -3558,7 +3558,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.875,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -3770,7 +3770,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.214,
-        "walksHits": 8
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15071",
@@ -3788,7 +3788,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -3912,7 +3912,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.34,
-        "walksHits": 30
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15074",
@@ -3930,7 +3930,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -4054,7 +4054,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.151,
-        "walksHits": 22
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15038",
@@ -4072,7 +4072,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -4196,7 +4196,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.289,
-        "walksHits": 59
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15040",
@@ -4214,7 +4214,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 10
@@ -4336,7 +4336,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 5,
         "putouts": 51,
-        "assists": 2,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 153,
         "caughtStealing": 3,
@@ -4483,7 +4483,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "hitBatters": 6,
         "balks": 1,
         "opponentsBattingAverage": 0.295,
-        "walksHits": 47
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15067",
@@ -4501,7 +4501,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.875,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -4915,7 +4915,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.283,
-        "walksHits": 76
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15051",
@@ -4933,7 +4933,7 @@ window.__BASEBALL_DATASETS__.quinnipiac2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 11

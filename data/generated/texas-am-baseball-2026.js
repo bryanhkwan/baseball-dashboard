@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.texas-am2026 = {
-  "generatedAt": "2026-04-29T11:55:34.388Z",
+  "generatedAt": "2026-04-30T11:54:34.991Z",
   "season": 2026,
   "school": {
     "slug": "texas-am",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 12,
-        "assists": 15,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 33,
         "caughtStealing": 0,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "stolenBases": 10,
         "stolenBasesAttempts": 11,
         "putouts": 74,
-        "assists": 2,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 161,
         "caughtStealing": 1,
@@ -475,7 +475,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 24,
-        "assists": 63,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 193,
         "caughtStealing": 0,
@@ -765,7 +765,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
         "putouts": 22,
-        "assists": 6,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 50,
         "caughtStealing": 0,
@@ -910,7 +910,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 49,
-        "assists": 89,
+        "assists": 0,
         "errors": 10,
         "plateAppearances": 177,
         "caughtStealing": 0,
@@ -1055,7 +1055,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 45,
-        "assists": 54,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 137,
         "caughtStealing": 0,
@@ -1200,7 +1200,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 6,
         "putouts": 267,
-        "assists": 30,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 211,
         "caughtStealing": 2,
@@ -1345,7 +1345,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 3,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 5,
         "caughtStealing": 0,
@@ -1492,7 +1492,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.227,
-        "walksHits": 6
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14992",
@@ -1815,7 +1815,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 3
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -2023,7 +2023,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 309,
-        "assists": 18,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 160,
         "caughtStealing": 0,
@@ -2046,7 +2046,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 18,
         "caughtStealingBy": 6,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 328
@@ -2168,7 +2168,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 43,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 16,
         "caughtStealing": 0,
@@ -2191,7 +2191,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 44
@@ -2440,7 +2440,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "hitBatters": 3,
         "balks": 1,
         "opponentsBattingAverage": 0.193,
-        "walksHits": 24
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15271",
@@ -2582,7 +2582,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.197,
-        "walksHits": 60
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14989",
@@ -2600,7 +2600,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -2724,7 +2724,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.282,
-        "walksHits": 66
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14985",
@@ -2742,7 +2742,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.714,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 10
@@ -2864,7 +2864,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
         "putouts": 34,
-        "assists": 2,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 106,
         "caughtStealing": 0,
@@ -3011,7 +3011,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.244,
-        "walksHits": 34
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14968",
@@ -3029,7 +3029,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -3153,7 +3153,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "hitBatters": 8,
         "balks": 0,
         "opponentsBattingAverage": 0.265,
-        "walksHits": 65
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14982",
@@ -3171,7 +3171,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.571,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -3383,7 +3383,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "hitBatters": 5,
         "balks": 1,
         "opponentsBattingAverage": 0.269,
-        "walksHits": 13
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15272",
@@ -3401,7 +3401,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -3525,7 +3525,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.306,
-        "walksHits": 43
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14965",
@@ -3667,7 +3667,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.286,
-        "walksHits": 2
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3914,7 +3914,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.371,
-        "walksHits": 32
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15264",
@@ -3932,7 +3932,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -4056,7 +4056,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.298,
-        "walksHits": 84
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14988",
@@ -4074,7 +4074,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -4198,7 +4198,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.225,
-        "walksHits": 29
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15260",
@@ -4216,7 +4216,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -4340,7 +4340,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.154,
-        "walksHits": 6
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15269",
@@ -4736,7 +4736,7 @@ window.__BASEBALL_DATASETS__.texas-am2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 7

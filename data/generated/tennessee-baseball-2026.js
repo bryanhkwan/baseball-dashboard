@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.tennessee2026 = {
-  "generatedAt": "2026-04-29T11:55:32.495Z",
+  "generatedAt": "2026-04-30T11:54:33.266Z",
   "season": 2026,
   "school": {
     "slug": "tennessee",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
         "putouts": 52,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 201,
         "caughtStealing": 0,
@@ -223,7 +223,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.1,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "22649",
@@ -363,7 +363,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 22,
-        "assists": 26,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 48,
         "caughtStealing": 0,
@@ -508,7 +508,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 55,
-        "assists": 96,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 163,
         "caughtStealing": 0,
@@ -653,7 +653,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 4,
         "putouts": 101,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 157,
         "caughtStealing": 3,
@@ -676,7 +676,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 104
@@ -800,7 +800,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.214,
-        "walksHits": 30
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "22650",
@@ -818,7 +818,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.571,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -942,7 +942,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.233,
-        "walksHits": 11
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "22651",
@@ -960,7 +960,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -1082,7 +1082,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 7,
         "putouts": 57,
-        "assists": 14,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 144,
         "caughtStealing": 1,
@@ -1227,7 +1227,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 5,
         "putouts": 23,
-        "assists": 63,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 209,
         "caughtStealing": 2,
@@ -1374,7 +1374,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "hitBatters": 5,
         "balks": 1,
         "opponentsBattingAverage": 0.211,
-        "walksHits": 68
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "22647",
@@ -1392,7 +1392,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -1514,7 +1514,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 14,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 7,
         "caughtStealing": 0,
@@ -1659,7 +1659,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
         "putouts": 69,
-        "assists": 3,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 195,
         "caughtStealing": 0,
@@ -1804,7 +1804,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 147,
-        "assists": 41,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 150,
         "caughtStealing": 0,
@@ -1949,7 +1949,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 14,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 13,
         "caughtStealing": 0,
@@ -2094,7 +2094,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 309,
-        "assists": 25,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 169,
         "caughtStealing": 0,
@@ -2117,7 +2117,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "doublePlays": 8,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 335
@@ -2386,7 +2386,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "hitBatters": 7,
         "balks": 2,
         "opponentsBattingAverage": 0.28,
-        "walksHits": 84
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "22652",
@@ -2404,7 +2404,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 10
@@ -2528,7 +2528,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "hitBatters": 0,
         "balks": 1,
         "opponentsBattingAverage": 0.205,
-        "walksHits": 41
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "22700",
@@ -2546,7 +2546,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -2668,7 +2668,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 16,
-        "assists": 17,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 86,
         "caughtStealing": 1,
@@ -2815,7 +2815,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.221,
-        "walksHits": 61
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "22640",
@@ -2833,7 +2833,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.889,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -2957,7 +2957,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.257,
-        "walksHits": 41
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "22634",
@@ -2975,7 +2975,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.429,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -3097,7 +3097,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 20,
-        "assists": 14,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 60,
         "caughtStealing": 0,
@@ -3242,7 +3242,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 239,
-        "assists": 18,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 108,
         "caughtStealing": 1,
@@ -3265,7 +3265,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "doublePlays": 2,
         "stolenBasesAgainst": 27,
         "caughtStealingBy": 6,
-        "stolenBasesPercentage": 0.818,
+        "stolenBasesPercentage": null,
         "passedBalls": 3,
         "catchersInterference": 0,
         "totalChances": 259
@@ -3475,7 +3475,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 1,
-        "assists": 2,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 2,
         "caughtStealing": 0,
@@ -3513,7 +3513,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.153,
-        "walksHits": 18
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "22715",
@@ -3531,7 +3531,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.833,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -3653,7 +3653,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 39,
-        "assists": 2,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 100,
         "caughtStealing": 1,
@@ -3676,7 +3676,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 41
@@ -3798,7 +3798,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 2,
-        "assists": 6,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 16,
         "caughtStealing": 1,
@@ -4033,7 +4033,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.153,
-        "walksHits": 13
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "22653",
@@ -4051,7 +4051,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4175,7 +4175,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.214,
-        "walksHits": 20
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "22639",
@@ -4193,7 +4193,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -4405,7 +4405,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "hitBatters": 1,
         "balks": 1,
         "opponentsBattingAverage": 0.231,
-        "walksHits": 9
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "22703",
@@ -4635,7 +4635,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.246,
-        "walksHits": 19
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "22701",
@@ -4653,7 +4653,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -4865,7 +4865,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.263,
-        "walksHits": 7
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "22706",
@@ -5007,7 +5007,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.255,
-        "walksHits": 30
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "22632",
@@ -5025,7 +5025,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -5149,7 +5149,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.2,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -5271,7 +5271,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.346,
-        "walksHits": 10
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "22709",

@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.james-madison2026 = {
-  "generatedAt": "2026-04-29T11:55:06.569Z",
+  "generatedAt": "2026-04-30T11:54:04.607Z",
   "season": 2026,
   "school": {
     "slug": "james-madison",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "stolenBases": 30,
         "stolenBasesAttempts": 32,
         "putouts": 81,
-        "assists": 91,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 225,
         "caughtStealing": 2,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "stolenBases": 13,
         "stolenBasesAttempts": 14,
         "putouts": 76,
-        "assists": 3,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 212,
         "caughtStealing": 1,
@@ -602,7 +602,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.279,
-        "walksHits": 63
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23808",
@@ -620,7 +620,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.833,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 10
@@ -742,7 +742,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
         "putouts": 263,
-        "assists": 19,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 157,
         "caughtStealing": 0,
@@ -889,7 +889,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "hitBatters": 5,
         "balks": 1,
         "opponentsBattingAverage": 0.316,
-        "walksHits": 33
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23793",
@@ -907,7 +907,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.833,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -1029,7 +1029,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "stolenBases": 21,
         "stolenBasesAttempts": 26,
         "putouts": 81,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 185,
         "caughtStealing": 5,
@@ -1174,7 +1174,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 130,
-        "assists": 8,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 57,
         "caughtStealing": 0,
@@ -1197,7 +1197,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 16,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 140
@@ -1446,7 +1446,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "hitBatters": 10,
         "balks": 0,
         "opponentsBattingAverage": 0.247,
-        "walksHits": 37
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23789",
@@ -1464,7 +1464,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -1586,7 +1586,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
         "putouts": 158,
-        "assists": 20,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 89,
         "caughtStealing": 1,
@@ -1609,7 +1609,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 55,
         "caughtStealingBy": 11,
-        "stolenBasesPercentage": 0.833,
+        "stolenBasesPercentage": null,
         "passedBalls": 5,
         "catchersInterference": 0,
         "totalChances": 182
@@ -1733,7 +1733,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "hitBatters": 4,
         "balks": 1,
         "opponentsBattingAverage": 0.28,
-        "walksHits": 40
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23786",
@@ -1751,7 +1751,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -2018,7 +2018,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 3,
-        "assists": 19,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 39,
         "caughtStealing": 1,
@@ -2163,7 +2163,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 60,
-        "assists": 11,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 51,
         "caughtStealing": 0,
@@ -2310,7 +2310,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "hitBatters": 2,
         "balks": 1,
         "opponentsBattingAverage": 0.365,
-        "walksHits": 25
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -2430,7 +2430,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
         "putouts": 34,
-        "assists": 73,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 111,
         "caughtStealing": 0,
@@ -2577,7 +2577,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.457,
-        "walksHits": 26
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23813",
@@ -2595,7 +2595,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -2717,7 +2717,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 0,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 6,
         "caughtStealing": 0,
@@ -2864,7 +2864,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.222,
-        "walksHits": 5
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -2984,7 +2984,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 21,
-        "assists": 49,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 155,
         "caughtStealing": 1,
@@ -3131,7 +3131,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.261,
-        "walksHits": 15
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23781",
@@ -3149,7 +3149,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -3398,7 +3398,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.242,
-        "walksHits": 43
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23785",
@@ -3416,7 +3416,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.2,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 10
@@ -3540,7 +3540,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "hitBatters": 2,
         "balks": 1,
         "opponentsBattingAverage": 0.286,
-        "walksHits": 10
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23779",
@@ -3558,7 +3558,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -3682,7 +3682,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.667,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23809",
@@ -3700,7 +3700,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -3824,7 +3824,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "hitBatters": 6,
         "balks": 2,
         "opponentsBattingAverage": 0.377,
-        "walksHits": 57
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23792",
@@ -3842,7 +3842,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -3966,7 +3966,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.4,
-        "walksHits": 17
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "24045",
@@ -3984,7 +3984,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4108,7 +4108,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "hitBatters": 11,
         "balks": 0,
         "opponentsBattingAverage": 0.269,
-        "walksHits": 28
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23795",
@@ -4126,7 +4126,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -4250,7 +4250,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "hitBatters": 2,
         "balks": 1,
         "opponentsBattingAverage": 0.338,
-        "walksHits": 38
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23784",
@@ -4268,7 +4268,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.333,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -4390,7 +4390,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "stolenBases": 13,
         "stolenBasesAttempts": 17,
         "putouts": 73,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 202,
         "caughtStealing": 4,
@@ -4537,7 +4537,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.342,
-        "walksHits": 46
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23788",
@@ -4555,7 +4555,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -4679,7 +4679,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.258,
-        "walksHits": 60
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23799",
@@ -4697,7 +4697,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.4,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 13
@@ -4819,7 +4819,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 53,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 50,
         "caughtStealing": 0,
@@ -4842,7 +4842,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.714,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 56
@@ -4966,7 +4966,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.298,
-        "walksHits": 46
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23790",
@@ -5108,7 +5108,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.307,
-        "walksHits": 58
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "23812",
@@ -5126,7 +5126,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.857,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -5248,7 +5248,7 @@ window.__BASEBALL_DATASETS__.james-madison2026 = {
         "stolenBases": 12,
         "stolenBasesAttempts": 13,
         "putouts": 25,
-        "assists": 44,
+        "assists": 0,
         "errors": 8,
         "plateAppearances": 102,
         "caughtStealing": 1,

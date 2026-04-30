@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.missouri2026 = {
-  "generatedAt": "2026-04-29T11:54:43.878Z",
+  "generatedAt": "2026-04-30T11:53:38.438Z",
   "season": 2026,
   "school": {
     "slug": "missouri",
@@ -186,7 +186,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 7,
         "putouts": 21,
-        "assists": 1,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 137,
         "caughtStealing": 1,
@@ -331,7 +331,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 2,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 6,
         "caughtStealing": 0,
@@ -476,7 +476,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 3,
-        "assists": 8,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 17,
         "caughtStealing": 1,
@@ -621,7 +621,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
         "putouts": 69,
-        "assists": 2,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 170,
         "caughtStealing": 1,
@@ -766,7 +766,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "stolenBases": 8,
         "stolenBasesAttempts": 10,
         "putouts": 136,
-        "assists": 7,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 139,
         "caughtStealing": 2,
@@ -1056,7 +1056,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 303,
-        "assists": 26,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 137,
         "caughtStealing": 0,
@@ -1079,7 +1079,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "doublePlays": 2,
         "stolenBasesAgainst": 46,
         "caughtStealingBy": 9,
-        "stolenBasesPercentage": 0.836,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 332
@@ -1203,7 +1203,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.262,
-        "walksHits": 27
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "33649",
@@ -1221,7 +1221,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.833,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -1431,7 +1431,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 24,
-        "assists": 38,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 104,
         "caughtStealing": 1,
@@ -1576,7 +1576,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 40,
-        "assists": 5,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 42,
         "caughtStealing": 0,
@@ -1721,7 +1721,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 6,
         "putouts": 27,
-        "assists": 2,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 81,
         "caughtStealing": 2,
@@ -1866,7 +1866,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 9,
-        "assists": 23,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 70,
         "caughtStealing": 0,
@@ -2011,7 +2011,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 33,
-        "assists": 53,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 103,
         "caughtStealing": 0,
@@ -2156,7 +2156,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 32,
-        "assists": 40,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 137,
         "caughtStealing": 0,
@@ -2303,7 +2303,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.326,
-        "walksHits": 28
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "33646",
@@ -2321,7 +2321,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -2443,7 +2443,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
         "putouts": 56,
-        "assists": 9,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 49,
         "caughtStealing": 0,
@@ -2466,7 +2466,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.714,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 67
@@ -2590,7 +2590,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "hitBatters": 3,
         "balks": 1,
         "opponentsBattingAverage": 0.314,
-        "walksHits": 15
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "33643",
@@ -2608,7 +2608,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -2732,7 +2732,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.263,
-        "walksHits": 19
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "33650",
@@ -2874,7 +2874,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "hitBatters": 3,
         "balks": 1,
         "opponentsBattingAverage": 0.21,
-        "walksHits": 22
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "33802",
@@ -2892,7 +2892,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -3014,7 +3014,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 5,
         "putouts": 138,
-        "assists": 6,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 187,
         "caughtStealing": 2,
@@ -3161,7 +3161,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 30
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "33804",
@@ -3301,7 +3301,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 11,
         "putouts": 44,
-        "assists": 70,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 154,
         "caughtStealing": 2,
@@ -3448,7 +3448,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "hitBatters": 3,
         "balks": 2,
         "opponentsBattingAverage": 0.176,
-        "walksHits": 28
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "33806",
@@ -3466,7 +3466,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -3590,7 +3590,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.256,
-        "walksHits": 16
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3712,7 +3712,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.273,
-        "walksHits": 37
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "33835",
@@ -3730,7 +3730,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -3942,7 +3942,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "hitBatters": 2,
         "balks": 1,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 16
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "33837",
@@ -3960,7 +3960,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -4084,7 +4084,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.167,
-        "walksHits": 11
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "33838",
@@ -4102,7 +4102,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4369,7 +4369,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 69,
-        "assists": 5,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 32,
         "caughtStealing": 1,
@@ -4392,7 +4392,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 12,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.857,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 74
@@ -4604,7 +4604,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "hitBatters": 4,
         "balks": 1,
         "opponentsBattingAverage": 0.249,
-        "walksHits": 75
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "33647",
@@ -4622,7 +4622,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.833,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -4834,7 +4834,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.222,
-        "walksHits": 37
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "33655",
@@ -4976,7 +4976,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.182,
-        "walksHits": 19
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "33842",
@@ -5118,7 +5118,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.267,
-        "walksHits": 34
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "33843",
@@ -5260,7 +5260,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.75,
-        "walksHits": 5
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -5382,7 +5382,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.2,
-        "walksHits": 19
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "33847",
@@ -5400,7 +5400,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -5612,7 +5612,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "hitBatters": 2,
         "balks": 2,
         "opponentsBattingAverage": 0.214,
-        "walksHits": 33
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "33845",
@@ -5630,7 +5630,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -5754,7 +5754,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.192,
-        "walksHits": 74
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "33652",
@@ -5772,7 +5772,7 @@ window.__BASEBALL_DATASETS__.missouri2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9

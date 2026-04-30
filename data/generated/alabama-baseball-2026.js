@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.alabama2026 = {
-  "generatedAt": "2026-04-29T11:54:48.890Z",
+  "generatedAt": "2026-04-30T11:53:45.340Z",
   "season": 2026,
   "school": {
     "slug": "alabama",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "stolenBases": 34,
         "stolenBasesAttempts": 34,
         "putouts": 72,
-        "assists": 122,
+        "assists": 0,
         "errors": 16,
         "plateAppearances": 246,
         "caughtStealing": 0,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 18,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 84,
         "caughtStealing": 0,
@@ -353,7 +353,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 21
@@ -475,7 +475,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "stolenBases": 14,
         "stolenBasesAttempts": 16,
         "putouts": 78,
-        "assists": 105,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 196,
         "caughtStealing": 2,
@@ -855,7 +855,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.239,
-        "walksHits": 36
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17291",
@@ -873,7 +873,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -997,7 +997,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "hitBatters": 10,
         "balks": 1,
         "opponentsBattingAverage": 0.224,
-        "walksHits": 70
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17289",
@@ -1015,7 +1015,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.6,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 14
@@ -1137,7 +1137,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "stolenBases": 14,
         "stolenBasesAttempts": 16,
         "putouts": 88,
-        "assists": 3,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 224,
         "caughtStealing": 2,
@@ -1282,7 +1282,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 6,
         "putouts": 167,
-        "assists": 15,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 201,
         "caughtStealing": 2,
@@ -1305,7 +1305,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "doublePlays": 2,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 5,
-        "stolenBasesPercentage": 0.615,
+        "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 0,
         "totalChances": 187
@@ -1429,7 +1429,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.189,
-        "walksHits": 61
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17406",
@@ -1447,7 +1447,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 10
@@ -1571,7 +1571,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.302,
-        "walksHits": 39
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17288",
@@ -1589,7 +1589,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -1711,7 +1711,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 279,
-        "assists": 8,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 148,
         "caughtStealing": 0,
@@ -1856,7 +1856,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 46,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 107,
         "caughtStealing": 0,
@@ -2091,7 +2091,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.349,
-        "walksHits": 28
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17286",
@@ -2109,7 +2109,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -2319,7 +2319,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "stolenBases": 7,
         "stolenBasesAttempts": 8,
         "putouts": 37,
-        "assists": 5,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 133,
         "caughtStealing": 1,
@@ -2464,7 +2464,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 0,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 13,
         "caughtStealing": 0,
@@ -2611,7 +2611,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.256,
-        "walksHits": 77
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17285",
@@ -2629,7 +2629,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 10,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.769,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 10
@@ -2751,7 +2751,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 81,
-        "assists": 5,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 58,
         "caughtStealing": 0,
@@ -3131,7 +3131,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.231,
-        "walksHits": 8
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17301",
@@ -3361,7 +3361,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.321,
-        "walksHits": 28
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17404",
@@ -3379,7 +3379,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -3503,7 +3503,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.276,
-        "walksHits": 36
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17295",
@@ -3521,7 +3521,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -3643,7 +3643,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 2,
-        "assists": 2,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 6,
         "caughtStealing": 0,
@@ -3790,7 +3790,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.182,
-        "walksHits": 8
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17299",
@@ -4018,7 +4018,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 19,
-        "assists": 78,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 194,
         "caughtStealing": 0,
@@ -4163,7 +4163,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 223,
-        "assists": 13,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 162,
         "caughtStealing": 0,
@@ -4186,7 +4186,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 31,
         "caughtStealingBy": 5,
-        "stolenBasesPercentage": 0.861,
+        "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 1,
         "totalChances": 240
@@ -4310,7 +4310,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.269,
-        "walksHits": 9
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17415",
@@ -4452,7 +4452,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.224,
-        "walksHits": 19
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17287",
@@ -4470,7 +4470,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.857,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -4716,7 +4716,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0,
-        "walksHits": 1
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17293",
@@ -5179,7 +5179,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.227,
-        "walksHits": 25
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17416",
@@ -5197,7 +5197,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.333,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -5357,7 +5357,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.235,
-        "walksHits": 5
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -5479,7 +5479,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.241,
-        "walksHits": 27
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17409",
@@ -5497,7 +5497,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -5621,7 +5621,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.211,
-        "walksHits": 16
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17294",
@@ -5763,7 +5763,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.196,
-        "walksHits": 20
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17297",
@@ -5781,7 +5781,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2

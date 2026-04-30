@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.michigan2026 = {
-  "generatedAt": "2026-04-29T11:55:14.049Z",
+  "generatedAt": "2026-04-30T11:54:14.016Z",
   "season": 2026,
   "school": {
     "slug": "michigan",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 9,
         "putouts": 82,
-        "assists": 2,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 160,
         "caughtStealing": 5,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 9,
         "putouts": 31,
-        "assists": 94,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 211,
         "caughtStealing": 3,
@@ -475,7 +475,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 11,
         "putouts": 81,
-        "assists": 4,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 164,
         "caughtStealing": 2,
@@ -620,7 +620,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 245,
-        "assists": 22,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 144,
         "caughtStealing": 0,
@@ -643,7 +643,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 19,
         "caughtStealingBy": 8,
-        "stolenBasesPercentage": 0.704,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 270
@@ -767,7 +767,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "hitBatters": 8,
         "balks": 1,
         "opponentsBattingAverage": 0.234,
-        "walksHits": 61
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27461",
@@ -909,7 +909,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.215,
-        "walksHits": 79
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27449",
@@ -927,7 +927,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 10
@@ -1049,7 +1049,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 21,
-        "assists": 4,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 15,
         "caughtStealing": 0,
@@ -1194,7 +1194,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 6,
         "putouts": 58,
-        "assists": 113,
+        "assists": 0,
         "errors": 10,
         "plateAppearances": 170,
         "caughtStealing": 1,
@@ -1341,7 +1341,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "hitBatters": 4,
         "balks": 1,
         "opponentsBattingAverage": 0.264,
-        "walksHits": 56
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27516",
@@ -1483,7 +1483,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.318,
-        "walksHits": 27
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27453",
@@ -1625,7 +1625,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.319,
-        "walksHits": 38
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27454",
@@ -1765,7 +1765,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "stolenBases": 10,
         "stolenBasesAttempts": 13,
         "putouts": 74,
-        "assists": 82,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 216,
         "caughtStealing": 3,
@@ -1910,7 +1910,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 31,
-        "assists": 25,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 70,
         "caughtStealing": 0,
@@ -2057,7 +2057,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.254,
-        "walksHits": 51
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27455",
@@ -2197,7 +2197,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 3,
         "putouts": 42,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 132,
         "caughtStealing": 2,
@@ -2344,7 +2344,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "hitBatters": 3,
         "balks": 1,
         "opponentsBattingAverage": 0.353,
-        "walksHits": 15
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27464",
@@ -2484,7 +2484,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 16,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 35,
         "caughtStealing": 0,
@@ -2776,7 +2776,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.323,
-        "walksHits": 13
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27467",
@@ -2794,7 +2794,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -2918,7 +2918,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.268,
-        "walksHits": 14
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27450",
@@ -3058,7 +3058,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 82,
-        "assists": 15,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 50,
         "caughtStealing": 0,
@@ -3081,7 +3081,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 7,
-        "stolenBasesPercentage": 0.533,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 99
@@ -3350,7 +3350,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "hitBatters": 1,
         "balks": 1,
         "opponentsBattingAverage": 0.163,
-        "walksHits": 17
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27520",
@@ -3490,7 +3490,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 10,
-        "assists": 2,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 46,
         "caughtStealing": 0,
@@ -3635,7 +3635,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 112,
-        "assists": 4,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 154,
         "caughtStealing": 0,
@@ -3818,7 +3818,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 10
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3940,7 +3940,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 60
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27518",
@@ -4170,7 +4170,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.154,
-        "walksHits": 9
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4290,7 +4290,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 207,
-        "assists": 5,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 99,
         "caughtStealing": 0,
@@ -4582,7 +4582,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 20
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27521",
@@ -4810,7 +4810,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 3,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 73,
         "caughtStealing": 0,
@@ -4957,7 +4957,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.256,
-        "walksHits": 39
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27451",
@@ -5099,7 +5099,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.227,
-        "walksHits": 9
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27452",
@@ -5117,7 +5117,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -5417,7 +5417,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.262,
-        "walksHits": 31
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "27471",
@@ -5645,7 +5645,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 0,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 32,
         "caughtStealing": 0,

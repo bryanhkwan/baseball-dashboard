@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
-  "generatedAt": "2026-04-29T11:54:44.627Z",
+  "generatedAt": "2026-04-30T11:53:39.563Z",
   "season": 2026,
   "school": {
     "slug": "sam-houston-st",
@@ -186,7 +186,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 5,
         "putouts": 18,
-        "assists": 27,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 64,
         "caughtStealing": 0,
@@ -331,7 +331,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 6,
-        "assists": 10,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 38,
         "caughtStealing": 0,
@@ -766,7 +766,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 3,
         "putouts": 225,
-        "assists": 22,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 137,
         "caughtStealing": 2,
@@ -789,7 +789,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "doublePlays": 2,
         "stolenBasesAgainst": 51,
         "caughtStealingBy": 11,
-        "stolenBasesPercentage": 0.823,
+        "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 0,
         "totalChances": 247
@@ -911,7 +911,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 4,
         "putouts": 23,
-        "assists": 44,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 154,
         "caughtStealing": 2,
@@ -1056,7 +1056,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "stolenBases": 16,
         "stolenBasesAttempts": 19,
         "putouts": 69,
-        "assists": 79,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 186,
         "caughtStealing": 3,
@@ -1201,7 +1201,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "stolenBases": 18,
         "stolenBasesAttempts": 21,
         "putouts": 44,
-        "assists": 100,
+        "assists": 0,
         "errors": 10,
         "plateAppearances": 226,
         "caughtStealing": 3,
@@ -1636,7 +1636,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 133,
-        "assists": 11,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 71,
         "caughtStealing": 0,
@@ -1659,7 +1659,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "doublePlays": 2,
         "stolenBasesAgainst": 13,
         "caughtStealingBy": 5,
-        "stolenBasesPercentage": 0.722,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 146
@@ -1781,7 +1781,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "stolenBases": 21,
         "stolenBasesAttempts": 31,
         "putouts": 104,
-        "assists": 3,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 235,
         "caughtStealing": 10,
@@ -1926,7 +1926,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 6,
         "putouts": 318,
-        "assists": 18,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 206,
         "caughtStealing": 2,
@@ -2218,7 +2218,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.833,
-        "walksHits": 6
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10324",
@@ -2358,7 +2358,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 7,
         "putouts": 50,
-        "assists": 4,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 126,
         "caughtStealing": 2,
@@ -2396,7 +2396,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.417,
-        "walksHits": 8
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10500",
@@ -2414,7 +2414,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 57
@@ -2538,7 +2538,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.383,
-        "walksHits": 40
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10492",
@@ -2556,7 +2556,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -2680,7 +2680,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0,
-        "walksHits": 2
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10331",
@@ -2698,7 +2698,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -2820,7 +2820,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 20,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 130,
         "caughtStealing": 0,
@@ -2967,7 +2967,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.8,
-        "walksHits": 9
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10490",
@@ -2985,7 +2985,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -3109,7 +3109,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "hitBatters": 10,
         "balks": 1,
         "opponentsBattingAverage": 0.202,
-        "walksHits": 69
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10328",
@@ -3127,7 +3127,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.7,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 20
@@ -3251,7 +3251,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "hitBatters": 3,
         "balks": 1,
         "opponentsBattingAverage": 0.186,
-        "walksHits": 36
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10489",
@@ -3269,7 +3269,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -3393,7 +3393,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.319,
-        "walksHits": 20
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3515,7 +3515,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "hitBatters": 5,
         "balks": 1,
         "opponentsBattingAverage": 0.312,
-        "walksHits": 63
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10321",
@@ -3533,7 +3533,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.833,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 10
@@ -3657,7 +3657,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "hitBatters": 8,
         "balks": 0,
         "opponentsBattingAverage": 0.285,
-        "walksHits": 71
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10496",
@@ -3675,7 +3675,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.857,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -3799,7 +3799,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.267,
-        "walksHits": 50
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10488",
@@ -3817,7 +3817,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -3941,7 +3941,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "hitBatters": 3,
         "balks": 1,
         "opponentsBattingAverage": 0.375,
-        "walksHits": 32
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10323",
@@ -3959,7 +3959,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4083,7 +4083,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.253,
-        "walksHits": 45
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10491",
@@ -4101,7 +4101,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -4225,7 +4225,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.313,
-        "walksHits": 23
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10495",
@@ -4455,7 +4455,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.262,
-        "walksHits": 33
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10494",
@@ -4473,7 +4473,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -4597,7 +4597,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.293,
-        "walksHits": 46
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10497",
@@ -4615,7 +4615,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4739,7 +4739,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.28,
-        "walksHits": 39
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10322",
@@ -4757,7 +4757,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -4881,7 +4881,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.233,
-        "walksHits": 29
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10327",
@@ -4899,7 +4899,7 @@ window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5

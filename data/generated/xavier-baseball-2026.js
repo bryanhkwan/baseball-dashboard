@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.xavier2026 = {
-  "generatedAt": "2026-04-29T11:55:41.455Z",
+  "generatedAt": "2026-04-30T11:54:43.286Z",
   "season": 2026,
   "school": {
     "slug": "xavier",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 8,
         "putouts": 97,
-        "assists": 1,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 128,
         "caughtStealing": 2,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 44,
-        "assists": 67,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 198,
         "caughtStealing": 0,
@@ -620,7 +620,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 11,
         "putouts": 76,
-        "assists": 7,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 196,
         "caughtStealing": 2,
@@ -765,7 +765,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
         "putouts": 36,
-        "assists": 2,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 147,
         "caughtStealing": 1,
@@ -910,7 +910,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 29,
-        "assists": 37,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 73,
         "caughtStealing": 0,
@@ -1177,7 +1177,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 42,
-        "assists": 75,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 139,
         "caughtStealing": 1,
@@ -1322,7 +1322,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 151,
-        "assists": 2,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 92,
         "caughtStealing": 0,
@@ -1469,7 +1469,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.5,
-        "walksHits": 6
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -1589,7 +1589,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 35,
-        "assists": 2,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 39,
         "caughtStealing": 0,
@@ -1612,7 +1612,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.833,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 38
@@ -1824,7 +1824,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.167,
-        "walksHits": 10
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12720",
@@ -1842,7 +1842,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -1964,7 +1964,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 1,
-        "assists": 5,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 10,
         "caughtStealing": 0,
@@ -2109,7 +2109,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 23,
-        "assists": 45,
+        "assists": 0,
         "errors": 10,
         "plateAppearances": 74,
         "caughtStealing": 1,
@@ -2254,7 +2254,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 1,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 4,
         "caughtStealing": 0,
@@ -2292,7 +2292,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 44
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12757",
@@ -2310,7 +2310,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -2432,7 +2432,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 266,
-        "assists": 24,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 175,
         "caughtStealing": 0,
@@ -2455,7 +2455,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "doublePlays": 3,
         "stolenBasesAgainst": 24,
         "caughtStealingBy": 15,
-        "stolenBasesPercentage": 0.615,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 294
@@ -2579,7 +2579,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.272,
-        "walksHits": 52
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12742",
@@ -2597,7 +2597,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -2721,7 +2721,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "hitBatters": 5,
         "balks": 1,
         "opponentsBattingAverage": 0.215,
-        "walksHits": 69
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12737",
@@ -2739,7 +2739,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.6,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -2951,7 +2951,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "hitBatters": 5,
         "balks": 2,
         "opponentsBattingAverage": 0.375,
-        "walksHits": 48
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12729",
@@ -3093,7 +3093,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "hitBatters": 9,
         "balks": 2,
         "opponentsBattingAverage": 0.281,
-        "walksHits": 53
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12734",
@@ -3111,7 +3111,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -3323,7 +3323,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.314,
-        "walksHits": 61
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12749",
@@ -3341,7 +3341,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 14
@@ -3465,7 +3465,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "hitBatters": 8,
         "balks": 0,
         "opponentsBattingAverage": 0.295,
-        "walksHits": 53
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12747",
@@ -3607,7 +3607,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.444,
-        "walksHits": 17
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12744",
@@ -3625,7 +3625,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -3835,7 +3835,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 57,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 21,
         "caughtStealing": 0,
@@ -3858,7 +3858,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 60
@@ -3982,7 +3982,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.269,
-        "walksHits": 68
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12723",
@@ -4000,7 +4000,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 17
@@ -4124,7 +4124,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.36,
-        "walksHits": 27
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12750",
@@ -4142,7 +4142,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -4354,7 +4354,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.425,
-        "walksHits": 25
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4476,7 +4476,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "hitBatters": 2,
         "balks": 1,
         "opponentsBattingAverage": 0.545,
-        "walksHits": 8
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4598,7 +4598,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.545,
-        "walksHits": 7
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12739",
@@ -4738,7 +4738,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
         "putouts": 211,
-        "assists": 16,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 197,
         "caughtStealing": 0,
@@ -4885,7 +4885,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0,
-        "walksHits": 2
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -5007,7 +5007,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.296,
-        "walksHits": 42
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12735",
@@ -5025,7 +5025,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -5149,7 +5149,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.279,
-        "walksHits": 21
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12745",
@@ -5167,7 +5167,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -5289,7 +5289,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
         "putouts": 37,
-        "assists": 44,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 94,
         "caughtStealing": 1,
@@ -5434,7 +5434,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 6,
         "putouts": 69,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 161,
         "caughtStealing": 1,
@@ -5581,7 +5581,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.244,
-        "walksHits": 22
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12719",
@@ -5721,7 +5721,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 0,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 0,
         "caughtStealing": 0,
@@ -5759,7 +5759,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "hitBatters": 3,
         "balks": 2,
         "opponentsBattingAverage": 0.384,
-        "walksHits": 54
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12725",
@@ -5777,7 +5777,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.2,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5

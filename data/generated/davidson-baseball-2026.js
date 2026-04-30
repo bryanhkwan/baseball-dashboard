@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.davidson2026 = {
-  "generatedAt": "2026-04-29T11:54:58.853Z",
+  "generatedAt": "2026-04-30T11:53:55.592Z",
   "season": 2026,
   "school": {
     "slug": "davidson",
@@ -109,8 +109,8 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
       "hitBatters": "74",
       "strikeoutsLooking": "80",
       "intentionalWalks": "1",
-      "inheritedRunners": "16",
-      "inheritedRunnersThatScored": "18",
+      "inheritedRunners": "18",
+      "inheritedRunnersThatScored": "17",
       "sacrificeHitsAllowed": "28",
       "sacrificeFliesAllowed": "21",
       "catchersInterferenceAllowed": "0",
@@ -310,7 +310,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 7,
         "putouts": 51,
-        "assists": 65,
+        "assists": 0,
         "errors": 17,
         "plateAppearances": 144,
         "caughtStealing": 1,
@@ -436,17 +436,17 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "gamesStarted": 7,
         "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 9.91,
+        "earnedRunAverage": 9.57,
         "whip": 2.24,
         "wins": 2,
-        "losses": 2,
+        "losses": 3,
         "saves": 1,
         "shutouts": 0,
         "inningsPitched": 26.333333333333332,
         "inningsPitchedDisplay": "26.1",
         "hitsAllowed": 43,
-        "runsAllowed": 36,
-        "earnedRunsAllowed": 29,
+        "runsAllowed": 35,
+        "earnedRunsAllowed": 28,
         "walksAllowed": 16,
         "strikeouts": 17,
         "doublesAllowed": 9,
@@ -454,10 +454,10 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "homeRunsAllowed": 6,
         "opponentsAtBats": 118,
         "wildPitches": 6,
-        "hitBatters": 4,
+        "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.364,
-        "walksHits": 59
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11620",
@@ -475,7 +475,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -495,14 +495,14 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         },
         "summary": "Jacob Vokal gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.91",
+          "ERA 9.57",
           "WHIP 2.24",
           "K/9 5.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.91"
+            "value": "9.57"
           },
           {
             "label": "WHIP",
@@ -597,7 +597,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 7,
         "putouts": 32,
-        "assists": 70,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 213,
         "caughtStealing": 1,
@@ -742,7 +742,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 52,
-        "assists": 39,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 101,
         "caughtStealing": 1,
@@ -1032,7 +1032,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 21,
-        "assists": 29,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 55,
         "caughtStealing": 0,
@@ -1177,7 +1177,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 5,
         "putouts": 12,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 37,
         "caughtStealing": 0,
@@ -1322,7 +1322,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 7,
         "putouts": 113,
-        "assists": 33,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 199,
         "caughtStealing": 2,
@@ -1467,7 +1467,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 1,
-        "assists": 2,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 2,
         "caughtStealing": 0,
@@ -1612,7 +1612,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 9,
         "putouts": 81,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 178,
         "caughtStealing": 0,
@@ -1904,7 +1904,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.243,
-        "walksHits": 49
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11594",
@@ -1922,7 +1922,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -2046,7 +2046,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 32
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11627",
@@ -2064,7 +2064,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.857,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -2186,7 +2186,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 213,
-        "assists": 5,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 128,
         "caughtStealing": 0,
@@ -2333,7 +2333,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "hitBatters": 4,
         "balks": 2,
         "opponentsBattingAverage": 0.171,
-        "walksHits": 57
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11593",
@@ -2351,7 +2351,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.571,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -2708,7 +2708,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.455,
-        "walksHits": 9
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -2830,7 +2830,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "hitBatters": 12,
         "balks": 0,
         "opponentsBattingAverage": 0.262,
-        "walksHits": 56
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11599",
@@ -2848,7 +2848,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.833,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 13
@@ -2970,7 +2970,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 28,
-        "assists": 3,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 202,
         "caughtStealing": 0,
@@ -2993,7 +2993,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 9,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.9,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 33
@@ -3115,7 +3115,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 157,
-        "assists": 22,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 83,
         "caughtStealing": 0,
@@ -3138,7 +3138,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 43,
         "caughtStealingBy": 13,
-        "stolenBasesPercentage": 0.768,
+        "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 0,
         "totalChances": 181
@@ -3262,7 +3262,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "hitBatters": 4,
         "balks": 1,
         "opponentsBattingAverage": 0.36,
-        "walksHits": 45
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11603",
@@ -3280,7 +3280,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.714,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -3402,7 +3402,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 157,
-        "assists": 14,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 102,
         "caughtStealing": 0,
@@ -3425,7 +3425,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 40,
         "caughtStealingBy": 5,
-        "stolenBasesPercentage": 0.889,
+        "stolenBasesPercentage": null,
         "passedBalls": 5,
         "catchersInterference": 1,
         "totalChances": 174
@@ -3585,7 +3585,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.167,
-        "walksHits": 8
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11610",
@@ -3603,7 +3603,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -3727,7 +3727,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3849,7 +3849,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.4,
-        "walksHits": 23
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11614",
@@ -3867,7 +3867,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -4136,7 +4136,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "hitBatters": 9,
         "balks": 0,
         "opponentsBattingAverage": 0.203,
-        "walksHits": 22
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11605",
@@ -4154,7 +4154,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -4278,7 +4278,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "hitBatters": 5,
         "balks": 2,
         "opponentsBattingAverage": 0.256,
-        "walksHits": 45
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11608",
@@ -4296,7 +4296,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -4420,7 +4420,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.4,
-        "walksHits": 8
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4542,7 +4542,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 1,
-        "walksHits": 3
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11621",
@@ -4560,7 +4560,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -4684,7 +4684,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.328,
-        "walksHits": 32
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11612",
@@ -4702,7 +4702,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -4805,17 +4805,17 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "gamesStarted": 0,
         "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 8.84,
+        "earnedRunAverage": 9.33,
         "whip": 1.64,
         "wins": 1,
-        "losses": 2,
+        "losses": 1,
         "saves": 2,
         "shutouts": 0,
         "inningsPitched": 18.333333333333332,
         "inningsPitchedDisplay": "18.1",
         "hitsAllowed": 19,
-        "runsAllowed": 22,
-        "earnedRunsAllowed": 18,
+        "runsAllowed": 23,
+        "earnedRunsAllowed": 19,
         "walksAllowed": 11,
         "strikeouts": 13,
         "doublesAllowed": 3,
@@ -4823,10 +4823,10 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "homeRunsAllowed": 5,
         "opponentsAtBats": 74,
         "wildPitches": 4,
-        "hitBatters": 3,
+        "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.257,
-        "walksHits": 30
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11617",
@@ -4844,7 +4844,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4864,14 +4864,14 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         },
         "summary": "Carson Taggart gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 8.84",
+          "ERA 9.33",
           "WHIP 1.64",
           "K/9 6.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.84"
+            "value": "9.33"
           },
           {
             "label": "WHIP",
@@ -5004,7 +5004,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.143,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -5126,7 +5126,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.34,
-        "walksHits": 91
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11611",
@@ -5144,7 +5144,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 11,
         "caughtStealingBy": 8,
-        "stolenBasesPercentage": 0.579,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -5268,7 +5268,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.214,
-        "walksHits": 10
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11600",
@@ -5286,7 +5286,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -5410,7 +5410,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.317,
-        "walksHits": 56
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11623",
@@ -5428,7 +5428,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 17
@@ -5573,7 +5573,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 11
@@ -5972,14 +5972,14 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         },
         "summary": "Jacob Vokal gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.91",
+          "ERA 9.57",
           "WHIP 2.24",
           "K/9 5.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.91"
+            "value": "9.57"
           },
           {
             "label": "WHIP",
@@ -8110,14 +8110,14 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         },
         "summary": "Carson Taggart gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 8.84",
+          "ERA 9.33",
           "WHIP 1.64",
           "K/9 6.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.84"
+            "value": "9.33"
           },
           {
             "label": "WHIP",

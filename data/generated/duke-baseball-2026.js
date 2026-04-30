@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.duke2026 = {
-  "generatedAt": "2026-04-29T11:55:00.425Z",
+  "generatedAt": "2026-04-30T11:53:57.408Z",
   "season": 2026,
   "school": {
     "slug": "duke",
@@ -475,7 +475,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 9,
         "putouts": 29,
-        "assists": 90,
+        "assists": 0,
         "errors": 10,
         "plateAppearances": 186,
         "caughtStealing": 3,
@@ -620,7 +620,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "stolenBases": 19,
         "stolenBasesAttempts": 24,
         "putouts": 71,
-        "assists": 1,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 200,
         "caughtStealing": 5,
@@ -765,7 +765,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "stolenBases": 10,
         "stolenBasesAttempts": 10,
         "putouts": 286,
-        "assists": 17,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 163,
         "caughtStealing": 0,
@@ -788,7 +788,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 98,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.97,
+        "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 1,
         "totalChances": 307
@@ -910,7 +910,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "stolenBases": 18,
         "stolenBasesAttempts": 21,
         "putouts": 71,
-        "assists": 111,
+        "assists": 0,
         "errors": 16,
         "plateAppearances": 216,
         "caughtStealing": 3,
@@ -1057,7 +1057,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.397,
-        "walksHits": 39
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "24046",
@@ -1197,7 +1197,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "stolenBases": 23,
         "stolenBasesAttempts": 27,
         "putouts": 68,
-        "assists": 43,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 219,
         "caughtStealing": 4,
@@ -1489,7 +1489,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.255,
-        "walksHits": 77
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "24029",
@@ -1507,7 +1507,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -1631,7 +1631,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.313,
-        "walksHits": 21
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "24030",
@@ -2217,7 +2217,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 69,
-        "assists": 1,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 77,
         "caughtStealing": 0,
@@ -2362,7 +2362,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 10,
         "putouts": 82,
-        "assists": 6,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 72,
         "caughtStealing": 1,
@@ -2385,7 +2385,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 88
@@ -2507,7 +2507,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 15,
-        "assists": 1,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 11,
         "caughtStealing": 0,
@@ -2530,7 +2530,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 19
@@ -2652,7 +2652,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "stolenBases": 12,
         "stolenBasesAttempts": 14,
         "putouts": 73,
-        "assists": 2,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 173,
         "caughtStealing": 2,
@@ -2944,7 +2944,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.256,
-        "walksHits": 14
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "24034",
@@ -2962,7 +2962,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -3084,7 +3084,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "stolenBases": 13,
         "stolenBasesAttempts": 15,
         "putouts": 269,
-        "assists": 14,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 151,
         "caughtStealing": 2,
@@ -3229,7 +3229,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 7,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 6,
         "caughtStealing": 0,
@@ -3376,7 +3376,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "hitBatters": 5,
         "balks": 1,
         "opponentsBattingAverage": 0.224,
-        "walksHits": 24
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "24057",
@@ -3518,7 +3518,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "hitBatters": 11,
         "balks": 0,
         "opponentsBattingAverage": 0.203,
-        "walksHits": 55
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "24058",
@@ -3660,7 +3660,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 25
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3782,7 +3782,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.319,
-        "walksHits": 33
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "24060",
@@ -3924,7 +3924,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "hitBatters": 7,
         "balks": 2,
         "opponentsBattingAverage": 0.261,
-        "walksHits": 30
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "24061",
@@ -3942,7 +3942,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -4066,7 +4066,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "hitBatters": 9,
         "balks": 0,
         "opponentsBattingAverage": 0.218,
-        "walksHits": 58
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "24062",
@@ -4206,7 +4206,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 1,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 7,
         "caughtStealing": 0,
@@ -4351,7 +4351,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
         "putouts": 42,
-        "assists": 85,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 134,
         "caughtStealing": 1,
@@ -4498,7 +4498,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "hitBatters": 5,
         "balks": 1,
         "opponentsBattingAverage": 0.264,
-        "walksHits": 35
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "24035",
@@ -4640,7 +4640,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 3
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4762,7 +4762,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.212,
-        "walksHits": 13
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "24036",
@@ -4780,7 +4780,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4992,7 +4992,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "hitBatters": 11,
         "balks": 2,
         "opponentsBattingAverage": 0.282,
-        "walksHits": 39
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "24037",
@@ -5134,7 +5134,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "hitBatters": 3,
         "balks": 1,
         "opponentsBattingAverage": 0.321,
-        "walksHits": 60
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "24039",
@@ -5152,7 +5152,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -5276,7 +5276,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.206,
-        "walksHits": 40
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "24067",
@@ -5543,7 +5543,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "hitBatters": 9,
         "balks": 1,
         "opponentsBattingAverage": 0.267,
-        "walksHits": 29
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "24068",
@@ -5898,7 +5898,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.262,
-        "walksHits": 19
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "24069",

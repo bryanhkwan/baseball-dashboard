@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.indiana2026 = {
-  "generatedAt": "2026-04-29T11:55:05.172Z",
+  "generatedAt": "2026-04-30T11:54:03.206Z",
   "season": 2026,
   "school": {
     "slug": "indiana",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 11,
         "putouts": 126,
-        "assists": 10,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 216,
         "caughtStealing": 2,
@@ -208,7 +208,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 10,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.769,
+        "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 0,
         "totalChances": 138
@@ -475,7 +475,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 5,
         "putouts": 33,
-        "assists": 68,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 200,
         "caughtStealing": 2,
@@ -620,7 +620,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "stolenBases": 12,
         "stolenBasesAttempts": 14,
         "putouts": 52,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 122,
         "caughtStealing": 2,
@@ -765,7 +765,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 180,
-        "assists": 18,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 76,
         "caughtStealing": 0,
@@ -788,7 +788,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 14,
         "caughtStealingBy": 5,
-        "stolenBasesPercentage": 0.737,
+        "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 0,
         "totalChances": 198
@@ -910,7 +910,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 0,
-        "assists": 4,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 16,
         "caughtStealing": 0,
@@ -1055,7 +1055,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 4,
-        "assists": 9,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 21,
         "caughtStealing": 0,
@@ -1452,7 +1452,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.308,
-        "walksHits": 12
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "20857",
@@ -1594,7 +1594,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "hitBatters": 17,
         "balks": 1,
         "opponentsBattingAverage": 0.234,
-        "walksHits": 64
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "20401",
@@ -1612,7 +1612,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -1734,7 +1734,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 7,
         "putouts": 60,
-        "assists": 88,
+        "assists": 0,
         "errors": 12,
         "plateAppearances": 213,
         "caughtStealing": 3,
@@ -1881,7 +1881,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.214,
-        "walksHits": 11
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "20391",
@@ -1899,7 +1899,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -2021,7 +2021,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 66,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 157,
         "caughtStealing": 0,
@@ -2168,7 +2168,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "hitBatters": 8,
         "balks": 0,
         "opponentsBattingAverage": 0.257,
-        "walksHits": 49
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "20874",
@@ -2186,7 +2186,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -2543,7 +2543,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.232,
-        "walksHits": 37
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "20402",
@@ -2561,7 +2561,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -2773,7 +2773,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "hitBatters": 6,
         "balks": 2,
         "opponentsBattingAverage": 0.321,
-        "walksHits": 70
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "20859",
@@ -2791,7 +2791,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.333,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -2913,7 +2913,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 50,
-        "assists": 91,
+        "assists": 0,
         "errors": 8,
         "plateAppearances": 170,
         "caughtStealing": 0,
@@ -3273,7 +3273,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.311,
-        "walksHits": 53
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "20861",
@@ -3291,7 +3291,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.714,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -3415,7 +3415,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "hitBatters": 5,
         "balks": 1,
         "opponentsBattingAverage": 0.265,
-        "walksHits": 72
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "20862",
@@ -3433,7 +3433,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -3645,7 +3645,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.625,
-        "walksHits": 9
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "20864",
@@ -3663,7 +3663,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -3787,7 +3787,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.4,
-        "walksHits": 7
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "20865",
@@ -3805,7 +3805,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -4015,7 +4015,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 309,
-        "assists": 13,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 214,
         "caughtStealing": 0,
@@ -4162,7 +4162,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.176,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4372,7 +4372,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "hitBatters": 5,
         "balks": 1,
         "opponentsBattingAverage": 0.297,
-        "walksHits": 38
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "20867",
@@ -4390,7 +4390,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -4514,7 +4514,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.312,
-        "walksHits": 63
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "20404",
@@ -4532,7 +4532,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -4744,7 +4744,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.216,
-        "walksHits": 48
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "20400",
@@ -4762,7 +4762,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.4,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -4886,7 +4886,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.393,
-        "walksHits": 39
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "20869",
@@ -4904,7 +4904,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -5026,7 +5026,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 144,
-        "assists": 11,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 187,
         "caughtStealing": 0,
@@ -5049,7 +5049,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 9,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 156
@@ -5173,7 +5173,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.305,
-        "walksHits": 23
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "20870",
@@ -5191,7 +5191,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -5579,7 +5579,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.353,
-        "walksHits": 26
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "20392",
@@ -5597,7 +5597,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -5721,7 +5721,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.26,
-        "walksHits": 28
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "20878",
@@ -5739,7 +5739,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1

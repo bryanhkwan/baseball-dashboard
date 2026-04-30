@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.grand-canyon2026 = {
-  "generatedAt": "2026-04-29T11:55:04.288Z",
+  "generatedAt": "2026-04-30T11:54:02.420Z",
   "season": 2026,
   "school": {
     "slug": "grand-canyon",
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 15,
-        "assists": 19,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 43,
         "caughtStealing": 0,
@@ -600,7 +600,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
         "putouts": 238,
-        "assists": 26,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 151,
         "caughtStealing": 1,
@@ -623,7 +623,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 20,
         "caughtStealingBy": 6,
-        "stolenBasesPercentage": 0.769,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 267
@@ -890,7 +890,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 6,
         "putouts": 50,
-        "assists": 85,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 176,
         "caughtStealing": 2,
@@ -1123,7 +1123,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
         "putouts": 78,
-        "assists": 8,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 185,
         "caughtStealing": 0,
@@ -1415,7 +1415,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.324,
-        "walksHits": 37
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14273",
@@ -1700,7 +1700,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 5,
         "putouts": 91,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 123,
         "caughtStealing": 0,
@@ -1847,7 +1847,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.231,
-        "walksHits": 12
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -1969,7 +1969,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 3
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -2089,7 +2089,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 18,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 47,
         "caughtStealing": 0,
@@ -2127,7 +2127,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.412,
-        "walksHits": 9
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14282",
@@ -2269,7 +2269,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.279,
-        "walksHits": 19
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14288",
@@ -2409,7 +2409,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "stolenBases": 8,
         "stolenBasesAttempts": 9,
         "putouts": 317,
-        "assists": 24,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 196,
         "caughtStealing": 1,
@@ -2556,7 +2556,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "hitBatters": 8,
         "balks": 1,
         "opponentsBattingAverage": 0.313,
-        "walksHits": 86
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14304",
@@ -2698,7 +2698,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.354,
-        "walksHits": 38
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14286",
@@ -2840,7 +2840,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.324,
-        "walksHits": 39
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14311",
@@ -3003,7 +3003,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -3127,7 +3127,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.284,
-        "walksHits": 38
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14271",
@@ -3394,7 +3394,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.304,
-        "walksHits": 45
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14274",
@@ -3536,7 +3536,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "hitBatters": 8,
         "balks": 0,
         "opponentsBattingAverage": 0.298,
-        "walksHits": 60
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14267",
@@ -3678,7 +3678,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "hitBatters": 9,
         "balks": 1,
         "opponentsBattingAverage": 0.234,
-        "walksHits": 59
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14303",
@@ -4053,7 +4053,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.407,
-        "walksHits": 15
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14278",
@@ -4071,7 +4071,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4193,7 +4193,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 83,
-        "assists": 6,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 70,
         "caughtStealing": 1,
@@ -4216,7 +4216,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 11,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 92
@@ -4426,7 +4426,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 6,
-        "assists": 19,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 26,
         "caughtStealing": 0,
@@ -4659,7 +4659,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 43,
-        "assists": 51,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 89,
         "caughtStealing": 0,
@@ -4894,7 +4894,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.353,
-        "walksHits": 20
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14301",
@@ -4912,7 +4912,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -5034,7 +5034,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
         "putouts": 18,
-        "assists": 41,
+        "assists": 0,
         "errors": 12,
         "plateAppearances": 103,
         "caughtStealing": 0,
@@ -5181,7 +5181,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.34,
-        "walksHits": 22
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14310",
@@ -5323,7 +5323,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.311,
-        "walksHits": 53
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14308",
@@ -5463,7 +5463,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "stolenBases": 7,
         "stolenBasesAttempts": 10,
         "putouts": 22,
-        "assists": 43,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 110,
         "caughtStealing": 3,
@@ -5755,7 +5755,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.278,
-        "walksHits": 63
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14300",
@@ -5773,7 +5773,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 12
@@ -5895,7 +5895,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 32,
-        "assists": 2,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 79,
         "caughtStealing": 1,
@@ -6042,7 +6042,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 3
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {

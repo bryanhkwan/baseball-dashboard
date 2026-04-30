@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.creighton2026 = {
-  "generatedAt": "2026-04-29T11:54:57.064Z",
+  "generatedAt": "2026-04-30T11:53:53.781Z",
   "season": 2026,
   "school": {
     "slug": "creighton",
@@ -87,7 +87,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "24",
-      "saves": "6",
+      "saves": "7",
       "losses": "17",
       "gamesStarted": "0",
       "gamesCompleted": "0",
@@ -118,7 +118,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
       "flyouts": "350",
       "groundouts": "343",
       "teamUnearnedRuns": "0",
-      "saveRecord": "6",
+      "saveRecord": "7",
       "pickoff": "0"
     }
   },
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "stolenBases": 7,
         "stolenBasesAttempts": 8,
         "putouts": 23,
-        "assists": 17,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 75,
         "caughtStealing": 1,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 250,
-        "assists": 22,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 183,
         "caughtStealing": 0,
@@ -353,7 +353,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 39,
         "caughtStealingBy": 14,
-        "stolenBasesPercentage": 0.736,
+        "stolenBasesPercentage": null,
         "passedBalls": 6,
         "catchersInterference": 0,
         "totalChances": 275
@@ -475,7 +475,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
         "putouts": 53,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 147,
         "caughtStealing": 1,
@@ -620,7 +620,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "stolenBases": 7,
         "stolenBasesAttempts": 10,
         "putouts": 75,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 198,
         "caughtStealing": 3,
@@ -765,7 +765,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
         "putouts": 95,
-        "assists": 18,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 205,
         "caughtStealing": 1,
@@ -788,7 +788,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 17,
         "caughtStealingBy": 9,
-        "stolenBasesPercentage": 0.654,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 113
@@ -910,7 +910,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "stolenBases": 10,
         "stolenBasesAttempts": 11,
         "putouts": 96,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 198,
         "caughtStealing": 1,
@@ -1268,7 +1268,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 90,
-        "assists": 2,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 53,
         "caughtStealing": 0,
@@ -1413,7 +1413,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "stolenBases": 18,
         "stolenBasesAttempts": 20,
         "putouts": 68,
-        "assists": 112,
+        "assists": 0,
         "errors": 8,
         "plateAppearances": 217,
         "caughtStealing": 2,
@@ -1558,7 +1558,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 5,
         "putouts": 53,
-        "assists": 84,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 142,
         "caughtStealing": 0,
@@ -1705,7 +1705,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "hitBatters": 13,
         "balks": 0,
         "opponentsBattingAverage": 0.224,
-        "walksHits": 66
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8656",
@@ -1723,7 +1723,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 11,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 11
@@ -1847,7 +1847,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.192,
-        "walksHits": 55
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8661",
@@ -1865,7 +1865,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.727,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -1987,7 +1987,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "stolenBases": 8,
         "stolenBasesAttempts": 11,
         "putouts": 34,
-        "assists": 68,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 211,
         "caughtStealing": 3,
@@ -2134,7 +2134,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.34,
-        "walksHits": 47
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8734",
@@ -2152,7 +2152,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -2276,7 +2276,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.217,
-        "walksHits": 21
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8646",
@@ -2294,7 +2294,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -2680,7 +2680,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 238,
-        "assists": 12,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 167,
         "caughtStealing": 1,
@@ -2827,7 +2827,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.389,
-        "walksHits": 31
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8759",
@@ -2845,7 +2845,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -2969,7 +2969,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "hitBatters": 9,
         "balks": 1,
         "opponentsBattingAverage": 0.303,
-        "walksHits": 57
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8649",
@@ -2987,7 +2987,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -3111,7 +3111,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.286,
-        "walksHits": 9
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8659",
@@ -3129,7 +3129,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -3381,7 +3381,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "whip": 1.3,
         "wins": 0,
         "losses": 2,
-        "saves": 1,
+        "saves": 2,
         "shutouts": 0,
         "inningsPitched": 35.333333333333336,
         "inningsPitchedDisplay": "35.1",
@@ -3398,7 +3398,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.237,
-        "walksHits": 46
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8653",
@@ -3416,7 +3416,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -3538,7 +3538,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 0,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 1,
         "caughtStealing": 0,
@@ -3576,7 +3576,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.329,
-        "walksHits": 30
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8641",
@@ -3594,7 +3594,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -3718,7 +3718,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.278,
-        "walksHits": 48
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8639",
@@ -3736,7 +3736,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 6,
-        "stolenBasesPercentage": 0.4,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -3948,7 +3948,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.2,
-        "walksHits": 18
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8651",
@@ -3966,7 +3966,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -4090,7 +4090,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.299,
-        "walksHits": 52
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8739",
@@ -4108,7 +4108,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.625,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -4232,7 +4232,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0,
-        "walksHits": 1
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4354,7 +4354,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "hitBatters": 12,
         "balks": 0,
         "opponentsBattingAverage": 0.27,
-        "walksHits": 25
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8740",
@@ -4372,7 +4372,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4496,7 +4496,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.435,
-        "walksHits": 14
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8657",
@@ -4638,7 +4638,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4885,7 +4885,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.154,
-        "walksHits": 17
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8741",
@@ -5027,7 +5027,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.125,
-        "walksHits": 14
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "8742",
@@ -5045,7 +5045,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3

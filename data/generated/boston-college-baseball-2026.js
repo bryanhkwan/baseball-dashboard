@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.boston-college2026 = {
-  "generatedAt": "2026-04-29T11:54:50.563Z",
+  "generatedAt": "2026-04-30T11:53:46.998Z",
   "season": 2026,
   "school": {
     "slug": "boston-college",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 15,
-        "assists": 21,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 39,
         "caughtStealing": 0,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "stolenBases": 17,
         "stolenBasesAttempts": 19,
         "putouts": 84,
-        "assists": 101,
+        "assists": 0,
         "errors": 8,
         "plateAppearances": 248,
         "caughtStealing": 2,
@@ -602,7 +602,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 1
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -722,7 +722,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 4,
         "putouts": 2,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 50,
         "caughtStealing": 2,
@@ -869,7 +869,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "hitBatters": 4,
         "balks": 2,
         "opponentsBattingAverage": 0.26,
-        "walksHits": 76
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "26392",
@@ -887,7 +887,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -1242,7 +1242,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 202,
-        "assists": 24,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 128,
         "caughtStealing": 0,
@@ -1265,7 +1265,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 14,
         "caughtStealingBy": 10,
-        "stolenBasesPercentage": 0.583,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 227
@@ -1387,7 +1387,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
         "putouts": 13,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 43,
         "caughtStealing": 1,
@@ -1532,7 +1532,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "stolenBases": 7,
         "stolenBasesAttempts": 8,
         "putouts": 27,
-        "assists": 72,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 174,
         "caughtStealing": 1,
@@ -1700,7 +1700,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 19
@@ -1822,7 +1822,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "stolenBases": 24,
         "stolenBasesAttempts": 27,
         "putouts": 49,
-        "assists": 105,
+        "assists": 0,
         "errors": 9,
         "plateAppearances": 254,
         "caughtStealing": 3,
@@ -1969,7 +1969,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.191,
-        "walksHits": 17
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "26409",
@@ -2401,7 +2401,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "hitBatters": 6,
         "balks": 1,
         "opponentsBattingAverage": 0.28,
-        "walksHits": 72
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "26406",
@@ -2419,7 +2419,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -2688,7 +2688,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.21,
-        "walksHits": 50
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "26405",
@@ -2828,7 +2828,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 156,
-        "assists": 11,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 59,
         "caughtStealing": 0,
@@ -2866,7 +2866,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.26,
-        "walksHits": 34
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "26396",
@@ -2884,7 +2884,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 16,
         "caughtStealingBy": 8,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 5,
         "catchersInterference": 0,
         "totalChances": 173
@@ -3008,7 +3008,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "hitBatters": 8,
         "balks": 0,
         "opponentsBattingAverage": 0.26,
-        "walksHits": 38
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "26424",
@@ -3150,7 +3150,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.273,
-        "walksHits": 59
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "26390",
@@ -3168,7 +3168,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -3380,7 +3380,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "hitBatters": 4,
         "balks": 1,
         "opponentsBattingAverage": 0.274,
-        "walksHits": 34
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "26431",
@@ -3667,7 +3667,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.225,
-        "walksHits": 33
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "26397",
@@ -3897,7 +3897,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "hitBatters": 5,
         "balks": 1,
         "opponentsBattingAverage": 0.258,
-        "walksHits": 35
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "26419",
@@ -3915,7 +3915,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -4127,7 +4127,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 3
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "26418",
@@ -4145,7 +4145,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4269,7 +4269,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.313,
-        "walksHits": 40
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "26402",
@@ -4409,7 +4409,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "stolenBases": 18,
         "stolenBasesAttempts": 19,
         "putouts": 90,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 222,
         "caughtStealing": 1,
@@ -4644,7 +4644,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "26391",
@@ -4784,7 +4784,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "stolenBases": 11,
         "stolenBasesAttempts": 12,
         "putouts": 248,
-        "assists": 16,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 238,
         "caughtStealing": 1,
@@ -4931,7 +4931,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.197,
-        "walksHits": 27
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "26423",
@@ -5073,7 +5073,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.228,
-        "walksHits": 42
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "26401",
@@ -5215,7 +5215,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.429,
-        "walksHits": 6
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "26411",
@@ -5233,7 +5233,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -5357,7 +5357,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.192,
-        "walksHits": 16
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "26408",
@@ -5375,7 +5375,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -5499,7 +5499,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 2
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -5619,7 +5619,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
         "putouts": 91,
-        "assists": 4,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 120,
         "caughtStealing": 1,

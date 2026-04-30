@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.uab2026 = {
-  "generatedAt": "2026-04-29T11:55:37.211Z",
+  "generatedAt": "2026-04-30T11:54:38.404Z",
   "season": 2026,
   "school": {
     "slug": "uab",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "stolenBases": 16,
         "stolenBasesAttempts": 20,
         "putouts": 92,
-        "assists": 5,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 209,
         "caughtStealing": 4,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
         "putouts": 9,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 28,
         "caughtStealing": 1,
@@ -368,7 +368,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.209,
-        "walksHits": 60
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11522",
@@ -386,7 +386,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 13
@@ -510,7 +510,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 1,
-        "walksHits": 2
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -630,7 +630,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 2,
-        "assists": 2,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 7,
         "caughtStealing": 0,
@@ -775,7 +775,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 2,
-        "assists": 2,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 0,
         "caughtStealing": 0,
@@ -813,7 +813,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 31
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11524",
@@ -831,7 +831,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -1041,7 +1041,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 0,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 11,
         "caughtStealing": 0,
@@ -1186,7 +1186,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 6,
         "putouts": 9,
-        "assists": 11,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 26,
         "caughtStealing": 1,
@@ -1419,7 +1419,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
         "putouts": 360,
-        "assists": 30,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 199,
         "caughtStealing": 1,
@@ -1566,7 +1566,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.316,
-        "walksHits": 42
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11508",
@@ -1584,7 +1584,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.429,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 10
@@ -1706,7 +1706,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 12,
         "putouts": 73,
-        "assists": 2,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 209,
         "caughtStealing": 3,
@@ -1939,7 +1939,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "stolenBases": 10,
         "stolenBasesAttempts": 12,
         "putouts": 35,
-        "assists": 93,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 220,
         "caughtStealing": 2,
@@ -1977,7 +1977,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0,
-        "walksHits": 1
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11494",
@@ -2119,7 +2119,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "hitBatters": 3,
         "balks": 1,
         "opponentsBattingAverage": 0.429,
-        "walksHits": 63
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11521",
@@ -2137,7 +2137,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.333,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -2261,7 +2261,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.211,
-        "walksHits": 11
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11506",
@@ -2279,7 +2279,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -2401,7 +2401,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 7,
         "putouts": 69,
-        "assists": 113,
+        "assists": 0,
         "errors": 11,
         "plateAppearances": 180,
         "caughtStealing": 1,
@@ -2634,7 +2634,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "stolenBases": 8,
         "stolenBasesAttempts": 12,
         "putouts": 70,
-        "assists": 2,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 204,
         "caughtStealing": 4,
@@ -2779,7 +2779,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 182,
-        "assists": 17,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 121,
         "caughtStealing": 0,
@@ -2802,7 +2802,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 34,
         "caughtStealingBy": 5,
-        "stolenBasesPercentage": 0.872,
+        "stolenBasesPercentage": null,
         "passedBalls": 3,
         "catchersInterference": 2,
         "totalChances": 206
@@ -2926,7 +2926,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.29,
-        "walksHits": 47
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11502",
@@ -2944,7 +2944,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -3068,7 +3068,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "hitBatters": 9,
         "balks": 0,
         "opponentsBattingAverage": 0.281,
-        "walksHits": 70
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11520",
@@ -3086,7 +3086,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 11
@@ -3210,7 +3210,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.302,
-        "walksHits": 53
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11513",
@@ -3228,7 +3228,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 11,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.917,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -3350,7 +3350,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
         "putouts": 67,
-        "assists": 104,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 202,
         "caughtStealing": 0,
@@ -3497,7 +3497,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.287,
-        "walksHits": 76
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11507",
@@ -3515,7 +3515,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 18
@@ -3639,7 +3639,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.4,
-        "walksHits": 16
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11497",
@@ -3657,7 +3657,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -3779,7 +3779,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 110,
-        "assists": 9,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 93,
         "caughtStealing": 0,
@@ -3802,7 +3802,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 24,
         "caughtStealingBy": 5,
-        "stolenBasesPercentage": 0.828,
+        "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 1,
         "totalChances": 121
@@ -4102,7 +4102,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.316,
-        "walksHits": 52
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11500",
@@ -4120,7 +4120,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -4244,7 +4244,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.236,
-        "walksHits": 62
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11492",
@@ -4262,7 +4262,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.833,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -4474,7 +4474,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.286,
-        "walksHits": 15
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11504",
@@ -4492,7 +4492,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4614,7 +4614,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "stolenBases": 10,
         "stolenBasesAttempts": 13,
         "putouts": 32,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 224,
         "caughtStealing": 3,

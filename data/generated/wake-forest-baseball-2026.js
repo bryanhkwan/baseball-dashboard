@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.wake-forest2026 = {
-  "generatedAt": "2026-04-29T11:54:46.925Z",
+  "generatedAt": "2026-04-30T11:53:42.535Z",
   "season": 2026,
   "school": {
     "slug": "wake-forest",
@@ -274,7 +274,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
         "putouts": 28,
-        "assists": 62,
+        "assists": 0,
         "errors": 12,
         "plateAppearances": 219,
         "caughtStealing": 1,
@@ -421,7 +421,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.268,
-        "walksHits": 14
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9065",
@@ -561,7 +561,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 10,
         "putouts": 40,
-        "assists": 90,
+        "assists": 0,
         "errors": 9,
         "plateAppearances": 188,
         "caughtStealing": 1,
@@ -708,7 +708,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.288,
-        "walksHits": 61
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9063",
@@ -850,7 +850,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.29,
-        "walksHits": 40
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9071",
@@ -990,7 +990,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
         "putouts": 241,
-        "assists": 14,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 216,
         "caughtStealing": 0,
@@ -1135,7 +1135,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "stolenBases": 7,
         "stolenBasesAttempts": 8,
         "putouts": 47,
-        "assists": 67,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 164,
         "caughtStealing": 1,
@@ -1280,7 +1280,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 257,
-        "assists": 11,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 203,
         "caughtStealing": 1,
@@ -1303,7 +1303,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 21,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.875,
+        "stolenBasesPercentage": null,
         "passedBalls": 9,
         "catchersInterference": 0,
         "totalChances": 268
@@ -1425,7 +1425,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 4,
-        "assists": 7,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 29,
         "caughtStealing": 0,
@@ -1572,7 +1572,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 10
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9055",
@@ -1590,7 +1590,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -1712,7 +1712,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 4,
         "putouts": 71,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 177,
         "caughtStealing": 2,
@@ -1857,7 +1857,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 1,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 10,
         "caughtStealing": 0,
@@ -2004,7 +2004,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.249,
-        "walksHits": 66
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9074",
@@ -2291,7 +2291,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.216,
-        "walksHits": 22
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -2413,7 +2413,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "hitBatters": 4,
         "balks": 2,
         "opponentsBattingAverage": 0.16,
-        "walksHits": 31
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9075",
@@ -2555,7 +2555,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.255,
-        "walksHits": 18
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9058",
@@ -2697,7 +2697,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.174,
-        "walksHits": 59
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9060",
@@ -2715,7 +2715,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -2839,7 +2839,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.239,
-        "walksHits": 57
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9056",
@@ -3214,7 +3214,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 11
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9078",
@@ -3232,7 +3232,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -3356,7 +3356,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.167,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3621,7 +3621,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 29,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 93,
         "caughtStealing": 0,
@@ -3644,7 +3644,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 30
@@ -3768,7 +3768,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.29,
-        "walksHits": 17
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3890,7 +3890,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "hitBatters": 3,
         "balks": 1,
         "opponentsBattingAverage": 0.272,
-        "walksHits": 49
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9052",
@@ -4032,7 +4032,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.2,
-        "walksHits": 8
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4154,7 +4154,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.192,
-        "walksHits": 55
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9062",
@@ -4439,7 +4439,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 253,
-        "assists": 10,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 126,
         "caughtStealing": 0,
@@ -4462,7 +4462,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 22,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.88,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 269
@@ -4817,7 +4817,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 28,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 31,
         "caughtStealing": 0,
@@ -4964,7 +4964,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.189,
-        "walksHits": 17
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "9084",
@@ -4982,7 +4982,7 @@ window.__BASEBALL_DATASETS__.wake-forest2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2

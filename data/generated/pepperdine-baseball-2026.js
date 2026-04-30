@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.pepperdine2026 = {
-  "generatedAt": "2026-04-29T11:55:20.760Z",
+  "generatedAt": "2026-04-30T11:54:21.595Z",
   "season": 2026,
   "school": {
     "slug": "pepperdine",
@@ -223,7 +223,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.5,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "5784",
@@ -363,7 +363,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 79,
-        "assists": 95,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 161,
         "caughtStealing": 0,
@@ -508,7 +508,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 15,
-        "assists": 19,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 29,
         "caughtStealing": 1,
@@ -653,7 +653,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 63,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 87,
         "caughtStealing": 0,
@@ -798,7 +798,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 98,
-        "assists": 6,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 153,
         "caughtStealing": 0,
@@ -943,7 +943,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 136,
-        "assists": 24,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 97,
         "caughtStealing": 0,
@@ -1088,7 +1088,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 53,
-        "assists": 122,
+        "assists": 0,
         "errors": 12,
         "plateAppearances": 189,
         "caughtStealing": 0,
@@ -1233,7 +1233,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 5,
         "putouts": 37,
-        "assists": 58,
+        "assists": 0,
         "errors": 11,
         "plateAppearances": 193,
         "caughtStealing": 0,
@@ -1378,7 +1378,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 120,
-        "assists": 19,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 78,
         "caughtStealing": 0,
@@ -1401,7 +1401,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 39,
         "caughtStealingBy": 7,
-        "stolenBasesPercentage": 0.848,
+        "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 0,
         "totalChances": 145
@@ -1611,7 +1611,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 210,
-        "assists": 16,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 160,
         "caughtStealing": 0,
@@ -1756,7 +1756,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
         "putouts": 52,
-        "assists": 4,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 45,
         "caughtStealing": 1,
@@ -1779,7 +1779,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 60
@@ -1901,7 +1901,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 51,
-        "assists": 4,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 83,
         "caughtStealing": 0,
@@ -1924,7 +1924,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.333,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 56
@@ -2046,7 +2046,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 3,
-        "assists": 6,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 10,
         "caughtStealing": 0,
@@ -2191,7 +2191,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 101,
-        "assists": 9,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 55,
         "caughtStealing": 0,
@@ -2214,7 +2214,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 17,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 112
@@ -2426,7 +2426,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.5,
-        "walksHits": 2
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -2546,7 +2546,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 1,
-        "assists": 4,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 152,
         "caughtStealing": 0,
@@ -2584,7 +2584,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.429,
-        "walksHits": 14
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "5789",
@@ -2724,7 +2724,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 2,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 4,
         "caughtStealing": 1,
@@ -2762,7 +2762,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.286,
-        "walksHits": 50
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "5776",
@@ -2904,7 +2904,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "hitBatters": 4,
         "balks": 2,
         "opponentsBattingAverage": 0.313,
-        "walksHits": 82
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "5543",
@@ -2922,7 +2922,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 15
@@ -3224,7 +3224,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "hitBatters": 10,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 75
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "5651",
@@ -3242,7 +3242,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 13
@@ -3366,7 +3366,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.341,
-        "walksHits": 34
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "5536",
@@ -3384,7 +3384,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -3684,7 +3684,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.448,
-        "walksHits": 16
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "5791",
@@ -3702,7 +3702,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -3824,7 +3824,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
         "putouts": 34,
-        "assists": 2,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 124,
         "caughtStealing": 0,
@@ -3971,7 +3971,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.371,
-        "walksHits": 40
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "5778",
@@ -3989,7 +3989,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -4113,7 +4113,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "hitBatters": 8,
         "balks": 0,
         "opponentsBattingAverage": 0.228,
-        "walksHits": 65
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "5775",
@@ -4131,7 +4131,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 14
@@ -4255,7 +4255,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.297,
-        "walksHits": 22
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "5535",
@@ -4273,7 +4273,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -4397,7 +4397,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.361,
-        "walksHits": 25
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "5782",
@@ -4539,7 +4539,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.213,
-        "walksHits": 30
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "5544",
@@ -4557,7 +4557,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -4679,7 +4679,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 21,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 56,
         "caughtStealing": 0,
@@ -4824,7 +4824,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 7,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 15,
         "caughtStealing": 0,
@@ -4971,7 +4971,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.264,
-        "walksHits": 21
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "5534",
@@ -4989,7 +4989,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -5113,7 +5113,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.301,
-        "walksHits": 53
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "5540",
@@ -5131,7 +5131,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -5255,7 +5255,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.329,
-        "walksHits": 31
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "5790",
@@ -5397,7 +5397,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "hitBatters": 8,
         "balks": 0,
         "opponentsBattingAverage": 0.271,
-        "walksHits": 24
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "5528",
@@ -5415,7 +5415,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3

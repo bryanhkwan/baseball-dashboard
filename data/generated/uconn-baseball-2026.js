@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.uconn2026 = {
-  "generatedAt": "2026-04-29T11:54:56.294Z",
+  "generatedAt": "2026-04-30T11:53:53.144Z",
   "season": 2026,
   "school": {
     "slug": "uconn",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "stolenBases": 13,
         "stolenBasesAttempts": 18,
         "putouts": 58,
-        "assists": 2,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 213,
         "caughtStealing": 5,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
         "putouts": 25,
-        "assists": 3,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 143,
         "caughtStealing": 1,
@@ -475,7 +475,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 13,
         "putouts": 52,
-        "assists": 109,
+        "assists": 0,
         "errors": 9,
         "plateAppearances": 216,
         "caughtStealing": 4,
@@ -620,7 +620,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 6,
         "putouts": 73,
-        "assists": 106,
+        "assists": 0,
         "errors": 11,
         "plateAppearances": 194,
         "caughtStealing": 2,
@@ -890,7 +890,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "stolenBases": 10,
         "stolenBasesAttempts": 11,
         "putouts": 102,
-        "assists": 4,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 182,
         "caughtStealing": 1,
@@ -913,7 +913,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 11,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 108
@@ -1180,7 +1180,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 83,
-        "assists": 11,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 49,
         "caughtStealing": 1,
@@ -1203,7 +1203,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 11,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.786,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 94
@@ -1325,7 +1325,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
         "putouts": 35,
-        "assists": 2,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 84,
         "caughtStealing": 1,
@@ -1472,7 +1472,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "hitBatters": 1,
         "balks": 1,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 12
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15481",
@@ -1490,7 +1490,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -1612,7 +1612,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 39,
-        "assists": 7,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 18,
         "caughtStealing": 0,
@@ -1635,7 +1635,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 9,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 47
@@ -1759,7 +1759,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.273,
-        "walksHits": 21
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15468",
@@ -1777,7 +1777,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -1901,7 +1901,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "hitBatters": 8,
         "balks": 1,
         "opponentsBattingAverage": 0.236,
-        "walksHits": 87
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15485",
@@ -1919,7 +1919,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -2131,7 +2131,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.244,
-        "walksHits": 66
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15492",
@@ -2149,7 +2149,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 12
@@ -2271,7 +2271,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 4,
         "putouts": 21,
-        "assists": 26,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 78,
         "caughtStealing": 2,
@@ -2418,7 +2418,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.538,
-        "walksHits": 9
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -2540,7 +2540,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.525,
-        "walksHits": 25
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15469",
@@ -2558,7 +2558,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -2682,7 +2682,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0,
-        "walksHits": 2
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -2892,7 +2892,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "hitBatters": 0,
         "balks": 3,
         "opponentsBattingAverage": 0,
-        "walksHits": 1
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3014,7 +3014,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 1,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3136,7 +3136,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.354,
-        "walksHits": 22
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15486",
@@ -3154,7 +3154,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -3278,7 +3278,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.217,
-        "walksHits": 6
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15482",
@@ -3418,7 +3418,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 302,
-        "assists": 8,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 219,
         "caughtStealing": 1,
@@ -3565,7 +3565,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.286,
-        "walksHits": 24
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15506",
@@ -3705,7 +3705,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 8,
-        "assists": 10,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 43,
         "caughtStealing": 1,
@@ -3743,7 +3743,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "hitBatters": 0,
         "balks": 1,
         "opponentsBattingAverage": 0.5,
-        "walksHits": 5
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15489",
@@ -3885,7 +3885,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.255,
-        "walksHits": 45
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15474",
@@ -3903,7 +3903,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -4027,7 +4027,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.268,
-        "walksHits": 77
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15477",
@@ -4045,7 +4045,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 11
@@ -4169,7 +4169,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 3
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15466",
@@ -4311,7 +4311,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.45,
-        "walksHits": 9
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15476",
@@ -4453,7 +4453,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.321,
-        "walksHits": 15
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15504",
@@ -4471,7 +4471,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -4595,7 +4595,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.296,
-        "walksHits": 48
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15480",
@@ -4613,7 +4613,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.875,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -4735,7 +4735,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 194,
-        "assists": 11,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 106,
         "caughtStealing": 0,
@@ -4758,7 +4758,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 17,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.85,
+        "stolenBasesPercentage": null,
         "passedBalls": 6,
         "catchersInterference": 0,
         "totalChances": 207
@@ -4880,7 +4880,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 58,
-        "assists": 52,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 154,
         "caughtStealing": 1,
@@ -5027,7 +5027,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.224,
-        "walksHits": 77
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15483",
@@ -5045,7 +5045,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 9,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.9,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 10
@@ -5169,7 +5169,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.348,
-        "walksHits": 24
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15491",
@@ -5187,7 +5187,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -5397,7 +5397,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 3,
         "putouts": 100,
-        "assists": 2,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 206,
         "caughtStealing": 2,

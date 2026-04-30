@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.kansas2026 = {
-  "generatedAt": "2026-04-29T11:55:07.359Z",
+  "generatedAt": "2026-04-30T11:54:05.585Z",
   "season": 2026,
   "school": {
     "slug": "kansas",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 10,
         "putouts": 46,
-        "assists": 102,
+        "assists": 0,
         "errors": 9,
         "plateAppearances": 229,
         "caughtStealing": 1,
@@ -455,7 +455,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 49,
-        "assists": 3,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 110,
         "caughtStealing": 0,
@@ -478,7 +478,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 53
@@ -600,7 +600,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 5,
         "putouts": 54,
-        "assists": 1,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 176,
         "caughtStealing": 0,
@@ -745,7 +745,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 22,
-        "assists": 74,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 186,
         "caughtStealing": 0,
@@ -978,7 +978,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 5,
         "putouts": 76,
-        "assists": 67,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 225,
         "caughtStealing": 0,
@@ -1250,7 +1250,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 19
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17043",
@@ -1268,7 +1268,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -1392,7 +1392,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.273,
-        "walksHits": 91
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17032",
@@ -1534,7 +1534,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.283,
-        "walksHits": 33
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17045",
@@ -1674,7 +1674,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 332,
-        "assists": 28,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 184,
         "caughtStealing": 0,
@@ -1712,7 +1712,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.5,
-        "walksHits": 3
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17046",
@@ -1730,7 +1730,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "doublePlays": 19,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 364
@@ -1854,7 +1854,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "hitBatters": 4,
         "balks": 2,
         "opponentsBattingAverage": 0.213,
-        "walksHits": 22
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17047",
@@ -1872,7 +1872,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -1996,7 +1996,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.23,
-        "walksHits": 49
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17027",
@@ -2136,7 +2136,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 370,
-        "assists": 27,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 185,
         "caughtStealing": 0,
@@ -2159,7 +2159,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "doublePlays": 2,
         "stolenBasesAgainst": 45,
         "caughtStealingBy": 9,
-        "stolenBasesPercentage": 0.833,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 404
@@ -2281,7 +2281,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
         "putouts": 17,
-        "assists": 37,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 177,
         "caughtStealing": 0,
@@ -2428,7 +2428,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "hitBatters": 9,
         "balks": 0,
         "opponentsBattingAverage": 0.246,
-        "walksHits": 58
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17049",
@@ -2446,7 +2446,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -2568,7 +2568,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 105,
-        "assists": 3,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 221,
         "caughtStealing": 1,
@@ -2803,7 +2803,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.257,
-        "walksHits": 49
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17050",
@@ -3266,7 +3266,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 12
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17054",
@@ -3408,7 +3408,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.23,
-        "walksHits": 64
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17055",
@@ -3426,7 +3426,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -3550,7 +3550,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 23
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17056",
@@ -3780,7 +3780,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.5,
-        "walksHits": 5
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17026",
@@ -3798,7 +3798,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -3922,7 +3922,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0,
-        "walksHits": 2
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4132,7 +4132,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.272,
-        "walksHits": 56
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17059",
@@ -4150,7 +4150,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -4274,7 +4274,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.4,
-        "walksHits": 2
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17024",
@@ -4416,7 +4416,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.247,
-        "walksHits": 34
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17033",
@@ -4558,7 +4558,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.3,
-        "walksHits": 7
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17060",
@@ -4700,7 +4700,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.295,
-        "walksHits": 44
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17061",

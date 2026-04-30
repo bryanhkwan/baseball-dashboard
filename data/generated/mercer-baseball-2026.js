@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.mercer2026 = {
-  "generatedAt": "2026-04-29T11:55:12.275Z",
+  "generatedAt": "2026-04-30T11:54:12.155Z",
   "season": 2026,
   "school": {
     "slug": "mercer",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
     }
   },
   "teamSummary": {
-    "record": "32-12, 7-5",
-    "battingAverage": ".323",
-    "earnedRunAverage": "5.51",
-    "wins": "32",
+    "record": "33-12, 7-5",
+    "battingAverage": ".322",
+    "earnedRunAverage": "5.60",
+    "wins": "33",
     "losses": "12",
     "hitting": {
-      "atBats": "1491",
-      "runsScored": "406",
-      "hits": "481",
-      "runsBattedIn": "380",
-      "doubles": "94",
+      "atBats": "1524",
+      "runsScored": "416",
+      "hits": "491",
+      "runsBattedIn": "390",
+      "doubles": "96",
       "triples": "5",
-      "homeRuns": "93",
-      "walks": "267",
+      "homeRuns": "95",
+      "walks": "274",
       "intentionalWalks": "4",
-      "strikeouts": "365",
-      "strikeoutsLooking": "40",
+      "strikeouts": "374",
+      "strikeoutsLooking": "42",
       "hitByPitch": "83",
       "stolenBases": "34",
-      "caughtStealing": "11",
+      "caughtStealing": "12",
       "sacrificeHits": "14",
       "sacrificeFlies": "20",
       "reachedOnCatchersInteference": "1",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "227",
-      "flyOuts": "382",
+      "groundOuts": "231",
+      "flyOuts": "392",
       "groundedIntoDoublePlay": "21",
       "pickedOff": "2",
       "doublePlaysHitInto": "23",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1106",
-      "assists": "342",
-      "errors": "44",
+      "putouts": "1133",
+      "assists": "352",
+      "errors": "45",
       "passedBalls": "4",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "50",
-      "caughtStealingBy": "9",
-      "involvedInDoublePlays": "27",
+      "stolenBasesAgainst": "52",
+      "caughtStealingBy": "11",
+      "involvedInDoublePlays": "28",
       "involvedInTriplePlays": "0",
-      "totalChances": "1492",
+      "totalChances": "1530",
       "fieldingPercentage": ".971"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "32",
-      "saves": "37",
+      "wins": "33",
+      "saves": "38",
       "losses": "12",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "1",
       "creditForCombinedShutout": "1",
-      "inningsPitched": "369.0",
-      "hitsAllowed": "370",
-      "runsAllowed": "270",
-      "earnedRunsAllowed": "226",
-      "walksAllowed": "189",
-      "strikeouts": "402",
-      "battersFaced": "1730",
-      "opponentAtBats": "1445",
-      "doublesAllowed": "79",
-      "triplesAllowed": "6",
-      "homerunsAllowed": "37",
+      "inningsPitched": "378.0",
+      "hitsAllowed": "385",
+      "runsAllowed": "279",
+      "earnedRunsAllowed": "235",
+      "walksAllowed": "192",
+      "strikeouts": "413",
+      "battersFaced": "1774",
+      "opponentAtBats": "1485",
+      "doublesAllowed": "84",
+      "triplesAllowed": "8",
+      "homerunsAllowed": "38",
       "wildPitches": "36",
       "balks": "11",
-      "hitBatters": "67",
-      "strikeoutsLooking": "55",
+      "hitBatters": "68",
+      "strikeoutsLooking": "57",
       "intentionalWalks": "1",
-      "inheritedRunners": "94",
-      "inheritedRunnersThatScored": "51",
+      "inheritedRunners": "99",
+      "inheritedRunnersThatScored": "53",
       "sacrificeHitsAllowed": "10",
       "sacrificeFliesAllowed": "19",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6616",
-      "flyouts": "357",
-      "groundouts": "299",
+      "pitches": "6783",
+      "flyouts": "364",
+      "groundouts": "305",
       "teamUnearnedRuns": "0",
       "saveRecord": "10",
       "pickoff": "0"
@@ -198,32 +198,32 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "2",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/collin-ewaldsen/12136",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Collin_Ewaldsen.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 0,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.57,
-        "whip": 1.64,
+        "earnedRunAverage": 4.42,
+        "whip": 1.75,
         "wins": 3,
         "losses": 1,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 17.666666666666668,
-        "inningsPitchedDisplay": "17.2",
-        "hitsAllowed": 19,
-        "runsAllowed": 8,
-        "earnedRunsAllowed": 7,
+        "inningsPitched": 18.333333333333332,
+        "inningsPitchedDisplay": "18.1",
+        "hitsAllowed": 22,
+        "runsAllowed": 10,
+        "earnedRunsAllowed": 9,
         "walksAllowed": 10,
         "strikeouts": 23,
-        "doublesAllowed": 4,
-        "triplesAllowed": 0,
+        "doublesAllowed": 5,
+        "triplesAllowed": 1,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 71,
+        "opponentsAtBats": 76,
         "wildPitches": 2,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.268,
-        "walksHits": 29
+        "opponentsBattingAverage": 0.289,
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12136",
@@ -232,22 +232,22 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "2",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/collin-ewaldsen/12136",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Collin_Ewaldsen.jpg",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 0,
-        "putouts": 2,
+        "putouts": 3,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 3
+        "totalChances": 4
       },
       "evaluation": {
-        "score": 18,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -255,40 +255,40 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 70.15437392795883,
-          "Command": 26.000000000000007,
+          "Miss bats": 66.28099173553719,
+          "Command": 25.999999999999996,
           "Damage suppression": 0
         },
-        "summary": "Collin Ewaldsen looks like a RHP/OF option who limits runs and misses bats.",
+        "summary": "Collin Ewaldsen looks like a RHP/OF option who misses bats.",
         "summaryMetrics": [
-          "ERA 3.57",
-          "WHIP 1.64",
-          "K/9 11.7"
+          "ERA 4.42",
+          "WHIP 1.75",
+          "K/9 11.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.57"
+            "value": "4.42"
           },
           {
             "label": "WHIP",
-            "value": "1.64"
+            "value": "1.75"
           },
           {
             "label": "K/9",
-            "value": "11.7"
+            "value": "11.3"
           },
           {
             "label": "BB/9",
-            "value": "5.1"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
-            "value": "1.53"
+            "value": "1.47"
           },
           {
             "label": "IP",
-            "value": "17.7"
+            "value": "18.3"
           }
         ],
         "metaLine": "SO / L/R",
@@ -340,32 +340,32 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "3",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/caleb-hughes/12150",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Caleb_Hughes.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 3,
-        "appearances": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 9,
+        "earnedRunAverage": 8.53,
         "whip": 1.5,
-        "wins": 1,
+        "wins": 2,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 12,
-        "inningsPitchedDisplay": "12.0",
-        "hitsAllowed": 14,
+        "inningsPitched": 12.666666666666666,
+        "inningsPitchedDisplay": "12.2",
+        "hitsAllowed": 15,
         "runsAllowed": 12,
         "earnedRunsAllowed": 12,
         "walksAllowed": 4,
-        "strikeouts": 14,
-        "doublesAllowed": 2,
+        "strikeouts": 15,
+        "doublesAllowed": 3,
         "triplesAllowed": 1,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 48,
+        "opponentsAtBats": 51,
         "wildPitches": 0,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.292,
-        "walksHits": 18
+        "opponentsBattingAverage": 0.294,
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12150",
@@ -383,13 +383,13 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
       },
       "evaluation": {
-        "score": 20,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -397,20 +397,20 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 59.09090909090909,
-          "Command": 50,
+          "Miss bats": 60.52631578947369,
+          "Command": 55.00000000000001,
           "Damage suppression": 0
         },
         "summary": "Caleb Hughes looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 9.00",
+          "ERA 8.53",
           "WHIP 1.50",
-          "K/9 10.5"
+          "K/9 10.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.00"
+            "value": "8.53"
           },
           {
             "label": "WHIP",
@@ -418,19 +418,19 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           },
           {
             "label": "K/9",
-            "value": "10.5"
+            "value": "10.7"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "2.8"
           },
           {
             "label": "HR/9",
-            "value": "2.25"
+            "value": "2.13"
           },
           {
             "label": "IP",
-            "value": "12.0"
+            "value": "12.7"
           }
         ],
         "metaLine": "R-FR / R/R",
@@ -481,34 +481,34 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "4",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/titan-kamaka/12145",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Titan_Kamaka.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "battingAverage": 0.42,
-        "onBasePercentage": 0.519,
-        "sluggingPercentage": 0.667,
-        "ops": 1.186,
-        "atBats": 150,
+        "gamesPlayed": 43,
+        "gamesStarted": 43,
+        "battingAverage": 0.416,
+        "onBasePercentage": 0.513,
+        "sluggingPercentage": 0.656,
+        "ops": 1.169,
+        "atBats": 154,
         "runs": 35,
-        "hits": 63,
+        "hits": 64,
         "doubles": 20,
         "triples": 1,
         "homeRuns": 5,
         "runsBattedIn": 38,
-        "totalBases": 100,
+        "totalBases": 101,
         "walks": 29,
         "hitByPitch": 4,
-        "strikeouts": 26,
+        "strikeouts": 28,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
         "sacrificeHits": 1,
         "stolenBases": 5,
-        "stolenBasesAttempts": 6,
-        "putouts": 56,
-        "assists": 82,
+        "stolenBasesAttempts": 7,
+        "putouts": 58,
+        "assists": 0,
         "errors": 9,
-        "plateAppearances": 193,
-        "caughtStealing": 1,
+        "plateAppearances": 199,
+        "caughtStealing": 2,
         "pickedOff": 1
       },
       "pitchingStats": null,
@@ -519,51 +519,51 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "4",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/titan-kamaka/12145",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Titan_Kamaka.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "putouts": 56,
-        "assists": 82,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "putouts": 58,
+        "assists": 85,
         "errors": 9,
-        "fieldingPercentage": 0.939,
+        "fieldingPercentage": 0.941,
         "doublePlays": 19,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 147
+        "totalChances": 152
       },
       "evaluation": {
-        "score": 89,
+        "score": 88,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "components": {
           "On-base": 100,
-          "Power": 91.31578947368423,
+          "Power": 88.42105263157897,
           "Contact": 100,
-          "Discipline": 100,
+          "Discipline": 92.85714285714286,
           "Speed": 16.666666666666664
         },
         "summary": "Titan Kamaka profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .420",
-          "OBP .519",
-          "SLG .667"
+          "AVG .416",
+          "OBP .513",
+          "SLG .656"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".420"
+            "value": ".416"
           },
           {
             "label": "OBP",
-            "value": ".519"
+            "value": ".513"
           },
           {
             "label": "SLG",
-            "value": ".667"
+            "value": ".656"
           },
           {
             "label": "HR",
@@ -627,19 +627,19 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "5",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/kai-decker/12135",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Kai_Decker.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 3,
-        "appearances": 11,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.82,
-        "whip": 1.47,
+        "earnedRunAverage": 5.5,
+        "whip": 1.5,
         "wins": 2,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 17,
-        "inningsPitchedDisplay": "17.0",
-        "hitsAllowed": 13,
+        "inningsPitched": 18,
+        "inningsPitchedDisplay": "18.0",
+        "hitsAllowed": 15,
         "runsAllowed": 12,
         "earnedRunsAllowed": 11,
         "walksAllowed": 12,
@@ -647,12 +647,12 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 62,
+        "opponentsAtBats": 67,
         "wildPitches": 3,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.21,
-        "walksHits": 25
+        "opponentsBattingAverage": 0.224,
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12135",
@@ -676,7 +676,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "totalChances": 7
       },
       "evaluation": {
-        "score": 14,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -684,32 +684,32 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 59.893048128342244,
+          "Miss bats": 54.54545454545454,
           "Command": 13.333333333333336,
           "Damage suppression": 0
         },
         "summary": "Kai Decker looks like a INF/RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.82",
-          "WHIP 1.47",
-          "K/9 10.6"
+          "ERA 5.50",
+          "WHIP 1.50",
+          "K/9 10.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.82"
+            "value": "5.50"
           },
           {
             "label": "WHIP",
-            "value": "1.47"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "10.6"
+            "value": "10.0"
           },
           {
             "label": "BB/9",
-            "value": "6.4"
+            "value": "6.0"
           },
           {
             "label": "HR/9",
@@ -717,7 +717,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           },
           {
             "label": "IP",
-            "value": "17.0"
+            "value": "18.0"
           }
         ],
         "metaLine": "SO / L/R",
@@ -768,33 +768,33 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "6",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/dylan-lapointe/12151",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Dylan_LaPointe.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 41,
-        "battingAverage": 0.254,
-        "onBasePercentage": 0.395,
-        "sluggingPercentage": 0.486,
-        "ops": 0.881,
-        "atBats": 138,
-        "runs": 33,
+        "gamesPlayed": 44,
+        "gamesStarted": 42,
+        "battingAverage": 0.25,
+        "onBasePercentage": 0.398,
+        "sluggingPercentage": 0.479,
+        "ops": 0.877,
+        "atBats": 140,
+        "runs": 35,
         "hits": 35,
         "doubles": 6,
         "triples": 1,
         "homeRuns": 8,
         "runsBattedIn": 25,
         "totalBases": 67,
-        "walks": 14,
+        "walks": 16,
         "hitByPitch": 19,
-        "strikeouts": 41,
+        "strikeouts": 42,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 8,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 331,
-        "assists": 15,
+        "putouts": 342,
+        "assists": 0,
         "errors": 3,
-        "plateAppearances": 175,
+        "plateAppearances": 179,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -806,19 +806,19 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "6",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/dylan-lapointe/12151",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Dylan_LaPointe.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 40,
-        "putouts": 331,
-        "assists": 15,
+        "gamesPlayed": 43,
+        "gamesStarted": 41,
+        "putouts": 342,
+        "assists": 17,
         "errors": 3,
-        "fieldingPercentage": 0.991,
-        "doublePlays": 3,
-        "stolenBasesAgainst": 48,
-        "caughtStealingBy": 9,
-        "stolenBasesPercentage": 0.842,
+        "fieldingPercentage": 0.992,
+        "doublePlays": 4,
+        "stolenBasesAgainst": 50,
+        "caughtStealingBy": 11,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 349
+        "totalChances": 362
       },
       "evaluation": {
         "score": 38,
@@ -827,30 +827,30 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 43.684210526315795,
-          "Contact": 21.250000000000004,
-          "Discipline": 15.718157181571815,
+          "On-base": 65.55555555555556,
+          "Power": 41.84210526315789,
+          "Contact": 18.75,
+          "Discipline": 20.1058201058201,
           "Speed": 0
         },
         "summary": "Dylan LaPointe gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .254",
-          "OBP .395",
-          "SLG .486"
+          "AVG .250",
+          "OBP .398",
+          "SLG .479"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".254"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": ".398"
           },
           {
             "label": "SLG",
-            "value": ".486"
+            "value": ".479"
           },
           {
             "label": "HR",
@@ -913,21 +913,21 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "7",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/brant-baughcum/12130",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Brant_Baughcum.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
+        "gamesPlayed": 44,
+        "gamesStarted": 44,
         "battingAverage": 0.313,
-        "onBasePercentage": 0.411,
-        "sluggingPercentage": 0.571,
-        "ops": 0.982,
-        "atBats": 163,
-        "runs": 42,
-        "hits": 51,
-        "doubles": 12,
+        "onBasePercentage": 0.413,
+        "sluggingPercentage": 0.572,
+        "ops": 0.985,
+        "atBats": 166,
+        "runs": 43,
+        "hits": 52,
+        "doubles": 13,
         "triples": 0,
         "homeRuns": 10,
-        "runsBattedIn": 45,
-        "totalBases": 93,
-        "walks": 16,
+        "runsBattedIn": 46,
+        "totalBases": 95,
+        "walks": 17,
         "hitByPitch": 14,
         "strikeouts": 24,
         "intentionalWalks": 0,
@@ -936,10 +936,10 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "sacrificeHits": 6,
         "stolenBases": 7,
         "stolenBasesAttempts": 7,
-        "putouts": 34,
-        "assists": 68,
+        "putouts": 35,
+        "assists": 0,
         "errors": 8,
-        "plateAppearances": 210,
+        "plateAppearances": 214,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -951,38 +951,38 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "7",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/brant-baughcum/12130",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Brant_Baughcum.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "putouts": 34,
-        "assists": 68,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "putouts": 35,
+        "assists": 69,
         "errors": 8,
-        "fieldingPercentage": 0.927,
+        "fieldingPercentage": 0.929,
         "doublePlays": 4,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 110
+        "totalChances": 112
       },
       "evaluation": {
-        "score": 61,
+        "score": 62,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 72.77777777777776,
-          "Power": 66.05263157894737,
+          "On-base": 73.88888888888886,
+          "Power": 66.3157894736842,
           "Contact": 58.12499999999999,
-          "Discipline": 51.85185185185184,
+          "Discipline": 56.48148148148147,
           "Speed": 23.333333333333332
         },
         "summary": "Brant Baughcum profiles as a 3B piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
           "AVG .313",
-          "OBP .411",
-          "SLG .571"
+          "OBP .413",
+          "SLG .572"
         ],
         "statCards": [
           {
@@ -991,11 +991,11 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           },
           {
             "label": "OBP",
-            "value": ".411"
+            "value": ".413"
           },
           {
             "label": "SLG",
-            "value": ".571"
+            "value": ".572"
           },
           {
             "label": "HR",
@@ -1003,7 +1003,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           },
           {
             "label": "RBI",
-            "value": "45"
+            "value": "46"
           },
           {
             "label": "SB",
@@ -1058,13 +1058,13 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "8",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/ethan-buffone/12152",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Ethan_Buffone.jpg",
-        "gamesPlayed": 20,
-        "gamesStarted": 5,
-        "battingAverage": 0.241,
-        "onBasePercentage": 0.343,
-        "sluggingPercentage": 0.345,
-        "ops": 0.688,
-        "atBats": 29,
+        "gamesPlayed": 21,
+        "gamesStarted": 6,
+        "battingAverage": 0.226,
+        "onBasePercentage": 0.324,
+        "sluggingPercentage": 0.323,
+        "ops": 0.647,
+        "atBats": 31,
         "runs": 7,
         "hits": 7,
         "doubles": 0,
@@ -1081,10 +1081,10 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 11,
-        "assists": 18,
+        "putouts": 12,
+        "assists": 0,
         "errors": 6,
-        "plateAppearances": 35,
+        "plateAppearances": 37,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1096,51 +1096,51 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "8",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/ethan-buffone/12152",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Ethan_Buffone.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 4,
-        "putouts": 11,
-        "assists": 18,
+        "gamesPlayed": 14,
+        "gamesStarted": 5,
+        "putouts": 12,
+        "assists": 19,
         "errors": 6,
-        "fieldingPercentage": 0.829,
-        "doublePlays": 6,
+        "fieldingPercentage": 0.838,
+        "doublePlays": 7,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 35
+        "totalChances": 37
       },
       "evaluation": {
-        "score": 22,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 35,
-          "Power": 6.578947368421045,
-          "Contact": 13.124999999999995,
+          "On-base": 24.444444444444436,
+          "Power": 0.7894736842105272,
+          "Contact": 3.7500000000000036,
           "Discipline": 47.222222222222214,
           "Speed": 0
         },
         "summary": "Ethan Buffone gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .241",
-          "OBP .343",
-          "SLG .345"
+          "AVG .226",
+          "OBP .324",
+          "SLG .323"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".241"
+            "value": ".226"
           },
           {
             "label": "OBP",
-            "value": ".343"
+            "value": ".324"
           },
           {
             "label": "SLG",
-            "value": ".345"
+            "value": ".323"
           },
           {
             "label": "HR",
@@ -1227,7 +1227,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 34,
-        "assists": 67,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 125,
         "caughtStealing": 0,
@@ -1348,20 +1348,20 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "10",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/drew-johnson/12143",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Drew_Johnson.jpg",
-        "gamesPlayed": 25,
+        "gamesPlayed": 26,
         "gamesStarted": 7,
-        "battingAverage": 0.231,
-        "onBasePercentage": 0.434,
-        "sluggingPercentage": 0.333,
-        "ops": 0.767,
-        "atBats": 39,
-        "runs": 4,
-        "hits": 9,
+        "battingAverage": 0.25,
+        "onBasePercentage": 0.444,
+        "sluggingPercentage": 0.35,
+        "ops": 0.794,
+        "atBats": 40,
+        "runs": 5,
+        "hits": 10,
         "doubles": 1,
         "triples": 0,
         "homeRuns": 1,
         "runsBattedIn": 5,
-        "totalBases": 13,
+        "totalBases": 14,
         "walks": 14,
         "hitByPitch": 0,
         "strikeouts": 15,
@@ -1372,9 +1372,9 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 3,
         "putouts": 16,
-        "assists": 18,
+        "assists": 0,
         "errors": 1,
-        "plateAppearances": 60,
+        "plateAppearances": 61,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -1401,36 +1401,36 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "totalChances": 35
       },
       "evaluation": {
-        "score": 41,
+        "score": 46,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 85.55555555555554,
-          "Power": 3.421052631578951,
-          "Contact": 6.875000000000006,
+          "On-base": 91.1111111111111,
+          "Power": 7.8947368421052575,
+          "Contact": 18.75,
           "Discipline": 81.48148148148148,
           "Speed": 0
         },
         "summary": "Drew Johnson profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .231",
-          "OBP .434",
-          "SLG .333"
+          "AVG .250",
+          "OBP .444",
+          "SLG .350"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".231"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".434"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": ".333"
+            "value": ".350"
           },
           {
             "label": "HR",
@@ -1494,32 +1494,32 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "11",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/jackson-gaspard/12140",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Jackson_Gaspard.jpg",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 2,
-        "appearances": 14,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.71,
-        "whip": 1.71,
+        "earnedRunAverage": 8.31,
+        "whip": 1.79,
         "wins": 0,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 16.333333333333332,
-        "inningsPitchedDisplay": "16.1",
-        "hitsAllowed": 19,
-        "runsAllowed": 15,
-        "earnedRunsAllowed": 14,
+        "inningsPitched": 17.333333333333332,
+        "inningsPitchedDisplay": "17.1",
+        "hitsAllowed": 22,
+        "runsAllowed": 17,
+        "earnedRunsAllowed": 16,
         "walksAllowed": 9,
-        "strikeouts": 13,
-        "doublesAllowed": 6,
+        "strikeouts": 14,
+        "doublesAllowed": 8,
         "triplesAllowed": 1,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 68,
+        "opponentsAtBats": 74,
         "wildPitches": 0,
-        "hitBatters": 2,
+        "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.279,
-        "walksHits": 28
+        "opponentsBattingAverage": 0.297,
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12140",
@@ -1537,13 +1537,13 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
       },
       "evaluation": {
-        "score": 7,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1551,40 +1551,40 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 28.7569573283859,
-          "Command": 8.888888888888888,
+          "Miss bats": 29.72027972027973,
+          "Command": 11.111111111111112,
           "Damage suppression": 0
         },
         "summary": "Jackson Gaspard gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.71",
-          "WHIP 1.71",
-          "K/9 7.2"
+          "ERA 8.31",
+          "WHIP 1.79",
+          "K/9 7.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.71"
+            "value": "8.31"
           },
           {
             "label": "WHIP",
-            "value": "1.71"
+            "value": "1.79"
           },
           {
             "label": "K/9",
-            "value": "7.2"
+            "value": "7.3"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "4.7"
           },
           {
             "label": "HR/9",
-            "value": "2.20"
+            "value": "2.08"
           },
           {
             "label": "IP",
-            "value": "16.3"
+            "value": "17.3"
           }
         ],
         "metaLine": "JR / R/R",
@@ -1635,20 +1635,20 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "12",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/eli-stephens/12149",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Eli_Stephens.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 38,
-        "battingAverage": 0.368,
-        "onBasePercentage": 0.484,
-        "sluggingPercentage": 0.704,
-        "ops": 1.188,
-        "atBats": 125,
-        "runs": 31,
-        "hits": 46,
+        "gamesPlayed": 40,
+        "gamesStarted": 39,
+        "battingAverage": 0.369,
+        "onBasePercentage": 0.481,
+        "sluggingPercentage": 0.715,
+        "ops": 1.196,
+        "atBats": 130,
+        "runs": 32,
+        "hits": 48,
         "doubles": 4,
         "triples": 1,
-        "homeRuns": 12,
-        "runsBattedIn": 40,
-        "totalBases": 88,
+        "homeRuns": 13,
+        "runsBattedIn": 41,
+        "totalBases": 93,
         "walks": 27,
         "hitByPitch": 3,
         "strikeouts": 39,
@@ -1658,10 +1658,10 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 68,
-        "assists": 2,
+        "putouts": 70,
+        "assists": 0,
         "errors": 1,
-        "plateAppearances": 160,
+        "plateAppearances": 165,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1673,9 +1673,9 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "12",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/eli-stephens/12149",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Eli_Stephens.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 30,
-        "putouts": 68,
+        "gamesPlayed": 32,
+        "gamesStarted": 31,
+        "putouts": 70,
         "assists": 2,
         "errors": 1,
         "fieldingPercentage": 0.986,
@@ -1685,7 +1685,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 71
+        "totalChances": 73
       },
       "evaluation": {
         "score": 83,
@@ -1696,36 +1696,36 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "components": {
           "On-base": 100,
           "Power": 100,
-          "Contact": 92.5,
+          "Contact": 93.12499999999999,
           "Discipline": 54.700854700854684,
           "Speed": 3.3333333333333335
         },
         "summary": "Eli Stephens profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .368",
-          "OBP .484",
-          "SLG .704"
+          "AVG .369",
+          "OBP .481",
+          "SLG .715"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".368"
+            "value": ".369"
           },
           {
             "label": "OBP",
-            "value": ".484"
+            "value": ".481"
           },
           {
             "label": "SLG",
-            "value": ".704"
+            "value": ".715"
           },
           {
             "label": "HR",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "41"
           },
           {
             "label": "SB",
@@ -2070,33 +2070,33 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "15",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/logan-shepherd/12155",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Logan_Shepherd.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "battingAverage": 0.327,
-        "onBasePercentage": 0.463,
-        "sluggingPercentage": 0.643,
-        "ops": 1.106,
-        "atBats": 171,
-        "runs": 53,
-        "hits": 56,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "battingAverage": 0.326,
+        "onBasePercentage": 0.461,
+        "sluggingPercentage": 0.634,
+        "ops": 1.095,
+        "atBats": 175,
+        "runs": 55,
+        "hits": 57,
         "doubles": 10,
         "triples": 1,
         "homeRuns": 14,
         "runsBattedIn": 42,
-        "totalBases": 110,
-        "walks": 34,
+        "totalBases": 111,
+        "walks": 35,
         "hitByPitch": 9,
-        "strikeouts": 47,
+        "strikeouts": 48,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 259,
-        "assists": 13,
+        "putouts": 264,
+        "assists": 0,
         "errors": 6,
-        "plateAppearances": 216,
+        "plateAppearances": 221,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2108,19 +2108,19 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "15",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/logan-shepherd/12155",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Logan_Shepherd.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "putouts": 259,
-        "assists": 13,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "putouts": 264,
+        "assists": 14,
         "errors": 6,
-        "fieldingPercentage": 0.978,
+        "fieldingPercentage": 0.979,
         "doublePlays": 20,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 278
+        "totalChances": 284
       },
       "evaluation": {
         "score": 74,
@@ -2130,29 +2130,29 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         },
         "components": {
           "On-base": 100,
-          "Power": 85.00000000000001,
-          "Contact": 66.875,
-          "Discipline": 58.15602836879431,
+          "Power": 82.63157894736844,
+          "Contact": 66.25000000000001,
+          "Discipline": 58.796296296296276,
           "Speed": 0
         },
         "summary": "Logan Shepherd profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .327",
-          "OBP .463",
-          "SLG .643"
+          "AVG .326",
+          "OBP .461",
+          "SLG .634"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".327"
+            "value": ".326"
           },
           {
             "label": "OBP",
-            "value": ".463"
+            "value": ".461"
           },
           {
             "label": "SLG",
-            "value": ".643"
+            "value": ".634"
           },
           {
             "label": "HR",
@@ -2216,32 +2216,32 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "16",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/andrew-garnett/12139",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Andrew_Garnett.jpg",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 0,
-        "appearances": 19,
+        "appearances": 20,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.22,
-        "whip": 1.27,
+        "earnedRunAverage": 4.03,
+        "whip": 1.25,
         "wins": 3,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 21.333333333333332,
-        "inningsPitchedDisplay": "21.1",
-        "hitsAllowed": 18,
+        "inningsPitched": 22.333333333333332,
+        "inningsPitchedDisplay": "22.1",
+        "hitsAllowed": 19,
         "runsAllowed": 11,
         "earnedRunsAllowed": 10,
         "walksAllowed": 9,
-        "strikeouts": 29,
+        "strikeouts": 30,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 77,
+        "opponentsAtBats": 80,
         "wildPitches": 2,
         "hitBatters": 6,
         "balks": 0,
-        "opponentsBattingAverage": 0.234,
-        "walksHits": 27
+        "opponentsBattingAverage": 0.238,
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12139",
@@ -2273,32 +2273,32 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 74.85795454545455,
-          "Command": 44.44444444444445,
+          "Miss bats": 73.54138398914517,
+          "Command": 46.666666666666664,
           "Damage suppression": 0
         },
-        "summary": "Andrew Garnett looks like a RHP option who misses bats.",
+        "summary": "Andrew Garnett looks like a RHP option who misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.22",
-          "WHIP 1.27",
-          "K/9 12.2"
+          "ERA 4.03",
+          "WHIP 1.25",
+          "K/9 12.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.22"
+            "value": "4.03"
           },
           {
             "label": "WHIP",
-            "value": "1.27"
+            "value": "1.25"
           },
           {
             "label": "K/9",
-            "value": "12.2"
+            "value": "12.1"
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
@@ -2306,7 +2306,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           },
           {
             "label": "IP",
-            "value": "21.3"
+            "value": "22.3"
           }
         ],
         "metaLine": "SR / R/R",
@@ -2358,32 +2358,32 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "17",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/lawson-cole/12131",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Lawson_Cole.jpg",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 0,
-        "appearances": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.5,
-        "whip": 1.56,
+        "earnedRunAverage": 5.12,
+        "whip": 1.45,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 18,
-        "inningsPitchedDisplay": "18.0",
+        "inningsPitched": 19.333333333333332,
+        "inningsPitchedDisplay": "19.1",
         "hitsAllowed": 20,
         "runsAllowed": 12,
         "earnedRunsAllowed": 11,
         "walksAllowed": 8,
-        "strikeouts": 12,
+        "strikeouts": 13,
         "doublesAllowed": 5,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 73,
+        "opponentsAtBats": 77,
         "wildPitches": 4,
         "hitBatters": 3,
         "balks": 1,
-        "opponentsBattingAverage": 0.274,
-        "walksHits": 28
+        "opponentsBattingAverage": 0.26,
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12131",
@@ -2407,7 +2407,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "totalChances": 4
       },
       "evaluation": {
-        "score": 5,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2415,40 +2415,40 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 18.181818181818183,
-          "Command": 10,
+          "Miss bats": 18.65203761755486,
+          "Command": 12.5,
           "Damage suppression": 0
         },
         "summary": "Lawson Cole gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.50",
-          "WHIP 1.56",
-          "K/9 6.0"
+          "ERA 5.12",
+          "WHIP 1.45",
+          "K/9 6.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.50"
+            "value": "5.12"
           },
           {
             "label": "WHIP",
-            "value": "1.56"
+            "value": "1.45"
           },
           {
             "label": "K/9",
-            "value": "6.0"
+            "value": "6.1"
           },
           {
             "label": "BB/9",
-            "value": "4.0"
+            "value": "3.7"
           },
           {
             "label": "HR/9",
-            "value": "1.00"
+            "value": "0.93"
           },
           {
             "label": "IP",
-            "value": "18.0"
+            "value": "19.3"
           }
         ],
         "metaLine": "R-JR / R/R",
@@ -2500,32 +2500,32 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "18",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/jess-ackerman/12128",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Jess_Ackerman.jpg",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 3,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.72,
-        "whip": 1.57,
+        "earnedRunAverage": 4.46,
+        "whip": 1.51,
         "wins": 2,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 34.333333333333336,
-        "inningsPitchedDisplay": "34.1",
-        "hitsAllowed": 28,
+        "inningsPitched": 36.333333333333336,
+        "inningsPitchedDisplay": "36.1",
+        "hitsAllowed": 29,
         "runsAllowed": 19,
         "earnedRunsAllowed": 18,
         "walksAllowed": 26,
-        "strikeouts": 53,
-        "doublesAllowed": 5,
+        "strikeouts": 57,
+        "doublesAllowed": 6,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 125,
+        "opponentsAtBats": 131,
         "wildPitches": 0,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.224,
-        "walksHits": 54
+        "opponentsBattingAverage": 0.221,
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12128",
@@ -2543,13 +2543,13 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
       },
       "evaluation": {
-        "score": 21,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2557,40 +2557,40 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 89.93821712268314,
-          "Command": 20.769230769230766,
+          "Miss bats": 91.99332777314429,
+          "Command": 23.84615384615385,
           "Damage suppression": 0
         },
         "summary": "Jess Ackerman looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.72",
-          "WHIP 1.57",
-          "K/9 13.9"
+          "ERA 4.46",
+          "WHIP 1.51",
+          "K/9 14.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.72"
+            "value": "4.46"
           },
           {
             "label": "WHIP",
-            "value": "1.57"
+            "value": "1.51"
           },
           {
             "label": "K/9",
-            "value": "13.9"
+            "value": "14.1"
           },
           {
             "label": "BB/9",
-            "value": "6.8"
+            "value": "6.4"
           },
           {
             "label": "HR/9",
-            "value": "0.79"
+            "value": "0.74"
           },
           {
             "label": "IP",
-            "value": "34.3"
+            "value": "36.3"
           }
         ],
         "metaLine": "R-SR / L/L",
@@ -2641,7 +2641,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "19",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/parker-dastou/12156",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Parker_Dastou.jpg",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 2,
         "battingAverage": 0.286,
         "onBasePercentage": 0.412,
@@ -2664,8 +2664,8 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "sacrificeHits": 0,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 6,
-        "assists": 9,
+        "putouts": 7,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 19,
         "caughtStealing": 0,
@@ -2679,19 +2679,19 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "19",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/parker-dastou/12156",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Parker_Dastou.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 2,
-        "putouts": 6,
-        "assists": 9,
+        "putouts": 7,
+        "assists": 10,
         "errors": 1,
-        "fieldingPercentage": 0.938,
+        "fieldingPercentage": 0.944,
         "doublePlays": 2,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 16
+        "totalChances": 18
       },
       "evaluation": {
         "score": 46,
@@ -2812,7 +2812,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.425,
-        "walksHits": 21
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12157",
@@ -2954,7 +2954,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "hitBatters": 17,
         "balks": 3,
         "opponentsBattingAverage": 0.273,
-        "walksHits": 76
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12158",
@@ -3096,7 +3096,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "hitBatters": 2,
         "balks": 1,
         "opponentsBattingAverage": 0.277,
-        "walksHits": 59
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12144",
@@ -3114,7 +3114,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -3300,33 +3300,33 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "25",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/michael-graziano/12142",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Michael_Graziano.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "battingAverage": 0.331,
-        "onBasePercentage": 0.431,
-        "sluggingPercentage": 0.579,
-        "ops": 1.01,
-        "atBats": 133,
-        "runs": 41,
-        "hits": 44,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "battingAverage": 0.336,
+        "onBasePercentage": 0.436,
+        "sluggingPercentage": 0.577,
+        "ops": 1.013,
+        "atBats": 137,
+        "runs": 43,
+        "hits": 46,
         "doubles": 15,
         "triples": 0,
         "homeRuns": 6,
-        "runsBattedIn": 28,
-        "totalBases": 77,
-        "walks": 21,
+        "runsBattedIn": 30,
+        "totalBases": 79,
+        "walks": 22,
         "hitByPitch": 4,
-        "strikeouts": 29,
+        "strikeouts": 30,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 2,
         "sacrificeHits": 2,
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
-        "putouts": 79,
-        "assists": 1,
-        "errors": 2,
-        "plateAppearances": 166,
+        "putouts": 81,
+        "assists": 0,
+        "errors": 3,
+        "plateAppearances": 171,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -3338,51 +3338,51 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "25",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/michael-graziano/12142",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Michael_Graziano.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "putouts": 79,
-        "assists": 1,
-        "errors": 2,
-        "fieldingPercentage": 0.976,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "putouts": 81,
+        "assists": 2,
+        "errors": 3,
+        "fieldingPercentage": 0.965,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 82
+        "totalChances": 86
       },
       "evaluation": {
-        "score": 66,
+        "score": 67,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 83.88888888888889,
-          "Power": 68.15789473684211,
-          "Contact": 69.37500000000001,
-          "Discipline": 58.237547892720286,
+          "On-base": 86.66666666666666,
+          "Power": 67.63157894736842,
+          "Contact": 72.50000000000001,
+          "Discipline": 59.25925925925923,
           "Speed": 6.666666666666667
         },
         "summary": "Michael Graziano profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .331",
-          "OBP .431",
-          "SLG .579"
+          "AVG .336",
+          "OBP .436",
+          "SLG .577"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".331"
+            "value": ".336"
           },
           {
             "label": "OBP",
-            "value": ".431"
+            "value": ".436"
           },
           {
             "label": "SLG",
-            "value": ".579"
+            "value": ".577"
           },
           {
             "label": "HR",
@@ -3390,7 +3390,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "30"
           },
           {
             "label": "SB",
@@ -3471,7 +3471,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.317,
-        "walksHits": 26
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12159",
@@ -3489,7 +3489,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -3587,13 +3587,13 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "27",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/braydon-kersey/12146",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Braydon_Kersey.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "battingAverage": 0.318,
-        "onBasePercentage": 0.427,
-        "sluggingPercentage": 0.688,
-        "ops": 1.115,
-        "atBats": 154,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "battingAverage": 0.31,
+        "onBasePercentage": 0.418,
+        "sluggingPercentage": 0.671,
+        "ops": 1.089,
+        "atBats": 158,
         "runs": 39,
         "hits": 49,
         "doubles": 6,
@@ -3603,7 +3603,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "totalBases": 106,
         "walks": 25,
         "hitByPitch": 5,
-        "strikeouts": 47,
+        "strikeouts": 50,
         "intentionalWalks": 4,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
@@ -3613,7 +3613,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "putouts": 1,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 193,
+        "plateAppearances": 197,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3624,32 +3624,32 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "27",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/braydon-kersey/12146",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Braydon_Kersey.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 2,
-        "appearances": 16,
+        "gamesPlayed": 17,
+        "gamesStarted": 3,
+        "appearances": 17,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.7,
-        "whip": 1.17,
+        "earnedRunAverage": 5.51,
+        "whip": 1.22,
         "wins": 2,
         "losses": 0,
         "saves": 4,
         "shutouts": 0,
-        "inningsPitched": 15.333333333333334,
-        "inningsPitchedDisplay": "15.1",
-        "hitsAllowed": 14,
-        "runsAllowed": 9,
-        "earnedRunsAllowed": 8,
+        "inningsPitched": 16.333333333333332,
+        "inningsPitchedDisplay": "16.1",
+        "hitsAllowed": 16,
+        "runsAllowed": 11,
+        "earnedRunsAllowed": 10,
         "walksAllowed": 4,
-        "strikeouts": 18,
+        "strikeouts": 21,
         "doublesAllowed": 5,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 60,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 65,
         "wildPitches": 2,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.233,
-        "walksHits": 18
+        "opponentsBattingAverage": 0.246,
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12146",
@@ -3673,7 +3673,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "totalChances": 1
       },
       "evaluation": {
-        "score": 23,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3681,40 +3681,40 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 59.683794466403164,
-          "Command": 70,
+          "Miss bats": 68.83116883116884,
+          "Command": 85,
           "Damage suppression": 0
         },
         "summary": "Braydon Kersey looks like a INF/RHP option who misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.70",
-          "WHIP 1.17",
-          "K/9 10.6"
+          "ERA 5.51",
+          "WHIP 1.22",
+          "K/9 11.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.70"
+            "value": "5.51"
           },
           {
             "label": "WHIP",
-            "value": "1.17"
+            "value": "1.22"
           },
           {
             "label": "K/9",
-            "value": "10.6"
+            "value": "11.6"
           },
           {
             "label": "BB/9",
-            "value": "2.3"
+            "value": "2.2"
           },
           {
             "label": "HR/9",
-            "value": "0.59"
+            "value": "1.10"
           },
           {
             "label": "IP",
-            "value": "15.3"
+            "value": "16.3"
           }
         ],
         "metaLine": "SO / L/R",
@@ -3879,7 +3879,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.1,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4001,7 +4001,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "hitBatters": 11,
         "balks": 4,
         "opponentsBattingAverage": 0.204,
-        "walksHits": 64
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12147",
@@ -4117,12 +4117,12 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "31",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/kaleb-huffman/12161",
         "imageUrl": "https://mercerbears.com/images/2026/1/15/Kaleb_Huffman.jpg",
-        "gamesPlayed": 25,
+        "gamesPlayed": 26,
         "gamesStarted": 7,
         "battingAverage": 0.216,
-        "onBasePercentage": 0.463,
+        "onBasePercentage": 0.473,
         "sluggingPercentage": 0.378,
-        "ops": 0.841,
+        "ops": 0.851,
         "atBats": 37,
         "runs": 8,
         "hits": 8,
@@ -4131,7 +4131,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "homeRuns": 1,
         "runsBattedIn": 7,
         "totalBases": 14,
-        "walks": 11,
+        "walks": 12,
         "hitByPitch": 6,
         "strikeouts": 17,
         "intentionalWalks": 0,
@@ -4143,7 +4143,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "putouts": 27,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 57,
+        "plateAppearances": 58,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -4170,7 +4170,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "totalChances": 27
       },
       "evaluation": {
-        "score": 43,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4179,13 +4179,13 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           "On-base": 100,
           "Power": 15.263157894736842,
           "Contact": 0,
-          "Discipline": 49.67320261437908,
+          "Discipline": 56.20915032679738,
           "Speed": 0
         },
         "summary": "Kaleb Huffman profiles as a 1B/OF piece who gets on base at a high clip.",
         "summaryMetrics": [
           "AVG .216",
-          "OBP .463",
+          "OBP .473",
           "SLG .378"
         ],
         "statCards": [
@@ -4195,7 +4195,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           },
           {
             "label": "OBP",
-            "value": ".463"
+            "value": ".473"
           },
           {
             "label": "SLG",
@@ -4288,7 +4288,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.31,
-        "walksHits": 10
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12133",
@@ -4405,32 +4405,32 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "33",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/aidan-hayse/12162",
         "imageUrl": "https://mercerbears.com/images/2026/1/14/Aidan_Hayse.jpg",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 0,
-        "appearances": 14,
+        "appearances": 15,
         "gamesCompleted": 0,
         "earnedRunAverage": 7.2,
-        "whip": 1.8,
+        "whip": 2,
         "wins": 1,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
         "inningsPitched": 10,
         "inningsPitchedDisplay": "10.0",
-        "hitsAllowed": 6,
+        "hitsAllowed": 7,
         "runsAllowed": 11,
         "earnedRunsAllowed": 8,
-        "walksAllowed": 12,
+        "walksAllowed": 13,
         "strikeouts": 16,
         "doublesAllowed": 0,
-        "triplesAllowed": 0,
+        "triplesAllowed": 1,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 36,
+        "opponentsAtBats": 37,
         "wildPitches": 3,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.167,
-        "walksHits": 18
+        "opponentsBattingAverage": 0.189,
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12162",
@@ -4463,13 +4463,13 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 94.54545454545455,
-          "Command": 6.666666666666665,
+          "Command": 4.615384615384617,
           "Damage suppression": 0
         },
         "summary": "Aidan Hayse looks like a RHP option who misses bats.",
         "summaryMetrics": [
           "ERA 7.20",
-          "WHIP 1.80",
+          "WHIP 2.00",
           "K/9 14.4"
         ],
         "statCards": [
@@ -4479,7 +4479,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.80"
+            "value": "2.00"
           },
           {
             "label": "K/9",
@@ -4487,7 +4487,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           },
           {
             "label": "BB/9",
-            "value": "10.8"
+            "value": "11.7"
           },
           {
             "label": "HR/9",
@@ -4593,7 +4593,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 65
@@ -4715,7 +4715,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
         "putouts": 27,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 49,
         "caughtStealing": 0,
@@ -4862,7 +4862,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "hitBatters": 3,
         "balks": 2,
         "opponentsBattingAverage": 0.467,
-        "walksHits": 19
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12165",
@@ -5004,7 +5004,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0,
-        "walksHits": 1
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -5126,7 +5126,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.316,
-        "walksHits": 7
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -5344,33 +5344,33 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "44",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/chris-katz/12166",
         "imageUrl": "https://mercerbears.com/images/2026/1/16/Chris_Katz.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "battingAverage": 0.391,
-        "onBasePercentage": 0.5,
-        "sluggingPercentage": 0.722,
-        "ops": 1.222,
-        "atBats": 169,
-        "runs": 58,
-        "hits": 66,
-        "doubles": 12,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "battingAverage": 0.393,
+        "onBasePercentage": 0.502,
+        "sluggingPercentage": 0.74,
+        "ops": 1.242,
+        "atBats": 173,
+        "runs": 59,
+        "hits": 68,
+        "doubles": 13,
         "triples": 1,
-        "homeRuns": 14,
-        "runsBattedIn": 51,
-        "totalBases": 122,
-        "walks": 35,
+        "homeRuns": 15,
+        "runsBattedIn": 57,
+        "totalBases": 128,
+        "walks": 36,
         "hitByPitch": 6,
-        "strikeouts": 16,
+        "strikeouts": 17,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 4,
         "sacrificeHits": 0,
         "stolenBases": 2,
         "stolenBasesAttempts": 4,
-        "putouts": 70,
-        "assists": 1,
+        "putouts": 71,
+        "assists": 0,
         "errors": 0,
-        "plateAppearances": 220,
+        "plateAppearances": 225,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -5382,9 +5382,9 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "jersey": "44",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/chris-katz/12166",
         "imageUrl": "https://mercerbears.com/images/2026/1/16/Chris_Katz.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "putouts": 70,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "putouts": 71,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -5394,7 +5394,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 71
+        "totalChances": 72
       },
       "evaluation": {
         "score": 91,
@@ -5411,30 +5411,30 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         },
         "summary": "Chris Katz profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .391",
-          "OBP .500",
-          "SLG .722"
+          "AVG .393",
+          "OBP .502",
+          "SLG .740"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".391"
+            "value": ".393"
           },
           {
             "label": "OBP",
-            "value": ".500"
+            "value": ".502"
           },
           {
             "label": "SLG",
-            "value": ".722"
+            "value": ".740"
           },
           {
             "label": "HR",
-            "value": "14"
+            "value": "15"
           },
           {
             "label": "RBI",
-            "value": "51"
+            "value": "57"
           },
           {
             "label": "SB",
@@ -5469,48 +5469,48 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "position": "RHP/OF",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 18,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Collin Ewaldsen looks like a RHP/OF option who limits runs and misses bats.",
+        "summary": "Collin Ewaldsen looks like a RHP/OF option who misses bats.",
         "summaryMetrics": [
-          "ERA 3.57",
-          "WHIP 1.64",
-          "K/9 11.7"
+          "ERA 4.42",
+          "WHIP 1.75",
+          "K/9 11.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.57"
+            "value": "4.42"
           },
           {
             "label": "WHIP",
-            "value": "1.64"
+            "value": "1.75"
           },
           {
             "label": "K/9",
-            "value": "11.7"
+            "value": "11.3"
           },
           {
             "label": "BB/9",
-            "value": "5.1"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
-            "value": "1.53"
+            "value": "1.47"
           },
           {
             "label": "IP",
-            "value": "17.7"
+            "value": "18.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 70.15437392795883,
-          "Command": 26.000000000000007,
+          "Miss bats": 66.28099173553719,
+          "Command": 25.999999999999996,
           "Damage suppression": 0
         },
         "metaLine": "SO / L/R",
@@ -5538,21 +5538,21 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "position": "RHP",
         "classYear": "R-FR",
         "handedness": "R/R",
-        "score": 20,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Caleb Hughes looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 9.00",
+          "ERA 8.53",
           "WHIP 1.50",
-          "K/9 10.5"
+          "K/9 10.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.00"
+            "value": "8.53"
           },
           {
             "label": "WHIP",
@@ -5560,26 +5560,26 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           },
           {
             "label": "K/9",
-            "value": "10.5"
+            "value": "10.7"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "2.8"
           },
           {
             "label": "HR/9",
-            "value": "2.25"
+            "value": "2.13"
           },
           {
             "label": "IP",
-            "value": "12.0"
+            "value": "12.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 59.09090909090909,
-          "Command": 50,
+          "Miss bats": 60.52631578947369,
+          "Command": 55.00000000000001,
           "Damage suppression": 0
         },
         "metaLine": "R-FR / R/R",
@@ -5607,29 +5607,29 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 89,
+        "score": 88,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Titan Kamaka profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .420",
-          "OBP .519",
-          "SLG .667"
+          "AVG .416",
+          "OBP .513",
+          "SLG .656"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".420"
+            "value": ".416"
           },
           {
             "label": "OBP",
-            "value": ".519"
+            "value": ".513"
           },
           {
             "label": "SLG",
-            "value": ".667"
+            "value": ".656"
           },
           {
             "label": "HR",
@@ -5646,9 +5646,9 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 91.31578947368423,
+          "Power": 88.42105263157897,
           "Contact": 100,
-          "Discipline": 100,
+          "Discipline": 92.85714285714286,
           "Speed": 16.666666666666664
         },
         "metaLine": "SR / R/R",
@@ -5676,33 +5676,33 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "position": "INF/RHP",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 14,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Kai Decker looks like a INF/RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.82",
-          "WHIP 1.47",
-          "K/9 10.6"
+          "ERA 5.50",
+          "WHIP 1.50",
+          "K/9 10.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.82"
+            "value": "5.50"
           },
           {
             "label": "WHIP",
-            "value": "1.47"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "10.6"
+            "value": "10.0"
           },
           {
             "label": "BB/9",
-            "value": "6.4"
+            "value": "6.0"
           },
           {
             "label": "HR/9",
@@ -5710,13 +5710,13 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           },
           {
             "label": "IP",
-            "value": "17.0"
+            "value": "18.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 59.893048128342244,
+          "Miss bats": 54.54545454545454,
           "Command": 13.333333333333336,
           "Damage suppression": 0
         },
@@ -5752,22 +5752,22 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         },
         "summary": "Dylan LaPointe gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .254",
-          "OBP .395",
-          "SLG .486"
+          "AVG .250",
+          "OBP .398",
+          "SLG .479"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".254"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": ".398"
           },
           {
             "label": "SLG",
-            "value": ".486"
+            "value": ".479"
           },
           {
             "label": "HR",
@@ -5783,10 +5783,10 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           }
         ],
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 43.684210526315795,
-          "Contact": 21.250000000000004,
-          "Discipline": 15.718157181571815,
+          "On-base": 65.55555555555556,
+          "Power": 41.84210526315789,
+          "Contact": 18.75,
+          "Discipline": 20.1058201058201,
           "Speed": 0
         },
         "metaLine": "JR / R/R",
@@ -5814,7 +5814,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "position": "3B",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 61,
+        "score": 62,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
@@ -5822,8 +5822,8 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "summary": "Brant Baughcum profiles as a 3B piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
           "AVG .313",
-          "OBP .411",
-          "SLG .571"
+          "OBP .413",
+          "SLG .572"
         ],
         "statCards": [
           {
@@ -5832,11 +5832,11 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           },
           {
             "label": "OBP",
-            "value": ".411"
+            "value": ".413"
           },
           {
             "label": "SLG",
-            "value": ".571"
+            "value": ".572"
           },
           {
             "label": "HR",
@@ -5844,7 +5844,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           },
           {
             "label": "RBI",
-            "value": "45"
+            "value": "46"
           },
           {
             "label": "SB",
@@ -5852,10 +5852,10 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           }
         ],
         "components": {
-          "On-base": 72.77777777777776,
-          "Power": 66.05263157894737,
+          "On-base": 73.88888888888886,
+          "Power": 66.3157894736842,
           "Contact": 58.12499999999999,
-          "Discipline": 51.85185185185184,
+          "Discipline": 56.48148148148147,
           "Speed": 23.333333333333332
         },
         "metaLine": "SR / R/R",
@@ -5883,29 +5883,29 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 22,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ethan Buffone gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .241",
-          "OBP .343",
-          "SLG .345"
+          "AVG .226",
+          "OBP .324",
+          "SLG .323"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".241"
+            "value": ".226"
           },
           {
             "label": "OBP",
-            "value": ".343"
+            "value": ".324"
           },
           {
             "label": "SLG",
-            "value": ".345"
+            "value": ".323"
           },
           {
             "label": "HR",
@@ -5921,9 +5921,9 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           }
         ],
         "components": {
-          "On-base": 35,
-          "Power": 6.578947368421045,
-          "Contact": 13.124999999999995,
+          "On-base": 24.444444444444436,
+          "Power": 0.7894736842105272,
+          "Contact": 3.7500000000000036,
           "Discipline": 47.222222222222214,
           "Speed": 0
         },
@@ -6021,29 +6021,29 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 41,
+        "score": 46,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Drew Johnson profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .231",
-          "OBP .434",
-          "SLG .333"
+          "AVG .250",
+          "OBP .444",
+          "SLG .350"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".231"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".434"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": ".333"
+            "value": ".350"
           },
           {
             "label": "HR",
@@ -6059,9 +6059,9 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           }
         ],
         "components": {
-          "On-base": 85.55555555555554,
-          "Power": 3.421052631578951,
-          "Contact": 6.875000000000006,
+          "On-base": 91.1111111111111,
+          "Power": 7.8947368421052575,
+          "Contact": 18.75,
           "Discipline": 81.48148148148148,
           "Speed": 0
         },
@@ -6090,48 +6090,48 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 7,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jackson Gaspard gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.71",
-          "WHIP 1.71",
-          "K/9 7.2"
+          "ERA 8.31",
+          "WHIP 1.79",
+          "K/9 7.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.71"
+            "value": "8.31"
           },
           {
             "label": "WHIP",
-            "value": "1.71"
+            "value": "1.79"
           },
           {
             "label": "K/9",
-            "value": "7.2"
+            "value": "7.3"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "4.7"
           },
           {
             "label": "HR/9",
-            "value": "2.20"
+            "value": "2.08"
           },
           {
             "label": "IP",
-            "value": "16.3"
+            "value": "17.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 28.7569573283859,
-          "Command": 8.888888888888888,
+          "Miss bats": 29.72027972027973,
+          "Command": 11.111111111111112,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -6166,30 +6166,30 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         },
         "summary": "Eli Stephens profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .368",
-          "OBP .484",
-          "SLG .704"
+          "AVG .369",
+          "OBP .481",
+          "SLG .715"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".368"
+            "value": ".369"
           },
           {
             "label": "OBP",
-            "value": ".484"
+            "value": ".481"
           },
           {
             "label": "SLG",
-            "value": ".704"
+            "value": ".715"
           },
           {
             "label": "HR",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "41"
           },
           {
             "label": "SB",
@@ -6199,7 +6199,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "components": {
           "On-base": 100,
           "Power": 100,
-          "Contact": 92.5,
+          "Contact": 93.12499999999999,
           "Discipline": 54.700854700854684,
           "Speed": 3.3333333333333335
         },
@@ -6373,22 +6373,22 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         },
         "summary": "Logan Shepherd profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .327",
-          "OBP .463",
-          "SLG .643"
+          "AVG .326",
+          "OBP .461",
+          "SLG .634"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".327"
+            "value": ".326"
           },
           {
             "label": "OBP",
-            "value": ".463"
+            "value": ".461"
           },
           {
             "label": "SLG",
-            "value": ".643"
+            "value": ".634"
           },
           {
             "label": "HR",
@@ -6405,9 +6405,9 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 85.00000000000001,
-          "Contact": 66.875,
-          "Discipline": 58.15602836879431,
+          "Power": 82.63157894736844,
+          "Contact": 66.25000000000001,
+          "Discipline": 58.796296296296276,
           "Speed": 0
         },
         "metaLine": "JR / R/R",
@@ -6440,28 +6440,28 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Andrew Garnett looks like a RHP option who misses bats.",
+        "summary": "Andrew Garnett looks like a RHP option who misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.22",
-          "WHIP 1.27",
-          "K/9 12.2"
+          "ERA 4.03",
+          "WHIP 1.25",
+          "K/9 12.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.22"
+            "value": "4.03"
           },
           {
             "label": "WHIP",
-            "value": "1.27"
+            "value": "1.25"
           },
           {
             "label": "K/9",
-            "value": "12.2"
+            "value": "12.1"
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
@@ -6469,14 +6469,14 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           },
           {
             "label": "IP",
-            "value": "21.3"
+            "value": "22.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 74.85795454545455,
-          "Command": 44.44444444444445,
+          "Miss bats": 73.54138398914517,
+          "Command": 46.666666666666664,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -6504,48 +6504,48 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "position": "RHP",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 5,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Lawson Cole gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.50",
-          "WHIP 1.56",
-          "K/9 6.0"
+          "ERA 5.12",
+          "WHIP 1.45",
+          "K/9 6.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.50"
+            "value": "5.12"
           },
           {
             "label": "WHIP",
-            "value": "1.56"
+            "value": "1.45"
           },
           {
             "label": "K/9",
-            "value": "6.0"
+            "value": "6.1"
           },
           {
             "label": "BB/9",
-            "value": "4.0"
+            "value": "3.7"
           },
           {
             "label": "HR/9",
-            "value": "1.00"
+            "value": "0.93"
           },
           {
             "label": "IP",
-            "value": "18.0"
+            "value": "19.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 18.181818181818183,
-          "Command": 10,
+          "Miss bats": 18.65203761755486,
+          "Command": 12.5,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / R/R",
@@ -6573,48 +6573,48 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "position": "LHP",
         "classYear": "R-SR",
         "handedness": "L/L",
-        "score": 21,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jess Ackerman looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.72",
-          "WHIP 1.57",
-          "K/9 13.9"
+          "ERA 4.46",
+          "WHIP 1.51",
+          "K/9 14.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.72"
+            "value": "4.46"
           },
           {
             "label": "WHIP",
-            "value": "1.57"
+            "value": "1.51"
           },
           {
             "label": "K/9",
-            "value": "13.9"
+            "value": "14.1"
           },
           {
             "label": "BB/9",
-            "value": "6.8"
+            "value": "6.4"
           },
           {
             "label": "HR/9",
-            "value": "0.79"
+            "value": "0.74"
           },
           {
             "label": "IP",
-            "value": "34.3"
+            "value": "36.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 89.93821712268314,
-          "Command": 20.769230769230766,
+          "Miss bats": 91.99332777314429,
+          "Command": 23.84615384615385,
           "Damage suppression": 0
         },
         "metaLine": "R-SR / L/L",
@@ -6986,29 +6986,29 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 66,
+        "score": 67,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Michael Graziano profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .331",
-          "OBP .431",
-          "SLG .579"
+          "AVG .336",
+          "OBP .436",
+          "SLG .577"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".331"
+            "value": ".336"
           },
           {
             "label": "OBP",
-            "value": ".431"
+            "value": ".436"
           },
           {
             "label": "SLG",
-            "value": ".579"
+            "value": ".577"
           },
           {
             "label": "HR",
@@ -7016,7 +7016,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "30"
           },
           {
             "label": "SB",
@@ -7024,10 +7024,10 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           }
         ],
         "components": {
-          "On-base": 83.88888888888889,
-          "Power": 68.15789473684211,
-          "Contact": 69.37500000000001,
-          "Discipline": 58.237547892720286,
+          "On-base": 86.66666666666666,
+          "Power": 67.63157894736842,
+          "Contact": 72.50000000000001,
+          "Discipline": 59.25925925925923,
           "Speed": 6.666666666666667
         },
         "metaLine": "JR / R/R",
@@ -7124,48 +7124,48 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "position": "INF/RHP",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 23,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Braydon Kersey looks like a INF/RHP option who misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.70",
-          "WHIP 1.17",
-          "K/9 10.6"
+          "ERA 5.51",
+          "WHIP 1.22",
+          "K/9 11.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.70"
+            "value": "5.51"
           },
           {
             "label": "WHIP",
-            "value": "1.17"
+            "value": "1.22"
           },
           {
             "label": "K/9",
-            "value": "10.6"
+            "value": "11.6"
           },
           {
             "label": "BB/9",
-            "value": "2.3"
+            "value": "2.2"
           },
           {
             "label": "HR/9",
-            "value": "0.59"
+            "value": "1.10"
           },
           {
             "label": "IP",
-            "value": "15.3"
+            "value": "16.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 59.683794466403164,
-          "Command": 70,
+          "Miss bats": 68.83116883116884,
+          "Command": 85,
           "Damage suppression": 0
         },
         "metaLine": "SO / L/R",
@@ -7399,7 +7399,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "position": "1B/OF",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 43,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -7407,7 +7407,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "summary": "Kaleb Huffman profiles as a 1B/OF piece who gets on base at a high clip.",
         "summaryMetrics": [
           "AVG .216",
-          "OBP .463",
+          "OBP .473",
           "SLG .378"
         ],
         "statCards": [
@@ -7417,7 +7417,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           },
           {
             "label": "OBP",
-            "value": ".463"
+            "value": ".473"
           },
           {
             "label": "SLG",
@@ -7440,7 +7440,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           "On-base": 100,
           "Power": 15.263157894736842,
           "Contact": 0,
-          "Discipline": 49.67320261437908,
+          "Discipline": 56.20915032679738,
           "Speed": 0
         },
         "metaLine": "SR / L/L",
@@ -7545,7 +7545,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         "summary": "Aidan Hayse looks like a RHP option who misses bats.",
         "summaryMetrics": [
           "ERA 7.20",
-          "WHIP 1.80",
+          "WHIP 2.00",
           "K/9 14.4"
         ],
         "statCards": [
@@ -7555,7 +7555,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.80"
+            "value": "2.00"
           },
           {
             "label": "K/9",
@@ -7563,7 +7563,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           },
           {
             "label": "BB/9",
-            "value": "10.8"
+            "value": "11.7"
           },
           {
             "label": "HR/9",
@@ -7578,7 +7578,7 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 94.54545454545455,
-          "Command": 6.666666666666665,
+          "Command": 4.615384615384617,
           "Damage suppression": 0
         },
         "metaLine": "R-FR / R/R",
@@ -8027,30 +8027,30 @@ window.__BASEBALL_DATASETS__.mercer2026 = {
         },
         "summary": "Chris Katz profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .391",
-          "OBP .500",
-          "SLG .722"
+          "AVG .393",
+          "OBP .502",
+          "SLG .740"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".391"
+            "value": ".393"
           },
           {
             "label": "OBP",
-            "value": ".500"
+            "value": ".502"
           },
           {
             "label": "SLG",
-            "value": ".722"
+            "value": ".740"
           },
           {
             "label": "HR",
-            "value": "14"
+            "value": "15"
           },
           {
             "label": "RBI",
-            "value": "51"
+            "value": "57"
           },
           {
             "label": "SB",

@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.abilene-christian2026 = {
-  "generatedAt": "2026-04-29T11:54:47.524Z",
+  "generatedAt": "2026-04-30T11:53:43.393Z",
   "season": 2026,
   "school": {
     "slug": "abilene-christian",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 4,
         "putouts": 75,
-        "assists": 73,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 176,
         "caughtStealing": 3,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
         "putouts": 55,
-        "assists": 109,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 222,
         "caughtStealing": 0,
@@ -477,7 +477,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "hitBatters": 14,
         "balks": 0,
         "opponentsBattingAverage": 0.24,
-        "walksHits": 59
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11223",
@@ -495,7 +495,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -619,7 +619,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.368,
-        "walksHits": 24
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11219",
@@ -637,7 +637,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -759,7 +759,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 32,
-        "assists": 67,
+        "assists": 0,
         "errors": 10,
         "plateAppearances": 169,
         "caughtStealing": 0,
@@ -906,7 +906,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.262,
-        "walksHits": 54
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11231",
@@ -924,7 +924,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -1084,7 +1084,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.233,
-        "walksHits": 37
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11215",
@@ -1224,7 +1224,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 328,
-        "assists": 12,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 198,
         "caughtStealing": 0,
@@ -1457,7 +1457,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 203,
-        "assists": 23,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 114,
         "caughtStealing": 0,
@@ -1480,7 +1480,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 56,
         "caughtStealingBy": 5,
-        "stolenBasesPercentage": 0.918,
+        "stolenBasesPercentage": null,
         "passedBalls": 8,
         "catchersInterference": 0,
         "totalChances": 229
@@ -1604,7 +1604,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.355,
-        "walksHits": 16
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11226",
@@ -1622,7 +1622,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -1744,7 +1744,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 13,
-        "assists": 21,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 60,
         "caughtStealing": 0,
@@ -2141,7 +2141,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "hitBatters": 5,
         "balks": 1,
         "opponentsBattingAverage": 0.21,
-        "walksHits": 51
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11233",
@@ -2159,7 +2159,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -2408,7 +2408,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.313,
-        "walksHits": 19
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11216",
@@ -2426,7 +2426,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -2693,7 +2693,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 57,
-        "assists": 2,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 105,
         "caughtStealing": 0,
@@ -2840,7 +2840,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.373,
-        "walksHits": 30
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11217",
@@ -3127,7 +3127,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.375,
-        "walksHits": 12
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11238",
@@ -3269,7 +3269,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "hitBatters": 10,
         "balks": 0,
         "opponentsBattingAverage": 0.286,
-        "walksHits": 29
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11221",
@@ -3287,7 +3287,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -3411,7 +3411,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.295,
-        "walksHits": 79
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11239",
@@ -3429,7 +3429,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.778,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 14
@@ -3553,7 +3553,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.55,
-        "walksHits": 14
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11240",
@@ -3838,7 +3838,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 20,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 61,
         "caughtStealing": 1,
@@ -3985,7 +3985,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.393,
-        "walksHits": 30
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11241",
@@ -4003,7 +4003,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -4125,7 +4125,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 106,
-        "assists": 10,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 67,
         "caughtStealing": 0,
@@ -4148,7 +4148,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 33,
         "caughtStealingBy": 10,
-        "stolenBasesPercentage": 0.767,
+        "stolenBasesPercentage": null,
         "passedBalls": 11,
         "catchersInterference": 0,
         "totalChances": 120
@@ -4272,7 +4272,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.269,
-        "walksHits": 13
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11243",
@@ -4290,7 +4290,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4414,7 +4414,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.4,
-        "walksHits": 23
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11244",
@@ -4432,7 +4432,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -4556,7 +4556,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.32,
-        "walksHits": 27
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11245",
@@ -4574,7 +4574,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -4786,7 +4786,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "hitBatters": 2,
         "balks": 1,
         "opponentsBattingAverage": 0.279,
-        "walksHits": 60
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11246",
@@ -4804,7 +4804,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 12
@@ -4928,7 +4928,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.252,
-        "walksHits": 74
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11222",
@@ -4946,7 +4946,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 11,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.846,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -5068,7 +5068,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 58,
-        "assists": 20,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 67,
         "caughtStealing": 0,
@@ -5091,7 +5091,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "doublePlays": 2,
         "stolenBasesAgainst": 12,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.923,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 79

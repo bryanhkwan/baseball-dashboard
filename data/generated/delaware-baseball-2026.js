@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.delaware2026 = {
-  "generatedAt": "2026-04-29T11:54:59.515Z",
+  "generatedAt": "2026-04-30T11:53:56.622Z",
   "season": 2026,
   "school": {
     "slug": "delaware",
@@ -187,7 +187,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "stolenBases": 12,
         "stolenBasesAttempts": 16,
         "putouts": 116,
-        "assists": 6,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 235,
         "caughtStealing": 4,
@@ -332,7 +332,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 7,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 28,
         "caughtStealing": 0,
@@ -477,7 +477,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "stolenBases": 8,
         "stolenBasesAttempts": 8,
         "putouts": 38,
-        "assists": 87,
+        "assists": 0,
         "errors": 17,
         "plateAppearances": 133,
         "caughtStealing": 0,
@@ -515,7 +515,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "hitBatters": 5,
         "balks": 1,
         "opponentsBattingAverage": 0.379,
-        "walksHits": 11
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "30240",
@@ -533,7 +533,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "doublePlays": 15,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 142
@@ -743,7 +743,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 9,
         "putouts": 56,
-        "assists": 85,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 182,
         "caughtStealing": 0,
@@ -888,7 +888,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 192,
-        "assists": 18,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 199,
         "caughtStealing": 0,
@@ -911,7 +911,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 37,
         "caughtStealingBy": 8,
-        "stolenBasesPercentage": 0.822,
+        "stolenBasesPercentage": null,
         "passedBalls": 15,
         "catchersInterference": 0,
         "totalChances": 210
@@ -1033,7 +1033,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 7,
         "putouts": 323,
-        "assists": 23,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 213,
         "caughtStealing": 1,
@@ -1178,7 +1178,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "stolenBases": 8,
         "stolenBasesAttempts": 8,
         "putouts": 50,
-        "assists": 2,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 136,
         "caughtStealing": 0,
@@ -1325,7 +1325,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "hitBatters": 3,
         "balks": 1,
         "opponentsBattingAverage": 0.286,
-        "walksHits": 46
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "30228",
@@ -1343,7 +1343,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.333,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -1465,7 +1465,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 20,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 17,
         "caughtStealing": 0,
@@ -1488,7 +1488,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 22
@@ -1612,7 +1612,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.227,
-        "walksHits": 13
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "30227",
@@ -1630,7 +1630,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -1752,7 +1752,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
         "putouts": 25,
-        "assists": 57,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 146,
         "caughtStealing": 0,
@@ -1899,7 +1899,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "hitBatters": 1,
         "balks": 1,
         "opponentsBattingAverage": 0.311,
-        "walksHits": 64
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "30516",
@@ -1917,7 +1917,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 10
@@ -2039,7 +2039,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 3,
         "putouts": 99,
-        "assists": 8,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 141,
         "caughtStealing": 2,
@@ -2184,7 +2184,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
         "putouts": 55,
-        "assists": 6,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 166,
         "caughtStealing": 1,
@@ -2400,7 +2400,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "gamesCompleted": 0,
         "earnedRunAverage": 7.16,
         "whip": 1.78,
-        "wins": 2,
+        "wins": 1,
         "losses": 3,
         "saves": 1,
         "shutouts": 0,
@@ -2419,7 +2419,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "hitBatters": 5,
         "balks": 2,
         "opponentsBattingAverage": 0.24,
-        "walksHits": 58
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "30519",
@@ -2437,7 +2437,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -2561,7 +2561,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.346,
-        "walksHits": 61
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "30238",
@@ -2579,7 +2579,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 11
@@ -2703,7 +2703,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.269,
-        "walksHits": 46
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "30551",
@@ -2721,7 +2721,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 10,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.909,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -2843,7 +2843,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 21,
-        "assists": 54,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 127,
         "caughtStealing": 0,
@@ -3078,7 +3078,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.404,
-        "walksHits": 27
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "30510",
@@ -3096,7 +3096,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -3220,7 +3220,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.228,
-        "walksHits": 29
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "30231",
@@ -3238,7 +3238,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -3360,7 +3360,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 2,
         "putouts": 115,
-        "assists": 7,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 140,
         "caughtStealing": 2,
@@ -3383,7 +3383,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 28,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.875,
+        "stolenBasesPercentage": null,
         "passedBalls": 5,
         "catchersInterference": 1,
         "totalChances": 124
@@ -3595,7 +3595,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "hitBatters": 2,
         "balks": 1,
         "opponentsBattingAverage": 0.29,
-        "walksHits": 64
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "30523",
@@ -3613,7 +3613,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.875,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -3806,7 +3806,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "gamesCompleted": 0,
         "earnedRunAverage": 6,
         "whip": 1.38,
-        "wins": 2,
+        "wins": 3,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
@@ -3825,7 +3825,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "hitBatters": 10,
         "balks": 0,
         "opponentsBattingAverage": 0.241,
-        "walksHits": 29
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "30244",
@@ -3843,7 +3843,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -3967,7 +3967,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.219,
-        "walksHits": 21
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "30245",
@@ -3985,7 +3985,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4092,7 +4092,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "whip": 1.56,
         "wins": 2,
         "losses": 4,
-        "saves": 1,
+        "saves": 2,
         "shutouts": 0,
         "inningsPitched": 47.333333333333336,
         "inningsPitchedDisplay": "47.1",
@@ -4109,7 +4109,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "hitBatters": 12,
         "balks": 0,
         "opponentsBattingAverage": 0.295,
-        "walksHits": 74
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "30239",
@@ -4127,7 +4127,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 11,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.846,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -4251,7 +4251,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.323,
-        "walksHits": 29
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "30525",
@@ -4269,7 +4269,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -4393,7 +4393,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.247,
-        "walksHits": 44
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "30241",
@@ -4535,7 +4535,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "hitBatters": 8,
         "balks": 0,
         "opponentsBattingAverage": 0.273,
-        "walksHits": 29
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4782,7 +4782,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.385,
-        "walksHits": 33
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4992,7 +4992,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.382,
-        "walksHits": 29
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "30243",
@@ -5010,7 +5010,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0

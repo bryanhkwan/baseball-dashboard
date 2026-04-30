@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.washington2026 = {
-  "generatedAt": "2026-04-29T11:55:39.571Z",
+  "generatedAt": "2026-04-30T11:54:41.206Z",
   "season": 2026,
   "school": {
     "slug": "washington",
@@ -25,7 +25,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 36,
+    "rosterPlayers": 35,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 16,
     "playersWithPitchingStats": 13,
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 6,
         "putouts": 73,
-        "assists": 96,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 191,
         "caughtStealing": 3,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 158,
-        "assists": 11,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 132,
         "caughtStealing": 0,
@@ -353,7 +353,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 14,
         "caughtStealingBy": 7,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 170
@@ -563,7 +563,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 223,
-        "assists": 12,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 129,
         "caughtStealing": 0,
@@ -586,7 +586,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 23,
         "caughtStealingBy": 5,
-        "stolenBasesPercentage": 0.821,
+        "stolenBasesPercentage": null,
         "passedBalls": 3,
         "catchersInterference": 0,
         "totalChances": 238
@@ -708,7 +708,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 7,
         "putouts": 65,
-        "assists": 17,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 88,
         "caughtStealing": 1,
@@ -853,7 +853,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 11,
         "putouts": 27,
-        "assists": 50,
+        "assists": 0,
         "errors": 9,
         "plateAppearances": 161,
         "caughtStealing": 2,
@@ -1143,7 +1143,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 4,
         "putouts": 61,
-        "assists": 2,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 191,
         "caughtStealing": 2,
@@ -1288,7 +1288,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 1,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 32,
         "caughtStealing": 0,
@@ -1433,7 +1433,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 157,
-        "assists": 11,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 119,
         "caughtStealing": 0,
@@ -1578,7 +1578,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "stolenBases": 11,
         "stolenBasesAttempts": 12,
         "putouts": 99,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 188,
         "caughtStealing": 1,
@@ -1725,7 +1725,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "hitBatters": 0,
         "balks": 1,
         "opponentsBattingAverage": 0.259,
-        "walksHits": 42
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17542",
@@ -1867,7 +1867,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "hitBatters": 6,
         "balks": 1,
         "opponentsBattingAverage": 0.281,
-        "walksHits": 74
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17544",
@@ -1885,7 +1885,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -1943,94 +1943,6 @@ window.__BASEBALL_DATASETS__.washington2026 = {
           "Pitcher"
         ],
         "sourceSummary": "Washington Athletics roster + Washington cumulative stats"
-      }
-    },
-    {
-      "id": "washington-17545",
-      "schoolSlug": "washington",
-      "school": "Washington",
-      "schoolLongName": "University of Washington",
-      "name": "Nate Tichy",
-      "normalizedName": "nate tichy",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "18",
-      "hometown": "San Jose, Calif.",
-      "highSchool": "Pioneer HS",
-      "previousSchool": "Pepperdine",
-      "hometownHighSchool": "San Jose, Calif. / Pioneer HS",
-      "profileUrl": "https://gohuskies.com/sports/baseball/roster/nate-tichy/17545",
-      "imageUrl": "https://gohuskies.com/images/2026/1/26/_0027_18__Tichy__Nate_uw-bsb-media-day-2026-0255.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "17545",
-      "sources": [
-        "Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Nate Tichy looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Washington Athletics roster"
       }
     },
     {
@@ -2095,7 +2007,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
         "putouts": 47,
-        "assists": 2,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 162,
         "caughtStealing": 0,
@@ -2242,7 +2154,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.296,
-        "walksHits": 45
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17546",
@@ -2260,7 +2172,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -2384,7 +2296,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.172,
-        "walksHits": 32
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17547",
@@ -2402,7 +2314,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -2526,7 +2438,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.214,
-        "walksHits": 80
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17548",
@@ -2544,7 +2456,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -2666,7 +2578,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 7,
         "putouts": 101,
-        "assists": 8,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 137,
         "caughtStealing": 4,
@@ -2811,7 +2723,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 10,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 39,
         "caughtStealing": 0,
@@ -2958,7 +2870,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.303,
-        "walksHits": 11
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17551",
@@ -3333,7 +3245,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.287,
-        "walksHits": 52
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17553",
@@ -3351,7 +3263,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -3473,7 +3385,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 6,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 10,
         "caughtStealing": 0,
@@ -3620,7 +3532,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.231,
-        "walksHits": 54
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17526",
@@ -3638,7 +3550,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -3850,7 +3762,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.273,
-        "walksHits": 6
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4148,7 +4060,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.318,
-        "walksHits": 57
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17531",
@@ -4166,7 +4078,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -4290,7 +4202,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "hitBatters": 8,
         "balks": 0,
         "opponentsBattingAverage": 0.235,
-        "walksHits": 31
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17559",
@@ -4308,7 +4220,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -4432,7 +4344,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "hitBatters": 1,
         "balks": 1,
         "opponentsBattingAverage": 0.424,
-        "walksHits": 19
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17557",
@@ -4572,7 +4484,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 11,
         "putouts": 65,
-        "assists": 84,
+        "assists": 0,
         "errors": 10,
         "plateAppearances": 202,
         "caughtStealing": 2,
@@ -4719,7 +4631,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.231,
-        "walksHits": 48
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "17522",
@@ -4889,10 +4801,10 @@ window.__BASEBALL_DATASETS__.washington2026 = {
   "playerBoard": {
     "source": "Washington Athletics roster + cumulative stats / ESPN roster",
     "note": "This Washington-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Washington's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 36,
+    "totalPlayers": 35,
     "roleCounts": {
       "Hitter": 18,
-      "Pitcher": 18
+      "Pitcher": 17
     },
     "players": [
       {
@@ -5789,74 +5701,6 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "schoolSlug": "washington",
         "compositeRole": "Pitcher",
         "profileUrl": "https://gohuskies.com/sports/baseball/roster/hayden-lewis/17544",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "washington-17545",
-        "name": "Nate Tichy",
-        "school": "Washington",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nate Tichy looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Washington Athletics roster"
-        ],
-        "sourceSummary": "Washington Athletics roster",
-        "schoolSlug": "washington",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gohuskies.com/sports/baseball/roster/nate-tichy/17545",
         "espnAthleteId": ""
       },
       {

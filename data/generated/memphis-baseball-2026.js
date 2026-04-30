@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.memphis2026 = {
-  "generatedAt": "2026-04-29T11:55:11.615Z",
+  "generatedAt": "2026-04-30T11:54:11.326Z",
   "season": 2026,
   "school": {
     "slug": "memphis",
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 11,
         "putouts": 125,
-        "assists": 83,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 204,
         "caughtStealing": 2,
@@ -620,7 +620,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 2,
-        "assists": 11,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 13,
         "caughtStealing": 0,
@@ -658,7 +658,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.5,
-        "walksHits": 2
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12369",
@@ -800,7 +800,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.286,
-        "walksHits": 14
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12370",
@@ -818,7 +818,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -942,7 +942,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.308,
-        "walksHits": 8
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -1062,7 +1062,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "stolenBases": 20,
         "stolenBasesAttempts": 20,
         "putouts": 61,
-        "assists": 92,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 212,
         "caughtStealing": 0,
@@ -1207,7 +1207,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "stolenBases": 34,
         "stolenBasesAttempts": 39,
         "putouts": 23,
-        "assists": 63,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 247,
         "caughtStealing": 5,
@@ -1354,7 +1354,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "hitBatters": 4,
         "balks": 1,
         "opponentsBattingAverage": 0.172,
-        "walksHits": 23
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12380",
@@ -1372,7 +1372,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -1494,7 +1494,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 38,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 86,
         "caughtStealing": 0,
@@ -1641,7 +1641,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "hitBatters": 3,
         "balks": 1,
         "opponentsBattingAverage": 0.309,
-        "walksHits": 26
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12372",
@@ -1659,7 +1659,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -1783,7 +1783,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.27,
-        "walksHits": 31
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12371",
@@ -2070,7 +2070,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.324,
-        "walksHits": 73
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12363",
@@ -2088,7 +2088,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -2212,7 +2212,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.337,
-        "walksHits": 46
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12367",
@@ -2352,7 +2352,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 5,
         "putouts": 195,
-        "assists": 15,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 137,
         "caughtStealing": 2,
@@ -2375,7 +2375,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "doublePlays": 3,
         "stolenBasesAgainst": 37,
         "caughtStealingBy": 7,
-        "stolenBasesPercentage": 0.841,
+        "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 1,
         "totalChances": 213
@@ -2499,7 +2499,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "hitBatters": 12,
         "balks": 1,
         "opponentsBattingAverage": 0.357,
-        "walksHits": 67
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12373",
@@ -2517,7 +2517,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -2729,7 +2729,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.343,
-        "walksHits": 42
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12366",
@@ -2747,7 +2747,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.875,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -2869,7 +2869,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 46,
-        "assists": 5,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 11,
         "caughtStealing": 0,
@@ -2892,7 +2892,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.833,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 51
@@ -3014,7 +3014,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 4,
         "putouts": 263,
-        "assists": 8,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 148,
         "caughtStealing": 2,
@@ -3161,7 +3161,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "hitBatters": 2,
         "balks": 2,
         "opponentsBattingAverage": 0.285,
-        "walksHits": 87
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12360",
@@ -3179,7 +3179,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 10
@@ -3303,7 +3303,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.265,
-        "walksHits": 32
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12385",
@@ -3531,7 +3531,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
         "putouts": 39,
-        "assists": 19,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 82,
         "caughtStealing": 0,
@@ -3678,7 +3678,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.288,
-        "walksHits": 84
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12365",
@@ -3820,7 +3820,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.261,
-        "walksHits": 55
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12388",
@@ -4105,7 +4105,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 72,
-        "assists": 7,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 88,
         "caughtStealing": 0,
@@ -4128,7 +4128,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 22,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.917,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 79
@@ -4397,7 +4397,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.28,
-        "walksHits": 25
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12392",
@@ -4415,7 +4415,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4539,7 +4539,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.319,
-        "walksHits": 25
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12393",
@@ -4681,7 +4681,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.317,
-        "walksHits": 18
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12394",

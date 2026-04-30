@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.ucla2026 = {
-  "generatedAt": "2026-04-29T11:55:38.028Z",
+  "generatedAt": "2026-04-30T11:54:39.128Z",
   "season": 2026,
   "school": {
     "slug": "ucla",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 45,
-        "assists": 111,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 222,
         "caughtStealing": 0,
@@ -418,7 +418,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 39,
-        "assists": 59,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 104,
         "caughtStealing": 0,
@@ -833,7 +833,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 29,
-        "assists": 64,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 219,
         "caughtStealing": 1,
@@ -978,7 +978,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 66,
-        "assists": 4,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 29,
         "caughtStealing": 0,
@@ -1001,7 +1001,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 10,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.909,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 70
@@ -1123,7 +1123,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 4,
         "putouts": 92,
-        "assists": 8,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 205,
         "caughtStealing": 2,
@@ -1270,7 +1270,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.214,
-        "walksHits": 31
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15536",
@@ -1410,7 +1410,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 8,
         "putouts": 79,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 216,
         "caughtStealing": 2,
@@ -1557,7 +1557,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.224,
-        "walksHits": 29
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15551",
@@ -1699,7 +1699,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.219,
-        "walksHits": 49
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15542",
@@ -1717,7 +1717,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -1986,7 +1986,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.235,
-        "walksHits": 14
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15552",
@@ -2004,7 +2004,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -2128,7 +2128,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.215,
-        "walksHits": 43
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15538",
@@ -2395,7 +2395,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.152,
-        "walksHits": 15
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15533",
@@ -2413,7 +2413,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -2537,7 +2537,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.224,
-        "walksHits": 18
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15540",
@@ -2679,7 +2679,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "hitBatters": 2,
         "balks": 1,
         "opponentsBattingAverage": 0.212,
-        "walksHits": 58
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15550",
@@ -2821,7 +2821,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.32,
-        "walksHits": 11
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15520",
@@ -2839,7 +2839,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -2961,7 +2961,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 29,
-        "assists": 44,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 98,
         "caughtStealing": 0,
@@ -3108,7 +3108,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.178,
-        "walksHits": 28
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15528",
@@ -3690,7 +3690,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 1,
-        "walksHits": 1
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3898,7 +3898,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 10,
         "putouts": 72,
-        "assists": 5,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 242,
         "caughtStealing": 1,
@@ -4168,7 +4168,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
         "putouts": 325,
-        "assists": 16,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 222,
         "caughtStealing": 1,
@@ -4313,7 +4313,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 372,
-        "assists": 19,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 168,
         "caughtStealing": 0,
@@ -4336,7 +4336,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 6,
-        "stolenBasesPercentage": 0.538,
+        "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 1,
         "totalChances": 395
@@ -4636,7 +4636,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.238,
-        "walksHits": 17
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15527",
@@ -4778,7 +4778,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.216,
-        "walksHits": 12
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15549",
@@ -4796,7 +4796,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -4920,7 +4920,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.224,
-        "walksHits": 57
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15519",
@@ -4938,7 +4938,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.4,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -5062,7 +5062,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.136,
-        "walksHits": 25
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15541",
@@ -5204,7 +5204,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.307,
-        "walksHits": 45
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "15546",
@@ -5222,7 +5222,7 @@ window.__BASEBALL_DATASETS__.ucla2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5

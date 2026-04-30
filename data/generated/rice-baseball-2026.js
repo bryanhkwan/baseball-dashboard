@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.rice2026 = {
-  "generatedAt": "2026-04-29T11:55:24.738Z",
+  "generatedAt": "2026-04-30T11:54:24.993Z",
   "season": 2026,
   "school": {
     "slug": "rice",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 13,
-        "assists": 17,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 56,
         "caughtStealing": 0,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 11,
         "putouts": 63,
-        "assists": 50,
+        "assists": 0,
         "errors": 8,
         "plateAppearances": 207,
         "caughtStealing": 2,
@@ -475,7 +475,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 66,
-        "assists": 96,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 156,
         "caughtStealing": 0,
@@ -620,7 +620,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "stolenBases": 6,
         "stolenBasesAttempts": 8,
         "putouts": 27,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 45,
         "caughtStealing": 2,
@@ -1123,7 +1123,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
         "putouts": 142,
-        "assists": 75,
+        "assists": 0,
         "errors": 9,
         "plateAppearances": 183,
         "caughtStealing": 0,
@@ -1413,7 +1413,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "stolenBases": 7,
         "stolenBasesAttempts": 15,
         "putouts": 78,
-        "assists": 1,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 199,
         "caughtStealing": 8,
@@ -1646,7 +1646,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 183,
-        "assists": 26,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 109,
         "caughtStealing": 0,
@@ -1669,7 +1669,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "doublePlays": 3,
         "stolenBasesAgainst": 19,
         "caughtStealingBy": 7,
-        "stolenBasesPercentage": 0.731,
+        "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 0,
         "totalChances": 210
@@ -1938,7 +1938,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.211,
-        "walksHits": 16
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10603",
@@ -2078,7 +2078,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 24,
-        "assists": 1,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 184,
         "caughtStealing": 0,
@@ -2225,7 +2225,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.27,
-        "walksHits": 82
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10593",
@@ -2365,7 +2365,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 75,
-        "assists": 18,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 54,
         "caughtStealing": 0,
@@ -2388,7 +2388,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 9,
         "caughtStealingBy": 7,
-        "stolenBasesPercentage": 0.563,
+        "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 0,
         "totalChances": 96
@@ -2510,7 +2510,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 232,
-        "assists": 12,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 122,
         "caughtStealing": 0,
@@ -2657,7 +2657,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "hitBatters": 8,
         "balks": 0,
         "opponentsBattingAverage": 0.306,
-        "walksHits": 81
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10594",
@@ -2675,7 +2675,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "doublePlays": 2,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 20
@@ -2797,7 +2797,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 34,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 62,
         "caughtStealing": 0,
@@ -2944,7 +2944,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.237,
-        "walksHits": 64
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10390",
@@ -2962,7 +2962,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -3086,7 +3086,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.235,
-        "walksHits": 35
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10359",
@@ -3371,7 +3371,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 48,
-        "assists": 7,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 44,
         "caughtStealing": 0,
@@ -3394,7 +3394,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "doublePlays": 2,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 56
@@ -3518,7 +3518,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.118,
-        "walksHits": 3
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3640,7 +3640,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "hitBatters": 2,
         "balks": 1,
         "opponentsBattingAverage": 0.111,
-        "walksHits": 2
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -3850,7 +3850,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.222,
-        "walksHits": 49
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10597",
@@ -3992,7 +3992,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.143,
-        "walksHits": 3
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4114,7 +4114,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "hitBatters": 2,
         "balks": 1,
         "opponentsBattingAverage": 0.259,
-        "walksHits": 42
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10598",
@@ -4256,7 +4256,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "hitBatters": 5,
         "balks": 1,
         "opponentsBattingAverage": 0.232,
-        "walksHits": 58
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10599",
@@ -4486,7 +4486,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.188,
-        "walksHits": 10
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10601",
@@ -4504,7 +4504,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -4628,7 +4628,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.314,
-        "walksHits": 42
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10604",
@@ -4768,7 +4768,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 50,
-        "assists": 82,
+        "assists": 0,
         "errors": 7,
         "plateAppearances": 158,
         "caughtStealing": 0,
@@ -5003,7 +5003,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "hitBatters": 1,
         "balks": 1,
         "opponentsBattingAverage": 0.409,
-        "walksHits": 11
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10607",
@@ -5321,7 +5321,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.164,
-        "walksHits": 29
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10608",
@@ -5463,7 +5463,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.305,
-        "walksHits": 33
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "10362",

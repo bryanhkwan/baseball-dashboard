@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.east-carolina2026 = {
-  "generatedAt": "2026-04-29T11:55:01.534Z",
+  "generatedAt": "2026-04-30T11:53:58.072Z",
   "season": 2026,
   "school": {
     "slug": "east-carolina",
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 33,
-        "assists": 41,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 74,
         "caughtStealing": 0,
@@ -563,7 +563,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 5,
         "putouts": 59,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 168,
         "caughtStealing": 0,
@@ -708,7 +708,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 23,
-        "assists": 32,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 55,
         "caughtStealing": 0,
@@ -943,7 +943,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.429,
-        "walksHits": 5
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -1065,7 +1065,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.252,
-        "walksHits": 41
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13917",
@@ -1205,7 +1205,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 16,
-        "assists": 2,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 46,
         "caughtStealing": 1,
@@ -1243,7 +1243,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.35,
-        "walksHits": 20
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13900",
@@ -1385,7 +1385,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.37,
-        "walksHits": 25
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13897",
@@ -1525,7 +1525,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 4,
         "putouts": 35,
-        "assists": 86,
+        "assists": 0,
         "errors": 8,
         "plateAppearances": 198,
         "caughtStealing": 2,
@@ -1563,7 +1563,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 1
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13919",
@@ -1973,7 +1973,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 77,
-        "assists": 8,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 64,
         "caughtStealing": 0,
@@ -1996,7 +1996,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.636,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 86
@@ -2118,7 +2118,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 30,
-        "assists": 61,
+        "assists": 0,
         "errors": 8,
         "plateAppearances": 124,
         "caughtStealing": 0,
@@ -2390,7 +2390,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "hitBatters": 14,
         "balks": 1,
         "opponentsBattingAverage": 0.28,
-        "walksHits": 87
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13914",
@@ -2408,7 +2408,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -2532,7 +2532,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.275,
-        "walksHits": 18
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13903",
@@ -2674,7 +2674,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.296,
-        "walksHits": 22
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14132",
@@ -2814,7 +2814,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
         "putouts": 290,
-        "assists": 27,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 199,
         "caughtStealing": 1,
@@ -2959,7 +2959,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 334,
-        "assists": 31,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 146,
         "caughtStealing": 0,
@@ -2982,7 +2982,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "doublePlays": 2,
         "stolenBasesAgainst": 27,
         "caughtStealingBy": 15,
-        "stolenBasesPercentage": 0.643,
+        "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 0,
         "totalChances": 369
@@ -3192,7 +3192,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "stolenBases": 10,
         "stolenBasesAttempts": 13,
         "putouts": 77,
-        "assists": 52,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 234,
         "caughtStealing": 3,
@@ -3339,7 +3339,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.25,
-        "walksHits": 26
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13912",
@@ -3896,7 +3896,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "hitBatters": 9,
         "balks": 0,
         "opponentsBattingAverage": 0.182,
-        "walksHits": 49
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14136",
@@ -4126,7 +4126,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.157,
-        "walksHits": 25
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14138",
@@ -4268,7 +4268,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.262,
-        "walksHits": 42
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14139",
@@ -4410,7 +4410,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.261,
-        "walksHits": 33
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14140",
@@ -4552,7 +4552,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.257,
-        "walksHits": 27
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14141",
@@ -4782,7 +4782,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "hitBatters": 2,
         "balks": 1,
         "opponentsBattingAverage": 0.226,
-        "walksHits": 47
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13908",
@@ -4924,7 +4924,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.273,
-        "walksHits": 27
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14143",
@@ -5211,7 +5211,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.438,
-        "walksHits": 7
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -5566,7 +5566,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "hitBatters": 8,
         "balks": 0,
         "opponentsBattingAverage": 0.247,
-        "walksHits": 39
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "14146",

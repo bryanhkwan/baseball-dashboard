@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.oklahoma2026 = {
-  "generatedAt": "2026-04-29T11:55:18.709Z",
+  "generatedAt": "2026-04-30T11:54:19.463Z",
   "season": 2026,
   "school": {
     "slug": "oklahoma",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "stolenBases": 13,
         "stolenBasesAttempts": 18,
         "putouts": 60,
-        "assists": 7,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 175,
         "caughtStealing": 5,
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 1,
-        "assists": 3,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 9,
         "caughtStealing": 0,
@@ -475,7 +475,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 5,
-        "assists": 4,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 16,
         "caughtStealing": 0,
@@ -765,7 +765,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 21,
-        "assists": 2,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 85,
         "caughtStealing": 0,
@@ -910,7 +910,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 4,
         "putouts": 53,
-        "assists": 104,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 141,
         "caughtStealing": 2,
@@ -1055,7 +1055,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
         "putouts": 63,
-        "assists": 97,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 180,
         "caughtStealing": 1,
@@ -1200,7 +1200,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 3,
-        "assists": 7,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 10,
         "caughtStealing": 0,
@@ -1345,7 +1345,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "stolenBases": 22,
         "stolenBasesAttempts": 25,
         "putouts": 23,
-        "assists": 67,
+        "assists": 0,
         "errors": 8,
         "plateAppearances": 213,
         "caughtStealing": 3,
@@ -1490,7 +1490,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "stolenBases": 22,
         "stolenBasesAttempts": 24,
         "putouts": 257,
-        "assists": 13,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 208,
         "caughtStealing": 2,
@@ -1513,7 +1513,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 12,
         "caughtStealingBy": 6,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 3,
         "catchersInterference": 0,
         "totalChances": 272
@@ -1762,7 +1762,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.132,
-        "walksHits": 25
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19865",
@@ -1902,7 +1902,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 45,
-        "assists": 4,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 24,
         "caughtStealing": 0,
@@ -2047,7 +2047,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 96,
-        "assists": 3,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 67,
         "caughtStealing": 0,
@@ -2192,7 +2192,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "stolenBases": 9,
         "stolenBasesAttempts": 10,
         "putouts": 31,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 87,
         "caughtStealing": 1,
@@ -2339,7 +2339,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.3,
-        "walksHits": 32
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19852",
@@ -2357,7 +2357,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -2859,7 +2859,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "hitBatters": 8,
         "balks": 0,
         "opponentsBattingAverage": 0.248,
-        "walksHits": 68
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19868",
@@ -2877,7 +2877,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -3001,7 +3001,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.226,
-        "walksHits": 28
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19878",
@@ -3019,7 +3019,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -3143,7 +3143,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "hitBatters": 2,
         "balks": 1,
         "opponentsBattingAverage": 0.226,
-        "walksHits": 22
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19869",
@@ -3161,7 +3161,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -3285,7 +3285,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.125,
-        "walksHits": 6
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19870",
@@ -3303,7 +3303,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -3427,7 +3427,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.36,
-        "walksHits": 15
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19843",
@@ -3569,7 +3569,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.241,
-        "walksHits": 37
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19846",
@@ -3587,7 +3587,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -3711,7 +3711,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.193,
-        "walksHits": 67
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19851",
@@ -3729,7 +3729,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.875,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -3941,7 +3941,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.273,
-        "walksHits": 13
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19871",
@@ -4083,7 +4083,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "hitBatters": 7,
         "balks": 1,
         "opponentsBattingAverage": 0.15,
-        "walksHits": 29
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19844",
@@ -4101,7 +4101,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -4225,7 +4225,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.2,
-        "walksHits": 11
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4347,7 +4347,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 0.257,
-        "walksHits": 25
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19873",
@@ -4365,7 +4365,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.5,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -4577,7 +4577,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.222,
-        "walksHits": 17
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19850",
@@ -4595,7 +4595,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -4717,7 +4717,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 353,
-        "assists": 20,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 178,
         "caughtStealing": 0,
@@ -4740,7 +4740,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "doublePlays": 18,
         "stolenBasesAgainst": 15,
         "caughtStealingBy": 4,
-        "stolenBasesPercentage": 0.789,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 376
@@ -4864,7 +4864,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.255,
-        "walksHits": 32
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19875",
@@ -5006,7 +5006,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.243,
-        "walksHits": 12
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19853",
@@ -5148,7 +5148,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.203,
-        "walksHits": 42
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "19886",
@@ -5166,7 +5166,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.333,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1

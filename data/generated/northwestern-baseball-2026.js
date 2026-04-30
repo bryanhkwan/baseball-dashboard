@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.northwestern2026 = {
-  "generatedAt": "2026-04-29T11:55:17.947Z",
+  "generatedAt": "2026-04-30T11:54:18.723Z",
   "season": 2026,
   "school": {
     "slug": "northwestern",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 160,
-        "assists": 45,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 182,
         "caughtStealing": 1,
@@ -475,7 +475,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 2,
         "putouts": 18,
-        "assists": 27,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 80,
         "caughtStealing": 2,
@@ -620,7 +620,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 2,
-        "assists": 1,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 5,
         "caughtStealing": 0,
@@ -765,7 +765,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
         "putouts": 36,
-        "assists": 82,
+        "assists": 0,
         "errors": 6,
         "plateAppearances": 191,
         "caughtStealing": 1,
@@ -910,7 +910,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 188,
-        "assists": 17,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 173,
         "caughtStealing": 0,
@@ -1078,7 +1078,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 14
@@ -1200,7 +1200,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 58,
-        "assists": 2,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 38,
         "caughtStealing": 0,
@@ -1223,7 +1223,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
         "totalChances": 61
@@ -1345,7 +1345,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 3,
         "putouts": 98,
-        "assists": 5,
+        "assists": 0,
         "errors": 1,
         "plateAppearances": 191,
         "caughtStealing": 2,
@@ -1490,7 +1490,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "stolenBases": 7,
         "stolenBasesAttempts": 9,
         "putouts": 111,
-        "assists": 1,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 200,
         "caughtStealing": 2,
@@ -1637,7 +1637,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.329,
-        "walksHits": 28
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12993",
@@ -1924,7 +1924,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "hitBatters": 8,
         "balks": 1,
         "opponentsBattingAverage": 0.323,
-        "walksHits": 66
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12998",
@@ -1942,7 +1942,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
@@ -2064,7 +2064,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "stolenBases": 8,
         "stolenBasesAttempts": 9,
         "putouts": 59,
-        "assists": 97,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 199,
         "caughtStealing": 1,
@@ -2209,7 +2209,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 6,
-        "assists": 9,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 21,
         "caughtStealing": 0,
@@ -2354,7 +2354,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
         "putouts": 17,
-        "assists": 24,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 45,
         "caughtStealing": 1,
@@ -2501,7 +2501,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "hitBatters": 0,
         "balks": 0,
         "opponentsBattingAverage": 1,
-        "walksHits": 6
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12997",
@@ -2679,7 +2679,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.375,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12992",
@@ -2821,7 +2821,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.295,
-        "walksHits": 88
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13012",
@@ -2839,7 +2839,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 12
@@ -2963,7 +2963,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "hitBatters": 5,
         "balks": 1,
         "opponentsBattingAverage": 0.208,
-        "walksHits": 15
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12994",
@@ -3105,7 +3105,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.266,
-        "walksHits": 83
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13000",
@@ -3123,7 +3123,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 5,
-        "stolenBasesPercentage": 0.615,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -3333,7 +3333,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 190,
-        "assists": 22,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 131,
         "caughtStealing": 0,
@@ -3356,7 +3356,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "doublePlays": 2,
         "stolenBasesAgainst": 25,
         "caughtStealingBy": 11,
-        "stolenBasesPercentage": 0.694,
+        "stolenBasesPercentage": null,
         "passedBalls": 6,
         "catchersInterference": 0,
         "totalChances": 214
@@ -3480,7 +3480,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "hitBatters": 8,
         "balks": 0,
         "opponentsBattingAverage": 0.292,
-        "walksHits": 41
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13014",
@@ -3498,7 +3498,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.8,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -3622,7 +3622,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.246,
-        "walksHits": 52
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13007",
@@ -3640,7 +3640,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -3764,7 +3764,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.357,
-        "walksHits": 29
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13015",
@@ -3992,7 +3992,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 63,
-        "assists": 1,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 118,
         "caughtStealing": 0,
@@ -4227,7 +4227,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "hitBatters": 2,
         "balks": 1,
         "opponentsBattingAverage": 0.625,
-        "walksHits": 14
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13020",
@@ -4245,7 +4245,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -4369,7 +4369,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "hitBatters": 6,
         "balks": 1,
         "opponentsBattingAverage": 0.253,
-        "walksHits": 33
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "12996",
@@ -4387,7 +4387,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -4511,7 +4511,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "hitBatters": 11,
         "balks": 0,
         "opponentsBattingAverage": 0.316,
-        "walksHits": 70
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13021",
@@ -4529,7 +4529,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.667,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
@@ -4653,7 +4653,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.301,
-        "walksHits": 43
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13022",
@@ -4671,7 +4671,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "doublePlays": 2,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -5008,7 +5008,7 @@ window.__BASEBALL_DATASETS__.northwestern2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.35,
-        "walksHits": 43
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "13024",
