@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.sam-houston-st2026 = {
-  "generatedAt": "2026-04-30T11:53:39.563Z",
+  "generatedAt": "2026-05-01T11:33:25.093Z",
   "season": 2026,
   "school": {
     "slug": "sam-houston-st",
