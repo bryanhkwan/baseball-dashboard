@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.xavier2026 = {
-  "generatedAt": "2026-05-01T11:39:47.553Z",
+  "generatedAt": "2026-05-02T11:07:39.557Z",
   "season": 2026,
   "school": {
     "slug": "xavier",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
     }
   },
   "teamSummary": {
-    "record": "21-25, 10-5",
+    "record": "22-25, 10-5",
     "battingAverage": ".262",
-    "earnedRunAverage": "6.70",
-    "wins": "21",
+    "earnedRunAverage": "6.63",
+    "wins": "22",
     "losses": "25",
     "hitting": {
-      "atBats": "1575",
-      "runsScored": "252",
-      "hits": "413",
-      "runsBattedIn": "228",
-      "doubles": "82",
+      "atBats": "1613",
+      "runsScored": "260",
+      "hits": "423",
+      "runsBattedIn": "235",
+      "doubles": "83",
       "triples": "5",
-      "homeRuns": "59",
-      "walks": "162",
+      "homeRuns": "62",
+      "walks": "167",
       "intentionalWalks": "7",
-      "strikeouts": "410",
-      "strikeoutsLooking": "78",
-      "hitByPitch": "70",
+      "strikeouts": "425",
+      "strikeoutsLooking": "82",
+      "hitByPitch": "72",
       "stolenBases": "40",
       "caughtStealing": "9",
-      "sacrificeHits": "16",
+      "sacrificeHits": "17",
       "sacrificeFlies": "18",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "357",
-      "flyOuts": "382",
-      "groundedIntoDoublePlay": "20",
+      "groundOuts": "365",
+      "flyOuts": "387",
+      "groundedIntoDoublePlay": "21",
       "pickedOff": "4",
-      "doublePlaysHitInto": "32",
+      "doublePlaysHitInto": "33",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1191",
-      "assists": "389",
+      "putouts": "1221",
+      "assists": "396",
       "errors": "48",
       "passedBalls": "2",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "32",
+      "stolenBasesAgainst": "33",
       "caughtStealingBy": "19",
-      "involvedInDoublePlays": "28",
+      "involvedInDoublePlays": "30",
       "involvedInTriplePlays": "0",
-      "totalChances": "1628",
+      "totalChances": "1665",
       "fieldingPercentage": ".971"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "21",
-      "saves": "12",
+      "wins": "22",
+      "saves": "13",
       "losses": "25",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "1",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "397.1",
-      "hitsAllowed": "483",
-      "runsAllowed": "321",
-      "earnedRunsAllowed": "296",
-      "walksAllowed": "206",
-      "strikeouts": "357",
-      "battersFaced": "1912",
-      "opponentAtBats": "1604",
-      "doublesAllowed": "89",
+      "inningsPitched": "407.1",
+      "hitsAllowed": "495",
+      "runsAllowed": "325",
+      "earnedRunsAllowed": "300",
+      "walksAllowed": "207",
+      "strikeouts": "366",
+      "battersFaced": "1954",
+      "opponentAtBats": "1644",
+      "doublesAllowed": "92",
       "triplesAllowed": "13",
-      "homerunsAllowed": "63",
+      "homerunsAllowed": "65",
       "wildPitches": "31",
       "balks": "8",
-      "hitBatters": "67",
-      "strikeoutsLooking": "80",
+      "hitBatters": "68",
+      "strikeoutsLooking": "84",
       "intentionalWalks": "4",
       "inheritedRunners": "30",
       "inheritedRunnersThatScored": "8",
       "sacrificeHitsAllowed": "20",
       "sacrificeFliesAllowed": "15",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6795",
-      "flyouts": "415",
-      "groundouts": "351",
+      "pitches": "6935",
+      "flyouts": "427",
+      "groundouts": "358",
       "teamUnearnedRuns": "0",
       "saveRecord": "8",
       "pickoff": "13"
@@ -161,20 +161,20 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "1",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/jd-crisp/12724",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Crisp_J_000002.jpg",
-        "gamesPlayed": 43,
+        "gamesPlayed": 44,
         "gamesStarted": 28,
-        "battingAverage": 0.214,
-        "onBasePercentage": 0.302,
-        "sluggingPercentage": 0.32,
-        "ops": 0.622,
-        "atBats": 103,
-        "runs": 14,
-        "hits": 22,
+        "battingAverage": 0.221,
+        "onBasePercentage": 0.308,
+        "sluggingPercentage": 0.327,
+        "ops": 0.635,
+        "atBats": 104,
+        "runs": 16,
+        "hits": 23,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 3,
         "runsBattedIn": 9,
-        "totalBases": 33,
+        "totalBases": 34,
         "walks": 11,
         "hitByPitch": 2,
         "strikeouts": 42,
@@ -184,10 +184,10 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "sacrificeHits": 2,
         "stolenBases": 6,
         "stolenBasesAttempts": 8,
-        "putouts": 97,
+        "putouts": 99,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 128,
+        "plateAppearances": 129,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -199,9 +199,9 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "1",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/jd-crisp/12724",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Crisp_J_000002.jpg",
-        "gamesPlayed": 35,
+        "gamesPlayed": 36,
         "gamesStarted": 27,
-        "putouts": 97,
+        "putouts": 99,
         "assists": 1,
         "errors": 2,
         "fieldingPercentage": 0.98,
@@ -211,39 +211,39 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 100
+        "totalChances": 102
       },
       "evaluation": {
-        "score": 7,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 12.222222222222202,
-          "Power": 0,
-          "Contact": 0,
+          "On-base": 15.55555555555554,
+          "Power": 1.8421052631578967,
+          "Contact": 0.6250000000000006,
           "Discipline": 6.878306878306878,
           "Speed": 20
         },
         "summary": "JD Crisp gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .214",
-          "OBP .302",
-          "SLG .320"
+          "AVG .221",
+          "OBP .308",
+          "SLG .327"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".214"
+            "value": ".221"
           },
           {
             "label": "OBP",
-            "value": ".302"
+            "value": ".308"
           },
           {
             "label": "SLG",
-            "value": ".320"
+            "value": ".327"
           },
           {
             "label": "HR",
@@ -306,13 +306,13 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "3",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/luke-hammond/12728",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Hammond_L_000002.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 46,
-        "battingAverage": 0.277,
-        "onBasePercentage": 0.326,
-        "sluggingPercentage": 0.428,
-        "ops": 0.754,
-        "atBats": 173,
+        "gamesPlayed": 47,
+        "gamesStarted": 47,
+        "battingAverage": 0.273,
+        "onBasePercentage": 0.325,
+        "sluggingPercentage": 0.42,
+        "ops": 0.745,
+        "atBats": 176,
         "runs": 24,
         "hits": 48,
         "doubles": 7,
@@ -320,19 +320,19 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "homeRuns": 5,
         "runsBattedIn": 29,
         "totalBases": 74,
-        "walks": 7,
+        "walks": 8,
         "hitByPitch": 7,
-        "strikeouts": 27,
+        "strikeouts": 28,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 3,
         "sacrificeHits": 6,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 44,
+        "putouts": 45,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 198,
+        "plateAppearances": 202,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -344,51 +344,51 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "3",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/luke-hammond/12728",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Hammond_L_000002.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "putouts": 44,
+        "gamesPlayed": 43,
+        "gamesStarted": 43,
+        "putouts": 45,
         "assists": 67,
         "errors": 4,
-        "fieldingPercentage": 0.965,
+        "fieldingPercentage": 0.966,
         "doublePlays": 7,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 115
+        "totalChances": 116
       },
       "evaluation": {
-        "score": 24,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 25.555555555555546,
-          "Power": 28.421052631578945,
-          "Contact": 35.625000000000014,
-          "Discipline": 6.584362139917692,
+          "On-base": 24.999999999999993,
+          "Power": 26.31578947368421,
+          "Contact": 33.12500000000001,
+          "Discipline": 9.523809523809518,
           "Speed": 6.666666666666667
         },
         "summary": "Luke Hammond gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .326",
-          "SLG .428"
+          "AVG .273",
+          "OBP .325",
+          "SLG .420"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".326"
+            "value": ".325"
           },
           {
             "label": "SLG",
-            "value": ".428"
+            "value": ".420"
           },
           {
             "label": "HR",
@@ -451,23 +451,23 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "4",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/peter-johnson/12758",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Johnson_P_000003.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 33,
-        "battingAverage": 0.248,
+        "gamesPlayed": 42,
+        "gamesStarted": 34,
+        "battingAverage": 0.25,
         "onBasePercentage": 0.358,
-        "sluggingPercentage": 0.368,
-        "ops": 0.726,
-        "atBats": 125,
+        "sluggingPercentage": 0.367,
+        "ops": 0.725,
+        "atBats": 128,
         "runs": 14,
-        "hits": 31,
+        "hits": 32,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 3,
         "runsBattedIn": 15,
-        "totalBases": 46,
+        "totalBases": 47,
         "walks": 16,
         "hitByPitch": 6,
-        "strikeouts": 45,
+        "strikeouts": 47,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
@@ -477,7 +477,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "putouts": 5,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 151,
+        "plateAppearances": 154,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -511,21 +511,21 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         },
         "components": {
           "On-base": 43.333333333333314,
-          "Power": 12.63157894736842,
-          "Contact": 17.5,
-          "Discipline": 17.28395061728395,
+          "Power": 12.368421052631577,
+          "Contact": 18.75,
+          "Discipline": 15.602836879432619,
           "Speed": 6.666666666666667
         },
         "summary": "Peter Johnson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .248",
+          "AVG .250",
           "OBP .358",
-          "SLG .368"
+          "SLG .367"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".248"
+            "value": ".250"
           },
           {
             "label": "OBP",
@@ -533,7 +533,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           },
           {
             "label": "SLG",
-            "value": ".368"
+            "value": ".367"
           },
           {
             "label": "HR",
@@ -596,33 +596,33 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "5",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/clay-burdette/12721",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Burdette_C_000002.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "battingAverage": 0.36,
-        "onBasePercentage": 0.459,
-        "sluggingPercentage": 0.787,
-        "ops": 1.246,
-        "atBats": 150,
-        "runs": 35,
-        "hits": 54,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "battingAverage": 0.357,
+        "onBasePercentage": 0.457,
+        "sluggingPercentage": 0.792,
+        "ops": 1.249,
+        "atBats": 154,
+        "runs": 36,
+        "hits": 55,
         "doubles": 15,
         "triples": 2,
-        "homeRuns": 15,
-        "runsBattedIn": 38,
-        "totalBases": 118,
+        "homeRuns": 16,
+        "runsBattedIn": 39,
+        "totalBases": 122,
         "walks": 19,
-        "hitByPitch": 11,
-        "strikeouts": 35,
+        "hitByPitch": 12,
+        "strikeouts": 37,
         "intentionalWalks": 5,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 9,
         "stolenBasesAttempts": 11,
-        "putouts": 76,
+        "putouts": 78,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 196,
+        "plateAppearances": 201,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -634,9 +634,9 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "5",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/clay-burdette/12721",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Burdette_C_000002.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 35,
-        "putouts": 76,
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "putouts": 78,
         "assists": 7,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -646,47 +646,47 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 83
+        "totalChances": 85
       },
       "evaluation": {
-        "score": 82,
+        "score": 81,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "components": {
-          "On-base": 99.44444444444444,
+          "On-base": 98.33333333333333,
           "Power": 100,
-          "Contact": 87.49999999999999,
-          "Discipline": 38.09523809523808,
+          "Contact": 85.62499999999999,
+          "Discipline": 34.83483483483483,
           "Speed": 30
         },
         "summary": "Clay Burdette profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .360",
-          "OBP .459",
-          "SLG .787"
+          "AVG .357",
+          "OBP .457",
+          "SLG .792"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".360"
+            "value": ".357"
           },
           {
             "label": "OBP",
-            "value": ".459"
+            "value": ".457"
           },
           {
             "label": "SLG",
-            "value": ".787"
+            "value": ".792"
           },
           {
             "label": "HR",
-            "value": "15"
+            "value": "16"
           },
           {
             "label": "RBI",
-            "value": "38"
+            "value": "39"
           },
           {
             "label": "SB",
@@ -741,13 +741,13 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "6",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/landon-mensik/12732",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Mensik_L_000002.jpg",
-        "gamesPlayed": 39,
+        "gamesPlayed": 40,
         "gamesStarted": 34,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.357,
-        "sluggingPercentage": 0.492,
-        "ops": 0.849,
-        "atBats": 120,
+        "battingAverage": 0.246,
+        "onBasePercentage": 0.352,
+        "sluggingPercentage": 0.484,
+        "ops": 0.836,
+        "atBats": 122,
         "runs": 14,
         "hits": 30,
         "doubles": 8,
@@ -757,9 +757,9 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "totalBases": 59,
         "walks": 14,
         "hitByPitch": 7,
-        "strikeouts": 44,
+        "strikeouts": 45,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
+        "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 2,
@@ -767,7 +767,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "putouts": 36,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 147,
+        "plateAppearances": 149,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -794,36 +794,36 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "totalChances": 40
       },
       "evaluation": {
-        "score": 31,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 42.77777777777775,
-          "Power": 45.26315789473684,
-          "Contact": 18.75,
-          "Discipline": 13.131313131313128,
+          "On-base": 39.99999999999997,
+          "Power": 43.15789473684211,
+          "Contact": 16.249999999999996,
+          "Discipline": 12.345679012345677,
           "Speed": 6.666666666666667
         },
         "summary": "Landon Mensik gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .357",
-          "SLG .492"
+          "AVG .246",
+          "OBP .352",
+          "SLG .484"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".246"
           },
           {
             "label": "OBP",
-            "value": ".357"
+            "value": ".352"
           },
           {
             "label": "SLG",
-            "value": ".492"
+            "value": ".484"
           },
           {
             "label": "HR",
@@ -886,33 +886,33 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "7",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/tanner-thomas/12756",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Thomas_T_000002.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 16,
-        "battingAverage": 0.133,
-        "onBasePercentage": 0.239,
-        "sluggingPercentage": 0.25,
-        "ops": 0.489,
-        "atBats": 60,
-        "runs": 5,
-        "hits": 8,
-        "doubles": 1,
+        "gamesPlayed": 34,
+        "gamesStarted": 17,
+        "battingAverage": 0.159,
+        "onBasePercentage": 0.267,
+        "sluggingPercentage": 0.333,
+        "ops": 0.6,
+        "atBats": 63,
+        "runs": 7,
+        "hits": 10,
+        "doubles": 2,
         "triples": 0,
-        "homeRuns": 2,
-        "runsBattedIn": 5,
-        "totalBases": 15,
-        "walks": 7,
+        "homeRuns": 3,
+        "runsBattedIn": 6,
+        "totalBases": 21,
+        "walks": 8,
         "hitByPitch": 2,
-        "strikeouts": 11,
+        "strikeouts": 12,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 2,
-        "sacrificeHits": 1,
+        "sacrificeHits": 2,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 29,
+        "putouts": 33,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 73,
+        "plateAppearances": 78,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -924,59 +924,59 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "7",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/tanner-thomas/12756",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Thomas_T_000002.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 16,
-        "putouts": 29,
-        "assists": 37,
+        "gamesPlayed": 28,
+        "gamesStarted": 17,
+        "putouts": 33,
+        "assists": 38,
         "errors": 5,
-        "fieldingPercentage": 0.93,
+        "fieldingPercentage": 0.934,
         "doublePlays": 5,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 71
+        "totalChances": 76
       },
       "evaluation": {
-        "score": 7,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
           "On-base": 0,
-          "Power": 0,
+          "Power": 3.421052631578951,
           "Contact": 0,
-          "Discipline": 48.48484848484848,
+          "Discipline": 51.85185185185184,
           "Speed": 3.3333333333333335
         },
         "summary": "Tanner Thomas gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .133",
-          "OBP .239",
-          "SLG .250"
+          "AVG .159",
+          "OBP .267",
+          "SLG .333"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".133"
+            "value": ".159"
           },
           {
             "label": "OBP",
-            "value": ".239"
+            "value": ".267"
           },
           {
             "label": "SLG",
-            "value": ".250"
+            "value": ".333"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "3"
           },
           {
             "label": "RBI",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "SB",
@@ -1153,33 +1153,33 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "9",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/donavan-canterberry/12722",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Canterberry_D_000013.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 34,
-        "battingAverage": 0.269,
-        "onBasePercentage": 0.353,
-        "sluggingPercentage": 0.319,
-        "ops": 0.672,
-        "atBats": 119,
+        "gamesPlayed": 39,
+        "gamesStarted": 35,
+        "battingAverage": 0.266,
+        "onBasePercentage": 0.348,
+        "sluggingPercentage": 0.315,
+        "ops": 0.663,
+        "atBats": 124,
         "runs": 22,
-        "hits": 32,
+        "hits": 33,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 0,
-        "runsBattedIn": 7,
-        "totalBases": 38,
+        "runsBattedIn": 9,
+        "totalBases": 39,
         "walks": 11,
         "hitByPitch": 5,
-        "strikeouts": 27,
+        "strikeouts": 28,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 42,
+        "putouts": 45,
         "assists": 0,
         "errors": 7,
-        "plateAppearances": 139,
+        "plateAppearances": 144,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1191,51 +1191,51 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "9",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/donavan-canterberry/12722",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Canterberry_D_000013.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 32,
-        "putouts": 42,
-        "assists": 75,
+        "gamesPlayed": 35,
+        "gamesStarted": 33,
+        "putouts": 45,
+        "assists": 79,
         "errors": 7,
-        "fieldingPercentage": 0.944,
-        "doublePlays": 14,
+        "fieldingPercentage": 0.947,
+        "doublePlays": 16,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 124
+        "totalChances": 131
       },
       "evaluation": {
-        "score": 22,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 40.555555555555536,
+          "On-base": 37.77777777777775,
           "Power": 0,
-          "Contact": 30.625000000000007,
-          "Discipline": 23.045267489711925,
+          "Contact": 28.750000000000007,
+          "Discipline": 21.428571428571423,
           "Speed": 3.3333333333333335
         },
         "summary": "Donavan Canterberry gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .269",
-          "OBP .353",
-          "SLG .319"
+          "AVG .266",
+          "OBP .348",
+          "SLG .315"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".269"
+            "value": ".266"
           },
           {
             "label": "OBP",
-            "value": ".353"
+            "value": ".348"
           },
           {
             "label": "SLG",
-            "value": ".319"
+            "value": ".315"
           },
           {
             "label": "HR",
@@ -1243,7 +1243,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           },
           {
             "label": "RBI",
-            "value": "7"
+            "value": "9"
           },
           {
             "label": "SB",
@@ -1298,33 +1298,33 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "10",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/tommy-townsend/12760",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Townsend_T_000002.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 18,
-        "battingAverage": 0.214,
-        "onBasePercentage": 0.272,
-        "sluggingPercentage": 0.452,
-        "ops": 0.724,
-        "atBats": 84,
+        "gamesPlayed": 35,
+        "gamesStarted": 19,
+        "battingAverage": 0.216,
+        "onBasePercentage": 0.271,
+        "sluggingPercentage": 0.443,
+        "ops": 0.714,
+        "atBats": 88,
         "runs": 13,
-        "hits": 18,
+        "hits": 19,
         "doubles": 3,
         "triples": 1,
         "homeRuns": 5,
         "runsBattedIn": 14,
-        "totalBases": 38,
+        "totalBases": 39,
         "walks": 6,
         "hitByPitch": 1,
-        "strikeouts": 25,
+        "strikeouts": 27,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 151,
+        "putouts": 156,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 92,
+        "plateAppearances": 96,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1336,51 +1336,51 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "10",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/tommy-townsend/12760",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Townsend_T_000002.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 17,
-        "putouts": 151,
-        "assists": 2,
+        "gamesPlayed": 23,
+        "gamesStarted": 18,
+        "putouts": 156,
+        "assists": 3,
         "errors": 1,
         "fieldingPercentage": 0.994,
-        "doublePlays": 12,
+        "doublePlays": 14,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 154
+        "totalChances": 160
       },
       "evaluation": {
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
           "On-base": 0,
-          "Power": 34.736842105263165,
+          "Power": 32.36842105263158,
           "Contact": 0,
-          "Discipline": 4.444444444444442,
+          "Discipline": 2.469135802469133,
           "Speed": 0
         },
         "summary": "Tommy Townsend gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .214",
-          "OBP .272",
-          "SLG .452"
+          "AVG .216",
+          "OBP .271",
+          "SLG .443"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".214"
+            "value": ".216"
           },
           {
             "label": "OBP",
-            "value": ".272"
+            "value": ".271"
           },
           {
             "label": "SLG",
-            "value": ".452"
+            "value": ".443"
           },
           {
             "label": "HR",
@@ -2408,33 +2408,33 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "18",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/jonathan-fitz/12751",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Fitz_J_000002.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 39,
-        "battingAverage": 0.306,
+        "gamesPlayed": 42,
+        "gamesStarted": 40,
+        "battingAverage": 0.309,
         "onBasePercentage": 0.41,
-        "sluggingPercentage": 0.456,
-        "ops": 0.866,
-        "atBats": 147,
-        "runs": 20,
-        "hits": 45,
+        "sluggingPercentage": 0.454,
+        "ops": 0.864,
+        "atBats": 152,
+        "runs": 22,
+        "hits": 47,
         "doubles": 10,
         "triples": 0,
         "homeRuns": 4,
         "runsBattedIn": 28,
-        "totalBases": 67,
+        "totalBases": 69,
         "walks": 22,
         "hitByPitch": 4,
-        "strikeouts": 19,
+        "strikeouts": 21,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 266,
+        "putouts": 275,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 175,
+        "plateAppearances": 180,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2446,19 +2446,19 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "18",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/jonathan-fitz/12751",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Fitz_J_000002.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 38,
-        "putouts": 266,
+        "gamesPlayed": 40,
+        "gamesStarted": 39,
+        "putouts": 275,
         "assists": 24,
         "errors": 4,
-        "fieldingPercentage": 0.986,
+        "fieldingPercentage": 0.987,
         "doublePlays": 3,
-        "stolenBasesAgainst": 24,
+        "stolenBasesAgainst": 25,
         "caughtStealingBy": 15,
         "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 294
+        "totalChances": 303
       },
       "evaluation": {
         "score": 56,
@@ -2468,21 +2468,21 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         },
         "components": {
           "On-base": 72.2222222222222,
-          "Power": 35.789473684210535,
-          "Contact": 53.75,
-          "Discipline": 100,
+          "Power": 35.26315789473685,
+          "Contact": 55.62499999999999,
+          "Discipline": 94.17989417989418,
           "Speed": 3.3333333333333335
         },
         "summary": "Jonathan Fitz profiles as a C piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .306",
+          "AVG .309",
           "OBP .410",
-          "SLG .456"
+          "SLG .454"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".306"
+            "value": ".309"
           },
           {
             "label": "OBP",
@@ -2490,7 +2490,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           },
           {
             "label": "SLG",
-            "value": ".456"
+            "value": ".454"
           },
           {
             "label": "HR",
@@ -2554,31 +2554,31 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "19",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/garrett-helsel/12742",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Helsel_G_000002.jpg",
-        "gamesPlayed": 19,
-        "gamesStarted": 0,
-        "appearances": 19,
+        "gamesPlayed": 20,
+        "gamesStarted": 1,
+        "appearances": 20,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.41,
-        "whip": 1.5,
+        "earnedRunAverage": 4.46,
+        "whip": 1.46,
         "wins": 3,
         "losses": 2,
         "saves": 5,
         "shutouts": 0,
-        "inningsPitched": 34.666666666666664,
-        "inningsPitchedDisplay": "34.2",
-        "hitsAllowed": 37,
-        "runsAllowed": 17,
-        "earnedRunsAllowed": 17,
-        "walksAllowed": 15,
-        "strikeouts": 35,
+        "inningsPitched": 38.333333333333336,
+        "inningsPitchedDisplay": "38.1",
+        "hitsAllowed": 40,
+        "runsAllowed": 19,
+        "earnedRunsAllowed": 19,
+        "walksAllowed": 16,
+        "strikeouts": 38,
         "doublesAllowed": 11,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 136,
+        "homeRunsAllowed": 5,
+        "opponentsAtBats": 149,
         "wildPitches": 2,
-        "hitBatters": 3,
+        "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.272,
+        "opponentsBattingAverage": 0.268,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2603,7 +2603,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "totalChances": 3
       },
       "evaluation": {
-        "score": 14,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2611,40 +2611,40 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 46.24125874125875,
-          "Command": 26.66666666666666,
+          "Miss bats": 44.74308300395256,
+          "Command": 27.500000000000004,
           "Damage suppression": 0
         },
-        "summary": "Garrett Helsel looks like a LHP option who misses bats.",
+        "summary": "Garrett Helsel gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.41",
-          "WHIP 1.50",
-          "K/9 9.1"
+          "ERA 4.46",
+          "WHIP 1.46",
+          "K/9 8.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.41"
+            "value": "4.46"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.46"
           },
           {
             "label": "K/9",
-            "value": "9.1"
+            "value": "8.9"
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "3.8"
           },
           {
             "label": "HR/9",
-            "value": "1.04"
+            "value": "1.17"
           },
           {
             "label": "IP",
-            "value": "34.7"
+            "value": "38.3"
           }
         ],
         "metaLine": "SR / L/L",
@@ -3068,31 +3068,31 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "23",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/michael-murphy/12734",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Murphy_M_000002.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 1,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.65,
-        "whip": 1.45,
-        "wins": 2,
+        "earnedRunAverage": 5.23,
+        "whip": 1.44,
+        "wins": 3,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 36.666666666666664,
-        "inningsPitchedDisplay": "36.2",
-        "hitsAllowed": 38,
-        "runsAllowed": 24,
-        "earnedRunsAllowed": 23,
+        "inningsPitched": 43,
+        "inningsPitchedDisplay": "43.0",
+        "hitsAllowed": 47,
+        "runsAllowed": 26,
+        "earnedRunsAllowed": 25,
         "walksAllowed": 15,
-        "strikeouts": 26,
-        "doublesAllowed": 10,
+        "strikeouts": 32,
+        "doublesAllowed": 13,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 6,
-        "opponentsAtBats": 135,
+        "homeRunsAllowed": 7,
+        "opponentsAtBats": 162,
         "wildPitches": 2,
         "hitBatters": 9,
         "balks": 2,
-        "opponentsBattingAverage": 0.281,
+        "opponentsBattingAverage": 0.29,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3117,7 +3117,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "totalChances": 5
       },
       "evaluation": {
-        "score": 7,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3125,32 +3125,32 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 21.65289256198347,
-          "Command": 14.666666666666664,
+          "Miss bats": 24.524312896405924,
+          "Command": 22.666666666666675,
           "Damage suppression": 0
         },
         "summary": "Michael Murphy gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.65",
-          "WHIP 1.45",
-          "K/9 6.4"
+          "ERA 5.23",
+          "WHIP 1.44",
+          "K/9 6.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.65"
+            "value": "5.23"
           },
           {
             "label": "WHIP",
-            "value": "1.45"
+            "value": "1.44"
           },
           {
             "label": "K/9",
-            "value": "6.4"
+            "value": "6.7"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "3.1"
           },
           {
             "label": "HR/9",
@@ -3158,7 +3158,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           },
           {
             "label": "IP",
-            "value": "36.7"
+            "value": "43.0"
           }
         ],
         "metaLine": "JR / R/R",
@@ -4714,13 +4714,13 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "36",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/josh-stonehouse/12755",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Stonehouse_J_000002.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 42,
-        "battingAverage": 0.259,
+        "gamesPlayed": 46,
+        "gamesStarted": 43,
+        "battingAverage": 0.255,
         "onBasePercentage": 0.372,
-        "sluggingPercentage": 0.551,
-        "ops": 0.923,
-        "atBats": 158,
+        "sluggingPercentage": 0.54,
+        "ops": 0.912,
+        "atBats": 161,
         "runs": 36,
         "hits": 41,
         "doubles": 7,
@@ -4728,19 +4728,19 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "homeRuns": 13,
         "runsBattedIn": 36,
         "totalBases": 87,
-        "walks": 11,
-        "hitByPitch": 19,
-        "strikeouts": 46,
+        "walks": 12,
+        "hitByPitch": 20,
+        "strikeouts": 48,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
-        "putouts": 211,
+        "putouts": 214,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 197,
+        "plateAppearances": 202,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -4752,9 +4752,9 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "36",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/josh-stonehouse/12755",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Stonehouse_J_000002.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 40,
-        "putouts": 211,
+        "gamesPlayed": 43,
+        "gamesStarted": 41,
+        "putouts": 214,
         "assists": 16,
         "errors": 3,
         "fieldingPercentage": 0.987,
@@ -4764,31 +4764,31 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 230
+        "totalChances": 233
       },
       "evaluation": {
-        "score": 39,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
           "On-base": 51.11111111111109,
-          "Power": 60.78947368421055,
-          "Contact": 24.375000000000004,
-          "Discipline": 4.347826086956521,
+          "Power": 57.894736842105274,
+          "Contact": 21.875000000000004,
+          "Discipline": 5.555555555555554,
           "Speed": 20
         },
-        "summary": "Josh Stonehouse profiles as a IF piece who brings real extra-base damage.",
+        "summary": "Josh Stonehouse gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .259",
+          "AVG .255",
           "OBP .372",
-          "SLG .551"
+          "SLG .540"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".259"
+            "value": ".255"
           },
           {
             "label": "OBP",
@@ -4796,7 +4796,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           },
           {
             "label": "SLG",
-            "value": ".551"
+            "value": ".540"
           },
           {
             "label": "HR",
@@ -5265,20 +5265,20 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "41",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/carter-christenson/12753",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Christenson_C_000002.jpg",
-        "gamesPlayed": 32,
+        "gamesPlayed": 33,
         "gamesStarted": 23,
-        "battingAverage": 0.221,
-        "onBasePercentage": 0.307,
-        "sluggingPercentage": 0.286,
-        "ops": 0.593,
-        "atBats": 77,
-        "runs": 14,
-        "hits": 17,
+        "battingAverage": 0.231,
+        "onBasePercentage": 0.315,
+        "sluggingPercentage": 0.333,
+        "ops": 0.648,
+        "atBats": 78,
+        "runs": 15,
+        "hits": 18,
         "doubles": 5,
         "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 7,
-        "totalBases": 22,
+        "homeRuns": 1,
+        "runsBattedIn": 10,
+        "totalBases": 26,
         "walks": 10,
         "hitByPitch": 0,
         "strikeouts": 23,
@@ -5291,7 +5291,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "putouts": 37,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 94,
+        "plateAppearances": 95,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -5303,10 +5303,10 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "41",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/carter-christenson/12753",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Christenson_C_000002.jpg",
-        "gamesPlayed": 27,
+        "gamesPlayed": 28,
         "gamesStarted": 23,
         "putouts": 37,
-        "assists": 44,
+        "assists": 45,
         "errors": 4,
         "fieldingPercentage": 0.953,
         "doublePlays": 10,
@@ -5315,47 +5315,47 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 85
+        "totalChances": 86
       },
       "evaluation": {
-        "score": 10,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 14.999999999999982,
-          "Power": 0,
-          "Contact": 0.6250000000000006,
+          "On-base": 19.444444444444432,
+          "Power": 3.421052631578951,
+          "Contact": 6.875000000000006,
           "Discipline": 26.086956521739125,
           "Speed": 13.333333333333334
         },
         "summary": "Carter Christenson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .221",
-          "OBP .307",
-          "SLG .286"
+          "AVG .231",
+          "OBP .315",
+          "SLG .333"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".221"
+            "value": ".231"
           },
           {
             "label": "OBP",
-            "value": ".307"
+            "value": ".315"
           },
           {
             "label": "SLG",
-            "value": ".286"
+            "value": ".333"
           },
           {
             "label": "HR",
-            "value": "0"
+            "value": "1"
           },
           {
             "label": "RBI",
-            "value": "7"
+            "value": "10"
           },
           {
             "label": "SB",
@@ -5410,13 +5410,13 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "44",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/jorge-valdes/12761",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Valdes_J_000002.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 31,
-        "battingAverage": 0.291,
-        "onBasePercentage": 0.397,
-        "sluggingPercentage": 0.339,
-        "ops": 0.736,
-        "atBats": 127,
+        "gamesPlayed": 33,
+        "gamesStarted": 32,
+        "battingAverage": 0.282,
+        "onBasePercentage": 0.395,
+        "sluggingPercentage": 0.328,
+        "ops": 0.723,
+        "atBats": 131,
         "runs": 23,
         "hits": 37,
         "doubles": 3,
@@ -5424,19 +5424,19 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "homeRuns": 1,
         "runsBattedIn": 14,
         "totalBases": 43,
-        "walks": 23,
+        "walks": 25,
         "hitByPitch": 0,
-        "strikeouts": 24,
+        "strikeouts": 25,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 3,
         "stolenBases": 5,
         "stolenBasesAttempts": 6,
-        "putouts": 69,
+        "putouts": 70,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 161,
+        "plateAppearances": 167,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -5448,9 +5448,9 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "jersey": "44",
         "profileUrl": "https://goxavier.com/sports/baseball/roster/jorge-valdes/12761",
         "imageUrl": "https://goxavier.com/images/2025/10/15/Valdes_J_000002.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 25,
-        "putouts": 69,
+        "gamesPlayed": 27,
+        "gamesStarted": 26,
+        "putouts": 70,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -5460,39 +5460,39 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 70
+        "totalChances": 71
       },
       "evaluation": {
-        "score": 44,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 65,
-          "Power": 5.000000000000005,
-          "Contact": 44.374999999999986,
-          "Discipline": 84.25925925925924,
+          "On-base": 63.888888888888886,
+          "Power": 2.105263157894739,
+          "Contact": 38.74999999999998,
+          "Discipline": 88.88888888888889,
           "Speed": 16.666666666666664
         },
-        "summary": "Jorge Valdes gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Jorge Valdes profiles as a OF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .291",
-          "OBP .397",
-          "SLG .339"
+          "AVG .282",
+          "OBP .395",
+          "SLG .328"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".291"
+            "value": ".282"
           },
           {
             "label": "OBP",
-            "value": ".397"
+            "value": ".395"
           },
           {
             "label": "SLG",
-            "value": ".339"
+            "value": ".328"
           },
           {
             "label": "HR",
@@ -5855,29 +5855,29 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "S/L",
-        "score": 7,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "JD Crisp gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .214",
-          "OBP .302",
-          "SLG .320"
+          "AVG .221",
+          "OBP .308",
+          "SLG .327"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".214"
+            "value": ".221"
           },
           {
             "label": "OBP",
-            "value": ".302"
+            "value": ".308"
           },
           {
             "label": "SLG",
-            "value": ".320"
+            "value": ".327"
           },
           {
             "label": "HR",
@@ -5893,9 +5893,9 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           }
         ],
         "components": {
-          "On-base": 12.222222222222202,
-          "Power": 0,
-          "Contact": 0,
+          "On-base": 15.55555555555554,
+          "Power": 1.8421052631578967,
+          "Contact": 0.6250000000000006,
           "Discipline": 6.878306878306878,
           "Speed": 20
         },
@@ -5924,29 +5924,29 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "position": "IF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 24,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Luke Hammond gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .326",
-          "SLG .428"
+          "AVG .273",
+          "OBP .325",
+          "SLG .420"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".326"
+            "value": ".325"
           },
           {
             "label": "SLG",
-            "value": ".428"
+            "value": ".420"
           },
           {
             "label": "HR",
@@ -5962,10 +5962,10 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           }
         ],
         "components": {
-          "On-base": 25.555555555555546,
-          "Power": 28.421052631578945,
-          "Contact": 35.625000000000014,
-          "Discipline": 6.584362139917692,
+          "On-base": 24.999999999999993,
+          "Power": 26.31578947368421,
+          "Contact": 33.12500000000001,
+          "Discipline": 9.523809523809518,
           "Speed": 6.666666666666667
         },
         "metaLine": "GR / R/R",
@@ -6000,14 +6000,14 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         },
         "summary": "Peter Johnson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .248",
+          "AVG .250",
           "OBP .358",
-          "SLG .368"
+          "SLG .367"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".248"
+            "value": ".250"
           },
           {
             "label": "OBP",
@@ -6015,7 +6015,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           },
           {
             "label": "SLG",
-            "value": ".368"
+            "value": ".367"
           },
           {
             "label": "HR",
@@ -6032,9 +6032,9 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         ],
         "components": {
           "On-base": 43.333333333333314,
-          "Power": 12.63157894736842,
-          "Contact": 17.5,
-          "Discipline": 17.28395061728395,
+          "Power": 12.368421052631577,
+          "Contact": 18.75,
+          "Discipline": 15.602836879432619,
           "Speed": 6.666666666666667
         },
         "metaLine": "JR / L/R",
@@ -6062,37 +6062,37 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 82,
+        "score": 81,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Clay Burdette profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .360",
-          "OBP .459",
-          "SLG .787"
+          "AVG .357",
+          "OBP .457",
+          "SLG .792"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".360"
+            "value": ".357"
           },
           {
             "label": "OBP",
-            "value": ".459"
+            "value": ".457"
           },
           {
             "label": "SLG",
-            "value": ".787"
+            "value": ".792"
           },
           {
             "label": "HR",
-            "value": "15"
+            "value": "16"
           },
           {
             "label": "RBI",
-            "value": "38"
+            "value": "39"
           },
           {
             "label": "SB",
@@ -6100,10 +6100,10 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           }
         ],
         "components": {
-          "On-base": 99.44444444444444,
+          "On-base": 98.33333333333333,
           "Power": 100,
-          "Contact": 87.49999999999999,
-          "Discipline": 38.09523809523808,
+          "Contact": 85.62499999999999,
+          "Discipline": 34.83483483483483,
           "Speed": 30
         },
         "metaLine": "JR / R/R",
@@ -6131,29 +6131,29 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "position": "IF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 31,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Landon Mensik gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .357",
-          "SLG .492"
+          "AVG .246",
+          "OBP .352",
+          "SLG .484"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".246"
           },
           {
             "label": "OBP",
-            "value": ".357"
+            "value": ".352"
           },
           {
             "label": "SLG",
-            "value": ".492"
+            "value": ".484"
           },
           {
             "label": "HR",
@@ -6169,10 +6169,10 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           }
         ],
         "components": {
-          "On-base": 42.77777777777775,
-          "Power": 45.26315789473684,
-          "Contact": 18.75,
-          "Discipline": 13.131313131313128,
+          "On-base": 39.99999999999997,
+          "Power": 43.15789473684211,
+          "Contact": 16.249999999999996,
+          "Discipline": 12.345679012345677,
           "Speed": 6.666666666666667
         },
         "metaLine": "SO / R/R",
@@ -6200,37 +6200,37 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "position": "IF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 7,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tanner Thomas gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .133",
-          "OBP .239",
-          "SLG .250"
+          "AVG .159",
+          "OBP .267",
+          "SLG .333"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".133"
+            "value": ".159"
           },
           {
             "label": "OBP",
-            "value": ".239"
+            "value": ".267"
           },
           {
             "label": "SLG",
-            "value": ".250"
+            "value": ".333"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "3"
           },
           {
             "label": "RBI",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "SB",
@@ -6239,9 +6239,9 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         ],
         "components": {
           "On-base": 0,
-          "Power": 0,
+          "Power": 3.421052631578951,
           "Contact": 0,
-          "Discipline": 48.48484848484848,
+          "Discipline": 51.85185185185184,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / R/R",
@@ -6338,29 +6338,29 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "position": "IF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 22,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Donavan Canterberry gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .269",
-          "OBP .353",
-          "SLG .319"
+          "AVG .266",
+          "OBP .348",
+          "SLG .315"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".269"
+            "value": ".266"
           },
           {
             "label": "OBP",
-            "value": ".353"
+            "value": ".348"
           },
           {
             "label": "SLG",
-            "value": ".319"
+            "value": ".315"
           },
           {
             "label": "HR",
@@ -6368,7 +6368,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           },
           {
             "label": "RBI",
-            "value": "7"
+            "value": "9"
           },
           {
             "label": "SB",
@@ -6376,10 +6376,10 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           }
         ],
         "components": {
-          "On-base": 40.555555555555536,
+          "On-base": 37.77777777777775,
           "Power": 0,
-          "Contact": 30.625000000000007,
-          "Discipline": 23.045267489711925,
+          "Contact": 28.750000000000007,
+          "Discipline": 21.428571428571423,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / R/R",
@@ -6407,29 +6407,29 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tommy Townsend gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .214",
-          "OBP .272",
-          "SLG .452"
+          "AVG .216",
+          "OBP .271",
+          "SLG .443"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".214"
+            "value": ".216"
           },
           {
             "label": "OBP",
-            "value": ".272"
+            "value": ".271"
           },
           {
             "label": "SLG",
-            "value": ".452"
+            "value": ".443"
           },
           {
             "label": "HR",
@@ -6446,9 +6446,9 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         ],
         "components": {
           "On-base": 0,
-          "Power": 34.736842105263165,
+          "Power": 32.36842105263158,
           "Contact": 0,
-          "Discipline": 4.444444444444442,
+          "Discipline": 2.469135802469133,
           "Speed": 0
         },
         "metaLine": "JR / L/L",
@@ -6965,14 +6965,14 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         },
         "summary": "Jonathan Fitz profiles as a C piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .306",
+          "AVG .309",
           "OBP .410",
-          "SLG .456"
+          "SLG .454"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".306"
+            "value": ".309"
           },
           {
             "label": "OBP",
@@ -6980,7 +6980,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           },
           {
             "label": "SLG",
-            "value": ".456"
+            "value": ".454"
           },
           {
             "label": "HR",
@@ -6997,9 +6997,9 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         ],
         "components": {
           "On-base": 72.2222222222222,
-          "Power": 35.789473684210535,
-          "Contact": 53.75,
-          "Discipline": 100,
+          "Power": 35.26315789473685,
+          "Contact": 55.62499999999999,
+          "Discipline": 94.17989417989418,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / R/R",
@@ -7027,48 +7027,48 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "position": "LHP",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 14,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Garrett Helsel looks like a LHP option who misses bats.",
+        "summary": "Garrett Helsel gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.41",
-          "WHIP 1.50",
-          "K/9 9.1"
+          "ERA 4.46",
+          "WHIP 1.46",
+          "K/9 8.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.41"
+            "value": "4.46"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.46"
           },
           {
             "label": "K/9",
-            "value": "9.1"
+            "value": "8.9"
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "3.8"
           },
           {
             "label": "HR/9",
-            "value": "1.04"
+            "value": "1.17"
           },
           {
             "label": "IP",
-            "value": "34.7"
+            "value": "38.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 46.24125874125875,
-          "Command": 26.66666666666666,
+          "Miss bats": 44.74308300395256,
+          "Command": 27.500000000000004,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/L",
@@ -7302,33 +7302,33 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 7,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Michael Murphy gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.65",
-          "WHIP 1.45",
-          "K/9 6.4"
+          "ERA 5.23",
+          "WHIP 1.44",
+          "K/9 6.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.65"
+            "value": "5.23"
           },
           {
             "label": "WHIP",
-            "value": "1.45"
+            "value": "1.44"
           },
           {
             "label": "K/9",
-            "value": "6.4"
+            "value": "6.7"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "3.1"
           },
           {
             "label": "HR/9",
@@ -7336,14 +7336,14 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           },
           {
             "label": "IP",
-            "value": "36.7"
+            "value": "43.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 21.65289256198347,
-          "Command": 14.666666666666664,
+          "Miss bats": 24.524312896405924,
+          "Command": 22.666666666666675,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -8196,21 +8196,21 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "position": "IF",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 39,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Josh Stonehouse profiles as a IF piece who brings real extra-base damage.",
+        "summary": "Josh Stonehouse gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .259",
+          "AVG .255",
           "OBP .372",
-          "SLG .551"
+          "SLG .540"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".259"
+            "value": ".255"
           },
           {
             "label": "OBP",
@@ -8218,7 +8218,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           },
           {
             "label": "SLG",
-            "value": ".551"
+            "value": ".540"
           },
           {
             "label": "HR",
@@ -8235,9 +8235,9 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         ],
         "components": {
           "On-base": 51.11111111111109,
-          "Power": 60.78947368421055,
-          "Contact": 24.375000000000004,
-          "Discipline": 4.347826086956521,
+          "Power": 57.894736842105274,
+          "Contact": 21.875000000000004,
+          "Discipline": 5.555555555555554,
           "Speed": 20
         },
         "metaLine": "FR / L/L",
@@ -8472,37 +8472,37 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "position": "IF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 10,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Carter Christenson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .221",
-          "OBP .307",
-          "SLG .286"
+          "AVG .231",
+          "OBP .315",
+          "SLG .333"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".221"
+            "value": ".231"
           },
           {
             "label": "OBP",
-            "value": ".307"
+            "value": ".315"
           },
           {
             "label": "SLG",
-            "value": ".286"
+            "value": ".333"
           },
           {
             "label": "HR",
-            "value": "0"
+            "value": "1"
           },
           {
             "label": "RBI",
-            "value": "7"
+            "value": "10"
           },
           {
             "label": "SB",
@@ -8510,9 +8510,9 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           }
         ],
         "components": {
-          "On-base": 14.999999999999982,
-          "Power": 0,
-          "Contact": 0.6250000000000006,
+          "On-base": 19.444444444444432,
+          "Power": 3.421052631578951,
+          "Contact": 6.875000000000006,
           "Discipline": 26.086956521739125,
           "Speed": 13.333333333333334
         },
@@ -8541,29 +8541,29 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "L/L",
-        "score": 44,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jorge Valdes gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Jorge Valdes profiles as a OF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .291",
-          "OBP .397",
-          "SLG .339"
+          "AVG .282",
+          "OBP .395",
+          "SLG .328"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".291"
+            "value": ".282"
           },
           {
             "label": "OBP",
-            "value": ".397"
+            "value": ".395"
           },
           {
             "label": "SLG",
-            "value": ".339"
+            "value": ".328"
           },
           {
             "label": "HR",
@@ -8579,10 +8579,10 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           }
         ],
         "components": {
-          "On-base": 65,
-          "Power": 5.000000000000005,
-          "Contact": 44.374999999999986,
-          "Discipline": 84.25925925925924,
+          "On-base": 63.888888888888886,
+          "Power": 2.105263157894739,
+          "Contact": 38.74999999999998,
+          "Discipline": 88.88888888888889,
           "Speed": 16.666666666666664
         },
         "metaLine": "SO / L/L",

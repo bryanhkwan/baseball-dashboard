@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T11:39:46.836Z",
+  "generatedAt": "2026-05-02T11:07:38.775Z",
   "season": 2026,
   "school": {
     "slug": "west-virginia",
@@ -42,86 +42,86 @@
     }
   },
   "teamSummary": {
-    "record": "28-12, 13-8",
-    "battingAverage": ".304",
-    "earnedRunAverage": "4.35",
-    "wins": "28",
+    "record": "29-12, 14-8",
+    "battingAverage": ".305",
+    "earnedRunAverage": "4.24",
+    "wins": "29",
     "losses": "12",
     "hitting": {
-      "atBats": "1392",
-      "runsScored": "312",
-      "hits": "423",
-      "runsBattedIn": "266",
-      "doubles": "87",
+      "atBats": "1425",
+      "runsScored": "319",
+      "hits": "434",
+      "runsBattedIn": "272",
+      "doubles": "88",
       "triples": "13",
       "homeRuns": "27",
-      "walks": "219",
+      "walks": "222",
       "intentionalWalks": "6",
-      "strikeouts": "319",
-      "strikeoutsLooking": "51",
-      "hitByPitch": "43",
-      "stolenBases": "78",
+      "strikeouts": "324",
+      "strikeoutsLooking": "54",
+      "hitByPitch": "44",
+      "stolenBases": "80",
       "caughtStealing": "21",
       "sacrificeHits": "19",
-      "sacrificeFlies": "20",
+      "sacrificeFlies": "22",
       "reachedOnCatchersInteference": "2",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "293",
-      "flyOuts": "348",
+      "groundOuts": "301",
+      "flyOuts": "359",
       "groundedIntoDoublePlay": "26",
       "pickedOff": "8",
       "doublePlaysHitInto": "28",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1055",
-      "assists": "365",
+      "putouts": "1082",
+      "assists": "373",
       "errors": "32",
-      "passedBalls": "4",
+      "passedBalls": "5",
       "catchersInterference": "0",
       "stolenBasesAgainst": "35",
       "caughtStealingBy": "11",
       "involvedInDoublePlays": "40",
       "involvedInTriplePlays": "0",
-      "totalChances": "1452",
+      "totalChances": "1487",
       "fieldingPercentage": ".978"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "28",
-      "saves": "29",
+      "wins": "29",
+      "saves": "30",
       "losses": "12",
       "gamesStarted": "0",
       "gamesCompleted": "0",
-      "shutouts": "4",
-      "creditForCombinedShutout": "1",
-      "inningsPitched": "351.2",
-      "hitsAllowed": "315",
+      "shutouts": "5",
+      "creditForCombinedShutout": "2",
+      "inningsPitched": "360.2",
+      "hitsAllowed": "319",
       "runsAllowed": "198",
       "earnedRunsAllowed": "170",
-      "walksAllowed": "171",
-      "strikeouts": "388",
-      "battersFaced": "1557",
-      "opponentAtBats": "1309",
-      "doublesAllowed": "48",
+      "walksAllowed": "174",
+      "strikeouts": "398",
+      "battersFaced": "1592",
+      "opponentAtBats": "1339",
+      "doublesAllowed": "49",
       "triplesAllowed": "4",
       "homerunsAllowed": "36",
-      "wildPitches": "33",
+      "wildPitches": "34",
       "balks": "0",
-      "hitBatters": "58",
-      "strikeoutsLooking": "75",
+      "hitBatters": "60",
+      "strikeoutsLooking": "77",
       "intentionalWalks": "6",
       "inheritedRunners": "88",
       "inheritedRunnersThatScored": "45",
       "sacrificeHitsAllowed": "9",
       "sacrificeFliesAllowed": "9",
       "catchersInterferenceAllowed": "0",
-      "pitches": "5899",
-      "flyouts": "277",
-      "groundouts": "321",
+      "pitches": "6046",
+      "flyouts": "285",
+      "groundouts": "329",
       "teamUnearnedRuns": "0",
-      "saveRecord": "7",
+      "saveRecord": "8",
       "pickoff": "1"
     }
   },
@@ -164,33 +164,33 @@
         "jersey": "0",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/matthew-graveline/19299",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Graveline__Matthew.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 38,
-        "battingAverage": 0.301,
-        "onBasePercentage": 0.388,
-        "sluggingPercentage": 0.441,
-        "ops": 0.829,
-        "atBats": 143,
+        "gamesPlayed": 41,
+        "gamesStarted": 39,
+        "battingAverage": 0.295,
+        "onBasePercentage": 0.379,
+        "sluggingPercentage": 0.432,
+        "ops": 0.811,
+        "atBats": 146,
         "runs": 22,
         "hits": 43,
         "doubles": 5,
         "triples": 0,
         "homeRuns": 5,
-        "runsBattedIn": 28,
+        "runsBattedIn": 29,
         "totalBases": 63,
         "walks": 18,
         "hitByPitch": 3,
-        "strikeouts": 31,
+        "strikeouts": 32,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 1,
+        "sacrificeFlies": 2,
         "sacrificeHits": 3,
         "stolenBases": 5,
         "stolenBasesAttempts": 7,
-        "putouts": 218,
+        "putouts": 220,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 177,
+        "plateAppearances": 181,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -202,9 +202,9 @@
         "jersey": "0",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/matthew-graveline/19299",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Graveline__Matthew.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 37,
-        "putouts": 218,
+        "gamesPlayed": 39,
+        "gamesStarted": 38,
+        "putouts": 220,
         "assists": 14,
         "errors": 4,
         "fieldingPercentage": 0.983,
@@ -214,39 +214,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
-        "totalChances": 236
+        "totalChances": 238
       },
       "evaluation": {
-        "score": 44,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 60,
-          "Power": 31.8421052631579,
-          "Contact": 50.624999999999986,
-          "Discipline": 42.29390681003584,
+          "On-base": 54.99999999999999,
+          "Power": 29.47368421052632,
+          "Contact": 46.874999999999986,
+          "Discipline": 40.27777777777777,
           "Speed": 16.666666666666664
         },
         "summary": "Matthew Graveline gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .301",
-          "OBP .388",
-          "SLG .441"
+          "AVG .295",
+          "OBP .379",
+          "SLG .432"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".301"
+            "value": ".295"
           },
           {
             "label": "OBP",
-            "value": ".388"
+            "value": ".379"
           },
           {
             "label": "SLG",
-            "value": ".441"
+            "value": ".432"
           },
           {
             "label": "HR",
@@ -254,7 +254,7 @@
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -431,21 +431,21 @@
         "jersey": "2",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/gavin-kelly/19279",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Kelly__Gavin.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "battingAverage": 0.394,
-        "onBasePercentage": 0.481,
-        "sluggingPercentage": 0.639,
-        "ops": 1.12,
-        "atBats": 155,
-        "runs": 40,
-        "hits": 61,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "battingAverage": 0.39,
+        "onBasePercentage": 0.479,
+        "sluggingPercentage": 0.629,
+        "ops": 1.108,
+        "atBats": 159,
+        "runs": 41,
+        "hits": 62,
         "doubles": 16,
         "triples": 2,
         "homeRuns": 6,
         "runsBattedIn": 38,
-        "totalBases": 99,
-        "walks": 25,
+        "totalBases": 100,
+        "walks": 26,
         "hitByPitch": 4,
         "strikeouts": 25,
         "intentionalWalks": 0,
@@ -454,10 +454,10 @@
         "sacrificeHits": 1,
         "stolenBases": 3,
         "stolenBasesAttempts": 9,
-        "putouts": 209,
+        "putouts": 219,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 203,
+        "plateAppearances": 208,
         "caughtStealing": 6,
         "pickedOff": 2
       },
@@ -469,19 +469,19 @@
         "jersey": "2",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/gavin-kelly/19279",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Kelly__Gavin.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "putouts": 209,
-        "assists": 59,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "putouts": 219,
+        "assists": 60,
         "errors": 5,
         "fieldingPercentage": 0.982,
         "doublePlays": 13,
         "stolenBasesAgainst": 15,
         "caughtStealingBy": 8,
         "stolenBasesPercentage": null,
-        "passedBalls": 3,
+        "passedBalls": 4,
         "catchersInterference": 0,
-        "totalChances": 273
+        "totalChances": 284
       },
       "evaluation": {
         "score": 85,
@@ -491,29 +491,29 @@
         },
         "components": {
           "On-base": 100,
-          "Power": 83.94736842105264,
+          "Power": 81.31578947368422,
           "Contact": 100,
-          "Discipline": 88.88888888888889,
+          "Discipline": 93.33333333333333,
           "Speed": 10
         },
         "summary": "Gavin Kelly profiles as a UTL piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .394",
-          "OBP .481",
-          "SLG .639"
+          "AVG .390",
+          "OBP .479",
+          "SLG .629"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".394"
+            "value": ".390"
           },
           {
             "label": "OBP",
-            "value": ".481"
+            "value": ".479"
           },
           {
             "label": "SLG",
-            "value": ".639"
+            "value": ".629"
           },
           {
             "label": "HR",
@@ -809,33 +809,33 @@
         "jersey": "5",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/armani-guzman/19275",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Guzman__Armani.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "battingAverage": 0.285,
-        "onBasePercentage": 0.377,
-        "sluggingPercentage": 0.375,
-        "ops": 0.752,
-        "atBats": 144,
-        "runs": 41,
-        "hits": 41,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "battingAverage": 0.286,
+        "onBasePercentage": 0.38,
+        "sluggingPercentage": 0.374,
+        "ops": 0.754,
+        "atBats": 147,
+        "runs": 42,
+        "hits": 42,
         "doubles": 13,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 26,
-        "totalBases": 54,
+        "totalBases": 55,
         "walks": 24,
-        "hitByPitch": 1,
+        "hitByPitch": 2,
         "strikeouts": 26,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 6,
         "sacrificeHits": 3,
-        "stolenBases": 24,
-        "stolenBasesAttempts": 27,
-        "putouts": 196,
+        "stolenBases": 25,
+        "stolenBasesAttempts": 28,
+        "putouts": 204,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 208,
+        "plateAppearances": 213,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -847,9 +847,9 @@
         "jersey": "5",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/armani-guzman/19275",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Guzman__Armani.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "putouts": 196,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "putouts": 204,
         "assists": 13,
         "errors": 3,
         "fieldingPercentage": 0.986,
@@ -859,7 +859,7 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 212
+        "totalChances": 220
       },
       "evaluation": {
         "score": 48,
@@ -868,30 +868,30 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 53.88888888888887,
-          "Power": 14.473684210526317,
-          "Contact": 40.624999999999986,
+          "On-base": 55.55555555555555,
+          "Power": 14.210526315789473,
+          "Contact": 41.24999999999998,
           "Discipline": 80.34188034188034,
-          "Speed": 80
+          "Speed": 83.33333333333334
         },
         "summary": "Armani Guzman profiles as a UTL piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .285",
-          "OBP .377",
-          "SLG .375"
+          "AVG .286",
+          "OBP .380",
+          "SLG .374"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".285"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".377"
+            "value": ".380"
           },
           {
             "label": "SLG",
-            "value": ".375"
+            "value": ".374"
           },
           {
             "label": "HR",
@@ -903,7 +903,7 @@
           },
           {
             "label": "SB",
-            "value": "24"
+            "value": "25"
           }
         ],
         "metaLine": "JR / L/R",
@@ -954,20 +954,20 @@
         "jersey": "6",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/paul-schoenfeld/19316",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Schoenfeld__Paul.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "battingAverage": 0.369,
-        "onBasePercentage": 0.489,
-        "sluggingPercentage": 0.55,
-        "ops": 1.039,
-        "atBats": 149,
-        "runs": 35,
-        "hits": 55,
-        "doubles": 13,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "battingAverage": 0.377,
+        "onBasePercentage": 0.492,
+        "sluggingPercentage": 0.558,
+        "ops": 1.05,
+        "atBats": 154,
+        "runs": 36,
+        "hits": 58,
+        "doubles": 14,
         "triples": 4,
         "homeRuns": 2,
-        "runsBattedIn": 35,
-        "totalBases": 82,
+        "runsBattedIn": 36,
+        "totalBases": 86,
         "walks": 34,
         "hitByPitch": 2,
         "strikeouts": 22,
@@ -977,10 +977,10 @@
         "sacrificeHits": 4,
         "stolenBases": 19,
         "stolenBasesAttempts": 23,
-        "putouts": 75,
+        "putouts": 77,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 217,
+        "plateAppearances": 222,
         "caughtStealing": 4,
         "pickedOff": 3
       },
@@ -992,9 +992,9 @@
         "jersey": "6",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/paul-schoenfeld/19316",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Schoenfeld__Paul.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 35,
-        "putouts": 75,
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "putouts": 77,
         "assists": 4,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1004,39 +1004,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 79
+        "totalChances": 81
       },
       "evaluation": {
-        "score": 85,
+        "score": 86,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "components": {
           "On-base": 100,
-          "Power": 60.526315789473706,
-          "Contact": 93.12499999999999,
+          "Power": 62.63157894736844,
+          "Contact": 98.125,
           "Discipline": 100,
           "Speed": 63.33333333333333
         },
         "summary": "Paul Schoenfeld profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .369",
-          "OBP .489",
-          "SLG .550"
+          "AVG .377",
+          "OBP .492",
+          "SLG .558"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".369"
+            "value": ".377"
           },
           {
             "label": "OBP",
-            "value": ".489"
+            "value": ".492"
           },
           {
             "label": "SLG",
-            "value": ".550"
+            "value": ".558"
           },
           {
             "label": "HR",
@@ -1044,7 +1044,7 @@
           },
           {
             "label": "RBI",
-            "value": "35"
+            "value": "36"
           },
           {
             "label": "SB",
@@ -1244,13 +1244,13 @@
         "jersey": "8",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/tyrus-hall/19305",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Hall__Tyrus.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 39,
-        "battingAverage": 0.269,
-        "onBasePercentage": 0.425,
-        "sluggingPercentage": 0.361,
-        "ops": 0.786,
-        "atBats": 119,
+        "gamesPlayed": 41,
+        "gamesStarted": 40,
+        "battingAverage": 0.26,
+        "onBasePercentage": 0.414,
+        "sluggingPercentage": 0.35,
+        "ops": 0.764,
+        "atBats": 123,
         "runs": 35,
         "hits": 32,
         "doubles": 3,
@@ -1260,7 +1260,7 @@
         "totalBases": 43,
         "walks": 27,
         "hitByPitch": 6,
-        "strikeouts": 53,
+        "strikeouts": 55,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
@@ -1270,7 +1270,7 @@
         "putouts": 20,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 173,
+        "plateAppearances": 177,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1282,51 +1282,51 @@
         "jersey": "8",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/tyrus-hall/19305",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Hall__Tyrus.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
         "putouts": 20,
-        "assists": 80,
+        "assists": 83,
         "errors": 4,
-        "fieldingPercentage": 0.962,
+        "fieldingPercentage": 0.963,
         "doublePlays": 5,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 104
+        "totalChances": 107
       },
       "evaluation": {
-        "score": 44,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 80.55555555555554,
-          "Power": 10.789473684210522,
-          "Contact": 30.625000000000007,
-          "Discipline": 34.38155136268343,
+          "On-base": 74.44444444444443,
+          "Power": 7.8947368421052575,
+          "Contact": 25.000000000000007,
+          "Discipline": 32.32323232323232,
           "Speed": 50
         },
         "summary": "Tyrus Hall profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .269",
-          "OBP .425",
-          "SLG .361"
+          "AVG .260",
+          "OBP .414",
+          "SLG .350"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".269"
+            "value": ".260"
           },
           {
             "label": "OBP",
-            "value": ".425"
+            "value": ".414"
           },
           {
             "label": "SLG",
-            "value": ".361"
+            "value": ".350"
           },
           {
             "label": "HR",
@@ -1673,33 +1673,33 @@
         "jersey": "11",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/sean-smith/19319",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Smith__Sean.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 37,
-        "battingAverage": 0.307,
-        "onBasePercentage": 0.398,
+        "gamesPlayed": 40,
+        "gamesStarted": 38,
+        "battingAverage": 0.31,
+        "onBasePercentage": 0.4,
         "sluggingPercentage": 0.479,
-        "ops": 0.877,
-        "atBats": 140,
-        "runs": 26,
-        "hits": 43,
+        "ops": 0.879,
+        "atBats": 142,
+        "runs": 27,
+        "hits": 44,
         "doubles": 7,
         "triples": 1,
         "homeRuns": 5,
-        "runsBattedIn": 33,
-        "totalBases": 67,
-        "walks": 18,
+        "runsBattedIn": 34,
+        "totalBases": 68,
+        "walks": 19,
         "hitByPitch": 3,
         "strikeouts": 32,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 5,
-        "sacrificeFlies": 0,
+        "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
         "putouts": 7,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 168,
+        "plateAppearances": 172,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1726,32 +1726,32 @@
         "totalChances": 7
       },
       "evaluation": {
-        "score": 48,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 65.55555555555556,
+          "On-base": 66.66666666666666,
           "Power": 41.84210526315789,
-          "Contact": 54.37499999999999,
-          "Discipline": 40.27777777777777,
+          "Contact": 56.25,
+          "Discipline": 43.74999999999999,
           "Speed": 10
         },
-        "summary": "Sean Smith gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Sean Smith profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .307",
-          "OBP .398",
+          "AVG .310",
+          "OBP .400",
           "SLG .479"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".307"
+            "value": ".310"
           },
           {
             "label": "OBP",
-            "value": ".398"
+            "value": ".400"
           },
           {
             "label": "SLG",
@@ -1763,7 +1763,7 @@
           },
           {
             "label": "RBI",
-            "value": "33"
+            "value": "34"
           },
           {
             "label": "SB",
@@ -1818,20 +1818,20 @@
         "jersey": "12",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/brodie-kresser/19280",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Kresser__Brodie.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 31,
-        "battingAverage": 0.267,
-        "onBasePercentage": 0.378,
-        "sluggingPercentage": 0.381,
-        "ops": 0.759,
-        "atBats": 105,
-        "runs": 19,
-        "hits": 28,
+        "gamesPlayed": 33,
+        "gamesStarted": 32,
+        "battingAverage": 0.275,
+        "onBasePercentage": 0.382,
+        "sluggingPercentage": 0.385,
+        "ops": 0.767,
+        "atBats": 109,
+        "runs": 20,
+        "hits": 30,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 2,
-        "runsBattedIn": 20,
-        "totalBases": 40,
+        "runsBattedIn": 22,
+        "totalBases": 42,
         "walks": 13,
         "hitByPitch": 7,
         "strikeouts": 19,
@@ -1839,12 +1839,12 @@
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
         "sacrificeHits": 1,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 2,
-        "putouts": 111,
+        "stolenBases": 3,
+        "stolenBasesAttempts": 3,
+        "putouts": 112,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 130,
+        "plateAppearances": 135,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -1856,10 +1856,10 @@
         "jersey": "12",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/brodie-kresser/19280",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Kresser__Brodie.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 30,
-        "putouts": 111,
-        "assists": 41,
+        "gamesPlayed": 31,
+        "gamesStarted": 31,
+        "putouts": 112,
+        "assists": 43,
         "errors": 2,
         "fieldingPercentage": 0.987,
         "doublePlays": 26,
@@ -1868,39 +1868,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 154
+        "totalChances": 157
       },
       "evaluation": {
-        "score": 35,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 54.44444444444443,
-          "Power": 16.05263157894737,
-          "Contact": 29.375000000000007,
+          "On-base": 56.66666666666666,
+          "Power": 17.10526315789474,
+          "Contact": 34.375000000000014,
           "Discipline": 53.80116959064327,
-          "Speed": 6.666666666666667
+          "Speed": 10
         },
         "summary": "Brodie Kresser gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .267",
-          "OBP .378",
-          "SLG .381"
+          "AVG .275",
+          "OBP .382",
+          "SLG .385"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".267"
+            "value": ".275"
           },
           {
             "label": "OBP",
-            "value": ".378"
+            "value": ".382"
           },
           {
             "label": "SLG",
-            "value": ".381"
+            "value": ".385"
           },
           {
             "label": "HR",
@@ -1908,11 +1908,11 @@
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "22"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "3"
           }
         ],
         "metaLine": "GR / R/R",
@@ -2254,31 +2254,31 @@
         "jersey": "15",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/maxx-yehl/19288",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Yehl__Maxx.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 10,
-        "appearances": 10,
+        "gamesPlayed": 11,
+        "gamesStarted": 11,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.41,
-        "whip": 1.15,
-        "wins": 5,
+        "earnedRunAverage": 2.2,
+        "whip": 1.13,
+        "wins": 6,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 52.333333333333336,
-        "inningsPitchedDisplay": "52.1",
-        "hitsAllowed": 45,
+        "inningsPitched": 57.333333333333336,
+        "inningsPitchedDisplay": "57.1",
+        "hitsAllowed": 48,
         "runsAllowed": 17,
         "earnedRunsAllowed": 14,
-        "walksAllowed": 15,
-        "strikeouts": 62,
+        "walksAllowed": 17,
+        "strikeouts": 70,
         "doublesAllowed": 5,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 190,
-        "wildPitches": 3,
-        "hitBatters": 9,
+        "opponentsAtBats": 207,
+        "wildPitches": 4,
+        "hitBatters": 11,
         "balks": 0,
-        "opponentsBattingAverage": 0.237,
+        "opponentsBattingAverage": 0.232,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2288,22 +2288,22 @@
         "jersey": "15",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/maxx-yehl/19288",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Yehl__Maxx.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 5,
-        "putouts": 2,
+        "gamesPlayed": 6,
+        "gamesStarted": 6,
+        "putouts": 3,
         "assists": 3,
         "errors": 1,
-        "fieldingPercentage": 0.833,
+        "fieldingPercentage": 0.857,
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 6
+        "totalChances": 7
       },
       "evaluation": {
-        "score": 22,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2311,40 +2311,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 60.567458019687315,
-          "Command": 62.66666666666666,
+          "Miss bats": 63.5306553911205,
+          "Command": 62.35294117647058,
           "Damage suppression": 0
         },
         "summary": "Maxx Yehl looks like a LHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.41",
-          "WHIP 1.15",
-          "K/9 10.7"
+          "ERA 2.20",
+          "WHIP 1.13",
+          "K/9 11.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.41"
+            "value": "2.20"
           },
           {
             "label": "WHIP",
-            "value": "1.15"
+            "value": "1.13"
           },
           {
             "label": "K/9",
-            "value": "10.7"
+            "value": "11.0"
           },
           {
             "label": "BB/9",
-            "value": "2.6"
+            "value": "2.7"
           },
           {
             "label": "HR/9",
-            "value": "0.34"
+            "value": "0.31"
           },
           {
             "label": "IP",
-            "value": "52.3"
+            "value": "57.3"
           }
         ],
         "metaLine": "R-JR / L/L",
@@ -2395,33 +2395,33 @@
         "jersey": "16",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/brock-wills/19323",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Wills__Brock.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 36,
-        "battingAverage": 0.277,
-        "onBasePercentage": 0.367,
-        "sluggingPercentage": 0.401,
-        "ops": 0.768,
-        "atBats": 137,
+        "gamesPlayed": 41,
+        "gamesStarted": 37,
+        "battingAverage": 0.284,
+        "onBasePercentage": 0.37,
+        "sluggingPercentage": 0.404,
+        "ops": 0.774,
+        "atBats": 141,
         "runs": 23,
-        "hits": 38,
+        "hits": 40,
         "doubles": 5,
         "triples": 3,
         "homeRuns": 2,
-        "runsBattedIn": 20,
-        "totalBases": 55,
+        "runsBattedIn": 21,
+        "totalBases": 57,
         "walks": 12,
         "hitByPitch": 8,
-        "strikeouts": 33,
+        "strikeouts": 34,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 3,
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
-        "putouts": 62,
+        "putouts": 65,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 166,
+        "plateAppearances": 170,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2433,9 +2433,9 @@
         "jersey": "16",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/brock-wills/19323",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Wills__Brock.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 34,
-        "putouts": 62,
+        "gamesPlayed": 37,
+        "gamesStarted": 35,
+        "putouts": 65,
         "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -2445,39 +2445,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 64
+        "totalChances": 67
       },
       "evaluation": {
-        "score": 31,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 48.333333333333314,
-          "Power": 21.31578947368422,
-          "Contact": 35.625000000000014,
-          "Discipline": 18.18181818181818,
+          "On-base": 49.999999999999986,
+          "Power": 22.105263157894743,
+          "Contact": 39.99999999999998,
+          "Discipline": 16.993464052287578,
           "Speed": 10
         },
         "summary": "Brock Wills gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .367",
-          "SLG .401"
+          "AVG .284",
+          "OBP .370",
+          "SLG .404"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".284"
           },
           {
             "label": "OBP",
-            "value": ".367"
+            "value": ".370"
           },
           {
             "label": "SLG",
-            "value": ".401"
+            "value": ".404"
           },
           {
             "label": "HR",
@@ -2485,7 +2485,7 @@
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "21"
           },
           {
             "label": "SB",
@@ -2540,23 +2540,23 @@
         "jersey": "17",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/matt-ineich/19307",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Ineich__Matt.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "battingAverage": 0.316,
-        "onBasePercentage": 0.444,
-        "sluggingPercentage": 0.456,
-        "ops": 0.9,
-        "atBats": 158,
-        "runs": 45,
-        "hits": 50,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "battingAverage": 0.315,
+        "onBasePercentage": 0.443,
+        "sluggingPercentage": 0.451,
+        "ops": 0.894,
+        "atBats": 162,
+        "runs": 47,
+        "hits": 51,
         "doubles": 9,
         "triples": 2,
         "homeRuns": 3,
         "runsBattedIn": 30,
-        "totalBases": 72,
-        "walks": 33,
+        "totalBases": 73,
+        "walks": 34,
         "hitByPitch": 5,
-        "strikeouts": 24,
+        "strikeouts": 25,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 2,
@@ -2566,7 +2566,7 @@
         "putouts": 42,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 207,
+        "plateAppearances": 212,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -2578,10 +2578,10 @@
         "jersey": "17",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/matt-ineich/19307",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Ineich__Matt.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
         "putouts": 42,
-        "assists": 96,
+        "assists": 98,
         "errors": 4,
         "fieldingPercentage": 0.972,
         "doublePlays": 24,
@@ -2590,7 +2590,7 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 142
+        "totalChances": 144
       },
       "evaluation": {
         "score": 64,
@@ -2599,30 +2599,30 @@
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 91.1111111111111,
-          "Power": 35.789473684210535,
-          "Contact": 60,
+          "On-base": 90.55555555555554,
+          "Power": 34.47368421052632,
+          "Contact": 59.375,
           "Discipline": 100,
           "Speed": 10
         },
         "summary": "Matt Ineich profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .316",
-          "OBP .444",
-          "SLG .456"
+          "AVG .315",
+          "OBP .443",
+          "SLG .451"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".316"
+            "value": ".315"
           },
           {
             "label": "OBP",
-            "value": ".444"
+            "value": ".443"
           },
           {
             "label": "SLG",
-            "value": ".456"
+            "value": ".451"
           },
           {
             "label": "HR",
@@ -2686,31 +2686,31 @@
         "jersey": "18",
         "profileUrl": "https://wvusports.com/sports/baseball/roster/ian-korn/19308",
         "imageUrl": "https://wvusports.com/images/2026/1/15/Korn__Ian.jpg",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 1,
-        "appearances": 14,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.54,
-        "whip": 1.08,
+        "earnedRunAverage": 3.22,
+        "whip": 1.03,
         "wins": 3,
         "losses": 0,
-        "saves": 0,
+        "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 40.666666666666664,
-        "inningsPitchedDisplay": "40.2",
-        "hitsAllowed": 37,
+        "inningsPitched": 44.666666666666664,
+        "inningsPitchedDisplay": "44.2",
+        "hitsAllowed": 38,
         "runsAllowed": 16,
         "earnedRunsAllowed": 16,
-        "walksAllowed": 7,
-        "strikeouts": 39,
-        "doublesAllowed": 7,
+        "walksAllowed": 8,
+        "strikeouts": 41,
+        "doublesAllowed": 8,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 150,
+        "opponentsAtBats": 163,
         "wildPitches": 1,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.247,
+        "opponentsBattingAverage": 0.233,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2735,7 +2735,7 @@
         "totalChances": 3
       },
       "evaluation": {
-        "score": 23,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2743,40 +2743,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 42.10134128166915,
-          "Command": 91.42857142857143,
+          "Miss bats": 38.73812754409771,
+          "Command": 82.50000000000001,
           "Damage suppression": 0
         },
         "summary": "Ian Korn looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.54",
-          "WHIP 1.08",
-          "K/9 8.6"
+          "ERA 3.22",
+          "WHIP 1.03",
+          "K/9 8.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.54"
+            "value": "3.22"
           },
           {
             "label": "WHIP",
-            "value": "1.08"
+            "value": "1.03"
           },
           {
             "label": "K/9",
-            "value": "8.6"
+            "value": "8.3"
           },
           {
             "label": "BB/9",
-            "value": "1.5"
+            "value": "1.6"
           },
           {
             "label": "HR/9",
-            "value": "0.66"
+            "value": "0.60"
           },
           {
             "label": "IP",
-            "value": "40.7"
+            "value": "44.7"
           }
         ],
         "metaLine": "GR / R/R",
@@ -5931,29 +5931,29 @@
         "position": "OF/C",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 44,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Matthew Graveline gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .301",
-          "OBP .388",
-          "SLG .441"
+          "AVG .295",
+          "OBP .379",
+          "SLG .432"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".301"
+            "value": ".295"
           },
           {
             "label": "OBP",
-            "value": ".388"
+            "value": ".379"
           },
           {
             "label": "SLG",
-            "value": ".441"
+            "value": ".432"
           },
           {
             "label": "HR",
@@ -5961,7 +5961,7 @@
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -5969,10 +5969,10 @@
           }
         ],
         "components": {
-          "On-base": 60,
-          "Power": 31.8421052631579,
-          "Contact": 50.624999999999986,
-          "Discipline": 42.29390681003584,
+          "On-base": 54.99999999999999,
+          "Power": 29.47368421052632,
+          "Contact": 46.874999999999986,
+          "Discipline": 40.27777777777777,
           "Speed": 16.666666666666664
         },
         "metaLine": "SR / R/R",
@@ -6076,22 +6076,22 @@
         },
         "summary": "Gavin Kelly profiles as a UTL piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .394",
-          "OBP .481",
-          "SLG .639"
+          "AVG .390",
+          "OBP .479",
+          "SLG .629"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".394"
+            "value": ".390"
           },
           {
             "label": "OBP",
-            "value": ".481"
+            "value": ".479"
           },
           {
             "label": "SLG",
-            "value": ".639"
+            "value": ".629"
           },
           {
             "label": "HR",
@@ -6108,9 +6108,9 @@
         ],
         "components": {
           "On-base": 100,
-          "Power": 83.94736842105264,
+          "Power": 81.31578947368422,
           "Contact": 100,
-          "Discipline": 88.88888888888889,
+          "Discipline": 93.33333333333333,
           "Speed": 10
         },
         "metaLine": "SO / R/R",
@@ -6282,22 +6282,22 @@
         },
         "summary": "Armani Guzman profiles as a UTL piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .285",
-          "OBP .377",
-          "SLG .375"
+          "AVG .286",
+          "OBP .380",
+          "SLG .374"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".285"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".377"
+            "value": ".380"
           },
           {
             "label": "SLG",
-            "value": ".375"
+            "value": ".374"
           },
           {
             "label": "HR",
@@ -6309,15 +6309,15 @@
           },
           {
             "label": "SB",
-            "value": "24"
+            "value": "25"
           }
         ],
         "components": {
-          "On-base": 53.88888888888887,
-          "Power": 14.473684210526317,
-          "Contact": 40.624999999999986,
+          "On-base": 55.55555555555555,
+          "Power": 14.210526315789473,
+          "Contact": 41.24999999999998,
           "Discipline": 80.34188034188034,
-          "Speed": 80
+          "Speed": 83.33333333333334
         },
         "metaLine": "JR / L/R",
         "detailBadges": [
@@ -6344,29 +6344,29 @@
         "position": "OF",
         "classYear": "5TH",
         "handedness": "L/L",
-        "score": 85,
+        "score": 86,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Paul Schoenfeld profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .369",
-          "OBP .489",
-          "SLG .550"
+          "AVG .377",
+          "OBP .492",
+          "SLG .558"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".369"
+            "value": ".377"
           },
           {
             "label": "OBP",
-            "value": ".489"
+            "value": ".492"
           },
           {
             "label": "SLG",
-            "value": ".550"
+            "value": ".558"
           },
           {
             "label": "HR",
@@ -6374,7 +6374,7 @@
           },
           {
             "label": "RBI",
-            "value": "35"
+            "value": "36"
           },
           {
             "label": "SB",
@@ -6383,8 +6383,8 @@
         ],
         "components": {
           "On-base": 100,
-          "Power": 60.526315789473706,
-          "Contact": 93.12499999999999,
+          "Power": 62.63157894736844,
+          "Contact": 98.125,
           "Discipline": 100,
           "Speed": 63.33333333333333
         },
@@ -6482,29 +6482,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 44,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tyrus Hall profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .269",
-          "OBP .425",
-          "SLG .361"
+          "AVG .260",
+          "OBP .414",
+          "SLG .350"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".269"
+            "value": ".260"
           },
           {
             "label": "OBP",
-            "value": ".425"
+            "value": ".414"
           },
           {
             "label": "SLG",
-            "value": ".361"
+            "value": ".350"
           },
           {
             "label": "HR",
@@ -6520,10 +6520,10 @@
           }
         ],
         "components": {
-          "On-base": 80.55555555555554,
-          "Power": 10.789473684210522,
-          "Contact": 30.625000000000007,
-          "Discipline": 34.38155136268343,
+          "On-base": 74.44444444444443,
+          "Power": 7.8947368421052575,
+          "Contact": 25.000000000000007,
+          "Discipline": 32.32323232323232,
           "Speed": 50
         },
         "metaLine": "JR / R/R",
@@ -6689,25 +6689,25 @@
         "position": "OF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 48,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Sean Smith gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Sean Smith profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .307",
-          "OBP .398",
+          "AVG .310",
+          "OBP .400",
           "SLG .479"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".307"
+            "value": ".310"
           },
           {
             "label": "OBP",
-            "value": ".398"
+            "value": ".400"
           },
           {
             "label": "SLG",
@@ -6719,7 +6719,7 @@
           },
           {
             "label": "RBI",
-            "value": "33"
+            "value": "34"
           },
           {
             "label": "SB",
@@ -6727,10 +6727,10 @@
           }
         ],
         "components": {
-          "On-base": 65.55555555555556,
+          "On-base": 66.66666666666666,
           "Power": 41.84210526315789,
-          "Contact": 54.37499999999999,
-          "Discipline": 40.27777777777777,
+          "Contact": 56.25,
+          "Discipline": 43.74999999999999,
           "Speed": 10
         },
         "metaLine": "GR / R/R",
@@ -6758,29 +6758,29 @@
         "position": "INF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 35,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brodie Kresser gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .267",
-          "OBP .378",
-          "SLG .381"
+          "AVG .275",
+          "OBP .382",
+          "SLG .385"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".267"
+            "value": ".275"
           },
           {
             "label": "OBP",
-            "value": ".378"
+            "value": ".382"
           },
           {
             "label": "SLG",
-            "value": ".381"
+            "value": ".385"
           },
           {
             "label": "HR",
@@ -6788,19 +6788,19 @@
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "22"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "3"
           }
         ],
         "components": {
-          "On-base": 54.44444444444443,
-          "Power": 16.05263157894737,
-          "Contact": 29.375000000000007,
+          "On-base": 56.66666666666666,
+          "Power": 17.10526315789474,
+          "Contact": 34.375000000000014,
           "Discipline": 53.80116959064327,
-          "Speed": 6.666666666666667
+          "Speed": 10
         },
         "metaLine": "GR / R/R",
         "detailBadges": [
@@ -6965,48 +6965,48 @@
         "position": "LHP",
         "classYear": "R-JR",
         "handedness": "L/L",
-        "score": 22,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Maxx Yehl looks like a LHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.41",
-          "WHIP 1.15",
-          "K/9 10.7"
+          "ERA 2.20",
+          "WHIP 1.13",
+          "K/9 11.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.41"
+            "value": "2.20"
           },
           {
             "label": "WHIP",
-            "value": "1.15"
+            "value": "1.13"
           },
           {
             "label": "K/9",
-            "value": "10.7"
+            "value": "11.0"
           },
           {
             "label": "BB/9",
-            "value": "2.6"
+            "value": "2.7"
           },
           {
             "label": "HR/9",
-            "value": "0.34"
+            "value": "0.31"
           },
           {
             "label": "IP",
-            "value": "52.3"
+            "value": "57.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 60.567458019687315,
-          "Command": 62.66666666666666,
+          "Miss bats": 63.5306553911205,
+          "Command": 62.35294117647058,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / L/L",
@@ -7034,29 +7034,29 @@
         "position": "OF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 31,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brock Wills gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .367",
-          "SLG .401"
+          "AVG .284",
+          "OBP .370",
+          "SLG .404"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".284"
           },
           {
             "label": "OBP",
-            "value": ".367"
+            "value": ".370"
           },
           {
             "label": "SLG",
-            "value": ".401"
+            "value": ".404"
           },
           {
             "label": "HR",
@@ -7064,7 +7064,7 @@
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "21"
           },
           {
             "label": "SB",
@@ -7072,10 +7072,10 @@
           }
         ],
         "components": {
-          "On-base": 48.333333333333314,
-          "Power": 21.31578947368422,
-          "Contact": 35.625000000000014,
-          "Discipline": 18.18181818181818,
+          "On-base": 49.999999999999986,
+          "Power": 22.105263157894743,
+          "Contact": 39.99999999999998,
+          "Discipline": 16.993464052287578,
           "Speed": 10
         },
         "metaLine": "SR / L/R",
@@ -7110,22 +7110,22 @@
         },
         "summary": "Matt Ineich profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .316",
-          "OBP .444",
-          "SLG .456"
+          "AVG .315",
+          "OBP .443",
+          "SLG .451"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".316"
+            "value": ".315"
           },
           {
             "label": "OBP",
-            "value": ".444"
+            "value": ".443"
           },
           {
             "label": "SLG",
-            "value": ".456"
+            "value": ".451"
           },
           {
             "label": "HR",
@@ -7141,9 +7141,9 @@
           }
         ],
         "components": {
-          "On-base": 91.1111111111111,
-          "Power": 35.789473684210535,
-          "Contact": 60,
+          "On-base": 90.55555555555554,
+          "Power": 34.47368421052632,
+          "Contact": 59.375,
           "Discipline": 100,
           "Speed": 10
         },
@@ -7172,48 +7172,48 @@
         "position": "RHP",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 23,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ian Korn looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.54",
-          "WHIP 1.08",
-          "K/9 8.6"
+          "ERA 3.22",
+          "WHIP 1.03",
+          "K/9 8.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.54"
+            "value": "3.22"
           },
           {
             "label": "WHIP",
-            "value": "1.08"
+            "value": "1.03"
           },
           {
             "label": "K/9",
-            "value": "8.6"
+            "value": "8.3"
           },
           {
             "label": "BB/9",
-            "value": "1.5"
+            "value": "1.6"
           },
           {
             "label": "HR/9",
-            "value": "0.66"
+            "value": "0.60"
           },
           {
             "label": "IP",
-            "value": "40.7"
+            "value": "44.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 42.10134128166915,
-          "Command": 91.42857142857143,
+          "Miss bats": 38.73812754409771,
+          "Command": 82.50000000000001,
           "Damage suppression": 0
         },
         "metaLine": "GR / R/R",

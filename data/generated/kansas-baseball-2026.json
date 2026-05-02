@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T11:34:39.764Z",
+  "generatedAt": "2026-05-02T11:07:02.830Z",
   "season": 2026,
   "school": {
     "slug": "kansas",
@@ -38,84 +38,84 @@
     }
   },
   "teamSummary": {
-    "record": "34-11, 17-4",
-    "battingAverage": ".296",
-    "earnedRunAverage": "5.60",
-    "wins": "34",
+    "record": "35-11, 18-4",
+    "battingAverage": ".295",
+    "earnedRunAverage": "5.52",
+    "wins": "35",
     "losses": "11",
     "hitting": {
-      "atBats": "1566",
-      "runsScored": "367",
-      "hits": "464",
-      "runsBattedIn": "347",
-      "doubles": "85",
+      "atBats": "1596",
+      "runsScored": "371",
+      "hits": "471",
+      "runsBattedIn": "351",
+      "doubles": "87",
       "triples": "11",
-      "homeRuns": "77",
-      "walks": "253",
+      "homeRuns": "78",
+      "walks": "261",
       "intentionalWalks": "4",
-      "strikeouts": "379",
-      "strikeoutsLooking": "66",
+      "strikeouts": "393",
+      "strikeoutsLooking": "71",
       "hitByPitch": "51",
-      "stolenBases": "36",
+      "stolenBases": "37",
       "caughtStealing": "2",
       "sacrificeHits": "9",
-      "sacrificeFlies": "30",
+      "sacrificeFlies": "31",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "297",
-      "flyOuts": "405",
+      "groundOuts": "300",
+      "flyOuts": "408",
       "groundedIntoDoublePlay": "26",
       "pickedOff": "3",
       "doublePlaysHitInto": "28",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1166",
-      "assists": "382",
+      "putouts": "1193",
+      "assists": "391",
       "errors": "47",
       "passedBalls": "4",
       "catchersInterference": "0",
       "stolenBasesAgainst": "48",
       "caughtStealingBy": "10",
-      "involvedInDoublePlays": "24",
+      "involvedInDoublePlays": "25",
       "involvedInTriplePlays": "0",
-      "totalChances": "1595",
+      "totalChances": "1631",
       "fieldingPercentage": ".971"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "34",
-      "saves": "40",
+      "wins": "35",
+      "saves": "41",
       "losses": "11",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "1",
       "creditForCombinedShutout": "1",
-      "inningsPitched": "388.2",
-      "hitsAllowed": "395",
-      "runsAllowed": "267",
-      "earnedRunsAllowed": "242",
-      "walksAllowed": "178",
-      "strikeouts": "427",
-      "battersFaced": "1773",
-      "opponentAtBats": "1507",
-      "doublesAllowed": "77",
+      "inningsPitched": "397.2",
+      "hitsAllowed": "401",
+      "runsAllowed": "269",
+      "earnedRunsAllowed": "244",
+      "walksAllowed": "179",
+      "strikeouts": "442",
+      "battersFaced": "1806",
+      "opponentAtBats": "1539",
+      "doublesAllowed": "79",
       "triplesAllowed": "10",
-      "homerunsAllowed": "50",
-      "wildPitches": "23",
+      "homerunsAllowed": "52",
+      "wildPitches": "24",
       "balks": "2",
       "hitBatters": "53",
-      "strikeoutsLooking": "68",
+      "strikeoutsLooking": "73",
       "intentionalWalks": "2",
       "inheritedRunners": "91",
       "inheritedRunnersThatScored": "40",
       "sacrificeHitsAllowed": "17",
       "sacrificeFliesAllowed": "16",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6879",
-      "flyouts": "326",
-      "groundouts": "360",
+      "pitches": "6994",
+      "flyouts": "331",
+      "groundouts": "366",
       "teamUnearnedRuns": "0",
       "saveRecord": "10",
       "pickoff": "1"
@@ -160,33 +160,33 @@
         "jersey": "2",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/tyson-leblanc/17035",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/LeBlanc_Tyson.JPG.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "battingAverage": 0.33,
-        "onBasePercentage": 0.416,
-        "sluggingPercentage": 0.665,
-        "ops": 1.081,
-        "atBats": 179,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "battingAverage": 0.326,
+        "onBasePercentage": 0.411,
+        "sluggingPercentage": 0.658,
+        "ops": 1.069,
+        "atBats": 184,
         "runs": 48,
-        "hits": 59,
-        "doubles": 6,
+        "hits": 60,
+        "doubles": 7,
         "triples": 3,
         "homeRuns": 16,
         "runsBattedIn": 48,
-        "totalBases": 119,
+        "totalBases": 121,
         "walks": 27,
         "hitByPitch": 3,
-        "strikeouts": 40,
+        "strikeouts": 42,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 7,
         "sacrificeFlies": 5,
         "sacrificeHits": 4,
         "stolenBases": 9,
         "stolenBasesAttempts": 10,
-        "putouts": 46,
+        "putouts": 48,
         "assists": 0,
         "errors": 9,
-        "plateAppearances": 229,
+        "plateAppearances": 234,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -198,51 +198,51 @@
         "jersey": "2",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/tyson-leblanc/17035",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/LeBlanc_Tyson.JPG.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "putouts": 46,
-        "assists": 102,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "putouts": 48,
+        "assists": 105,
         "errors": 9,
-        "fieldingPercentage": 0.943,
-        "doublePlays": 14,
+        "fieldingPercentage": 0.944,
+        "doublePlays": 15,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 157
+        "totalChances": 162
       },
       "evaluation": {
-        "score": 71,
+        "score": 68,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 75.55555555555553,
-          "Power": 90.78947368421055,
-          "Contact": 68.75000000000001,
-          "Discipline": 52.77777777777778,
+          "On-base": 72.77777777777776,
+          "Power": 88.94736842105266,
+          "Contact": 66.25000000000001,
+          "Discipline": 49.2063492063492,
           "Speed": 30
         },
         "summary": "Tyson LeBlanc profiles as a INF/OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .330",
-          "OBP .416",
-          "SLG .665"
+          "AVG .326",
+          "OBP .411",
+          "SLG .658"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".330"
+            "value": ".326"
           },
           {
             "label": "OBP",
-            "value": ".416"
+            "value": ".411"
           },
           {
             "label": "SLG",
-            "value": ".665"
+            "value": ".658"
           },
           {
             "label": "HR",
@@ -575,13 +575,13 @@
         "jersey": "5",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/tyson-owens/17037",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Owens_Tyson.JPG.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 37,
-        "battingAverage": 0.294,
-        "onBasePercentage": 0.432,
-        "sluggingPercentage": 0.551,
-        "ops": 0.983,
-        "atBats": 136,
+        "gamesPlayed": 40,
+        "gamesStarted": 38,
+        "battingAverage": 0.288,
+        "onBasePercentage": 0.428,
+        "sluggingPercentage": 0.54,
+        "ops": 0.968,
+        "atBats": 139,
         "runs": 36,
         "hits": 40,
         "doubles": 7,
@@ -589,19 +589,19 @@
         "homeRuns": 8,
         "runsBattedIn": 32,
         "totalBases": 75,
-        "walks": 28,
+        "walks": 29,
         "hitByPitch": 5,
-        "strikeouts": 34,
+        "strikeouts": 35,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 2,
-        "stolenBases": 5,
-        "stolenBasesAttempts": 5,
+        "stolenBases": 6,
+        "stolenBasesAttempts": 6,
         "putouts": 54,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 176,
+        "plateAppearances": 181,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -628,36 +628,36 @@
         "totalChances": 57
       },
       "evaluation": {
-        "score": 63,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 84.44444444444443,
-          "Power": 60.78947368421055,
-          "Contact": 46.249999999999986,
-          "Discipline": 69.28104575163397,
-          "Speed": 16.666666666666664
+          "On-base": 82.22222222222221,
+          "Power": 57.894736842105274,
+          "Contact": 42.499999999999986,
+          "Discipline": 69.84126984126982,
+          "Speed": 20
         },
-        "summary": "Tyson Owens profiles as a OF/C piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Tyson Owens profiles as a OF/C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .294",
-          "OBP .432",
-          "SLG .551"
+          "AVG .288",
+          "OBP .428",
+          "SLG .540"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".294"
+            "value": ".288"
           },
           {
             "label": "OBP",
-            "value": ".432"
+            "value": ".428"
           },
           {
             "label": "SLG",
-            "value": ".551"
+            "value": ".540"
           },
           {
             "label": "HR",
@@ -669,7 +669,7 @@
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "6"
           }
         ],
         "metaLine": "SO / L/R",
@@ -720,13 +720,13 @@
         "jersey": "7",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/dylan-schlotterback/17039",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Schlotterback_Dylan.JPG.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 43,
-        "battingAverage": 0.309,
-        "onBasePercentage": 0.415,
-        "sluggingPercentage": 0.441,
-        "ops": 0.856,
-        "atBats": 152,
+        "gamesPlayed": 46,
+        "gamesStarted": 44,
+        "battingAverage": 0.303,
+        "onBasePercentage": 0.412,
+        "sluggingPercentage": 0.432,
+        "ops": 0.844,
+        "atBats": 155,
         "runs": 34,
         "hits": 47,
         "doubles": 11,
@@ -734,9 +734,9 @@
         "homeRuns": 3,
         "runsBattedIn": 28,
         "totalBases": 67,
-        "walks": 24,
+        "walks": 25,
         "hitByPitch": 5,
-        "strikeouts": 35,
+        "strikeouts": 37,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
@@ -746,7 +746,7 @@
         "putouts": 22,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 186,
+        "plateAppearances": 190,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -773,36 +773,36 @@
         "totalChances": 99
       },
       "evaluation": {
-        "score": 51,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 74.99999999999997,
-          "Power": 31.8421052631579,
-          "Contact": 55.62499999999999,
-          "Discipline": 53.96825396825397,
+          "On-base": 73.3333333333333,
+          "Power": 29.47368421052632,
+          "Contact": 51.87499999999999,
+          "Discipline": 52.85285285285284,
           "Speed": 6.666666666666667
         },
         "summary": "Dylan Schlotterback profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .309",
-          "OBP .415",
-          "SLG .441"
+          "AVG .303",
+          "OBP .412",
+          "SLG .432"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".309"
+            "value": ".303"
           },
           {
             "label": "OBP",
-            "value": ".415"
+            "value": ".412"
           },
           {
             "label": "SLG",
-            "value": ".441"
+            "value": ".432"
           },
           {
             "label": "HR",
@@ -953,23 +953,23 @@
         "jersey": "9",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/cade-baldridge/17041",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Baldridge_Cade.JPG.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "battingAverage": 0.326,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "battingAverage": 0.328,
         "onBasePercentage": 0.42,
-        "sluggingPercentage": 0.492,
-        "ops": 0.912,
-        "atBats": 187,
-        "runs": 43,
-        "hits": 61,
+        "sluggingPercentage": 0.49,
+        "ops": 0.91,
+        "atBats": 192,
+        "runs": 44,
+        "hits": 63,
         "doubles": 10,
         "triples": 0,
         "homeRuns": 7,
-        "runsBattedIn": 34,
-        "totalBases": 92,
+        "runsBattedIn": 36,
+        "totalBases": 94,
         "walks": 19,
         "hitByPitch": 12,
-        "strikeouts": 40,
+        "strikeouts": 41,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
@@ -979,7 +979,7 @@
         "putouts": 76,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 225,
+        "plateAppearances": 230,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -991,43 +991,43 @@
         "jersey": "9",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/cade-baldridge/17041",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Baldridge_Cade.JPG.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
+        "gamesPlayed": 43,
+        "gamesStarted": 43,
         "putouts": 76,
-        "assists": 67,
+        "assists": 70,
         "errors": 2,
         "fieldingPercentage": 0.986,
-        "doublePlays": 8,
+        "doublePlays": 9,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 145
+        "totalChances": 148
       },
       "evaluation": {
-        "score": 55,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
           "On-base": 77.77777777777776,
-          "Power": 45.26315789473684,
-          "Contact": 66.25000000000001,
-          "Discipline": 30.555555555555546,
+          "Power": 44.73684210526316,
+          "Contact": 67.5,
+          "Discipline": 29.268292682926827,
           "Speed": 16.666666666666664
         },
         "summary": "Cade Baldridge profiles as a INF/OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .326",
+          "AVG .328",
           "OBP .420",
-          "SLG .492"
+          "SLG .490"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".326"
+            "value": ".328"
           },
           {
             "label": "OBP",
@@ -1035,7 +1035,7 @@
           },
           {
             "label": "SLG",
-            "value": ".492"
+            "value": ".490"
           },
           {
             "label": "HR",
@@ -1043,7 +1043,7 @@
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "36"
           },
           {
             "label": "SB",
@@ -1366,31 +1366,31 @@
         "jersey": "12",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/dominic-voegele/17032",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Voegele_Dom.JPG.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 11,
-        "appearances": 11,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 7.21,
-        "whip": 1.55,
-        "wins": 4,
+        "gamesPlayed": 12,
+        "gamesStarted": 12,
+        "appearances": 12,
+        "gamesCompleted": 1,
+        "earnedRunAverage": 6.52,
+        "whip": 1.45,
+        "wins": 5,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 58.666666666666664,
-        "inningsPitchedDisplay": "58.2",
-        "hitsAllowed": 65,
-        "runsAllowed": 48,
-        "earnedRunsAllowed": 47,
-        "walksAllowed": 26,
-        "strikeouts": 69,
-        "doublesAllowed": 12,
+        "inningsPitched": 67.66666666666667,
+        "inningsPitchedDisplay": "67.2",
+        "hitsAllowed": 71,
+        "runsAllowed": 50,
+        "earnedRunsAllowed": 49,
+        "walksAllowed": 27,
+        "strikeouts": 84,
+        "doublesAllowed": 14,
         "triplesAllowed": 3,
-        "homeRunsAllowed": 9,
-        "opponentsAtBats": 238,
-        "wildPitches": 2,
+        "homeRunsAllowed": 11,
+        "opponentsAtBats": 270,
+        "wildPitches": 3,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.273,
+        "opponentsBattingAverage": 0.263,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1415,7 +1415,7 @@
         "totalChances": 6
       },
       "evaluation": {
-        "score": 17,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1423,40 +1423,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 59.86570247933884,
-          "Command": 33.07692307692307,
+          "Miss bats": 65.20376175548589,
+          "Command": 42.222222222222214,
           "Damage suppression": 0
         },
         "summary": "Dominic Voegele looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 7.21",
-          "WHIP 1.55",
-          "K/9 10.6"
+          "ERA 6.52",
+          "WHIP 1.45",
+          "K/9 11.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.21"
+            "value": "6.52"
           },
           {
             "label": "WHIP",
-            "value": "1.55"
+            "value": "1.45"
           },
           {
             "label": "K/9",
-            "value": "10.6"
+            "value": "11.2"
           },
           {
             "label": "BB/9",
-            "value": "4.0"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "1.38"
+            "value": "1.46"
           },
           {
             "label": "IP",
-            "value": "58.7"
+            "value": "67.7"
           }
         ],
         "metaLine": "JR / R/R",
@@ -1649,33 +1649,33 @@
         "jersey": "16",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/josh-dykhoff/17046",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Dykhoff_Joshua.JPG.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 40,
-        "battingAverage": 0.287,
-        "onBasePercentage": 0.365,
-        "sluggingPercentage": 0.548,
-        "ops": 0.913,
-        "atBats": 157,
-        "runs": 32,
-        "hits": 45,
+        "gamesPlayed": 45,
+        "gamesStarted": 41,
+        "battingAverage": 0.288,
+        "onBasePercentage": 0.368,
+        "sluggingPercentage": 0.544,
+        "ops": 0.912,
+        "atBats": 160,
+        "runs": 33,
+        "hits": 46,
         "doubles": 8,
         "triples": 3,
         "homeRuns": 9,
         "runsBattedIn": 40,
-        "totalBases": 86,
-        "walks": 20,
+        "totalBases": 87,
+        "walks": 21,
         "hitByPitch": 1,
-        "strikeouts": 46,
+        "strikeouts": 48,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 332,
+        "putouts": 341,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 184,
+        "plateAppearances": 188,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1720,19 +1720,19 @@
         "jersey": "16",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/josh-dykhoff/17046",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Dykhoff_Joshua.JPG.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 40,
-        "putouts": 332,
+        "gamesPlayed": 44,
+        "gamesStarted": 41,
+        "putouts": 341,
         "assists": 28,
         "errors": 4,
         "fieldingPercentage": 0.989,
-        "doublePlays": 19,
+        "doublePlays": 20,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 364
+        "totalChances": 373
       },
       "evaluation": {
         "score": 0,
@@ -2111,13 +2111,13 @@
         "jersey": "21",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/augusto-mungarrieta/17048",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Mungarrieta_Augusto.JPG.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 38,
-        "battingAverage": 0.303,
-        "onBasePercentage": 0.391,
-        "sluggingPercentage": 0.594,
-        "ops": 0.985,
-        "atBats": 155,
+        "gamesPlayed": 44,
+        "gamesStarted": 39,
+        "battingAverage": 0.297,
+        "onBasePercentage": 0.388,
+        "sluggingPercentage": 0.582,
+        "ops": 0.97,
+        "atBats": 158,
         "runs": 29,
         "hits": 47,
         "doubles": 9,
@@ -2125,19 +2125,19 @@
         "homeRuns": 12,
         "runsBattedIn": 38,
         "totalBases": 92,
-        "walks": 15,
+        "walks": 16,
         "hitByPitch": 10,
-        "strikeouts": 45,
+        "strikeouts": 47,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 4,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 370,
+        "putouts": 382,
         "assists": 0,
         "errors": 7,
-        "plateAppearances": 185,
+        "plateAppearances": 189,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -2149,10 +2149,10 @@
         "jersey": "21",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/augusto-mungarrieta/17048",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Mungarrieta_Augusto.JPG.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 38,
-        "putouts": 370,
-        "assists": 27,
+        "gamesPlayed": 44,
+        "gamesStarted": 39,
+        "putouts": 382,
+        "assists": 30,
         "errors": 7,
         "fieldingPercentage": 0.983,
         "doublePlays": 2,
@@ -2161,39 +2161,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 404
+        "totalChances": 419
       },
       "evaluation": {
-        "score": 50,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 61.66666666666666,
-          "Power": 72.10526315789474,
-          "Contact": 51.87499999999999,
-          "Discipline": 14.814814814814808,
+          "On-base": 60,
+          "Power": 68.94736842105263,
+          "Contact": 48.12499999999999,
+          "Discipline": 15.602836879432619,
           "Speed": 3.3333333333333335
         },
         "summary": "Augusto Mungarrieta profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .303",
-          "OBP .391",
-          "SLG .594"
+          "AVG .297",
+          "OBP .388",
+          "SLG .582"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".303"
+            "value": ".297"
           },
           {
             "label": "OBP",
-            "value": ".391"
+            "value": ".388"
           },
           {
             "label": "SLG",
-            "value": ".594"
+            "value": ".582"
           },
           {
             "label": "HR",
@@ -2256,23 +2256,23 @@
         "jersey": "23",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/dariel-osoria/17029",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Osaria_Dariel.JPG.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "battingAverage": 0.245,
-        "onBasePercentage": 0.364,
-        "sluggingPercentage": 0.446,
-        "ops": 0.81,
-        "atBats": 139,
-        "runs": 36,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "battingAverage": 0.243,
+        "onBasePercentage": 0.373,
+        "sluggingPercentage": 0.443,
+        "ops": 0.816,
+        "atBats": 140,
+        "runs": 37,
         "hits": 34,
         "doubles": 7,
         "triples": 0,
         "homeRuns": 7,
         "runsBattedIn": 34,
         "totalBases": 62,
-        "walks": 24,
+        "walks": 27,
         "hitByPitch": 5,
-        "strikeouts": 23,
+        "strikeouts": 24,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 5,
@@ -2282,7 +2282,7 @@
         "putouts": 17,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 177,
+        "plateAppearances": 181,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2309,36 +2309,36 @@
         "totalChances": 59
       },
       "evaluation": {
-        "score": 41,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 46.66666666666665,
-          "Power": 33.15789473684211,
-          "Contact": 15.624999999999996,
-          "Discipline": 93.719806763285,
+          "On-base": 51.66666666666665,
+          "Power": 32.36842105263158,
+          "Contact": 14.374999999999996,
+          "Discipline": 100,
           "Speed": 13.333333333333334
         },
         "summary": "Dariel Osoria profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .245",
-          "OBP .364",
-          "SLG .446"
+          "AVG .243",
+          "OBP .373",
+          "SLG .443"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".245"
+            "value": ".243"
           },
           {
             "label": "OBP",
-            "value": ".364"
+            "value": ".373"
           },
           {
             "label": "SLG",
-            "value": ".446"
+            "value": ".443"
           },
           {
             "label": "HR",
@@ -2543,33 +2543,33 @@
         "jersey": "26",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/brady-ballinger/17025",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Ballinger_Brady.JPG.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
         "battingAverage": 0.301,
-        "onBasePercentage": 0.419,
-        "sluggingPercentage": 0.491,
+        "onBasePercentage": 0.416,
+        "sluggingPercentage": 0.494,
         "ops": 0.91,
-        "atBats": 173,
+        "atBats": 176,
         "runs": 44,
-        "hits": 52,
-        "doubles": 11,
+        "hits": 53,
+        "doubles": 12,
         "triples": 2,
         "homeRuns": 6,
-        "runsBattedIn": 38,
-        "totalBases": 85,
+        "runsBattedIn": 39,
+        "totalBases": 87,
         "walks": 34,
         "hitByPitch": 5,
-        "strikeouts": 36,
+        "strikeouts": 37,
         "intentionalWalks": 3,
         "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 5,
+        "sacrificeFlies": 6,
         "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 105,
+        "putouts": 106,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 221,
+        "plateAppearances": 225,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -2581,9 +2581,9 @@
         "jersey": "26",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/brady-ballinger/17025",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Ballinger_Brady.JPG.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "putouts": 105,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "putouts": 106,
         "assists": 3,
         "errors": 1,
         "fieldingPercentage": 0.991,
@@ -2593,7 +2593,7 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 109
+        "totalChances": 110
       },
       "evaluation": {
         "score": 57,
@@ -2602,17 +2602,17 @@
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 77.2222222222222,
-          "Power": 45,
+          "On-base": 75.55555555555553,
+          "Power": 45.78947368421053,
           "Contact": 50.624999999999986,
-          "Discipline": 82.71604938271604,
+          "Discipline": 79.87987987987987,
           "Speed": 3.3333333333333335
         },
         "summary": "Brady Ballinger profiles as a INF/OF piece who gets on base at a high clip.",
         "summaryMetrics": [
           "AVG .301",
-          "OBP .419",
-          "SLG .491"
+          "OBP .416",
+          "SLG .494"
         ],
         "statCards": [
           {
@@ -2621,11 +2621,11 @@
           },
           {
             "label": "OBP",
-            "value": ".419"
+            "value": ".416"
           },
           {
             "label": "SLG",
-            "value": ".491"
+            "value": ".494"
           },
           {
             "label": "HR",
@@ -2633,7 +2633,7 @@
           },
           {
             "label": "RBI",
-            "value": "38"
+            "value": "39"
           },
           {
             "label": "SB",
@@ -3006,33 +3006,33 @@
         "jersey": "31",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/jordan-bach/17052",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Bach_Jordan.JPG.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "battingAverage": 0.313,
-        "onBasePercentage": 0.448,
-        "sluggingPercentage": 0.473,
-        "ops": 0.921,
-        "atBats": 182,
-        "runs": 46,
-        "hits": 57,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "battingAverage": 0.317,
+        "onBasePercentage": 0.451,
+        "sluggingPercentage": 0.489,
+        "ops": 0.94,
+        "atBats": 186,
+        "runs": 47,
+        "hits": 59,
         "doubles": 12,
         "triples": 1,
-        "homeRuns": 5,
-        "runsBattedIn": 34,
-        "totalBases": 86,
-        "walks": 43,
+        "homeRuns": 6,
+        "runsBattedIn": 35,
+        "totalBases": 91,
+        "walks": 44,
         "hitByPitch": 4,
-        "strikeouts": 45,
+        "strikeouts": 47,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
-        "putouts": 65,
+        "putouts": 68,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 238,
+        "plateAppearances": 243,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3044,59 +3044,59 @@
         "jersey": "31",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/jordan-bach/17052",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Bach_Jordan.JPG.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 30,
-        "putouts": 65,
+        "gamesPlayed": 31,
+        "gamesStarted": 31,
+        "putouts": 68,
         "assists": 0,
         "errors": 4,
-        "fieldingPercentage": 0.942,
+        "fieldingPercentage": 0.944,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 69
+        "totalChances": 72
       },
       "evaluation": {
-        "score": 65,
+        "score": 66,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 93.33333333333333,
-          "Power": 40.26315789473684,
-          "Contact": 58.12499999999999,
-          "Discipline": 83.9506172839506,
+          "On-base": 95,
+          "Power": 44.473684210526315,
+          "Contact": 60.62499999999999,
+          "Discipline": 81.7966903073286,
           "Speed": 20
         },
         "summary": "Jordan Bach profiles as a OF/C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .313",
-          "OBP .448",
-          "SLG .473"
+          "AVG .317",
+          "OBP .451",
+          "SLG .489"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".313"
+            "value": ".317"
           },
           {
             "label": "OBP",
-            "value": ".448"
+            "value": ".451"
           },
           {
             "label": "SLG",
-            "value": ".473"
+            "value": ".489"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "35"
           },
           {
             "label": "SB",
@@ -4883,29 +4883,29 @@
         "position": "INF/OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 71,
+        "score": 68,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Tyson LeBlanc profiles as a INF/OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .330",
-          "OBP .416",
-          "SLG .665"
+          "AVG .326",
+          "OBP .411",
+          "SLG .658"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".330"
+            "value": ".326"
           },
           {
             "label": "OBP",
-            "value": ".416"
+            "value": ".411"
           },
           {
             "label": "SLG",
-            "value": ".665"
+            "value": ".658"
           },
           {
             "label": "HR",
@@ -4921,10 +4921,10 @@
           }
         ],
         "components": {
-          "On-base": 75.55555555555553,
-          "Power": 90.78947368421055,
-          "Contact": 68.75000000000001,
-          "Discipline": 52.77777777777778,
+          "On-base": 72.77777777777776,
+          "Power": 88.94736842105266,
+          "Contact": 66.25000000000001,
+          "Discipline": 49.2063492063492,
           "Speed": 30
         },
         "metaLine": "JR / R/R",
@@ -5090,29 +5090,29 @@
         "position": "OF/C",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 63,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
-        "summary": "Tyson Owens profiles as a OF/C piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Tyson Owens profiles as a OF/C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .294",
-          "OBP .432",
-          "SLG .551"
+          "AVG .288",
+          "OBP .428",
+          "SLG .540"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".294"
+            "value": ".288"
           },
           {
             "label": "OBP",
-            "value": ".432"
+            "value": ".428"
           },
           {
             "label": "SLG",
-            "value": ".551"
+            "value": ".540"
           },
           {
             "label": "HR",
@@ -5124,15 +5124,15 @@
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "6"
           }
         ],
         "components": {
-          "On-base": 84.44444444444443,
-          "Power": 60.78947368421055,
-          "Contact": 46.249999999999986,
-          "Discipline": 69.28104575163397,
-          "Speed": 16.666666666666664
+          "On-base": 82.22222222222221,
+          "Power": 57.894736842105274,
+          "Contact": 42.499999999999986,
+          "Discipline": 69.84126984126982,
+          "Speed": 20
         },
         "metaLine": "SO / L/R",
         "detailBadges": [
@@ -5159,29 +5159,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 51,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dylan Schlotterback profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .309",
-          "OBP .415",
-          "SLG .441"
+          "AVG .303",
+          "OBP .412",
+          "SLG .432"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".309"
+            "value": ".303"
           },
           {
             "label": "OBP",
-            "value": ".415"
+            "value": ".412"
           },
           {
             "label": "SLG",
-            "value": ".441"
+            "value": ".432"
           },
           {
             "label": "HR",
@@ -5197,10 +5197,10 @@
           }
         ],
         "components": {
-          "On-base": 74.99999999999997,
-          "Power": 31.8421052631579,
-          "Contact": 55.62499999999999,
-          "Discipline": 53.96825396825397,
+          "On-base": 73.3333333333333,
+          "Power": 29.47368421052632,
+          "Contact": 51.87499999999999,
+          "Discipline": 52.85285285285284,
           "Speed": 6.666666666666667
         },
         "metaLine": "JR / R/R",
@@ -5296,21 +5296,21 @@
         "position": "INF/OF",
         "classYear": "JR",
         "handedness": "S/R",
-        "score": 55,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cade Baldridge profiles as a INF/OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .326",
+          "AVG .328",
           "OBP .420",
-          "SLG .492"
+          "SLG .490"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".326"
+            "value": ".328"
           },
           {
             "label": "OBP",
@@ -5318,7 +5318,7 @@
           },
           {
             "label": "SLG",
-            "value": ".492"
+            "value": ".490"
           },
           {
             "label": "HR",
@@ -5326,7 +5326,7 @@
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "36"
           },
           {
             "label": "SB",
@@ -5335,9 +5335,9 @@
         ],
         "components": {
           "On-base": 77.77777777777776,
-          "Power": 45.26315789473684,
-          "Contact": 66.25000000000001,
-          "Discipline": 30.555555555555546,
+          "Power": 44.73684210526316,
+          "Contact": 67.5,
+          "Discipline": 29.268292682926827,
           "Speed": 16.666666666666664
         },
         "metaLine": "JR / S/R",
@@ -5503,48 +5503,48 @@
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 17,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dominic Voegele looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 7.21",
-          "WHIP 1.55",
-          "K/9 10.6"
+          "ERA 6.52",
+          "WHIP 1.45",
+          "K/9 11.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.21"
+            "value": "6.52"
           },
           {
             "label": "WHIP",
-            "value": "1.55"
+            "value": "1.45"
           },
           {
             "label": "K/9",
-            "value": "10.6"
+            "value": "11.2"
           },
           {
             "label": "BB/9",
-            "value": "4.0"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "1.38"
+            "value": "1.46"
           },
           {
             "label": "IP",
-            "value": "58.7"
+            "value": "67.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 59.86570247933884,
-          "Command": 33.07692307692307,
+          "Miss bats": 65.20376175548589,
+          "Command": 42.222222222222214,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -5848,29 +5848,29 @@
         "position": "C",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 50,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Augusto Mungarrieta profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .303",
-          "OBP .391",
-          "SLG .594"
+          "AVG .297",
+          "OBP .388",
+          "SLG .582"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".303"
+            "value": ".297"
           },
           {
             "label": "OBP",
-            "value": ".391"
+            "value": ".388"
           },
           {
             "label": "SLG",
-            "value": ".594"
+            "value": ".582"
           },
           {
             "label": "HR",
@@ -5886,10 +5886,10 @@
           }
         ],
         "components": {
-          "On-base": 61.66666666666666,
-          "Power": 72.10526315789474,
-          "Contact": 51.87499999999999,
-          "Discipline": 14.814814814814808,
+          "On-base": 60,
+          "Power": 68.94736842105263,
+          "Contact": 48.12499999999999,
+          "Discipline": 15.602836879432619,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / R/R",
@@ -5917,29 +5917,29 @@
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 41,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dariel Osoria profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .245",
-          "OBP .364",
-          "SLG .446"
+          "AVG .243",
+          "OBP .373",
+          "SLG .443"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".245"
+            "value": ".243"
           },
           {
             "label": "OBP",
-            "value": ".364"
+            "value": ".373"
           },
           {
             "label": "SLG",
-            "value": ".446"
+            "value": ".443"
           },
           {
             "label": "HR",
@@ -5955,10 +5955,10 @@
           }
         ],
         "components": {
-          "On-base": 46.66666666666665,
-          "Power": 33.15789473684211,
-          "Contact": 15.624999999999996,
-          "Discipline": 93.719806763285,
+          "On-base": 51.66666666666665,
+          "Power": 32.36842105263158,
+          "Contact": 14.374999999999996,
+          "Discipline": 100,
           "Speed": 13.333333333333334
         },
         "metaLine": "SR / R/R",
@@ -6063,8 +6063,8 @@
         "summary": "Brady Ballinger profiles as a INF/OF piece who gets on base at a high clip.",
         "summaryMetrics": [
           "AVG .301",
-          "OBP .419",
-          "SLG .491"
+          "OBP .416",
+          "SLG .494"
         ],
         "statCards": [
           {
@@ -6073,11 +6073,11 @@
           },
           {
             "label": "OBP",
-            "value": ".419"
+            "value": ".416"
           },
           {
             "label": "SLG",
-            "value": ".491"
+            "value": ".494"
           },
           {
             "label": "HR",
@@ -6085,7 +6085,7 @@
           },
           {
             "label": "RBI",
-            "value": "38"
+            "value": "39"
           },
           {
             "label": "SB",
@@ -6093,10 +6093,10 @@
           }
         ],
         "components": {
-          "On-base": 77.2222222222222,
-          "Power": 45,
+          "On-base": 75.55555555555553,
+          "Power": 45.78947368421053,
           "Contact": 50.624999999999986,
-          "Discipline": 82.71604938271604,
+          "Discipline": 79.87987987987987,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / L/L",
@@ -6329,37 +6329,37 @@
         "position": "OF/C",
         "classYear": "GR",
         "handedness": "L/R",
-        "score": 65,
+        "score": 66,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Jordan Bach profiles as a OF/C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .313",
-          "OBP .448",
-          "SLG .473"
+          "AVG .317",
+          "OBP .451",
+          "SLG .489"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".313"
+            "value": ".317"
           },
           {
             "label": "OBP",
-            "value": ".448"
+            "value": ".451"
           },
           {
             "label": "SLG",
-            "value": ".473"
+            "value": ".489"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "35"
           },
           {
             "label": "SB",
@@ -6367,10 +6367,10 @@
           }
         ],
         "components": {
-          "On-base": 93.33333333333333,
-          "Power": 40.26315789473684,
-          "Contact": 58.12499999999999,
-          "Discipline": 83.9506172839506,
+          "On-base": 95,
+          "Power": 44.473684210526315,
+          "Contact": 60.62499999999999,
+          "Discipline": 81.7966903073286,
           "Speed": 20
         },
         "metaLine": "GR / L/R",

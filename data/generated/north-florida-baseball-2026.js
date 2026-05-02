@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.north-florida2026 = {
-  "generatedAt": "2026-05-01T11:36:14.570Z",
+  "generatedAt": "2026-05-02T11:07:14.539Z",
   "season": 2026,
   "school": {
     "slug": "north-florida",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
     }
   },
   "teamSummary": {
-    "record": "24-19, 15-6",
-    "battingAverage": ".258",
-    "earnedRunAverage": "4.84",
-    "wins": "24",
+    "record": "25-19, 16-6",
+    "battingAverage": ".261",
+    "earnedRunAverage": "4.82",
+    "wins": "25",
     "losses": "19",
     "hitting": {
-      "atBats": "1406",
-      "runsScored": "263",
-      "hits": "363",
-      "runsBattedIn": "236",
-      "doubles": "81",
+      "atBats": "1439",
+      "runsScored": "268",
+      "hits": "375",
+      "runsBattedIn": "241",
+      "doubles": "86",
       "triples": "4",
       "homeRuns": "44",
-      "walks": "206",
+      "walks": "213",
       "intentionalWalks": "6",
-      "strikeouts": "383",
-      "strikeoutsLooking": "98",
-      "hitByPitch": "45",
-      "stolenBases": "60",
-      "caughtStealing": "10",
-      "sacrificeHits": "3",
-      "sacrificeFlies": "15",
+      "strikeouts": "388",
+      "strikeoutsLooking": "99",
+      "hitByPitch": "46",
+      "stolenBases": "63",
+      "caughtStealing": "11",
+      "sacrificeHits": "4",
+      "sacrificeFlies": "16",
       "reachedOnCatchersInteference": "1",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "307",
-      "flyOuts": "335",
-      "groundedIntoDoublePlay": "23",
+      "groundOuts": "313",
+      "flyOuts": "347",
+      "groundedIntoDoublePlay": "24",
       "pickedOff": "6",
-      "doublePlaysHitInto": "27",
+      "doublePlaysHitInto": "28",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1099",
-      "assists": "386",
-      "errors": "55",
+      "putouts": "1126",
+      "assists": "393",
+      "errors": "57",
       "passedBalls": "10",
       "catchersInterference": "1",
       "stolenBasesAgainst": "47",
       "caughtStealingBy": "11",
-      "involvedInDoublePlays": "34",
+      "involvedInDoublePlays": "35",
       "involvedInTriplePlays": "0",
-      "totalChances": "1540",
+      "totalChances": "1576",
       "fieldingPercentage": ".964"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "24",
+      "wins": "25",
       "saves": "11",
       "losses": "19",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "1",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "366.1",
-      "hitsAllowed": "345",
-      "runsAllowed": "230",
-      "earnedRunsAllowed": "197",
-      "walksAllowed": "180",
-      "strikeouts": "371",
-      "battersFaced": "1662",
-      "opponentAtBats": "1378",
-      "doublesAllowed": "74",
+      "inningsPitched": "375.1",
+      "hitsAllowed": "349",
+      "runsAllowed": "234",
+      "earnedRunsAllowed": "201",
+      "walksAllowed": "185",
+      "strikeouts": "377",
+      "battersFaced": "1700",
+      "opponentAtBats": "1409",
+      "doublesAllowed": "76",
       "triplesAllowed": "7",
       "homerunsAllowed": "26",
       "wildPitches": "29",
       "balks": "1",
-      "hitBatters": "55",
+      "hitBatters": "56",
       "strikeoutsLooking": "80",
       "intentionalWalks": "3",
       "inheritedRunners": "17",
       "inheritedRunnersThatScored": "16",
-      "sacrificeHitsAllowed": "27",
+      "sacrificeHitsAllowed": "28",
       "sacrificeFliesAllowed": "21",
       "catchersInterferenceAllowed": "1",
       "pitches": "3018",
-      "flyouts": "326",
-      "groundouts": "347",
+      "flyouts": "338",
+      "groundouts": "355",
       "teamUnearnedRuns": "0",
       "saveRecord": "4",
       "pickoff": "4"
@@ -306,33 +306,33 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "jersey": "3",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/mitchell-collins/14883",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/3_MitchellCollins.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 33,
+        "gamesPlayed": 36,
+        "gamesStarted": 34,
         "battingAverage": 0.307,
-        "onBasePercentage": 0.391,
-        "sluggingPercentage": 0.38,
-        "ops": 0.771,
-        "atBats": 137,
-        "runs": 34,
-        "hits": 42,
+        "onBasePercentage": 0.398,
+        "sluggingPercentage": 0.379,
+        "ops": 0.777,
+        "atBats": 140,
+        "runs": 35,
+        "hits": 43,
         "doubles": 7,
         "triples": 0,
         "homeRuns": 1,
-        "runsBattedIn": 10,
-        "totalBases": 52,
-        "walks": 18,
+        "runsBattedIn": 11,
+        "totalBases": 53,
+        "walks": 20,
         "hitByPitch": 1,
         "strikeouts": 21,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
-        "stolenBases": 10,
-        "stolenBasesAttempts": 14,
-        "putouts": 45,
+        "stolenBases": 12,
+        "stolenBasesAttempts": 16,
+        "putouts": 47,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 174,
+        "plateAppearances": 181,
         "caughtStealing": 4,
         "pickedOff": 0
       },
@@ -344,38 +344,38 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "jersey": "3",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/mitchell-collins/14883",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/3_MitchellCollins.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "putouts": 45,
-        "assists": 79,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "putouts": 47,
+        "assists": 83,
         "errors": 6,
-        "fieldingPercentage": 0.954,
-        "doublePlays": 21,
+        "fieldingPercentage": 0.956,
+        "doublePlays": 22,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 130
+        "totalChances": 136
       },
       "evaluation": {
-        "score": 47,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 61.66666666666666,
-          "Power": 15.789473684210527,
+          "On-base": 65.55555555555556,
+          "Power": 15.526315789473685,
           "Contact": 54.37499999999999,
-          "Discipline": 73.01587301587298,
-          "Speed": 33.33333333333333
+          "Discipline": 83.59788359788358,
+          "Speed": 40
         },
         "summary": "Mitchell Collins profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
           "AVG .307",
-          "OBP .391",
-          "SLG .380"
+          "OBP .398",
+          "SLG .379"
         ],
         "statCards": [
           {
@@ -384,11 +384,11 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           },
           {
             "label": "OBP",
-            "value": ".391"
+            "value": ".398"
           },
           {
             "label": "SLG",
-            "value": ".380"
+            "value": ".379"
           },
           {
             "label": "HR",
@@ -396,11 +396,11 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           },
           {
             "label": "RBI",
-            "value": "10"
+            "value": "11"
           },
           {
             "label": "SB",
-            "value": "10"
+            "value": "12"
           }
         ],
         "metaLine": "JR / L/R",
@@ -451,33 +451,33 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "jersey": "4",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/carter-white/14901",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/4_CarterWhite.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 38,
-        "battingAverage": 0.287,
-        "onBasePercentage": 0.373,
-        "sluggingPercentage": 0.596,
-        "ops": 0.969,
-        "atBats": 136,
+        "gamesPlayed": 41,
+        "gamesStarted": 39,
+        "battingAverage": 0.293,
+        "onBasePercentage": 0.374,
+        "sluggingPercentage": 0.593,
+        "ops": 0.967,
+        "atBats": 140,
         "runs": 27,
-        "hits": 39,
+        "hits": 41,
         "doubles": 11,
         "triples": 2,
         "homeRuns": 9,
-        "runsBattedIn": 40,
-        "totalBases": 81,
+        "runsBattedIn": 42,
+        "totalBases": 83,
         "walks": 19,
         "hitByPitch": 1,
         "strikeouts": 35,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 2,
+        "sacrificeFlies": 3,
         "sacrificeHits": 1,
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
-        "putouts": 70,
+        "putouts": 74,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 165,
+        "plateAppearances": 170,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -489,19 +489,19 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "jersey": "4",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/carter-white/14901",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/4_CarterWhite.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 28,
-        "putouts": 70,
+        "gamesPlayed": 29,
+        "gamesStarted": 29,
+        "putouts": 74,
         "assists": 3,
         "errors": 2,
-        "fieldingPercentage": 0.973,
+        "fieldingPercentage": 0.975,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 75
+        "totalChances": 79
       },
       "evaluation": {
         "score": 50,
@@ -510,30 +510,30 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 72.63157894736842,
-          "Contact": 41.874999999999986,
+          "On-base": 52.222222222222214,
+          "Power": 71.84210526315789,
+          "Contact": 45.624999999999986,
           "Discipline": 38.09523809523808,
           "Speed": 13.333333333333334
         },
         "summary": "Carter White profiles as a OF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .287",
-          "OBP .373",
-          "SLG .596"
+          "AVG .293",
+          "OBP .374",
+          "SLG .593"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".287"
+            "value": ".293"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".374"
           },
           {
             "label": "SLG",
-            "value": ".596"
+            "value": ".593"
           },
           {
             "label": "HR",
@@ -541,7 +541,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "42"
           },
           {
             "label": "SB",
@@ -721,33 +721,33 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "jersey": "6",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/sean-benjamin/14881",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/6_SeanBenjamin.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 35,
-        "battingAverage": 0.321,
+        "gamesPlayed": 39,
+        "gamesStarted": 36,
+        "battingAverage": 0.324,
         "onBasePercentage": 0.401,
-        "sluggingPercentage": 0.412,
-        "ops": 0.813,
-        "atBats": 131,
+        "sluggingPercentage": 0.426,
+        "ops": 0.827,
+        "atBats": 136,
         "runs": 24,
-        "hits": 42,
-        "doubles": 12,
+        "hits": 44,
+        "doubles": 14,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 16,
-        "totalBases": 54,
+        "totalBases": 58,
         "walks": 13,
         "hitByPitch": 6,
-        "strikeouts": 18,
+        "strikeouts": 19,
         "intentionalWalks": 3,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
-        "putouts": 49,
+        "putouts": 50,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 157,
+        "plateAppearances": 162,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -759,9 +759,9 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "jersey": "6",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/sean-benjamin/14881",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/6_SeanBenjamin.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 24,
-        "putouts": 49,
+        "gamesPlayed": 26,
+        "gamesStarted": 25,
+        "putouts": 50,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -771,31 +771,31 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 49
+        "totalChances": 50
       },
       "evaluation": {
-        "score": 48,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
           "On-base": 67.22222222222223,
-          "Power": 24.21052631578947,
-          "Contact": 63.125,
-          "Discipline": 58.02469135802467,
+          "Power": 27.89473684210526,
+          "Contact": 65,
+          "Discipline": 53.80116959064327,
           "Speed": 10
         },
         "summary": "Sean Benjamin profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .321",
+          "AVG .324",
           "OBP .401",
-          "SLG .412"
+          "SLG .426"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".321"
+            "value": ".324"
           },
           {
             "label": "OBP",
@@ -803,7 +803,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           },
           {
             "label": "SLG",
-            "value": ".412"
+            "value": ".426"
           },
           {
             "label": "HR",
@@ -866,14 +866,14 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "jersey": "7",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/seth-alford/14879",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/7_SethAlford.jpg",
-        "gamesPlayed": 28,
+        "gamesPlayed": 29,
         "gamesStarted": 26,
         "battingAverage": 0.211,
         "onBasePercentage": 0.299,
         "sluggingPercentage": 0.368,
         "ops": 0.667,
         "atBats": 95,
-        "runs": 16,
+        "runs": 17,
         "hits": 20,
         "doubles": 3,
         "triples": 0,
@@ -1011,13 +1011,13 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "jersey": "8",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/boone-hosey/14905",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/8_BooneHosey.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 37,
-        "battingAverage": 0.328,
-        "onBasePercentage": 0.481,
-        "sluggingPercentage": 0.484,
-        "ops": 0.965,
-        "atBats": 122,
+        "gamesPlayed": 40,
+        "gamesStarted": 38,
+        "battingAverage": 0.317,
+        "onBasePercentage": 0.473,
+        "sluggingPercentage": 0.468,
+        "ops": 0.941,
+        "atBats": 126,
         "runs": 27,
         "hits": 40,
         "doubles": 8,
@@ -1025,9 +1025,9 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "homeRuns": 3,
         "runsBattedIn": 18,
         "totalBases": 59,
-        "walks": 34,
+        "walks": 35,
         "hitByPitch": 3,
-        "strikeouts": 46,
+        "strikeouts": 47,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
@@ -1037,7 +1037,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "putouts": 95,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 166,
+        "plateAppearances": 171,
         "caughtStealing": 1,
         "pickedOff": 2
       },
@@ -1064,36 +1064,36 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "totalChances": 105
       },
       "evaluation": {
-        "score": 65,
+        "score": 63,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
           "On-base": 100,
-          "Power": 43.15789473684211,
-          "Contact": 67.5,
-          "Discipline": 59.903381642512066,
+          "Power": 38.947368421052644,
+          "Contact": 60.62499999999999,
+          "Discipline": 60.52009456264773,
           "Speed": 13.333333333333334
         },
         "summary": "Boone Hosey profiles as a UTL piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .481",
-          "SLG .484"
+          "AVG .317",
+          "OBP .473",
+          "SLG .468"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": ".317"
           },
           {
             "label": "OBP",
-            "value": ".481"
+            "value": ".473"
           },
           {
             "label": "SLG",
-            "value": ".484"
+            "value": ".468"
           },
           {
             "label": "HR",
@@ -1301,13 +1301,13 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "jersey": "10",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/mathew-farner/14907",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/10_MathewFarner.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "battingAverage": 0.289,
-        "onBasePercentage": 0.412,
-        "sluggingPercentage": 0.541,
-        "ops": 0.953,
-        "atBats": 159,
+        "gamesPlayed": 44,
+        "gamesStarted": 44,
+        "battingAverage": 0.288,
+        "onBasePercentage": 0.422,
+        "sluggingPercentage": 0.538,
+        "ops": 0.96,
+        "atBats": 160,
         "runs": 41,
         "hits": 46,
         "doubles": 10,
@@ -1315,7 +1315,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "homeRuns": 10,
         "runsBattedIn": 31,
         "totalBases": 86,
-        "walks": 29,
+        "walks": 33,
         "hitByPitch": 5,
         "strikeouts": 38,
         "intentionalWalks": 0,
@@ -1323,12 +1323,12 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 15,
-        "stolenBasesAttempts": 15,
-        "putouts": 44,
+        "stolenBasesAttempts": 16,
+        "putouts": 45,
         "assists": 0,
         "errors": 8,
-        "plateAppearances": 209,
-        "caughtStealing": 0,
+        "plateAppearances": 216,
+        "caughtStealing": 1,
         "pickedOff": 0
       },
       "pitchingStats": null,
@@ -1339,9 +1339,9 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "jersey": "10",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/mathew-farner/14907",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/10_MathewFarner.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "putouts": 44,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "putouts": 45,
         "assists": 90,
         "errors": 8,
         "fieldingPercentage": 0.944,
@@ -1351,39 +1351,39 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 142
+        "totalChances": 143
       },
       "evaluation": {
-        "score": 60,
+        "score": 63,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 73.3333333333333,
-          "Power": 58.15789473684212,
-          "Contact": 43.124999999999986,
-          "Discipline": 62.573099415204666,
+          "On-base": 78.88888888888886,
+          "Power": 57.36842105263159,
+          "Contact": 42.499999999999986,
+          "Discipline": 74.26900584795322,
           "Speed": 50
         },
         "summary": "Mathew Farner profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .289",
-          "OBP .412",
-          "SLG .541"
+          "AVG .288",
+          "OBP .422",
+          "SLG .538"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": ".288"
           },
           {
             "label": "OBP",
-            "value": ".412"
+            "value": ".422"
           },
           {
             "label": "SLG",
-            "value": ".541"
+            "value": ".538"
           },
           {
             "label": "HR",
@@ -1591,33 +1591,33 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "jersey": "13",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/gialdri-gomez/14904",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/2_GialdriGomez.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 34,
-        "battingAverage": 0.333,
-        "onBasePercentage": 0.444,
-        "sluggingPercentage": 0.538,
-        "ops": 0.982,
-        "atBats": 117,
-        "runs": 25,
-        "hits": 39,
+        "gamesPlayed": 38,
+        "gamesStarted": 35,
+        "battingAverage": 0.336,
+        "onBasePercentage": 0.442,
+        "sluggingPercentage": 0.533,
+        "ops": 0.975,
+        "atBats": 122,
+        "runs": 26,
+        "hits": 41,
         "doubles": 9,
         "triples": 0,
         "homeRuns": 5,
         "runsBattedIn": 23,
-        "totalBases": 63,
+        "totalBases": 65,
         "walks": 18,
         "hitByPitch": 6,
         "strikeouts": 22,
         "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 3,
+        "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 5,
         "stolenBasesAttempts": 6,
-        "putouts": 47,
+        "putouts": 52,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 150,
+        "plateAppearances": 155,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1629,51 +1629,51 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "jersey": "13",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/gialdri-gomez/14904",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/2_GialdriGomez.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 26,
-        "putouts": 47,
+        "gamesPlayed": 27,
+        "gamesStarted": 27,
+        "putouts": 52,
         "assists": 3,
         "errors": 1,
-        "fieldingPercentage": 0.98,
+        "fieldingPercentage": 0.982,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 51
+        "totalChances": 56
       },
       "evaluation": {
         "score": 68,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 91.1111111111111,
-          "Power": 57.36842105263159,
-          "Contact": 70.625,
+          "On-base": 89.99999999999999,
+          "Power": 56.052631578947384,
+          "Contact": 72.50000000000001,
           "Discipline": 68.68686868686868,
           "Speed": 16.666666666666664
         },
         "summary": "Gialdri Gomez profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .333",
-          "OBP .444",
-          "SLG .538"
+          "AVG .336",
+          "OBP .442",
+          "SLG .533"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".333"
+            "value": ".336"
           },
           {
             "label": "OBP",
-            "value": ".444"
+            "value": ".442"
           },
           {
             "label": "SLG",
-            "value": ".538"
+            "value": ".533"
           },
           {
             "label": "HR",
@@ -1736,33 +1736,33 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "jersey": "14",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/santiago-ordonez/14896",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/14_SantiagoOrdonez.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 32,
-        "battingAverage": 0.204,
-        "onBasePercentage": 0.375,
-        "sluggingPercentage": 0.276,
-        "ops": 0.651,
-        "atBats": 98,
+        "gamesPlayed": 35,
+        "gamesStarted": 33,
+        "battingAverage": 0.216,
+        "onBasePercentage": 0.379,
+        "sluggingPercentage": 0.294,
+        "ops": 0.673,
+        "atBats": 102,
         "runs": 14,
-        "hits": 20,
-        "doubles": 7,
+        "hits": 22,
+        "doubles": 8,
         "triples": 0,
         "homeRuns": 0,
-        "runsBattedIn": 11,
-        "totalBases": 27,
+        "runsBattedIn": 12,
+        "totalBases": 30,
         "walks": 24,
         "hitByPitch": 4,
-        "strikeouts": 22,
+        "strikeouts": 23,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 230,
+        "putouts": 236,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 128,
+        "plateAppearances": 132,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -1774,9 +1774,9 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "jersey": "14",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/santiago-ordonez/14896",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/14_SantiagoOrdonez.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 26,
-        "putouts": 230,
+        "gamesPlayed": 28,
+        "gamesStarted": 27,
+        "putouts": 236,
         "assists": 18,
         "errors": 2,
         "fieldingPercentage": 0.992,
@@ -1786,7 +1786,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 1,
-        "totalChances": 250
+        "totalChances": 256
       },
       "evaluation": {
         "score": 31,
@@ -1795,30 +1795,30 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 52.77777777777777,
+          "On-base": 54.99999999999999,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 98.98989898989898,
+          "Discipline": 93.719806763285,
           "Speed": 0
         },
         "summary": "Santiago Ordonez profiles as a C piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .204",
-          "OBP .375",
-          "SLG .276"
+          "AVG .216",
+          "OBP .379",
+          "SLG .294"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".204"
+            "value": ".216"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".379"
           },
           {
             "label": "SLG",
-            "value": ".276"
+            "value": ".294"
           },
           {
             "label": "HR",
@@ -1826,7 +1826,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           },
           {
             "label": "RBI",
-            "value": "11"
+            "value": "12"
           },
           {
             "label": "SB",
@@ -2026,33 +2026,33 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "jersey": "16",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/jackson-toberman/14917",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/16_JacksonToberman.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 40,
-        "battingAverage": 0.221,
-        "onBasePercentage": 0.304,
-        "sluggingPercentage": 0.369,
-        "ops": 0.673,
-        "atBats": 149,
-        "runs": 22,
-        "hits": 33,
-        "doubles": 7,
+        "gamesPlayed": 42,
+        "gamesStarted": 41,
+        "battingAverage": 0.237,
+        "onBasePercentage": 0.32,
+        "sluggingPercentage": 0.395,
+        "ops": 0.715,
+        "atBats": 152,
+        "runs": 24,
+        "hits": 36,
+        "doubles": 9,
         "triples": 0,
         "homeRuns": 5,
-        "runsBattedIn": 28,
-        "totalBases": 55,
+        "runsBattedIn": 29,
+        "totalBases": 60,
         "walks": 14,
-        "hitByPitch": 5,
+        "hitByPitch": 6,
         "strikeouts": 46,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 3,
-        "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 294,
+        "sacrificeHits": 1,
+        "stolenBases": 2,
+        "stolenBasesAttempts": 2,
+        "putouts": 302,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 172,
+        "plateAppearances": 178,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2064,51 +2064,51 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "jersey": "16",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/jackson-toberman/14917",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/16_JacksonToberman.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 39,
-        "putouts": 294,
+        "gamesPlayed": 41,
+        "gamesStarted": 40,
+        "putouts": 302,
         "assists": 19,
         "errors": 2,
         "fieldingPercentage": 0.994,
-        "doublePlays": 23,
+        "doublePlays": 24,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 315
+        "totalChances": 323
       },
       "evaluation": {
-        "score": 10,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 13.333333333333314,
-          "Power": 12.894736842105262,
-          "Contact": 0.6250000000000006,
+          "On-base": 22.222222222222214,
+          "Power": 19.736842105263165,
+          "Contact": 10.624999999999991,
           "Discipline": 11.594202898550723,
-          "Speed": 3.3333333333333335
+          "Speed": 6.666666666666667
         },
         "summary": "Jackson Toberman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .221",
-          "OBP .304",
-          "SLG .369"
+          "AVG .237",
+          "OBP .320",
+          "SLG .395"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".221"
+            "value": ".237"
           },
           {
             "label": "OBP",
-            "value": ".304"
+            "value": ".320"
           },
           {
             "label": "SLG",
-            "value": ".369"
+            "value": ".395"
           },
           {
             "label": "HR",
@@ -2116,11 +2116,11 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "29"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "metaLine": "R-JR / R/R",
@@ -2171,13 +2171,13 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "jersey": "17",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/drew-buchanan/14908",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/17_DrewBuchanan.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 27,
-        "battingAverage": 0.189,
-        "onBasePercentage": 0.302,
-        "sluggingPercentage": 0.278,
-        "ops": 0.58,
-        "atBats": 90,
+        "gamesPlayed": 36,
+        "gamesStarted": 28,
+        "battingAverage": 0.181,
+        "onBasePercentage": 0.291,
+        "sluggingPercentage": 0.266,
+        "ops": 0.557,
+        "atBats": 94,
         "runs": 10,
         "hits": 17,
         "doubles": 2,
@@ -2187,7 +2187,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "totalBases": 25,
         "walks": 8,
         "hitByPitch": 7,
-        "strikeouts": 33,
+        "strikeouts": 35,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
@@ -2196,8 +2196,8 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "stolenBasesAttempts": 5,
         "putouts": 27,
         "assists": 0,
-        "errors": 5,
-        "plateAppearances": 112,
+        "errors": 7,
+        "plateAppearances": 116,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -2209,51 +2209,51 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "jersey": "17",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/drew-buchanan/14908",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/17_DrewBuchanan.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 26,
+        "gamesPlayed": 29,
+        "gamesStarted": 27,
         "putouts": 27,
-        "assists": 53,
-        "errors": 5,
-        "fieldingPercentage": 0.941,
+        "assists": 56,
+        "errors": 7,
+        "fieldingPercentage": 0.922,
         "doublePlays": 8,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 85
+        "totalChances": 90
       },
       "evaluation": {
-        "score": 6,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 12.222222222222202,
+          "On-base": 6.111111111111086,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 4.713804713804713,
+          "Discipline": 3.174603174603172,
           "Speed": 13.333333333333334
         },
         "summary": "Drew Buchanan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .189",
-          "OBP .302",
-          "SLG .278"
+          "AVG .181",
+          "OBP .291",
+          "SLG .266"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".189"
+            "value": ".181"
           },
           {
             "label": "OBP",
-            "value": ".302"
+            "value": ".291"
           },
           {
             "label": "SLG",
-            "value": ".278"
+            "value": ".266"
           },
           {
             "label": "HR",
@@ -2746,31 +2746,31 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "jersey": "21",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/kai-etwaru/14886",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/21_KaiEtwaru.jpg",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 1,
-        "appearances": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.23,
-        "whip": 1.14,
+        "earnedRunAverage": 3.45,
+        "whip": 1.15,
         "wins": 1,
         "losses": 2,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 30.666666666666668,
-        "inningsPitchedDisplay": "30.2",
-        "hitsAllowed": 25,
-        "runsAllowed": 17,
-        "earnedRunsAllowed": 11,
+        "inningsPitched": 31.333333333333332,
+        "inningsPitchedDisplay": "31.1",
+        "hitsAllowed": 26,
+        "runsAllowed": 18,
+        "earnedRunsAllowed": 12,
         "walksAllowed": 10,
         "strikeouts": 37,
-        "doublesAllowed": 7,
+        "doublesAllowed": 8,
         "triplesAllowed": 0,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 115,
+        "opponentsAtBats": 118,
         "wildPitches": 3,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.217,
+        "opponentsBattingAverage": 0.22,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2803,28 +2803,28 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 62.35177865612648,
-          "Command": 54,
+          "Miss bats": 60.251450676982586,
+          "Command": 53.99999999999999,
           "Damage suppression": 0
         },
         "summary": "Kai Etwaru looks like a LHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.23",
-          "WHIP 1.14",
-          "K/9 10.9"
+          "ERA 3.45",
+          "WHIP 1.15",
+          "K/9 10.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.23"
+            "value": "3.45"
           },
           {
             "label": "WHIP",
-            "value": "1.14"
+            "value": "1.15"
           },
           {
             "label": "K/9",
-            "value": "10.9"
+            "value": "10.6"
           },
           {
             "label": "BB/9",
@@ -2832,11 +2832,11 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.17"
+            "value": "1.15"
           },
           {
             "label": "IP",
-            "value": "30.7"
+            "value": "31.3"
           }
         ],
         "metaLine": "SR / L/L",
@@ -3814,31 +3814,31 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "jersey": "31",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/dakota-stone/14914",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/31_DakotaStone.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 8,
-        "appearances": 11,
+        "gamesPlayed": 12,
+        "gamesStarted": 9,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.65,
-        "whip": 1.31,
+        "earnedRunAverage": 2.49,
+        "whip": 1.24,
         "wins": 5,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 54.333333333333336,
-        "inningsPitchedDisplay": "54.1",
-        "hitsAllowed": 42,
-        "runsAllowed": 21,
-        "earnedRunsAllowed": 16,
-        "walksAllowed": 29,
-        "strikeouts": 76,
+        "inningsPitched": 61.333333333333336,
+        "inningsPitchedDisplay": "61.1",
+        "hitsAllowed": 43,
+        "runsAllowed": 22,
+        "earnedRunsAllowed": 17,
+        "walksAllowed": 33,
+        "strikeouts": 80,
         "doublesAllowed": 8,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 199,
+        "opponentsAtBats": 220,
         "wildPitches": 5,
-        "hitBatters": 7,
+        "hitBatters": 8,
         "balks": 0,
-        "opponentsBattingAverage": 0.211,
+        "opponentsBattingAverage": 0.195,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3863,7 +3863,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "totalChances": 12
       },
       "evaluation": {
-        "score": 21,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3871,28 +3871,28 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 78.08142777467931,
-          "Command": 32.413793103448285,
+          "Miss bats": 70.35573122529644,
+          "Command": 28.48484848484848,
           "Damage suppression": 0
         },
-        "summary": "Dakota Stone looks like a LHP option who limits runs and misses bats.",
+        "summary": "Dakota Stone looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.65",
-          "WHIP 1.31",
-          "K/9 12.6"
+          "ERA 2.49",
+          "WHIP 1.24",
+          "K/9 11.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.65"
+            "value": "2.49"
           },
           {
             "label": "WHIP",
-            "value": "1.31"
+            "value": "1.24"
           },
           {
             "label": "K/9",
-            "value": "12.6"
+            "value": "11.7"
           },
           {
             "label": "BB/9",
@@ -3900,11 +3900,11 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.33"
+            "value": "0.29"
           },
           {
             "label": "IP",
-            "value": "54.3"
+            "value": "61.3"
           }
         ],
         "metaLine": "R-JR / R/L",
@@ -4240,31 +4240,31 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "jersey": "34",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/brandon-adams/14878",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/34_BrandonAdams.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 0,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.93,
-        "whip": 1.08,
-        "wins": 4,
+        "earnedRunAverage": 2.9,
+        "whip": 1.1,
+        "wins": 5,
         "losses": 1,
         "saves": 2,
         "shutouts": 0,
-        "inningsPitched": 30.666666666666668,
-        "inningsPitchedDisplay": "30.2",
-        "hitsAllowed": 20,
+        "inningsPitched": 31,
+        "inningsPitchedDisplay": "31.0",
+        "hitsAllowed": 21,
         "runsAllowed": 11,
         "earnedRunsAllowed": 10,
         "walksAllowed": 13,
-        "strikeouts": 46,
-        "doublesAllowed": 2,
+        "strikeouts": 47,
+        "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 107,
+        "opponentsAtBats": 109,
         "wildPitches": 4,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.187,
+        "opponentsBattingAverage": 0.193,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4289,7 +4289,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "totalChances": 6
       },
       "evaluation": {
-        "score": 25,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4297,28 +4297,28 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 86.36363636363636,
-          "Command": 50.76923076923078,
+          "Miss bats": 87.68328445747801,
+          "Command": 52.3076923076923,
           "Damage suppression": 0
         },
         "summary": "Brandon Adams looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.93",
-          "WHIP 1.08",
-          "K/9 13.5"
+          "ERA 2.90",
+          "WHIP 1.10",
+          "K/9 13.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.93"
+            "value": "2.90"
           },
           {
             "label": "WHIP",
-            "value": "1.08"
+            "value": "1.10"
           },
           {
             "label": "K/9",
-            "value": "13.5"
+            "value": "13.6"
           },
           {
             "label": "BB/9",
@@ -4326,11 +4326,11 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.88"
+            "value": "0.87"
           },
           {
             "label": "IP",
-            "value": "30.7"
+            "value": "31.0"
           }
         ],
         "metaLine": "SR / R/R",
@@ -5186,31 +5186,31 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "jersey": "43",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/john-costa/14884",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/43_JohnCosta.jpg",
-        "gamesPlayed": 20,
+        "gamesPlayed": 21,
         "gamesStarted": 0,
-        "appearances": 20,
+        "appearances": 21,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.31,
-        "whip": 1.24,
+        "earnedRunAverage": 4.73,
+        "whip": 1.27,
         "wins": 1,
         "losses": 1,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 31.333333333333332,
-        "inningsPitchedDisplay": "31.1",
-        "hitsAllowed": 28,
-        "runsAllowed": 15,
-        "earnedRunsAllowed": 15,
-        "walksAllowed": 11,
-        "strikeouts": 27,
+        "inningsPitched": 32.333333333333336,
+        "inningsPitchedDisplay": "32.1",
+        "hitsAllowed": 29,
+        "runsAllowed": 17,
+        "earnedRunsAllowed": 17,
+        "walksAllowed": 12,
+        "strikeouts": 28,
         "doublesAllowed": 5,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 113,
+        "opponentsAtBats": 118,
         "wildPitches": 3,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.248,
+        "opponentsBattingAverage": 0.246,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5243,24 +5243,24 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 34.13926499032882,
-          "Command": 29.09090909090909,
+          "Miss bats": 34.4892221180881,
+          "Command": 26.66666666666667,
           "Damage suppression": 0
         },
-        "summary": "John Costa looks like a RHP option who keeps traffic under control.",
+        "summary": "John Costa gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.31",
-          "WHIP 1.24",
+          "ERA 4.73",
+          "WHIP 1.27",
           "K/9 7.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.31"
+            "value": "4.73"
           },
           {
             "label": "WHIP",
-            "value": "1.24"
+            "value": "1.27"
           },
           {
             "label": "K/9",
@@ -5268,15 +5268,15 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           },
           {
             "label": "BB/9",
-            "value": "3.2"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
-            "value": "0.86"
+            "value": "0.84"
           },
           {
             "label": "IP",
-            "value": "31.3"
+            "value": "32.3"
           }
         ],
         "metaLine": "R-SR / R/R",
@@ -5606,7 +5606,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 47,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5614,8 +5614,8 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "summary": "Mitchell Collins profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
           "AVG .307",
-          "OBP .391",
-          "SLG .380"
+          "OBP .398",
+          "SLG .379"
         ],
         "statCards": [
           {
@@ -5624,11 +5624,11 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           },
           {
             "label": "OBP",
-            "value": ".391"
+            "value": ".398"
           },
           {
             "label": "SLG",
-            "value": ".380"
+            "value": ".379"
           },
           {
             "label": "HR",
@@ -5636,19 +5636,19 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           },
           {
             "label": "RBI",
-            "value": "10"
+            "value": "11"
           },
           {
             "label": "SB",
-            "value": "10"
+            "value": "12"
           }
         ],
         "components": {
-          "On-base": 61.66666666666666,
-          "Power": 15.789473684210527,
+          "On-base": 65.55555555555556,
+          "Power": 15.526315789473685,
           "Contact": 54.37499999999999,
-          "Discipline": 73.01587301587298,
-          "Speed": 33.33333333333333
+          "Discipline": 83.59788359788358,
+          "Speed": 40
         },
         "metaLine": "JR / L/R",
         "detailBadges": [
@@ -5682,22 +5682,22 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         },
         "summary": "Carter White profiles as a OF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .287",
-          "OBP .373",
-          "SLG .596"
+          "AVG .293",
+          "OBP .374",
+          "SLG .593"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".287"
+            "value": ".293"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".374"
           },
           {
             "label": "SLG",
-            "value": ".596"
+            "value": ".593"
           },
           {
             "label": "HR",
@@ -5705,7 +5705,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "42"
           },
           {
             "label": "SB",
@@ -5713,9 +5713,9 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           }
         ],
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 72.63157894736842,
-          "Contact": 41.874999999999986,
+          "On-base": 52.222222222222214,
+          "Power": 71.84210526315789,
+          "Contact": 45.624999999999986,
           "Discipline": 38.09523809523808,
           "Speed": 13.333333333333334
         },
@@ -5813,21 +5813,21 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "position": "OF",
         "classYear": "R-FR",
         "handedness": "R/R",
-        "score": 48,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Sean Benjamin profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .321",
+          "AVG .324",
           "OBP .401",
-          "SLG .412"
+          "SLG .426"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".321"
+            "value": ".324"
           },
           {
             "label": "OBP",
@@ -5835,7 +5835,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           },
           {
             "label": "SLG",
-            "value": ".412"
+            "value": ".426"
           },
           {
             "label": "HR",
@@ -5852,9 +5852,9 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         ],
         "components": {
           "On-base": 67.22222222222223,
-          "Power": 24.21052631578947,
-          "Contact": 63.125,
-          "Discipline": 58.02469135802467,
+          "Power": 27.89473684210526,
+          "Contact": 65,
+          "Discipline": 53.80116959064327,
           "Speed": 10
         },
         "metaLine": "R-FR / R/R",
@@ -5951,29 +5951,29 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "position": "UTL",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 65,
+        "score": 63,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Boone Hosey profiles as a UTL piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .481",
-          "SLG .484"
+          "AVG .317",
+          "OBP .473",
+          "SLG .468"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": ".317"
           },
           {
             "label": "OBP",
-            "value": ".481"
+            "value": ".473"
           },
           {
             "label": "SLG",
-            "value": ".484"
+            "value": ".468"
           },
           {
             "label": "HR",
@@ -5990,9 +5990,9 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 43.15789473684211,
-          "Contact": 67.5,
-          "Discipline": 59.903381642512066,
+          "Power": 38.947368421052644,
+          "Contact": 60.62499999999999,
+          "Discipline": 60.52009456264773,
           "Speed": 13.333333333333334
         },
         "metaLine": "R-JR / R/R",
@@ -6089,29 +6089,29 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 60,
+        "score": 63,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Mathew Farner profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .289",
-          "OBP .412",
-          "SLG .541"
+          "AVG .288",
+          "OBP .422",
+          "SLG .538"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": ".288"
           },
           {
             "label": "OBP",
-            "value": ".412"
+            "value": ".422"
           },
           {
             "label": "SLG",
-            "value": ".541"
+            "value": ".538"
           },
           {
             "label": "HR",
@@ -6127,10 +6127,10 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           }
         ],
         "components": {
-          "On-base": 73.3333333333333,
-          "Power": 58.15789473684212,
-          "Contact": 43.124999999999986,
-          "Discipline": 62.573099415204666,
+          "On-base": 78.88888888888886,
+          "Power": 57.36842105263159,
+          "Contact": 42.499999999999986,
+          "Discipline": 74.26900584795322,
           "Speed": 50
         },
         "metaLine": "JR / R/R",
@@ -6229,27 +6229,27 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "handedness": "L/R",
         "score": 68,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Gialdri Gomez profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .333",
-          "OBP .444",
-          "SLG .538"
+          "AVG .336",
+          "OBP .442",
+          "SLG .533"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".333"
+            "value": ".336"
           },
           {
             "label": "OBP",
-            "value": ".444"
+            "value": ".442"
           },
           {
             "label": "SLG",
-            "value": ".538"
+            "value": ".533"
           },
           {
             "label": "HR",
@@ -6265,9 +6265,9 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           }
         ],
         "components": {
-          "On-base": 91.1111111111111,
-          "Power": 57.36842105263159,
-          "Contact": 70.625,
+          "On-base": 89.99999999999999,
+          "Power": 56.052631578947384,
+          "Contact": 72.50000000000001,
           "Discipline": 68.68686868686868,
           "Speed": 16.666666666666664
         },
@@ -6303,22 +6303,22 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         },
         "summary": "Santiago Ordonez profiles as a C piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .204",
-          "OBP .375",
-          "SLG .276"
+          "AVG .216",
+          "OBP .379",
+          "SLG .294"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".204"
+            "value": ".216"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".379"
           },
           {
             "label": "SLG",
-            "value": ".276"
+            "value": ".294"
           },
           {
             "label": "HR",
@@ -6326,7 +6326,7 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           },
           {
             "label": "RBI",
-            "value": "11"
+            "value": "12"
           },
           {
             "label": "SB",
@@ -6334,10 +6334,10 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           }
         ],
         "components": {
-          "On-base": 52.77777777777777,
+          "On-base": 54.99999999999999,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 98.98989898989898,
+          "Discipline": 93.719806763285,
           "Speed": 0
         },
         "metaLine": "SR / R/R",
@@ -6434,29 +6434,29 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "position": "UTL",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 10,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jackson Toberman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .221",
-          "OBP .304",
-          "SLG .369"
+          "AVG .237",
+          "OBP .320",
+          "SLG .395"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".221"
+            "value": ".237"
           },
           {
             "label": "OBP",
-            "value": ".304"
+            "value": ".320"
           },
           {
             "label": "SLG",
-            "value": ".369"
+            "value": ".395"
           },
           {
             "label": "HR",
@@ -6464,19 +6464,19 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "29"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "components": {
-          "On-base": 13.333333333333314,
-          "Power": 12.894736842105262,
-          "Contact": 0.6250000000000006,
+          "On-base": 22.222222222222214,
+          "Power": 19.736842105263165,
+          "Contact": 10.624999999999991,
           "Discipline": 11.594202898550723,
-          "Speed": 3.3333333333333335
+          "Speed": 6.666666666666667
         },
         "metaLine": "R-JR / R/R",
         "detailBadges": [
@@ -6503,29 +6503,29 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 6,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Drew Buchanan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .189",
-          "OBP .302",
-          "SLG .278"
+          "AVG .181",
+          "OBP .291",
+          "SLG .266"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".189"
+            "value": ".181"
           },
           {
             "label": "OBP",
-            "value": ".302"
+            "value": ".291"
           },
           {
             "label": "SLG",
-            "value": ".278"
+            "value": ".266"
           },
           {
             "label": "HR",
@@ -6541,10 +6541,10 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           }
         ],
         "components": {
-          "On-base": 12.222222222222202,
+          "On-base": 6.111111111111086,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 4.713804713804713,
+          "Discipline": 3.174603174603172,
           "Speed": 13.333333333333334
         },
         "metaLine": "FR / R/R",
@@ -6786,22 +6786,22 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         },
         "summary": "Kai Etwaru looks like a LHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.23",
-          "WHIP 1.14",
-          "K/9 10.9"
+          "ERA 3.45",
+          "WHIP 1.15",
+          "K/9 10.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.23"
+            "value": "3.45"
           },
           {
             "label": "WHIP",
-            "value": "1.14"
+            "value": "1.15"
           },
           {
             "label": "K/9",
-            "value": "10.9"
+            "value": "10.6"
           },
           {
             "label": "BB/9",
@@ -6809,18 +6809,18 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.17"
+            "value": "1.15"
           },
           {
             "label": "IP",
-            "value": "30.7"
+            "value": "31.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 62.35177865612648,
-          "Command": 54,
+          "Miss bats": 60.251450676982586,
+          "Command": 53.99999999999999,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/L",
@@ -7330,29 +7330,29 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "position": "LHP",
         "classYear": "R-JR",
         "handedness": "R/L",
-        "score": 21,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Dakota Stone looks like a LHP option who limits runs and misses bats.",
+        "summary": "Dakota Stone looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.65",
-          "WHIP 1.31",
-          "K/9 12.6"
+          "ERA 2.49",
+          "WHIP 1.24",
+          "K/9 11.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.65"
+            "value": "2.49"
           },
           {
             "label": "WHIP",
-            "value": "1.31"
+            "value": "1.24"
           },
           {
             "label": "K/9",
-            "value": "12.6"
+            "value": "11.7"
           },
           {
             "label": "BB/9",
@@ -7360,18 +7360,18 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.33"
+            "value": "0.29"
           },
           {
             "label": "IP",
-            "value": "54.3"
+            "value": "61.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 78.08142777467931,
-          "Command": 32.413793103448285,
+          "Miss bats": 70.35573122529644,
+          "Command": 28.48484848484848,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / R/L",
@@ -7537,29 +7537,29 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 25,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brandon Adams looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.93",
-          "WHIP 1.08",
-          "K/9 13.5"
+          "ERA 2.90",
+          "WHIP 1.10",
+          "K/9 13.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.93"
+            "value": "2.90"
           },
           {
             "label": "WHIP",
-            "value": "1.08"
+            "value": "1.10"
           },
           {
             "label": "K/9",
-            "value": "13.5"
+            "value": "13.6"
           },
           {
             "label": "BB/9",
@@ -7567,18 +7567,18 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.88"
+            "value": "0.87"
           },
           {
             "label": "IP",
-            "value": "30.7"
+            "value": "31.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 86.36363636363636,
-          "Command": 50.76923076923078,
+          "Miss bats": 87.68328445747801,
+          "Command": 52.3076923076923,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -8024,20 +8024,20 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "John Costa looks like a RHP option who keeps traffic under control.",
+        "summary": "John Costa gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.31",
-          "WHIP 1.24",
+          "ERA 4.73",
+          "WHIP 1.27",
           "K/9 7.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.31"
+            "value": "4.73"
           },
           {
             "label": "WHIP",
-            "value": "1.24"
+            "value": "1.27"
           },
           {
             "label": "K/9",
@@ -8045,22 +8045,22 @@ window.__BASEBALL_DATASETS__.north-florida2026 = {
           },
           {
             "label": "BB/9",
-            "value": "3.2"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
-            "value": "0.86"
+            "value": "0.84"
           },
           {
             "label": "IP",
-            "value": "31.3"
+            "value": "32.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 34.13926499032882,
-          "Command": 29.09090909090909,
+          "Miss bats": 34.4892221180881,
+          "Command": 26.66666666666667,
           "Damage suppression": 0
         },
         "metaLine": "R-SR / R/R",
