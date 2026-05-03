@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.minnesota2026 = {
-  "generatedAt": "2026-05-02T11:07:10.660Z",
+  "generatedAt": "2026-05-03T11:07:01.151Z",
   "season": 2026,
   "school": {
     "slug": "minnesota",
@@ -39,86 +39,86 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
     }
   },
   "teamSummary": {
-    "record": "27-17, 8-13",
+    "record": "29-17, 10-13",
     "battingAverage": ".274",
-    "earnedRunAverage": "4.17",
-    "wins": "27",
+    "earnedRunAverage": "4.07",
+    "wins": "29",
     "losses": "17",
     "hitting": {
-      "atBats": "1415",
-      "runsScored": "345",
-      "hits": "388",
-      "runsBattedIn": "318",
-      "doubles": "87",
+      "atBats": "1484",
+      "runsScored": "355",
+      "hits": "407",
+      "runsBattedIn": "328",
+      "doubles": "92",
       "triples": "12",
-      "homeRuns": "61",
-      "walks": "248",
+      "homeRuns": "62",
+      "walks": "256",
       "intentionalWalks": "3",
-      "strikeouts": "318",
-      "strikeoutsLooking": "94",
-      "hitByPitch": "68",
-      "stolenBases": "97",
+      "strikeouts": "336",
+      "strikeoutsLooking": "99",
+      "hitByPitch": "71",
+      "stolenBases": "99",
       "caughtStealing": "17",
-      "sacrificeHits": "15",
-      "sacrificeFlies": "26",
+      "sacrificeHits": "16",
+      "sacrificeFlies": "27",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "312",
-      "flyOuts": "419",
-      "groundedIntoDoublePlay": "9",
+      "groundOuts": "322",
+      "flyOuts": "443",
+      "groundedIntoDoublePlay": "10",
       "pickedOff": "7",
-      "doublePlaysHitInto": "22",
+      "doublePlaysHitInto": "23",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1127",
-      "assists": "389",
-      "errors": "22",
+      "putouts": "1181",
+      "assists": "396",
+      "errors": "26",
       "passedBalls": "3",
       "catchersInterference": "1",
-      "stolenBasesAgainst": "38",
+      "stolenBasesAgainst": "39",
       "caughtStealingBy": "7",
       "involvedInDoublePlays": "39",
       "involvedInTriplePlays": "0",
-      "totalChances": "1538",
-      "fieldingPercentage": ".986"
+      "totalChances": "1603",
+      "fieldingPercentage": ".984"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "27",
-      "saves": "6",
+      "wins": "29",
+      "saves": "8",
       "losses": "17",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "3",
       "creditForCombinedShutout": "1",
-      "inningsPitched": "375.2",
-      "hitsAllowed": "319",
-      "runsAllowed": "191",
-      "earnedRunsAllowed": "174",
-      "walksAllowed": "156",
-      "strikeouts": "368",
-      "battersFaced": "1621",
-      "opponentAtBats": "1377",
-      "doublesAllowed": "74",
-      "triplesAllowed": "6",
-      "homerunsAllowed": "37",
-      "wildPitches": "31",
+      "inningsPitched": "393.2",
+      "hitsAllowed": "333",
+      "runsAllowed": "198",
+      "earnedRunsAllowed": "178",
+      "walksAllowed": "158",
+      "strikeouts": "396",
+      "battersFaced": "1698",
+      "opponentAtBats": "1446",
+      "doublesAllowed": "75",
+      "triplesAllowed": "7",
+      "homerunsAllowed": "39",
+      "wildPitches": "33",
       "balks": "4",
-      "hitBatters": "57",
-      "strikeoutsLooking": "102",
+      "hitBatters": "62",
+      "strikeoutsLooking": "107",
       "intentionalWalks": "2",
       "inheritedRunners": "14",
       "inheritedRunnersThatScored": "6",
       "sacrificeHitsAllowed": "15",
-      "sacrificeFliesAllowed": "15",
+      "sacrificeFliesAllowed": "16",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6252",
-      "flyouts": "341",
-      "groundouts": "360",
+      "pitches": "6543",
+      "flyouts": "360",
+      "groundouts": "367",
       "teamUnearnedRuns": "0",
-      "saveRecord": "1",
+      "saveRecord": "3",
       "pickoff": "2"
     }
   },
@@ -339,21 +339,21 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "2",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/easton-richter/23657",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Richter_Easton_0010.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 41,
-        "battingAverage": 0.241,
-        "onBasePercentage": 0.318,
-        "sluggingPercentage": 0.511,
-        "ops": 0.829,
-        "atBats": 174,
-        "runs": 44,
-        "hits": 42,
-        "doubles": 13,
+        "gamesPlayed": 45,
+        "gamesStarted": 43,
+        "battingAverage": 0.247,
+        "onBasePercentage": 0.324,
+        "sluggingPercentage": 0.516,
+        "ops": 0.84,
+        "atBats": 182,
+        "runs": 47,
+        "hits": 45,
+        "doubles": 15,
         "triples": 2,
         "homeRuns": 10,
         "runsBattedIn": 35,
-        "totalBases": 89,
-        "walks": 17,
+        "totalBases": 94,
+        "walks": 18,
         "hitByPitch": 3,
         "strikeouts": 44,
         "intentionalWalks": 1,
@@ -362,10 +362,10 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "sacrificeHits": 1,
         "stolenBases": 17,
         "stolenBasesAttempts": 19,
-        "putouts": 102,
+        "putouts": 107,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 217,
+        "plateAppearances": 226,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -377,19 +377,19 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "2",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/easton-richter/23657",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Richter_Easton_0010.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "putouts": 102,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "putouts": 107,
         "assists": 2,
         "errors": 2,
-        "fieldingPercentage": 0.981,
+        "fieldingPercentage": 0.982,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 106
+        "totalChances": 111
       },
       "evaluation": {
         "score": 0,
@@ -484,33 +484,33 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "4",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/jack-mosh/23654",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Mosh_Jack_0006.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 24,
-        "battingAverage": 0.295,
-        "onBasePercentage": 0.427,
-        "sluggingPercentage": 0.346,
-        "ops": 0.773,
-        "atBats": 78,
+        "gamesPlayed": 33,
+        "gamesStarted": 26,
+        "battingAverage": 0.279,
+        "onBasePercentage": 0.404,
+        "sluggingPercentage": 0.326,
+        "ops": 0.73,
+        "atBats": 86,
         "runs": 23,
-        "hits": 23,
+        "hits": 24,
         "doubles": 4,
         "triples": 0,
         "homeRuns": 0,
-        "runsBattedIn": 8,
-        "totalBases": 27,
+        "runsBattedIn": 9,
+        "totalBases": 28,
         "walks": 12,
         "hitByPitch": 6,
-        "strikeouts": 11,
+        "strikeouts": 14,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
+        "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
         "sacrificeHits": 4,
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
-        "putouts": 44,
+        "putouts": 46,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 104,
+        "plateAppearances": 112,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -522,10 +522,10 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "4",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/jack-mosh/23654",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Mosh_Jack_0006.jpg",
-        "gamesPlayed": 23,
-        "gamesStarted": 22,
-        "putouts": 44,
-        "assists": 67,
+        "gamesPlayed": 25,
+        "gamesStarted": 24,
+        "putouts": 46,
+        "assists": 70,
         "errors": 1,
         "fieldingPercentage": 0.991,
         "doublePlays": 22,
@@ -534,39 +534,39 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 112
+        "totalChances": 117
       },
       "evaluation": {
-        "score": 52,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 81.66666666666666,
-          "Power": 6.842105263157887,
-          "Contact": 46.874999999999986,
-          "Discipline": 98.98989898989898,
+          "On-base": 68.88888888888889,
+          "Power": 1.5789473684210544,
+          "Contact": 36.875000000000014,
+          "Discipline": 73.01587301587298,
           "Speed": 13.333333333333334
         },
-        "summary": "Jack Mosh profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Jack Mosh profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .295",
-          "OBP .427",
-          "SLG .346"
+          "AVG .279",
+          "OBP .404",
+          "SLG .326"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".295"
+            "value": ".279"
           },
           {
             "label": "OBP",
-            "value": ".427"
+            "value": ".404"
           },
           {
             "label": "SLG",
-            "value": ".346"
+            "value": ".326"
           },
           {
             "label": "HR",
@@ -574,7 +574,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           },
           {
             "label": "RBI",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "SB",
@@ -629,23 +629,23 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "7",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/jack-spanier/23660",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Spanier_Jack_0005.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "battingAverage": 0.311,
-        "onBasePercentage": 0.451,
-        "sluggingPercentage": 0.54,
-        "ops": 0.991,
-        "atBats": 161,
-        "runs": 48,
-        "hits": 50,
+        "gamesPlayed": 44,
+        "gamesStarted": 44,
+        "battingAverage": 0.302,
+        "onBasePercentage": 0.444,
+        "sluggingPercentage": 0.521,
+        "ops": 0.965,
+        "atBats": 169,
+        "runs": 50,
+        "hits": 51,
         "doubles": 14,
         "triples": 4,
         "homeRuns": 5,
         "runsBattedIn": 30,
-        "totalBases": 87,
-        "walks": 39,
+        "totalBases": 88,
+        "walks": 41,
         "hitByPitch": 4,
-        "strikeouts": 24,
+        "strikeouts": 28,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
@@ -654,8 +654,8 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "stolenBasesAttempts": 15,
         "putouts": 57,
         "assists": 0,
-        "errors": 3,
-        "plateAppearances": 225,
+        "errors": 5,
+        "plateAppearances": 235,
         "caughtStealing": 2,
         "pickedOff": 2
       },
@@ -667,51 +667,51 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "7",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/jack-spanier/23660",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Spanier_Jack_0005.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
+        "gamesPlayed": 43,
+        "gamesStarted": 43,
         "putouts": 57,
         "assists": 102,
-        "errors": 3,
-        "fieldingPercentage": 0.981,
+        "errors": 5,
+        "fieldingPercentage": 0.97,
         "doublePlays": 18,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 162
+        "totalChances": 164
       },
       "evaluation": {
-        "score": 74,
+        "score": 70,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 95,
-          "Power": 57.894736842105274,
-          "Contact": 56.875,
+          "On-base": 91.1111111111111,
+          "Power": 52.894736842105274,
+          "Contact": 51.24999999999999,
           "Discipline": 100,
           "Speed": 43.333333333333336
         },
         "summary": "Jack Spanier profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .311",
-          "OBP .451",
-          "SLG .540"
+          "AVG .302",
+          "OBP .444",
+          "SLG .521"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".311"
+            "value": ".302"
           },
           {
             "label": "OBP",
-            "value": ".451"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": ".540"
+            "value": ".521"
           },
           {
             "label": "HR",
@@ -919,33 +919,33 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "9",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/davis-hamilton/23665",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Hamilton_Davis_0007.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
         "battingAverage": 0.301,
-        "onBasePercentage": 0.464,
-        "sluggingPercentage": 0.459,
-        "ops": 0.923,
-        "atBats": 146,
-        "runs": 40,
-        "hits": 44,
+        "onBasePercentage": 0.466,
+        "sluggingPercentage": 0.451,
+        "ops": 0.917,
+        "atBats": 153,
+        "runs": 42,
+        "hits": 46,
         "doubles": 11,
         "triples": 0,
         "homeRuns": 4,
         "runsBattedIn": 29,
-        "totalBases": 67,
-        "walks": 34,
-        "hitByPitch": 12,
-        "strikeouts": 22,
+        "totalBases": 69,
+        "walks": 36,
+        "hitByPitch": 13,
+        "strikeouts": 23,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
-        "stolenBases": 13,
-        "stolenBasesAttempts": 18,
-        "putouts": 28,
+        "stolenBases": 14,
+        "stolenBasesAttempts": 19,
+        "putouts": 29,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 217,
+        "plateAppearances": 228,
         "caughtStealing": 5,
         "pickedOff": 1
       },
@@ -957,19 +957,19 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "9",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/davis-hamilton/23665",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Hamilton_Davis_0007.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "putouts": 28,
-        "assists": 71,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "putouts": 29,
+        "assists": 72,
         "errors": 4,
-        "fieldingPercentage": 0.961,
+        "fieldingPercentage": 0.962,
         "doublePlays": 13,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 103
+        "totalChances": 105
       },
       "evaluation": {
         "score": 69,
@@ -979,16 +979,16 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         },
         "components": {
           "On-base": 100,
-          "Power": 36.57894736842106,
+          "Power": 34.47368421052632,
           "Contact": 50.624999999999986,
           "Discipline": 100,
-          "Speed": 43.333333333333336
+          "Speed": 46.666666666666664
         },
         "summary": "Davis Hamilton profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .301",
-          "OBP .464",
-          "SLG .459"
+          "OBP .466",
+          "SLG .451"
         ],
         "statCards": [
           {
@@ -997,11 +997,11 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           },
           {
             "label": "OBP",
-            "value": ".464"
+            "value": ".466"
           },
           {
             "label": "SLG",
-            "value": ".459"
+            "value": ".451"
           },
           {
             "label": "HR",
@@ -1013,7 +1013,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           },
           {
             "label": "SB",
-            "value": "13"
+            "value": "14"
           }
         ],
         "metaLine": "SR / L/R",
@@ -1209,13 +1209,13 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "12",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/ethan-cole/23671",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Cole_Ethan_0008.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 4,
-        "battingAverage": 0.286,
-        "onBasePercentage": 0.412,
-        "sluggingPercentage": 1,
-        "ops": 1.412,
-        "atBats": 14,
+        "gamesPlayed": 9,
+        "gamesStarted": 5,
+        "battingAverage": 0.235,
+        "onBasePercentage": 0.35,
+        "sluggingPercentage": 0.824,
+        "ops": 1.174,
+        "atBats": 17,
         "runs": 7,
         "hits": 4,
         "doubles": 1,
@@ -1225,7 +1225,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "totalBases": 14,
         "walks": 1,
         "hitByPitch": 2,
-        "strikeouts": 6,
+        "strikeouts": 8,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -1235,43 +1235,43 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "putouts": 0,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 17,
+        "plateAppearances": 20,
         "caughtStealing": 0,
         "pickedOff": 0
       },
       "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
-        "score": 57,
+        "score": 40,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 73.3333333333333,
+          "On-base": 38.888888888888864,
           "Power": 100,
-          "Contact": 41.24999999999998,
+          "Contact": 9.374999999999991,
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Ethan Cole profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Ethan Cole profiles as a INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .412",
-          "SLG 1.000"
+          "AVG .235",
+          "OBP .350",
+          "SLG .824"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".235"
           },
           {
             "label": "OBP",
-            "value": ".412"
+            "value": ".350"
           },
           {
             "label": "SLG",
-            "value": "1.000"
+            "value": ".824"
           },
           {
             "label": "HR",
@@ -1477,31 +1477,31 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "15",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/marcus-kruzan/23681",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Kruzan_Marcus_0057.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 9,
-        "appearances": 10,
+        "gamesPlayed": 11,
+        "gamesStarted": 10,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3,
-        "whip": 0.93,
-        "wins": 3,
+        "earnedRunAverage": 3.13,
+        "whip": 0.96,
+        "wins": 4,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 42,
-        "inningsPitchedDisplay": "42.0",
-        "hitsAllowed": 26,
-        "runsAllowed": 14,
-        "earnedRunsAllowed": 14,
+        "inningsPitched": 46,
+        "inningsPitchedDisplay": "46.0",
+        "hitsAllowed": 31,
+        "runsAllowed": 16,
+        "earnedRunsAllowed": 16,
         "walksAllowed": 13,
-        "strikeouts": 38,
+        "strikeouts": 43,
         "doublesAllowed": 9,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 146,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 164,
         "wildPitches": 2,
         "hitBatters": 3,
         "balks": 1,
-        "opponentsBattingAverage": 0.178,
+        "opponentsBattingAverage": 0.189,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1526,7 +1526,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "totalChances": 6
       },
       "evaluation": {
-        "score": 14,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1534,40 +1534,40 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 37.662337662337656,
-          "Command": 38.46153846153846,
+          "Miss bats": 40.11857707509881,
+          "Command": 46.15384615384615,
           "Damage suppression": 0
         },
         "summary": "Marcus Kruzan looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.00",
-          "WHIP 0.93",
-          "K/9 8.1"
+          "ERA 3.13",
+          "WHIP 0.96",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.00"
+            "value": "3.13"
           },
           {
             "label": "WHIP",
-            "value": "0.93"
+            "value": "0.96"
           },
           {
             "label": "K/9",
-            "value": "8.1"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "2.5"
           },
           {
             "label": "HR/9",
-            "value": "0.43"
+            "value": "0.59"
           },
           {
             "label": "IP",
-            "value": "42.0"
+            "value": "46.0"
           }
         ],
         "metaLine": "JR / N/A",
@@ -1618,33 +1618,33 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "16",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/ty-allen/23667",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Allen_Ty_0013.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 41,
-        "battingAverage": 0.243,
-        "onBasePercentage": 0.347,
+        "gamesPlayed": 44,
+        "gamesStarted": 43,
+        "battingAverage": 0.248,
+        "onBasePercentage": 0.346,
         "sluggingPercentage": 0.444,
-        "ops": 0.791,
-        "atBats": 144,
+        "ops": 0.79,
+        "atBats": 153,
         "runs": 26,
-        "hits": 35,
-        "doubles": 5,
+        "hits": 38,
+        "doubles": 6,
         "triples": 3,
         "homeRuns": 6,
         "runsBattedIn": 36,
-        "totalBases": 64,
+        "totalBases": 68,
         "walks": 24,
         "hitByPitch": 2,
-        "strikeouts": 34,
+        "strikeouts": 36,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 6,
         "sacrificeHits": 0,
-        "stolenBases": 7,
-        "stolenBasesAttempts": 8,
-        "putouts": 63,
+        "stolenBases": 8,
+        "stolenBasesAttempts": 9,
+        "putouts": 66,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 185,
+        "plateAppearances": 195,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1656,9 +1656,9 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "16",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/ty-allen/23667",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Allen_Ty_0013.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "putouts": 63,
+        "gamesPlayed": 34,
+        "gamesStarted": 34,
+        "putouts": 66,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1668,7 +1668,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 63
+        "totalChances": 66
       },
       "evaluation": {
         "score": 33,
@@ -1677,26 +1677,26 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 37.22222222222219,
+          "On-base": 36.666666666666636,
           "Power": 32.631578947368425,
-          "Contact": 14.374999999999996,
-          "Discipline": 56.20915032679738,
-          "Speed": 23.333333333333332
+          "Contact": 17.5,
+          "Discipline": 51.85185185185184,
+          "Speed": 26.666666666666668
         },
-        "summary": "Ty Allen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Ty Allen profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .243",
-          "OBP .347",
+          "AVG .248",
+          "OBP .346",
           "SLG .444"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".243"
+            "value": ".248"
           },
           {
             "label": "OBP",
-            "value": ".347"
+            "value": ".346"
           },
           {
             "label": "SLG",
@@ -1712,7 +1712,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           },
           {
             "label": "SB",
-            "value": "7"
+            "value": "8"
           }
         ],
         "metaLine": "JR / N/A",
@@ -2196,31 +2196,31 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "20",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/isaac-morton/23674",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Morton_Isaac_0016.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 10,
-        "appearances": 10,
+        "gamesPlayed": 11,
+        "gamesStarted": 11,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.72,
-        "whip": 1.24,
-        "wins": 3,
+        "earnedRunAverage": 3.54,
+        "whip": 1.18,
+        "wins": 4,
         "losses": 2,
         "saves": 0,
         "shutouts": 1,
-        "inningsPitched": 48.333333333333336,
-        "inningsPitchedDisplay": "48.1",
-        "hitsAllowed": 40,
-        "runsAllowed": 25,
-        "earnedRunsAllowed": 20,
-        "walksAllowed": 20,
-        "strikeouts": 45,
+        "inningsPitched": 53.333333333333336,
+        "inningsPitchedDisplay": "53.1",
+        "hitsAllowed": 42,
+        "runsAllowed": 27,
+        "earnedRunsAllowed": 21,
+        "walksAllowed": 21,
+        "strikeouts": 53,
         "doublesAllowed": 9,
-        "triplesAllowed": 0,
+        "triplesAllowed": 1,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 176,
+        "opponentsAtBats": 193,
         "wildPitches": 4,
-        "hitBatters": 8,
+        "hitBatters": 11,
         "balks": 1,
-        "opponentsBattingAverage": 0.227,
+        "opponentsBattingAverage": 0.218,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2245,7 +2245,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "totalChances": 11
       },
       "evaluation": {
-        "score": 12,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2253,40 +2253,40 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.81191222570532,
-          "Command": 25,
+          "Miss bats": 44.94318181818181,
+          "Command": 30.476190476190474,
           "Damage suppression": 0
         },
         "summary": "Isaac Morton looks like a RHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.72",
-          "WHIP 1.24",
-          "K/9 8.4"
+          "ERA 3.54",
+          "WHIP 1.18",
+          "K/9 8.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.72"
+            "value": "3.54"
           },
           {
             "label": "WHIP",
-            "value": "1.24"
+            "value": "1.18"
           },
           {
             "label": "K/9",
-            "value": "8.4"
+            "value": "8.9"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "3.5"
           },
           {
             "label": "HR/9",
-            "value": "0.93"
+            "value": "0.84"
           },
           {
             "label": "IP",
-            "value": "48.3"
+            "value": "53.3"
           }
         ],
         "metaLine": "JR / N/A",
@@ -2479,33 +2479,33 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "22",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/weber-neels/23655",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Neels_Weber_0022.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 42,
-        "battingAverage": 0.359,
-        "onBasePercentage": 0.462,
-        "sluggingPercentage": 0.641,
-        "ops": 1.103,
-        "atBats": 153,
-        "runs": 44,
-        "hits": 55,
-        "doubles": 7,
+        "gamesPlayed": 45,
+        "gamesStarted": 44,
+        "battingAverage": 0.36,
+        "onBasePercentage": 0.463,
+        "sluggingPercentage": 0.652,
+        "ops": 1.115,
+        "atBats": 161,
+        "runs": 46,
+        "hits": 58,
+        "doubles": 8,
         "triples": 0,
-        "homeRuns": 12,
-        "runsBattedIn": 46,
-        "totalBases": 98,
-        "walks": 20,
-        "hitByPitch": 15,
-        "strikeouts": 21,
+        "homeRuns": 13,
+        "runsBattedIn": 52,
+        "totalBases": 105,
+        "walks": 21,
+        "hitByPitch": 16,
+        "strikeouts": 23,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 7,
         "sacrificeHits": 0,
         "stolenBases": 6,
         "stolenBasesAttempts": 9,
-        "putouts": 327,
+        "putouts": 355,
         "assists": 0,
-        "errors": 2,
-        "plateAppearances": 207,
+        "errors": 3,
+        "plateAppearances": 217,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -2517,59 +2517,59 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "22",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/weber-neels/23655",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Neels_Weber_0022.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 40,
-        "putouts": 327,
-        "assists": 24,
-        "errors": 2,
-        "fieldingPercentage": 0.994,
+        "gamesPlayed": 43,
+        "gamesStarted": 42,
+        "putouts": 355,
+        "assists": 25,
+        "errors": 3,
+        "fieldingPercentage": 0.992,
         "doublePlays": 10,
-        "stolenBasesAgainst": 27,
+        "stolenBasesAgainst": 28,
         "caughtStealingBy": 6,
         "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 1,
-        "totalChances": 353
+        "totalChances": 383
       },
       "evaluation": {
-        "score": 83,
+        "score": 84,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "components": {
           "On-base": 100,
-          "Power": 84.47368421052633,
-          "Contact": 86.87499999999999,
-          "Discipline": 83.59788359788358,
+          "Power": 87.36842105263159,
+          "Contact": 87.49999999999999,
+          "Discipline": 79.22705314009659,
           "Speed": 20
         },
         "summary": "Weber Neels profiles as a C/INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .359",
-          "OBP .462",
-          "SLG .641"
+          "AVG .360",
+          "OBP .463",
+          "SLG .652"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".359"
+            "value": ".360"
           },
           {
             "label": "OBP",
-            "value": ".462"
+            "value": ".463"
           },
           {
             "label": "SLG",
-            "value": ".641"
+            "value": ".652"
           },
           {
             "label": "HR",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "RBI",
-            "value": "46"
+            "value": "52"
           },
           {
             "label": "SB",
@@ -2911,33 +2911,33 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "29",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/brayden-hellum/23650",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Hellum_Brayden_0058.jpg",
-        "gamesPlayed": 18,
-        "gamesStarted": 3,
-        "battingAverage": 0.071,
-        "onBasePercentage": 0.222,
-        "sluggingPercentage": 0.071,
-        "ops": 0.293,
-        "atBats": 14,
-        "runs": 4,
-        "hits": 1,
-        "doubles": 0,
+        "gamesPlayed": 20,
+        "gamesStarted": 4,
+        "battingAverage": 0.111,
+        "onBasePercentage": 0.261,
+        "sluggingPercentage": 0.167,
+        "ops": 0.428,
+        "atBats": 18,
+        "runs": 5,
+        "hits": 2,
+        "doubles": 1,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 3,
-        "totalBases": 1,
-        "walks": 3,
+        "totalBases": 3,
+        "walks": 4,
         "hitByPitch": 0,
-        "strikeouts": 7,
+        "strikeouts": 8,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
-        "sacrificeHits": 0,
+        "sacrificeHits": 1,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
         "putouts": 7,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 20,
+        "plateAppearances": 26,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2964,7 +2964,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "totalChances": 7
       },
       "evaluation": {
-        "score": 4,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2973,27 +2973,27 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 25.39682539682539,
+          "Discipline": 33.33333333333333,
           "Speed": 0
         },
         "summary": "Brayden Hellum gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .071",
-          "OBP .222",
-          "SLG .071"
+          "AVG .111",
+          "OBP .261",
+          "SLG .167"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".071"
+            "value": ".111"
           },
           {
             "label": "OBP",
-            "value": ".222"
+            "value": ".261"
           },
           {
             "label": "SLG",
-            "value": ".071"
+            "value": ".167"
           },
           {
             "label": "HR",
@@ -3201,33 +3201,33 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "32",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/jack-bello/23670",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Bello_Jack_0009.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 36,
-        "battingAverage": 0.229,
-        "onBasePercentage": 0.341,
-        "sluggingPercentage": 0.468,
-        "ops": 0.809,
-        "atBats": 109,
+        "gamesPlayed": 39,
+        "gamesStarted": 38,
+        "battingAverage": 0.226,
+        "onBasePercentage": 0.336,
+        "sluggingPercentage": 0.452,
+        "ops": 0.788,
+        "atBats": 115,
         "runs": 18,
-        "hits": 25,
+        "hits": 26,
         "doubles": 8,
         "triples": 0,
         "homeRuns": 6,
-        "runsBattedIn": 18,
-        "totalBases": 51,
+        "runsBattedIn": 20,
+        "totalBases": 52,
         "walks": 15,
-        "hitByPitch": 5,
-        "strikeouts": 36,
+        "hitByPitch": 6,
+        "strikeouts": 38,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 3,
+        "sacrificeFlies": 4,
         "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 272,
+        "putouts": 280,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 134,
+        "plateAppearances": 142,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -3239,10 +3239,10 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "32",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/jack-bello/23670",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Bello_Jack_0009.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 36,
-        "putouts": 272,
-        "assists": 11,
+        "gamesPlayed": 39,
+        "gamesStarted": 38,
+        "putouts": 280,
+        "assists": 12,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 26,
@@ -3251,39 +3251,39 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 283
+        "totalChances": 292
       },
       "evaluation": {
-        "score": 26,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 33.88888888888889,
-          "Power": 38.947368421052644,
-          "Contact": 5.625000000000005,
-          "Discipline": 24.07407407407407,
+          "On-base": 31.11111111111111,
+          "Power": 34.736842105263165,
+          "Contact": 3.7500000000000036,
+          "Discipline": 21.637426900584792,
           "Speed": 3.3333333333333335
         },
         "summary": "Jack Bello gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .229",
-          "OBP .341",
-          "SLG .468"
+          "AVG .226",
+          "OBP .336",
+          "SLG .452"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".229"
+            "value": ".226"
           },
           {
             "label": "OBP",
-            "value": ".341"
+            "value": ".336"
           },
           {
             "label": "SLG",
-            "value": ".468"
+            "value": ".452"
           },
           {
             "label": "HR",
@@ -3291,7 +3291,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "20"
           },
           {
             "label": "SB",
@@ -3347,31 +3347,31 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "33",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/joe-sperry/23661",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Sperry_Joe_0031.jpg",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 0,
-        "appearances": 19,
+        "appearances": 20,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.23,
-        "whip": 1.13,
+        "earnedRunAverage": 2.11,
+        "whip": 1.1,
         "wins": 4,
         "losses": 2,
-        "saves": 0,
+        "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 36.333333333333336,
-        "inningsPitchedDisplay": "36.1",
-        "hitsAllowed": 32,
+        "inningsPitched": 38.333333333333336,
+        "inningsPitchedDisplay": "38.1",
+        "hitsAllowed": 33,
         "runsAllowed": 10,
         "earnedRunsAllowed": 9,
         "walksAllowed": 9,
-        "strikeouts": 46,
+        "strikeouts": 48,
         "doublesAllowed": 9,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 133,
+        "opponentsAtBats": 140,
         "wildPitches": 3,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.241,
+        "opponentsBattingAverage": 0.236,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3381,9 +3381,9 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "33",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/joe-sperry/23661",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Sperry_Joe_0031.jpg",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 0,
-        "putouts": 0,
+        "putouts": 1,
         "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -3393,7 +3393,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 2
+        "totalChances": 3
       },
       "evaluation": {
         "score": 27,
@@ -3404,40 +3404,40 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 67.22268557130941,
-          "Command": 82.22222222222221,
+          "Miss bats": 66.08695652173911,
+          "Command": 86.66666666666666,
           "Damage suppression": 0
         },
         "summary": "Joe Sperry looks like a RHP/DH option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.23",
-          "WHIP 1.13",
-          "K/9 11.4"
+          "ERA 2.11",
+          "WHIP 1.10",
+          "K/9 11.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.23"
+            "value": "2.11"
           },
           {
             "label": "WHIP",
-            "value": "1.13"
+            "value": "1.10"
           },
           {
             "label": "K/9",
-            "value": "11.4"
+            "value": "11.3"
           },
           {
             "label": "BB/9",
-            "value": "2.2"
+            "value": "2.1"
           },
           {
             "label": "HR/9",
-            "value": "0.74"
+            "value": "0.70"
           },
           {
             "label": "IP",
-            "value": "36.3"
+            "value": "38.3"
           }
         ],
         "metaLine": "SR / R/R",
@@ -3807,31 +3807,31 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "38",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/adam-urban/23663",
         "imageUrl": "https://gophersports.com/images/2025/10/14/Urban_Adam_0025.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 1,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.13,
-        "whip": 1.38,
+        "earnedRunAverage": 4.15,
+        "whip": 1.42,
         "wins": 1,
         "losses": 0,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 24,
-        "inningsPitchedDisplay": "24.0",
-        "hitsAllowed": 22,
-        "runsAllowed": 11,
-        "earnedRunsAllowed": 11,
+        "inningsPitched": 26,
+        "inningsPitchedDisplay": "26.0",
+        "hitsAllowed": 26,
+        "runsAllowed": 13,
+        "earnedRunsAllowed": 12,
         "walksAllowed": 11,
-        "strikeouts": 31,
+        "strikeouts": 35,
         "doublesAllowed": 5,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 91,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 101,
         "wildPitches": 1,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.242,
+        "opponentsBattingAverage": 0.257,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3841,22 +3841,22 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "38",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/adam-urban/23663",
         "imageUrl": "https://gophersports.com/images/2025/10/14/Urban_Adam_0025.jpg",
-        "gamesPlayed": 8,
+        "gamesPlayed": 9,
         "gamesStarted": 1,
         "putouts": 1,
-        "assists": 4,
-        "errors": 1,
-        "fieldingPercentage": 0.833,
+        "assists": 5,
+        "errors": 2,
+        "fieldingPercentage": 0.75,
         "doublePlays": 0,
-        "stolenBasesAgainst": 4,
+        "stolenBasesAgainst": 5,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 6
+        "totalChances": 8
       },
       "evaluation": {
-        "score": 20,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3864,40 +3864,40 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 69.31818181818183,
-          "Command": 36.36363636363637,
+          "Miss bats": 73.77622377622377,
+          "Command": 43.63636363636364,
           "Damage suppression": 0
         },
         "summary": "Adam Urban looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.13",
-          "WHIP 1.38",
-          "K/9 11.6"
+          "ERA 4.15",
+          "WHIP 1.42",
+          "K/9 12.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.13"
+            "value": "4.15"
           },
           {
             "label": "WHIP",
-            "value": "1.38"
+            "value": "1.42"
           },
           {
             "label": "K/9",
-            "value": "11.6"
+            "value": "12.1"
           },
           {
             "label": "BB/9",
-            "value": "4.1"
+            "value": "3.8"
           },
           {
             "label": "HR/9",
-            "value": "0.75"
+            "value": "1.04"
           },
           {
             "label": "IP",
-            "value": "24.0"
+            "value": "26.0"
           }
         ],
         "metaLine": "SO / N/A",
@@ -4071,36 +4071,36 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "40",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/tyler-hemmesch/23651",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Hemmesch_Tyler_0028.jpg",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 0,
-        "appearances": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 8.22,
-        "whip": 1.37,
+        "earnedRunAverage": 7.27,
+        "whip": 1.27,
         "wins": 2,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 15.333333333333334,
-        "inningsPitchedDisplay": "15.1",
-        "hitsAllowed": 16,
+        "inningsPitched": 17.333333333333332,
+        "inningsPitchedDisplay": "17.1",
+        "hitsAllowed": 17,
         "runsAllowed": 14,
         "earnedRunsAllowed": 14,
         "walksAllowed": 5,
-        "strikeouts": 20,
-        "doublesAllowed": 5,
+        "strikeouts": 23,
+        "doublesAllowed": 6,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 58,
+        "opponentsAtBats": 65,
         "wildPitches": 0,
         "hitBatters": 6,
         "balks": 0,
-        "opponentsBattingAverage": 0.276,
+        "opponentsBattingAverage": 0.262,
         "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
-        "score": 24,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4108,40 +4108,40 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 70.35573122529644,
-          "Command": 60,
+          "Miss bats": 72.20279720279721,
+          "Command": 72.00000000000001,
           "Damage suppression": 0
         },
         "summary": "Tyler Hemmesch looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 8.22",
-          "WHIP 1.37",
-          "K/9 11.7"
+          "ERA 7.27",
+          "WHIP 1.27",
+          "K/9 11.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.22"
+            "value": "7.27"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "1.27"
           },
           {
             "label": "K/9",
-            "value": "11.7"
+            "value": "11.9"
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "2.6"
           },
           {
             "label": "HR/9",
-            "value": "1.17"
+            "value": "1.04"
           },
           {
             "label": "IP",
-            "value": "15.3"
+            "value": "17.3"
           }
         ],
         "metaLine": "JR / R/R",
@@ -4192,33 +4192,33 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "41",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/charlie-sutherland/23662",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Sutherland_Charlie_0001.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 43,
-        "battingAverage": 0.31,
-        "onBasePercentage": 0.431,
-        "sluggingPercentage": 0.614,
-        "ops": 1.045,
-        "atBats": 158,
+        "gamesPlayed": 46,
+        "gamesStarted": 45,
+        "battingAverage": 0.319,
+        "onBasePercentage": 0.436,
+        "sluggingPercentage": 0.608,
+        "ops": 1.044,
+        "atBats": 166,
         "runs": 42,
-        "hits": 49,
+        "hits": 53,
         "doubles": 11,
         "triples": 2,
         "homeRuns": 11,
-        "runsBattedIn": 52,
-        "totalBases": 97,
-        "walks": 27,
+        "runsBattedIn": 53,
+        "totalBases": 101,
+        "walks": 28,
         "hitByPitch": 8,
-        "strikeouts": 26,
+        "strikeouts": 27,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 2,
         "sacrificeHits": 2,
         "stolenBases": 13,
         "stolenBasesAttempts": 14,
-        "putouts": 25,
+        "putouts": 31,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 212,
+        "plateAppearances": 221,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -4230,9 +4230,9 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "41",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/charlie-sutherland/23662",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Sutherland_Charlie_0001.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 17,
-        "putouts": 25,
+        "gamesPlayed": 19,
+        "gamesStarted": 19,
+        "putouts": 31,
         "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -4242,39 +4242,39 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 27
+        "totalChances": 33
       },
       "evaluation": {
-        "score": 74,
+        "score": 76,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 83.88888888888889,
-          "Power": 77.36842105263159,
-          "Contact": 56.25,
-          "Discipline": 93.16239316239316,
+          "On-base": 86.66666666666666,
+          "Power": 75.78947368421053,
+          "Contact": 61.875,
+          "Discipline": 93.00411522633743,
           "Speed": 43.333333333333336
         },
         "summary": "Charlie Sutherland profiles as a INF/OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .310",
-          "OBP .431",
-          "SLG .614"
+          "AVG .319",
+          "OBP .436",
+          "SLG .608"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".310"
+            "value": ".319"
           },
           {
             "label": "OBP",
-            "value": ".431"
+            "value": ".436"
           },
           {
             "label": "SLG",
-            "value": ".614"
+            "value": ".608"
           },
           {
             "label": "HR",
@@ -4282,7 +4282,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           },
           {
             "label": "RBI",
-            "value": "52"
+            "value": "53"
           },
           {
             "label": "SB",
@@ -4852,31 +4852,31 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "47",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/brandon-jaenke/23682",
         "imageUrl": "https://gophersports.com/images/2025/10/13/Jaenke_Brandon_0017.jpg",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 0,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.59,
+        "earnedRunAverage": 2.49,
         "whip": 1.07,
         "wins": 2,
         "losses": 2,
-        "saves": 3,
+        "saves": 4,
         "shutouts": 0,
-        "inningsPitched": 24.333333333333332,
-        "inningsPitchedDisplay": "24.1",
+        "inningsPitched": 25.333333333333332,
+        "inningsPitchedDisplay": "25.1",
         "hitsAllowed": 15,
         "runsAllowed": 8,
         "earnedRunsAllowed": 7,
-        "walksAllowed": 11,
-        "strikeouts": 24,
+        "walksAllowed": 12,
+        "strikeouts": 25,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 84,
+        "opponentsAtBats": 87,
         "wildPitches": 2,
-        "hitBatters": 1,
+        "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.179,
+        "opponentsBattingAverage": 0.172,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4901,7 +4901,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 13,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4909,20 +4909,20 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 44.333748443337484,
-          "Command": 23.63636363636364,
+          "Miss bats": 44.37799043062201,
+          "Command": 21.66666666666666,
           "Damage suppression": 0
         },
         "summary": "Brandon Jaenke looks like a RHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.59",
+          "ERA 2.49",
           "WHIP 1.07",
           "K/9 8.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.59"
+            "value": "2.49"
           },
           {
             "label": "WHIP",
@@ -4934,15 +4934,15 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           },
           {
             "label": "BB/9",
-            "value": "4.1"
+            "value": "4.3"
           },
           {
             "label": "HR/9",
-            "value": "0.74"
+            "value": "0.71"
           },
           {
             "label": "IP",
-            "value": "24.3"
+            "value": "25.3"
           }
         ],
         "metaLine": "SR / N/A",
@@ -4994,36 +4994,36 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "jersey": "54",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/will-whelan/23664",
         "imageUrl": "https://gophersports.com/images/2025/10/14/Whelan_Will_0055.jpg",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 0,
-        "appearances": 7,
+        "appearances": 8,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.91,
-        "whip": 1.31,
+        "earnedRunAverage": 4.97,
+        "whip": 1.18,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 10.666666666666666,
-        "inningsPitchedDisplay": "10.2",
-        "hitsAllowed": 9,
-        "runsAllowed": 7,
+        "inningsPitched": 12.666666666666666,
+        "inningsPitchedDisplay": "12.2",
+        "hitsAllowed": 10,
+        "runsAllowed": 8,
         "earnedRunsAllowed": 7,
         "walksAllowed": 5,
-        "strikeouts": 9,
+        "strikeouts": 14,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 39,
-        "wildPitches": 2,
-        "hitBatters": 2,
+        "opponentsAtBats": 46,
+        "wildPitches": 4,
+        "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.231,
+        "opponentsBattingAverage": 0.217,
         "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
-        "score": 9,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5031,40 +5031,40 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 32.67045454545455,
-          "Command": 16,
+          "Miss bats": 54.066985645933016,
+          "Command": 36,
           "Damage suppression": 0
         },
-        "summary": "Will Whelan gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Will Whelan looks like a LHP option who misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 5.91",
-          "WHIP 1.31",
-          "K/9 7.6"
+          "ERA 4.97",
+          "WHIP 1.18",
+          "K/9 9.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.91"
+            "value": "4.97"
           },
           {
             "label": "WHIP",
-            "value": "1.31"
+            "value": "1.18"
           },
           {
             "label": "K/9",
-            "value": "7.6"
+            "value": "9.9"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "0.84"
+            "value": "0.71"
           },
           {
             "label": "IP",
-            "value": "10.7"
+            "value": "12.7"
           }
         ],
         "metaLine": "JR / L/L",
@@ -5233,29 +5233,29 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 52,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jack Mosh profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Jack Mosh profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .295",
-          "OBP .427",
-          "SLG .346"
+          "AVG .279",
+          "OBP .404",
+          "SLG .326"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".295"
+            "value": ".279"
           },
           {
             "label": "OBP",
-            "value": ".427"
+            "value": ".404"
           },
           {
             "label": "SLG",
-            "value": ".346"
+            "value": ".326"
           },
           {
             "label": "HR",
@@ -5263,7 +5263,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           },
           {
             "label": "RBI",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "SB",
@@ -5271,10 +5271,10 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           }
         ],
         "components": {
-          "On-base": 81.66666666666666,
-          "Power": 6.842105263157887,
-          "Contact": 46.874999999999986,
-          "Discipline": 98.98989898989898,
+          "On-base": 68.88888888888889,
+          "Power": 1.5789473684210544,
+          "Contact": 36.875000000000014,
+          "Discipline": 73.01587301587298,
           "Speed": 13.333333333333334
         },
         "metaLine": "SR / L/R",
@@ -5302,29 +5302,29 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 74,
+        "score": 70,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Jack Spanier profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .311",
-          "OBP .451",
-          "SLG .540"
+          "AVG .302",
+          "OBP .444",
+          "SLG .521"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".311"
+            "value": ".302"
           },
           {
             "label": "OBP",
-            "value": ".451"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": ".540"
+            "value": ".521"
           },
           {
             "label": "HR",
@@ -5340,9 +5340,9 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           }
         ],
         "components": {
-          "On-base": 95,
-          "Power": 57.894736842105274,
-          "Contact": 56.875,
+          "On-base": 91.1111111111111,
+          "Power": 52.894736842105274,
+          "Contact": 51.24999999999999,
           "Discipline": 100,
           "Speed": 43.333333333333336
         },
@@ -5448,8 +5448,8 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "summary": "Davis Hamilton profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .301",
-          "OBP .464",
-          "SLG .459"
+          "OBP .466",
+          "SLG .451"
         ],
         "statCards": [
           {
@@ -5458,11 +5458,11 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           },
           {
             "label": "OBP",
-            "value": ".464"
+            "value": ".466"
           },
           {
             "label": "SLG",
-            "value": ".459"
+            "value": ".451"
           },
           {
             "label": "HR",
@@ -5474,15 +5474,15 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           },
           {
             "label": "SB",
-            "value": "13"
+            "value": "14"
           }
         ],
         "components": {
           "On-base": 100,
-          "Power": 36.57894736842106,
+          "Power": 34.47368421052632,
           "Contact": 50.624999999999986,
           "Discipline": 100,
-          "Speed": 43.333333333333336
+          "Speed": 46.666666666666664
         },
         "metaLine": "SR / L/R",
         "detailBadges": [
@@ -5578,29 +5578,29 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "position": "INF",
         "classYear": "R-SR",
         "handedness": "N/A",
-        "score": 57,
+        "score": 40,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Ethan Cole profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Ethan Cole profiles as a INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .412",
-          "SLG 1.000"
+          "AVG .235",
+          "OBP .350",
+          "SLG .824"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".235"
           },
           {
             "label": "OBP",
-            "value": ".412"
+            "value": ".350"
           },
           {
             "label": "SLG",
-            "value": "1.000"
+            "value": ".824"
           },
           {
             "label": "HR",
@@ -5616,9 +5616,9 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           }
         ],
         "components": {
-          "On-base": 73.3333333333333,
+          "On-base": 38.888888888888864,
           "Power": 100,
-          "Contact": 41.24999999999998,
+          "Contact": 9.374999999999991,
           "Discipline": 0,
           "Speed": 0
         },
@@ -5716,48 +5716,48 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 14,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Marcus Kruzan looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.00",
-          "WHIP 0.93",
-          "K/9 8.1"
+          "ERA 3.13",
+          "WHIP 0.96",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.00"
+            "value": "3.13"
           },
           {
             "label": "WHIP",
-            "value": "0.93"
+            "value": "0.96"
           },
           {
             "label": "K/9",
-            "value": "8.1"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "2.5"
           },
           {
             "label": "HR/9",
-            "value": "0.43"
+            "value": "0.59"
           },
           {
             "label": "IP",
-            "value": "42.0"
+            "value": "46.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 37.662337662337656,
-          "Command": 38.46153846153846,
+          "Miss bats": 40.11857707509881,
+          "Command": 46.15384615384615,
           "Damage suppression": 0
         },
         "metaLine": "JR / N/A",
@@ -5790,20 +5790,20 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ty Allen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Ty Allen profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .243",
-          "OBP .347",
+          "AVG .248",
+          "OBP .346",
           "SLG .444"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".243"
+            "value": ".248"
           },
           {
             "label": "OBP",
-            "value": ".347"
+            "value": ".346"
           },
           {
             "label": "SLG",
@@ -5819,15 +5819,15 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           },
           {
             "label": "SB",
-            "value": "7"
+            "value": "8"
           }
         ],
         "components": {
-          "On-base": 37.22222222222219,
+          "On-base": 36.666666666666636,
           "Power": 32.631578947368425,
-          "Contact": 14.374999999999996,
-          "Discipline": 56.20915032679738,
-          "Speed": 23.333333333333332
+          "Contact": 17.5,
+          "Discipline": 51.85185185185184,
+          "Speed": 26.666666666666668
         },
         "metaLine": "JR / N/A",
         "detailBadges": [
@@ -6061,48 +6061,48 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 12,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Isaac Morton looks like a RHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.72",
-          "WHIP 1.24",
-          "K/9 8.4"
+          "ERA 3.54",
+          "WHIP 1.18",
+          "K/9 8.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.72"
+            "value": "3.54"
           },
           {
             "label": "WHIP",
-            "value": "1.24"
+            "value": "1.18"
           },
           {
             "label": "K/9",
-            "value": "8.4"
+            "value": "8.9"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "3.5"
           },
           {
             "label": "HR/9",
-            "value": "0.93"
+            "value": "0.84"
           },
           {
             "label": "IP",
-            "value": "48.3"
+            "value": "53.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.81191222570532,
-          "Command": 25,
+          "Miss bats": 44.94318181818181,
+          "Command": 30.476190476190474,
           "Damage suppression": 0
         },
         "metaLine": "JR / N/A",
@@ -6199,37 +6199,37 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "position": "C/INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 83,
+        "score": 84,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Weber Neels profiles as a C/INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .359",
-          "OBP .462",
-          "SLG .641"
+          "AVG .360",
+          "OBP .463",
+          "SLG .652"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".359"
+            "value": ".360"
           },
           {
             "label": "OBP",
-            "value": ".462"
+            "value": ".463"
           },
           {
             "label": "SLG",
-            "value": ".641"
+            "value": ".652"
           },
           {
             "label": "HR",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "RBI",
-            "value": "46"
+            "value": "52"
           },
           {
             "label": "SB",
@@ -6238,9 +6238,9 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 84.47368421052633,
-          "Contact": 86.87499999999999,
-          "Discipline": 83.59788359788358,
+          "Power": 87.36842105263159,
+          "Contact": 87.49999999999999,
+          "Discipline": 79.22705314009659,
           "Speed": 20
         },
         "metaLine": "SR / R/R",
@@ -6406,29 +6406,29 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 4,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brayden Hellum gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .071",
-          "OBP .222",
-          "SLG .071"
+          "AVG .111",
+          "OBP .261",
+          "SLG .167"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".071"
+            "value": ".111"
           },
           {
             "label": "OBP",
-            "value": ".222"
+            "value": ".261"
           },
           {
             "label": "SLG",
-            "value": ".071"
+            "value": ".167"
           },
           {
             "label": "HR",
@@ -6447,7 +6447,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 25.39682539682539,
+          "Discipline": 33.33333333333333,
           "Speed": 0
         },
         "metaLine": "JR / L/L",
@@ -6544,29 +6544,29 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 26,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Bello gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .229",
-          "OBP .341",
-          "SLG .468"
+          "AVG .226",
+          "OBP .336",
+          "SLG .452"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".229"
+            "value": ".226"
           },
           {
             "label": "OBP",
-            "value": ".341"
+            "value": ".336"
           },
           {
             "label": "SLG",
-            "value": ".468"
+            "value": ".452"
           },
           {
             "label": "HR",
@@ -6574,7 +6574,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "20"
           },
           {
             "label": "SB",
@@ -6582,10 +6582,10 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           }
         ],
         "components": {
-          "On-base": 33.88888888888889,
-          "Power": 38.947368421052644,
-          "Contact": 5.625000000000005,
-          "Discipline": 24.07407407407407,
+          "On-base": 31.11111111111111,
+          "Power": 34.736842105263165,
+          "Contact": 3.7500000000000036,
+          "Discipline": 21.637426900584792,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / N/A",
@@ -6620,41 +6620,41 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         },
         "summary": "Joe Sperry looks like a RHP/DH option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.23",
-          "WHIP 1.13",
-          "K/9 11.4"
+          "ERA 2.11",
+          "WHIP 1.10",
+          "K/9 11.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.23"
+            "value": "2.11"
           },
           {
             "label": "WHIP",
-            "value": "1.13"
+            "value": "1.10"
           },
           {
             "label": "K/9",
-            "value": "11.4"
+            "value": "11.3"
           },
           {
             "label": "BB/9",
-            "value": "2.2"
+            "value": "2.1"
           },
           {
             "label": "HR/9",
-            "value": "0.74"
+            "value": "0.70"
           },
           {
             "label": "IP",
-            "value": "36.3"
+            "value": "38.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 67.22268557130941,
-          "Command": 82.22222222222221,
+          "Miss bats": 66.08695652173911,
+          "Command": 86.66666666666666,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -6887,48 +6887,48 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 20,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Adam Urban looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.13",
-          "WHIP 1.38",
-          "K/9 11.6"
+          "ERA 4.15",
+          "WHIP 1.42",
+          "K/9 12.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.13"
+            "value": "4.15"
           },
           {
             "label": "WHIP",
-            "value": "1.38"
+            "value": "1.42"
           },
           {
             "label": "K/9",
-            "value": "11.6"
+            "value": "12.1"
           },
           {
             "label": "BB/9",
-            "value": "4.1"
+            "value": "3.8"
           },
           {
             "label": "HR/9",
-            "value": "0.75"
+            "value": "1.04"
           },
           {
             "label": "IP",
-            "value": "24.0"
+            "value": "26.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 69.31818181818183,
-          "Command": 36.36363636363637,
+          "Miss bats": 73.77622377622377,
+          "Command": 43.63636363636364,
           "Damage suppression": 0
         },
         "metaLine": "SO / N/A",
@@ -7025,48 +7025,48 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 24,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tyler Hemmesch looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 8.22",
-          "WHIP 1.37",
-          "K/9 11.7"
+          "ERA 7.27",
+          "WHIP 1.27",
+          "K/9 11.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.22"
+            "value": "7.27"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "1.27"
           },
           {
             "label": "K/9",
-            "value": "11.7"
+            "value": "11.9"
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "2.6"
           },
           {
             "label": "HR/9",
-            "value": "1.17"
+            "value": "1.04"
           },
           {
             "label": "IP",
-            "value": "15.3"
+            "value": "17.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 70.35573122529644,
-          "Command": 60,
+          "Miss bats": 72.20279720279721,
+          "Command": 72.00000000000001,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -7094,29 +7094,29 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "position": "INF/OF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 74,
+        "score": 76,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Charlie Sutherland profiles as a INF/OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .310",
-          "OBP .431",
-          "SLG .614"
+          "AVG .319",
+          "OBP .436",
+          "SLG .608"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".310"
+            "value": ".319"
           },
           {
             "label": "OBP",
-            "value": ".431"
+            "value": ".436"
           },
           {
             "label": "SLG",
-            "value": ".614"
+            "value": ".608"
           },
           {
             "label": "HR",
@@ -7124,7 +7124,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           },
           {
             "label": "RBI",
-            "value": "52"
+            "value": "53"
           },
           {
             "label": "SB",
@@ -7132,10 +7132,10 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           }
         ],
         "components": {
-          "On-base": 83.88888888888889,
-          "Power": 77.36842105263159,
-          "Contact": 56.25,
-          "Discipline": 93.16239316239316,
+          "On-base": 86.66666666666666,
+          "Power": 75.78947368421053,
+          "Contact": 61.875,
+          "Discipline": 93.00411522633743,
           "Speed": 43.333333333333336
         },
         "metaLine": "JR / L/R",
@@ -7438,21 +7438,21 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 13,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brandon Jaenke looks like a RHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.59",
+          "ERA 2.49",
           "WHIP 1.07",
           "K/9 8.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.59"
+            "value": "2.49"
           },
           {
             "label": "WHIP",
@@ -7464,22 +7464,22 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           },
           {
             "label": "BB/9",
-            "value": "4.1"
+            "value": "4.3"
           },
           {
             "label": "HR/9",
-            "value": "0.74"
+            "value": "0.71"
           },
           {
             "label": "IP",
-            "value": "24.3"
+            "value": "25.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 44.333748443337484,
-          "Command": 23.63636363636364,
+          "Miss bats": 44.37799043062201,
+          "Command": 21.66666666666666,
           "Damage suppression": 0
         },
         "metaLine": "SR / N/A",
@@ -7507,48 +7507,48 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "position": "LHP",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 9,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Will Whelan gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Will Whelan looks like a LHP option who misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 5.91",
-          "WHIP 1.31",
-          "K/9 7.6"
+          "ERA 4.97",
+          "WHIP 1.18",
+          "K/9 9.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.91"
+            "value": "4.97"
           },
           {
             "label": "WHIP",
-            "value": "1.31"
+            "value": "1.18"
           },
           {
             "label": "K/9",
-            "value": "7.6"
+            "value": "9.9"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "0.84"
+            "value": "0.71"
           },
           {
             "label": "IP",
-            "value": "10.7"
+            "value": "12.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 32.67045454545455,
-          "Command": 16,
+          "Miss bats": 54.066985645933016,
+          "Command": 36,
           "Damage suppression": 0
         },
         "metaLine": "JR / L/L",

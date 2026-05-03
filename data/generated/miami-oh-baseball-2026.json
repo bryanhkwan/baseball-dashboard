@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T11:07:09.202Z",
+  "generatedAt": "2026-05-03T11:06:59.831Z",
   "season": 2026,
   "school": {
     "slug": "miami-oh",
@@ -38,86 +38,86 @@
     }
   },
   "teamSummary": {
-    "record": "31-14, 18-7",
-    "battingAverage": ".303",
-    "earnedRunAverage": "5.64",
-    "wins": "31",
+    "record": "32-14, 19-7",
+    "battingAverage": ".306",
+    "earnedRunAverage": "5.67",
+    "wins": "32",
     "losses": "14",
     "hitting": {
-      "atBats": "1519",
-      "runsScored": "423",
-      "hits": "461",
-      "runsBattedIn": "391",
-      "doubles": "91",
+      "atBats": "1556",
+      "runsScored": "435",
+      "hits": "476",
+      "runsBattedIn": "403",
+      "doubles": "94",
       "triples": "10",
-      "homeRuns": "72",
-      "walks": "293",
-      "intentionalWalks": "7",
-      "strikeouts": "385",
-      "strikeoutsLooking": "123",
-      "hitByPitch": "105",
-      "stolenBases": "86",
-      "caughtStealing": "20",
-      "sacrificeHits": "19",
+      "homeRuns": "74",
+      "walks": "305",
+      "intentionalWalks": "8",
+      "strikeouts": "392",
+      "strikeoutsLooking": "127",
+      "hitByPitch": "111",
+      "stolenBases": "89",
+      "caughtStealing": "21",
+      "sacrificeHits": "22",
       "sacrificeFlies": "21",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "365",
-      "flyOuts": "313",
-      "groundedIntoDoublePlay": "14",
+      "groundOuts": "376",
+      "flyOuts": "320",
+      "groundedIntoDoublePlay": "15",
       "pickedOff": "7",
-      "doublePlaysHitInto": "25",
+      "doublePlaysHitInto": "26",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1138",
-      "assists": "386",
-      "errors": "54",
+      "putouts": "1165",
+      "assists": "392",
+      "errors": "56",
       "passedBalls": "6",
       "catchersInterference": "2",
-      "stolenBasesAgainst": "43",
+      "stolenBasesAgainst": "44",
       "caughtStealingBy": "24",
-      "involvedInDoublePlays": "20",
+      "involvedInDoublePlays": "21",
       "involvedInTriplePlays": "0",
-      "totalChances": "1578",
-      "fieldingPercentage": ".966"
+      "totalChances": "1613",
+      "fieldingPercentage": ".965"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "30",
-      "saves": "2",
+      "wins": "31",
+      "saves": "3",
       "losses": "14",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "1",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "379.2",
-      "hitsAllowed": "416",
-      "runsAllowed": "286",
-      "earnedRunsAllowed": "238",
-      "walksAllowed": "154",
-      "strikeouts": "340",
-      "battersFaced": "1756",
-      "opponentAtBats": "1502",
-      "doublesAllowed": "95",
-      "triplesAllowed": "17",
+      "inningsPitched": "388.2",
+      "hitsAllowed": "428",
+      "runsAllowed": "294",
+      "earnedRunsAllowed": "245",
+      "walksAllowed": "156",
+      "strikeouts": "348",
+      "battersFaced": "1801",
+      "opponentAtBats": "1540",
+      "doublesAllowed": "98",
+      "triplesAllowed": "18",
       "homerunsAllowed": "43",
       "wildPitches": "29",
       "balks": "3",
-      "hitBatters": "63",
-      "strikeoutsLooking": "99",
+      "hitBatters": "67",
+      "strikeoutsLooking": "102",
       "intentionalWalks": "2",
       "inheritedRunners": "0",
       "inheritedRunnersThatScored": "0",
       "sacrificeHitsAllowed": "19",
-      "sacrificeFliesAllowed": "16",
+      "sacrificeFliesAllowed": "17",
       "catchersInterferenceAllowed": "0",
-      "pitches": "5808",
-      "flyouts": "395",
-      "groundouts": "347",
+      "pitches": "5973",
+      "flyouts": "407",
+      "groundouts": "353",
       "teamUnearnedRuns": "0",
-      "saveRecord": "2",
+      "saveRecord": "3",
       "pickoff": "7"
     }
   },
@@ -302,34 +302,34 @@
         "jersey": "2",
         "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/diego-cruz/10886",
         "imageUrl": "https://miamiredhawks.com/images/2026/1/22/_2_Cruz__Diego_yIJkm.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "battingAverage": 0.365,
-        "onBasePercentage": 0.433,
-        "sluggingPercentage": 0.603,
-        "ops": 1.036,
-        "atBats": 156,
-        "runs": 46,
-        "hits": 57,
-        "doubles": 12,
+        "gamesPlayed": 43,
+        "gamesStarted": 43,
+        "battingAverage": 0.371,
+        "onBasePercentage": 0.446,
+        "sluggingPercentage": 0.616,
+        "ops": 1.062,
+        "atBats": 159,
+        "runs": 49,
+        "hits": 59,
+        "doubles": 14,
         "triples": 2,
         "homeRuns": 7,
         "runsBattedIn": 38,
-        "totalBases": 94,
-        "walks": 10,
-        "hitByPitch": 11,
+        "totalBases": 98,
+        "walks": 12,
+        "hitByPitch": 12,
         "strikeouts": 36,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
-        "stolenBases": 20,
-        "stolenBasesAttempts": 23,
-        "putouts": 77,
+        "stolenBases": 21,
+        "stolenBasesAttempts": 25,
+        "putouts": 78,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 206,
-        "caughtStealing": 3,
+        "plateAppearances": 215,
+        "caughtStealing": 4,
         "pickedOff": 2
       },
       "pitchingStats": null,
@@ -340,10 +340,10 @@
         "jersey": "2",
         "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/diego-cruz/10886",
         "imageUrl": "https://miamiredhawks.com/images/2026/1/22/_2_Cruz__Diego_yIJkm.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "putouts": 77,
-        "assists": 91,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "putouts": 78,
+        "assists": 92,
         "errors": 6,
         "fieldingPercentage": 0.966,
         "doublePlays": 17,
@@ -352,39 +352,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 174
+        "totalChances": 176
       },
       "evaluation": {
-        "score": 71,
+        "score": 76,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 84.99999999999999,
-          "Power": 74.47368421052632,
-          "Contact": 90.62499999999999,
-          "Discipline": 8.641975308641975,
-          "Speed": 66.66666666666666
+          "On-base": 92.22222222222221,
+          "Power": 77.89473684210527,
+          "Contact": 94.375,
+          "Discipline": 14.814814814814808,
+          "Speed": 70
         },
         "summary": "Diego Cruz profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .365",
-          "OBP .433",
-          "SLG .603"
+          "AVG .371",
+          "OBP .446",
+          "SLG .616"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".365"
+            "value": ".371"
           },
           {
             "label": "OBP",
-            "value": ".433"
+            "value": ".446"
           },
           {
             "label": "SLG",
-            "value": ".603"
+            "value": ".616"
           },
           {
             "label": "HR",
@@ -396,7 +396,7 @@
           },
           {
             "label": "SB",
-            "value": "20"
+            "value": "21"
           }
         ],
         "metaLine": "FR / N/A",
@@ -447,13 +447,13 @@
         "jersey": "3",
         "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/christopher-roa-calcano/10882",
         "imageUrl": "https://miamiredhawks.com/images/2026/1/22/_3_Roa_calcano__Christopher_4ozJ9.jpg",
-        "gamesPlayed": 21,
-        "gamesStarted": 15,
-        "battingAverage": 0.339,
-        "onBasePercentage": 0.414,
-        "sluggingPercentage": 0.576,
-        "ops": 0.99,
-        "atBats": 59,
+        "gamesPlayed": 22,
+        "gamesStarted": 16,
+        "battingAverage": 0.313,
+        "onBasePercentage": 0.395,
+        "sluggingPercentage": 0.531,
+        "ops": 0.926,
+        "atBats": 64,
         "runs": 14,
         "hits": 20,
         "doubles": 6,
@@ -461,19 +461,19 @@
         "homeRuns": 2,
         "runsBattedIn": 10,
         "totalBases": 34,
-        "walks": 8,
+        "walks": 9,
         "hitByPitch": 1,
-        "strikeouts": 15,
+        "strikeouts": 17,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
+        "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 4,
+        "stolenBases": 4,
+        "stolenBasesAttempts": 5,
         "putouts": 5,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 75,
+        "plateAppearances": 82,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -500,36 +500,36 @@
         "totalChances": 6
       },
       "evaluation": {
-        "score": 61,
+        "score": 52,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 74.44444444444443,
-          "Power": 67.36842105263158,
-          "Contact": 74.37500000000001,
-          "Discipline": 37.03703703703703,
-          "Speed": 10
+          "On-base": 63.888888888888886,
+          "Power": 55.5263157894737,
+          "Contact": 58.12499999999999,
+          "Discipline": 36.601307189542474,
+          "Speed": 13.333333333333334
         },
-        "summary": "Christopher Roa Calcano profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Christopher Roa Calcano gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .339",
-          "OBP .414",
-          "SLG .576"
+          "AVG .313",
+          "OBP .395",
+          "SLG .531"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".339"
+            "value": ".313"
           },
           {
             "label": "OBP",
-            "value": ".414"
+            "value": ".395"
           },
           {
             "label": "SLG",
-            "value": ".576"
+            "value": ".531"
           },
           {
             "label": "HR",
@@ -541,7 +541,7 @@
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "4"
           }
         ],
         "metaLine": "SO / N/A",
@@ -738,31 +738,31 @@
         "jersey": "5",
         "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/clayton-burke/10864",
         "imageUrl": "https://miamiredhawks.com/images/2026/1/22/_5_Burke__Clayton_cvrv5.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 10,
-        "appearances": 11,
+        "gamesPlayed": 12,
+        "gamesStarted": 11,
+        "appearances": 12,
         "gamesCompleted": 1,
-        "earnedRunAverage": 3.32,
-        "whip": 1.09,
-        "wins": 7,
+        "earnedRunAverage": 3.76,
+        "whip": 1.13,
+        "wins": 8,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 59.666666666666664,
-        "inningsPitchedDisplay": "59.2",
-        "hitsAllowed": 50,
-        "runsAllowed": 28,
-        "earnedRunsAllowed": 22,
-        "walksAllowed": 15,
-        "strikeouts": 58,
-        "doublesAllowed": 14,
-        "triplesAllowed": 3,
+        "inningsPitched": 64.66666666666667,
+        "inningsPitchedDisplay": "64.2",
+        "hitsAllowed": 57,
+        "runsAllowed": 34,
+        "earnedRunsAllowed": 27,
+        "walksAllowed": 16,
+        "strikeouts": 60,
+        "doublesAllowed": 17,
+        "triplesAllowed": 4,
         "homeRunsAllowed": 8,
-        "opponentsAtBats": 224,
+        "opponentsAtBats": 245,
         "wildPitches": 2,
-        "hitBatters": 9,
+        "hitBatters": 12,
         "balks": 3,
-        "opponentsBattingAverage": 0.223,
+        "opponentsBattingAverage": 0.233,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -772,22 +772,22 @@
         "jersey": "5",
         "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/clayton-burke/10864",
         "imageUrl": "https://miamiredhawks.com/images/2026/1/22/_5_Burke__Clayton_cvrv5.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 9,
+        "gamesPlayed": 11,
+        "gamesStarted": 10,
         "putouts": 2,
-        "assists": 4,
+        "assists": 5,
         "errors": 1,
-        "fieldingPercentage": 0.857,
+        "fieldingPercentage": 0.875,
         "doublePlays": 0,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 3,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 7
+        "totalChances": 8
       },
       "evaluation": {
-        "score": 18,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -795,40 +795,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.16912138141188,
-          "Command": 57.33333333333333,
+          "Miss bats": 39.550140581068405,
+          "Command": 55.00000000000001,
           "Damage suppression": 0
         },
         "summary": "Clayton Burke looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.32",
-          "WHIP 1.09",
-          "K/9 8.7"
+          "ERA 3.76",
+          "WHIP 1.13",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.32"
+            "value": "3.76"
           },
           {
             "label": "WHIP",
-            "value": "1.09"
+            "value": "1.13"
           },
           {
             "label": "K/9",
-            "value": "8.7"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "2.3"
+            "value": "2.2"
           },
           {
             "label": "HR/9",
-            "value": "1.21"
+            "value": "1.11"
           },
           {
             "label": "IP",
-            "value": "59.7"
+            "value": "64.7"
           }
         ],
         "metaLine": "GR / N/A",
@@ -1025,29 +1025,29 @@
         "jersey": "7",
         "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/carson-byers/10865",
         "imageUrl": "https://miamiredhawks.com/images/2026/1/22/_7_Byers__Carson_YA9Ko.jpg",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 3,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.66,
+        "earnedRunAverage": 6.5,
         "whip": 1.48,
         "wins": 6,
         "losses": 1,
-        "saves": 1,
+        "saves": 2,
         "shutouts": 0,
-        "inningsPitched": 50,
-        "inningsPitchedDisplay": "50.0",
-        "hitsAllowed": 58,
-        "runsAllowed": 42,
-        "earnedRunsAllowed": 37,
-        "walksAllowed": 16,
-        "strikeouts": 42,
+        "inningsPitched": 54,
+        "inningsPitchedDisplay": "54.0",
+        "hitsAllowed": 63,
+        "runsAllowed": 44,
+        "earnedRunsAllowed": 39,
+        "walksAllowed": 17,
+        "strikeouts": 48,
         "doublesAllowed": 12,
         "triplesAllowed": 3,
         "homeRunsAllowed": 9,
-        "opponentsAtBats": 203,
+        "opponentsAtBats": 220,
         "wildPitches": 6,
-        "hitBatters": 10,
+        "hitBatters": 11,
         "balks": 0,
         "opponentsBattingAverage": 0.286,
         "walksHits": 0
@@ -1059,14 +1059,14 @@
         "jersey": "7",
         "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/carson-byers/10865",
         "imageUrl": "https://miamiredhawks.com/images/2026/1/22/_7_Byers__Carson_YA9Ko.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 3,
         "putouts": 3,
         "assists": 8,
         "errors": 1,
         "fieldingPercentage": 0.917,
         "doublePlays": 1,
-        "stolenBasesAgainst": 5,
+        "stolenBasesAgainst": 6,
         "caughtStealingBy": 2,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
@@ -1074,7 +1074,7 @@
         "totalChances": 12
       },
       "evaluation": {
-        "score": 12,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1082,20 +1082,20 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 32.36363636363636,
-          "Command": 32.5,
+          "Miss bats": 36.36363636363637,
+          "Command": 36.47058823529411,
           "Damage suppression": 0
         },
         "summary": "Carson Byers looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.66",
+          "ERA 6.50",
           "WHIP 1.48",
-          "K/9 7.6"
+          "K/9 8.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.66"
+            "value": "6.50"
           },
           {
             "label": "WHIP",
@@ -1103,19 +1103,19 @@
           },
           {
             "label": "K/9",
-            "value": "7.6"
+            "value": "8.0"
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "2.8"
           },
           {
             "label": "HR/9",
-            "value": "1.62"
+            "value": "1.50"
           },
           {
             "label": "IP",
-            "value": "50.0"
+            "value": "54.0"
           }
         ],
         "metaLine": "SR / N/A",
@@ -1308,7 +1308,7 @@
         "jersey": "9",
         "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/drew-phillips/10877",
         "imageUrl": "https://miamiredhawks.com/images/2026/1/22/_9_Phillips__Drew_MRjpA.jpg",
-        "gamesPlayed": 21,
+        "gamesPlayed": 22,
         "gamesStarted": 0,
         "battingAverage": 0,
         "onBasePercentage": 0.2,
@@ -1453,33 +1453,33 @@
         "jersey": "10",
         "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/dominic-krupinski/10871",
         "imageUrl": "https://miamiredhawks.com/images/2026/1/22/_10_Krupinski__Dominic_Zmh9i.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "battingAverage": 0.264,
-        "onBasePercentage": 0.461,
-        "sluggingPercentage": 0.426,
-        "ops": 0.887,
-        "atBats": 148,
-        "runs": 37,
-        "hits": 39,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "battingAverage": 0.276,
+        "onBasePercentage": 0.471,
+        "sluggingPercentage": 0.434,
+        "ops": 0.905,
+        "atBats": 152,
+        "runs": 39,
+        "hits": 42,
         "doubles": 9,
         "triples": 0,
         "homeRuns": 5,
-        "runsBattedIn": 29,
-        "totalBases": 63,
-        "walks": 37,
+        "runsBattedIn": 31,
+        "totalBases": 66,
+        "walks": 39,
         "hitByPitch": 18,
-        "strikeouts": 40,
+        "strikeouts": 41,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 3,
         "stolenBases": 7,
         "stolenBasesAttempts": 10,
-        "putouts": 33,
+        "putouts": 34,
         "assists": 0,
         "errors": 16,
-        "plateAppearances": 220,
+        "plateAppearances": 226,
         "caughtStealing": 3,
         "pickedOff": 2
       },
@@ -1491,51 +1491,51 @@
         "jersey": "10",
         "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/dominic-krupinski/10871",
         "imageUrl": "https://miamiredhawks.com/images/2026/1/22/_10_Krupinski__Dominic_Zmh9i.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "putouts": 33,
-        "assists": 81,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "putouts": 34,
+        "assists": 84,
         "errors": 16,
-        "fieldingPercentage": 0.877,
-        "doublePlays": 7,
+        "fieldingPercentage": 0.881,
+        "doublePlays": 8,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 130
+        "totalChances": 134
       },
       "evaluation": {
-        "score": 58,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
           "On-base": 100,
-          "Power": 27.89473684210526,
-          "Contact": 27.500000000000007,
-          "Discipline": 80.55555555555556,
+          "Power": 30,
+          "Contact": 35.000000000000014,
+          "Discipline": 83.46883468834687,
           "Speed": 23.333333333333332
         },
         "summary": "Dominic Krupinski profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .264",
-          "OBP .461",
-          "SLG .426"
+          "AVG .276",
+          "OBP .471",
+          "SLG .434"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".264"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".461"
+            "value": ".471"
           },
           {
             "label": "SLG",
-            "value": ".426"
+            "value": ".434"
           },
           {
             "label": "HR",
@@ -1543,7 +1543,7 @@
           },
           {
             "label": "RBI",
-            "value": "29"
+            "value": "31"
           },
           {
             "label": "SB",
@@ -1686,33 +1686,33 @@
         "jersey": "12",
         "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/marcus-dierks/10888",
         "imageUrl": "https://miamiredhawks.com/images/2026/1/22/_12_Dierks__Marcus_YCP3g.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "battingAverage": 0.364,
-        "onBasePercentage": 0.505,
-        "sluggingPercentage": 0.436,
-        "ops": 0.941,
-        "atBats": 165,
-        "runs": 59,
-        "hits": 60,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "battingAverage": 0.365,
+        "onBasePercentage": 0.502,
+        "sluggingPercentage": 0.435,
+        "ops": 0.937,
+        "atBats": 170,
+        "runs": 60,
+        "hits": 62,
         "doubles": 8,
         "triples": 2,
         "homeRuns": 0,
-        "runsBattedIn": 25,
-        "totalBases": 72,
+        "runsBattedIn": 26,
+        "totalBases": 74,
         "walks": 32,
         "hitByPitch": 16,
-        "strikeouts": 30,
+        "strikeouts": 32,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
-        "sacrificeHits": 10,
+        "sacrificeHits": 12,
         "stolenBases": 33,
         "stolenBasesAttempts": 37,
-        "putouts": 116,
+        "putouts": 121,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 265,
+        "plateAppearances": 272,
         "caughtStealing": 4,
         "pickedOff": 1
       },
@@ -1724,51 +1724,51 @@
         "jersey": "12",
         "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/marcus-dierks/10888",
         "imageUrl": "https://miamiredhawks.com/images/2026/1/22/_12_Dierks__Marcus_YCP3g.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "putouts": 116,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "putouts": 121,
         "assists": 0,
         "errors": 1,
-        "fieldingPercentage": 0.991,
+        "fieldingPercentage": 0.992,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 117
+        "totalChances": 122
       },
       "evaluation": {
-        "score": 80,
+        "score": 79,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
           "On-base": 100,
-          "Power": 30.526315789473685,
-          "Contact": 89.99999999999999,
-          "Discipline": 96.29629629629628,
+          "Power": 30.263157894736842,
+          "Contact": 90.62499999999999,
+          "Discipline": 88.88888888888889,
           "Speed": 100
         },
         "summary": "Marcus Dierks profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .364",
-          "OBP .505",
-          "SLG .436"
+          "AVG .365",
+          "OBP .502",
+          "SLG .435"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".364"
+            "value": ".365"
           },
           {
             "label": "OBP",
-            "value": ".505"
+            "value": ".502"
           },
           {
             "label": "SLG",
-            "value": ".436"
+            "value": ".435"
           },
           {
             "label": "HR",
@@ -1776,7 +1776,7 @@
           },
           {
             "label": "RBI",
-            "value": "25"
+            "value": "26"
           },
           {
             "label": "SB",
@@ -2009,33 +2009,33 @@
         "jersey": "14",
         "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/carson-raether/10880",
         "imageUrl": "https://miamiredhawks.com/images/2026/1/22/_14_Raether__Carson_O8Ooo.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 31,
-        "battingAverage": 0.276,
-        "onBasePercentage": 0.442,
-        "sluggingPercentage": 0.552,
-        "ops": 0.994,
-        "atBats": 116,
-        "runs": 28,
-        "hits": 32,
+        "gamesPlayed": 36,
+        "gamesStarted": 32,
+        "battingAverage": 0.286,
+        "onBasePercentage": 0.456,
+        "sluggingPercentage": 0.555,
+        "ops": 1.011,
+        "atBats": 119,
+        "runs": 29,
+        "hits": 34,
         "doubles": 7,
         "triples": 2,
         "homeRuns": 7,
-        "runsBattedIn": 30,
-        "totalBases": 64,
+        "runsBattedIn": 31,
+        "totalBases": 66,
         "walks": 23,
-        "hitByPitch": 13,
+        "hitByPitch": 16,
         "strikeouts": 29,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
         "sacrificeHits": 4,
-        "stolenBases": 4,
-        "stolenBasesAttempts": 5,
-        "putouts": 228,
+        "stolenBases": 5,
+        "stolenBasesAttempts": 6,
+        "putouts": 236,
         "assists": 0,
-        "errors": 3,
-        "plateAppearances": 164,
+        "errors": 4,
+        "plateAppearances": 171,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -2047,51 +2047,51 @@
         "jersey": "14",
         "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/carson-raether/10880",
         "imageUrl": "https://miamiredhawks.com/images/2026/1/22/_14_Raether__Carson_O8Ooo.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 29,
-        "putouts": 228,
+        "gamesPlayed": 34,
+        "gamesStarted": 30,
+        "putouts": 236,
         "assists": 28,
-        "errors": 3,
-        "fieldingPercentage": 0.988,
+        "errors": 4,
+        "fieldingPercentage": 0.985,
         "doublePlays": 0,
-        "stolenBasesAgainst": 28,
+        "stolenBasesAgainst": 29,
         "caughtStealingBy": 16,
         "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 2,
-        "totalChances": 259
+        "totalChances": 268
       },
       "evaluation": {
-        "score": 62,
+        "score": 66,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 89.99999999999999,
-          "Power": 61.05263157894739,
-          "Contact": 35.000000000000014,
+          "On-base": 97.77777777777777,
+          "Power": 61.84210526315791,
+          "Contact": 41.24999999999998,
           "Discipline": 65.90038314176245,
-          "Speed": 13.333333333333334
+          "Speed": 16.666666666666664
         },
         "summary": "Carson Raether profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .276",
-          "OBP .442",
-          "SLG .552"
+          "AVG .286",
+          "OBP .456",
+          "SLG .555"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".276"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".442"
+            "value": ".456"
           },
           {
             "label": "SLG",
-            "value": ".552"
+            "value": ".555"
           },
           {
             "label": "HR",
@@ -2099,11 +2099,11 @@
           },
           {
             "label": "RBI",
-            "value": "30"
+            "value": "31"
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "metaLine": "SO / N/A",
@@ -2299,33 +2299,33 @@
         "jersey": "16",
         "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/evan-appelwick/10861",
         "imageUrl": "https://miamiredhawks.com/images/2026/1/22/_16_Appelwick__Evan_OUEsJ.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "battingAverage": 0.29,
-        "onBasePercentage": 0.475,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "battingAverage": 0.296,
+        "onBasePercentage": 0.474,
         "sluggingPercentage": 0.568,
-        "ops": 1.043,
-        "atBats": 162,
-        "runs": 52,
-        "hits": 47,
-        "doubles": 7,
+        "ops": 1.042,
+        "atBats": 169,
+        "runs": 54,
+        "hits": 50,
+        "doubles": 8,
         "triples": 1,
         "homeRuns": 12,
-        "runsBattedIn": 44,
-        "totalBases": 92,
+        "runsBattedIn": 47,
+        "totalBases": 96,
         "walks": 52,
         "hitByPitch": 6,
-        "strikeouts": 41,
+        "strikeouts": 42,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 4,
         "stolenBasesAttempts": 6,
-        "putouts": 343,
+        "putouts": 349,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 230,
+        "plateAppearances": 237,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -2337,22 +2337,22 @@
         "jersey": "16",
         "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/evan-appelwick/10861",
         "imageUrl": "https://miamiredhawks.com/images/2026/1/22/_16_Appelwick__Evan_OUEsJ.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "putouts": 343,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "putouts": 349,
         "assists": 21,
         "errors": 6,
         "fieldingPercentage": 0.984,
-        "doublePlays": 18,
+        "doublePlays": 19,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 370
+        "totalChances": 376
       },
       "evaluation": {
-        "score": 72,
+        "score": 73,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
@@ -2360,24 +2360,24 @@
         "components": {
           "On-base": 100,
           "Power": 65.26315789473684,
-          "Contact": 43.749999999999986,
+          "Contact": 47.499999999999986,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },
         "summary": "Evan Appelwick profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .290",
-          "OBP .475",
+          "AVG .296",
+          "OBP .474",
           "SLG .568"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".296"
           },
           {
             "label": "OBP",
-            "value": ".475"
+            "value": ".474"
           },
           {
             "label": "SLG",
@@ -2389,7 +2389,7 @@
           },
           {
             "label": "RBI",
-            "value": "44"
+            "value": "47"
           },
           {
             "label": "SB",
@@ -2975,13 +2975,13 @@
         "jersey": "21",
         "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/ignacio-gonzalez/10868",
         "imageUrl": "https://miamiredhawks.com/images/2026/1/22/_21_Gonzalez__Ignacio_bkFMv.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 41,
-        "battingAverage": 0.277,
+        "gamesPlayed": 43,
+        "gamesStarted": 42,
+        "battingAverage": 0.272,
         "onBasePercentage": 0.38,
-        "sluggingPercentage": 0.472,
-        "ops": 0.852,
-        "atBats": 159,
+        "sluggingPercentage": 0.463,
+        "ops": 0.843,
+        "atBats": 162,
         "runs": 33,
         "hits": 44,
         "doubles": 7,
@@ -2989,19 +2989,19 @@
         "homeRuns": 8,
         "runsBattedIn": 44,
         "totalBases": 75,
-        "walks": 24,
-        "hitByPitch": 3,
+        "walks": 25,
+        "hitByPitch": 4,
         "strikeouts": 59,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
-        "sacrificeHits": 0,
+        "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 3,
-        "putouts": 50,
+        "putouts": 51,
         "assists": 0,
-        "errors": 7,
-        "plateAppearances": 192,
+        "errors": 8,
+        "plateAppearances": 198,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -3013,43 +3013,43 @@
         "jersey": "21",
         "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/ignacio-gonzalez/10868",
         "imageUrl": "https://miamiredhawks.com/images/2026/1/22/_21_Gonzalez__Ignacio_bkFMv.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 41,
-        "putouts": 50,
-        "assists": 99,
-        "errors": 7,
-        "fieldingPercentage": 0.955,
+        "gamesPlayed": 43,
+        "gamesStarted": 42,
+        "putouts": 51,
+        "assists": 100,
+        "errors": 8,
+        "fieldingPercentage": 0.95,
         "doublePlays": 7,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 156
+        "totalChances": 159
       },
       "evaluation": {
-        "score": 38,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
           "On-base": 55.55555555555555,
-          "Power": 40,
-          "Contact": 35.625000000000014,
-          "Discipline": 22.975517890772128,
+          "Power": 37.63157894736843,
+          "Contact": 32.500000000000014,
+          "Discipline": 24.858757062146886,
           "Speed": 3.3333333333333335
         },
         "summary": "Ignacio Gonzalez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .277",
+          "AVG .272",
           "OBP .380",
-          "SLG .472"
+          "SLG .463"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".272"
           },
           {
             "label": "OBP",
@@ -3057,7 +3057,7 @@
           },
           {
             "label": "SLG",
-            "value": ".472"
+            "value": ".463"
           },
           {
             "label": "HR",
@@ -3529,22 +3529,22 @@
         "jersey": "25",
         "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/tommy-harrison/10869",
         "imageUrl": "https://miamiredhawks.com/images/2026/1/22/_25_Harrison__Tommy_5gt0K.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "battingAverage": 0.4,
-        "onBasePercentage": 0.521,
-        "sluggingPercentage": 0.694,
-        "ops": 1.215,
-        "atBats": 170,
-        "runs": 47,
-        "hits": 68,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "battingAverage": 0.399,
+        "onBasePercentage": 0.527,
+        "sluggingPercentage": 0.705,
+        "ops": 1.232,
+        "atBats": 173,
+        "runs": 49,
+        "hits": 69,
         "doubles": 14,
         "triples": 0,
-        "homeRuns": 12,
-        "runsBattedIn": 68,
-        "totalBases": 118,
-        "walks": 33,
-        "hitByPitch": 11,
+        "homeRuns": 13,
+        "runsBattedIn": 69,
+        "totalBases": 122,
+        "walks": 36,
+        "hitByPitch": 12,
         "strikeouts": 25,
         "intentionalWalks": 3,
         "groundedIntoDoublePlay": 2,
@@ -3552,10 +3552,10 @@
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 5,
-        "putouts": 68,
+        "putouts": 70,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 222,
+        "plateAppearances": 229,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -3567,9 +3567,9 @@
         "jersey": "25",
         "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/tommy-harrison/10869",
         "imageUrl": "https://miamiredhawks.com/images/2026/1/22/_25_Harrison__Tommy_5gt0K.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
-        "putouts": 68,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "putouts": 70,
         "assists": 3,
         "errors": 1,
         "fieldingPercentage": 0.986,
@@ -3579,7 +3579,7 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 72
+        "totalChances": 74
       },
       "evaluation": {
         "score": 91,
@@ -3589,37 +3589,37 @@
         },
         "components": {
           "On-base": 100,
-          "Power": 98.42105263157895,
+          "Power": 100,
           "Contact": 100,
           "Discipline": 100,
           "Speed": 10
         },
         "summary": "Tommy Harrison profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .400",
-          "OBP .521",
-          "SLG .694"
+          "AVG .399",
+          "OBP .527",
+          "SLG .705"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".400"
+            "value": ".399"
           },
           {
             "label": "OBP",
-            "value": ".521"
+            "value": ".527"
           },
           {
             "label": "SLG",
-            "value": ".694"
+            "value": ".705"
           },
           {
             "label": "HR",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "RBI",
-            "value": "68"
+            "value": "69"
           },
           {
             "label": "SB",
@@ -4316,33 +4316,33 @@
         "jersey": "31",
         "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/ryan-novak/10873",
         "imageUrl": "https://miamiredhawks.com/images/2026/1/22/_31_Novak__Ryan_j3TWs.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 43,
-        "battingAverage": 0.259,
-        "onBasePercentage": 0.418,
-        "sluggingPercentage": 0.538,
-        "ops": 0.956,
-        "atBats": 158,
-        "runs": 46,
-        "hits": 41,
+        "gamesPlayed": 45,
+        "gamesStarted": 44,
+        "battingAverage": 0.265,
+        "onBasePercentage": 0.427,
+        "sluggingPercentage": 0.556,
+        "ops": 0.983,
+        "atBats": 162,
+        "runs": 47,
+        "hits": 43,
         "doubles": 12,
         "triples": 1,
-        "homeRuns": 10,
-        "runsBattedIn": 47,
-        "totalBases": 85,
-        "walks": 34,
+        "homeRuns": 11,
+        "runsBattedIn": 51,
+        "totalBases": 90,
+        "walks": 37,
         "hitByPitch": 14,
-        "strikeouts": 37,
-        "intentionalWalks": 1,
+        "strikeouts": 38,
+        "intentionalWalks": 2,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 7,
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
-        "putouts": 76,
+        "putouts": 79,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 219,
+        "plateAppearances": 226,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -4354,59 +4354,59 @@
         "jersey": "31",
         "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/ryan-novak/10873",
         "imageUrl": "https://miamiredhawks.com/images/2026/1/22/_31_Novak__Ryan_j3TWs.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 37,
-        "putouts": 76,
+        "gamesPlayed": 39,
+        "gamesStarted": 38,
+        "putouts": 79,
         "assists": 1,
         "errors": 3,
-        "fieldingPercentage": 0.963,
+        "fieldingPercentage": 0.964,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 80
+        "totalChances": 83
       },
       "evaluation": {
-        "score": 56,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 76.66666666666664,
-          "Power": 57.36842105263159,
-          "Contact": 24.375000000000004,
-          "Discipline": 79.87987987987987,
+          "On-base": 81.66666666666666,
+          "Power": 62.105263157894754,
+          "Contact": 28.125000000000007,
+          "Discipline": 85.96491228070174,
           "Speed": 13.333333333333334
         },
-        "summary": "Ryan Novak profiles as a OF piece who gets on base at a high clip.",
+        "summary": "Ryan Novak profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .259",
-          "OBP .418",
-          "SLG .538"
+          "AVG .265",
+          "OBP .427",
+          "SLG .556"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".259"
+            "value": ".265"
           },
           {
             "label": "OBP",
-            "value": ".418"
+            "value": ".427"
           },
           {
             "label": "SLG",
-            "value": ".538"
+            "value": ".556"
           },
           {
             "label": "HR",
-            "value": "10"
+            "value": "11"
           },
           {
             "label": "RBI",
-            "value": "47"
+            "value": "51"
           },
           {
             "label": "SB",
@@ -5453,29 +5453,29 @@
         "position": "INF",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 71,
+        "score": 76,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Diego Cruz profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .365",
-          "OBP .433",
-          "SLG .603"
+          "AVG .371",
+          "OBP .446",
+          "SLG .616"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".365"
+            "value": ".371"
           },
           {
             "label": "OBP",
-            "value": ".433"
+            "value": ".446"
           },
           {
             "label": "SLG",
-            "value": ".603"
+            "value": ".616"
           },
           {
             "label": "HR",
@@ -5487,15 +5487,15 @@
           },
           {
             "label": "SB",
-            "value": "20"
+            "value": "21"
           }
         ],
         "components": {
-          "On-base": 84.99999999999999,
-          "Power": 74.47368421052632,
-          "Contact": 90.62499999999999,
-          "Discipline": 8.641975308641975,
-          "Speed": 66.66666666666666
+          "On-base": 92.22222222222221,
+          "Power": 77.89473684210527,
+          "Contact": 94.375,
+          "Discipline": 14.814814814814808,
+          "Speed": 70
         },
         "metaLine": "FR / N/A",
         "detailBadges": [
@@ -5522,29 +5522,29 @@
         "position": "INF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 61,
+        "score": 52,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Christopher Roa Calcano profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Christopher Roa Calcano gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .339",
-          "OBP .414",
-          "SLG .576"
+          "AVG .313",
+          "OBP .395",
+          "SLG .531"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".339"
+            "value": ".313"
           },
           {
             "label": "OBP",
-            "value": ".414"
+            "value": ".395"
           },
           {
             "label": "SLG",
-            "value": ".576"
+            "value": ".531"
           },
           {
             "label": "HR",
@@ -5556,15 +5556,15 @@
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "4"
           }
         ],
         "components": {
-          "On-base": 74.44444444444443,
-          "Power": 67.36842105263158,
-          "Contact": 74.37500000000001,
-          "Discipline": 37.03703703703703,
-          "Speed": 10
+          "On-base": 63.888888888888886,
+          "Power": 55.5263157894737,
+          "Contact": 58.12499999999999,
+          "Discipline": 36.601307189542474,
+          "Speed": 13.333333333333334
         },
         "metaLine": "SO / N/A",
         "detailBadges": [
@@ -5660,48 +5660,48 @@
         "position": "RHP",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 18,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Clayton Burke looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.32",
-          "WHIP 1.09",
-          "K/9 8.7"
+          "ERA 3.76",
+          "WHIP 1.13",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.32"
+            "value": "3.76"
           },
           {
             "label": "WHIP",
-            "value": "1.09"
+            "value": "1.13"
           },
           {
             "label": "K/9",
-            "value": "8.7"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "2.3"
+            "value": "2.2"
           },
           {
             "label": "HR/9",
-            "value": "1.21"
+            "value": "1.11"
           },
           {
             "label": "IP",
-            "value": "59.7"
+            "value": "64.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.16912138141188,
-          "Command": 57.33333333333333,
+          "Miss bats": 39.550140581068405,
+          "Command": 55.00000000000001,
           "Damage suppression": 0
         },
         "metaLine": "GR / N/A",
@@ -5798,21 +5798,21 @@
         "position": "LHP",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 12,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Carson Byers looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.66",
+          "ERA 6.50",
           "WHIP 1.48",
-          "K/9 7.6"
+          "K/9 8.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.66"
+            "value": "6.50"
           },
           {
             "label": "WHIP",
@@ -5820,26 +5820,26 @@
           },
           {
             "label": "K/9",
-            "value": "7.6"
+            "value": "8.0"
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "2.8"
           },
           {
             "label": "HR/9",
-            "value": "1.62"
+            "value": "1.50"
           },
           {
             "label": "IP",
-            "value": "50.0"
+            "value": "54.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 32.36363636363636,
-          "Command": 32.5,
+          "Miss bats": 36.36363636363637,
+          "Command": 36.47058823529411,
           "Damage suppression": 0
         },
         "metaLine": "SR / N/A",
@@ -6005,29 +6005,29 @@
         "position": "INF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 58,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Dominic Krupinski profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .264",
-          "OBP .461",
-          "SLG .426"
+          "AVG .276",
+          "OBP .471",
+          "SLG .434"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".264"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".461"
+            "value": ".471"
           },
           {
             "label": "SLG",
-            "value": ".426"
+            "value": ".434"
           },
           {
             "label": "HR",
@@ -6035,7 +6035,7 @@
           },
           {
             "label": "RBI",
-            "value": "29"
+            "value": "31"
           },
           {
             "label": "SB",
@@ -6044,9 +6044,9 @@
         ],
         "components": {
           "On-base": 100,
-          "Power": 27.89473684210526,
-          "Contact": 27.500000000000007,
-          "Discipline": 80.55555555555556,
+          "Power": 30,
+          "Contact": 35.000000000000014,
+          "Discipline": 83.46883468834687,
           "Speed": 23.333333333333332
         },
         "metaLine": "SR / N/A",
@@ -6142,29 +6142,29 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 80,
+        "score": 79,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Marcus Dierks profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .364",
-          "OBP .505",
-          "SLG .436"
+          "AVG .365",
+          "OBP .502",
+          "SLG .435"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".364"
+            "value": ".365"
           },
           {
             "label": "OBP",
-            "value": ".505"
+            "value": ".502"
           },
           {
             "label": "SLG",
-            "value": ".436"
+            "value": ".435"
           },
           {
             "label": "HR",
@@ -6172,7 +6172,7 @@
           },
           {
             "label": "RBI",
-            "value": "25"
+            "value": "26"
           },
           {
             "label": "SB",
@@ -6181,9 +6181,9 @@
         ],
         "components": {
           "On-base": 100,
-          "Power": 30.526315789473685,
-          "Contact": 89.99999999999999,
-          "Discipline": 96.29629629629628,
+          "Power": 30.263157894736842,
+          "Contact": 90.62499999999999,
+          "Discipline": 88.88888888888889,
           "Speed": 100
         },
         "metaLine": "JR / N/A",
@@ -6280,29 +6280,29 @@
         "position": "C",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 62,
+        "score": 66,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Carson Raether profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .276",
-          "OBP .442",
-          "SLG .552"
+          "AVG .286",
+          "OBP .456",
+          "SLG .555"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".276"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".442"
+            "value": ".456"
           },
           {
             "label": "SLG",
-            "value": ".552"
+            "value": ".555"
           },
           {
             "label": "HR",
@@ -6310,19 +6310,19 @@
           },
           {
             "label": "RBI",
-            "value": "30"
+            "value": "31"
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "components": {
-          "On-base": 89.99999999999999,
-          "Power": 61.05263157894739,
-          "Contact": 35.000000000000014,
+          "On-base": 97.77777777777777,
+          "Power": 61.84210526315791,
+          "Contact": 41.24999999999998,
           "Discipline": 65.90038314176245,
-          "Speed": 13.333333333333334
+          "Speed": 16.666666666666664
         },
         "metaLine": "SO / N/A",
         "detailBadges": [
@@ -6418,25 +6418,25 @@
         "position": "INF",
         "classYear": "R-SR",
         "handedness": "N/A",
-        "score": 72,
+        "score": 73,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Evan Appelwick profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .290",
-          "OBP .475",
+          "AVG .296",
+          "OBP .474",
           "SLG .568"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".296"
           },
           {
             "label": "OBP",
-            "value": ".475"
+            "value": ".474"
           },
           {
             "label": "SLG",
@@ -6448,7 +6448,7 @@
           },
           {
             "label": "RBI",
-            "value": "44"
+            "value": "47"
           },
           {
             "label": "SB",
@@ -6458,7 +6458,7 @@
         "components": {
           "On-base": 100,
           "Power": 65.26315789473684,
-          "Contact": 43.749999999999986,
+          "Contact": 47.499999999999986,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },
@@ -6763,21 +6763,21 @@
         "position": "INF",
         "classYear": "R-FR",
         "handedness": "N/A",
-        "score": 38,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ignacio Gonzalez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .277",
+          "AVG .272",
           "OBP .380",
-          "SLG .472"
+          "SLG .463"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".272"
           },
           {
             "label": "OBP",
@@ -6785,7 +6785,7 @@
           },
           {
             "label": "SLG",
-            "value": ".472"
+            "value": ".463"
           },
           {
             "label": "HR",
@@ -6802,9 +6802,9 @@
         ],
         "components": {
           "On-base": 55.55555555555555,
-          "Power": 40,
-          "Contact": 35.625000000000014,
-          "Discipline": 22.975517890772128,
+          "Power": 37.63157894736843,
+          "Contact": 32.500000000000014,
+          "Discipline": 24.858757062146886,
           "Speed": 3.3333333333333335
         },
         "metaLine": "R-FR / N/A",
@@ -7046,30 +7046,30 @@
         },
         "summary": "Tommy Harrison profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .400",
-          "OBP .521",
-          "SLG .694"
+          "AVG .399",
+          "OBP .527",
+          "SLG .705"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".400"
+            "value": ".399"
           },
           {
             "label": "OBP",
-            "value": ".521"
+            "value": ".527"
           },
           {
             "label": "SLG",
-            "value": ".694"
+            "value": ".705"
           },
           {
             "label": "HR",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "RBI",
-            "value": "68"
+            "value": "69"
           },
           {
             "label": "SB",
@@ -7078,7 +7078,7 @@
         ],
         "components": {
           "On-base": 100,
-          "Power": 98.42105263157895,
+          "Power": 100,
           "Contact": 100,
           "Discipline": 100,
           "Speed": 10
@@ -7452,37 +7452,37 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 56,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
-        "summary": "Ryan Novak profiles as a OF piece who gets on base at a high clip.",
+        "summary": "Ryan Novak profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .259",
-          "OBP .418",
-          "SLG .538"
+          "AVG .265",
+          "OBP .427",
+          "SLG .556"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".259"
+            "value": ".265"
           },
           {
             "label": "OBP",
-            "value": ".418"
+            "value": ".427"
           },
           {
             "label": "SLG",
-            "value": ".538"
+            "value": ".556"
           },
           {
             "label": "HR",
-            "value": "10"
+            "value": "11"
           },
           {
             "label": "RBI",
-            "value": "47"
+            "value": "51"
           },
           {
             "label": "SB",
@@ -7490,10 +7490,10 @@
           }
         ],
         "components": {
-          "On-base": 76.66666666666664,
-          "Power": 57.36842105263159,
-          "Contact": 24.375000000000004,
-          "Discipline": 79.87987987987987,
+          "On-base": 81.66666666666666,
+          "Power": 62.105263157894754,
+          "Contact": 28.125000000000007,
+          "Discipline": 85.96491228070174,
           "Speed": 13.333333333333334
         },
         "metaLine": "JR / N/A",

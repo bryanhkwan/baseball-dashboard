@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T11:07:26.022Z",
+  "generatedAt": "2026-05-03T11:07:24.690Z",
   "season": 2026,
   "school": {
     "slug": "seton-hall",
@@ -38,84 +38,84 @@
     }
   },
   "teamSummary": {
-    "record": "14-23, 2-11",
-    "battingAverage": ".251",
-    "earnedRunAverage": "6.04",
+    "record": "14-24, 2-12",
+    "battingAverage": ".250",
+    "earnedRunAverage": "6.25",
     "wins": "14",
-    "losses": "23",
+    "losses": "24",
     "hitting": {
-      "atBats": "1177",
-      "runsScored": "179",
-      "hits": "295",
-      "runsBattedIn": "166",
-      "doubles": "57",
+      "atBats": "1210",
+      "runsScored": "185",
+      "hits": "303",
+      "runsBattedIn": "172",
+      "doubles": "59",
       "triples": "16",
       "homeRuns": "8",
-      "walks": "171",
+      "walks": "175",
       "intentionalWalks": "1",
-      "strikeouts": "290",
+      "strikeouts": "298",
       "strikeoutsLooking": "68",
-      "hitByPitch": "40",
-      "stolenBases": "51",
+      "hitByPitch": "41",
+      "stolenBases": "52",
       "caughtStealing": "17",
-      "sacrificeHits": "22",
-      "sacrificeFlies": "21",
+      "sacrificeHits": "23",
+      "sacrificeFlies": "22",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "321",
-      "flyOuts": "290",
-      "groundedIntoDoublePlay": "18",
+      "groundOuts": "327",
+      "flyOuts": "302",
+      "groundedIntoDoublePlay": "19",
       "pickedOff": "4",
-      "doublePlaysHitInto": "24",
+      "doublePlaysHitInto": "25",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "956",
-      "assists": "340",
-      "errors": "52",
+      "putouts": "980",
+      "assists": "346",
+      "errors": "54",
       "passedBalls": "9",
       "catchersInterference": "1",
-      "stolenBasesAgainst": "88",
+      "stolenBasesAgainst": "89",
       "caughtStealingBy": "17",
-      "involvedInDoublePlays": "24",
+      "involvedInDoublePlays": "25",
       "involvedInTriplePlays": "0",
-      "totalChances": "1348",
+      "totalChances": "1380",
       "fieldingPercentage": ".961"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "14",
       "saves": "0",
-      "losses": "22",
+      "losses": "23",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "0",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "318.2",
-      "hitsAllowed": "343",
-      "runsAllowed": "253",
-      "earnedRunsAllowed": "214",
-      "walksAllowed": "174",
-      "strikeouts": "286",
-      "battersFaced": "1506",
-      "opponentAtBats": "1243",
-      "doublesAllowed": "71",
+      "inningsPitched": "326.2",
+      "hitsAllowed": "351",
+      "runsAllowed": "268",
+      "earnedRunsAllowed": "227",
+      "walksAllowed": "188",
+      "strikeouts": "292",
+      "battersFaced": "1556",
+      "opponentAtBats": "1274",
+      "doublesAllowed": "73",
       "triplesAllowed": "9",
       "homerunsAllowed": "30",
-      "wildPitches": "34",
-      "balks": "2",
-      "hitBatters": "52",
-      "strikeoutsLooking": "73",
+      "wildPitches": "37",
+      "balks": "3",
+      "hitBatters": "56",
+      "strikeoutsLooking": "75",
       "intentionalWalks": "1",
       "inheritedRunners": "0",
       "inheritedRunnersThatScored": "0",
       "sacrificeHitsAllowed": "14",
-      "sacrificeFliesAllowed": "22",
+      "sacrificeFliesAllowed": "23",
       "catchersInterferenceAllowed": "0",
-      "pitches": "5557",
-      "flyouts": "312",
-      "groundouts": "302",
+      "pitches": "5769",
+      "flyouts": "321",
+      "groundouts": "310",
       "teamUnearnedRuns": "0",
       "saveRecord": "0",
       "pickoff": "3"
@@ -160,33 +160,33 @@
         "jersey": "1",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/gabe-cavazzoni/7762",
         "imageUrl": "https://shupirates.com/images/2026/1/21/1_Cavazzoni.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "battingAverage": 0.329,
-        "onBasePercentage": 0.425,
-        "sluggingPercentage": 0.55,
-        "ops": 0.975,
-        "atBats": 140,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "battingAverage": 0.319,
+        "onBasePercentage": 0.413,
+        "sluggingPercentage": 0.535,
+        "ops": 0.948,
+        "atBats": 144,
         "runs": 30,
         "hits": 46,
         "doubles": 14,
         "triples": 7,
         "homeRuns": 1,
-        "runsBattedIn": 25,
+        "runsBattedIn": 26,
         "totalBases": 77,
         "walks": 21,
         "hitByPitch": 4,
-        "strikeouts": 40,
+        "strikeouts": 41,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 2,
+        "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 14,
         "stolenBasesAttempts": 18,
-        "putouts": 73,
+        "putouts": 76,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 189,
+        "plateAppearances": 194,
         "caughtStealing": 4,
         "pickedOff": 1
       },
@@ -198,51 +198,51 @@
         "jersey": "1",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/gabe-cavazzoni/7762",
         "imageUrl": "https://shupirates.com/images/2026/1/21/1_Cavazzoni.png",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "putouts": 73,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "putouts": 76,
         "assists": 3,
         "errors": 2,
-        "fieldingPercentage": 0.974,
+        "fieldingPercentage": 0.975,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 78
+        "totalChances": 81
       },
       "evaluation": {
-        "score": 63,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 80.55555555555554,
-          "Power": 60.526315789473706,
-          "Contact": 68.125,
-          "Discipline": 36.11111111111111,
+          "On-base": 73.88888888888886,
+          "Power": 56.57894736842106,
+          "Contact": 61.875,
+          "Discipline": 34.68834688346883,
           "Speed": 46.666666666666664
         },
-        "summary": "Gabe Cavazzoni profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
+        "summary": "Gabe Cavazzoni profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .329",
-          "OBP .425",
-          "SLG .550"
+          "AVG .319",
+          "OBP .413",
+          "SLG .535"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".329"
+            "value": ".319"
           },
           {
             "label": "OBP",
-            "value": ".425"
+            "value": ".413"
           },
           {
             "label": "SLG",
-            "value": ".550"
+            "value": ".535"
           },
           {
             "label": "HR",
@@ -250,7 +250,7 @@
           },
           {
             "label": "RBI",
-            "value": "25"
+            "value": "26"
           },
           {
             "label": "SB",
@@ -305,21 +305,21 @@
         "jersey": "3",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/joe-marini/7777",
         "imageUrl": "https://shupirates.com/images/2026/1/21/3_Marini.png",
-        "gamesPlayed": 14,
-        "gamesStarted": 7,
-        "battingAverage": 0.138,
-        "onBasePercentage": 0.212,
-        "sluggingPercentage": 0.207,
-        "ops": 0.419,
-        "atBats": 29,
-        "runs": 5,
-        "hits": 4,
+        "gamesPlayed": 15,
+        "gamesStarted": 8,
+        "battingAverage": 0.188,
+        "onBasePercentage": 0.27,
+        "sluggingPercentage": 0.25,
+        "ops": 0.52,
+        "atBats": 32,
+        "runs": 6,
+        "hits": 6,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 0,
-        "runsBattedIn": 3,
-        "totalBases": 6,
-        "walks": 3,
+        "runsBattedIn": 5,
+        "totalBases": 8,
+        "walks": 4,
         "hitByPitch": 0,
         "strikeouts": 10,
         "intentionalWalks": 0,
@@ -330,8 +330,8 @@
         "stolenBasesAttempts": 1,
         "putouts": 18,
         "assists": 0,
-        "errors": 0,
-        "plateAppearances": 35,
+        "errors": 1,
+        "plateAppearances": 39,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -343,22 +343,22 @@
         "jersey": "3",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/joe-marini/7777",
         "imageUrl": "https://shupirates.com/images/2026/1/21/3_Marini.png",
-        "gamesPlayed": 7,
-        "gamesStarted": 6,
+        "gamesPlayed": 8,
+        "gamesStarted": 7,
         "putouts": 18,
         "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
+        "errors": 1,
+        "fieldingPercentage": 0.947,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 18
+        "totalChances": 19
       },
       "evaluation": {
-        "score": 2,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -367,27 +367,27 @@
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 11.111111111111107,
+          "Discipline": 22.22222222222222,
           "Speed": 0
         },
         "summary": "Joe Marini gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .138",
-          "OBP .212",
-          "SLG .207"
+          "AVG .188",
+          "OBP .270",
+          "SLG .250"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".138"
+            "value": ".188"
           },
           {
             "label": "OBP",
-            "value": ".212"
+            "value": ".270"
           },
           {
             "label": "SLG",
-            "value": ".207"
+            "value": ".250"
           },
           {
             "label": "HR",
@@ -395,7 +395,7 @@
           },
           {
             "label": "RBI",
-            "value": "3"
+            "value": "5"
           },
           {
             "label": "SB",
@@ -450,13 +450,13 @@
         "jersey": "4",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/magnus-krieger/7771",
         "imageUrl": "https://shupirates.com/images/2026/1/21/4_Kreiger.png",
-        "gamesPlayed": 22,
-        "gamesStarted": 22,
-        "battingAverage": 0.303,
-        "onBasePercentage": 0.424,
-        "sluggingPercentage": 0.434,
-        "ops": 0.858,
-        "atBats": 76,
+        "gamesPlayed": 23,
+        "gamesStarted": 23,
+        "battingAverage": 0.284,
+        "onBasePercentage": 0.402,
+        "sluggingPercentage": 0.407,
+        "ops": 0.809,
+        "atBats": 81,
         "runs": 15,
         "hits": 23,
         "doubles": 4,
@@ -466,17 +466,17 @@
         "totalBases": 33,
         "walks": 12,
         "hitByPitch": 4,
-        "strikeouts": 21,
+        "strikeouts": 23,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 40,
+        "putouts": 42,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 95,
+        "plateAppearances": 100,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -488,51 +488,51 @@
         "jersey": "4",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/magnus-krieger/7771",
         "imageUrl": "https://shupirates.com/images/2026/1/21/4_Kreiger.png",
-        "gamesPlayed": 20,
-        "gamesStarted": 20,
-        "putouts": 40,
+        "gamesPlayed": 21,
+        "gamesStarted": 21,
+        "putouts": 42,
         "assists": 1,
         "errors": 2,
-        "fieldingPercentage": 0.953,
+        "fieldingPercentage": 0.956,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 43
+        "totalChances": 45
       },
       "evaluation": {
-        "score": 49,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 79.99999999999999,
-          "Power": 30,
-          "Contact": 51.87499999999999,
-          "Discipline": 41.26984126984126,
+          "On-base": 67.77777777777779,
+          "Power": 22.894736842105257,
+          "Contact": 39.99999999999998,
+          "Discipline": 35.748792270531396,
           "Speed": 3.3333333333333335
         },
         "summary": "Magnus Krieger profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .303",
-          "OBP .424",
-          "SLG .434"
+          "AVG .284",
+          "OBP .402",
+          "SLG .407"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".303"
+            "value": ".284"
           },
           {
             "label": "OBP",
-            "value": ".424"
+            "value": ".402"
           },
           {
             "label": "SLG",
-            "value": ".434"
+            "value": ".407"
           },
           {
             "label": "HR",
@@ -886,31 +886,31 @@
         "jersey": "7",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/stephen-curry/7765",
         "imageUrl": "https://shupirates.com/images/2026/1/21/7_Curry.png",
-        "gamesPlayed": 16,
+        "gamesPlayed": 17,
         "gamesStarted": 0,
-        "appearances": 16,
+        "appearances": 17,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.79,
-        "whip": 1.6,
+        "earnedRunAverage": 5.09,
+        "whip": 1.65,
         "wins": 1,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 20.666666666666668,
-        "inningsPitchedDisplay": "20.2",
-        "hitsAllowed": 21,
-        "runsAllowed": 14,
-        "earnedRunsAllowed": 11,
-        "walksAllowed": 12,
-        "strikeouts": 18,
+        "inningsPitched": 23,
+        "inningsPitchedDisplay": "23.0",
+        "hitsAllowed": 23,
+        "runsAllowed": 16,
+        "earnedRunsAllowed": 13,
+        "walksAllowed": 15,
+        "strikeouts": 19,
         "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 83,
-        "wildPitches": 2,
-        "hitBatters": 7,
+        "opponentsAtBats": 92,
+        "wildPitches": 4,
+        "hitBatters": 8,
         "balks": 0,
-        "opponentsBattingAverage": 0.253,
+        "opponentsBattingAverage": 0.25,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -920,22 +920,22 @@
         "jersey": "7",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/stephen-curry/7765",
         "imageUrl": "https://shupirates.com/images/2026/1/21/7_Curry.png",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 0,
-        "putouts": 3,
+        "putouts": 4,
         "assists": 2,
         "errors": 1,
-        "fieldingPercentage": 0.833,
+        "fieldingPercentage": 0.857,
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 6
+        "totalChances": 7
       },
       "evaluation": {
-        "score": 9,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -943,40 +943,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 34.89736070381231,
-          "Command": 10,
+          "Miss bats": 31.22529644268775,
+          "Command": 5.333333333333332,
           "Damage suppression": 0
         },
         "summary": "Stephen Curry gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.79",
-          "WHIP 1.60",
-          "K/9 7.8"
+          "ERA 5.09",
+          "WHIP 1.65",
+          "K/9 7.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.79"
+            "value": "5.09"
           },
           {
             "label": "WHIP",
-            "value": "1.60"
+            "value": "1.65"
           },
           {
             "label": "K/9",
-            "value": "7.8"
+            "value": "7.4"
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "5.9"
           },
           {
             "label": "HR/9",
-            "value": "1.31"
+            "value": "1.17"
           },
           {
             "label": "IP",
-            "value": "20.7"
+            "value": "23.0"
           }
         ],
         "metaLine": "SO / R/R",
@@ -1459,21 +1459,21 @@
         "jersey": "12",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/jake-walman/7776",
         "imageUrl": "https://shupirates.com/images/2026/1/21/12_Walman.png",
-        "gamesPlayed": 2,
+        "gamesPlayed": 3,
         "gamesStarted": 0,
         "battingAverage": 0,
-        "onBasePercentage": 0,
+        "onBasePercentage": 0.333,
         "sluggingPercentage": 0,
-        "ops": 0,
+        "ops": 0.333,
         "atBats": 2,
-        "runs": 0,
+        "runs": 1,
         "hits": 0,
         "doubles": 0,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 0,
         "totalBases": 0,
-        "walks": 0,
+        "walks": 1,
         "hitByPitch": 0,
         "strikeouts": 0,
         "intentionalWalks": 0,
@@ -1482,10 +1482,10 @@
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 5,
+        "putouts": 7,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 2,
+        "plateAppearances": 3,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1497,9 +1497,9 @@
         "jersey": "12",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/jake-walman/7776",
         "imageUrl": "https://shupirates.com/images/2026/1/21/12_Walman.png",
-        "gamesPlayed": 2,
+        "gamesPlayed": 3,
         "gamesStarted": 0,
-        "putouts": 5,
+        "putouts": 7,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1509,25 +1509,25 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 5
+        "totalChances": 7
       },
       "evaluation": {
-        "score": 0,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 0,
+          "On-base": 29.44444444444444,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 0,
+          "Discipline": 88.88888888888889,
           "Speed": 0
         },
-        "summary": "Jake Walman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Jake Walman profiles as a C piece who controls at-bats.",
         "summaryMetrics": [
           "AVG .000",
-          "OBP .000",
+          "OBP .333",
           "SLG .000"
         ],
         "statCards": [
@@ -1537,7 +1537,7 @@
           },
           {
             "label": "OBP",
-            "value": ".000"
+            "value": ".333"
           },
           {
             "label": "SLG",
@@ -1749,33 +1749,33 @@
         "jersey": "14",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/ryan-frontera/7770",
         "imageUrl": "https://shupirates.com/images/2026/1/21/14_Frontera.png",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "battingAverage": 0.323,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "battingAverage": 0.326,
         "onBasePercentage": 0.415,
-        "sluggingPercentage": 0.383,
-        "ops": 0.798,
-        "atBats": 133,
-        "runs": 23,
-        "hits": 43,
+        "sluggingPercentage": 0.384,
+        "ops": 0.799,
+        "atBats": 138,
+        "runs": 24,
+        "hits": 45,
         "doubles": 5,
         "triples": 0,
         "homeRuns": 1,
         "runsBattedIn": 19,
-        "totalBases": 51,
+        "totalBases": 53,
         "walks": 19,
         "hitByPitch": 4,
         "strikeouts": 24,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
+        "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 3,
         "sacrificeHits": 1,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 27,
+        "putouts": 30,
         "assists": 0,
         "errors": 11,
-        "plateAppearances": 162,
+        "plateAppearances": 167,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1787,19 +1787,19 @@
         "jersey": "14",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/ryan-frontera/7770",
         "imageUrl": "https://shupirates.com/images/2026/1/21/14_Frontera.png",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "putouts": 27,
-        "assists": 58,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "putouts": 30,
+        "assists": 59,
         "errors": 11,
-        "fieldingPercentage": 0.885,
-        "doublePlays": 3,
+        "fieldingPercentage": 0.89,
+        "doublePlays": 4,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 96
+        "totalChances": 100
       },
       "evaluation": {
         "score": 50,
@@ -1809,21 +1809,21 @@
         },
         "components": {
           "On-base": 74.99999999999997,
-          "Power": 16.578947368421055,
-          "Contact": 64.375,
+          "Power": 16.842105263157897,
+          "Contact": 66.25000000000001,
           "Discipline": 65.74074074074072,
           "Speed": 6.666666666666667
         },
         "summary": "Ryan Frontera profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .323",
+          "AVG .326",
           "OBP .415",
-          "SLG .383"
+          "SLG .384"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".323"
+            "value": ".326"
           },
           {
             "label": "OBP",
@@ -1831,7 +1831,7 @@
           },
           {
             "label": "SLG",
-            "value": ".383"
+            "value": ".384"
           },
           {
             "label": "HR",
@@ -2178,13 +2178,13 @@
         "jersey": "21",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/nick-tomasetto/7782",
         "imageUrl": "https://shupirates.com/images/2026/1/21/21_Tomasetto.png",
-        "gamesPlayed": 33,
-        "gamesStarted": 31,
-        "battingAverage": 0.245,
-        "onBasePercentage": 0.375,
-        "sluggingPercentage": 0.4,
-        "ops": 0.775,
-        "atBats": 110,
+        "gamesPlayed": 34,
+        "gamesStarted": 32,
+        "battingAverage": 0.241,
+        "onBasePercentage": 0.37,
+        "sluggingPercentage": 0.393,
+        "ops": 0.763,
+        "atBats": 112,
         "runs": 13,
         "hits": 27,
         "doubles": 8,
@@ -2194,7 +2194,7 @@
         "totalBases": 44,
         "walks": 20,
         "hitByPitch": 4,
-        "strikeouts": 31,
+        "strikeouts": 32,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
@@ -2204,7 +2204,7 @@
         "putouts": 15,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 142,
+        "plateAppearances": 144,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2231,36 +2231,36 @@
         "totalChances": 57
       },
       "evaluation": {
-        "score": 33,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 52.77777777777777,
-          "Power": 21.052631578947377,
-          "Contact": 15.624999999999996,
-          "Discipline": 49.46236559139784,
+          "On-base": 49.999999999999986,
+          "Power": 19.21052631578948,
+          "Contact": 13.124999999999995,
+          "Discipline": 47.222222222222214,
           "Speed": 10
         },
         "summary": "Nick Tomasetto gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .245",
-          "OBP .375",
-          "SLG .400"
+          "AVG .241",
+          "OBP .370",
+          "SLG .393"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".245"
+            "value": ".241"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".370"
           },
           {
             "label": "SLG",
-            "value": ".400"
+            "value": ".393"
           },
           {
             "label": "HR",
@@ -2323,33 +2323,33 @@
         "jersey": "22",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/tommy-manzo/7772",
         "imageUrl": "https://shupirates.com/images/2026/1/21/22_Manzo.png",
-        "gamesPlayed": 28,
-        "gamesStarted": 26,
-        "battingAverage": 0.169,
-        "onBasePercentage": 0.28,
-        "sluggingPercentage": 0.286,
-        "ops": 0.566,
-        "atBats": 77,
+        "gamesPlayed": 29,
+        "gamesStarted": 27,
+        "battingAverage": 0.165,
+        "onBasePercentage": 0.274,
+        "sluggingPercentage": 0.278,
+        "ops": 0.552,
+        "atBats": 79,
         "runs": 10,
         "hits": 13,
         "doubles": 1,
         "triples": 4,
         "homeRuns": 0,
-        "runsBattedIn": 12,
+        "runsBattedIn": 13,
         "totalBases": 22,
         "walks": 11,
         "hitByPitch": 2,
-        "strikeouts": 23,
+        "strikeouts": 24,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 3,
-        "sacrificeHits": 4,
+        "sacrificeHits": 5,
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
-        "putouts": 29,
+        "putouts": 30,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 103,
+        "plateAppearances": 106,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2361,22 +2361,22 @@
         "jersey": "22",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/tommy-manzo/7772",
         "imageUrl": "https://shupirates.com/images/2026/1/21/22_Manzo.png",
-        "gamesPlayed": 26,
-        "gamesStarted": 26,
-        "putouts": 29,
-        "assists": 65,
+        "gamesPlayed": 27,
+        "gamesStarted": 27,
+        "putouts": 30,
+        "assists": 69,
         "errors": 4,
-        "fieldingPercentage": 0.959,
+        "fieldingPercentage": 0.961,
         "doublePlays": 12,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 98
+        "totalChances": 103
       },
       "evaluation": {
-        "score": 6,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2385,27 +2385,27 @@
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 30.917874396135264,
+          "Discipline": 28.7037037037037,
           "Speed": 13.333333333333334
         },
         "summary": "Tommy Manzo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .169",
-          "OBP .280",
-          "SLG .286"
+          "AVG .165",
+          "OBP .274",
+          "SLG .278"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".169"
+            "value": ".165"
           },
           {
             "label": "OBP",
-            "value": ".280"
+            "value": ".274"
           },
           {
             "label": "SLG",
-            "value": ".286"
+            "value": ".278"
           },
           {
             "label": "HR",
@@ -2413,7 +2413,7 @@
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "SB",
@@ -2468,33 +2468,33 @@
         "jersey": "23",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/ryan-strnad/7781",
         "imageUrl": "https://shupirates.com/images/2026/1/21/23_Strnad.png",
-        "gamesPlayed": 16,
-        "gamesStarted": 12,
-        "battingAverage": 0.244,
-        "onBasePercentage": 0.313,
-        "sluggingPercentage": 0.317,
-        "ops": 0.63,
-        "atBats": 41,
-        "runs": 5,
-        "hits": 10,
-        "doubles": 3,
+        "gamesPlayed": 17,
+        "gamesStarted": 13,
+        "battingAverage": 0.25,
+        "onBasePercentage": 0.314,
+        "sluggingPercentage": 0.341,
+        "ops": 0.655,
+        "atBats": 44,
+        "runs": 6,
+        "hits": 11,
+        "doubles": 4,
         "triples": 0,
         "homeRuns": 0,
-        "runsBattedIn": 5,
-        "totalBases": 13,
+        "runsBattedIn": 6,
+        "totalBases": 15,
         "walks": 5,
         "hitByPitch": 0,
-        "strikeouts": 11,
+        "strikeouts": 12,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
         "sacrificeHits": 2,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 69,
+        "putouts": 73,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 50,
+        "plateAppearances": 53,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2506,51 +2506,51 @@
         "jersey": "23",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/ryan-strnad/7781",
         "imageUrl": "https://shupirates.com/images/2026/1/21/23_Strnad.png",
-        "gamesPlayed": 11,
-        "gamesStarted": 9,
-        "putouts": 69,
+        "gamesPlayed": 12,
+        "gamesStarted": 10,
+        "putouts": 73,
         "assists": 13,
         "errors": 1,
-        "fieldingPercentage": 0.988,
+        "fieldingPercentage": 0.989,
         "doublePlays": 0,
-        "stolenBasesAgainst": 20,
+        "stolenBasesAgainst": 21,
         "caughtStealingBy": 5,
         "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 1,
-        "totalChances": 83
+        "totalChances": 87
       },
       "evaluation": {
-        "score": 13,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 18.333333333333318,
-          "Power": 0,
-          "Contact": 14.999999999999996,
-          "Discipline": 28.282828282828277,
+          "On-base": 18.888888888888875,
+          "Power": 5.526315789473689,
+          "Contact": 18.75,
+          "Discipline": 24.07407407407407,
           "Speed": 0
         },
         "summary": "Ryan Strnad gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .244",
-          "OBP .313",
-          "SLG .317"
+          "AVG .250",
+          "OBP .314",
+          "SLG .341"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".244"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".313"
+            "value": ".314"
           },
           {
             "label": "SLG",
-            "value": ".317"
+            "value": ".341"
           },
           {
             "label": "HR",
@@ -2558,7 +2558,7 @@
           },
           {
             "label": "RBI",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "SB",
@@ -2844,31 +2844,31 @@
         "jersey": "26",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/matt-pontari/7784",
         "imageUrl": "https://shupirates.com/images/2026/1/21/26_Pontari.png",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 0,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.71,
-        "whip": 2,
+        "earnedRunAverage": 4.94,
+        "whip": 1.94,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 21,
-        "inningsPitchedDisplay": "21.0",
-        "hitsAllowed": 28,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 11,
-        "walksAllowed": 14,
-        "strikeouts": 14,
+        "inningsPitched": 23.666666666666668,
+        "inningsPitchedDisplay": "23.2",
+        "hitsAllowed": 30,
+        "runsAllowed": 15,
+        "earnedRunsAllowed": 13,
+        "walksAllowed": 16,
+        "strikeouts": 17,
         "doublesAllowed": 8,
         "triplesAllowed": 2,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 80,
+        "opponentsAtBats": 89,
         "wildPitches": 1,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.35,
+        "opponentsBattingAverage": 0.337,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2878,10 +2878,10 @@
         "jersey": "26",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/matt-pontari/7784",
         "imageUrl": "https://shupirates.com/images/2026/1/21/26_Pontari.png",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 0,
         "putouts": 1,
-        "assists": 3,
+        "assists": 4,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -2890,10 +2890,10 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 4
+        "totalChances": 5
       },
       "evaluation": {
-        "score": 4,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2901,40 +2901,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 18.181818181818183,
-          "Command": 0,
+          "Miss bats": 22.407170294494236,
+          "Command": 1.25,
           "Damage suppression": 0
         },
         "summary": "Matt Pontari gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.71",
-          "WHIP 2.00",
-          "K/9 6.0"
+          "ERA 4.94",
+          "WHIP 1.94",
+          "K/9 6.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.71"
+            "value": "4.94"
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "1.94"
           },
           {
             "label": "K/9",
-            "value": "6.0"
+            "value": "6.5"
           },
           {
             "label": "BB/9",
-            "value": "6.0"
+            "value": "6.1"
           },
           {
             "label": "HR/9",
-            "value": "0.43"
+            "value": "0.38"
           },
           {
             "label": "IP",
-            "value": "21.0"
+            "value": "23.7"
           }
         ],
         "metaLine": "GR / N/A",
@@ -3127,33 +3127,33 @@
         "jersey": "29",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/shea-grady/7786",
         "imageUrl": "https://shupirates.com/images/2026/1/21/29_Grady.png",
-        "gamesPlayed": 26,
-        "gamesStarted": 23,
-        "battingAverage": 0.28,
-        "onBasePercentage": 0.379,
-        "sluggingPercentage": 0.329,
-        "ops": 0.708,
-        "atBats": 82,
+        "gamesPlayed": 27,
+        "gamesStarted": 24,
+        "battingAverage": 0.291,
+        "onBasePercentage": 0.39,
+        "sluggingPercentage": 0.337,
+        "ops": 0.727,
+        "atBats": 86,
         "runs": 11,
-        "hits": 23,
+        "hits": 25,
         "doubles": 2,
         "triples": 1,
         "homeRuns": 0,
-        "runsBattedIn": 11,
-        "totalBases": 27,
-        "walks": 10,
+        "runsBattedIn": 12,
+        "totalBases": 29,
+        "walks": 11,
         "hitByPitch": 3,
-        "strikeouts": 16,
+        "strikeouts": 17,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
         "sacrificeHits": 4,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 4,
-        "putouts": 41,
+        "stolenBases": 3,
+        "stolenBasesAttempts": 5,
+        "putouts": 42,
         "assists": 0,
-        "errors": 5,
-        "plateAppearances": 105,
+        "errors": 6,
+        "plateAppearances": 111,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -3165,51 +3165,51 @@
         "jersey": "29",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/shea-grady/7786",
         "imageUrl": "https://shupirates.com/images/2026/1/21/29_Grady.png",
-        "gamesPlayed": 20,
-        "gamesStarted": 20,
-        "putouts": 41,
+        "gamesPlayed": 21,
+        "gamesStarted": 21,
+        "putouts": 42,
         "assists": 39,
-        "errors": 5,
-        "fieldingPercentage": 0.941,
+        "errors": 6,
+        "fieldingPercentage": 0.931,
         "doublePlays": 9,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 85
+        "totalChances": 87
       },
       "evaluation": {
-        "score": 32,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 54.99999999999999,
-          "Power": 2.3684210526315814,
-          "Contact": 37.500000000000014,
-          "Discipline": 47.222222222222214,
-          "Speed": 6.666666666666667
+          "On-base": 61.11111111111111,
+          "Power": 4.47368421052632,
+          "Contact": 44.374999999999986,
+          "Discipline": 49.67320261437908,
+          "Speed": 10
         },
         "summary": "Shea Grady gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .280",
-          "OBP .379",
-          "SLG .329"
+          "AVG .291",
+          "OBP .390",
+          "SLG .337"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".280"
+            "value": ".291"
           },
           {
             "label": "OBP",
-            "value": ".379"
+            "value": ".390"
           },
           {
             "label": "SLG",
-            "value": ".329"
+            "value": ".337"
           },
           {
             "label": "HR",
@@ -3217,11 +3217,11 @@
           },
           {
             "label": "RBI",
-            "value": "11"
+            "value": "12"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "3"
           }
         ],
         "metaLine": "JR / N/A",
@@ -3505,21 +3505,21 @@
         "jersey": "32",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/frankie-scrivanic/7774",
         "imageUrl": "https://shupirates.com/images/2026/1/21/32_Scrivanic.png",
-        "gamesPlayed": 32,
-        "gamesStarted": 30,
-        "battingAverage": 0.259,
-        "onBasePercentage": 0.341,
-        "sluggingPercentage": 0.306,
-        "ops": 0.647,
-        "atBats": 108,
-        "runs": 9,
-        "hits": 28,
-        "doubles": 5,
+        "gamesPlayed": 33,
+        "gamesStarted": 31,
+        "battingAverage": 0.261,
+        "onBasePercentage": 0.346,
+        "sluggingPercentage": 0.315,
+        "ops": 0.661,
+        "atBats": 111,
+        "runs": 11,
+        "hits": 29,
+        "doubles": 6,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 15,
-        "totalBases": 33,
-        "walks": 13,
+        "totalBases": 35,
+        "walks": 14,
         "hitByPitch": 2,
         "strikeouts": 26,
         "intentionalWalks": 0,
@@ -3528,10 +3528,10 @@
         "sacrificeHits": 3,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 228,
+        "putouts": 235,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 129,
+        "plateAppearances": 133,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3543,51 +3543,51 @@
         "jersey": "32",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/frankie-scrivanic/7774",
         "imageUrl": "https://shupirates.com/images/2026/1/21/32_Scrivanic.png",
-        "gamesPlayed": 27,
-        "gamesStarted": 26,
-        "putouts": 228,
+        "gamesPlayed": 28,
+        "gamesStarted": 27,
+        "putouts": 235,
         "assists": 10,
         "errors": 3,
         "fieldingPercentage": 0.988,
-        "doublePlays": 17,
+        "doublePlays": 18,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 241
+        "totalChances": 248
       },
       "evaluation": {
-        "score": 20,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 33.88888888888889,
+          "On-base": 36.666666666666636,
           "Power": 0,
-          "Contact": 24.375000000000004,
-          "Discipline": 33.33333333333333,
+          "Contact": 25.625000000000004,
+          "Discipline": 37.606837606837594,
           "Speed": 0
         },
         "summary": "Frankie Scrivanic gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .259",
-          "OBP .341",
-          "SLG .306"
+          "AVG .261",
+          "OBP .346",
+          "SLG .315"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".259"
+            "value": ".261"
           },
           {
             "label": "OBP",
-            "value": ".341"
+            "value": ".346"
           },
           {
             "label": "SLG",
-            "value": ".306"
+            "value": ".315"
           },
           {
             "label": "HR",
@@ -3793,31 +3793,31 @@
         "jersey": "36",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/jason-kuhn/7790",
         "imageUrl": "https://shupirates.com/images/2026/1/21/36_Kuhn.png",
-        "gamesPlayed": 9,
-        "gamesStarted": 6,
-        "appearances": 9,
+        "gamesPlayed": 10,
+        "gamesStarted": 7,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.04,
-        "whip": 1.7,
+        "earnedRunAverage": 8.14,
+        "whip": 1.85,
         "wins": 1,
-        "losses": 1,
+        "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 23,
-        "inningsPitchedDisplay": "23.0",
-        "hitsAllowed": 23,
-        "runsAllowed": 22,
-        "earnedRunsAllowed": 18,
-        "walksAllowed": 16,
-        "strikeouts": 15,
-        "doublesAllowed": 6,
+        "inningsPitched": 24.333333333333332,
+        "inningsPitchedDisplay": "24.1",
+        "hitsAllowed": 26,
+        "runsAllowed": 26,
+        "earnedRunsAllowed": 22,
+        "walksAllowed": 19,
+        "strikeouts": 17,
+        "doublesAllowed": 8,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 87,
-        "wildPitches": 2,
+        "opponentsAtBats": 94,
+        "wildPitches": 3,
         "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.264,
+        "opponentsBattingAverage": 0.277,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3827,14 +3827,14 @@
         "jersey": "36",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/jason-kuhn/7790",
         "imageUrl": "https://shupirates.com/images/2026/1/21/36_Kuhn.png",
-        "gamesPlayed": 7,
-        "gamesStarted": 5,
+        "gamesPlayed": 8,
+        "gamesStarted": 6,
         "putouts": 1,
         "assists": 1,
         "errors": 1,
         "fieldingPercentage": 0.667,
         "doublePlays": 0,
-        "stolenBasesAgainst": 3,
+        "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
@@ -3842,7 +3842,7 @@
         "totalChances": 3
       },
       "evaluation": {
-        "score": 3,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3850,40 +3850,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 16.996047430830043,
+          "Miss bats": 20.79701120797012,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Jason Kuhn gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.04",
-          "WHIP 1.70",
-          "K/9 5.9"
+          "ERA 8.14",
+          "WHIP 1.85",
+          "K/9 6.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.04"
+            "value": "8.14"
           },
           {
             "label": "WHIP",
-            "value": "1.70"
+            "value": "1.85"
           },
           {
             "label": "K/9",
-            "value": "5.9"
-          },
-          {
-            "label": "BB/9",
             "value": "6.3"
           },
           {
+            "label": "BB/9",
+            "value": "7.0"
+          },
+          {
             "label": "HR/9",
-            "value": "1.17"
+            "value": "1.11"
           },
           {
             "label": "IP",
-            "value": "23.0"
+            "value": "24.3"
           }
         ],
         "metaLine": "FR / N/A",
@@ -4363,13 +4363,13 @@
         "jersey": "43",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/dominic-trolio/7793",
         "imageUrl": "https://shupirates.com/images/2026/1/21/43_Trolio.png",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 1,
         "battingAverage": 0,
-        "onBasePercentage": 0.167,
+        "onBasePercentage": 0.125,
         "sluggingPercentage": 0,
-        "ops": 0.167,
-        "atBats": 5,
+        "ops": 0.125,
+        "atBats": 7,
         "runs": 0,
         "hits": 0,
         "doubles": 0,
@@ -4379,7 +4379,7 @@
         "totalBases": 0,
         "walks": 1,
         "hitByPitch": 0,
-        "strikeouts": 0,
+        "strikeouts": 1,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -4389,7 +4389,7 @@
         "putouts": 0,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 6,
+        "plateAppearances": 8,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4411,7 +4411,7 @@
         "summary": "Dominic Trolio profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
           "AVG .000",
-          "OBP .167",
+          "OBP .125",
           "SLG .000"
         ],
         "statCards": [
@@ -4421,7 +4421,7 @@
           },
           {
             "label": "OBP",
-            "value": ".167"
+            "value": ".125"
           },
           {
             "label": "SLG",
@@ -4577,31 +4577,31 @@
         "jersey": "46",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/derek-benzinger/7795",
         "imageUrl": "https://shupirates.com/images/2026/1/21/46_Benzinger.png",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 0,
-        "appearances": 19,
+        "appearances": 20,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.53,
-        "whip": 1.78,
+        "earnedRunAverage": 7.11,
+        "whip": 1.86,
         "wins": 1,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 30.333333333333332,
-        "inningsPitchedDisplay": "30.1",
-        "hitsAllowed": 36,
-        "runsAllowed": 28,
-        "earnedRunsAllowed": 22,
-        "walksAllowed": 18,
+        "inningsPitched": 31.666666666666668,
+        "inningsPitchedDisplay": "31.2",
+        "hitsAllowed": 37,
+        "runsAllowed": 31,
+        "earnedRunsAllowed": 25,
+        "walksAllowed": 22,
         "strikeouts": 27,
         "doublesAllowed": 6,
         "triplesAllowed": 2,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 126,
+        "opponentsAtBats": 130,
         "wildPitches": 7,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.286,
+        "hitBatters": 4,
+        "balks": 1,
+        "opponentsBattingAverage": 0.285,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4626,7 +4626,7 @@
         "totalChances": 4
       },
       "evaluation": {
-        "score": 9,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4634,40 +4634,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.463536463536464,
-          "Command": 9.999999999999995,
+          "Miss bats": 33.39712918660286,
+          "Command": 4.545454545454546,
           "Damage suppression": 0
         },
         "summary": "Derek Benzinger gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.53",
-          "WHIP 1.78",
-          "K/9 8.0"
+          "ERA 7.11",
+          "WHIP 1.86",
+          "K/9 7.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.53"
+            "value": "7.11"
           },
           {
             "label": "WHIP",
-            "value": "1.78"
+            "value": "1.86"
           },
           {
             "label": "K/9",
-            "value": "8.0"
+            "value": "7.7"
           },
           {
             "label": "BB/9",
-            "value": "5.3"
+            "value": "6.3"
           },
           {
             "label": "HR/9",
-            "value": "0.89"
+            "value": "0.85"
           },
           {
             "label": "IP",
-            "value": "30.3"
+            "value": "31.7"
           }
         ],
         "metaLine": "GR / N/A",
@@ -4719,31 +4719,31 @@
         "jersey": "48",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/christopher-ho/7796",
         "imageUrl": "https://shupirates.com/images/2026/1/21/48_Ho.png",
-        "gamesPlayed": 8,
+        "gamesPlayed": 9,
         "gamesStarted": 0,
-        "appearances": 8,
+        "appearances": 9,
         "gamesCompleted": 0,
-        "earnedRunAverage": 9,
-        "whip": 1.63,
+        "earnedRunAverage": 10.8,
+        "whip": 1.8,
         "wins": 2,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 8,
-        "inningsPitchedDisplay": "8.0",
+        "inningsPitched": 8.333333333333334,
+        "inningsPitchedDisplay": "8.1",
         "hitsAllowed": 6,
-        "runsAllowed": 9,
-        "earnedRunsAllowed": 8,
-        "walksAllowed": 7,
+        "runsAllowed": 13,
+        "earnedRunsAllowed": 10,
+        "walksAllowed": 9,
         "strikeouts": 9,
         "doublesAllowed": 1,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 29,
+        "opponentsAtBats": 31,
         "wildPitches": 0,
-        "hitBatters": 5,
+        "hitBatters": 7,
         "balks": 0,
-        "opponentsBattingAverage": 0.207,
+        "opponentsBattingAverage": 0.194,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4768,7 +4768,7 @@
         "totalChances": 4
       },
       "evaluation": {
-        "score": 12,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4776,32 +4776,32 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 55.68181818181818,
-          "Command": 5.714285714285716,
+          "Miss bats": 51.99999999999999,
+          "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Christopher Ho looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 9.00",
-          "WHIP 1.63",
-          "K/9 10.1"
+          "ERA 10.80",
+          "WHIP 1.80",
+          "K/9 9.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.00"
+            "value": "10.80"
           },
           {
             "label": "WHIP",
-            "value": "1.63"
+            "value": "1.80"
           },
           {
             "label": "K/9",
-            "value": "10.1"
+            "value": "9.7"
           },
           {
             "label": "BB/9",
-            "value": "7.9"
+            "value": "9.7"
           },
           {
             "label": "HR/9",
@@ -4809,7 +4809,7 @@
           },
           {
             "label": "IP",
-            "value": "8.0"
+            "value": "8.3"
           }
         ],
         "metaLine": "GR / N/A",
@@ -5144,12 +5144,12 @@
         "jersey": "55",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/jake-lopez/7798",
         "imageUrl": "https://shupirates.com/images/2026/1/21/55_Lopez.png",
-        "gamesPlayed": 23,
+        "gamesPlayed": 24,
         "gamesStarted": 18,
         "battingAverage": 0.227,
-        "onBasePercentage": 0.346,
+        "onBasePercentage": 0.354,
         "sluggingPercentage": 0.273,
-        "ops": 0.619,
+        "ops": 0.627,
         "atBats": 66,
         "runs": 13,
         "hits": 15,
@@ -5159,7 +5159,7 @@
         "runsBattedIn": 7,
         "totalBases": 18,
         "walks": 8,
-        "hitByPitch": 4,
+        "hitByPitch": 5,
         "strikeouts": 13,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
@@ -5170,7 +5170,7 @@
         "putouts": 30,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 87,
+        "plateAppearances": 88,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -5197,13 +5197,13 @@
         "totalChances": 31
       },
       "evaluation": {
-        "score": 19,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 36.666666666666636,
+          "On-base": 41.111111111111086,
           "Power": 0,
           "Contact": 4.3750000000000036,
           "Discipline": 46.15384615384615,
@@ -5212,7 +5212,7 @@
         "summary": "Jake Lopez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .227",
-          "OBP .346",
+          "OBP .354",
           "SLG .273"
         ],
         "statCards": [
@@ -5222,7 +5222,7 @@
           },
           {
             "label": "OBP",
-            "value": ".346"
+            "value": ".354"
           },
           {
             "label": "SLG",
@@ -5269,29 +5269,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 63,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
-        "summary": "Gabe Cavazzoni profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
+        "summary": "Gabe Cavazzoni profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .329",
-          "OBP .425",
-          "SLG .550"
+          "AVG .319",
+          "OBP .413",
+          "SLG .535"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".329"
+            "value": ".319"
           },
           {
             "label": "OBP",
-            "value": ".425"
+            "value": ".413"
           },
           {
             "label": "SLG",
-            "value": ".550"
+            "value": ".535"
           },
           {
             "label": "HR",
@@ -5299,7 +5299,7 @@
           },
           {
             "label": "RBI",
-            "value": "25"
+            "value": "26"
           },
           {
             "label": "SB",
@@ -5307,10 +5307,10 @@
           }
         ],
         "components": {
-          "On-base": 80.55555555555554,
-          "Power": 60.526315789473706,
-          "Contact": 68.125,
-          "Discipline": 36.11111111111111,
+          "On-base": 73.88888888888886,
+          "Power": 56.57894736842106,
+          "Contact": 61.875,
+          "Discipline": 34.68834688346883,
           "Speed": 46.666666666666664
         },
         "metaLine": "JR / R/R",
@@ -5338,29 +5338,29 @@
         "position": "OF",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 2,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Joe Marini gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .138",
-          "OBP .212",
-          "SLG .207"
+          "AVG .188",
+          "OBP .270",
+          "SLG .250"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".138"
+            "value": ".188"
           },
           {
             "label": "OBP",
-            "value": ".212"
+            "value": ".270"
           },
           {
             "label": "SLG",
-            "value": ".207"
+            "value": ".250"
           },
           {
             "label": "HR",
@@ -5368,7 +5368,7 @@
           },
           {
             "label": "RBI",
-            "value": "3"
+            "value": "5"
           },
           {
             "label": "SB",
@@ -5379,7 +5379,7 @@
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 11.111111111111107,
+          "Discipline": 22.22222222222222,
           "Speed": 0
         },
         "metaLine": "GR / N/A",
@@ -5407,29 +5407,29 @@
         "position": "OF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 49,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Magnus Krieger profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .303",
-          "OBP .424",
-          "SLG .434"
+          "AVG .284",
+          "OBP .402",
+          "SLG .407"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".303"
+            "value": ".284"
           },
           {
             "label": "OBP",
-            "value": ".424"
+            "value": ".402"
           },
           {
             "label": "SLG",
-            "value": ".434"
+            "value": ".407"
           },
           {
             "label": "HR",
@@ -5445,10 +5445,10 @@
           }
         ],
         "components": {
-          "On-base": 79.99999999999999,
-          "Power": 30,
-          "Contact": 51.87499999999999,
-          "Discipline": 41.26984126984126,
+          "On-base": 67.77777777777779,
+          "Power": 22.894736842105257,
+          "Contact": 39.99999999999998,
+          "Discipline": 35.748792270531396,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SO / R/R",
@@ -5614,48 +5614,48 @@
         "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 9,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Stephen Curry gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.79",
-          "WHIP 1.60",
-          "K/9 7.8"
+          "ERA 5.09",
+          "WHIP 1.65",
+          "K/9 7.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.79"
+            "value": "5.09"
           },
           {
             "label": "WHIP",
-            "value": "1.60"
+            "value": "1.65"
           },
           {
             "label": "K/9",
-            "value": "7.8"
+            "value": "7.4"
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "5.9"
           },
           {
             "label": "HR/9",
-            "value": "1.31"
+            "value": "1.17"
           },
           {
             "label": "IP",
-            "value": "20.7"
+            "value": "23.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 34.89736070381231,
-          "Command": 10,
+          "Miss bats": 31.22529644268775,
+          "Command": 5.333333333333332,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -5890,15 +5890,15 @@
         "position": "C",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 0,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jake Walman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Jake Walman profiles as a C piece who controls at-bats.",
         "summaryMetrics": [
           "AVG .000",
-          "OBP .000",
+          "OBP .333",
           "SLG .000"
         ],
         "statCards": [
@@ -5908,7 +5908,7 @@
           },
           {
             "label": "OBP",
-            "value": ".000"
+            "value": ".333"
           },
           {
             "label": "SLG",
@@ -5928,10 +5928,10 @@
           }
         ],
         "components": {
-          "On-base": 0,
+          "On-base": 29.44444444444444,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 0,
+          "Discipline": 88.88888888888889,
           "Speed": 0
         },
         "metaLine": "R-JR / R/R",
@@ -6035,14 +6035,14 @@
         },
         "summary": "Ryan Frontera profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .323",
+          "AVG .326",
           "OBP .415",
-          "SLG .383"
+          "SLG .384"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".323"
+            "value": ".326"
           },
           {
             "label": "OBP",
@@ -6050,7 +6050,7 @@
           },
           {
             "label": "SLG",
-            "value": ".383"
+            "value": ".384"
           },
           {
             "label": "HR",
@@ -6067,8 +6067,8 @@
         ],
         "components": {
           "On-base": 74.99999999999997,
-          "Power": 16.578947368421055,
-          "Contact": 64.375,
+          "Power": 16.842105263157897,
+          "Contact": 66.25000000000001,
           "Discipline": 65.74074074074072,
           "Speed": 6.666666666666667
         },
@@ -6235,29 +6235,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 33,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nick Tomasetto gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .245",
-          "OBP .375",
-          "SLG .400"
+          "AVG .241",
+          "OBP .370",
+          "SLG .393"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".245"
+            "value": ".241"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".370"
           },
           {
             "label": "SLG",
-            "value": ".400"
+            "value": ".393"
           },
           {
             "label": "HR",
@@ -6273,10 +6273,10 @@
           }
         ],
         "components": {
-          "On-base": 52.77777777777777,
-          "Power": 21.052631578947377,
-          "Contact": 15.624999999999996,
-          "Discipline": 49.46236559139784,
+          "On-base": 49.999999999999986,
+          "Power": 19.21052631578948,
+          "Contact": 13.124999999999995,
+          "Discipline": 47.222222222222214,
           "Speed": 10
         },
         "metaLine": "JR / N/A",
@@ -6304,29 +6304,29 @@
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 6,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tommy Manzo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .169",
-          "OBP .280",
-          "SLG .286"
+          "AVG .165",
+          "OBP .274",
+          "SLG .278"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".169"
+            "value": ".165"
           },
           {
             "label": "OBP",
-            "value": ".280"
+            "value": ".274"
           },
           {
             "label": "SLG",
-            "value": ".286"
+            "value": ".278"
           },
           {
             "label": "HR",
@@ -6334,7 +6334,7 @@
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "SB",
@@ -6345,7 +6345,7 @@
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 30.917874396135264,
+          "Discipline": 28.7037037037037,
           "Speed": 13.333333333333334
         },
         "metaLine": "SO / R/R",
@@ -6373,29 +6373,29 @@
         "position": "C",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 13,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ryan Strnad gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .244",
-          "OBP .313",
-          "SLG .317"
+          "AVG .250",
+          "OBP .314",
+          "SLG .341"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".244"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".313"
+            "value": ".314"
           },
           {
             "label": "SLG",
-            "value": ".317"
+            "value": ".341"
           },
           {
             "label": "HR",
@@ -6403,7 +6403,7 @@
           },
           {
             "label": "RBI",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "SB",
@@ -6411,10 +6411,10 @@
           }
         ],
         "components": {
-          "On-base": 18.333333333333318,
-          "Power": 0,
-          "Contact": 14.999999999999996,
-          "Discipline": 28.282828282828277,
+          "On-base": 18.888888888888875,
+          "Power": 5.526315789473689,
+          "Contact": 18.75,
+          "Discipline": 24.07407407407407,
           "Speed": 0
         },
         "metaLine": "FR / N/A",
@@ -6579,48 +6579,48 @@
         "position": "RHP",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 4,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Matt Pontari gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.71",
-          "WHIP 2.00",
-          "K/9 6.0"
+          "ERA 4.94",
+          "WHIP 1.94",
+          "K/9 6.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.71"
+            "value": "4.94"
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "1.94"
           },
           {
             "label": "K/9",
-            "value": "6.0"
+            "value": "6.5"
           },
           {
             "label": "BB/9",
-            "value": "6.0"
+            "value": "6.1"
           },
           {
             "label": "HR/9",
-            "value": "0.43"
+            "value": "0.38"
           },
           {
             "label": "IP",
-            "value": "21.0"
+            "value": "23.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 18.181818181818183,
-          "Command": 0,
+          "Miss bats": 22.407170294494236,
+          "Command": 1.25,
           "Damage suppression": 0
         },
         "metaLine": "GR / N/A",
@@ -6717,29 +6717,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 32,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Shea Grady gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .280",
-          "OBP .379",
-          "SLG .329"
+          "AVG .291",
+          "OBP .390",
+          "SLG .337"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".280"
+            "value": ".291"
           },
           {
             "label": "OBP",
-            "value": ".379"
+            "value": ".390"
           },
           {
             "label": "SLG",
-            "value": ".329"
+            "value": ".337"
           },
           {
             "label": "HR",
@@ -6747,19 +6747,19 @@
           },
           {
             "label": "RBI",
-            "value": "11"
+            "value": "12"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "3"
           }
         ],
         "components": {
-          "On-base": 54.99999999999999,
-          "Power": 2.3684210526315814,
-          "Contact": 37.500000000000014,
-          "Discipline": 47.222222222222214,
-          "Speed": 6.666666666666667
+          "On-base": 61.11111111111111,
+          "Power": 4.47368421052632,
+          "Contact": 44.374999999999986,
+          "Discipline": 49.67320261437908,
+          "Speed": 10
         },
         "metaLine": "JR / N/A",
         "detailBadges": [
@@ -6923,29 +6923,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 20,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Frankie Scrivanic gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .259",
-          "OBP .341",
-          "SLG .306"
+          "AVG .261",
+          "OBP .346",
+          "SLG .315"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".259"
+            "value": ".261"
           },
           {
             "label": "OBP",
-            "value": ".341"
+            "value": ".346"
           },
           {
             "label": "SLG",
-            "value": ".306"
+            "value": ".315"
           },
           {
             "label": "HR",
@@ -6961,10 +6961,10 @@
           }
         ],
         "components": {
-          "On-base": 33.88888888888889,
+          "On-base": 36.666666666666636,
           "Power": 0,
-          "Contact": 24.375000000000004,
-          "Discipline": 33.33333333333333,
+          "Contact": 25.625000000000004,
+          "Discipline": 37.606837606837594,
           "Speed": 0
         },
         "metaLine": "JR / L/L",
@@ -7061,47 +7061,47 @@
         "position": "RHP",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 3,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jason Kuhn gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.04",
-          "WHIP 1.70",
-          "K/9 5.9"
+          "ERA 8.14",
+          "WHIP 1.85",
+          "K/9 6.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.04"
+            "value": "8.14"
           },
           {
             "label": "WHIP",
-            "value": "1.70"
+            "value": "1.85"
           },
           {
             "label": "K/9",
-            "value": "5.9"
-          },
-          {
-            "label": "BB/9",
             "value": "6.3"
           },
           {
+            "label": "BB/9",
+            "value": "7.0"
+          },
+          {
             "label": "HR/9",
-            "value": "1.17"
+            "value": "1.11"
           },
           {
             "label": "IP",
-            "value": "23.0"
+            "value": "24.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 16.996047430830043,
+          "Miss bats": 20.79701120797012,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -7345,7 +7345,7 @@
         "summary": "Dominic Trolio profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
           "AVG .000",
-          "OBP .167",
+          "OBP .125",
           "SLG .000"
         ],
         "statCards": [
@@ -7355,7 +7355,7 @@
           },
           {
             "label": "OBP",
-            "value": ".167"
+            "value": ".125"
           },
           {
             "label": "SLG",
@@ -7474,48 +7474,48 @@
         "position": "RHP",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 9,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Derek Benzinger gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.53",
-          "WHIP 1.78",
-          "K/9 8.0"
+          "ERA 7.11",
+          "WHIP 1.86",
+          "K/9 7.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.53"
+            "value": "7.11"
           },
           {
             "label": "WHIP",
-            "value": "1.78"
+            "value": "1.86"
           },
           {
             "label": "K/9",
-            "value": "8.0"
+            "value": "7.7"
           },
           {
             "label": "BB/9",
-            "value": "5.3"
+            "value": "6.3"
           },
           {
             "label": "HR/9",
-            "value": "0.89"
+            "value": "0.85"
           },
           {
             "label": "IP",
-            "value": "30.3"
+            "value": "31.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.463536463536464,
-          "Command": 9.999999999999995,
+          "Miss bats": 33.39712918660286,
+          "Command": 4.545454545454546,
           "Damage suppression": 0
         },
         "metaLine": "GR / N/A",
@@ -7543,33 +7543,33 @@
         "position": "RHP",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 12,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Christopher Ho looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 9.00",
-          "WHIP 1.63",
-          "K/9 10.1"
+          "ERA 10.80",
+          "WHIP 1.80",
+          "K/9 9.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.00"
+            "value": "10.80"
           },
           {
             "label": "WHIP",
-            "value": "1.63"
+            "value": "1.80"
           },
           {
             "label": "K/9",
-            "value": "10.1"
+            "value": "9.7"
           },
           {
             "label": "BB/9",
-            "value": "7.9"
+            "value": "9.7"
           },
           {
             "label": "HR/9",
@@ -7577,14 +7577,14 @@
           },
           {
             "label": "IP",
-            "value": "8.0"
+            "value": "8.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 55.68181818181818,
-          "Command": 5.714285714285716,
+          "Miss bats": 51.99999999999999,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "GR / N/A",
@@ -7750,7 +7750,7 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 19,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -7758,7 +7758,7 @@
         "summary": "Jake Lopez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .227",
-          "OBP .346",
+          "OBP .354",
           "SLG .273"
         ],
         "statCards": [
@@ -7768,7 +7768,7 @@
           },
           {
             "label": "OBP",
-            "value": ".346"
+            "value": ".354"
           },
           {
             "label": "SLG",
@@ -7788,7 +7788,7 @@
           }
         ],
         "components": {
-          "On-base": 36.666666666666636,
+          "On-base": 41.111111111111086,
           "Power": 0,
           "Contact": 4.3750000000000036,
           "Discipline": 46.15384615384615,

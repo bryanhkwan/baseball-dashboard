@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.davidson2026 = {
-  "generatedAt": "2026-05-02T11:06:53.334Z",
+  "generatedAt": "2026-05-03T11:06:41.631Z",
   "season": 2026,
   "school": {
     "slug": "davidson",
@@ -39,87 +39,87 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
     }
   },
   "teamSummary": {
-    "record": "24-19, 15-7",
-    "battingAverage": ".272",
-    "earnedRunAverage": "7.43",
+    "record": "24-20, 15-8",
+    "battingAverage": ".271",
+    "earnedRunAverage": "7.44",
     "wins": "24",
-    "losses": "19",
+    "losses": "20",
     "hitting": {
-      "atBats": "1439",
-      "runsScored": "297",
-      "hits": "392",
-      "runsBattedIn": "267",
-      "doubles": "65",
+      "atBats": "1472",
+      "runsScored": "300",
+      "hits": "399",
+      "runsBattedIn": "270",
+      "doubles": "66",
       "triples": "14",
       "homeRuns": "46",
-      "walks": "210",
+      "walks": "215",
       "intentionalWalks": "4",
-      "strikeouts": "421",
-      "strikeoutsLooking": "118",
-      "hitByPitch": "92",
-      "stolenBases": "48",
-      "caughtStealing": "8",
+      "strikeouts": "430",
+      "strikeoutsLooking": "120",
+      "hitByPitch": "94",
+      "stolenBases": "50",
+      "caughtStealing": "9",
       "sacrificeHits": "15",
       "sacrificeFlies": "15",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "285",
-      "flyOuts": "330",
+      "groundOuts": "287",
+      "flyOuts": "345",
       "groundedIntoDoublePlay": "20",
       "pickedOff": "3",
       "doublePlaysHitInto": "26",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1101",
-      "assists": "358",
-      "errors": "60",
+      "putouts": "1128",
+      "assists": "372",
+      "errors": "61",
       "passedBalls": "9",
       "catchersInterference": "1",
       "stolenBasesAgainst": "96",
       "caughtStealingBy": "19",
       "involvedInDoublePlays": "20",
       "involvedInTriplePlays": "0",
-      "totalChances": "1519",
+      "totalChances": "1561",
       "fieldingPercentage": ".961"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "24",
       "saves": "9",
-      "losses": "19",
+      "losses": "20",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "3",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "367.0",
-      "hitsAllowed": "424",
-      "runsAllowed": "359",
-      "earnedRunsAllowed": "303",
-      "walksAllowed": "235",
-      "strikeouts": "346",
-      "battersFaced": "1826",
-      "opponentAtBats": "1466",
-      "doublesAllowed": "72",
+      "inningsPitched": "376.0",
+      "hitsAllowed": "430",
+      "runsAllowed": "367",
+      "earnedRunsAllowed": "311",
+      "walksAllowed": "242",
+      "strikeouts": "354",
+      "battersFaced": "1869",
+      "opponentAtBats": "1495",
+      "doublesAllowed": "74",
       "triplesAllowed": "5",
       "homerunsAllowed": "55",
-      "wildPitches": "64",
+      "wildPitches": "65",
       "balks": "5",
-      "hitBatters": "75",
-      "strikeoutsLooking": "82",
+      "hitBatters": "81",
+      "strikeoutsLooking": "83",
       "intentionalWalks": "1",
       "inheritedRunners": "18",
       "inheritedRunnersThatScored": "17",
-      "sacrificeHitsAllowed": "28",
+      "sacrificeHitsAllowed": "29",
       "sacrificeFliesAllowed": "21",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6294",
-      "flyouts": "384",
-      "groundouts": "321",
+      "pitches": "6464",
+      "flyouts": "392",
+      "groundouts": "328",
       "teamUnearnedRuns": "0",
       "saveRecord": "2",
-      "pickoff": "7"
+      "pickoff": "9"
     }
   },
   "players": [
@@ -286,13 +286,13 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "jersey": "2",
         "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/fredy-diaz/11597",
         "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/37_Diaz.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "battingAverage": 0.254,
-        "onBasePercentage": 0.37,
-        "sluggingPercentage": 0.386,
-        "ops": 0.756,
-        "atBats": 114,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "battingAverage": 0.248,
+        "onBasePercentage": 0.362,
+        "sluggingPercentage": 0.376,
+        "ops": 0.738,
+        "atBats": 117,
         "runs": 20,
         "hits": 29,
         "doubles": 9,
@@ -309,10 +309,10 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "sacrificeHits": 5,
         "stolenBases": 6,
         "stolenBasesAttempts": 7,
-        "putouts": 52,
+        "putouts": 55,
         "assists": 0,
         "errors": 17,
-        "plateAppearances": 148,
+        "plateAppearances": 151,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -324,51 +324,51 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "jersey": "2",
         "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/fredy-diaz/11597",
         "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/37_Diaz.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "putouts": 52,
-        "assists": 69,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "putouts": 55,
+        "assists": 71,
         "errors": 17,
-        "fieldingPercentage": 0.877,
+        "fieldingPercentage": 0.881,
         "doublePlays": 10,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 138
+        "totalChances": 143
       },
       "evaluation": {
-        "score": 26,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 49.999999999999986,
-          "Power": 17.368421052631582,
-          "Contact": 21.250000000000004,
+          "On-base": 45.555555555555536,
+          "Power": 14.73684210526316,
+          "Contact": 17.5,
           "Discipline": 0,
           "Speed": 20
         },
         "summary": "Fredy Diaz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .254",
-          "OBP .370",
-          "SLG .386"
+          "AVG .248",
+          "OBP .362",
+          "SLG .376"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".254"
+            "value": ".248"
           },
           {
             "label": "OBP",
-            "value": ".370"
+            "value": ".362"
           },
           {
             "label": "SLG",
-            "value": ".386"
+            "value": ".376"
           },
           {
             "label": "HR",
@@ -573,33 +573,33 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "jersey": "5",
         "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/matthew-vannoy/11624",
         "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/5_Vannoy.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "battingAverage": 0.244,
-        "onBasePercentage": 0.424,
-        "sluggingPercentage": 0.321,
-        "ops": 0.745,
-        "atBats": 156,
-        "runs": 37,
-        "hits": 38,
+        "gamesPlayed": 44,
+        "gamesStarted": 44,
+        "battingAverage": 0.256,
+        "onBasePercentage": 0.433,
+        "sluggingPercentage": 0.331,
+        "ops": 0.764,
+        "atBats": 160,
+        "runs": 38,
+        "hits": 41,
         "doubles": 4,
         "triples": 1,
         "homeRuns": 2,
-        "runsBattedIn": 17,
-        "totalBases": 50,
-        "walks": 35,
+        "runsBattedIn": 19,
+        "totalBases": 53,
+        "walks": 36,
         "hitByPitch": 14,
-        "strikeouts": 43,
+        "strikeouts": 44,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
         "sacrificeHits": 5,
-        "stolenBases": 6,
-        "stolenBasesAttempts": 8,
-        "putouts": 33,
+        "stolenBases": 8,
+        "stolenBasesAttempts": 10,
+        "putouts": 34,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 220,
+        "plateAppearances": 227,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -611,51 +611,51 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "jersey": "5",
         "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/matthew-vannoy/11624",
         "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/5_Vannoy.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "putouts": 33,
-        "assists": 70,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "putouts": 34,
+        "assists": 72,
         "errors": 6,
-        "fieldingPercentage": 0.945,
+        "fieldingPercentage": 0.946,
         "doublePlays": 4,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 109
+        "totalChances": 112
       },
       "evaluation": {
-        "score": 40,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 79.99999999999999,
-          "Power": 0.26315789473684237,
-          "Contact": 14.999999999999996,
-          "Discipline": 68.21705426356588,
-          "Speed": 20
+          "On-base": 84.99999999999999,
+          "Power": 2.8947368421052664,
+          "Contact": 22.500000000000004,
+          "Discipline": 68.68686868686868,
+          "Speed": 26.666666666666668
         },
-        "summary": "Matthew Vannoy profiles as a C/INF piece who gets on base at a high clip.",
+        "summary": "Matthew Vannoy profiles as a C/INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .244",
-          "OBP .424",
-          "SLG .321"
+          "AVG .256",
+          "OBP .433",
+          "SLG .331"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".244"
+            "value": ".256"
           },
           {
             "label": "OBP",
-            "value": ".424"
+            "value": ".433"
           },
           {
             "label": "SLG",
-            "value": ".321"
+            "value": ".331"
           },
           {
             "label": "HR",
@@ -663,11 +663,11 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "19"
           },
           {
             "label": "SB",
-            "value": "6"
+            "value": "8"
           }
         ],
         "metaLine": "FR / S/R",
@@ -718,13 +718,13 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "jersey": "6",
         "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/aidan-rice/11613",
         "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/6_Rice.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 24,
-        "battingAverage": 0.305,
-        "onBasePercentage": 0.4,
-        "sluggingPercentage": 0.439,
-        "ops": 0.839,
-        "atBats": 82,
+        "gamesPlayed": 32,
+        "gamesStarted": 25,
+        "battingAverage": 0.294,
+        "onBasePercentage": 0.394,
+        "sluggingPercentage": 0.424,
+        "ops": 0.818,
+        "atBats": 85,
         "runs": 13,
         "hits": 25,
         "doubles": 5,
@@ -733,7 +733,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "runsBattedIn": 11,
         "totalBases": 36,
         "walks": 10,
-        "hitByPitch": 5,
+        "hitByPitch": 6,
         "strikeouts": 26,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
@@ -744,7 +744,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "putouts": 54,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 105,
+        "plateAppearances": 109,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -756,51 +756,51 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "jersey": "6",
         "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/aidan-rice/11613",
         "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/6_Rice.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 23,
+        "gamesPlayed": 26,
+        "gamesStarted": 24,
         "putouts": 54,
-        "assists": 41,
+        "assists": 43,
         "errors": 6,
-        "fieldingPercentage": 0.941,
+        "fieldingPercentage": 0.942,
         "doublePlays": 8,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 101
+        "totalChances": 103
       },
       "evaluation": {
-        "score": 42,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 66.66666666666666,
-          "Power": 31.315789473684212,
-          "Contact": 53.124999999999986,
+          "On-base": 63.33333333333333,
+          "Power": 27.368421052631575,
+          "Contact": 46.249999999999986,
           "Discipline": 20.51282051282051,
           "Speed": 3.3333333333333335
         },
-        "summary": "Aidan Rice profiles as a INF/OF piece who gets on base at a high clip.",
+        "summary": "Aidan Rice gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .305",
-          "OBP .400",
-          "SLG .439"
+          "AVG .294",
+          "OBP .394",
+          "SLG .424"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".305"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".400"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".439"
+            "value": ".424"
           },
           {
             "label": "HR",
@@ -863,13 +863,13 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "jersey": "7",
         "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/gavin-thomas/11618",
         "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/7_Thomas.jpg",
-        "gamesPlayed": 23,
-        "gamesStarted": 6,
-        "battingAverage": 0.2,
-        "onBasePercentage": 0.306,
-        "sluggingPercentage": 0.533,
-        "ops": 0.839,
-        "atBats": 30,
+        "gamesPlayed": 24,
+        "gamesStarted": 7,
+        "battingAverage": 0.188,
+        "onBasePercentage": 0.289,
+        "sluggingPercentage": 0.5,
+        "ops": 0.789,
+        "atBats": 32,
         "runs": 9,
         "hits": 6,
         "doubles": 1,
@@ -889,7 +889,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "putouts": 20,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 38,
+        "plateAppearances": 40,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -916,36 +916,36 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "totalChances": 20
       },
       "evaluation": {
-        "score": 21,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 14.444444444444427,
-          "Power": 56.052631578947384,
+          "On-base": 4.999999999999974,
+          "Power": 47.36842105263158,
           "Contact": 0,
           "Discipline": 9.523809523809518,
           "Speed": 6.666666666666667
         },
         "summary": "Gavin Thomas gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .200",
-          "OBP .306",
-          "SLG .533"
+          "AVG .188",
+          "OBP .289",
+          "SLG .500"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".200"
+            "value": ".188"
           },
           {
             "label": "OBP",
-            "value": ".306"
+            "value": ".289"
           },
           {
             "label": "SLG",
-            "value": ".533"
+            "value": ".500"
           },
           {
             "label": "HR",
@@ -1008,7 +1008,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "jersey": "8",
         "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/cooper-collins/11595",
         "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/8_Collins.jpg",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 10,
         "battingAverage": 0.171,
         "onBasePercentage": 0.321,
@@ -1298,33 +1298,33 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "jersey": "10",
         "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/matt-manjooran/11625",
         "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/10_Manjooran.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "battingAverage": 0.329,
-        "onBasePercentage": 0.428,
-        "sluggingPercentage": 0.537,
-        "ops": 0.965,
-        "atBats": 164,
+        "gamesPlayed": 44,
+        "gamesStarted": 44,
+        "battingAverage": 0.331,
+        "onBasePercentage": 0.427,
+        "sluggingPercentage": 0.533,
+        "ops": 0.96,
+        "atBats": 169,
         "runs": 27,
-        "hits": 54,
+        "hits": 56,
         "doubles": 11,
         "triples": 4,
         "homeRuns": 5,
-        "runsBattedIn": 43,
-        "totalBases": 88,
+        "runsBattedIn": 44,
+        "totalBases": 90,
         "walks": 18,
         "hitByPitch": 11,
-        "strikeouts": 41,
+        "strikeouts": 42,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 5,
         "stolenBasesAttempts": 7,
-        "putouts": 119,
+        "putouts": 128,
         "assists": 0,
         "errors": 7,
-        "plateAppearances": 203,
+        "plateAppearances": 208,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1336,51 +1336,51 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "jersey": "10",
         "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/matt-manjooran/11625",
         "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/10_Manjooran.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "putouts": 119,
-        "assists": 34,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "putouts": 128,
+        "assists": 36,
         "errors": 7,
-        "fieldingPercentage": 0.956,
+        "fieldingPercentage": 0.959,
         "doublePlays": 9,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 160
+        "totalChances": 171
       },
       "evaluation": {
-        "score": 59,
+        "score": 58,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 82.22222222222221,
-          "Power": 57.10526315789475,
-          "Contact": 68.125,
-          "Discipline": 26.55826558265582,
+          "On-base": 81.66666666666666,
+          "Power": 56.052631578947384,
+          "Contact": 69.37500000000001,
+          "Discipline": 25.39682539682539,
           "Speed": 16.666666666666664
         },
         "summary": "Matt Manjooran profiles as a 3B/OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .329",
-          "OBP .428",
-          "SLG .537"
+          "AVG .331",
+          "OBP .427",
+          "SLG .533"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".329"
+            "value": ".331"
           },
           {
             "label": "OBP",
-            "value": ".428"
+            "value": ".427"
           },
           {
             "label": "SLG",
-            "value": ".537"
+            "value": ".533"
           },
           {
             "label": "HR",
@@ -1388,7 +1388,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           },
           {
             "label": "RBI",
-            "value": "43"
+            "value": "44"
           },
           {
             "label": "SB",
@@ -1588,13 +1588,13 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "jersey": "12",
         "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jamie-daly/11596",
         "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/12_Daly.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 36,
-        "battingAverage": 0.331,
-        "onBasePercentage": 0.451,
-        "sluggingPercentage": 0.597,
-        "ops": 1.048,
-        "atBats": 139,
+        "gamesPlayed": 41,
+        "gamesStarted": 37,
+        "battingAverage": 0.326,
+        "onBasePercentage": 0.455,
+        "sluggingPercentage": 0.589,
+        "ops": 1.044,
+        "atBats": 141,
         "runs": 34,
         "hits": 46,
         "doubles": 6,
@@ -1602,20 +1602,20 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "homeRuns": 9,
         "runsBattedIn": 31,
         "totalBases": 83,
-        "walks": 21,
-        "hitByPitch": 11,
-        "strikeouts": 48,
+        "walks": 23,
+        "hitByPitch": 12,
+        "strikeouts": 49,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
         "sacrificeHits": 1,
         "stolenBases": 9,
-        "stolenBasesAttempts": 9,
-        "putouts": 83,
+        "stolenBasesAttempts": 10,
+        "putouts": 86,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 183,
-        "caughtStealing": 0,
+        "plateAppearances": 190,
+        "caughtStealing": 1,
         "pickedOff": 1
       },
       "pitchingStats": null,
@@ -1626,9 +1626,9 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "jersey": "12",
         "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jamie-daly/11596",
         "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/12_Daly.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
-        "putouts": 83,
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "putouts": 86,
         "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1638,7 +1638,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 85
+        "totalChances": 88
       },
       "evaluation": {
         "score": 69,
@@ -1647,30 +1647,30 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 95,
-          "Power": 72.89473684210527,
-          "Contact": 69.37500000000001,
-          "Discipline": 26.388888888888886,
+          "On-base": 97.22222222222221,
+          "Power": 70.78947368421052,
+          "Contact": 66.25000000000001,
+          "Discipline": 29.93197278911564,
           "Speed": 30
         },
         "summary": "Jamie Daly profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .331",
-          "OBP .451",
-          "SLG .597"
+          "AVG .326",
+          "OBP .455",
+          "SLG .589"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".331"
+            "value": ".326"
           },
           {
             "label": "OBP",
-            "value": ".451"
+            "value": ".455"
           },
           {
             "label": "SLG",
-            "value": ".597"
+            "value": ".589"
           },
           {
             "label": "HR",
@@ -1733,20 +1733,20 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "jersey": "13",
         "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/forrest-lietz/11607",
         "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/13_Lietz.jpg",
-        "gamesPlayed": 41,
+        "gamesPlayed": 42,
         "gamesStarted": 39,
-        "battingAverage": 0.303,
-        "onBasePercentage": 0.415,
+        "battingAverage": 0.306,
+        "onBasePercentage": 0.416,
         "sluggingPercentage": 0.472,
-        "ops": 0.887,
-        "atBats": 142,
-        "runs": 32,
-        "hits": 43,
+        "ops": 0.888,
+        "atBats": 144,
+        "runs": 33,
+        "hits": 44,
         "doubles": 4,
         "triples": 1,
         "homeRuns": 6,
         "runsBattedIn": 32,
-        "totalBases": 67,
+        "totalBases": 68,
         "walks": 27,
         "hitByPitch": 1,
         "strikeouts": 35,
@@ -1759,7 +1759,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "putouts": 77,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 180,
+        "plateAppearances": 182,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -2162,13 +2162,13 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "jersey": "16",
         "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/theo-loughlin/11628",
         "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/16_Loughlin.jpg",
-        "gamesPlayed": 34,
+        "gamesPlayed": 35,
         "gamesStarted": 29,
-        "battingAverage": 0.257,
-        "onBasePercentage": 0.397,
-        "sluggingPercentage": 0.337,
-        "ops": 0.734,
-        "atBats": 101,
+        "battingAverage": 0.255,
+        "onBasePercentage": 0.394,
+        "sluggingPercentage": 0.333,
+        "ops": 0.727,
+        "atBats": 102,
         "runs": 18,
         "hits": 26,
         "doubles": 5,
@@ -2178,7 +2178,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "totalBases": 34,
         "walks": 23,
         "hitByPitch": 1,
-        "strikeouts": 34,
+        "strikeouts": 35,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
@@ -2188,7 +2188,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "putouts": 213,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 128,
+        "plateAppearances": 129,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2215,36 +2215,36 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "totalChances": 220
       },
       "evaluation": {
-        "score": 34,
+        "score": 33,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 65,
-          "Power": 4.47368421052632,
-          "Contact": 23.125000000000004,
-          "Discipline": 52.94117647058824,
+          "On-base": 63.33333333333333,
+          "Power": 3.421052631578951,
+          "Contact": 21.875000000000004,
+          "Discipline": 50.79365079365078,
           "Speed": 6.666666666666667
         },
         "summary": "Theo Loughlin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .257",
-          "OBP .397",
-          "SLG .337"
+          "AVG .255",
+          "OBP .394",
+          "SLG .333"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".257"
+            "value": ".255"
           },
           {
             "label": "OBP",
-            "value": ".397"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".337"
+            "value": ".333"
           },
           {
             "label": "HR",
@@ -2308,31 +2308,31 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "jersey": "17",
         "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/cooper-cavanaugh/11593",
         "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/17_Cavanaugh.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 10,
-        "appearances": 10,
+        "gamesPlayed": 11,
+        "gamesStarted": 11,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.83,
-        "whip": 1.28,
+        "earnedRunAverage": 4.17,
+        "whip": 1.31,
         "wins": 4,
-        "losses": 2,
+        "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 44.666666666666664,
-        "inningsPitchedDisplay": "44.2",
-        "hitsAllowed": 27,
-        "runsAllowed": 19,
-        "earnedRunsAllowed": 19,
-        "walksAllowed": 30,
-        "strikeouts": 56,
-        "doublesAllowed": 1,
+        "inningsPitched": 49.666666666666664,
+        "inningsPitchedDisplay": "49.2",
+        "hitsAllowed": 30,
+        "runsAllowed": 23,
+        "earnedRunsAllowed": 23,
+        "walksAllowed": 35,
+        "strikeouts": 61,
+        "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 7,
-        "opponentsAtBats": 158,
-        "wildPitches": 3,
-        "hitBatters": 4,
+        "opponentsAtBats": 173,
+        "wildPitches": 4,
+        "hitBatters": 7,
         "balks": 2,
-        "opponentsBattingAverage": 0.171,
+        "opponentsBattingAverage": 0.173,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2342,22 +2342,22 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "jersey": "17",
         "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/cooper-cavanaugh/11593",
         "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/17_Cavanaugh.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 5,
+        "gamesPlayed": 6,
+        "gamesStarted": 6,
         "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
+        "assists": 4,
+        "errors": 1,
+        "fieldingPercentage": 0.8,
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
-        "caughtStealingBy": 3,
+        "caughtStealingBy": 4,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 1
+        "totalChances": 5
       },
       "evaluation": {
-        "score": 16,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2365,40 +2365,40 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 66.2143826322931,
-          "Command": 17.33333333333334,
+          "Miss bats": 64.12446613788897,
+          "Command": 14.857142857142858,
           "Damage suppression": 0
         },
-        "summary": "Cooper Cavanaugh looks like a LHP option who limits runs and misses bats.",
+        "summary": "Cooper Cavanaugh looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 3.83",
-          "WHIP 1.28",
-          "K/9 11.3"
+          "ERA 4.17",
+          "WHIP 1.31",
+          "K/9 11.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.83"
+            "value": "4.17"
           },
           {
             "label": "WHIP",
-            "value": "1.28"
+            "value": "1.31"
           },
           {
             "label": "K/9",
-            "value": "11.3"
+            "value": "11.1"
           },
           {
             "label": "BB/9",
-            "value": "6.0"
+            "value": "6.3"
           },
           {
             "label": "HR/9",
-            "value": "1.41"
+            "value": "1.27"
           },
           {
             "label": "IP",
-            "value": "44.7"
+            "value": "49.7"
           }
         ],
         "metaLine": "JR / L/L",
@@ -2449,13 +2449,13 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "jersey": "18",
         "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/scotty-edwards/11598",
         "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/18_Edwards.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 26,
-        "battingAverage": 0.297,
-        "onBasePercentage": 0.403,
-        "sluggingPercentage": 0.525,
-        "ops": 0.928,
-        "atBats": 101,
+        "gamesPlayed": 30,
+        "gamesStarted": 27,
+        "battingAverage": 0.286,
+        "onBasePercentage": 0.39,
+        "sluggingPercentage": 0.505,
+        "ops": 0.895,
+        "atBats": 105,
         "runs": 23,
         "hits": 30,
         "doubles": 5,
@@ -2465,17 +2465,17 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "totalBases": 53,
         "walks": 13,
         "hitByPitch": 5,
-        "strikeouts": 22,
+        "strikeouts": 24,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 41,
+        "putouts": 44,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 120,
+        "plateAppearances": 124,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2487,10 +2487,10 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "jersey": "18",
         "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/scotty-edwards/11598",
         "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/18_Edwards.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 17,
-        "putouts": 41,
-        "assists": 0,
+        "gamesPlayed": 18,
+        "gamesStarted": 18,
+        "putouts": 44,
+        "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -2499,39 +2499,39 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 41
+        "totalChances": 45
       },
       "evaluation": {
-        "score": 51,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 68.33333333333333,
-          "Power": 53.947368421052644,
-          "Contact": 48.12499999999999,
-          "Discipline": 43.43434343434343,
+          "On-base": 61.11111111111111,
+          "Power": 48.684210526315795,
+          "Contact": 41.24999999999998,
+          "Discipline": 37.962962962962955,
           "Speed": 3.3333333333333335
         },
-        "summary": "Scotty Edwards profiles as a OF piece who gets on base at a high clip.",
+        "summary": "Scotty Edwards gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .297",
-          "OBP .403",
-          "SLG .525"
+          "AVG .286",
+          "OBP .390",
+          "SLG .505"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".297"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".403"
+            "value": ".390"
           },
           {
             "label": "SLG",
-            "value": ".525"
+            "value": ".505"
           },
           {
             "label": "HR",
@@ -2946,13 +2946,13 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "jersey": "22",
         "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/anthony-torreso/11619",
         "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/22_Torreso.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "battingAverage": 0.272,
-        "onBasePercentage": 0.429,
-        "sluggingPercentage": 0.449,
-        "ops": 0.878,
-        "atBats": 158,
+        "gamesPlayed": 44,
+        "gamesStarted": 44,
+        "battingAverage": 0.264,
+        "onBasePercentage": 0.419,
+        "sluggingPercentage": 0.436,
+        "ops": 0.855,
+        "atBats": 163,
         "runs": 35,
         "hits": 43,
         "doubles": 6,
@@ -2962,7 +2962,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "totalBases": 71,
         "walks": 37,
         "hitByPitch": 8,
-        "strikeouts": 48,
+        "strikeouts": 50,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
@@ -2972,7 +2972,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "putouts": 28,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 207,
+        "plateAppearances": 212,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -2999,36 +2999,36 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "totalChances": 33
       },
       "evaluation": {
-        "score": 51,
+        "score": 47,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 82.77777777777776,
-          "Power": 33.94736842105264,
-          "Contact": 32.500000000000014,
-          "Discipline": 63.42592592592591,
+          "On-base": 77.2222222222222,
+          "Power": 30.526315789473685,
+          "Contact": 27.500000000000007,
+          "Discipline": 60,
           "Speed": 6.666666666666667
         },
         "summary": "Anthony Torreso profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .272",
-          "OBP .429",
-          "SLG .449"
+          "AVG .264",
+          "OBP .419",
+          "SLG .436"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".272"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".429"
+            "value": ".419"
           },
           {
             "label": "SLG",
-            "value": ".449"
+            "value": ".436"
           },
           {
             "label": "HR",
@@ -3378,33 +3378,33 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "jersey": "25",
         "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/brendan-fritch/11629",
         "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/25_Fritch.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 24,
-        "battingAverage": 0.239,
-        "onBasePercentage": 0.327,
-        "sluggingPercentage": 0.364,
-        "ops": 0.691,
-        "atBats": 88,
-        "runs": 15,
-        "hits": 21,
-        "doubles": 3,
+        "gamesPlayed": 32,
+        "gamesStarted": 25,
+        "battingAverage": 0.244,
+        "onBasePercentage": 0.343,
+        "sluggingPercentage": 0.378,
+        "ops": 0.721,
+        "atBats": 90,
+        "runs": 16,
+        "hits": 22,
+        "doubles": 4,
         "triples": 1,
         "homeRuns": 2,
         "runsBattedIn": 11,
-        "totalBases": 32,
-        "walks": 2,
+        "totalBases": 34,
+        "walks": 4,
         "hitByPitch": 10,
-        "strikeouts": 17,
+        "strikeouts": 18,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 157,
+        "putouts": 165,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 103,
+        "plateAppearances": 107,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3416,51 +3416,51 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "jersey": "25",
         "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/brendan-fritch/11629",
         "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/25_Fritch.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 23,
-        "putouts": 157,
-        "assists": 14,
+        "gamesPlayed": 29,
+        "gamesStarted": 24,
+        "putouts": 165,
+        "assists": 16,
         "errors": 3,
-        "fieldingPercentage": 0.983,
+        "fieldingPercentage": 0.984,
         "doublePlays": 1,
         "stolenBasesAgainst": 40,
         "caughtStealingBy": 5,
         "stolenBasesPercentage": null,
         "passedBalls": 5,
         "catchersInterference": 1,
-        "totalChances": 174
+        "totalChances": 184
       },
       "evaluation": {
-        "score": 14,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 26.111111111111107,
-          "Power": 11.57894736842105,
-          "Contact": 11.874999999999993,
-          "Discipline": 0,
+          "On-base": 35,
+          "Power": 15.263157894736842,
+          "Contact": 14.999999999999996,
+          "Discipline": 2.469135802469133,
           "Speed": 3.3333333333333335
         },
         "summary": "Brendan Fritch gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .239",
-          "OBP .327",
-          "SLG .364"
+          "AVG .244",
+          "OBP .343",
+          "SLG .378"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".239"
+            "value": ".244"
           },
           {
             "label": "OBP",
-            "value": ".327"
+            "value": ".343"
           },
           {
             "label": "SLG",
-            "value": ".364"
+            "value": ".378"
           },
           {
             "label": "HR",
@@ -4253,31 +4253,31 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "jersey": "32",
         "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-marenghi/11608",
         "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/32_Marenghi.jpg",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 0,
-        "appearances": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.77,
-        "whip": 1.45,
+        "earnedRunAverage": 4.37,
+        "whip": 1.43,
         "wins": 4,
         "losses": 0,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 31,
-        "inningsPitchedDisplay": "31.0",
-        "hitsAllowed": 30,
-        "runsAllowed": 19,
-        "earnedRunsAllowed": 13,
-        "walksAllowed": 15,
-        "strikeouts": 23,
-        "doublesAllowed": 7,
+        "inningsPitched": 35,
+        "inningsPitchedDisplay": "35.0",
+        "hitsAllowed": 33,
+        "runsAllowed": 23,
+        "earnedRunsAllowed": 17,
+        "walksAllowed": 17,
+        "strikeouts": 26,
+        "doublesAllowed": 8,
         "triplesAllowed": 1,
         "homeRunsAllowed": 7,
-        "opponentsAtBats": 117,
+        "opponentsAtBats": 131,
         "wildPitches": 5,
-        "hitBatters": 5,
+        "hitBatters": 8,
         "balks": 2,
-        "opponentsBattingAverage": 0.256,
+        "opponentsBattingAverage": 0.252,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4310,24 +4310,24 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 24.340175953079182,
-          "Command": 10.666666666666668,
+          "Miss bats": 24.41558441558442,
+          "Command": 10.58823529411765,
           "Damage suppression": 0
         },
-        "summary": "Will Marenghi looks like a RHP option who limits runs.",
+        "summary": "Will Marenghi gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 3.77",
-          "WHIP 1.45",
+          "ERA 4.37",
+          "WHIP 1.43",
           "K/9 6.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.77"
+            "value": "4.37"
           },
           {
             "label": "WHIP",
-            "value": "1.45"
+            "value": "1.43"
           },
           {
             "label": "K/9",
@@ -4339,11 +4339,11 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           },
           {
             "label": "HR/9",
-            "value": "2.03"
+            "value": "1.80"
           },
           {
             "label": "IP",
-            "value": "31.0"
+            "value": "35.0"
           }
         ],
         "metaLine": "SO / R/R",
@@ -5896,29 +5896,29 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 26,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Fredy Diaz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .254",
-          "OBP .370",
-          "SLG .386"
+          "AVG .248",
+          "OBP .362",
+          "SLG .376"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".254"
+            "value": ".248"
           },
           {
             "label": "OBP",
-            "value": ".370"
+            "value": ".362"
           },
           {
             "label": "SLG",
-            "value": ".386"
+            "value": ".376"
           },
           {
             "label": "HR",
@@ -5934,9 +5934,9 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           }
         ],
         "components": {
-          "On-base": 49.999999999999986,
-          "Power": 17.368421052631582,
-          "Contact": 21.250000000000004,
+          "On-base": 45.555555555555536,
+          "Power": 14.73684210526316,
+          "Contact": 17.5,
           "Discipline": 0,
           "Speed": 20
         },
@@ -6034,29 +6034,29 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "position": "C/INF",
         "classYear": "FR",
         "handedness": "S/R",
-        "score": 40,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Matthew Vannoy profiles as a C/INF piece who gets on base at a high clip.",
+        "summary": "Matthew Vannoy profiles as a C/INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .244",
-          "OBP .424",
-          "SLG .321"
+          "AVG .256",
+          "OBP .433",
+          "SLG .331"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".244"
+            "value": ".256"
           },
           {
             "label": "OBP",
-            "value": ".424"
+            "value": ".433"
           },
           {
             "label": "SLG",
-            "value": ".321"
+            "value": ".331"
           },
           {
             "label": "HR",
@@ -6064,19 +6064,19 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "19"
           },
           {
             "label": "SB",
-            "value": "6"
+            "value": "8"
           }
         ],
         "components": {
-          "On-base": 79.99999999999999,
-          "Power": 0.26315789473684237,
-          "Contact": 14.999999999999996,
-          "Discipline": 68.21705426356588,
-          "Speed": 20
+          "On-base": 84.99999999999999,
+          "Power": 2.8947368421052664,
+          "Contact": 22.500000000000004,
+          "Discipline": 68.68686868686868,
+          "Speed": 26.666666666666668
         },
         "metaLine": "FR / S/R",
         "detailBadges": [
@@ -6103,29 +6103,29 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "position": "INF/OF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 42,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Aidan Rice profiles as a INF/OF piece who gets on base at a high clip.",
+        "summary": "Aidan Rice gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .305",
-          "OBP .400",
-          "SLG .439"
+          "AVG .294",
+          "OBP .394",
+          "SLG .424"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".305"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".400"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".439"
+            "value": ".424"
           },
           {
             "label": "HR",
@@ -6141,9 +6141,9 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           }
         ],
         "components": {
-          "On-base": 66.66666666666666,
-          "Power": 31.315789473684212,
-          "Contact": 53.124999999999986,
+          "On-base": 63.33333333333333,
+          "Power": 27.368421052631575,
+          "Contact": 46.249999999999986,
           "Discipline": 20.51282051282051,
           "Speed": 3.3333333333333335
         },
@@ -6172,29 +6172,29 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 21,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Gavin Thomas gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .200",
-          "OBP .306",
-          "SLG .533"
+          "AVG .188",
+          "OBP .289",
+          "SLG .500"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".200"
+            "value": ".188"
           },
           {
             "label": "OBP",
-            "value": ".306"
+            "value": ".289"
           },
           {
             "label": "SLG",
-            "value": ".533"
+            "value": ".500"
           },
           {
             "label": "HR",
@@ -6210,8 +6210,8 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           }
         ],
         "components": {
-          "On-base": 14.444444444444427,
-          "Power": 56.052631578947384,
+          "On-base": 4.999999999999974,
+          "Power": 47.36842105263158,
           "Contact": 0,
           "Discipline": 9.523809523809518,
           "Speed": 6.666666666666667
@@ -6379,29 +6379,29 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "position": "3B/OF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 59,
+        "score": 58,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Matt Manjooran profiles as a 3B/OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .329",
-          "OBP .428",
-          "SLG .537"
+          "AVG .331",
+          "OBP .427",
+          "SLG .533"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".329"
+            "value": ".331"
           },
           {
             "label": "OBP",
-            "value": ".428"
+            "value": ".427"
           },
           {
             "label": "SLG",
-            "value": ".537"
+            "value": ".533"
           },
           {
             "label": "HR",
@@ -6409,7 +6409,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           },
           {
             "label": "RBI",
-            "value": "43"
+            "value": "44"
           },
           {
             "label": "SB",
@@ -6417,10 +6417,10 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           }
         ],
         "components": {
-          "On-base": 82.22222222222221,
-          "Power": 57.10526315789475,
-          "Contact": 68.125,
-          "Discipline": 26.55826558265582,
+          "On-base": 81.66666666666666,
+          "Power": 56.052631578947384,
+          "Contact": 69.37500000000001,
+          "Discipline": 25.39682539682539,
           "Speed": 16.666666666666664
         },
         "metaLine": "FR / R/R",
@@ -6524,22 +6524,22 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         },
         "summary": "Jamie Daly profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .331",
-          "OBP .451",
-          "SLG .597"
+          "AVG .326",
+          "OBP .455",
+          "SLG .589"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".331"
+            "value": ".326"
           },
           {
             "label": "OBP",
-            "value": ".451"
+            "value": ".455"
           },
           {
             "label": "SLG",
-            "value": ".597"
+            "value": ".589"
           },
           {
             "label": "HR",
@@ -6555,10 +6555,10 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           }
         ],
         "components": {
-          "On-base": 95,
-          "Power": 72.89473684210527,
-          "Contact": 69.37500000000001,
-          "Discipline": 26.388888888888886,
+          "On-base": 97.22222222222221,
+          "Power": 70.78947368421052,
+          "Contact": 66.25000000000001,
+          "Discipline": 29.93197278911564,
           "Speed": 30
         },
         "metaLine": "SO / L/R",
@@ -6793,29 +6793,29 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "position": "1B",
         "classYear": "FR",
         "handedness": "L/R",
-        "score": 34,
+        "score": 33,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Theo Loughlin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .257",
-          "OBP .397",
-          "SLG .337"
+          "AVG .255",
+          "OBP .394",
+          "SLG .333"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".257"
+            "value": ".255"
           },
           {
             "label": "OBP",
-            "value": ".397"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".337"
+            "value": ".333"
           },
           {
             "label": "HR",
@@ -6831,10 +6831,10 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           }
         ],
         "components": {
-          "On-base": 65,
-          "Power": 4.47368421052632,
-          "Contact": 23.125000000000004,
-          "Discipline": 52.94117647058824,
+          "On-base": 63.33333333333333,
+          "Power": 3.421052631578951,
+          "Contact": 21.875000000000004,
+          "Discipline": 50.79365079365078,
           "Speed": 6.666666666666667
         },
         "metaLine": "FR / L/R",
@@ -6862,48 +6862,48 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "position": "LHP",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 16,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cooper Cavanaugh looks like a LHP option who limits runs and misses bats.",
+        "summary": "Cooper Cavanaugh looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 3.83",
-          "WHIP 1.28",
-          "K/9 11.3"
+          "ERA 4.17",
+          "WHIP 1.31",
+          "K/9 11.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.83"
+            "value": "4.17"
           },
           {
             "label": "WHIP",
-            "value": "1.28"
+            "value": "1.31"
           },
           {
             "label": "K/9",
-            "value": "11.3"
+            "value": "11.1"
           },
           {
             "label": "BB/9",
-            "value": "6.0"
+            "value": "6.3"
           },
           {
             "label": "HR/9",
-            "value": "1.41"
+            "value": "1.27"
           },
           {
             "label": "IP",
-            "value": "44.7"
+            "value": "49.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 66.2143826322931,
-          "Command": 17.33333333333334,
+          "Miss bats": 64.12446613788897,
+          "Command": 14.857142857142858,
           "Damage suppression": 0
         },
         "metaLine": "JR / L/L",
@@ -6931,29 +6931,29 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 51,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Scotty Edwards profiles as a OF piece who gets on base at a high clip.",
+        "summary": "Scotty Edwards gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .297",
-          "OBP .403",
-          "SLG .525"
+          "AVG .286",
+          "OBP .390",
+          "SLG .505"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".297"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".403"
+            "value": ".390"
           },
           {
             "label": "SLG",
-            "value": ".525"
+            "value": ".505"
           },
           {
             "label": "HR",
@@ -6969,10 +6969,10 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           }
         ],
         "components": {
-          "On-base": 68.33333333333333,
-          "Power": 53.947368421052644,
-          "Contact": 48.12499999999999,
-          "Discipline": 43.43434343434343,
+          "On-base": 61.11111111111111,
+          "Power": 48.684210526315795,
+          "Contact": 41.24999999999998,
+          "Discipline": 37.962962962962955,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / R/R",
@@ -7206,29 +7206,29 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "position": "C",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 51,
+        "score": 47,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Anthony Torreso profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .272",
-          "OBP .429",
-          "SLG .449"
+          "AVG .264",
+          "OBP .419",
+          "SLG .436"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".272"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".429"
+            "value": ".419"
           },
           {
             "label": "SLG",
-            "value": ".449"
+            "value": ".436"
           },
           {
             "label": "HR",
@@ -7244,10 +7244,10 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           }
         ],
         "components": {
-          "On-base": 82.77777777777776,
-          "Power": 33.94736842105264,
-          "Contact": 32.500000000000014,
-          "Discipline": 63.42592592592591,
+          "On-base": 77.2222222222222,
+          "Power": 30.526315789473685,
+          "Contact": 27.500000000000007,
+          "Discipline": 60,
           "Speed": 6.666666666666667
         },
         "metaLine": "R-JR / R/R",
@@ -7413,29 +7413,29 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "position": "C/OF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 14,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brendan Fritch gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .239",
-          "OBP .327",
-          "SLG .364"
+          "AVG .244",
+          "OBP .343",
+          "SLG .378"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".239"
+            "value": ".244"
           },
           {
             "label": "OBP",
-            "value": ".327"
+            "value": ".343"
           },
           {
             "label": "SLG",
-            "value": ".364"
+            "value": ".378"
           },
           {
             "label": "HR",
@@ -7451,10 +7451,10 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           }
         ],
         "components": {
-          "On-base": 26.111111111111107,
-          "Power": 11.57894736842105,
-          "Contact": 11.874999999999993,
-          "Discipline": 0,
+          "On-base": 35,
+          "Power": 15.263157894736842,
+          "Contact": 14.999999999999996,
+          "Discipline": 2.469135802469133,
           "Speed": 3.3333333333333335
         },
         "metaLine": "FR / R/R",
@@ -7832,20 +7832,20 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Will Marenghi looks like a RHP option who limits runs.",
+        "summary": "Will Marenghi gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 3.77",
-          "WHIP 1.45",
+          "ERA 4.37",
+          "WHIP 1.43",
           "K/9 6.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.77"
+            "value": "4.37"
           },
           {
             "label": "WHIP",
-            "value": "1.45"
+            "value": "1.43"
           },
           {
             "label": "K/9",
@@ -7857,18 +7857,18 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           },
           {
             "label": "HR/9",
-            "value": "2.03"
+            "value": "1.80"
           },
           {
             "label": "IP",
-            "value": "31.0"
+            "value": "35.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 24.340175953079182,
-          "Command": 10.666666666666668,
+          "Miss bats": 24.41558441558442,
+          "Command": 10.58823529411765,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
