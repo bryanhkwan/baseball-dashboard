@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T11:06:35.720Z",
+  "generatedAt": "2026-05-04T12:05:34.403Z",
   "season": 2026,
   "school": {
     "slug": "bucknell",
@@ -38,84 +38,84 @@
     }
   },
   "teamSummary": {
-    "record": "23-21, 16-8",
-    "battingAverage": ".249",
-    "earnedRunAverage": "6.04",
-    "wins": "23",
-    "losses": "21",
+    "record": "24-22, 17-9",
+    "battingAverage": ".250",
+    "earnedRunAverage": "5.99",
+    "wins": "24",
+    "losses": "22",
     "hitting": {
-      "atBats": "1425",
-      "runsScored": "233",
-      "hits": "355",
-      "runsBattedIn": "220",
-      "doubles": "72",
+      "atBats": "1486",
+      "runsScored": "239",
+      "hits": "372",
+      "runsBattedIn": "224",
+      "doubles": "77",
       "triples": "13",
       "homeRuns": "31",
-      "walks": "189",
+      "walks": "194",
       "intentionalWalks": "5",
-      "strikeouts": "384",
-      "strikeoutsLooking": "105",
-      "hitByPitch": "52",
-      "stolenBases": "22",
-      "caughtStealing": "9",
+      "strikeouts": "401",
+      "strikeoutsLooking": "112",
+      "hitByPitch": "54",
+      "stolenBases": "23",
+      "caughtStealing": "10",
       "sacrificeHits": "15",
-      "sacrificeFlies": "18",
+      "sacrificeFlies": "19",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "338",
-      "flyOuts": "341",
-      "groundedIntoDoublePlay": "15",
+      "groundOuts": "352",
+      "flyOuts": "354",
+      "groundedIntoDoublePlay": "18",
       "pickedOff": "2",
-      "doublePlaysHitInto": "23",
+      "doublePlaysHitInto": "26",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1104",
-      "assists": "384",
-      "errors": "62",
+      "putouts": "1149",
+      "assists": "403",
+      "errors": "66",
       "passedBalls": "12",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "94",
+      "stolenBasesAgainst": "96",
       "caughtStealingBy": "20",
       "involvedInDoublePlays": "22",
       "involvedInTriplePlays": "0",
-      "totalChances": "1550",
-      "fieldingPercentage": ".960"
+      "totalChances": "1618",
+      "fieldingPercentage": ".959"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "23",
+      "wins": "24",
       "saves": "4",
-      "losses": "21",
+      "losses": "22",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "4",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "368.0",
-      "hitsAllowed": "380",
-      "runsAllowed": "305",
-      "earnedRunsAllowed": "247",
-      "walksAllowed": "241",
-      "strikeouts": "321",
-      "battersFaced": "1776",
-      "opponentAtBats": "1416",
-      "doublesAllowed": "67",
+      "inningsPitched": "383.0",
+      "hitsAllowed": "395",
+      "runsAllowed": "316",
+      "earnedRunsAllowed": "255",
+      "walksAllowed": "250",
+      "strikeouts": "330",
+      "battersFaced": "1848",
+      "opponentAtBats": "1474",
+      "doublesAllowed": "70",
       "triplesAllowed": "8",
       "homerunsAllowed": "36",
-      "wildPitches": "42",
+      "wildPitches": "45",
       "balks": "5",
-      "hitBatters": "76",
-      "strikeoutsLooking": "94",
+      "hitBatters": "79",
+      "strikeoutsLooking": "98",
       "intentionalWalks": "2",
       "inheritedRunners": "15",
       "inheritedRunnersThatScored": "14",
-      "sacrificeHitsAllowed": "26",
+      "sacrificeHitsAllowed": "28",
       "sacrificeFliesAllowed": "17",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6087",
-      "flyouts": "392",
-      "groundouts": "328",
+      "pitches": "6338",
+      "flyouts": "408",
+      "groundouts": "345",
       "teamUnearnedRuns": "0",
       "saveRecord": "3",
       "pickoff": "8"
@@ -305,33 +305,33 @@
         "jersey": "2",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/andrew-swenson/13439",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Swenson_Andrew_wykNI.png",
-        "gamesPlayed": 43,
-        "gamesStarted": 41,
-        "battingAverage": 0.171,
-        "onBasePercentage": 0.308,
-        "sluggingPercentage": 0.225,
-        "ops": 0.533,
-        "atBats": 129,
-        "runs": 12,
-        "hits": 22,
-        "doubles": 2,
+        "gamesPlayed": 45,
+        "gamesStarted": 43,
+        "battingAverage": 0.178,
+        "onBasePercentage": 0.313,
+        "sluggingPercentage": 0.244,
+        "ops": 0.557,
+        "atBats": 135,
+        "runs": 13,
+        "hits": 24,
+        "doubles": 4,
         "triples": 1,
         "homeRuns": 1,
         "runsBattedIn": 17,
-        "totalBases": 29,
-        "walks": 18,
+        "totalBases": 33,
+        "walks": 19,
         "hitByPitch": 8,
-        "strikeouts": 56,
+        "strikeouts": 58,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
         "sacrificeHits": 4,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 72,
+        "putouts": 76,
         "assists": 0,
-        "errors": 3,
-        "plateAppearances": 163,
+        "errors": 4,
+        "plateAppearances": 170,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -343,51 +343,51 @@
         "jersey": "2",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/andrew-swenson/13439",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Swenson_Andrew_wykNI.png",
-        "gamesPlayed": 40,
-        "gamesStarted": 39,
-        "putouts": 72,
-        "assists": 95,
-        "errors": 3,
-        "fieldingPercentage": 0.982,
+        "gamesPlayed": 42,
+        "gamesStarted": 41,
+        "putouts": 76,
+        "assists": 105,
+        "errors": 4,
+        "fieldingPercentage": 0.978,
         "doublePlays": 16,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 170
+        "totalChances": 185
       },
       "evaluation": {
-        "score": 8,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 15.55555555555554,
+          "On-base": 18.333333333333318,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 13.492063492063492,
+          "Discipline": 14.176245210727965,
           "Speed": 10
         },
         "summary": "Andrew Swenson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .171",
-          "OBP .308",
-          "SLG .225"
+          "AVG .178",
+          "OBP .313",
+          "SLG .244"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".171"
+            "value": ".178"
           },
           {
             "label": "OBP",
-            "value": ".308"
+            "value": ".313"
           },
           {
             "label": "SLG",
-            "value": ".225"
+            "value": ".244"
           },
           {
             "label": "HR",
@@ -450,33 +450,33 @@
         "jersey": "3",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/ty-lagoni/13443",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Lagoni_Ty_HvVm0.png",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "battingAverage": 0.218,
-        "onBasePercentage": 0.303,
-        "sluggingPercentage": 0.359,
-        "ops": 0.662,
-        "atBats": 170,
-        "runs": 27,
-        "hits": 37,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "battingAverage": 0.219,
+        "onBasePercentage": 0.3,
+        "sluggingPercentage": 0.354,
+        "ops": 0.654,
+        "atBats": 178,
+        "runs": 28,
+        "hits": 39,
         "doubles": 6,
         "triples": 3,
         "homeRuns": 4,
         "runsBattedIn": 29,
-        "totalBases": 61,
+        "totalBases": 63,
         "walks": 16,
         "hitByPitch": 6,
-        "strikeouts": 44,
+        "strikeouts": 47,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
-        "stolenBases": 6,
-        "stolenBasesAttempts": 7,
-        "putouts": 81,
+        "stolenBases": 7,
+        "stolenBasesAttempts": 8,
+        "putouts": 84,
         "assists": 0,
-        "errors": 13,
-        "plateAppearances": 203,
+        "errors": 14,
+        "plateAppearances": 212,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -488,51 +488,51 @@
         "jersey": "3",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/ty-lagoni/13443",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Lagoni_Ty_HvVm0.png",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "putouts": 81,
-        "assists": 100,
-        "errors": 13,
-        "fieldingPercentage": 0.933,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "putouts": 84,
+        "assists": 104,
+        "errors": 14,
+        "fieldingPercentage": 0.931,
         "doublePlays": 17,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 4,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 194
+        "totalChances": 202
       },
       "evaluation": {
-        "score": 11,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 12.77777777777776,
-          "Power": 10.263157894736837,
+          "On-base": 11.111111111111091,
+          "Power": 8.947368421052627,
           "Contact": 0,
-          "Discipline": 18.18181818181818,
-          "Speed": 20
+          "Discipline": 15.602836879432619,
+          "Speed": 23.333333333333332
         },
         "summary": "Ty Lagoni gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .218",
-          "OBP .303",
-          "SLG .359"
+          "AVG .219",
+          "OBP .300",
+          "SLG .354"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".218"
+            "value": ".219"
           },
           {
             "label": "OBP",
-            "value": ".303"
+            "value": ".300"
           },
           {
             "label": "SLG",
-            "value": ".359"
+            "value": ".354"
           },
           {
             "label": "HR",
@@ -544,7 +544,7 @@
           },
           {
             "label": "SB",
-            "value": "6"
+            "value": "7"
           }
         ],
         "metaLine": "JR / R/R",
@@ -595,13 +595,13 @@
         "jersey": "4",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/michael-chiaravallo/13421",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Chiaravallo_Michael_dXI2A.png",
-        "gamesPlayed": 32,
-        "gamesStarted": 13,
-        "battingAverage": 0.339,
-        "onBasePercentage": 0.412,
-        "sluggingPercentage": 0.576,
-        "ops": 0.988,
-        "atBats": 59,
+        "gamesPlayed": 33,
+        "gamesStarted": 14,
+        "battingAverage": 0.313,
+        "onBasePercentage": 0.384,
+        "sluggingPercentage": 0.531,
+        "ops": 0.915,
+        "atBats": 64,
         "runs": 16,
         "hits": 20,
         "doubles": 5,
@@ -611,17 +611,17 @@
         "totalBases": 34,
         "walks": 8,
         "hitByPitch": 0,
-        "strikeouts": 18,
+        "strikeouts": 20,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
-        "putouts": 29,
+        "putouts": 32,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 74,
+        "plateAppearances": 79,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -633,51 +633,51 @@
         "jersey": "4",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/michael-chiaravallo/13421",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Chiaravallo_Michael_dXI2A.png",
-        "gamesPlayed": 14,
-        "gamesStarted": 10,
-        "putouts": 29,
+        "gamesPlayed": 15,
+        "gamesStarted": 11,
+        "putouts": 32,
         "assists": 4,
         "errors": 1,
-        "fieldingPercentage": 0.971,
+        "fieldingPercentage": 0.973,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 34
+        "totalChances": 37
       },
       "evaluation": {
-        "score": 60,
+        "score": 48,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 73.3333333333333,
-          "Power": 67.36842105263158,
-          "Contact": 74.37500000000001,
-          "Discipline": 27.160493827160487,
+          "On-base": 57.77777777777777,
+          "Power": 55.5263157894737,
+          "Contact": 58.12499999999999,
+          "Discipline": 22.22222222222222,
           "Speed": 13.333333333333334
         },
-        "summary": "Michael Chiaravallo profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Michael Chiaravallo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .339",
-          "OBP .412",
-          "SLG .576"
+          "AVG .313",
+          "OBP .384",
+          "SLG .531"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".339"
+            "value": ".313"
           },
           {
             "label": "OBP",
-            "value": ".412"
+            "value": ".384"
           },
           {
             "label": "SLG",
-            "value": ".576"
+            "value": ".531"
           },
           {
             "label": "HR",
@@ -740,33 +740,33 @@
         "jersey": "5",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/deacon-bowne/13418",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Bowne_Deacon_Y4oCl.png",
-        "gamesPlayed": 30,
-        "gamesStarted": 29,
-        "battingAverage": 0.184,
-        "onBasePercentage": 0.351,
-        "sluggingPercentage": 0.276,
-        "ops": 0.627,
-        "atBats": 87,
+        "gamesPlayed": 31,
+        "gamesStarted": 30,
+        "battingAverage": 0.191,
+        "onBasePercentage": 0.36,
+        "sluggingPercentage": 0.281,
+        "ops": 0.641,
+        "atBats": 89,
         "runs": 8,
-        "hits": 16,
+        "hits": 17,
         "doubles": 8,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 11,
-        "totalBases": 24,
-        "walks": 18,
+        "totalBases": 25,
+        "walks": 19,
         "hitByPitch": 5,
-        "strikeouts": 34,
+        "strikeouts": 35,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 218,
+        "putouts": 223,
         "assists": 0,
-        "errors": 3,
-        "plateAppearances": 111,
+        "errors": 4,
+        "plateAppearances": 114,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -778,51 +778,51 @@
         "jersey": "5",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/deacon-bowne/13418",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Bowne_Deacon_Y4oCl.png",
-        "gamesPlayed": 30,
-        "gamesStarted": 29,
-        "putouts": 218,
+        "gamesPlayed": 31,
+        "gamesStarted": 30,
+        "putouts": 223,
         "assists": 16,
-        "errors": 3,
-        "fieldingPercentage": 0.987,
+        "errors": 4,
+        "fieldingPercentage": 0.984,
         "doublePlays": 0,
-        "stolenBasesAgainst": 67,
+        "stolenBasesAgainst": 68,
         "caughtStealingBy": 10,
         "stolenBasesPercentage": null,
         "passedBalls": 5,
         "catchersInterference": 0,
-        "totalChances": 237
+        "totalChances": 243
       },
       "evaluation": {
-        "score": 18,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 39.44444444444442,
+          "On-base": 44.44444444444443,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 36.601307189542474,
+          "Discipline": 38.09523809523808,
           "Speed": 0
         },
         "summary": "Deacon Bowne gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .184",
-          "OBP .351",
-          "SLG .276"
+          "AVG .191",
+          "OBP .360",
+          "SLG .281"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".184"
+            "value": ".191"
           },
           {
             "label": "OBP",
-            "value": ".351"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".276"
+            "value": ".281"
           },
           {
             "label": "HR",
@@ -885,34 +885,34 @@
         "jersey": "6",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/lleyton-coupe/13422",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Coupe_Lleyton_idyaL.png",
-        "gamesPlayed": 33,
-        "gamesStarted": 26,
-        "battingAverage": 0.292,
-        "onBasePercentage": 0.406,
-        "sluggingPercentage": 0.483,
-        "ops": 0.889,
-        "atBats": 89,
+        "gamesPlayed": 35,
+        "gamesStarted": 27,
+        "battingAverage": 0.29,
+        "onBasePercentage": 0.405,
+        "sluggingPercentage": 0.473,
+        "ops": 0.878,
+        "atBats": 93,
         "runs": 16,
-        "hits": 26,
+        "hits": 27,
         "doubles": 7,
         "triples": 2,
         "homeRuns": 2,
         "runsBattedIn": 17,
-        "totalBases": 43,
+        "totalBases": 44,
         "walks": 15,
-        "hitByPitch": 2,
-        "strikeouts": 16,
+        "hitByPitch": 3,
+        "strikeouts": 17,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 174,
+        "stolenBasesAttempts": 1,
+        "putouts": 180,
         "assists": 0,
-        "errors": 2,
-        "plateAppearances": 106,
-        "caughtStealing": 0,
+        "errors": 3,
+        "plateAppearances": 113,
+        "caughtStealing": 1,
         "pickedOff": 0
       },
       "pitchingStats": null,
@@ -923,51 +923,51 @@
         "jersey": "6",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/lleyton-coupe/13422",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Coupe_Lleyton_idyaL.png",
-        "gamesPlayed": 31,
-        "gamesStarted": 26,
-        "putouts": 174,
+        "gamesPlayed": 33,
+        "gamesStarted": 27,
+        "putouts": 180,
         "assists": 8,
-        "errors": 2,
-        "fieldingPercentage": 0.989,
+        "errors": 3,
+        "fieldingPercentage": 0.984,
         "doublePlays": 9,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 184
+        "totalChances": 191
       },
       "evaluation": {
-        "score": 53,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 70,
-          "Power": 42.89473684210526,
-          "Contact": 44.999999999999986,
-          "Discipline": 81.94444444444444,
+          "On-base": 69.44444444444444,
+          "Power": 40.26315789473684,
+          "Contact": 43.749999999999986,
+          "Discipline": 75.81699346405227,
           "Speed": 0
         },
         "summary": "Lleyton Coupe profiles as a 1B/3B piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .292",
-          "OBP .406",
-          "SLG .483"
+          "AVG .290",
+          "OBP .405",
+          "SLG .473"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".290"
           },
           {
             "label": "OBP",
-            "value": ".406"
+            "value": ".405"
           },
           {
             "label": "SLG",
-            "value": ".483"
+            "value": ".473"
           },
           {
             "label": "HR",
@@ -1030,13 +1030,13 @@
         "jersey": "7",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/luke-nascimento/13435",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Nascimento_Luke_ZokmD.png",
-        "gamesPlayed": 9,
-        "gamesStarted": 8,
-        "battingAverage": 0.167,
-        "onBasePercentage": 0.231,
-        "sluggingPercentage": 0.167,
-        "ops": 0.398,
-        "atBats": 24,
+        "gamesPlayed": 10,
+        "gamesStarted": 9,
+        "battingAverage": 0.143,
+        "onBasePercentage": 0.2,
+        "sluggingPercentage": 0.143,
+        "ops": 0.343,
+        "atBats": 28,
         "runs": 5,
         "hits": 4,
         "doubles": 0,
@@ -1046,17 +1046,17 @@
         "totalBases": 4,
         "walks": 1,
         "hitByPitch": 1,
-        "strikeouts": 8,
+        "strikeouts": 11,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 54,
+        "putouts": 59,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 27,
+        "plateAppearances": 31,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1068,19 +1068,19 @@
         "jersey": "7",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/luke-nascimento/13435",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Nascimento_Luke_ZokmD.png",
-        "gamesPlayed": 9,
-        "gamesStarted": 8,
-        "putouts": 54,
+        "gamesPlayed": 10,
+        "gamesStarted": 9,
+        "putouts": 59,
         "assists": 8,
         "errors": 3,
-        "fieldingPercentage": 0.954,
+        "fieldingPercentage": 0.957,
         "doublePlays": 0,
-        "stolenBasesAgainst": 19,
+        "stolenBasesAgainst": 20,
         "caughtStealingBy": 2,
         "stolenBasesPercentage": null,
         "passedBalls": 5,
         "catchersInterference": 0,
-        "totalChances": 65
+        "totalChances": 70
       },
       "evaluation": {
         "score": 0,
@@ -1097,22 +1097,22 @@
         },
         "summary": "Luke Nascimento gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .167",
-          "OBP .231",
-          "SLG .167"
+          "AVG .143",
+          "OBP .200",
+          "SLG .143"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".167"
+            "value": ".143"
           },
           {
             "label": "OBP",
-            "value": ".231"
+            "value": ".200"
           },
           {
             "label": "SLG",
-            "value": ".167"
+            "value": ".143"
           },
           {
             "label": "HR",
@@ -1321,31 +1321,31 @@
         "jersey": "9",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/mikey-myro/13434",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Myro_M25WS.png",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 3,
-        "appearances": 15,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.75,
-        "whip": 2.03,
+        "earnedRunAverage": 7.55,
+        "whip": 2.06,
         "wins": 1,
         "losses": 4,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 38.333333333333336,
-        "inningsPitchedDisplay": "38.1",
-        "hitsAllowed": 46,
+        "inningsPitched": 39.333333333333336,
+        "inningsPitchedDisplay": "39.1",
+        "hitsAllowed": 48,
         "runsAllowed": 42,
         "earnedRunsAllowed": 33,
-        "walksAllowed": 32,
-        "strikeouts": 30,
-        "doublesAllowed": 5,
+        "walksAllowed": 33,
+        "strikeouts": 31,
+        "doublesAllowed": 6,
         "triplesAllowed": 1,
         "homeRunsAllowed": 7,
-        "opponentsAtBats": 155,
+        "opponentsAtBats": 160,
         "wildPitches": 9,
         "hitBatters": 8,
         "balks": 0,
-        "opponentsBattingAverage": 0.297,
+        "opponentsBattingAverage": 0.3,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1378,40 +1378,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 27.667984189723317,
+          "Miss bats": 28.120184899845913,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Mikey Myro gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.75",
-          "WHIP 2.03",
-          "K/9 7.0"
+          "ERA 7.55",
+          "WHIP 2.06",
+          "K/9 7.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.75"
+            "value": "7.55"
           },
           {
             "label": "WHIP",
-            "value": "2.03"
+            "value": "2.06"
           },
           {
             "label": "K/9",
-            "value": "7.0"
+            "value": "7.1"
           },
           {
             "label": "BB/9",
-            "value": "7.5"
+            "value": "7.6"
           },
           {
             "label": "HR/9",
-            "value": "1.64"
+            "value": "1.60"
           },
           {
             "label": "IP",
-            "value": "38.3"
+            "value": "39.3"
           }
         ],
         "metaLine": "SR / R/R",
@@ -1607,33 +1607,33 @@
         "jersey": "11",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/billy-fluharty/13426",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Fluharty_Txo9O.png",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "battingAverage": 0.285,
-        "onBasePercentage": 0.352,
-        "sluggingPercentage": 0.36,
-        "ops": 0.712,
-        "atBats": 172,
-        "runs": 32,
-        "hits": 49,
-        "doubles": 7,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "battingAverage": 0.291,
+        "onBasePercentage": 0.358,
+        "sluggingPercentage": 0.369,
+        "ops": 0.727,
+        "atBats": 179,
+        "runs": 33,
+        "hits": 52,
+        "doubles": 8,
         "triples": 3,
         "homeRuns": 0,
-        "runsBattedIn": 17,
-        "totalBases": 62,
+        "runsBattedIn": 18,
+        "totalBases": 66,
         "walks": 13,
-        "hitByPitch": 7,
+        "hitByPitch": 8,
         "strikeouts": 38,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
+        "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 4,
         "sacrificeHits": 2,
         "stolenBases": 5,
         "stolenBasesAttempts": 9,
-        "putouts": 102,
+        "putouts": 104,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 211,
+        "plateAppearances": 219,
         "caughtStealing": 4,
         "pickedOff": 0
       },
@@ -1645,9 +1645,9 @@
         "jersey": "11",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/billy-fluharty/13426",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Fluharty_Txo9O.png",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "putouts": 102,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "putouts": 104,
         "assists": 1,
         "errors": 3,
         "fieldingPercentage": 0.972,
@@ -1657,39 +1657,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 106
+        "totalChances": 108
       },
       "evaluation": {
-        "score": 27,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 39.99999999999997,
-          "Power": 10.526315789473681,
-          "Contact": 40.624999999999986,
+          "On-base": 43.333333333333314,
+          "Power": 12.894736842105262,
+          "Contact": 44.374999999999986,
           "Discipline": 15.789473684210522,
           "Speed": 16.666666666666664
         },
         "summary": "Billy Fluharty gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .285",
-          "OBP .352",
-          "SLG .360"
+          "AVG .291",
+          "OBP .358",
+          "SLG .369"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".285"
+            "value": ".291"
           },
           {
             "label": "OBP",
-            "value": ".352"
+            "value": ".358"
           },
           {
             "label": "SLG",
-            "value": ".360"
+            "value": ".369"
           },
           {
             "label": "HR",
@@ -1697,7 +1697,7 @@
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "18"
           },
           {
             "label": "SB",
@@ -1752,13 +1752,13 @@
         "jersey": "12",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/ryan-facinelli/13424",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Facinelli_Ryan_zR3Au.png",
-        "gamesPlayed": 38,
-        "gamesStarted": 21,
-        "battingAverage": 0.159,
-        "onBasePercentage": 0.247,
-        "sluggingPercentage": 0.341,
-        "ops": 0.588,
-        "atBats": 82,
+        "gamesPlayed": 39,
+        "gamesStarted": 22,
+        "battingAverage": 0.155,
+        "onBasePercentage": 0.242,
+        "sluggingPercentage": 0.333,
+        "ops": 0.575,
+        "atBats": 84,
         "runs": 10,
         "hits": 13,
         "doubles": 4,
@@ -1768,17 +1768,17 @@
         "totalBases": 28,
         "walks": 9,
         "hitByPitch": 1,
-        "strikeouts": 42,
+        "strikeouts": 43,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
+        "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 162,
+        "putouts": 171,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 93,
+        "plateAppearances": 95,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1790,51 +1790,51 @@
         "jersey": "12",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/ryan-facinelli/13424",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Facinelli_Ryan_zR3Au.png",
-        "gamesPlayed": 28,
-        "gamesStarted": 19,
-        "putouts": 162,
+        "gamesPlayed": 29,
+        "gamesStarted": 20,
+        "putouts": 171,
         "assists": 8,
         "errors": 3,
-        "fieldingPercentage": 0.983,
+        "fieldingPercentage": 0.984,
         "doublePlays": 12,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 173
+        "totalChances": 182
       },
       "evaluation": {
-        "score": 2,
+        "score": 1,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
           "On-base": 0,
-          "Power": 5.526315789473689,
+          "Power": 3.421052631578951,
           "Contact": 0,
-          "Discipline": 1.5873015873015843,
+          "Discipline": 1.0335917312661498,
           "Speed": 0
         },
         "summary": "Ryan Facinelli gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .159",
-          "OBP .247",
-          "SLG .341"
+          "AVG .155",
+          "OBP .242",
+          "SLG .333"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".159"
+            "value": ".155"
           },
           {
             "label": "OBP",
-            "value": ".247"
+            "value": ".242"
           },
           {
             "label": "SLG",
-            "value": ".341"
+            "value": ".333"
           },
           {
             "label": "HR",
@@ -2042,33 +2042,33 @@
         "jersey": "14",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/zach-selfon/13444",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Selfon_Zach_rMWdx.png",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "battingAverage": 0.264,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "battingAverage": 0.269,
         "onBasePercentage": 0.368,
-        "sluggingPercentage": 0.289,
-        "ops": 0.657,
-        "atBats": 159,
+        "sluggingPercentage": 0.293,
+        "ops": 0.661,
+        "atBats": 167,
         "runs": 24,
-        "hits": 42,
+        "hits": 45,
         "doubles": 4,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 17,
-        "totalBases": 46,
+        "totalBases": 49,
         "walks": 19,
         "hitByPitch": 7,
-        "strikeouts": 21,
+        "strikeouts": 22,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 0,
         "sacrificeHits": 4,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 28,
+        "putouts": 30,
         "assists": 0,
         "errors": 9,
-        "plateAppearances": 192,
+        "plateAppearances": 200,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -2080,19 +2080,19 @@
         "jersey": "14",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/zach-selfon/13444",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Selfon_Zach_rMWdx.png",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "putouts": 28,
-        "assists": 77,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "putouts": 30,
+        "assists": 79,
         "errors": 9,
-        "fieldingPercentage": 0.921,
+        "fieldingPercentage": 0.924,
         "doublePlays": 6,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 114
+        "totalChances": 118
       },
       "evaluation": {
         "score": 32,
@@ -2103,20 +2103,20 @@
         "components": {
           "On-base": 48.88888888888887,
           "Power": 0,
-          "Contact": 27.500000000000007,
-          "Discipline": 78.30687830687829,
+          "Contact": 30.625000000000007,
+          "Discipline": 73.73737373737373,
           "Speed": 3.3333333333333335
         },
         "summary": "Zach Selfon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .264",
+          "AVG .269",
           "OBP .368",
-          "SLG .289"
+          "SLG .293"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".264"
+            "value": ".269"
           },
           {
             "label": "OBP",
@@ -2124,7 +2124,7 @@
           },
           {
             "label": "SLG",
-            "value": ".289"
+            "value": ".293"
           },
           {
             "label": "HR",
@@ -3043,31 +3043,31 @@
         "jersey": "23",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/tyler-seidman/13446",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Seidman_34Xvr.png",
-        "gamesPlayed": 13,
-        "gamesStarted": 3,
-        "appearances": 13,
+        "gamesPlayed": 14,
+        "gamesStarted": 4,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.9,
-        "whip": 1.62,
+        "earnedRunAverage": 6.09,
+        "whip": 1.59,
         "wins": 2,
-        "losses": 0,
+        "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 29,
-        "inningsPitchedDisplay": "29.0",
-        "hitsAllowed": 25,
-        "runsAllowed": 26,
-        "earnedRunsAllowed": 19,
-        "walksAllowed": 22,
-        "strikeouts": 32,
-        "doublesAllowed": 3,
+        "inningsPitched": 34,
+        "inningsPitchedDisplay": "34.0",
+        "hitsAllowed": 30,
+        "runsAllowed": 30,
+        "earnedRunsAllowed": 23,
+        "walksAllowed": 24,
+        "strikeouts": 34,
+        "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 113,
-        "wildPitches": 7,
+        "opponentsAtBats": 132,
+        "wildPitches": 9,
         "hitBatters": 5,
         "balks": 1,
-        "opponentsBattingAverage": 0.221,
+        "opponentsBattingAverage": 0.227,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3077,22 +3077,22 @@
         "jersey": "23",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/tyler-seidman/13446",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Seidman_34Xvr.png",
-        "gamesPlayed": 3,
-        "gamesStarted": 1,
+        "gamesPlayed": 4,
+        "gamesStarted": 2,
         "putouts": 0,
-        "assists": 0,
+        "assists": 1,
         "errors": 1,
-        "fieldingPercentage": 0,
+        "fieldingPercentage": 0.5,
         "doublePlays": 0,
-        "stolenBasesAgainst": 4,
+        "stolenBasesAgainst": 5,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 1
+        "totalChances": 2
       },
       "evaluation": {
-        "score": 12,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3100,40 +3100,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 53.91849529780565,
-          "Command": 9.090909090909092,
+          "Miss bats": 45.45454545454545,
+          "Command": 8.333333333333334,
           "Damage suppression": 0
         },
         "summary": "Tyler Seidman looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.90",
-          "WHIP 1.62",
-          "K/9 9.9"
+          "ERA 6.09",
+          "WHIP 1.59",
+          "K/9 9.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.90"
+            "value": "6.09"
           },
           {
             "label": "WHIP",
-            "value": "1.62"
+            "value": "1.59"
           },
           {
             "label": "K/9",
-            "value": "9.9"
+            "value": "9.0"
           },
           {
             "label": "BB/9",
-            "value": "6.8"
+            "value": "6.4"
           },
           {
             "label": "HR/9",
-            "value": "0.93"
+            "value": "0.79"
           },
           {
             "label": "IP",
-            "value": "29.0"
+            "value": "34.0"
           }
         ],
         "metaLine": "FR / R/L",
@@ -3185,31 +3185,31 @@
         "jersey": "24",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/everett-garber/13427",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Garber_Everett_OOPkB.png",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 9,
-        "appearances": 9,
+        "appearances": 10,
         "gamesCompleted": 1,
-        "earnedRunAverage": 4.93,
+        "earnedRunAverage": 5.05,
         "whip": 1.58,
         "wins": 3,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 45.666666666666664,
-        "inningsPitchedDisplay": "45.2",
-        "hitsAllowed": 47,
-        "runsAllowed": 30,
-        "earnedRunsAllowed": 25,
+        "inningsPitched": 46.333333333333336,
+        "inningsPitchedDisplay": "46.1",
+        "hitsAllowed": 48,
+        "runsAllowed": 32,
+        "earnedRunsAllowed": 26,
         "walksAllowed": 25,
         "strikeouts": 47,
         "doublesAllowed": 13,
         "triplesAllowed": 0,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 174,
+        "opponentsAtBats": 177,
         "wildPitches": 5,
-        "hitBatters": 6,
+        "hitBatters": 7,
         "balks": 1,
-        "opponentsBattingAverage": 0.27,
+        "opponentsBattingAverage": 0.271,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3242,20 +3242,20 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 47.843397478433985,
-          "Command": 17.6,
+          "Miss bats": 46.63178548070634,
+          "Command": 17.599999999999998,
           "Damage suppression": 0
         },
         "summary": "Everett Garber looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.93",
+          "ERA 5.05",
           "WHIP 1.58",
-          "K/9 9.3"
+          "K/9 9.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.93"
+            "value": "5.05"
           },
           {
             "label": "WHIP",
@@ -3263,7 +3263,7 @@
           },
           {
             "label": "K/9",
-            "value": "9.3"
+            "value": "9.1"
           },
           {
             "label": "BB/9",
@@ -3271,11 +3271,11 @@
           },
           {
             "label": "HR/9",
-            "value": "0.99"
+            "value": "0.97"
           },
           {
             "label": "IP",
-            "value": "45.7"
+            "value": "46.3"
           }
         ],
         "metaLine": "SO / R/R",
@@ -3929,31 +3929,31 @@
         "jersey": "30",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/tyler-hawkins/13428",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Hawkins_9OqOm.png",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 0,
-        "appearances": 15,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 9.15,
-        "whip": 2.29,
+        "earnedRunAverage": 8.71,
+        "whip": 2.32,
         "wins": 2,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 19.666666666666668,
-        "inningsPitchedDisplay": "19.2",
-        "hitsAllowed": 30,
+        "inningsPitched": 20.666666666666668,
+        "inningsPitchedDisplay": "20.2",
+        "hitsAllowed": 31,
         "runsAllowed": 25,
         "earnedRunsAllowed": 20,
-        "walksAllowed": 15,
-        "strikeouts": 15,
+        "walksAllowed": 17,
+        "strikeouts": 16,
         "doublesAllowed": 1,
         "triplesAllowed": 1,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 84,
-        "wildPitches": 4,
+        "opponentsAtBats": 88,
+        "wildPitches": 5,
         "hitBatters": 7,
         "balks": 0,
-        "opponentsBattingAverage": 0.357,
+        "opponentsBattingAverage": 0.352,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3986,40 +3986,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 26.04006163328197,
+          "Miss bats": 26.97947214076246,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Tyler Hawkins gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.15",
-          "WHIP 2.29",
-          "K/9 6.9"
+          "ERA 8.71",
+          "WHIP 2.32",
+          "K/9 7.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.15"
+            "value": "8.71"
           },
           {
             "label": "WHIP",
-            "value": "2.29"
+            "value": "2.32"
           },
           {
             "label": "K/9",
-            "value": "6.9"
+            "value": "7.0"
           },
           {
             "label": "BB/9",
-            "value": "6.9"
+            "value": "7.4"
           },
           {
             "label": "HR/9",
-            "value": "1.37"
+            "value": "1.31"
           },
           {
             "label": "IP",
-            "value": "19.7"
+            "value": "20.7"
           }
         ],
         "metaLine": "SO / R/R",
@@ -4071,31 +4071,31 @@
         "jersey": "31",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/brady-hoar/13449",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Hoar_vOkO7.png",
-        "gamesPlayed": 11,
-        "gamesStarted": 11,
-        "appearances": 11,
+        "gamesPlayed": 12,
+        "gamesStarted": 12,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.08,
-        "whip": 1.27,
-        "wins": 5,
+        "earnedRunAverage": 4.6,
+        "whip": 1.23,
+        "wins": 6,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 56.666666666666664,
-        "inningsPitchedDisplay": "56.2",
-        "hitsAllowed": 49,
-        "runsAllowed": 35,
+        "inningsPitched": 62.666666666666664,
+        "inningsPitchedDisplay": "62.2",
+        "hitsAllowed": 52,
+        "runsAllowed": 36,
         "earnedRunsAllowed": 32,
-        "walksAllowed": 23,
-        "strikeouts": 41,
-        "doublesAllowed": 13,
+        "walksAllowed": 25,
+        "strikeouts": 44,
+        "doublesAllowed": 14,
         "triplesAllowed": 2,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 204,
+        "opponentsAtBats": 226,
         "wildPitches": 4,
-        "hitBatters": 6,
+        "hitBatters": 7,
         "balks": 0,
-        "opponentsBattingAverage": 0.24,
+        "opponentsBattingAverage": 0.23,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4105,19 +4105,19 @@
         "jersey": "31",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/brady-hoar/13449",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Hoar_vOkO7.png",
-        "gamesPlayed": 10,
-        "gamesStarted": 10,
-        "putouts": 6,
+        "gamesPlayed": 11,
+        "gamesStarted": 11,
+        "putouts": 7,
         "assists": 9,
         "errors": 1,
-        "fieldingPercentage": 0.938,
+        "fieldingPercentage": 0.941,
         "doublePlays": 0,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 3,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 16
+        "totalChances": 17
       },
       "evaluation": {
         "score": 7,
@@ -4128,40 +4128,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 22.83422459893048,
-          "Command": 15.652173913043477,
+          "Miss bats": 21.08317214700193,
+          "Command": 15.2,
           "Damage suppression": 0
         },
-        "summary": "Brady Hoar gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Brady Hoar looks like a RHP option who keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 5.08",
-          "WHIP 1.27",
-          "K/9 6.5"
+          "ERA 4.60",
+          "WHIP 1.23",
+          "K/9 6.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.08"
+            "value": "4.60"
           },
           {
             "label": "WHIP",
-            "value": "1.27"
+            "value": "1.23"
           },
           {
             "label": "K/9",
-            "value": "6.5"
+            "value": "6.3"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "0.64"
+            "value": "0.57"
           },
           {
             "label": "IP",
-            "value": "56.7"
+            "value": "62.7"
           }
         ],
         "metaLine": "FR / R/R",
@@ -4212,33 +4212,33 @@
         "jersey": "32",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/michael-trommer/13440",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Trommer_Michael_6fkyi.png",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "battingAverage": 0.298,
-        "onBasePercentage": 0.405,
-        "sluggingPercentage": 0.536,
-        "ops": 0.941,
-        "atBats": 168,
-        "runs": 37,
-        "hits": 50,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "battingAverage": 0.295,
+        "onBasePercentage": 0.409,
+        "sluggingPercentage": 0.526,
+        "ops": 0.935,
+        "atBats": 173,
+        "runs": 40,
+        "hits": 51,
         "doubles": 11,
         "triples": 1,
         "homeRuns": 9,
         "runsBattedIn": 22,
-        "totalBases": 90,
-        "walks": 23,
+        "totalBases": 91,
+        "walks": 26,
         "hitByPitch": 8,
-        "strikeouts": 36,
+        "strikeouts": 37,
         "intentionalWalks": 4,
-        "groundedIntoDoublePlay": 1,
+        "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 63,
+        "putouts": 66,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 202,
+        "plateAppearances": 210,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4250,51 +4250,51 @@
         "jersey": "32",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/michael-trommer/13440",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Trommer_Michael_6fkyi.png",
-        "gamesPlayed": 33,
-        "gamesStarted": 33,
-        "putouts": 63,
-        "assists": 3,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "putouts": 66,
+        "assists": 4,
         "errors": 4,
-        "fieldingPercentage": 0.943,
+        "fieldingPercentage": 0.946,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 70
+        "totalChances": 74
       },
       "evaluation": {
-        "score": 53,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 69.44444444444444,
-          "Power": 56.842105263157904,
-          "Contact": 48.749999999999986,
-          "Discipline": 48.765432098765416,
+          "On-base": 71.66666666666664,
+          "Power": 54.21052631578949,
+          "Contact": 46.874999999999986,
+          "Discipline": 55.85585585585584,
           "Speed": 3.3333333333333335
         },
         "summary": "Michael Trommer profiles as a IF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .298",
-          "OBP .405",
-          "SLG .536"
+          "AVG .295",
+          "OBP .409",
+          "SLG .526"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".298"
+            "value": ".295"
           },
           {
             "label": "OBP",
-            "value": ".405"
+            "value": ".409"
           },
           {
             "label": "SLG",
-            "value": ".536"
+            "value": ".526"
           },
           {
             "label": "HR",
@@ -4587,33 +4587,33 @@
         "jersey": "38",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/garrett-mathias/13450",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Mathias_Garret_xSsJW.png",
-        "gamesPlayed": 42,
-        "gamesStarted": 39,
-        "battingAverage": 0.299,
-        "onBasePercentage": 0.417,
-        "sluggingPercentage": 0.507,
-        "ops": 0.924,
-        "atBats": 134,
+        "gamesPlayed": 44,
+        "gamesStarted": 41,
+        "battingAverage": 0.305,
+        "onBasePercentage": 0.415,
+        "sluggingPercentage": 0.511,
+        "ops": 0.926,
+        "atBats": 141,
         "runs": 21,
-        "hits": 40,
-        "doubles": 5,
+        "hits": 43,
+        "doubles": 6,
         "triples": 1,
         "homeRuns": 7,
-        "runsBattedIn": 37,
-        "totalBases": 68,
+        "runsBattedIn": 40,
+        "totalBases": 72,
         "walks": 28,
         "hitByPitch": 2,
-        "strikeouts": 33,
+        "strikeouts": 35,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 4,
+        "sacrificeFlies": 5,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 2,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 168,
+        "plateAppearances": 176,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4646,30 +4646,30 @@
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 76.11111111111109,
-          "Power": 49.21052631578948,
-          "Contact": 49.37499999999999,
-          "Discipline": 72.05387205387204,
+          "On-base": 74.99999999999997,
+          "Power": 50.26315789473686,
+          "Contact": 53.124999999999986,
+          "Discipline": 66.66666666666666,
           "Speed": 0
         },
         "summary": "Garrett Mathias profiles as a 1B piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .299",
-          "OBP .417",
-          "SLG .507"
+          "AVG .305",
+          "OBP .415",
+          "SLG .511"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".299"
+            "value": ".305"
           },
           {
             "label": "OBP",
-            "value": ".417"
+            "value": ".415"
           },
           {
             "label": "SLG",
-            "value": ".507"
+            "value": ".511"
           },
           {
             "label": "HR",
@@ -4677,7 +4677,7 @@
           },
           {
             "label": "RBI",
-            "value": "37"
+            "value": "40"
           },
           {
             "label": "SB",
@@ -4854,20 +4854,20 @@
         "jersey": "41",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/john-calabrese/13420",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Calabrese_John_JjvzT.png",
-        "gamesPlayed": 39,
-        "gamesStarted": 30,
-        "battingAverage": 0.286,
-        "onBasePercentage": 0.395,
-        "sluggingPercentage": 0.398,
-        "ops": 0.793,
-        "atBats": 98,
+        "gamesPlayed": 40,
+        "gamesStarted": 31,
+        "battingAverage": 0.287,
+        "onBasePercentage": 0.393,
+        "sluggingPercentage": 0.406,
+        "ops": 0.799,
+        "atBats": 101,
         "runs": 12,
-        "hits": 28,
-        "doubles": 11,
+        "hits": 29,
+        "doubles": 12,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 16,
-        "totalBases": 39,
+        "totalBases": 41,
         "walks": 15,
         "hitByPitch": 4,
         "strikeouts": 17,
@@ -4877,10 +4877,10 @@
         "sacrificeHits": 3,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 65,
+        "putouts": 67,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 125,
+        "plateAppearances": 128,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -4892,19 +4892,19 @@
         "jersey": "41",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/john-calabrese/13420",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Calabrese_John_JjvzT.png",
-        "gamesPlayed": 28,
-        "gamesStarted": 24,
-        "putouts": 65,
+        "gamesPlayed": 29,
+        "gamesStarted": 25,
+        "putouts": 67,
         "assists": 5,
         "errors": 4,
-        "fieldingPercentage": 0.946,
+        "fieldingPercentage": 0.947,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 74
+        "totalChances": 76
       },
       "evaluation": {
         "score": 44,
@@ -4913,30 +4913,30 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 20.52631578947369,
-          "Contact": 41.24999999999998,
+          "On-base": 62.77777777777778,
+          "Power": 22.631578947368432,
+          "Contact": 41.874999999999986,
           "Discipline": 75.81699346405227,
           "Speed": 3.3333333333333335
         },
         "summary": "John Calabrese gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .395",
-          "SLG .398"
+          "AVG .287",
+          "OBP .393",
+          "SLG .406"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".287"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": ".393"
           },
           {
             "label": "SLG",
-            "value": ".398"
+            "value": ".406"
           },
           {
             "label": "HR",
@@ -5000,31 +5000,31 @@
         "jersey": "42",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/bryce-mitchell/13431",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Mitchell_Uyvsx.png",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 0,
-        "appearances": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.65,
-        "whip": 1.17,
+        "earnedRunAverage": 7.71,
+        "whip": 1.29,
         "wins": 2,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 23,
-        "inningsPitchedDisplay": "23.0",
-        "hitsAllowed": 15,
-        "runsAllowed": 19,
-        "earnedRunsAllowed": 17,
-        "walksAllowed": 12,
-        "strikeouts": 14,
+        "inningsPitched": 23.333333333333332,
+        "inningsPitchedDisplay": "23.1",
+        "hitsAllowed": 16,
+        "runsAllowed": 23,
+        "earnedRunsAllowed": 20,
+        "walksAllowed": 14,
+        "strikeouts": 15,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 6,
-        "opponentsAtBats": 80,
+        "opponentsAtBats": 82,
         "wildPitches": 4,
-        "hitBatters": 3,
+        "hitBatters": 4,
         "balks": 1,
-        "opponentsBattingAverage": 0.188,
+        "opponentsBattingAverage": 0.195,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5057,40 +5057,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 13.438735177865615,
-          "Command": 3.333333333333335,
+          "Miss bats": 16.233766233766232,
+          "Command": 1.428571428571428,
           "Damage suppression": 0
         },
-        "summary": "Bryce Mitchell looks like a RHP option who keeps traffic under control.",
+        "summary": "Bryce Mitchell gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.65",
-          "WHIP 1.17",
-          "K/9 5.5"
+          "ERA 7.71",
+          "WHIP 1.29",
+          "K/9 5.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.65"
+            "value": "7.71"
           },
           {
             "label": "WHIP",
-            "value": "1.17"
+            "value": "1.29"
           },
           {
             "label": "K/9",
-            "value": "5.5"
+            "value": "5.8"
           },
           {
             "label": "BB/9",
-            "value": "4.7"
+            "value": "5.4"
           },
           {
             "label": "HR/9",
-            "value": "2.35"
+            "value": "2.31"
           },
           {
             "label": "IP",
-            "value": "23.0"
+            "value": "23.3"
           }
         ],
         "metaLine": "SO / R/R",
@@ -5142,31 +5142,31 @@
         "jersey": "44",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/hadley-maxwell/13430",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Maxwell_Hadley_VGXsI.png",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 0,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.13,
-        "whip": 1.34,
+        "earnedRunAverage": 2.05,
+        "whip": 1.37,
         "wins": 1,
         "losses": 0,
-        "saves": 9,
+        "saves": 10,
         "shutouts": 0,
-        "inningsPitched": 25.333333333333332,
-        "inningsPitchedDisplay": "25.1",
-        "hitsAllowed": 21,
+        "inningsPitched": 26.333333333333332,
+        "inningsPitchedDisplay": "26.1",
+        "hitsAllowed": 23,
         "runsAllowed": 6,
         "earnedRunsAllowed": 6,
         "walksAllowed": 13,
-        "strikeouts": 28,
+        "strikeouts": 29,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 96,
+        "opponentsAtBats": 99,
         "wildPitches": 1,
         "hitBatters": 3,
         "balks": 2,
-        "opponentsBattingAverage": 0.219,
+        "opponentsBattingAverage": 0.232,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5176,19 +5176,19 @@
         "jersey": "44",
         "profileUrl": "https://bucknellbison.com/sports/baseball/roster/hadley-maxwell/13430",
         "imageUrl": "https://bucknellbison.com/images/2025/12/9/Maxwell_Hadley_VGXsI.png",
-        "gamesPlayed": 6,
+        "gamesPlayed": 7,
         "gamesStarted": 0,
         "putouts": 0,
-        "assists": 2,
+        "assists": 3,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 6,
+        "stolenBasesAgainst": 7,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 2
+        "totalChances": 3
       },
       "evaluation": {
         "score": 15,
@@ -5199,24 +5199,24 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 54.066985645933016,
-          "Command": 23.076923076923084,
+          "Miss bats": 53.73993095512084,
+          "Command": 24.615384615384617,
           "Damage suppression": 0
         },
         "summary": "Hadley Maxwell looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 2.13",
-          "WHIP 1.34",
+          "ERA 2.05",
+          "WHIP 1.37",
           "K/9 9.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.13"
+            "value": "2.05"
           },
           {
             "label": "WHIP",
-            "value": "1.34"
+            "value": "1.37"
           },
           {
             "label": "K/9",
@@ -5224,7 +5224,7 @@
           },
           {
             "label": "BB/9",
-            "value": "4.6"
+            "value": "4.4"
           },
           {
             "label": "HR/9",
@@ -5232,7 +5232,7 @@
           },
           {
             "label": "IP",
-            "value": "25.3"
+            "value": "26.3"
           }
         ],
         "metaLine": "SR / R/R",
@@ -5332,29 +5332,29 @@
         "position": "IF/OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 8,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Andrew Swenson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .171",
-          "OBP .308",
-          "SLG .225"
+          "AVG .178",
+          "OBP .313",
+          "SLG .244"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".171"
+            "value": ".178"
           },
           {
             "label": "OBP",
-            "value": ".308"
+            "value": ".313"
           },
           {
             "label": "SLG",
-            "value": ".225"
+            "value": ".244"
           },
           {
             "label": "HR",
@@ -5370,10 +5370,10 @@
           }
         ],
         "components": {
-          "On-base": 15.55555555555554,
+          "On-base": 18.333333333333318,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 13.492063492063492,
+          "Discipline": 14.176245210727965,
           "Speed": 10
         },
         "metaLine": "JR / R/R",
@@ -5401,29 +5401,29 @@
         "position": "IF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 11,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ty Lagoni gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .218",
-          "OBP .303",
-          "SLG .359"
+          "AVG .219",
+          "OBP .300",
+          "SLG .354"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".218"
+            "value": ".219"
           },
           {
             "label": "OBP",
-            "value": ".303"
+            "value": ".300"
           },
           {
             "label": "SLG",
-            "value": ".359"
+            "value": ".354"
           },
           {
             "label": "HR",
@@ -5435,15 +5435,15 @@
           },
           {
             "label": "SB",
-            "value": "6"
+            "value": "7"
           }
         ],
         "components": {
-          "On-base": 12.77777777777776,
-          "Power": 10.263157894736837,
+          "On-base": 11.111111111111091,
+          "Power": 8.947368421052627,
           "Contact": 0,
-          "Discipline": 18.18181818181818,
-          "Speed": 20
+          "Discipline": 15.602836879432619,
+          "Speed": 23.333333333333332
         },
         "metaLine": "JR / R/R",
         "detailBadges": [
@@ -5470,29 +5470,29 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 60,
+        "score": 48,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Michael Chiaravallo profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Michael Chiaravallo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .339",
-          "OBP .412",
-          "SLG .576"
+          "AVG .313",
+          "OBP .384",
+          "SLG .531"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".339"
+            "value": ".313"
           },
           {
             "label": "OBP",
-            "value": ".412"
+            "value": ".384"
           },
           {
             "label": "SLG",
-            "value": ".576"
+            "value": ".531"
           },
           {
             "label": "HR",
@@ -5508,10 +5508,10 @@
           }
         ],
         "components": {
-          "On-base": 73.3333333333333,
-          "Power": 67.36842105263158,
-          "Contact": 74.37500000000001,
-          "Discipline": 27.160493827160487,
+          "On-base": 57.77777777777777,
+          "Power": 55.5263157894737,
+          "Contact": 58.12499999999999,
+          "Discipline": 22.22222222222222,
           "Speed": 13.333333333333334
         },
         "metaLine": "JR / R/R",
@@ -5539,29 +5539,29 @@
         "position": "C",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 18,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Deacon Bowne gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .184",
-          "OBP .351",
-          "SLG .276"
+          "AVG .191",
+          "OBP .360",
+          "SLG .281"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".184"
+            "value": ".191"
           },
           {
             "label": "OBP",
-            "value": ".351"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".276"
+            "value": ".281"
           },
           {
             "label": "HR",
@@ -5577,10 +5577,10 @@
           }
         ],
         "components": {
-          "On-base": 39.44444444444442,
+          "On-base": 44.44444444444443,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 36.601307189542474,
+          "Discipline": 38.09523809523808,
           "Speed": 0
         },
         "metaLine": "SO / R/R",
@@ -5608,29 +5608,29 @@
         "position": "1B/3B",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 53,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Lleyton Coupe profiles as a 1B/3B piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .292",
-          "OBP .406",
-          "SLG .483"
+          "AVG .290",
+          "OBP .405",
+          "SLG .473"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".290"
           },
           {
             "label": "OBP",
-            "value": ".406"
+            "value": ".405"
           },
           {
             "label": "SLG",
-            "value": ".483"
+            "value": ".473"
           },
           {
             "label": "HR",
@@ -5646,10 +5646,10 @@
           }
         ],
         "components": {
-          "On-base": 70,
-          "Power": 42.89473684210526,
-          "Contact": 44.999999999999986,
-          "Discipline": 81.94444444444444,
+          "On-base": 69.44444444444444,
+          "Power": 40.26315789473684,
+          "Contact": 43.749999999999986,
+          "Discipline": 75.81699346405227,
           "Speed": 0
         },
         "metaLine": "SO / L/R",
@@ -5684,22 +5684,22 @@
         },
         "summary": "Luke Nascimento gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .167",
-          "OBP .231",
-          "SLG .167"
+          "AVG .143",
+          "OBP .200",
+          "SLG .143"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".167"
+            "value": ".143"
           },
           {
             "label": "OBP",
-            "value": ".231"
+            "value": ".200"
           },
           {
             "label": "SLG",
-            "value": ".167"
+            "value": ".143"
           },
           {
             "label": "HR",
@@ -5822,40 +5822,40 @@
         },
         "summary": "Mikey Myro gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.75",
-          "WHIP 2.03",
-          "K/9 7.0"
+          "ERA 7.55",
+          "WHIP 2.06",
+          "K/9 7.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.75"
+            "value": "7.55"
           },
           {
             "label": "WHIP",
-            "value": "2.03"
+            "value": "2.06"
           },
           {
             "label": "K/9",
-            "value": "7.0"
+            "value": "7.1"
           },
           {
             "label": "BB/9",
-            "value": "7.5"
+            "value": "7.6"
           },
           {
             "label": "HR/9",
-            "value": "1.64"
+            "value": "1.60"
           },
           {
             "label": "IP",
-            "value": "38.3"
+            "value": "39.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 27.667984189723317,
+          "Miss bats": 28.120184899845913,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -5953,29 +5953,29 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 27,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Billy Fluharty gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .285",
-          "OBP .352",
-          "SLG .360"
+          "AVG .291",
+          "OBP .358",
+          "SLG .369"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".285"
+            "value": ".291"
           },
           {
             "label": "OBP",
-            "value": ".352"
+            "value": ".358"
           },
           {
             "label": "SLG",
-            "value": ".360"
+            "value": ".369"
           },
           {
             "label": "HR",
@@ -5983,7 +5983,7 @@
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "18"
           },
           {
             "label": "SB",
@@ -5991,9 +5991,9 @@
           }
         ],
         "components": {
-          "On-base": 39.99999999999997,
-          "Power": 10.526315789473681,
-          "Contact": 40.624999999999986,
+          "On-base": 43.333333333333314,
+          "Power": 12.894736842105262,
+          "Contact": 44.374999999999986,
           "Discipline": 15.789473684210522,
           "Speed": 16.666666666666664
         },
@@ -6022,29 +6022,29 @@
         "position": "IF/OF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 2,
+        "score": 1,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ryan Facinelli gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .159",
-          "OBP .247",
-          "SLG .341"
+          "AVG .155",
+          "OBP .242",
+          "SLG .333"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".159"
+            "value": ".155"
           },
           {
             "label": "OBP",
-            "value": ".247"
+            "value": ".242"
           },
           {
             "label": "SLG",
-            "value": ".341"
+            "value": ".333"
           },
           {
             "label": "HR",
@@ -6061,9 +6061,9 @@
         ],
         "components": {
           "On-base": 0,
-          "Power": 5.526315789473689,
+          "Power": 3.421052631578951,
           "Contact": 0,
-          "Discipline": 1.5873015873015843,
+          "Discipline": 1.0335917312661498,
           "Speed": 0
         },
         "metaLine": "SR / R/R",
@@ -6167,14 +6167,14 @@
         },
         "summary": "Zach Selfon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .264",
+          "AVG .269",
           "OBP .368",
-          "SLG .289"
+          "SLG .293"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".264"
+            "value": ".269"
           },
           {
             "label": "OBP",
@@ -6182,7 +6182,7 @@
           },
           {
             "label": "SLG",
-            "value": ".289"
+            "value": ".293"
           },
           {
             "label": "HR",
@@ -6200,8 +6200,8 @@
         "components": {
           "On-base": 48.88888888888887,
           "Power": 0,
-          "Contact": 27.500000000000007,
-          "Discipline": 78.30687830687829,
+          "Contact": 30.625000000000007,
+          "Discipline": 73.73737373737373,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / R/R",
@@ -6643,48 +6643,48 @@
         "position": "LHP",
         "classYear": "FR",
         "handedness": "R/L",
-        "score": 12,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tyler Seidman looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.90",
-          "WHIP 1.62",
-          "K/9 9.9"
+          "ERA 6.09",
+          "WHIP 1.59",
+          "K/9 9.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.90"
+            "value": "6.09"
           },
           {
             "label": "WHIP",
-            "value": "1.62"
+            "value": "1.59"
           },
           {
             "label": "K/9",
-            "value": "9.9"
+            "value": "9.0"
           },
           {
             "label": "BB/9",
-            "value": "6.8"
+            "value": "6.4"
           },
           {
             "label": "HR/9",
-            "value": "0.93"
+            "value": "0.79"
           },
           {
             "label": "IP",
-            "value": "29.0"
+            "value": "34.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 53.91849529780565,
-          "Command": 9.090909090909092,
+          "Miss bats": 45.45454545454545,
+          "Command": 8.333333333333334,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/L",
@@ -6719,14 +6719,14 @@
         },
         "summary": "Everett Garber looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.93",
+          "ERA 5.05",
           "WHIP 1.58",
-          "K/9 9.3"
+          "K/9 9.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.93"
+            "value": "5.05"
           },
           {
             "label": "WHIP",
@@ -6734,7 +6734,7 @@
           },
           {
             "label": "K/9",
-            "value": "9.3"
+            "value": "9.1"
           },
           {
             "label": "BB/9",
@@ -6742,18 +6742,18 @@
           },
           {
             "label": "HR/9",
-            "value": "0.99"
+            "value": "0.97"
           },
           {
             "label": "IP",
-            "value": "45.7"
+            "value": "46.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 47.843397478433985,
-          "Command": 17.6,
+          "Miss bats": 46.63178548070634,
+          "Command": 17.599999999999998,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -7131,40 +7131,40 @@
         },
         "summary": "Tyler Hawkins gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.15",
-          "WHIP 2.29",
-          "K/9 6.9"
+          "ERA 8.71",
+          "WHIP 2.32",
+          "K/9 7.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.15"
+            "value": "8.71"
           },
           {
             "label": "WHIP",
-            "value": "2.29"
+            "value": "2.32"
           },
           {
             "label": "K/9",
-            "value": "6.9"
+            "value": "7.0"
           },
           {
             "label": "BB/9",
-            "value": "6.9"
+            "value": "7.4"
           },
           {
             "label": "HR/9",
-            "value": "1.37"
+            "value": "1.31"
           },
           {
             "label": "IP",
-            "value": "19.7"
+            "value": "20.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 26.04006163328197,
+          "Miss bats": 26.97947214076246,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -7198,43 +7198,43 @@
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Brady Hoar gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Brady Hoar looks like a RHP option who keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 5.08",
-          "WHIP 1.27",
-          "K/9 6.5"
+          "ERA 4.60",
+          "WHIP 1.23",
+          "K/9 6.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.08"
+            "value": "4.60"
           },
           {
             "label": "WHIP",
-            "value": "1.27"
+            "value": "1.23"
           },
           {
             "label": "K/9",
-            "value": "6.5"
+            "value": "6.3"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "0.64"
+            "value": "0.57"
           },
           {
             "label": "IP",
-            "value": "56.7"
+            "value": "62.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 22.83422459893048,
-          "Command": 15.652173913043477,
+          "Miss bats": 21.08317214700193,
+          "Command": 15.2,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -7262,29 +7262,29 @@
         "position": "IF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 53,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Michael Trommer profiles as a IF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .298",
-          "OBP .405",
-          "SLG .536"
+          "AVG .295",
+          "OBP .409",
+          "SLG .526"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".298"
+            "value": ".295"
           },
           {
             "label": "OBP",
-            "value": ".405"
+            "value": ".409"
           },
           {
             "label": "SLG",
-            "value": ".536"
+            "value": ".526"
           },
           {
             "label": "HR",
@@ -7300,10 +7300,10 @@
           }
         ],
         "components": {
-          "On-base": 69.44444444444444,
-          "Power": 56.842105263157904,
-          "Contact": 48.749999999999986,
-          "Discipline": 48.765432098765416,
+          "On-base": 71.66666666666664,
+          "Power": 54.21052631578949,
+          "Contact": 46.874999999999986,
+          "Discipline": 55.85585585585584,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / L/R",
@@ -7475,22 +7475,22 @@
         },
         "summary": "Garrett Mathias profiles as a 1B piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .299",
-          "OBP .417",
-          "SLG .507"
+          "AVG .305",
+          "OBP .415",
+          "SLG .511"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".299"
+            "value": ".305"
           },
           {
             "label": "OBP",
-            "value": ".417"
+            "value": ".415"
           },
           {
             "label": "SLG",
-            "value": ".507"
+            "value": ".511"
           },
           {
             "label": "HR",
@@ -7498,7 +7498,7 @@
           },
           {
             "label": "RBI",
-            "value": "37"
+            "value": "40"
           },
           {
             "label": "SB",
@@ -7506,10 +7506,10 @@
           }
         ],
         "components": {
-          "On-base": 76.11111111111109,
-          "Power": 49.21052631578948,
-          "Contact": 49.37499999999999,
-          "Discipline": 72.05387205387204,
+          "On-base": 74.99999999999997,
+          "Power": 50.26315789473686,
+          "Contact": 53.124999999999986,
+          "Discipline": 66.66666666666666,
           "Speed": 0
         },
         "metaLine": "FR / L/R",
@@ -7613,22 +7613,22 @@
         },
         "summary": "John Calabrese gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .395",
-          "SLG .398"
+          "AVG .287",
+          "OBP .393",
+          "SLG .406"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".287"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": ".393"
           },
           {
             "label": "SLG",
-            "value": ".398"
+            "value": ".406"
           },
           {
             "label": "HR",
@@ -7644,9 +7644,9 @@
           }
         ],
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 20.52631578947369,
-          "Contact": 41.24999999999998,
+          "On-base": 62.77777777777778,
+          "Power": 22.631578947368432,
+          "Contact": 41.874999999999986,
           "Discipline": 75.81699346405227,
           "Speed": 3.3333333333333335
         },
@@ -7680,43 +7680,43 @@
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Bryce Mitchell looks like a RHP option who keeps traffic under control.",
+        "summary": "Bryce Mitchell gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.65",
-          "WHIP 1.17",
-          "K/9 5.5"
+          "ERA 7.71",
+          "WHIP 1.29",
+          "K/9 5.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.65"
+            "value": "7.71"
           },
           {
             "label": "WHIP",
-            "value": "1.17"
+            "value": "1.29"
           },
           {
             "label": "K/9",
-            "value": "5.5"
+            "value": "5.8"
           },
           {
             "label": "BB/9",
-            "value": "4.7"
+            "value": "5.4"
           },
           {
             "label": "HR/9",
-            "value": "2.35"
+            "value": "2.31"
           },
           {
             "label": "IP",
-            "value": "23.0"
+            "value": "23.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 13.438735177865615,
-          "Command": 3.333333333333335,
+          "Miss bats": 16.233766233766232,
+          "Command": 1.428571428571428,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -7751,18 +7751,18 @@
         },
         "summary": "Hadley Maxwell looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 2.13",
-          "WHIP 1.34",
+          "ERA 2.05",
+          "WHIP 1.37",
           "K/9 9.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.13"
+            "value": "2.05"
           },
           {
             "label": "WHIP",
-            "value": "1.34"
+            "value": "1.37"
           },
           {
             "label": "K/9",
@@ -7770,7 +7770,7 @@
           },
           {
             "label": "BB/9",
-            "value": "4.6"
+            "value": "4.4"
           },
           {
             "label": "HR/9",
@@ -7778,14 +7778,14 @@
           },
           {
             "label": "IP",
-            "value": "25.3"
+            "value": "26.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 54.066985645933016,
-          "Command": 23.076923076923084,
+          "Miss bats": 53.73993095512084,
+          "Command": 24.615384615384617,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",

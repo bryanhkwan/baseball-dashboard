@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T11:06:48.212Z",
+  "generatedAt": "2026-05-04T12:05:49.000Z",
   "season": 2026,
   "school": {
     "slug": "james-madison",
@@ -38,70 +38,70 @@
     }
   },
   "teamSummary": {
-    "record": "19-26, 9-14",
-    "battingAverage": ".278",
-    "earnedRunAverage": "7.13",
-    "wins": "19",
+    "record": "20-26, 10-14",
+    "battingAverage": ".280",
+    "earnedRunAverage": "7.03",
+    "wins": "20",
     "losses": "26",
     "hitting": {
-      "atBats": "1458",
-      "runsScored": "269",
-      "hits": "406",
-      "runsBattedIn": "246",
-      "doubles": "78",
-      "triples": "10",
-      "homeRuns": "38",
-      "walks": "164",
+      "atBats": "1488",
+      "runsScored": "274",
+      "hits": "416",
+      "runsBattedIn": "251",
+      "doubles": "81",
+      "triples": "11",
+      "homeRuns": "39",
+      "walks": "165",
       "intentionalWalks": "6",
-      "strikeouts": "335",
-      "strikeoutsLooking": "75",
+      "strikeouts": "340",
+      "strikeoutsLooking": "76",
       "hitByPitch": "58",
-      "stolenBases": "130",
+      "stolenBases": "131",
       "caughtStealing": "19",
-      "sacrificeHits": "55",
-      "sacrificeFlies": "18",
+      "sacrificeHits": "57",
+      "sacrificeFlies": "19",
       "reachedOnCatchersInteference": "1",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "372",
-      "flyOuts": "375",
-      "groundedIntoDoublePlay": "17",
+      "groundOuts": "383",
+      "flyOuts": "382",
+      "groundedIntoDoublePlay": "18",
       "pickedOff": "8",
-      "doublePlaysHitInto": "21",
+      "doublePlaysHitInto": "22",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1144",
-      "assists": "428",
-      "errors": "45",
+      "putouts": "1171",
+      "assists": "443",
+      "errors": "46",
       "passedBalls": "7",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "77",
+      "stolenBasesAgainst": "78",
       "caughtStealingBy": "23",
-      "involvedInDoublePlays": "26",
+      "involvedInDoublePlays": "30",
       "involvedInTriplePlays": "0",
-      "totalChances": "1617",
+      "totalChances": "1660",
       "fieldingPercentage": ".972"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "19",
+      "wins": "20",
       "saves": "14",
       "losses": "26",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "0",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "381.1",
-      "hitsAllowed": "456",
-      "runsAllowed": "336",
-      "earnedRunsAllowed": "302",
-      "walksAllowed": "220",
-      "strikeouts": "335",
-      "battersFaced": "1861",
-      "opponentAtBats": "1518",
-      "doublesAllowed": "89",
-      "triplesAllowed": "8",
+      "inningsPitched": "390.1",
+      "hitsAllowed": "466",
+      "runsAllowed": "339",
+      "earnedRunsAllowed": "305",
+      "walksAllowed": "221",
+      "strikeouts": "338",
+      "battersFaced": "1896",
+      "opponentAtBats": "1552",
+      "doublesAllowed": "90",
+      "triplesAllowed": "9",
       "homerunsAllowed": "50",
       "wildPitches": "40",
       "balks": "7",
@@ -113,9 +113,9 @@
       "sacrificeHitsAllowed": "25",
       "sacrificeFliesAllowed": "17",
       "catchersInterferenceAllowed": "0",
-      "pitches": "7004",
-      "flyouts": "368",
-      "groundouts": "371",
+      "pitches": "7125",
+      "flyouts": "376",
+      "groundouts": "383",
       "teamUnearnedRuns": "0",
       "saveRecord": "4",
       "pickoff": "11"
@@ -160,33 +160,33 @@
         "jersey": "1",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/reece-moody/23791",
         "imageUrl": "https://jmusports.com/images/2025/12/9/moody-reece-26-2.png",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "battingAverage": 0.309,
-        "onBasePercentage": 0.396,
-        "sluggingPercentage": 0.42,
-        "ops": 0.816,
-        "atBats": 162,
-        "runs": 32,
-        "hits": 50,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "battingAverage": 0.307,
+        "onBasePercentage": 0.393,
+        "sluggingPercentage": 0.428,
+        "ops": 0.821,
+        "atBats": 166,
+        "runs": 33,
+        "hits": 51,
         "doubles": 8,
-        "triples": 2,
+        "triples": 3,
         "homeRuns": 2,
         "runsBattedIn": 26,
-        "totalBases": 68,
+        "totalBases": 71,
         "walks": 17,
         "hitByPitch": 9,
-        "strikeouts": 23,
+        "strikeouts": 24,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 4,
         "sacrificeHits": 7,
         "stolenBases": 31,
         "stolenBasesAttempts": 33,
-        "putouts": 83,
+        "putouts": 85,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 234,
+        "plateAppearances": 238,
         "caughtStealing": 2,
         "pickedOff": 2
       },
@@ -198,51 +198,51 @@
         "jersey": "1",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/reece-moody/23791",
         "imageUrl": "https://jmusports.com/images/2025/12/9/moody-reece-26-2.png",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "putouts": 83,
-        "assists": 96,
+        "gamesPlayed": 43,
+        "gamesStarted": 43,
+        "putouts": 85,
+        "assists": 101,
         "errors": 4,
-        "fieldingPercentage": 0.978,
-        "doublePlays": 19,
+        "fieldingPercentage": 0.979,
+        "doublePlays": 22,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 183
+        "totalChances": 190
       },
       "evaluation": {
-        "score": 56,
+        "score": 55,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 64.44444444444444,
-          "Power": 26.31578947368421,
-          "Contact": 55.62499999999999,
-          "Discipline": 59.903381642512066,
+          "On-base": 62.77777777777778,
+          "Power": 28.421052631578945,
+          "Contact": 54.37499999999999,
+          "Discipline": 56.48148148148147,
           "Speed": 100
         },
         "summary": "Reece Moody profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .309",
-          "OBP .396",
-          "SLG .420"
+          "AVG .307",
+          "OBP .393",
+          "SLG .428"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".309"
+            "value": ".307"
           },
           {
             "label": "OBP",
-            "value": ".396"
+            "value": ".393"
           },
           {
             "label": "SLG",
-            "value": ".420"
+            "value": ".428"
           },
           {
             "label": "HR",
@@ -305,20 +305,20 @@
         "jersey": "2",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/kyle-langley/23787",
         "imageUrl": "https://jmusports.com/images/2025/12/9/longley-kyle-26-2.png",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "battingAverage": 0.335,
-        "onBasePercentage": 0.421,
-        "sluggingPercentage": 0.449,
-        "ops": 0.87,
-        "atBats": 167,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "battingAverage": 0.333,
+        "onBasePercentage": 0.417,
+        "sluggingPercentage": 0.45,
+        "ops": 0.867,
+        "atBats": 171,
         "runs": 37,
-        "hits": 56,
-        "doubles": 6,
+        "hits": 57,
+        "doubles": 7,
         "triples": 2,
         "homeRuns": 3,
-        "runsBattedIn": 29,
-        "totalBases": 75,
+        "runsBattedIn": 30,
+        "totalBases": 77,
         "walks": 21,
         "hitByPitch": 5,
         "strikeouts": 31,
@@ -328,10 +328,10 @@
         "sacrificeHits": 10,
         "stolenBases": 13,
         "stolenBasesAttempts": 14,
-        "putouts": 83,
+        "putouts": 86,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 220,
+        "plateAppearances": 224,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -343,9 +343,9 @@
         "jersey": "2",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/kyle-langley/23787",
         "imageUrl": "https://jmusports.com/images/2025/12/9/longley-kyle-26-2.png",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "putouts": 83,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "putouts": 86,
         "assists": 3,
         "errors": 1,
         "fieldingPercentage": 0.989,
@@ -355,39 +355,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 87
+        "totalChances": 90
       },
       "evaluation": {
-        "score": 59,
+        "score": 58,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 78.33333333333331,
-          "Power": 33.94736842105264,
-          "Contact": 71.87500000000001,
+          "On-base": 76.11111111111109,
+          "Power": 34.21052631578948,
+          "Contact": 70.625,
           "Discipline": 53.046594982078844,
           "Speed": 43.333333333333336
         },
         "summary": "Kyle Langley profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .335",
-          "OBP .421",
-          "SLG .449"
+          "AVG .333",
+          "OBP .417",
+          "SLG .450"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".335"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".421"
+            "value": ".417"
           },
           {
             "label": "SLG",
-            "value": ".449"
+            "value": ".450"
           },
           {
             "label": "HR",
@@ -395,7 +395,7 @@
           },
           {
             "label": "RBI",
-            "value": "29"
+            "value": "30"
           },
           {
             "label": "SB",
@@ -576,31 +576,31 @@
         "jersey": "4",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/tyler-lutz/23808",
         "imageUrl": "https://jmusports.com/images/2025/12/9/lutz-tyler-26-5.png",
-        "gamesPlayed": 13,
-        "gamesStarted": 8,
-        "appearances": 13,
+        "gamesPlayed": 14,
+        "gamesStarted": 9,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.09,
-        "whip": 1.37,
-        "wins": 2,
+        "earnedRunAverage": 4.92,
+        "whip": 1.38,
+        "wins": 3,
         "losses": 4,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 46,
-        "inningsPitchedDisplay": "46.0",
-        "hitsAllowed": 50,
-        "runsAllowed": 27,
-        "earnedRunsAllowed": 26,
-        "walksAllowed": 13,
-        "strikeouts": 40,
-        "doublesAllowed": 10,
-        "triplesAllowed": 2,
+        "inningsPitched": 53,
+        "inningsPitchedDisplay": "53.0",
+        "hitsAllowed": 59,
+        "runsAllowed": 30,
+        "earnedRunsAllowed": 29,
+        "walksAllowed": 14,
+        "strikeouts": 42,
+        "doublesAllowed": 11,
+        "triplesAllowed": 3,
         "homeRunsAllowed": 6,
-        "opponentsAtBats": 179,
+        "opponentsAtBats": 206,
         "wildPitches": 3,
         "hitBatters": 6,
         "balks": 0,
-        "opponentsBattingAverage": 0.279,
+        "opponentsBattingAverage": 0.286,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -610,22 +610,22 @@
         "jersey": "4",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/tyler-lutz/23808",
         "imageUrl": "https://jmusports.com/images/2025/12/9/lutz-tyler-26-5.png",
-        "gamesPlayed": 8,
-        "gamesStarted": 7,
+        "gamesPlayed": 9,
+        "gamesStarted": 8,
         "putouts": 2,
-        "assists": 7,
+        "assists": 8,
         "errors": 1,
-        "fieldingPercentage": 0.9,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 5,
+        "fieldingPercentage": 0.909,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 6,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 10
+        "totalChances": 11
       },
       "evaluation": {
-        "score": 14,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -633,40 +633,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 34.78260869565217,
-          "Command": 41.53846153846153,
+          "Miss bats": 28.473413379073754,
+          "Command": 40,
           "Damage suppression": 0
         },
         "summary": "Tyler Lutz looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.09",
-          "WHIP 1.37",
-          "K/9 7.8"
+          "ERA 4.92",
+          "WHIP 1.38",
+          "K/9 7.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.09"
+            "value": "4.92"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "1.38"
           },
           {
             "label": "K/9",
-            "value": "7.8"
+            "value": "7.1"
           },
           {
             "label": "BB/9",
-            "value": "2.5"
+            "value": "2.4"
           },
           {
             "label": "HR/9",
-            "value": "1.17"
+            "value": "1.02"
           },
           {
             "label": "IP",
-            "value": "46.0"
+            "value": "53.0"
           }
         ],
         "metaLine": "FR / L/L",
@@ -717,33 +717,33 @@
         "jersey": "5",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/wyatt-campbell/23800",
         "imageUrl": "https://jmusports.com/images/2025/12/9/campbell-wyatt-3.png",
-        "gamesPlayed": 43,
-        "gamesStarted": 40,
-        "battingAverage": 0.211,
-        "onBasePercentage": 0.35,
-        "sluggingPercentage": 0.438,
-        "ops": 0.788,
-        "atBats": 128,
+        "gamesPlayed": 44,
+        "gamesStarted": 41,
+        "battingAverage": 0.22,
+        "onBasePercentage": 0.354,
+        "sluggingPercentage": 0.439,
+        "ops": 0.793,
+        "atBats": 132,
         "runs": 25,
-        "hits": 27,
+        "hits": 29,
         "doubles": 3,
         "triples": 1,
         "homeRuns": 8,
-        "runsBattedIn": 24,
-        "totalBases": 56,
+        "runsBattedIn": 25,
+        "totalBases": 58,
         "walks": 23,
         "hitByPitch": 5,
-        "strikeouts": 34,
+        "strikeouts": 35,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
-        "putouts": 286,
+        "putouts": 298,
         "assists": 0,
-        "errors": 3,
-        "plateAppearances": 164,
+        "errors": 4,
+        "plateAppearances": 168,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -755,19 +755,19 @@
         "jersey": "5",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/wyatt-campbell/23800",
         "imageUrl": "https://jmusports.com/images/2025/12/9/campbell-wyatt-3.png",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "putouts": 286,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "putouts": 298,
         "assists": 20,
-        "errors": 3,
-        "fieldingPercentage": 0.99,
-        "doublePlays": 24,
+        "errors": 4,
+        "fieldingPercentage": 0.988,
+        "doublePlays": 28,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 309
+        "totalChances": 322
       },
       "evaluation": {
         "score": 30,
@@ -776,30 +776,30 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 38.888888888888864,
-          "Power": 31.05263157894737,
+          "On-base": 41.111111111111086,
+          "Power": 31.315789473684212,
           "Contact": 0,
-          "Discipline": 52.94117647058824,
+          "Discipline": 50.79365079365078,
           "Speed": 20
         },
         "summary": "Wyatt Campbell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .211",
-          "OBP .350",
-          "SLG .438"
+          "AVG .220",
+          "OBP .354",
+          "SLG .439"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".211"
+            "value": ".220"
           },
           {
             "label": "OBP",
-            "value": ".350"
+            "value": ".354"
           },
           {
             "label": "SLG",
-            "value": ".438"
+            "value": ".439"
           },
           {
             "label": "HR",
@@ -807,7 +807,7 @@
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "25"
           },
           {
             "label": "SB",
@@ -1004,20 +1004,20 @@
         "jersey": "7",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/clay-thompson/23814",
         "imageUrl": "https://jmusports.com/images/2025/12/9/thompson-clay-26-3.png",
-        "gamesPlayed": 41,
-        "gamesStarted": 40,
-        "battingAverage": 0.328,
-        "onBasePercentage": 0.406,
-        "sluggingPercentage": 0.54,
-        "ops": 0.946,
-        "atBats": 137,
-        "runs": 31,
-        "hits": 45,
-        "doubles": 17,
+        "gamesPlayed": 42,
+        "gamesStarted": 41,
+        "battingAverage": 0.333,
+        "onBasePercentage": 0.409,
+        "sluggingPercentage": 0.546,
+        "ops": 0.955,
+        "atBats": 141,
+        "runs": 32,
+        "hits": 47,
+        "doubles": 18,
         "triples": 0,
         "homeRuns": 4,
-        "runsBattedIn": 24,
-        "totalBases": 74,
+        "runsBattedIn": 25,
+        "totalBases": 77,
         "walks": 13,
         "hitByPitch": 7,
         "strikeouts": 24,
@@ -1025,12 +1025,12 @@
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 3,
         "sacrificeHits": 2,
-        "stolenBases": 21,
-        "stolenBasesAttempts": 26,
-        "putouts": 86,
+        "stolenBases": 22,
+        "stolenBasesAttempts": 27,
+        "putouts": 87,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 193,
+        "plateAppearances": 198,
         "caughtStealing": 5,
         "pickedOff": 1
       },
@@ -1042,9 +1042,9 @@
         "jersey": "7",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/clay-thompson/23814",
         "imageUrl": "https://jmusports.com/images/2025/12/9/thompson-clay-26-3.png",
-        "gamesPlayed": 30,
-        "gamesStarted": 30,
-        "putouts": 86,
+        "gamesPlayed": 31,
+        "gamesStarted": 31,
+        "putouts": 87,
         "assists": 1,
         "errors": 1,
         "fieldingPercentage": 0.989,
@@ -1054,39 +1054,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 88
+        "totalChances": 89
       },
       "evaluation": {
-        "score": 62,
+        "score": 64,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 70,
-          "Power": 57.894736842105274,
-          "Contact": 67.5,
+          "On-base": 71.66666666666664,
+          "Power": 59.473684210526336,
+          "Contact": 70.625,
           "Discipline": 37.962962962962955,
-          "Speed": 70
+          "Speed": 73.33333333333333
         },
         "summary": "Clay Thompson profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .406",
-          "SLG .540"
+          "AVG .333",
+          "OBP .409",
+          "SLG .546"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".406"
+            "value": ".409"
           },
           {
             "label": "SLG",
-            "value": ".540"
+            "value": ".546"
           },
           {
             "label": "HR",
@@ -1094,11 +1094,11 @@
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "25"
           },
           {
             "label": "SB",
-            "value": "21"
+            "value": "22"
           }
         ],
         "metaLine": "R-SO / R/R",
@@ -2425,33 +2425,33 @@
         "jersey": "18",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/jack-anderson/23778",
         "imageUrl": "https://jmusports.com/images/2025/12/9/anderson-jack-26-2.png",
-        "gamesPlayed": 32,
-        "gamesStarted": 28,
-        "battingAverage": 0.213,
-        "onBasePercentage": 0.296,
-        "sluggingPercentage": 0.266,
-        "ops": 0.562,
-        "atBats": 94,
-        "runs": 11,
-        "hits": 20,
+        "gamesPlayed": 33,
+        "gamesStarted": 29,
+        "battingAverage": 0.216,
+        "onBasePercentage": 0.297,
+        "sluggingPercentage": 0.268,
+        "ops": 0.565,
+        "atBats": 97,
+        "runs": 12,
+        "hits": 21,
         "doubles": 3,
         "triples": 1,
         "homeRuns": 0,
         "runsBattedIn": 11,
-        "totalBases": 25,
+        "totalBases": 26,
         "walks": 4,
         "hitByPitch": 8,
         "strikeouts": 25,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 5,
+        "groundedIntoDoublePlay": 6,
         "sacrificeFlies": 2,
         "sacrificeHits": 6,
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
-        "putouts": 39,
+        "putouts": 43,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 120,
+        "plateAppearances": 123,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -2463,19 +2463,19 @@
         "jersey": "18",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/jack-anderson/23778",
         "imageUrl": "https://jmusports.com/images/2025/12/9/anderson-jack-26-2.png",
-        "gamesPlayed": 31,
-        "gamesStarted": 28,
-        "putouts": 39,
-        "assists": 79,
+        "gamesPlayed": 32,
+        "gamesStarted": 29,
+        "putouts": 43,
+        "assists": 85,
         "errors": 6,
-        "fieldingPercentage": 0.952,
-        "doublePlays": 13,
+        "fieldingPercentage": 0.955,
+        "doublePlays": 17,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 124
+        "totalChances": 134
       },
       "evaluation": {
         "score": 5,
@@ -2484,7 +2484,7 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 8.888888888888866,
+          "On-base": 9.444444444444422,
           "Power": 0,
           "Contact": 0,
           "Discipline": 0,
@@ -2492,22 +2492,22 @@
         },
         "summary": "Jack Anderson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .213",
-          "OBP .296",
-          "SLG .266"
+          "AVG .216",
+          "OBP .297",
+          "SLG .268"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".213"
+            "value": ".216"
           },
           {
             "label": "OBP",
-            "value": ".296"
+            "value": ".297"
           },
           {
             "label": "SLG",
-            "value": ".266"
+            "value": ".268"
           },
           {
             "label": "HR",
@@ -2979,13 +2979,13 @@
         "jersey": "24",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/jack-guerrero/23783",
         "imageUrl": "https://jmusports.com/images/2025/12/9/guerrero-jack-26-2.png",
-        "gamesPlayed": 42,
-        "gamesStarted": 36,
-        "battingAverage": 0.277,
-        "onBasePercentage": 0.338,
-        "sluggingPercentage": 0.401,
-        "ops": 0.739,
-        "atBats": 137,
+        "gamesPlayed": 43,
+        "gamesStarted": 37,
+        "battingAverage": 0.271,
+        "onBasePercentage": 0.331,
+        "sluggingPercentage": 0.393,
+        "ops": 0.724,
+        "atBats": 140,
         "runs": 18,
         "hits": 38,
         "doubles": 11,
@@ -2995,17 +2995,17 @@
         "totalBases": 55,
         "walks": 11,
         "hitByPitch": 2,
-        "strikeouts": 26,
+        "strikeouts": 28,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
-        "sacrificeHits": 8,
+        "sacrificeHits": 9,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 21,
+        "putouts": 23,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 163,
+        "plateAppearances": 167,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -3017,51 +3017,51 @@
         "jersey": "24",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/jack-guerrero/23783",
         "imageUrl": "https://jmusports.com/images/2025/12/9/guerrero-jack-26-2.png",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "putouts": 21,
-        "assists": 55,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "putouts": 23,
+        "assists": 58,
         "errors": 3,
-        "fieldingPercentage": 0.962,
+        "fieldingPercentage": 0.964,
         "doublePlays": 3,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 79
+        "totalChances": 84
       },
       "evaluation": {
-        "score": 26,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 32.22222222222222,
-          "Power": 21.31578947368422,
-          "Contact": 35.625000000000014,
-          "Discipline": 24.78632478632478,
+          "On-base": 28.33333333333333,
+          "Power": 19.21052631578948,
+          "Contact": 31.875000000000007,
+          "Discipline": 21.428571428571423,
           "Speed": 3.3333333333333335
         },
         "summary": "Jack Guerrero gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .338",
-          "SLG .401"
+          "AVG .271",
+          "OBP .331",
+          "SLG .393"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".271"
           },
           {
             "label": "OBP",
-            "value": ".338"
+            "value": ".331"
           },
           {
             "label": "SLG",
-            "value": ".401"
+            "value": ".393"
           },
           {
             "label": "HR",
@@ -3392,31 +3392,31 @@
         "jersey": "28",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/jaden-kinsler/23785",
         "imageUrl": "https://jmusports.com/images/2025/12/9/kinsler-jaden-26-2.png",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 1,
-        "appearances": 15,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.66,
-        "whip": 1.2,
+        "earnedRunAverage": 4.54,
+        "whip": 1.17,
         "wins": 4,
         "losses": 1,
-        "saves": 2,
+        "saves": 3,
         "shutouts": 0,
-        "inningsPitched": 36.666666666666664,
-        "inningsPitchedDisplay": "36.2",
+        "inningsPitched": 37.666666666666664,
+        "inningsPitchedDisplay": "37.2",
         "hitsAllowed": 30,
         "runsAllowed": 20,
         "earnedRunsAllowed": 19,
         "walksAllowed": 14,
-        "strikeouts": 38,
+        "strikeouts": 39,
         "doublesAllowed": 6,
         "triplesAllowed": 1,
         "homeRunsAllowed": 6,
-        "opponentsAtBats": 133,
+        "opponentsAtBats": 136,
         "wildPitches": 5,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.226,
+        "opponentsBattingAverage": 0.221,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3449,24 +3449,24 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 48.42975206611571,
-          "Command": 34.285714285714285,
+          "Miss bats": 48.350764279967834,
+          "Command": 35.71428571428572,
           "Damage suppression": 0
         },
         "summary": "Jaden Kinsler looks like a LHP option who misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.66",
-          "WHIP 1.20",
+          "ERA 4.54",
+          "WHIP 1.17",
           "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.66"
+            "value": "4.54"
           },
           {
             "label": "WHIP",
-            "value": "1.20"
+            "value": "1.17"
           },
           {
             "label": "K/9",
@@ -3474,15 +3474,15 @@
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
-            "value": "1.47"
+            "value": "1.43"
           },
           {
             "label": "IP",
-            "value": "36.7"
+            "value": "37.7"
           }
         ],
         "metaLine": "SR / L/L",
@@ -4385,33 +4385,33 @@
         "jersey": "37",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/ike-schmidly/23794",
         "imageUrl": "https://jmusports.com/images/2025/12/9/schmidly-ike-26-2.png",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "battingAverage": 0.301,
-        "onBasePercentage": 0.376,
-        "sluggingPercentage": 0.552,
-        "ops": 0.928,
-        "atBats": 163,
-        "runs": 30,
-        "hits": 49,
+        "gamesPlayed": 44,
+        "gamesStarted": 44,
+        "battingAverage": 0.303,
+        "onBasePercentage": 0.379,
+        "sluggingPercentage": 0.57,
+        "ops": 0.949,
+        "atBats": 165,
+        "runs": 31,
+        "hits": 50,
         "doubles": 9,
         "triples": 1,
-        "homeRuns": 10,
-        "runsBattedIn": 39,
-        "totalBases": 90,
-        "walks": 18,
+        "homeRuns": 11,
+        "runsBattedIn": 41,
+        "totalBases": 94,
+        "walks": 19,
         "hitByPitch": 3,
         "strikeouts": 47,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 2,
+        "sacrificeFlies": 3,
         "sacrificeHits": 3,
         "stolenBases": 13,
         "stolenBasesAttempts": 17,
         "putouts": 79,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 210,
+        "plateAppearances": 214,
         "caughtStealing": 4,
         "pickedOff": 1
       },
@@ -4438,44 +4438,44 @@
         "totalChances": 80
       },
       "evaluation": {
-        "score": 49,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 53.33333333333332,
-          "Power": 61.05263157894739,
-          "Contact": 50.624999999999986,
-          "Discipline": 20.330969267139476,
+          "On-base": 54.99999999999999,
+          "Power": 65.78947368421052,
+          "Contact": 51.87499999999999,
+          "Discipline": 22.695035460992898,
           "Speed": 43.333333333333336
         },
         "summary": "Ike Schmidly profiles as a OF piece who brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .301",
-          "OBP .376",
-          "SLG .552"
+          "AVG .303",
+          "OBP .379",
+          "SLG .570"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".301"
+            "value": ".303"
           },
           {
             "label": "OBP",
-            "value": ".376"
+            "value": ".379"
           },
           {
             "label": "SLG",
-            "value": ".552"
+            "value": ".570"
           },
           {
             "label": "HR",
-            "value": "10"
+            "value": "11"
           },
           {
             "label": "RBI",
-            "value": "39"
+            "value": "41"
           },
           {
             "label": "SB",
@@ -4814,13 +4814,13 @@
         "jersey": "41",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/jack-cannizzaro/23780",
         "imageUrl": "https://jmusports.com/images/2025/12/9/cannizzaro-jack-26-2.png",
-        "gamesPlayed": 18,
-        "gamesStarted": 16,
-        "battingAverage": 0.216,
-        "onBasePercentage": 0.362,
-        "sluggingPercentage": 0.486,
-        "ops": 0.848,
-        "atBats": 37,
+        "gamesPlayed": 19,
+        "gamesStarted": 17,
+        "battingAverage": 0.205,
+        "onBasePercentage": 0.347,
+        "sluggingPercentage": 0.462,
+        "ops": 0.809,
+        "atBats": 39,
         "runs": 9,
         "hits": 8,
         "doubles": 1,
@@ -4834,13 +4834,13 @@
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
-        "sacrificeHits": 6,
+        "sacrificeHits": 7,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 56,
+        "putouts": 59,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 54,
+        "plateAppearances": 57,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4852,51 +4852,51 @@
         "jersey": "41",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/jack-cannizzaro/23780",
         "imageUrl": "https://jmusports.com/images/2025/12/9/cannizzaro-jack-26-2.png",
-        "gamesPlayed": 10,
-        "gamesStarted": 9,
-        "putouts": 56,
+        "gamesPlayed": 11,
+        "gamesStarted": 10,
+        "putouts": 59,
         "assists": 4,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 5,
+        "stolenBasesAgainst": 6,
         "caughtStealingBy": 3,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 60
+        "totalChances": 63
       },
       "evaluation": {
-        "score": 40,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 45.555555555555536,
-          "Power": 43.684210526315795,
+          "On-base": 37.22222222222219,
+          "Power": 37.36842105263159,
           "Contact": 0,
           "Discipline": 100,
           "Speed": 3.3333333333333335
         },
         "summary": "Jack Cannizzaro profiles as a C piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .216",
-          "OBP .362",
-          "SLG .486"
+          "AVG .205",
+          "OBP .347",
+          "SLG .462"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".216"
+            "value": ".205"
           },
           {
             "label": "OBP",
-            "value": ".362"
+            "value": ".347"
           },
           {
             "label": "SLG",
-            "value": ".486"
+            "value": ".462"
           },
           {
             "label": "HR",
@@ -5102,19 +5102,19 @@
         "jersey": "46",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/luke-alexander/23812",
         "imageUrl": "https://jmusports.com/images/2025/12/9/alexander-luke-26-2.png",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 7,
-        "appearances": 11,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.71,
-        "whip": 1.78,
+        "earnedRunAverage": 7.49,
+        "whip": 1.75,
         "wins": 3,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 32.666666666666664,
-        "inningsPitchedDisplay": "32.2",
-        "hitsAllowed": 39,
+        "inningsPitched": 33.666666666666664,
+        "inningsPitchedDisplay": "33.2",
+        "hitsAllowed": 40,
         "runsAllowed": 28,
         "earnedRunsAllowed": 28,
         "walksAllowed": 19,
@@ -5122,11 +5122,11 @@
         "doublesAllowed": 2,
         "triplesAllowed": 1,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 127,
+        "opponentsAtBats": 131,
         "wildPitches": 2,
         "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.307,
+        "opponentsBattingAverage": 0.305,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5159,40 +5159,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 41.28014842300558,
-          "Command": 12.631578947368421,
+          "Miss bats": 38.97389738973898,
+          "Command": 12.631578947368425,
           "Damage suppression": 0
         },
         "summary": "Luke Alexander gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.71",
-          "WHIP 1.78",
-          "K/9 8.5"
+          "ERA 7.49",
+          "WHIP 1.75",
+          "K/9 8.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.71"
+            "value": "7.49"
           },
           {
             "label": "WHIP",
-            "value": "1.78"
+            "value": "1.75"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "8.3"
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
-            "value": "1.10"
+            "value": "1.07"
           },
           {
             "label": "IP",
-            "value": "32.7"
+            "value": "33.7"
           }
         ],
         "metaLine": "FR / R/R",
@@ -5243,23 +5243,23 @@
         "jersey": "50",
         "profileUrl": "https://jmusports.com/sports/baseball/roster/josiah-seguin/23811",
         "imageUrl": "https://jmusports.com/images/2025/12/9/seguin-josiah-26-2.png",
-        "gamesPlayed": 21,
-        "gamesStarted": 21,
-        "battingAverage": 0.342,
-        "onBasePercentage": 0.453,
-        "sluggingPercentage": 0.633,
-        "ops": 1.086,
-        "atBats": 79,
-        "runs": 17,
-        "hits": 27,
-        "doubles": 5,
+        "gamesPlayed": 22,
+        "gamesStarted": 22,
+        "battingAverage": 0.349,
+        "onBasePercentage": 0.455,
+        "sluggingPercentage": 0.639,
+        "ops": 1.094,
+        "atBats": 83,
+        "runs": 18,
+        "hits": 29,
+        "doubles": 6,
         "triples": 0,
         "homeRuns": 6,
         "runsBattedIn": 23,
-        "totalBases": 50,
+        "totalBases": 53,
         "walks": 9,
         "hitByPitch": 7,
-        "strikeouts": 20,
+        "strikeouts": 21,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -5269,7 +5269,7 @@
         "putouts": 25,
         "assists": 0,
         "errors": 8,
-        "plateAppearances": 110,
+        "plateAppearances": 114,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -5296,36 +5296,36 @@
         "totalChances": 77
       },
       "evaluation": {
-        "score": 74,
+        "score": 75,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 96.1111111111111,
-          "Power": 82.36842105263159,
-          "Contact": 76.25000000000001,
-          "Discipline": 27.777777777777775,
+          "On-base": 97.22222222222221,
+          "Power": 83.94736842105264,
+          "Contact": 80.62499999999999,
+          "Discipline": 25.39682539682539,
           "Speed": 40
         },
         "summary": "Josiah Seguin profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .342",
-          "OBP .453",
-          "SLG .633"
+          "AVG .349",
+          "OBP .455",
+          "SLG .639"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".342"
+            "value": ".349"
           },
           {
             "label": "OBP",
-            "value": ".453"
+            "value": ".455"
           },
           {
             "label": "SLG",
-            "value": ".633"
+            "value": ".639"
           },
           {
             "label": "HR",
@@ -5368,29 +5368,29 @@
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 56,
+        "score": 55,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Reece Moody profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .309",
-          "OBP .396",
-          "SLG .420"
+          "AVG .307",
+          "OBP .393",
+          "SLG .428"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".309"
+            "value": ".307"
           },
           {
             "label": "OBP",
-            "value": ".396"
+            "value": ".393"
           },
           {
             "label": "SLG",
-            "value": ".420"
+            "value": ".428"
           },
           {
             "label": "HR",
@@ -5406,10 +5406,10 @@
           }
         ],
         "components": {
-          "On-base": 64.44444444444444,
-          "Power": 26.31578947368421,
-          "Contact": 55.62499999999999,
-          "Discipline": 59.903381642512066,
+          "On-base": 62.77777777777778,
+          "Power": 28.421052631578945,
+          "Contact": 54.37499999999999,
+          "Discipline": 56.48148148148147,
           "Speed": 100
         },
         "metaLine": "SO / R/R",
@@ -5437,29 +5437,29 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 59,
+        "score": 58,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Kyle Langley profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .335",
-          "OBP .421",
-          "SLG .449"
+          "AVG .333",
+          "OBP .417",
+          "SLG .450"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".335"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".421"
+            "value": ".417"
           },
           {
             "label": "SLG",
-            "value": ".449"
+            "value": ".450"
           },
           {
             "label": "HR",
@@ -5467,7 +5467,7 @@
           },
           {
             "label": "RBI",
-            "value": "29"
+            "value": "30"
           },
           {
             "label": "SB",
@@ -5475,9 +5475,9 @@
           }
         ],
         "components": {
-          "On-base": 78.33333333333331,
-          "Power": 33.94736842105264,
-          "Contact": 71.87500000000001,
+          "On-base": 76.11111111111109,
+          "Power": 34.21052631578948,
+          "Contact": 70.625,
           "Discipline": 53.046594982078844,
           "Speed": 43.333333333333336
         },
@@ -5575,48 +5575,48 @@
         "position": "LHP",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 14,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tyler Lutz looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.09",
-          "WHIP 1.37",
-          "K/9 7.8"
+          "ERA 4.92",
+          "WHIP 1.38",
+          "K/9 7.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.09"
+            "value": "4.92"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "1.38"
           },
           {
             "label": "K/9",
-            "value": "7.8"
+            "value": "7.1"
           },
           {
             "label": "BB/9",
-            "value": "2.5"
+            "value": "2.4"
           },
           {
             "label": "HR/9",
-            "value": "1.17"
+            "value": "1.02"
           },
           {
             "label": "IP",
-            "value": "46.0"
+            "value": "53.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 34.78260869565217,
-          "Command": 41.53846153846153,
+          "Miss bats": 28.473413379073754,
+          "Command": 40,
           "Damage suppression": 0
         },
         "metaLine": "FR / L/L",
@@ -5651,22 +5651,22 @@
         },
         "summary": "Wyatt Campbell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .211",
-          "OBP .350",
-          "SLG .438"
+          "AVG .220",
+          "OBP .354",
+          "SLG .439"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".211"
+            "value": ".220"
           },
           {
             "label": "OBP",
-            "value": ".350"
+            "value": ".354"
           },
           {
             "label": "SLG",
-            "value": ".438"
+            "value": ".439"
           },
           {
             "label": "HR",
@@ -5674,7 +5674,7 @@
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "25"
           },
           {
             "label": "SB",
@@ -5682,10 +5682,10 @@
           }
         ],
         "components": {
-          "On-base": 38.888888888888864,
-          "Power": 31.05263157894737,
+          "On-base": 41.111111111111086,
+          "Power": 31.315789473684212,
           "Contact": 0,
-          "Discipline": 52.94117647058824,
+          "Discipline": 50.79365079365078,
           "Speed": 20
         },
         "metaLine": "SR / R/R",
@@ -5782,29 +5782,29 @@
         "position": "OF",
         "classYear": "R-SO",
         "handedness": "R/R",
-        "score": 62,
+        "score": 64,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Clay Thompson profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .406",
-          "SLG .540"
+          "AVG .333",
+          "OBP .409",
+          "SLG .546"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".406"
+            "value": ".409"
           },
           {
             "label": "SLG",
-            "value": ".540"
+            "value": ".546"
           },
           {
             "label": "HR",
@@ -5812,19 +5812,19 @@
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "25"
           },
           {
             "label": "SB",
-            "value": "21"
+            "value": "22"
           }
         ],
         "components": {
-          "On-base": 70,
-          "Power": 57.894736842105274,
-          "Contact": 67.5,
+          "On-base": 71.66666666666664,
+          "Power": 59.473684210526336,
+          "Contact": 70.625,
           "Discipline": 37.962962962962955,
-          "Speed": 70
+          "Speed": 73.33333333333333
         },
         "metaLine": "R-SO / R/R",
         "detailBadges": [
@@ -6479,22 +6479,22 @@
         },
         "summary": "Jack Anderson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .213",
-          "OBP .296",
-          "SLG .266"
+          "AVG .216",
+          "OBP .297",
+          "SLG .268"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".213"
+            "value": ".216"
           },
           {
             "label": "OBP",
-            "value": ".296"
+            "value": ".297"
           },
           {
             "label": "SLG",
-            "value": ".266"
+            "value": ".268"
           },
           {
             "label": "HR",
@@ -6510,7 +6510,7 @@
           }
         ],
         "components": {
-          "On-base": 8.888888888888866,
+          "On-base": 9.444444444444422,
           "Power": 0,
           "Contact": 0,
           "Discipline": 0,
@@ -6748,29 +6748,29 @@
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 26,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Guerrero gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .338",
-          "SLG .401"
+          "AVG .271",
+          "OBP .331",
+          "SLG .393"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".271"
           },
           {
             "label": "OBP",
-            "value": ".338"
+            "value": ".331"
           },
           {
             "label": "SLG",
-            "value": ".401"
+            "value": ".393"
           },
           {
             "label": "HR",
@@ -6786,10 +6786,10 @@
           }
         ],
         "components": {
-          "On-base": 32.22222222222222,
-          "Power": 21.31578947368422,
-          "Contact": 35.625000000000014,
-          "Discipline": 24.78632478632478,
+          "On-base": 28.33333333333333,
+          "Power": 19.21052631578948,
+          "Contact": 31.875000000000007,
+          "Discipline": 21.428571428571423,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / L/R",
@@ -6962,18 +6962,18 @@
         },
         "summary": "Jaden Kinsler looks like a LHP option who misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.66",
-          "WHIP 1.20",
+          "ERA 4.54",
+          "WHIP 1.17",
           "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.66"
+            "value": "4.54"
           },
           {
             "label": "WHIP",
-            "value": "1.20"
+            "value": "1.17"
           },
           {
             "label": "K/9",
@@ -6981,22 +6981,22 @@
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
-            "value": "1.47"
+            "value": "1.43"
           },
           {
             "label": "IP",
-            "value": "36.7"
+            "value": "37.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 48.42975206611571,
-          "Command": 34.285714285714285,
+          "Miss bats": 48.350764279967834,
+          "Command": 35.71428571428572,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/L",
@@ -7438,37 +7438,37 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 49,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ike Schmidly profiles as a OF piece who brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .301",
-          "OBP .376",
-          "SLG .552"
+          "AVG .303",
+          "OBP .379",
+          "SLG .570"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".301"
+            "value": ".303"
           },
           {
             "label": "OBP",
-            "value": ".376"
+            "value": ".379"
           },
           {
             "label": "SLG",
-            "value": ".552"
+            "value": ".570"
           },
           {
             "label": "HR",
-            "value": "10"
+            "value": "11"
           },
           {
             "label": "RBI",
-            "value": "39"
+            "value": "41"
           },
           {
             "label": "SB",
@@ -7476,10 +7476,10 @@
           }
         ],
         "components": {
-          "On-base": 53.33333333333332,
-          "Power": 61.05263157894739,
-          "Contact": 50.624999999999986,
-          "Discipline": 20.330969267139476,
+          "On-base": 54.99999999999999,
+          "Power": 65.78947368421052,
+          "Contact": 51.87499999999999,
+          "Discipline": 22.695035460992898,
           "Speed": 43.333333333333336
         },
         "metaLine": "JR / R/R",
@@ -7645,29 +7645,29 @@
         "position": "C",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 40,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Cannizzaro profiles as a C piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .216",
-          "OBP .362",
-          "SLG .486"
+          "AVG .205",
+          "OBP .347",
+          "SLG .462"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".216"
+            "value": ".205"
           },
           {
             "label": "OBP",
-            "value": ".362"
+            "value": ".347"
           },
           {
             "label": "SLG",
-            "value": ".486"
+            "value": ".462"
           },
           {
             "label": "HR",
@@ -7683,8 +7683,8 @@
           }
         ],
         "components": {
-          "On-base": 45.555555555555536,
-          "Power": 43.684210526315795,
+          "On-base": 37.22222222222219,
+          "Power": 37.36842105263159,
           "Contact": 0,
           "Discipline": 100,
           "Speed": 3.3333333333333335
@@ -7790,41 +7790,41 @@
         },
         "summary": "Luke Alexander gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.71",
-          "WHIP 1.78",
-          "K/9 8.5"
+          "ERA 7.49",
+          "WHIP 1.75",
+          "K/9 8.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.71"
+            "value": "7.49"
           },
           {
             "label": "WHIP",
-            "value": "1.78"
+            "value": "1.75"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "8.3"
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
-            "value": "1.10"
+            "value": "1.07"
           },
           {
             "label": "IP",
-            "value": "32.7"
+            "value": "33.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 41.28014842300558,
-          "Command": 12.631578947368421,
+          "Miss bats": 38.97389738973898,
+          "Command": 12.631578947368425,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -7852,29 +7852,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "S/R",
-        "score": 74,
+        "score": 75,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Josiah Seguin profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .342",
-          "OBP .453",
-          "SLG .633"
+          "AVG .349",
+          "OBP .455",
+          "SLG .639"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".342"
+            "value": ".349"
           },
           {
             "label": "OBP",
-            "value": ".453"
+            "value": ".455"
           },
           {
             "label": "SLG",
-            "value": ".633"
+            "value": ".639"
           },
           {
             "label": "HR",
@@ -7890,10 +7890,10 @@
           }
         ],
         "components": {
-          "On-base": 96.1111111111111,
-          "Power": 82.36842105263159,
-          "Contact": 76.25000000000001,
-          "Discipline": 27.777777777777775,
+          "On-base": 97.22222222222221,
+          "Power": 83.94736842105264,
+          "Contact": 80.62499999999999,
+          "Discipline": 25.39682539682539,
           "Speed": 40
         },
         "metaLine": "JR / S/R",
