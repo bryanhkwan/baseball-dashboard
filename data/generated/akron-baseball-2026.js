@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.akron2026 = {
-  "generatedAt": "2026-05-04T12:05:28.675Z",
+  "generatedAt": "2026-05-05T11:38:28.139Z",
   "season": 2026,
   "school": {
     "slug": "akron",
@@ -473,7 +473,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "stolenBasesAttempts": 6,
         "putouts": 39,
         "assists": 0,
-        "errors": 4,
+        "errors": 5,
         "plateAppearances": 123,
         "caughtStealing": 0,
         "pickedOff": 0
@@ -490,15 +490,15 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "gamesStarted": 26,
         "putouts": 39,
         "assists": 75,
-        "errors": 4,
-        "fieldingPercentage": 0.966,
+        "errors": 5,
+        "fieldingPercentage": 0.958,
         "doublePlays": 15,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 118
+        "totalChances": 119
       },
       "evaluation": {
         "score": 3,
@@ -3839,7 +3839,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "stolenBasesAttempts": 9,
         "putouts": 230,
         "assists": 0,
-        "errors": 2,
+        "errors": 1,
         "plateAppearances": 222,
         "caughtStealing": 0,
         "pickedOff": 0
@@ -3856,15 +3856,15 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "gamesStarted": 30,
         "putouts": 230,
         "assists": 16,
-        "errors": 2,
-        "fieldingPercentage": 0.992,
+        "errors": 1,
+        "fieldingPercentage": 0.996,
         "doublePlays": 13,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 248
+        "totalChances": 247
       },
       "evaluation": {
         "score": 65,

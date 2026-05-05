@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.uab2026 = {
-  "generatedAt": "2026-05-04T12:06:33.039Z",
+  "generatedAt": "2026-05-05T11:39:36.771Z",
   "season": 2026,
   "school": {
     "slug": "uab",
@@ -48,7 +48,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "atBats": "1555",
       "runsScored": "345",
       "hits": "448",
-      "runsBattedIn": "308",
+      "runsBattedIn": "309",
       "doubles": "71",
       "triples": "7",
       "homeRuns": "67",
@@ -87,7 +87,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "28",
-      "saves": "15",
+      "saves": "14",
       "losses": "19",
       "gamesStarted": "0",
       "gamesCompleted": "1",
@@ -109,14 +109,14 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "hitBatters": "44",
       "strikeoutsLooking": "80",
       "intentionalWalks": "1",
-      "inheritedRunners": "11",
+      "inheritedRunners": "10",
       "inheritedRunnersThatScored": "13",
       "sacrificeHitsAllowed": "25",
       "sacrificeFliesAllowed": "20",
       "catchersInterferenceAllowed": "3",
       "pitches": "6782",
       "flyouts": "411",
-      "groundouts": "429",
+      "groundouts": "430",
       "teamUnearnedRuns": "0",
       "saveRecord": "10",
       "pickoff": "7"
@@ -306,8 +306,8 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "2",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/mason-steele/11522",
         "imageUrl": "https://uabsports.com/images/2026/1/16/Mason_Steele_v2Vuu.jpg",
-        "gamesPlayed": 19,
-        "gamesStarted": 12,
+        "gamesPlayed": 20,
+        "gamesStarted": 13,
         "battingAverage": 0.235,
         "onBasePercentage": 0.435,
         "sluggingPercentage": 0.353,
@@ -329,7 +329,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "sacrificeHits": 1,
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
-        "putouts": 9,
+        "putouts": 10,
         "assists": 0,
         "errors": 0,
         "plateAppearances": 28,
@@ -384,7 +384,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 3,
+        "stolenBasesAgainst": 4,
         "caughtStealingBy": 3,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
@@ -1694,7 +1694,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "doubles": 9,
         "triples": 1,
         "homeRuns": 17,
-        "runsBattedIn": 47,
+        "runsBattedIn": 48,
         "totalBases": 115,
         "walks": 36,
         "hitByPitch": 2,
@@ -1772,7 +1772,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           },
           {
             "label": "RBI",
-            "value": "47"
+            "value": "48"
           },
           {
             "label": "SB",
@@ -3506,14 +3506,14 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "30",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/chase-ingram/11507",
         "imageUrl": "https://uabsports.com/images/2026/1/16/Chase_Ingram_Ejjbv.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 8,
         "putouts": 9,
         "assists": 8,
         "errors": 1,
         "fieldingPercentage": 0.944,
         "doublePlays": 0,
-        "stolenBasesAgainst": 7,
+        "stolenBasesAgainst": 9,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
@@ -5590,7 +5590,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           },
           {
             "label": "RBI",
-            "value": "47"
+            "value": "48"
           },
           {
             "label": "SB",

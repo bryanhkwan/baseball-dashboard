@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
-  "generatedAt": "2026-05-04T12:06:24.719Z",
+  "generatedAt": "2026-05-05T11:39:28.354Z",
   "season": 2026,
   "school": {
     "slug": "st-thomas-mn",
@@ -74,15 +74,15 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
     "fielding": {
       "putouts": "1064",
       "assists": "372",
-      "errors": "60",
+      "errors": "59",
       "passedBalls": "17",
       "catchersInterference": "0",
       "stolenBasesAgainst": "84",
       "caughtStealingBy": "11",
       "involvedInDoublePlays": "34",
       "involvedInTriplePlays": "0",
-      "totalChances": "1496",
-      "fieldingPercentage": ".960"
+      "totalChances": "1495",
+      "fieldingPercentage": ".961"
     },
     "pitching": {
       "orderOfAppearance": "0",
@@ -94,14 +94,14 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
       "shutouts": "0",
       "creditForCombinedShutout": "0",
       "inningsPitched": "354.2",
-      "hitsAllowed": "416",
+      "hitsAllowed": "417",
       "runsAllowed": "359",
       "earnedRunsAllowed": "314",
       "walksAllowed": "241",
       "strikeouts": "285",
       "battersFaced": "1793",
       "opponentAtBats": "1423",
-      "doublesAllowed": "75",
+      "doublesAllowed": "76",
       "triplesAllowed": "21",
       "homerunsAllowed": "51",
       "wildPitches": "32",
@@ -1343,7 +1343,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "stolenBasesAttempts": 16,
         "putouts": 68,
         "assists": 125,
-        "errors": 19,
+        "errors": 18,
         "plateAppearances": 200,
         "caughtStealing": 1,
         "pickedOff": 0
@@ -1360,15 +1360,15 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "gamesStarted": 41,
         "putouts": 68,
         "assists": 125,
-        "errors": 19,
-        "fieldingPercentage": 0.91,
+        "errors": 18,
+        "fieldingPercentage": 0.915,
         "doublePlays": 26,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 212
+        "totalChances": 211
       },
       "evaluation": {
         "score": 41,
@@ -4248,27 +4248,27 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "appearances": 15,
         "gamesCompleted": 0,
         "earnedRunAverage": 5.18,
-        "whip": 1.58,
+        "whip": 1.61,
         "wins": 2,
         "losses": 3,
         "saves": 1,
         "shutouts": 0,
         "inningsPitched": 41.666666666666664,
         "inningsPitchedDisplay": "41.2",
-        "hitsAllowed": 40,
+        "hitsAllowed": 41,
         "runsAllowed": 31,
         "earnedRunsAllowed": 24,
         "walksAllowed": 26,
         "strikeouts": 23,
-        "doublesAllowed": 8,
+        "doublesAllowed": 9,
         "triplesAllowed": 1,
         "homeRunsAllowed": 3,
         "opponentsAtBats": 159,
         "wildPitches": 2,
         "hitBatters": 7,
         "balks": 2,
-        "opponentsBattingAverage": 0.252,
-        "walksHits": 66
+        "opponentsBattingAverage": 0.258,
+        "walksHits": 67
       },
       "fieldingStats": {
         "rosterBioId": "11607",
@@ -4307,7 +4307,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "summary": "Sam Stockman gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "ERA 5.18",
-          "WHIP 1.58",
+          "WHIP 1.61",
           "K/9 5.0"
         ],
         "statCards": [
@@ -4317,7 +4317,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.58"
+            "value": "1.61"
           },
           {
             "label": "K/9",
@@ -7710,7 +7710,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "summary": "Sam Stockman gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "ERA 5.18",
-          "WHIP 1.58",
+          "WHIP 1.61",
           "K/9 5.0"
         ],
         "statCards": [
@@ -7720,7 +7720,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.58"
+            "value": "1.61"
           },
           {
             "label": "K/9",

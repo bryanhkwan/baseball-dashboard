@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.bowling-green2026 = {
-  "generatedAt": "2026-05-04T12:05:32.624Z",
+  "generatedAt": "2026-05-05T11:38:31.889Z",
   "season": 2026,
   "school": {
     "slug": "bowling-green",
@@ -1177,9 +1177,9 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
       "handedness": "R/R",
       "jersey": "13",
       "hometown": "Waterville, Ohio",
-      "highSchool": "Wayne",
+      "highSchool": "Anthony Wayne",
       "previousSchool": "Wright State",
-      "hometownHighSchool": "Waterville, Ohio / Wayne",
+      "hometownHighSchool": "Waterville, Ohio / Anthony Wayne",
       "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ty-roder/19815",
       "imageUrl": "https://bgsufalcons.com/images/2025/9/1/13_Ty_Roder.png",
       "espnAthleteId": "",

@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.oregon2026 = {
-  "generatedAt": "2026-05-04T12:06:10.389Z",
+  "generatedAt": "2026-05-05T11:39:14.464Z",
   "season": 2026,
   "school": {
     "slug": "oregon",
@@ -593,8 +593,8 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "jersey": "5",
         "profileUrl": "https://goducks.com/sports/baseball/roster/burke-lee-mabeus/17564",
         "imageUrl": "https://goducks.com/images/2026/2/3/Mabeus__Burke-Lee.png",
-        "gamesPlayed": 42,
-        "gamesStarted": 33,
+        "gamesPlayed": 41,
+        "gamesStarted": 32,
         "battingAverage": 0.32,
         "onBasePercentage": 0.407,
         "sluggingPercentage": 0.598,
@@ -2680,7 +2680,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "profileUrl": "https://goducks.com/sports/baseball/roster/gabe-miranda/18223",
         "imageUrl": "https://goducks.com/images/2026/2/3/Miranda__Gabe.png",
         "gamesPlayed": 43,
-        "gamesStarted": 32,
+        "gamesStarted": 33,
         "battingAverage": 0.231,
         "onBasePercentage": 0.366,
         "sluggingPercentage": 0.38,
@@ -2718,7 +2718,7 @@ window.__BASEBALL_DATASETS__.oregon2026 = {
         "profileUrl": "https://goducks.com/sports/baseball/roster/gabe-miranda/18223",
         "imageUrl": "https://goducks.com/images/2026/2/3/Miranda__Gabe.png",
         "gamesPlayed": 37,
-        "gamesStarted": 31,
+        "gamesStarted": 32,
         "putouts": 220,
         "assists": 16,
         "errors": 2,

@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.rice2026 = {
-  "generatedAt": "2026-05-04T12:06:15.834Z",
+  "generatedAt": "2026-05-05T11:39:20.371Z",
   "season": 2026,
   "school": {
     "slug": "rice",
@@ -87,7 +87,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "29",
-      "saves": "41",
+      "saves": "40",
       "losses": "20",
       "gamesStarted": "0",
       "gamesCompleted": "0",
@@ -116,7 +116,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "catchersInterferenceAllowed": "0",
       "pitches": "7028",
       "flyouts": "466",
-      "groundouts": "380",
+      "groundouts": "381",
       "teamUnearnedRuns": "0",
       "saveRecord": "13",
       "pickoff": "3"

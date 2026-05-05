@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.lehigh2026 = {
-  "generatedAt": "2026-05-04T12:05:50.977Z",
+  "generatedAt": "2026-05-05T11:38:55.322Z",
   "season": 2026,
   "school": {
     "slug": "lehigh",
@@ -27,7 +27,7 @@ window.__BASEBALL_DATASETS__.lehigh2026 = {
   "coverage": {
     "rosterPlayers": 40,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 19,
+    "playersWithHittingStats": 20,
     "playersWithPitchingStats": 18,
     "playersWithFieldingStats": 32,
     "mergedPlayersWithAnyStats": 37,
@@ -1000,7 +1000,7 @@ window.__BASEBALL_DATASETS__.lehigh2026 = {
       "schoolLongName": "Lehigh University",
       "name": "Brandon Coughlin",
       "normalizedName": "brandon coughlin",
-      "compositeRole": "Pitcher",
+      "compositeRole": "Two-Way",
       "role": "Pitcher",
       "position": "RHP/OF",
       "positionLong": "",
@@ -1024,7 +1024,43 @@ window.__BASEBALL_DATASETS__.lehigh2026 = {
         "Lehigh Athletics roster",
         "Lehigh cumulative stats"
       ],
-      "hittingStats": null,
+      "hittingStats": {
+        "rosterBioId": "19414",
+        "name": "Brandon Coughlin",
+        "normalizedName": "brandon coughlin",
+        "jersey": "7",
+        "profileUrl": "https://lehighsports.com/sports/baseball/roster/brandon-coughlin/19414",
+        "imageUrl": "https://lehighsports.com/images/2022/8/30/Brandon_Coughlin.jpg",
+        "gamesPlayed": 11,
+        "gamesStarted": 2,
+        "battingAverage": 0,
+        "onBasePercentage": 0,
+        "sluggingPercentage": 0,
+        "ops": 0,
+        "atBats": 1,
+        "runs": 0,
+        "hits": 0,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 0,
+        "totalBases": 0,
+        "walks": 0,
+        "hitByPitch": 0,
+        "strikeouts": 0,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 0,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 1,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
       "pitchingStats": {
         "rosterBioId": "19414",
         "name": "Brandon Coughlin",
@@ -1130,7 +1166,7 @@ window.__BASEBALL_DATASETS__.lehigh2026 = {
           "RHP/OF",
           "SR",
           "R/R",
-          "Pitcher"
+          "Two-Way"
         ],
         "sourceSummary": "Lehigh Athletics roster + Lehigh cumulative stats"
       }
@@ -2515,12 +2551,12 @@ window.__BASEBALL_DATASETS__.lehigh2026 = {
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/robbie-carvelli/19412",
         "imageUrl": "https://lehighsports.com/images/2023/9/4/Robbie_Carvelli.jpg",
         "gamesPlayed": 43,
-        "gamesStarted": 41,
-        "battingAverage": 0.273,
-        "onBasePercentage": 0.355,
-        "sluggingPercentage": 0.32,
-        "ops": 0.675,
-        "atBats": 150,
+        "gamesStarted": 40,
+        "battingAverage": 0.275,
+        "onBasePercentage": 0.357,
+        "sluggingPercentage": 0.322,
+        "ops": 0.679,
+        "atBats": 149,
         "runs": 23,
         "hits": 41,
         "doubles": 4,
@@ -2540,7 +2576,7 @@ window.__BASEBALL_DATASETS__.lehigh2026 = {
         "putouts": 53,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 180,
+        "plateAppearances": 179,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -2553,7 +2589,7 @@ window.__BASEBALL_DATASETS__.lehigh2026 = {
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/robbie-carvelli/19412",
         "imageUrl": "https://lehighsports.com/images/2023/9/4/Robbie_Carvelli.jpg",
         "gamesPlayed": 27,
-        "gamesStarted": 27,
+        "gamesStarted": 26,
         "putouts": 53,
         "assists": 3,
         "errors": 0,
@@ -2573,30 +2609,30 @@ window.__BASEBALL_DATASETS__.lehigh2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 41.66666666666664,
-          "Power": 0,
-          "Contact": 33.12500000000001,
+          "On-base": 42.77777777777775,
+          "Power": 0.5263157894736847,
+          "Contact": 34.375000000000014,
           "Discipline": 25.39682539682539,
           "Speed": 16.666666666666664
         },
         "summary": "Robbie Carvelli gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .273",
-          "OBP .355",
-          "SLG .320"
+          "AVG .275",
+          "OBP .357",
+          "SLG .322"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".273"
+            "value": ".275"
           },
           {
             "label": "OBP",
-            "value": ".355"
+            "value": ".357"
           },
           {
             "label": "SLG",
-            "value": ".320"
+            "value": ".322"
           },
           {
             "label": "HR",
@@ -6079,7 +6115,7 @@ window.__BASEBALL_DATASETS__.lehigh2026 = {
           "RHP/OF",
           "SR",
           "R/R",
-          "Pitcher"
+          "Two-Way"
         ],
         "leaderboards": [
           "Lehigh Athletics roster",
@@ -6087,7 +6123,7 @@ window.__BASEBALL_DATASETS__.lehigh2026 = {
         ],
         "sourceSummary": "Lehigh Athletics roster + Lehigh cumulative stats",
         "schoolSlug": "lehigh",
-        "compositeRole": "Pitcher",
+        "compositeRole": "Two-Way",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/brandon-coughlin/19414",
         "espnAthleteId": ""
       },
@@ -6795,22 +6831,22 @@ window.__BASEBALL_DATASETS__.lehigh2026 = {
         },
         "summary": "Robbie Carvelli gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .273",
-          "OBP .355",
-          "SLG .320"
+          "AVG .275",
+          "OBP .357",
+          "SLG .322"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".273"
+            "value": ".275"
           },
           {
             "label": "OBP",
-            "value": ".355"
+            "value": ".357"
           },
           {
             "label": "SLG",
-            "value": ".320"
+            "value": ".322"
           },
           {
             "label": "HR",
@@ -6826,9 +6862,9 @@ window.__BASEBALL_DATASETS__.lehigh2026 = {
           }
         ],
         "components": {
-          "On-base": 41.66666666666664,
-          "Power": 0,
-          "Contact": 33.12500000000001,
+          "On-base": 42.77777777777775,
+          "Power": 0.5263157894736847,
+          "Contact": 34.375000000000014,
           "Discipline": 25.39682539682539,
           "Speed": 16.666666666666664
         },

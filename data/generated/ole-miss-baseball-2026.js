@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.ole-miss2026 = {
-  "generatedAt": "2026-05-04T12:06:06.147Z",
+  "generatedAt": "2026-05-05T11:39:08.447Z",
   "season": 2026,
   "school": {
     "slug": "ole-miss",

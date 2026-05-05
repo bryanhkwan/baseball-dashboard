@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
-  "generatedAt": "2026-05-04T12:06:38.042Z",
+  "generatedAt": "2026-05-05T11:39:42.583Z",
   "season": 2026,
   "source": "Generated Sidearm baseball school-site pool",
   "note": "This generated free player pool combines verified public roster and cumulative stats pages from multiple Sidearm baseball programs. It is broader than Toledo alone, but still not a full every-school national directory yet.",
@@ -85739,7 +85739,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "RHP/OF",
           "SR",
           "R/R",
-          "Pitcher"
+          "Two-Way"
         ],
         "leaderboards": [
           "Lehigh Athletics roster",
@@ -85747,7 +85747,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         ],
         "sourceSummary": "Lehigh Athletics roster + Lehigh cumulative stats",
         "schoolSlug": "lehigh",
-        "compositeRole": "Pitcher",
+        "compositeRole": "Two-Way",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/brandon-coughlin/19414",
         "espnAthleteId": ""
       },
@@ -86455,22 +86455,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Robbie Carvelli gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .273",
-          "OBP .355",
-          "SLG .320"
+          "AVG .275",
+          "OBP .357",
+          "SLG .322"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".273"
+            "value": ".275"
           },
           {
             "label": "OBP",
-            "value": ".355"
+            "value": ".357"
           },
           {
             "label": "SLG",
-            "value": ".320"
+            "value": ".322"
           },
           {
             "label": "HR",
@@ -86486,9 +86486,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 41.66666666666664,
-          "Power": 0,
-          "Contact": 33.12500000000001,
+          "On-base": 42.77777777777775,
+          "Power": 0.5263157894736847,
+          "Contact": 34.375000000000014,
           "Discipline": 25.39682539682539,
           "Speed": 16.666666666666664
         },
@@ -155417,7 +155417,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "summary": "Sam Stockman gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "ERA 5.18",
-          "WHIP 1.58",
+          "WHIP 1.61",
           "K/9 5.0"
         ],
         "statCards": [
@@ -155427,7 +155427,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.58"
+            "value": "1.61"
           },
           {
             "label": "K/9",
@@ -175143,7 +175143,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "47"
+            "value": "48"
           },
           {
             "label": "SB",
