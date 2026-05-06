@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T11:39:14.464Z",
+  "generatedAt": "2026-05-06T12:06:41.960Z",
   "season": 2026,
   "school": {
     "slug": "oregon",
@@ -24,7 +24,7 @@
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 39,
+    "rosterPlayers": 40,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 17,
     "playersWithPitchingStats": 21,
@@ -1996,6 +1996,94 @@
           "Pitcher"
         ],
         "sourceSummary": "Oregon Athletics roster + Oregon cumulative stats"
+      }
+    },
+    {
+      "id": "oregon-18401",
+      "schoolSlug": "oregon",
+      "school": "Oregon",
+      "schoolLongName": "University of Oregon",
+      "name": "Mark Wiepert",
+      "normalizedName": "mark wiepert",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "19",
+      "hometown": "Wilsonville, Ore.",
+      "highSchool": "Wilsonville HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Wilsonville, Ore. / Wilsonville HS",
+      "profileUrl": "https://goducks.com/sports/baseball/roster/mark-wiepert/18401",
+      "imageUrl": "https://goducks.com/images/2025/7/29/Wiepert__Mark.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18401",
+      "sources": [
+        "Oregon Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Mark Wiepert gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "C",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Oregon Athletics roster"
       }
     },
     {
@@ -5561,9 +5649,9 @@
   "playerBoard": {
     "source": "Oregon Athletics roster + cumulative stats / ESPN roster",
     "note": "This Oregon-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Oregon's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 39,
+    "totalPlayers": 40,
     "roleCounts": {
-      "Hitter": 16,
+      "Hitter": 17,
       "Pitcher": 23
     },
     "players": [
@@ -6462,6 +6550,74 @@
         "schoolSlug": "oregon",
         "compositeRole": "Pitcher",
         "profileUrl": "https://goducks.com/sports/baseball/roster/naulivou-lauaki-jr/17563",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "oregon-18401",
+        "name": "Mark Wiepert",
+        "school": "Oregon",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Mark Wiepert gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "C",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Oregon Athletics roster"
+        ],
+        "sourceSummary": "Oregon Athletics roster",
+        "schoolSlug": "oregon",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goducks.com/sports/baseball/roster/mark-wiepert/18401",
         "espnAthleteId": ""
       },
       {

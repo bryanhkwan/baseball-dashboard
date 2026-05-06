@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.tennessee2026 = {
-  "generatedAt": "2026-05-05T11:39:30.314Z",
+  "generatedAt": "2026-05-06T12:06:53.603Z",
   "season": 2026,
   "school": {
     "slug": "tennessee",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
     }
   },
   "teamSummary": {
-    "record": "31-17, 11-13",
-    "battingAverage": ".275",
-    "earnedRunAverage": "4.49",
-    "wins": "31",
+    "record": "32-17, 11-13",
+    "battingAverage": ".276",
+    "earnedRunAverage": "4.41",
+    "wins": "32",
     "losses": "17",
     "hitting": {
-      "atBats": "1613",
-      "runsScored": "340",
-      "hits": "444",
-      "runsBattedIn": "319",
-      "doubles": "101",
+      "atBats": "1647",
+      "runsScored": "348",
+      "hits": "454",
+      "runsBattedIn": "327",
+      "doubles": "102",
       "triples": "5",
-      "homeRuns": "87",
-      "walks": "205",
+      "homeRuns": "91",
+      "walks": "208",
       "intentionalWalks": "9",
-      "strikeouts": "367",
+      "strikeouts": "372",
       "strikeoutsLooking": "85",
-      "hitByPitch": "55",
-      "stolenBases": "31",
+      "hitByPitch": "57",
+      "stolenBases": "32",
       "caughtStealing": "10",
       "sacrificeHits": "11",
-      "sacrificeFlies": "17",
+      "sacrificeFlies": "18",
       "reachedOnCatchersInteference": "4",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "381",
-      "flyOuts": "421",
+      "groundOuts": "389",
+      "flyOuts": "432",
       "groundedIntoDoublePlay": "28",
       "pickedOff": "4",
       "doublePlaysHitInto": "32",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1276",
-      "assists": "398",
+      "putouts": "1303",
+      "assists": "410",
       "errors": "25",
       "passedBalls": "5",
       "catchersInterference": "0",
       "stolenBasesAgainst": "40",
-      "caughtStealingBy": "15",
+      "caughtStealingBy": "16",
       "involvedInDoublePlays": "20",
       "involvedInTriplePlays": "0",
-      "totalChances": "1699",
-      "fieldingPercentage": ".985"
+      "totalChances": "1738",
+      "fieldingPercentage": ".986"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "31",
+      "wins": "32",
       "saves": "7",
       "losses": "17",
       "gamesStarted": "0",
       "gamesCompleted": "1",
       "shutouts": "3",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "425.1",
-      "hitsAllowed": "381",
-      "runsAllowed": "228",
-      "earnedRunsAllowed": "212",
-      "walksAllowed": "137",
-      "strikeouts": "493",
-      "battersFaced": "1817",
-      "opponentAtBats": "1607",
-      "doublesAllowed": "66",
+      "inningsPitched": "434.1",
+      "hitsAllowed": "384",
+      "runsAllowed": "229",
+      "earnedRunsAllowed": "213",
+      "walksAllowed": "140",
+      "strikeouts": "504",
+      "battersFaced": "1849",
+      "opponentAtBats": "1636",
+      "doublesAllowed": "67",
       "triplesAllowed": "2",
-      "homerunsAllowed": "62",
+      "homerunsAllowed": "63",
       "wildPitches": "15",
       "balks": "6",
       "hitBatters": "57",
-      "strikeoutsLooking": "141",
+      "strikeoutsLooking": "143",
       "intentionalWalks": "3",
       "inheritedRunners": "0",
       "inheritedRunnersThatScored": "0",
       "sacrificeHitsAllowed": "10",
       "sacrificeFliesAllowed": "6",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6984",
-      "flyouts": "384",
-      "groundouts": "351",
+      "pitches": "7115",
+      "flyouts": "391",
+      "groundouts": "359",
       "teamUnearnedRuns": "0",
       "saveRecord": "7",
       "pickoff": "8"
@@ -161,21 +161,21 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "1",
         "profileUrl": "https://utsports.com/sports/baseball/roster/blaine-brown/22649",
         "imageUrl": "https://utsports.com/images/2025/10/8/Brown_Blaine.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 48,
-        "battingAverage": 0.254,
-        "onBasePercentage": 0.317,
-        "sluggingPercentage": 0.513,
-        "ops": 0.83,
-        "atBats": 189,
-        "runs": 39,
+        "gamesPlayed": 49,
+        "gamesStarted": 49,
+        "battingAverage": 0.25,
+        "onBasePercentage": 0.316,
+        "sluggingPercentage": 0.505,
+        "ops": 0.821,
+        "atBats": 192,
+        "runs": 40,
         "hits": 48,
         "doubles": 10,
         "triples": 0,
         "homeRuns": 13,
         "runsBattedIn": 37,
         "totalBases": 97,
-        "walks": 16,
+        "walks": 17,
         "hitByPitch": 2,
         "strikeouts": 43,
         "intentionalWalks": 0,
@@ -184,10 +184,10 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
-        "putouts": 58,
+        "putouts": 60,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 213,
+        "plateAppearances": 217,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -232,19 +232,19 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "1",
         "profileUrl": "https://utsports.com/sports/baseball/roster/blaine-brown/22649",
         "imageUrl": "https://utsports.com/images/2025/10/8/Brown_Blaine.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 29,
-        "putouts": 58,
+        "gamesPlayed": 30,
+        "gamesStarted": 30,
+        "putouts": 60,
         "assists": 1,
         "errors": 1,
-        "fieldingPercentage": 0.983,
+        "fieldingPercentage": 0.984,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 60
+        "totalChances": 62
       },
       "evaluation": {
         "score": 22,
@@ -339,12 +339,12 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "2",
         "profileUrl": "https://utsports.com/sports/baseball/roster/ariel-antigua/22633",
         "imageUrl": "https://utsports.com/images/2025/10/8/Antigua_Ariel.jpg",
-        "gamesPlayed": 30,
+        "gamesPlayed": 31,
         "gamesStarted": 13,
         "battingAverage": 0.2,
-        "onBasePercentage": 0.326,
+        "onBasePercentage": 0.34,
         "sluggingPercentage": 0.371,
-        "ops": 0.697,
+        "ops": 0.711,
         "atBats": 35,
         "runs": 5,
         "hits": 7,
@@ -354,7 +354,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "runsBattedIn": 8,
         "totalBases": 13,
         "walks": 6,
-        "hitByPitch": 2,
+        "hitByPitch": 3,
         "strikeouts": 5,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
@@ -365,7 +365,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "putouts": 22,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 48,
+        "plateAppearances": 49,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -392,13 +392,13 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "totalChances": 49
       },
       "evaluation": {
-        "score": 26,
+        "score": 28,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 25.555555555555546,
+          "On-base": 33.33333333333333,
           "Power": 13.421052631578947,
           "Contact": 0,
           "Discipline": 100,
@@ -407,7 +407,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "summary": "Ariel Antigua profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
           "AVG .200",
-          "OBP .326",
+          "OBP .340",
           "SLG .371"
         ],
         "statCards": [
@@ -417,7 +417,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           },
           {
             "label": "OBP",
-            "value": ".326"
+            "value": ".340"
           },
           {
             "label": "SLG",
@@ -484,20 +484,20 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "4",
         "profileUrl": "https://utsports.com/sports/baseball/roster/manny-marin/22642",
         "imageUrl": "https://utsports.com/images/2025/10/8/Marin_Manny.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 41,
-        "battingAverage": 0.29,
+        "gamesPlayed": 45,
+        "gamesStarted": 42,
+        "battingAverage": 0.291,
         "onBasePercentage": 0.347,
-        "sluggingPercentage": 0.49,
-        "ops": 0.837,
-        "atBats": 155,
-        "runs": 28,
-        "hits": 45,
+        "sluggingPercentage": 0.487,
+        "ops": 0.834,
+        "atBats": 158,
+        "runs": 29,
+        "hits": 46,
         "doubles": 7,
         "triples": 0,
         "homeRuns": 8,
         "runsBattedIn": 34,
-        "totalBases": 76,
+        "totalBases": 77,
         "walks": 10,
         "hitByPitch": 4,
         "strikeouts": 33,
@@ -505,12 +505,12 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 1,
         "sacrificeHits": 2,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 3,
-        "putouts": 62,
+        "stolenBases": 4,
+        "stolenBasesAttempts": 4,
+        "putouts": 64,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 175,
+        "plateAppearances": 179,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -522,10 +522,10 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "4",
         "profileUrl": "https://utsports.com/sports/baseball/roster/manny-marin/22642",
         "imageUrl": "https://utsports.com/images/2025/10/8/Marin_Manny.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 39,
-        "putouts": 62,
-        "assists": 105,
+        "gamesPlayed": 43,
+        "gamesStarted": 40,
+        "putouts": 64,
+        "assists": 106,
         "errors": 4,
         "fieldingPercentage": 0.977,
         "doublePlays": 14,
@@ -534,7 +534,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 171
+        "totalChances": 174
       },
       "evaluation": {
         "score": 34,
@@ -544,21 +544,21 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         },
         "components": {
           "On-base": 37.22222222222219,
-          "Power": 44.73684210526316,
-          "Contact": 43.749999999999986,
+          "Power": 43.94736842105264,
+          "Contact": 44.374999999999986,
           "Discipline": 11.447811447811446,
-          "Speed": 10
+          "Speed": 13.333333333333334
         },
         "summary": "Manny Marin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .290",
+          "AVG .291",
           "OBP .347",
-          "SLG .490"
+          "SLG .487"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".291"
           },
           {
             "label": "OBP",
@@ -566,7 +566,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           },
           {
             "label": "SLG",
-            "value": ".490"
+            "value": ".487"
           },
           {
             "label": "HR",
@@ -578,7 +578,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "4"
           }
         ],
         "metaLine": "SO / N/A",
@@ -629,33 +629,33 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "5",
         "profileUrl": "https://utsports.com/sports/baseball/roster/garrett-wright/22654",
         "imageUrl": "https://utsports.com/images/2025/10/8/Wright_Garrett.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 36,
-        "battingAverage": 0.346,
-        "onBasePercentage": 0.444,
-        "sluggingPercentage": 0.566,
-        "ops": 1.01,
-        "atBats": 136,
-        "runs": 31,
-        "hits": 47,
+        "gamesPlayed": 38,
+        "gamesStarted": 37,
+        "battingAverage": 0.35,
+        "onBasePercentage": 0.446,
+        "sluggingPercentage": 0.586,
+        "ops": 1.032,
+        "atBats": 140,
+        "runs": 32,
+        "hits": 49,
         "doubles": 13,
         "triples": 1,
-        "homeRuns": 5,
-        "runsBattedIn": 21,
-        "totalBases": 77,
+        "homeRuns": 6,
+        "runsBattedIn": 23,
+        "totalBases": 82,
         "walks": 11,
         "hitByPitch": 14,
-        "strikeouts": 23,
+        "strikeouts": 24,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 2,
         "stolenBasesAttempts": 5,
-        "putouts": 118,
+        "putouts": 120,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 170,
+        "plateAppearances": 174,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -667,9 +667,9 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "5",
         "profileUrl": "https://utsports.com/sports/baseball/roster/garrett-wright/22654",
         "imageUrl": "https://utsports.com/images/2025/10/8/Wright_Garrett.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 30,
-        "putouts": 118,
+        "gamesPlayed": 31,
+        "gamesStarted": 31,
+        "putouts": 120,
         "assists": 4,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -679,47 +679,47 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 122
+        "totalChances": 124
       },
       "evaluation": {
-        "score": 65,
+        "score": 67,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 91.1111111111111,
-          "Power": 64.73684210526315,
-          "Contact": 78.74999999999999,
-          "Discipline": 30.917874396135264,
+          "On-base": 92.22222222222221,
+          "Power": 70,
+          "Contact": 81.24999999999999,
+          "Discipline": 28.7037037037037,
           "Speed": 6.666666666666667
         },
         "summary": "Garrett Wright profiles as a C/OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .346",
-          "OBP .444",
-          "SLG .566"
+          "AVG .350",
+          "OBP .446",
+          "SLG .586"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".346"
+            "value": ".350"
           },
           {
             "label": "OBP",
-            "value": ".444"
+            "value": ".446"
           },
           {
             "label": "SLG",
-            "value": ".566"
+            "value": ".586"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "23"
           },
           {
             "label": "SB",
@@ -775,31 +775,31 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "6",
         "profileUrl": "https://utsports.com/sports/baseball/roster/brady-frederick/22650",
         "imageUrl": "https://utsports.com/images/2025/10/8/Frederick_Brady.jpg",
-        "gamesPlayed": 23,
+        "gamesPlayed": 24,
         "gamesStarted": 0,
-        "appearances": 23,
+        "appearances": 24,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.81,
-        "whip": 1.09,
+        "earnedRunAverage": 3.77,
+        "whip": 1.12,
         "wins": 4,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 28.333333333333332,
-        "inningsPitchedDisplay": "28.1",
+        "inningsPitched": 28.666666666666668,
+        "inningsPitchedDisplay": "28.2",
         "hitsAllowed": 22,
         "runsAllowed": 14,
         "earnedRunsAllowed": 12,
-        "walksAllowed": 9,
-        "strikeouts": 31,
+        "walksAllowed": 10,
+        "strikeouts": 32,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 99,
+        "opponentsAtBats": 100,
         "wildPitches": 0,
         "hitBatters": 6,
         "balks": 0,
-        "opponentsBattingAverage": 0.222,
+        "opponentsBattingAverage": 0.22,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -832,40 +832,40 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 53.15508021390375,
-          "Command": 48.88888888888889,
+          "Miss bats": 54.96828752642706,
+          "Command": 44.00000000000001,
           "Damage suppression": 0
         },
-        "summary": "Brady Frederick looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Brady Frederick looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.81",
-          "WHIP 1.09",
-          "K/9 9.8"
+          "ERA 3.77",
+          "WHIP 1.12",
+          "K/9 10.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.81"
+            "value": "3.77"
           },
           {
             "label": "WHIP",
-            "value": "1.09"
+            "value": "1.12"
           },
           {
             "label": "K/9",
-            "value": "9.8"
+            "value": "10.0"
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "3.1"
           },
           {
             "label": "HR/9",
-            "value": "1.27"
+            "value": "1.26"
           },
           {
             "label": "IP",
-            "value": "28.3"
+            "value": "28.7"
           }
         ],
         "metaLine": "JR / N/A",
@@ -917,31 +917,31 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "7",
         "profileUrl": "https://utsports.com/sports/baseball/roster/mark-hindy/22651",
         "imageUrl": "https://utsports.com/images/2025/10/8/Hindy_Mark.jpg",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 0,
-        "appearances": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 9.35,
-        "whip": 1.38,
+        "earnedRunAverage": 9,
+        "whip": 1.44,
         "wins": 2,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 8.666666666666666,
-        "inningsPitchedDisplay": "8.2",
+        "inningsPitched": 9,
+        "inningsPitchedDisplay": "9.0",
         "hitsAllowed": 8,
         "runsAllowed": 9,
         "earnedRunsAllowed": 9,
-        "walksAllowed": 4,
-        "strikeouts": 6,
+        "walksAllowed": 5,
+        "strikeouts": 7,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 32,
+        "opponentsAtBats": 33,
         "wildPitches": 0,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.25,
+        "opponentsBattingAverage": 0.242,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -966,7 +966,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "totalChances": 1
       },
       "evaluation": {
-        "score": 6,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -974,40 +974,40 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 20.27972027972028,
-          "Command": 10,
+          "Miss bats": 27.27272727272727,
+          "Command": 7.999999999999999,
           "Damage suppression": 0
         },
         "summary": "Mark Hindy gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.35",
-          "WHIP 1.38",
-          "K/9 6.2"
+          "ERA 9.00",
+          "WHIP 1.44",
+          "K/9 7.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.35"
+            "value": "9.00"
           },
           {
             "label": "WHIP",
-            "value": "1.38"
+            "value": "1.44"
           },
           {
             "label": "K/9",
-            "value": "6.2"
+            "value": "7.0"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "5.0"
           },
           {
             "label": "HR/9",
-            "value": "1.04"
+            "value": "1.00"
           },
           {
             "label": "IP",
-            "value": "8.7"
+            "value": "9.0"
           }
         ],
         "metaLine": "GR / N/A",
@@ -1058,20 +1058,20 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "8",
         "profileUrl": "https://utsports.com/sports/baseball/roster/jay-abernathy/22631",
         "imageUrl": "https://utsports.com/images/2025/10/8/Abernathy_Jay.jpg",
-        "gamesPlayed": 43,
+        "gamesPlayed": 44,
         "gamesStarted": 33,
-        "battingAverage": 0.235,
-        "onBasePercentage": 0.371,
-        "sluggingPercentage": 0.383,
-        "ops": 0.754,
-        "atBats": 115,
+        "battingAverage": 0.241,
+        "onBasePercentage": 0.376,
+        "sluggingPercentage": 0.388,
+        "ops": 0.764,
+        "atBats": 116,
         "runs": 30,
-        "hits": 27,
+        "hits": 28,
         "doubles": 9,
         "triples": 1,
         "homeRuns": 2,
-        "runsBattedIn": 13,
-        "totalBases": 44,
+        "runsBattedIn": 14,
+        "totalBases": 45,
         "walks": 22,
         "hitByPitch": 3,
         "strikeouts": 31,
@@ -1084,7 +1084,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "putouts": 60,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 151,
+        "plateAppearances": 152,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -1111,36 +1111,36 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "totalChances": 77
       },
       "evaluation": {
-        "score": 32,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 50.55555555555554,
-          "Power": 16.578947368421055,
-          "Contact": 9.374999999999991,
+          "On-base": 53.33333333333332,
+          "Power": 17.894736842105267,
+          "Contact": 13.124999999999995,
           "Discipline": 56.63082437275986,
           "Speed": 20
         },
         "summary": "Jay Abernathy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .235",
-          "OBP .371",
-          "SLG .383"
+          "AVG .241",
+          "OBP .376",
+          "SLG .388"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".235"
+            "value": ".241"
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": ".376"
           },
           {
             "label": "SLG",
-            "value": ".383"
+            "value": ".388"
           },
           {
             "label": "HR",
@@ -1148,7 +1148,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           },
           {
             "label": "RBI",
-            "value": "13"
+            "value": "14"
           },
           {
             "label": "SB",
@@ -1203,13 +1203,13 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "9",
         "profileUrl": "https://utsports.com/sports/baseball/roster/henry-ford/22648",
         "imageUrl": "https://utsports.com/images/2025/10/8/Ford_Henry.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 46,
-        "battingAverage": 0.311,
-        "onBasePercentage": 0.369,
-        "sluggingPercentage": 0.606,
-        "ops": 0.975,
-        "atBats": 193,
+        "gamesPlayed": 47,
+        "gamesStarted": 47,
+        "battingAverage": 0.305,
+        "onBasePercentage": 0.365,
+        "sluggingPercentage": 0.594,
+        "ops": 0.959,
+        "atBats": 197,
         "runs": 41,
         "hits": 60,
         "doubles": 12,
@@ -1217,7 +1217,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "homeRuns": 15,
         "runsBattedIn": 49,
         "totalBases": 117,
-        "walks": 19,
+        "walks": 20,
         "hitByPitch": 0,
         "strikeouts": 37,
         "intentionalWalks": 1,
@@ -1229,7 +1229,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "putouts": 23,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 221,
+        "plateAppearances": 226,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1241,51 +1241,51 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "9",
         "profileUrl": "https://utsports.com/sports/baseball/roster/henry-ford/22648",
         "imageUrl": "https://utsports.com/images/2025/10/8/Ford_Henry.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
         "putouts": 23,
-        "assists": 68,
+        "assists": 70,
         "errors": 4,
-        "fieldingPercentage": 0.958,
+        "fieldingPercentage": 0.959,
         "doublePlays": 5,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 95
+        "totalChances": 97
       },
       "evaluation": {
-        "score": 52,
+        "score": 50,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 49.44444444444443,
-          "Power": 75.26315789473685,
-          "Contact": 56.875,
-          "Discipline": 34.83483483483483,
+          "On-base": 47.22222222222221,
+          "Power": 72.10526315789474,
+          "Contact": 53.124999999999986,
+          "Discipline": 37.83783783783783,
           "Speed": 10
         },
         "summary": "Henry Ford profiles as a INF/OF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .311",
-          "OBP .369",
-          "SLG .606"
+          "AVG .305",
+          "OBP .365",
+          "SLG .594"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".311"
+            "value": ".305"
           },
           {
             "label": "OBP",
-            "value": ".369"
+            "value": ".365"
           },
           {
             "label": "SLG",
-            "value": ".606"
+            "value": ".594"
           },
           {
             "label": "HR",
@@ -1635,20 +1635,20 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "13",
         "profileUrl": "https://utsports.com/sports/baseball/roster/reese-chapman/22635",
         "imageUrl": "https://utsports.com/images/2025/10/8/Chapman_Reese.jpg",
-        "gamesPlayed": 47,
-        "gamesStarted": 47,
-        "battingAverage": 0.293,
-        "onBasePercentage": 0.411,
-        "sluggingPercentage": 0.524,
-        "ops": 0.935,
-        "atBats": 164,
-        "runs": 39,
-        "hits": 48,
+        "gamesPlayed": 48,
+        "gamesStarted": 48,
+        "battingAverage": 0.299,
+        "onBasePercentage": 0.415,
+        "sluggingPercentage": 0.527,
+        "ops": 0.942,
+        "atBats": 167,
+        "runs": 40,
+        "hits": 50,
         "doubles": 17,
         "triples": 0,
         "homeRuns": 7,
         "runsBattedIn": 32,
-        "totalBases": 86,
+        "totalBases": 88,
         "walks": 29,
         "hitByPitch": 4,
         "strikeouts": 40,
@@ -1658,10 +1658,10 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "sacrificeHits": 1,
         "stolenBases": 7,
         "stolenBasesAttempts": 7,
-        "putouts": 73,
+        "putouts": 75,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 208,
+        "plateAppearances": 211,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1673,51 +1673,51 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "13",
         "profileUrl": "https://utsports.com/sports/baseball/roster/reese-chapman/22635",
         "imageUrl": "https://utsports.com/images/2025/10/8/Chapman_Reese.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "putouts": 73,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "putouts": 75,
         "assists": 3,
         "errors": 2,
-        "fieldingPercentage": 0.974,
+        "fieldingPercentage": 0.975,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 78
+        "totalChances": 80
       },
       "evaluation": {
-        "score": 56,
+        "score": 58,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 72.77777777777776,
-          "Power": 53.6842105263158,
-          "Contact": 45.624999999999986,
+          "On-base": 74.99999999999997,
+          "Power": 54.47368421052633,
+          "Contact": 49.37499999999999,
           "Discipline": 58.333333333333314,
           "Speed": 23.333333333333332
         },
         "summary": "Reese Chapman profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .293",
-          "OBP .411",
-          "SLG .524"
+          "AVG .299",
+          "OBP .415",
+          "SLG .527"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".293"
+            "value": ".299"
           },
           {
             "label": "OBP",
-            "value": ".411"
+            "value": ".415"
           },
           {
             "label": "SLG",
-            "value": ".524"
+            "value": ".527"
           },
           {
             "label": "HR",
@@ -1780,20 +1780,20 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "14",
         "profileUrl": "https://utsports.com/sports/baseball/roster/blake-grimmer/22637",
         "imageUrl": "https://utsports.com/images/2025/10/8/Grimmer_Blake.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "battingAverage": 0.274,
-        "onBasePercentage": 0.385,
-        "sluggingPercentage": 0.533,
-        "ops": 0.918,
-        "atBats": 135,
-        "runs": 32,
-        "hits": 37,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "battingAverage": 0.273,
+        "onBasePercentage": 0.382,
+        "sluggingPercentage": 0.547,
+        "ops": 0.929,
+        "atBats": 139,
+        "runs": 33,
+        "hits": 38,
         "doubles": 5,
         "triples": 0,
-        "homeRuns": 10,
-        "runsBattedIn": 26,
-        "totalBases": 72,
+        "homeRuns": 11,
+        "runsBattedIn": 27,
+        "totalBases": 76,
         "walks": 22,
         "hitByPitch": 3,
         "strikeouts": 44,
@@ -1806,7 +1806,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "putouts": 149,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 162,
+        "plateAppearances": 166,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1818,10 +1818,10 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "14",
         "profileUrl": "https://utsports.com/sports/baseball/roster/blake-grimmer/22637",
         "imageUrl": "https://utsports.com/images/2025/10/8/Grimmer_Blake.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
         "putouts": 149,
-        "assists": 45,
+        "assists": 48,
         "errors": 2,
         "fieldingPercentage": 0.99,
         "doublePlays": 11,
@@ -1830,47 +1830,47 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 196
+        "totalChances": 199
       },
       "evaluation": {
-        "score": 44,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 58.33333333333333,
-          "Power": 56.052631578947384,
-          "Contact": 33.750000000000014,
+          "On-base": 56.66666666666666,
+          "Power": 59.73684210526318,
+          "Contact": 33.12500000000001,
           "Discipline": 33.33333333333333,
           "Speed": 3.3333333333333335
         },
         "summary": "Blake Grimmer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .274",
-          "OBP .385",
-          "SLG .533"
+          "AVG .273",
+          "OBP .382",
+          "SLG .547"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".274"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".385"
+            "value": ".382"
           },
           {
             "label": "SLG",
-            "value": ".533"
+            "value": ".547"
           },
           {
             "label": "HR",
-            "value": "10"
+            "value": "11"
           },
           {
             "label": "RBI",
-            "value": "26"
+            "value": "27"
           },
           {
             "label": "SB",
@@ -1925,13 +1925,13 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "15",
         "profileUrl": "https://utsports.com/sports/baseball/roster/hunter-high/22638",
         "imageUrl": "https://utsports.com/images/2025/10/8/High_Hunter.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 1,
-        "battingAverage": 0.273,
-        "onBasePercentage": 0.308,
-        "sluggingPercentage": 0.455,
-        "ops": 0.763,
-        "atBats": 11,
+        "battingAverage": 0.25,
+        "onBasePercentage": 0.286,
+        "sluggingPercentage": 0.417,
+        "ops": 0.703,
+        "atBats": 12,
         "runs": 2,
         "hits": 3,
         "doubles": 0,
@@ -1951,7 +1951,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "putouts": 14,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 13,
+        "plateAppearances": 14,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1978,36 +1978,36 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "totalChances": 17
       },
       "evaluation": {
-        "score": 25,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 15.55555555555554,
-          "Power": 35.52631578947369,
-          "Contact": 33.12500000000001,
+          "On-base": 3.3333333333333055,
+          "Power": 25.52631578947368,
+          "Contact": 18.75,
           "Discipline": 33.33333333333333,
           "Speed": 0
         },
         "summary": "Hunter High gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .273",
-          "OBP .308",
-          "SLG .455"
+          "AVG .250",
+          "OBP .286",
+          "SLG .417"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".273"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".308"
+            "value": ".286"
           },
           {
             "label": "SLG",
-            "value": ".455"
+            "value": ".417"
           },
           {
             "label": "HR",
@@ -2070,20 +2070,20 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "16",
         "profileUrl": "https://utsports.com/sports/baseball/roster/levi-clark/22636",
         "imageUrl": "https://utsports.com/images/2025/10/8/Clark_Levi.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 42,
+        "gamesPlayed": 44,
+        "gamesStarted": 43,
         "battingAverage": 0.221,
-        "onBasePercentage": 0.346,
-        "sluggingPercentage": 0.469,
-        "ops": 0.815,
-        "atBats": 145,
-        "runs": 30,
-        "hits": 32,
+        "onBasePercentage": 0.344,
+        "sluggingPercentage": 0.483,
+        "ops": 0.827,
+        "atBats": 149,
+        "runs": 31,
+        "hits": 33,
         "doubles": 9,
         "triples": 0,
-        "homeRuns": 9,
-        "runsBattedIn": 34,
-        "totalBases": 68,
+        "homeRuns": 10,
+        "runsBattedIn": 36,
+        "totalBases": 72,
         "walks": 22,
         "hitByPitch": 8,
         "strikeouts": 33,
@@ -2093,10 +2093,10 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "sacrificeHits": 0,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 329,
+        "putouts": 337,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 181,
+        "plateAppearances": 185,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -2108,10 +2108,10 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "16",
         "profileUrl": "https://utsports.com/sports/baseball/roster/levi-clark/22636",
         "imageUrl": "https://utsports.com/images/2025/10/8/Clark_Levi.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "putouts": 329,
-        "assists": 29,
+        "gamesPlayed": 43,
+        "gamesStarted": 43,
+        "putouts": 337,
+        "assists": 31,
         "errors": 1,
         "fieldingPercentage": 0.997,
         "doublePlays": 8,
@@ -2120,17 +2120,17 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 359
+        "totalChances": 369
       },
       "evaluation": {
-        "score": 30,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 36.666666666666636,
-          "Power": 39.210526315789465,
+          "On-base": 35.55555555555553,
+          "Power": 42.89473684210526,
           "Contact": 0.6250000000000006,
           "Discipline": 51.85185185185184,
           "Speed": 6.666666666666667
@@ -2138,8 +2138,8 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "summary": "Levi Clark gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .221",
-          "OBP .346",
-          "SLG .469"
+          "OBP .344",
+          "SLG .483"
         ],
         "statCards": [
           {
@@ -2148,19 +2148,19 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           },
           {
             "label": "OBP",
-            "value": ".346"
+            "value": ".344"
           },
           {
             "label": "SLG",
-            "value": ".469"
+            "value": ".483"
           },
           {
             "label": "HR",
-            "value": "9"
+            "value": "10"
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "36"
           },
           {
             "label": "SB",
@@ -2215,13 +2215,13 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "17",
         "profileUrl": "https://utsports.com/sports/baseball/roster/nate-eisfelder/22704",
         "imageUrl": "https://utsports.com/images/2025/10/8/Eisfelder_Nathan.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 2,
-        "battingAverage": 0.333,
-        "onBasePercentage": 0.556,
-        "sluggingPercentage": 0.833,
-        "ops": 1.389,
-        "atBats": 12,
+        "battingAverage": 0.308,
+        "onBasePercentage": 0.526,
+        "sluggingPercentage": 0.769,
+        "ops": 1.295,
+        "atBats": 13,
         "runs": 3,
         "hits": 4,
         "doubles": 0,
@@ -2241,7 +2241,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "putouts": 6,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 18,
+        "plateAppearances": 19,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2268,7 +2268,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "totalChances": 6
       },
       "evaluation": {
-        "score": 85,
+        "score": 82,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
@@ -2276,28 +2276,28 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "components": {
           "On-base": 100,
           "Power": 100,
-          "Contact": 70.625,
+          "Contact": 54.99999999999999,
           "Discipline": 100,
           "Speed": 0
         },
         "summary": "Nate Eisfelder profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .333",
-          "OBP .556",
-          "SLG .833"
+          "AVG .308",
+          "OBP .526",
+          "SLG .769"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".333"
+            "value": ".308"
           },
           {
             "label": "OBP",
-            "value": ".556"
+            "value": ".526"
           },
           {
             "label": "SLG",
-            "value": ".833"
+            "value": ".769"
           },
           {
             "label": "HR",
@@ -2644,20 +2644,20 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "20",
         "profileUrl": "https://utsports.com/sports/baseball/roster/tyler-myatt/22686",
         "imageUrl": "https://utsports.com/images/2025/10/8/Myatt_Tyler.jpg",
-        "gamesPlayed": 31,
+        "gamesPlayed": 32,
         "gamesStarted": 17,
-        "battingAverage": 0.239,
-        "onBasePercentage": 0.337,
-        "sluggingPercentage": 0.437,
-        "ops": 0.774,
-        "atBats": 71,
-        "runs": 9,
-        "hits": 17,
-        "doubles": 5,
+        "battingAverage": 0.25,
+        "onBasePercentage": 0.345,
+        "sluggingPercentage": 0.458,
+        "ops": 0.803,
+        "atBats": 72,
+        "runs": 10,
+        "hits": 18,
+        "doubles": 6,
         "triples": 0,
         "homeRuns": 3,
         "runsBattedIn": 12,
-        "totalBases": 31,
+        "totalBases": 33,
         "walks": 8,
         "hitByPitch": 3,
         "strikeouts": 24,
@@ -2670,7 +2670,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "putouts": 16,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 86,
+        "plateAppearances": 87,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2697,36 +2697,36 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "totalChances": 35
       },
       "evaluation": {
-        "score": 23,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 31.666666666666664,
-          "Power": 30.789473684210527,
-          "Contact": 11.874999999999993,
+          "On-base": 36.111111111111086,
+          "Power": 36.31578947368422,
+          "Contact": 18.75,
           "Discipline": 14.814814814814808,
           "Speed": 3.3333333333333335
         },
         "summary": "Tyler Myatt gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .239",
-          "OBP .337",
-          "SLG .437"
+          "AVG .250",
+          "OBP .345",
+          "SLG .458"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".239"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".337"
+            "value": ".345"
           },
           {
             "label": "SLG",
-            "value": ".437"
+            "value": ".458"
           },
           {
             "label": "HR",
@@ -3073,7 +3073,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "26",
         "profileUrl": "https://utsports.com/sports/baseball/roster/chris-newstrom/22643",
         "imageUrl": "https://utsports.com/images/2025/10/8/Nerwstrom_Chris.jpg",
-        "gamesPlayed": 25,
+        "gamesPlayed": 26,
         "gamesStarted": 15,
         "battingAverage": 0.173,
         "onBasePercentage": 0.267,
@@ -3218,33 +3218,33 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "27",
         "profileUrl": "https://utsports.com/sports/baseball/roster/stone-lawless/22641",
         "imageUrl": "https://utsports.com/images/2025/10/8/Lawless_Stone.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 27,
-        "battingAverage": 0.241,
-        "onBasePercentage": 0.385,
-        "sluggingPercentage": 0.46,
-        "ops": 0.845,
-        "atBats": 87,
+        "gamesPlayed": 32,
+        "gamesStarted": 28,
+        "battingAverage": 0.239,
+        "onBasePercentage": 0.389,
+        "sluggingPercentage": 0.455,
+        "ops": 0.844,
+        "atBats": 88,
         "runs": 18,
         "hits": 21,
         "doubles": 4,
         "triples": 0,
         "homeRuns": 5,
-        "runsBattedIn": 14,
+        "runsBattedIn": 15,
         "totalBases": 40,
-        "walks": 16,
-        "hitByPitch": 5,
-        "strikeouts": 17,
+        "walks": 17,
+        "hitByPitch": 6,
+        "strikeouts": 18,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 1,
+        "sacrificeFlies": 2,
         "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 249,
+        "putouts": 259,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 113,
+        "plateAppearances": 117,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -3256,51 +3256,51 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "27",
         "profileUrl": "https://utsports.com/sports/baseball/roster/stone-lawless/22641",
         "imageUrl": "https://utsports.com/images/2025/10/8/Lawless_Stone.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 24,
-        "putouts": 249,
-        "assists": 18,
+        "gamesPlayed": 27,
+        "gamesStarted": 25,
+        "putouts": 259,
+        "assists": 21,
         "errors": 2,
         "fieldingPercentage": 0.993,
         "doublePlays": 2,
         "stolenBasesAgainst": 29,
-        "caughtStealingBy": 6,
+        "caughtStealingBy": 7,
         "stolenBasesPercentage": null,
         "passedBalls": 3,
         "catchersInterference": 0,
-        "totalChances": 269
+        "totalChances": 282
       },
       "evaluation": {
-        "score": 42,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 58.33333333333333,
-          "Power": 36.842105263157904,
-          "Contact": 13.124999999999995,
-          "Discipline": 82.35294117647058,
+          "On-base": 60.55555555555555,
+          "Power": 35.52631578947369,
+          "Contact": 11.874999999999993,
+          "Discipline": 82.71604938271604,
           "Speed": 3.3333333333333335
         },
         "summary": "Stone Lawless gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .241",
-          "OBP .385",
-          "SLG .460"
+          "AVG .239",
+          "OBP .389",
+          "SLG .455"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".241"
+            "value": ".239"
           },
           {
             "label": "OBP",
-            "value": ".385"
+            "value": ".389"
           },
           {
             "label": "SLG",
-            "value": ".460"
+            "value": ".455"
           },
           {
             "label": "HR",
@@ -3308,7 +3308,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           },
           {
             "label": "RBI",
-            "value": "14"
+            "value": "15"
           },
           {
             "label": "SB",
@@ -3451,7 +3451,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "29",
         "profileUrl": "https://utsports.com/sports/baseball/roster/taylor-tracey/22715",
         "imageUrl": "https://utsports.com/images/2025/10/8/Tracey_Taylor.jpg",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 4,
         "battingAverage": 0,
         "onBasePercentage": 0,
@@ -3488,31 +3488,31 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "29",
         "profileUrl": "https://utsports.com/sports/baseball/roster/taylor-tracey/22715",
         "imageUrl": "https://utsports.com/images/2025/10/8/Tracey_Taylor.jpg",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 4,
-        "appearances": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 1.53,
-        "whip": 1.19,
+        "earnedRunAverage": 1.45,
+        "whip": 1.18,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 17.666666666666668,
-        "inningsPitchedDisplay": "17.2",
+        "inningsPitched": 18.666666666666668,
+        "inningsPitchedDisplay": "18.2",
         "hitsAllowed": 10,
         "runsAllowed": 6,
         "earnedRunsAllowed": 3,
-        "walksAllowed": 11,
-        "strikeouts": 26,
+        "walksAllowed": 12,
+        "strikeouts": 28,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 63,
+        "opponentsAtBats": 66,
         "wildPitches": 1,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.159,
+        "opponentsBattingAverage": 0.152,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3537,7 +3537,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "totalChances": 3
       },
       "evaluation": {
-        "score": 21,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3545,40 +3545,40 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 84.04802744425385,
-          "Command": 27.272727272727266,
+          "Miss bats": 86.36363636363636,
+          "Command": 26.66666666666667,
           "Damage suppression": 0
         },
         "summary": "Taylor Tracey looks like a LHP/OF option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.53",
-          "WHIP 1.19",
-          "K/9 13.2"
+          "ERA 1.45",
+          "WHIP 1.18",
+          "K/9 13.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.53"
+            "value": "1.45"
           },
           {
             "label": "WHIP",
-            "value": "1.19"
+            "value": "1.18"
           },
           {
             "label": "K/9",
-            "value": "13.2"
+            "value": "13.5"
           },
           {
             "label": "BB/9",
-            "value": "5.6"
+            "value": "5.8"
           },
           {
             "label": "HR/9",
-            "value": "0.51"
+            "value": "0.48"
           },
           {
             "label": "IP",
-            "value": "17.7"
+            "value": "18.7"
           }
         ],
         "metaLine": "FR / N/A",
@@ -3629,23 +3629,23 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "30",
         "profileUrl": "https://utsports.com/sports/baseball/roster/trent-grindlinger/22710",
         "imageUrl": "https://utsports.com/images/2025/10/8/Grindlinger_Trent.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 24,
-        "battingAverage": 0.376,
-        "onBasePercentage": 0.458,
-        "sluggingPercentage": 0.613,
-        "ops": 1.071,
-        "atBats": 93,
-        "runs": 17,
-        "hits": 35,
+        "gamesPlayed": 32,
+        "gamesStarted": 25,
+        "battingAverage": 0.371,
+        "onBasePercentage": 0.45,
+        "sluggingPercentage": 0.629,
+        "ops": 1.079,
+        "atBats": 97,
+        "runs": 18,
+        "hits": 36,
         "doubles": 5,
         "triples": 1,
-        "homeRuns": 5,
-        "runsBattedIn": 20,
-        "totalBases": 57,
+        "homeRuns": 6,
+        "runsBattedIn": 21,
+        "totalBases": 61,
         "walks": 10,
         "hitByPitch": 4,
-        "strikeouts": 12,
+        "strikeouts": 15,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 0,
@@ -3655,7 +3655,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "putouts": 39,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 112,
+        "plateAppearances": 116,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -3682,44 +3682,44 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "totalChances": 41
       },
       "evaluation": {
-        "score": 79,
+        "score": 76,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 98.88888888888889,
-          "Power": 77.10526315789474,
-          "Contact": 97.5,
-          "Discipline": 70.37037037037037,
+          "On-base": 94.44444444444444,
+          "Power": 81.31578947368422,
+          "Contact": 94.375,
+          "Discipline": 51.85185185185184,
           "Speed": 0
         },
         "summary": "Trent Grindlinger profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .376",
-          "OBP .458",
-          "SLG .613"
+          "AVG .371",
+          "OBP .450",
+          "SLG .629"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".376"
+            "value": ".371"
           },
           {
             "label": "OBP",
-            "value": ".458"
+            "value": ".450"
           },
           {
             "label": "SLG",
-            "value": ".613"
+            "value": ".629"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "21"
           },
           {
             "label": "SB",
@@ -4150,31 +4150,31 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "34",
         "profileUrl": "https://utsports.com/sports/baseball/roster/brayden-krenzel/22639",
         "imageUrl": "https://utsports.com/images/2025/10/8/Krenzel_Brayden.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 0,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.75,
-        "whip": 1.43,
+        "earnedRunAverage": 6.6,
+        "whip": 1.4,
         "wins": 2,
         "losses": 3,
         "saves": 2,
         "shutouts": 0,
-        "inningsPitched": 14.666666666666666,
-        "inningsPitchedDisplay": "14.2",
+        "inningsPitched": 15,
+        "inningsPitchedDisplay": "15.0",
         "hitsAllowed": 12,
         "runsAllowed": 12,
         "earnedRunsAllowed": 11,
         "walksAllowed": 9,
-        "strikeouts": 24,
+        "strikeouts": 25,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 56,
+        "opponentsAtBats": 57,
         "wildPitches": 4,
         "hitBatters": 7,
         "balks": 0,
-        "opponentsBattingAverage": 0.214,
+        "opponentsBattingAverage": 0.211,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4199,7 +4199,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 25,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4207,40 +4207,40 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 97.5206611570248,
-          "Command": 33.33333333333333,
+          "Miss bats": 100,
+          "Command": 35.55555555555555,
           "Damage suppression": 0
         },
         "summary": "Brayden Krenzel looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 1.43",
-          "K/9 14.7"
+          "ERA 6.60",
+          "WHIP 1.40",
+          "K/9 15.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "6.60"
           },
           {
             "label": "WHIP",
-            "value": "1.43"
+            "value": "1.40"
           },
           {
             "label": "K/9",
-            "value": "14.7"
+            "value": "15.0"
           },
           {
             "label": "BB/9",
-            "value": "5.5"
+            "value": "5.4"
           },
           {
             "label": "HR/9",
-            "value": "1.23"
+            "value": "1.20"
           },
           {
             "label": "IP",
-            "value": "14.7"
+            "value": "15.0"
           }
         ],
         "metaLine": "SO / N/A",
@@ -4610,31 +4610,31 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "38",
         "profileUrl": "https://utsports.com/sports/baseball/roster/ethan-baiotto/22701",
         "imageUrl": "https://utsports.com/images/2025/10/8/Baiotto_Ethan.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 2,
-        "appearances": 11,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.35,
-        "whip": 1.29,
-        "wins": 2,
+        "earnedRunAverage": 5.49,
+        "whip": 1.12,
+        "wins": 3,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 17,
-        "inningsPitchedDisplay": "17.0",
+        "inningsPitched": 19.666666666666668,
+        "inningsPitchedDisplay": "19.2",
         "hitsAllowed": 18,
         "runsAllowed": 12,
         "earnedRunsAllowed": 12,
         "walksAllowed": 4,
-        "strikeouts": 10,
+        "strikeouts": 12,
         "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 68,
+        "opponentsAtBats": 76,
         "wildPitches": 0,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.265,
+        "opponentsBattingAverage": 0.237,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4644,22 +4644,22 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "38",
         "profileUrl": "https://utsports.com/sports/baseball/roster/ethan-baiotto/22701",
         "imageUrl": "https://utsports.com/images/2025/10/8/Baiotto_Ethan.jpg",
-        "gamesPlayed": 6,
+        "gamesPlayed": 7,
         "gamesStarted": 2,
         "putouts": 0,
-        "assists": 7,
+        "assists": 8,
         "errors": 1,
-        "fieldingPercentage": 0.875,
+        "fieldingPercentage": 0.889,
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 8
+        "totalChances": 9
       },
       "evaluation": {
-        "score": 7,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4667,40 +4667,40 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 11.76470588235294,
-          "Command": 30,
+          "Miss bats": 13.559322033898303,
+          "Command": 40,
           "Damage suppression": 0
         },
-        "summary": "Ethan Baiotto looks like a RHP option who throws enough strikes.",
+        "summary": "Ethan Baiotto looks like a RHP option who throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 6.35",
-          "WHIP 1.29",
-          "K/9 5.3"
+          "ERA 5.49",
+          "WHIP 1.12",
+          "K/9 5.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.35"
+            "value": "5.49"
           },
           {
             "label": "WHIP",
-            "value": "1.29"
+            "value": "1.12"
           },
           {
             "label": "K/9",
-            "value": "5.3"
+            "value": "5.5"
           },
           {
             "label": "BB/9",
-            "value": "2.1"
+            "value": "1.8"
           },
           {
             "label": "HR/9",
-            "value": "1.59"
+            "value": "1.37"
           },
           {
             "label": "IP",
-            "value": "17.0"
+            "value": "19.7"
           }
         ],
         "metaLine": "FR / N/A",
@@ -4840,31 +4840,31 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "42",
         "profileUrl": "https://utsports.com/sports/baseball/roster/will-haas/22706",
         "imageUrl": "https://utsports.com/images/2025/10/8/Haas_Will.jpg",
-        "gamesPlayed": 8,
+        "gamesPlayed": 9,
         "gamesStarted": 0,
-        "appearances": 8,
+        "appearances": 9,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.94,
-        "whip": 1.59,
+        "earnedRunAverage": 6.75,
+        "whip": 1.35,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 5.666666666666667,
-        "inningsPitchedDisplay": "5.2",
+        "inningsPitched": 6.666666666666667,
+        "inningsPitchedDisplay": "6.2",
         "hitsAllowed": 7,
         "runsAllowed": 5,
         "earnedRunsAllowed": 5,
         "walksAllowed": 2,
-        "strikeouts": 9,
+        "strikeouts": 12,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 23,
+        "opponentsAtBats": 26,
         "wildPitches": 1,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.304,
+        "opponentsBattingAverage": 0.269,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4889,7 +4889,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "totalChances": 1
       },
       "evaluation": {
-        "score": 30,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4897,40 +4897,40 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 93.58288770053474,
-          "Command": 70,
+          "Miss bats": 100,
+          "Command": 100,
           "Damage suppression": 0
         },
-        "summary": "Will Haas looks like a LHP option who misses bats.",
+        "summary": "Will Haas looks like a LHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 7.94",
-          "WHIP 1.59",
-          "K/9 14.3"
+          "ERA 6.75",
+          "WHIP 1.35",
+          "K/9 16.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.94"
+            "value": "6.75"
           },
           {
             "label": "WHIP",
-            "value": "1.59"
+            "value": "1.35"
           },
           {
             "label": "K/9",
-            "value": "14.3"
+            "value": "16.2"
           },
           {
             "label": "BB/9",
-            "value": "3.2"
+            "value": "2.7"
           },
           {
             "label": "HR/9",
-            "value": "1.59"
+            "value": "1.35"
           },
           {
             "label": "IP",
-            "value": "5.7"
+            "value": "6.7"
           }
         ],
         "metaLine": "FR / N/A",
@@ -4982,31 +4982,31 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "44",
         "profileUrl": "https://utsports.com/sports/baseball/roster/nic-abraham/22632",
         "imageUrl": "https://utsports.com/images/2025/10/8/Abraham_Nic.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 1,
-        "appearances": 13,
+        "gamesPlayed": 14,
+        "gamesStarted": 2,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.97,
-        "whip": 1.22,
+        "earnedRunAverage": 4.94,
+        "whip": 1.21,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 25.333333333333332,
-        "inningsPitchedDisplay": "25.1",
-        "hitsAllowed": 25,
-        "runsAllowed": 15,
-        "earnedRunsAllowed": 14,
+        "inningsPitched": 27.333333333333332,
+        "inningsPitchedDisplay": "27.1",
+        "hitsAllowed": 27,
+        "runsAllowed": 16,
+        "earnedRunsAllowed": 15,
         "walksAllowed": 6,
         "strikeouts": 14,
-        "doublesAllowed": 3,
+        "doublesAllowed": 4,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 99,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 107,
         "wildPitches": 0,
         "hitBatters": 7,
         "balks": 0,
-        "opponentsBattingAverage": 0.253,
+        "opponentsBattingAverage": 0.252,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5016,9 +5016,9 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "44",
         "profileUrl": "https://utsports.com/sports/baseball/roster/nic-abraham/22632",
         "imageUrl": "https://utsports.com/images/2025/10/8/Abraham_Nic.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 0,
-        "putouts": 0,
+        "gamesPlayed": 6,
+        "gamesStarted": 1,
+        "putouts": 1,
         "assists": 4,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -5028,10 +5028,10 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 4
+        "totalChances": 5
       },
       "evaluation": {
-        "score": 6,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5039,40 +5039,40 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 8.851674641148326,
-          "Command": 26.66666666666666,
+          "Miss bats": 5.543237250554329,
+          "Command": 26.66666666666667,
           "Damage suppression": 0
         },
         "summary": "Nic Abraham looks like a RHP option who throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.97",
-          "WHIP 1.22",
-          "K/9 5.0"
+          "ERA 4.94",
+          "WHIP 1.21",
+          "K/9 4.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.97"
+            "value": "4.94"
           },
           {
             "label": "WHIP",
-            "value": "1.22"
+            "value": "1.21"
           },
           {
             "label": "K/9",
-            "value": "5.0"
+            "value": "4.6"
           },
           {
             "label": "BB/9",
-            "value": "2.1"
+            "value": "2.0"
           },
           {
             "label": "HR/9",
-            "value": "0.71"
+            "value": "0.99"
           },
           {
             "label": "IP",
-            "value": "25.3"
+            "value": "27.3"
           }
         ],
         "metaLine": "SO / N/A",
@@ -5246,31 +5246,31 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "48",
         "profileUrl": "https://utsports.com/sports/baseball/roster/chandler-day/22709",
         "imageUrl": "https://utsports.com/images/2025/10/8/Day_Chandler.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 0,
-        "appearances": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 9,
-        "whip": 1.67,
+        "earnedRunAverage": 7.36,
+        "whip": 1.5,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 6,
-        "inningsPitchedDisplay": "6.0",
-        "hitsAllowed": 9,
+        "inningsPitched": 7.333333333333333,
+        "inningsPitchedDisplay": "7.1",
+        "hitsAllowed": 10,
         "runsAllowed": 6,
         "earnedRunsAllowed": 6,
         "walksAllowed": 1,
-        "strikeouts": 7,
+        "strikeouts": 8,
         "doublesAllowed": 1,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 26,
+        "opponentsAtBats": 30,
         "wildPitches": 1,
         "hitBatters": 0,
         "balks": 0,
-        "opponentsBattingAverage": 0.346,
+        "opponentsBattingAverage": 0.333,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5280,7 +5280,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "jersey": "48",
         "profileUrl": "https://utsports.com/sports/baseball/roster/chandler-day/22709",
         "imageUrl": "https://utsports.com/images/2025/10/8/Day_Chandler.jpg",
-        "gamesPlayed": 1,
+        "gamesPlayed": 2,
         "gamesStarted": 0,
         "putouts": 1,
         "assists": 0,
@@ -5288,14 +5288,14 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "fieldingPercentage": 1,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
+        "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
       },
       "evaluation": {
-        "score": 28,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5303,40 +5303,40 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 59.09090909090909,
+          "Miss bats": 52.892561983471076,
           "Command": 100,
           "Damage suppression": 0
         },
         "summary": "Chandler Day looks like a LHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 9.00",
-          "WHIP 1.67",
-          "K/9 10.5"
+          "ERA 7.36",
+          "WHIP 1.50",
+          "K/9 9.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.00"
+            "value": "7.36"
           },
           {
             "label": "WHIP",
-            "value": "1.67"
-          },
-          {
-            "label": "K/9",
-            "value": "10.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "1.5"
-          },
-          {
-            "label": "HR/9",
             "value": "1.50"
           },
           {
+            "label": "K/9",
+            "value": "9.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "1.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.23"
+          },
+          {
             "label": "IP",
-            "value": "6.0"
+            "value": "7.3"
           }
         ],
         "metaLine": "FR / N/A",
@@ -5524,7 +5524,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 26,
+        "score": 28,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5532,7 +5532,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "summary": "Ariel Antigua profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
           "AVG .200",
-          "OBP .326",
+          "OBP .340",
           "SLG .371"
         ],
         "statCards": [
@@ -5542,7 +5542,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           },
           {
             "label": "OBP",
-            "value": ".326"
+            "value": ".340"
           },
           {
             "label": "SLG",
@@ -5562,7 +5562,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           }
         ],
         "components": {
-          "On-base": 25.555555555555546,
+          "On-base": 33.33333333333333,
           "Power": 13.421052631578947,
           "Contact": 0,
           "Discipline": 100,
@@ -5600,14 +5600,14 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         },
         "summary": "Manny Marin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .290",
+          "AVG .291",
           "OBP .347",
-          "SLG .490"
+          "SLG .487"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".291"
           },
           {
             "label": "OBP",
@@ -5615,7 +5615,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           },
           {
             "label": "SLG",
-            "value": ".490"
+            "value": ".487"
           },
           {
             "label": "HR",
@@ -5627,15 +5627,15 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "4"
           }
         ],
         "components": {
           "On-base": 37.22222222222219,
-          "Power": 44.73684210526316,
-          "Contact": 43.749999999999986,
+          "Power": 43.94736842105264,
+          "Contact": 44.374999999999986,
           "Discipline": 11.447811447811446,
-          "Speed": 10
+          "Speed": 13.333333333333334
         },
         "metaLine": "SO / N/A",
         "detailBadges": [
@@ -5662,37 +5662,37 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "position": "C/OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 65,
+        "score": 67,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Garrett Wright profiles as a C/OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .346",
-          "OBP .444",
-          "SLG .566"
+          "AVG .350",
+          "OBP .446",
+          "SLG .586"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".346"
+            "value": ".350"
           },
           {
             "label": "OBP",
-            "value": ".444"
+            "value": ".446"
           },
           {
             "label": "SLG",
-            "value": ".566"
+            "value": ".586"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "23"
           },
           {
             "label": "SB",
@@ -5700,10 +5700,10 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           }
         ],
         "components": {
-          "On-base": 91.1111111111111,
-          "Power": 64.73684210526315,
-          "Contact": 78.74999999999999,
-          "Discipline": 30.917874396135264,
+          "On-base": 92.22222222222221,
+          "Power": 70,
+          "Contact": 81.24999999999999,
+          "Discipline": 28.7037037037037,
           "Speed": 6.666666666666667
         },
         "metaLine": "JR / N/A",
@@ -5736,43 +5736,43 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Brady Frederick looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Brady Frederick looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.81",
-          "WHIP 1.09",
-          "K/9 9.8"
+          "ERA 3.77",
+          "WHIP 1.12",
+          "K/9 10.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.81"
+            "value": "3.77"
           },
           {
             "label": "WHIP",
-            "value": "1.09"
+            "value": "1.12"
           },
           {
             "label": "K/9",
-            "value": "9.8"
+            "value": "10.0"
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "3.1"
           },
           {
             "label": "HR/9",
-            "value": "1.27"
+            "value": "1.26"
           },
           {
             "label": "IP",
-            "value": "28.3"
+            "value": "28.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 53.15508021390375,
-          "Command": 48.88888888888889,
+          "Miss bats": 54.96828752642706,
+          "Command": 44.00000000000001,
           "Damage suppression": 0
         },
         "metaLine": "JR / N/A",
@@ -5800,48 +5800,48 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "position": "LHP",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 6,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Mark Hindy gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.35",
-          "WHIP 1.38",
-          "K/9 6.2"
+          "ERA 9.00",
+          "WHIP 1.44",
+          "K/9 7.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.35"
+            "value": "9.00"
           },
           {
             "label": "WHIP",
-            "value": "1.38"
+            "value": "1.44"
           },
           {
             "label": "K/9",
-            "value": "6.2"
+            "value": "7.0"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "5.0"
           },
           {
             "label": "HR/9",
-            "value": "1.04"
+            "value": "1.00"
           },
           {
             "label": "IP",
-            "value": "8.7"
+            "value": "9.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 20.27972027972028,
-          "Command": 10,
+          "Miss bats": 27.27272727272727,
+          "Command": 7.999999999999999,
           "Damage suppression": 0
         },
         "metaLine": "GR / N/A",
@@ -5869,29 +5869,29 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "position": "OF/INF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 32,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jay Abernathy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .235",
-          "OBP .371",
-          "SLG .383"
+          "AVG .241",
+          "OBP .376",
+          "SLG .388"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".235"
+            "value": ".241"
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": ".376"
           },
           {
             "label": "SLG",
-            "value": ".383"
+            "value": ".388"
           },
           {
             "label": "HR",
@@ -5899,7 +5899,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           },
           {
             "label": "RBI",
-            "value": "13"
+            "value": "14"
           },
           {
             "label": "SB",
@@ -5907,9 +5907,9 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           }
         ],
         "components": {
-          "On-base": 50.55555555555554,
-          "Power": 16.578947368421055,
-          "Contact": 9.374999999999991,
+          "On-base": 53.33333333333332,
+          "Power": 17.894736842105267,
+          "Contact": 13.124999999999995,
           "Discipline": 56.63082437275986,
           "Speed": 20
         },
@@ -5938,29 +5938,29 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "position": "INF/OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 52,
+        "score": 50,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Henry Ford profiles as a INF/OF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .311",
-          "OBP .369",
-          "SLG .606"
+          "AVG .305",
+          "OBP .365",
+          "SLG .594"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".311"
+            "value": ".305"
           },
           {
             "label": "OBP",
-            "value": ".369"
+            "value": ".365"
           },
           {
             "label": "SLG",
-            "value": ".606"
+            "value": ".594"
           },
           {
             "label": "HR",
@@ -5976,10 +5976,10 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           }
         ],
         "components": {
-          "On-base": 49.44444444444443,
-          "Power": 75.26315789473685,
-          "Contact": 56.875,
-          "Discipline": 34.83483483483483,
+          "On-base": 47.22222222222221,
+          "Power": 72.10526315789474,
+          "Contact": 53.124999999999986,
+          "Discipline": 37.83783783783783,
           "Speed": 10
         },
         "metaLine": "JR / N/A",
@@ -6145,29 +6145,29 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 56,
+        "score": 58,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Reese Chapman profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .293",
-          "OBP .411",
-          "SLG .524"
+          "AVG .299",
+          "OBP .415",
+          "SLG .527"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".293"
+            "value": ".299"
           },
           {
             "label": "OBP",
-            "value": ".411"
+            "value": ".415"
           },
           {
             "label": "SLG",
-            "value": ".524"
+            "value": ".527"
           },
           {
             "label": "HR",
@@ -6183,9 +6183,9 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           }
         ],
         "components": {
-          "On-base": 72.77777777777776,
-          "Power": 53.6842105263158,
-          "Contact": 45.624999999999986,
+          "On-base": 74.99999999999997,
+          "Power": 54.47368421052633,
+          "Contact": 49.37499999999999,
           "Discipline": 58.333333333333314,
           "Speed": 23.333333333333332
         },
@@ -6214,37 +6214,37 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "position": "UTL",
         "classYear": "R-SO",
         "handedness": "N/A",
-        "score": 44,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Blake Grimmer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .274",
-          "OBP .385",
-          "SLG .533"
+          "AVG .273",
+          "OBP .382",
+          "SLG .547"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".274"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".385"
+            "value": ".382"
           },
           {
             "label": "SLG",
-            "value": ".533"
+            "value": ".547"
           },
           {
             "label": "HR",
-            "value": "10"
+            "value": "11"
           },
           {
             "label": "RBI",
-            "value": "26"
+            "value": "27"
           },
           {
             "label": "SB",
@@ -6252,9 +6252,9 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           }
         ],
         "components": {
-          "On-base": 58.33333333333333,
-          "Power": 56.052631578947384,
-          "Contact": 33.750000000000014,
+          "On-base": 56.66666666666666,
+          "Power": 59.73684210526318,
+          "Contact": 33.12500000000001,
           "Discipline": 33.33333333333333,
           "Speed": 3.3333333333333335
         },
@@ -6283,29 +6283,29 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "position": "OF/INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 25,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Hunter High gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .273",
-          "OBP .308",
-          "SLG .455"
+          "AVG .250",
+          "OBP .286",
+          "SLG .417"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".273"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".308"
+            "value": ".286"
           },
           {
             "label": "SLG",
-            "value": ".455"
+            "value": ".417"
           },
           {
             "label": "HR",
@@ -6321,9 +6321,9 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           }
         ],
         "components": {
-          "On-base": 15.55555555555554,
-          "Power": 35.52631578947369,
-          "Contact": 33.12500000000001,
+          "On-base": 3.3333333333333055,
+          "Power": 25.52631578947368,
+          "Contact": 18.75,
           "Discipline": 33.33333333333333,
           "Speed": 0
         },
@@ -6352,7 +6352,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "position": "UTL",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 30,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -6360,8 +6360,8 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "summary": "Levi Clark gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .221",
-          "OBP .346",
-          "SLG .469"
+          "OBP .344",
+          "SLG .483"
         ],
         "statCards": [
           {
@@ -6370,19 +6370,19 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           },
           {
             "label": "OBP",
-            "value": ".346"
+            "value": ".344"
           },
           {
             "label": "SLG",
-            "value": ".469"
+            "value": ".483"
           },
           {
             "label": "HR",
-            "value": "9"
+            "value": "10"
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "36"
           },
           {
             "label": "SB",
@@ -6390,8 +6390,8 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           }
         ],
         "components": {
-          "On-base": 36.666666666666636,
-          "Power": 39.210526315789465,
+          "On-base": 35.55555555555553,
+          "Power": 42.89473684210526,
           "Contact": 0.6250000000000006,
           "Discipline": 51.85185185185184,
           "Speed": 6.666666666666667
@@ -6421,29 +6421,29 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "position": "OF",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 85,
+        "score": 82,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Nate Eisfelder profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .333",
-          "OBP .556",
-          "SLG .833"
+          "AVG .308",
+          "OBP .526",
+          "SLG .769"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".333"
+            "value": ".308"
           },
           {
             "label": "OBP",
-            "value": ".556"
+            "value": ".526"
           },
           {
             "label": "SLG",
-            "value": ".833"
+            "value": ".769"
           },
           {
             "label": "HR",
@@ -6461,7 +6461,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "components": {
           "On-base": 100,
           "Power": 100,
-          "Contact": 70.625,
+          "Contact": 54.99999999999999,
           "Discipline": 100,
           "Speed": 0
         },
@@ -6628,29 +6628,29 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "position": "INF/OF",
         "classYear": "R-SO",
         "handedness": "N/A",
-        "score": 23,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tyler Myatt gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .239",
-          "OBP .337",
-          "SLG .437"
+          "AVG .250",
+          "OBP .345",
+          "SLG .458"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".239"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".337"
+            "value": ".345"
           },
           {
             "label": "SLG",
-            "value": ".437"
+            "value": ".458"
           },
           {
             "label": "HR",
@@ -6666,9 +6666,9 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           }
         ],
         "components": {
-          "On-base": 31.666666666666664,
-          "Power": 30.789473684210527,
-          "Contact": 11.874999999999993,
+          "On-base": 36.111111111111086,
+          "Power": 36.31578947368422,
+          "Contact": 18.75,
           "Discipline": 14.814814814814808,
           "Speed": 3.3333333333333335
         },
@@ -6904,29 +6904,29 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "position": "C",
         "classYear": "R-SO",
         "handedness": "N/A",
-        "score": 42,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Stone Lawless gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .241",
-          "OBP .385",
-          "SLG .460"
+          "AVG .239",
+          "OBP .389",
+          "SLG .455"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".241"
+            "value": ".239"
           },
           {
             "label": "OBP",
-            "value": ".385"
+            "value": ".389"
           },
           {
             "label": "SLG",
-            "value": ".460"
+            "value": ".455"
           },
           {
             "label": "HR",
@@ -6934,7 +6934,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           },
           {
             "label": "RBI",
-            "value": "14"
+            "value": "15"
           },
           {
             "label": "SB",
@@ -6942,10 +6942,10 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           }
         ],
         "components": {
-          "On-base": 58.33333333333333,
-          "Power": 36.842105263157904,
-          "Contact": 13.124999999999995,
-          "Discipline": 82.35294117647058,
+          "On-base": 60.55555555555555,
+          "Power": 35.52631578947369,
+          "Contact": 11.874999999999993,
+          "Discipline": 82.71604938271604,
           "Speed": 3.3333333333333335
         },
         "metaLine": "R-SO / N/A",
@@ -7041,48 +7041,48 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "position": "LHP/OF",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 21,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Taylor Tracey looks like a LHP/OF option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.53",
-          "WHIP 1.19",
-          "K/9 13.2"
+          "ERA 1.45",
+          "WHIP 1.18",
+          "K/9 13.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.53"
+            "value": "1.45"
           },
           {
             "label": "WHIP",
-            "value": "1.19"
+            "value": "1.18"
           },
           {
             "label": "K/9",
-            "value": "13.2"
+            "value": "13.5"
           },
           {
             "label": "BB/9",
-            "value": "5.6"
+            "value": "5.8"
           },
           {
             "label": "HR/9",
-            "value": "0.51"
+            "value": "0.48"
           },
           {
             "label": "IP",
-            "value": "17.7"
+            "value": "18.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 84.04802744425385,
-          "Command": 27.272727272727266,
+          "Miss bats": 86.36363636363636,
+          "Command": 26.66666666666667,
           "Damage suppression": 0
         },
         "metaLine": "FR / N/A",
@@ -7110,37 +7110,37 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "position": "C",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 79,
+        "score": 76,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Trent Grindlinger profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .376",
-          "OBP .458",
-          "SLG .613"
+          "AVG .371",
+          "OBP .450",
+          "SLG .629"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".376"
+            "value": ".371"
           },
           {
             "label": "OBP",
-            "value": ".458"
+            "value": ".450"
           },
           {
             "label": "SLG",
-            "value": ".613"
+            "value": ".629"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "21"
           },
           {
             "label": "SB",
@@ -7148,10 +7148,10 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           }
         ],
         "components": {
-          "On-base": 98.88888888888889,
-          "Power": 77.10526315789474,
-          "Contact": 97.5,
-          "Discipline": 70.37037037037037,
+          "On-base": 94.44444444444444,
+          "Power": 81.31578947368422,
+          "Contact": 94.375,
+          "Discipline": 51.85185185185184,
           "Speed": 0
         },
         "metaLine": "FR / N/A",
@@ -7385,48 +7385,48 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 25,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brayden Krenzel looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 1.43",
-          "K/9 14.7"
+          "ERA 6.60",
+          "WHIP 1.40",
+          "K/9 15.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "6.60"
           },
           {
             "label": "WHIP",
-            "value": "1.43"
+            "value": "1.40"
           },
           {
             "label": "K/9",
-            "value": "14.7"
+            "value": "15.0"
           },
           {
             "label": "BB/9",
-            "value": "5.5"
+            "value": "5.4"
           },
           {
             "label": "HR/9",
-            "value": "1.23"
+            "value": "1.20"
           },
           {
             "label": "IP",
-            "value": "14.7"
+            "value": "15.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 97.5206611570248,
-          "Command": 33.33333333333333,
+          "Miss bats": 100,
+          "Command": 35.55555555555555,
           "Damage suppression": 0
         },
         "metaLine": "SO / N/A",
@@ -7659,48 +7659,48 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 7,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ethan Baiotto looks like a RHP option who throws enough strikes.",
+        "summary": "Ethan Baiotto looks like a RHP option who throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 6.35",
-          "WHIP 1.29",
-          "K/9 5.3"
+          "ERA 5.49",
+          "WHIP 1.12",
+          "K/9 5.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.35"
+            "value": "5.49"
           },
           {
             "label": "WHIP",
-            "value": "1.29"
+            "value": "1.12"
           },
           {
             "label": "K/9",
-            "value": "5.3"
+            "value": "5.5"
           },
           {
             "label": "BB/9",
-            "value": "2.1"
+            "value": "1.8"
           },
           {
             "label": "HR/9",
-            "value": "1.59"
+            "value": "1.37"
           },
           {
             "label": "IP",
-            "value": "17.0"
+            "value": "19.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 11.76470588235294,
-          "Command": 30,
+          "Miss bats": 13.559322033898303,
+          "Command": 40,
           "Damage suppression": 0
         },
         "metaLine": "FR / N/A",
@@ -7796,48 +7796,48 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "position": "LHP",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 30,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Will Haas looks like a LHP option who misses bats.",
+        "summary": "Will Haas looks like a LHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 7.94",
-          "WHIP 1.59",
-          "K/9 14.3"
+          "ERA 6.75",
+          "WHIP 1.35",
+          "K/9 16.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.94"
+            "value": "6.75"
           },
           {
             "label": "WHIP",
-            "value": "1.59"
+            "value": "1.35"
           },
           {
             "label": "K/9",
-            "value": "14.3"
+            "value": "16.2"
           },
           {
             "label": "BB/9",
-            "value": "3.2"
+            "value": "2.7"
           },
           {
             "label": "HR/9",
-            "value": "1.59"
+            "value": "1.35"
           },
           {
             "label": "IP",
-            "value": "5.7"
+            "value": "6.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 93.58288770053474,
-          "Command": 70,
+          "Miss bats": 100,
+          "Command": 100,
           "Damage suppression": 0
         },
         "metaLine": "FR / N/A",
@@ -7865,48 +7865,48 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 6,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nic Abraham looks like a RHP option who throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.97",
-          "WHIP 1.22",
-          "K/9 5.0"
+          "ERA 4.94",
+          "WHIP 1.21",
+          "K/9 4.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.97"
+            "value": "4.94"
           },
           {
             "label": "WHIP",
-            "value": "1.22"
+            "value": "1.21"
           },
           {
             "label": "K/9",
-            "value": "5.0"
+            "value": "4.6"
           },
           {
             "label": "BB/9",
-            "value": "2.1"
+            "value": "2.0"
           },
           {
             "label": "HR/9",
-            "value": "0.71"
+            "value": "0.99"
           },
           {
             "label": "IP",
-            "value": "25.3"
+            "value": "27.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 8.851674641148326,
-          "Command": 26.66666666666666,
+          "Miss bats": 5.543237250554329,
+          "Command": 26.66666666666667,
           "Damage suppression": 0
         },
         "metaLine": "SO / N/A",
@@ -8003,47 +8003,47 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "position": "LHP",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 28,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Chandler Day looks like a LHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 9.00",
-          "WHIP 1.67",
-          "K/9 10.5"
+          "ERA 7.36",
+          "WHIP 1.50",
+          "K/9 9.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.00"
+            "value": "7.36"
           },
           {
             "label": "WHIP",
-            "value": "1.67"
-          },
-          {
-            "label": "K/9",
-            "value": "10.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "1.5"
-          },
-          {
-            "label": "HR/9",
             "value": "1.50"
           },
           {
+            "label": "K/9",
+            "value": "9.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "1.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.23"
+          },
+          {
             "label": "IP",
-            "value": "6.0"
+            "value": "7.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 59.09090909090909,
+          "Miss bats": 52.892561983471076,
           "Command": 100,
           "Damage suppression": 0
         },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-05T11:40:01.589Z",
+  "generatedAt": "2026-05-06T12:07:13.253Z",
   "season": 2026,
   "source": "Generated Sidearm baseball roster pool",
   "note": "This compact roster-only pool captures public school-site baseball rosters so non-appearing players can still enter coverage before they log a reachable NCAA boxscore.",
@@ -303,7 +303,7 @@
       "slug": "oregon",
       "name": "Oregon",
       "longName": "University of Oregon",
-      "rosterPlayers": 39,
+      "rosterPlayers": 40,
       "rosterUrl": "https://goducks.com/sports/baseball/roster"
     },
     {
@@ -514,9 +514,9 @@
     "schoolsRequested": 73,
     "schoolsLoaded": 72,
     "schoolsFailed": 1,
-    "totalPlayers": 2746,
+    "totalPlayers": 2747,
     "roleCounts": {
-      "Hitter": 1371,
+      "Hitter": 1372,
       "Pitcher": 1375
     },
     "failures": [
@@ -589,7 +589,7 @@
       "houston",
       "Riley Jackson",
       "Hitter",
-      "C",
+      "C/1B",
       "JR",
       "",
       "4",
@@ -25307,6 +25307,20 @@
       "Springville HS",
       "",
       "https://goducks.com/sports/baseball/roster/naulivou-lauaki-jr/17563"
+    ],
+    [
+      "oregon-18401",
+      "oregon",
+      "Mark Wiepert",
+      "Hitter",
+      "C",
+      "FR",
+      "R/R",
+      "19",
+      "Wilsonville, Ore.",
+      "Wilsonville HS",
+      "",
+      "https://goducks.com/sports/baseball/roster/mark-wiepert/18401"
     ],
     [
       "oregon-18220",

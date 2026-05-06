@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.princeton2026 = {
-  "generatedAt": "2026-05-05T11:39:18.517Z",
+  "generatedAt": "2026-05-06T12:06:44.578Z",
   "season": 2026,
   "school": {
     "slug": "princeton",
@@ -473,7 +473,7 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "stolenBasesAttempts": 12,
         "putouts": 95,
         "assists": 0,
-        "errors": 1,
+        "errors": 0,
         "plateAppearances": 199,
         "caughtStealing": 2,
         "pickedOff": 1
@@ -490,15 +490,15 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "gamesStarted": 37,
         "putouts": 95,
         "assists": 17,
-        "errors": 1,
-        "fieldingPercentage": 0.991,
+        "errors": 0,
+        "fieldingPercentage": 1,
         "doublePlays": 4,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 113
+        "totalChances": 112
       },
       "evaluation": {
         "score": 27,
@@ -1482,7 +1482,7 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "stolenBasesAttempts": 5,
         "putouts": 47,
         "assists": 0,
-        "errors": 4,
+        "errors": 5,
         "plateAppearances": 150,
         "caughtStealing": 0,
         "pickedOff": 2
@@ -1532,15 +1532,15 @@ window.__BASEBALL_DATASETS__.princeton2026 = {
         "gamesStarted": 29,
         "putouts": 47,
         "assists": 3,
-        "errors": 4,
-        "fieldingPercentage": 0.926,
+        "errors": 5,
+        "fieldingPercentage": 0.909,
         "doublePlays": 2,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 54
+        "totalChances": 55
       },
       "evaluation": {
         "score": 1,

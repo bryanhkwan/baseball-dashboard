@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.george-washington2026 = {
-  "generatedAt": "2026-05-05T11:38:49.116Z",
+  "generatedAt": "2026-05-06T12:06:22.749Z",
   "season": 2026,
   "school": {
     "slug": "george-washington",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
     }
   },
   "teamSummary": {
-    "record": "17-29, 9-15",
-    "battingAverage": ".266",
-    "earnedRunAverage": "6.41",
-    "wins": "17",
+    "record": "18-29, 9-15",
+    "battingAverage": ".264",
+    "earnedRunAverage": "6.34",
+    "wins": "18",
     "losses": "29",
     "hitting": {
-      "atBats": "1544",
-      "runsScored": "248",
-      "hits": "410",
-      "runsBattedIn": "224",
-      "doubles": "79",
+      "atBats": "1582",
+      "runsScored": "253",
+      "hits": "418",
+      "runsBattedIn": "228",
+      "doubles": "82",
       "triples": "6",
       "homeRuns": "37",
-      "walks": "205",
+      "walks": "208",
       "intentionalWalks": "1",
-      "strikeouts": "317",
-      "strikeoutsLooking": "102",
-      "hitByPitch": "48",
+      "strikeouts": "323",
+      "strikeoutsLooking": "104",
+      "hitByPitch": "50",
       "stolenBases": "47",
       "caughtStealing": "23",
-      "sacrificeHits": "28",
+      "sacrificeHits": "29",
       "sacrificeFlies": "13",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "416",
-      "flyOuts": "398",
+      "groundOuts": "429",
+      "flyOuts": "408",
       "groundedIntoDoublePlay": "19",
       "pickedOff": "2",
       "doublePlaysHitInto": "33",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1188",
-      "assists": "440",
+      "putouts": "1218",
+      "assists": "453",
       "errors": "52",
       "passedBalls": "9",
       "catchersInterference": "2",
-      "stolenBasesAgainst": "67",
-      "caughtStealingBy": "20",
+      "stolenBasesAgainst": "68",
+      "caughtStealingBy": "22",
       "involvedInDoublePlays": "39",
       "involvedInTriplePlays": "0",
-      "totalChances": "1680",
-      "fieldingPercentage": ".969"
+      "totalChances": "1723",
+      "fieldingPercentage": ".970"
     },
     "pitching": {
       "orderOfAppearance": "21",
-      "wins": "17",
+      "wins": "18",
       "saves": "13",
       "losses": "29",
       "gamesStarted": "1",
       "gamesCompleted": "0",
       "shutouts": "1",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "396.0",
-      "hitsAllowed": "440",
-      "runsAllowed": "318",
-      "earnedRunsAllowed": "282",
-      "walksAllowed": "238",
-      "strikeouts": "307",
-      "battersFaced": "1895",
-      "opponentAtBats": "1532",
-      "doublesAllowed": "87",
+      "inningsPitched": "406.0",
+      "hitsAllowed": "447",
+      "runsAllowed": "322",
+      "earnedRunsAllowed": "286",
+      "walksAllowed": "243",
+      "strikeouts": "314",
+      "battersFaced": "1939",
+      "opponentAtBats": "1565",
+      "doublesAllowed": "88",
       "triplesAllowed": "12",
-      "homerunsAllowed": "40",
+      "homerunsAllowed": "41",
       "wildPitches": "49",
       "balks": "0",
-      "hitBatters": "79",
-      "strikeoutsLooking": "81",
+      "hitBatters": "83",
+      "strikeoutsLooking": "84",
       "intentionalWalks": "2",
       "inheritedRunners": "8",
       "inheritedRunnersThatScored": "2",
-      "sacrificeHitsAllowed": "23",
+      "sacrificeHitsAllowed": "25",
       "sacrificeFliesAllowed": "21",
       "catchersInterferenceAllowed": "2",
-      "pitches": "6380",
-      "flyouts": "429",
-      "groundouts": "369",
+      "pitches": "6543",
+      "flyouts": "439",
+      "groundouts": "380",
       "teamUnearnedRuns": "0",
       "saveRecord": "11",
       "pickoff": "6"
@@ -303,13 +303,13 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "2",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/jack-kent/10164",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Jack_Kent_YDQLD.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 39,
-        "battingAverage": 0.271,
-        "onBasePercentage": 0.363,
-        "sluggingPercentage": 0.335,
-        "ops": 0.698,
-        "atBats": 155,
+        "gamesPlayed": 43,
+        "gamesStarted": 40,
+        "battingAverage": 0.264,
+        "onBasePercentage": 0.359,
+        "sluggingPercentage": 0.327,
+        "ops": 0.686,
+        "atBats": 159,
         "runs": 25,
         "hits": 42,
         "doubles": 7,
@@ -317,19 +317,19 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "homeRuns": 1,
         "runsBattedIn": 16,
         "totalBases": 52,
-        "walks": 17,
+        "walks": 18,
         "hitByPitch": 6,
-        "strikeouts": 34,
+        "strikeouts": 35,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 2,
         "stolenBases": 9,
         "stolenBasesAttempts": 12,
-        "putouts": 103,
+        "putouts": 104,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 196,
+        "plateAppearances": 201,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -341,9 +341,9 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "2",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/jack-kent/10164",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Jack_Kent_YDQLD.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 38,
-        "putouts": 103,
+        "gamesPlayed": 40,
+        "gamesStarted": 39,
+        "putouts": 104,
         "assists": 3,
         "errors": 1,
         "fieldingPercentage": 0.991,
@@ -353,39 +353,39 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 107
+        "totalChances": 108
       },
       "evaluation": {
-        "score": 29,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 46.11111111111109,
-          "Power": 3.9473684210526354,
-          "Contact": 31.875000000000007,
-          "Discipline": 33.33333333333333,
+          "On-base": 43.888888888888864,
+          "Power": 1.8421052631578967,
+          "Contact": 27.500000000000007,
+          "Discipline": 34.92063492063491,
           "Speed": 30
         },
         "summary": "Jack Kent profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .271",
-          "OBP .363",
-          "SLG .335"
+          "AVG .264",
+          "OBP .359",
+          "SLG .327"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".271"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".363"
+            "value": ".359"
           },
           {
             "label": "SLG",
-            "value": ".335"
+            "value": ".327"
           },
           {
             "label": "HR",
@@ -593,20 +593,20 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "4",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/brodie-freker/9849",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Brodie_Freker_blkOR.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 23,
-        "battingAverage": 0.303,
-        "onBasePercentage": 0.438,
-        "sluggingPercentage": 0.474,
-        "ops": 0.912,
-        "atBats": 76,
+        "gamesPlayed": 30,
+        "gamesStarted": 24,
+        "battingAverage": 0.3,
+        "onBasePercentage": 0.43,
+        "sluggingPercentage": 0.475,
+        "ops": 0.905,
+        "atBats": 80,
         "runs": 16,
-        "hits": 23,
-        "doubles": 7,
+        "hits": 24,
+        "doubles": 8,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 15,
-        "totalBases": 36,
+        "totalBases": 38,
         "walks": 17,
         "hitByPitch": 2,
         "strikeouts": 19,
@@ -619,7 +619,7 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "putouts": 5,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 96,
+        "plateAppearances": 100,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -646,36 +646,36 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "totalChances": 6
       },
       "evaluation": {
-        "score": 59,
+        "score": 57,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 87.77777777777777,
-          "Power": 40.526315789473685,
-          "Contact": 51.87499999999999,
+          "On-base": 83.33333333333331,
+          "Power": 40.78947368421053,
+          "Contact": 49.999999999999986,
           "Discipline": 77.19298245614034,
           "Speed": 0
         },
         "summary": "Brodie Freker profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .303",
-          "OBP .438",
-          "SLG .474"
+          "AVG .300",
+          "OBP .430",
+          "SLG .475"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".303"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".438"
+            "value": ".430"
           },
           {
             "label": "SLG",
-            "value": ".474"
+            "value": ".475"
           },
           {
             "label": "HR",
@@ -738,33 +738,33 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "5",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/nick-mullen/9856",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Nick_Mullen_09yea.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 41,
-        "battingAverage": 0.257,
-        "onBasePercentage": 0.335,
-        "sluggingPercentage": 0.368,
-        "ops": 0.703,
-        "atBats": 144,
-        "runs": 17,
-        "hits": 37,
-        "doubles": 11,
+        "gamesPlayed": 43,
+        "gamesStarted": 42,
+        "battingAverage": 0.259,
+        "onBasePercentage": 0.343,
+        "sluggingPercentage": 0.374,
+        "ops": 0.717,
+        "atBats": 147,
+        "runs": 18,
+        "hits": 38,
+        "doubles": 12,
         "triples": 1,
         "homeRuns": 1,
-        "runsBattedIn": 20,
-        "totalBases": 53,
-        "walks": 13,
-        "hitByPitch": 5,
-        "strikeouts": 34,
+        "runsBattedIn": 22,
+        "totalBases": 55,
+        "walks": 14,
+        "hitByPitch": 6,
+        "strikeouts": 36,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 2,
         "sacrificeHits": 1,
         "stolenBases": 4,
         "stolenBasesAttempts": 6,
-        "putouts": 69,
+        "putouts": 72,
         "assists": 0,
         "errors": 13,
-        "plateAppearances": 173,
+        "plateAppearances": 178,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -776,51 +776,51 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "5",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/nick-mullen/9856",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Nick_Mullen_09yea.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 39,
-        "putouts": 69,
-        "assists": 98,
+        "gamesPlayed": 41,
+        "gamesStarted": 40,
+        "putouts": 72,
+        "assists": 103,
         "errors": 13,
-        "fieldingPercentage": 0.928,
+        "fieldingPercentage": 0.931,
         "doublePlays": 28,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 180
+        "totalChances": 188
       },
       "evaluation": {
-        "score": 21,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 30.555555555555554,
-          "Power": 12.63157894736842,
-          "Contact": 23.125000000000004,
-          "Discipline": 20.261437908496724,
+          "On-base": 35,
+          "Power": 14.210526315789473,
+          "Contact": 24.375000000000004,
+          "Discipline": 20.98765432098765,
           "Speed": 13.333333333333334
         },
         "summary": "Nick Mullen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .257",
-          "OBP .335",
-          "SLG .368"
+          "AVG .259",
+          "OBP .343",
+          "SLG .374"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".257"
+            "value": ".259"
           },
           {
             "label": "OBP",
-            "value": ".335"
+            "value": ".343"
           },
           {
             "label": "SLG",
-            "value": ".368"
+            "value": ".374"
           },
           {
             "label": "HR",
@@ -828,7 +828,7 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -1319,19 +1319,19 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "9",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/brad-marks/9874",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Brad_J6QWC.jpg",
-        "gamesPlayed": 8,
+        "gamesPlayed": 9,
         "gamesStarted": 1,
-        "appearances": 8,
+        "appearances": 9,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.97,
-        "whip": 2.23,
+        "earnedRunAverage": 5.84,
+        "whip": 1.95,
         "wins": 0,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 10.333333333333334,
-        "inningsPitchedDisplay": "10.1",
-        "hitsAllowed": 15,
+        "inningsPitched": 12.333333333333334,
+        "inningsPitchedDisplay": "12.1",
+        "hitsAllowed": 16,
         "runsAllowed": 15,
         "earnedRunsAllowed": 8,
         "walksAllowed": 8,
@@ -1339,11 +1339,11 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "doublesAllowed": 6,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 44,
+        "opponentsAtBats": 51,
         "wildPitches": 2,
-        "hitBatters": 3,
+        "hitBatters": 6,
         "balks": 0,
-        "opponentsBattingAverage": 0.341,
+        "opponentsBattingAverage": 0.314,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1353,14 +1353,14 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "9",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/brad-marks/9874",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Brad_J6QWC.jpg",
-        "gamesPlayed": 2,
+        "gamesPlayed": 3,
         "gamesStarted": 1,
         "putouts": 0,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 1,
+        "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
@@ -1382,34 +1382,34 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         },
         "summary": "Brad Marks gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.97",
-          "WHIP 2.23",
-          "K/9 1.7"
+          "ERA 5.84",
+          "WHIP 1.95",
+          "K/9 1.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.97"
+            "value": "5.84"
           },
           {
             "label": "WHIP",
-            "value": "2.23"
+            "value": "1.95"
           },
           {
             "label": "K/9",
-            "value": "1.7"
+            "value": "1.5"
           },
           {
             "label": "BB/9",
-            "value": "7.0"
+            "value": "5.8"
           },
           {
             "label": "HR/9",
-            "value": "0.87"
+            "value": "0.73"
           },
           {
             "label": "IP",
-            "value": "10.3"
+            "value": "12.3"
           }
         ],
         "metaLine": "FR / N/A",
@@ -1460,33 +1460,33 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "10",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/charlie-walsh/9863",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Charlie_RXkFo.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "battingAverage": 0.27,
-        "onBasePercentage": 0.355,
-        "sluggingPercentage": 0.46,
-        "ops": 0.815,
-        "atBats": 137,
-        "runs": 27,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "battingAverage": 0.264,
+        "onBasePercentage": 0.352,
+        "sluggingPercentage": 0.45,
+        "ops": 0.802,
+        "atBats": 140,
+        "runs": 28,
         "hits": 37,
         "doubles": 10,
         "triples": 2,
         "homeRuns": 4,
         "runsBattedIn": 23,
         "totalBases": 63,
-        "walks": 14,
+        "walks": 15,
         "hitByPitch": 4,
         "strikeouts": 35,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
-        "sacrificeHits": 2,
+        "sacrificeHits": 3,
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
-        "putouts": 68,
+        "putouts": 70,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 162,
+        "plateAppearances": 167,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1498,10 +1498,10 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "10",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/charlie-walsh/9863",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Charlie_RXkFo.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 33,
-        "putouts": 68,
-        "assists": 85,
+        "gamesPlayed": 34,
+        "gamesStarted": 34,
+        "putouts": 70,
+        "assists": 86,
         "errors": 3,
         "fieldingPercentage": 0.981,
         "doublePlays": 23,
@@ -1510,39 +1510,39 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 156
+        "totalChances": 159
       },
       "evaluation": {
-        "score": 33,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 41.66666666666664,
-          "Power": 36.842105263157904,
-          "Contact": 31.25000000000001,
-          "Discipline": 22.22222222222222,
+          "On-base": 39.99999999999997,
+          "Power": 34.21052631578948,
+          "Contact": 27.500000000000007,
+          "Discipline": 25.39682539682539,
           "Speed": 10
         },
         "summary": "Charlie Walsh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .270",
-          "OBP .355",
-          "SLG .460"
+          "AVG .264",
+          "OBP .352",
+          "SLG .450"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".270"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".355"
+            "value": ".352"
           },
           {
             "label": "SLG",
-            "value": ".460"
+            "value": ".450"
           },
           {
             "label": "HR",
@@ -1605,13 +1605,13 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "11",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/michael-bravette/9868",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Michael_Bravette_sObT0.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 16,
-        "battingAverage": 0.235,
-        "onBasePercentage": 0.307,
-        "sluggingPercentage": 0.235,
-        "ops": 0.542,
-        "atBats": 68,
+        "gamesPlayed": 25,
+        "gamesStarted": 17,
+        "battingAverage": 0.219,
+        "onBasePercentage": 0.288,
+        "sluggingPercentage": 0.219,
+        "ops": 0.507,
+        "atBats": 73,
         "runs": 3,
         "hits": 16,
         "doubles": 0,
@@ -1621,17 +1621,17 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "totalBases": 16,
         "walks": 5,
         "hitByPitch": 2,
-        "strikeouts": 10,
+        "strikeouts": 11,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 5,
         "stolenBasesAttempts": 9,
-        "putouts": 23,
+        "putouts": 25,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 89,
+        "plateAppearances": 94,
         "caughtStealing": 4,
         "pickedOff": 0
       },
@@ -1643,51 +1643,51 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "11",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/michael-bravette/9868",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Michael_Bravette_sObT0.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 12,
-        "putouts": 23,
+        "gamesPlayed": 13,
+        "gamesStarted": 13,
+        "putouts": 25,
         "assists": 9,
         "errors": 1,
-        "fieldingPercentage": 0.97,
+        "fieldingPercentage": 0.971,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 33
+        "totalChances": 35
       },
       "evaluation": {
-        "score": 13,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 14.999999999999982,
+          "On-base": 4.444444444444418,
           "Power": 0,
-          "Contact": 9.374999999999991,
-          "Discipline": 33.33333333333333,
+          "Contact": 0,
+          "Discipline": 28.282828282828277,
           "Speed": 16.666666666666664
         },
         "summary": "Michael Bravette gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .235",
-          "OBP .307",
-          "SLG .235"
+          "AVG .219",
+          "OBP .288",
+          "SLG .219"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".235"
+            "value": ".219"
           },
           {
             "label": "OBP",
-            "value": ".307"
+            "value": ".288"
           },
           {
             "label": "SLG",
-            "value": ".235"
+            "value": ".219"
           },
           {
             "label": "HR",
@@ -2179,20 +2179,20 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "15",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/cristino-tufano/9861",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Cristino_Tufano_ERhAg.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 34,
-        "battingAverage": 0.298,
-        "onBasePercentage": 0.435,
-        "sluggingPercentage": 0.395,
-        "ops": 0.83,
-        "atBats": 124,
-        "runs": 26,
-        "hits": 37,
+        "gamesPlayed": 42,
+        "gamesStarted": 35,
+        "battingAverage": 0.31,
+        "onBasePercentage": 0.44,
+        "sluggingPercentage": 0.403,
+        "ops": 0.843,
+        "atBats": 129,
+        "runs": 28,
+        "hits": 40,
         "doubles": 5,
         "triples": 2,
         "homeRuns": 1,
         "runsBattedIn": 15,
-        "totalBases": 49,
+        "totalBases": 52,
         "walks": 24,
         "hitByPitch": 6,
         "strikeouts": 15,
@@ -2202,10 +2202,10 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "sacrificeHits": 5,
         "stolenBases": 6,
         "stolenBasesAttempts": 9,
-        "putouts": 29,
+        "putouts": 31,
         "assists": 0,
         "errors": 9,
-        "plateAppearances": 171,
+        "plateAppearances": 176,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -2217,51 +2217,51 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "15",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/cristino-tufano/9861",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Cristino_Tufano_ERhAg.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 34,
-        "putouts": 29,
-        "assists": 77,
+        "gamesPlayed": 38,
+        "gamesStarted": 35,
+        "putouts": 31,
+        "assists": 80,
         "errors": 9,
-        "fieldingPercentage": 0.922,
+        "fieldingPercentage": 0.925,
         "doublePlays": 4,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 115
+        "totalChances": 120
       },
       "evaluation": {
-        "score": 57,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 86.1111111111111,
-          "Power": 19.736842105263165,
-          "Contact": 48.749999999999986,
+          "On-base": 88.88888888888889,
+          "Power": 21.8421052631579,
+          "Contact": 56.25,
           "Discipline": 100,
           "Speed": 20
         },
         "summary": "Cristino Tufano profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .298",
-          "OBP .435",
-          "SLG .395"
+          "AVG .310",
+          "OBP .440",
+          "SLG .403"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".298"
+            "value": ".310"
           },
           {
             "label": "OBP",
-            "value": ".435"
+            "value": ".440"
           },
           {
             "label": "SLG",
-            "value": ".395"
+            "value": ".403"
           },
           {
             "label": "HR",
@@ -2325,31 +2325,31 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "16",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/jasper-nadel/9858",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Jasper_10GsJ.jpg",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 0,
-        "appearances": 14,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.35,
-        "whip": 1.21,
-        "wins": 1,
+        "earnedRunAverage": 3.97,
+        "whip": 1.19,
+        "wins": 2,
         "losses": 0,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 20.666666666666668,
-        "inningsPitchedDisplay": "20.2",
-        "hitsAllowed": 16,
+        "inningsPitched": 22.666666666666668,
+        "inningsPitchedDisplay": "22.2",
+        "hitsAllowed": 17,
         "runsAllowed": 11,
         "earnedRunsAllowed": 10,
-        "walksAllowed": 9,
-        "strikeouts": 16,
+        "walksAllowed": 10,
+        "strikeouts": 17,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 73,
+        "opponentsAtBats": 79,
         "wildPitches": 4,
         "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.219,
+        "opponentsBattingAverage": 0.215,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2359,7 +2359,7 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "16",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/jasper-nadel/9858",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Jasper_10GsJ.jpg",
-        "gamesPlayed": 5,
+        "gamesPlayed": 6,
         "gamesStarted": 0,
         "putouts": 1,
         "assists": 1,
@@ -2367,14 +2367,14 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "fieldingPercentage": 1,
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
-        "caughtStealingBy": 2,
+        "caughtStealingBy": 3,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
       },
       "evaluation": {
-        "score": 8,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2382,40 +2382,40 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 26.97947214076246,
-          "Command": 15.555555555555559,
+          "Miss bats": 25,
+          "Command": 14.000000000000004,
           "Damage suppression": 0
         },
-        "summary": "Jasper Nadel looks like a RHP option who keeps traffic under control.",
+        "summary": "Jasper Nadel looks like a RHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.35",
-          "WHIP 1.21",
-          "K/9 7.0"
+          "ERA 3.97",
+          "WHIP 1.19",
+          "K/9 6.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.35"
+            "value": "3.97"
           },
           {
             "label": "WHIP",
-            "value": "1.21"
+            "value": "1.19"
           },
           {
             "label": "K/9",
-            "value": "7.0"
+            "value": "6.8"
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "4.0"
           },
           {
             "label": "HR/9",
-            "value": "0.44"
+            "value": "0.40"
           },
           {
             "label": "IP",
-            "value": "20.7"
+            "value": "22.7"
           }
         ],
         "metaLine": "SO / N/A",
@@ -2612,31 +2612,31 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "19",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/drew-harris/9850",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Drew_Harris_Wcxvd.jpg",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 0,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.32,
-        "whip": 1.58,
+        "earnedRunAverage": 6.97,
+        "whip": 1.5,
         "wins": 1,
         "losses": 2,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 19.666666666666668,
-        "inningsPitchedDisplay": "19.2",
+        "inningsPitched": 20.666666666666668,
+        "inningsPitchedDisplay": "20.2",
         "hitsAllowed": 14,
         "runsAllowed": 16,
         "earnedRunsAllowed": 16,
         "walksAllowed": 17,
-        "strikeouts": 15,
+        "strikeouts": 16,
         "doublesAllowed": 4,
         "triplesAllowed": 1,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 70,
+        "opponentsAtBats": 73,
         "wildPitches": 2,
         "hitBatters": 11,
         "balks": 0,
-        "opponentsBattingAverage": 0.2,
+        "opponentsBattingAverage": 0.192,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2669,40 +2669,40 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 26.04006163328197,
+          "Miss bats": 26.97947214076246,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Drew Harris gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.32",
-          "WHIP 1.58",
-          "K/9 6.9"
+          "ERA 6.97",
+          "WHIP 1.50",
+          "K/9 7.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.32"
+            "value": "6.97"
           },
           {
             "label": "WHIP",
-            "value": "1.58"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "6.9"
+            "value": "7.0"
           },
           {
             "label": "BB/9",
-            "value": "7.8"
+            "value": "7.4"
           },
           {
             "label": "HR/9",
-            "value": "0.46"
+            "value": "0.44"
           },
           {
             "label": "IP",
-            "value": "19.7"
+            "value": "20.7"
           }
         ],
         "metaLine": "SO / N/A",
@@ -2896,31 +2896,31 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "21",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/henry-knighton/9871",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Henry_Knighton_yyXQt.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 2,
-        "appearances": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 12,
-        "whip": 2.89,
+        "earnedRunAverage": 9.82,
+        "whip": 2.55,
         "wins": 0,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 9,
-        "inningsPitchedDisplay": "9.0",
-        "hitsAllowed": 12,
+        "inningsPitched": 11,
+        "inningsPitchedDisplay": "11.0",
+        "hitsAllowed": 14,
         "runsAllowed": 12,
         "earnedRunsAllowed": 12,
         "walksAllowed": 14,
-        "strikeouts": 7,
+        "strikeouts": 10,
         "doublesAllowed": 0,
         "triplesAllowed": 1,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 36,
+        "opponentsAtBats": 43,
         "wildPitches": 0,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.333,
+        "opponentsBattingAverage": 0.326,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2930,22 +2930,22 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "21",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/henry-knighton/9871",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Henry_Knighton_yyXQt.jpg",
-        "gamesPlayed": 3,
+        "gamesPlayed": 4,
         "gamesStarted": 0,
         "putouts": 0,
-        "assists": 0,
+        "assists": 2,
         "errors": 0,
-        "fieldingPercentage": 0,
+        "fieldingPercentage": 1,
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 0
+        "totalChances": 2
       },
       "evaluation": {
-        "score": 5,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2953,40 +2953,40 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 27.27272727272727,
+          "Miss bats": 38.01652892561984,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Henry Knighton gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 12.00",
-          "WHIP 2.89",
-          "K/9 7.0"
+          "ERA 9.82",
+          "WHIP 2.55",
+          "K/9 8.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "12.00"
+            "value": "9.82"
           },
           {
             "label": "WHIP",
-            "value": "2.89"
+            "value": "2.55"
           },
           {
             "label": "K/9",
-            "value": "7.0"
+            "value": "8.2"
           },
           {
             "label": "BB/9",
-            "value": "14.0"
+            "value": "11.5"
           },
           {
             "label": "HR/9",
-            "value": "3.00"
+            "value": "2.45"
           },
           {
             "label": "IP",
-            "value": "9.0"
+            "value": "11.0"
           }
         ],
         "metaLine": "FR / N/A",
@@ -3038,12 +3038,12 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "22",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/reese-crochet/9847",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Reese_Crochet_vAseY.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 0,
-        "appearances": 6,
+        "gamesPlayed": 7,
+        "gamesStarted": 1,
+        "appearances": 7,
         "gamesCompleted": 0,
-        "earnedRunAverage": 14.29,
-        "whip": 1.94,
+        "earnedRunAverage": 19.06,
+        "whip": 2.47,
         "wins": 0,
         "losses": 1,
         "saves": 0,
@@ -3051,9 +3051,9 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "inningsPitched": 5.666666666666667,
         "inningsPitchedDisplay": "5.2",
         "hitsAllowed": 5,
-        "runsAllowed": 9,
-        "earnedRunsAllowed": 9,
-        "walksAllowed": 6,
+        "runsAllowed": 12,
+        "earnedRunsAllowed": 12,
+        "walksAllowed": 9,
         "strikeouts": 4,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
@@ -3081,18 +3081,18 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         },
         "summary": "Reese Crochet gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 14.29",
-          "WHIP 1.94",
+          "ERA 19.06",
+          "WHIP 2.47",
           "K/9 6.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "14.29"
+            "value": "19.06"
           },
           {
             "label": "WHIP",
-            "value": "1.94"
+            "value": "2.47"
           },
           {
             "label": "K/9",
@@ -3100,7 +3100,7 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           },
           {
             "label": "BB/9",
-            "value": "9.5"
+            "value": "14.3"
           },
           {
             "label": "HR/9",
@@ -3304,33 +3304,33 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "24",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/josh-wenz/9864",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Josh_Wenz_SQGfS.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 20,
-        "battingAverage": 0.254,
-        "onBasePercentage": 0.425,
-        "sluggingPercentage": 0.358,
-        "ops": 0.783,
-        "atBats": 67,
+        "gamesPlayed": 30,
+        "gamesStarted": 21,
+        "battingAverage": 0.264,
+        "onBasePercentage": 0.424,
+        "sluggingPercentage": 0.361,
+        "ops": 0.785,
+        "atBats": 72,
         "runs": 8,
-        "hits": 17,
+        "hits": 19,
         "doubles": 4,
         "triples": 0,
         "homeRuns": 1,
-        "runsBattedIn": 10,
-        "totalBases": 24,
+        "runsBattedIn": 12,
+        "totalBases": 26,
         "walks": 15,
         "hitByPitch": 5,
-        "strikeouts": 13,
+        "strikeouts": 14,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 105,
+        "putouts": 114,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 89,
+        "plateAppearances": 94,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -3342,51 +3342,51 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "24",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/josh-wenz/9864",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Josh_Wenz_SQGfS.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 14,
-        "putouts": 105,
+        "gamesPlayed": 16,
+        "gamesStarted": 15,
+        "putouts": 114,
         "assists": 4,
         "errors": 3,
-        "fieldingPercentage": 0.973,
+        "fieldingPercentage": 0.975,
         "doublePlays": 9,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 112
+        "totalChances": 121
       },
       "evaluation": {
-        "score": 46,
+        "score": 47,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 80.55555555555554,
-          "Power": 9.999999999999995,
-          "Contact": 21.250000000000004,
-          "Discipline": 100,
+          "On-base": 79.99999999999999,
+          "Power": 10.789473684210522,
+          "Contact": 27.500000000000007,
+          "Discipline": 96.82539682539681,
           "Speed": 0
         },
         "summary": "Josh Wenz profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .254",
-          "OBP .425",
-          "SLG .358"
+          "AVG .264",
+          "OBP .424",
+          "SLG .361"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".254"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".425"
+            "value": ".424"
           },
           {
             "label": "SLG",
-            "value": ".358"
+            "value": ".361"
           },
           {
             "label": "HR",
@@ -3394,7 +3394,7 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           },
           {
             "label": "RBI",
-            "value": "10"
+            "value": "12"
           },
           {
             "label": "SB",
@@ -3450,31 +3450,31 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "25",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/liam-thyen/9876",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Liam_TgrUz.jpg",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 4,
-        "appearances": 7,
+        "appearances": 8,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.59,
-        "whip": 2.06,
+        "earnedRunAverage": 6.39,
+        "whip": 1.97,
         "wins": 1,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 10.666666666666666,
-        "inningsPitchedDisplay": "10.2",
-        "hitsAllowed": 15,
+        "inningsPitched": 12.666666666666666,
+        "inningsPitchedDisplay": "12.2",
+        "hitsAllowed": 17,
         "runsAllowed": 11,
         "earnedRunsAllowed": 9,
-        "walksAllowed": 7,
-        "strikeouts": 7,
-        "doublesAllowed": 0,
+        "walksAllowed": 8,
+        "strikeouts": 8,
+        "doublesAllowed": 1,
         "triplesAllowed": 1,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 44,
+        "opponentsAtBats": 51,
         "wildPitches": 3,
         "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.341,
+        "opponentsBattingAverage": 0.333,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3507,40 +3507,40 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 17.329545454545457,
+          "Miss bats": 15.311004784688995,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Liam Thyen gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.59",
-          "WHIP 2.06",
-          "K/9 5.9"
+          "ERA 6.39",
+          "WHIP 1.97",
+          "K/9 5.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.59"
+            "value": "6.39"
           },
           {
             "label": "WHIP",
-            "value": "2.06"
+            "value": "1.97"
           },
           {
             "label": "K/9",
-            "value": "5.9"
+            "value": "5.7"
           },
           {
             "label": "BB/9",
-            "value": "5.9"
+            "value": "5.7"
           },
           {
             "label": "HR/9",
-            "value": "0.84"
+            "value": "0.71"
           },
           {
             "label": "IP",
-            "value": "10.7"
+            "value": "12.7"
           }
         ],
         "metaLine": "FR / N/A",
@@ -3733,22 +3733,22 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "28",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/conlon-walker/9862",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Conlon_Walker_jhrQJ.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 39,
+        "gamesPlayed": 42,
+        "gamesStarted": 40,
         "battingAverage": 0.264,
-        "onBasePercentage": 0.317,
-        "sluggingPercentage": 0.389,
-        "ops": 0.706,
-        "atBats": 144,
-        "runs": 16,
-        "hits": 38,
-        "doubles": 6,
+        "onBasePercentage": 0.319,
+        "sluggingPercentage": 0.392,
+        "ops": 0.711,
+        "atBats": 148,
+        "runs": 17,
+        "hits": 39,
+        "doubles": 7,
         "triples": 0,
         "homeRuns": 4,
         "runsBattedIn": 27,
-        "totalBases": 56,
+        "totalBases": 58,
         "walks": 13,
-        "hitByPitch": 0,
+        "hitByPitch": 1,
         "strikeouts": 31,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
@@ -3756,10 +3756,10 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "sacrificeHits": 2,
         "stolenBases": 3,
         "stolenBasesAttempts": 5,
-        "putouts": 78,
+        "putouts": 80,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 170,
+        "plateAppearances": 175,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -3771,9 +3771,9 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "28",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/conlon-walker/9862",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Conlon_Walker_jhrQJ.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
-        "putouts": 78,
+        "gamesPlayed": 32,
+        "gamesStarted": 32,
+        "putouts": 80,
         "assists": 4,
         "errors": 1,
         "fieldingPercentage": 0.988,
@@ -3783,7 +3783,7 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 83
+        "totalChances": 85
       },
       "evaluation": {
         "score": 21,
@@ -3792,8 +3792,8 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 20.555555555555543,
-          "Power": 18.15789473684211,
+          "On-base": 21.666666666666657,
+          "Power": 18.947368421052634,
           "Contact": 27.500000000000007,
           "Discipline": 24.37275985663082,
           "Speed": 10
@@ -3801,8 +3801,8 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "summary": "Conlon Walker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .264",
-          "OBP .317",
-          "SLG .389"
+          "OBP .319",
+          "SLG .392"
         ],
         "statCards": [
           {
@@ -3811,11 +3811,11 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           },
           {
             "label": "OBP",
-            "value": ".317"
+            "value": ".319"
           },
           {
             "label": "SLG",
-            "value": ".389"
+            "value": ".392"
           },
           {
             "label": "HR",
@@ -4023,13 +4023,13 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "30",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/robbie-lavey/9853",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Robbie_jzVT1.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "battingAverage": 0.345,
-        "onBasePercentage": 0.468,
-        "sluggingPercentage": 0.533,
-        "ops": 1.001,
-        "atBats": 165,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "battingAverage": 0.335,
+        "onBasePercentage": 0.457,
+        "sluggingPercentage": 0.518,
+        "ops": 0.975,
+        "atBats": 170,
         "runs": 36,
         "hits": 57,
         "doubles": 10,
@@ -4039,17 +4039,17 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "totalBases": 88,
         "walks": 36,
         "hitByPitch": 2,
-        "strikeouts": 30,
+        "strikeouts": 31,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 7,
-        "putouts": 272,
+        "putouts": 281,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 213,
+        "plateAppearances": 218,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -4061,51 +4061,51 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "30",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/robbie-lavey/9853",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Robbie_jzVT1.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "putouts": 272,
-        "assists": 31,
+        "gamesPlayed": 43,
+        "gamesStarted": 43,
+        "putouts": 281,
+        "assists": 33,
         "errors": 5,
         "fieldingPercentage": 0.984,
         "doublePlays": 1,
-        "stolenBasesAgainst": 48,
-        "caughtStealingBy": 19,
+        "stolenBasesAgainst": 49,
+        "caughtStealingBy": 21,
         "stolenBasesPercentage": null,
         "passedBalls": 9,
         "catchersInterference": 2,
-        "totalChances": 308
+        "totalChances": 319
       },
       "evaluation": {
-        "score": 76,
+        "score": 73,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 100,
-          "Power": 56.052631578947384,
-          "Contact": 78.12499999999997,
+          "On-base": 98.33333333333333,
+          "Power": 52.10526315789474,
+          "Contact": 71.87500000000001,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },
         "summary": "Robbie Lavey profiles as a C-1B piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .345",
-          "OBP .468",
-          "SLG .533"
+          "AVG .335",
+          "OBP .457",
+          "SLG .518"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".345"
+            "value": ".335"
           },
           {
             "label": "OBP",
-            "value": ".468"
+            "value": ".457"
           },
           {
             "label": "SLG",
-            "value": ".533"
+            "value": ".518"
           },
           {
             "label": "HR",
@@ -4453,31 +4453,31 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "33",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/jonas-aponick/9844",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Jonas_Aponick_BoJaD.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 1,
-        "appearances": 12,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 9.6,
-        "whip": 2.4,
+        "earnedRunAverage": 9.56,
+        "whip": 2.31,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 15,
-        "inningsPitchedDisplay": "15.0",
-        "hitsAllowed": 16,
-        "runsAllowed": 17,
-        "earnedRunsAllowed": 16,
+        "inningsPitched": 16,
+        "inningsPitchedDisplay": "16.0",
+        "hitsAllowed": 17,
+        "runsAllowed": 18,
+        "earnedRunsAllowed": 17,
         "walksAllowed": 20,
-        "strikeouts": 14,
+        "strikeouts": 15,
         "doublesAllowed": 3,
         "triplesAllowed": 2,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 59,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 62,
         "wildPitches": 2,
-        "hitBatters": 1,
+        "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.271,
+        "opponentsBattingAverage": 0.274,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4487,7 +4487,7 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "jersey": "33",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/jonas-aponick/9844",
         "imageUrl": "https://gwsports.com/images/2025/10/1/Jonas_Aponick_BoJaD.jpg",
-        "gamesPlayed": 5,
+        "gamesPlayed": 6,
         "gamesStarted": 1,
         "putouts": 1,
         "assists": 1,
@@ -4495,7 +4495,7 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "fieldingPercentage": 1,
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
-        "caughtStealingBy": 1,
+        "caughtStealingBy": 2,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
@@ -4510,24 +4510,24 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 40,
+          "Miss bats": 40.340909090909086,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Jonas Aponick gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.60",
-          "WHIP 2.40",
+          "ERA 9.56",
+          "WHIP 2.31",
           "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.60"
+            "value": "9.56"
           },
           {
             "label": "WHIP",
-            "value": "2.40"
+            "value": "2.31"
           },
           {
             "label": "K/9",
@@ -4535,15 +4535,15 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           },
           {
             "label": "BB/9",
-            "value": "12.0"
+            "value": "11.3"
           },
           {
             "label": "HR/9",
-            "value": "1.20"
+            "value": "1.69"
           },
           {
             "label": "IP",
-            "value": "15.0"
+            "value": "16.0"
           }
         ],
         "metaLine": "SO / N/A",
@@ -5279,29 +5279,29 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "position": "OF",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 29,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Kent profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .271",
-          "OBP .363",
-          "SLG .335"
+          "AVG .264",
+          "OBP .359",
+          "SLG .327"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".271"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".363"
+            "value": ".359"
           },
           {
             "label": "SLG",
-            "value": ".335"
+            "value": ".327"
           },
           {
             "label": "HR",
@@ -5317,10 +5317,10 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           }
         ],
         "components": {
-          "On-base": 46.11111111111109,
-          "Power": 3.9473684210526354,
-          "Contact": 31.875000000000007,
-          "Discipline": 33.33333333333333,
+          "On-base": 43.888888888888864,
+          "Power": 1.8421052631578967,
+          "Contact": 27.500000000000007,
+          "Discipline": 34.92063492063491,
           "Speed": 30
         },
         "metaLine": "GR / N/A",
@@ -5417,29 +5417,29 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 59,
+        "score": 57,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Brodie Freker profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .303",
-          "OBP .438",
-          "SLG .474"
+          "AVG .300",
+          "OBP .430",
+          "SLG .475"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".303"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".438"
+            "value": ".430"
           },
           {
             "label": "SLG",
-            "value": ".474"
+            "value": ".475"
           },
           {
             "label": "HR",
@@ -5455,9 +5455,9 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           }
         ],
         "components": {
-          "On-base": 87.77777777777777,
-          "Power": 40.526315789473685,
-          "Contact": 51.87499999999999,
+          "On-base": 83.33333333333331,
+          "Power": 40.78947368421053,
+          "Contact": 49.999999999999986,
           "Discipline": 77.19298245614034,
           "Speed": 0
         },
@@ -5486,29 +5486,29 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 21,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nick Mullen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .257",
-          "OBP .335",
-          "SLG .368"
+          "AVG .259",
+          "OBP .343",
+          "SLG .374"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".257"
+            "value": ".259"
           },
           {
             "label": "OBP",
-            "value": ".335"
+            "value": ".343"
           },
           {
             "label": "SLG",
-            "value": ".368"
+            "value": ".374"
           },
           {
             "label": "HR",
@@ -5516,7 +5516,7 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -5524,10 +5524,10 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           }
         ],
         "components": {
-          "On-base": 30.555555555555554,
-          "Power": 12.63157894736842,
-          "Contact": 23.125000000000004,
-          "Discipline": 20.261437908496724,
+          "On-base": 35,
+          "Power": 14.210526315789473,
+          "Contact": 24.375000000000004,
+          "Discipline": 20.98765432098765,
           "Speed": 13.333333333333334
         },
         "metaLine": "JR / N/A",
@@ -5769,34 +5769,34 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         },
         "summary": "Brad Marks gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.97",
-          "WHIP 2.23",
-          "K/9 1.7"
+          "ERA 5.84",
+          "WHIP 1.95",
+          "K/9 1.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.97"
+            "value": "5.84"
           },
           {
             "label": "WHIP",
-            "value": "2.23"
+            "value": "1.95"
           },
           {
             "label": "K/9",
-            "value": "1.7"
+            "value": "1.5"
           },
           {
             "label": "BB/9",
-            "value": "7.0"
+            "value": "5.8"
           },
           {
             "label": "HR/9",
-            "value": "0.87"
+            "value": "0.73"
           },
           {
             "label": "IP",
-            "value": "10.3"
+            "value": "12.3"
           }
         ],
         "components": {
@@ -5831,29 +5831,29 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 33,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Charlie Walsh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .270",
-          "OBP .355",
-          "SLG .460"
+          "AVG .264",
+          "OBP .352",
+          "SLG .450"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".270"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".355"
+            "value": ".352"
           },
           {
             "label": "SLG",
-            "value": ".460"
+            "value": ".450"
           },
           {
             "label": "HR",
@@ -5869,10 +5869,10 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           }
         ],
         "components": {
-          "On-base": 41.66666666666664,
-          "Power": 36.842105263157904,
-          "Contact": 31.25000000000001,
-          "Discipline": 22.22222222222222,
+          "On-base": 39.99999999999997,
+          "Power": 34.21052631578948,
+          "Contact": 27.500000000000007,
+          "Discipline": 25.39682539682539,
           "Speed": 10
         },
         "metaLine": "SO / N/A",
@@ -5900,29 +5900,29 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 13,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Michael Bravette gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .235",
-          "OBP .307",
-          "SLG .235"
+          "AVG .219",
+          "OBP .288",
+          "SLG .219"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".235"
+            "value": ".219"
           },
           {
             "label": "OBP",
-            "value": ".307"
+            "value": ".288"
           },
           {
             "label": "SLG",
-            "value": ".235"
+            "value": ".219"
           },
           {
             "label": "HR",
@@ -5938,10 +5938,10 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           }
         ],
         "components": {
-          "On-base": 14.999999999999982,
+          "On-base": 4.444444444444418,
           "Power": 0,
-          "Contact": 9.374999999999991,
-          "Discipline": 33.33333333333333,
+          "Contact": 0,
+          "Discipline": 28.282828282828277,
           "Speed": 16.666666666666664
         },
         "metaLine": "FR / N/A",
@@ -6176,29 +6176,29 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 57,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Cristino Tufano profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .298",
-          "OBP .435",
-          "SLG .395"
+          "AVG .310",
+          "OBP .440",
+          "SLG .403"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".298"
+            "value": ".310"
           },
           {
             "label": "OBP",
-            "value": ".435"
+            "value": ".440"
           },
           {
             "label": "SLG",
-            "value": ".395"
+            "value": ".403"
           },
           {
             "label": "HR",
@@ -6214,9 +6214,9 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           }
         ],
         "components": {
-          "On-base": 86.1111111111111,
-          "Power": 19.736842105263165,
-          "Contact": 48.749999999999986,
+          "On-base": 88.88888888888889,
+          "Power": 21.8421052631579,
+          "Contact": 56.25,
           "Discipline": 100,
           "Speed": 20
         },
@@ -6245,48 +6245,48 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 8,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jasper Nadel looks like a RHP option who keeps traffic under control.",
+        "summary": "Jasper Nadel looks like a RHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.35",
-          "WHIP 1.21",
-          "K/9 7.0"
+          "ERA 3.97",
+          "WHIP 1.19",
+          "K/9 6.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.35"
+            "value": "3.97"
           },
           {
             "label": "WHIP",
-            "value": "1.21"
+            "value": "1.19"
           },
           {
             "label": "K/9",
-            "value": "7.0"
+            "value": "6.8"
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "4.0"
           },
           {
             "label": "HR/9",
-            "value": "0.44"
+            "value": "0.40"
           },
           {
             "label": "IP",
-            "value": "20.7"
+            "value": "22.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 26.97947214076246,
-          "Command": 15.555555555555559,
+          "Miss bats": 25,
+          "Command": 14.000000000000004,
           "Damage suppression": 0
         },
         "metaLine": "SO / N/A",
@@ -6390,40 +6390,40 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         },
         "summary": "Drew Harris gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.32",
-          "WHIP 1.58",
-          "K/9 6.9"
+          "ERA 6.97",
+          "WHIP 1.50",
+          "K/9 7.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.32"
+            "value": "6.97"
           },
           {
             "label": "WHIP",
-            "value": "1.58"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "6.9"
+            "value": "7.0"
           },
           {
             "label": "BB/9",
-            "value": "7.8"
+            "value": "7.4"
           },
           {
             "label": "HR/9",
-            "value": "0.46"
+            "value": "0.44"
           },
           {
             "label": "IP",
-            "value": "19.7"
+            "value": "20.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 26.04006163328197,
+          "Miss bats": 26.97947214076246,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -6521,47 +6521,47 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 5,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Henry Knighton gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 12.00",
-          "WHIP 2.89",
-          "K/9 7.0"
+          "ERA 9.82",
+          "WHIP 2.55",
+          "K/9 8.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "12.00"
+            "value": "9.82"
           },
           {
             "label": "WHIP",
-            "value": "2.89"
+            "value": "2.55"
           },
           {
             "label": "K/9",
-            "value": "7.0"
+            "value": "8.2"
           },
           {
             "label": "BB/9",
-            "value": "14.0"
+            "value": "11.5"
           },
           {
             "label": "HR/9",
-            "value": "3.00"
+            "value": "2.45"
           },
           {
             "label": "IP",
-            "value": "9.0"
+            "value": "11.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 27.27272727272727,
+          "Miss bats": 38.01652892561984,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -6597,18 +6597,18 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         },
         "summary": "Reese Crochet gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 14.29",
-          "WHIP 1.94",
+          "ERA 19.06",
+          "WHIP 2.47",
           "K/9 6.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "14.29"
+            "value": "19.06"
           },
           {
             "label": "WHIP",
-            "value": "1.94"
+            "value": "2.47"
           },
           {
             "label": "K/9",
@@ -6616,7 +6616,7 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           },
           {
             "label": "BB/9",
-            "value": "9.5"
+            "value": "14.3"
           },
           {
             "label": "HR/9",
@@ -6728,29 +6728,29 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 46,
+        "score": 47,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Josh Wenz profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .254",
-          "OBP .425",
-          "SLG .358"
+          "AVG .264",
+          "OBP .424",
+          "SLG .361"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".254"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".425"
+            "value": ".424"
           },
           {
             "label": "SLG",
-            "value": ".358"
+            "value": ".361"
           },
           {
             "label": "HR",
@@ -6758,7 +6758,7 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           },
           {
             "label": "RBI",
-            "value": "10"
+            "value": "12"
           },
           {
             "label": "SB",
@@ -6766,10 +6766,10 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           }
         ],
         "components": {
-          "On-base": 80.55555555555554,
-          "Power": 9.999999999999995,
-          "Contact": 21.250000000000004,
-          "Discipline": 100,
+          "On-base": 79.99999999999999,
+          "Power": 10.789473684210522,
+          "Contact": 27.500000000000007,
+          "Discipline": 96.82539682539681,
           "Speed": 0
         },
         "metaLine": "JR / N/A",
@@ -6804,40 +6804,40 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         },
         "summary": "Liam Thyen gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.59",
-          "WHIP 2.06",
-          "K/9 5.9"
+          "ERA 6.39",
+          "WHIP 1.97",
+          "K/9 5.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.59"
+            "value": "6.39"
           },
           {
             "label": "WHIP",
-            "value": "2.06"
+            "value": "1.97"
           },
           {
             "label": "K/9",
-            "value": "5.9"
+            "value": "5.7"
           },
           {
             "label": "BB/9",
-            "value": "5.9"
+            "value": "5.7"
           },
           {
             "label": "HR/9",
-            "value": "0.84"
+            "value": "0.71"
           },
           {
             "label": "IP",
-            "value": "10.7"
+            "value": "12.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 17.329545454545457,
+          "Miss bats": 15.311004784688995,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -6943,8 +6943,8 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "summary": "Conlon Walker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .264",
-          "OBP .317",
-          "SLG .389"
+          "OBP .319",
+          "SLG .392"
         ],
         "statCards": [
           {
@@ -6953,11 +6953,11 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           },
           {
             "label": "OBP",
-            "value": ".317"
+            "value": ".319"
           },
           {
             "label": "SLG",
-            "value": ".389"
+            "value": ".392"
           },
           {
             "label": "HR",
@@ -6973,8 +6973,8 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           }
         ],
         "components": {
-          "On-base": 20.555555555555543,
-          "Power": 18.15789473684211,
+          "On-base": 21.666666666666657,
+          "Power": 18.947368421052634,
           "Contact": 27.500000000000007,
           "Discipline": 24.37275985663082,
           "Speed": 10
@@ -7073,29 +7073,29 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "position": "C-1B",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 76,
+        "score": 73,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Robbie Lavey profiles as a C-1B piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .345",
-          "OBP .468",
-          "SLG .533"
+          "AVG .335",
+          "OBP .457",
+          "SLG .518"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".345"
+            "value": ".335"
           },
           {
             "label": "OBP",
-            "value": ".468"
+            "value": ".457"
           },
           {
             "label": "SLG",
-            "value": ".533"
+            "value": ".518"
           },
           {
             "label": "HR",
@@ -7111,9 +7111,9 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           }
         ],
         "components": {
-          "On-base": 100,
-          "Power": 56.052631578947384,
-          "Contact": 78.12499999999997,
+          "On-base": 98.33333333333333,
+          "Power": 52.10526315789474,
+          "Contact": 71.87500000000001,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },
@@ -7287,18 +7287,18 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         },
         "summary": "Jonas Aponick gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.60",
-          "WHIP 2.40",
+          "ERA 9.56",
+          "WHIP 2.31",
           "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.60"
+            "value": "9.56"
           },
           {
             "label": "WHIP",
-            "value": "2.40"
+            "value": "2.31"
           },
           {
             "label": "K/9",
@@ -7306,21 +7306,21 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           },
           {
             "label": "BB/9",
-            "value": "12.0"
+            "value": "11.3"
           },
           {
             "label": "HR/9",
-            "value": "1.20"
+            "value": "1.69"
           },
           {
             "label": "IP",
-            "value": "15.0"
+            "value": "16.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 40,
+          "Miss bats": 40.340909090909086,
           "Command": 0,
           "Damage suppression": 0
         },
