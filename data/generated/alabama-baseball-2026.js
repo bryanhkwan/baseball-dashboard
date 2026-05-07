@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.alabama2026 = {
-  "generatedAt": "2026-05-06T12:06:06.373Z",
+  "generatedAt": "2026-05-07T12:05:57.092Z",
   "season": 2026,
   "school": {
     "slug": "alabama",
@@ -94,7 +94,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
       "shutouts": "2",
       "creditForCombinedShutout": "0",
       "inningsPitched": "419.0",
-      "hitsAllowed": "383",
+      "hitsAllowed": "384",
       "runsAllowed": "235",
       "earnedRunsAllowed": "192",
       "walksAllowed": "175",
@@ -2071,14 +2071,14 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "appearances": 11,
         "gamesCompleted": 0,
         "earnedRunAverage": 3.86,
-        "whip": 1.78,
+        "whip": 1.84,
         "wins": 2,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
         "inningsPitched": 16.333333333333332,
         "inningsPitchedDisplay": "16.1",
-        "hitsAllowed": 22,
+        "hitsAllowed": 23,
         "runsAllowed": 9,
         "earnedRunsAllowed": 7,
         "walksAllowed": 7,
@@ -2090,7 +2090,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "wildPitches": 0,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.338,
+        "opponentsBattingAverage": 0.354,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2130,7 +2130,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "summary": "Bobby Alcock looks like a RHP option who limits runs.",
         "summaryMetrics": [
           "ERA 3.86",
-          "WHIP 1.78",
+          "WHIP 1.84",
           "K/9 7.7"
         ],
         "statCards": [
@@ -2140,7 +2140,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.78"
+            "value": "1.84"
           },
           {
             "label": "K/9",
@@ -6831,7 +6831,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "summary": "Bobby Alcock looks like a RHP option who limits runs.",
         "summaryMetrics": [
           "ERA 3.86",
-          "WHIP 1.78",
+          "WHIP 1.84",
           "K/9 7.7"
         ],
         "statCards": [
@@ -6841,7 +6841,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.78"
+            "value": "1.84"
           },
           {
             "label": "K/9",

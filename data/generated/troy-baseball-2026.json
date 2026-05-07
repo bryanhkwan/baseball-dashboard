@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-06T12:06:56.828Z",
+  "generatedAt": "2026-05-07T12:07:00.352Z",
   "season": 2026,
   "school": {
     "slug": "troy",
@@ -46,7 +46,7 @@
     "hitting": {
       "atBats": "1639",
       "runsScored": "319",
-      "hits": "455",
+      "hits": "456",
       "runsBattedIn": "292",
       "doubles": "100",
       "triples": "10",
@@ -2686,18 +2686,18 @@
         "imageUrl": "https://troytrojans.com/images/2026/1/7/23_Markham_Houston_BA3j8.jpg",
         "gamesPlayed": 30,
         "gamesStarted": 9,
-        "battingAverage": 0.268,
-        "onBasePercentage": 0.306,
-        "sluggingPercentage": 0.339,
-        "ops": 0.645,
+        "battingAverage": 0.286,
+        "onBasePercentage": 0.323,
+        "sluggingPercentage": 0.357,
+        "ops": 0.68,
         "atBats": 56,
         "runs": 12,
-        "hits": 15,
+        "hits": 16,
         "doubles": 4,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 5,
-        "totalBases": 19,
+        "totalBases": 20,
         "walks": 1,
         "hitByPitch": 3,
         "strikeouts": 13,
@@ -2737,36 +2737,36 @@
         "totalChances": 16
       },
       "evaluation": {
-        "score": 13,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 14.444444444444427,
-          "Power": 5.000000000000005,
-          "Contact": 30.00000000000001,
+          "On-base": 23.88888888888888,
+          "Power": 9.736842105263154,
+          "Contact": 41.24999999999998,
           "Discipline": 0,
           "Speed": 13.333333333333334
         },
         "summary": "Houston Markham gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .268",
-          "OBP .306",
-          "SLG .339"
+          "AVG .286",
+          "OBP .323",
+          "SLG .357"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".268"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".306"
+            "value": ".323"
           },
           {
             "label": "SLG",
-            "value": ".339"
+            "value": ".357"
           },
           {
             "label": "HR",
@@ -6441,29 +6441,29 @@
         "position": "OF",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 13,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Houston Markham gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .268",
-          "OBP .306",
-          "SLG .339"
+          "AVG .286",
+          "OBP .323",
+          "SLG .357"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".268"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".306"
+            "value": ".323"
           },
           {
             "label": "SLG",
-            "value": ".339"
+            "value": ".357"
           },
           {
             "label": "HR",
@@ -6479,9 +6479,9 @@
           }
         ],
         "components": {
-          "On-base": 14.444444444444427,
-          "Power": 5.000000000000005,
-          "Contact": 30.00000000000001,
+          "On-base": 23.88888888888888,
+          "Power": 9.736842105263154,
+          "Contact": 41.24999999999998,
           "Discipline": 0,
           "Speed": 13.333333333333334
         },

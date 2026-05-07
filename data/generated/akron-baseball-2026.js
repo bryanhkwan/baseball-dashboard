@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.akron2026 = {
-  "generatedAt": "2026-05-06T12:06:05.313Z",
+  "generatedAt": "2026-05-07T12:05:56.008Z",
   "season": 2026,
   "school": {
     "slug": "akron",
@@ -25,17 +25,21 @@ window.__BASEBALL_DATASETS__.akron2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 36,
+    "rosterPlayers": 35,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 18,
-    "playersWithPitchingStats": 17,
-    "playersWithFieldingStats": 33,
-    "mergedPlayersWithAnyStats": 33,
+    "playersWithPitchingStats": 16,
+    "playersWithFieldingStats": 32,
+    "mergedPlayersWithAnyStats": 32,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
       "hitting": [],
-      "pitching": [],
-      "fielding": []
+      "pitching": [
+        "Adison Mattix"
+      ],
+      "fielding": [
+        "Adison Mattix"
+      ]
     }
   },
   "teamSummary": {
@@ -2305,148 +2309,6 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "detailBadges": [
           "RHP",
           "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats"
-      }
-    },
-    {
-      "id": "akron-9858",
-      "schoolSlug": "akron",
-      "school": "Akron",
-      "schoolLongName": "University of Akron",
-      "name": "Adison Mattix",
-      "normalizedName": "adison mattix",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "R-JR",
-      "handedness": "R/R",
-      "jersey": "17",
-      "hometown": "Edmonds, Wash.",
-      "highSchool": "Mountlake Terrace HS | Everett CC",
-      "previousSchool": "",
-      "hometownHighSchool": "Edmonds, Wash. / Mountlake Terrace HS | Everett CC",
-      "profileUrl": "https://gozips.com/sports/baseball/roster/adison-mattix/9858",
-      "imageUrl": "https://gozips.com/images/2026/1/13/17_Adison_Mattix.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "9858",
-      "sources": [
-        "Akron Athletics roster",
-        "Akron cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "9858",
-        "name": "Adison Mattix",
-        "normalizedName": "adison mattix",
-        "jersey": "17",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/adison-mattix/9858",
-        "imageUrl": "https://gozips.com/images/2026/1/13/17_Adison_Mattix.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 0,
-        "appearances": 6,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 14.73,
-        "whip": 4.09,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 3.6666666666666665,
-        "inningsPitchedDisplay": "3.2",
-        "hitsAllowed": 4,
-        "runsAllowed": 6,
-        "earnedRunsAllowed": 6,
-        "walksAllowed": 11,
-        "strikeouts": 3,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 14,
-        "wildPitches": 1,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.286,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "9858",
-        "name": "Adison Mattix",
-        "normalizedName": "adison mattix",
-        "jersey": "17",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/adison-mattix/9858",
-        "imageUrl": "https://gozips.com/images/2026/1/13/17_Adison_Mattix.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
-      "evaluation": {
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 30.57851239669422,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Adison Mattix gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 14.73",
-          "WHIP 4.09",
-          "K/9 7.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "14.73"
-          },
-          {
-            "label": "WHIP",
-            "value": "4.09"
-          },
-          {
-            "label": "K/9",
-            "value": "7.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "27.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "3.7"
-          }
-        ],
-        "metaLine": "R-JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-JR",
           "R/R",
           "Pitcher"
         ],
@@ -5197,10 +5059,10 @@ window.__BASEBALL_DATASETS__.akron2026 = {
   "playerBoard": {
     "source": "Akron Athletics roster + cumulative stats / ESPN roster",
     "note": "This Akron-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Akron's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 36,
+    "totalPlayers": 35,
     "roleCounts": {
       "Hitter": 18,
-      "Pitcher": 18
+      "Pitcher": 17
     },
     "players": [
       {
@@ -6303,75 +6165,6 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "schoolSlug": "akron",
         "compositeRole": "Pitcher",
         "profileUrl": "https://gozips.com/sports/baseball/roster/landon-vandegrift/9857",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "akron-9858",
-        "name": "Adison Mattix",
-        "school": "Akron",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-JR",
-        "handedness": "R/R",
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Adison Mattix gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 14.73",
-          "WHIP 4.09",
-          "K/9 7.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "14.73"
-          },
-          {
-            "label": "WHIP",
-            "value": "4.09"
-          },
-          {
-            "label": "K/9",
-            "value": "7.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "27.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "3.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 30.57851239669422,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Akron Athletics roster",
-          "Akron cumulative stats"
-        ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats",
-        "schoolSlug": "akron",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/adison-mattix/9858",
         "espnAthleteId": ""
       },
       {
