@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.richmond2026 = {
-  "generatedAt": "2026-05-07T12:06:45.581Z",
+  "generatedAt": "2026-05-08T11:45:38.170Z",
   "season": 2026,
   "school": {
     "slug": "richmond",
@@ -59,7 +59,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
       "walks": "215",
       "intentionalWalks": "6",
       "strikeouts": "399",
-      "strikeoutsLooking": "72",
+      "strikeoutsLooking": "73",
       "hitByPitch": "101",
       "stolenBases": "99",
       "caughtStealing": "31",
@@ -113,12 +113,12 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
       "hitBatters": "101",
       "strikeoutsLooking": "61",
       "intentionalWalks": "8",
-      "inheritedRunners": "88",
+      "inheritedRunners": "90",
       "inheritedRunnersThatScored": "32",
       "sacrificeHitsAllowed": "27",
       "sacrificeFliesAllowed": "22",
       "catchersInterferenceAllowed": "0",
-      "pitches": "7091",
+      "pitches": "7092",
       "flyouts": "458",
       "groundouts": "355",
       "teamUnearnedRuns": "0",
@@ -4284,31 +4284,31 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "34",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/glenn-smith/7817",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Smith_iUhWL.JPG",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 7,
-        "appearances": 10,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 9.53,
-        "whip": 1.98,
+        "earnedRunAverage": 9.51,
+        "whip": 2.05,
         "wins": 1,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 28.333333333333332,
-        "inningsPitchedDisplay": "28.1",
-        "hitsAllowed": 35,
-        "runsAllowed": 33,
-        "earnedRunsAllowed": 30,
-        "walksAllowed": 21,
-        "strikeouts": 22,
-        "doublesAllowed": 6,
+        "inningsPitched": 29.333333333333332,
+        "inningsPitchedDisplay": "29.1",
+        "hitsAllowed": 38,
+        "runsAllowed": 34,
+        "earnedRunsAllowed": 31,
+        "walksAllowed": 22,
+        "strikeouts": 24,
+        "doublesAllowed": 7,
         "triplesAllowed": 1,
         "homeRunsAllowed": 8,
-        "opponentsAtBats": 103,
-        "wildPitches": 0,
+        "opponentsAtBats": 109,
+        "wildPitches": 1,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.34,
+        "opponentsBattingAverage": 0.349,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4341,40 +4341,40 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 27.16577540106952,
-          "Command": 0.9523809523809535,
+          "Miss bats": 30.57851239669422,
+          "Command": 1.8181818181818208,
           "Damage suppression": 0
         },
         "summary": "Glenn Smith gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.53",
-          "WHIP 1.98",
-          "K/9 7.0"
+          "ERA 9.51",
+          "WHIP 2.05",
+          "K/9 7.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.53"
+            "value": "9.51"
           },
           {
             "label": "WHIP",
-            "value": "1.98"
+            "value": "2.05"
           },
           {
             "label": "K/9",
-            "value": "7.0"
+            "value": "7.4"
           },
           {
             "label": "BB/9",
-            "value": "6.7"
+            "value": "6.8"
           },
           {
             "label": "HR/9",
-            "value": "2.54"
+            "value": "2.45"
           },
           {
             "label": "IP",
-            "value": "28.3"
+            "value": "29.3"
           }
         ],
         "metaLine": "SO / R/R",
@@ -5480,27 +5480,27 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "gamesStarted": 0,
         "appearances": 4,
         "gamesCompleted": 0,
-        "earnedRunAverage": 13.5,
-        "whip": 3.25,
+        "earnedRunAverage": 15,
+        "whip": 3,
         "wins": 0,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 4,
-        "inningsPitchedDisplay": "4.0",
-        "hitsAllowed": 9,
-        "runsAllowed": 7,
-        "earnedRunsAllowed": 6,
-        "walksAllowed": 4,
-        "strikeouts": 4,
-        "doublesAllowed": 1,
+        "inningsPitched": 3,
+        "inningsPitchedDisplay": "3.0",
+        "hitsAllowed": 6,
+        "runsAllowed": 6,
+        "earnedRunsAllowed": 5,
+        "walksAllowed": 3,
+        "strikeouts": 2,
+        "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 19,
-        "wildPitches": 4,
+        "opponentsAtBats": 13,
+        "wildPitches": 3,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.474,
+        "opponentsBattingAverage": 0.462,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5525,7 +5525,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "totalChances": 1
       },
       "evaluation": {
-        "score": 9,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5533,28 +5533,28 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
+          "Miss bats": 18.181818181818183,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Chase Lawley looks like a RHP option who misses bats.",
+        "summary": "Chase Lawley gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 3.25",
-          "K/9 9.0"
+          "ERA 15.00",
+          "WHIP 3.00",
+          "K/9 6.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "13.50"
+            "value": "15.00"
           },
           {
             "label": "WHIP",
-            "value": "3.25"
+            "value": "3.00"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "6.0"
           },
           {
             "label": "BB/9",
@@ -5566,7 +5566,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           },
           {
             "label": "IP",
-            "value": "4.0"
+            "value": "3.0"
           }
         ],
         "metaLine": "FR / R/R",
@@ -7746,41 +7746,41 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         },
         "summary": "Glenn Smith gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.53",
-          "WHIP 1.98",
-          "K/9 7.0"
+          "ERA 9.51",
+          "WHIP 2.05",
+          "K/9 7.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.53"
+            "value": "9.51"
           },
           {
             "label": "WHIP",
-            "value": "1.98"
+            "value": "2.05"
           },
           {
             "label": "K/9",
-            "value": "7.0"
+            "value": "7.4"
           },
           {
             "label": "BB/9",
-            "value": "6.7"
+            "value": "6.8"
           },
           {
             "label": "HR/9",
-            "value": "2.54"
+            "value": "2.45"
           },
           {
             "label": "IP",
-            "value": "28.3"
+            "value": "29.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 27.16577540106952,
-          "Command": 0.9523809523809535,
+          "Miss bats": 30.57851239669422,
+          "Command": 1.8181818181818208,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -8358,29 +8358,29 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 9,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Chase Lawley looks like a RHP option who misses bats.",
+        "summary": "Chase Lawley gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 3.25",
-          "K/9 9.0"
+          "ERA 15.00",
+          "WHIP 3.00",
+          "K/9 6.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "13.50"
+            "value": "15.00"
           },
           {
             "label": "WHIP",
-            "value": "3.25"
+            "value": "3.00"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "6.0"
           },
           {
             "label": "BB/9",
@@ -8392,13 +8392,13 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           },
           {
             "label": "IP",
-            "value": "4.0"
+            "value": "3.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
+          "Miss bats": 18.181818181818183,
           "Command": 0,
           "Damage suppression": 0
         },

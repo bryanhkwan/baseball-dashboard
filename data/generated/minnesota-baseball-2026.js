@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.minnesota2026 = {
-  "generatedAt": "2026-05-07T12:06:32.597Z",
+  "generatedAt": "2026-05-08T11:45:27.580Z",
   "season": 2026,
   "school": {
     "slug": "minnesota",
@@ -25,7 +25,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 36,
+    "rosterPlayers": 35,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 17,
     "playersWithPitchingStats": 17,
@@ -3451,94 +3451,6 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
       }
     },
     {
-      "id": "minnesota-23649",
-      "schoolSlug": "minnesota",
-      "school": "Minnesota",
-      "schoolLongName": "University of Minnesota",
-      "name": "Jake Elbeery",
-      "normalizedName": "jake elbeery",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "INF",
-      "classYear": "GR",
-      "handedness": "L/R",
-      "jersey": "35",
-      "hometown": "North Andover, MA",
-      "highSchool": "Austin Prep",
-      "previousSchool": "University of Richmond",
-      "hometownHighSchool": "North Andover, MA / Austin Prep",
-      "profileUrl": "https://gophersports.com/sports/baseball/roster/jake-elbeery/23649",
-      "imageUrl": "https://gophersports.com/images/2025/10/13/Elbeery_Jake_0002.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "23649",
-      "sources": [
-        "Minnesota Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Jake Elbeery gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "GR / L/R",
-        "detailBadges": [
-          "INF",
-          "GR",
-          "L/R",
-          "Rostered"
-        ],
-        "sourceSummary": "Minnesota Athletics roster"
-      }
-    },
-    {
       "id": "minnesota-23675",
       "schoolSlug": "minnesota",
       "school": "Minnesota",
@@ -5121,9 +5033,9 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
   "playerBoard": {
     "source": "Minnesota Athletics roster + cumulative stats / ESPN roster",
     "note": "This Minnesota-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Minnesota's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 36,
+    "totalPlayers": 35,
     "roleCounts": {
-      "Hitter": 16,
+      "Hitter": 15,
       "Pitcher": 20
     },
     "players": [
@@ -6712,74 +6624,6 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "schoolSlug": "minnesota",
         "compositeRole": "Pitcher",
         "profileUrl": "https://gophersports.com/sports/baseball/roster/joe-sperry/23661",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "minnesota-23649",
-        "name": "Jake Elbeery",
-        "school": "Minnesota",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "GR",
-        "handedness": "L/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jake Elbeery gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "GR / L/R",
-        "detailBadges": [
-          "INF",
-          "GR",
-          "L/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Minnesota Athletics roster"
-        ],
-        "sourceSummary": "Minnesota Athletics roster",
-        "schoolSlug": "minnesota",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gophersports.com/sports/baseball/roster/jake-elbeery/23649",
         "espnAthleteId": ""
       },
       {

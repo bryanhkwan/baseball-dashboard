@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T12:07:18.682Z",
+  "generatedAt": "2026-05-08T11:46:06.941Z",
   "season": 2026,
   "source": "Generated Sidearm baseball roster pool",
   "note": "This compact roster-only pool captures public school-site baseball rosters so non-appearing players can still enter coverage before they log a reachable NCAA boxscore.",
@@ -254,7 +254,7 @@
       "slug": "minnesota",
       "name": "Minnesota",
       "longName": "University of Minnesota",
-      "rosterPlayers": 36,
+      "rosterPlayers": 35,
       "rosterUrl": "https://gophersports.com/sports/baseball/roster"
     },
     {
@@ -514,9 +514,9 @@
     "schoolsRequested": 73,
     "schoolsLoaded": 72,
     "schoolsFailed": 1,
-    "totalPlayers": 2746,
+    "totalPlayers": 2745,
     "roleCounts": {
-      "Hitter": 1372,
+      "Hitter": 1371,
       "Pitcher": 1374
     },
     "failures": [
@@ -6359,7 +6359,7 @@
       "Hitter",
       "OF",
       "SO",
-      "",
+      "L/L",
       "4",
       "Wellesley, Mass.",
       "Xaverian Brothers",
@@ -6455,7 +6455,7 @@
       "boston-college",
       "Owen DeShazo",
       "Hitter",
-      "IF",
+      "OF",
       "SR",
       "R/R",
       "12",
@@ -6525,7 +6525,7 @@
       "boston-college",
       "Kyle Wolff",
       "Hitter",
-      "1B",
+      "INF",
       "SR",
       "R/L",
       "18",
@@ -22297,20 +22297,6 @@
       "Rochester Lourdes",
       "University of South Carolina Lancaster",
       "https://gophersports.com/sports/baseball/roster/joe-sperry/23661"
-    ],
-    [
-      "minnesota-23649",
-      "minnesota",
-      "Jake Elbeery",
-      "Hitter",
-      "INF",
-      "GR",
-      "L/R",
-      "35",
-      "North Andover, MA",
-      "Austin Prep",
-      "University of Richmond",
-      "https://gophersports.com/sports/baseball/roster/jake-elbeery/23649"
     ],
     [
       "minnesota-23675",

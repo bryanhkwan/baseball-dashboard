@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.sacred-heart2026 = {
-  "generatedAt": "2026-05-07T12:06:49.016Z",
+  "generatedAt": "2026-05-08T11:45:40.552Z",
   "season": 2026,
   "school": {
     "slug": "sacred-heart",
@@ -74,14 +74,14 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
     "fielding": {
       "putouts": "1067",
       "assists": "407",
-      "errors": "78",
+      "errors": "77",
       "passedBalls": "13",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "63",
+      "stolenBasesAgainst": "62",
       "caughtStealingBy": "15",
       "involvedInDoublePlays": "29",
       "involvedInTriplePlays": "0",
-      "totalChances": "1552",
+      "totalChances": "1551",
       "fieldingPercentage": ".950"
     },
     "pitching": {
@@ -94,7 +94,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
       "shutouts": "0",
       "creditForCombinedShutout": "0",
       "inningsPitched": "356.0",
-      "hitsAllowed": "441",
+      "hitsAllowed": "442",
       "runsAllowed": "370",
       "earnedRunsAllowed": "322",
       "walksAllowed": "259",
@@ -2974,7 +2974,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "errors": 5,
         "fieldingPercentage": 0.97,
         "doublePlays": 2,
-        "stolenBasesAgainst": 32,
+        "stolenBasesAgainst": 31,
         "caughtStealingBy": 12,
         "stolenBasesPercentage": null,
         "passedBalls": 6,
@@ -3474,7 +3474,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "stolenBasesAttempts": 3,
         "putouts": 92,
         "assists": 0,
-        "errors": 5,
+        "errors": 4,
         "plateAppearances": 173,
         "caughtStealing": 1,
         "pickedOff": 0
@@ -3491,15 +3491,15 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "gamesStarted": 35,
         "putouts": 92,
         "assists": 3,
-        "errors": 5,
-        "fieldingPercentage": 0.95,
+        "errors": 4,
+        "fieldingPercentage": 0.96,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 100
+        "totalChances": 99
       },
       "evaluation": {
         "score": 17,
@@ -4065,7 +4065,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 5,
+        "stolenBasesAgainst": 4,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
@@ -4600,14 +4600,14 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "appearances": 2,
         "gamesCompleted": 0,
         "earnedRunAverage": 9,
-        "whip": 2,
+        "whip": 2.33,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
         "inningsPitched": 3,
         "inningsPitchedDisplay": "3.0",
-        "hitsAllowed": 4,
+        "hitsAllowed": 5,
         "runsAllowed": 5,
         "earnedRunsAllowed": 3,
         "walksAllowed": 2,
@@ -4619,7 +4619,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "wildPitches": 2,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.308,
+        "opponentsBattingAverage": 0.385,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4659,7 +4659,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "summary": "James Aselta gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "ERA 9.00",
-          "WHIP 2.00",
+          "WHIP 2.33",
           "K/9 3.0"
         ],
         "statCards": [
@@ -4669,7 +4669,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "2.33"
           },
           {
             "label": "K/9",
@@ -7531,7 +7531,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "summary": "James Aselta gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "ERA 9.00",
-          "WHIP 2.00",
+          "WHIP 2.33",
           "K/9 3.0"
         ],
         "statCards": [
@@ -7541,7 +7541,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "2.33"
           },
           {
             "label": "K/9",

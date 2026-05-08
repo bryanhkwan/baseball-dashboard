@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.boston-college2026 = {
-  "generatedAt": "2026-05-07T12:05:59.095Z",
+  "generatedAt": "2026-05-08T11:45:03.290Z",
   "season": 2026,
   "school": {
     "slug": "boston-college",
@@ -425,7 +425,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "position": "OF",
       "positionLong": "Outfield",
       "classYear": "SO",
-      "handedness": "N/A",
+      "handedness": "L/L",
       "jersey": "4",
       "hometown": "Wellesley, Mass.",
       "highSchool": "Xaverian Brothers",
@@ -528,11 +528,11 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SO / N/A",
+        "metaLine": "SO / L/L",
         "detailBadges": [
           "OF",
           "SO",
-          "N/A",
+          "L/L",
           "Hitter"
         ],
         "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
@@ -1334,8 +1334,8 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "normalizedName": "owen deshazo",
       "compositeRole": "Hitter",
       "role": "Hitter",
-      "position": "IF",
-      "positionLong": "Infield",
+      "position": "OF",
+      "positionLong": "Outfield",
       "classYear": "SR",
       "handedness": "R/R",
       "jersey": "12",
@@ -1462,7 +1462,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         ],
         "metaLine": "SR / R/R",
         "detailBadges": [
-          "IF",
+          "OF",
           "SR",
           "R/R",
           "Hitter"
@@ -2056,8 +2056,8 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "normalizedName": "kyle wolff",
       "compositeRole": "Hitter",
       "role": "Hitter",
-      "position": "1B",
-      "positionLong": "First Base",
+      "position": "INF",
+      "positionLong": "Infield",
       "classYear": "SR",
       "handedness": "R/L",
       "jersey": "18",
@@ -2184,7 +2184,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         ],
         "metaLine": "SR / R/L",
         "detailBadges": [
-          "1B",
+          "INF",
           "SR",
           "R/L",
           "Hitter"
@@ -5891,7 +5891,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "role": "Hitter",
         "position": "OF",
         "classYear": "SO",
-        "handedness": "N/A",
+        "handedness": "L/L",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -5936,11 +5936,11 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / N/A",
+        "metaLine": "SO / L/L",
         "detailBadges": [
           "OF",
           "SO",
-          "N/A",
+          "L/L",
           "Hitter"
         ],
         "leaderboards": [
@@ -6371,7 +6371,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "name": "Owen DeShazo",
         "school": "Boston College",
         "role": "Hitter",
-        "position": "IF",
+        "position": "OF",
         "classYear": "SR",
         "handedness": "R/R",
         "score": 1,
@@ -6420,7 +6420,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         },
         "metaLine": "SR / R/R",
         "detailBadges": [
-          "IF",
+          "OF",
           "SR",
           "R/R",
           "Hitter"
@@ -6716,7 +6716,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "name": "Kyle Wolff",
         "school": "Boston College",
         "role": "Hitter",
-        "position": "1B",
+        "position": "INF",
         "classYear": "SR",
         "handedness": "R/L",
         "score": 27,
@@ -6765,7 +6765,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         },
         "metaLine": "SR / R/L",
         "detailBadges": [
-          "1B",
+          "INF",
           "SR",
           "R/L",
           "Hitter"
