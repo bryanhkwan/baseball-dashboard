@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.princeton2026 = {
-  "generatedAt": "2026-05-08T11:45:35.545Z",
+  "generatedAt": "2026-05-10T11:14:36.286Z",
   "season": 2026,
   "school": {
     "slug": "princeton",

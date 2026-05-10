@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T11:45:44.731Z",
+  "generatedAt": "2026-05-10T11:14:44.279Z",
   "season": 2026,
   "school": {
     "slug": "st-thomas-mn",
@@ -38,86 +38,86 @@
     }
   },
   "teamSummary": {
-    "record": "9-34, 6-14",
-    "battingAverage": ".268",
-    "earnedRunAverage": "8.10",
-    "wins": "9",
-    "losses": "34",
+    "record": "10-35, 7-15",
+    "battingAverage": ".270",
+    "earnedRunAverage": "8.14",
+    "wins": "10",
+    "losses": "35",
     "hitting": {
-      "atBats": "1476",
-      "runsScored": "231",
-      "hits": "396",
-      "runsBattedIn": "215",
-      "doubles": "81",
-      "triples": "14",
+      "atBats": "1547",
+      "runsScored": "248",
+      "hits": "417",
+      "runsBattedIn": "231",
+      "doubles": "85",
+      "triples": "16",
       "homeRuns": "25",
-      "walks": "182",
+      "walks": "192",
       "intentionalWalks": "3",
-      "strikeouts": "326",
-      "strikeoutsLooking": "58",
-      "hitByPitch": "48",
-      "stolenBases": "73",
-      "caughtStealing": "11",
-      "sacrificeHits": "31",
-      "sacrificeFlies": "17",
-      "reachedOnCatchersInteference": "1",
+      "strikeouts": "339",
+      "strikeoutsLooking": "59",
+      "hitByPitch": "49",
+      "stolenBases": "77",
+      "caughtStealing": "12",
+      "sacrificeHits": "32",
+      "sacrificeFlies": "19",
+      "reachedOnCatchersInteference": "2",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "391",
-      "flyOuts": "370",
-      "groundedIntoDoublePlay": "23",
+      "groundOuts": "411",
+      "flyOuts": "387",
+      "groundedIntoDoublePlay": "24",
       "pickedOff": "2",
-      "doublePlaysHitInto": "26",
+      "doublePlaysHitInto": "27",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1087",
-      "assists": "379",
-      "errors": "61",
+      "putouts": "1138",
+      "assists": "394",
+      "errors": "63",
       "passedBalls": "17",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "85",
+      "stolenBasesAgainst": "86",
       "caughtStealingBy": "11",
       "involvedInDoublePlays": "35",
       "involvedInTriplePlays": "0",
-      "totalChances": "1527",
-      "fieldingPercentage": ".960"
+      "totalChances": "1595",
+      "fieldingPercentage": ".961"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "9",
-      "saves": "11",
-      "losses": "34",
+      "wins": "10",
+      "saves": "13",
+      "losses": "35",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "0",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "362.1",
-      "hitsAllowed": "432",
-      "runsAllowed": "373",
-      "earnedRunsAllowed": "326",
-      "walksAllowed": "251",
-      "strikeouts": "293",
-      "battersFaced": "1842",
-      "opponentAtBats": "1460",
-      "doublesAllowed": "80",
-      "triplesAllowed": "21",
-      "homerunsAllowed": "51",
-      "wildPitches": "36",
+      "inningsPitched": "379.1",
+      "hitsAllowed": "454",
+      "runsAllowed": "391",
+      "earnedRunsAllowed": "343",
+      "walksAllowed": "264",
+      "strikeouts": "313",
+      "battersFaced": "1929",
+      "opponentAtBats": "1530",
+      "doublesAllowed": "84",
+      "triplesAllowed": "23",
+      "homerunsAllowed": "52",
+      "wildPitches": "37",
       "balks": "5",
-      "hitBatters": "84",
-      "strikeoutsLooking": "59",
+      "hitBatters": "86",
+      "strikeoutsLooking": "67",
       "intentionalWalks": "1",
-      "inheritedRunners": "35",
-      "inheritedRunnersThatScored": "19",
-      "sacrificeHitsAllowed": "22",
+      "inheritedRunners": "42",
+      "inheritedRunnersThatScored": "25",
+      "sacrificeHitsAllowed": "23",
       "sacrificeFliesAllowed": "25",
       "catchersInterferenceAllowed": "0",
-      "pitches": "7046",
-      "flyouts": "381",
-      "groundouts": "351",
+      "pitches": "7393",
+      "flyouts": "396",
+      "groundouts": "363",
       "teamUnearnedRuns": "0",
-      "saveRecord": "0",
+      "saveRecord": "1",
       "pickoff": "2"
     }
   },
@@ -305,20 +305,20 @@
         "jersey": "2",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/tanner-recchio/11588",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/BaseballHeadshots-32.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "battingAverage": 0.304,
-        "onBasePercentage": 0.415,
-        "sluggingPercentage": 0.415,
-        "ops": 0.83,
-        "atBats": 171,
-        "runs": 40,
-        "hits": 52,
-        "doubles": 11,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "battingAverage": 0.302,
+        "onBasePercentage": 0.407,
+        "sluggingPercentage": 0.412,
+        "ops": 0.819,
+        "atBats": 182,
+        "runs": 42,
+        "hits": 55,
+        "doubles": 12,
         "triples": 1,
         "homeRuns": 2,
-        "runsBattedIn": 24,
-        "totalBases": 71,
+        "runsBattedIn": 25,
+        "totalBases": 75,
         "walks": 26,
         "hitByPitch": 7,
         "strikeouts": 20,
@@ -326,12 +326,12 @@
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 9,
-        "stolenBases": 32,
-        "stolenBasesAttempts": 36,
-        "putouts": 86,
-        "assists": 57,
+        "stolenBases": 34,
+        "stolenBasesAttempts": 38,
+        "putouts": 90,
+        "assists": 58,
         "errors": 5,
-        "plateAppearances": 254,
+        "plateAppearances": 267,
         "caughtStealing": 4,
         "pickedOff": 0
       },
@@ -343,51 +343,51 @@
         "jersey": "2",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/tanner-recchio/11588",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/BaseballHeadshots-32.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "putouts": 86,
-        "assists": 57,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "putouts": 90,
+        "assists": 58,
         "errors": 5,
-        "fieldingPercentage": 0.966,
+        "fieldingPercentage": 0.967,
         "doublePlays": 11,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 148
+        "totalChances": 153
       },
       "evaluation": {
-        "score": 64,
+        "score": 62,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 74.99999999999997,
-          "Power": 24.999999999999996,
-          "Contact": 52.49999999999999,
+          "On-base": 70.55555555555553,
+          "Power": 24.21052631578947,
+          "Contact": 51.24999999999999,
           "Discipline": 100,
           "Speed": 100
         },
         "summary": "Tanner Recchio profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .304",
-          "OBP .415",
-          "SLG .415"
+          "AVG .302",
+          "OBP .407",
+          "SLG .412"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".304"
+            "value": ".302"
           },
           {
             "label": "OBP",
-            "value": ".415"
+            "value": ".407"
           },
           {
             "label": "SLG",
-            "value": ".415"
+            "value": ".412"
           },
           {
             "label": "HR",
@@ -395,11 +395,11 @@
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "25"
           },
           {
             "label": "SB",
-            "value": "32"
+            "value": "34"
           }
         ],
         "metaLine": "JR / L/R",
@@ -450,33 +450,33 @@
         "jersey": "3",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/zan-von-schlegell/11592",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/BaseballHeadshots-121.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 34,
-        "battingAverage": 0.209,
-        "onBasePercentage": 0.352,
-        "sluggingPercentage": 0.296,
-        "ops": 0.648,
-        "atBats": 115,
-        "runs": 20,
-        "hits": 24,
-        "doubles": 6,
+        "gamesPlayed": 40,
+        "gamesStarted": 36,
+        "battingAverage": 0.203,
+        "onBasePercentage": 0.344,
+        "sluggingPercentage": 0.293,
+        "ops": 0.637,
+        "atBats": 123,
+        "runs": 21,
+        "hits": 25,
+        "doubles": 7,
         "triples": 2,
         "homeRuns": 0,
-        "runsBattedIn": 8,
-        "totalBases": 34,
-        "walks": 20,
+        "runsBattedIn": 10,
+        "totalBases": 36,
+        "walks": 21,
         "hitByPitch": 6,
-        "strikeouts": 28,
+        "strikeouts": 29,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 6,
         "sacrificeFlies": 1,
         "sacrificeHits": 2,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 14,
-        "assists": 58,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 1,
+        "putouts": 15,
+        "assists": 62,
         "errors": 5,
-        "plateAppearances": 144,
+        "plateAppearances": 154,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -488,51 +488,51 @@
         "jersey": "3",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/zan-von-schlegell/11592",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/BaseballHeadshots-121.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 29,
-        "putouts": 14,
-        "assists": 58,
+        "gamesPlayed": 32,
+        "gamesStarted": 31,
+        "putouts": 15,
+        "assists": 62,
         "errors": 5,
-        "fieldingPercentage": 0.935,
+        "fieldingPercentage": 0.939,
         "doublePlays": 3,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 77
+        "totalChances": 82
       },
       "evaluation": {
-        "score": 21,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 39.99999999999997,
+          "On-base": 35.55555555555553,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 57.14285714285713,
-          "Speed": 0
+          "Discipline": 58.237547892720286,
+          "Speed": 3.3333333333333335
         },
         "summary": "Zan Von Schlegell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .209",
-          "OBP .352",
-          "SLG .296"
+          "AVG .203",
+          "OBP .344",
+          "SLG .293"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".209"
+            "value": ".203"
           },
           {
             "label": "OBP",
-            "value": ".352"
+            "value": ".344"
           },
           {
             "label": "SLG",
-            "value": ".296"
+            "value": ".293"
           },
           {
             "label": "HR",
@@ -540,11 +540,11 @@
           },
           {
             "label": "RBI",
-            "value": "8"
+            "value": "10"
           },
           {
             "label": "SB",
-            "value": "0"
+            "value": "1"
           }
         ],
         "metaLine": "JR / R/R",
@@ -595,33 +595,33 @@
         "jersey": "4",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/easton-fritcher/11575",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/BaseballHeadshots-8.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 34,
-        "battingAverage": 0.252,
-        "onBasePercentage": 0.366,
-        "sluggingPercentage": 0.431,
-        "ops": 0.797,
-        "atBats": 123,
-        "runs": 21,
-        "hits": 31,
+        "gamesPlayed": 41,
+        "gamesStarted": 36,
+        "battingAverage": 0.254,
+        "onBasePercentage": 0.359,
+        "sluggingPercentage": 0.433,
+        "ops": 0.792,
+        "atBats": 134,
+        "runs": 22,
+        "hits": 34,
         "doubles": 6,
-        "triples": 2,
+        "triples": 3,
         "homeRuns": 4,
-        "runsBattedIn": 21,
-        "totalBases": 53,
+        "runsBattedIn": 22,
+        "totalBases": 58,
         "walks": 15,
         "hitByPitch": 7,
-        "strikeouts": 23,
+        "strikeouts": 25,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 6,
         "stolenBases": 4,
         "stolenBasesAttempts": 9,
-        "putouts": 73,
-        "assists": 2,
+        "putouts": 76,
+        "assists": 3,
         "errors": 2,
-        "plateAppearances": 166,
+        "plateAppearances": 177,
         "caughtStealing": 5,
         "pickedOff": 1
       },
@@ -633,19 +633,19 @@
         "jersey": "4",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/easton-fritcher/11575",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/BaseballHeadshots-8.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 30,
-        "putouts": 73,
-        "assists": 2,
+        "gamesPlayed": 34,
+        "gamesStarted": 32,
+        "putouts": 76,
+        "assists": 3,
         "errors": 2,
-        "fieldingPercentage": 0.974,
+        "fieldingPercentage": 0.975,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 77
+        "totalChances": 81
       },
       "evaluation": {
         "score": 0,
@@ -885,33 +885,33 @@
         "jersey": "6",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/nolan-welke/11609",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/BaseballHeadshots-109.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 8,
-        "battingAverage": 0.289,
-        "onBasePercentage": 0.426,
-        "sluggingPercentage": 0.421,
-        "ops": 0.847,
-        "atBats": 38,
-        "runs": 6,
-        "hits": 11,
-        "doubles": 3,
+        "gamesPlayed": 19,
+        "gamesStarted": 10,
+        "battingAverage": 0.333,
+        "onBasePercentage": 0.464,
+        "sluggingPercentage": 0.467,
+        "ops": 0.931,
+        "atBats": 45,
+        "runs": 8,
+        "hits": 15,
+        "doubles": 4,
         "triples": 1,
         "homeRuns": 0,
-        "runsBattedIn": 6,
-        "totalBases": 16,
-        "walks": 9,
+        "runsBattedIn": 11,
+        "totalBases": 21,
+        "walks": 11,
         "hitByPitch": 0,
-        "strikeouts": 12,
+        "strikeouts": 15,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 2,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 14,
-        "assists": 0,
+        "putouts": 17,
+        "assists": 1,
         "errors": 3,
-        "plateAppearances": 50,
+        "plateAppearances": 59,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -923,51 +923,51 @@
         "jersey": "6",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/nolan-welke/11609",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/BaseballHeadshots-109.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 7,
-        "putouts": 14,
-        "assists": 0,
+        "gamesPlayed": 11,
+        "gamesStarted": 9,
+        "putouts": 17,
+        "assists": 1,
         "errors": 3,
-        "fieldingPercentage": 0.824,
+        "fieldingPercentage": 0.857,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 17
+        "totalChances": 21
       },
       "evaluation": {
-        "score": 50,
+        "score": 63,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 81.11111111111109,
-          "Power": 26.57894736842105,
-          "Contact": 43.124999999999986,
-          "Discipline": 61.11111111111111,
+          "On-base": 100,
+          "Power": 38.6842105263158,
+          "Contact": 70.625,
+          "Discipline": 59.25925925925923,
           "Speed": 3.3333333333333335
         },
         "summary": "Nolan Welke profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .289",
-          "OBP .426",
-          "SLG .421"
+          "AVG .333",
+          "OBP .464",
+          "SLG .467"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".426"
+            "value": ".464"
           },
           {
             "label": "SLG",
-            "value": ".421"
+            "value": ".467"
           },
           {
             "label": "HR",
@@ -975,7 +975,7 @@
           },
           {
             "label": "RBI",
-            "value": "6"
+            "value": "11"
           },
           {
             "label": "SB",
@@ -1030,33 +1030,33 @@
         "jersey": "7",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/matthew-maulik/11580",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/BaseballHeadshots-12.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 34,
-        "battingAverage": 0.277,
-        "onBasePercentage": 0.316,
-        "sluggingPercentage": 0.489,
-        "ops": 0.805,
-        "atBats": 137,
-        "runs": 22,
-        "hits": 38,
+        "gamesPlayed": 40,
+        "gamesStarted": 36,
+        "battingAverage": 0.278,
+        "onBasePercentage": 0.313,
+        "sluggingPercentage": 0.479,
+        "ops": 0.792,
+        "atBats": 144,
+        "runs": 23,
+        "hits": 40,
         "doubles": 11,
         "triples": 0,
         "homeRuns": 6,
-        "runsBattedIn": 30,
-        "totalBases": 67,
+        "runsBattedIn": 31,
+        "totalBases": 69,
         "walks": 8,
         "hitByPitch": 2,
-        "strikeouts": 29,
+        "strikeouts": 32,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 5,
-        "sacrificeHits": 2,
+        "sacrificeFlies": 6,
+        "sacrificeHits": 3,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 56,
+        "putouts": 57,
         "assists": 36,
         "errors": 8,
-        "plateAppearances": 157,
+        "plateAppearances": 166,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1068,51 +1068,51 @@
         "jersey": "7",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/matthew-maulik/11580",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/BaseballHeadshots-12.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 29,
-        "putouts": 56,
+        "gamesPlayed": 30,
+        "gamesStarted": 30,
+        "putouts": 57,
         "assists": 36,
         "errors": 8,
-        "fieldingPercentage": 0.92,
+        "fieldingPercentage": 0.921,
         "doublePlays": 10,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 100
+        "totalChances": 101
       },
       "evaluation": {
-        "score": 27,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 19.999999999999986,
-          "Power": 44.473684210526315,
-          "Contact": 35.625000000000014,
-          "Discipline": 8.429118773946358,
+          "On-base": 18.333333333333318,
+          "Power": 41.84210526315789,
+          "Contact": 36.250000000000014,
+          "Discipline": 5.555555555555554,
           "Speed": 10
         },
         "summary": "Matthew Maulik gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .316",
-          "SLG .489"
+          "AVG .278",
+          "OBP .313",
+          "SLG .479"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".278"
           },
           {
             "label": "OBP",
-            "value": ".316"
+            "value": ".313"
           },
           {
             "label": "SLG",
-            "value": ".489"
+            "value": ".479"
           },
           {
             "label": "HR",
@@ -1120,7 +1120,7 @@
           },
           {
             "label": "RBI",
-            "value": "30"
+            "value": "31"
           },
           {
             "label": "SB",
@@ -1176,32 +1176,32 @@
         "jersey": "8",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/owen-marsolek/11600",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/BaseballHeadshots-36.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 11,
-        "appearances": 11,
+        "gamesPlayed": 12,
+        "gamesStarted": 12,
+        "appearances": 12,
         "gamesCompleted": 1,
-        "earnedRunAverage": 5.4,
+        "earnedRunAverage": 5.06,
         "whip": 1.43,
-        "wins": 4,
+        "wins": 5,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 61.666666666666664,
-        "inningsPitchedDisplay": "61.2",
-        "hitsAllowed": 65,
-        "runsAllowed": 39,
-        "earnedRunsAllowed": 37,
-        "walksAllowed": 23,
-        "strikeouts": 60,
+        "inningsPitched": 69.33333333333333,
+        "inningsPitchedDisplay": "69.1",
+        "hitsAllowed": 69,
+        "runsAllowed": 41,
+        "earnedRunsAllowed": 39,
+        "walksAllowed": 30,
+        "strikeouts": 72,
         "doublesAllowed": 14,
         "triplesAllowed": 2,
         "homeRunsAllowed": 11,
-        "opponentsAtBats": 242,
+        "opponentsAtBats": 268,
         "wildPitches": 1,
-        "hitBatters": 11,
+        "hitBatters": 12,
         "balks": 0,
-        "opponentsBattingAverage": 0.269,
-        "walksHits": 88
+        "opponentsBattingAverage": 0.257,
+        "walksHits": 99
       },
       "fieldingStats": {
         "rosterBioId": "11600",
@@ -1210,10 +1210,10 @@
         "jersey": "8",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/owen-marsolek/11600",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/BaseballHeadshots-36.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 8,
+        "gamesPlayed": 9,
+        "gamesStarted": 9,
         "putouts": 1,
-        "assists": 7,
+        "assists": 8,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 1,
@@ -1222,7 +1222,7 @@
         "stolenBasesPercentage": 0.778,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 8
+        "totalChances": 9
       },
       "evaluation": {
         "score": 14,
@@ -1233,20 +1233,20 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.24324324324325,
-          "Command": 32.17391304347827,
+          "Miss bats": 48.60139860139861,
+          "Command": 27.999999999999996,
           "Damage suppression": 0
         },
-        "summary": "Owen Marsolek gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Owen Marsolek looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.40",
+          "ERA 5.06",
           "WHIP 1.43",
-          "K/9 8.8"
+          "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.40"
+            "value": "5.06"
           },
           {
             "label": "WHIP",
@@ -1254,19 +1254,19 @@
           },
           {
             "label": "K/9",
-            "value": "8.8"
+            "value": "9.3"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "3.9"
           },
           {
             "label": "HR/9",
-            "value": "1.61"
+            "value": "1.43"
           },
           {
             "label": "IP",
-            "value": "61.7"
+            "value": "69.3"
           }
         ],
         "metaLine": "FR / L/L",
@@ -1317,34 +1317,34 @@
         "jersey": "9",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/adam-puder/11587",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/BaseballHeadshots-16.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "battingAverage": 0.293,
-        "onBasePercentage": 0.366,
-        "sluggingPercentage": 0.419,
-        "ops": 0.785,
-        "atBats": 167,
-        "runs": 30,
-        "hits": 49,
-        "doubles": 13,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "battingAverage": 0.297,
+        "onBasePercentage": 0.364,
+        "sluggingPercentage": 0.423,
+        "ops": 0.787,
+        "atBats": 175,
+        "runs": 32,
+        "hits": 52,
+        "doubles": 14,
         "triples": 1,
         "homeRuns": 2,
-        "runsBattedIn": 20,
-        "totalBases": 70,
+        "runsBattedIn": 24,
+        "totalBases": 74,
         "walks": 17,
         "hitByPitch": 2,
-        "strikeouts": 38,
+        "strikeouts": 39,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 0,
+        "sacrificeFlies": 1,
         "sacrificeHits": 2,
-        "stolenBases": 15,
-        "stolenBasesAttempts": 16,
-        "putouts": 70,
-        "assists": 128,
-        "errors": 19,
-        "plateAppearances": 205,
-        "caughtStealing": 1,
+        "stolenBases": 16,
+        "stolenBasesAttempts": 18,
+        "putouts": 72,
+        "assists": 134,
+        "errors": 20,
+        "plateAppearances": 217,
+        "caughtStealing": 2,
         "pickedOff": 0
       },
       "pitchingStats": null,
@@ -1355,11 +1355,11 @@
         "jersey": "9",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/adam-puder/11587",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/BaseballHeadshots-16.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "putouts": 70,
-        "assists": 128,
-        "errors": 19,
+        "gamesPlayed": 44,
+        "gamesStarted": 44,
+        "putouts": 72,
+        "assists": 134,
+        "errors": 20,
         "fieldingPercentage": 0.912,
         "doublePlays": 27,
         "stolenBasesAgainst": 0,
@@ -1367,39 +1367,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 217
+        "totalChances": 226
       },
       "evaluation": {
-        "score": 39,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 47.77777777777776,
-          "Power": 26.052631578947366,
-          "Contact": 45.624999999999986,
-          "Discipline": 27.485380116959057,
-          "Speed": 50
+          "On-base": 46.66666666666665,
+          "Power": 27.105263157894736,
+          "Contact": 48.12499999999999,
+          "Discipline": 26.210826210826205,
+          "Speed": 53.333333333333336
         },
         "summary": "Adam Puder profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .293",
-          "OBP .366",
-          "SLG .419"
+          "AVG .297",
+          "OBP .364",
+          "SLG .423"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".293"
+            "value": ".297"
           },
           {
             "label": "OBP",
-            "value": ".366"
+            "value": ".364"
           },
           {
             "label": "SLG",
-            "value": ".419"
+            "value": ".423"
           },
           {
             "label": "HR",
@@ -1407,11 +1407,11 @@
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "24"
           },
           {
             "label": "SB",
-            "value": "15"
+            "value": "16"
           }
         ],
         "metaLine": "R-SO / R/R",
@@ -1729,32 +1729,32 @@
         "jersey": "14",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/brayden-olson/11602",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/BaseballHeadshots-28.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 11,
-        "appearances": 12,
+        "gamesPlayed": 13,
+        "gamesStarted": 12,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.62,
-        "whip": 1.56,
+        "earnedRunAverage": 5.54,
+        "whip": 1.63,
         "wins": 0,
         "losses": 7,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 60.333333333333336,
-        "inningsPitchedDisplay": "60.1",
-        "hitsAllowed": 61,
-        "runsAllowed": 43,
-        "earnedRunsAllowed": 31,
-        "walksAllowed": 33,
-        "strikeouts": 55,
-        "doublesAllowed": 12,
-        "triplesAllowed": 2,
-        "homeRunsAllowed": 6,
-        "opponentsAtBats": 234,
-        "wildPitches": 3,
+        "inningsPitched": 65,
+        "inningsPitchedDisplay": "65.0",
+        "hitsAllowed": 69,
+        "runsAllowed": 52,
+        "earnedRunsAllowed": 40,
+        "walksAllowed": 37,
+        "strikeouts": 61,
+        "doublesAllowed": 13,
+        "triplesAllowed": 3,
+        "homeRunsAllowed": 7,
+        "opponentsAtBats": 256,
+        "wildPitches": 4,
         "hitBatters": 12,
         "balks": 1,
-        "opponentsBattingAverage": 0.261,
-        "walksHits": 94
+        "opponentsBattingAverage": 0.27,
+        "walksHits": 106
       },
       "fieldingStats": {
         "rosterBioId": "11602",
@@ -1786,40 +1786,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 38.22199899547966,
-          "Command": 13.333333333333336,
+          "Miss bats": 40.41958041958042,
+          "Command": 12.972972972972979,
           "Damage suppression": 0
         },
         "summary": "Brayden Olson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.62",
-          "WHIP 1.56",
-          "K/9 8.2"
+          "ERA 5.54",
+          "WHIP 1.63",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.62"
+            "value": "5.54"
           },
           {
             "label": "WHIP",
-            "value": "1.56"
+            "value": "1.63"
           },
           {
             "label": "K/9",
-            "value": "8.2"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "4.9"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
-            "value": "0.90"
+            "value": "0.97"
           },
           {
             "label": "IP",
-            "value": "60.3"
+            "value": "65.0"
           }
         ],
         "metaLine": "JR / R/R",
@@ -2015,33 +2015,33 @@
         "jersey": "16",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/joe-roder/11590",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/BaseballHeadshots-60.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 42,
-        "battingAverage": 0.269,
-        "onBasePercentage": 0.376,
-        "sluggingPercentage": 0.431,
-        "ops": 0.807,
-        "atBats": 160,
-        "runs": 27,
-        "hits": 43,
+        "gamesPlayed": 45,
+        "gamesStarted": 44,
+        "battingAverage": 0.263,
+        "onBasePercentage": 0.374,
+        "sluggingPercentage": 0.419,
+        "ops": 0.793,
+        "atBats": 167,
+        "runs": 29,
+        "hits": 44,
         "doubles": 9,
         "triples": 1,
         "homeRuns": 5,
-        "runsBattedIn": 35,
-        "totalBases": 69,
-        "walks": 27,
+        "runsBattedIn": 37,
+        "totalBases": 70,
+        "walks": 29,
         "hitByPitch": 4,
-        "strikeouts": 49,
+        "strikeouts": 51,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
+        "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 6,
         "sacrificeHits": 0,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 309,
-        "assists": 18,
+        "putouts": 321,
+        "assists": 19,
         "errors": 3,
-        "plateAppearances": 199,
+        "plateAppearances": 209,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2053,10 +2053,10 @@
         "jersey": "16",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/joe-roder/11590",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/BaseballHeadshots-60.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "putouts": 309,
-        "assists": 18,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "putouts": 321,
+        "assists": 19,
         "errors": 3,
         "fieldingPercentage": 0.991,
         "doublePlays": 27,
@@ -2065,39 +2065,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 330
+        "totalChances": 343
       },
       "evaluation": {
-        "score": 36,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 53.33333333333332,
-          "Power": 29.210526315789476,
-          "Contact": 30.625000000000007,
-          "Discipline": 39.00226757369613,
+          "On-base": 52.222222222222214,
+          "Power": 26.052631578947366,
+          "Contact": 26.875000000000004,
+          "Discipline": 40.958605664488005,
           "Speed": 6.666666666666667
         },
         "summary": "Joe Roder gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .269",
-          "OBP .376",
-          "SLG .431"
+          "AVG .263",
+          "OBP .374",
+          "SLG .419"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".269"
+            "value": ".263"
           },
           {
             "label": "OBP",
-            "value": ".376"
+            "value": ".374"
           },
           {
             "label": "SLG",
-            "value": ".431"
+            "value": ".419"
           },
           {
             "label": "HR",
@@ -2105,7 +2105,7 @@
           },
           {
             "label": "RBI",
-            "value": "35"
+            "value": "37"
           },
           {
             "label": "SB",
@@ -2248,33 +2248,33 @@
         "jersey": "19",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/max-berrisford/11593",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/BaseballHeadshots-88.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 26,
-        "battingAverage": 0.245,
-        "onBasePercentage": 0.342,
-        "sluggingPercentage": 0.306,
+        "gamesPlayed": 34,
+        "gamesStarted": 28,
+        "battingAverage": 0.24,
+        "onBasePercentage": 0.35,
+        "sluggingPercentage": 0.298,
         "ops": 0.648,
-        "atBats": 98,
-        "runs": 13,
-        "hits": 24,
+        "atBats": 104,
+        "runs": 16,
+        "hits": 25,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 11,
-        "totalBases": 30,
-        "walks": 10,
-        "hitByPitch": 5,
-        "strikeouts": 18,
+        "totalBases": 31,
+        "walks": 12,
+        "hitByPitch": 6,
+        "strikeouts": 19,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 2,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 130,
+        "putouts": 151,
         "assists": 17,
-        "errors": 2,
-        "plateAppearances": 116,
+        "errors": 3,
+        "plateAppearances": 125,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2286,51 +2286,51 @@
         "jersey": "19",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/max-berrisford/11593",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/BaseballHeadshots-88.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 25,
-        "putouts": 130,
+        "gamesPlayed": 28,
+        "gamesStarted": 27,
+        "putouts": 151,
         "assists": 17,
-        "errors": 2,
-        "fieldingPercentage": 0.987,
+        "errors": 3,
+        "fieldingPercentage": 0.982,
         "doublePlays": 2,
-        "stolenBasesAgainst": 21,
+        "stolenBasesAgainst": 22,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.875,
+        "stolenBasesPercentage": 0.88,
         "passedBalls": 8,
         "catchersInterference": 0,
-        "totalChances": 149
+        "totalChances": 171
       },
       "evaluation": {
-        "score": 19,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 34.44444444444444,
+          "On-base": 38.888888888888864,
           "Power": 0,
-          "Contact": 15.624999999999996,
-          "Discipline": 39.50617283950617,
+          "Contact": 12.499999999999993,
+          "Discipline": 47.95321637426899,
           "Speed": 0
         },
         "summary": "Max Berrisford gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .245",
-          "OBP .342",
-          "SLG .306"
+          "AVG .240",
+          "OBP .350",
+          "SLG .298"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".245"
+            "value": ".240"
           },
           {
             "label": "OBP",
-            "value": ".342"
+            "value": ".350"
           },
           {
             "label": "SLG",
-            "value": ".306"
+            "value": ".298"
           },
           {
             "label": "HR",
@@ -4012,19 +4012,19 @@
         "jersey": "34",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/zak-endres/11572",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/BaseballHeadshots-64.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 0,
-        "appearances": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.86,
-        "whip": 1.5,
+        "earnedRunAverage": 4.5,
+        "whip": 1.44,
         "wins": 0,
         "losses": 2,
-        "saves": 1,
+        "saves": 2,
         "shutouts": 0,
-        "inningsPitched": 16.666666666666668,
-        "inningsPitchedDisplay": "16.2",
-        "hitsAllowed": 17,
+        "inningsPitched": 18,
+        "inningsPitchedDisplay": "18.0",
+        "hitsAllowed": 18,
         "runsAllowed": 12,
         "earnedRunsAllowed": 9,
         "walksAllowed": 8,
@@ -4032,12 +4032,12 @@
         "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 71,
+        "opponentsAtBats": 76,
         "wildPitches": 0,
         "hitBatters": 0,
         "balks": 0,
-        "opponentsBattingAverage": 0.239,
-        "walksHits": 25
+        "opponentsBattingAverage": 0.237,
+        "walksHits": 26
       },
       "fieldingStats": {
         "rosterBioId": "11572",
@@ -4061,7 +4061,7 @@
         "totalChances": 1
       },
       "evaluation": {
-        "score": 16,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4069,40 +4069,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 56.90909090909091,
-          "Command": 27.500000000000007,
+          "Miss bats": 50,
+          "Command": 27.500000000000004,
           "Damage suppression": 0
         },
         "summary": "Zak Endres looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.86",
-          "WHIP 1.50",
-          "K/9 10.3"
+          "ERA 4.50",
+          "WHIP 1.44",
+          "K/9 9.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.86"
+            "value": "4.50"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.44"
           },
           {
             "label": "K/9",
-            "value": "10.3"
+            "value": "9.5"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "4.0"
           },
           {
             "label": "HR/9",
-            "value": "1.08"
+            "value": "1.00"
           },
           {
             "label": "IP",
-            "value": "16.7"
+            "value": "18.0"
           }
         ],
         "metaLine": "SR / L/R",
@@ -4648,32 +4648,32 @@
         "jersey": "41",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/william-pierro/11603",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/Will_P.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 0,
-        "appearances": 12,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 8.56,
-        "whip": 1.79,
+        "earnedRunAverage": 8.28,
+        "whip": 1.77,
         "wins": 1,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 27.333333333333332,
-        "inningsPitchedDisplay": "27.1",
-        "hitsAllowed": 34,
-        "runsAllowed": 28,
-        "earnedRunsAllowed": 26,
+        "inningsPitched": 29.333333333333332,
+        "inningsPitchedDisplay": "29.1",
+        "hitsAllowed": 37,
+        "runsAllowed": 29,
+        "earnedRunsAllowed": 27,
         "walksAllowed": 15,
-        "strikeouts": 16,
-        "doublesAllowed": 3,
-        "triplesAllowed": 2,
+        "strikeouts": 17,
+        "doublesAllowed": 4,
+        "triplesAllowed": 3,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 108,
+        "opponentsAtBats": 116,
         "wildPitches": 2,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.315,
-        "walksHits": 49
+        "opponentsBattingAverage": 0.319,
+        "walksHits": 52
       },
       "fieldingStats": {
         "rosterBioId": "11603",
@@ -4682,9 +4682,9 @@
         "jersey": "41",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/william-pierro/11603",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/Will_P.jpg",
-        "gamesPlayed": 5,
+        "gamesPlayed": 6,
         "gamesStarted": 0,
-        "putouts": 1,
+        "putouts": 2,
         "assists": 4,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -4694,7 +4694,7 @@
         "stolenBasesPercentage": 0.333,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 5
+        "totalChances": 6
       },
       "evaluation": {
         "score": 3,
@@ -4705,40 +4705,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 11.529933481152996,
-          "Command": 1.333333333333333,
+          "Miss bats": 11.053719008264462,
+          "Command": 2.666666666666666,
           "Damage suppression": 0
         },
         "summary": "William Pierro gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 8.56",
-          "WHIP 1.79",
-          "K/9 5.3"
+          "ERA 8.28",
+          "WHIP 1.77",
+          "K/9 5.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.56"
+            "value": "8.28"
           },
           {
             "label": "WHIP",
-            "value": "1.79"
+            "value": "1.77"
           },
           {
             "label": "K/9",
-            "value": "5.3"
+            "value": "5.2"
           },
           {
             "label": "BB/9",
-            "value": "4.9"
+            "value": "4.6"
           },
           {
             "label": "HR/9",
-            "value": "1.65"
+            "value": "1.53"
           },
           {
             "label": "IP",
-            "value": "27.3"
+            "value": "29.3"
           }
         ],
         "metaLine": "FR / R/R",
@@ -4931,21 +4931,21 @@
         "jersey": "45",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/owen-bond/11571",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/BaseballHeadshots-125.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 37,
-        "battingAverage": 0.353,
-        "onBasePercentage": 0.47,
-        "sluggingPercentage": 0.519,
-        "ops": 0.989,
-        "atBats": 133,
-        "runs": 22,
-        "hits": 47,
+        "gamesPlayed": 40,
+        "gamesStarted": 39,
+        "battingAverage": 0.36,
+        "onBasePercentage": 0.48,
+        "sluggingPercentage": 0.532,
+        "ops": 1.012,
+        "atBats": 139,
+        "runs": 25,
+        "hits": 50,
         "doubles": 6,
-        "triples": 5,
+        "triples": 6,
         "homeRuns": 2,
         "runsBattedIn": 21,
-        "totalBases": 69,
-        "walks": 25,
+        "totalBases": 74,
+        "walks": 28,
         "hitByPitch": 5,
         "strikeouts": 29,
         "intentionalWalks": 3,
@@ -4954,10 +4954,10 @@
         "sacrificeHits": 1,
         "stolenBases": 7,
         "stolenBasesAttempts": 7,
-        "putouts": 69,
+        "putouts": 72,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 172,
+        "plateAppearances": 181,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -4969,9 +4969,9 @@
         "jersey": "45",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/owen-bond/11571",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/BaseballHeadshots-125.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 30,
-        "putouts": 69,
+        "gamesPlayed": 31,
+        "gamesStarted": 31,
+        "putouts": 72,
         "assists": 0,
         "errors": 1,
         "fieldingPercentage": 0.986,
@@ -4981,39 +4981,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 70
+        "totalChances": 73
       },
       "evaluation": {
-        "score": 73,
+        "score": 76,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
           "On-base": 100,
-          "Power": 52.36842105263159,
-          "Contact": 83.12499999999999,
-          "Discipline": 73.56321839080458,
+          "Power": 55.78947368421054,
+          "Contact": 87.49999999999999,
+          "Discipline": 85.0574712643678,
           "Speed": 23.333333333333332
         },
         "summary": "Owen Bond profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .353",
-          "OBP .470",
-          "SLG .519"
+          "AVG .360",
+          "OBP .480",
+          "SLG .532"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".353"
+            "value": ".360"
           },
           {
             "label": "OBP",
-            "value": ".470"
+            "value": ".480"
           },
           {
             "label": "SLG",
-            "value": ".519"
+            "value": ".532"
           },
           {
             "label": "HR",
@@ -5077,32 +5077,32 @@
         "jersey": "46",
         "profileUrl": "https://tommiesports.com/sports/baseball/roster/nolan-kemp/11577",
         "imageUrl": "https://tommiesports.com/images/2026/1/8/BaseballHeadshots-165.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 2,
-        "appearances": 12,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 8.88,
-        "whip": 1.93,
+        "earnedRunAverage": 10.12,
+        "whip": 2.14,
         "wins": 1,
-        "losses": 1,
+        "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 25.333333333333332,
-        "inningsPitchedDisplay": "25.1",
-        "hitsAllowed": 32,
-        "runsAllowed": 29,
-        "earnedRunsAllowed": 25,
-        "walksAllowed": 17,
-        "strikeouts": 18,
-        "doublesAllowed": 2,
+        "inningsPitched": 26.666666666666668,
+        "inningsPitchedDisplay": "26.2",
+        "hitsAllowed": 38,
+        "runsAllowed": 35,
+        "earnedRunsAllowed": 30,
+        "walksAllowed": 19,
+        "strikeouts": 19,
+        "doublesAllowed": 4,
         "triplesAllowed": 3,
         "homeRunsAllowed": 6,
-        "opponentsAtBats": 103,
+        "opponentsAtBats": 112,
         "wildPitches": 2,
-        "hitBatters": 5,
+        "hitBatters": 6,
         "balks": 1,
-        "opponentsBattingAverage": 0.311,
-        "walksHits": 49
+        "opponentsBattingAverage": 0.339,
+        "walksHits": 57
       },
       "fieldingStats": {
         "rosterBioId": "11577",
@@ -5126,7 +5126,7 @@
         "totalChances": 3
       },
       "evaluation": {
-        "score": 5,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5134,24 +5134,24 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 21.77033492822967,
-          "Command": 1.1764705882352944,
+          "Miss bats": 21.931818181818176,
+          "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Nolan Kemp gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 8.88",
-          "WHIP 1.93",
+          "ERA 10.12",
+          "WHIP 2.14",
           "K/9 6.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.88"
+            "value": "10.12"
           },
           {
             "label": "WHIP",
-            "value": "1.93"
+            "value": "2.14"
           },
           {
             "label": "K/9",
@@ -5159,15 +5159,15 @@
           },
           {
             "label": "BB/9",
-            "value": "6.0"
+            "value": "6.4"
           },
           {
             "label": "HR/9",
-            "value": "2.13"
+            "value": "2.02"
           },
           {
             "label": "IP",
-            "value": "25.3"
+            "value": "26.7"
           }
         ],
         "metaLine": "SR / R/R",
@@ -5639,29 +5639,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 64,
+        "score": 62,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Tanner Recchio profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .304",
-          "OBP .415",
-          "SLG .415"
+          "AVG .302",
+          "OBP .407",
+          "SLG .412"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".304"
+            "value": ".302"
           },
           {
             "label": "OBP",
-            "value": ".415"
+            "value": ".407"
           },
           {
             "label": "SLG",
-            "value": ".415"
+            "value": ".412"
           },
           {
             "label": "HR",
@@ -5669,17 +5669,17 @@
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "25"
           },
           {
             "label": "SB",
-            "value": "32"
+            "value": "34"
           }
         ],
         "components": {
-          "On-base": 74.99999999999997,
-          "Power": 24.999999999999996,
-          "Contact": 52.49999999999999,
+          "On-base": 70.55555555555553,
+          "Power": 24.21052631578947,
+          "Contact": 51.24999999999999,
           "Discipline": 100,
           "Speed": 100
         },
@@ -5708,29 +5708,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 21,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Zan Von Schlegell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .209",
-          "OBP .352",
-          "SLG .296"
+          "AVG .203",
+          "OBP .344",
+          "SLG .293"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".209"
+            "value": ".203"
           },
           {
             "label": "OBP",
-            "value": ".352"
+            "value": ".344"
           },
           {
             "label": "SLG",
-            "value": ".296"
+            "value": ".293"
           },
           {
             "label": "HR",
@@ -5738,19 +5738,19 @@
           },
           {
             "label": "RBI",
-            "value": "8"
+            "value": "10"
           },
           {
             "label": "SB",
-            "value": "0"
+            "value": "1"
           }
         ],
         "components": {
-          "On-base": 39.99999999999997,
+          "On-base": 35.55555555555553,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 57.14285714285713,
-          "Speed": 0
+          "Discipline": 58.237547892720286,
+          "Speed": 3.3333333333333335
         },
         "metaLine": "JR / R/R",
         "detailBadges": [
@@ -5915,29 +5915,29 @@
         "position": "OF",
         "classYear": "FR",
         "handedness": "L/R",
-        "score": 50,
+        "score": 63,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Nolan Welke profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .289",
-          "OBP .426",
-          "SLG .421"
+          "AVG .333",
+          "OBP .464",
+          "SLG .467"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".426"
+            "value": ".464"
           },
           {
             "label": "SLG",
-            "value": ".421"
+            "value": ".467"
           },
           {
             "label": "HR",
@@ -5945,7 +5945,7 @@
           },
           {
             "label": "RBI",
-            "value": "6"
+            "value": "11"
           },
           {
             "label": "SB",
@@ -5953,10 +5953,10 @@
           }
         ],
         "components": {
-          "On-base": 81.11111111111109,
-          "Power": 26.57894736842105,
-          "Contact": 43.124999999999986,
-          "Discipline": 61.11111111111111,
+          "On-base": 100,
+          "Power": 38.6842105263158,
+          "Contact": 70.625,
+          "Discipline": 59.25925925925923,
           "Speed": 3.3333333333333335
         },
         "metaLine": "FR / L/R",
@@ -5984,29 +5984,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 27,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Matthew Maulik gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .316",
-          "SLG .489"
+          "AVG .278",
+          "OBP .313",
+          "SLG .479"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".278"
           },
           {
             "label": "OBP",
-            "value": ".316"
+            "value": ".313"
           },
           {
             "label": "SLG",
-            "value": ".489"
+            "value": ".479"
           },
           {
             "label": "HR",
@@ -6014,7 +6014,7 @@
           },
           {
             "label": "RBI",
-            "value": "30"
+            "value": "31"
           },
           {
             "label": "SB",
@@ -6022,10 +6022,10 @@
           }
         ],
         "components": {
-          "On-base": 19.999999999999986,
-          "Power": 44.473684210526315,
-          "Contact": 35.625000000000014,
-          "Discipline": 8.429118773946358,
+          "On-base": 18.333333333333318,
+          "Power": 41.84210526315789,
+          "Contact": 36.250000000000014,
+          "Discipline": 5.555555555555554,
           "Speed": 10
         },
         "metaLine": "JR / L/R",
@@ -6058,16 +6058,16 @@
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Owen Marsolek gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Owen Marsolek looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.40",
+          "ERA 5.06",
           "WHIP 1.43",
-          "K/9 8.8"
+          "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.40"
+            "value": "5.06"
           },
           {
             "label": "WHIP",
@@ -6075,26 +6075,26 @@
           },
           {
             "label": "K/9",
-            "value": "8.8"
+            "value": "9.3"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "3.9"
           },
           {
             "label": "HR/9",
-            "value": "1.61"
+            "value": "1.43"
           },
           {
             "label": "IP",
-            "value": "61.7"
+            "value": "69.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.24324324324325,
-          "Command": 32.17391304347827,
+          "Miss bats": 48.60139860139861,
+          "Command": 27.999999999999996,
           "Damage suppression": 0
         },
         "metaLine": "FR / L/L",
@@ -6122,29 +6122,29 @@
         "position": "INF",
         "classYear": "R-SO",
         "handedness": "R/R",
-        "score": 39,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Adam Puder profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .293",
-          "OBP .366",
-          "SLG .419"
+          "AVG .297",
+          "OBP .364",
+          "SLG .423"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".293"
+            "value": ".297"
           },
           {
             "label": "OBP",
-            "value": ".366"
+            "value": ".364"
           },
           {
             "label": "SLG",
-            "value": ".419"
+            "value": ".423"
           },
           {
             "label": "HR",
@@ -6152,19 +6152,19 @@
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "24"
           },
           {
             "label": "SB",
-            "value": "15"
+            "value": "16"
           }
         ],
         "components": {
-          "On-base": 47.77777777777776,
-          "Power": 26.052631578947366,
-          "Contact": 45.624999999999986,
-          "Discipline": 27.485380116959057,
-          "Speed": 50
+          "On-base": 46.66666666666665,
+          "Power": 27.105263157894736,
+          "Contact": 48.12499999999999,
+          "Discipline": 26.210826210826205,
+          "Speed": 53.333333333333336
         },
         "metaLine": "R-SO / R/R",
         "detailBadges": [
@@ -6335,41 +6335,41 @@
         },
         "summary": "Brayden Olson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.62",
-          "WHIP 1.56",
-          "K/9 8.2"
+          "ERA 5.54",
+          "WHIP 1.63",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.62"
+            "value": "5.54"
           },
           {
             "label": "WHIP",
-            "value": "1.56"
+            "value": "1.63"
           },
           {
             "label": "K/9",
-            "value": "8.2"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "4.9"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
-            "value": "0.90"
+            "value": "0.97"
           },
           {
             "label": "IP",
-            "value": "60.3"
+            "value": "65.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 38.22199899547966,
-          "Command": 13.333333333333336,
+          "Miss bats": 40.41958041958042,
+          "Command": 12.972972972972979,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -6466,29 +6466,29 @@
         "position": "1B/RF",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 36,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Joe Roder gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .269",
-          "OBP .376",
-          "SLG .431"
+          "AVG .263",
+          "OBP .374",
+          "SLG .419"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".269"
+            "value": ".263"
           },
           {
             "label": "OBP",
-            "value": ".376"
+            "value": ".374"
           },
           {
             "label": "SLG",
-            "value": ".431"
+            "value": ".419"
           },
           {
             "label": "HR",
@@ -6496,7 +6496,7 @@
           },
           {
             "label": "RBI",
-            "value": "35"
+            "value": "37"
           },
           {
             "label": "SB",
@@ -6504,10 +6504,10 @@
           }
         ],
         "components": {
-          "On-base": 53.33333333333332,
-          "Power": 29.210526315789476,
-          "Contact": 30.625000000000007,
-          "Discipline": 39.00226757369613,
+          "On-base": 52.222222222222214,
+          "Power": 26.052631578947366,
+          "Contact": 26.875000000000004,
+          "Discipline": 40.958605664488005,
           "Speed": 6.666666666666667
         },
         "metaLine": "SR / L/L",
@@ -6603,29 +6603,29 @@
         "position": "C/INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 19,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Max Berrisford gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .245",
-          "OBP .342",
-          "SLG .306"
+          "AVG .240",
+          "OBP .350",
+          "SLG .298"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".245"
+            "value": ".240"
           },
           {
             "label": "OBP",
-            "value": ".342"
+            "value": ".350"
           },
           {
             "label": "SLG",
-            "value": ".306"
+            "value": ".298"
           },
           {
             "label": "HR",
@@ -6641,10 +6641,10 @@
           }
         ],
         "components": {
-          "On-base": 34.44444444444444,
+          "On-base": 38.888888888888864,
           "Power": 0,
-          "Contact": 15.624999999999996,
-          "Discipline": 39.50617283950617,
+          "Contact": 12.499999999999993,
+          "Discipline": 47.95321637426899,
           "Speed": 0
         },
         "metaLine": "FR / R/R",
@@ -7564,48 +7564,48 @@
         "position": "RHP",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 16,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Zak Endres looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.86",
-          "WHIP 1.50",
-          "K/9 10.3"
+          "ERA 4.50",
+          "WHIP 1.44",
+          "K/9 9.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.86"
+            "value": "4.50"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.44"
           },
           {
             "label": "K/9",
-            "value": "10.3"
+            "value": "9.5"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "4.0"
           },
           {
             "label": "HR/9",
-            "value": "1.08"
+            "value": "1.00"
           },
           {
             "label": "IP",
-            "value": "16.7"
+            "value": "18.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 56.90909090909091,
-          "Command": 27.500000000000007,
+          "Miss bats": 50,
+          "Command": 27.500000000000004,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/R",
@@ -7915,41 +7915,41 @@
         },
         "summary": "William Pierro gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 8.56",
-          "WHIP 1.79",
-          "K/9 5.3"
+          "ERA 8.28",
+          "WHIP 1.77",
+          "K/9 5.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.56"
+            "value": "8.28"
           },
           {
             "label": "WHIP",
-            "value": "1.79"
+            "value": "1.77"
           },
           {
             "label": "K/9",
-            "value": "5.3"
+            "value": "5.2"
           },
           {
             "label": "BB/9",
-            "value": "4.9"
+            "value": "4.6"
           },
           {
             "label": "HR/9",
-            "value": "1.65"
+            "value": "1.53"
           },
           {
             "label": "IP",
-            "value": "27.3"
+            "value": "29.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 11.529933481152996,
-          "Command": 1.333333333333333,
+          "Miss bats": 11.053719008264462,
+          "Command": 2.666666666666666,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -8046,29 +8046,29 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 73,
+        "score": 76,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Owen Bond profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .353",
-          "OBP .470",
-          "SLG .519"
+          "AVG .360",
+          "OBP .480",
+          "SLG .532"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".353"
+            "value": ".360"
           },
           {
             "label": "OBP",
-            "value": ".470"
+            "value": ".480"
           },
           {
             "label": "SLG",
-            "value": ".519"
+            "value": ".532"
           },
           {
             "label": "HR",
@@ -8085,9 +8085,9 @@
         ],
         "components": {
           "On-base": 100,
-          "Power": 52.36842105263159,
-          "Contact": 83.12499999999999,
-          "Discipline": 73.56321839080458,
+          "Power": 55.78947368421054,
+          "Contact": 87.49999999999999,
+          "Discipline": 85.0574712643678,
           "Speed": 23.333333333333332
         },
         "metaLine": "JR / L/L",
@@ -8115,25 +8115,25 @@
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 5,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nolan Kemp gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 8.88",
-          "WHIP 1.93",
+          "ERA 10.12",
+          "WHIP 2.14",
           "K/9 6.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.88"
+            "value": "10.12"
           },
           {
             "label": "WHIP",
-            "value": "1.93"
+            "value": "2.14"
           },
           {
             "label": "K/9",
@@ -8141,22 +8141,22 @@
           },
           {
             "label": "BB/9",
-            "value": "6.0"
+            "value": "6.4"
           },
           {
             "label": "HR/9",
-            "value": "2.13"
+            "value": "2.02"
           },
           {
             "label": "IP",
-            "value": "25.3"
+            "value": "26.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 21.77033492822967,
-          "Command": 1.1764705882352944,
+          "Miss bats": 21.931818181818176,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",

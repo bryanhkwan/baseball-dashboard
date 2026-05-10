@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.marshall2026 = {
-  "generatedAt": "2026-05-08T11:45:22.739Z",
+  "generatedAt": "2026-05-10T11:14:20.585Z",
   "season": 2026,
   "school": {
     "slug": "marshall",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
     }
   },
   "teamSummary": {
-    "record": "21-27, 11-13",
-    "battingAverage": ".279",
-    "earnedRunAverage": "6.01",
-    "wins": "21",
+    "record": "23-27, 13-13",
+    "battingAverage": ".280",
+    "earnedRunAverage": "6.05",
+    "wins": "23",
     "losses": "27",
     "hitting": {
-      "atBats": "1633",
-      "runsScored": "307",
-      "hits": "455",
-      "runsBattedIn": "280",
-      "doubles": "94",
+      "atBats": "1702",
+      "runsScored": "327",
+      "hits": "477",
+      "runsBattedIn": "300",
+      "doubles": "99",
       "triples": "11",
-      "homeRuns": "36",
-      "walks": "200",
+      "homeRuns": "39",
+      "walks": "210",
       "intentionalWalks": "3",
-      "strikeouts": "303",
-      "strikeoutsLooking": "91",
-      "hitByPitch": "77",
-      "stolenBases": "38",
+      "strikeouts": "313",
+      "strikeoutsLooking": "94",
+      "hitByPitch": "84",
+      "stolenBases": "45",
       "caughtStealing": "19",
       "sacrificeHits": "16",
-      "sacrificeFlies": "24",
+      "sacrificeFlies": "26",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "443",
-      "flyOuts": "426",
+      "groundOuts": "462",
+      "flyOuts": "446",
       "groundedIntoDoublePlay": "42",
       "pickedOff": "2",
       "doublePlaysHitInto": "46",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1245",
-      "assists": "448",
+      "putouts": "1299",
+      "assists": "463",
       "errors": "48",
-      "passedBalls": "7",
+      "passedBalls": "8",
       "catchersInterference": "2",
-      "stolenBasesAgainst": "71",
+      "stolenBasesAgainst": "73",
       "caughtStealingBy": "10",
       "involvedInDoublePlays": "36",
       "involvedInTriplePlays": "0",
-      "totalChances": "1741",
-      "fieldingPercentage": ".972"
+      "totalChances": "1810",
+      "fieldingPercentage": ".973"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "21",
+      "wins": "23",
       "saves": "4",
       "losses": "27",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "1",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "415.0",
-      "hitsAllowed": "464",
-      "runsAllowed": "312",
-      "earnedRunsAllowed": "277",
-      "walksAllowed": "193",
-      "strikeouts": "409",
-      "battersFaced": "1941",
-      "opponentAtBats": "1627",
-      "doublesAllowed": "92",
+      "inningsPitched": "433.0",
+      "hitsAllowed": "485",
+      "runsAllowed": "326",
+      "earnedRunsAllowed": "291",
+      "walksAllowed": "201",
+      "strikeouts": "423",
+      "battersFaced": "2025",
+      "opponentAtBats": "1701",
+      "doublesAllowed": "96",
       "triplesAllowed": "11",
-      "homerunsAllowed": "46",
-      "wildPitches": "46",
+      "homerunsAllowed": "49",
+      "wildPitches": "48",
       "balks": "2",
-      "hitBatters": "57",
-      "strikeoutsLooking": "120",
+      "hitBatters": "58",
+      "strikeoutsLooking": "122",
       "intentionalWalks": "3",
       "inheritedRunners": "13",
       "inheritedRunnersThatScored": "9",
       "sacrificeHitsAllowed": "45",
-      "sacrificeFliesAllowed": "17",
+      "sacrificeFliesAllowed": "18",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6518",
-      "flyouts": "346",
-      "groundouts": "434",
+      "pitches": "6838",
+      "flyouts": "369",
+      "groundouts": "451",
       "teamUnearnedRuns": "0",
       "saveRecord": "0",
       "pickoff": "4"
@@ -161,33 +161,33 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "2",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/tyler-kamerer/10706",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-05.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 48,
-        "battingAverage": 0.325,
-        "onBasePercentage": 0.381,
-        "sluggingPercentage": 0.463,
-        "ops": 0.844,
-        "atBats": 203,
-        "runs": 51,
-        "hits": 66,
+        "gamesPlayed": 50,
+        "gamesStarted": 50,
+        "battingAverage": 0.322,
+        "onBasePercentage": 0.382,
+        "sluggingPercentage": 0.455,
+        "ops": 0.837,
+        "atBats": 211,
+        "runs": 53,
+        "hits": 68,
         "doubles": 18,
         "triples": 2,
         "homeRuns": 2,
-        "runsBattedIn": 27,
-        "totalBases": 94,
-        "walks": 14,
-        "hitByPitch": 5,
-        "strikeouts": 24,
+        "runsBattedIn": 29,
+        "totalBases": 96,
+        "walks": 15,
+        "hitByPitch": 6,
+        "strikeouts": 27,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 6,
         "stolenBasesAttempts": 9,
-        "putouts": 74,
+        "putouts": 77,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 235,
+        "plateAppearances": 245,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -199,51 +199,51 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "2",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/tyler-kamerer/10706",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-05.jpg",
-        "gamesPlayed": 47,
-        "gamesStarted": 47,
-        "putouts": 74,
-        "assists": 115,
+        "gamesPlayed": 49,
+        "gamesStarted": 49,
+        "putouts": 77,
+        "assists": 118,
         "errors": 6,
-        "fieldingPercentage": 0.969,
+        "fieldingPercentage": 0.97,
         "doublePlays": 26,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 195
+        "totalChances": 201
       },
       "evaluation": {
-        "score": 48,
+        "score": 46,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 56.1111111111111,
-          "Power": 37.63157894736843,
-          "Contact": 65.625,
-          "Discipline": 42.59259259259259,
+          "On-base": 56.66666666666666,
+          "Power": 35.52631578947369,
+          "Contact": 63.75000000000001,
+          "Discipline": 39.50617283950617,
           "Speed": 20
         },
         "summary": "Tyler Kamerer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .325",
-          "OBP .381",
-          "SLG .463"
+          "AVG .322",
+          "OBP .382",
+          "SLG .455"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".325"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".381"
+            "value": ".382"
           },
           {
             "label": "SLG",
-            "value": ".463"
+            "value": ".455"
           },
           {
             "label": "HR",
@@ -251,7 +251,7 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -306,33 +306,33 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "3",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/evan-bottone/10983",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-09.jpg",
-        "gamesPlayed": 47,
-        "gamesStarted": 47,
-        "battingAverage": 0.38,
-        "onBasePercentage": 0.477,
-        "sluggingPercentage": 0.56,
-        "ops": 1.037,
-        "atBats": 184,
-        "runs": 49,
-        "hits": 70,
-        "doubles": 11,
+        "gamesPlayed": 49,
+        "gamesStarted": 49,
+        "battingAverage": 0.387,
+        "onBasePercentage": 0.481,
+        "sluggingPercentage": 0.562,
+        "ops": 1.043,
+        "atBats": 194,
+        "runs": 53,
+        "hits": 75,
+        "doubles": 12,
         "triples": 2,
         "homeRuns": 6,
-        "runsBattedIn": 34,
-        "totalBases": 103,
+        "runsBattedIn": 36,
+        "totalBases": 109,
         "walks": 22,
-        "hitByPitch": 13,
+        "hitByPitch": 14,
         "strikeouts": 26,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 4,
-        "stolenBases": 9,
-        "stolenBasesAttempts": 10,
-        "putouts": 86,
+        "stolenBases": 11,
+        "stolenBasesAttempts": 12,
+        "putouts": 89,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 235,
+        "plateAppearances": 248,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -344,9 +344,9 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "3",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/evan-bottone/10983",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-09.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "putouts": 86,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "putouts": 89,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -356,39 +356,39 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 86
+        "totalChances": 89
       },
       "evaluation": {
-        "score": 79,
+        "score": 80,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Priority",
+          "className": "fit-priority"
         },
         "components": {
           "On-base": 100,
-          "Power": 63.157894736842124,
+          "Power": 63.68421052631581,
           "Contact": 100,
           "Discipline": 71.79487179487177,
-          "Speed": 30
+          "Speed": 36.666666666666664
         },
         "summary": "Evan Bottone profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .380",
-          "OBP .477",
-          "SLG .560"
+          "AVG .387",
+          "OBP .481",
+          "SLG .562"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".380"
+            "value": ".387"
           },
           {
             "label": "OBP",
-            "value": ".477"
+            "value": ".481"
           },
           {
             "label": "SLG",
-            "value": ".560"
+            "value": ".562"
           },
           {
             "label": "HR",
@@ -396,11 +396,11 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "36"
           },
           {
             "label": "SB",
-            "value": "9"
+            "value": "11"
           }
         ],
         "metaLine": "JR / L/R",
@@ -451,33 +451,33 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "4",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/jackson-halter/10700",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-04.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 46,
-        "battingAverage": 0.247,
-        "onBasePercentage": 0.343,
-        "sluggingPercentage": 0.438,
-        "ops": 0.781,
-        "atBats": 178,
-        "runs": 29,
-        "hits": 44,
+        "gamesPlayed": 48,
+        "gamesStarted": 48,
+        "battingAverage": 0.249,
+        "onBasePercentage": 0.35,
+        "sluggingPercentage": 0.465,
+        "ops": 0.815,
+        "atBats": 185,
+        "runs": 33,
+        "hits": 46,
         "doubles": 11,
         "triples": 1,
-        "homeRuns": 7,
-        "runsBattedIn": 44,
-        "totalBases": 78,
-        "walks": 19,
-        "hitByPitch": 10,
-        "strikeouts": 39,
+        "homeRuns": 9,
+        "runsBattedIn": 47,
+        "totalBases": 86,
+        "walks": 21,
+        "hitByPitch": 11,
+        "strikeouts": 41,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 6,
         "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 5,
-        "putouts": 76,
+        "stolenBases": 2,
+        "stolenBasesAttempts": 6,
+        "putouts": 81,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 222,
+        "plateAppearances": 233,
         "caughtStealing": 4,
         "pickedOff": 1
       },
@@ -489,63 +489,63 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "4",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/jackson-halter/10700",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-04.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
-        "putouts": 76,
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "putouts": 81,
         "assists": 1,
         "errors": 3,
-        "fieldingPercentage": 0.963,
+        "fieldingPercentage": 0.965,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 80
+        "totalChances": 85
       },
       "evaluation": {
-        "score": 27,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 35,
-          "Power": 31.05263157894737,
-          "Contact": 16.875,
-          "Discipline": 31.908831908831903,
-          "Speed": 3.3333333333333335
+          "On-base": 38.888888888888864,
+          "Power": 38.15789473684211,
+          "Contact": 18.125,
+          "Discipline": 34.68834688346883,
+          "Speed": 6.666666666666667
         },
         "summary": "Jackson Halter gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .247",
-          "OBP .343",
-          "SLG .438"
+          "AVG .249",
+          "OBP .350",
+          "SLG .465"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".247"
+            "value": ".249"
           },
           {
             "label": "OBP",
-            "value": ".343"
+            "value": ".350"
           },
           {
             "label": "SLG",
-            "value": ".438"
+            "value": ".465"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "44"
+            "value": "47"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "metaLine": "GR / L/R",
@@ -863,33 +863,33 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "7",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/jackson-golden/10697",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-07.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 39,
-        "battingAverage": 0.257,
-        "onBasePercentage": 0.333,
-        "sluggingPercentage": 0.346,
-        "ops": 0.679,
-        "atBats": 136,
-        "runs": 20,
-        "hits": 35,
-        "doubles": 7,
+        "gamesPlayed": 42,
+        "gamesStarted": 41,
+        "battingAverage": 0.266,
+        "onBasePercentage": 0.346,
+        "sluggingPercentage": 0.378,
+        "ops": 0.724,
+        "atBats": 143,
+        "runs": 21,
+        "hits": 38,
+        "doubles": 8,
         "triples": 1,
-        "homeRuns": 1,
-        "runsBattedIn": 17,
-        "totalBases": 47,
-        "walks": 10,
-        "hitByPitch": 6,
-        "strikeouts": 22,
+        "homeRuns": 2,
+        "runsBattedIn": 21,
+        "totalBases": 54,
+        "walks": 11,
+        "hitByPitch": 7,
+        "strikeouts": 23,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 6,
         "sacrificeFlies": 1,
         "sacrificeHits": 2,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 335,
+        "putouts": 348,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 155,
+        "plateAppearances": 164,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -901,59 +901,59 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "7",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/jackson-golden/10697",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-07.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 39,
-        "putouts": 335,
-        "assists": 23,
+        "gamesPlayed": 42,
+        "gamesStarted": 41,
+        "putouts": 348,
+        "assists": 24,
         "errors": 6,
         "fieldingPercentage": 0.984,
         "doublePlays": 2,
-        "stolenBasesAgainst": 47,
+        "stolenBasesAgainst": 49,
         "caughtStealingBy": 9,
         "stolenBasesPercentage": null,
-        "passedBalls": 5,
+        "passedBalls": 6,
         "catchersInterference": 2,
-        "totalChances": 364
+        "totalChances": 378
       },
       "evaluation": {
-        "score": 19,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 29.44444444444444,
-          "Power": 6.842105263157887,
-          "Contact": 23.125000000000004,
-          "Discipline": 28.282828282828277,
+          "On-base": 36.666666666666636,
+          "Power": 15.263157894736842,
+          "Contact": 28.750000000000007,
+          "Discipline": 30.917874396135264,
           "Speed": 0
         },
         "summary": "Jackson Golden gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .257",
-          "OBP .333",
-          "SLG .346"
+          "AVG .266",
+          "OBP .346",
+          "SLG .378"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".257"
+            "value": ".266"
           },
           {
             "label": "OBP",
-            "value": ".333"
-          },
-          {
-            "label": "SLG",
             "value": ".346"
           },
           {
+            "label": "SLG",
+            "value": ".378"
+          },
+          {
             "label": "HR",
-            "value": "1"
+            "value": "2"
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "21"
           },
           {
             "label": "SB",
@@ -1009,31 +1009,31 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "8",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/bryce-blevins/10985",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-39.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 12,
-        "appearances": 12,
+        "gamesPlayed": 13,
+        "gamesStarted": 13,
+        "appearances": 13,
         "gamesCompleted": 2,
-        "earnedRunAverage": 4.4,
-        "whip": 1.24,
+        "earnedRunAverage": 4.45,
+        "whip": 1.25,
         "wins": 8,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 88,
-        "inningsPitchedDisplay": "88.0",
-        "hitsAllowed": 94,
-        "runsAllowed": 47,
-        "earnedRunsAllowed": 43,
-        "walksAllowed": 15,
-        "strikeouts": 77,
-        "doublesAllowed": 20,
+        "inningsPitched": 95,
+        "inningsPitchedDisplay": "95.0",
+        "hitsAllowed": 102,
+        "runsAllowed": 51,
+        "earnedRunsAllowed": 47,
+        "walksAllowed": 17,
+        "strikeouts": 83,
+        "doublesAllowed": 23,
         "triplesAllowed": 3,
         "homeRunsAllowed": 10,
-        "opponentsAtBats": 343,
-        "wildPitches": 1,
+        "opponentsAtBats": 371,
+        "wildPitches": 2,
         "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.274,
+        "opponentsBattingAverage": 0.275,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1043,14 +1043,14 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "8",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/bryce-blevins/10985",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-39.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 11,
+        "gamesPlayed": 12,
+        "gamesStarted": 12,
         "putouts": 1,
         "assists": 21,
         "errors": 1,
         "fieldingPercentage": 0.957,
         "doublePlays": 0,
-        "stolenBasesAgainst": 4,
+        "stolenBasesAgainst": 5,
         "caughtStealingBy": 2,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
@@ -1058,7 +1058,7 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "totalChances": 23
       },
       "evaluation": {
-        "score": 20,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1066,24 +1066,24 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 35.22727272727273,
-          "Command": 82.66666666666666,
+          "Miss bats": 35.119617224880386,
+          "Command": 77.64705882352942,
           "Damage suppression": 0
         },
         "summary": "Bryce Blevins looks like a LHP option who throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.40",
-          "WHIP 1.24",
+          "ERA 4.45",
+          "WHIP 1.25",
           "K/9 7.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.40"
+            "value": "4.45"
           },
           {
             "label": "WHIP",
-            "value": "1.24"
+            "value": "1.25"
           },
           {
             "label": "K/9",
@@ -1091,15 +1091,15 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
           },
           {
             "label": "BB/9",
-            "value": "1.5"
+            "value": "1.6"
           },
           {
             "label": "HR/9",
-            "value": "1.02"
+            "value": "0.95"
           },
           {
             "label": "IP",
-            "value": "88.0"
+            "value": "95.0"
           }
         ],
         "metaLine": "SR / L/L",
@@ -1151,31 +1151,31 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "10",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/landen-doll/10986",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-18.jpg",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 3,
-        "appearances": 15,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.27,
-        "whip": 1.38,
+        "earnedRunAverage": 7.64,
+        "whip": 1.47,
         "wins": 2,
         "losses": 4,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 34.666666666666664,
-        "inningsPitchedDisplay": "34.2",
-        "hitsAllowed": 35,
-        "runsAllowed": 32,
-        "earnedRunsAllowed": 28,
-        "walksAllowed": 13,
+        "inningsPitched": 35.333333333333336,
+        "inningsPitchedDisplay": "35.1",
+        "hitsAllowed": 37,
+        "runsAllowed": 34,
+        "earnedRunsAllowed": 30,
+        "walksAllowed": 15,
         "strikeouts": 43,
         "doublesAllowed": 3,
         "triplesAllowed": 2,
         "homeRunsAllowed": 6,
-        "opponentsAtBats": 133,
+        "opponentsAtBats": 137,
         "wildPitches": 1,
         "hitBatters": 7,
         "balks": 0,
-        "opponentsBattingAverage": 0.263,
+        "opponentsBattingAverage": 0.27,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1200,7 +1200,7 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "totalChances": 6
       },
       "evaluation": {
-        "score": 20,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1208,40 +1208,40 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 65.12237762237764,
-          "Command": 46.15384615384615,
+          "Miss bats": 63.20754716981132,
+          "Command": 37.333333333333336,
           "Damage suppression": 0
         },
         "summary": "Landen Doll looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 7.27",
-          "WHIP 1.38",
-          "K/9 11.2"
+          "ERA 7.64",
+          "WHIP 1.47",
+          "K/9 11.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.27"
+            "value": "7.64"
           },
           {
             "label": "WHIP",
-            "value": "1.38"
+            "value": "1.47"
           },
           {
             "label": "K/9",
-            "value": "11.2"
+            "value": "11.0"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "3.8"
           },
           {
             "label": "HR/9",
-            "value": "1.56"
+            "value": "1.53"
           },
           {
             "label": "IP",
-            "value": "34.7"
+            "value": "35.3"
           }
         ],
         "metaLine": "FR / L/L",
@@ -1293,31 +1293,31 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "11",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/charlie-krebs/10707",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-26.jpg",
-        "gamesPlayed": 20,
+        "gamesPlayed": 22,
         "gamesStarted": 0,
-        "appearances": 20,
+        "appearances": 22,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.88,
-        "whip": 1.66,
-        "wins": 1,
+        "earnedRunAverage": 4.93,
+        "whip": 1.59,
+        "wins": 2,
         "losses": 2,
         "saves": 3,
         "shutouts": 0,
-        "inningsPitched": 31.333333333333332,
-        "inningsPitchedDisplay": "31.1",
-        "hitsAllowed": 34,
-        "runsAllowed": 17,
-        "earnedRunsAllowed": 17,
-        "walksAllowed": 18,
+        "inningsPitched": 34.666666666666664,
+        "inningsPitchedDisplay": "34.2",
+        "hitsAllowed": 36,
+        "runsAllowed": 19,
+        "earnedRunsAllowed": 19,
+        "walksAllowed": 19,
         "strikeouts": 36,
         "doublesAllowed": 5,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 124,
+        "homeRunsAllowed": 6,
+        "opponentsAtBats": 136,
         "wildPitches": 4,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.274,
+        "opponentsBattingAverage": 0.265,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1327,14 +1327,14 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "11",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/charlie-krebs/10707",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-26.jpg",
-        "gamesPlayed": 6,
+        "gamesPlayed": 7,
         "gamesStarted": 0,
         "putouts": 0,
         "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 7,
+        "stolenBasesAgainst": 8,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
@@ -1342,7 +1342,7 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 15,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1350,40 +1350,40 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 57.64023210831722,
-          "Command": 20,
+          "Miss bats": 48.60139860139861,
+          "Command": 17.89473684210526,
           "Damage suppression": 0
         },
         "summary": "Charlie Krebs looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.88",
-          "WHIP 1.66",
-          "K/9 10.3"
+          "ERA 4.93",
+          "WHIP 1.59",
+          "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.88"
+            "value": "4.93"
           },
           {
             "label": "WHIP",
-            "value": "1.66"
+            "value": "1.59"
           },
           {
             "label": "K/9",
-            "value": "10.3"
+            "value": "9.3"
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
-            "value": "1.44"
+            "value": "1.56"
           },
           {
             "label": "IP",
-            "value": "31.3"
+            "value": "34.7"
           }
         ],
         "metaLine": "JR / R/R",
@@ -1577,31 +1577,31 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "13",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/drew-harlow/10996",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-40.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 12,
-        "appearances": 12,
+        "gamesPlayed": 13,
+        "gamesStarted": 13,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.63,
-        "whip": 1.4,
+        "earnedRunAverage": 4.79,
+        "whip": 1.42,
         "wins": 4,
         "losses": 5,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 72,
-        "inningsPitchedDisplay": "72.0",
-        "hitsAllowed": 73,
-        "runsAllowed": 45,
-        "earnedRunsAllowed": 37,
-        "walksAllowed": 28,
-        "strikeouts": 64,
-        "doublesAllowed": 15,
+        "inningsPitched": 77,
+        "inningsPitchedDisplay": "77.0",
+        "hitsAllowed": 79,
+        "runsAllowed": 49,
+        "earnedRunsAllowed": 41,
+        "walksAllowed": 30,
+        "strikeouts": 69,
+        "doublesAllowed": 16,
         "triplesAllowed": 2,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 272,
-        "wildPitches": 12,
-        "hitBatters": 9,
+        "homeRunsAllowed": 6,
+        "opponentsAtBats": 293,
+        "wildPitches": 13,
+        "hitBatters": 10,
         "balks": 1,
-        "opponentsBattingAverage": 0.268,
+        "opponentsBattingAverage": 0.27,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1611,22 +1611,22 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "13",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/drew-harlow/10996",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-40.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 8,
+        "gamesPlayed": 9,
+        "gamesStarted": 9,
         "putouts": 2,
-        "assists": 11,
+        "assists": 12,
         "errors": 3,
-        "fieldingPercentage": 0.813,
+        "fieldingPercentage": 0.824,
         "doublePlays": 0,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 2,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 16
+        "totalChances": 17
       },
       "evaluation": {
-        "score": 11,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1634,28 +1634,28 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.36363636363637,
-          "Command": 25.71428571428571,
+          "Miss bats": 36.95395513577333,
+          "Command": 26.000000000000007,
           "Damage suppression": 0
         },
         "summary": "Drew Harlow gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.63",
-          "WHIP 1.40",
-          "K/9 8.0"
+          "ERA 4.79",
+          "WHIP 1.42",
+          "K/9 8.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.63"
+            "value": "4.79"
           },
           {
             "label": "WHIP",
-            "value": "1.40"
+            "value": "1.42"
           },
           {
             "label": "K/9",
-            "value": "8.0"
+            "value": "8.1"
           },
           {
             "label": "BB/9",
@@ -1663,11 +1663,11 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.63"
+            "value": "0.70"
           },
           {
             "label": "IP",
-            "value": "72.0"
+            "value": "77.0"
           }
         ],
         "metaLine": "GR / R/R",
@@ -1718,33 +1718,33 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "15",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/cooper-hinson/10703",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-11.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "battingAverage": 0.312,
-        "onBasePercentage": 0.365,
-        "sluggingPercentage": 0.457,
-        "ops": 0.822,
-        "atBats": 173,
-        "runs": 17,
-        "hits": 54,
+        "gamesPlayed": 47,
+        "gamesStarted": 47,
+        "battingAverage": 0.313,
+        "onBasePercentage": 0.361,
+        "sluggingPercentage": 0.451,
+        "ops": 0.812,
+        "atBats": 182,
+        "runs": 18,
+        "hits": 57,
         "doubles": 17,
         "triples": 1,
         "homeRuns": 2,
-        "runsBattedIn": 34,
-        "totalBases": 79,
+        "runsBattedIn": 37,
+        "totalBases": 82,
         "walks": 12,
         "hitByPitch": 4,
         "strikeouts": 34,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 3,
+        "sacrificeFlies": 4,
         "sacrificeHits": 2,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 2,
-        "putouts": 76,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 3,
+        "putouts": 84,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 198,
+        "plateAppearances": 209,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1756,9 +1756,9 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "15",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/cooper-hinson/10703",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-11.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 35,
-        "putouts": 76,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "putouts": 84,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1768,7 +1768,7 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 77
+        "totalChances": 85
       },
       "evaluation": {
         "score": 37,
@@ -1777,30 +1777,30 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 47.22222222222221,
-          "Power": 36.05263157894738,
-          "Contact": 57.49999999999999,
+          "On-base": 44.99999999999998,
+          "Power": 34.47368421052632,
+          "Contact": 58.12499999999999,
           "Discipline": 16.993464052287578,
-          "Speed": 0
+          "Speed": 3.3333333333333335
         },
         "summary": "Cooper Hinson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .312",
-          "OBP .365",
-          "SLG .457"
+          "AVG .313",
+          "OBP .361",
+          "SLG .451"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".312"
+            "value": ".313"
           },
           {
             "label": "OBP",
-            "value": ".365"
+            "value": ".361"
           },
           {
             "label": "SLG",
-            "value": ".457"
+            "value": ".451"
           },
           {
             "label": "HR",
@@ -1808,11 +1808,11 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "37"
           },
           {
             "label": "SB",
-            "value": "0"
+            "value": "1"
           }
         ],
         "metaLine": "SO / L/R",
@@ -2008,33 +2008,33 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "17",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/mason-onate/10988",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-03.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 22,
-        "battingAverage": 0.266,
-        "onBasePercentage": 0.376,
-        "sluggingPercentage": 0.443,
-        "ops": 0.819,
-        "atBats": 79,
-        "runs": 12,
-        "hits": 21,
-        "doubles": 3,
+        "gamesPlayed": 26,
+        "gamesStarted": 24,
+        "battingAverage": 0.282,
+        "onBasePercentage": 0.402,
+        "sluggingPercentage": 0.459,
+        "ops": 0.861,
+        "atBats": 85,
+        "runs": 15,
+        "hits": 24,
+        "doubles": 4,
         "triples": 1,
         "homeRuns": 3,
-        "runsBattedIn": 6,
-        "totalBases": 35,
-        "walks": 11,
-        "hitByPitch": 3,
-        "strikeouts": 18,
+        "runsBattedIn": 7,
+        "totalBases": 39,
+        "walks": 13,
+        "hitByPitch": 4,
+        "strikeouts": 19,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
-        "stolenBases": 5,
-        "stolenBasesAttempts": 9,
-        "putouts": 24,
+        "stolenBases": 6,
+        "stolenBasesAttempts": 10,
+        "putouts": 28,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 107,
+        "plateAppearances": 117,
         "caughtStealing": 4,
         "pickedOff": 0
       },
@@ -2046,51 +2046,51 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "17",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/mason-onate/10988",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-03.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 22,
-        "putouts": 24,
-        "assists": 60,
+        "gamesPlayed": 24,
+        "gamesStarted": 24,
+        "putouts": 28,
+        "assists": 64,
         "errors": 5,
-        "fieldingPercentage": 0.944,
+        "fieldingPercentage": 0.948,
         "doublePlays": 7,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 89
+        "totalChances": 97
       },
       "evaluation": {
-        "score": 39,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 53.33333333333332,
-          "Power": 32.36842105263158,
-          "Contact": 28.750000000000007,
-          "Discipline": 45.67901234567901,
-          "Speed": 16.666666666666664
+          "On-base": 67.77777777777779,
+          "Power": 36.57894736842106,
+          "Contact": 38.74999999999998,
+          "Discipline": 53.80116959064327,
+          "Speed": 20
         },
-        "summary": "Mason Onate gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Mason Onate profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .266",
-          "OBP .376",
-          "SLG .443"
+          "AVG .282",
+          "OBP .402",
+          "SLG .459"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".266"
+            "value": ".282"
           },
           {
             "label": "OBP",
-            "value": ".376"
+            "value": ".402"
           },
           {
             "label": "SLG",
-            "value": ".443"
+            "value": ".459"
           },
           {
             "label": "HR",
@@ -2098,11 +2098,11 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
           },
           {
             "label": "RBI",
-            "value": "6"
+            "value": "7"
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "6"
           }
         ],
         "metaLine": "R-SO / L/R",
@@ -2154,31 +2154,31 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "18",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/davis-gunn/10699",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-22.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 0,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.49,
-        "whip": 1.73,
-        "wins": 0,
+        "earnedRunAverage": 5.14,
+        "whip": 1.71,
+        "wins": 1,
         "losses": 1,
         "saves": 3,
         "shutouts": 0,
-        "inningsPitched": 19.666666666666668,
-        "inningsPitchedDisplay": "19.2",
-        "hitsAllowed": 23,
+        "inningsPitched": 21,
+        "inningsPitchedDisplay": "21.0",
+        "hitsAllowed": 25,
         "runsAllowed": 15,
         "earnedRunsAllowed": 12,
         "walksAllowed": 11,
-        "strikeouts": 15,
+        "strikeouts": 18,
         "doublesAllowed": 5,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 79,
+        "opponentsAtBats": 85,
         "wildPitches": 2,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.291,
+        "opponentsBattingAverage": 0.294,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2203,7 +2203,7 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "totalChances": 3
       },
       "evaluation": {
-        "score": 6,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2211,40 +2211,40 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 26.04006163328197,
-          "Command": 7.272727272727271,
+          "Miss bats": 33.76623376623377,
+          "Command": 12.727272727272727,
           "Damage suppression": 0
         },
         "summary": "Davis Gunn gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.49",
-          "WHIP 1.73",
-          "K/9 6.9"
+          "ERA 5.14",
+          "WHIP 1.71",
+          "K/9 7.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.49"
+            "value": "5.14"
           },
           {
             "label": "WHIP",
-            "value": "1.73"
+            "value": "1.71"
           },
           {
             "label": "K/9",
-            "value": "6.9"
+            "value": "7.7"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "4.7"
           },
           {
             "label": "HR/9",
-            "value": "1.37"
+            "value": "1.29"
           },
           {
             "label": "IP",
-            "value": "19.7"
+            "value": "21.0"
           }
         ],
         "metaLine": "R-FR / R/R",
@@ -2670,33 +2670,33 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "22",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/jack-smith/10716",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-08.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 32,
-        "battingAverage": 0.264,
-        "onBasePercentage": 0.303,
-        "sluggingPercentage": 0.339,
-        "ops": 0.642,
-        "atBats": 121,
-        "runs": 16,
-        "hits": 32,
-        "doubles": 6,
+        "gamesPlayed": 35,
+        "gamesStarted": 34,
+        "battingAverage": 0.254,
+        "onBasePercentage": 0.291,
+        "sluggingPercentage": 0.331,
+        "ops": 0.622,
+        "atBats": 130,
+        "runs": 17,
+        "hits": 33,
+        "doubles": 7,
         "triples": 0,
         "homeRuns": 1,
-        "runsBattedIn": 20,
-        "totalBases": 41,
+        "runsBattedIn": 21,
+        "totalBases": 43,
         "walks": 7,
         "hitByPitch": 1,
-        "strikeouts": 19,
+        "strikeouts": 20,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 3,
         "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 36,
+        "putouts": 39,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 136,
+        "plateAppearances": 145,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2708,51 +2708,51 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "22",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/jack-smith/10716",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-08.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 31,
-        "putouts": 36,
-        "assists": 66,
+        "gamesPlayed": 34,
+        "gamesStarted": 33,
+        "putouts": 39,
+        "assists": 72,
         "errors": 6,
-        "fieldingPercentage": 0.944,
+        "fieldingPercentage": 0.949,
         "doublePlays": 13,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 108
+        "totalChances": 117
       },
       "evaluation": {
-        "score": 13,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 12.77777777777776,
-          "Power": 5.000000000000005,
-          "Contact": 27.500000000000007,
-          "Discipline": 18.713450292397653,
+          "On-base": 6.111111111111086,
+          "Power": 2.8947368421052664,
+          "Contact": 21.250000000000004,
+          "Discipline": 16.66666666666666,
           "Speed": 3.3333333333333335
         },
         "summary": "Jack Smith gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .264",
-          "OBP .303",
-          "SLG .339"
+          "AVG .254",
+          "OBP .291",
+          "SLG .331"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".264"
+            "value": ".254"
           },
           {
             "label": "OBP",
-            "value": ".303"
+            "value": ".291"
           },
           {
             "label": "SLG",
-            "value": ".339"
+            "value": ".331"
           },
           {
             "label": "HR",
@@ -2760,7 +2760,7 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "21"
           },
           {
             "label": "SB",
@@ -2815,33 +2815,33 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "23",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/aj-havrilla/10702",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-34.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 48,
-        "battingAverage": 0.253,
-        "onBasePercentage": 0.445,
-        "sluggingPercentage": 0.399,
-        "ops": 0.844,
-        "atBats": 158,
-        "runs": 33,
-        "hits": 40,
-        "doubles": 5,
+        "gamesPlayed": 50,
+        "gamesStarted": 50,
+        "battingAverage": 0.261,
+        "onBasePercentage": 0.452,
+        "sluggingPercentage": 0.406,
+        "ops": 0.858,
+        "atBats": 165,
+        "runs": 35,
+        "hits": 43,
+        "doubles": 6,
         "triples": 0,
         "homeRuns": 6,
-        "runsBattedIn": 35,
-        "totalBases": 63,
-        "walks": 46,
-        "hitByPitch": 11,
-        "strikeouts": 30,
+        "runsBattedIn": 38,
+        "totalBases": 67,
+        "walks": 48,
+        "hitByPitch": 12,
+        "strikeouts": 31,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 3,
         "sacrificeHits": 2,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 2,
-        "putouts": 396,
+        "stolenBases": 3,
+        "stolenBasesAttempts": 3,
+        "putouts": 411,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 222,
+        "plateAppearances": 233,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2853,9 +2853,9 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "23",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/aj-havrilla/10702",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-34.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 48,
-        "putouts": 396,
+        "gamesPlayed": 50,
+        "gamesStarted": 50,
+        "putouts": 411,
         "assists": 20,
         "errors": 3,
         "fieldingPercentage": 0.993,
@@ -2865,39 +2865,39 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 419
+        "totalChances": 434
       },
       "evaluation": {
-        "score": 53,
+        "score": 56,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 91.66666666666666,
-          "Power": 20.78947368421053,
-          "Contact": 20.625,
+          "On-base": 95.55555555555554,
+          "Power": 22.631578947368432,
+          "Contact": 25.625000000000004,
           "Discipline": 100,
-          "Speed": 6.666666666666667
+          "Speed": 10
         },
         "summary": "AJ Havrilla profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .253",
-          "OBP .445",
-          "SLG .399"
+          "AVG .261",
+          "OBP .452",
+          "SLG .406"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".253"
+            "value": ".261"
           },
           {
             "label": "OBP",
-            "value": ".445"
+            "value": ".452"
           },
           {
             "label": "SLG",
-            "value": ".399"
+            "value": ".406"
           },
           {
             "label": "HR",
@@ -2905,11 +2905,11 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
           },
           {
             "label": "RBI",
-            "value": "35"
+            "value": "38"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "3"
           }
         ],
         "metaLine": "JR / R/R",
@@ -3105,7 +3105,7 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "25",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/cam-harthan/10701",
         "imageUrl": "https://herdzone.com/images/2024/12/18/Harthan.png",
-        "gamesPlayed": 32,
+        "gamesPlayed": 33,
         "gamesStarted": 10,
         "battingAverage": 0.236,
         "onBasePercentage": 0.276,
@@ -4232,33 +4232,33 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "34",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/ethan-murdoch/10713",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-32.jpg",
-        "gamesPlayed": 23,
-        "gamesStarted": 17,
-        "battingAverage": 0.236,
-        "onBasePercentage": 0.276,
-        "sluggingPercentage": 0.431,
-        "ops": 0.707,
-        "atBats": 72,
-        "runs": 12,
+        "gamesPlayed": 25,
+        "gamesStarted": 19,
+        "battingAverage": 0.218,
+        "onBasePercentage": 0.279,
+        "sluggingPercentage": 0.397,
+        "ops": 0.676,
+        "atBats": 78,
+        "runs": 14,
         "hits": 17,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 4,
-        "runsBattedIn": 12,
+        "runsBattedIn": 13,
         "totalBases": 31,
-        "walks": 4,
-        "hitByPitch": 0,
-        "strikeouts": 18,
+        "walks": 6,
+        "hitByPitch": 1,
+        "strikeouts": 19,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 0,
+        "sacrificeFlies": 1,
         "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 2,
+        "stolenBases": 2,
+        "stolenBasesAttempts": 3,
         "putouts": 2,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 79,
+        "plateAppearances": 90,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -4285,36 +4285,36 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 10,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
           "On-base": 0,
-          "Power": 29.210526315789476,
-          "Contact": 9.999999999999991,
-          "Discipline": 2.469135802469133,
-          "Speed": 3.3333333333333335
+          "Power": 20.26315789473685,
+          "Contact": 0,
+          "Discipline": 12.865497076023386,
+          "Speed": 6.666666666666667
         },
         "summary": "Ethan Murdoch gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .236",
-          "OBP .276",
-          "SLG .431"
+          "AVG .218",
+          "OBP .279",
+          "SLG .397"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".236"
+            "value": ".218"
           },
           {
             "label": "OBP",
-            "value": ".276"
+            "value": ".279"
           },
           {
             "label": "SLG",
-            "value": ".431"
+            "value": ".397"
           },
           {
             "label": "HR",
@@ -4322,11 +4322,11 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "metaLine": "GR / R/R",
@@ -4986,31 +4986,31 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "jersey": "50",
         "profileUrl": "https://herdzone.com/sports/baseball/roster/alex-caudill/10994",
         "imageUrl": "https://herdzone.com/images/2025/10/29/Baseball_2025_Headshots-35.jpg",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 2,
-        "appearances": 15,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.31,
-        "whip": 1.68,
+        "earnedRunAverage": 6.84,
+        "whip": 1.71,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 25.666666666666668,
-        "inningsPitchedDisplay": "25.2",
-        "hitsAllowed": 25,
-        "runsAllowed": 20,
-        "earnedRunsAllowed": 18,
-        "walksAllowed": 18,
+        "inningsPitched": 26.333333333333332,
+        "inningsPitchedDisplay": "26.1",
+        "hitsAllowed": 26,
+        "runsAllowed": 22,
+        "earnedRunsAllowed": 20,
+        "walksAllowed": 19,
         "strikeouts": 25,
         "doublesAllowed": 5,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 99,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 102,
         "wildPitches": 7,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.253,
+        "opponentsBattingAverage": 0.255,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5035,7 +5035,7 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "totalChances": 5
       },
       "evaluation": {
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5043,40 +5043,40 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.32939787485242,
-          "Command": 7.777777777777777,
+          "Miss bats": 41.31185270425778,
+          "Command": 6.315789473684212,
           "Damage suppression": 0
         },
         "summary": "Alex Caudill gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.31",
-          "WHIP 1.68",
-          "K/9 8.8"
+          "ERA 6.84",
+          "WHIP 1.71",
+          "K/9 8.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.31"
+            "value": "6.84"
           },
           {
             "label": "WHIP",
-            "value": "1.68"
+            "value": "1.71"
           },
           {
             "label": "K/9",
-            "value": "8.8"
+            "value": "8.5"
           },
           {
             "label": "BB/9",
-            "value": "6.3"
+            "value": "6.5"
           },
           {
             "label": "HR/9",
-            "value": "0.35"
+            "value": "0.68"
           },
           {
             "label": "IP",
-            "value": "25.7"
+            "value": "26.3"
           }
         ],
         "metaLine": "JR / R/R",
@@ -5195,29 +5195,29 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "position": "INF",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 48,
+        "score": 46,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tyler Kamerer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .325",
-          "OBP .381",
-          "SLG .463"
+          "AVG .322",
+          "OBP .382",
+          "SLG .455"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".325"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".381"
+            "value": ".382"
           },
           {
             "label": "SLG",
-            "value": ".463"
+            "value": ".455"
           },
           {
             "label": "HR",
@@ -5225,7 +5225,7 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -5233,10 +5233,10 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
           }
         ],
         "components": {
-          "On-base": 56.1111111111111,
-          "Power": 37.63157894736843,
-          "Contact": 65.625,
-          "Discipline": 42.59259259259259,
+          "On-base": 56.66666666666666,
+          "Power": 35.52631578947369,
+          "Contact": 63.75000000000001,
+          "Discipline": 39.50617283950617,
           "Speed": 20
         },
         "metaLine": "R-JR / R/R",
@@ -5264,29 +5264,29 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 79,
+        "score": 80,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Priority",
+          "className": "fit-priority"
         },
         "summary": "Evan Bottone profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .380",
-          "OBP .477",
-          "SLG .560"
+          "AVG .387",
+          "OBP .481",
+          "SLG .562"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".380"
+            "value": ".387"
           },
           {
             "label": "OBP",
-            "value": ".477"
+            "value": ".481"
           },
           {
             "label": "SLG",
-            "value": ".560"
+            "value": ".562"
           },
           {
             "label": "HR",
@@ -5294,19 +5294,19 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "36"
           },
           {
             "label": "SB",
-            "value": "9"
+            "value": "11"
           }
         ],
         "components": {
           "On-base": 100,
-          "Power": 63.157894736842124,
+          "Power": 63.68421052631581,
           "Contact": 100,
           "Discipline": 71.79487179487177,
-          "Speed": 30
+          "Speed": 36.666666666666664
         },
         "metaLine": "JR / L/R",
         "detailBadges": [
@@ -5333,49 +5333,49 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "position": "OF",
         "classYear": "GR",
         "handedness": "L/R",
-        "score": 27,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jackson Halter gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .247",
-          "OBP .343",
-          "SLG .438"
+          "AVG .249",
+          "OBP .350",
+          "SLG .465"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".247"
+            "value": ".249"
           },
           {
             "label": "OBP",
-            "value": ".343"
+            "value": ".350"
           },
           {
             "label": "SLG",
-            "value": ".438"
+            "value": ".465"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "44"
+            "value": "47"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "components": {
-          "On-base": 35,
-          "Power": 31.05263157894737,
-          "Contact": 16.875,
-          "Discipline": 31.908831908831903,
-          "Speed": 3.3333333333333335
+          "On-base": 38.888888888888864,
+          "Power": 38.15789473684211,
+          "Contact": 18.125,
+          "Discipline": 34.68834688346883,
+          "Speed": 6.666666666666667
         },
         "metaLine": "GR / L/R",
         "detailBadges": [
@@ -5540,37 +5540,37 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "position": "C",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 19,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jackson Golden gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .257",
-          "OBP .333",
-          "SLG .346"
+          "AVG .266",
+          "OBP .346",
+          "SLG .378"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".257"
+            "value": ".266"
           },
           {
             "label": "OBP",
-            "value": ".333"
-          },
-          {
-            "label": "SLG",
             "value": ".346"
           },
           {
+            "label": "SLG",
+            "value": ".378"
+          },
+          {
             "label": "HR",
-            "value": "1"
+            "value": "2"
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "21"
           },
           {
             "label": "SB",
@@ -5578,10 +5578,10 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
           }
         ],
         "components": {
-          "On-base": 29.44444444444444,
-          "Power": 6.842105263157887,
-          "Contact": 23.125000000000004,
-          "Discipline": 28.282828282828277,
+          "On-base": 36.666666666666636,
+          "Power": 15.263157894736842,
+          "Contact": 28.750000000000007,
+          "Discipline": 30.917874396135264,
           "Speed": 0
         },
         "metaLine": "SO / R/R",
@@ -5609,25 +5609,25 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "position": "LHP",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 20,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Bryce Blevins looks like a LHP option who throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.40",
-          "WHIP 1.24",
+          "ERA 4.45",
+          "WHIP 1.25",
           "K/9 7.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.40"
+            "value": "4.45"
           },
           {
             "label": "WHIP",
-            "value": "1.24"
+            "value": "1.25"
           },
           {
             "label": "K/9",
@@ -5635,22 +5635,22 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
           },
           {
             "label": "BB/9",
-            "value": "1.5"
+            "value": "1.6"
           },
           {
             "label": "HR/9",
-            "value": "1.02"
+            "value": "0.95"
           },
           {
             "label": "IP",
-            "value": "88.0"
+            "value": "95.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 35.22727272727273,
-          "Command": 82.66666666666666,
+          "Miss bats": 35.119617224880386,
+          "Command": 77.64705882352942,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/L",
@@ -5678,48 +5678,48 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "position": "LHP",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 20,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Landen Doll looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 7.27",
-          "WHIP 1.38",
-          "K/9 11.2"
+          "ERA 7.64",
+          "WHIP 1.47",
+          "K/9 11.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.27"
+            "value": "7.64"
           },
           {
             "label": "WHIP",
-            "value": "1.38"
+            "value": "1.47"
           },
           {
             "label": "K/9",
-            "value": "11.2"
+            "value": "11.0"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "3.8"
           },
           {
             "label": "HR/9",
-            "value": "1.56"
+            "value": "1.53"
           },
           {
             "label": "IP",
-            "value": "34.7"
+            "value": "35.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 65.12237762237764,
-          "Command": 46.15384615384615,
+          "Miss bats": 63.20754716981132,
+          "Command": 37.333333333333336,
           "Damage suppression": 0
         },
         "metaLine": "FR / L/L",
@@ -5747,48 +5747,48 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 15,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Charlie Krebs looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.88",
-          "WHIP 1.66",
-          "K/9 10.3"
+          "ERA 4.93",
+          "WHIP 1.59",
+          "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.88"
+            "value": "4.93"
           },
           {
             "label": "WHIP",
-            "value": "1.66"
+            "value": "1.59"
           },
           {
             "label": "K/9",
-            "value": "10.3"
+            "value": "9.3"
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
-            "value": "1.44"
+            "value": "1.56"
           },
           {
             "label": "IP",
-            "value": "31.3"
+            "value": "34.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 57.64023210831722,
-          "Command": 20,
+          "Miss bats": 48.60139860139861,
+          "Command": 17.89473684210526,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -5885,29 +5885,29 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "position": "RHP",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 11,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Drew Harlow gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.63",
-          "WHIP 1.40",
-          "K/9 8.0"
+          "ERA 4.79",
+          "WHIP 1.42",
+          "K/9 8.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.63"
+            "value": "4.79"
           },
           {
             "label": "WHIP",
-            "value": "1.40"
+            "value": "1.42"
           },
           {
             "label": "K/9",
-            "value": "8.0"
+            "value": "8.1"
           },
           {
             "label": "BB/9",
@@ -5915,18 +5915,18 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.63"
+            "value": "0.70"
           },
           {
             "label": "IP",
-            "value": "72.0"
+            "value": "77.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.36363636363637,
-          "Command": 25.71428571428571,
+          "Miss bats": 36.95395513577333,
+          "Command": 26.000000000000007,
           "Damage suppression": 0
         },
         "metaLine": "GR / R/R",
@@ -5961,22 +5961,22 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         },
         "summary": "Cooper Hinson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .312",
-          "OBP .365",
-          "SLG .457"
+          "AVG .313",
+          "OBP .361",
+          "SLG .451"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".312"
+            "value": ".313"
           },
           {
             "label": "OBP",
-            "value": ".365"
+            "value": ".361"
           },
           {
             "label": "SLG",
-            "value": ".457"
+            "value": ".451"
           },
           {
             "label": "HR",
@@ -5984,19 +5984,19 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "37"
           },
           {
             "label": "SB",
-            "value": "0"
+            "value": "1"
           }
         ],
         "components": {
-          "On-base": 47.22222222222221,
-          "Power": 36.05263157894738,
-          "Contact": 57.49999999999999,
+          "On-base": 44.99999999999998,
+          "Power": 34.47368421052632,
+          "Contact": 58.12499999999999,
           "Discipline": 16.993464052287578,
-          "Speed": 0
+          "Speed": 3.3333333333333335
         },
         "metaLine": "SO / L/R",
         "detailBadges": [
@@ -6092,29 +6092,29 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "position": "INF",
         "classYear": "R-SO",
         "handedness": "L/R",
-        "score": 39,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Mason Onate gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Mason Onate profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .266",
-          "OBP .376",
-          "SLG .443"
+          "AVG .282",
+          "OBP .402",
+          "SLG .459"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".266"
+            "value": ".282"
           },
           {
             "label": "OBP",
-            "value": ".376"
+            "value": ".402"
           },
           {
             "label": "SLG",
-            "value": ".443"
+            "value": ".459"
           },
           {
             "label": "HR",
@@ -6122,19 +6122,19 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
           },
           {
             "label": "RBI",
-            "value": "6"
+            "value": "7"
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "6"
           }
         ],
         "components": {
-          "On-base": 53.33333333333332,
-          "Power": 32.36842105263158,
-          "Contact": 28.750000000000007,
-          "Discipline": 45.67901234567901,
-          "Speed": 16.666666666666664
+          "On-base": 67.77777777777779,
+          "Power": 36.57894736842106,
+          "Contact": 38.74999999999998,
+          "Discipline": 53.80116959064327,
+          "Speed": 20
         },
         "metaLine": "R-SO / L/R",
         "detailBadges": [
@@ -6161,48 +6161,48 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "position": "RHP",
         "classYear": "R-FR",
         "handedness": "R/R",
-        "score": 6,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Davis Gunn gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.49",
-          "WHIP 1.73",
-          "K/9 6.9"
+          "ERA 5.14",
+          "WHIP 1.71",
+          "K/9 7.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.49"
+            "value": "5.14"
           },
           {
             "label": "WHIP",
-            "value": "1.73"
+            "value": "1.71"
           },
           {
             "label": "K/9",
-            "value": "6.9"
+            "value": "7.7"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "4.7"
           },
           {
             "label": "HR/9",
-            "value": "1.37"
+            "value": "1.29"
           },
           {
             "label": "IP",
-            "value": "19.7"
+            "value": "21.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 26.04006163328197,
-          "Command": 7.272727272727271,
+          "Miss bats": 33.76623376623377,
+          "Command": 12.727272727272727,
           "Damage suppression": 0
         },
         "metaLine": "R-FR / R/R",
@@ -6436,29 +6436,29 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 13,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Smith gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .264",
-          "OBP .303",
-          "SLG .339"
+          "AVG .254",
+          "OBP .291",
+          "SLG .331"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".264"
+            "value": ".254"
           },
           {
             "label": "OBP",
-            "value": ".303"
+            "value": ".291"
           },
           {
             "label": "SLG",
-            "value": ".339"
+            "value": ".331"
           },
           {
             "label": "HR",
@@ -6466,7 +6466,7 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "21"
           },
           {
             "label": "SB",
@@ -6474,10 +6474,10 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
           }
         ],
         "components": {
-          "On-base": 12.77777777777776,
-          "Power": 5.000000000000005,
-          "Contact": 27.500000000000007,
-          "Discipline": 18.713450292397653,
+          "On-base": 6.111111111111086,
+          "Power": 2.8947368421052664,
+          "Contact": 21.250000000000004,
+          "Discipline": 16.66666666666666,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / R/R",
@@ -6505,29 +6505,29 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 53,
+        "score": 56,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "AJ Havrilla profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .253",
-          "OBP .445",
-          "SLG .399"
+          "AVG .261",
+          "OBP .452",
+          "SLG .406"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".253"
+            "value": ".261"
           },
           {
             "label": "OBP",
-            "value": ".445"
+            "value": ".452"
           },
           {
             "label": "SLG",
-            "value": ".399"
+            "value": ".406"
           },
           {
             "label": "HR",
@@ -6535,19 +6535,19 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
           },
           {
             "label": "RBI",
-            "value": "35"
+            "value": "38"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "3"
           }
         ],
         "components": {
-          "On-base": 91.66666666666666,
-          "Power": 20.78947368421053,
-          "Contact": 20.625,
+          "On-base": 95.55555555555554,
+          "Power": 22.631578947368432,
+          "Contact": 25.625000000000004,
           "Discipline": 100,
-          "Speed": 6.666666666666667
+          "Speed": 10
         },
         "metaLine": "JR / R/R",
         "detailBadges": [
@@ -7194,29 +7194,29 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "position": "OF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 10,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ethan Murdoch gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .236",
-          "OBP .276",
-          "SLG .431"
+          "AVG .218",
+          "OBP .279",
+          "SLG .397"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".236"
+            "value": ".218"
           },
           {
             "label": "OBP",
-            "value": ".276"
+            "value": ".279"
           },
           {
             "label": "SLG",
-            "value": ".431"
+            "value": ".397"
           },
           {
             "label": "HR",
@@ -7224,19 +7224,19 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "components": {
           "On-base": 0,
-          "Power": 29.210526315789476,
-          "Contact": 9.999999999999991,
-          "Discipline": 2.469135802469133,
-          "Speed": 3.3333333333333335
+          "Power": 20.26315789473685,
+          "Contact": 0,
+          "Discipline": 12.865497076023386,
+          "Speed": 6.666666666666667
         },
         "metaLine": "GR / R/R",
         "detailBadges": [
@@ -7606,48 +7606,48 @@ window.__BASEBALL_DATASETS__.marshall2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Alex Caudill gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.31",
-          "WHIP 1.68",
-          "K/9 8.8"
+          "ERA 6.84",
+          "WHIP 1.71",
+          "K/9 8.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.31"
+            "value": "6.84"
           },
           {
             "label": "WHIP",
-            "value": "1.68"
+            "value": "1.71"
           },
           {
             "label": "K/9",
-            "value": "8.8"
+            "value": "8.5"
           },
           {
             "label": "BB/9",
-            "value": "6.3"
+            "value": "6.5"
           },
           {
             "label": "HR/9",
-            "value": "0.35"
+            "value": "0.68"
           },
           {
             "label": "IP",
-            "value": "25.7"
+            "value": "26.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.32939787485242,
-          "Command": 7.777777777777777,
+          "Miss bats": 41.31185270425778,
+          "Command": 6.315789473684212,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",

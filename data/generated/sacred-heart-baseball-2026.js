@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.sacred-heart2026 = {
-  "generatedAt": "2026-05-08T11:45:40.552Z",
+  "generatedAt": "2026-05-10T11:14:40.770Z",
   "season": 2026,
   "school": {
     "slug": "sacred-heart",
@@ -39,87 +39,87 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
     }
   },
   "teamSummary": {
-    "record": "15-28, 11-12",
-    "battingAverage": ".252",
-    "earnedRunAverage": "8.14",
+    "record": "15-30, 11-14",
+    "battingAverage": ".251",
+    "earnedRunAverage": "8.05",
     "wins": "15",
-    "losses": "28",
+    "losses": "30",
     "hitting": {
-      "atBats": "1376",
-      "runsScored": "249",
-      "hits": "347",
-      "runsBattedIn": "225",
-      "doubles": "66",
+      "atBats": "1438",
+      "runsScored": "255",
+      "hits": "361",
+      "runsBattedIn": "231",
+      "doubles": "69",
       "triples": "6",
-      "homeRuns": "31",
-      "walks": "227",
+      "homeRuns": "32",
+      "walks": "233",
       "intentionalWalks": "1",
-      "strikeouts": "390",
-      "strikeoutsLooking": "110",
+      "strikeouts": "407",
+      "strikeoutsLooking": "116",
       "hitByPitch": "59",
-      "stolenBases": "78",
-      "caughtStealing": "16",
-      "sacrificeHits": "25",
-      "sacrificeFlies": "14",
+      "stolenBases": "79",
+      "caughtStealing": "17",
+      "sacrificeHits": "27",
+      "sacrificeFlies": "15",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "315",
-      "flyOuts": "332",
-      "groundedIntoDoublePlay": "7",
-      "pickedOff": "7",
-      "doublePlaysHitInto": "28",
+      "groundOuts": "331",
+      "flyOuts": "350",
+      "groundedIntoDoublePlay": "8",
+      "pickedOff": "8",
+      "doublePlaysHitInto": "29",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1067",
-      "assists": "407",
-      "errors": "77",
+      "putouts": "1116",
+      "assists": "432",
+      "errors": "78",
       "passedBalls": "13",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "62",
+      "stolenBasesAgainst": "66",
       "caughtStealingBy": "15",
-      "involvedInDoublePlays": "29",
+      "involvedInDoublePlays": "30",
       "involvedInTriplePlays": "0",
-      "totalChances": "1551",
-      "fieldingPercentage": ".950"
+      "totalChances": "1626",
+      "fieldingPercentage": ".952"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "15",
       "saves": "6",
-      "losses": "28",
+      "losses": "30",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "0",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "356.0",
-      "hitsAllowed": "442",
-      "runsAllowed": "370",
-      "earnedRunsAllowed": "322",
-      "walksAllowed": "259",
-      "strikeouts": "207",
-      "battersFaced": "1842",
-      "opponentAtBats": "1458",
-      "doublesAllowed": "84",
+      "inningsPitched": "372.1",
+      "hitsAllowed": "460",
+      "runsAllowed": "381",
+      "earnedRunsAllowed": "333",
+      "walksAllowed": "261",
+      "strikeouts": "218",
+      "battersFaced": "1913",
+      "opponentAtBats": "1522",
+      "doublesAllowed": "87",
       "triplesAllowed": "12",
-      "homerunsAllowed": "45",
+      "homerunsAllowed": "48",
       "wildPitches": "53",
       "balks": "12",
-      "hitBatters": "87",
-      "strikeoutsLooking": "51",
+      "hitBatters": "91",
+      "strikeoutsLooking": "52",
       "intentionalWalks": "3",
       "inheritedRunners": "27",
       "inheritedRunnersThatScored": "15",
-      "sacrificeHitsAllowed": "12",
+      "sacrificeHitsAllowed": "13",
       "sacrificeFliesAllowed": "26",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6193",
-      "flyouts": "417",
-      "groundouts": "375",
+      "pitches": "6406",
+      "flyouts": "432",
+      "groundouts": "395",
       "teamUnearnedRuns": "0",
       "saveRecord": "2",
-      "pickoff": "12"
+      "pickoff": "13"
     }
   },
   "players": [
@@ -596,35 +596,35 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "4",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/cj-nolan/17604",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_030.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 21,
-        "battingAverage": 0.264,
-        "onBasePercentage": 0.426,
-        "sluggingPercentage": 0.417,
-        "ops": 0.843,
-        "atBats": 72,
+        "gamesPlayed": 31,
+        "gamesStarted": 23,
+        "battingAverage": 0.256,
+        "onBasePercentage": 0.416,
+        "sluggingPercentage": 0.397,
+        "ops": 0.813,
+        "atBats": 78,
         "runs": 18,
-        "hits": 19,
+        "hits": 20,
         "doubles": 5,
         "triples": 0,
         "homeRuns": 2,
-        "runsBattedIn": 16,
-        "totalBases": 30,
-        "walks": 12,
+        "runsBattedIn": 17,
+        "totalBases": 31,
+        "walks": 13,
         "hitByPitch": 9,
-        "strikeouts": 23,
+        "strikeouts": 24,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
-        "sacrificeHits": 1,
+        "sacrificeHits": 2,
         "stolenBases": 7,
-        "stolenBasesAttempts": 11,
-        "putouts": 40,
+        "stolenBasesAttempts": 12,
+        "putouts": 44,
         "assists": 0,
         "errors": 7,
-        "plateAppearances": 110,
-        "caughtStealing": 4,
-        "pickedOff": 0
+        "plateAppearances": 120,
+        "caughtStealing": 5,
+        "pickedOff": 1
       },
       "pitchingStats": null,
       "fieldingStats": {
@@ -634,51 +634,51 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "4",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/cj-nolan/17604",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_030.jpg",
-        "gamesPlayed": 19,
-        "gamesStarted": 18,
-        "putouts": 40,
-        "assists": 42,
+        "gamesPlayed": 21,
+        "gamesStarted": 20,
+        "putouts": 44,
+        "assists": 49,
         "errors": 7,
-        "fieldingPercentage": 0.921,
-        "doublePlays": 7,
+        "fieldingPercentage": 0.93,
+        "doublePlays": 8,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 89
+        "totalChances": 100
       },
       "evaluation": {
-        "score": 45,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 81.11111111111109,
-          "Power": 25.52631578947368,
-          "Contact": 27.500000000000007,
-          "Discipline": 35.748792270531396,
+          "On-base": 75.55555555555553,
+          "Power": 20.26315789473685,
+          "Contact": 22.500000000000004,
+          "Discipline": 37.962962962962955,
           "Speed": 23.333333333333332
         },
         "summary": "CJ Nolan profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .264",
-          "OBP .426",
-          "SLG .417"
+          "AVG .256",
+          "OBP .416",
+          "SLG .397"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".264"
+            "value": ".256"
           },
           {
             "label": "OBP",
-            "value": ".426"
+            "value": ".416"
           },
           {
             "label": "SLG",
-            "value": ".417"
+            "value": ".397"
           },
           {
             "label": "HR",
@@ -686,7 +686,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           },
           {
             "label": "RBI",
-            "value": "16"
+            "value": "17"
           },
           {
             "label": "SB",
@@ -742,31 +742,31 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "5",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/ryan-parker/17605",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_018.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 12,
-        "appearances": 12,
+        "gamesPlayed": 13,
+        "gamesStarted": 13,
+        "appearances": 13,
         "gamesCompleted": 1,
-        "earnedRunAverage": 5.03,
-        "whip": 1.62,
+        "earnedRunAverage": 4.92,
+        "whip": 1.59,
         "wins": 4,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 68,
-        "inningsPitchedDisplay": "68.0",
-        "hitsAllowed": 73,
-        "runsAllowed": 50,
-        "earnedRunsAllowed": 38,
+        "inningsPitched": 75,
+        "inningsPitchedDisplay": "75.0",
+        "hitsAllowed": 82,
+        "runsAllowed": 53,
+        "earnedRunsAllowed": 41,
         "walksAllowed": 37,
-        "strikeouts": 40,
-        "doublesAllowed": 17,
+        "strikeouts": 46,
+        "doublesAllowed": 19,
         "triplesAllowed": 2,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 271,
+        "opponentsAtBats": 298,
         "wildPitches": 7,
-        "hitBatters": 7,
+        "hitBatters": 9,
         "balks": 0,
-        "opponentsBattingAverage": 0.269,
+        "opponentsBattingAverage": 0.275,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -776,22 +776,22 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "5",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/ryan-parker/17605",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_018.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 10,
+        "gamesPlayed": 11,
+        "gamesStarted": 11,
         "putouts": 4,
-        "assists": 8,
+        "assists": 10,
         "errors": 1,
-        "fieldingPercentage": 0.923,
+        "fieldingPercentage": 0.933,
         "doublePlays": 0,
-        "stolenBasesAgainst": 8,
+        "stolenBasesAgainst": 9,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 13
+        "totalChances": 15
       },
       "evaluation": {
-        "score": 3,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -799,40 +799,40 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 11.76470588235294,
-          "Command": 1.6216216216216182,
+          "Miss bats": 13.818181818181815,
+          "Command": 4.86486486486486,
           "Damage suppression": 0
         },
         "summary": "Ryan Parker gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.03",
-          "WHIP 1.62",
-          "K/9 5.3"
+          "ERA 4.92",
+          "WHIP 1.59",
+          "K/9 5.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.03"
+            "value": "4.92"
           },
           {
             "label": "WHIP",
-            "value": "1.62"
+            "value": "1.59"
           },
           {
             "label": "K/9",
-            "value": "5.3"
+            "value": "5.5"
           },
           {
             "label": "BB/9",
-            "value": "4.9"
+            "value": "4.4"
           },
           {
             "label": "HR/9",
-            "value": "0.66"
+            "value": "0.60"
           },
           {
             "label": "IP",
-            "value": "68.0"
+            "value": "75.0"
           }
         ],
         "metaLine": "GR / N/A",
@@ -883,33 +883,33 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "6",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/gavin-donohue/17593",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_073.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "battingAverage": 0.279,
-        "onBasePercentage": 0.402,
-        "sluggingPercentage": 0.515,
-        "ops": 0.917,
-        "atBats": 136,
-        "runs": 26,
-        "hits": 38,
-        "doubles": 10,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "battingAverage": 0.278,
+        "onBasePercentage": 0.395,
+        "sluggingPercentage": 0.507,
+        "ops": 0.902,
+        "atBats": 144,
+        "runs": 27,
+        "hits": 40,
+        "doubles": 11,
         "triples": 2,
         "homeRuns": 6,
-        "runsBattedIn": 29,
-        "totalBases": 70,
+        "runsBattedIn": 30,
+        "totalBases": 73,
         "walks": 19,
         "hitByPitch": 9,
-        "strikeouts": 39,
+        "strikeouts": 40,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
-        "stolenBases": 10,
-        "stolenBasesAttempts": 11,
-        "putouts": 49,
+        "stolenBases": 11,
+        "stolenBasesAttempts": 12,
+        "putouts": 52,
         "assists": 0,
         "errors": 17,
-        "plateAppearances": 176,
+        "plateAppearances": 185,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -921,51 +921,51 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "6",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/gavin-donohue/17593",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_073.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "putouts": 49,
-        "assists": 101,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "putouts": 52,
+        "assists": 109,
         "errors": 17,
-        "fieldingPercentage": 0.898,
-        "doublePlays": 17,
+        "fieldingPercentage": 0.904,
+        "doublePlays": 18,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 167
+        "totalChances": 178
       },
       "evaluation": {
-        "score": 49,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 67.77777777777779,
-          "Power": 51.31578947368421,
-          "Contact": 36.875000000000014,
-          "Discipline": 31.908831908831903,
-          "Speed": 33.33333333333333
+          "On-base": 63.888888888888886,
+          "Power": 49.21052631578948,
+          "Contact": 36.250000000000014,
+          "Discipline": 30.555555555555546,
+          "Speed": 36.666666666666664
         },
-        "summary": "Gavin Donohue profiles as a UTIL piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Gavin Donohue profiles as a UTIL piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .279",
-          "OBP .402",
-          "SLG .515"
+          "AVG .278",
+          "OBP .395",
+          "SLG .507"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".279"
+            "value": ".278"
           },
           {
             "label": "OBP",
-            "value": ".402"
+            "value": ".395"
           },
           {
             "label": "SLG",
-            "value": ".515"
+            "value": ".507"
           },
           {
             "label": "HR",
@@ -973,11 +973,11 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           },
           {
             "label": "RBI",
-            "value": "29"
+            "value": "30"
           },
           {
             "label": "SB",
-            "value": "10"
+            "value": "11"
           }
         ],
         "metaLine": "JR / N/A",
@@ -1028,33 +1028,33 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "7",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/jw-fitzgerald/17595",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_017.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 34,
-        "battingAverage": 0.331,
-        "onBasePercentage": 0.403,
-        "sluggingPercentage": 0.398,
-        "ops": 0.801,
-        "atBats": 133,
-        "runs": 21,
-        "hits": 44,
+        "gamesPlayed": 37,
+        "gamesStarted": 36,
+        "battingAverage": 0.324,
+        "onBasePercentage": 0.401,
+        "sluggingPercentage": 0.388,
+        "ops": 0.789,
+        "atBats": 139,
+        "runs": 22,
+        "hits": 45,
         "doubles": 4,
         "triples": 1,
         "homeRuns": 1,
         "runsBattedIn": 11,
-        "totalBases": 53,
-        "walks": 15,
+        "totalBases": 54,
+        "walks": 17,
         "hitByPitch": 1,
-        "strikeouts": 24,
+        "strikeouts": 26,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 4,
         "stolenBases": 18,
         "stolenBasesAttempts": 20,
-        "putouts": 68,
+        "putouts": 69,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 175,
+        "plateAppearances": 183,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -1066,9 +1066,9 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "7",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/jw-fitzgerald/17595",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_017.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 29,
-        "putouts": 68,
+        "gamesPlayed": 31,
+        "gamesStarted": 30,
+        "putouts": 69,
         "assists": 3,
         "errors": 1,
         "fieldingPercentage": 0.986,
@@ -1078,39 +1078,39 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 72
+        "totalChances": 73
       },
       "evaluation": {
-        "score": 52,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 68.33333333333333,
-          "Power": 20.52631578947369,
-          "Contact": 69.37500000000001,
-          "Discipline": 47.222222222222214,
+          "On-base": 67.22222222222223,
+          "Power": 17.894736842105267,
+          "Contact": 65,
+          "Discipline": 50.42735042735041,
           "Speed": 60
         },
         "summary": "JW Fitzgerald profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .331",
-          "OBP .403",
-          "SLG .398"
+          "AVG .324",
+          "OBP .401",
+          "SLG .388"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".331"
+            "value": ".324"
           },
           {
             "label": "OBP",
-            "value": ".403"
+            "value": ".401"
           },
           {
             "label": "SLG",
-            "value": ".398"
+            "value": ".388"
           },
           {
             "label": "HR",
@@ -1173,33 +1173,33 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "8",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/nathan-bowes/17592",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_013.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 16,
-        "battingAverage": 0.191,
-        "onBasePercentage": 0.356,
-        "sluggingPercentage": 0.191,
-        "ops": 0.547,
-        "atBats": 47,
+        "gamesPlayed": 18,
+        "gamesStarted": 17,
+        "battingAverage": 0.216,
+        "onBasePercentage": 0.365,
+        "sluggingPercentage": 0.235,
+        "ops": 0.6,
+        "atBats": 51,
         "runs": 9,
-        "hits": 9,
-        "doubles": 0,
+        "hits": 11,
+        "doubles": 1,
         "triples": 0,
         "homeRuns": 0,
-        "runsBattedIn": 6,
-        "totalBases": 9,
+        "runsBattedIn": 7,
+        "totalBases": 12,
         "walks": 7,
         "hitByPitch": 5,
-        "strikeouts": 15,
+        "strikeouts": 16,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 3,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 79,
+        "putouts": 86,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 63,
+        "plateAppearances": 67,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1211,51 +1211,51 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "8",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/nathan-bowes/17592",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_013.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 16,
-        "putouts": 79,
-        "assists": 10,
+        "gamesPlayed": 17,
+        "gamesStarted": 17,
+        "putouts": 86,
+        "assists": 11,
         "errors": 2,
-        "fieldingPercentage": 0.978,
+        "fieldingPercentage": 0.98,
         "doublePlays": 1,
-        "stolenBasesAgainst": 31,
+        "stolenBasesAgainst": 32,
         "caughtStealingBy": 3,
         "stolenBasesPercentage": null,
         "passedBalls": 7,
         "catchersInterference": 0,
-        "totalChances": 91
+        "totalChances": 99
       },
       "evaluation": {
-        "score": 18,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 42.2222222222222,
+          "On-base": 47.22222222222221,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 29.629629629629623,
+          "Discipline": 26.388888888888886,
           "Speed": 3.3333333333333335
         },
         "summary": "Nathan Bowes gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .191",
-          "OBP .356",
-          "SLG .191"
+          "AVG .216",
+          "OBP .365",
+          "SLG .235"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".191"
+            "value": ".216"
           },
           {
             "label": "OBP",
-            "value": ".356"
+            "value": ".365"
           },
           {
             "label": "SLG",
-            "value": ".191"
+            "value": ".235"
           },
           {
             "label": "HR",
@@ -1263,7 +1263,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           },
           {
             "label": "RBI",
-            "value": "6"
+            "value": "7"
           },
           {
             "label": "SB",
@@ -1318,33 +1318,33 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "9",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/ronan-donohue/17594",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_021.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "battingAverage": 0.299,
-        "onBasePercentage": 0.435,
-        "sluggingPercentage": 0.435,
-        "ops": 0.87,
-        "atBats": 154,
-        "runs": 29,
-        "hits": 46,
+        "gamesPlayed": 44,
+        "gamesStarted": 44,
+        "battingAverage": 0.3,
+        "onBasePercentage": 0.437,
+        "sluggingPercentage": 0.431,
+        "ops": 0.868,
+        "atBats": 160,
+        "runs": 30,
+        "hits": 48,
         "doubles": 10,
         "triples": 1,
         "homeRuns": 3,
         "runsBattedIn": 26,
-        "totalBases": 67,
-        "walks": 28,
+        "totalBases": 69,
+        "walks": 30,
         "hitByPitch": 9,
-        "strikeouts": 39,
+        "strikeouts": 41,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 15,
         "stolenBasesAttempts": 20,
-        "putouts": 38,
+        "putouts": 40,
         "assists": 0,
-        "errors": 13,
-        "plateAppearances": 216,
+        "errors": 14,
+        "plateAppearances": 224,
         "caughtStealing": 5,
         "pickedOff": 0
       },
@@ -1356,51 +1356,51 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "9",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/ronan-donohue/17594",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_021.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "putouts": 38,
-        "assists": 83,
-        "errors": 13,
-        "fieldingPercentage": 0.903,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "putouts": 40,
+        "assists": 86,
+        "errors": 14,
+        "fieldingPercentage": 0.9,
         "doublePlays": 5,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 134
+        "totalChances": 140
       },
       "evaluation": {
-        "score": 57,
+        "score": 58,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 86.1111111111111,
-          "Power": 30.263157894736842,
-          "Contact": 49.37499999999999,
-          "Discipline": 57.54985754985753,
+          "On-base": 87.22222222222221,
+          "Power": 29.210526315789476,
+          "Contact": 49.999999999999986,
+          "Discipline": 59.078590785907856,
           "Speed": 50
         },
         "summary": "Ronan Donohue profiles as a UTIL piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .299",
-          "OBP .435",
-          "SLG .435"
+          "AVG .300",
+          "OBP .437",
+          "SLG .431"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".299"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".435"
+            "value": ".437"
           },
           {
             "label": "SLG",
-            "value": ".435"
+            "value": ".431"
           },
           {
             "label": "HR",
@@ -1984,31 +1984,31 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "15",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/hector-alejandro/17614",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_009.jpg",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 1,
-        "appearances": 15,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.33,
-        "whip": 2.01,
+        "earnedRunAverage": 7.03,
+        "whip": 1.93,
         "wins": 0,
         "losses": 1,
         "saves": 4,
         "shutouts": 0,
-        "inningsPitched": 23.333333333333332,
-        "inningsPitchedDisplay": "23.1",
+        "inningsPitched": 24.333333333333332,
+        "inningsPitchedDisplay": "24.1",
         "hitsAllowed": 30,
         "runsAllowed": 21,
         "earnedRunsAllowed": 19,
         "walksAllowed": 17,
-        "strikeouts": 13,
+        "strikeouts": 14,
         "doublesAllowed": 5,
         "triplesAllowed": 2,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 94,
+        "opponentsAtBats": 97,
         "wildPitches": 2,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.319,
+        "opponentsBattingAverage": 0.309,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2018,19 +2018,19 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "15",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/hector-alejandro/17614",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_009.jpg",
-        "gamesPlayed": 6,
+        "gamesPlayed": 7,
         "gamesStarted": 1,
         "putouts": 1,
-        "assists": 4,
+        "assists": 5,
         "errors": 1,
-        "fieldingPercentage": 0.833,
+        "fieldingPercentage": 0.857,
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 6
+        "totalChances": 7
       },
       "evaluation": {
         "score": 2,
@@ -2041,40 +2041,40 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 9.22077922077922,
+          "Miss bats": 10.709838107098383,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Hector Alejandro gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.33",
-          "WHIP 2.01",
-          "K/9 5.0"
+          "ERA 7.03",
+          "WHIP 1.93",
+          "K/9 5.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.33"
+            "value": "7.03"
           },
           {
             "label": "WHIP",
-            "value": "2.01"
+            "value": "1.93"
           },
           {
             "label": "K/9",
-            "value": "5.0"
+            "value": "5.2"
           },
           {
             "label": "BB/9",
-            "value": "6.6"
+            "value": "6.3"
           },
           {
             "label": "HR/9",
-            "value": "0.39"
+            "value": "0.37"
           },
           {
             "label": "IP",
-            "value": "23.3"
+            "value": "24.3"
           }
         ],
         "metaLine": "GR / N/A",
@@ -2267,33 +2267,33 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "18",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/peter-link/17600",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_006.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "battingAverage": 0.303,
-        "onBasePercentage": 0.42,
-        "sluggingPercentage": 0.559,
-        "ops": 0.979,
-        "atBats": 152,
+        "gamesPlayed": 43,
+        "gamesStarted": 43,
+        "battingAverage": 0.294,
+        "onBasePercentage": 0.408,
+        "sluggingPercentage": 0.538,
+        "ops": 0.946,
+        "atBats": 160,
         "runs": 33,
-        "hits": 46,
+        "hits": 47,
         "doubles": 9,
         "triples": 0,
         "homeRuns": 10,
         "runsBattedIn": 36,
-        "totalBases": 85,
+        "totalBases": 86,
         "walks": 26,
         "hitByPitch": 7,
-        "strikeouts": 46,
+        "strikeouts": 50,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 10,
         "stolenBasesAttempts": 10,
-        "putouts": 113,
+        "putouts": 116,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 198,
+        "plateAppearances": 206,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2305,51 +2305,51 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "18",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/peter-link/17600",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_006.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "putouts": 113,
-        "assists": 1,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "putouts": 116,
+        "assists": 2,
         "errors": 3,
-        "fieldingPercentage": 0.974,
+        "fieldingPercentage": 0.975,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 117
+        "totalChances": 121
       },
       "evaluation": {
-        "score": 60,
+        "score": 54,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 77.77777777777776,
-          "Power": 62.89473684210528,
-          "Contact": 51.87499999999999,
-          "Discipline": 40.579710144927525,
+          "On-base": 71.11111111111109,
+          "Power": 57.36842105263159,
+          "Contact": 46.249999999999986,
+          "Discipline": 35.55555555555555,
           "Speed": 33.33333333333333
         },
-        "summary": "Peter Link profiles as a 1B/OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
+        "summary": "Peter Link profiles as a 1B/OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .303",
-          "OBP .420",
-          "SLG .559"
+          "AVG .294",
+          "OBP .408",
+          "SLG .538"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".303"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".420"
+            "value": ".408"
           },
           {
             "label": "SLG",
-            "value": ".559"
+            "value": ".538"
           },
           {
             "label": "HR",
@@ -2413,31 +2413,31 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "19",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/bryan-matuschat/17602",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_023.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 11,
-        "appearances": 11,
+        "gamesPlayed": 12,
+        "gamesStarted": 12,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.42,
-        "whip": 1.66,
+        "earnedRunAverage": 6.54,
+        "whip": 1.64,
         "wins": 4,
-        "losses": 6,
+        "losses": 7,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 67.33333333333333,
-        "inningsPitchedDisplay": "67.1",
-        "hitsAllowed": 96,
-        "runsAllowed": 54,
-        "earnedRunsAllowed": 48,
-        "walksAllowed": 16,
-        "strikeouts": 32,
-        "doublesAllowed": 17,
+        "inningsPitched": 74.33333333333333,
+        "inningsPitchedDisplay": "74.1",
+        "hitsAllowed": 104,
+        "runsAllowed": 60,
+        "earnedRunsAllowed": 54,
+        "walksAllowed": 18,
+        "strikeouts": 36,
+        "doublesAllowed": 18,
         "triplesAllowed": 4,
-        "homeRunsAllowed": 12,
-        "opponentsAtBats": 292,
+        "homeRunsAllowed": 14,
+        "opponentsAtBats": 322,
         "wildPitches": 5,
-        "hitBatters": 1,
+        "hitBatters": 2,
         "balks": 4,
-        "opponentsBattingAverage": 0.329,
+        "opponentsBattingAverage": 0.323,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2447,19 +2447,19 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "19",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/bryan-matuschat/17602",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_023.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 11,
+        "gamesPlayed": 12,
+        "gamesStarted": 12,
         "putouts": 2,
-        "assists": 13,
+        "assists": 14,
         "errors": 2,
-        "fieldingPercentage": 0.882,
+        "fieldingPercentage": 0.889,
         "doublePlays": 0,
-        "stolenBasesAgainst": 3,
+        "stolenBasesAgainst": 6,
         "caughtStealingBy": 2,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 17
+        "totalChances": 18
       },
       "evaluation": {
         "score": 4,
@@ -2470,40 +2470,40 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 2.5202520252025225,
+          "Miss bats": 3.2613126783530384,
           "Command": 20,
           "Damage suppression": 0
         },
         "summary": "Bryan Matuschat looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.42",
-          "WHIP 1.66",
-          "K/9 4.3"
+          "ERA 6.54",
+          "WHIP 1.64",
+          "K/9 4.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.42"
+            "value": "6.54"
           },
           {
             "label": "WHIP",
-            "value": "1.66"
+            "value": "1.64"
           },
           {
             "label": "K/9",
-            "value": "4.3"
+            "value": "4.4"
           },
           {
             "label": "BB/9",
-            "value": "2.1"
+            "value": "2.2"
           },
           {
             "label": "HR/9",
-            "value": "1.60"
+            "value": "1.70"
           },
           {
             "label": "IP",
-            "value": "67.3"
+            "value": "74.3"
           }
         ],
         "metaLine": "SO / N/A",
@@ -2784,33 +2784,33 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "22",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/jacob-schmutz/17618",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_001.jpg",
-        "gamesPlayed": 23,
-        "gamesStarted": 21,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.345,
-        "sluggingPercentage": 0.319,
-        "ops": 0.664,
-        "atBats": 72,
+        "gamesPlayed": 24,
+        "gamesStarted": 22,
+        "battingAverage": 0.24,
+        "onBasePercentage": 0.33,
+        "sluggingPercentage": 0.307,
+        "ops": 0.637,
+        "atBats": 75,
         "runs": 17,
         "hits": 18,
         "doubles": 5,
         "triples": 0,
         "homeRuns": 0,
-        "runsBattedIn": 12,
+        "runsBattedIn": 13,
         "totalBases": 23,
         "walks": 10,
         "hitByPitch": 1,
-        "strikeouts": 12,
+        "strikeouts": 13,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 1,
+        "sacrificeFlies": 2,
         "sacrificeHits": 2,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 7,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 89,
+        "plateAppearances": 93,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -2837,36 +2837,36 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "totalChances": 7
       },
       "evaluation": {
-        "score": 26,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 36.111111111111086,
+          "On-base": 27.777777777777775,
           "Power": 0,
-          "Contact": 18.75,
-          "Discipline": 70.37037037037037,
+          "Contact": 12.499999999999993,
+          "Discipline": 63.247863247863236,
           "Speed": 10
         },
         "summary": "Jacob Schmutz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .345",
-          "SLG .319"
+          "AVG .240",
+          "OBP .330",
+          "SLG .307"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".240"
           },
           {
             "label": "OBP",
-            "value": ".345"
+            "value": ".330"
           },
           {
             "label": "SLG",
-            "value": ".319"
+            "value": ".307"
           },
           {
             "label": "HR",
@@ -2874,7 +2874,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "SB",
@@ -2929,13 +2929,13 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "23",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/kyle-cincinnati/17619",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_015.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 27,
-        "battingAverage": 0.229,
-        "onBasePercentage": 0.375,
-        "sluggingPercentage": 0.325,
-        "ops": 0.7,
-        "atBats": 83,
+        "gamesPlayed": 32,
+        "gamesStarted": 28,
+        "battingAverage": 0.218,
+        "onBasePercentage": 0.361,
+        "sluggingPercentage": 0.31,
+        "ops": 0.671,
+        "atBats": 87,
         "runs": 15,
         "hits": 19,
         "doubles": 2,
@@ -2952,10 +2952,10 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "sacrificeHits": 2,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 137,
+        "putouts": 141,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 109,
+        "plateAppearances": 113,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2967,51 +2967,51 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "23",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/kyle-cincinnati/17619",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_015.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 27,
-        "putouts": 137,
-        "assists": 23,
+        "gamesPlayed": 32,
+        "gamesStarted": 28,
+        "putouts": 141,
+        "assists": 24,
         "errors": 5,
-        "fieldingPercentage": 0.97,
+        "fieldingPercentage": 0.971,
         "doublePlays": 2,
-        "stolenBasesAgainst": 31,
+        "stolenBasesAgainst": 34,
         "caughtStealingBy": 12,
         "stolenBasesPercentage": null,
         "passedBalls": 6,
         "catchersInterference": 0,
-        "totalChances": 165
+        "totalChances": 170
       },
       "evaluation": {
-        "score": 30,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 52.77777777777777,
-          "Power": 1.315789473684212,
-          "Contact": 5.625000000000005,
+          "On-base": 44.99999999999998,
+          "Power": 0,
+          "Contact": 0,
           "Discipline": 78.30687830687829,
           "Speed": 3.3333333333333335
         },
         "summary": "Kyle Cincinnati gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .229",
-          "OBP .375",
-          "SLG .325"
+          "AVG .218",
+          "OBP .361",
+          "SLG .310"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".229"
+            "value": ".218"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".361"
           },
           {
             "label": "SLG",
-            "value": ".325"
+            "value": ".310"
           },
           {
             "label": "HR",
@@ -3074,7 +3074,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "24",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/chris-wilson/17620",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_074.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 14,
         "gamesStarted": 6,
         "battingAverage": 0.15,
         "onBasePercentage": 0.346,
@@ -3097,7 +3097,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
-        "putouts": 2,
+        "putouts": 3,
         "assists": 0,
         "errors": 0,
         "plateAppearances": 30,
@@ -3112,9 +3112,9 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "24",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/chris-wilson/17620",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_074.jpg",
-        "gamesPlayed": 1,
+        "gamesPlayed": 2,
         "gamesStarted": 1,
-        "putouts": 2,
+        "putouts": 3,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -3124,7 +3124,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 2
+        "totalChances": 3
       },
       "evaluation": {
         "score": 20,
@@ -3449,33 +3449,33 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "27",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/will-rudolph/17622",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_078.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 38,
-        "battingAverage": 0.248,
-        "onBasePercentage": 0.331,
-        "sluggingPercentage": 0.309,
-        "ops": 0.64,
-        "atBats": 149,
-        "runs": 24,
-        "hits": 37,
+        "gamesPlayed": 42,
+        "gamesStarted": 40,
+        "battingAverage": 0.261,
+        "onBasePercentage": 0.339,
+        "sluggingPercentage": 0.338,
+        "ops": 0.677,
+        "atBats": 157,
+        "runs": 27,
+        "hits": 41,
         "doubles": 6,
         "triples": 0,
-        "homeRuns": 1,
-        "runsBattedIn": 17,
-        "totalBases": 46,
+        "homeRuns": 2,
+        "runsBattedIn": 18,
+        "totalBases": 53,
         "walks": 14,
         "hitByPitch": 5,
-        "strikeouts": 32,
+        "strikeouts": 34,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
+        "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
-        "putouts": 92,
+        "putouts": 98,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 173,
+        "plateAppearances": 181,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -3487,59 +3487,59 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "27",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/will-rudolph/17622",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_078.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 35,
-        "putouts": 92,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "putouts": 98,
         "assists": 3,
         "errors": 4,
-        "fieldingPercentage": 0.96,
+        "fieldingPercentage": 0.962,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 99
+        "totalChances": 105
       },
       "evaluation": {
-        "score": 17,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 28.33333333333333,
-          "Power": 0,
-          "Contact": 17.5,
-          "Discipline": 26.388888888888886,
+          "On-base": 32.77777777777778,
+          "Power": 4.736842105263163,
+          "Contact": 25.625000000000004,
+          "Discipline": 23.529411764705877,
           "Speed": 6.666666666666667
         },
         "summary": "Will Rudolph gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .248",
-          "OBP .331",
-          "SLG .309"
+          "AVG .261",
+          "OBP .339",
+          "SLG .338"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".248"
+            "value": ".261"
           },
           {
             "label": "OBP",
-            "value": ".331"
+            "value": ".339"
           },
           {
             "label": "SLG",
-            "value": ".309"
+            "value": ".338"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "2"
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "18"
           },
           {
             "label": "SB",
@@ -3736,13 +3736,13 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "29",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/dave-yorke/17611",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_019.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 19,
-        "battingAverage": 0.238,
-        "onBasePercentage": 0.364,
-        "sluggingPercentage": 0.46,
-        "ops": 0.824,
-        "atBats": 63,
+        "gamesPlayed": 26,
+        "gamesStarted": 20,
+        "battingAverage": 0.227,
+        "onBasePercentage": 0.358,
+        "sluggingPercentage": 0.439,
+        "ops": 0.797,
+        "atBats": 66,
         "runs": 11,
         "hits": 15,
         "doubles": 5,
@@ -3750,9 +3750,9 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "homeRuns": 3,
         "runsBattedIn": 13,
         "totalBases": 29,
-        "walks": 12,
+        "walks": 13,
         "hitByPitch": 1,
-        "strikeouts": 24,
+        "strikeouts": 25,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
@@ -3762,7 +3762,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "putouts": 38,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 78,
+        "plateAppearances": 82,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -3789,36 +3789,36 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "totalChances": 39
       },
       "evaluation": {
-        "score": 32,
+        "score": 28,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 46.66666666666665,
-          "Power": 36.842105263157904,
-          "Contact": 11.249999999999991,
-          "Discipline": 33.33333333333333,
+          "On-base": 43.333333333333314,
+          "Power": 31.315789473684212,
+          "Contact": 4.3750000000000036,
+          "Discipline": 35.55555555555555,
           "Speed": 3.3333333333333335
         },
         "summary": "Dave Yorke gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .238",
-          "OBP .364",
-          "SLG .460"
+          "AVG .227",
+          "OBP .358",
+          "SLG .439"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".238"
+            "value": ".227"
           },
           {
             "label": "OBP",
-            "value": ".364"
+            "value": ".358"
           },
           {
             "label": "SLG",
-            "value": ".460"
+            "value": ".439"
           },
           {
             "label": "HR",
@@ -3882,31 +3882,31 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "30",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/jase-schueller/17623",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_020.jpg",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 2,
-        "appearances": 15,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.4,
-        "whip": 1.8,
+        "earnedRunAverage": 5.81,
+        "whip": 1.77,
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 30,
-        "inningsPitchedDisplay": "30.0",
-        "hitsAllowed": 34,
-        "runsAllowed": 23,
-        "earnedRunsAllowed": 18,
+        "inningsPitched": 31,
+        "inningsPitchedDisplay": "31.0",
+        "hitsAllowed": 35,
+        "runsAllowed": 25,
+        "earnedRunsAllowed": 20,
         "walksAllowed": 20,
         "strikeouts": 20,
         "doublesAllowed": 4,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 120,
+        "homeRunsAllowed": 4,
+        "opponentsAtBats": 123,
         "wildPitches": 3,
-        "hitBatters": 11,
+        "hitBatters": 12,
         "balks": 2,
-        "opponentsBattingAverage": 0.283,
+        "opponentsBattingAverage": 0.285,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3931,7 +3931,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "totalChances": 1
       },
       "evaluation": {
-        "score": 4,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3939,40 +3939,40 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 18.181818181818183,
+          "Miss bats": 16.42228739002933,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Jase Schueller gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 1.80",
-          "K/9 6.0"
+          "ERA 5.81",
+          "WHIP 1.77",
+          "K/9 5.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.40"
+            "value": "5.81"
           },
           {
             "label": "WHIP",
-            "value": "1.80"
+            "value": "1.77"
           },
           {
             "label": "K/9",
-            "value": "6.0"
+            "value": "5.8"
           },
           {
             "label": "BB/9",
-            "value": "6.0"
+            "value": "5.8"
           },
           {
             "label": "HR/9",
-            "value": "0.90"
+            "value": "1.16"
           },
           {
             "label": "IP",
-            "value": "30.0"
+            "value": "31.0"
           }
         ],
         "metaLine": "GR / N/A",
@@ -4449,33 +4449,33 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "35",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/will-cook/17625",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_075.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 37,
+        "gamesPlayed": 43,
+        "gamesStarted": 39,
         "battingAverage": 0.159,
-        "onBasePercentage": 0.306,
-        "sluggingPercentage": 0.278,
-        "ops": 0.584,
-        "atBats": 126,
+        "onBasePercentage": 0.301,
+        "sluggingPercentage": 0.28,
+        "ops": 0.581,
+        "atBats": 132,
         "runs": 17,
-        "hits": 20,
-        "doubles": 5,
+        "hits": 21,
+        "doubles": 6,
         "triples": 2,
         "homeRuns": 2,
-        "runsBattedIn": 21,
-        "totalBases": 35,
+        "runsBattedIn": 22,
+        "totalBases": 37,
         "walks": 23,
         "hitByPitch": 6,
-        "strikeouts": 43,
+        "strikeouts": 45,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 5,
-        "sacrificeHits": 4,
+        "sacrificeHits": 5,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 289,
+        "putouts": 307,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 165,
+        "plateAppearances": 172,
         "caughtStealing": 0,
         "pickedOff": 2
       },
@@ -4487,38 +4487,38 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "35",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/will-cook/17625",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_075.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 37,
-        "putouts": 289,
+        "gamesPlayed": 43,
+        "gamesStarted": 39,
+        "putouts": 307,
         "assists": 11,
         "errors": 2,
-        "fieldingPercentage": 0.993,
-        "doublePlays": 24,
+        "fieldingPercentage": 0.994,
+        "doublePlays": 25,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 302
+        "totalChances": 320
       },
       "evaluation": {
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 14.444444444444427,
+          "On-base": 11.666666666666647,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 37.20930232558138,
+          "Discipline": 34.56790123456789,
           "Speed": 3.3333333333333335
         },
         "summary": "Will Cook gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .159",
-          "OBP .306",
-          "SLG .278"
+          "OBP .301",
+          "SLG .280"
         ],
         "statCards": [
           {
@@ -4527,11 +4527,11 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           },
           {
             "label": "OBP",
-            "value": ".306"
+            "value": ".301"
           },
           {
             "label": "SLG",
-            "value": ".278"
+            "value": ".280"
           },
           {
             "label": "HR",
@@ -4539,7 +4539,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -4737,18 +4737,18 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "jersey": "37",
         "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/christian-trantino/17610",
         "imageUrl": "https://sacredheartpioneers.com/images/2026/2/2/01232026__SHUMediaDay2_029.jpg",
-        "gamesPlayed": 16,
+        "gamesPlayed": 17,
         "gamesStarted": 0,
-        "appearances": 16,
+        "appearances": 17,
         "gamesCompleted": 0,
-        "earnedRunAverage": 10.26,
-        "whip": 2.28,
+        "earnedRunAverage": 10.06,
+        "whip": 2.24,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 16.666666666666668,
-        "inningsPitchedDisplay": "16.2",
+        "inningsPitched": 17,
+        "inningsPitchedDisplay": "17.0",
         "hitsAllowed": 19,
         "runsAllowed": 21,
         "earnedRunsAllowed": 19,
@@ -4757,11 +4757,11 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "doublesAllowed": 6,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 68,
+        "opponentsAtBats": 69,
         "wildPitches": 5,
         "hitBatters": 2,
         "balks": 1,
-        "opponentsBattingAverage": 0.279,
+        "opponentsBattingAverage": 0.275,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4794,40 +4794,40 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 27.45454545454545,
+          "Miss bats": 26.203208556149736,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Christian Trantino gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 10.26",
-          "WHIP 2.28",
-          "K/9 7.0"
+          "ERA 10.06",
+          "WHIP 2.24",
+          "K/9 6.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "10.26"
+            "value": "10.06"
           },
           {
             "label": "WHIP",
-            "value": "2.28"
+            "value": "2.24"
           },
           {
             "label": "K/9",
-            "value": "7.0"
+            "value": "6.9"
           },
           {
             "label": "BB/9",
-            "value": "10.3"
+            "value": "10.1"
           },
           {
             "label": "HR/9",
-            "value": "1.62"
+            "value": "1.59"
           },
           {
             "label": "IP",
-            "value": "16.7"
+            "value": "17.0"
           }
         ],
         "metaLine": "SO / N/A",
@@ -5525,29 +5525,29 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 45,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "CJ Nolan profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .264",
-          "OBP .426",
-          "SLG .417"
+          "AVG .256",
+          "OBP .416",
+          "SLG .397"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".264"
+            "value": ".256"
           },
           {
             "label": "OBP",
-            "value": ".426"
+            "value": ".416"
           },
           {
             "label": "SLG",
-            "value": ".417"
+            "value": ".397"
           },
           {
             "label": "HR",
@@ -5555,7 +5555,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           },
           {
             "label": "RBI",
-            "value": "16"
+            "value": "17"
           },
           {
             "label": "SB",
@@ -5563,10 +5563,10 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           }
         ],
         "components": {
-          "On-base": 81.11111111111109,
-          "Power": 25.52631578947368,
-          "Contact": 27.500000000000007,
-          "Discipline": 35.748792270531396,
+          "On-base": 75.55555555555553,
+          "Power": 20.26315789473685,
+          "Contact": 22.500000000000004,
+          "Discipline": 37.962962962962955,
           "Speed": 23.333333333333332
         },
         "metaLine": "SO / N/A",
@@ -5594,48 +5594,48 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "position": "RHP",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 3,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ryan Parker gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.03",
-          "WHIP 1.62",
-          "K/9 5.3"
+          "ERA 4.92",
+          "WHIP 1.59",
+          "K/9 5.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.03"
+            "value": "4.92"
           },
           {
             "label": "WHIP",
-            "value": "1.62"
+            "value": "1.59"
           },
           {
             "label": "K/9",
-            "value": "5.3"
+            "value": "5.5"
           },
           {
             "label": "BB/9",
-            "value": "4.9"
+            "value": "4.4"
           },
           {
             "label": "HR/9",
-            "value": "0.66"
+            "value": "0.60"
           },
           {
             "label": "IP",
-            "value": "68.0"
+            "value": "75.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 11.76470588235294,
-          "Command": 1.6216216216216182,
+          "Miss bats": 13.818181818181815,
+          "Command": 4.86486486486486,
           "Damage suppression": 0
         },
         "metaLine": "GR / N/A",
@@ -5663,29 +5663,29 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "position": "UTIL",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 49,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Gavin Donohue profiles as a UTIL piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Gavin Donohue profiles as a UTIL piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .279",
-          "OBP .402",
-          "SLG .515"
+          "AVG .278",
+          "OBP .395",
+          "SLG .507"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".279"
+            "value": ".278"
           },
           {
             "label": "OBP",
-            "value": ".402"
+            "value": ".395"
           },
           {
             "label": "SLG",
-            "value": ".515"
+            "value": ".507"
           },
           {
             "label": "HR",
@@ -5693,19 +5693,19 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           },
           {
             "label": "RBI",
-            "value": "29"
+            "value": "30"
           },
           {
             "label": "SB",
-            "value": "10"
+            "value": "11"
           }
         ],
         "components": {
-          "On-base": 67.77777777777779,
-          "Power": 51.31578947368421,
-          "Contact": 36.875000000000014,
-          "Discipline": 31.908831908831903,
-          "Speed": 33.33333333333333
+          "On-base": 63.888888888888886,
+          "Power": 49.21052631578948,
+          "Contact": 36.250000000000014,
+          "Discipline": 30.555555555555546,
+          "Speed": 36.666666666666664
         },
         "metaLine": "JR / N/A",
         "detailBadges": [
@@ -5732,29 +5732,29 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 52,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "JW Fitzgerald profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .331",
-          "OBP .403",
-          "SLG .398"
+          "AVG .324",
+          "OBP .401",
+          "SLG .388"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".331"
+            "value": ".324"
           },
           {
             "label": "OBP",
-            "value": ".403"
+            "value": ".401"
           },
           {
             "label": "SLG",
-            "value": ".398"
+            "value": ".388"
           },
           {
             "label": "HR",
@@ -5770,10 +5770,10 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           }
         ],
         "components": {
-          "On-base": 68.33333333333333,
-          "Power": 20.52631578947369,
-          "Contact": 69.37500000000001,
-          "Discipline": 47.222222222222214,
+          "On-base": 67.22222222222223,
+          "Power": 17.894736842105267,
+          "Contact": 65,
+          "Discipline": 50.42735042735041,
           "Speed": 60
         },
         "metaLine": "SR / N/A",
@@ -5801,29 +5801,29 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "position": "C",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 18,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nathan Bowes gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .191",
-          "OBP .356",
-          "SLG .191"
+          "AVG .216",
+          "OBP .365",
+          "SLG .235"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".191"
+            "value": ".216"
           },
           {
             "label": "OBP",
-            "value": ".356"
+            "value": ".365"
           },
           {
             "label": "SLG",
-            "value": ".191"
+            "value": ".235"
           },
           {
             "label": "HR",
@@ -5831,7 +5831,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           },
           {
             "label": "RBI",
-            "value": "6"
+            "value": "7"
           },
           {
             "label": "SB",
@@ -5839,10 +5839,10 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           }
         ],
         "components": {
-          "On-base": 42.2222222222222,
+          "On-base": 47.22222222222221,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 29.629629629629623,
+          "Discipline": 26.388888888888886,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SO / N/A",
@@ -5870,29 +5870,29 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "position": "UTIL",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 57,
+        "score": 58,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Ronan Donohue profiles as a UTIL piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .299",
-          "OBP .435",
-          "SLG .435"
+          "AVG .300",
+          "OBP .437",
+          "SLG .431"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".299"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".435"
+            "value": ".437"
           },
           {
             "label": "SLG",
-            "value": ".435"
+            "value": ".431"
           },
           {
             "label": "HR",
@@ -5908,10 +5908,10 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           }
         ],
         "components": {
-          "On-base": 86.1111111111111,
-          "Power": 30.263157894736842,
-          "Contact": 49.37499999999999,
-          "Discipline": 57.54985754985753,
+          "On-base": 87.22222222222221,
+          "Power": 29.210526315789476,
+          "Contact": 49.999999999999986,
+          "Discipline": 59.078590785907856,
           "Speed": 50
         },
         "metaLine": "JR / N/A",
@@ -6221,40 +6221,40 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         },
         "summary": "Hector Alejandro gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.33",
-          "WHIP 2.01",
-          "K/9 5.0"
+          "ERA 7.03",
+          "WHIP 1.93",
+          "K/9 5.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.33"
+            "value": "7.03"
           },
           {
             "label": "WHIP",
-            "value": "2.01"
+            "value": "1.93"
           },
           {
             "label": "K/9",
-            "value": "5.0"
+            "value": "5.2"
           },
           {
             "label": "BB/9",
-            "value": "6.6"
+            "value": "6.3"
           },
           {
             "label": "HR/9",
-            "value": "0.39"
+            "value": "0.37"
           },
           {
             "label": "IP",
-            "value": "23.3"
+            "value": "24.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 9.22077922077922,
+          "Miss bats": 10.709838107098383,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -6352,29 +6352,29 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "position": "1B/OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 60,
+        "score": 54,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Peter Link profiles as a 1B/OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
+        "summary": "Peter Link profiles as a 1B/OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .303",
-          "OBP .420",
-          "SLG .559"
+          "AVG .294",
+          "OBP .408",
+          "SLG .538"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".303"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".420"
+            "value": ".408"
           },
           {
             "label": "SLG",
-            "value": ".559"
+            "value": ".538"
           },
           {
             "label": "HR",
@@ -6390,10 +6390,10 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           }
         ],
         "components": {
-          "On-base": 77.77777777777776,
-          "Power": 62.89473684210528,
-          "Contact": 51.87499999999999,
-          "Discipline": 40.579710144927525,
+          "On-base": 71.11111111111109,
+          "Power": 57.36842105263159,
+          "Contact": 46.249999999999986,
+          "Discipline": 35.55555555555555,
           "Speed": 33.33333333333333
         },
         "metaLine": "JR / N/A",
@@ -6428,40 +6428,40 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         },
         "summary": "Bryan Matuschat looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.42",
-          "WHIP 1.66",
-          "K/9 4.3"
+          "ERA 6.54",
+          "WHIP 1.64",
+          "K/9 4.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.42"
+            "value": "6.54"
           },
           {
             "label": "WHIP",
-            "value": "1.66"
+            "value": "1.64"
           },
           {
             "label": "K/9",
-            "value": "4.3"
+            "value": "4.4"
           },
           {
             "label": "BB/9",
-            "value": "2.1"
+            "value": "2.2"
           },
           {
             "label": "HR/9",
-            "value": "1.60"
+            "value": "1.70"
           },
           {
             "label": "IP",
-            "value": "67.3"
+            "value": "74.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 2.5202520252025225,
+          "Miss bats": 3.2613126783530384,
           "Command": 20,
           "Damage suppression": 0
         },
@@ -6627,29 +6627,29 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "position": "OF",
         "classYear": "FY",
         "handedness": "N/A",
-        "score": 26,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jacob Schmutz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .345",
-          "SLG .319"
+          "AVG .240",
+          "OBP .330",
+          "SLG .307"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".240"
           },
           {
             "label": "OBP",
-            "value": ".345"
+            "value": ".330"
           },
           {
             "label": "SLG",
-            "value": ".319"
+            "value": ".307"
           },
           {
             "label": "HR",
@@ -6657,7 +6657,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "SB",
@@ -6665,10 +6665,10 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           }
         ],
         "components": {
-          "On-base": 36.111111111111086,
+          "On-base": 27.777777777777775,
           "Power": 0,
-          "Contact": 18.75,
-          "Discipline": 70.37037037037037,
+          "Contact": 12.499999999999993,
+          "Discipline": 63.247863247863236,
           "Speed": 10
         },
         "metaLine": "FY / N/A",
@@ -6696,29 +6696,29 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "position": "C",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 30,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Kyle Cincinnati gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .229",
-          "OBP .375",
-          "SLG .325"
+          "AVG .218",
+          "OBP .361",
+          "SLG .310"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".229"
+            "value": ".218"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".361"
           },
           {
             "label": "SLG",
-            "value": ".325"
+            "value": ".310"
           },
           {
             "label": "HR",
@@ -6734,9 +6734,9 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           }
         ],
         "components": {
-          "On-base": 52.77777777777777,
-          "Power": 1.315789473684212,
-          "Contact": 5.625000000000005,
+          "On-base": 44.99999999999998,
+          "Power": 0,
+          "Contact": 0,
           "Discipline": 78.30687830687829,
           "Speed": 3.3333333333333335
         },
@@ -6971,37 +6971,37 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "position": "OF",
         "classYear": "FY",
         "handedness": "N/A",
-        "score": 17,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Will Rudolph gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .248",
-          "OBP .331",
-          "SLG .309"
+          "AVG .261",
+          "OBP .339",
+          "SLG .338"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".248"
+            "value": ".261"
           },
           {
             "label": "OBP",
-            "value": ".331"
+            "value": ".339"
           },
           {
             "label": "SLG",
-            "value": ".309"
+            "value": ".338"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "2"
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "18"
           },
           {
             "label": "SB",
@@ -7009,10 +7009,10 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           }
         ],
         "components": {
-          "On-base": 28.33333333333333,
-          "Power": 0,
-          "Contact": 17.5,
-          "Discipline": 26.388888888888886,
+          "On-base": 32.77777777777778,
+          "Power": 4.736842105263163,
+          "Contact": 25.625000000000004,
+          "Discipline": 23.529411764705877,
           "Speed": 6.666666666666667
         },
         "metaLine": "FY / N/A",
@@ -7109,29 +7109,29 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 32,
+        "score": 28,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dave Yorke gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .238",
-          "OBP .364",
-          "SLG .460"
+          "AVG .227",
+          "OBP .358",
+          "SLG .439"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".238"
+            "value": ".227"
           },
           {
             "label": "OBP",
-            "value": ".364"
+            "value": ".358"
           },
           {
             "label": "SLG",
-            "value": ".460"
+            "value": ".439"
           },
           {
             "label": "HR",
@@ -7147,10 +7147,10 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           }
         ],
         "components": {
-          "On-base": 46.66666666666665,
-          "Power": 36.842105263157904,
-          "Contact": 11.249999999999991,
-          "Discipline": 33.33333333333333,
+          "On-base": 43.333333333333314,
+          "Power": 31.315789473684212,
+          "Contact": 4.3750000000000036,
+          "Discipline": 35.55555555555555,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SO / N/A",
@@ -7178,47 +7178,47 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "position": "RHP",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 4,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jase Schueller gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 1.80",
-          "K/9 6.0"
+          "ERA 5.81",
+          "WHIP 1.77",
+          "K/9 5.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.40"
+            "value": "5.81"
           },
           {
             "label": "WHIP",
-            "value": "1.80"
+            "value": "1.77"
           },
           {
             "label": "K/9",
-            "value": "6.0"
+            "value": "5.8"
           },
           {
             "label": "BB/9",
-            "value": "6.0"
+            "value": "5.8"
           },
           {
             "label": "HR/9",
-            "value": "0.90"
+            "value": "1.16"
           },
           {
             "label": "IP",
-            "value": "30.0"
+            "value": "31.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 18.181818181818183,
+          "Miss bats": 16.42228739002933,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -7454,7 +7454,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -7462,8 +7462,8 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         "summary": "Will Cook gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .159",
-          "OBP .306",
-          "SLG .278"
+          "OBP .301",
+          "SLG .280"
         ],
         "statCards": [
           {
@@ -7472,11 +7472,11 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           },
           {
             "label": "OBP",
-            "value": ".306"
+            "value": ".301"
           },
           {
             "label": "SLG",
-            "value": ".278"
+            "value": ".280"
           },
           {
             "label": "HR",
@@ -7484,7 +7484,7 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -7492,10 +7492,10 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
           }
         ],
         "components": {
-          "On-base": 14.444444444444427,
+          "On-base": 11.666666666666647,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 37.20930232558138,
+          "Discipline": 34.56790123456789,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / N/A",
@@ -7599,40 +7599,40 @@ window.__BASEBALL_DATASETS__.sacred-heart2026 = {
         },
         "summary": "Christian Trantino gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 10.26",
-          "WHIP 2.28",
-          "K/9 7.0"
+          "ERA 10.06",
+          "WHIP 2.24",
+          "K/9 6.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "10.26"
+            "value": "10.06"
           },
           {
             "label": "WHIP",
-            "value": "2.28"
+            "value": "2.24"
           },
           {
             "label": "K/9",
-            "value": "7.0"
+            "value": "6.9"
           },
           {
             "label": "BB/9",
-            "value": "10.3"
+            "value": "10.1"
           },
           {
             "label": "HR/9",
-            "value": "1.62"
+            "value": "1.59"
           },
           {
             "label": "IP",
-            "value": "16.7"
+            "value": "17.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 27.45454545454545,
+          "Miss bats": 26.203208556149736,
           "Command": 0,
           "Damage suppression": 0
         },

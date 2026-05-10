@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.troy2026 = {
-  "generatedAt": "2026-05-08T11:45:49.647Z",
+  "generatedAt": "2026-05-10T11:14:48.739Z",
   "season": 2026,
   "school": {
     "slug": "troy",
@@ -29,7 +29,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 17,
     "playersWithPitchingStats": 19,
-    "playersWithFieldingStats": 31,
+    "playersWithFieldingStats": 32,
     "mergedPlayersWithAnyStats": 34,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.troy2026 = {
     }
   },
   "teamSummary": {
-    "record": "24-25, 13-11",
-    "battingAverage": ".278",
-    "earnedRunAverage": "5.67",
-    "wins": "24",
-    "losses": "25",
+    "record": "25-26, 14-12",
+    "battingAverage": ".279",
+    "earnedRunAverage": "5.75",
+    "wins": "25",
+    "losses": "26",
     "hitting": {
-      "atBats": "1639",
-      "runsScored": "319",
-      "hits": "456",
-      "runsBattedIn": "292",
-      "doubles": "100",
-      "triples": "10",
-      "homeRuns": "54",
-      "walks": "219",
+      "atBats": "1701",
+      "runsScored": "330",
+      "hits": "475",
+      "runsBattedIn": "303",
+      "doubles": "105",
+      "triples": "11",
+      "homeRuns": "59",
+      "walks": "226",
       "intentionalWalks": "3",
-      "strikeouts": "375",
-      "strikeoutsLooking": "68",
-      "hitByPitch": "90",
-      "stolenBases": "36",
-      "caughtStealing": "15",
-      "sacrificeHits": "14",
+      "strikeouts": "384",
+      "strikeoutsLooking": "70",
+      "hitByPitch": "91",
+      "stolenBases": "38",
+      "caughtStealing": "16",
+      "sacrificeHits": "15",
       "sacrificeFlies": "19",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "332",
-      "flyOuts": "462",
+      "groundOuts": "343",
+      "flyOuts": "486",
       "groundedIntoDoublePlay": "36",
       "pickedOff": "1",
       "doublePlaysHitInto": "36",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1257",
-      "assists": "430",
-      "errors": "41",
-      "passedBalls": "9",
+      "putouts": "1305",
+      "assists": "443",
+      "errors": "44",
+      "passedBalls": "10",
       "catchersInterference": "1",
-      "stolenBasesAgainst": "35",
+      "stolenBasesAgainst": "37",
       "caughtStealingBy": "9",
-      "involvedInDoublePlays": "38",
+      "involvedInDoublePlays": "40",
       "involvedInTriplePlays": "0",
-      "totalChances": "1728",
-      "fieldingPercentage": ".976"
+      "totalChances": "1792",
+      "fieldingPercentage": ".975"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "24",
-      "saves": "36",
-      "losses": "25",
+      "wins": "25",
+      "saves": "38",
+      "losses": "26",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "1",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "419.1",
-      "hitsAllowed": "447",
-      "runsAllowed": "293",
-      "earnedRunsAllowed": "264",
-      "walksAllowed": "188",
-      "strikeouts": "433",
-      "battersFaced": "1918",
-      "opponentAtBats": "1629",
-      "doublesAllowed": "86",
-      "triplesAllowed": "6",
-      "homerunsAllowed": "59",
-      "wildPitches": "39",
+      "inningsPitched": "435.1",
+      "hitsAllowed": "468",
+      "runsAllowed": "310",
+      "earnedRunsAllowed": "278",
+      "walksAllowed": "202",
+      "strikeouts": "452",
+      "battersFaced": "2003",
+      "opponentAtBats": "1696",
+      "doublesAllowed": "91",
+      "triplesAllowed": "7",
+      "homerunsAllowed": "61",
+      "wildPitches": "46",
       "balks": "1",
-      "hitBatters": "60",
-      "strikeoutsLooking": "92",
+      "hitBatters": "62",
+      "strikeoutsLooking": "95",
       "intentionalWalks": "2",
-      "inheritedRunners": "78",
-      "inheritedRunnersThatScored": "34",
-      "sacrificeHitsAllowed": "17",
-      "sacrificeFliesAllowed": "23",
+      "inheritedRunners": "82",
+      "inheritedRunnersThatScored": "36",
+      "sacrificeHitsAllowed": "18",
+      "sacrificeFliesAllowed": "24",
       "catchersInterferenceAllowed": "1",
-      "pitches": "7176",
-      "flyouts": "387",
-      "groundouts": "366",
+      "pitches": "7538",
+      "flyouts": "401",
+      "groundouts": "378",
       "teamUnearnedRuns": "0",
       "saveRecord": "10",
       "pickoff": "0"
@@ -161,13 +161,13 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "1",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/steven-meier/11886",
         "imageUrl": "https://troytrojans.com/images/2026/1/24/2026_Troy_BSB_Headshots-35_d0EGy.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "battingAverage": 0.286,
-        "onBasePercentage": 0.429,
-        "sluggingPercentage": 0.517,
-        "ops": 0.946,
-        "atBats": 147,
+        "gamesPlayed": 43,
+        "gamesStarted": 43,
+        "battingAverage": 0.276,
+        "onBasePercentage": 0.427,
+        "sluggingPercentage": 0.5,
+        "ops": 0.927,
+        "atBats": 152,
         "runs": 30,
         "hits": 42,
         "doubles": 5,
@@ -175,19 +175,19 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "homeRuns": 7,
         "runsBattedIn": 31,
         "totalBases": 76,
-        "walks": 23,
+        "walks": 26,
         "hitByPitch": 14,
-        "strikeouts": 37,
+        "strikeouts": 38,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 0,
         "sacrificeHits": 2,
-        "stolenBases": 7,
-        "stolenBasesAttempts": 12,
-        "putouts": 85,
+        "stolenBases": 8,
+        "stolenBasesAttempts": 13,
+        "putouts": 91,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 203,
+        "plateAppearances": 212,
         "caughtStealing": 5,
         "pickedOff": 0
       },
@@ -199,9 +199,9 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "1",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/steven-meier/11886",
         "imageUrl": "https://troytrojans.com/images/2026/1/24/2026_Troy_BSB_Headshots-35_d0EGy.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "putouts": 85,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "putouts": 91,
         "assists": 3,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -211,39 +211,39 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 88
+        "totalChances": 94
       },
       "evaluation": {
-        "score": 56,
+        "score": 55,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 82.77777777777776,
-          "Power": 51.8421052631579,
-          "Contact": 41.24999999999998,
-          "Discipline": 46.84684684684684,
-          "Speed": 23.333333333333332
+          "On-base": 81.66666666666666,
+          "Power": 47.36842105263158,
+          "Contact": 35.000000000000014,
+          "Discipline": 53.80116959064327,
+          "Speed": 26.666666666666668
         },
-        "summary": "Steven Meier profiles as a OF piece who gets on base at a high clip.",
+        "summary": "Steven Meier profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .429",
-          "SLG .517"
+          "AVG .276",
+          "OBP .427",
+          "SLG .500"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".429"
+            "value": ".427"
           },
           {
             "label": "SLG",
-            "value": ".517"
+            "value": ".500"
           },
           {
             "label": "HR",
@@ -255,7 +255,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
           },
           {
             "label": "SB",
-            "value": "7"
+            "value": "8"
           }
         ],
         "metaLine": "SR / L/L",
@@ -306,20 +306,20 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "2",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/aaron-piasecki/11887",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/02_Piasecki_WOaZc.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 48,
-        "battingAverage": 0.328,
-        "onBasePercentage": 0.459,
-        "sluggingPercentage": 0.514,
-        "ops": 0.973,
-        "atBats": 183,
-        "runs": 39,
-        "hits": 60,
+        "gamesPlayed": 50,
+        "gamesStarted": 50,
+        "battingAverage": 0.325,
+        "onBasePercentage": 0.452,
+        "sluggingPercentage": 0.518,
+        "ops": 0.97,
+        "atBats": 191,
+        "runs": 41,
+        "hits": 62,
         "doubles": 12,
         "triples": 2,
-        "homeRuns": 6,
-        "runsBattedIn": 29,
-        "totalBases": 94,
+        "homeRuns": 7,
+        "runsBattedIn": 31,
+        "totalBases": 99,
         "walks": 31,
         "hitByPitch": 15,
         "strikeouts": 17,
@@ -329,10 +329,10 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "sacrificeHits": 0,
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
-        "putouts": 89,
+        "putouts": 92,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 237,
+        "plateAppearances": 245,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -344,59 +344,59 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "2",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/aaron-piasecki/11887",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/02_Piasecki_WOaZc.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "putouts": 89,
-        "assists": 29,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "putouts": 92,
+        "assists": 30,
         "errors": 4,
-        "fieldingPercentage": 0.967,
-        "doublePlays": 5,
+        "fieldingPercentage": 0.968,
+        "doublePlays": 6,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 122
+        "totalChances": 126
       },
       "evaluation": {
-        "score": 73,
+        "score": 72,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 99.44444444444444,
-          "Power": 51.05263157894737,
-          "Contact": 67.5,
+          "On-base": 95.55555555555554,
+          "Power": 52.10526315789474,
+          "Contact": 65.625,
           "Discipline": 100,
           "Speed": 20
         },
         "summary": "Aaron Piasecki profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .459",
-          "SLG .514"
+          "AVG .325",
+          "OBP .452",
+          "SLG .518"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": ".325"
           },
           {
             "label": "OBP",
-            "value": ".459"
+            "value": ".452"
           },
           {
             "label": "SLG",
-            "value": ".514"
+            "value": ".518"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "7"
           },
           {
             "label": "RBI",
-            "value": "29"
+            "value": "31"
           },
           {
             "label": "SB",
@@ -539,20 +539,20 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "4",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/nolan-book/11889",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/04_Book_6skJj.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 42,
-        "battingAverage": 0.257,
-        "onBasePercentage": 0.361,
-        "sluggingPercentage": 0.326,
+        "gamesPlayed": 45,
+        "gamesStarted": 43,
+        "battingAverage": 0.259,
+        "onBasePercentage": 0.36,
+        "sluggingPercentage": 0.327,
         "ops": 0.687,
-        "atBats": 144,
+        "atBats": 147,
         "runs": 22,
-        "hits": 37,
+        "hits": 38,
         "doubles": 7,
         "triples": 0,
         "homeRuns": 1,
         "runsBattedIn": 22,
-        "totalBases": 47,
+        "totalBases": 48,
         "walks": 16,
         "hitByPitch": 8,
         "strikeouts": 42,
@@ -562,10 +562,10 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "sacrificeHits": 1,
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
-        "putouts": 58,
+        "putouts": 59,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 174,
+        "plateAppearances": 177,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -577,51 +577,51 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "4",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/nolan-book/11889",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/04_Book_6skJj.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "putouts": 58,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "putouts": 59,
         "assists": 120,
         "errors": 6,
-        "fieldingPercentage": 0.967,
+        "fieldingPercentage": 0.968,
         "doublePlays": 21,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 184
+        "totalChances": 185
       },
       "evaluation": {
-        "score": 22,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 44.99999999999998,
-          "Power": 1.5789473684210544,
-          "Contact": 23.125000000000004,
+          "On-base": 44.44444444444443,
+          "Power": 1.8421052631578967,
+          "Contact": 24.375000000000004,
           "Discipline": 20.1058201058201,
           "Speed": 6.666666666666667
         },
         "summary": "Nolan Book gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .257",
-          "OBP .361",
-          "SLG .326"
+          "AVG .259",
+          "OBP .360",
+          "SLG .327"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".257"
+            "value": ".259"
           },
           {
             "label": "OBP",
-            "value": ".361"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".326"
+            "value": ".327"
           },
           {
             "label": "HR",
@@ -684,20 +684,20 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "5",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/jimmy-janicki/11890",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/05_Janicki_M7a2N.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 48,
-        "battingAverage": 0.352,
+        "gamesPlayed": 50,
+        "gamesStarted": 50,
+        "battingAverage": 0.355,
         "onBasePercentage": 0.417,
-        "sluggingPercentage": 0.689,
-        "ops": 1.106,
-        "atBats": 196,
-        "runs": 44,
-        "hits": 69,
-        "doubles": 19,
+        "sluggingPercentage": 0.7,
+        "ops": 1.117,
+        "atBats": 203,
+        "runs": 46,
+        "hits": 72,
+        "doubles": 20,
         "triples": 1,
-        "homeRuns": 15,
-        "runsBattedIn": 65,
-        "totalBases": 135,
+        "homeRuns": 16,
+        "runsBattedIn": 67,
+        "totalBases": 142,
         "walks": 19,
         "hitByPitch": 5,
         "strikeouts": 29,
@@ -707,10 +707,10 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 5,
-        "putouts": 361,
+        "putouts": 368,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 230,
+        "plateAppearances": 237,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -722,43 +722,43 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "5",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/jimmy-janicki/11890",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/05_Janicki_M7a2N.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "putouts": 361,
-        "assists": 30,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "putouts": 368,
+        "assists": 31,
         "errors": 4,
         "fieldingPercentage": 0.99,
-        "doublePlays": 1,
+        "doublePlays": 2,
         "stolenBasesAgainst": 27,
         "caughtStealingBy": 8,
         "stolenBasesPercentage": null,
-        "passedBalls": 9,
+        "passedBalls": 10,
         "catchersInterference": 1,
-        "totalChances": 395
+        "totalChances": 403
       },
       "evaluation": {
-        "score": 73,
+        "score": 74,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
           "On-base": 76.11111111111109,
-          "Power": 97.10526315789474,
-          "Contact": 82.49999999999999,
+          "Power": 100,
+          "Contact": 84.37499999999999,
           "Discipline": 50.574712643678154,
           "Speed": 10
         },
         "summary": "Jimmy Janicki profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .352",
+          "AVG .355",
           "OBP .417",
-          "SLG .689"
+          "SLG .700"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".352"
+            "value": ".355"
           },
           {
             "label": "OBP",
@@ -766,15 +766,15 @@ window.__BASEBALL_DATASETS__.troy2026 = {
           },
           {
             "label": "SLG",
-            "value": ".689"
+            "value": ".700"
           },
           {
             "label": "HR",
-            "value": "15"
+            "value": "16"
           },
           {
             "label": "RBI",
-            "value": "65"
+            "value": "67"
           },
           {
             "label": "SB",
@@ -1152,14 +1152,14 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "8",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/jabe-boroff/11893",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/08_Boroff_Jabe_NKrv0.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 8,
-        "battingAverage": 0.129,
-        "onBasePercentage": 0.176,
-        "sluggingPercentage": 0.258,
-        "ops": 0.434,
-        "atBats": 31,
-        "runs": 3,
+        "gamesPlayed": 17,
+        "gamesStarted": 9,
+        "battingAverage": 0.114,
+        "onBasePercentage": 0.179,
+        "sluggingPercentage": 0.229,
+        "ops": 0.408,
+        "atBats": 35,
+        "runs": 4,
         "hits": 4,
         "doubles": 1,
         "triples": 0,
@@ -1167,18 +1167,18 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "runsBattedIn": 3,
         "totalBases": 8,
         "walks": 1,
-        "hitByPitch": 1,
-        "strikeouts": 13,
+        "hitByPitch": 2,
+        "strikeouts": 14,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 8,
+        "putouts": 21,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 34,
+        "plateAppearances": 39,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1190,19 +1190,19 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "8",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/jabe-boroff/11893",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/08_Boroff_Jabe_NKrv0.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 1,
-        "putouts": 8,
+        "gamesPlayed": 3,
+        "gamesStarted": 2,
+        "putouts": 21,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 0,
+        "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 8
+        "totalChances": 21
       },
       "evaluation": {
         "score": 0,
@@ -1219,22 +1219,22 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         },
         "summary": "Jabe Boroff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .129",
-          "OBP .176",
-          "SLG .258"
+          "AVG .114",
+          "OBP .179",
+          "SLG .229"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".129"
+            "value": ".114"
           },
           {
             "label": "OBP",
-            "value": ".176"
+            "value": ".179"
           },
           {
             "label": "SLG",
-            "value": ".258"
+            "value": ".229"
           },
           {
             "label": "HR",
@@ -1649,13 +1649,13 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "14",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/zaid-diaz/11898",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/14_Diaz_Zaid_t9pOi.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 12,
-        "battingAverage": 0.195,
-        "onBasePercentage": 0.346,
-        "sluggingPercentage": 0.293,
-        "ops": 0.639,
-        "atBats": 41,
+        "gamesPlayed": 17,
+        "gamesStarted": 13,
+        "battingAverage": 0.186,
+        "onBasePercentage": 0.345,
+        "sluggingPercentage": 0.279,
+        "ops": 0.624,
+        "atBats": 43,
         "runs": 7,
         "hits": 8,
         "doubles": 1,
@@ -1663,19 +1663,19 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "homeRuns": 1,
         "runsBattedIn": 4,
         "totalBases": 12,
-        "walks": 8,
+        "walks": 9,
         "hitByPitch": 2,
-        "strikeouts": 15,
+        "strikeouts": 16,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
-        "sacrificeHits": 4,
+        "sacrificeHits": 5,
         "stolenBases": 0,
         "stolenBasesAttempts": 2,
-        "putouts": 13,
+        "putouts": 14,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 60,
+        "plateAppearances": 64,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1687,9 +1687,9 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "14",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/zaid-diaz/11898",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/14_Diaz_Zaid_t9pOi.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 7,
-        "putouts": 13,
+        "gamesPlayed": 10,
+        "gamesStarted": 8,
+        "putouts": 14,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1699,7 +1699,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 14
+        "totalChances": 15
       },
       "evaluation": {
         "score": 17,
@@ -1708,30 +1708,30 @@ window.__BASEBALL_DATASETS__.troy2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 36.666666666666636,
+          "On-base": 36.111111111111086,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 37.03703703703703,
+          "Discipline": 40.27777777777777,
           "Speed": 0
         },
         "summary": "Zaid Diaz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .195",
-          "OBP .346",
-          "SLG .293"
+          "AVG .186",
+          "OBP .345",
+          "SLG .279"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".195"
+            "value": ".186"
           },
           {
             "label": "OBP",
-            "value": ".346"
+            "value": ".345"
           },
           {
             "label": "SLG",
-            "value": ".293"
+            "value": ".279"
           },
           {
             "label": "HR",
@@ -1795,31 +1795,31 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "15",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/tommy-egan/11899",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/15_Egan_1tmFW.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 12,
-        "appearances": 12,
+        "gamesPlayed": 13,
+        "gamesStarted": 13,
+        "appearances": 13,
         "gamesCompleted": 1,
-        "earnedRunAverage": 4.34,
-        "whip": 1.26,
+        "earnedRunAverage": 4.3,
+        "whip": 1.28,
         "wins": 5,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 64.33333333333333,
-        "inningsPitchedDisplay": "64.1",
-        "hitsAllowed": 65,
-        "runsAllowed": 37,
-        "earnedRunsAllowed": 31,
-        "walksAllowed": 16,
-        "strikeouts": 78,
+        "inningsPitched": 69,
+        "inningsPitchedDisplay": "69.0",
+        "hitsAllowed": 69,
+        "runsAllowed": 39,
+        "earnedRunsAllowed": 33,
+        "walksAllowed": 19,
+        "strikeouts": 85,
         "doublesAllowed": 14,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 248,
-        "wildPitches": 5,
-        "hitBatters": 11,
+        "homeRunsAllowed": 5,
+        "opponentsAtBats": 266,
+        "wildPitches": 7,
+        "hitBatters": 13,
         "balks": 1,
-        "opponentsBattingAverage": 0.262,
+        "opponentsBattingAverage": 0.259,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1844,7 +1844,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "totalChances": 9
       },
       "evaluation": {
-        "score": 25,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1852,40 +1852,40 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 62.83560998586907,
-          "Command": 77.50000000000001,
+          "Miss bats": 64.42687747035573,
+          "Command": 69.47368421052632,
           "Damage suppression": 0
         },
         "summary": "Tommy Egan looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.34",
-          "WHIP 1.26",
-          "K/9 10.9"
+          "ERA 4.30",
+          "WHIP 1.28",
+          "K/9 11.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.34"
+            "value": "4.30"
           },
           {
             "label": "WHIP",
-            "value": "1.26"
+            "value": "1.28"
           },
           {
             "label": "K/9",
-            "value": "10.9"
+            "value": "11.1"
           },
           {
             "label": "BB/9",
-            "value": "2.2"
+            "value": "2.5"
           },
           {
             "label": "HR/9",
-            "value": "0.56"
+            "value": "0.65"
           },
           {
             "label": "IP",
-            "value": "64.3"
+            "value": "69.0"
           }
         ],
         "metaLine": "SR / R/R",
@@ -2079,31 +2079,31 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "17",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/zach-crotchfelt/11901",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/17_Crotchfelt_Zach_LPbJq.jpg",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 0,
-        "appearances": 19,
+        "appearances": 20,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.2,
-        "whip": 1.35,
-        "wins": 2,
+        "earnedRunAverage": 4.68,
+        "whip": 1.42,
+        "wins": 3,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 40.666666666666664,
-        "inningsPitchedDisplay": "40.2",
-        "hitsAllowed": 40,
-        "runsAllowed": 20,
-        "earnedRunsAllowed": 19,
-        "walksAllowed": 15,
-        "strikeouts": 53,
-        "doublesAllowed": 8,
-        "triplesAllowed": 0,
+        "inningsPitched": 42.333333333333336,
+        "inningsPitchedDisplay": "42.1",
+        "hitsAllowed": 44,
+        "runsAllowed": 23,
+        "earnedRunsAllowed": 22,
+        "walksAllowed": 16,
+        "strikeouts": 56,
+        "doublesAllowed": 9,
+        "triplesAllowed": 1,
         "homeRunsAllowed": 6,
-        "opponentsAtBats": 153,
+        "opponentsAtBats": 162,
         "wildPitches": 2,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.261,
+        "opponentsBattingAverage": 0.272,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2136,40 +2136,40 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 70.26825633383011,
-          "Command": 50.66666666666667,
+          "Miss bats": 71.86828919112384,
+          "Command": 50.000000000000014,
           "Damage suppression": 0
         },
         "summary": "Zach Crotchfelt looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.20",
-          "WHIP 1.35",
-          "K/9 11.7"
+          "ERA 4.68",
+          "WHIP 1.42",
+          "K/9 11.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.20"
+            "value": "4.68"
           },
           {
             "label": "WHIP",
-            "value": "1.35"
+            "value": "1.42"
           },
           {
             "label": "K/9",
-            "value": "11.7"
+            "value": "11.9"
           },
           {
             "label": "BB/9",
-            "value": "3.3"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
-            "value": "1.33"
+            "value": "1.28"
           },
           {
             "label": "IP",
-            "value": "40.7"
+            "value": "42.3"
           }
         ],
         "metaLine": "SR / L/L",
@@ -2507,34 +2507,34 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "22",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/drew-nelson/11905",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/22_Nelson_Drew_jNEBG.jpg",
-        "gamesPlayed": 49,
-        "gamesStarted": 48,
-        "battingAverage": 0.31,
-        "onBasePercentage": 0.392,
-        "sluggingPercentage": 0.448,
-        "ops": 0.84,
-        "atBats": 174,
+        "gamesPlayed": 51,
+        "gamesStarted": 50,
+        "battingAverage": 0.315,
+        "onBasePercentage": 0.396,
+        "sluggingPercentage": 0.459,
+        "ops": 0.855,
+        "atBats": 181,
         "runs": 32,
-        "hits": 54,
-        "doubles": 13,
+        "hits": 57,
+        "doubles": 15,
         "triples": 1,
         "homeRuns": 3,
-        "runsBattedIn": 26,
-        "totalBases": 78,
-        "walks": 23,
+        "runsBattedIn": 28,
+        "totalBases": 83,
+        "walks": 24,
         "hitByPitch": 3,
-        "strikeouts": 34,
+        "strikeouts": 35,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 4,
         "sacrificeHits": 1,
         "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 77,
+        "stolenBasesAttempts": 2,
+        "putouts": 80,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 206,
-        "caughtStealing": 0,
+        "plateAppearances": 216,
+        "caughtStealing": 1,
         "pickedOff": 0
       },
       "pitchingStats": {
@@ -2578,9 +2578,9 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "22",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/drew-nelson/11905",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/22_Nelson_Drew_jNEBG.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
-        "putouts": 77,
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "putouts": 80,
         "assists": 3,
         "errors": 2,
         "fieldingPercentage": 0.976,
@@ -2590,7 +2590,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 82
+        "totalChances": 85
       },
       "evaluation": {
         "score": 17,
@@ -2685,13 +2685,13 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "23",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/houston-markham/11906",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/23_Markham_Houston_BA3j8.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 9,
-        "battingAverage": 0.286,
-        "onBasePercentage": 0.323,
-        "sluggingPercentage": 0.357,
-        "ops": 0.68,
-        "atBats": 56,
+        "gamesPlayed": 31,
+        "gamesStarted": 10,
+        "battingAverage": 0.271,
+        "onBasePercentage": 0.308,
+        "sluggingPercentage": 0.339,
+        "ops": 0.647,
+        "atBats": 59,
         "runs": 12,
         "hits": 16,
         "doubles": 4,
@@ -2701,7 +2701,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "totalBases": 20,
         "walks": 1,
         "hitByPitch": 3,
-        "strikeouts": 13,
+        "strikeouts": 14,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
@@ -2711,7 +2711,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "putouts": 15,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 69,
+        "plateAppearances": 72,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2738,36 +2738,36 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "totalChances": 16
       },
       "evaluation": {
-        "score": 19,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 23.88888888888888,
-          "Power": 9.736842105263154,
-          "Contact": 41.24999999999998,
+          "On-base": 15.55555555555554,
+          "Power": 5.000000000000005,
+          "Contact": 31.875000000000007,
           "Discipline": 0,
           "Speed": 13.333333333333334
         },
         "summary": "Houston Markham gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .323",
-          "SLG .357"
+          "AVG .271",
+          "OBP .308",
+          "SLG .339"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".271"
           },
           {
             "label": "OBP",
-            "value": ".323"
+            "value": ".308"
           },
           {
             "label": "SLG",
-            "value": ".357"
+            "value": ".339"
           },
           {
             "label": "HR",
@@ -2973,31 +2973,31 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "27",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/dylan-alonso/11908",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/27_Alonso_BIik3.jpg",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 4,
-        "appearances": 19,
+        "appearances": 20,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.23,
-        "whip": 1.47,
+        "earnedRunAverage": 4.84,
+        "whip": 1.42,
         "wins": 3,
         "losses": 3,
         "saves": 6,
         "shutouts": 0,
-        "inningsPitched": 32.666666666666664,
-        "inningsPitchedDisplay": "32.2",
+        "inningsPitched": 35.333333333333336,
+        "inningsPitchedDisplay": "35.1",
         "hitsAllowed": 30,
         "runsAllowed": 25,
         "earnedRunsAllowed": 19,
-        "walksAllowed": 18,
-        "strikeouts": 41,
+        "walksAllowed": 20,
+        "strikeouts": 42,
         "doublesAllowed": 5,
         "triplesAllowed": 0,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 124,
-        "wildPitches": 7,
+        "opponentsAtBats": 132,
+        "wildPitches": 8,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.242,
+        "opponentsBattingAverage": 0.227,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3022,7 +3022,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 17,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3030,40 +3030,40 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 66.32653061224491,
-          "Command": 25.555555555555554,
+          "Miss bats": 60.891938250428815,
+          "Command": 22.000000000000004,
           "Damage suppression": 0
         },
         "summary": "Dylan Alonso looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.23",
-          "WHIP 1.47",
-          "K/9 11.3"
+          "ERA 4.84",
+          "WHIP 1.42",
+          "K/9 10.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.23"
+            "value": "4.84"
           },
           {
             "label": "WHIP",
-            "value": "1.47"
+            "value": "1.42"
           },
           {
             "label": "K/9",
-            "value": "11.3"
+            "value": "10.7"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
-            "value": "1.38"
+            "value": "1.27"
           },
           {
             "label": "IP",
-            "value": "32.7"
+            "value": "35.3"
           }
         ],
         "metaLine": "JR / R/R",
@@ -3115,31 +3115,31 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "28",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/jackson-lucas/11909",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/28_Lucas_Jackson_iJcwl.jpg",
-        "gamesPlayed": 8,
+        "gamesPlayed": 9,
         "gamesStarted": 0,
-        "appearances": 8,
+        "appearances": 9,
         "gamesCompleted": 0,
-        "earnedRunAverage": 10.5,
-        "whip": 2.17,
+        "earnedRunAverage": 11.37,
+        "whip": 2.21,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 6,
-        "inningsPitchedDisplay": "6.0",
-        "hitsAllowed": 10,
-        "runsAllowed": 8,
-        "earnedRunsAllowed": 7,
+        "inningsPitched": 6.333333333333333,
+        "inningsPitchedDisplay": "6.1",
+        "hitsAllowed": 11,
+        "runsAllowed": 9,
+        "earnedRunsAllowed": 8,
         "walksAllowed": 3,
-        "strikeouts": 9,
+        "strikeouts": 10,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 27,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 29,
         "wildPitches": 0,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.37,
+        "opponentsBattingAverage": 0.379,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3164,7 +3164,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 24,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3172,40 +3172,40 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 86.36363636363636,
-          "Command": 40,
+          "Miss bats": 92.82296650717704,
+          "Command": 46.666666666666664,
           "Damage suppression": 0
         },
         "summary": "Jackson Lucas looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 10.50",
-          "WHIP 2.17",
-          "K/9 13.5"
+          "ERA 11.37",
+          "WHIP 2.21",
+          "K/9 14.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "10.50"
+            "value": "11.37"
           },
           {
             "label": "WHIP",
-            "value": "2.17"
+            "value": "2.21"
           },
           {
             "label": "K/9",
-            "value": "13.5"
+            "value": "14.2"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "4.3"
           },
           {
             "label": "HR/9",
-            "value": "3.00"
+            "value": "4.26"
           },
           {
             "label": "IP",
-            "value": "6.0"
+            "value": "6.3"
           }
         ],
         "metaLine": "FR / L/L",
@@ -3257,31 +3257,31 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "29",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/dylan-king/11910",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/29_King_GiSUb.jpg",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 0,
-        "appearances": 7,
+        "appearances": 8,
         "gamesCompleted": 0,
-        "earnedRunAverage": 9,
-        "whip": 2,
+        "earnedRunAverage": 9.95,
+        "whip": 2.37,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 6,
-        "inningsPitchedDisplay": "6.0",
-        "hitsAllowed": 6,
-        "runsAllowed": 6,
-        "earnedRunsAllowed": 6,
-        "walksAllowed": 6,
+        "inningsPitched": 6.333333333333333,
+        "inningsPitchedDisplay": "6.1",
+        "hitsAllowed": 8,
+        "runsAllowed": 7,
+        "earnedRunsAllowed": 7,
+        "walksAllowed": 7,
         "strikeouts": 5,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 21,
+        "opponentsAtBats": 23,
         "wildPitches": 1,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.286,
+        "opponentsBattingAverage": 0.348,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3314,40 +3314,40 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 31.818181818181817,
+          "Miss bats": 28.229665071770338,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Dylan King gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.00",
-          "WHIP 2.00",
-          "K/9 7.5"
+          "ERA 9.95",
+          "WHIP 2.37",
+          "K/9 7.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.00"
+            "value": "9.95"
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "2.37"
           },
           {
             "label": "K/9",
-            "value": "7.5"
+            "value": "7.1"
           },
           {
             "label": "BB/9",
-            "value": "9.0"
+            "value": "9.9"
           },
           {
             "label": "HR/9",
-            "value": "3.00"
+            "value": "2.84"
           },
           {
             "label": "IP",
-            "value": "6.0"
+            "value": "6.3"
           }
         ],
         "metaLine": "SR / R/R",
@@ -3541,31 +3541,31 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "31",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/benjamin-stubbs/11912",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/31_Stubbs_Ben.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 12,
-        "appearances": 12,
+        "gamesPlayed": 13,
+        "gamesStarted": 13,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.62,
-        "whip": 1.35,
+        "earnedRunAverage": 5.27,
+        "whip": 1.45,
         "wins": 3,
-        "losses": 2,
+        "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 64.33333333333333,
-        "inningsPitchedDisplay": "64.1",
-        "hitsAllowed": 64,
-        "runsAllowed": 36,
-        "earnedRunsAllowed": 33,
-        "walksAllowed": 23,
-        "strikeouts": 57,
-        "doublesAllowed": 11,
+        "inningsPitched": 68.33333333333333,
+        "inningsPitchedDisplay": "68.1",
+        "hitsAllowed": 72,
+        "runsAllowed": 43,
+        "earnedRunsAllowed": 40,
+        "walksAllowed": 27,
+        "strikeouts": 62,
+        "doublesAllowed": 14,
         "triplesAllowed": 2,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 250,
-        "wildPitches": 6,
+        "opponentsAtBats": 269,
+        "wildPitches": 9,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.256,
+        "opponentsBattingAverage": 0.268,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3598,40 +3598,40 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.12812058407914,
-          "Command": 29.565217391304344,
+          "Miss bats": 37.87139689578714,
+          "Command": 25.925925925925924,
           "Damage suppression": 0
         },
         "summary": "Benjamin Stubbs gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.62",
-          "WHIP 1.35",
-          "K/9 8.0"
+          "ERA 5.27",
+          "WHIP 1.45",
+          "K/9 8.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.62"
+            "value": "5.27"
           },
           {
             "label": "WHIP",
-            "value": "1.35"
+            "value": "1.45"
           },
           {
             "label": "K/9",
-            "value": "8.0"
+            "value": "8.2"
           },
           {
             "label": "BB/9",
-            "value": "3.2"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "0.70"
+            "value": "0.66"
           },
           {
             "label": "IP",
-            "value": "64.3"
+            "value": "68.3"
           }
         ],
         "metaLine": "SR / L/L",
@@ -3682,33 +3682,33 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "32",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/josh-pyne/11913",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/32_Pyne_Josh_GTgga.jpg",
-        "gamesPlayed": 47,
-        "gamesStarted": 47,
-        "battingAverage": 0.29,
-        "onBasePercentage": 0.373,
-        "sluggingPercentage": 0.464,
-        "ops": 0.837,
-        "atBats": 183,
-        "runs": 40,
-        "hits": 53,
-        "doubles": 17,
-        "triples": 0,
-        "homeRuns": 5,
-        "runsBattedIn": 25,
-        "totalBases": 85,
-        "walks": 17,
+        "gamesPlayed": 49,
+        "gamesStarted": 49,
+        "battingAverage": 0.3,
+        "onBasePercentage": 0.382,
+        "sluggingPercentage": 0.5,
+        "ops": 0.882,
+        "atBats": 190,
+        "runs": 42,
+        "hits": 57,
+        "doubles": 18,
+        "triples": 1,
+        "homeRuns": 6,
+        "runsBattedIn": 27,
+        "totalBases": 95,
+        "walks": 18,
         "hitByPitch": 8,
         "strikeouts": 45,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
         "sacrificeHits": 2,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 5,
-        "putouts": 20,
+        "stolenBases": 3,
+        "stolenBasesAttempts": 6,
+        "putouts": 21,
         "assists": 0,
-        "errors": 6,
-        "plateAppearances": 219,
+        "errors": 7,
+        "plateAppearances": 228,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -3720,63 +3720,63 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "32",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/josh-pyne/11913",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/32_Pyne_Josh_GTgga.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "putouts": 20,
-        "assists": 67,
-        "errors": 6,
-        "fieldingPercentage": 0.935,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "putouts": 21,
+        "assists": 70,
+        "errors": 7,
+        "fieldingPercentage": 0.929,
         "doublePlays": 7,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 93
+        "totalChances": 98
       },
       "evaluation": {
-        "score": 38,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 37.89473684210527,
-          "Contact": 43.749999999999986,
-          "Discipline": 19.75308641975308,
-          "Speed": 6.666666666666667
+          "On-base": 56.66666666666666,
+          "Power": 47.36842105263158,
+          "Contact": 49.999999999999986,
+          "Discipline": 22.22222222222222,
+          "Speed": 10
         },
         "summary": "Josh Pyne gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .290",
-          "OBP .373",
-          "SLG .464"
+          "AVG .300",
+          "OBP .382",
+          "SLG .500"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".382"
           },
           {
             "label": "SLG",
-            "value": ".464"
+            "value": ".500"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "25"
+            "value": "27"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "3"
           }
         ],
         "metaLine": "R-SR / R/R",
@@ -3827,13 +3827,13 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "33",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/ty-mcgraw/11914",
         "imageUrl": "https://troytrojans.com/images/2026/1/22/33_McGraw_Ty.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 1,
-        "battingAverage": 0.091,
-        "onBasePercentage": 0.231,
-        "sluggingPercentage": 0.091,
-        "ops": 0.322,
-        "atBats": 11,
+        "battingAverage": 0.083,
+        "onBasePercentage": 0.214,
+        "sluggingPercentage": 0.083,
+        "ops": 0.297,
+        "atBats": 12,
         "runs": 1,
         "hits": 1,
         "doubles": 0,
@@ -3843,7 +3843,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "totalBases": 1,
         "walks": 0,
         "hitByPitch": 2,
-        "strikeouts": 5,
+        "strikeouts": 6,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
@@ -3853,7 +3853,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "putouts": 2,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 13,
+        "plateAppearances": 14,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3894,22 +3894,22 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         },
         "summary": "Ty McGraw gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .091",
-          "OBP .231",
-          "SLG .091"
+          "AVG .083",
+          "OBP .214",
+          "SLG .083"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".091"
+            "value": ".083"
           },
           {
             "label": "OBP",
-            "value": ".231"
+            "value": ".214"
           },
           {
             "label": "SLG",
-            "value": ".091"
+            "value": ".083"
           },
           {
             "label": "HR",
@@ -3972,33 +3972,33 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "34",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/blake-cavill/11915",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/34_Cavill_pkiLe.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 48,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.42,
-        "sluggingPercentage": 0.411,
-        "ops": 0.831,
-        "atBats": 168,
-        "runs": 41,
-        "hits": 42,
-        "doubles": 6,
+        "gamesPlayed": 50,
+        "gamesStarted": 50,
+        "battingAverage": 0.261,
+        "onBasePercentage": 0.423,
+        "sluggingPercentage": 0.438,
+        "ops": 0.861,
+        "atBats": 176,
+        "runs": 44,
+        "hits": 46,
+        "doubles": 7,
         "triples": 0,
-        "homeRuns": 7,
-        "runsBattedIn": 27,
-        "totalBases": 69,
+        "homeRuns": 8,
+        "runsBattedIn": 29,
+        "totalBases": 77,
         "walks": 36,
         "hitByPitch": 14,
-        "strikeouts": 34,
+        "strikeouts": 35,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
-        "putouts": 347,
+        "putouts": 360,
         "assists": 0,
-        "errors": 2,
-        "plateAppearances": 225,
+        "errors": 3,
+        "plateAppearances": 233,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -4010,59 +4010,59 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "34",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/blake-cavill/11915",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/34_Cavill_pkiLe.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 48,
-        "putouts": 347,
+        "gamesPlayed": 50,
+        "gamesStarted": 50,
+        "putouts": 360,
         "assists": 21,
-        "errors": 2,
-        "fieldingPercentage": 0.995,
-        "doublePlays": 32,
+        "errors": 3,
+        "fieldingPercentage": 0.992,
+        "doublePlays": 34,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 370
+        "totalChances": 384
       },
       "evaluation": {
-        "score": 49,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 77.77777777777776,
-          "Power": 23.947368421052627,
-          "Contact": 18.75,
-          "Discipline": 95.42483660130718,
+          "On-base": 79.44444444444443,
+          "Power": 31.05263157894737,
+          "Contact": 25.625000000000004,
+          "Discipline": 92.06349206349205,
           "Speed": 10
         },
         "summary": "Blake Cavill profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .420",
-          "SLG .411"
+          "AVG .261",
+          "OBP .423",
+          "SLG .438"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".261"
           },
           {
             "label": "OBP",
-            "value": ".420"
+            "value": ".423"
           },
           {
             "label": "SLG",
-            "value": ".411"
+            "value": ".438"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -4401,23 +4401,23 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "37",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/sean-darnell/11918",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/37_Darnell_Sean_mnR9F.jpg",
-        "gamesPlayed": 49,
-        "gamesStarted": 49,
-        "battingAverage": 0.256,
-        "onBasePercentage": 0.373,
-        "sluggingPercentage": 0.357,
-        "ops": 0.73,
-        "atBats": 168,
-        "runs": 30,
-        "hits": 43,
+        "gamesPlayed": 51,
+        "gamesStarted": 51,
+        "battingAverage": 0.254,
+        "onBasePercentage": 0.371,
+        "sluggingPercentage": 0.37,
+        "ops": 0.741,
+        "atBats": 173,
+        "runs": 31,
+        "hits": 44,
         "doubles": 7,
         "triples": 2,
-        "homeRuns": 2,
-        "runsBattedIn": 32,
-        "totalBases": 60,
-        "walks": 25,
+        "homeRuns": 3,
+        "runsBattedIn": 33,
+        "totalBases": 64,
+        "walks": 26,
         "hitByPitch": 8,
-        "strikeouts": 39,
+        "strikeouts": 40,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 3,
@@ -4426,8 +4426,8 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "stolenBasesAttempts": 5,
         "putouts": 88,
         "assists": 0,
-        "errors": 8,
-        "plateAppearances": 211,
+        "errors": 9,
+        "plateAppearances": 217,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4439,19 +4439,19 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "37",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/sean-darnell/11918",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/37_Darnell_Sean_mnR9F.jpg",
-        "gamesPlayed": 49,
-        "gamesStarted": 49,
+        "gamesPlayed": 51,
+        "gamesStarted": 51,
         "putouts": 88,
-        "assists": 105,
-        "errors": 8,
-        "fieldingPercentage": 0.96,
+        "assists": 112,
+        "errors": 9,
+        "fieldingPercentage": 0.957,
         "doublePlays": 28,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 201
+        "totalChances": 209
       },
       "evaluation": {
         "score": 32,
@@ -4460,38 +4460,38 @@ window.__BASEBALL_DATASETS__.troy2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 9.736842105263154,
-          "Contact": 22.500000000000004,
-          "Discipline": 49.002849002849004,
+          "On-base": 50.55555555555554,
+          "Power": 13.157894736842104,
+          "Contact": 21.250000000000004,
+          "Discipline": 49.99999999999999,
           "Speed": 16.666666666666664
         },
         "summary": "Sean Darnell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .256",
-          "OBP .373",
-          "SLG .357"
+          "AVG .254",
+          "OBP .371",
+          "SLG .370"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".256"
+            "value": ".254"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".371"
           },
           {
             "label": "SLG",
-            "value": ".357"
+            "value": ".370"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "3"
           },
           {
             "label": "RBI",
-            "value": "32"
+            "value": "33"
           },
           {
             "label": "SB",
@@ -4547,36 +4547,56 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "38",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/nate-criswell/11919",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/38_Criswell_Nate_aqJIE.jpg",
-        "gamesPlayed": 2,
+        "gamesPlayed": 3,
         "gamesStarted": 0,
-        "appearances": 2,
+        "appearances": 3,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.5,
-        "whip": 1.5,
+        "earnedRunAverage": 4.15,
+        "whip": 1.85,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 2,
-        "inningsPitchedDisplay": "2.0",
-        "hitsAllowed": 2,
-        "runsAllowed": 1,
-        "earnedRunsAllowed": 1,
-        "walksAllowed": 1,
-        "strikeouts": 1,
-        "doublesAllowed": 0,
+        "inningsPitched": 4.333333333333333,
+        "inningsPitchedDisplay": "4.1",
+        "hitsAllowed": 4,
+        "runsAllowed": 4,
+        "earnedRunsAllowed": 2,
+        "walksAllowed": 4,
+        "strikeouts": 3,
+        "doublesAllowed": 1,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 8,
-        "wildPitches": 1,
+        "opponentsAtBats": 17,
+        "wildPitches": 2,
         "hitBatters": 0,
         "balks": 0,
-        "opponentsBattingAverage": 0.25,
+        "opponentsBattingAverage": 0.235,
         "walksHits": 0
       },
-      "fieldingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11919",
+        "name": "Nate Criswell",
+        "normalizedName": "nate criswell",
+        "jersey": "38",
+        "profileUrl": "https://troytrojans.com/sports/baseball/roster/nate-criswell/11919",
+        "imageUrl": "https://troytrojans.com/images/2026/1/7/38_Criswell_Nate_aqJIE.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 1
+      },
       "evaluation": {
-        "score": 1,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4584,32 +4604,32 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 4.545454545454546,
+          "Miss bats": 20.27972027972028,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Nate Criswell gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.50",
-          "WHIP 1.50",
-          "K/9 4.5"
+          "ERA 4.15",
+          "WHIP 1.85",
+          "K/9 6.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.50"
+            "value": "4.15"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.85"
           },
           {
             "label": "K/9",
-            "value": "4.5"
+            "value": "6.2"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "8.3"
           },
           {
             "label": "HR/9",
@@ -4617,7 +4637,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
           },
           {
             "label": "IP",
-            "value": "2.0"
+            "value": "4.3"
           }
         ],
         "metaLine": "JR / R/R",
@@ -4668,13 +4688,13 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "40",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/nico-azpilcueta/11920",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/40_Azpilcueta_Nico_5T022.jpg",
-        "gamesPlayed": 16,
+        "gamesPlayed": 17,
         "gamesStarted": 8,
-        "battingAverage": 0.219,
-        "onBasePercentage": 0.265,
-        "sluggingPercentage": 0.5,
-        "ops": 0.765,
-        "atBats": 32,
+        "battingAverage": 0.212,
+        "onBasePercentage": 0.257,
+        "sluggingPercentage": 0.485,
+        "ops": 0.742,
+        "atBats": 33,
         "runs": 5,
         "hits": 7,
         "doubles": 3,
@@ -4684,7 +4704,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "totalBases": 16,
         "walks": 1,
         "hitByPitch": 1,
-        "strikeouts": 15,
+        "strikeouts": 16,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 0,
@@ -4694,7 +4714,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "putouts": 4,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 35,
+        "plateAppearances": 36,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4721,36 +4741,36 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "totalChances": 5
       },
       "evaluation": {
-        "score": 13,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
           "On-base": 0,
-          "Power": 47.36842105263158,
+          "Power": 43.42105263157895,
           "Contact": 0,
           "Discipline": 0,
           "Speed": 3.3333333333333335
         },
         "summary": "Nico Azpilcueta gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .219",
-          "OBP .265",
-          "SLG .500"
+          "AVG .212",
+          "OBP .257",
+          "SLG .485"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".219"
+            "value": ".212"
           },
           {
             "label": "OBP",
-            "value": ".265"
+            "value": ".257"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".485"
           },
           {
             "label": "HR",
@@ -4813,20 +4833,20 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "jersey": "44",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/dillon-kuehl/11922",
         "imageUrl": "https://troytrojans.com/images/2026/1/7/44_Kuehl_Dillon_XWGdZ.jpg",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 5,
-        "battingAverage": 0.167,
-        "onBasePercentage": 0.423,
-        "sluggingPercentage": 0.167,
-        "ops": 0.59,
-        "atBats": 18,
+        "battingAverage": 0.211,
+        "onBasePercentage": 0.444,
+        "sluggingPercentage": 0.211,
+        "ops": 0.655,
+        "atBats": 19,
         "runs": 3,
-        "hits": 3,
+        "hits": 4,
         "doubles": 0,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 1,
-        "totalBases": 3,
+        "totalBases": 4,
         "walks": 8,
         "hitByPitch": 0,
         "strikeouts": 6,
@@ -4839,7 +4859,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "putouts": 5,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 27,
+        "plateAppearances": 28,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4866,13 +4886,13 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "totalChances": 5
       },
       "evaluation": {
-        "score": 40,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 79.44444444444443,
+          "On-base": 91.1111111111111,
           "Power": 0,
           "Contact": 0,
           "Discipline": 100,
@@ -4880,22 +4900,22 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         },
         "summary": "Dillon Kuehl profiles as a OF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .167",
-          "OBP .423",
-          "SLG .167"
+          "AVG .211",
+          "OBP .444",
+          "SLG .211"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".167"
+            "value": ".211"
           },
           {
             "label": "OBP",
-            "value": ".423"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": ".167"
+            "value": ".211"
           },
           {
             "label": "HR",
@@ -5202,29 +5222,29 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 56,
+        "score": 55,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Steven Meier profiles as a OF piece who gets on base at a high clip.",
+        "summary": "Steven Meier profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .429",
-          "SLG .517"
+          "AVG .276",
+          "OBP .427",
+          "SLG .500"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".429"
+            "value": ".427"
           },
           {
             "label": "SLG",
-            "value": ".517"
+            "value": ".500"
           },
           {
             "label": "HR",
@@ -5236,15 +5256,15 @@ window.__BASEBALL_DATASETS__.troy2026 = {
           },
           {
             "label": "SB",
-            "value": "7"
+            "value": "8"
           }
         ],
         "components": {
-          "On-base": 82.77777777777776,
-          "Power": 51.8421052631579,
-          "Contact": 41.24999999999998,
-          "Discipline": 46.84684684684684,
-          "Speed": 23.333333333333332
+          "On-base": 81.66666666666666,
+          "Power": 47.36842105263158,
+          "Contact": 35.000000000000014,
+          "Discipline": 53.80116959064327,
+          "Speed": 26.666666666666668
         },
         "metaLine": "SR / L/L",
         "detailBadges": [
@@ -5271,37 +5291,37 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 73,
+        "score": 72,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Aaron Piasecki profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .459",
-          "SLG .514"
+          "AVG .325",
+          "OBP .452",
+          "SLG .518"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": ".325"
           },
           {
             "label": "OBP",
-            "value": ".459"
+            "value": ".452"
           },
           {
             "label": "SLG",
-            "value": ".514"
+            "value": ".518"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "7"
           },
           {
             "label": "RBI",
-            "value": "29"
+            "value": "31"
           },
           {
             "label": "SB",
@@ -5309,9 +5329,9 @@ window.__BASEBALL_DATASETS__.troy2026 = {
           }
         ],
         "components": {
-          "On-base": 99.44444444444444,
-          "Power": 51.05263157894737,
-          "Contact": 67.5,
+          "On-base": 95.55555555555554,
+          "Power": 52.10526315789474,
+          "Contact": 65.625,
           "Discipline": 100,
           "Speed": 20
         },
@@ -5408,29 +5428,29 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 22,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nolan Book gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .257",
-          "OBP .361",
-          "SLG .326"
+          "AVG .259",
+          "OBP .360",
+          "SLG .327"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".257"
+            "value": ".259"
           },
           {
             "label": "OBP",
-            "value": ".361"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".326"
+            "value": ".327"
           },
           {
             "label": "HR",
@@ -5446,9 +5466,9 @@ window.__BASEBALL_DATASETS__.troy2026 = {
           }
         ],
         "components": {
-          "On-base": 44.99999999999998,
-          "Power": 1.5789473684210544,
-          "Contact": 23.125000000000004,
+          "On-base": 44.44444444444443,
+          "Power": 1.8421052631578967,
+          "Contact": 24.375000000000004,
           "Discipline": 20.1058201058201,
           "Speed": 6.666666666666667
         },
@@ -5477,21 +5497,21 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "position": "C",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 73,
+        "score": 74,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Jimmy Janicki profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .352",
+          "AVG .355",
           "OBP .417",
-          "SLG .689"
+          "SLG .700"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".352"
+            "value": ".355"
           },
           {
             "label": "OBP",
@@ -5499,15 +5519,15 @@ window.__BASEBALL_DATASETS__.troy2026 = {
           },
           {
             "label": "SLG",
-            "value": ".689"
+            "value": ".700"
           },
           {
             "label": "HR",
-            "value": "15"
+            "value": "16"
           },
           {
             "label": "RBI",
-            "value": "65"
+            "value": "67"
           },
           {
             "label": "SB",
@@ -5516,8 +5536,8 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         ],
         "components": {
           "On-base": 76.11111111111109,
-          "Power": 97.10526315789474,
-          "Contact": 82.49999999999999,
+          "Power": 100,
+          "Contact": 84.37499999999999,
           "Discipline": 50.574712643678154,
           "Speed": 10
         },
@@ -5691,22 +5711,22 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         },
         "summary": "Jabe Boroff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .129",
-          "OBP .176",
-          "SLG .258"
+          "AVG .114",
+          "OBP .179",
+          "SLG .229"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".129"
+            "value": ".114"
           },
           {
             "label": "OBP",
-            "value": ".176"
+            "value": ".179"
           },
           {
             "label": "SLG",
-            "value": ".258"
+            "value": ".229"
           },
           {
             "label": "HR",
@@ -5966,22 +5986,22 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         },
         "summary": "Zaid Diaz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .195",
-          "OBP .346",
-          "SLG .293"
+          "AVG .186",
+          "OBP .345",
+          "SLG .279"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".195"
+            "value": ".186"
           },
           {
             "label": "OBP",
-            "value": ".346"
+            "value": ".345"
           },
           {
             "label": "SLG",
-            "value": ".293"
+            "value": ".279"
           },
           {
             "label": "HR",
@@ -5997,10 +6017,10 @@ window.__BASEBALL_DATASETS__.troy2026 = {
           }
         ],
         "components": {
-          "On-base": 36.666666666666636,
+          "On-base": 36.111111111111086,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 37.03703703703703,
+          "Discipline": 40.27777777777777,
           "Speed": 0
         },
         "metaLine": "JR / L/L",
@@ -6028,48 +6048,48 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 25,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tommy Egan looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.34",
-          "WHIP 1.26",
-          "K/9 10.9"
+          "ERA 4.30",
+          "WHIP 1.28",
+          "K/9 11.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.34"
+            "value": "4.30"
           },
           {
             "label": "WHIP",
-            "value": "1.26"
+            "value": "1.28"
           },
           {
             "label": "K/9",
-            "value": "10.9"
+            "value": "11.1"
           },
           {
             "label": "BB/9",
-            "value": "2.2"
+            "value": "2.5"
           },
           {
             "label": "HR/9",
-            "value": "0.56"
+            "value": "0.65"
           },
           {
             "label": "IP",
-            "value": "64.3"
+            "value": "69.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 62.83560998586907,
-          "Command": 77.50000000000001,
+          "Miss bats": 64.42687747035573,
+          "Command": 69.47368421052632,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -6173,41 +6193,41 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         },
         "summary": "Zach Crotchfelt looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.20",
-          "WHIP 1.35",
-          "K/9 11.7"
+          "ERA 4.68",
+          "WHIP 1.42",
+          "K/9 11.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.20"
+            "value": "4.68"
           },
           {
             "label": "WHIP",
-            "value": "1.35"
+            "value": "1.42"
           },
           {
             "label": "K/9",
-            "value": "11.7"
+            "value": "11.9"
           },
           {
             "label": "BB/9",
-            "value": "3.3"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
-            "value": "1.33"
+            "value": "1.28"
           },
           {
             "label": "IP",
-            "value": "40.7"
+            "value": "42.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 70.26825633383011,
-          "Command": 50.66666666666667,
+          "Miss bats": 71.86828919112384,
+          "Command": 50.000000000000014,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/L",
@@ -6442,29 +6462,29 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 19,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Houston Markham gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .323",
-          "SLG .357"
+          "AVG .271",
+          "OBP .308",
+          "SLG .339"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".271"
           },
           {
             "label": "OBP",
-            "value": ".323"
+            "value": ".308"
           },
           {
             "label": "SLG",
-            "value": ".357"
+            "value": ".339"
           },
           {
             "label": "HR",
@@ -6480,9 +6500,9 @@ window.__BASEBALL_DATASETS__.troy2026 = {
           }
         ],
         "components": {
-          "On-base": 23.88888888888888,
-          "Power": 9.736842105263154,
-          "Contact": 41.24999999999998,
+          "On-base": 15.55555555555554,
+          "Power": 5.000000000000005,
+          "Contact": 31.875000000000007,
           "Discipline": 0,
           "Speed": 13.333333333333334
         },
@@ -6580,48 +6600,48 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 17,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dylan Alonso looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.23",
-          "WHIP 1.47",
-          "K/9 11.3"
+          "ERA 4.84",
+          "WHIP 1.42",
+          "K/9 10.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.23"
+            "value": "4.84"
           },
           {
             "label": "WHIP",
-            "value": "1.47"
+            "value": "1.42"
           },
           {
             "label": "K/9",
-            "value": "11.3"
+            "value": "10.7"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
-            "value": "1.38"
+            "value": "1.27"
           },
           {
             "label": "IP",
-            "value": "32.7"
+            "value": "35.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 66.32653061224491,
-          "Command": 25.555555555555554,
+          "Miss bats": 60.891938250428815,
+          "Command": 22.000000000000004,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -6649,48 +6669,48 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "position": "LHP",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 24,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jackson Lucas looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 10.50",
-          "WHIP 2.17",
-          "K/9 13.5"
+          "ERA 11.37",
+          "WHIP 2.21",
+          "K/9 14.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "10.50"
+            "value": "11.37"
           },
           {
             "label": "WHIP",
-            "value": "2.17"
+            "value": "2.21"
           },
           {
             "label": "K/9",
-            "value": "13.5"
+            "value": "14.2"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "4.3"
           },
           {
             "label": "HR/9",
-            "value": "3.00"
+            "value": "4.26"
           },
           {
             "label": "IP",
-            "value": "6.0"
+            "value": "6.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 86.36363636363636,
-          "Command": 40,
+          "Miss bats": 92.82296650717704,
+          "Command": 46.666666666666664,
           "Damage suppression": 0
         },
         "metaLine": "FR / L/L",
@@ -6725,40 +6745,40 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         },
         "summary": "Dylan King gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.00",
-          "WHIP 2.00",
-          "K/9 7.5"
+          "ERA 9.95",
+          "WHIP 2.37",
+          "K/9 7.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.00"
+            "value": "9.95"
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "2.37"
           },
           {
             "label": "K/9",
-            "value": "7.5"
+            "value": "7.1"
           },
           {
             "label": "BB/9",
-            "value": "9.0"
+            "value": "9.9"
           },
           {
             "label": "HR/9",
-            "value": "3.00"
+            "value": "2.84"
           },
           {
             "label": "IP",
-            "value": "6.0"
+            "value": "6.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 31.818181818181817,
+          "Miss bats": 28.229665071770338,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -6863,41 +6883,41 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         },
         "summary": "Benjamin Stubbs gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.62",
-          "WHIP 1.35",
-          "K/9 8.0"
+          "ERA 5.27",
+          "WHIP 1.45",
+          "K/9 8.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.62"
+            "value": "5.27"
           },
           {
             "label": "WHIP",
-            "value": "1.35"
+            "value": "1.45"
           },
           {
             "label": "K/9",
-            "value": "8.0"
+            "value": "8.2"
           },
           {
             "label": "BB/9",
-            "value": "3.2"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "0.70"
+            "value": "0.66"
           },
           {
             "label": "IP",
-            "value": "64.3"
+            "value": "68.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.12812058407914,
-          "Command": 29.565217391304344,
+          "Miss bats": 37.87139689578714,
+          "Command": 25.925925925925924,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/L",
@@ -6925,49 +6945,49 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "position": "INF",
         "classYear": "R-SR",
         "handedness": "R/R",
-        "score": 38,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Josh Pyne gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .290",
-          "OBP .373",
-          "SLG .464"
+          "AVG .300",
+          "OBP .382",
+          "SLG .500"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".382"
           },
           {
             "label": "SLG",
-            "value": ".464"
+            "value": ".500"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "25"
+            "value": "27"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "3"
           }
         ],
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 37.89473684210527,
-          "Contact": 43.749999999999986,
-          "Discipline": 19.75308641975308,
-          "Speed": 6.666666666666667
+          "On-base": 56.66666666666666,
+          "Power": 47.36842105263158,
+          "Contact": 49.999999999999986,
+          "Discipline": 22.22222222222222,
+          "Speed": 10
         },
         "metaLine": "R-SR / R/R",
         "detailBadges": [
@@ -7001,22 +7021,22 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         },
         "summary": "Ty McGraw gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .091",
-          "OBP .231",
-          "SLG .091"
+          "AVG .083",
+          "OBP .214",
+          "SLG .083"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".091"
+            "value": ".083"
           },
           {
             "label": "OBP",
-            "value": ".231"
+            "value": ".214"
           },
           {
             "label": "SLG",
-            "value": ".091"
+            "value": ".083"
           },
           {
             "label": "HR",
@@ -7063,37 +7083,37 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 49,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Blake Cavill profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .420",
-          "SLG .411"
+          "AVG .261",
+          "OBP .423",
+          "SLG .438"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".261"
           },
           {
             "label": "OBP",
-            "value": ".420"
+            "value": ".423"
           },
           {
             "label": "SLG",
-            "value": ".411"
+            "value": ".438"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -7101,10 +7121,10 @@ window.__BASEBALL_DATASETS__.troy2026 = {
           }
         ],
         "components": {
-          "On-base": 77.77777777777776,
-          "Power": 23.947368421052627,
-          "Contact": 18.75,
-          "Discipline": 95.42483660130718,
+          "On-base": 79.44444444444443,
+          "Power": 31.05263157894737,
+          "Contact": 25.625000000000004,
+          "Discipline": 92.06349206349205,
           "Speed": 10
         },
         "metaLine": "SR / L/R",
@@ -7277,30 +7297,30 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         },
         "summary": "Sean Darnell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .256",
-          "OBP .373",
-          "SLG .357"
+          "AVG .254",
+          "OBP .371",
+          "SLG .370"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".256"
+            "value": ".254"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".371"
           },
           {
             "label": "SLG",
-            "value": ".357"
+            "value": ".370"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "3"
           },
           {
             "label": "RBI",
-            "value": "32"
+            "value": "33"
           },
           {
             "label": "SB",
@@ -7308,10 +7328,10 @@ window.__BASEBALL_DATASETS__.troy2026 = {
           }
         ],
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 9.736842105263154,
-          "Contact": 22.500000000000004,
-          "Discipline": 49.002849002849004,
+          "On-base": 50.55555555555554,
+          "Power": 13.157894736842104,
+          "Contact": 21.250000000000004,
+          "Discipline": 49.99999999999999,
           "Speed": 16.666666666666664
         },
         "metaLine": "SR / L/R",
@@ -7339,33 +7359,33 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 1,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nate Criswell gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.50",
-          "WHIP 1.50",
-          "K/9 4.5"
+          "ERA 4.15",
+          "WHIP 1.85",
+          "K/9 6.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.50"
+            "value": "4.15"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.85"
           },
           {
             "label": "K/9",
-            "value": "4.5"
+            "value": "6.2"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "8.3"
           },
           {
             "label": "HR/9",
@@ -7373,13 +7393,13 @@ window.__BASEBALL_DATASETS__.troy2026 = {
           },
           {
             "label": "IP",
-            "value": "2.0"
+            "value": "4.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 4.545454545454546,
+          "Miss bats": 20.27972027972028,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -7408,29 +7428,29 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "position": "INF/OF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 13,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nico Azpilcueta gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .219",
-          "OBP .265",
-          "SLG .500"
+          "AVG .212",
+          "OBP .257",
+          "SLG .485"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".219"
+            "value": ".212"
           },
           {
             "label": "OBP",
-            "value": ".265"
+            "value": ".257"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".485"
           },
           {
             "label": "HR",
@@ -7447,7 +7467,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         ],
         "components": {
           "On-base": 0,
-          "Power": 47.36842105263158,
+          "Power": 43.42105263157895,
           "Contact": 0,
           "Discipline": 0,
           "Speed": 3.3333333333333335
@@ -7477,29 +7497,29 @@ window.__BASEBALL_DATASETS__.troy2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 40,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dillon Kuehl profiles as a OF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .167",
-          "OBP .423",
-          "SLG .167"
+          "AVG .211",
+          "OBP .444",
+          "SLG .211"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".167"
+            "value": ".211"
           },
           {
             "label": "OBP",
-            "value": ".423"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": ".167"
+            "value": ".211"
           },
           {
             "label": "HR",
@@ -7515,7 +7535,7 @@ window.__BASEBALL_DATASETS__.troy2026 = {
           }
         ],
         "components": {
-          "On-base": 79.44444444444443,
+          "On-base": 91.1111111111111,
           "Power": 0,
           "Contact": 0,
           "Discipline": 100,

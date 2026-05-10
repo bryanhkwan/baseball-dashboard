@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.oklahoma2026 = {
-  "generatedAt": "2026-05-08T11:45:31.674Z",
+  "generatedAt": "2026-05-10T11:14:32.625Z",
   "season": 2026,
   "school": {
     "slug": "oklahoma",
@@ -28,9 +28,9 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
     "rosterPlayers": 37,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 17,
-    "playersWithPitchingStats": 17,
+    "playersWithPitchingStats": 19,
     "playersWithFieldingStats": 32,
-    "mergedPlayersWithAnyStats": 34,
+    "mergedPlayersWithAnyStats": 35,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
       "hitting": [],
@@ -39,23 +39,23 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
     }
   },
   "teamSummary": {
-    "record": "30-16, 12-12",
+    "record": "30-18, 12-14",
     "battingAverage": ".277",
-    "earnedRunAverage": "4.83",
+    "earnedRunAverage": "5.12",
     "wins": "30",
-    "losses": "16",
+    "losses": "18",
     "hitting": {
-      "atBats": "1457",
-      "runsScored": "301",
-      "hits": "403",
-      "runsBattedIn": "287",
-      "doubles": "84",
+      "atBats": "1522",
+      "runsScored": "311",
+      "hits": "422",
+      "runsBattedIn": "296",
+      "doubles": "87",
       "triples": "14",
-      "homeRuns": "48",
-      "walks": "233",
+      "homeRuns": "52",
+      "walks": "239",
       "intentionalWalks": "2",
-      "strikeouts": "398",
-      "strikeoutsLooking": "110",
+      "strikeouts": "413",
+      "strikeoutsLooking": "115",
       "hitByPitch": "39",
       "stolenBases": "102",
       "caughtStealing": "18",
@@ -64,59 +64,59 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "342",
-      "flyOuts": "325",
-      "groundedIntoDoublePlay": "23",
+      "groundOuts": "363",
+      "flyOuts": "335",
+      "groundedIntoDoublePlay": "24",
       "pickedOff": "5",
-      "doublePlaysHitInto": "30",
+      "doublePlaysHitInto": "31",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1174",
-      "assists": "386",
-      "errors": "35",
+      "putouts": "1217",
+      "assists": "395",
+      "errors": "37",
       "passedBalls": "4",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "27",
+      "stolenBasesAgainst": "32",
       "caughtStealingBy": "13",
       "involvedInDoublePlays": "38",
       "involvedInTriplePlays": "0",
-      "totalChances": "1595",
+      "totalChances": "1649",
       "fieldingPercentage": ".978"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "30",
       "saves": "11",
-      "losses": "16",
+      "losses": "18",
       "gamesStarted": "0",
       "gamesCompleted": "1",
       "shutouts": "6",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "391.1",
-      "hitsAllowed": "329",
-      "runsAllowed": "230",
-      "earnedRunsAllowed": "210",
-      "walksAllowed": "196",
-      "strikeouts": "459",
-      "battersFaced": "1715",
-      "opponentAtBats": "1439",
-      "doublesAllowed": "60",
+      "inningsPitched": "405.2",
+      "hitsAllowed": "351",
+      "runsAllowed": "254",
+      "earnedRunsAllowed": "231",
+      "walksAllowed": "210",
+      "strikeouts": "481",
+      "battersFaced": "1796",
+      "opponentAtBats": "1503",
+      "doublesAllowed": "64",
       "triplesAllowed": "5",
-      "homerunsAllowed": "58",
-      "wildPitches": "28",
+      "homerunsAllowed": "64",
+      "wildPitches": "29",
       "balks": "2",
-      "hitBatters": "60",
-      "strikeoutsLooking": "132",
+      "hitBatters": "62",
+      "strikeoutsLooking": "138",
       "intentionalWalks": "3",
       "inheritedRunners": "3",
       "inheritedRunnersThatScored": "2",
       "sacrificeHitsAllowed": "11",
-      "sacrificeFliesAllowed": "9",
+      "sacrificeFliesAllowed": "10",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6948",
-      "flyouts": "308",
-      "groundouts": "340",
+      "pitches": "7285",
+      "flyouts": "318",
+      "groundouts": "350",
       "teamUnearnedRuns": "0",
       "saveRecord": "10",
       "pickoff": "4"
@@ -161,33 +161,33 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "1",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/jason-walk/19856",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Jason_Walk_Headshot.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 41,
-        "battingAverage": 0.242,
-        "onBasePercentage": 0.359,
-        "sluggingPercentage": 0.326,
-        "ops": 0.685,
-        "atBats": 132,
-        "runs": 27,
-        "hits": 32,
-        "doubles": 5,
+        "gamesPlayed": 44,
+        "gamesStarted": 43,
+        "battingAverage": 0.245,
+        "onBasePercentage": 0.36,
+        "sluggingPercentage": 0.331,
+        "ops": 0.691,
+        "atBats": 139,
+        "runs": 28,
+        "hits": 34,
+        "doubles": 6,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 14,
-        "totalBases": 43,
-        "walks": 20,
+        "totalBases": 46,
+        "walks": 21,
         "hitByPitch": 4,
-        "strikeouts": 40,
+        "strikeouts": 43,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 0,
         "sacrificeHits": 3,
         "stolenBases": 13,
         "stolenBasesAttempts": 18,
-        "putouts": 63,
+        "putouts": 67,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 182,
+        "plateAppearances": 190,
         "caughtStealing": 5,
         "pickedOff": 0
       },
@@ -199,51 +199,51 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "1",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/jason-walk/19856",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Jason_Walk_Headshot.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
-        "putouts": 63,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "putouts": 67,
         "assists": 7,
         "errors": 3,
-        "fieldingPercentage": 0.959,
+        "fieldingPercentage": 0.961,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 73
+        "totalChances": 77
       },
       "evaluation": {
-        "score": 26,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 43.888888888888864,
-          "Power": 1.5789473684210544,
-          "Contact": 13.749999999999996,
-          "Discipline": 33.33333333333333,
+          "On-base": 44.44444444444443,
+          "Power": 2.8947368421052664,
+          "Contact": 15.624999999999996,
+          "Discipline": 32.04134366925064,
           "Speed": 43.333333333333336
         },
         "summary": "Jason Walk profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .242",
-          "OBP .359",
-          "SLG .326"
+          "AVG .245",
+          "OBP .360",
+          "SLG .331"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".242"
+            "value": ".245"
           },
           {
             "label": "OBP",
-            "value": ".359"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".326"
+            "value": ".331"
           },
           {
             "label": "HR",
@@ -710,7 +710,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
       "schoolLongName": "University of Oklahoma",
       "name": "Nolan Stevens",
       "normalizedName": "nolan stevens",
-      "compositeRole": "Pitcher",
+      "compositeRole": "Two-Way",
       "role": "Pitcher",
       "position": "OF/LHP",
       "positionLong": "Outfield/Left Handed Pitcher",
@@ -741,7 +741,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "5",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/nolan-stevens/19860",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Nolan_Stevens_Headshot.jpg",
-        "gamesPlayed": 28,
+        "gamesPlayed": 29,
         "gamesStarted": 25,
         "battingAverage": 0.239,
         "onBasePercentage": 0.357,
@@ -771,7 +771,40 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "caughtStealing": 0,
         "pickedOff": 0
       },
-      "pitchingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "19860",
+        "name": "Nolan Stevens",
+        "normalizedName": "nolan stevens",
+        "jersey": "5",
+        "profileUrl": "https://soonersports.com/sports/baseball/roster/nolan-stevens/19860",
+        "imageUrl": "https://soonersports.com/images/2025/9/9/Nolan_Stevens_Headshot.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "appearances": 1,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 0,
+        "whip": 0,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 0.6666666666666666,
+        "inningsPitchedDisplay": "0.2",
+        "hitsAllowed": 0,
+        "runsAllowed": 0,
+        "earnedRunsAllowed": 0,
+        "walksAllowed": 0,
+        "strikeouts": 2,
+        "doublesAllowed": 0,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 2,
+        "wildPitches": 0,
+        "hitBatters": 0,
+        "balks": 0,
+        "opponentsBattingAverage": 0,
+        "walksHits": 0
+      },
       "fieldingStats": {
         "rosterBioId": "19860",
         "name": "Nolan Stevens",
@@ -794,7 +827,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "totalChances": 25
       },
       "evaluation": {
-        "score": 0,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -802,28 +835,28 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
+          "Miss bats": 100,
+          "Command": 100,
           "Damage suppression": 0
         },
-        "summary": "Nolan Stevens looks like a OF/LHP option who throws enough strikes.",
+        "summary": "Nolan Stevens looks like a OF/LHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
+          "ERA 0.00",
+          "WHIP 0.00",
+          "K/9 27.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "--"
+            "value": "0.00"
           },
           {
             "label": "WHIP",
-            "value": "--"
+            "value": "0.00"
           },
           {
             "label": "K/9",
-            "value": "0.0"
+            "value": "27.0"
           },
           {
             "label": "BB/9",
@@ -835,7 +868,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           },
           {
             "label": "IP",
-            "value": "0.0"
+            "value": "0.7"
           }
         ],
         "metaLine": "JR / L/L",
@@ -843,7 +876,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           "OF/LHP",
           "JR",
           "L/L",
-          "Pitcher"
+          "Two-Way"
         ],
         "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats"
       }
@@ -886,33 +919,33 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "6",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/kyle-branch/19845",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Kyle_Branch_Headshot.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 41,
-        "battingAverage": 0.198,
-        "onBasePercentage": 0.305,
-        "sluggingPercentage": 0.256,
-        "ops": 0.561,
-        "atBats": 121,
-        "runs": 26,
-        "hits": 24,
+        "gamesPlayed": 47,
+        "gamesStarted": 43,
+        "battingAverage": 0.205,
+        "onBasePercentage": 0.311,
+        "sluggingPercentage": 0.283,
+        "ops": 0.594,
+        "atBats": 127,
+        "runs": 27,
+        "hits": 26,
         "doubles": 4,
         "triples": 0,
-        "homeRuns": 1,
-        "runsBattedIn": 13,
-        "totalBases": 31,
-        "walks": 17,
+        "homeRuns": 2,
+        "runsBattedIn": 15,
+        "totalBases": 36,
+        "walks": 18,
         "hitByPitch": 2,
-        "strikeouts": 19,
+        "strikeouts": 20,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
         "sacrificeHits": 4,
         "stolenBases": 3,
         "stolenBasesAttempts": 5,
-        "putouts": 58,
+        "putouts": 62,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 152,
+        "plateAppearances": 159,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -924,59 +957,59 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "6",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/kyle-branch/19845",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Kyle_Branch_Headshot.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 40,
-        "putouts": 58,
-        "assists": 110,
+        "gamesPlayed": 44,
+        "gamesStarted": 42,
+        "putouts": 62,
+        "assists": 113,
         "errors": 2,
-        "fieldingPercentage": 0.988,
+        "fieldingPercentage": 0.989,
         "doublePlays": 29,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 170
+        "totalChances": 177
       },
       "evaluation": {
-        "score": 16,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 13.88888888888887,
+          "On-base": 17.222222222222207,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 77.19298245614034,
+          "Discipline": 77.77777777777776,
           "Speed": 10
         },
         "summary": "Kyle Branch gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .198",
-          "OBP .305",
-          "SLG .256"
+          "AVG .205",
+          "OBP .311",
+          "SLG .283"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".198"
+            "value": ".205"
           },
           {
             "label": "OBP",
-            "value": ".305"
+            "value": ".311"
           },
           {
             "label": "SLG",
-            "value": ".256"
+            "value": ".283"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "2"
           },
           {
             "label": "RBI",
-            "value": "13"
+            "value": "15"
           },
           {
             "label": "SB",
@@ -1031,23 +1064,23 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "7",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/jaxon-willits/19857",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Jaxon_Willits_Headshot.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "battingAverage": 0.289,
-        "onBasePercentage": 0.396,
-        "sluggingPercentage": 0.493,
-        "ops": 0.889,
-        "atBats": 152,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "battingAverage": 0.281,
+        "onBasePercentage": 0.385,
+        "sluggingPercentage": 0.475,
+        "ops": 0.86,
+        "atBats": 160,
         "runs": 22,
-        "hits": 44,
+        "hits": 45,
         "doubles": 13,
         "triples": 3,
         "homeRuns": 4,
         "runsBattedIn": 39,
-        "totalBases": 75,
+        "totalBases": 76,
         "walks": 28,
         "hitByPitch": 2,
-        "strikeouts": 34,
+        "strikeouts": 35,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 5,
@@ -1056,8 +1089,8 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "stolenBasesAttempts": 5,
         "putouts": 68,
         "assists": 0,
-        "errors": 2,
-        "plateAppearances": 193,
+        "errors": 3,
+        "plateAppearances": 201,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1069,51 +1102,51 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "7",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/jaxon-willits/19857",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Jaxon_Willits_Headshot.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
         "putouts": 68,
-        "assists": 104,
-        "errors": 2,
-        "fieldingPercentage": 0.989,
+        "assists": 108,
+        "errors": 3,
+        "fieldingPercentage": 0.983,
         "doublePlays": 24,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 174
+        "totalChances": 179
       },
       "evaluation": {
-        "score": 51,
+        "score": 47,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 64.44444444444444,
-          "Power": 45.526315789473685,
-          "Contact": 43.124999999999986,
-          "Discipline": 69.28104575163397,
+          "On-base": 58.33333333333333,
+          "Power": 40.78947368421053,
+          "Contact": 38.125000000000014,
+          "Discipline": 66.66666666666666,
           "Speed": 13.333333333333334
         },
         "summary": "Jaxon Willits gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .289",
-          "OBP .396",
-          "SLG .493"
+          "AVG .281",
+          "OBP .385",
+          "SLG .475"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": ".281"
           },
           {
             "label": "OBP",
-            "value": ".396"
+            "value": ".385"
           },
           {
             "label": "SLG",
-            "value": ".493"
+            "value": ".475"
           },
           {
             "label": "HR",
@@ -1321,23 +1354,23 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "9",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/camden-johnson/19862",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Camden_Johnson_Headshot.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "battingAverage": 0.309,
-        "onBasePercentage": 0.4,
-        "sluggingPercentage": 0.533,
-        "ops": 0.933,
-        "atBats": 165,
-        "runs": 41,
-        "hits": 51,
-        "doubles": 10,
+        "gamesPlayed": 47,
+        "gamesStarted": 47,
+        "battingAverage": 0.316,
+        "onBasePercentage": 0.402,
+        "sluggingPercentage": 0.534,
+        "ops": 0.936,
+        "atBats": 174,
+        "runs": 43,
+        "hits": 55,
+        "doubles": 11,
         "triples": 3,
         "homeRuns": 7,
-        "runsBattedIn": 37,
-        "totalBases": 88,
+        "runsBattedIn": 38,
+        "totalBases": 93,
         "walks": 21,
         "hitByPitch": 6,
-        "strikeouts": 47,
+        "strikeouts": 48,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 3,
@@ -1346,8 +1379,8 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "stolenBasesAttempts": 27,
         "putouts": 25,
         "assists": 0,
-        "errors": 9,
-        "plateAppearances": 228,
+        "errors": 10,
+        "plateAppearances": 237,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -1359,51 +1392,51 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "9",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/camden-johnson/19862",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Camden_Johnson_Headshot.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
         "putouts": 25,
         "assists": 73,
-        "errors": 9,
-        "fieldingPercentage": 0.916,
+        "errors": 10,
+        "fieldingPercentage": 0.907,
         "doublePlays": 12,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 107
+        "totalChances": 108
       },
       "evaluation": {
-        "score": 58,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 66.66666666666666,
-          "Power": 56.052631578947384,
-          "Contact": 55.62499999999999,
-          "Discipline": 27.42316784869975,
+          "On-base": 67.77777777777779,
+          "Power": 56.31578947368422,
+          "Contact": 60,
+          "Discipline": 26.388888888888886,
           "Speed": 80
         },
         "summary": "Camden Johnson profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .309",
-          "OBP .400",
-          "SLG .533"
+          "AVG .316",
+          "OBP .402",
+          "SLG .534"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".309"
+            "value": ".316"
           },
           {
             "label": "OBP",
-            "value": ".400"
+            "value": ".402"
           },
           {
             "label": "SLG",
-            "value": ".533"
+            "value": ".534"
           },
           {
             "label": "HR",
@@ -1411,7 +1444,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           },
           {
             "label": "RBI",
-            "value": "37"
+            "value": "38"
           },
           {
             "label": "SB",
@@ -1466,13 +1499,13 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "10",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/brendan-brock/19863",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Brendan_Brock_Headshot.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "battingAverage": 0.284,
-        "onBasePercentage": 0.374,
-        "sluggingPercentage": 0.521,
-        "ops": 0.895,
-        "atBats": 169,
+        "gamesPlayed": 47,
+        "gamesStarted": 47,
+        "battingAverage": 0.27,
+        "onBasePercentage": 0.358,
+        "sluggingPercentage": 0.494,
+        "ops": 0.852,
+        "atBats": 178,
         "runs": 40,
         "hits": 48,
         "doubles": 9,
@@ -1482,17 +1515,17 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "totalBases": 88,
         "walks": 24,
         "hitByPitch": 1,
-        "strikeouts": 56,
+        "strikeouts": 58,
         "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 2,
+        "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 22,
         "stolenBasesAttempts": 24,
-        "putouts": 274,
+        "putouts": 285,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 221,
+        "plateAppearances": 230,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1504,51 +1537,51 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "10",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/brendan-brock/19863",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Brendan_Brock_Headshot.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "putouts": 274,
-        "assists": 13,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "putouts": 285,
+        "assists": 14,
         "errors": 3,
         "fieldingPercentage": 0.99,
         "doublePlays": 0,
-        "stolenBasesAgainst": 12,
+        "stolenBasesAgainst": 13,
         "caughtStealingBy": 6,
         "stolenBasesPercentage": null,
         "passedBalls": 3,
         "catchersInterference": 0,
-        "totalChances": 290
+        "totalChances": 302
       },
       "evaluation": {
-        "score": 49,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 52.222222222222214,
-          "Power": 52.894736842105274,
-          "Contact": 39.99999999999998,
-          "Discipline": 25.39682539682539,
+          "On-base": 43.333333333333314,
+          "Power": 45.78947368421053,
+          "Contact": 31.25000000000001,
+          "Discipline": 23.754789272030646,
           "Speed": 73.33333333333333
         },
         "summary": "Brendan Brock profiles as a C/OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .284",
-          "OBP .374",
-          "SLG .521"
+          "AVG .270",
+          "OBP .358",
+          "SLG .494"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".284"
+            "value": ".270"
           },
           {
             "label": "OBP",
-            "value": ".374"
+            "value": ".358"
           },
           {
             "label": "SLG",
-            "value": ".521"
+            "value": ".494"
           },
           {
             "label": "HR",
@@ -1737,31 +1770,31 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "12",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/kadyn-leon/19865",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Kadyn_Leon_Headshot.jpg",
-        "gamesPlayed": 20,
+        "gamesPlayed": 21,
         "gamesStarted": 2,
-        "appearances": 20,
+        "appearances": 21,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.91,
-        "whip": 1.18,
+        "earnedRunAverage": 3.76,
+        "whip": 1.25,
         "wins": 1,
         "losses": 0,
         "saves": 2,
         "shutouts": 0,
-        "inningsPitched": 25.333333333333332,
-        "inningsPitchedDisplay": "25.1",
+        "inningsPitched": 26.333333333333332,
+        "inningsPitchedDisplay": "26.1",
         "hitsAllowed": 15,
         "runsAllowed": 11,
         "earnedRunsAllowed": 11,
-        "walksAllowed": 15,
-        "strikeouts": 26,
+        "walksAllowed": 18,
+        "strikeouts": 28,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 86,
+        "opponentsAtBats": 89,
         "wildPitches": 4,
         "hitBatters": 6,
         "balks": 0,
-        "opponentsBattingAverage": 0.174,
+        "opponentsBattingAverage": 0.169,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1771,14 +1804,14 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "12",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/kadyn-leon/19865",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Kadyn_Leon_Headshot.jpg",
-        "gamesPlayed": 3,
+        "gamesPlayed": 4,
         "gamesStarted": 0,
         "putouts": 2,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 0,
+        "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
@@ -1794,40 +1827,40 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 47.60765550239234,
-          "Command": 14.666666666666664,
+          "Miss bats": 50.63291139240508,
+          "Command": 11.111111111111116,
           "Damage suppression": 0
         },
         "summary": "Kadyn Leon looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.91",
-          "WHIP 1.18",
-          "K/9 9.2"
+          "ERA 3.76",
+          "WHIP 1.25",
+          "K/9 9.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.91"
+            "value": "3.76"
           },
           {
             "label": "WHIP",
-            "value": "1.18"
+            "value": "1.25"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "9.6"
           },
           {
             "label": "BB/9",
-            "value": "5.3"
+            "value": "6.2"
           },
           {
             "label": "HR/9",
-            "value": "0.36"
+            "value": "0.34"
           },
           {
             "label": "IP",
-            "value": "25.3"
+            "value": "26.3"
           }
         ],
         "metaLine": "SO / R/R",
@@ -1878,20 +1911,20 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "13",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/connor-larkin/19876",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Connor_Larkin_Headshot.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 6,
-        "battingAverage": 0.32,
+        "gamesPlayed": 18,
+        "gamesStarted": 7,
+        "battingAverage": 0.333,
         "onBasePercentage": 0.5,
-        "sluggingPercentage": 0.4,
-        "ops": 0.9,
-        "atBats": 25,
-        "runs": 12,
-        "hits": 8,
+        "sluggingPercentage": 0.407,
+        "ops": 0.907,
+        "atBats": 27,
+        "runs": 13,
+        "hits": 9,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 1,
-        "totalBases": 10,
+        "totalBases": 11,
         "walks": 9,
         "hitByPitch": 0,
         "strikeouts": 7,
@@ -1901,10 +1934,10 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 63,
+        "putouts": 67,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 34,
+        "plateAppearances": 36,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1916,43 +1949,43 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "13",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/connor-larkin/19876",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Connor_Larkin_Headshot.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 6,
-        "putouts": 63,
+        "gamesPlayed": 14,
+        "gamesStarted": 7,
+        "putouts": 67,
         "assists": 4,
         "errors": 1,
-        "fieldingPercentage": 0.985,
+        "fieldingPercentage": 0.986,
         "doublePlays": 2,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 68
+        "totalChances": 72
       },
       "evaluation": {
-        "score": 63,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
           "On-base": 100,
-          "Power": 21.052631578947377,
-          "Contact": 62.5,
+          "Power": 22.894736842105257,
+          "Contact": 70.625,
           "Discipline": 100,
           "Speed": 0
         },
         "summary": "Connor Larkin profiles as a UTL piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .320",
+          "AVG .333",
           "OBP .500",
-          "SLG .400"
+          "SLG .407"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".320"
+            "value": ".333"
           },
           {
             "label": "OBP",
@@ -1960,7 +1993,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           },
           {
             "label": "SLG",
-            "value": ".400"
+            "value": ".407"
           },
           {
             "label": "HR",
@@ -2023,13 +2056,13 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "16",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/dayton-tockey/19855",
         "imageUrl": "https://soonersports.com/images/2025/10/3/20250929_BB_Portait_Headshot_RK_OUG01938.JPG",
-        "gamesPlayed": 27,
+        "gamesPlayed": 28,
         "gamesStarted": 19,
-        "battingAverage": 0.189,
-        "onBasePercentage": 0.318,
-        "sluggingPercentage": 0.358,
-        "ops": 0.676,
-        "atBats": 53,
+        "battingAverage": 0.185,
+        "onBasePercentage": 0.313,
+        "sluggingPercentage": 0.352,
+        "ops": 0.665,
+        "atBats": 54,
         "runs": 8,
         "hits": 10,
         "doubles": 3,
@@ -2046,10 +2079,10 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "sacrificeHits": 0,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 97,
+        "putouts": 99,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 68,
+        "plateAppearances": 69,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -2061,9 +2094,9 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "16",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/dayton-tockey/19855",
         "imageUrl": "https://soonersports.com/images/2025/10/3/20250929_BB_Portait_Headshot_RK_OUG01938.JPG",
-        "gamesPlayed": 22,
+        "gamesPlayed": 23,
         "gamesStarted": 19,
-        "putouts": 97,
+        "putouts": 99,
         "assists": 3,
         "errors": 3,
         "fieldingPercentage": 0.971,
@@ -2073,39 +2106,39 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 103
+        "totalChances": 105
       },
       "evaluation": {
-        "score": 15,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 21.1111111111111,
-          "Power": 9.999999999999995,
+          "On-base": 18.333333333333318,
+          "Power": 8.421052631578942,
           "Contact": 0,
           "Discipline": 33.33333333333333,
           "Speed": 6.666666666666667
         },
         "summary": "Dayton Tockey gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .189",
-          "OBP .318",
-          "SLG .358"
+          "AVG .185",
+          "OBP .313",
+          "SLG .352"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".189"
+            "value": ".185"
           },
           {
             "label": "OBP",
-            "value": ".318"
+            "value": ".313"
           },
           {
             "label": "SLG",
-            "value": ".358"
+            "value": ".352"
           },
           {
             "label": "HR",
@@ -2168,20 +2201,20 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "17",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/dasan-harris/19849",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Dasan_Harris_Headshot.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 17,
-        "battingAverage": 0.311,
-        "onBasePercentage": 0.386,
-        "sluggingPercentage": 0.446,
-        "ops": 0.832,
-        "atBats": 74,
-        "runs": 19,
-        "hits": 23,
+        "gamesPlayed": 43,
+        "gamesStarted": 19,
+        "battingAverage": 0.346,
+        "onBasePercentage": 0.411,
+        "sluggingPercentage": 0.543,
+        "ops": 0.954,
+        "atBats": 81,
+        "runs": 22,
+        "hits": 28,
         "doubles": 3,
         "triples": 2,
-        "homeRuns": 1,
-        "runsBattedIn": 8,
-        "totalBases": 33,
+        "homeRuns": 3,
+        "runsBattedIn": 11,
+        "totalBases": 44,
         "walks": 11,
         "hitByPitch": 0,
         "strikeouts": 14,
@@ -2191,10 +2224,10 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "sacrificeHits": 0,
         "stolenBases": 12,
         "stolenBasesAttempts": 13,
-        "putouts": 41,
+        "putouts": 44,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 102,
+        "plateAppearances": 109,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2206,9 +2239,9 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "17",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/dasan-harris/19849",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Dasan_Harris_Headshot.jpg",
-        "gamesPlayed": 19,
-        "gamesStarted": 14,
-        "putouts": 41,
+        "gamesPlayed": 21,
+        "gamesStarted": 16,
+        "putouts": 44,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -2218,47 +2251,47 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 42
+        "totalChances": 45
       },
       "evaluation": {
-        "score": 51,
+        "score": 66,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 58.88888888888888,
-          "Power": 33.15789473684211,
-          "Contact": 56.875,
+          "On-base": 72.77777777777776,
+          "Power": 58.68421052631581,
+          "Contact": 78.74999999999999,
           "Discipline": 65.07936507936506,
           "Speed": 40
         },
-        "summary": "Dasan Harris profiles as a OF piece who adds running-game pressure.",
+        "summary": "Dasan Harris profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .311",
-          "OBP .386",
-          "SLG .446"
+          "AVG .346",
+          "OBP .411",
+          "SLG .543"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".311"
+            "value": ".346"
           },
           {
             "label": "OBP",
-            "value": ".386"
+            "value": ".411"
           },
           {
             "label": "SLG",
-            "value": ".446"
+            "value": ".543"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "3"
           },
           {
             "label": "RBI",
-            "value": "8"
+            "value": "11"
           },
           {
             "label": "SB",
@@ -2543,13 +2576,13 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "20",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/trey-gambill/19848",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Trey-Gambill_Headshot.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "battingAverage": 0.308,
-        "onBasePercentage": 0.478,
-        "sluggingPercentage": 0.519,
-        "ops": 0.997,
-        "atBats": 133,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "battingAverage": 0.295,
+        "onBasePercentage": 0.468,
+        "sluggingPercentage": 0.496,
+        "ops": 0.964,
+        "atBats": 139,
         "runs": 33,
         "hits": 41,
         "doubles": 10,
@@ -2557,19 +2590,19 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "homeRuns": 6,
         "runsBattedIn": 26,
         "totalBases": 69,
-        "walks": 34,
+        "walks": 36,
         "hitByPitch": 11,
-        "strikeouts": 30,
+        "strikeouts": 32,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
         "sacrificeHits": 1,
         "stolenBases": 16,
         "stolenBasesAttempts": 19,
-        "putouts": 44,
+        "putouts": 45,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 203,
+        "plateAppearances": 211,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -2581,9 +2614,9 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "20",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/trey-gambill/19848",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Trey-Gambill_Headshot.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 28,
-        "putouts": 44,
+        "gamesPlayed": 29,
+        "gamesStarted": 29,
+        "putouts": 45,
         "assists": 0,
         "errors": 2,
         "fieldingPercentage": 0.957,
@@ -2593,39 +2626,39 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 46
+        "totalChances": 47
       },
       "evaluation": {
-        "score": 75,
+        "score": 72,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
           "On-base": 100,
-          "Power": 52.36842105263159,
-          "Contact": 54.99999999999999,
+          "Power": 46.31578947368421,
+          "Contact": 46.874999999999986,
           "Discipline": 100,
           "Speed": 53.333333333333336
         },
         "summary": "Trey Gambill profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .308",
-          "OBP .478",
-          "SLG .519"
+          "AVG .295",
+          "OBP .468",
+          "SLG .496"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".308"
+            "value": ".295"
           },
           {
             "label": "OBP",
-            "value": ".478"
+            "value": ".468"
           },
           {
             "label": "SLG",
-            "value": ".519"
+            "value": ".496"
           },
           {
             "label": "HR",
@@ -2688,14 +2721,14 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "21",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/drew-dickerson/19847",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Drew_Dickerson_Headshot.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 18,
-        "battingAverage": 0.31,
-        "onBasePercentage": 0.412,
-        "sluggingPercentage": 0.507,
-        "ops": 0.919,
-        "atBats": 71,
-        "runs": 14,
+        "gamesPlayed": 29,
+        "gamesStarted": 19,
+        "battingAverage": 0.293,
+        "onBasePercentage": 0.393,
+        "sluggingPercentage": 0.48,
+        "ops": 0.873,
+        "atBats": 75,
+        "runs": 15,
         "hits": 22,
         "doubles": 4,
         "triples": 2,
@@ -2704,7 +2737,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "totalBases": 36,
         "walks": 9,
         "hitByPitch": 4,
-        "strikeouts": 31,
+        "strikeouts": 34,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
@@ -2714,7 +2747,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "putouts": 3,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 89,
+        "plateAppearances": 93,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2741,36 +2774,36 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "totalChances": 3
       },
       "evaluation": {
-        "score": 48,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 73.3333333333333,
-          "Power": 49.21052631578948,
-          "Contact": 56.25,
-          "Discipline": 10.035842293906809,
+          "On-base": 62.77777777777778,
+          "Power": 42.10526315789473,
+          "Contact": 45.624999999999986,
+          "Discipline": 7.189542483660129,
           "Speed": 3.3333333333333335
         },
-        "summary": "Drew Dickerson profiles as a OF piece who gets on base at a high clip.",
+        "summary": "Drew Dickerson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .310",
-          "OBP .412",
-          "SLG .507"
+          "AVG .293",
+          "OBP .393",
+          "SLG .480"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".310"
+            "value": ".293"
           },
           {
             "label": "OBP",
-            "value": ".412"
+            "value": ".393"
           },
           {
             "label": "SLG",
-            "value": ".507"
+            "value": ".480"
           },
           {
             "label": "HR",
@@ -2834,31 +2867,31 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "22",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/lj-mercurius/19868",
         "imageUrl": "https://soonersports.com/images/2025/9/9/LJ_Mercurius_Headshot.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 11,
-        "appearances": 12,
+        "gamesPlayed": 13,
+        "gamesStarted": 12,
+        "appearances": 13,
         "gamesCompleted": 1,
-        "earnedRunAverage": 4.95,
-        "whip": 1.22,
+        "earnedRunAverage": 5.62,
+        "whip": 1.32,
         "wins": 6,
-        "losses": 5,
+        "losses": 6,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 56.333333333333336,
-        "inningsPitchedDisplay": "56.1",
-        "hitsAllowed": 51,
-        "runsAllowed": 35,
-        "earnedRunsAllowed": 31,
-        "walksAllowed": 18,
-        "strikeouts": 75,
-        "doublesAllowed": 12,
+        "inningsPitched": 57.666666666666664,
+        "inningsPitchedDisplay": "57.2",
+        "hitsAllowed": 57,
+        "runsAllowed": 40,
+        "earnedRunsAllowed": 36,
+        "walksAllowed": 19,
+        "strikeouts": 77,
+        "doublesAllowed": 13,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 11,
-        "opponentsAtBats": 215,
+        "homeRunsAllowed": 12,
+        "opponentsAtBats": 224,
         "wildPitches": 2,
         "hitBatters": 8,
         "balks": 0,
-        "opponentsBattingAverage": 0.237,
+        "opponentsBattingAverage": 0.254,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2868,14 +2901,14 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "22",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/lj-mercurius/19868",
         "imageUrl": "https://soonersports.com/images/2025/9/9/LJ_Mercurius_Headshot.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 6,
+        "gamesPlayed": 7,
+        "gamesStarted": 7,
         "putouts": 1,
         "assists": 2,
         "errors": 1,
         "fieldingPercentage": 0.75,
         "doublePlays": 0,
-        "stolenBasesAgainst": 3,
+        "stolenBasesAgainst": 4,
         "caughtStealingBy": 3,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
@@ -2883,7 +2916,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "totalChances": 4
       },
       "evaluation": {
-        "score": 25,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2891,24 +2924,24 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 72.56589564281872,
-          "Command": 63.33333333333332,
+          "Miss bats": 72.88491854965844,
+          "Command": 61.052631578947356,
           "Damage suppression": 0
         },
-        "summary": "LJ Mercurius looks like a RHP option who misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "LJ Mercurius looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.95",
-          "WHIP 1.22",
+          "ERA 5.62",
+          "WHIP 1.32",
           "K/9 12.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.95"
+            "value": "5.62"
           },
           {
             "label": "WHIP",
-            "value": "1.22"
+            "value": "1.32"
           },
           {
             "label": "K/9",
@@ -2916,15 +2949,15 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "1.76"
+            "value": "1.87"
           },
           {
             "label": "IP",
-            "value": "56.3"
+            "value": "57.7"
           }
         ],
         "metaLine": "JR / R/R",
@@ -2976,31 +3009,31 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "23",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/xander-mercurius/19878",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Xander_Mercurius_Headshot.jpg",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 0,
-        "appearances": 14,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.74,
-        "whip": 1.31,
+        "earnedRunAverage": 5.65,
+        "whip": 1.36,
         "wins": 0,
         "losses": 0,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 26.666666666666668,
-        "inningsPitchedDisplay": "26.2",
-        "hitsAllowed": 25,
-        "runsAllowed": 18,
-        "earnedRunsAllowed": 17,
-        "walksAllowed": 10,
-        "strikeouts": 25,
-        "doublesAllowed": 4,
+        "inningsPitched": 28.666666666666668,
+        "inningsPitchedDisplay": "28.2",
+        "hitsAllowed": 26,
+        "runsAllowed": 19,
+        "earnedRunsAllowed": 18,
+        "walksAllowed": 13,
+        "strikeouts": 27,
+        "doublesAllowed": 5,
         "triplesAllowed": 0,
         "homeRunsAllowed": 6,
-        "opponentsAtBats": 101,
+        "opponentsAtBats": 108,
         "wildPitches": 0,
         "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.248,
+        "opponentsBattingAverage": 0.241,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3025,7 +3058,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "totalChances": 4
       },
       "evaluation": {
-        "score": 13,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3033,40 +3066,40 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 40.340909090909086,
-          "Command": 30,
+          "Miss bats": 40.69767441860465,
+          "Command": 21.538461538461533,
           "Damage suppression": 0
         },
         "summary": "Xander Mercurius gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.74",
-          "WHIP 1.31",
-          "K/9 8.4"
+          "ERA 5.65",
+          "WHIP 1.36",
+          "K/9 8.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.74"
+            "value": "5.65"
           },
           {
             "label": "WHIP",
-            "value": "1.31"
+            "value": "1.36"
           },
           {
             "label": "K/9",
-            "value": "8.4"
+            "value": "8.5"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "4.1"
           },
           {
             "label": "HR/9",
-            "value": "2.02"
+            "value": "1.88"
           },
           {
             "label": "IP",
-            "value": "26.7"
+            "value": "28.7"
           }
         ],
         "metaLine": "FR / R/R",
@@ -3402,31 +3435,31 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "29",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/jaden-barfield/19843",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Jaden_Barfield_Headshot.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 1,
-        "appearances": 11,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 10.29,
-        "whip": 2.14,
+        "earnedRunAverage": 10.57,
+        "whip": 2.22,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 7,
-        "inningsPitchedDisplay": "7.0",
-        "hitsAllowed": 9,
-        "runsAllowed": 8,
-        "earnedRunsAllowed": 8,
+        "inningsPitched": 7.666666666666667,
+        "inningsPitchedDisplay": "7.2",
+        "hitsAllowed": 11,
+        "runsAllowed": 9,
+        "earnedRunsAllowed": 9,
         "walksAllowed": 6,
-        "strikeouts": 6,
-        "doublesAllowed": 4,
+        "strikeouts": 7,
+        "doublesAllowed": 5,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 29,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 33,
         "wildPitches": 1,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.31,
+        "opponentsBattingAverage": 0.333,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3451,7 +3484,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "totalChances": 3
       },
       "evaluation": {
-        "score": 7,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3459,40 +3492,40 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 33.76623376623377,
-          "Command": 0,
+          "Miss bats": 38.3399209486166,
+          "Command": 3.333333333333335,
           "Damage suppression": 0
         },
         "summary": "Jaden Barfield gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 10.29",
-          "WHIP 2.14",
-          "K/9 7.7"
+          "ERA 10.57",
+          "WHIP 2.22",
+          "K/9 8.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "10.29"
+            "value": "10.57"
           },
           {
             "label": "WHIP",
-            "value": "2.14"
+            "value": "2.22"
           },
           {
             "label": "K/9",
-            "value": "7.7"
+            "value": "8.2"
           },
           {
             "label": "BB/9",
-            "value": "7.7"
+            "value": "7.0"
           },
           {
             "label": "HR/9",
-            "value": "2.57"
+            "value": "3.52"
           },
           {
             "label": "IP",
-            "value": "7.0"
+            "value": "7.7"
           }
         ],
         "metaLine": "SO / L/L",
@@ -3686,31 +3719,31 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "31",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/cameron-johnson/19851",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Cameron_Johnson_Headshot.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 12,
-        "appearances": 12,
+        "gamesPlayed": 13,
+        "gamesStarted": 13,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.96,
-        "whip": 1.38,
+        "earnedRunAverage": 3.53,
+        "whip": 1.41,
         "wins": 6,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 48.666666666666664,
-        "inningsPitchedDisplay": "48.2",
-        "hitsAllowed": 33,
-        "runsAllowed": 22,
-        "earnedRunsAllowed": 16,
-        "walksAllowed": 34,
-        "strikeouts": 64,
+        "inningsPitched": 51,
+        "inningsPitchedDisplay": "51.0",
+        "hitsAllowed": 35,
+        "runsAllowed": 26,
+        "earnedRunsAllowed": 20,
+        "walksAllowed": 37,
+        "strikeouts": 67,
         "doublesAllowed": 4,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 174,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 183,
         "wildPitches": 3,
-        "hitBatters": 7,
+        "hitBatters": 9,
         "balks": 0,
-        "opponentsBattingAverage": 0.19,
+        "opponentsBattingAverage": 0.191,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3720,19 +3753,19 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "31",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/cameron-johnson/19851",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Cameron_Johnson_Headshot.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 11,
+        "gamesPlayed": 12,
+        "gamesStarted": 12,
         "putouts": 1,
-        "assists": 8,
+        "assists": 9,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 1,
-        "stolenBasesAgainst": 7,
+        "stolenBasesAgainst": 8,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 9
+        "totalChances": 10
       },
       "evaluation": {
         "score": 17,
@@ -3743,24 +3776,24 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 71.23287671232877,
-          "Command": 17.64705882352941,
+          "Miss bats": 71.12299465240642,
+          "Command": 16.21621621621622,
           "Damage suppression": 0
         },
         "summary": "Cameron Johnson looks like a LHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 2.96",
-          "WHIP 1.38",
+          "ERA 3.53",
+          "WHIP 1.41",
           "K/9 11.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.96"
+            "value": "3.53"
           },
           {
             "label": "WHIP",
-            "value": "1.38"
+            "value": "1.41"
           },
           {
             "label": "K/9",
@@ -3768,15 +3801,15 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           },
           {
             "label": "BB/9",
-            "value": "6.3"
+            "value": "6.5"
           },
           {
             "label": "HR/9",
-            "value": "0.18"
+            "value": "0.53"
           },
           {
             "label": "IP",
-            "value": "48.7"
+            "value": "51.0"
           }
         ],
         "metaLine": "JR / L/L",
@@ -3817,10 +3850,44 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
       "espnThrows": "",
       "rosterBioId": "19880",
       "sources": [
-        "Oklahoma Athletics roster"
+        "Oklahoma Athletics roster",
+        "Oklahoma cumulative stats"
       ],
       "hittingStats": null,
-      "pitchingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "19880",
+        "name": "Brisco Smith",
+        "normalizedName": "brisco smith",
+        "jersey": "32",
+        "profileUrl": "https://soonersports.com/sports/baseball/roster/brisco-smith/19880",
+        "imageUrl": "https://soonersports.com/images/2025/9/9/Brisco_Smith_Headshot.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "appearances": 1,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 27,
+        "whip": 3,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 0.3333333333333333,
+        "inningsPitchedDisplay": "0.1",
+        "hitsAllowed": 1,
+        "runsAllowed": 1,
+        "earnedRunsAllowed": 1,
+        "walksAllowed": 0,
+        "strikeouts": 0,
+        "doublesAllowed": 0,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 2,
+        "wildPitches": 0,
+        "hitBatters": 0,
+        "balks": 0,
+        "opponentsBattingAverage": 0.5,
+        "walksHits": 0
+      },
       "fieldingStats": null,
       "evaluation": {
         "score": 0,
@@ -3837,18 +3904,18 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         },
         "summary": "Brisco Smith looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
+          "ERA 27.00",
+          "WHIP 3.00",
           "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "--"
+            "value": "27.00"
           },
           {
             "label": "WHIP",
-            "value": "--"
+            "value": "3.00"
           },
           {
             "label": "K/9",
@@ -3860,11 +3927,11 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "27.00"
           },
           {
             "label": "IP",
-            "value": "0.0"
+            "value": "0.3"
           }
         ],
         "metaLine": "FR / S/R",
@@ -3874,7 +3941,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           "S/R",
           "Pitcher"
         ],
-        "sourceSummary": "Oklahoma Athletics roster"
+        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats"
       }
     },
     {
@@ -3916,31 +3983,31 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "33",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/isaac-williams/19871",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Isaac_Williams_Headshot.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 0,
-        "appearances": 10,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.97,
-        "whip": 1.74,
+        "earnedRunAverage": 6.35,
+        "whip": 1.59,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 10.333333333333334,
-        "inningsPitchedDisplay": "10.1",
+        "inningsPitched": 11.333333333333334,
+        "inningsPitchedDisplay": "11.1",
         "hitsAllowed": 12,
         "runsAllowed": 8,
         "earnedRunsAllowed": 8,
         "walksAllowed": 6,
-        "strikeouts": 13,
+        "strikeouts": 15,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 41,
+        "opponentsAtBats": 43,
         "wildPitches": 1,
         "hitBatters": 0,
         "balks": 0,
-        "opponentsBattingAverage": 0.293,
+        "opponentsBattingAverage": 0.279,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3965,7 +4032,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "totalChances": 1
       },
       "evaluation": {
-        "score": 17,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3973,40 +4040,40 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 66.56891495601172,
-          "Command": 23.333333333333332,
+          "Miss bats": 71.92513368983956,
+          "Command": 29.999999999999993,
           "Damage suppression": 0
         },
         "summary": "Isaac Williams looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.97",
-          "WHIP 1.74",
-          "K/9 11.3"
+          "ERA 6.35",
+          "WHIP 1.59",
+          "K/9 11.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.97"
+            "value": "6.35"
           },
           {
             "label": "WHIP",
-            "value": "1.74"
+            "value": "1.59"
           },
           {
             "label": "K/9",
-            "value": "11.3"
+            "value": "11.9"
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "4.8"
           },
           {
             "label": "HR/9",
-            "value": "3.48"
+            "value": "3.18"
           },
           {
             "label": "IP",
-            "value": "10.3"
+            "value": "11.3"
           }
         ],
         "metaLine": "JR / R/R",
@@ -4058,31 +4125,31 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "35",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/jason-bodin/19844",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Jason_Bodin_Headshot.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 0,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.15,
-        "whip": 1.15,
+        "earnedRunAverage": 4.05,
+        "whip": 1.2,
         "wins": 4,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 26,
-        "inningsPitchedDisplay": "26.0",
-        "hitsAllowed": 13,
-        "runsAllowed": 12,
+        "inningsPitched": 26.666666666666668,
+        "inningsPitchedDisplay": "26.2",
+        "hitsAllowed": 15,
+        "runsAllowed": 13,
         "earnedRunsAllowed": 12,
         "walksAllowed": 17,
         "strikeouts": 30,
         "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 87,
-        "wildPitches": 1,
+        "opponentsAtBats": 91,
+        "wildPitches": 2,
         "hitBatters": 7,
         "balks": 1,
-        "opponentsBattingAverage": 0.149,
+        "opponentsBattingAverage": 0.165,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4092,14 +4159,14 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "35",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/jason-bodin/19844",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Jason_Bodin_Headshot.jpg",
-        "gamesPlayed": 5,
+        "gamesPlayed": 6,
         "gamesStarted": 0,
         "putouts": 0,
         "assists": 3,
         "errors": 3,
         "fieldingPercentage": 0.5,
         "doublePlays": 0,
-        "stolenBasesAgainst": 2,
+        "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
@@ -4115,40 +4182,40 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 58.04195804195804,
+          "Miss bats": 55.68181818181818,
           "Command": 15.294117647058822,
           "Damage suppression": 0
         },
         "summary": "Jason Bodin looks like a RHP option who misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.15",
-          "WHIP 1.15",
-          "K/9 10.4"
+          "ERA 4.05",
+          "WHIP 1.20",
+          "K/9 10.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.15"
+            "value": "4.05"
           },
           {
             "label": "WHIP",
-            "value": "1.15"
+            "value": "1.20"
           },
           {
             "label": "K/9",
-            "value": "10.4"
+            "value": "10.1"
           },
           {
             "label": "BB/9",
-            "value": "5.9"
+            "value": "5.7"
           },
           {
             "label": "HR/9",
-            "value": "0.35"
+            "value": "0.34"
           },
           {
             "label": "IP",
-            "value": "26.0"
+            "value": "26.7"
           }
         ],
         "metaLine": "JR / L/R",
@@ -4200,36 +4267,36 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "37",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/nick-wesloski/19881",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Nick_Wesloski_Headshot.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 0,
-        "appearances": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.14,
-        "whip": 0.84,
+        "earnedRunAverage": 3.12,
+        "whip": 0.75,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 14.333333333333334,
-        "inningsPitchedDisplay": "14.1",
+        "inningsPitched": 17.333333333333332,
+        "inningsPitchedDisplay": "17.1",
         "hitsAllowed": 9,
-        "runsAllowed": 6,
-        "earnedRunsAllowed": 5,
-        "walksAllowed": 3,
-        "strikeouts": 14,
+        "runsAllowed": 7,
+        "earnedRunsAllowed": 6,
+        "walksAllowed": 4,
+        "strikeouts": 19,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 51,
+        "opponentsAtBats": 60,
         "wildPitches": 0,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.176,
+        "opponentsBattingAverage": 0.15,
         "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
-        "score": 20,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4237,40 +4304,40 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.551797040169134,
-          "Command": 73.33333333333331,
+          "Miss bats": 53.321678321678334,
+          "Command": 75,
           "Damage suppression": 0
         },
-        "summary": "Nick Wesloski looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
+        "summary": "Nick Wesloski looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.14",
-          "WHIP 0.84",
-          "K/9 8.8"
+          "ERA 3.12",
+          "WHIP 0.75",
+          "K/9 9.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.14"
+            "value": "3.12"
           },
           {
             "label": "WHIP",
-            "value": "0.84"
+            "value": "0.75"
           },
           {
             "label": "K/9",
-            "value": "8.8"
+            "value": "9.9"
           },
           {
             "label": "BB/9",
-            "value": "1.9"
+            "value": "2.1"
           },
           {
             "label": "HR/9",
-            "value": "1.88"
+            "value": "1.56"
           },
           {
             "label": "IP",
-            "value": "14.3"
+            "value": "17.3"
           }
         ],
         "metaLine": "FR / R/R",
@@ -4552,31 +4619,31 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "42",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/reid-hensley/19850",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Reid_Hensley_Headshot.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 0,
-        "appearances": 9,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 1.69,
-        "whip": 1.78,
+        "earnedRunAverage": 5.06,
+        "whip": 2.25,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
         "inningsPitched": 10.666666666666666,
         "inningsPitchedDisplay": "10.2",
-        "hitsAllowed": 9,
-        "runsAllowed": 2,
-        "earnedRunsAllowed": 2,
-        "walksAllowed": 10,
+        "hitsAllowed": 13,
+        "runsAllowed": 6,
+        "earnedRunsAllowed": 6,
+        "walksAllowed": 11,
         "strikeouts": 11,
         "doublesAllowed": 2,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 38,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 42,
         "wildPitches": 1,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.237,
+        "opponentsBattingAverage": 0.31,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4610,23 +4677,23 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 48.01136363636363,
-          "Command": 2.0000000000000018,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Reid Hensley looks like a RHP option who limits runs and misses bats.",
+        "summary": "Reid Hensley looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 1.69",
-          "WHIP 1.78",
+          "ERA 5.06",
+          "WHIP 2.25",
           "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.69"
+            "value": "5.06"
           },
           {
             "label": "WHIP",
-            "value": "1.78"
+            "value": "2.25"
           },
           {
             "label": "K/9",
@@ -4634,11 +4701,11 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           },
           {
             "label": "BB/9",
-            "value": "8.4"
+            "value": "9.3"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "0.84"
           },
           {
             "label": "IP",
@@ -4693,33 +4760,33 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "48",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/deiten-lachance/19874",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Deiten_LaChance_Headshot.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 44,
-        "battingAverage": 0.3,
-        "onBasePercentage": 0.387,
-        "sluggingPercentage": 0.494,
-        "ops": 0.881,
-        "atBats": 160,
-        "runs": 28,
-        "hits": 48,
-        "doubles": 11,
+        "gamesPlayed": 47,
+        "gamesStarted": 46,
+        "battingAverage": 0.313,
+        "onBasePercentage": 0.402,
+        "sluggingPercentage": 0.524,
+        "ops": 0.926,
+        "atBats": 166,
+        "runs": 29,
+        "hits": 52,
+        "doubles": 12,
         "triples": 1,
-        "homeRuns": 6,
-        "runsBattedIn": 40,
-        "totalBases": 79,
-        "walks": 24,
+        "homeRuns": 7,
+        "runsBattedIn": 43,
+        "totalBases": 87,
+        "walks": 26,
         "hitByPitch": 2,
-        "strikeouts": 34,
+        "strikeouts": 36,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 5,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 369,
+        "putouts": 383,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 191,
+        "plateAppearances": 199,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4731,59 +4798,59 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "48",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/deiten-lachance/19874",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Deiten_LaChance_Headshot.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "putouts": 369,
+        "gamesPlayed": 44,
+        "gamesStarted": 44,
+        "putouts": 383,
         "assists": 20,
         "errors": 3,
-        "fieldingPercentage": 0.992,
+        "fieldingPercentage": 0.993,
         "doublePlays": 18,
-        "stolenBasesAgainst": 15,
+        "stolenBasesAgainst": 19,
         "caughtStealingBy": 4,
         "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
-        "totalChances": 392
+        "totalChances": 406
       },
       "evaluation": {
-        "score": 48,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 59.444444444444436,
-          "Power": 45.78947368421053,
-          "Contact": 49.999999999999986,
-          "Discipline": 56.20915032679738,
+          "On-base": 67.77777777777779,
+          "Power": 53.6842105263158,
+          "Contact": 58.12499999999999,
+          "Discipline": 58.02469135802467,
           "Speed": 0
         },
-        "summary": "Deiten Lachance gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Deiten Lachance profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .387",
-          "SLG .494"
+          "AVG .313",
+          "OBP .402",
+          "SLG .524"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": ".313"
           },
           {
             "label": "OBP",
-            "value": ".387"
+            "value": ".402"
           },
           {
             "label": "SLG",
-            "value": ".494"
+            "value": ".524"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "7"
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "43"
           },
           {
             "label": "SB",
@@ -4839,31 +4906,31 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "49",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/jackson-cleveland/19875",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Jackson_Cleveland_Headshot.jpg",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 0,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.5,
-        "whip": 1.27,
+        "earnedRunAverage": 5.67,
+        "whip": 1.44,
         "wins": 2,
-        "losses": 1,
+        "losses": 2,
         "saves": 7,
         "shutouts": 0,
-        "inningsPitched": 26,
-        "inningsPitchedDisplay": "26.0",
-        "hitsAllowed": 25,
-        "runsAllowed": 14,
-        "earnedRunsAllowed": 13,
-        "walksAllowed": 8,
-        "strikeouts": 23,
-        "doublesAllowed": 2,
+        "inningsPitched": 27,
+        "inningsPitchedDisplay": "27.0",
+        "hitsAllowed": 29,
+        "runsAllowed": 20,
+        "earnedRunsAllowed": 17,
+        "walksAllowed": 10,
+        "strikeouts": 25,
+        "doublesAllowed": 3,
         "triplesAllowed": 2,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 98,
+        "opponentsAtBats": 106,
         "wildPitches": 2,
         "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.255,
+        "opponentsBattingAverage": 0.274,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4873,14 +4940,14 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "49",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/jackson-cleveland/19875",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Jackson_Cleveland_Headshot.jpg",
-        "gamesPlayed": 1,
+        "gamesPlayed": 2,
         "gamesStarted": 0,
         "putouts": 0,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 0,
+        "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
@@ -4896,40 +4963,40 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.01398601398601,
-          "Command": 37.5,
+          "Miss bats": 39.3939393939394,
+          "Command": 30,
           "Damage suppression": 0
         },
-        "summary": "Jackson Cleveland looks like a RHP option who throws enough strikes.",
+        "summary": "Jackson Cleveland gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.50",
-          "WHIP 1.27",
-          "K/9 8.0"
+          "ERA 5.67",
+          "WHIP 1.44",
+          "K/9 8.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.50"
+            "value": "5.67"
           },
           {
             "label": "WHIP",
-            "value": "1.27"
+            "value": "1.44"
           },
           {
             "label": "K/9",
-            "value": "8.0"
+            "value": "8.3"
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
-            "value": "0.35"
+            "value": "0.33"
           },
           {
             "label": "IP",
-            "value": "26.0"
+            "value": "27.0"
           }
         ],
         "metaLine": "SR / L/R",
@@ -4981,31 +5048,31 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "jersey": "54",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/nate-smithburg/19853",
         "imageUrl": "https://soonersports.com/images/2025/9/9/Nate_Smithburg_Headshot.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 0,
-        "appearances": 11,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.97,
-        "whip": 1.32,
+        "earnedRunAverage": 3.86,
+        "whip": 1.29,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 11.333333333333334,
-        "inningsPitchedDisplay": "11.1",
+        "inningsPitched": 11.666666666666666,
+        "inningsPitchedDisplay": "11.2",
         "hitsAllowed": 12,
         "runsAllowed": 5,
         "earnedRunsAllowed": 5,
         "walksAllowed": 3,
-        "strikeouts": 12,
+        "strikeouts": 13,
         "doublesAllowed": 3,
         "triplesAllowed": 1,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 41,
+        "opponentsAtBats": 42,
         "wildPitches": 0,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.293,
+        "opponentsBattingAverage": 0.286,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5030,7 +5097,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 20,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5038,40 +5105,40 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 50.26737967914438,
-          "Command": 60,
+          "Miss bats": 54.8051948051948,
+          "Command": 66.66666666666666,
           "Damage suppression": 0
         },
         "summary": "Nate Smithburg looks like a LHP option who limits runs and misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.97",
-          "WHIP 1.32",
-          "K/9 9.5"
+          "ERA 3.86",
+          "WHIP 1.29",
+          "K/9 10.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.97"
+            "value": "3.86"
           },
           {
             "label": "WHIP",
-            "value": "1.32"
+            "value": "1.29"
           },
           {
             "label": "K/9",
-            "value": "9.5"
+            "value": "10.0"
           },
           {
             "label": "BB/9",
-            "value": "2.4"
+            "value": "2.3"
           },
           {
             "label": "HR/9",
-            "value": "0.79"
+            "value": "0.77"
           },
           {
             "label": "IP",
-            "value": "11.3"
+            "value": "11.7"
           }
         ],
         "metaLine": "R-JR / L/L",
@@ -5244,29 +5311,29 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "S/R",
-        "score": 26,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jason Walk profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .242",
-          "OBP .359",
-          "SLG .326"
+          "AVG .245",
+          "OBP .360",
+          "SLG .331"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".242"
+            "value": ".245"
           },
           {
             "label": "OBP",
-            "value": ".359"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".326"
+            "value": ".331"
           },
           {
             "label": "HR",
@@ -5282,10 +5349,10 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           }
         ],
         "components": {
-          "On-base": 43.888888888888864,
-          "Power": 1.5789473684210544,
-          "Contact": 13.749999999999996,
-          "Discipline": 33.33333333333333,
+          "On-base": 44.44444444444443,
+          "Power": 2.8947368421052664,
+          "Contact": 15.624999999999996,
+          "Discipline": 32.04134366925064,
           "Speed": 43.333333333333336
         },
         "metaLine": "JR / S/R",
@@ -5520,29 +5587,29 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "position": "OF/LHP",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 0,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Nolan Stevens looks like a OF/LHP option who throws enough strikes.",
+        "summary": "Nolan Stevens looks like a OF/LHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
+          "ERA 0.00",
+          "WHIP 0.00",
+          "K/9 27.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "--"
+            "value": "0.00"
           },
           {
             "label": "WHIP",
-            "value": "--"
+            "value": "0.00"
           },
           {
             "label": "K/9",
-            "value": "0.0"
+            "value": "27.0"
           },
           {
             "label": "BB/9",
@@ -5554,14 +5621,14 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           },
           {
             "label": "IP",
-            "value": "0.0"
+            "value": "0.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
+          "Miss bats": 100,
+          "Command": 100,
           "Damage suppression": 0
         },
         "metaLine": "JR / L/L",
@@ -5569,7 +5636,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           "OF/LHP",
           "JR",
           "L/L",
-          "Pitcher"
+          "Two-Way"
         ],
         "leaderboards": [
           "Oklahoma Athletics roster",
@@ -5577,7 +5644,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         ],
         "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
         "schoolSlug": "oklahoma",
-        "compositeRole": "Pitcher",
+        "compositeRole": "Two-Way",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/nolan-stevens/19860",
         "espnAthleteId": ""
       },
@@ -5589,37 +5656,37 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 16,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Kyle Branch gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .198",
-          "OBP .305",
-          "SLG .256"
+          "AVG .205",
+          "OBP .311",
+          "SLG .283"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".198"
+            "value": ".205"
           },
           {
             "label": "OBP",
-            "value": ".305"
+            "value": ".311"
           },
           {
             "label": "SLG",
-            "value": ".256"
+            "value": ".283"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "2"
           },
           {
             "label": "RBI",
-            "value": "13"
+            "value": "15"
           },
           {
             "label": "SB",
@@ -5627,10 +5694,10 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           }
         ],
         "components": {
-          "On-base": 13.88888888888887,
+          "On-base": 17.222222222222207,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 77.19298245614034,
+          "Discipline": 77.77777777777776,
           "Speed": 10
         },
         "metaLine": "SO / R/R",
@@ -5658,29 +5725,29 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "S/R",
-        "score": 51,
+        "score": 47,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jaxon Willits gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .289",
-          "OBP .396",
-          "SLG .493"
+          "AVG .281",
+          "OBP .385",
+          "SLG .475"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": ".281"
           },
           {
             "label": "OBP",
-            "value": ".396"
+            "value": ".385"
           },
           {
             "label": "SLG",
-            "value": ".493"
+            "value": ".475"
           },
           {
             "label": "HR",
@@ -5696,10 +5763,10 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           }
         ],
         "components": {
-          "On-base": 64.44444444444444,
-          "Power": 45.526315789473685,
-          "Contact": 43.124999999999986,
-          "Discipline": 69.28104575163397,
+          "On-base": 58.33333333333333,
+          "Power": 40.78947368421053,
+          "Contact": 38.125000000000014,
+          "Discipline": 66.66666666666666,
           "Speed": 13.333333333333334
         },
         "metaLine": "JR / S/R",
@@ -5796,29 +5863,29 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 58,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Camden Johnson profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .309",
-          "OBP .400",
-          "SLG .533"
+          "AVG .316",
+          "OBP .402",
+          "SLG .534"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".309"
+            "value": ".316"
           },
           {
             "label": "OBP",
-            "value": ".400"
+            "value": ".402"
           },
           {
             "label": "SLG",
-            "value": ".533"
+            "value": ".534"
           },
           {
             "label": "HR",
@@ -5826,7 +5893,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           },
           {
             "label": "RBI",
-            "value": "37"
+            "value": "38"
           },
           {
             "label": "SB",
@@ -5834,10 +5901,10 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           }
         ],
         "components": {
-          "On-base": 66.66666666666666,
-          "Power": 56.052631578947384,
-          "Contact": 55.62499999999999,
-          "Discipline": 27.42316784869975,
+          "On-base": 67.77777777777779,
+          "Power": 56.31578947368422,
+          "Contact": 60,
+          "Discipline": 26.388888888888886,
           "Speed": 80
         },
         "metaLine": "JR / L/R",
@@ -5865,29 +5932,29 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "position": "C/OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 49,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brendan Brock profiles as a C/OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .284",
-          "OBP .374",
-          "SLG .521"
+          "AVG .270",
+          "OBP .358",
+          "SLG .494"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".284"
+            "value": ".270"
           },
           {
             "label": "OBP",
-            "value": ".374"
+            "value": ".358"
           },
           {
             "label": "SLG",
-            "value": ".521"
+            "value": ".494"
           },
           {
             "label": "HR",
@@ -5903,10 +5970,10 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           }
         ],
         "components": {
-          "On-base": 52.222222222222214,
-          "Power": 52.894736842105274,
-          "Contact": 39.99999999999998,
-          "Discipline": 25.39682539682539,
+          "On-base": 43.333333333333314,
+          "Power": 45.78947368421053,
+          "Contact": 31.25000000000001,
+          "Discipline": 23.754789272030646,
           "Speed": 73.33333333333333
         },
         "metaLine": "JR / R/R",
@@ -6010,41 +6077,41 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         },
         "summary": "Kadyn Leon looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.91",
-          "WHIP 1.18",
-          "K/9 9.2"
+          "ERA 3.76",
+          "WHIP 1.25",
+          "K/9 9.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.91"
+            "value": "3.76"
           },
           {
             "label": "WHIP",
-            "value": "1.18"
+            "value": "1.25"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "9.6"
           },
           {
             "label": "BB/9",
-            "value": "5.3"
+            "value": "6.2"
           },
           {
             "label": "HR/9",
-            "value": "0.36"
+            "value": "0.34"
           },
           {
             "label": "IP",
-            "value": "25.3"
+            "value": "26.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 47.60765550239234,
-          "Command": 14.666666666666664,
+          "Miss bats": 50.63291139240508,
+          "Command": 11.111111111111116,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -6072,21 +6139,21 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "position": "UTL",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 63,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Connor Larkin profiles as a UTL piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .320",
+          "AVG .333",
           "OBP .500",
-          "SLG .400"
+          "SLG .407"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".320"
+            "value": ".333"
           },
           {
             "label": "OBP",
@@ -6094,7 +6161,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           },
           {
             "label": "SLG",
-            "value": ".400"
+            "value": ".407"
           },
           {
             "label": "HR",
@@ -6111,8 +6178,8 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 21.052631578947377,
-          "Contact": 62.5,
+          "Power": 22.894736842105257,
+          "Contact": 70.625,
           "Discipline": 100,
           "Speed": 0
         },
@@ -6141,29 +6208,29 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 15,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dayton Tockey gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .189",
-          "OBP .318",
-          "SLG .358"
+          "AVG .185",
+          "OBP .313",
+          "SLG .352"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".189"
+            "value": ".185"
           },
           {
             "label": "OBP",
-            "value": ".318"
+            "value": ".313"
           },
           {
             "label": "SLG",
-            "value": ".358"
+            "value": ".352"
           },
           {
             "label": "HR",
@@ -6179,8 +6246,8 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           }
         ],
         "components": {
-          "On-base": 21.1111111111111,
-          "Power": 9.999999999999995,
+          "On-base": 18.333333333333318,
+          "Power": 8.421052631578942,
           "Contact": 0,
           "Discipline": 33.33333333333333,
           "Speed": 6.666666666666667
@@ -6210,37 +6277,37 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 51,
+        "score": 66,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
-        "summary": "Dasan Harris profiles as a OF piece who adds running-game pressure.",
+        "summary": "Dasan Harris profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .311",
-          "OBP .386",
-          "SLG .446"
+          "AVG .346",
+          "OBP .411",
+          "SLG .543"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".311"
+            "value": ".346"
           },
           {
             "label": "OBP",
-            "value": ".386"
+            "value": ".411"
           },
           {
             "label": "SLG",
-            "value": ".446"
+            "value": ".543"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "3"
           },
           {
             "label": "RBI",
-            "value": "8"
+            "value": "11"
           },
           {
             "label": "SB",
@@ -6248,9 +6315,9 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           }
         ],
         "components": {
-          "On-base": 58.88888888888888,
-          "Power": 33.15789473684211,
-          "Contact": 56.875,
+          "On-base": 72.77777777777776,
+          "Power": 58.68421052631581,
+          "Contact": 78.74999999999999,
           "Discipline": 65.07936507936506,
           "Speed": 40
         },
@@ -6416,29 +6483,29 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 75,
+        "score": 72,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Trey Gambill profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .308",
-          "OBP .478",
-          "SLG .519"
+          "AVG .295",
+          "OBP .468",
+          "SLG .496"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".308"
+            "value": ".295"
           },
           {
             "label": "OBP",
-            "value": ".478"
+            "value": ".468"
           },
           {
             "label": "SLG",
-            "value": ".519"
+            "value": ".496"
           },
           {
             "label": "HR",
@@ -6455,8 +6522,8 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 52.36842105263159,
-          "Contact": 54.99999999999999,
+          "Power": 46.31578947368421,
+          "Contact": 46.874999999999986,
           "Discipline": 100,
           "Speed": 53.333333333333336
         },
@@ -6485,29 +6552,29 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 48,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Drew Dickerson profiles as a OF piece who gets on base at a high clip.",
+        "summary": "Drew Dickerson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .310",
-          "OBP .412",
-          "SLG .507"
+          "AVG .293",
+          "OBP .393",
+          "SLG .480"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".310"
+            "value": ".293"
           },
           {
             "label": "OBP",
-            "value": ".412"
+            "value": ".393"
           },
           {
             "label": "SLG",
-            "value": ".507"
+            "value": ".480"
           },
           {
             "label": "HR",
@@ -6523,10 +6590,10 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           }
         ],
         "components": {
-          "On-base": 73.3333333333333,
-          "Power": 49.21052631578948,
-          "Contact": 56.25,
-          "Discipline": 10.035842293906809,
+          "On-base": 62.77777777777778,
+          "Power": 42.10526315789473,
+          "Contact": 45.624999999999986,
+          "Discipline": 7.189542483660129,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SO / R/R",
@@ -6554,25 +6621,25 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 25,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "LJ Mercurius looks like a RHP option who misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "LJ Mercurius looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.95",
-          "WHIP 1.22",
+          "ERA 5.62",
+          "WHIP 1.32",
           "K/9 12.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.95"
+            "value": "5.62"
           },
           {
             "label": "WHIP",
-            "value": "1.22"
+            "value": "1.32"
           },
           {
             "label": "K/9",
@@ -6580,22 +6647,22 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "1.76"
+            "value": "1.87"
           },
           {
             "label": "IP",
-            "value": "56.3"
+            "value": "57.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 72.56589564281872,
-          "Command": 63.33333333333332,
+          "Miss bats": 72.88491854965844,
+          "Command": 61.052631578947356,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -6623,48 +6690,48 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 13,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Xander Mercurius gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.74",
-          "WHIP 1.31",
-          "K/9 8.4"
+          "ERA 5.65",
+          "WHIP 1.36",
+          "K/9 8.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.74"
+            "value": "5.65"
           },
           {
             "label": "WHIP",
-            "value": "1.31"
+            "value": "1.36"
           },
           {
             "label": "K/9",
-            "value": "8.4"
+            "value": "8.5"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "4.1"
           },
           {
             "label": "HR/9",
-            "value": "2.02"
+            "value": "1.88"
           },
           {
             "label": "IP",
-            "value": "26.7"
+            "value": "28.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 40.340909090909086,
-          "Command": 30,
+          "Miss bats": 40.69767441860465,
+          "Command": 21.538461538461533,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -6830,48 +6897,48 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "position": "LHP",
         "classYear": "SO",
         "handedness": "L/L",
-        "score": 7,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jaden Barfield gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 10.29",
-          "WHIP 2.14",
-          "K/9 7.7"
+          "ERA 10.57",
+          "WHIP 2.22",
+          "K/9 8.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "10.29"
+            "value": "10.57"
           },
           {
             "label": "WHIP",
-            "value": "2.14"
+            "value": "2.22"
           },
           {
             "label": "K/9",
-            "value": "7.7"
+            "value": "8.2"
           },
           {
             "label": "BB/9",
-            "value": "7.7"
+            "value": "7.0"
           },
           {
             "label": "HR/9",
-            "value": "2.57"
+            "value": "3.52"
           },
           {
             "label": "IP",
-            "value": "7.0"
+            "value": "7.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 33.76623376623377,
-          "Command": 0,
+          "Miss bats": 38.3399209486166,
+          "Command": 3.333333333333335,
           "Damage suppression": 0
         },
         "metaLine": "SO / L/L",
@@ -6975,18 +7042,18 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         },
         "summary": "Cameron Johnson looks like a LHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 2.96",
-          "WHIP 1.38",
+          "ERA 3.53",
+          "WHIP 1.41",
           "K/9 11.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.96"
+            "value": "3.53"
           },
           {
             "label": "WHIP",
-            "value": "1.38"
+            "value": "1.41"
           },
           {
             "label": "K/9",
@@ -6994,22 +7061,22 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           },
           {
             "label": "BB/9",
-            "value": "6.3"
+            "value": "6.5"
           },
           {
             "label": "HR/9",
-            "value": "0.18"
+            "value": "0.53"
           },
           {
             "label": "IP",
-            "value": "48.7"
+            "value": "51.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 71.23287671232877,
-          "Command": 17.64705882352941,
+          "Miss bats": 71.12299465240642,
+          "Command": 16.21621621621622,
           "Damage suppression": 0
         },
         "metaLine": "JR / L/L",
@@ -7044,18 +7111,18 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         },
         "summary": "Brisco Smith looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
+          "ERA 27.00",
+          "WHIP 3.00",
           "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "--"
+            "value": "27.00"
           },
           {
             "label": "WHIP",
-            "value": "--"
+            "value": "3.00"
           },
           {
             "label": "K/9",
@@ -7067,11 +7134,11 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "27.00"
           },
           {
             "label": "IP",
-            "value": "0.0"
+            "value": "0.3"
           }
         ],
         "components": {
@@ -7089,9 +7156,10 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Oklahoma Athletics roster"
+          "Oklahoma Athletics roster",
+          "Oklahoma cumulative stats"
         ],
-        "sourceSummary": "Oklahoma Athletics roster",
+        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
         "schoolSlug": "oklahoma",
         "compositeRole": "Pitcher",
         "profileUrl": "https://soonersports.com/sports/baseball/roster/brisco-smith/19880",
@@ -7105,48 +7173,48 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 17,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Isaac Williams looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.97",
-          "WHIP 1.74",
-          "K/9 11.3"
+          "ERA 6.35",
+          "WHIP 1.59",
+          "K/9 11.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.97"
+            "value": "6.35"
           },
           {
             "label": "WHIP",
-            "value": "1.74"
+            "value": "1.59"
           },
           {
             "label": "K/9",
-            "value": "11.3"
+            "value": "11.9"
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "4.8"
           },
           {
             "label": "HR/9",
-            "value": "3.48"
+            "value": "3.18"
           },
           {
             "label": "IP",
-            "value": "10.3"
+            "value": "11.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 66.56891495601172,
-          "Command": 23.333333333333332,
+          "Miss bats": 71.92513368983956,
+          "Command": 29.999999999999993,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -7181,40 +7249,40 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         },
         "summary": "Jason Bodin looks like a RHP option who misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.15",
-          "WHIP 1.15",
-          "K/9 10.4"
+          "ERA 4.05",
+          "WHIP 1.20",
+          "K/9 10.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.15"
+            "value": "4.05"
           },
           {
             "label": "WHIP",
-            "value": "1.15"
+            "value": "1.20"
           },
           {
             "label": "K/9",
-            "value": "10.4"
+            "value": "10.1"
           },
           {
             "label": "BB/9",
-            "value": "5.9"
+            "value": "5.7"
           },
           {
             "label": "HR/9",
-            "value": "0.35"
+            "value": "0.34"
           },
           {
             "label": "IP",
-            "value": "26.0"
+            "value": "26.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 58.04195804195804,
+          "Miss bats": 55.68181818181818,
           "Command": 15.294117647058822,
           "Damage suppression": 0
         },
@@ -7243,48 +7311,48 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 20,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Nick Wesloski looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
+        "summary": "Nick Wesloski looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.14",
-          "WHIP 0.84",
-          "K/9 8.8"
+          "ERA 3.12",
+          "WHIP 0.75",
+          "K/9 9.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.14"
+            "value": "3.12"
           },
           {
             "label": "WHIP",
-            "value": "0.84"
+            "value": "0.75"
           },
           {
             "label": "K/9",
-            "value": "8.8"
+            "value": "9.9"
           },
           {
             "label": "BB/9",
-            "value": "1.9"
+            "value": "2.1"
           },
           {
             "label": "HR/9",
-            "value": "1.88"
+            "value": "1.56"
           },
           {
             "label": "IP",
-            "value": "14.3"
+            "value": "17.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.551797040169134,
-          "Command": 73.33333333333331,
+          "Miss bats": 53.321678321678334,
+          "Command": 75,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -7454,20 +7522,20 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Reid Hensley looks like a RHP option who limits runs and misses bats.",
+        "summary": "Reid Hensley looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 1.69",
-          "WHIP 1.78",
+          "ERA 5.06",
+          "WHIP 2.25",
           "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.69"
+            "value": "5.06"
           },
           {
             "label": "WHIP",
-            "value": "1.78"
+            "value": "2.25"
           },
           {
             "label": "K/9",
@@ -7475,11 +7543,11 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           },
           {
             "label": "BB/9",
-            "value": "8.4"
+            "value": "9.3"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "0.84"
           },
           {
             "label": "IP",
@@ -7490,7 +7558,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 48.01136363636363,
-          "Command": 2.0000000000000018,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "GR / R/R",
@@ -7518,37 +7586,37 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 48,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Deiten Lachance gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Deiten Lachance profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .387",
-          "SLG .494"
+          "AVG .313",
+          "OBP .402",
+          "SLG .524"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": ".313"
           },
           {
             "label": "OBP",
-            "value": ".387"
+            "value": ".402"
           },
           {
             "label": "SLG",
-            "value": ".494"
+            "value": ".524"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "7"
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "43"
           },
           {
             "label": "SB",
@@ -7556,10 +7624,10 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           }
         ],
         "components": {
-          "On-base": 59.444444444444436,
-          "Power": 45.78947368421053,
-          "Contact": 49.999999999999986,
-          "Discipline": 56.20915032679738,
+          "On-base": 67.77777777777779,
+          "Power": 53.6842105263158,
+          "Contact": 58.12499999999999,
+          "Discipline": 58.02469135802467,
           "Speed": 0
         },
         "metaLine": "JR / R/R",
@@ -7592,43 +7660,43 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jackson Cleveland looks like a RHP option who throws enough strikes.",
+        "summary": "Jackson Cleveland gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.50",
-          "WHIP 1.27",
-          "K/9 8.0"
+          "ERA 5.67",
+          "WHIP 1.44",
+          "K/9 8.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.50"
+            "value": "5.67"
           },
           {
             "label": "WHIP",
-            "value": "1.27"
+            "value": "1.44"
           },
           {
             "label": "K/9",
-            "value": "8.0"
+            "value": "8.3"
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
-            "value": "0.35"
+            "value": "0.33"
           },
           {
             "label": "IP",
-            "value": "26.0"
+            "value": "27.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.01398601398601,
-          "Command": 37.5,
+          "Miss bats": 39.3939393939394,
+          "Command": 30,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/R",
@@ -7656,48 +7724,48 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "position": "LHP",
         "classYear": "R-JR",
         "handedness": "L/L",
-        "score": 20,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nate Smithburg looks like a LHP option who limits runs and misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.97",
-          "WHIP 1.32",
-          "K/9 9.5"
+          "ERA 3.86",
+          "WHIP 1.29",
+          "K/9 10.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.97"
+            "value": "3.86"
           },
           {
             "label": "WHIP",
-            "value": "1.32"
+            "value": "1.29"
           },
           {
             "label": "K/9",
-            "value": "9.5"
+            "value": "10.0"
           },
           {
             "label": "BB/9",
-            "value": "2.4"
+            "value": "2.3"
           },
           {
             "label": "HR/9",
-            "value": "0.79"
+            "value": "0.77"
           },
           {
             "label": "IP",
-            "value": "11.3"
+            "value": "11.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 50.26737967914438,
-          "Command": 60,
+          "Miss bats": 54.8051948051948,
+          "Command": 66.66666666666666,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / L/L",

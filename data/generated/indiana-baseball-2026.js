@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.indiana2026 = {
-  "generatedAt": "2026-05-08T11:45:18.031Z",
+  "generatedAt": "2026-05-10T11:14:15.808Z",
   "season": 2026,
   "school": {
     "slug": "indiana",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
     }
   },
   "teamSummary": {
-    "record": "21-27, 7-17",
-    "battingAverage": ".282",
-    "earnedRunAverage": "6.52",
+    "record": "21-29, 7-19",
+    "battingAverage": ".283",
+    "earnedRunAverage": "6.60",
     "wins": "21",
-    "losses": "27",
+    "losses": "29",
     "hitting": {
-      "atBats": "1610",
-      "runsScored": "311",
-      "hits": "454",
-      "runsBattedIn": "282",
-      "doubles": "80",
+      "atBats": "1680",
+      "runsScored": "324",
+      "hits": "476",
+      "runsBattedIn": "295",
+      "doubles": "85",
       "triples": "5",
-      "homeRuns": "58",
-      "walks": "231",
+      "homeRuns": "59",
+      "walks": "238",
       "intentionalWalks": "2",
-      "strikeouts": "372",
-      "strikeoutsLooking": "126",
-      "hitByPitch": "64",
+      "strikeouts": "386",
+      "strikeoutsLooking": "129",
+      "hitByPitch": "68",
       "stolenBases": "42",
-      "caughtStealing": "10",
-      "sacrificeHits": "24",
-      "sacrificeFlies": "17",
+      "caughtStealing": "12",
+      "sacrificeHits": "28",
+      "sacrificeFlies": "19",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "445",
-      "flyOuts": "350",
-      "groundedIntoDoublePlay": "31",
+      "groundOuts": "467",
+      "flyOuts": "365",
+      "groundedIntoDoublePlay": "32",
       "pickedOff": "7",
-      "doublePlaysHitInto": "45",
+      "doublePlaysHitInto": "46",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1234",
-      "assists": "375",
-      "errors": "45",
-      "passedBalls": "9",
+      "putouts": "1284",
+      "assists": "388",
+      "errors": "46",
+      "passedBalls": "10",
       "catchersInterference": "0",
       "stolenBasesAgainst": "34",
       "caughtStealingBy": "13",
-      "involvedInDoublePlays": "24",
+      "involvedInDoublePlays": "25",
       "involvedInTriplePlays": "0",
-      "totalChances": "1654",
+      "totalChances": "1718",
       "fieldingPercentage": ".973"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "21",
       "saves": "8",
-      "losses": "27",
+      "losses": "29",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "1",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "411.1",
-      "hitsAllowed": "452",
-      "runsAllowed": "319",
-      "earnedRunsAllowed": "298",
-      "walksAllowed": "242",
-      "strikeouts": "445",
-      "battersFaced": "1991",
-      "opponentAtBats": "1624",
-      "doublesAllowed": "88",
-      "triplesAllowed": "16",
-      "homerunsAllowed": "65",
-      "wildPitches": "36",
+      "inningsPitched": "428.0",
+      "hitsAllowed": "471",
+      "runsAllowed": "335",
+      "earnedRunsAllowed": "314",
+      "walksAllowed": "250",
+      "strikeouts": "460",
+      "battersFaced": "2070",
+      "opponentAtBats": "1691",
+      "doublesAllowed": "92",
+      "triplesAllowed": "17",
+      "homerunsAllowed": "66",
+      "wildPitches": "37",
       "balks": "6",
-      "hitBatters": "86",
-      "strikeoutsLooking": "126",
+      "hitBatters": "88",
+      "strikeoutsLooking": "129",
       "intentionalWalks": "5",
       "inheritedRunners": "7",
       "inheritedRunnersThatScored": "7",
       "sacrificeHitsAllowed": "19",
-      "sacrificeFliesAllowed": "20",
+      "sacrificeFliesAllowed": "22",
       "catchersInterferenceAllowed": "0",
-      "pitches": "7728",
-      "flyouts": "408",
-      "groundouts": "330",
+      "pitches": "8017",
+      "flyouts": "428",
+      "groundouts": "343",
       "teamUnearnedRuns": "0",
       "saveRecord": "8",
       "pickoff": "4"
@@ -161,33 +161,33 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "2",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/hogan-denny/20390",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/2-Denny.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "battingAverage": 0.363,
-        "onBasePercentage": 0.463,
-        "sluggingPercentage": 0.659,
-        "ops": 1.122,
-        "atBats": 179,
-        "runs": 52,
-        "hits": 65,
-        "doubles": 14,
+        "gamesPlayed": 47,
+        "gamesStarted": 47,
+        "battingAverage": 0.353,
+        "onBasePercentage": 0.456,
+        "sluggingPercentage": 0.642,
+        "ops": 1.098,
+        "atBats": 187,
+        "runs": 56,
+        "hits": 66,
+        "doubles": 15,
         "triples": 0,
         "homeRuns": 13,
         "runsBattedIn": 38,
-        "totalBases": 118,
+        "totalBases": 120,
         "walks": 28,
-        "hitByPitch": 8,
-        "strikeouts": 30,
+        "hitByPitch": 10,
+        "strikeouts": 32,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 10,
         "stolenBasesAttempts": 12,
-        "putouts": 140,
+        "putouts": 152,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 232,
+        "plateAppearances": 242,
         "caughtStealing": 2,
         "pickedOff": 2
       },
@@ -199,51 +199,51 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "2",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/hogan-denny/20390",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/2-Denny.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "putouts": 140,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "putouts": 152,
         "assists": 10,
         "errors": 2,
-        "fieldingPercentage": 0.987,
+        "fieldingPercentage": 0.988,
         "doublePlays": 1,
         "stolenBasesAgainst": 11,
         "caughtStealingBy": 3,
         "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 0,
-        "totalChances": 152
+        "totalChances": 164
       },
       "evaluation": {
-        "score": 86,
+        "score": 82,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "components": {
-          "On-base": 100,
-          "Power": 89.2105263157895,
-          "Contact": 89.375,
-          "Discipline": 81.48148148148148,
+          "On-base": 97.77777777777777,
+          "Power": 84.73684210526316,
+          "Contact": 83.12499999999999,
+          "Discipline": 74.99999999999999,
           "Speed": 33.33333333333333
         },
         "summary": "Hogan Denny profiles as a C/OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .363",
-          "OBP .463",
-          "SLG .659"
+          "AVG .353",
+          "OBP .456",
+          "SLG .642"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".363"
+            "value": ".353"
           },
           {
             "label": "OBP",
-            "value": ".463"
+            "value": ".456"
           },
           {
             "label": "SLG",
-            "value": ".659"
+            "value": ".642"
           },
           {
             "label": "HR",
@@ -306,13 +306,13 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "3",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/cal-gates/20850",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/3-Gates.jpg",
-        "gamesPlayed": 25,
+        "gamesPlayed": 27,
         "gamesStarted": 13,
-        "battingAverage": 0.188,
-        "onBasePercentage": 0.278,
-        "sluggingPercentage": 0.25,
-        "ops": 0.528,
-        "atBats": 48,
+        "battingAverage": 0.184,
+        "onBasePercentage": 0.273,
+        "sluggingPercentage": 0.245,
+        "ops": 0.518,
+        "atBats": 49,
         "runs": 8,
         "hits": 9,
         "doubles": 3,
@@ -322,17 +322,17 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "totalBases": 12,
         "walks": 4,
         "hitByPitch": 2,
-        "strikeouts": 16,
+        "strikeouts": 17,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
-        "sacrificeHits": 2,
+        "sacrificeHits": 4,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 18,
+        "putouts": 20,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 57,
+        "plateAppearances": 60,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -344,19 +344,19 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "3",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/cal-gates/20850",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/3-Gates.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 7,
-        "putouts": 18,
+        "putouts": 20,
         "assists": 0,
         "errors": 2,
-        "fieldingPercentage": 0.9,
+        "fieldingPercentage": 0.909,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 20
+        "totalChances": 22
       },
       "evaluation": {
         "score": 1,
@@ -368,27 +368,27 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 5.555555555555554,
+          "Discipline": 3.9215686274509785,
           "Speed": 3.3333333333333335
         },
         "summary": "Cal Gates gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .188",
-          "OBP .278",
-          "SLG .250"
+          "AVG .184",
+          "OBP .273",
+          "SLG .245"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".188"
+            "value": ".184"
           },
           {
             "label": "OBP",
-            "value": ".278"
+            "value": ".273"
           },
           {
             "label": "SLG",
-            "value": ".250"
+            "value": ".245"
           },
           {
             "label": "HR",
@@ -451,34 +451,34 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "4",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/will-moore/20396",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/4-Moore.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 45,
-        "battingAverage": 0.232,
-        "onBasePercentage": 0.417,
-        "sluggingPercentage": 0.323,
-        "ops": 0.74,
-        "atBats": 155,
-        "runs": 40,
-        "hits": 36,
+        "gamesPlayed": 48,
+        "gamesStarted": 47,
+        "battingAverage": 0.242,
+        "onBasePercentage": 0.423,
+        "sluggingPercentage": 0.329,
+        "ops": 0.752,
+        "atBats": 161,
+        "runs": 43,
+        "hits": 39,
         "doubles": 5,
         "triples": 0,
         "homeRuns": 3,
-        "runsBattedIn": 20,
-        "totalBases": 50,
-        "walks": 33,
-        "hitByPitch": 16,
-        "strikeouts": 43,
+        "runsBattedIn": 21,
+        "totalBases": 53,
+        "walks": 34,
+        "hitByPitch": 17,
+        "strikeouts": 44,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
+        "groundedIntoDoublePlay": 2,
+        "sacrificeFlies": 1,
         "sacrificeHits": 2,
         "stolenBases": 3,
-        "stolenBasesAttempts": 5,
+        "stolenBasesAttempts": 6,
         "putouts": 35,
         "assists": 0,
         "errors": 7,
-        "plateAppearances": 213,
-        "caughtStealing": 2,
+        "plateAppearances": 224,
+        "caughtStealing": 3,
         "pickedOff": 2
       },
       "pitchingStats": null,
@@ -489,51 +489,51 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "4",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/will-moore/20396",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/4-Moore.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 42,
+        "gamesPlayed": 44,
+        "gamesStarted": 43,
         "putouts": 35,
-        "assists": 72,
+        "assists": 75,
         "errors": 7,
-        "fieldingPercentage": 0.939,
+        "fieldingPercentage": 0.94,
         "doublePlays": 7,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 114
+        "totalChances": 117
       },
       "evaluation": {
-        "score": 36,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 76.11111111111109,
-          "Power": 0.7894736842105272,
-          "Contact": 7.500000000000007,
-          "Discipline": 63.04909560723514,
+          "On-base": 79.44444444444443,
+          "Power": 2.3684210526315814,
+          "Contact": 13.749999999999996,
+          "Discipline": 63.636363636363626,
           "Speed": 10
         },
         "summary": "Will Moore profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .232",
-          "OBP .417",
-          "SLG .323"
+          "AVG .242",
+          "OBP .423",
+          "SLG .329"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".232"
+            "value": ".242"
           },
           {
             "label": "OBP",
-            "value": ".417"
+            "value": ".423"
           },
           {
             "label": "SLG",
-            "value": ".323"
+            "value": ".329"
           },
           {
             "label": "HR",
@@ -541,7 +541,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "21"
           },
           {
             "label": "SB",
@@ -596,13 +596,13 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "5",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/ayden-crouse/20852",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/5-Crouse.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 25,
-        "battingAverage": 0.247,
-        "onBasePercentage": 0.336,
-        "sluggingPercentage": 0.344,
-        "ops": 0.68,
-        "atBats": 93,
+        "gamesPlayed": 38,
+        "gamesStarted": 26,
+        "battingAverage": 0.245,
+        "onBasePercentage": 0.333,
+        "sluggingPercentage": 0.34,
+        "ops": 0.673,
+        "atBats": 94,
         "runs": 19,
         "hits": 23,
         "doubles": 1,
@@ -612,7 +612,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "totalBases": 32,
         "walks": 9,
         "hitByPitch": 4,
-        "strikeouts": 26,
+        "strikeouts": 27,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
@@ -622,7 +622,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "putouts": 55,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 126,
+        "plateAppearances": 127,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -649,36 +649,36 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "totalChances": 57
       },
       "evaluation": {
-        "score": 21,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 31.11111111111111,
-          "Power": 6.315789473684203,
-          "Contact": 16.875,
-          "Discipline": 16.239316239316235,
+          "On-base": 29.44444444444444,
+          "Power": 5.263157894736848,
+          "Contact": 15.624999999999996,
+          "Discipline": 14.814814814814808,
           "Speed": 40
         },
         "summary": "Ayden Crouse profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .247",
-          "OBP .336",
-          "SLG .344"
+          "AVG .245",
+          "OBP .333",
+          "SLG .340"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".247"
+            "value": ".245"
           },
           {
             "label": "OBP",
-            "value": ".336"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".344"
+            "value": ".340"
           },
           {
             "label": "HR",
@@ -741,13 +741,13 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "6",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/tj-schuyler/20399",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/6-Schuyler.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 21,
-        "battingAverage": 0.085,
-        "onBasePercentage": 0.177,
-        "sluggingPercentage": 0.127,
-        "ops": 0.304,
-        "atBats": 71,
+        "gamesPlayed": 34,
+        "gamesStarted": 22,
+        "battingAverage": 0.082,
+        "onBasePercentage": 0.173,
+        "sluggingPercentage": 0.123,
+        "ops": 0.296,
+        "atBats": 73,
         "runs": 2,
         "hits": 6,
         "doubles": 3,
@@ -757,17 +757,17 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "totalBases": 9,
         "walks": 7,
         "hitByPitch": 1,
-        "strikeouts": 21,
+        "strikeouts": 23,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 4,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 201,
+        "putouts": 205,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 84,
+        "plateAppearances": 86,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -779,9 +779,9 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "6",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/tj-schuyler/20399",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/6-Schuyler.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 21,
-        "putouts": 201,
+        "gamesPlayed": 31,
+        "gamesStarted": 22,
+        "putouts": 205,
         "assists": 21,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -789,9 +789,9 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "stolenBasesAgainst": 14,
         "caughtStealingBy": 6,
         "stolenBasesPercentage": null,
-        "passedBalls": 4,
+        "passedBalls": 5,
         "catchersInterference": 0,
-        "totalChances": 222
+        "totalChances": 226
       },
       "evaluation": {
         "score": 2,
@@ -803,27 +803,27 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 14.814814814814808,
+          "Discipline": 11.594202898550723,
           "Speed": 3.3333333333333335
         },
         "summary": "T.J. Schuyler gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .085",
-          "OBP .177",
-          "SLG .127"
+          "AVG .082",
+          "OBP .173",
+          "SLG .123"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".085"
+            "value": ".082"
           },
           {
             "label": "OBP",
-            "value": ".177"
+            "value": ".173"
           },
           {
             "label": "SLG",
-            "value": ".127"
+            "value": ".123"
           },
           {
             "label": "HR",
@@ -1569,31 +1569,31 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "14",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/brayton-thomas/20401",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/14-Thomas.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 12,
-        "appearances": 12,
+        "gamesPlayed": 13,
+        "gamesStarted": 13,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.15,
-        "whip": 1.54,
+        "earnedRunAverage": 5.51,
+        "whip": 1.5,
         "wins": 1,
         "losses": 5,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 45.333333333333336,
-        "inningsPitchedDisplay": "45.1",
-        "hitsAllowed": 39,
+        "inningsPitched": 50.666666666666664,
+        "inningsPitchedDisplay": "50.2",
+        "hitsAllowed": 43,
         "runsAllowed": 31,
         "earnedRunsAllowed": 31,
-        "walksAllowed": 31,
-        "strikeouts": 49,
-        "doublesAllowed": 5,
+        "walksAllowed": 33,
+        "strikeouts": 51,
+        "doublesAllowed": 6,
         "triplesAllowed": 1,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 172,
+        "opponentsAtBats": 190,
         "wildPitches": 6,
-        "hitBatters": 17,
+        "hitBatters": 18,
         "balks": 2,
-        "opponentsBattingAverage": 0.227,
+        "opponentsBattingAverage": 0.226,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1603,22 +1603,22 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "14",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/brayton-thomas/20401",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/14-Thomas.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 7,
-        "putouts": 0,
+        "gamesPlayed": 8,
+        "gamesStarted": 8,
+        "putouts": 2,
         "assists": 5,
         "errors": 2,
-        "fieldingPercentage": 0.714,
+        "fieldingPercentage": 0.778,
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 7
+        "totalChances": 9
       },
       "evaluation": {
-        "score": 12,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1626,40 +1626,40 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 52.072192513368975,
-          "Command": 11.61290322580645,
+          "Miss bats": 45.99282296650718,
+          "Command": 10.909090909090905,
           "Damage suppression": 0
         },
         "summary": "Brayton Thomas looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.15",
-          "WHIP 1.54",
-          "K/9 9.7"
+          "ERA 5.51",
+          "WHIP 1.50",
+          "K/9 9.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.15"
+            "value": "5.51"
           },
           {
             "label": "WHIP",
-            "value": "1.54"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "9.7"
+            "value": "9.1"
           },
           {
             "label": "BB/9",
-            "value": "6.2"
+            "value": "5.9"
           },
           {
             "label": "HR/9",
-            "value": "0.79"
+            "value": "0.71"
           },
           {
             "label": "IP",
-            "value": "45.3"
+            "value": "50.7"
           }
         ],
         "metaLine": "SO / L/L",
@@ -1710,33 +1710,33 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "15",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/cooper-malamazian/20395",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/15-Malamazian.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 48,
-        "battingAverage": 0.301,
-        "onBasePercentage": 0.391,
-        "sluggingPercentage": 0.448,
-        "ops": 0.839,
-        "atBats": 183,
-        "runs": 31,
-        "hits": 55,
-        "doubles": 9,
+        "gamesPlayed": 50,
+        "gamesStarted": 50,
+        "battingAverage": 0.297,
+        "onBasePercentage": 0.387,
+        "sluggingPercentage": 0.443,
+        "ops": 0.83,
+        "atBats": 192,
+        "runs": 32,
+        "hits": 57,
+        "doubles": 10,
         "triples": 3,
         "homeRuns": 4,
-        "runsBattedIn": 34,
-        "totalBases": 82,
-        "walks": 26,
+        "runsBattedIn": 35,
+        "totalBases": 85,
+        "walks": 27,
         "hitByPitch": 3,
-        "strikeouts": 47,
+        "strikeouts": 48,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 3,
         "sacrificeHits": 2,
         "stolenBases": 4,
         "stolenBasesAttempts": 7,
-        "putouts": 61,
+        "putouts": 62,
         "assists": 0,
         "errors": 14,
-        "plateAppearances": 227,
+        "plateAppearances": 237,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -1748,51 +1748,51 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "15",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/cooper-malamazian/20395",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/15-Malamazian.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 46,
-        "putouts": 61,
-        "assists": 94,
+        "gamesPlayed": 47,
+        "gamesStarted": 47,
+        "putouts": 62,
+        "assists": 97,
         "errors": 14,
-        "fieldingPercentage": 0.917,
-        "doublePlays": 15,
+        "fieldingPercentage": 0.919,
+        "doublePlays": 16,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 169
+        "totalChances": 173
       },
       "evaluation": {
-        "score": 44,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 61.66666666666666,
-          "Power": 33.684210526315795,
-          "Contact": 50.624999999999986,
-          "Discipline": 39.2434988179669,
+          "On-base": 59.444444444444436,
+          "Power": 32.36842105263158,
+          "Contact": 48.12499999999999,
+          "Discipline": 40.27777777777777,
           "Speed": 13.333333333333334
         },
         "summary": "Cooper Malamazian gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .301",
-          "OBP .391",
-          "SLG .448"
+          "AVG .297",
+          "OBP .387",
+          "SLG .443"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".301"
+            "value": ".297"
           },
           {
             "label": "OBP",
-            "value": ".391"
+            "value": ".387"
           },
           {
             "label": "SLG",
-            "value": ".448"
+            "value": ".443"
           },
           {
             "label": "HR",
@@ -1800,7 +1800,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "35"
           },
           {
             "label": "SB",
@@ -1856,31 +1856,31 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "16",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/anthony-gubitosi/20391",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/16-Gubitosi.jpg",
-        "gamesPlayed": 7,
+        "gamesPlayed": 9,
         "gamesStarted": 0,
-        "appearances": 7,
+        "appearances": 9,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.48,
-        "whip": 1.45,
+        "earnedRunAverage": 4.09,
+        "whip": 1.55,
         "wins": 2,
-        "losses": 0,
+        "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 10.333333333333334,
-        "inningsPitchedDisplay": "10.1",
-        "hitsAllowed": 9,
-        "runsAllowed": 4,
-        "earnedRunsAllowed": 4,
-        "walksAllowed": 6,
-        "strikeouts": 11,
-        "doublesAllowed": 1,
+        "inningsPitched": 11,
+        "inningsPitchedDisplay": "11.0",
+        "hitsAllowed": 10,
+        "runsAllowed": 5,
+        "earnedRunsAllowed": 5,
+        "walksAllowed": 7,
+        "strikeouts": 12,
+        "doublesAllowed": 2,
         "triplesAllowed": 1,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 38,
-        "wildPitches": 0,
+        "opponentsAtBats": 40,
+        "wildPitches": 1,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.237,
+        "opponentsBattingAverage": 0.25,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1913,40 +1913,40 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 50.733137829912025,
-          "Command": 16.666666666666664,
+          "Miss bats": 52.892561983471076,
+          "Command": 14.285714285714285,
           "Damage suppression": 0
         },
-        "summary": "Anthony Gubitosi looks like a LHP option who limits runs and misses bats.",
+        "summary": "Anthony Gubitosi looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 3.48",
-          "WHIP 1.45",
-          "K/9 9.6"
+          "ERA 4.09",
+          "WHIP 1.55",
+          "K/9 9.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.48"
+            "value": "4.09"
           },
           {
             "label": "WHIP",
-            "value": "1.45"
+            "value": "1.55"
           },
           {
             "label": "K/9",
-            "value": "9.6"
+            "value": "9.8"
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "5.7"
           },
           {
             "label": "HR/9",
-            "value": "2.61"
+            "value": "2.45"
           },
           {
             "label": "IP",
-            "value": "10.3"
+            "value": "11.0"
           }
         ],
         "metaLine": "SR / L/L",
@@ -1997,33 +1997,33 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "17",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/caleb-koskie/20394",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/17-Koskie.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 37,
-        "battingAverage": 0.369,
-        "onBasePercentage": 0.461,
-        "sluggingPercentage": 0.577,
-        "ops": 1.038,
-        "atBats": 130,
+        "gamesPlayed": 41,
+        "gamesStarted": 39,
+        "battingAverage": 0.375,
+        "onBasePercentage": 0.466,
+        "sluggingPercentage": 0.574,
+        "ops": 1.04,
+        "atBats": 136,
         "runs": 25,
-        "hits": 48,
+        "hits": 51,
         "doubles": 9,
         "triples": 0,
         "homeRuns": 6,
-        "runsBattedIn": 34,
-        "totalBases": 75,
-        "walks": 15,
-        "hitByPitch": 8,
+        "runsBattedIn": 37,
+        "totalBases": 78,
+        "walks": 16,
+        "hitByPitch": 9,
         "strikeouts": 22,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 1,
+        "sacrificeFlies": 2,
+        "sacrificeHits": 2,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 66,
+        "putouts": 74,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 157,
+        "plateAppearances": 167,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2035,9 +2035,9 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "17",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/caleb-koskie/20394",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/17-Koskie.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 28,
-        "putouts": 66,
+        "gamesPlayed": 30,
+        "gamesStarted": 30,
+        "putouts": 74,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -2047,7 +2047,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 67
+        "totalChances": 75
       },
       "evaluation": {
         "score": 0,
@@ -2284,34 +2284,34 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "19",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/cole-decker/20389",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/19-Decker.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 42,
-        "battingAverage": 0.315,
-        "onBasePercentage": 0.419,
-        "sluggingPercentage": 0.45,
-        "ops": 0.869,
-        "atBats": 149,
+        "gamesPlayed": 48,
+        "gamesStarted": 44,
+        "battingAverage": 0.323,
+        "onBasePercentage": 0.42,
+        "sluggingPercentage": 0.456,
+        "ops": 0.876,
+        "atBats": 158,
         "runs": 23,
-        "hits": 47,
-        "doubles": 6,
+        "hits": 51,
+        "doubles": 7,
         "triples": 1,
         "homeRuns": 4,
         "runsBattedIn": 28,
-        "totalBases": 67,
+        "totalBases": 72,
         "walks": 23,
         "hitByPitch": 5,
-        "strikeouts": 33,
+        "strikeouts": 34,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
-        "sacrificeHits": 5,
+        "sacrificeHits": 6,
         "stolenBases": 8,
-        "stolenBasesAttempts": 9,
-        "putouts": 116,
+        "stolenBasesAttempts": 10,
+        "putouts": 122,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 194,
-        "caughtStealing": 1,
+        "plateAppearances": 206,
+        "caughtStealing": 2,
         "pickedOff": 0
       },
       "pitchingStats": null,
@@ -2322,51 +2322,51 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "19",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/cole-decker/20389",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/19-Decker.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 39,
-        "putouts": 116,
+        "gamesPlayed": 44,
+        "gamesStarted": 41,
+        "putouts": 122,
         "assists": 0,
         "errors": 1,
-        "fieldingPercentage": 0.991,
+        "fieldingPercentage": 0.992,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 117
+        "totalChances": 123
       },
       "evaluation": {
-        "score": 55,
+        "score": 56,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 77.2222222222222,
-          "Power": 34.21052631578948,
-          "Contact": 59.375,
-          "Discipline": 55.21885521885521,
+          "On-base": 77.77777777777776,
+          "Power": 35.789473684210535,
+          "Contact": 64.375,
+          "Discipline": 52.94117647058824,
           "Speed": 26.666666666666668
         },
         "summary": "Cole Decker profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .315",
-          "OBP .419",
-          "SLG .450"
+          "AVG .323",
+          "OBP .420",
+          "SLG .456"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".315"
+            "value": ".323"
           },
           {
             "label": "OBP",
-            "value": ".419"
+            "value": ".420"
           },
           {
             "label": "SLG",
-            "value": ".450"
+            "value": ".456"
           },
           {
             "label": "HR",
@@ -2748,31 +2748,31 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "24",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/reagan-rivera/20859",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/24-Rivera.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 8,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 8.53,
-        "whip": 1.84,
+        "earnedRunAverage": 8.78,
+        "whip": 1.83,
         "wins": 0,
         "losses": 4,
         "saves": 3,
         "shutouts": 0,
-        "inningsPitched": 38,
-        "inningsPitchedDisplay": "38.0",
-        "hitsAllowed": 50,
-        "runsAllowed": 43,
-        "earnedRunsAllowed": 36,
-        "walksAllowed": 20,
-        "strikeouts": 46,
+        "inningsPitched": 41,
+        "inningsPitchedDisplay": "41.0",
+        "hitsAllowed": 53,
+        "runsAllowed": 47,
+        "earnedRunsAllowed": 40,
+        "walksAllowed": 22,
+        "strikeouts": 48,
         "doublesAllowed": 11,
         "triplesAllowed": 5,
         "homeRunsAllowed": 7,
-        "opponentsAtBats": 163,
+        "opponentsAtBats": 175,
         "wildPitches": 4,
         "hitBatters": 6,
         "balks": 2,
-        "opponentsBattingAverage": 0.307,
+        "opponentsBattingAverage": 0.303,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2797,7 +2797,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "totalChances": 8
       },
       "evaluation": {
-        "score": 17,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2805,40 +2805,40 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 62.67942583732058,
-          "Command": 26.000000000000007,
+          "Miss bats": 59.42350332594235,
+          "Command": 23.63636363636364,
           "Damage suppression": 0
         },
         "summary": "Reagan Rivera looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 8.53",
-          "WHIP 1.84",
-          "K/9 10.9"
+          "ERA 8.78",
+          "WHIP 1.83",
+          "K/9 10.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.53"
+            "value": "8.78"
           },
           {
             "label": "WHIP",
-            "value": "1.84"
+            "value": "1.83"
           },
           {
             "label": "K/9",
-            "value": "10.9"
+            "value": "10.5"
           },
           {
             "label": "BB/9",
-            "value": "4.7"
+            "value": "4.8"
           },
           {
             "label": "HR/9",
-            "value": "1.66"
+            "value": "1.54"
           },
           {
             "label": "IP",
-            "value": "38.0"
+            "value": "41.0"
           }
         ],
         "metaLine": "GR / R/R",
@@ -2889,33 +2889,33 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "25",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/landen-fry/20877",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/21/25-Fry.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 42,
-        "battingAverage": 0.267,
-        "onBasePercentage": 0.331,
+        "gamesPlayed": 48,
+        "gamesStarted": 44,
+        "battingAverage": 0.27,
+        "onBasePercentage": 0.335,
         "sluggingPercentage": 0.333,
-        "ops": 0.664,
-        "atBats": 165,
-        "runs": 24,
-        "hits": 44,
+        "ops": 0.668,
+        "atBats": 174,
+        "runs": 25,
+        "hits": 47,
         "doubles": 8,
         "triples": 0,
         "homeRuns": 1,
-        "runsBattedIn": 24,
-        "totalBases": 55,
-        "walks": 11,
+        "runsBattedIn": 26,
+        "totalBases": 58,
+        "walks": 12,
         "hitByPitch": 5,
-        "strikeouts": 20,
+        "strikeouts": 21,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 10,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 51,
+        "putouts": 53,
         "assists": 0,
-        "errors": 8,
-        "plateAppearances": 182,
+        "errors": 9,
+        "plateAppearances": 192,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2927,47 +2927,47 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "25",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/landen-fry/20877",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/21/25-Fry.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 42,
-        "putouts": 51,
-        "assists": 96,
-        "errors": 8,
-        "fieldingPercentage": 0.948,
-        "doublePlays": 16,
+        "gamesPlayed": 47,
+        "gamesStarted": 44,
+        "putouts": 53,
+        "assists": 101,
+        "errors": 9,
+        "fieldingPercentage": 0.945,
+        "doublePlays": 17,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 155
+        "totalChances": 163
       },
       "evaluation": {
-        "score": 21,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 28.33333333333333,
+          "On-base": 30.555555555555554,
           "Power": 3.421052631578951,
-          "Contact": 29.375000000000007,
-          "Discipline": 38.88888888888889,
+          "Contact": 31.25000000000001,
+          "Discipline": 41.26984126984126,
           "Speed": 0
         },
         "summary": "Landen Fry gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .267",
-          "OBP .331",
+          "AVG .270",
+          "OBP .335",
           "SLG .333"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".267"
+            "value": ".270"
           },
           {
             "label": "OBP",
-            "value": ".331"
+            "value": ".335"
           },
           {
             "label": "SLG",
@@ -2979,7 +2979,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "26"
           },
           {
             "label": "SB",
@@ -3034,23 +3034,23 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "26",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/owen-ten-oever/20860",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/26-ten_Oever.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 14,
-        "battingAverage": 0.328,
-        "onBasePercentage": 0.408,
-        "sluggingPercentage": 0.574,
-        "ops": 0.982,
-        "atBats": 61,
+        "gamesPlayed": 26,
+        "gamesStarted": 16,
+        "battingAverage": 0.324,
+        "onBasePercentage": 0.395,
+        "sluggingPercentage": 0.549,
+        "ops": 0.944,
+        "atBats": 71,
         "runs": 12,
-        "hits": 20,
-        "doubles": 3,
+        "hits": 23,
+        "doubles": 4,
         "triples": 0,
         "homeRuns": 4,
-        "runsBattedIn": 18,
-        "totalBases": 35,
+        "runsBattedIn": 20,
+        "totalBases": 39,
         "walks": 8,
         "hitByPitch": 1,
-        "strikeouts": 18,
+        "strikeouts": 20,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
@@ -3060,43 +3060,43 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "putouts": 0,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 72,
+        "plateAppearances": 82,
         "caughtStealing": 0,
         "pickedOff": 0
       },
       "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
-        "score": 56,
+        "score": 51,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 71.11111111111109,
-          "Power": 66.84210526315789,
-          "Contact": 67.5,
-          "Discipline": 27.160493827160487,
+          "On-base": 63.888888888888886,
+          "Power": 60.263157894736864,
+          "Contact": 65,
+          "Discipline": 22.22222222222222,
           "Speed": 3.3333333333333335
         },
-        "summary": "Owen ten Oever profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Owen ten Oever gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .408",
-          "SLG .574"
+          "AVG .324",
+          "OBP .395",
+          "SLG .549"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": ".324"
           },
           {
             "label": "OBP",
-            "value": ".408"
+            "value": ".395"
           },
           {
             "label": "SLG",
-            "value": ".574"
+            "value": ".549"
           },
           {
             "label": "HR",
@@ -3104,7 +3104,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "20"
           },
           {
             "label": "SB",
@@ -3390,31 +3390,31 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "29",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/tony-neubeck/20862",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/29-Neubeck.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 12,
-        "appearances": 12,
+        "gamesPlayed": 13,
+        "gamesStarted": 13,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.01,
-        "whip": 1.37,
+        "earnedRunAverage": 3.92,
+        "whip": 1.34,
         "wins": 6,
         "losses": 4,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 58.333333333333336,
-        "inningsPitchedDisplay": "58.1",
-        "hitsAllowed": 56,
-        "runsAllowed": 27,
-        "earnedRunsAllowed": 26,
-        "walksAllowed": 24,
-        "strikeouts": 62,
+        "inningsPitched": 64.33333333333333,
+        "inningsPitchedDisplay": "64.1",
+        "hitsAllowed": 60,
+        "runsAllowed": 29,
+        "earnedRunsAllowed": 28,
+        "walksAllowed": 26,
+        "strikeouts": 70,
         "doublesAllowed": 9,
         "triplesAllowed": 0,
         "homeRunsAllowed": 7,
-        "opponentsAtBats": 219,
+        "opponentsAtBats": 242,
         "wildPitches": 1,
         "hitBatters": 5,
         "balks": 1,
-        "opponentsBattingAverage": 0.256,
+        "opponentsBattingAverage": 0.248,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3424,10 +3424,10 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "29",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/tony-neubeck/20862",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/29-Neubeck.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 7,
+        "gamesPlayed": 8,
+        "gamesStarted": 8,
         "putouts": 2,
-        "assists": 7,
+        "assists": 9,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -3436,10 +3436,10 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 9
+        "totalChances": 11
       },
       "evaluation": {
-        "score": 15,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3447,40 +3447,40 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 50.5974025974026,
-          "Command": 31.66666666666667,
+          "Miss bats": 52.661328308996715,
+          "Command": 33.84615384615384,
           "Damage suppression": 0
         },
-        "summary": "Tony Neubeck looks like a LHP option who misses bats.",
+        "summary": "Tony Neubeck looks like a LHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 4.01",
-          "WHIP 1.37",
-          "K/9 9.6"
+          "ERA 3.92",
+          "WHIP 1.34",
+          "K/9 9.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.01"
+            "value": "3.92"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "1.34"
           },
           {
             "label": "K/9",
-            "value": "9.6"
+            "value": "9.8"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "1.08"
+            "value": "0.98"
           },
           {
             "label": "IP",
-            "value": "58.3"
+            "value": "64.3"
           }
         ],
         "metaLine": "GR / L/L",
@@ -3991,33 +3991,33 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "34",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/jake-hanley/20393",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/34-Hanley.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 48,
-        "battingAverage": 0.346,
-        "onBasePercentage": 0.437,
-        "sluggingPercentage": 0.618,
-        "ops": 1.055,
-        "atBats": 191,
-        "runs": 49,
-        "hits": 66,
-        "doubles": 13,
+        "gamesPlayed": 50,
+        "gamesStarted": 50,
+        "battingAverage": 0.343,
+        "onBasePercentage": 0.439,
+        "sluggingPercentage": 0.611,
+        "ops": 1.05,
+        "atBats": 198,
+        "runs": 52,
+        "hits": 68,
+        "doubles": 14,
         "triples": 0,
         "homeRuns": 13,
-        "runsBattedIn": 44,
-        "totalBases": 118,
-        "walks": 33,
+        "runsBattedIn": 45,
+        "totalBases": 121,
+        "walks": 36,
         "hitByPitch": 1,
-        "strikeouts": 41,
+        "strikeouts": 43,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 4,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 329,
+        "putouts": 342,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 229,
+        "plateAppearances": 239,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4029,19 +4029,19 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "34",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/jake-hanley/20393",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/34-Hanley.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 48,
-        "putouts": 329,
+        "gamesPlayed": 50,
+        "gamesStarted": 50,
+        "putouts": 342,
         "assists": 13,
         "errors": 2,
         "fieldingPercentage": 0.994,
-        "doublePlays": 23,
+        "doublePlays": 24,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 344
+        "totalChances": 357
       },
       "evaluation": {
         "score": 72,
@@ -4050,30 +4050,30 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 87.22222222222221,
-          "Power": 78.42105263157896,
-          "Contact": 78.74999999999999,
-          "Discipline": 67.20867208672087,
+          "On-base": 88.33333333333331,
+          "Power": 76.57894736842105,
+          "Contact": 76.87500000000001,
+          "Discipline": 70.80103359173125,
           "Speed": 0
         },
         "summary": "Jake Hanley profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .346",
-          "OBP .437",
-          "SLG .618"
+          "AVG .343",
+          "OBP .439",
+          "SLG .611"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".346"
+            "value": ".343"
           },
           {
             "label": "OBP",
-            "value": ".437"
+            "value": ".439"
           },
           {
             "label": "SLG",
-            "value": ".618"
+            "value": ".611"
           },
           {
             "label": "HR",
@@ -4081,7 +4081,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           },
           {
             "label": "RBI",
-            "value": "44"
+            "value": "45"
           },
           {
             "label": "SB",
@@ -4526,31 +4526,31 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "38",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/jackson-yarberry/20404",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/38-Yarberry.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 1,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.3,
-        "whip": 1.81,
+        "earnedRunAverage": 7.98,
+        "whip": 1.83,
         "wins": 0,
         "losses": 5,
         "saves": 2,
         "shutouts": 0,
-        "inningsPitched": 37,
-        "inningsPitchedDisplay": "37.0",
-        "hitsAllowed": 47,
-        "runsAllowed": 33,
-        "earnedRunsAllowed": 30,
-        "walksAllowed": 20,
-        "strikeouts": 43,
-        "doublesAllowed": 7,
-        "triplesAllowed": 3,
+        "inningsPitched": 38.333333333333336,
+        "inningsPitchedDisplay": "38.1",
+        "hitsAllowed": 49,
+        "runsAllowed": 37,
+        "earnedRunsAllowed": 34,
+        "walksAllowed": 21,
+        "strikeouts": 45,
+        "doublesAllowed": 8,
+        "triplesAllowed": 4,
         "homeRunsAllowed": 6,
-        "opponentsAtBats": 155,
+        "opponentsAtBats": 160,
         "wildPitches": 3,
-        "hitBatters": 2,
+        "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.303,
+        "opponentsBattingAverage": 0.306,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4575,7 +4575,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 15,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4583,28 +4583,28 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 58.72235872235873,
-          "Command": 23,
+          "Miss bats": 59.683794466403164,
+          "Command": 22.857142857142865,
           "Damage suppression": 0
         },
         "summary": "Jackson Yarberry looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 7.30",
-          "WHIP 1.81",
-          "K/9 10.5"
+          "ERA 7.98",
+          "WHIP 1.83",
+          "K/9 10.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.30"
+            "value": "7.98"
           },
           {
             "label": "WHIP",
-            "value": "1.81"
+            "value": "1.83"
           },
           {
             "label": "K/9",
-            "value": "10.5"
+            "value": "10.6"
           },
           {
             "label": "BB/9",
@@ -4612,11 +4612,11 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.46"
+            "value": "1.41"
           },
           {
             "label": "IP",
-            "value": "37.0"
+            "value": "38.3"
           }
         ],
         "metaLine": "JR / R/R",
@@ -4756,31 +4756,31 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "40",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/gavin-seebold/20400",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/40-Seebold.jpg",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 0,
-        "appearances": 15,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.86,
-        "whip": 1.4,
+        "earnedRunAverage": 4.89,
+        "whip": 1.51,
         "wins": 2,
-        "losses": 3,
+        "losses": 4,
         "saves": 2,
         "shutouts": 0,
-        "inningsPitched": 42,
-        "inningsPitchedDisplay": "42.0",
-        "hitsAllowed": 35,
-        "runsAllowed": 21,
-        "earnedRunsAllowed": 18,
+        "inningsPitched": 42.333333333333336,
+        "inningsPitchedDisplay": "42.1",
+        "hitsAllowed": 40,
+        "runsAllowed": 26,
+        "earnedRunsAllowed": 23,
         "walksAllowed": 24,
         "strikeouts": 55,
-        "doublesAllowed": 8,
+        "doublesAllowed": 9,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 6,
-        "opponentsAtBats": 151,
+        "homeRunsAllowed": 7,
+        "opponentsAtBats": 158,
         "wildPitches": 1,
         "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.232,
+        "opponentsBattingAverage": 0.253,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4813,28 +4813,28 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 70.7792207792208,
+          "Miss bats": 69.93557623478883,
           "Command": 25.83333333333333,
           "Damage suppression": 0
         },
-        "summary": "Gavin Seebold looks like a RHP option who limits runs and misses bats.",
+        "summary": "Gavin Seebold looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 3.86",
-          "WHIP 1.40",
-          "K/9 11.8"
+          "ERA 4.89",
+          "WHIP 1.51",
+          "K/9 11.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.86"
+            "value": "4.89"
           },
           {
             "label": "WHIP",
-            "value": "1.40"
+            "value": "1.51"
           },
           {
             "label": "K/9",
-            "value": "11.8"
+            "value": "11.7"
           },
           {
             "label": "BB/9",
@@ -4842,11 +4842,11 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.29"
+            "value": "1.49"
           },
           {
             "label": "IP",
-            "value": "42.0"
+            "value": "42.3"
           }
         ],
         "metaLine": "GR / R/R",
@@ -5039,20 +5039,20 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "jersey": "42",
         "profileUrl": "https://iuhoosiers.com/sports/baseball/roster/brayden-ricketts/20398",
         "imageUrl": "https://iuhoosiers.com/images/2026/1/13/42-Ricketts.jpg",
-        "gamesPlayed": 44,
+        "gamesPlayed": 46,
         "gamesStarted": 42,
-        "battingAverage": 0.23,
-        "onBasePercentage": 0.373,
-        "sluggingPercentage": 0.432,
-        "ops": 0.805,
-        "atBats": 148,
-        "runs": 23,
-        "hits": 34,
+        "battingAverage": 0.233,
+        "onBasePercentage": 0.374,
+        "sluggingPercentage": 0.453,
+        "ops": 0.827,
+        "atBats": 150,
+        "runs": 24,
+        "hits": 35,
         "doubles": 6,
         "triples": 0,
-        "homeRuns": 8,
-        "runsBattedIn": 24,
-        "totalBases": 64,
+        "homeRuns": 9,
+        "runsBattedIn": 27,
+        "totalBases": 68,
         "walks": 26,
         "hitByPitch": 9,
         "strikeouts": 36,
@@ -5065,7 +5065,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "putouts": 144,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 187,
+        "plateAppearances": 189,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -5092,44 +5092,44 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "totalChances": 156
       },
       "evaluation": {
-        "score": 33,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 29.47368421052632,
-          "Contact": 6.250000000000005,
+          "On-base": 52.222222222222214,
+          "Power": 35.00000000000001,
+          "Contact": 8.125000000000007,
           "Discipline": 58.02469135802467,
           "Speed": 0
         },
         "summary": "Brayden Ricketts gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .230",
-          "OBP .373",
-          "SLG .432"
+          "AVG .233",
+          "OBP .374",
+          "SLG .453"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".230"
+            "value": ".233"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".374"
           },
           {
             "label": "SLG",
-            "value": ".432"
+            "value": ".453"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "27"
           },
           {
             "label": "SB",
@@ -5854,29 +5854,29 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "position": "C/OF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 86,
+        "score": 82,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Hogan Denny profiles as a C/OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .363",
-          "OBP .463",
-          "SLG .659"
+          "AVG .353",
+          "OBP .456",
+          "SLG .642"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".363"
+            "value": ".353"
           },
           {
             "label": "OBP",
-            "value": ".463"
+            "value": ".456"
           },
           {
             "label": "SLG",
-            "value": ".659"
+            "value": ".642"
           },
           {
             "label": "HR",
@@ -5892,10 +5892,10 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           }
         ],
         "components": {
-          "On-base": 100,
-          "Power": 89.2105263157895,
-          "Contact": 89.375,
-          "Discipline": 81.48148148148148,
+          "On-base": 97.77777777777777,
+          "Power": 84.73684210526316,
+          "Contact": 83.12499999999999,
+          "Discipline": 74.99999999999999,
           "Speed": 33.33333333333333
         },
         "metaLine": "SO / R/R",
@@ -5930,22 +5930,22 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         },
         "summary": "Cal Gates gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .188",
-          "OBP .278",
-          "SLG .250"
+          "AVG .184",
+          "OBP .273",
+          "SLG .245"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".188"
+            "value": ".184"
           },
           {
             "label": "OBP",
-            "value": ".278"
+            "value": ".273"
           },
           {
             "label": "SLG",
-            "value": ".250"
+            "value": ".245"
           },
           {
             "label": "HR",
@@ -5964,7 +5964,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 5.555555555555554,
+          "Discipline": 3.9215686274509785,
           "Speed": 3.3333333333333335
         },
         "metaLine": "FR / L/L",
@@ -5992,29 +5992,29 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 36,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Will Moore profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .232",
-          "OBP .417",
-          "SLG .323"
+          "AVG .242",
+          "OBP .423",
+          "SLG .329"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".232"
+            "value": ".242"
           },
           {
             "label": "OBP",
-            "value": ".417"
+            "value": ".423"
           },
           {
             "label": "SLG",
-            "value": ".323"
+            "value": ".329"
           },
           {
             "label": "HR",
@@ -6022,7 +6022,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "21"
           },
           {
             "label": "SB",
@@ -6030,10 +6030,10 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           }
         ],
         "components": {
-          "On-base": 76.11111111111109,
-          "Power": 0.7894736842105272,
-          "Contact": 7.500000000000007,
-          "Discipline": 63.04909560723514,
+          "On-base": 79.44444444444443,
+          "Power": 2.3684210526315814,
+          "Contact": 13.749999999999996,
+          "Discipline": 63.636363636363626,
           "Speed": 10
         },
         "metaLine": "SO / L/R",
@@ -6061,29 +6061,29 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "position": "OF",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 21,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ayden Crouse profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .247",
-          "OBP .336",
-          "SLG .344"
+          "AVG .245",
+          "OBP .333",
+          "SLG .340"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".247"
+            "value": ".245"
           },
           {
             "label": "OBP",
-            "value": ".336"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".344"
+            "value": ".340"
           },
           {
             "label": "HR",
@@ -6099,10 +6099,10 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           }
         ],
         "components": {
-          "On-base": 31.11111111111111,
-          "Power": 6.315789473684203,
-          "Contact": 16.875,
-          "Discipline": 16.239316239316235,
+          "On-base": 29.44444444444444,
+          "Power": 5.263157894736848,
+          "Contact": 15.624999999999996,
+          "Discipline": 14.814814814814808,
           "Speed": 40
         },
         "metaLine": "R-JR / R/R",
@@ -6137,22 +6137,22 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         },
         "summary": "T.J. Schuyler gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .085",
-          "OBP .177",
-          "SLG .127"
+          "AVG .082",
+          "OBP .173",
+          "SLG .123"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".085"
+            "value": ".082"
           },
           {
             "label": "OBP",
-            "value": ".177"
+            "value": ".173"
           },
           {
             "label": "SLG",
-            "value": ".127"
+            "value": ".123"
           },
           {
             "label": "HR",
@@ -6171,7 +6171,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 14.814814814814808,
+          "Discipline": 11.594202898550723,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / R/R",
@@ -6544,48 +6544,48 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "position": "LHP",
         "classYear": "SO",
         "handedness": "L/L",
-        "score": 12,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brayton Thomas looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.15",
-          "WHIP 1.54",
-          "K/9 9.7"
+          "ERA 5.51",
+          "WHIP 1.50",
+          "K/9 9.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.15"
+            "value": "5.51"
           },
           {
             "label": "WHIP",
-            "value": "1.54"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "9.7"
+            "value": "9.1"
           },
           {
             "label": "BB/9",
-            "value": "6.2"
+            "value": "5.9"
           },
           {
             "label": "HR/9",
-            "value": "0.79"
+            "value": "0.71"
           },
           {
             "label": "IP",
-            "value": "45.3"
+            "value": "50.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 52.072192513368975,
-          "Command": 11.61290322580645,
+          "Miss bats": 45.99282296650718,
+          "Command": 10.909090909090905,
           "Damage suppression": 0
         },
         "metaLine": "SO / L/L",
@@ -6613,29 +6613,29 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 44,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cooper Malamazian gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .301",
-          "OBP .391",
-          "SLG .448"
+          "AVG .297",
+          "OBP .387",
+          "SLG .443"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".301"
+            "value": ".297"
           },
           {
             "label": "OBP",
-            "value": ".391"
+            "value": ".387"
           },
           {
             "label": "SLG",
-            "value": ".448"
+            "value": ".443"
           },
           {
             "label": "HR",
@@ -6643,7 +6643,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "35"
           },
           {
             "label": "SB",
@@ -6651,10 +6651,10 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           }
         ],
         "components": {
-          "On-base": 61.66666666666666,
-          "Power": 33.684210526315795,
-          "Contact": 50.624999999999986,
-          "Discipline": 39.2434988179669,
+          "On-base": 59.444444444444436,
+          "Power": 32.36842105263158,
+          "Contact": 48.12499999999999,
+          "Discipline": 40.27777777777777,
           "Speed": 13.333333333333334
         },
         "metaLine": "SO / R/R",
@@ -6687,43 +6687,43 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Anthony Gubitosi looks like a LHP option who limits runs and misses bats.",
+        "summary": "Anthony Gubitosi looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 3.48",
-          "WHIP 1.45",
-          "K/9 9.6"
+          "ERA 4.09",
+          "WHIP 1.55",
+          "K/9 9.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.48"
+            "value": "4.09"
           },
           {
             "label": "WHIP",
-            "value": "1.45"
+            "value": "1.55"
           },
           {
             "label": "K/9",
-            "value": "9.6"
+            "value": "9.8"
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "5.7"
           },
           {
             "label": "HR/9",
-            "value": "2.61"
+            "value": "2.45"
           },
           {
             "label": "IP",
-            "value": "10.3"
+            "value": "11.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 50.733137829912025,
-          "Command": 16.666666666666664,
+          "Miss bats": 52.892561983471076,
+          "Command": 14.285714285714285,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/L",
@@ -6889,29 +6889,29 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 55,
+        "score": 56,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Cole Decker profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .315",
-          "OBP .419",
-          "SLG .450"
+          "AVG .323",
+          "OBP .420",
+          "SLG .456"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".315"
+            "value": ".323"
           },
           {
             "label": "OBP",
-            "value": ".419"
+            "value": ".420"
           },
           {
             "label": "SLG",
-            "value": ".450"
+            "value": ".456"
           },
           {
             "label": "HR",
@@ -6927,10 +6927,10 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           }
         ],
         "components": {
-          "On-base": 77.2222222222222,
-          "Power": 34.21052631578948,
-          "Contact": 59.375,
-          "Discipline": 55.21885521885521,
+          "On-base": 77.77777777777776,
+          "Power": 35.789473684210535,
+          "Contact": 64.375,
+          "Discipline": 52.94117647058824,
           "Speed": 26.666666666666668
         },
         "metaLine": "SO / L/R",
@@ -7163,48 +7163,48 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "position": "RHP",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 17,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Reagan Rivera looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 8.53",
-          "WHIP 1.84",
-          "K/9 10.9"
+          "ERA 8.78",
+          "WHIP 1.83",
+          "K/9 10.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.53"
+            "value": "8.78"
           },
           {
             "label": "WHIP",
-            "value": "1.84"
+            "value": "1.83"
           },
           {
             "label": "K/9",
-            "value": "10.9"
+            "value": "10.5"
           },
           {
             "label": "BB/9",
-            "value": "4.7"
+            "value": "4.8"
           },
           {
             "label": "HR/9",
-            "value": "1.66"
+            "value": "1.54"
           },
           {
             "label": "IP",
-            "value": "38.0"
+            "value": "41.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 62.67942583732058,
-          "Command": 26.000000000000007,
+          "Miss bats": 59.42350332594235,
+          "Command": 23.63636363636364,
           "Damage suppression": 0
         },
         "metaLine": "GR / R/R",
@@ -7232,25 +7232,25 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 21,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Landen Fry gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .267",
-          "OBP .331",
+          "AVG .270",
+          "OBP .335",
           "SLG .333"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".267"
+            "value": ".270"
           },
           {
             "label": "OBP",
-            "value": ".331"
+            "value": ".335"
           },
           {
             "label": "SLG",
@@ -7262,7 +7262,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "26"
           },
           {
             "label": "SB",
@@ -7270,10 +7270,10 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           }
         ],
         "components": {
-          "On-base": 28.33333333333333,
+          "On-base": 30.555555555555554,
           "Power": 3.421052631578951,
-          "Contact": 29.375000000000007,
-          "Discipline": 38.88888888888889,
+          "Contact": 31.25000000000001,
+          "Discipline": 41.26984126984126,
           "Speed": 0
         },
         "metaLine": "FR / R/R",
@@ -7301,29 +7301,29 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "position": "C",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 56,
+        "score": 51,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Owen ten Oever profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Owen ten Oever gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .408",
-          "SLG .574"
+          "AVG .324",
+          "OBP .395",
+          "SLG .549"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": ".324"
           },
           {
             "label": "OBP",
-            "value": ".408"
+            "value": ".395"
           },
           {
             "label": "SLG",
-            "value": ".574"
+            "value": ".549"
           },
           {
             "label": "HR",
@@ -7331,7 +7331,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "20"
           },
           {
             "label": "SB",
@@ -7339,10 +7339,10 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           }
         ],
         "components": {
-          "On-base": 71.11111111111109,
-          "Power": 66.84210526315789,
-          "Contact": 67.5,
-          "Discipline": 27.160493827160487,
+          "On-base": 63.888888888888886,
+          "Power": 60.263157894736864,
+          "Contact": 65,
+          "Discipline": 22.22222222222222,
           "Speed": 3.3333333333333335
         },
         "metaLine": "FR / R/R",
@@ -7507,48 +7507,48 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "position": "LHP",
         "classYear": "GR",
         "handedness": "L/L",
-        "score": 15,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Tony Neubeck looks like a LHP option who misses bats.",
+        "summary": "Tony Neubeck looks like a LHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 4.01",
-          "WHIP 1.37",
-          "K/9 9.6"
+          "ERA 3.92",
+          "WHIP 1.34",
+          "K/9 9.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.01"
+            "value": "3.92"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "1.34"
           },
           {
             "label": "K/9",
-            "value": "9.6"
+            "value": "9.8"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "1.08"
+            "value": "0.98"
           },
           {
             "label": "IP",
-            "value": "58.3"
+            "value": "64.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 50.5974025974026,
-          "Command": 31.66666666666667,
+          "Miss bats": 52.661328308996715,
+          "Command": 33.84615384615384,
           "Damage suppression": 0
         },
         "metaLine": "GR / L/L",
@@ -7857,22 +7857,22 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         },
         "summary": "Jake Hanley profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .346",
-          "OBP .437",
-          "SLG .618"
+          "AVG .343",
+          "OBP .439",
+          "SLG .611"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".346"
+            "value": ".343"
           },
           {
             "label": "OBP",
-            "value": ".437"
+            "value": ".439"
           },
           {
             "label": "SLG",
-            "value": ".618"
+            "value": ".611"
           },
           {
             "label": "HR",
@@ -7880,7 +7880,7 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           },
           {
             "label": "RBI",
-            "value": "44"
+            "value": "45"
           },
           {
             "label": "SB",
@@ -7888,10 +7888,10 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           }
         ],
         "components": {
-          "On-base": 87.22222222222221,
-          "Power": 78.42105263157896,
-          "Contact": 78.74999999999999,
-          "Discipline": 67.20867208672087,
+          "On-base": 88.33333333333331,
+          "Power": 76.57894736842105,
+          "Contact": 76.87500000000001,
+          "Discipline": 70.80103359173125,
           "Speed": 0
         },
         "metaLine": "SO / L/R",
@@ -8126,29 +8126,29 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 15,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jackson Yarberry looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 7.30",
-          "WHIP 1.81",
-          "K/9 10.5"
+          "ERA 7.98",
+          "WHIP 1.83",
+          "K/9 10.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.30"
+            "value": "7.98"
           },
           {
             "label": "WHIP",
-            "value": "1.81"
+            "value": "1.83"
           },
           {
             "label": "K/9",
-            "value": "10.5"
+            "value": "10.6"
           },
           {
             "label": "BB/9",
@@ -8156,18 +8156,18 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.46"
+            "value": "1.41"
           },
           {
             "label": "IP",
-            "value": "37.0"
+            "value": "38.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 58.72235872235873,
-          "Command": 23,
+          "Miss bats": 59.683794466403164,
+          "Command": 22.857142857142865,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -8268,24 +8268,24 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Gavin Seebold looks like a RHP option who limits runs and misses bats.",
+        "summary": "Gavin Seebold looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 3.86",
-          "WHIP 1.40",
-          "K/9 11.8"
+          "ERA 4.89",
+          "WHIP 1.51",
+          "K/9 11.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.86"
+            "value": "4.89"
           },
           {
             "label": "WHIP",
-            "value": "1.40"
+            "value": "1.51"
           },
           {
             "label": "K/9",
-            "value": "11.8"
+            "value": "11.7"
           },
           {
             "label": "BB/9",
@@ -8293,17 +8293,17 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.29"
+            "value": "1.49"
           },
           {
             "label": "IP",
-            "value": "42.0"
+            "value": "42.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 70.7792207792208,
+          "Miss bats": 69.93557623478883,
           "Command": 25.83333333333333,
           "Damage suppression": 0
         },
@@ -8401,37 +8401,37 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
         "position": "C",
         "classYear": "R-FR",
         "handedness": "L/R",
-        "score": 33,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brayden Ricketts gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .230",
-          "OBP .373",
-          "SLG .432"
+          "AVG .233",
+          "OBP .374",
+          "SLG .453"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".230"
+            "value": ".233"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".374"
           },
           {
             "label": "SLG",
-            "value": ".432"
+            "value": ".453"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "27"
           },
           {
             "label": "SB",
@@ -8439,9 +8439,9 @@ window.__BASEBALL_DATASETS__.indiana2026 = {
           }
         ],
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 29.47368421052632,
-          "Contact": 6.250000000000005,
+          "On-base": 52.222222222222214,
+          "Power": 35.00000000000001,
+          "Contact": 8.125000000000007,
           "Discipline": 58.02469135802467,
           "Speed": 0
         },
