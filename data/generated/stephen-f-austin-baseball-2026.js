@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
-  "generatedAt": "2026-05-10T11:14:45.035Z",
+  "generatedAt": "2026-05-11T12:51:18.734Z",
   "season": 2026,
   "school": {
     "slug": "stephen-f-austin",
@@ -41,15 +41,15 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
   "teamSummary": {
     "record": "27-25, 15-15",
     "battingAverage": ".278",
-    "earnedRunAverage": "5.84",
+    "earnedRunAverage": "5.89",
     "wins": "27",
     "losses": "25",
     "hitting": {
-      "atBats": "1732",
+      "atBats": "1731",
       "runsScored": "335",
       "hits": "482",
-      "runsBattedIn": "295",
-      "doubles": "81",
+      "runsBattedIn": "293",
+      "doubles": "82",
       "triples": "15",
       "homeRuns": "32",
       "walks": "251",
@@ -59,12 +59,12 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
       "hitByPitch": "41",
       "stolenBases": "84",
       "caughtStealing": "18",
-      "sacrificeHits": "14",
+      "sacrificeHits": "15",
       "sacrificeFlies": "17",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "365",
+      "groundOuts": "364",
       "flyOuts": "494",
       "groundedIntoDoublePlay": "41",
       "pickedOff": "4",
@@ -78,7 +78,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
       "passedBalls": "2",
       "catchersInterference": "0",
       "stolenBasesAgainst": "51",
-      "caughtStealingBy": "10",
+      "caughtStealingBy": "11",
       "involvedInDoublePlays": "42",
       "involvedInTriplePlays": "0",
       "totalChances": "1869",
@@ -94,9 +94,9 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
       "shutouts": "0",
       "creditForCombinedShutout": "0",
       "inningsPitched": "445.0",
-      "hitsAllowed": "525",
+      "hitsAllowed": "526",
       "runsAllowed": "328",
-      "earnedRunsAllowed": "289",
+      "earnedRunsAllowed": "291",
       "walksAllowed": "204",
       "strikeouts": "434",
       "battersFaced": "2092",
@@ -163,11 +163,11 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "imageUrl": "https://sfajacks.com/images/2025/10/14/Cermodrick_Bland_vbsiw.jpg",
         "gamesPlayed": 51,
         "gamesStarted": 50,
-        "battingAverage": 0.291,
-        "onBasePercentage": 0.405,
-        "sluggingPercentage": 0.445,
-        "ops": 0.85,
-        "atBats": 182,
+        "battingAverage": 0.293,
+        "onBasePercentage": 0.407,
+        "sluggingPercentage": 0.448,
+        "ops": 0.855,
+        "atBats": 181,
         "runs": 35,
         "hits": 53,
         "doubles": 7,
@@ -181,7 +181,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 6,
         "sacrificeFlies": 3,
-        "sacrificeHits": 1,
+        "sacrificeHits": 2,
         "stolenBases": 26,
         "stolenBasesAttempts": 30,
         "putouts": 98,
@@ -220,30 +220,30 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 69.44444444444444,
-          "Power": 32.89473684210527,
-          "Contact": 44.374999999999986,
+          "On-base": 70.55555555555553,
+          "Power": 33.684210526315795,
+          "Contact": 45.624999999999986,
           "Discipline": 36.47798742138364,
           "Speed": 86.66666666666667
         },
         "summary": "Cermodrick Bland profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .291",
-          "OBP .405",
-          "SLG .445"
+          "AVG .293",
+          "OBP .407",
+          "SLG .448"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".291"
+            "value": ".293"
           },
           {
             "label": "OBP",
-            "value": ".405"
+            "value": ".407"
           },
           {
             "label": "SLG",
-            "value": ".445"
+            "value": ".448"
           },
           {
             "label": "HR",
@@ -608,7 +608,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "doubles": 8,
         "triples": 0,
         "homeRuns": 3,
-        "runsBattedIn": 27,
+        "runsBattedIn": 26,
         "totalBases": 69,
         "walks": 42,
         "hitByPitch": 4,
@@ -642,7 +642,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "fieldingPercentage": 0.973,
         "doublePlays": 0,
         "stolenBasesAgainst": 27,
-        "caughtStealingBy": 4,
+        "caughtStealingBy": 5,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
@@ -686,7 +686,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "26"
           },
           {
             "label": "SB",
@@ -1552,16 +1552,16 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "gamesStarted": 44,
         "battingAverage": 0.261,
         "onBasePercentage": 0.289,
-        "sluggingPercentage": 0.392,
-        "ops": 0.681,
+        "sluggingPercentage": 0.398,
+        "ops": 0.687,
         "atBats": 176,
         "runs": 19,
         "hits": 46,
-        "doubles": 11,
+        "doubles": 12,
         "triples": 0,
         "homeRuns": 4,
         "runsBattedIn": 30,
-        "totalBases": 69,
+        "totalBases": 70,
         "walks": 7,
         "hitByPitch": 1,
         "strikeouts": 32,
@@ -1608,7 +1608,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         },
         "components": {
           "On-base": 4.999999999999974,
-          "Power": 18.947368421052634,
+          "Power": 20.52631578947369,
           "Contact": 25.625000000000004,
           "Discipline": 2.0833333333333317,
           "Speed": 3.3333333333333335
@@ -1617,7 +1617,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "summaryMetrics": [
           "AVG .261",
           "OBP .289",
-          "SLG .392"
+          "SLG .398"
         ],
         "statCards": [
           {
@@ -1630,7 +1630,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           },
           {
             "label": "SLG",
-            "value": ".392"
+            "value": ".398"
           },
           {
             "label": "HR",
@@ -3137,7 +3137,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "doubles": 12,
         "triples": 4,
         "homeRuns": 5,
-        "runsBattedIn": 54,
+        "runsBattedIn": 53,
         "totalBases": 105,
         "walks": 12,
         "hitByPitch": 4,
@@ -3215,7 +3215,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           },
           {
             "label": "RBI",
-            "value": "54"
+            "value": "53"
           },
           {
             "label": "SB",
@@ -4397,14 +4397,14 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "appearances": 12,
         "gamesCompleted": 0,
         "earnedRunAverage": 11.37,
-        "whip": 2.68,
+        "whip": 2.76,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
         "inningsPitched": 12.666666666666666,
         "inningsPitchedDisplay": "12.2",
-        "hitsAllowed": 26,
+        "hitsAllowed": 27,
         "runsAllowed": 18,
         "earnedRunsAllowed": 16,
         "walksAllowed": 8,
@@ -4416,7 +4416,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "wildPitches": 1,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.413,
+        "opponentsBattingAverage": 0.429,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4456,7 +4456,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "summary": "Jonathan Valdez looks like a RHP option who misses bats.",
         "summaryMetrics": [
           "ERA 11.37",
-          "WHIP 2.68",
+          "WHIP 2.76",
           "K/9 10.7"
         ],
         "statCards": [
@@ -4466,7 +4466,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           },
           {
             "label": "WHIP",
-            "value": "2.68"
+            "value": "2.76"
           },
           {
             "label": "K/9",
@@ -5824,22 +5824,22 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         },
         "summary": "Cermodrick Bland profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .291",
-          "OBP .405",
-          "SLG .445"
+          "AVG .293",
+          "OBP .407",
+          "SLG .448"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".291"
+            "value": ".293"
           },
           {
             "label": "OBP",
-            "value": ".405"
+            "value": ".407"
           },
           {
             "label": "SLG",
-            "value": ".445"
+            "value": ".448"
           },
           {
             "label": "HR",
@@ -5855,9 +5855,9 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           }
         ],
         "components": {
-          "On-base": 69.44444444444444,
-          "Power": 32.89473684210527,
-          "Contact": 44.374999999999986,
+          "On-base": 70.55555555555553,
+          "Power": 33.684210526315795,
+          "Contact": 45.624999999999986,
           "Discipline": 36.47798742138364,
           "Speed": 86.66666666666667
         },
@@ -6054,7 +6054,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "26"
           },
           {
             "label": "SB",
@@ -6515,7 +6515,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "summaryMetrics": [
           "AVG .261",
           "OBP .289",
-          "SLG .392"
+          "SLG .398"
         ],
         "statCards": [
           {
@@ -6528,7 +6528,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           },
           {
             "label": "SLG",
-            "value": ".392"
+            "value": ".398"
           },
           {
             "label": "HR",
@@ -6545,7 +6545,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         ],
         "components": {
           "On-base": 4.999999999999974,
-          "Power": 18.947368421052634,
+          "Power": 20.52631578947369,
           "Contact": 25.625000000000004,
           "Discipline": 2.0833333333333317,
           "Speed": 3.3333333333333335
@@ -7295,7 +7295,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           },
           {
             "label": "RBI",
-            "value": "54"
+            "value": "53"
           },
           {
             "label": "SB",
@@ -7893,7 +7893,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "summary": "Jonathan Valdez looks like a RHP option who misses bats.",
         "summaryMetrics": [
           "ERA 11.37",
-          "WHIP 2.68",
+          "WHIP 2.76",
           "K/9 10.7"
         ],
         "statCards": [
@@ -7903,7 +7903,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           },
           {
             "label": "WHIP",
-            "value": "2.68"
+            "value": "2.76"
           },
           {
             "label": "K/9",

@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.seton-hall2026 = {
-  "generatedAt": "2026-05-10T11:14:42.657Z",
+  "generatedAt": "2026-05-11T12:51:15.354Z",
   "season": 2026,
   "school": {
     "slug": "seton-hall",
@@ -39,87 +39,87 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
     }
   },
   "teamSummary": {
-    "record": "15-27, 2-15",
-    "battingAverage": ".247",
-    "earnedRunAverage": "6.24",
+    "record": "15-28, 2-16",
+    "battingAverage": ".250",
+    "earnedRunAverage": "6.26",
     "wins": "15",
-    "losses": "27",
+    "losses": "28",
     "hitting": {
-      "atBats": "1342",
-      "runsScored": "195",
-      "hits": "331",
-      "runsBattedIn": "182",
-      "doubles": "61",
+      "atBats": "1378",
+      "runsScored": "198",
+      "hits": "344",
+      "runsBattedIn": "185",
+      "doubles": "62",
       "triples": "17",
       "homeRuns": "9",
-      "walks": "186",
+      "walks": "188",
       "intentionalWalks": "1",
-      "strikeouts": "340",
-      "strikeoutsLooking": "77",
+      "strikeouts": "348",
+      "strikeoutsLooking": "83",
       "hitByPitch": "46",
       "stolenBases": "56",
       "caughtStealing": "17",
-      "sacrificeHits": "26",
+      "sacrificeHits": "27",
       "sacrificeFlies": "22",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "359",
-      "flyOuts": "333",
-      "groundedIntoDoublePlay": "19",
+      "groundOuts": "367",
+      "flyOuts": "341",
+      "groundedIntoDoublePlay": "20",
       "pickedOff": "4",
-      "doublePlaysHitInto": "25",
+      "doublePlaysHitInto": "27",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1086",
-      "assists": "395",
+      "putouts": "1113",
+      "assists": "409",
       "errors": "58",
-      "passedBalls": "11",
+      "passedBalls": "12",
       "catchersInterference": "1",
-      "stolenBasesAgainst": "103",
-      "caughtStealingBy": "20",
-      "involvedInDoublePlays": "28",
+      "stolenBasesAgainst": "106",
+      "caughtStealingBy": "22",
+      "involvedInDoublePlays": "29",
       "involvedInTriplePlays": "0",
-      "totalChances": "1539",
-      "fieldingPercentage": ".962"
+      "totalChances": "1580",
+      "fieldingPercentage": ".963"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "15",
       "saves": "0",
-      "losses": "26",
+      "losses": "27",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "0",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "362.0",
-      "hitsAllowed": "394",
-      "runsAllowed": "296",
-      "earnedRunsAllowed": "251",
-      "walksAllowed": "206",
-      "strikeouts": "314",
-      "battersFaced": "1720",
-      "opponentAtBats": "1414",
+      "inningsPitched": "371.0",
+      "hitsAllowed": "406",
+      "runsAllowed": "303",
+      "earnedRunsAllowed": "258",
+      "walksAllowed": "214",
+      "strikeouts": "318",
+      "battersFaced": "1763",
+      "opponentAtBats": "1447",
       "doublesAllowed": "80",
       "triplesAllowed": "9",
-      "homerunsAllowed": "32",
-      "wildPitches": "38",
+      "homerunsAllowed": "33",
+      "wildPitches": "40",
       "balks": "3",
       "hitBatters": "60",
-      "strikeoutsLooking": "79",
+      "strikeoutsLooking": "81",
       "intentionalWalks": "1",
       "inheritedRunners": "0",
       "inheritedRunnersThatScored": "0",
-      "sacrificeHitsAllowed": "16",
-      "sacrificeFliesAllowed": "23",
+      "sacrificeHitsAllowed": "17",
+      "sacrificeFliesAllowed": "24",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6333",
-      "flyouts": "358",
-      "groundouts": "347",
+      "pitches": "6505",
+      "flyouts": "366",
+      "groundouts": "358",
       "teamUnearnedRuns": "0",
       "saveRecord": "0",
-      "pickoff": "4"
+      "pickoff": "5"
     }
   },
   "players": [
@@ -161,13 +161,13 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "1",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/gabe-cavazzoni/7762",
         "imageUrl": "https://shupirates.com/images/2026/1/21/1_Cavazzoni.png",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "battingAverage": 0.304,
-        "onBasePercentage": 0.392,
-        "sluggingPercentage": 0.5,
-        "ops": 0.892,
-        "atBats": 158,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "battingAverage": 0.296,
+        "onBasePercentage": 0.384,
+        "sluggingPercentage": 0.488,
+        "ops": 0.872,
+        "atBats": 162,
         "runs": 31,
         "hits": 48,
         "doubles": 14,
@@ -177,17 +177,17 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "totalBases": 79,
         "walks": 21,
         "hitByPitch": 4,
-        "strikeouts": 46,
+        "strikeouts": 48,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 14,
         "stolenBasesAttempts": 18,
-        "putouts": 80,
+        "putouts": 84,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 208,
+        "plateAppearances": 212,
         "caughtStealing": 4,
         "pickedOff": 1
       },
@@ -199,51 +199,51 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "1",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/gabe-cavazzoni/7762",
         "imageUrl": "https://shupirates.com/images/2026/1/21/1_Cavazzoni.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "putouts": 80,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "putouts": 84,
         "assists": 3,
         "errors": 2,
-        "fieldingPercentage": 0.976,
+        "fieldingPercentage": 0.978,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 85
+        "totalChances": 89
       },
       "evaluation": {
-        "score": 50,
+        "score": 47,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 62.22222222222222,
-          "Power": 47.36842105263158,
-          "Contact": 52.49999999999999,
-          "Discipline": 28.502415458937193,
+          "On-base": 57.77777777777777,
+          "Power": 44.21052631578947,
+          "Contact": 47.499999999999986,
+          "Discipline": 26.388888888888886,
           "Speed": 46.666666666666664
         },
         "summary": "Gabe Cavazzoni profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .304",
-          "OBP .392",
-          "SLG .500"
+          "AVG .296",
+          "OBP .384",
+          "SLG .488"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".304"
+            "value": ".296"
           },
           {
             "label": "OBP",
-            "value": ".392"
+            "value": ".384"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".488"
           },
           {
             "label": "HR",
@@ -306,20 +306,20 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "3",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/joe-marini/7777",
         "imageUrl": "https://shupirates.com/images/2026/1/21/3_Marini.png",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 10,
-        "battingAverage": 0.162,
-        "onBasePercentage": 0.289,
-        "sluggingPercentage": 0.216,
-        "ops": 0.505,
-        "atBats": 37,
+        "battingAverage": 0.184,
+        "onBasePercentage": 0.304,
+        "sluggingPercentage": 0.237,
+        "ops": 0.541,
+        "atBats": 38,
         "runs": 8,
-        "hits": 6,
+        "hits": 7,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 5,
-        "totalBases": 8,
+        "totalBases": 9,
         "walks": 6,
         "hitByPitch": 1,
         "strikeouts": 13,
@@ -332,7 +332,7 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "putouts": 20,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 47,
+        "plateAppearances": 48,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -359,13 +359,13 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "totalChances": 23
       },
       "evaluation": {
-        "score": 6,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 4.999999999999974,
+          "On-base": 13.333333333333314,
           "Power": 0,
           "Contact": 0,
           "Discipline": 29.059829059829056,
@@ -373,22 +373,22 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         },
         "summary": "Joe Marini gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .162",
-          "OBP .289",
-          "SLG .216"
+          "AVG .184",
+          "OBP .304",
+          "SLG .237"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".162"
+            "value": ".184"
           },
           {
             "label": "OBP",
-            "value": ".289"
+            "value": ".304"
           },
           {
             "label": "SLG",
-            "value": ".216"
+            "value": ".237"
           },
           {
             "label": "HR",
@@ -451,33 +451,33 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "4",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/magnus-krieger/7771",
         "imageUrl": "https://shupirates.com/images/2026/1/21/4_Kreiger.png",
-        "gamesPlayed": 27,
-        "gamesStarted": 27,
-        "battingAverage": 0.289,
-        "onBasePercentage": 0.395,
-        "sluggingPercentage": 0.392,
-        "ops": 0.787,
-        "atBats": 97,
+        "gamesPlayed": 28,
+        "gamesStarted": 28,
+        "battingAverage": 0.287,
+        "onBasePercentage": 0.39,
+        "sluggingPercentage": 0.386,
+        "ops": 0.776,
+        "atBats": 101,
         "runs": 15,
-        "hits": 28,
+        "hits": 29,
         "doubles": 4,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 18,
-        "totalBases": 38,
+        "totalBases": 39,
         "walks": 13,
         "hitByPitch": 4,
-        "strikeouts": 30,
+        "strikeouts": 31,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
-        "putouts": 50,
+        "putouts": 52,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 118,
+        "plateAppearances": 122,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -489,51 +489,51 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "4",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/magnus-krieger/7771",
         "imageUrl": "https://shupirates.com/images/2026/1/21/4_Kreiger.png",
-        "gamesPlayed": 25,
-        "gamesStarted": 25,
-        "putouts": 50,
+        "gamesPlayed": 26,
+        "gamesStarted": 26,
+        "putouts": 52,
         "assists": 1,
         "errors": 2,
-        "fieldingPercentage": 0.962,
+        "fieldingPercentage": 0.964,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 53
+        "totalChances": 55
       },
       "evaluation": {
-        "score": 37,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 18.947368421052634,
-          "Contact": 43.124999999999986,
-          "Discipline": 25.925925925925924,
+          "On-base": 61.11111111111111,
+          "Power": 17.368421052631582,
+          "Contact": 41.874999999999986,
+          "Discipline": 24.37275985663082,
           "Speed": 6.666666666666667
         },
         "summary": "Magnus Krieger gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .289",
-          "OBP .395",
-          "SLG .392"
+          "AVG .287",
+          "OBP .390",
+          "SLG .386"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": ".287"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": ".390"
           },
           {
             "label": "SLG",
-            "value": ".392"
+            "value": ".386"
           },
           {
             "label": "HR",
@@ -741,25 +741,25 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "6",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/ty-acker/7779",
         "imageUrl": "https://shupirates.com/images/2026/1/21/6_Acker.png",
-        "gamesPlayed": 26,
-        "gamesStarted": 21,
-        "battingAverage": 0.178,
-        "onBasePercentage": 0.287,
-        "sluggingPercentage": 0.219,
-        "ops": 0.506,
-        "atBats": 73,
-        "runs": 9,
-        "hits": 13,
+        "gamesPlayed": 27,
+        "gamesStarted": 22,
+        "battingAverage": 0.195,
+        "onBasePercentage": 0.297,
+        "sluggingPercentage": 0.234,
+        "ops": 0.531,
+        "atBats": 77,
+        "runs": 10,
+        "hits": 15,
         "doubles": 3,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 8,
-        "totalBases": 16,
+        "totalBases": 18,
         "walks": 9,
         "hitByPitch": 3,
-        "strikeouts": 24,
+        "strikeouts": 25,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
+        "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 0,
@@ -767,7 +767,7 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "putouts": 21,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 89,
+        "plateAppearances": 93,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -794,36 +794,36 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "totalChances": 63
       },
       "evaluation": {
-        "score": 4,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 3.8888888888888618,
+          "On-base": 9.444444444444422,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 19.44444444444444,
+          "Discipline": 17.77777777777777,
           "Speed": 0
         },
         "summary": "Ty Acker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .178",
-          "OBP .287",
-          "SLG .219"
+          "AVG .195",
+          "OBP .297",
+          "SLG .234"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".178"
+            "value": ".195"
           },
           {
             "label": "OBP",
-            "value": ".287"
+            "value": ".297"
           },
           {
             "label": "SLG",
-            "value": ".219"
+            "value": ".234"
           },
           {
             "label": "HR",
@@ -887,28 +887,28 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "7",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/stephen-curry/7765",
         "imageUrl": "https://shupirates.com/images/2026/1/21/7_Curry.png",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 0,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.67,
-        "whip": 1.56,
+        "earnedRunAverage": 4.91,
+        "whip": 1.57,
         "wins": 2,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 27,
-        "inningsPitchedDisplay": "27.0",
-        "hitsAllowed": 26,
-        "runsAllowed": 17,
-        "earnedRunsAllowed": 14,
-        "walksAllowed": 16,
-        "strikeouts": 21,
+        "inningsPitched": 29.333333333333332,
+        "inningsPitchedDisplay": "29.1",
+        "hitsAllowed": 28,
+        "runsAllowed": 19,
+        "earnedRunsAllowed": 16,
+        "walksAllowed": 18,
+        "strikeouts": 22,
         "doublesAllowed": 6,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 107,
-        "wildPitches": 4,
+        "opponentsAtBats": 115,
+        "wildPitches": 5,
         "hitBatters": 8,
         "balks": 0,
         "opponentsBattingAverage": 0.243,
@@ -921,19 +921,19 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "7",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/stephen-curry/7765",
         "imageUrl": "https://shupirates.com/images/2026/1/21/7_Curry.png",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 0,
         "putouts": 4,
-        "assists": 3,
+        "assists": 4,
         "errors": 1,
-        "fieldingPercentage": 0.875,
+        "fieldingPercentage": 0.889,
         "doublePlays": 0,
-        "stolenBasesAgainst": 7,
+        "stolenBasesAgainst": 8,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 8
+        "totalChances": 9
       },
       "evaluation": {
         "score": 6,
@@ -944,40 +944,40 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 27.27272727272727,
-          "Command": 6.25,
+          "Miss bats": 25,
+          "Command": 4.444444444444442,
           "Damage suppression": 0
         },
         "summary": "Stephen Curry gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.67",
-          "WHIP 1.56",
-          "K/9 7.0"
+          "ERA 4.91",
+          "WHIP 1.57",
+          "K/9 6.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.67"
+            "value": "4.91"
           },
           {
             "label": "WHIP",
-            "value": "1.56"
+            "value": "1.57"
           },
           {
             "label": "K/9",
-            "value": "7.0"
+            "value": "6.8"
           },
           {
             "label": "BB/9",
-            "value": "5.3"
+            "value": "5.5"
           },
           {
             "label": "HR/9",
-            "value": "1.00"
+            "value": "0.92"
           },
           {
             "label": "IP",
-            "value": "27.0"
+            "value": "29.3"
           }
         ],
         "metaLine": "SO / R/R",
@@ -1173,33 +1173,33 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "10",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/aiden-dill/7766",
         "imageUrl": "https://shupirates.com/images/2026/1/21/10_Dill.png",
-        "gamesPlayed": 33,
-        "gamesStarted": 31,
-        "battingAverage": 0.187,
-        "onBasePercentage": 0.326,
-        "sluggingPercentage": 0.252,
-        "ops": 0.578,
-        "atBats": 107,
+        "gamesPlayed": 34,
+        "gamesStarted": 32,
+        "battingAverage": 0.191,
+        "onBasePercentage": 0.331,
+        "sluggingPercentage": 0.255,
+        "ops": 0.586,
+        "atBats": 110,
         "runs": 20,
-        "hits": 20,
+        "hits": 21,
         "doubles": 2,
         "triples": 1,
         "homeRuns": 1,
         "runsBattedIn": 10,
-        "totalBases": 27,
-        "walks": 19,
+        "totalBases": 28,
+        "walks": 20,
         "hitByPitch": 4,
-        "strikeouts": 19,
+        "strikeouts": 20,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
         "sacrificeHits": 2,
         "stolenBases": 22,
         "stolenBasesAttempts": 24,
-        "putouts": 80,
+        "putouts": 82,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 160,
+        "plateAppearances": 164,
         "caughtStealing": 2,
         "pickedOff": 2
       },
@@ -1211,28 +1211,28 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "10",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/aiden-dill/7766",
         "imageUrl": "https://shupirates.com/images/2026/1/21/10_Dill.png",
-        "gamesPlayed": 29,
-        "gamesStarted": 29,
-        "putouts": 80,
+        "gamesPlayed": 30,
+        "gamesStarted": 30,
+        "putouts": 82,
         "assists": 6,
         "errors": 3,
-        "fieldingPercentage": 0.966,
+        "fieldingPercentage": 0.967,
         "doublePlays": 2,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 89
+        "totalChances": 91
       },
       "evaluation": {
-        "score": 28,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 25.555555555555546,
+          "On-base": 28.33333333333333,
           "Power": 0,
           "Contact": 0,
           "Discipline": 88.88888888888889,
@@ -1240,22 +1240,22 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         },
         "summary": "Aiden Dill profiles as a OF piece who controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .187",
-          "OBP .326",
-          "SLG .252"
+          "AVG .191",
+          "OBP .331",
+          "SLG .255"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".187"
+            "value": ".191"
           },
           {
             "label": "OBP",
-            "value": ".326"
+            "value": ".331"
           },
           {
             "label": "SLG",
-            "value": ".252"
+            "value": ".255"
           },
           {
             "label": "HR",
@@ -1750,21 +1750,21 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "14",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/ryan-frontera/7770",
         "imageUrl": "https://shupirates.com/images/2026/1/21/14_Frontera.png",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "battingAverage": 0.323,
-        "onBasePercentage": 0.407,
-        "sluggingPercentage": 0.374,
-        "ops": 0.781,
-        "atBats": 155,
-        "runs": 25,
-        "hits": 50,
+        "gamesPlayed": 43,
+        "gamesStarted": 43,
+        "battingAverage": 0.321,
+        "onBasePercentage": 0.406,
+        "sluggingPercentage": 0.371,
+        "ops": 0.777,
+        "atBats": 159,
+        "runs": 26,
+        "hits": 51,
         "doubles": 5,
         "triples": 0,
         "homeRuns": 1,
         "runsBattedIn": 21,
-        "totalBases": 58,
-        "walks": 20,
+        "totalBases": 59,
+        "walks": 21,
         "hitByPitch": 4,
         "strikeouts": 26,
         "intentionalWalks": 0,
@@ -1776,7 +1776,7 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "putouts": 33,
         "assists": 0,
         "errors": 12,
-        "plateAppearances": 185,
+        "plateAppearances": 190,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1788,19 +1788,19 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "14",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/ryan-frontera/7770",
         "imageUrl": "https://shupirates.com/images/2026/1/21/14_Frontera.png",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
         "putouts": 33,
-        "assists": 67,
+        "assists": 70,
         "errors": 12,
-        "fieldingPercentage": 0.893,
+        "fieldingPercentage": 0.896,
         "doublePlays": 4,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 112
+        "totalChances": 115
       },
       "evaluation": {
         "score": 47,
@@ -1809,30 +1809,30 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 70.55555555555553,
-          "Power": 14.210526315789473,
-          "Contact": 64.375,
-          "Discipline": 63.247863247863236,
+          "On-base": 70,
+          "Power": 13.421052631578947,
+          "Contact": 63.125,
+          "Discipline": 67.52136752136751,
           "Speed": 6.666666666666667
         },
         "summary": "Ryan Frontera profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .323",
-          "OBP .407",
-          "SLG .374"
+          "AVG .321",
+          "OBP .406",
+          "SLG .371"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".323"
+            "value": ".321"
           },
           {
             "label": "OBP",
-            "value": ".407"
+            "value": ".406"
           },
           {
             "label": "SLG",
-            "value": ".374"
+            "value": ".371"
           },
           {
             "label": "HR",
@@ -1896,31 +1896,31 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "16",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/ryan-reich/7773",
         "imageUrl": "https://shupirates.com/images/2026/1/21/16_Reich.png",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 1,
-        "appearances": 19,
+        "appearances": 20,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.23,
-        "whip": 1.81,
+        "earnedRunAverage": 3.94,
+        "whip": 1.79,
         "wins": 1,
         "losses": 2,
         "saves": 2,
         "shutouts": 0,
-        "inningsPitched": 27.666666666666668,
-        "inningsPitchedDisplay": "27.2",
-        "hitsAllowed": 28,
+        "inningsPitched": 29.666666666666668,
+        "inningsPitchedDisplay": "29.2",
+        "hitsAllowed": 29,
         "runsAllowed": 14,
         "earnedRunsAllowed": 13,
-        "walksAllowed": 22,
-        "strikeouts": 34,
+        "walksAllowed": 24,
+        "strikeouts": 35,
         "doublesAllowed": 5,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 105,
-        "wildPitches": 2,
+        "opponentsAtBats": 110,
+        "wildPitches": 3,
         "hitBatters": 0,
         "balks": 1,
-        "opponentsBattingAverage": 0.267,
+        "opponentsBattingAverage": 0.264,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1930,7 +1930,7 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "16",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/ryan-reich/7773",
         "imageUrl": "https://shupirates.com/images/2026/1/21/16_Reich.png",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 1,
         "putouts": 1,
         "assists": 4,
@@ -1938,14 +1938,14 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "fieldingPercentage": 0.833,
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
-        "caughtStealingBy": 1,
+        "caughtStealingBy": 2,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 6
       },
       "evaluation": {
-        "score": 15,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1953,40 +1953,40 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 64.18400876232201,
-          "Command": 10.909090909090908,
+          "Miss bats": 60.163432073544435,
+          "Command": 9.16666666666667,
           "Damage suppression": 0
         },
-        "summary": "Ryan Reich looks like a RHP option who misses bats.",
+        "summary": "Ryan Reich looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 4.23",
-          "WHIP 1.81",
-          "K/9 11.1"
+          "ERA 3.94",
+          "WHIP 1.79",
+          "K/9 10.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.23"
+            "value": "3.94"
           },
           {
             "label": "WHIP",
-            "value": "1.81"
+            "value": "1.79"
           },
           {
             "label": "K/9",
-            "value": "11.1"
+            "value": "10.6"
           },
           {
             "label": "BB/9",
-            "value": "7.2"
+            "value": "7.3"
           },
           {
             "label": "HR/9",
-            "value": "0.33"
+            "value": "0.30"
           },
           {
             "label": "IP",
-            "value": "27.7"
+            "value": "29.7"
           }
         ],
         "metaLine": "SR / R/R",
@@ -2179,20 +2179,20 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "21",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/nick-tomasetto/7782",
         "imageUrl": "https://shupirates.com/images/2026/1/21/21_Tomasetto.png",
-        "gamesPlayed": 38,
-        "gamesStarted": 35,
-        "battingAverage": 0.27,
-        "onBasePercentage": 0.386,
-        "sluggingPercentage": 0.46,
-        "ops": 0.846,
-        "atBats": 126,
+        "gamesPlayed": 39,
+        "gamesStarted": 36,
+        "battingAverage": 0.277,
+        "onBasePercentage": 0.389,
+        "sluggingPercentage": 0.462,
+        "ops": 0.851,
+        "atBats": 130,
         "runs": 15,
-        "hits": 34,
+        "hits": 36,
         "doubles": 10,
         "triples": 4,
         "homeRuns": 2,
-        "runsBattedIn": 19,
-        "totalBases": 58,
+        "runsBattedIn": 21,
+        "totalBases": 60,
         "walks": 21,
         "hitByPitch": 4,
         "strikeouts": 34,
@@ -2202,10 +2202,10 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "sacrificeHits": 1,
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
-        "putouts": 18,
+        "putouts": 19,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 160,
+        "plateAppearances": 164,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2217,51 +2217,51 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "21",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/nick-tomasetto/7782",
         "imageUrl": "https://shupirates.com/images/2026/1/21/21_Tomasetto.png",
-        "gamesPlayed": 17,
-        "gamesStarted": 16,
-        "putouts": 18,
-        "assists": 55,
+        "gamesPlayed": 18,
+        "gamesStarted": 17,
+        "putouts": 19,
+        "assists": 57,
         "errors": 5,
-        "fieldingPercentage": 0.936,
-        "doublePlays": 6,
+        "fieldingPercentage": 0.938,
+        "doublePlays": 7,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 78
+        "totalChances": 81
       },
       "evaluation": {
-        "score": 42,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 58.88888888888888,
-          "Power": 36.842105263157904,
-          "Contact": 31.25000000000001,
+          "On-base": 60.55555555555555,
+          "Power": 37.36842105263159,
+          "Contact": 35.625000000000014,
           "Discipline": 46.40522875816993,
           "Speed": 13.333333333333334
         },
         "summary": "Nick Tomasetto gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .270",
-          "OBP .386",
-          "SLG .460"
+          "AVG .277",
+          "OBP .389",
+          "SLG .462"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".270"
+            "value": ".277"
           },
           {
             "label": "OBP",
-            "value": ".386"
+            "value": ".389"
           },
           {
             "label": "SLG",
-            "value": ".460"
+            "value": ".462"
           },
           {
             "label": "HR",
@@ -2269,7 +2269,7 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
           },
           {
             "label": "RBI",
-            "value": "19"
+            "value": "21"
           },
           {
             "label": "SB",
@@ -2987,31 +2987,31 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "27",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/john-higgins/7785",
         "imageUrl": "https://shupirates.com/images/2026/1/21/27_Higgins.png",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 0,
-        "appearances": 19,
+        "appearances": 20,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.67,
-        "whip": 1.11,
+        "earnedRunAverage": 3.41,
+        "whip": 1.14,
         "wins": 0,
         "losses": 1,
         "saves": 8,
         "shutouts": 0,
-        "inningsPitched": 27,
-        "inningsPitchedDisplay": "27.0",
-        "hitsAllowed": 20,
+        "inningsPitched": 29,
+        "inningsPitchedDisplay": "29.0",
+        "hitsAllowed": 22,
         "runsAllowed": 11,
         "earnedRunsAllowed": 11,
-        "walksAllowed": 10,
-        "strikeouts": 33,
+        "walksAllowed": 11,
+        "strikeouts": 34,
         "doublesAllowed": 5,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 94,
+        "opponentsAtBats": 101,
         "wildPitches": 3,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.213,
+        "opponentsBattingAverage": 0.218,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3021,22 +3021,22 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "27",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/john-higgins/7785",
         "imageUrl": "https://shupirates.com/images/2026/1/21/27_Higgins.png",
-        "gamesPlayed": 3,
+        "gamesPlayed": 4,
         "gamesStarted": 0,
         "putouts": 0,
         "assists": 4,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 1,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 1,
+        "stolenBasesAgainst": 4,
+        "caughtStealingBy": 2,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
       },
       "evaluation": {
-        "score": 20,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3044,32 +3044,32 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 63.63636363636363,
-          "Command": 46,
+          "Miss bats": 59.56112852664576,
+          "Command": 41.81818181818181,
           "Damage suppression": 0
         },
         "summary": "John Higgins looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.67",
-          "WHIP 1.11",
-          "K/9 11.0"
+          "ERA 3.41",
+          "WHIP 1.14",
+          "K/9 10.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.67"
+            "value": "3.41"
           },
           {
             "label": "WHIP",
-            "value": "1.11"
+            "value": "1.14"
           },
           {
             "label": "K/9",
-            "value": "11.0"
+            "value": "10.6"
           },
           {
             "label": "BB/9",
-            "value": "3.3"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
@@ -3077,7 +3077,7 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
           },
           {
             "label": "IP",
-            "value": "27.0"
+            "value": "29.0"
           }
         ],
         "metaLine": "GR / N/A",
@@ -3128,33 +3128,33 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "29",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/shea-grady/7786",
         "imageUrl": "https://shupirates.com/images/2026/1/21/29_Grady.png",
-        "gamesPlayed": 31,
-        "gamesStarted": 28,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.359,
-        "sluggingPercentage": 0.29,
-        "ops": 0.649,
-        "atBats": 100,
-        "runs": 12,
-        "hits": 25,
-        "doubles": 2,
+        "gamesPlayed": 32,
+        "gamesStarted": 29,
+        "battingAverage": 0.267,
+        "onBasePercentage": 0.369,
+        "sluggingPercentage": 0.314,
+        "ops": 0.683,
+        "atBats": 105,
+        "runs": 13,
+        "hits": 28,
+        "doubles": 3,
         "triples": 1,
         "homeRuns": 0,
-        "runsBattedIn": 12,
-        "totalBases": 29,
+        "runsBattedIn": 13,
+        "totalBases": 33,
         "walks": 13,
         "hitByPitch": 4,
-        "strikeouts": 22,
+        "strikeouts": 23,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
         "sacrificeHits": 5,
         "stolenBases": 3,
         "stolenBasesAttempts": 5,
-        "putouts": 58,
+        "putouts": 61,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 129,
+        "plateAppearances": 134,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -3166,51 +3166,51 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "29",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/shea-grady/7786",
         "imageUrl": "https://shupirates.com/images/2026/1/21/29_Grady.png",
-        "gamesPlayed": 25,
-        "gamesStarted": 25,
-        "putouts": 58,
-        "assists": 46,
+        "gamesPlayed": 26,
+        "gamesStarted": 26,
+        "putouts": 61,
+        "assists": 49,
         "errors": 6,
-        "fieldingPercentage": 0.945,
-        "doublePlays": 11,
+        "fieldingPercentage": 0.948,
+        "doublePlays": 12,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 110
+        "totalChances": 116
       },
       "evaluation": {
-        "score": 25,
+        "score": 28,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 43.888888888888864,
+          "On-base": 49.44444444444443,
           "Power": 0,
-          "Contact": 18.75,
-          "Discipline": 43.43434343434343,
+          "Contact": 29.375000000000007,
+          "Discipline": 40.579710144927525,
           "Speed": 10
         },
         "summary": "Shea Grady gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .359",
-          "SLG .290"
+          "AVG .267",
+          "OBP .369",
+          "SLG .314"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".267"
           },
           {
             "label": "OBP",
-            "value": ".359"
+            "value": ".369"
           },
           {
             "label": "SLG",
-            "value": ".290"
+            "value": ".314"
           },
           {
             "label": "HR",
@@ -3218,7 +3218,7 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "SB",
@@ -3361,13 +3361,13 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "31",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/vincent-duffy/7788",
         "imageUrl": "https://shupirates.com/images/2026/1/21/31_Duffy.png",
-        "gamesPlayed": 16,
-        "gamesStarted": 14,
-        "battingAverage": 0.105,
-        "onBasePercentage": 0.227,
-        "sluggingPercentage": 0.105,
-        "ops": 0.332,
-        "atBats": 38,
+        "gamesPlayed": 17,
+        "gamesStarted": 15,
+        "battingAverage": 0.1,
+        "onBasePercentage": 0.217,
+        "sluggingPercentage": 0.1,
+        "ops": 0.317,
+        "atBats": 40,
         "runs": 3,
         "hits": 4,
         "doubles": 0,
@@ -3377,17 +3377,17 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "totalBases": 4,
         "walks": 5,
         "hitByPitch": 1,
-        "strikeouts": 10,
+        "strikeouts": 12,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
-        "sacrificeHits": 4,
+        "sacrificeHits": 5,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 88,
+        "putouts": 92,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 51,
+        "plateAppearances": 54,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3399,22 +3399,22 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "31",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/vincent-duffy/7788",
         "imageUrl": "https://shupirates.com/images/2026/1/21/31_Duffy.png",
-        "gamesPlayed": 15,
-        "gamesStarted": 14,
-        "putouts": 88,
-        "assists": 8,
+        "gamesPlayed": 16,
+        "gamesStarted": 15,
+        "putouts": 92,
+        "assists": 10,
         "errors": 5,
-        "fieldingPercentage": 0.95,
+        "fieldingPercentage": 0.953,
         "doublePlays": 1,
-        "stolenBasesAgainst": 30,
-        "caughtStealingBy": 4,
+        "stolenBasesAgainst": 33,
+        "caughtStealingBy": 6,
         "stolenBasesPercentage": null,
-        "passedBalls": 4,
+        "passedBalls": 5,
         "catchersInterference": 0,
-        "totalChances": 101
+        "totalChances": 107
       },
       "evaluation": {
-        "score": 6,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3423,27 +3423,27 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 33.33333333333333,
+          "Discipline": 24.07407407407407,
           "Speed": 10
         },
         "summary": "Vincent Duffy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .105",
-          "OBP .227",
-          "SLG .105"
+          "AVG .100",
+          "OBP .217",
+          "SLG .100"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".105"
+            "value": ".100"
           },
           {
             "label": "OBP",
-            "value": ".227"
+            "value": ".217"
           },
           {
             "label": "SLG",
-            "value": ".105"
+            "value": ".100"
           },
           {
             "label": "HR",
@@ -3506,20 +3506,20 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "32",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/frankie-scrivanic/7774",
         "imageUrl": "https://shupirates.com/images/2026/1/21/32_Scrivanic.png",
-        "gamesPlayed": 37,
-        "gamesStarted": 35,
-        "battingAverage": 0.26,
-        "onBasePercentage": 0.34,
-        "sluggingPercentage": 0.307,
-        "ops": 0.647,
-        "atBats": 127,
+        "gamesPlayed": 38,
+        "gamesStarted": 36,
+        "battingAverage": 0.267,
+        "onBasePercentage": 0.344,
+        "sluggingPercentage": 0.313,
+        "ops": 0.657,
+        "atBats": 131,
         "runs": 12,
-        "hits": 33,
+        "hits": 35,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 17,
-        "totalBases": 39,
+        "totalBases": 41,
         "walks": 14,
         "hitByPitch": 3,
         "strikeouts": 29,
@@ -3529,10 +3529,10 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "sacrificeHits": 3,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 271,
+        "putouts": 282,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 150,
+        "plateAppearances": 154,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3544,51 +3544,51 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "32",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/frankie-scrivanic/7774",
         "imageUrl": "https://shupirates.com/images/2026/1/21/32_Scrivanic.png",
-        "gamesPlayed": 32,
-        "gamesStarted": 31,
-        "putouts": 271,
+        "gamesPlayed": 33,
+        "gamesStarted": 32,
+        "putouts": 282,
         "assists": 14,
         "errors": 3,
         "fieldingPercentage": 0.99,
-        "doublePlays": 19,
+        "doublePlays": 20,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 288
+        "totalChances": 299
       },
       "evaluation": {
-        "score": 20,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 33.33333333333333,
+          "On-base": 35.55555555555553,
           "Power": 0,
-          "Contact": 25.000000000000007,
+          "Contact": 29.375000000000007,
           "Discipline": 31.417624521072796,
           "Speed": 0
         },
         "summary": "Frankie Scrivanic gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .260",
-          "OBP .340",
-          "SLG .307"
+          "AVG .267",
+          "OBP .344",
+          "SLG .313"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".260"
+            "value": ".267"
           },
           {
             "label": "OBP",
-            "value": ".340"
+            "value": ".344"
           },
           {
             "label": "SLG",
-            "value": ".307"
+            "value": ".313"
           },
           {
             "label": "HR",
@@ -4364,13 +4364,13 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "43",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/dominic-trolio/7793",
         "imageUrl": "https://shupirates.com/images/2026/1/21/43_Trolio.png",
-        "gamesPlayed": 6,
+        "gamesPlayed": 7,
         "gamesStarted": 1,
         "battingAverage": 0,
-        "onBasePercentage": 0.125,
+        "onBasePercentage": 0.111,
         "sluggingPercentage": 0,
-        "ops": 0.125,
-        "atBats": 7,
+        "ops": 0.111,
+        "atBats": 8,
         "runs": 0,
         "hits": 0,
         "doubles": 0,
@@ -4390,7 +4390,7 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "putouts": 0,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 8,
+        "plateAppearances": 9,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4412,7 +4412,7 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "summary": "Dominic Trolio profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
           "AVG .000",
-          "OBP .125",
+          "OBP .111",
           "SLG .000"
         ],
         "statCards": [
@@ -4422,7 +4422,7 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
           },
           {
             "label": "OBP",
-            "value": ".125"
+            "value": ".111"
           },
           {
             "label": "SLG",
@@ -5004,31 +5004,31 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "51",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/mason-christopher/7764",
         "imageUrl": "https://shupirates.com/images/2026/1/21/51_Christopher.png",
-        "gamesPlayed": 10,
-        "gamesStarted": 9,
-        "appearances": 10,
+        "gamesPlayed": 11,
+        "gamesStarted": 10,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.95,
-        "whip": 1.39,
+        "earnedRunAverage": 6.6,
+        "whip": 1.53,
         "wins": 4,
-        "losses": 4,
+        "losses": 5,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 42.333333333333336,
-        "inningsPitchedDisplay": "42.1",
-        "hitsAllowed": 44,
-        "runsAllowed": 29,
-        "earnedRunsAllowed": 28,
-        "walksAllowed": 15,
-        "strikeouts": 38,
+        "inningsPitched": 45,
+        "inningsPitchedDisplay": "45.0",
+        "hitsAllowed": 51,
+        "runsAllowed": 34,
+        "earnedRunsAllowed": 33,
+        "walksAllowed": 18,
+        "strikeouts": 39,
         "doublesAllowed": 5,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 9,
-        "opponentsAtBats": 169,
+        "homeRunsAllowed": 10,
+        "opponentsAtBats": 182,
         "wildPitches": 1,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.26,
+        "opponentsBattingAverage": 0.28,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5038,22 +5038,22 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "jersey": "51",
         "profileUrl": "https://shupirates.com/sports/baseball/roster/mason-christopher/7764",
         "imageUrl": "https://shupirates.com/images/2026/1/21/51_Christopher.png",
-        "gamesPlayed": 8,
-        "gamesStarted": 7,
+        "gamesPlayed": 9,
+        "gamesStarted": 8,
         "putouts": 0,
-        "assists": 8,
+        "assists": 11,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 15,
+        "stolenBasesAgainst": 16,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 8
+        "totalChances": 11
       },
       "evaluation": {
-        "score": 12,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5061,40 +5061,40 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 37.07945597709377,
-          "Command": 30.666666666666675,
+          "Miss bats": 34.54545454545455,
+          "Command": 23.333333333333332,
           "Damage suppression": 0
         },
         "summary": "Mason Christopher gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.95",
-          "WHIP 1.39",
-          "K/9 8.1"
+          "ERA 6.60",
+          "WHIP 1.53",
+          "K/9 7.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.95"
+            "value": "6.60"
           },
           {
             "label": "WHIP",
-            "value": "1.39"
+            "value": "1.53"
           },
           {
             "label": "K/9",
-            "value": "8.1"
+            "value": "7.8"
           },
           {
             "label": "BB/9",
-            "value": "3.2"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "1.91"
+            "value": "2.00"
           },
           {
             "label": "IP",
-            "value": "42.3"
+            "value": "45.0"
           }
         ],
         "metaLine": "SO / L/L",
@@ -5270,29 +5270,29 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 50,
+        "score": 47,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Gabe Cavazzoni profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .304",
-          "OBP .392",
-          "SLG .500"
+          "AVG .296",
+          "OBP .384",
+          "SLG .488"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".304"
+            "value": ".296"
           },
           {
             "label": "OBP",
-            "value": ".392"
+            "value": ".384"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".488"
           },
           {
             "label": "HR",
@@ -5308,10 +5308,10 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
           }
         ],
         "components": {
-          "On-base": 62.22222222222222,
-          "Power": 47.36842105263158,
-          "Contact": 52.49999999999999,
-          "Discipline": 28.502415458937193,
+          "On-base": 57.77777777777777,
+          "Power": 44.21052631578947,
+          "Contact": 47.499999999999986,
+          "Discipline": 26.388888888888886,
           "Speed": 46.666666666666664
         },
         "metaLine": "JR / R/R",
@@ -5339,29 +5339,29 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "position": "OF",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 6,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Joe Marini gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .162",
-          "OBP .289",
-          "SLG .216"
+          "AVG .184",
+          "OBP .304",
+          "SLG .237"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".162"
+            "value": ".184"
           },
           {
             "label": "OBP",
-            "value": ".289"
+            "value": ".304"
           },
           {
             "label": "SLG",
-            "value": ".216"
+            "value": ".237"
           },
           {
             "label": "HR",
@@ -5377,7 +5377,7 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
           }
         ],
         "components": {
-          "On-base": 4.999999999999974,
+          "On-base": 13.333333333333314,
           "Power": 0,
           "Contact": 0,
           "Discipline": 29.059829059829056,
@@ -5408,29 +5408,29 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 37,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Magnus Krieger gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .289",
-          "OBP .395",
-          "SLG .392"
+          "AVG .287",
+          "OBP .390",
+          "SLG .386"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": ".287"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": ".390"
           },
           {
             "label": "SLG",
-            "value": ".392"
+            "value": ".386"
           },
           {
             "label": "HR",
@@ -5446,10 +5446,10 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
           }
         ],
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 18.947368421052634,
-          "Contact": 43.124999999999986,
-          "Discipline": 25.925925925925924,
+          "On-base": 61.11111111111111,
+          "Power": 17.368421052631582,
+          "Contact": 41.874999999999986,
+          "Discipline": 24.37275985663082,
           "Speed": 6.666666666666667
         },
         "metaLine": "SO / R/R",
@@ -5546,29 +5546,29 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "position": "INF",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 4,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ty Acker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .178",
-          "OBP .287",
-          "SLG .219"
+          "AVG .195",
+          "OBP .297",
+          "SLG .234"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".178"
+            "value": ".195"
           },
           {
             "label": "OBP",
-            "value": ".287"
+            "value": ".297"
           },
           {
             "label": "SLG",
-            "value": ".219"
+            "value": ".234"
           },
           {
             "label": "HR",
@@ -5584,10 +5584,10 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
           }
         ],
         "components": {
-          "On-base": 3.8888888888888618,
+          "On-base": 9.444444444444422,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 19.44444444444444,
+          "Discipline": 17.77777777777777,
           "Speed": 0
         },
         "metaLine": "GR / N/A",
@@ -5622,41 +5622,41 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         },
         "summary": "Stephen Curry gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.67",
-          "WHIP 1.56",
-          "K/9 7.0"
+          "ERA 4.91",
+          "WHIP 1.57",
+          "K/9 6.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.67"
+            "value": "4.91"
           },
           {
             "label": "WHIP",
-            "value": "1.56"
+            "value": "1.57"
           },
           {
             "label": "K/9",
-            "value": "7.0"
+            "value": "6.8"
           },
           {
             "label": "BB/9",
-            "value": "5.3"
+            "value": "5.5"
           },
           {
             "label": "HR/9",
-            "value": "1.00"
+            "value": "0.92"
           },
           {
             "label": "IP",
-            "value": "27.0"
+            "value": "29.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 27.27272727272727,
-          "Command": 6.25,
+          "Miss bats": 25,
+          "Command": 4.444444444444442,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -5753,29 +5753,29 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "L/L",
-        "score": 28,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Aiden Dill profiles as a OF piece who controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .187",
-          "OBP .326",
-          "SLG .252"
+          "AVG .191",
+          "OBP .331",
+          "SLG .255"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".187"
+            "value": ".191"
           },
           {
             "label": "OBP",
-            "value": ".326"
+            "value": ".331"
           },
           {
             "label": "SLG",
-            "value": ".252"
+            "value": ".255"
           },
           {
             "label": "HR",
@@ -5791,7 +5791,7 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
           }
         ],
         "components": {
-          "On-base": 25.555555555555546,
+          "On-base": 28.33333333333333,
           "Power": 0,
           "Contact": 0,
           "Discipline": 88.88888888888889,
@@ -6036,22 +6036,22 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         },
         "summary": "Ryan Frontera profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .323",
-          "OBP .407",
-          "SLG .374"
+          "AVG .321",
+          "OBP .406",
+          "SLG .371"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".323"
+            "value": ".321"
           },
           {
             "label": "OBP",
-            "value": ".407"
+            "value": ".406"
           },
           {
             "label": "SLG",
-            "value": ".374"
+            "value": ".371"
           },
           {
             "label": "HR",
@@ -6067,10 +6067,10 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
           }
         ],
         "components": {
-          "On-base": 70.55555555555553,
-          "Power": 14.210526315789473,
-          "Contact": 64.375,
-          "Discipline": 63.247863247863236,
+          "On-base": 70,
+          "Power": 13.421052631578947,
+          "Contact": 63.125,
+          "Discipline": 67.52136752136751,
           "Speed": 6.666666666666667
         },
         "metaLine": "JR / R/R",
@@ -6098,48 +6098,48 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 15,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ryan Reich looks like a RHP option who misses bats.",
+        "summary": "Ryan Reich looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 4.23",
-          "WHIP 1.81",
-          "K/9 11.1"
+          "ERA 3.94",
+          "WHIP 1.79",
+          "K/9 10.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.23"
+            "value": "3.94"
           },
           {
             "label": "WHIP",
-            "value": "1.81"
+            "value": "1.79"
           },
           {
             "label": "K/9",
-            "value": "11.1"
+            "value": "10.6"
           },
           {
             "label": "BB/9",
-            "value": "7.2"
+            "value": "7.3"
           },
           {
             "label": "HR/9",
-            "value": "0.33"
+            "value": "0.30"
           },
           {
             "label": "IP",
-            "value": "27.7"
+            "value": "29.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 64.18400876232201,
-          "Command": 10.909090909090908,
+          "Miss bats": 60.163432073544435,
+          "Command": 9.16666666666667,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -6236,29 +6236,29 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 42,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nick Tomasetto gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .270",
-          "OBP .386",
-          "SLG .460"
+          "AVG .277",
+          "OBP .389",
+          "SLG .462"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".270"
+            "value": ".277"
           },
           {
             "label": "OBP",
-            "value": ".386"
+            "value": ".389"
           },
           {
             "label": "SLG",
-            "value": ".460"
+            "value": ".462"
           },
           {
             "label": "HR",
@@ -6266,7 +6266,7 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
           },
           {
             "label": "RBI",
-            "value": "19"
+            "value": "21"
           },
           {
             "label": "SB",
@@ -6274,9 +6274,9 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
           }
         ],
         "components": {
-          "On-base": 58.88888888888888,
-          "Power": 36.842105263157904,
-          "Contact": 31.25000000000001,
+          "On-base": 60.55555555555555,
+          "Power": 37.36842105263159,
+          "Contact": 35.625000000000014,
           "Discipline": 46.40522875816993,
           "Speed": 13.333333333333334
         },
@@ -6649,33 +6649,33 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "position": "RHP",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 20,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "John Higgins looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.67",
-          "WHIP 1.11",
-          "K/9 11.0"
+          "ERA 3.41",
+          "WHIP 1.14",
+          "K/9 10.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.67"
+            "value": "3.41"
           },
           {
             "label": "WHIP",
-            "value": "1.11"
+            "value": "1.14"
           },
           {
             "label": "K/9",
-            "value": "11.0"
+            "value": "10.6"
           },
           {
             "label": "BB/9",
-            "value": "3.3"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
@@ -6683,14 +6683,14 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
           },
           {
             "label": "IP",
-            "value": "27.0"
+            "value": "29.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 63.63636363636363,
-          "Command": 46,
+          "Miss bats": 59.56112852664576,
+          "Command": 41.81818181818181,
           "Damage suppression": 0
         },
         "metaLine": "GR / N/A",
@@ -6718,29 +6718,29 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 25,
+        "score": 28,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Shea Grady gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .359",
-          "SLG .290"
+          "AVG .267",
+          "OBP .369",
+          "SLG .314"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".267"
           },
           {
             "label": "OBP",
-            "value": ".359"
+            "value": ".369"
           },
           {
             "label": "SLG",
-            "value": ".290"
+            "value": ".314"
           },
           {
             "label": "HR",
@@ -6748,7 +6748,7 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "SB",
@@ -6756,10 +6756,10 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
           }
         ],
         "components": {
-          "On-base": 43.888888888888864,
+          "On-base": 49.44444444444443,
           "Power": 0,
-          "Contact": 18.75,
-          "Discipline": 43.43434343434343,
+          "Contact": 29.375000000000007,
+          "Discipline": 40.579710144927525,
           "Speed": 10
         },
         "metaLine": "JR / N/A",
@@ -6855,29 +6855,29 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "position": "C/OF",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 6,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Vincent Duffy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .105",
-          "OBP .227",
-          "SLG .105"
+          "AVG .100",
+          "OBP .217",
+          "SLG .100"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".105"
+            "value": ".100"
           },
           {
             "label": "OBP",
-            "value": ".227"
+            "value": ".217"
           },
           {
             "label": "SLG",
-            "value": ".105"
+            "value": ".100"
           },
           {
             "label": "HR",
@@ -6896,7 +6896,7 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 33.33333333333333,
+          "Discipline": 24.07407407407407,
           "Speed": 10
         },
         "metaLine": "FR / N/A",
@@ -6924,29 +6924,29 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 20,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Frankie Scrivanic gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .260",
-          "OBP .340",
-          "SLG .307"
+          "AVG .267",
+          "OBP .344",
+          "SLG .313"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".260"
+            "value": ".267"
           },
           {
             "label": "OBP",
-            "value": ".340"
+            "value": ".344"
           },
           {
             "label": "SLG",
-            "value": ".307"
+            "value": ".313"
           },
           {
             "label": "HR",
@@ -6962,9 +6962,9 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
           }
         ],
         "components": {
-          "On-base": 33.33333333333333,
+          "On-base": 35.55555555555553,
           "Power": 0,
-          "Contact": 25.000000000000007,
+          "Contact": 29.375000000000007,
           "Discipline": 31.417624521072796,
           "Speed": 0
         },
@@ -7346,7 +7346,7 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "summary": "Dominic Trolio profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
           "AVG .000",
-          "OBP .125",
+          "OBP .111",
           "SLG .000"
         ],
         "statCards": [
@@ -7356,7 +7356,7 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
           },
           {
             "label": "OBP",
-            "value": ".125"
+            "value": ".111"
           },
           {
             "label": "SLG",
@@ -7682,48 +7682,48 @@ window.__BASEBALL_DATASETS__.seton-hall2026 = {
         "position": "LHP",
         "classYear": "SO",
         "handedness": "L/L",
-        "score": 12,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Mason Christopher gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.95",
-          "WHIP 1.39",
-          "K/9 8.1"
+          "ERA 6.60",
+          "WHIP 1.53",
+          "K/9 7.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.95"
+            "value": "6.60"
           },
           {
             "label": "WHIP",
-            "value": "1.39"
+            "value": "1.53"
           },
           {
             "label": "K/9",
-            "value": "8.1"
+            "value": "7.8"
           },
           {
             "label": "BB/9",
-            "value": "3.2"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "1.91"
+            "value": "2.00"
           },
           {
             "label": "IP",
-            "value": "42.3"
+            "value": "45.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 37.07945597709377,
-          "Command": 30.666666666666675,
+          "Miss bats": 34.54545454545455,
+          "Command": 23.333333333333332,
           "Damage suppression": 0
         },
         "metaLine": "SO / L/L",

@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.uconn2026 = {
-  "generatedAt": "2026-05-10T11:14:04.703Z",
+  "generatedAt": "2026-05-11T12:50:29.014Z",
   "season": 2026,
   "school": {
     "slug": "uconn",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
     }
   },
   "teamSummary": {
-    "record": "29-22, 12-5",
-    "battingAverage": ".284",
-    "earnedRunAverage": "4.45",
-    "wins": "29",
+    "record": "30-22, 13-5",
+    "battingAverage": ".285",
+    "earnedRunAverage": "4.42",
+    "wins": "30",
     "losses": "22",
     "hitting": {
-      "atBats": "1743",
-      "runsScored": "352",
-      "hits": "495",
-      "runsBattedIn": "323",
+      "atBats": "1776",
+      "runsScored": "359",
+      "hits": "507",
+      "runsBattedIn": "330",
       "doubles": "102",
       "triples": "8",
-      "homeRuns": "55",
-      "walks": "246",
+      "homeRuns": "56",
+      "walks": "254",
       "intentionalWalks": "5",
-      "strikeouts": "411",
-      "strikeoutsLooking": "88",
+      "strikeouts": "415",
+      "strikeoutsLooking": "90",
       "hitByPitch": "62",
-      "stolenBases": "63",
-      "caughtStealing": "24",
-      "sacrificeHits": "22",
-      "sacrificeFlies": "22",
+      "stolenBases": "66",
+      "caughtStealing": "26",
+      "sacrificeHits": "23",
+      "sacrificeFlies": "23",
       "reachedOnCatchersInteference": "1",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "420",
-      "flyOuts": "419",
-      "groundedIntoDoublePlay": "30",
-      "pickedOff": "9",
-      "doublePlaysHitInto": "38",
+      "groundOuts": "431",
+      "flyOuts": "427",
+      "groundedIntoDoublePlay": "31",
+      "pickedOff": "10",
+      "doublePlaysHitInto": "39",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1328",
-      "assists": "448",
+      "putouts": "1355",
+      "assists": "459",
       "errors": "56",
-      "passedBalls": "13",
+      "passedBalls": "14",
       "catchersInterference": "0",
       "stolenBasesAgainst": "50",
       "caughtStealingBy": "10",
-      "involvedInDoublePlays": "39",
+      "involvedInDoublePlays": "41",
       "involvedInTriplePlays": "0",
-      "totalChances": "1832",
-      "fieldingPercentage": ".969"
+      "totalChances": "1870",
+      "fieldingPercentage": ".970"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "28",
+      "wins": "29",
       "saves": "14",
       "losses": "22",
       "gamesStarted": "0",
       "gamesCompleted": "2",
       "shutouts": "4",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "442.2",
-      "hitsAllowed": "475",
-      "runsAllowed": "268",
-      "earnedRunsAllowed": "219",
-      "walksAllowed": "169",
-      "strikeouts": "439",
-      "battersFaced": "1994",
-      "opponentAtBats": "1740",
-      "doublesAllowed": "80",
+      "inningsPitched": "451.2",
+      "hitsAllowed": "488",
+      "runsAllowed": "271",
+      "earnedRunsAllowed": "222",
+      "walksAllowed": "171",
+      "strikeouts": "447",
+      "battersFaced": "2033",
+      "opponentAtBats": "1776",
+      "doublesAllowed": "81",
       "triplesAllowed": "16",
       "homerunsAllowed": "49",
       "wildPitches": "33",
       "balks": "7",
       "hitBatters": "43",
-      "strikeoutsLooking": "96",
+      "strikeoutsLooking": "102",
       "intentionalWalks": "6",
       "inheritedRunners": "13",
       "inheritedRunnersThatScored": "3",
-      "sacrificeHitsAllowed": "26",
+      "sacrificeHitsAllowed": "27",
       "sacrificeFliesAllowed": "15",
       "catchersInterferenceAllowed": "0",
-      "pitches": "4405",
-      "flyouts": "416",
-      "groundouts": "407",
+      "pitches": "4546",
+      "flyouts": "424",
+      "groundouts": "415",
       "teamUnearnedRuns": "0",
       "saveRecord": "8",
       "pickoff": "2"
@@ -161,23 +161,23 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "jersey": "1",
         "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/chris-polemeni/15499",
         "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Polemeni__Chris_Suit.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 44,
-        "battingAverage": 0.305,
+        "gamesPlayed": 46,
+        "gamesStarted": 45,
+        "battingAverage": 0.308,
         "onBasePercentage": 0.431,
-        "sluggingPercentage": 0.479,
-        "ops": 0.91,
-        "atBats": 167,
-        "runs": 42,
-        "hits": 51,
+        "sluggingPercentage": 0.494,
+        "ops": 0.925,
+        "atBats": 172,
+        "runs": 43,
+        "hits": 53,
         "doubles": 8,
         "triples": 0,
-        "homeRuns": 7,
-        "runsBattedIn": 24,
-        "totalBases": 80,
+        "homeRuns": 8,
+        "runsBattedIn": 29,
+        "totalBases": 85,
         "walks": 28,
         "hitByPitch": 9,
-        "strikeouts": 31,
+        "strikeouts": 32,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 0,
@@ -187,7 +187,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "putouts": 59,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 230,
+        "plateAppearances": 235,
         "caughtStealing": 6,
         "pickedOff": 2
       },
@@ -214,28 +214,28 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "totalChances": 63
       },
       "evaluation": {
-        "score": 63,
+        "score": 64,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
           "On-base": 83.88888888888889,
-          "Power": 41.84210526315789,
-          "Contact": 53.124999999999986,
-          "Discipline": 78.13620071684586,
+          "Power": 45.78947368421053,
+          "Contact": 54.99999999999999,
+          "Discipline": 74.99999999999999,
           "Speed": 46.666666666666664
         },
         "summary": "Chris Polemeni profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .305",
+          "AVG .308",
           "OBP .431",
-          "SLG .479"
+          "SLG .494"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".305"
+            "value": ".308"
           },
           {
             "label": "OBP",
@@ -243,15 +243,15 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           },
           {
             "label": "SLG",
-            "value": ".479"
+            "value": ".494"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -451,33 +451,33 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "jersey": "3",
         "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/rob-rispoli/15478",
         "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Rispoli__Rob_Suit.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 48,
+        "gamesPlayed": 49,
+        "gamesStarted": 49,
         "battingAverage": 0.271,
-        "onBasePercentage": 0.428,
-        "sluggingPercentage": 0.349,
-        "ops": 0.777,
-        "atBats": 166,
-        "runs": 42,
-        "hits": 45,
+        "onBasePercentage": 0.425,
+        "sluggingPercentage": 0.347,
+        "ops": 0.772,
+        "atBats": 170,
+        "runs": 43,
+        "hits": 46,
         "doubles": 8,
         "triples": 1,
         "homeRuns": 1,
         "runsBattedIn": 23,
-        "totalBases": 58,
+        "totalBases": 59,
         "walks": 35,
         "hitByPitch": 12,
         "strikeouts": 36,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 2,
-        "sacrificeHits": 6,
-        "stolenBases": 9,
-        "stolenBasesAttempts": 13,
-        "putouts": 57,
+        "sacrificeHits": 7,
+        "stolenBases": 10,
+        "stolenBasesAttempts": 14,
+        "putouts": 59,
         "assists": 0,
         "errors": 9,
-        "plateAppearances": 238,
+        "plateAppearances": 244,
         "caughtStealing": 4,
         "pickedOff": 1
       },
@@ -489,19 +489,19 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "jersey": "3",
         "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/rob-rispoli/15478",
         "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Rispoli__Rob_Suit.jpg",
-        "gamesPlayed": 47,
-        "gamesStarted": 47,
-        "putouts": 57,
-        "assists": 122,
+        "gamesPlayed": 48,
+        "gamesStarted": 48,
+        "putouts": 59,
+        "assists": 124,
         "errors": 9,
-        "fieldingPercentage": 0.952,
-        "doublePlays": 28,
+        "fieldingPercentage": 0.953,
+        "doublePlays": 30,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 188
+        "totalChances": 192
       },
       "evaluation": {
         "score": 49,
@@ -510,17 +510,17 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 82.22222222222221,
-          "Power": 7.631578947368414,
+          "On-base": 80.55555555555554,
+          "Power": 7.10526315789473,
           "Contact": 31.875000000000007,
           "Discipline": 85.80246913580245,
-          "Speed": 30
+          "Speed": 33.33333333333333
         },
         "summary": "Rob Rispoli profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .271",
-          "OBP .428",
-          "SLG .349"
+          "OBP .425",
+          "SLG .347"
         ],
         "statCards": [
           {
@@ -529,11 +529,11 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           },
           {
             "label": "OBP",
-            "value": ".428"
+            "value": ".425"
           },
           {
             "label": "SLG",
-            "value": ".349"
+            "value": ".347"
           },
           {
             "label": "HR",
@@ -545,7 +545,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           },
           {
             "label": "SB",
-            "value": "9"
+            "value": "10"
           }
         ],
         "metaLine": "R-SO / N/A",
@@ -1011,20 +1011,20 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "jersey": "7",
         "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/anthony-belisario/15465",
         "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Belisario__Anthony_Suit.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 19,
-        "battingAverage": 0.258,
+        "gamesPlayed": 37,
+        "gamesStarted": 20,
+        "battingAverage": 0.268,
         "onBasePercentage": 0.395,
-        "sluggingPercentage": 0.288,
-        "ops": 0.683,
-        "atBats": 66,
-        "runs": 16,
-        "hits": 17,
+        "sluggingPercentage": 0.296,
+        "ops": 0.691,
+        "atBats": 71,
+        "runs": 17,
+        "hits": 19,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 7,
-        "totalBases": 19,
+        "totalBases": 21,
         "walks": 14,
         "hitByPitch": 1,
         "strikeouts": 22,
@@ -1032,12 +1032,12 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
-        "stolenBases": 6,
-        "stolenBasesAttempts": 7,
-        "putouts": 39,
+        "stolenBases": 8,
+        "stolenBasesAttempts": 9,
+        "putouts": 42,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 90,
+        "plateAppearances": 97,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1049,22 +1049,22 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "jersey": "7",
         "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/anthony-belisario/15465",
         "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Belisario__Anthony_Suit.jpg",
-        "gamesPlayed": 18,
-        "gamesStarted": 14,
-        "putouts": 39,
+        "gamesPlayed": 19,
+        "gamesStarted": 15,
+        "putouts": 42,
         "assists": 0,
         "errors": 2,
-        "fieldingPercentage": 0.951,
+        "fieldingPercentage": 0.955,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 41
+        "totalChances": 44
       },
       "evaluation": {
-        "score": 34,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1072,20 +1072,20 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "components": {
           "On-base": 63.888888888888886,
           "Power": 0,
-          "Contact": 23.750000000000004,
+          "Contact": 30.00000000000001,
           "Discipline": 48.48484848484848,
-          "Speed": 20
+          "Speed": 26.666666666666668
         },
-        "summary": "Anthony Belisario gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Anthony Belisario profiles as a UT piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .258",
+          "AVG .268",
           "OBP .395",
-          "SLG .288"
+          "SLG .296"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".258"
+            "value": ".268"
           },
           {
             "label": "OBP",
@@ -1093,7 +1093,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           },
           {
             "label": "SLG",
-            "value": ".288"
+            "value": ".296"
           },
           {
             "label": "HR",
@@ -1105,7 +1105,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           },
           {
             "label": "SB",
-            "value": "6"
+            "value": "8"
           }
         ],
         "metaLine": "SO / N/A",
@@ -1156,13 +1156,13 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "jersey": "8",
         "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/chris-cancel/15487",
         "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Cancel__Chris_Suit.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 13,
-        "battingAverage": 0.289,
-        "onBasePercentage": 0.4,
-        "sluggingPercentage": 0.467,
-        "ops": 0.867,
-        "atBats": 45,
+        "gamesPlayed": 18,
+        "gamesStarted": 14,
+        "battingAverage": 0.265,
+        "onBasePercentage": 0.383,
+        "sluggingPercentage": 0.429,
+        "ops": 0.812,
+        "atBats": 49,
         "runs": 10,
         "hits": 13,
         "doubles": 5,
@@ -1170,19 +1170,19 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "homeRuns": 1,
         "runsBattedIn": 7,
         "totalBases": 21,
-        "walks": 7,
+        "walks": 8,
         "hitByPitch": 2,
-        "strikeouts": 6,
+        "strikeouts": 8,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 103,
+        "putouts": 111,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 57,
+        "plateAppearances": 62,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1194,9 +1194,9 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "jersey": "8",
         "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/chris-cancel/15487",
         "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Cancel__Chris_Suit.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 13,
-        "putouts": 103,
+        "gamesPlayed": 17,
+        "gamesStarted": 14,
+        "putouts": 111,
         "assists": 12,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1204,41 +1204,41 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "stolenBasesAgainst": 11,
         "caughtStealingBy": 4,
         "stolenBasesPercentage": null,
-        "passedBalls": 2,
+        "passedBalls": 3,
         "catchersInterference": 0,
-        "totalChances": 115
+        "totalChances": 123
       },
       "evaluation": {
-        "score": 53,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 66.66666666666666,
-          "Power": 38.6842105263158,
-          "Contact": 43.124999999999986,
-          "Discipline": 100,
+          "On-base": 57.22222222222222,
+          "Power": 28.68421052631579,
+          "Contact": 28.125000000000007,
+          "Discipline": 88.88888888888889,
           "Speed": 0
         },
-        "summary": "Chris Cancel profiles as a C piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Chris Cancel profiles as a C piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .289",
-          "OBP .400",
-          "SLG .467"
+          "AVG .265",
+          "OBP .383",
+          "SLG .429"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": ".265"
           },
           {
             "label": "OBP",
-            "value": ".400"
+            "value": ".383"
           },
           {
             "label": "SLG",
-            "value": ".467"
+            "value": ".429"
           },
           {
             "label": "HR",
@@ -1301,20 +1301,20 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "jersey": "9",
         "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/chase-taylor/15503",
         "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Taylor__Chase_Suit.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 21,
-        "battingAverage": 0.23,
-        "onBasePercentage": 0.33,
-        "sluggingPercentage": 0.27,
-        "ops": 0.6,
-        "atBats": 74,
+        "gamesPlayed": 37,
+        "gamesStarted": 22,
+        "battingAverage": 0.244,
+        "onBasePercentage": 0.337,
+        "sluggingPercentage": 0.282,
+        "ops": 0.619,
+        "atBats": 78,
         "runs": 15,
-        "hits": 17,
+        "hits": 19,
         "doubles": 3,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 13,
-        "totalBases": 20,
+        "totalBases": 22,
         "walks": 11,
         "hitByPitch": 1,
         "strikeouts": 16,
@@ -1324,10 +1324,10 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "sacrificeHits": 5,
         "stolenBases": 7,
         "stolenBasesAttempts": 8,
-        "putouts": 43,
+        "putouts": 46,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 102,
+        "plateAppearances": 106,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1339,51 +1339,51 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "jersey": "9",
         "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/chase-taylor/15503",
         "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Taylor__Chase_Suit.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 20,
-        "putouts": 43,
-        "assists": 2,
+        "gamesPlayed": 25,
+        "gamesStarted": 21,
+        "putouts": 46,
+        "assists": 3,
         "errors": 2,
-        "fieldingPercentage": 0.957,
+        "fieldingPercentage": 0.961,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 47
+        "totalChances": 51
       },
       "evaluation": {
-        "score": 20,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 27.777777777777775,
+          "On-base": 31.666666666666664,
           "Power": 0,
-          "Contact": 6.250000000000005,
+          "Contact": 14.999999999999996,
           "Discipline": 54.166666666666664,
           "Speed": 23.333333333333332
         },
         "summary": "Chase Taylor gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .230",
-          "OBP .330",
-          "SLG .270"
+          "AVG .244",
+          "OBP .337",
+          "SLG .282"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".230"
+            "value": ".244"
           },
           {
             "label": "OBP",
-            "value": ".330"
+            "value": ".337"
           },
           {
             "label": "SLG",
-            "value": ".270"
+            "value": ".282"
           },
           {
             "label": "HR",
@@ -2247,20 +2247,20 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "jersey": "19",
         "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/peyton-jemison/15493",
         "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Jemison__Peyton_Suit.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 21,
-        "battingAverage": 0.301,
-        "onBasePercentage": 0.369,
-        "sluggingPercentage": 0.452,
-        "ops": 0.821,
-        "atBats": 73,
+        "gamesPlayed": 29,
+        "gamesStarted": 22,
+        "battingAverage": 0.312,
+        "onBasePercentage": 0.375,
+        "sluggingPercentage": 0.455,
+        "ops": 0.83,
+        "atBats": 77,
         "runs": 15,
-        "hits": 22,
+        "hits": 24,
         "doubles": 5,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 16,
-        "totalBases": 33,
+        "totalBases": 35,
         "walks": 5,
         "hitByPitch": 4,
         "strikeouts": 23,
@@ -2269,12 +2269,12 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "sacrificeFlies": 2,
         "sacrificeHits": 2,
         "stolenBases": 2,
-        "stolenBasesAttempts": 4,
-        "putouts": 26,
+        "stolenBasesAttempts": 5,
+        "putouts": 27,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 92,
-        "caughtStealing": 2,
+        "plateAppearances": 98,
+        "caughtStealing": 3,
         "pickedOff": 1
       },
       "pitchingStats": null,
@@ -2285,51 +2285,51 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "jersey": "19",
         "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/peyton-jemison/15493",
         "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Jemison__Peyton_Suit.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 19,
-        "putouts": 26,
-        "assists": 30,
+        "gamesPlayed": 23,
+        "gamesStarted": 20,
+        "putouts": 27,
+        "assists": 32,
         "errors": 2,
-        "fieldingPercentage": 0.966,
-        "doublePlays": 5,
+        "fieldingPercentage": 0.967,
+        "doublePlays": 7,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 58
+        "totalChances": 61
       },
       "evaluation": {
-        "score": 35,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 49.44444444444443,
-          "Power": 34.736842105263165,
-          "Contact": 50.624999999999986,
+          "On-base": 52.77777777777777,
+          "Power": 35.52631578947369,
+          "Contact": 57.49999999999999,
           "Discipline": 1.932367149758452,
           "Speed": 6.666666666666667
         },
         "summary": "Peyton Jemison gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .301",
-          "OBP .369",
-          "SLG .452"
+          "AVG .312",
+          "OBP .375",
+          "SLG .455"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".301"
+            "value": ".312"
           },
           {
             "label": "OBP",
-            "value": ".369"
+            "value": ".375"
           },
           {
             "label": "SLG",
-            "value": ".452"
+            "value": ".455"
           },
           {
             "label": "HR",
@@ -3394,21 +3394,21 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "jersey": "31",
         "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/jackson-marshall/15495",
         "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Marshall__Jackson_Suit.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 50,
-        "battingAverage": 0.379,
-        "onBasePercentage": 0.469,
-        "sluggingPercentage": 0.675,
-        "ops": 1.144,
-        "atBats": 203,
-        "runs": 41,
-        "hits": 77,
+        "gamesPlayed": 51,
+        "gamesStarted": 51,
+        "battingAverage": 0.382,
+        "onBasePercentage": 0.48,
+        "sluggingPercentage": 0.676,
+        "ops": 1.156,
+        "atBats": 204,
+        "runs": 43,
+        "hits": 78,
         "doubles": 18,
         "triples": 0,
         "homeRuns": 14,
         "runsBattedIn": 55,
-        "totalBases": 137,
-        "walks": 29,
+        "totalBases": 138,
+        "walks": 33,
         "hitByPitch": 6,
         "strikeouts": 34,
         "intentionalWalks": 2,
@@ -3417,12 +3417,12 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 335,
+        "putouts": 342,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 242,
+        "plateAppearances": 247,
         "caughtStealing": 1,
-        "pickedOff": 0
+        "pickedOff": 1
       },
       "pitchingStats": null,
       "fieldingStats": {
@@ -3432,51 +3432,51 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "jersey": "31",
         "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/jackson-marshall/15495",
         "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Marshall__Jackson_Suit.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 46,
-        "putouts": 335,
+        "gamesPlayed": 47,
+        "gamesStarted": 47,
+        "putouts": 342,
         "assists": 10,
         "errors": 4,
         "fieldingPercentage": 0.989,
-        "doublePlays": 33,
+        "doublePlays": 34,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 349
+        "totalChances": 356
       },
       "evaluation": {
-        "score": 85,
+        "score": 87,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "components": {
           "On-base": 100,
-          "Power": 93.42105263157897,
-          "Contact": 99.375,
-          "Discipline": 72.5490196078431,
+          "Power": 93.68421052631581,
+          "Contact": 100,
+          "Discipline": 85.62091503267972,
           "Speed": 3.3333333333333335
         },
         "summary": "Jackson Marshall profiles as a 1B piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .379",
-          "OBP .469",
-          "SLG .675"
+          "AVG .382",
+          "OBP .480",
+          "SLG .676"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".379"
+            "value": ".382"
           },
           {
             "label": "OBP",
-            "value": ".469"
+            "value": ".480"
           },
           {
             "label": "SLG",
-            "value": ".675"
+            "value": ".676"
           },
           {
             "label": "HR",
@@ -4002,31 +4002,31 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "jersey": "37",
         "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/oliver-pudvar/15477",
         "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Pudvar__Oliver_Suit.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 12,
-        "appearances": 13,
+        "gamesPlayed": 14,
+        "gamesStarted": 13,
+        "appearances": 14,
         "gamesCompleted": 2,
-        "earnedRunAverage": 3.6,
-        "whip": 1.31,
-        "wins": 6,
+        "earnedRunAverage": 3.55,
+        "whip": 1.35,
+        "wins": 7,
         "losses": 3,
         "saves": 0,
         "shutouts": 2,
-        "inningsPitched": 65,
-        "inningsPitchedDisplay": "65.0",
-        "hitsAllowed": 68,
-        "runsAllowed": 32,
-        "earnedRunsAllowed": 26,
-        "walksAllowed": 17,
-        "strikeouts": 43,
+        "inningsPitched": 71,
+        "inningsPitchedDisplay": "71.0",
+        "hitsAllowed": 77,
+        "runsAllowed": 34,
+        "earnedRunsAllowed": 28,
+        "walksAllowed": 19,
+        "strikeouts": 48,
         "doublesAllowed": 9,
         "triplesAllowed": 1,
         "homeRunsAllowed": 8,
-        "opponentsAtBats": 256,
+        "opponentsAtBats": 279,
         "wildPitches": 1,
         "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.266,
+        "opponentsBattingAverage": 0.276,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4036,22 +4036,22 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "jersey": "37",
         "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/oliver-pudvar/15477",
         "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Pudvar__Oliver_Suit.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 8,
+        "gamesPlayed": 10,
+        "gamesStarted": 9,
         "putouts": 0,
-        "assists": 10,
+        "assists": 13,
         "errors": 2,
-        "fieldingPercentage": 0.833,
+        "fieldingPercentage": 0.867,
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 2,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 12
+        "totalChances": 15
       },
       "evaluation": {
-        "score": 8,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4059,28 +4059,28 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 17.762237762237763,
-          "Command": 30.588235294117645,
+          "Miss bats": 18.950064020486554,
+          "Command": 30.526315789473678,
           "Damage suppression": 0
         },
         "summary": "Oliver Pudvar looks like a LHP option who limits runs and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.60",
-          "WHIP 1.31",
-          "K/9 6.0"
+          "ERA 3.55",
+          "WHIP 1.35",
+          "K/9 6.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.60"
+            "value": "3.55"
           },
           {
             "label": "WHIP",
-            "value": "1.31"
+            "value": "1.35"
           },
           {
             "label": "K/9",
-            "value": "6.0"
+            "value": "6.1"
           },
           {
             "label": "BB/9",
@@ -4088,11 +4088,11 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.11"
+            "value": "1.01"
           },
           {
             "label": "IP",
-            "value": "65.0"
+            "value": "71.0"
           }
         ],
         "metaLine": "R-JR / N/A",
@@ -4570,31 +4570,31 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "jersey": "41",
         "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/greg-shaw-iii/15480",
         "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Shaw__Greg_Suit.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 0,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
         "earnedRunAverage": 3.03,
-        "whip": 1.5,
+        "whip": 1.49,
         "wins": 4,
         "losses": 1,
-        "saves": 2,
+        "saves": 3,
         "shutouts": 0,
-        "inningsPitched": 32.666666666666664,
-        "inningsPitchedDisplay": "32.2",
-        "hitsAllowed": 38,
-        "runsAllowed": 16,
-        "earnedRunsAllowed": 11,
+        "inningsPitched": 35.666666666666664,
+        "inningsPitchedDisplay": "35.2",
+        "hitsAllowed": 42,
+        "runsAllowed": 17,
+        "earnedRunsAllowed": 12,
         "walksAllowed": 11,
-        "strikeouts": 29,
-        "doublesAllowed": 6,
+        "strikeouts": 32,
+        "doublesAllowed": 7,
         "triplesAllowed": 2,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 130,
+        "opponentsAtBats": 143,
         "wildPitches": 1,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.292,
+        "opponentsBattingAverage": 0.294,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4604,10 +4604,10 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "jersey": "41",
         "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/greg-shaw-iii/15480",
         "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Shaw__Greg_Suit.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 0,
         "putouts": 1,
-        "assists": 7,
+        "assists": 9,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -4616,10 +4616,10 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 8
+        "totalChances": 10
       },
       "evaluation": {
-        "score": 12,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4627,15 +4627,15 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.270871985157704,
-          "Command": 32.72727272727273,
+          "Miss bats": 37.04333050127443,
+          "Command": 38.181818181818194,
           "Damage suppression": 0
         },
-        "summary": "Greg Shaw III looks like a RHP option who limits runs.",
+        "summary": "Greg Shaw III looks like a RHP option who limits runs and throws enough strikes.",
         "summaryMetrics": [
           "ERA 3.03",
-          "WHIP 1.50",
-          "K/9 8.0"
+          "WHIP 1.49",
+          "K/9 8.1"
         ],
         "statCards": [
           {
@@ -4644,23 +4644,23 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.49"
           },
           {
             "label": "K/9",
-            "value": "8.0"
+            "value": "8.1"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "2.8"
           },
           {
             "label": "HR/9",
-            "value": "0.28"
+            "value": "0.25"
           },
           {
             "label": "IP",
-            "value": "32.7"
+            "value": "35.7"
           }
         ],
         "metaLine": "SR / N/A",
@@ -4856,33 +4856,33 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "jersey": "43",
         "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/maddix-dalena/15467",
         "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Dalena__Maddix_Suit_0E3g5.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 40,
-        "battingAverage": 0.245,
-        "onBasePercentage": 0.38,
-        "sluggingPercentage": 0.424,
-        "ops": 0.804,
-        "atBats": 139,
-        "runs": 31,
-        "hits": 34,
+        "gamesPlayed": 44,
+        "gamesStarted": 41,
+        "battingAverage": 0.252,
+        "onBasePercentage": 0.386,
+        "sluggingPercentage": 0.427,
+        "ops": 0.813,
+        "atBats": 143,
+        "runs": 32,
+        "hits": 36,
         "doubles": 6,
         "triples": 2,
         "homeRuns": 5,
-        "runsBattedIn": 28,
-        "totalBases": 59,
-        "walks": 25,
+        "runsBattedIn": 29,
+        "totalBases": 61,
+        "walks": 26,
         "hitByPitch": 6,
         "strikeouts": 36,
         "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 3,
+        "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 1,
         "sacrificeHits": 2,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 63,
+        "putouts": 65,
         "assists": 0,
         "errors": 7,
-        "plateAppearances": 176,
+        "plateAppearances": 181,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -4894,51 +4894,51 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "jersey": "43",
         "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/maddix-dalena/15467",
         "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Dalena__Maddix_Suit_0E3g5.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 38,
-        "putouts": 63,
-        "assists": 58,
+        "gamesPlayed": 40,
+        "gamesStarted": 39,
+        "putouts": 65,
+        "assists": 59,
         "errors": 7,
-        "fieldingPercentage": 0.945,
+        "fieldingPercentage": 0.947,
         "doublePlays": 6,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 128
+        "totalChances": 131
       },
       "evaluation": {
-        "score": 36,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 55.55555555555555,
-          "Power": 27.368421052631575,
-          "Contact": 15.624999999999996,
-          "Discipline": 54.93827160493826,
+          "On-base": 58.88888888888888,
+          "Power": 28.157894736842103,
+          "Contact": 20,
+          "Discipline": 58.02469135802467,
           "Speed": 3.3333333333333335
         },
         "summary": "Maddix Dalena gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .245",
-          "OBP .380",
-          "SLG .424"
+          "AVG .252",
+          "OBP .386",
+          "SLG .427"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".245"
+            "value": ".252"
           },
           {
             "label": "OBP",
-            "value": ".380"
+            "value": ".386"
           },
           {
             "label": "SLG",
-            "value": ".424"
+            "value": ".427"
           },
           {
             "label": "HR",
@@ -4946,7 +4946,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -5373,34 +5373,34 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "jersey": "49",
         "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/nater-wachter/15507",
         "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Wachter__Nater_Suit.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "battingAverage": 0.293,
+        "gamesPlayed": 52,
+        "gamesStarted": 52,
+        "battingAverage": 0.29,
         "onBasePercentage": 0.402,
-        "sluggingPercentage": 0.467,
-        "ops": 0.869,
-        "atBats": 184,
-        "runs": 46,
+        "sluggingPercentage": 0.462,
+        "ops": 0.864,
+        "atBats": 186,
+        "runs": 47,
         "hits": 54,
         "doubles": 12,
         "triples": 1,
         "homeRuns": 6,
-        "runsBattedIn": 31,
+        "runsBattedIn": 32,
         "totalBases": 86,
-        "walks": 30,
+        "walks": 32,
         "hitByPitch": 6,
-        "strikeouts": 57,
+        "strikeouts": 58,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 4,
+        "sacrificeFlies": 5,
         "sacrificeHits": 0,
         "stolenBases": 3,
-        "stolenBasesAttempts": 5,
-        "putouts": 117,
+        "stolenBasesAttempts": 6,
+        "putouts": 118,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 231,
-        "caughtStealing": 2,
+        "plateAppearances": 238,
+        "caughtStealing": 3,
         "pickedOff": 1
       },
       "pitchingStats": null,
@@ -5411,19 +5411,19 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "jersey": "49",
         "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/nater-wachter/15507",
         "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Wachter__Nater_Suit.jpg",
-        "gamesPlayed": 47,
-        "gamesStarted": 47,
-        "putouts": 117,
+        "gamesPlayed": 48,
+        "gamesStarted": 48,
+        "putouts": 118,
         "assists": 2,
         "errors": 3,
-        "fieldingPercentage": 0.975,
+        "fieldingPercentage": 0.976,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 122
+        "totalChances": 123
       },
       "evaluation": {
         "score": 46,
@@ -5433,21 +5433,21 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         },
         "components": {
           "On-base": 67.77777777777779,
-          "Power": 38.6842105263158,
-          "Contact": 45.624999999999986,
-          "Discipline": 36.25730994152046,
+          "Power": 37.36842105263159,
+          "Contact": 43.749999999999986,
+          "Discipline": 39.080459770114935,
           "Speed": 10
         },
         "summary": "Nater Wachter profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .293",
+          "AVG .290",
           "OBP .402",
-          "SLG .467"
+          "SLG .462"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".293"
+            "value": ".290"
           },
           {
             "label": "OBP",
@@ -5455,7 +5455,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           },
           {
             "label": "SLG",
-            "value": ".467"
+            "value": ".462"
           },
           {
             "label": "HR",
@@ -5463,7 +5463,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           },
           {
             "label": "RBI",
-            "value": "31"
+            "value": "32"
           },
           {
             "label": "SB",
@@ -5498,21 +5498,21 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "position": "OF",
         "classYear": "R-JR",
         "handedness": "N/A",
-        "score": 63,
+        "score": 64,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Chris Polemeni profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .305",
+          "AVG .308",
           "OBP .431",
-          "SLG .479"
+          "SLG .494"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".305"
+            "value": ".308"
           },
           {
             "label": "OBP",
@@ -5520,15 +5520,15 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           },
           {
             "label": "SLG",
-            "value": ".479"
+            "value": ".494"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -5537,9 +5537,9 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         ],
         "components": {
           "On-base": 83.88888888888889,
-          "Power": 41.84210526315789,
-          "Contact": 53.124999999999986,
-          "Discipline": 78.13620071684586,
+          "Power": 45.78947368421053,
+          "Contact": 54.99999999999999,
+          "Discipline": 74.99999999999999,
           "Speed": 46.666666666666664
         },
         "metaLine": "R-JR / N/A",
@@ -5644,8 +5644,8 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "summary": "Rob Rispoli profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .271",
-          "OBP .428",
-          "SLG .349"
+          "OBP .425",
+          "SLG .347"
         ],
         "statCards": [
           {
@@ -5654,11 +5654,11 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           },
           {
             "label": "OBP",
-            "value": ".428"
+            "value": ".425"
           },
           {
             "label": "SLG",
-            "value": ".349"
+            "value": ".347"
           },
           {
             "label": "HR",
@@ -5670,15 +5670,15 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           },
           {
             "label": "SB",
-            "value": "9"
+            "value": "10"
           }
         ],
         "components": {
-          "On-base": 82.22222222222221,
-          "Power": 7.631578947368414,
+          "On-base": 80.55555555555554,
+          "Power": 7.10526315789473,
           "Contact": 31.875000000000007,
           "Discipline": 85.80246913580245,
-          "Speed": 30
+          "Speed": 33.33333333333333
         },
         "metaLine": "R-SO / N/A",
         "detailBadges": [
@@ -5912,21 +5912,21 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "position": "UT",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 34,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Anthony Belisario gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Anthony Belisario profiles as a UT piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .258",
+          "AVG .268",
           "OBP .395",
-          "SLG .288"
+          "SLG .296"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".258"
+            "value": ".268"
           },
           {
             "label": "OBP",
@@ -5934,7 +5934,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           },
           {
             "label": "SLG",
-            "value": ".288"
+            "value": ".296"
           },
           {
             "label": "HR",
@@ -5946,15 +5946,15 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           },
           {
             "label": "SB",
-            "value": "6"
+            "value": "8"
           }
         ],
         "components": {
           "On-base": 63.888888888888886,
           "Power": 0,
-          "Contact": 23.750000000000004,
+          "Contact": 30.00000000000001,
           "Discipline": 48.48484848484848,
-          "Speed": 20
+          "Speed": 26.666666666666668
         },
         "metaLine": "SO / N/A",
         "detailBadges": [
@@ -5981,29 +5981,29 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "position": "C",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 53,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Chris Cancel profiles as a C piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Chris Cancel profiles as a C piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .289",
-          "OBP .400",
-          "SLG .467"
+          "AVG .265",
+          "OBP .383",
+          "SLG .429"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": ".265"
           },
           {
             "label": "OBP",
-            "value": ".400"
+            "value": ".383"
           },
           {
             "label": "SLG",
-            "value": ".467"
+            "value": ".429"
           },
           {
             "label": "HR",
@@ -6019,10 +6019,10 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           }
         ],
         "components": {
-          "On-base": 66.66666666666666,
-          "Power": 38.6842105263158,
-          "Contact": 43.124999999999986,
-          "Discipline": 100,
+          "On-base": 57.22222222222222,
+          "Power": 28.68421052631579,
+          "Contact": 28.125000000000007,
+          "Discipline": 88.88888888888889,
           "Speed": 0
         },
         "metaLine": "SO / N/A",
@@ -6050,29 +6050,29 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 20,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Chase Taylor gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .230",
-          "OBP .330",
-          "SLG .270"
+          "AVG .244",
+          "OBP .337",
+          "SLG .282"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".230"
+            "value": ".244"
           },
           {
             "label": "OBP",
-            "value": ".330"
+            "value": ".337"
           },
           {
             "label": "SLG",
-            "value": ".270"
+            "value": ".282"
           },
           {
             "label": "HR",
@@ -6088,9 +6088,9 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           }
         ],
         "components": {
-          "On-base": 27.777777777777775,
+          "On-base": 31.666666666666664,
           "Power": 0,
-          "Contact": 6.250000000000005,
+          "Contact": 14.999999999999996,
           "Discipline": 54.166666666666664,
           "Speed": 23.333333333333332
         },
@@ -6532,29 +6532,29 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "position": "INF",
         "classYear": "R-SO",
         "handedness": "N/A",
-        "score": 35,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Peyton Jemison gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .301",
-          "OBP .369",
-          "SLG .452"
+          "AVG .312",
+          "OBP .375",
+          "SLG .455"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".301"
+            "value": ".312"
           },
           {
             "label": "OBP",
-            "value": ".369"
+            "value": ".375"
           },
           {
             "label": "SLG",
-            "value": ".452"
+            "value": ".455"
           },
           {
             "label": "HR",
@@ -6570,9 +6570,9 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           }
         ],
         "components": {
-          "On-base": 49.44444444444443,
-          "Power": 34.736842105263165,
-          "Contact": 50.624999999999986,
+          "On-base": 52.77777777777777,
+          "Power": 35.52631578947369,
+          "Contact": 57.49999999999999,
           "Discipline": 1.932367149758452,
           "Speed": 6.666666666666667
         },
@@ -7152,29 +7152,29 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "position": "1B",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 85,
+        "score": 87,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Jackson Marshall profiles as a 1B piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .379",
-          "OBP .469",
-          "SLG .675"
+          "AVG .382",
+          "OBP .480",
+          "SLG .676"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".379"
+            "value": ".382"
           },
           {
             "label": "OBP",
-            "value": ".469"
+            "value": ".480"
           },
           {
             "label": "SLG",
-            "value": ".675"
+            "value": ".676"
           },
           {
             "label": "HR",
@@ -7191,9 +7191,9 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 93.42105263157897,
-          "Contact": 99.375,
-          "Discipline": 72.5490196078431,
+          "Power": 93.68421052631581,
+          "Contact": 100,
+          "Discipline": 85.62091503267972,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SO / N/A",
@@ -7428,29 +7428,29 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "position": "LHP",
         "classYear": "R-JR",
         "handedness": "N/A",
-        "score": 8,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Oliver Pudvar looks like a LHP option who limits runs and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.60",
-          "WHIP 1.31",
-          "K/9 6.0"
+          "ERA 3.55",
+          "WHIP 1.35",
+          "K/9 6.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.60"
+            "value": "3.55"
           },
           {
             "label": "WHIP",
-            "value": "1.31"
+            "value": "1.35"
           },
           {
             "label": "K/9",
-            "value": "6.0"
+            "value": "6.1"
           },
           {
             "label": "BB/9",
@@ -7458,18 +7458,18 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.11"
+            "value": "1.01"
           },
           {
             "label": "IP",
-            "value": "65.0"
+            "value": "71.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 17.762237762237763,
-          "Command": 30.588235294117645,
+          "Miss bats": 18.950064020486554,
+          "Command": 30.526315789473678,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / N/A",
@@ -7704,16 +7704,16 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 12,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Greg Shaw III looks like a RHP option who limits runs.",
+        "summary": "Greg Shaw III looks like a RHP option who limits runs and throws enough strikes.",
         "summaryMetrics": [
           "ERA 3.03",
-          "WHIP 1.50",
-          "K/9 8.0"
+          "WHIP 1.49",
+          "K/9 8.1"
         ],
         "statCards": [
           {
@@ -7722,30 +7722,30 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.49"
           },
           {
             "label": "K/9",
-            "value": "8.0"
+            "value": "8.1"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "2.8"
           },
           {
             "label": "HR/9",
-            "value": "0.28"
+            "value": "0.25"
           },
           {
             "label": "IP",
-            "value": "32.7"
+            "value": "35.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.270871985157704,
-          "Command": 32.72727272727273,
+          "Miss bats": 37.04333050127443,
+          "Command": 38.181818181818194,
           "Damage suppression": 0
         },
         "metaLine": "SR / N/A",
@@ -7842,29 +7842,29 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "position": "1B",
         "classYear": "R-JR",
         "handedness": "N/A",
-        "score": 36,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Maddix Dalena gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .245",
-          "OBP .380",
-          "SLG .424"
+          "AVG .252",
+          "OBP .386",
+          "SLG .427"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".245"
+            "value": ".252"
           },
           {
             "label": "OBP",
-            "value": ".380"
+            "value": ".386"
           },
           {
             "label": "SLG",
-            "value": ".424"
+            "value": ".427"
           },
           {
             "label": "HR",
@@ -7872,7 +7872,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -7880,10 +7880,10 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           }
         ],
         "components": {
-          "On-base": 55.55555555555555,
-          "Power": 27.368421052631575,
-          "Contact": 15.624999999999996,
-          "Discipline": 54.93827160493826,
+          "On-base": 58.88888888888888,
+          "Power": 28.157894736842103,
+          "Contact": 20,
+          "Discipline": 58.02469135802467,
           "Speed": 3.3333333333333335
         },
         "metaLine": "R-JR / N/A",
@@ -8124,14 +8124,14 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         },
         "summary": "Nater Wachter profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .293",
+          "AVG .290",
           "OBP .402",
-          "SLG .467"
+          "SLG .462"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".293"
+            "value": ".290"
           },
           {
             "label": "OBP",
@@ -8139,7 +8139,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           },
           {
             "label": "SLG",
-            "value": ".467"
+            "value": ".462"
           },
           {
             "label": "HR",
@@ -8147,7 +8147,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           },
           {
             "label": "RBI",
-            "value": "31"
+            "value": "32"
           },
           {
             "label": "SB",
@@ -8156,9 +8156,9 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         ],
         "components": {
           "On-base": 67.77777777777779,
-          "Power": 38.6842105263158,
-          "Contact": 45.624999999999986,
-          "Discipline": 36.25730994152046,
+          "Power": 37.36842105263159,
+          "Contact": 43.749999999999986,
+          "Discipline": 39.080459770114935,
           "Speed": 10
         },
         "metaLine": "JR / N/A",

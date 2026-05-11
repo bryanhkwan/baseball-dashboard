@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T11:14:07.078Z",
+  "generatedAt": "2026-05-11T12:50:31.117Z",
   "season": 2026,
   "school": {
     "slug": "dartmouth",
@@ -42,84 +42,84 @@
     }
   },
   "teamSummary": {
-    "record": "15-23, 7-12",
-    "battingAverage": ".236",
-    "earnedRunAverage": "4.34",
+    "record": "15-25, 7-14",
+    "battingAverage": ".235",
+    "earnedRunAverage": "4.32",
     "wins": "15",
-    "losses": "23",
+    "losses": "25",
     "hitting": {
-      "atBats": "1214",
-      "runsScored": "164",
-      "hits": "286",
-      "runsBattedIn": "152",
-      "doubles": "48",
+      "atBats": "1278",
+      "runsScored": "167",
+      "hits": "300",
+      "runsBattedIn": "155",
+      "doubles": "51",
       "triples": "8",
       "homeRuns": "13",
-      "walks": "160",
+      "walks": "162",
       "intentionalWalks": "2",
-      "strikeouts": "266",
-      "strikeoutsLooking": "76",
-      "hitByPitch": "70",
-      "stolenBases": "69",
-      "caughtStealing": "19",
-      "sacrificeHits": "22",
+      "strikeouts": "277",
+      "strikeoutsLooking": "79",
+      "hitByPitch": "72",
+      "stolenBases": "71",
+      "caughtStealing": "21",
+      "sacrificeHits": "24",
       "sacrificeFlies": "12",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "364",
-      "flyOuts": "301",
+      "groundOuts": "381",
+      "flyOuts": "325",
       "groundedIntoDoublePlay": "22",
-      "pickedOff": "9",
+      "pickedOff": "10",
       "doublePlaysHitInto": "26",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "976",
-      "assists": "368",
+      "putouts": "1024",
+      "assists": "387",
       "errors": "54",
       "passedBalls": "10",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "76",
+      "stolenBasesAgainst": "79",
       "caughtStealingBy": "20",
       "involvedInDoublePlays": "22",
       "involvedInTriplePlays": "0",
-      "totalChances": "1398",
-      "fieldingPercentage": ".961"
+      "totalChances": "1465",
+      "fieldingPercentage": ".963"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "15",
       "saves": "5",
-      "losses": "23",
+      "losses": "25",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "4",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "325.1",
-      "hitsAllowed": "306",
-      "runsAllowed": "204",
-      "earnedRunsAllowed": "157",
-      "walksAllowed": "155",
-      "strikeouts": "303",
-      "battersFaced": "1480",
-      "opponentAtBats": "1236",
-      "doublesAllowed": "75",
-      "triplesAllowed": "11",
-      "homerunsAllowed": "15",
+      "inningsPitched": "341.1",
+      "hitsAllowed": "321",
+      "runsAllowed": "211",
+      "earnedRunsAllowed": "164",
+      "walksAllowed": "156",
+      "strikeouts": "315",
+      "battersFaced": "1544",
+      "opponentAtBats": "1297",
+      "doublesAllowed": "78",
+      "triplesAllowed": "12",
+      "homerunsAllowed": "17",
       "wildPitches": "35",
       "balks": "4",
-      "hitBatters": "59",
-      "strikeoutsLooking": "81",
+      "hitBatters": "61",
+      "strikeoutsLooking": "83",
       "intentionalWalks": "0",
       "inheritedRunners": "0",
       "inheritedRunnersThatScored": "0",
       "sacrificeHitsAllowed": "16",
       "sacrificeFliesAllowed": "14",
       "catchersInterferenceAllowed": "0",
-      "pitches": "2367",
-      "flyouts": "311",
-      "groundouts": "307",
+      "pitches": "2591",
+      "flyouts": "328",
+      "groundouts": "324",
       "teamUnearnedRuns": "0",
       "saveRecord": "5",
       "pickoff": "3"
@@ -164,20 +164,20 @@
         "jersey": "2",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/alejandro-puig/41218",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Alejandro_Puig.png",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "battingAverage": 0.252,
-        "onBasePercentage": 0.354,
-        "sluggingPercentage": 0.325,
-        "ops": 0.679,
-        "atBats": 123,
-        "runs": 15,
-        "hits": 31,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "battingAverage": 0.248,
+        "onBasePercentage": 0.347,
+        "sluggingPercentage": 0.318,
+        "ops": 0.665,
+        "atBats": 129,
+        "runs": 16,
+        "hits": 32,
         "doubles": 7,
         "triples": 1,
         "homeRuns": 0,
         "runsBattedIn": 12,
-        "totalBases": 40,
+        "totalBases": 41,
         "walks": 13,
         "hitByPitch": 7,
         "strikeouts": 18,
@@ -187,10 +187,10 @@
         "sacrificeHits": 0,
         "stolenBases": 7,
         "stolenBasesAttempts": 12,
-        "putouts": 44,
+        "putouts": 46,
         "assists": 0,
         "errors": 8,
-        "plateAppearances": 161,
+        "plateAppearances": 167,
         "caughtStealing": 5,
         "pickedOff": 2
       },
@@ -202,51 +202,51 @@
         "jersey": "2",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/alejandro-puig/41218",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Alejandro_Puig.png",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
-        "putouts": 44,
-        "assists": 65,
+        "gamesPlayed": 36,
+        "gamesStarted": 36,
+        "putouts": 46,
+        "assists": 70,
         "errors": 8,
-        "fieldingPercentage": 0.932,
+        "fieldingPercentage": 0.935,
         "doublePlays": 11,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 117
+        "totalChances": 124
       },
       "evaluation": {
-        "score": 28,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 41.111111111111086,
-          "Power": 1.315789473684212,
-          "Contact": 20,
+          "On-base": 37.22222222222219,
+          "Power": 0,
+          "Contact": 17.5,
           "Discipline": 58.02469135802467,
           "Speed": 23.333333333333332
         },
         "summary": "Alejandro Puig gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .252",
-          "OBP .354",
-          "SLG .325"
+          "AVG .248",
+          "OBP .347",
+          "SLG .318"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".252"
+            "value": ".248"
           },
           {
             "label": "OBP",
-            "value": ".354"
+            "value": ".347"
           },
           {
             "label": "SLG",
-            "value": ".325"
+            "value": ".318"
           },
           {
             "label": "HR",
@@ -309,33 +309,33 @@
         "jersey": "3",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/austin-moran/41228",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Austin_Moran.png",
-        "gamesPlayed": 16,
-        "gamesStarted": 12,
-        "battingAverage": 0.154,
-        "onBasePercentage": 0.314,
-        "sluggingPercentage": 0.179,
-        "ops": 0.493,
-        "atBats": 39,
-        "runs": 5,
-        "hits": 6,
+        "gamesPlayed": 18,
+        "gamesStarted": 14,
+        "battingAverage": 0.159,
+        "onBasePercentage": 0.316,
+        "sluggingPercentage": 0.182,
+        "ops": 0.498,
+        "atBats": 44,
+        "runs": 6,
+        "hits": 7,
         "doubles": 1,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 2,
-        "totalBases": 7,
+        "totalBases": 8,
         "walks": 7,
-        "hitByPitch": 3,
-        "strikeouts": 14,
+        "hitByPitch": 4,
+        "strikeouts": 15,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 2,
-        "sacrificeHits": 0,
+        "sacrificeHits": 1,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 19,
+        "putouts": 21,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 53,
+        "plateAppearances": 60,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -380,19 +380,19 @@
         "jersey": "3",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/austin-moran/41228",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Austin_Moran.png",
-        "gamesPlayed": 15,
-        "gamesStarted": 12,
-        "putouts": 19,
-        "assists": 42,
+        "gamesPlayed": 17,
+        "gamesStarted": 14,
+        "putouts": 21,
+        "assists": 46,
         "errors": 4,
-        "fieldingPercentage": 0.938,
+        "fieldingPercentage": 0.944,
         "doublePlays": 5,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 65
+        "totalChances": 71
       },
       "evaluation": {
         "score": 11,
@@ -401,30 +401,30 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 18.888888888888875,
+          "On-base": 19.999999999999986,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 33.33333333333333,
+          "Discipline": 29.629629629629623,
           "Speed": 6.666666666666667
         },
         "summary": "Austin Moran gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .154",
-          "OBP .314",
-          "SLG .179"
+          "AVG .159",
+          "OBP .316",
+          "SLG .182"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".154"
+            "value": ".159"
           },
           {
             "label": "OBP",
-            "value": ".314"
+            "value": ".316"
           },
           {
             "label": "SLG",
-            "value": ".179"
+            "value": ".182"
           },
           {
             "label": "HR",
@@ -487,20 +487,20 @@
         "jersey": "4",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/nico-ba-ntilde-ez/41204",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Nico_Banez.png",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "battingAverage": 0.24,
-        "onBasePercentage": 0.428,
-        "sluggingPercentage": 0.272,
-        "ops": 0.7,
-        "atBats": 125,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "battingAverage": 0.239,
+        "onBasePercentage": 0.417,
+        "sluggingPercentage": 0.269,
+        "ops": 0.686,
+        "atBats": 134,
         "runs": 25,
-        "hits": 30,
+        "hits": 32,
         "doubles": 4,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 11,
-        "totalBases": 34,
+        "totalBases": 36,
         "walks": 28,
         "hitByPitch": 13,
         "strikeouts": 23,
@@ -510,10 +510,10 @@
         "sacrificeHits": 7,
         "stolenBases": 15,
         "stolenBasesAttempts": 19,
-        "putouts": 81,
+        "putouts": 85,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 196,
+        "plateAppearances": 205,
         "caughtStealing": 4,
         "pickedOff": 0
       },
@@ -525,51 +525,51 @@
         "jersey": "4",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/nico-ba-ntilde-ez/41204",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Nico_Banez.png",
-        "gamesPlayed": 33,
-        "gamesStarted": 33,
-        "putouts": 81,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "putouts": 85,
         "assists": 1,
         "errors": 2,
-        "fieldingPercentage": 0.976,
+        "fieldingPercentage": 0.977,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 84
+        "totalChances": 88
       },
       "evaluation": {
-        "score": 48,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 82.22222222222221,
+          "On-base": 76.11111111111109,
           "Power": 0,
-          "Contact": 12.499999999999993,
+          "Contact": 11.874999999999993,
           "Discipline": 100,
           "Speed": 50
         },
         "summary": "Nico Bañez profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .240",
-          "OBP .428",
-          "SLG .272"
+          "AVG .239",
+          "OBP .417",
+          "SLG .269"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".240"
+            "value": ".239"
           },
           {
             "label": "OBP",
-            "value": ".428"
+            "value": ".417"
           },
           {
             "label": "SLG",
-            "value": ".272"
+            "value": ".269"
           },
           {
             "label": "HR",
@@ -632,33 +632,33 @@
         "jersey": "5",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/milo-suarez/41224",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Milo_Suarez.png",
-        "gamesPlayed": 37,
-        "gamesStarted": 36,
-        "battingAverage": 0.248,
-        "onBasePercentage": 0.42,
-        "sluggingPercentage": 0.427,
-        "ops": 0.847,
-        "atBats": 117,
+        "gamesPlayed": 39,
+        "gamesStarted": 38,
+        "battingAverage": 0.264,
+        "onBasePercentage": 0.424,
+        "sluggingPercentage": 0.448,
+        "ops": 0.872,
+        "atBats": 125,
         "runs": 20,
-        "hits": 29,
-        "doubles": 9,
+        "hits": 33,
+        "doubles": 11,
         "triples": 0,
         "homeRuns": 4,
         "runsBattedIn": 20,
-        "totalBases": 50,
+        "totalBases": 56,
         "walks": 24,
         "hitByPitch": 13,
-        "strikeouts": 23,
+        "strikeouts": 25,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 3,
         "sacrificeHits": 1,
         "stolenBases": 9,
         "stolenBasesAttempts": 10,
-        "putouts": 277,
+        "putouts": 291,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 169,
+        "plateAppearances": 177,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -670,51 +670,51 @@
         "jersey": "5",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/milo-suarez/41224",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Milo_Suarez.png",
-        "gamesPlayed": 35,
-        "gamesStarted": 34,
-        "putouts": 277,
+        "gamesPlayed": 37,
+        "gamesStarted": 36,
+        "putouts": 291,
         "assists": 29,
         "errors": 5,
-        "fieldingPercentage": 0.984,
+        "fieldingPercentage": 0.985,
         "doublePlays": 15,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 311
+        "totalChances": 325
       },
       "evaluation": {
-        "score": 51,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 77.77777777777776,
-          "Power": 28.157894736842103,
-          "Contact": 17.5,
-          "Discipline": 93.719806763285,
+          "On-base": 79.99999999999999,
+          "Power": 33.684210526315795,
+          "Contact": 27.500000000000007,
+          "Discipline": 84.44444444444443,
           "Speed": 30
         },
-        "summary": "Milo Suarez profiles as a IF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
+        "summary": "Milo Suarez profiles as a IF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .248",
-          "OBP .420",
-          "SLG .427"
+          "AVG .264",
+          "OBP .424",
+          "SLG .448"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".248"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".420"
+            "value": ".424"
           },
           {
             "label": "SLG",
-            "value": ".427"
+            "value": ".448"
           },
           {
             "label": "HR",
@@ -922,33 +922,33 @@
         "jersey": "7",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/aj-demastrie/41207",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/AJ_DeMastrie.png",
-        "gamesPlayed": 28,
-        "gamesStarted": 27,
-        "battingAverage": 0.277,
-        "onBasePercentage": 0.348,
-        "sluggingPercentage": 0.406,
-        "ops": 0.754,
-        "atBats": 101,
+        "gamesPlayed": 30,
+        "gamesStarted": 29,
+        "battingAverage": 0.266,
+        "onBasePercentage": 0.333,
+        "sluggingPercentage": 0.394,
+        "ops": 0.727,
+        "atBats": 109,
         "runs": 12,
-        "hits": 28,
-        "doubles": 5,
+        "hits": 29,
+        "doubles": 6,
         "triples": 1,
         "homeRuns": 2,
-        "runsBattedIn": 12,
-        "totalBases": 41,
+        "runsBattedIn": 14,
+        "totalBases": 43,
         "walks": 7,
         "hitByPitch": 4,
-        "strikeouts": 19,
+        "strikeouts": 23,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 201,
+        "putouts": 208,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 116,
+        "plateAppearances": 124,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -960,51 +960,51 @@
         "jersey": "7",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/aj-demastrie/41207",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/AJ_DeMastrie.png",
-        "gamesPlayed": 24,
-        "gamesStarted": 24,
-        "putouts": 201,
+        "gamesPlayed": 25,
+        "gamesStarted": 25,
+        "putouts": 208,
         "assists": 29,
         "errors": 2,
-        "fieldingPercentage": 0.991,
+        "fieldingPercentage": 0.992,
         "doublePlays": 2,
-        "stolenBasesAgainst": 38,
+        "stolenBasesAgainst": 39,
         "caughtStealingBy": 12,
         "stolenBasesPercentage": null,
         "passedBalls": 5,
         "catchersInterference": 0,
-        "totalChances": 232
+        "totalChances": 239
       },
       "evaluation": {
-        "score": 27,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 37.77777777777775,
-          "Power": 22.631578947368432,
-          "Contact": 35.625000000000014,
-          "Discipline": 18.713450292397653,
+          "On-base": 29.44444444444444,
+          "Power": 19.473684210526322,
+          "Contact": 28.750000000000007,
+          "Discipline": 11.594202898550723,
           "Speed": 3.3333333333333335
         },
         "summary": "A.J. DeMastrie gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .348",
-          "SLG .406"
+          "AVG .266",
+          "OBP .333",
+          "SLG .394"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".266"
           },
           {
             "label": "OBP",
-            "value": ".348"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".406"
+            "value": ".394"
           },
           {
             "label": "HR",
@@ -1012,7 +1012,7 @@
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "14"
           },
           {
             "label": "SB",
@@ -1067,13 +1067,13 @@
         "jersey": "8",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/tyler-sirchia/41223",
         "imageUrl": "https://dartmouthsports.com/images/2025/1/24/Tyler_Sirchia.png",
-        "gamesPlayed": 17,
-        "gamesStarted": 16,
-        "battingAverage": 0.293,
-        "onBasePercentage": 0.397,
-        "sluggingPercentage": 0.448,
-        "ops": 0.845,
-        "atBats": 58,
+        "gamesPlayed": 18,
+        "gamesStarted": 17,
+        "battingAverage": 0.274,
+        "onBasePercentage": 0.375,
+        "sluggingPercentage": 0.419,
+        "ops": 0.794,
+        "atBats": 62,
         "runs": 8,
         "hits": 17,
         "doubles": 3,
@@ -1083,7 +1083,7 @@
         "totalBases": 26,
         "walks": 9,
         "hitByPitch": 1,
-        "strikeouts": 12,
+        "strikeouts": 13,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -1093,7 +1093,7 @@
         "putouts": 3,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 69,
+        "plateAppearances": 73,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1120,36 +1120,36 @@
         "totalChances": 5
       },
       "evaluation": {
-        "score": 46,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 65,
-          "Power": 33.684210526315795,
-          "Contact": 45.624999999999986,
-          "Discipline": 61.11111111111111,
+          "On-base": 52.77777777777777,
+          "Power": 26.052631578947366,
+          "Contact": 33.750000000000014,
+          "Discipline": 54.700854700854684,
           "Speed": 0
         },
         "summary": "Tyler Sirchia gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .293",
-          "OBP .397",
-          "SLG .448"
+          "AVG .274",
+          "OBP .375",
+          "SLG .419"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".293"
+            "value": ".274"
           },
           {
             "label": "OBP",
-            "value": ".397"
+            "value": ".375"
           },
           {
             "label": "SLG",
-            "value": ".448"
+            "value": ".419"
           },
           {
             "label": "HR",
@@ -1212,20 +1212,20 @@
         "jersey": "9",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/sam-andersen/41225",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Sam_Andersen.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 29,
-        "battingAverage": 0.231,
-        "onBasePercentage": 0.355,
-        "sluggingPercentage": 0.298,
-        "ops": 0.653,
-        "atBats": 104,
-        "runs": 16,
-        "hits": 24,
+        "gamesPlayed": 38,
+        "gamesStarted": 31,
+        "battingAverage": 0.239,
+        "onBasePercentage": 0.353,
+        "sluggingPercentage": 0.301,
+        "ops": 0.654,
+        "atBats": 113,
+        "runs": 17,
+        "hits": 27,
         "doubles": 1,
         "triples": 3,
         "homeRuns": 0,
-        "runsBattedIn": 16,
-        "totalBases": 31,
+        "runsBattedIn": 17,
+        "totalBases": 34,
         "walks": 15,
         "hitByPitch": 5,
         "strikeouts": 22,
@@ -1233,13 +1233,13 @@
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 3,
-        "stolenBases": 9,
-        "stolenBasesAttempts": 11,
-        "putouts": 55,
+        "stolenBases": 10,
+        "stolenBasesAttempts": 13,
+        "putouts": 62,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 140,
-        "caughtStealing": 2,
+        "plateAppearances": 152,
+        "caughtStealing": 3,
         "pickedOff": 0
       },
       "pitchingStats": null,
@@ -1250,51 +1250,51 @@
         "jersey": "9",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/sam-andersen/41225",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Sam_Andersen.png",
-        "gamesPlayed": 29,
-        "gamesStarted": 27,
-        "putouts": 55,
+        "gamesPlayed": 31,
+        "gamesStarted": 29,
+        "putouts": 62,
         "assists": 36,
         "errors": 6,
-        "fieldingPercentage": 0.938,
+        "fieldingPercentage": 0.942,
         "doublePlays": 5,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 97
+        "totalChances": 104
       },
       "evaluation": {
-        "score": 25,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 41.66666666666664,
+          "On-base": 40.555555555555536,
           "Power": 0,
-          "Contact": 6.875000000000006,
+          "Contact": 11.874999999999993,
           "Discipline": 53.53535353535352,
-          "Speed": 30
+          "Speed": 33.33333333333333
         },
         "summary": "Sam Andersen profiles as a IF/OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .231",
-          "OBP .355",
-          "SLG .298"
+          "AVG .239",
+          "OBP .353",
+          "SLG .301"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".231"
+            "value": ".239"
           },
           {
             "label": "OBP",
-            "value": ".355"
+            "value": ".353"
           },
           {
             "label": "SLG",
-            "value": ".298"
+            "value": ".301"
           },
           {
             "label": "HR",
@@ -1302,11 +1302,11 @@
           },
           {
             "label": "RBI",
-            "value": "16"
+            "value": "17"
           },
           {
             "label": "SB",
-            "value": "9"
+            "value": "10"
           }
         ],
         "metaLine": "FY / R/R",
@@ -1357,13 +1357,13 @@
         "jersey": "10",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/jack-espiritu-niswonger/41227",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Jack_EN.png",
-        "gamesPlayed": 19,
-        "gamesStarted": 13,
-        "battingAverage": 0.365,
-        "onBasePercentage": 0.469,
-        "sluggingPercentage": 0.404,
-        "ops": 0.873,
-        "atBats": 52,
+        "gamesPlayed": 20,
+        "gamesStarted": 14,
+        "battingAverage": 0.345,
+        "onBasePercentage": 0.456,
+        "sluggingPercentage": 0.382,
+        "ops": 0.838,
+        "atBats": 55,
         "runs": 8,
         "hits": 19,
         "doubles": 2,
@@ -1372,20 +1372,20 @@
         "runsBattedIn": 8,
         "totalBases": 21,
         "walks": 7,
-        "hitByPitch": 4,
+        "hitByPitch": 5,
         "strikeouts": 8,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
-        "stolenBases": 5,
-        "stolenBasesAttempts": 7,
-        "putouts": 93,
+        "stolenBases": 6,
+        "stolenBasesAttempts": 9,
+        "putouts": 101,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 73,
-        "caughtStealing": 2,
-        "pickedOff": 0
+        "plateAppearances": 80,
+        "caughtStealing": 3,
+        "pickedOff": 1
       },
       "pitchingStats": null,
       "fieldingStats": {
@@ -1395,51 +1395,51 @@
         "jersey": "10",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/jack-espiritu-niswonger/41227",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Jack_EN.png",
-        "gamesPlayed": 15,
-        "gamesStarted": 13,
-        "putouts": 93,
+        "gamesPlayed": 16,
+        "gamesStarted": 14,
+        "putouts": 101,
         "assists": 13,
         "errors": 2,
-        "fieldingPercentage": 0.981,
+        "fieldingPercentage": 0.983,
         "doublePlays": 0,
-        "stolenBasesAgainst": 29,
+        "stolenBasesAgainst": 31,
         "caughtStealingBy": 6,
         "stolenBasesPercentage": null,
         "passedBalls": 3,
         "catchersInterference": 0,
-        "totalChances": 108
+        "totalChances": 116
       },
       "evaluation": {
-        "score": 66,
+        "score": 62,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 100,
-          "Power": 22.105263157894743,
-          "Contact": 90.62499999999999,
+          "On-base": 97.77777777777777,
+          "Power": 16.315789473684212,
+          "Contact": 78.12499999999997,
           "Discipline": 74.99999999999999,
-          "Speed": 16.666666666666664
+          "Speed": 20
         },
         "summary": "Jack Espiritu-Niswonger profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .365",
-          "OBP .469",
-          "SLG .404"
+          "AVG .345",
+          "OBP .456",
+          "SLG .382"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".365"
+            "value": ".345"
           },
           {
             "label": "OBP",
-            "value": ".469"
+            "value": ".456"
           },
           {
             "label": "SLG",
-            "value": ".404"
+            "value": ".382"
           },
           {
             "label": "HR",
@@ -1451,7 +1451,7 @@
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "6"
           }
         ],
         "metaLine": "FY / R/R",
@@ -1736,31 +1736,31 @@
         "jersey": "13",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/nate-kugler/41213",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Nate_Kugler.png",
-        "gamesPlayed": 12,
-        "gamesStarted": 6,
-        "appearances": 12,
+        "gamesPlayed": 13,
+        "gamesStarted": 7,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.18,
-        "whip": 1.31,
+        "earnedRunAverage": 3.35,
+        "whip": 1.29,
         "wins": 2,
-        "losses": 3,
+        "losses": 4,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 39.666666666666664,
-        "inningsPitchedDisplay": "39.2",
-        "hitsAllowed": 35,
-        "runsAllowed": 20,
-        "earnedRunsAllowed": 14,
+        "inningsPitched": 45.666666666666664,
+        "inningsPitchedDisplay": "45.2",
+        "hitsAllowed": 42,
+        "runsAllowed": 23,
+        "earnedRunsAllowed": 17,
         "walksAllowed": 17,
-        "strikeouts": 25,
-        "doublesAllowed": 14,
+        "strikeouts": 29,
+        "doublesAllowed": 15,
         "triplesAllowed": 2,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 143,
+        "opponentsAtBats": 167,
         "wildPitches": 1,
-        "hitBatters": 6,
+        "hitBatters": 8,
         "balks": 1,
-        "opponentsBattingAverage": 0.245,
+        "opponentsBattingAverage": 0.251,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1770,19 +1770,19 @@
         "jersey": "13",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/nate-kugler/41213",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Nate_Kugler.png",
-        "gamesPlayed": 8,
-        "gamesStarted": 5,
+        "gamesPlayed": 9,
+        "gamesStarted": 6,
         "putouts": 2,
-        "assists": 7,
+        "assists": 8,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 5,
+        "stolenBasesAgainst": 6,
         "caughtStealingBy": 2,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 9
+        "totalChances": 10
       },
       "evaluation": {
         "score": 5,
@@ -1793,24 +1793,24 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 15.202444614209323,
-          "Command": 9.411764705882355,
+          "Miss bats": 15.593895155938958,
+          "Command": 14.117647058823533,
           "Damage suppression": 0
         },
         "summary": "Nate Kugler looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.18",
-          "WHIP 1.31",
+          "ERA 3.35",
+          "WHIP 1.29",
           "K/9 5.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.18"
+            "value": "3.35"
           },
           {
             "label": "WHIP",
-            "value": "1.31"
+            "value": "1.29"
           },
           {
             "label": "K/9",
@@ -1818,15 +1818,15 @@
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
-            "value": "0.68"
+            "value": "0.59"
           },
           {
             "label": "IP",
-            "value": "39.7"
+            "value": "45.7"
           }
         ],
         "metaLine": "SO / R/R",
@@ -2161,7 +2161,7 @@
         "jersey": "16",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/mason-smith/41230",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Mason_Smith.png",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 1,
         "battingAverage": 0.143,
         "onBasePercentage": 0.25,
@@ -2539,12 +2539,12 @@
         "jersey": "19",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/henry-murray/41232",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Henry_Murray.png",
-        "gamesPlayed": 34,
+        "gamesPlayed": 35,
         "gamesStarted": 23,
         "battingAverage": 0.244,
-        "onBasePercentage": 0.333,
+        "onBasePercentage": 0.34,
         "sluggingPercentage": 0.349,
-        "ops": 0.682,
+        "ops": 0.689,
         "atBats": 86,
         "runs": 9,
         "hits": 21,
@@ -2553,7 +2553,7 @@
         "homeRuns": 1,
         "runsBattedIn": 12,
         "totalBases": 30,
-        "walks": 6,
+        "walks": 7,
         "hitByPitch": 6,
         "strikeouts": 16,
         "intentionalWalks": 0,
@@ -2565,7 +2565,7 @@
         "putouts": 23,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 101,
+        "plateAppearances": 102,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2592,22 +2592,22 @@
         "totalChances": 24
       },
       "evaluation": {
-        "score": 17,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 29.44444444444444,
+          "On-base": 33.33333333333333,
           "Power": 7.631578947368414,
           "Contact": 14.999999999999996,
-          "Discipline": 19.44444444444444,
+          "Discipline": 26.388888888888886,
           "Speed": 3.3333333333333335
         },
         "summary": "Henry Murray gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .244",
-          "OBP .333",
+          "OBP .340",
           "SLG .349"
         ],
         "statCards": [
@@ -2617,7 +2617,7 @@
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".340"
           },
           {
             "label": "SLG",
@@ -2830,31 +2830,31 @@
         "jersey": "21",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/kyle-klaric-schell/41212",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Kyle_Klaric-Schell.png",
-        "gamesPlayed": 9,
-        "gamesStarted": 0,
-        "appearances": 9,
+        "gamesPlayed": 10,
+        "gamesStarted": 1,
+        "appearances": 10,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.61,
-        "whip": 1.11,
+        "earnedRunAverage": 3.42,
+        "whip": 1.18,
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 20.666666666666668,
-        "inningsPitchedDisplay": "20.2",
-        "hitsAllowed": 16,
-        "runsAllowed": 6,
-        "earnedRunsAllowed": 6,
-        "walksAllowed": 7,
-        "strikeouts": 18,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 76,
+        "inningsPitched": 26.333333333333332,
+        "inningsPitchedDisplay": "26.1",
+        "hitsAllowed": 23,
+        "runsAllowed": 10,
+        "earnedRunsAllowed": 10,
+        "walksAllowed": 8,
+        "strikeouts": 23,
+        "doublesAllowed": 2,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 100,
         "wildPitches": 1,
         "hitBatters": 5,
         "balks": 1,
-        "opponentsBattingAverage": 0.211,
+        "opponentsBattingAverage": 0.23,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2864,22 +2864,22 @@
         "jersey": "21",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/kyle-klaric-schell/41212",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Kyle_Klaric-Schell.png",
-        "gamesPlayed": 6,
-        "gamesStarted": 0,
+        "gamesPlayed": 7,
+        "gamesStarted": 1,
         "putouts": 4,
-        "assists": 2,
+        "assists": 3,
         "errors": 1,
-        "fieldingPercentage": 0.857,
+        "fieldingPercentage": 0.875,
         "doublePlays": 0,
-        "stolenBasesAgainst": 6,
+        "stolenBasesAgainst": 8,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 7
+        "totalChances": 8
       },
       "evaluation": {
-        "score": 12,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2887,40 +2887,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 34.89736070381231,
-          "Command": 31.428571428571423,
+          "Miss bats": 35.09781357882623,
+          "Command": 37.5,
           "Damage suppression": 0
         },
-        "summary": "Kyle Klaric-Schell looks like a RHP option who limits runs and keeps traffic under control.",
+        "summary": "Kyle Klaric-Schell looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.61",
-          "WHIP 1.11",
-          "K/9 7.8"
+          "ERA 3.42",
+          "WHIP 1.18",
+          "K/9 7.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.61"
+            "value": "3.42"
           },
           {
             "label": "WHIP",
-            "value": "1.11"
+            "value": "1.18"
           },
           {
             "label": "K/9",
-            "value": "7.8"
+            "value": "7.9"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "2.7"
           },
           {
             "label": "HR/9",
-            "value": "0.44"
+            "value": "1.03"
           },
           {
             "label": "IP",
-            "value": "20.7"
+            "value": "26.3"
           }
         ],
         "metaLine": "SO / R/R",
@@ -3114,31 +3114,31 @@
         "jersey": "23",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/mac-burke/41206",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Mac_Burke.png",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 0,
-        "appearances": 19,
+        "appearances": 20,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.31,
-        "whip": 1,
+        "earnedRunAverage": 2.19,
+        "whip": 0.95,
         "wins": 4,
         "losses": 3,
         "saves": 4,
         "shutouts": 0,
-        "inningsPitched": 35,
-        "inningsPitchedDisplay": "35.0",
+        "inningsPitched": 37,
+        "inningsPitchedDisplay": "37.0",
         "hitsAllowed": 25,
         "runsAllowed": 13,
         "earnedRunsAllowed": 9,
         "walksAllowed": 10,
-        "strikeouts": 33,
+        "strikeouts": 34,
         "doublesAllowed": 1,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 125,
+        "opponentsAtBats": 131,
         "wildPitches": 5,
         "hitBatters": 7,
         "balks": 1,
-        "opponentsBattingAverage": 0.2,
+        "opponentsBattingAverage": 0.191,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3148,22 +3148,22 @@
         "jersey": "23",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/mac-burke/41206",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Mac_Burke.png",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 0,
         "putouts": 1,
-        "assists": 5,
+        "assists": 6,
         "errors": 1,
-        "fieldingPercentage": 0.857,
+        "fieldingPercentage": 0.875,
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 3,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 7
+        "totalChances": 8
       },
       "evaluation": {
-        "score": 16,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3171,40 +3171,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 40.77922077922078,
-          "Command": 46,
+          "Miss bats": 38.82063882063882,
+          "Command": 48,
           "Damage suppression": 0
         },
         "summary": "Mac Burke looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.31",
-          "WHIP 1.00",
-          "K/9 8.5"
+          "ERA 2.19",
+          "WHIP 0.95",
+          "K/9 8.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.31"
+            "value": "2.19"
           },
           {
             "label": "WHIP",
-            "value": "1.00"
+            "value": "0.95"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "8.3"
           },
           {
             "label": "BB/9",
-            "value": "2.6"
+            "value": "2.4"
           },
           {
             "label": "HR/9",
-            "value": "0.26"
+            "value": "0.24"
           },
           {
             "label": "IP",
-            "value": "35.0"
+            "value": "37.0"
           }
         ],
         "metaLine": "SR / R/R",
@@ -3255,33 +3255,33 @@
         "jersey": "24",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/chris-miller/41216",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Chris_Miller.png",
-        "gamesPlayed": 31,
-        "gamesStarted": 24,
-        "battingAverage": 0.213,
-        "onBasePercentage": 0.314,
-        "sluggingPercentage": 0.281,
-        "ops": 0.595,
-        "atBats": 89,
+        "gamesPlayed": 33,
+        "gamesStarted": 26,
+        "battingAverage": 0.211,
+        "onBasePercentage": 0.306,
+        "sluggingPercentage": 0.274,
+        "ops": 0.58,
+        "atBats": 95,
         "runs": 12,
-        "hits": 19,
+        "hits": 20,
         "doubles": 3,
         "triples": 0,
         "homeRuns": 1,
         "runsBattedIn": 9,
-        "totalBases": 25,
+        "totalBases": 26,
         "walks": 12,
         "hitByPitch": 2,
-        "strikeouts": 21,
+        "strikeouts": 23,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 2,
-        "sacrificeHits": 1,
+        "sacrificeHits": 2,
         "stolenBases": 8,
         "stolenBasesAttempts": 10,
-        "putouts": 41,
+        "putouts": 44,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 118,
+        "plateAppearances": 125,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -3293,51 +3293,51 @@
         "jersey": "24",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/chris-miller/41216",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Chris_Miller.png",
-        "gamesPlayed": 24,
-        "gamesStarted": 23,
-        "putouts": 41,
+        "gamesPlayed": 26,
+        "gamesStarted": 25,
+        "putouts": 44,
         "assists": 1,
         "errors": 1,
-        "fieldingPercentage": 0.977,
+        "fieldingPercentage": 0.978,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 43
+        "totalChances": 46
       },
       "evaluation": {
-        "score": 14,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 18.888888888888875,
+          "On-base": 14.444444444444427,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 41.26984126984126,
+          "Discipline": 35.748792270531396,
           "Speed": 26.666666666666668
         },
         "summary": "Chris Miller profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .213",
-          "OBP .314",
-          "SLG .281"
+          "AVG .211",
+          "OBP .306",
+          "SLG .274"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".213"
+            "value": ".211"
           },
           {
             "label": "OBP",
-            "value": ".314"
+            "value": ".306"
           },
           {
             "label": "SLG",
-            "value": ".281"
+            "value": ".274"
           },
           {
             "label": "HR",
@@ -3400,33 +3400,33 @@
         "jersey": "25",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/taer-rodriguez/41220",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Taer_Rodriguez.png",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "battingAverage": 0.204,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "battingAverage": 0.203,
         "onBasePercentage": 0.286,
-        "sluggingPercentage": 0.285,
-        "ops": 0.571,
-        "atBats": 137,
+        "sluggingPercentage": 0.28,
+        "ops": 0.566,
+        "atBats": 143,
         "runs": 16,
-        "hits": 28,
+        "hits": 29,
         "doubles": 5,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 15,
-        "totalBases": 39,
-        "walks": 10,
+        "totalBases": 40,
+        "walks": 11,
         "hitByPitch": 6,
-        "strikeouts": 28,
+        "strikeouts": 29,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 4,
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
-        "putouts": 37,
+        "putouts": 38,
         "assists": 0,
         "errors": 9,
-        "plateAppearances": 164,
+        "plateAppearances": 171,
         "caughtStealing": 1,
         "pickedOff": 2
       },
@@ -3438,19 +3438,19 @@
         "jersey": "25",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/taer-rodriguez/41220",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Taer_Rodriguez.png",
-        "gamesPlayed": 35,
-        "gamesStarted": 35,
-        "putouts": 37,
-        "assists": 76,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "putouts": 38,
+        "assists": 82,
         "errors": 9,
-        "fieldingPercentage": 0.926,
+        "fieldingPercentage": 0.93,
         "doublePlays": 6,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 122
+        "totalChances": 129
       },
       "evaluation": {
         "score": 5,
@@ -3462,19 +3462,19 @@
           "On-base": 3.3333333333333055,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 17.460317460317455,
+          "Discipline": 19.923371647509573,
           "Speed": 13.333333333333334
         },
         "summary": "Taer Rodriguez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .204",
+          "AVG .203",
           "OBP .286",
-          "SLG .285"
+          "SLG .280"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".204"
+            "value": ".203"
           },
           {
             "label": "OBP",
@@ -3482,7 +3482,7 @@
           },
           {
             "label": "SLG",
-            "value": ".285"
+            "value": ".280"
           },
           {
             "label": "HR",
@@ -4324,31 +4324,31 @@
         "jersey": "36",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/nathan-matoush/41226",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Nate_Matoush.png",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 3,
-        "appearances": 12,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.44,
-        "whip": 1.56,
+        "earnedRunAverage": 4.05,
+        "whip": 1.46,
         "wins": 0,
         "losses": 2,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 24.333333333333332,
-        "inningsPitchedDisplay": "24.1",
-        "hitsAllowed": 21,
+        "inningsPitched": 26.666666666666668,
+        "inningsPitchedDisplay": "26.2",
+        "hitsAllowed": 22,
         "runsAllowed": 15,
         "earnedRunsAllowed": 12,
         "walksAllowed": 17,
-        "strikeouts": 18,
-        "doublesAllowed": 6,
+        "strikeouts": 20,
+        "doublesAllowed": 7,
         "triplesAllowed": 1,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 87,
+        "opponentsAtBats": 94,
         "wildPitches": 1,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.241,
+        "opponentsBattingAverage": 0.234,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4358,22 +4358,22 @@
         "jersey": "36",
         "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/nathan-matoush/41226",
         "imageUrl": "https://dartmouthsports.com/images/2026/2/17/Nate_Matoush.png",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 3,
         "putouts": 0,
-        "assists": 7,
+        "assists": 8,
         "errors": 1,
-        "fieldingPercentage": 0.875,
+        "fieldingPercentage": 0.889,
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
-        "caughtStealingBy": 1,
+        "caughtStealingBy": 2,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 8
+        "totalChances": 9
       },
       "evaluation": {
-        "score": 5,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4381,40 +4381,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 24.159402241594023,
-          "Command": 1.17647058823529,
+          "Miss bats": 25,
+          "Command": 3.529411764705883,
           "Damage suppression": 0
         },
         "summary": "Nathan Matoush gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.44",
-          "WHIP 1.56",
-          "K/9 6.7"
+          "ERA 4.05",
+          "WHIP 1.46",
+          "K/9 6.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.44"
+            "value": "4.05"
           },
           {
             "label": "WHIP",
-            "value": "1.56"
+            "value": "1.46"
           },
           {
             "label": "K/9",
-            "value": "6.7"
+            "value": "6.8"
           },
           {
             "label": "BB/9",
-            "value": "6.3"
+            "value": "5.7"
           },
           {
             "label": "HR/9",
-            "value": "0.37"
+            "value": "0.34"
           },
           {
             "label": "IP",
-            "value": "24.3"
+            "value": "26.7"
           }
         ],
         "metaLine": "FY / L/L",
@@ -4675,29 +4675,29 @@
         "position": "SS",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 28,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Alejandro Puig gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .252",
-          "OBP .354",
-          "SLG .325"
+          "AVG .248",
+          "OBP .347",
+          "SLG .318"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".252"
+            "value": ".248"
           },
           {
             "label": "OBP",
-            "value": ".354"
+            "value": ".347"
           },
           {
             "label": "SLG",
-            "value": ".325"
+            "value": ".318"
           },
           {
             "label": "HR",
@@ -4713,9 +4713,9 @@
           }
         ],
         "components": {
-          "On-base": 41.111111111111086,
-          "Power": 1.315789473684212,
-          "Contact": 20,
+          "On-base": 37.22222222222219,
+          "Power": 0,
+          "Contact": 17.5,
           "Discipline": 58.02469135802467,
           "Speed": 23.333333333333332
         },
@@ -4751,22 +4751,22 @@
         },
         "summary": "Austin Moran gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .154",
-          "OBP .314",
-          "SLG .179"
+          "AVG .159",
+          "OBP .316",
+          "SLG .182"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".154"
+            "value": ".159"
           },
           {
             "label": "OBP",
-            "value": ".314"
+            "value": ".316"
           },
           {
             "label": "SLG",
-            "value": ".179"
+            "value": ".182"
           },
           {
             "label": "HR",
@@ -4782,10 +4782,10 @@
           }
         ],
         "components": {
-          "On-base": 18.888888888888875,
+          "On-base": 19.999999999999986,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 33.33333333333333,
+          "Discipline": 29.629629629629623,
           "Speed": 6.666666666666667
         },
         "metaLine": "FY / R/R",
@@ -4813,29 +4813,29 @@
         "position": "OF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 48,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nico Bañez profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .240",
-          "OBP .428",
-          "SLG .272"
+          "AVG .239",
+          "OBP .417",
+          "SLG .269"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".240"
+            "value": ".239"
           },
           {
             "label": "OBP",
-            "value": ".428"
+            "value": ".417"
           },
           {
             "label": "SLG",
-            "value": ".272"
+            "value": ".269"
           },
           {
             "label": "HR",
@@ -4851,9 +4851,9 @@
           }
         ],
         "components": {
-          "On-base": 82.22222222222221,
+          "On-base": 76.11111111111109,
           "Power": 0,
-          "Contact": 12.499999999999993,
+          "Contact": 11.874999999999993,
           "Discipline": 100,
           "Speed": 50
         },
@@ -4882,29 +4882,29 @@
         "position": "IF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 51,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Milo Suarez profiles as a IF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
+        "summary": "Milo Suarez profiles as a IF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .248",
-          "OBP .420",
-          "SLG .427"
+          "AVG .264",
+          "OBP .424",
+          "SLG .448"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".248"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".420"
+            "value": ".424"
           },
           {
             "label": "SLG",
-            "value": ".427"
+            "value": ".448"
           },
           {
             "label": "HR",
@@ -4920,10 +4920,10 @@
           }
         ],
         "components": {
-          "On-base": 77.77777777777776,
-          "Power": 28.157894736842103,
-          "Contact": 17.5,
-          "Discipline": 93.719806763285,
+          "On-base": 79.99999999999999,
+          "Power": 33.684210526315795,
+          "Contact": 27.500000000000007,
+          "Discipline": 84.44444444444443,
           "Speed": 30
         },
         "metaLine": "SR / R/R",
@@ -5020,29 +5020,29 @@
         "position": "C",
         "classYear": "JR",
         "handedness": "S/R",
-        "score": 27,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "A.J. DeMastrie gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .348",
-          "SLG .406"
+          "AVG .266",
+          "OBP .333",
+          "SLG .394"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".266"
           },
           {
             "label": "OBP",
-            "value": ".348"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".406"
+            "value": ".394"
           },
           {
             "label": "HR",
@@ -5050,7 +5050,7 @@
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "14"
           },
           {
             "label": "SB",
@@ -5058,10 +5058,10 @@
           }
         ],
         "components": {
-          "On-base": 37.77777777777775,
-          "Power": 22.631578947368432,
-          "Contact": 35.625000000000014,
-          "Discipline": 18.713450292397653,
+          "On-base": 29.44444444444444,
+          "Power": 19.473684210526322,
+          "Contact": 28.750000000000007,
+          "Discipline": 11.594202898550723,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / S/R",
@@ -5089,29 +5089,29 @@
         "position": "C",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 46,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tyler Sirchia gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .293",
-          "OBP .397",
-          "SLG .448"
+          "AVG .274",
+          "OBP .375",
+          "SLG .419"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".293"
+            "value": ".274"
           },
           {
             "label": "OBP",
-            "value": ".397"
+            "value": ".375"
           },
           {
             "label": "SLG",
-            "value": ".448"
+            "value": ".419"
           },
           {
             "label": "HR",
@@ -5127,10 +5127,10 @@
           }
         ],
         "components": {
-          "On-base": 65,
-          "Power": 33.684210526315795,
-          "Contact": 45.624999999999986,
-          "Discipline": 61.11111111111111,
+          "On-base": 52.77777777777777,
+          "Power": 26.052631578947366,
+          "Contact": 33.750000000000014,
+          "Discipline": 54.700854700854684,
           "Speed": 0
         },
         "metaLine": "SO / L/R",
@@ -5158,29 +5158,29 @@
         "position": "IF/OF",
         "classYear": "FY",
         "handedness": "R/R",
-        "score": 25,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Sam Andersen profiles as a IF/OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .231",
-          "OBP .355",
-          "SLG .298"
+          "AVG .239",
+          "OBP .353",
+          "SLG .301"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".231"
+            "value": ".239"
           },
           {
             "label": "OBP",
-            "value": ".355"
+            "value": ".353"
           },
           {
             "label": "SLG",
-            "value": ".298"
+            "value": ".301"
           },
           {
             "label": "HR",
@@ -5188,19 +5188,19 @@
           },
           {
             "label": "RBI",
-            "value": "16"
+            "value": "17"
           },
           {
             "label": "SB",
-            "value": "9"
+            "value": "10"
           }
         ],
         "components": {
-          "On-base": 41.66666666666664,
+          "On-base": 40.555555555555536,
           "Power": 0,
-          "Contact": 6.875000000000006,
+          "Contact": 11.874999999999993,
           "Discipline": 53.53535353535352,
-          "Speed": 30
+          "Speed": 33.33333333333333
         },
         "metaLine": "FY / R/R",
         "detailBadges": [
@@ -5227,29 +5227,29 @@
         "position": "C",
         "classYear": "FY",
         "handedness": "R/R",
-        "score": 66,
+        "score": 62,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Jack Espiritu-Niswonger profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .365",
-          "OBP .469",
-          "SLG .404"
+          "AVG .345",
+          "OBP .456",
+          "SLG .382"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".365"
+            "value": ".345"
           },
           {
             "label": "OBP",
-            "value": ".469"
+            "value": ".456"
           },
           {
             "label": "SLG",
-            "value": ".404"
+            "value": ".382"
           },
           {
             "label": "HR",
@@ -5261,15 +5261,15 @@
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "6"
           }
         ],
         "components": {
-          "On-base": 100,
-          "Power": 22.105263157894743,
-          "Contact": 90.62499999999999,
+          "On-base": 97.77777777777777,
+          "Power": 16.315789473684212,
+          "Contact": 78.12499999999997,
           "Discipline": 74.99999999999999,
-          "Speed": 16.666666666666664
+          "Speed": 20
         },
         "metaLine": "FY / R/R",
         "detailBadges": [
@@ -5440,18 +5440,18 @@
         },
         "summary": "Nate Kugler looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.18",
-          "WHIP 1.31",
+          "ERA 3.35",
+          "WHIP 1.29",
           "K/9 5.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.18"
+            "value": "3.35"
           },
           {
             "label": "WHIP",
-            "value": "1.31"
+            "value": "1.29"
           },
           {
             "label": "K/9",
@@ -5459,22 +5459,22 @@
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
-            "value": "0.68"
+            "value": "0.59"
           },
           {
             "label": "IP",
-            "value": "39.7"
+            "value": "45.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 15.202444614209323,
-          "Command": 9.411764705882355,
+          "Miss bats": 15.593895155938958,
+          "Command": 14.117647058823533,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -5846,7 +5846,7 @@
         "position": "OF",
         "classYear": "FY",
         "handedness": "S/R",
-        "score": 17,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5854,7 +5854,7 @@
         "summary": "Henry Murray gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .244",
-          "OBP .333",
+          "OBP .340",
           "SLG .349"
         ],
         "statCards": [
@@ -5864,7 +5864,7 @@
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".340"
           },
           {
             "label": "SLG",
@@ -5884,10 +5884,10 @@
           }
         ],
         "components": {
-          "On-base": 29.44444444444444,
+          "On-base": 33.33333333333333,
           "Power": 7.631578947368414,
           "Contact": 14.999999999999996,
-          "Discipline": 19.44444444444444,
+          "Discipline": 26.388888888888886,
           "Speed": 3.3333333333333335
         },
         "metaLine": "FY / S/R",
@@ -5984,48 +5984,48 @@
         "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 12,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Kyle Klaric-Schell looks like a RHP option who limits runs and keeps traffic under control.",
+        "summary": "Kyle Klaric-Schell looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.61",
-          "WHIP 1.11",
-          "K/9 7.8"
+          "ERA 3.42",
+          "WHIP 1.18",
+          "K/9 7.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.61"
+            "value": "3.42"
           },
           {
             "label": "WHIP",
-            "value": "1.11"
+            "value": "1.18"
           },
           {
             "label": "K/9",
-            "value": "7.8"
+            "value": "7.9"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "2.7"
           },
           {
             "label": "HR/9",
-            "value": "0.44"
+            "value": "1.03"
           },
           {
             "label": "IP",
-            "value": "20.7"
+            "value": "26.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 34.89736070381231,
-          "Command": 31.428571428571423,
+          "Miss bats": 35.09781357882623,
+          "Command": 37.5,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -6122,48 +6122,48 @@
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 16,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Mac Burke looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.31",
-          "WHIP 1.00",
-          "K/9 8.5"
+          "ERA 2.19",
+          "WHIP 0.95",
+          "K/9 8.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.31"
+            "value": "2.19"
           },
           {
             "label": "WHIP",
-            "value": "1.00"
+            "value": "0.95"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "8.3"
           },
           {
             "label": "BB/9",
-            "value": "2.6"
+            "value": "2.4"
           },
           {
             "label": "HR/9",
-            "value": "0.26"
+            "value": "0.24"
           },
           {
             "label": "IP",
-            "value": "35.0"
+            "value": "37.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 40.77922077922078,
-          "Command": 46,
+          "Miss bats": 38.82063882063882,
+          "Command": 48,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -6191,29 +6191,29 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 14,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Chris Miller profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .213",
-          "OBP .314",
-          "SLG .281"
+          "AVG .211",
+          "OBP .306",
+          "SLG .274"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".213"
+            "value": ".211"
           },
           {
             "label": "OBP",
-            "value": ".314"
+            "value": ".306"
           },
           {
             "label": "SLG",
-            "value": ".281"
+            "value": ".274"
           },
           {
             "label": "HR",
@@ -6229,10 +6229,10 @@
           }
         ],
         "components": {
-          "On-base": 18.888888888888875,
+          "On-base": 14.444444444444427,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 41.26984126984126,
+          "Discipline": 35.748792270531396,
           "Speed": 26.666666666666668
         },
         "metaLine": "JR / R/R",
@@ -6267,14 +6267,14 @@
         },
         "summary": "Taer Rodriguez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .204",
+          "AVG .203",
           "OBP .286",
-          "SLG .285"
+          "SLG .280"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".204"
+            "value": ".203"
           },
           {
             "label": "OBP",
@@ -6282,7 +6282,7 @@
           },
           {
             "label": "SLG",
-            "value": ".285"
+            "value": ".280"
           },
           {
             "label": "HR",
@@ -6301,7 +6301,7 @@
           "On-base": 3.3333333333333055,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 17.460317460317455,
+          "Discipline": 19.923371647509573,
           "Speed": 13.333333333333334
         },
         "metaLine": "SR / R/R",
@@ -6742,48 +6742,48 @@
         "position": "LHP",
         "classYear": "FY",
         "handedness": "L/L",
-        "score": 5,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nathan Matoush gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.44",
-          "WHIP 1.56",
-          "K/9 6.7"
+          "ERA 4.05",
+          "WHIP 1.46",
+          "K/9 6.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.44"
+            "value": "4.05"
           },
           {
             "label": "WHIP",
-            "value": "1.56"
+            "value": "1.46"
           },
           {
             "label": "K/9",
-            "value": "6.7"
+            "value": "6.8"
           },
           {
             "label": "BB/9",
-            "value": "6.3"
+            "value": "5.7"
           },
           {
             "label": "HR/9",
-            "value": "0.37"
+            "value": "0.34"
           },
           {
             "label": "IP",
-            "value": "24.3"
+            "value": "26.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 24.159402241594023,
-          "Command": 1.17647058823529,
+          "Miss bats": 25,
+          "Command": 3.529411764705883,
           "Damage suppression": 0
         },
         "metaLine": "FY / L/L",

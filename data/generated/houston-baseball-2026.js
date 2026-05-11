@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.houston2026 = {
-  "generatedAt": "2026-05-10T11:13:46.928Z",
+  "generatedAt": "2026-05-11T12:49:59.636Z",
   "season": 2026,
   "school": {
     "slug": "houston",
@@ -44,84 +44,84 @@ window.__BASEBALL_DATASETS__.houston2026 = {
     }
   },
   "teamSummary": {
-    "record": "22-28, 6-20",
-    "battingAverage": ".265",
+    "record": "22-29, 6-21",
+    "battingAverage": ".264",
     "earnedRunAverage": "5.84",
     "wins": "22",
-    "losses": "28",
+    "losses": "29",
     "hitting": {
-      "atBats": "1663",
-      "runsScored": "275",
-      "hits": "441",
-      "runsBattedIn": "236",
+      "atBats": "1694",
+      "runsScored": "280",
+      "hits": "448",
+      "runsBattedIn": "241",
       "doubles": "87",
       "triples": "7",
       "homeRuns": "53",
-      "walks": "227",
+      "walks": "231",
       "intentionalWalks": "7",
-      "strikeouts": "387",
+      "strikeouts": "390",
       "strikeoutsLooking": "76",
       "hitByPitch": "65",
-      "stolenBases": "72",
+      "stolenBases": "75",
       "caughtStealing": "24",
       "sacrificeHits": "31",
-      "sacrificeFlies": "15",
+      "sacrificeFlies": "16",
       "reachedOnCatchersInteference": "1",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "359",
-      "flyOuts": "465",
-      "groundedIntoDoublePlay": "44",
+      "groundOuts": "369",
+      "flyOuts": "476",
+      "groundedIntoDoublePlay": "46",
       "pickedOff": "8",
-      "doublePlaysHitInto": "45",
+      "doublePlaysHitInto": "47",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1313",
-      "assists": "473",
-      "errors": "49",
+      "putouts": "1337",
+      "assists": "478",
+      "errors": "50",
       "passedBalls": "5",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "89",
-      "caughtStealingBy": "13",
+      "stolenBasesAgainst": "90",
+      "caughtStealingBy": "14",
       "involvedInDoublePlays": "34",
       "involvedInTriplePlays": "0",
-      "totalChances": "1835",
+      "totalChances": "1865",
       "fieldingPercentage": ".973"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "22",
-      "saves": "41",
-      "losses": "28",
+      "saves": "42",
+      "losses": "29",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "0",
       "creditForCombinedShutout": "1",
-      "inningsPitched": "437.2",
-      "hitsAllowed": "463",
-      "runsAllowed": "319",
-      "earnedRunsAllowed": "284",
-      "walksAllowed": "202",
-      "strikeouts": "417",
-      "battersFaced": "2004",
-      "opponentAtBats": "1705",
-      "doublesAllowed": "91",
-      "triplesAllowed": "9",
-      "homerunsAllowed": "45",
-      "wildPitches": "40",
+      "inningsPitched": "445.2",
+      "hitsAllowed": "473",
+      "runsAllowed": "325",
+      "earnedRunsAllowed": "289",
+      "walksAllowed": "205",
+      "strikeouts": "423",
+      "battersFaced": "2041",
+      "opponentAtBats": "1738",
+      "doublesAllowed": "93",
+      "triplesAllowed": "10",
+      "homerunsAllowed": "46",
+      "wildPitches": "41",
       "balks": "1",
       "hitBatters": "58",
-      "strikeoutsLooking": "77",
+      "strikeoutsLooking": "78",
       "intentionalWalks": "1",
-      "inheritedRunners": "127",
+      "inheritedRunners": "129",
       "inheritedRunnersThatScored": "57",
       "sacrificeHitsAllowed": "20",
-      "sacrificeFliesAllowed": "18",
+      "sacrificeFliesAllowed": "19",
       "catchersInterferenceAllowed": "0",
-      "pitches": "7729",
-      "flyouts": "391",
-      "groundouts": "432",
+      "pitches": "7867",
+      "flyouts": "403",
+      "groundouts": "437",
       "teamUnearnedRuns": "0",
       "saveRecord": "8",
       "pickoff": "3"
@@ -581,33 +581,33 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "3",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/tre-broussard/9591",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Broussard_Tre_071.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 38,
-        "battingAverage": 0.333,
-        "onBasePercentage": 0.425,
-        "sluggingPercentage": 0.473,
-        "ops": 0.898,
-        "atBats": 150,
-        "runs": 26,
-        "hits": 50,
+        "gamesPlayed": 41,
+        "gamesStarted": 39,
+        "battingAverage": 0.338,
+        "onBasePercentage": 0.426,
+        "sluggingPercentage": 0.474,
+        "ops": 0.9,
+        "atBats": 154,
+        "runs": 27,
+        "hits": 52,
         "doubles": 10,
         "triples": 1,
         "homeRuns": 3,
         "runsBattedIn": 21,
-        "totalBases": 71,
+        "totalBases": 73,
         "walks": 24,
         "hitByPitch": 2,
         "strikeouts": 29,
         "intentionalWalks": 2,
-        "groundedIntoDoublePlay": 5,
+        "groundedIntoDoublePlay": 6,
         "sacrificeFlies": 3,
         "sacrificeHits": 2,
-        "stolenBases": 21,
-        "stolenBasesAttempts": 24,
-        "putouts": 57,
+        "stolenBases": 22,
+        "stolenBasesAttempts": 25,
+        "putouts": 59,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 208,
+        "plateAppearances": 213,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -619,51 +619,51 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "3",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/tre-broussard/9591",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Broussard_Tre_071.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 24,
-        "putouts": 57,
+        "gamesPlayed": 25,
+        "gamesStarted": 25,
+        "putouts": 59,
         "assists": 1,
         "errors": 1,
-        "fieldingPercentage": 0.983,
+        "fieldingPercentage": 0.984,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 59
+        "totalChances": 61
       },
       "evaluation": {
-        "score": 66,
+        "score": 67,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 80.55555555555554,
-          "Power": 40.26315789473684,
-          "Contact": 70.625,
+          "On-base": 81.11111111111109,
+          "Power": 40.526315789473685,
+          "Contact": 73.75000000000001,
           "Discipline": 69.7318007662835,
-          "Speed": 70
+          "Speed": 73.33333333333333
         },
         "summary": "Tre Broussard profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .333",
-          "OBP .425",
-          "SLG .473"
+          "AVG .338",
+          "OBP .426",
+          "SLG .474"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".333"
+            "value": ".338"
           },
           {
             "label": "OBP",
-            "value": ".425"
+            "value": ".426"
           },
           {
             "label": "SLG",
-            "value": ".473"
+            "value": ".474"
           },
           {
             "label": "HR",
@@ -675,7 +675,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           },
           {
             "label": "SB",
-            "value": "21"
+            "value": "22"
           }
         ],
         "metaLine": "JR / N/A",
@@ -726,13 +726,13 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "4",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/riley-jackson/9597",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Jackson_Riley_316.jpg",
-        "gamesPlayed": 47,
-        "gamesStarted": 44,
-        "battingAverage": 0.272,
-        "onBasePercentage": 0.385,
-        "sluggingPercentage": 0.53,
-        "ops": 0.915,
-        "atBats": 151,
+        "gamesPlayed": 48,
+        "gamesStarted": 45,
+        "battingAverage": 0.265,
+        "onBasePercentage": 0.377,
+        "sluggingPercentage": 0.516,
+        "ops": 0.893,
+        "atBats": 155,
         "runs": 23,
         "hits": 41,
         "doubles": 12,
@@ -742,17 +742,17 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "totalBases": 80,
         "walks": 20,
         "hitByPitch": 8,
-        "strikeouts": 44,
+        "strikeouts": 45,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 4,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 351,
+        "putouts": 356,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 183,
+        "plateAppearances": 187,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -764,51 +764,51 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "4",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/riley-jackson/9597",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Jackson_Riley_316.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 44,
-        "putouts": 351,
-        "assists": 24,
+        "gamesPlayed": 47,
+        "gamesStarted": 45,
+        "putouts": 356,
+        "assists": 25,
         "errors": 4,
-        "fieldingPercentage": 0.989,
+        "fieldingPercentage": 0.99,
         "doublePlays": 7,
-        "stolenBasesAgainst": 39,
-        "caughtStealingBy": 2,
+        "stolenBasesAgainst": 40,
+        "caughtStealingBy": 3,
         "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 379
+        "totalChances": 385
       },
       "evaluation": {
-        "score": 43,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 58.33333333333333,
-          "Power": 55.26315789473686,
-          "Contact": 32.500000000000014,
-          "Discipline": 28.282828282828277,
+          "On-base": 53.88888888888887,
+          "Power": 51.578947368421055,
+          "Contact": 28.125000000000007,
+          "Discipline": 27.160493827160487,
           "Speed": 0
         },
         "summary": "Riley Jackson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .272",
-          "OBP .385",
-          "SLG .530"
+          "AVG .265",
+          "OBP .377",
+          "SLG .516"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".272"
+            "value": ".265"
           },
           {
             "label": "OBP",
-            "value": ".385"
+            "value": ".377"
           },
           {
             "label": "SLG",
-            "value": ".530"
+            "value": ".516"
           },
           {
             "label": "HR",
@@ -1016,33 +1016,33 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "7",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/xavier-perez/9601",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Perez_Xavier_249.jpg",
-        "gamesPlayed": 49,
-        "gamesStarted": 49,
-        "battingAverage": 0.285,
-        "onBasePercentage": 0.376,
-        "sluggingPercentage": 0.503,
-        "ops": 0.879,
-        "atBats": 193,
-        "runs": 36,
-        "hits": 55,
+        "gamesPlayed": 50,
+        "gamesStarted": 50,
+        "battingAverage": 0.286,
+        "onBasePercentage": 0.378,
+        "sluggingPercentage": 0.5,
+        "ops": 0.878,
+        "atBats": 196,
+        "runs": 37,
+        "hits": 56,
         "doubles": 9,
         "triples": 3,
         "homeRuns": 9,
-        "runsBattedIn": 32,
-        "totalBases": 97,
-        "walks": 22,
+        "runsBattedIn": 33,
+        "totalBases": 98,
+        "walks": 23,
         "hitByPitch": 6,
         "strikeouts": 46,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 6,
         "sacrificeFlies": 0,
         "sacrificeHits": 3,
-        "stolenBases": 12,
-        "stolenBasesAttempts": 14,
-        "putouts": 84,
+        "stolenBases": 14,
+        "stolenBasesAttempts": 16,
+        "putouts": 87,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 240,
+        "plateAppearances": 246,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1054,9 +1054,9 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "7",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/xavier-perez/9601",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Perez_Xavier_249.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "putouts": 84,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "putouts": 87,
         "assists": 6,
         "errors": 1,
         "fieldingPercentage": 0.989,
@@ -1066,39 +1066,39 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 91
+        "totalChances": 94
       },
       "evaluation": {
-        "score": 45,
+        "score": 46,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 53.33333333333332,
-          "Power": 48.15789473684211,
-          "Contact": 40.624999999999986,
-          "Discipline": 30.917874396135264,
-          "Speed": 40
+          "On-base": 54.44444444444443,
+          "Power": 47.36842105263158,
+          "Contact": 41.24999999999998,
+          "Discipline": 33.33333333333333,
+          "Speed": 46.666666666666664
         },
         "summary": "Xavier Perez profiles as a OF/1B piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .285",
-          "OBP .376",
-          "SLG .503"
+          "AVG .286",
+          "OBP .378",
+          "SLG .500"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".285"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".376"
+            "value": ".378"
           },
           {
             "label": "SLG",
-            "value": ".503"
+            "value": ".500"
           },
           {
             "label": "HR",
@@ -1106,11 +1106,11 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           },
           {
             "label": "RBI",
-            "value": "32"
+            "value": "33"
           },
           {
             "label": "SB",
-            "value": "12"
+            "value": "14"
           }
         ],
         "metaLine": "R-SO / N/A",
@@ -1391,21 +1391,21 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "11",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/tyler-cox/9594",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Cox_Tyler_254.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 49,
+        "gamesPlayed": 51,
+        "gamesStarted": 50,
         "battingAverage": 0.326,
-        "onBasePercentage": 0.425,
-        "sluggingPercentage": 0.383,
-        "ops": 0.808,
-        "atBats": 175,
-        "runs": 28,
-        "hits": 57,
+        "onBasePercentage": 0.427,
+        "sluggingPercentage": 0.382,
+        "ops": 0.809,
+        "atBats": 178,
+        "runs": 29,
+        "hits": 58,
         "doubles": 5,
         "triples": 1,
         "homeRuns": 1,
         "runsBattedIn": 16,
-        "totalBases": 67,
-        "walks": 24,
+        "totalBases": 68,
+        "walks": 25,
         "hitByPitch": 7,
         "strikeouts": 16,
         "intentionalWalks": 0,
@@ -1417,7 +1417,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "putouts": 55,
         "assists": 0,
         "errors": 7,
-        "plateAppearances": 226,
+        "plateAppearances": 230,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -1429,10 +1429,10 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "11",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/tyler-cox/9594",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Cox_Tyler_254.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 48,
+        "gamesPlayed": 49,
+        "gamesStarted": 49,
         "putouts": 55,
-        "assists": 127,
+        "assists": 128,
         "errors": 7,
         "fieldingPercentage": 0.963,
         "doublePlays": 20,
@@ -1441,17 +1441,17 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 189
+        "totalChances": 190
       },
       "evaluation": {
-        "score": 57,
+        "score": 58,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 80.55555555555554,
-          "Power": 16.578947368421055,
+          "On-base": 81.66666666666666,
+          "Power": 16.315789473684212,
           "Contact": 66.25000000000001,
           "Discipline": 100,
           "Speed": 13.333333333333334
@@ -1459,8 +1459,8 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "summary": "Tyler Cox profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
           "AVG .326",
-          "OBP .425",
-          "SLG .383"
+          "OBP .427",
+          "SLG .382"
         ],
         "statCards": [
           {
@@ -1469,11 +1469,11 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           },
           {
             "label": "OBP",
-            "value": ".425"
+            "value": ".427"
           },
           {
             "label": "SLG",
-            "value": ".383"
+            "value": ".382"
           },
           {
             "label": "HR",
@@ -1536,23 +1536,23 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "12",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/cade-climie/9593",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Climie_Cade_230.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 29,
-        "battingAverage": 0.344,
-        "onBasePercentage": 0.426,
-        "sluggingPercentage": 0.713,
-        "ops": 1.139,
-        "atBats": 122,
-        "runs": 22,
+        "gamesPlayed": 40,
+        "gamesStarted": 30,
+        "battingAverage": 0.336,
+        "onBasePercentage": 0.421,
+        "sluggingPercentage": 0.696,
+        "ops": 1.117,
+        "atBats": 125,
+        "runs": 23,
         "hits": 42,
         "doubles": 13,
         "triples": 1,
         "homeRuns": 10,
         "runsBattedIn": 28,
         "totalBases": 87,
-        "walks": 17,
+        "walks": 18,
         "hitByPitch": 1,
-        "strikeouts": 28,
+        "strikeouts": 29,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
@@ -1562,7 +1562,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "putouts": 104,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 147,
+        "plateAppearances": 151,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -1589,36 +1589,36 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "totalChances": 122
       },
       "evaluation": {
-        "score": 73,
+        "score": 71,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 81.11111111111109,
-          "Power": 100,
-          "Contact": 77.49999999999999,
-          "Discipline": 45.23809523809523,
+          "On-base": 78.33333333333331,
+          "Power": 98.94736842105263,
+          "Contact": 72.50000000000001,
+          "Discipline": 46.74329501915708,
           "Speed": 10
         },
         "summary": "Cade Climie profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .344",
-          "OBP .426",
-          "SLG .713"
+          "AVG .336",
+          "OBP .421",
+          "SLG .696"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".344"
+            "value": ".336"
           },
           {
             "label": "OBP",
-            "value": ".426"
+            "value": ".421"
           },
           {
             "label": "SLG",
-            "value": ".713"
+            "value": ".696"
           },
           {
             "label": "HR",
@@ -2256,31 +2256,31 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "19",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/harrison-boushele/9590",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Boushele_Harrison_023.jpg",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 0,
-        "appearances": 15,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.75,
+        "earnedRunAverage": 6.46,
         "whip": 1.65,
         "wins": 1,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 20,
-        "inningsPitchedDisplay": "20.0",
-        "hitsAllowed": 23,
-        "runsAllowed": 18,
-        "earnedRunsAllowed": 15,
-        "walksAllowed": 10,
-        "strikeouts": 26,
-        "doublesAllowed": 7,
-        "triplesAllowed": 0,
+        "inningsPitched": 23.666666666666668,
+        "inningsPitchedDisplay": "23.2",
+        "hitsAllowed": 28,
+        "runsAllowed": 20,
+        "earnedRunsAllowed": 17,
+        "walksAllowed": 11,
+        "strikeouts": 30,
+        "doublesAllowed": 8,
+        "triplesAllowed": 1,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 83,
+        "opponentsAtBats": 97,
         "wildPitches": 2,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.277,
+        "opponentsBattingAverage": 0.289,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2290,19 +2290,19 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "19",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/harrison-boushele/9590",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Boushele_Harrison_023.jpg",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 0,
         "putouts": 1,
-        "assists": 2,
+        "assists": 3,
         "errors": 1,
-        "fieldingPercentage": 0.75,
+        "fieldingPercentage": 0.8,
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 4
+        "totalChances": 5
       },
       "evaluation": {
         "score": 19,
@@ -2313,20 +2313,20 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 70,
-          "Command": 31.999999999999996,
+          "Miss bats": 67.34955185659412,
+          "Command": 34.54545454545454,
           "Damage suppression": 0
         },
         "summary": "Harrison Boushele looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.75",
+          "ERA 6.46",
           "WHIP 1.65",
-          "K/9 11.7"
+          "K/9 11.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "6.46"
           },
           {
             "label": "WHIP",
@@ -2334,19 +2334,19 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           },
           {
             "label": "K/9",
-            "value": "11.7"
+            "value": "11.4"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "4.2"
           },
           {
             "label": "HR/9",
-            "value": "0.90"
+            "value": "0.76"
           },
           {
             "label": "IP",
-            "value": "20.0"
+            "value": "23.7"
           }
         ],
         "metaLine": "SR / N/A",
@@ -2539,21 +2539,21 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "21",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/antonelli-savattere/9710",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Savattere_Antsonelli_216.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 43,
-        "battingAverage": 0.223,
-        "onBasePercentage": 0.344,
-        "sluggingPercentage": 0.243,
-        "ops": 0.587,
-        "atBats": 148,
-        "runs": 13,
-        "hits": 33,
+        "gamesPlayed": 49,
+        "gamesStarted": 44,
+        "battingAverage": 0.225,
+        "onBasePercentage": 0.348,
+        "sluggingPercentage": 0.245,
+        "ops": 0.593,
+        "atBats": 151,
+        "runs": 14,
+        "hits": 34,
         "doubles": 3,
         "triples": 0,
         "homeRuns": 0,
-        "runsBattedIn": 21,
-        "totalBases": 36,
-        "walks": 17,
+        "runsBattedIn": 22,
+        "totalBases": 37,
+        "walks": 18,
         "hitByPitch": 12,
         "strikeouts": 22,
         "intentionalWalks": 0,
@@ -2562,10 +2562,10 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "sacrificeHits": 2,
         "stolenBases": 6,
         "stolenBasesAttempts": 7,
-        "putouts": 66,
+        "putouts": 68,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 190,
+        "plateAppearances": 194,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -2577,51 +2577,51 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "21",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/antonelli-savattere/9710",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Savattere_Antsonelli_216.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 42,
-        "putouts": 66,
+        "gamesPlayed": 47,
+        "gamesStarted": 43,
+        "putouts": 68,
         "assists": 101,
         "errors": 3,
-        "fieldingPercentage": 0.982,
+        "fieldingPercentage": 0.983,
         "doublePlays": 16,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 170
+        "totalChances": 172
       },
       "evaluation": {
-        "score": 23,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 35.55555555555553,
+          "On-base": 37.77777777777775,
           "Power": 0,
-          "Contact": 1.8750000000000018,
-          "Discipline": 63.636363636363626,
+          "Contact": 3.1250000000000027,
+          "Discipline": 68.68686868686868,
           "Speed": 20
         },
         "summary": "Antonelli Savattere gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .223",
-          "OBP .344",
-          "SLG .243"
+          "AVG .225",
+          "OBP .348",
+          "SLG .245"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".223"
+            "value": ".225"
           },
           {
             "label": "OBP",
-            "value": ".344"
+            "value": ".348"
           },
           {
             "label": "SLG",
-            "value": ".243"
+            "value": ".245"
           },
           {
             "label": "HR",
@@ -2629,7 +2629,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -2826,33 +2826,33 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "24",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/blake-fields/9694",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Fields_Blake_241.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 48,
+        "gamesPlayed": 51,
+        "gamesStarted": 49,
         "battingAverage": 0.254,
-        "onBasePercentage": 0.386,
-        "sluggingPercentage": 0.343,
-        "ops": 0.729,
-        "atBats": 169,
+        "onBasePercentage": 0.383,
+        "sluggingPercentage": 0.341,
+        "ops": 0.724,
+        "atBats": 173,
         "runs": 29,
-        "hits": 43,
+        "hits": 44,
         "doubles": 9,
         "triples": 0,
         "homeRuns": 2,
-        "runsBattedIn": 20,
-        "totalBases": 58,
+        "runsBattedIn": 22,
+        "totalBases": 59,
         "walks": 31,
         "hitByPitch": 7,
         "strikeouts": 27,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
+        "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 3,
         "sacrificeHits": 1,
         "stolenBases": 6,
         "stolenBasesAttempts": 11,
-        "putouts": 98,
+        "putouts": 101,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 227,
+        "plateAppearances": 231,
         "caughtStealing": 5,
         "pickedOff": 0
       },
@@ -2864,19 +2864,19 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "24",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/blake-fields/9694",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Fields_Blake_241.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 43,
-        "putouts": 98,
+        "gamesPlayed": 45,
+        "gamesStarted": 44,
+        "putouts": 101,
         "assists": 4,
         "errors": 1,
-        "fieldingPercentage": 0.99,
+        "fieldingPercentage": 0.991,
         "doublePlays": 2,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 103
+        "totalChances": 106
       },
       "evaluation": {
         "score": 40,
@@ -2885,8 +2885,8 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 58.88888888888888,
-          "Power": 6.052631578947374,
+          "On-base": 57.22222222222222,
+          "Power": 5.526315789473689,
           "Contact": 21.250000000000004,
           "Discipline": 100,
           "Speed": 20
@@ -2894,8 +2894,8 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "summary": "Blake Fields profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
           "AVG .254",
-          "OBP .386",
-          "SLG .343"
+          "OBP .383",
+          "SLG .341"
         ],
         "statCards": [
           {
@@ -2904,11 +2904,11 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           },
           {
             "label": "OBP",
-            "value": ".386"
+            "value": ".383"
           },
           {
             "label": "SLG",
-            "value": ".343"
+            "value": ".341"
           },
           {
             "label": "HR",
@@ -2916,7 +2916,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -3008,31 +3008,31 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "25",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/caleb-kimble/9695",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Kimble_Caleb_153.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 2,
-        "appearances": 12,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.37,
-        "whip": 1.18,
+        "earnedRunAverage": 3.92,
+        "whip": 1.21,
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 18.666666666666668,
-        "inningsPitchedDisplay": "18.2",
-        "hitsAllowed": 10,
-        "runsAllowed": 7,
-        "earnedRunsAllowed": 7,
-        "walksAllowed": 12,
-        "strikeouts": 20,
-        "doublesAllowed": 2,
+        "inningsPitched": 20.666666666666668,
+        "inningsPitchedDisplay": "20.2",
+        "hitsAllowed": 12,
+        "runsAllowed": 9,
+        "earnedRunsAllowed": 9,
+        "walksAllowed": 13,
+        "strikeouts": 21,
+        "doublesAllowed": 3,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 63,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 71,
         "wildPitches": 5,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.159,
+        "opponentsBattingAverage": 0.169,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3042,22 +3042,22 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "25",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/caleb-kimble/9695",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Kimble_Caleb_153.jpg",
-        "gamesPlayed": 2,
+        "gamesPlayed": 3,
         "gamesStarted": 2,
-        "putouts": 2,
+        "putouts": 3,
         "assists": 1,
         "errors": 1,
-        "fieldingPercentage": 0.75,
+        "fieldingPercentage": 0.8,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 4
+        "totalChances": 5
       },
       "evaluation": {
-        "score": 12,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3065,40 +3065,40 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.298701298701296,
-          "Command": 13.33333333333333,
+          "Miss bats": 46.774193548387096,
+          "Command": 12.307692307692308,
           "Damage suppression": 0
         },
         "summary": "Caleb Kimble looks like a OF/P option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.37",
-          "WHIP 1.18",
-          "K/9 9.6"
+          "ERA 3.92",
+          "WHIP 1.21",
+          "K/9 9.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.37"
+            "value": "3.92"
           },
           {
             "label": "WHIP",
-            "value": "1.18"
+            "value": "1.21"
           },
           {
             "label": "K/9",
-            "value": "9.6"
+            "value": "9.1"
           },
           {
             "label": "BB/9",
-            "value": "5.8"
+            "value": "5.7"
           },
           {
             "label": "HR/9",
-            "value": "0.48"
+            "value": "0.87"
           },
           {
             "label": "IP",
-            "value": "18.7"
+            "value": "20.7"
           }
         ],
         "metaLine": "FR / N/A",
@@ -3149,7 +3149,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "26",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/dylan-maxcey/9696",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Maxcey_Dylan_066.jpg",
-        "gamesPlayed": 34,
+        "gamesPlayed": 35,
         "gamesStarted": 28,
         "battingAverage": 0.207,
         "onBasePercentage": 0.282,
@@ -3172,7 +3172,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "sacrificeHits": 6,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 217,
+        "putouts": 218,
         "assists": 0,
         "errors": 3,
         "plateAppearances": 109,
@@ -3187,9 +3187,9 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "26",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/dylan-maxcey/9696",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Maxcey_Dylan_066.jpg",
-        "gamesPlayed": 31,
+        "gamesPlayed": 32,
         "gamesStarted": 28,
-        "putouts": 217,
+        "putouts": 218,
         "assists": 18,
         "errors": 3,
         "fieldingPercentage": 0.987,
@@ -3199,7 +3199,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 3,
         "catchersInterference": 0,
-        "totalChances": 238
+        "totalChances": 239
       },
       "evaluation": {
         "score": 3,
@@ -3437,18 +3437,18 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "28",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/max-mccraray/9705",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/McCraray_Max_091.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 0,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.12,
-        "whip": 1.15,
+        "earnedRunAverage": 3,
+        "whip": 1.11,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 8.666666666666666,
-        "inningsPitchedDisplay": "8.2",
+        "inningsPitched": 9,
+        "inningsPitchedDisplay": "9.0",
         "hitsAllowed": 6,
         "runsAllowed": 3,
         "earnedRunsAllowed": 3,
@@ -3457,11 +3457,11 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "doublesAllowed": 2,
         "triplesAllowed": 1,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 31,
+        "opponentsAtBats": 32,
         "wildPitches": 0,
         "hitBatters": 0,
         "balks": 0,
-        "opponentsBattingAverage": 0.194,
+        "opponentsBattingAverage": 0.188,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3471,9 +3471,9 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "28",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/max-mccraray/9705",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/McCraray_Max_091.jpg",
-        "gamesPlayed": 2,
+        "gamesPlayed": 3,
         "gamesStarted": 0,
-        "putouts": 2,
+        "putouts": 3,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -3483,7 +3483,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 2
+        "totalChances": 3
       },
       "evaluation": {
         "score": 16,
@@ -3494,40 +3494,40 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 58.04195804195804,
+          "Miss bats": 54.54545454545454,
           "Command": 30,
           "Damage suppression": 0
         },
         "summary": "Max McCraray looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.12",
-          "WHIP 1.15",
-          "K/9 10.4"
+          "ERA 3.00",
+          "WHIP 1.11",
+          "K/9 10.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.12"
+            "value": "3.00"
           },
           {
             "label": "WHIP",
-            "value": "1.15"
+            "value": "1.11"
           },
           {
             "label": "K/9",
-            "value": "10.4"
+            "value": "10.0"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "4.0"
           },
           {
             "label": "HR/9",
-            "value": "1.04"
+            "value": "1.00"
           },
           {
             "label": "IP",
-            "value": "8.7"
+            "value": "9.0"
           }
         ],
         "metaLine": "FR / N/A",
@@ -3808,13 +3808,13 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "32",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/justin-cherrington/9699",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Cherrington_Justin_127.jpg",
-        "gamesPlayed": 16,
+        "gamesPlayed": 17,
         "gamesStarted": 3,
-        "battingAverage": 0.222,
-        "onBasePercentage": 0.375,
-        "sluggingPercentage": 0.389,
-        "ops": 0.764,
-        "atBats": 18,
+        "battingAverage": 0.211,
+        "onBasePercentage": 0.36,
+        "sluggingPercentage": 0.368,
+        "ops": 0.728,
+        "atBats": 19,
         "runs": 3,
         "hits": 4,
         "doubles": 0,
@@ -3834,7 +3834,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "putouts": 21,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 26,
+        "plateAppearances": 27,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -3861,36 +3861,36 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "totalChances": 21
       },
       "evaluation": {
-        "score": 25,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 52.77777777777777,
-          "Power": 18.15789473684211,
-          "Contact": 1.250000000000001,
+          "On-base": 44.44444444444443,
+          "Power": 12.63157894736842,
+          "Contact": 0,
           "Discipline": 19.44444444444444,
           "Speed": 0
         },
         "summary": "Justin Cherrington gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .222",
-          "OBP .375",
-          "SLG .389"
+          "AVG .211",
+          "OBP .360",
+          "SLG .368"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".222"
+            "value": ".211"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".389"
+            "value": ".368"
           },
           {
             "label": "HR",
@@ -4241,31 +4241,31 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "35",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/caden-cooper/9701",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Cooper_Caden_135.jpg",
-        "gamesPlayed": 20,
-        "gamesStarted": 7,
-        "appearances": 20,
+        "gamesPlayed": 21,
+        "gamesStarted": 8,
+        "appearances": 21,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.85,
-        "whip": 1.59,
+        "earnedRunAverage": 4.83,
+        "whip": 1.61,
         "wins": 2,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 39,
-        "inningsPitchedDisplay": "39.0",
-        "hitsAllowed": 42,
-        "runsAllowed": 24,
-        "earnedRunsAllowed": 21,
-        "walksAllowed": 20,
-        "strikeouts": 36,
+        "inningsPitched": 41,
+        "inningsPitchedDisplay": "41.0",
+        "hitsAllowed": 45,
+        "runsAllowed": 26,
+        "earnedRunsAllowed": 22,
+        "walksAllowed": 21,
+        "strikeouts": 37,
         "doublesAllowed": 8,
         "triplesAllowed": 1,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 156,
-        "wildPitches": 6,
+        "opponentsAtBats": 166,
+        "wildPitches": 7,
         "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.269,
+        "opponentsBattingAverage": 0.271,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4298,28 +4298,28 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.16083916083917,
-          "Command": 16.000000000000007,
+          "Miss bats": 37.47228381374722,
+          "Command": 15.238095238095237,
           "Damage suppression": 0
         },
         "summary": "Caden Cooper gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.85",
-          "WHIP 1.59",
-          "K/9 8.3"
+          "ERA 4.83",
+          "WHIP 1.61",
+          "K/9 8.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.85"
+            "value": "4.83"
           },
           {
             "label": "WHIP",
-            "value": "1.59"
+            "value": "1.61"
           },
           {
             "label": "K/9",
-            "value": "8.3"
+            "value": "8.1"
           },
           {
             "label": "BB/9",
@@ -4327,11 +4327,11 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.69"
+            "value": "0.66"
           },
           {
             "label": "IP",
-            "value": "39.0"
+            "value": "41.0"
           }
         ],
         "metaLine": "FR / N/A",
@@ -4802,33 +4802,33 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "44",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/carsten-sabathia-iii/9603",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Sabathia_Carsten_248.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 19,
-        "battingAverage": 0.299,
-        "onBasePercentage": 0.379,
+        "gamesPlayed": 33,
+        "gamesStarted": 20,
+        "battingAverage": 0.304,
+        "onBasePercentage": 0.378,
         "sluggingPercentage": 0.519,
-        "ops": 0.898,
-        "atBats": 77,
+        "ops": 0.897,
+        "atBats": 79,
         "runs": 11,
-        "hits": 23,
+        "hits": 24,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 5,
-        "runsBattedIn": 15,
-        "totalBases": 40,
+        "runsBattedIn": 16,
+        "totalBases": 41,
         "walks": 7,
         "hitByPitch": 3,
-        "strikeouts": 20,
+        "strikeouts": 21,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
+        "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 60,
+        "putouts": 66,
         "assists": 0,
-        "errors": 0,
-        "plateAppearances": 87,
+        "errors": 1,
+        "plateAppearances": 90,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4840,47 +4840,47 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "44",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/carsten-sabathia-iii/9603",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Sabathia_Carsten_248.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 6,
-        "putouts": 60,
-        "assists": 8,
-        "errors": 0,
-        "fieldingPercentage": 1,
+        "gamesPlayed": 15,
+        "gamesStarted": 7,
+        "putouts": 66,
+        "assists": 9,
+        "errors": 1,
+        "fieldingPercentage": 0.987,
         "doublePlays": 4,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 68
+        "totalChances": 76
       },
       "evaluation": {
-        "score": 42,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 54.99999999999999,
+          "On-base": 54.44444444444443,
           "Power": 52.36842105263159,
-          "Contact": 49.37499999999999,
-          "Discipline": 16.66666666666666,
+          "Contact": 52.49999999999999,
+          "Discipline": 14.814814814814808,
           "Speed": 0
         },
         "summary": "Carsten Sabathia III gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .299",
-          "OBP .379",
+          "AVG .304",
+          "OBP .378",
           "SLG .519"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".299"
+            "value": ".304"
           },
           {
             "label": "OBP",
-            "value": ".379"
+            "value": ".378"
           },
           {
             "label": "SLG",
@@ -4892,7 +4892,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           },
           {
             "label": "RBI",
-            "value": "15"
+            "value": "16"
           },
           {
             "label": "SB",
@@ -5177,13 +5177,13 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "51",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/jackson-lalima/9598",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Lalima_Jackson_235.jpg",
-        "gamesPlayed": 49,
-        "gamesStarted": 49,
-        "battingAverage": 0.234,
-        "onBasePercentage": 0.301,
-        "sluggingPercentage": 0.474,
-        "ops": 0.775,
-        "atBats": 175,
+        "gamesPlayed": 50,
+        "gamesStarted": 50,
+        "battingAverage": 0.229,
+        "onBasePercentage": 0.294,
+        "sluggingPercentage": 0.464,
+        "ops": 0.758,
+        "atBats": 179,
         "runs": 26,
         "hits": 41,
         "doubles": 13,
@@ -5203,7 +5203,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "putouts": 27,
         "assists": 0,
         "errors": 10,
-        "plateAppearances": 203,
+        "plateAppearances": 207,
         "caughtStealing": 2,
         "pickedOff": 2
       },
@@ -5215,51 +5215,51 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "jersey": "51",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/jackson-lalima/9598",
         "imageUrl": "https://uhcougars.com/images/2025/9/5/Lalima_Jackson_235.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
         "putouts": 27,
-        "assists": 93,
+        "assists": 94,
         "errors": 10,
-        "fieldingPercentage": 0.923,
+        "fieldingPercentage": 0.924,
         "doublePlays": 6,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 130
+        "totalChances": 131
       },
       "evaluation": {
-        "score": 18,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 11.666666666666647,
-          "Power": 40.526315789473685,
-          "Contact": 8.750000000000007,
+          "On-base": 7.777777777777755,
+          "Power": 37.89473684210527,
+          "Contact": 5.625000000000005,
           "Discipline": 3.240740740740738,
           "Speed": 13.333333333333334
         },
         "summary": "Jackson LaLima gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .234",
-          "OBP .301",
-          "SLG .474"
+          "AVG .229",
+          "OBP .294",
+          "SLG .464"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".234"
+            "value": ".229"
           },
           {
             "label": "OBP",
-            "value": ".301"
+            "value": ".294"
           },
           {
             "label": "SLG",
-            "value": ".474"
+            "value": ".464"
           },
           {
             "label": "HR",
@@ -5651,29 +5651,29 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 66,
+        "score": 67,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Tre Broussard profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .333",
-          "OBP .425",
-          "SLG .473"
+          "AVG .338",
+          "OBP .426",
+          "SLG .474"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".333"
+            "value": ".338"
           },
           {
             "label": "OBP",
-            "value": ".425"
+            "value": ".426"
           },
           {
             "label": "SLG",
-            "value": ".473"
+            "value": ".474"
           },
           {
             "label": "HR",
@@ -5685,15 +5685,15 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           },
           {
             "label": "SB",
-            "value": "21"
+            "value": "22"
           }
         ],
         "components": {
-          "On-base": 80.55555555555554,
-          "Power": 40.26315789473684,
-          "Contact": 70.625,
+          "On-base": 81.11111111111109,
+          "Power": 40.526315789473685,
+          "Contact": 73.75000000000001,
           "Discipline": 69.7318007662835,
-          "Speed": 70
+          "Speed": 73.33333333333333
         },
         "metaLine": "JR / N/A",
         "detailBadges": [
@@ -5720,29 +5720,29 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "position": "C/1B",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 43,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Riley Jackson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .272",
-          "OBP .385",
-          "SLG .530"
+          "AVG .265",
+          "OBP .377",
+          "SLG .516"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".272"
+            "value": ".265"
           },
           {
             "label": "OBP",
-            "value": ".385"
+            "value": ".377"
           },
           {
             "label": "SLG",
-            "value": ".530"
+            "value": ".516"
           },
           {
             "label": "HR",
@@ -5758,10 +5758,10 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           }
         ],
         "components": {
-          "On-base": 58.33333333333333,
-          "Power": 55.26315789473686,
-          "Contact": 32.500000000000014,
-          "Discipline": 28.282828282828277,
+          "On-base": 53.88888888888887,
+          "Power": 51.578947368421055,
+          "Contact": 28.125000000000007,
+          "Discipline": 27.160493827160487,
           "Speed": 0
         },
         "metaLine": "JR / N/A",
@@ -5858,29 +5858,29 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "position": "OF/1B",
         "classYear": "R-SO",
         "handedness": "N/A",
-        "score": 45,
+        "score": 46,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Xavier Perez profiles as a OF/1B piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .285",
-          "OBP .376",
-          "SLG .503"
+          "AVG .286",
+          "OBP .378",
+          "SLG .500"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".285"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".376"
+            "value": ".378"
           },
           {
             "label": "SLG",
-            "value": ".503"
+            "value": ".500"
           },
           {
             "label": "HR",
@@ -5888,19 +5888,19 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           },
           {
             "label": "RBI",
-            "value": "32"
+            "value": "33"
           },
           {
             "label": "SB",
-            "value": "12"
+            "value": "14"
           }
         ],
         "components": {
-          "On-base": 53.33333333333332,
-          "Power": 48.15789473684211,
-          "Contact": 40.624999999999986,
-          "Discipline": 30.917874396135264,
-          "Speed": 40
+          "On-base": 54.44444444444443,
+          "Power": 47.36842105263158,
+          "Contact": 41.24999999999998,
+          "Discipline": 33.33333333333333,
+          "Speed": 46.666666666666664
         },
         "metaLine": "R-SO / N/A",
         "detailBadges": [
@@ -6064,7 +6064,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 57,
+        "score": 58,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
@@ -6072,8 +6072,8 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "summary": "Tyler Cox profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
           "AVG .326",
-          "OBP .425",
-          "SLG .383"
+          "OBP .427",
+          "SLG .382"
         ],
         "statCards": [
           {
@@ -6082,11 +6082,11 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           },
           {
             "label": "OBP",
-            "value": ".425"
+            "value": ".427"
           },
           {
             "label": "SLG",
-            "value": ".383"
+            "value": ".382"
           },
           {
             "label": "HR",
@@ -6102,8 +6102,8 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           }
         ],
         "components": {
-          "On-base": 80.55555555555554,
-          "Power": 16.578947368421055,
+          "On-base": 81.66666666666666,
+          "Power": 16.315789473684212,
           "Contact": 66.25000000000001,
           "Discipline": 100,
           "Speed": 13.333333333333334
@@ -6133,29 +6133,29 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 73,
+        "score": 71,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Cade Climie profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .344",
-          "OBP .426",
-          "SLG .713"
+          "AVG .336",
+          "OBP .421",
+          "SLG .696"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".344"
+            "value": ".336"
           },
           {
             "label": "OBP",
-            "value": ".426"
+            "value": ".421"
           },
           {
             "label": "SLG",
-            "value": ".713"
+            "value": ".696"
           },
           {
             "label": "HR",
@@ -6171,10 +6171,10 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           }
         ],
         "components": {
-          "On-base": 81.11111111111109,
-          "Power": 100,
-          "Contact": 77.49999999999999,
-          "Discipline": 45.23809523809523,
+          "On-base": 78.33333333333331,
+          "Power": 98.94736842105263,
+          "Contact": 72.50000000000001,
+          "Discipline": 46.74329501915708,
           "Speed": 10
         },
         "metaLine": "SR / N/A",
@@ -6485,14 +6485,14 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         },
         "summary": "Harrison Boushele looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.75",
+          "ERA 6.46",
           "WHIP 1.65",
-          "K/9 11.7"
+          "K/9 11.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "6.46"
           },
           {
             "label": "WHIP",
@@ -6500,26 +6500,26 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           },
           {
             "label": "K/9",
-            "value": "11.7"
+            "value": "11.4"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "4.2"
           },
           {
             "label": "HR/9",
-            "value": "0.90"
+            "value": "0.76"
           },
           {
             "label": "IP",
-            "value": "20.0"
+            "value": "23.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 70,
-          "Command": 31.999999999999996,
+          "Miss bats": 67.34955185659412,
+          "Command": 34.54545454545454,
           "Damage suppression": 0
         },
         "metaLine": "SR / N/A",
@@ -6616,29 +6616,29 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 23,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Antonelli Savattere gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .223",
-          "OBP .344",
-          "SLG .243"
+          "AVG .225",
+          "OBP .348",
+          "SLG .245"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".223"
+            "value": ".225"
           },
           {
             "label": "OBP",
-            "value": ".344"
+            "value": ".348"
           },
           {
             "label": "SLG",
-            "value": ".243"
+            "value": ".245"
           },
           {
             "label": "HR",
@@ -6646,7 +6646,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -6654,10 +6654,10 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           }
         ],
         "components": {
-          "On-base": 35.55555555555553,
+          "On-base": 37.77777777777775,
           "Power": 0,
-          "Contact": 1.8750000000000018,
-          "Discipline": 63.636363636363626,
+          "Contact": 3.1250000000000027,
+          "Discipline": 68.68686868686868,
           "Speed": 20
         },
         "metaLine": "SR / N/A",
@@ -6762,8 +6762,8 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "summary": "Blake Fields profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
           "AVG .254",
-          "OBP .386",
-          "SLG .343"
+          "OBP .383",
+          "SLG .341"
         ],
         "statCards": [
           {
@@ -6772,11 +6772,11 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           },
           {
             "label": "OBP",
-            "value": ".386"
+            "value": ".383"
           },
           {
             "label": "SLG",
-            "value": ".343"
+            "value": ".341"
           },
           {
             "label": "HR",
@@ -6784,7 +6784,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -6792,8 +6792,8 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           }
         ],
         "components": {
-          "On-base": 58.88888888888888,
-          "Power": 6.052631578947374,
+          "On-base": 57.22222222222222,
+          "Power": 5.526315789473689,
           "Contact": 21.250000000000004,
           "Discipline": 100,
           "Speed": 20
@@ -6823,48 +6823,48 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "position": "OF/P",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 12,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Caleb Kimble looks like a OF/P option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.37",
-          "WHIP 1.18",
-          "K/9 9.6"
+          "ERA 3.92",
+          "WHIP 1.21",
+          "K/9 9.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.37"
+            "value": "3.92"
           },
           {
             "label": "WHIP",
-            "value": "1.18"
+            "value": "1.21"
           },
           {
             "label": "K/9",
-            "value": "9.6"
+            "value": "9.1"
           },
           {
             "label": "BB/9",
-            "value": "5.8"
+            "value": "5.7"
           },
           {
             "label": "HR/9",
-            "value": "0.48"
+            "value": "0.87"
           },
           {
             "label": "IP",
-            "value": "18.7"
+            "value": "20.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.298701298701296,
-          "Command": 13.33333333333333,
+          "Miss bats": 46.774193548387096,
+          "Command": 12.307692307692308,
           "Damage suppression": 0
         },
         "metaLine": "FR / N/A",
@@ -7037,40 +7037,40 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         },
         "summary": "Max McCraray looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.12",
-          "WHIP 1.15",
-          "K/9 10.4"
+          "ERA 3.00",
+          "WHIP 1.11",
+          "K/9 10.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.12"
+            "value": "3.00"
           },
           {
             "label": "WHIP",
-            "value": "1.15"
+            "value": "1.11"
           },
           {
             "label": "K/9",
-            "value": "10.4"
+            "value": "10.0"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "4.0"
           },
           {
             "label": "HR/9",
-            "value": "1.04"
+            "value": "1.00"
           },
           {
             "label": "IP",
-            "value": "8.7"
+            "value": "9.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 58.04195804195804,
+          "Miss bats": 54.54545454545454,
           "Command": 30,
           "Damage suppression": 0
         },
@@ -7236,29 +7236,29 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 25,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Justin Cherrington gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .222",
-          "OBP .375",
-          "SLG .389"
+          "AVG .211",
+          "OBP .360",
+          "SLG .368"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".222"
+            "value": ".211"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".389"
+            "value": ".368"
           },
           {
             "label": "HR",
@@ -7274,9 +7274,9 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           }
         ],
         "components": {
-          "On-base": 52.77777777777777,
-          "Power": 18.15789473684211,
-          "Contact": 1.250000000000001,
+          "On-base": 44.44444444444443,
+          "Power": 12.63157894736842,
+          "Contact": 0,
           "Discipline": 19.44444444444444,
           "Speed": 0
         },
@@ -7450,22 +7450,22 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         },
         "summary": "Caden Cooper gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.85",
-          "WHIP 1.59",
-          "K/9 8.3"
+          "ERA 4.83",
+          "WHIP 1.61",
+          "K/9 8.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.85"
+            "value": "4.83"
           },
           {
             "label": "WHIP",
-            "value": "1.59"
+            "value": "1.61"
           },
           {
             "label": "K/9",
-            "value": "8.3"
+            "value": "8.1"
           },
           {
             "label": "BB/9",
@@ -7473,18 +7473,18 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.69"
+            "value": "0.66"
           },
           {
             "label": "IP",
-            "value": "39.0"
+            "value": "41.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.16083916083917,
-          "Command": 16.000000000000007,
+          "Miss bats": 37.47228381374722,
+          "Command": 15.238095238095237,
           "Damage suppression": 0
         },
         "metaLine": "FR / N/A",
@@ -7786,25 +7786,25 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 42,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Carsten Sabathia III gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .299",
-          "OBP .379",
+          "AVG .304",
+          "OBP .378",
           "SLG .519"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".299"
+            "value": ".304"
           },
           {
             "label": "OBP",
-            "value": ".379"
+            "value": ".378"
           },
           {
             "label": "SLG",
@@ -7816,7 +7816,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           },
           {
             "label": "RBI",
-            "value": "15"
+            "value": "16"
           },
           {
             "label": "SB",
@@ -7824,10 +7824,10 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           }
         ],
         "components": {
-          "On-base": 54.99999999999999,
+          "On-base": 54.44444444444443,
           "Power": 52.36842105263159,
-          "Contact": 49.37499999999999,
-          "Discipline": 16.66666666666666,
+          "Contact": 52.49999999999999,
+          "Discipline": 14.814814814814808,
           "Speed": 0
         },
         "metaLine": "SR / N/A",
@@ -7992,29 +7992,29 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 18,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jackson LaLima gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .234",
-          "OBP .301",
-          "SLG .474"
+          "AVG .229",
+          "OBP .294",
+          "SLG .464"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".234"
+            "value": ".229"
           },
           {
             "label": "OBP",
-            "value": ".301"
+            "value": ".294"
           },
           {
             "label": "SLG",
-            "value": ".474"
+            "value": ".464"
           },
           {
             "label": "HR",
@@ -8030,9 +8030,9 @@ window.__BASEBALL_DATASETS__.houston2026 = {
           }
         ],
         "components": {
-          "On-base": 11.666666666666647,
-          "Power": 40.526315789473685,
-          "Contact": 8.750000000000007,
+          "On-base": 7.777777777777755,
+          "Power": 37.89473684210527,
+          "Contact": 5.625000000000005,
           "Discipline": 3.240740740740738,
           "Speed": 13.333333333333334
         },
