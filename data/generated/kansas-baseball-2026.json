@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T12:50:43.462Z",
+  "generatedAt": "2026-05-12T12:17:19.379Z",
   "season": 2026,
   "school": {
     "slug": "kansas",
@@ -24,7 +24,7 @@
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 36,
+    "rosterPlayers": 35,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 12,
     "playersWithPitchingStats": 18,
@@ -3628,94 +3628,6 @@
       }
     },
     {
-      "id": "kansas-17057",
-      "schoolSlug": "kansas",
-      "school": "Kansas",
-      "schoolLongName": "University of Kansas",
-      "name": "Darius Henderson",
-      "normalizedName": "darius henderson",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "L/R",
-      "jersey": "37",
-      "hometown": "Raleigh, N.C.",
-      "highSchool": "Snow Canyon HS",
-      "previousSchool": "Salt Lake CC",
-      "hometownHighSchool": "Raleigh, N.C. / Snow Canyon HS",
-      "profileUrl": "https://kuathletics.com/sports/baseball/roster/darius-henderson/17057",
-      "imageUrl": "https://kuathletics.com/images/2025/10/8/Henderson_Darius.JPG.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "17057",
-      "sources": [
-        "Kansas Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Darius Henderson looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "SO / L/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "L/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Kansas Athletics roster"
-      }
-    },
-    {
       "id": "kansas-17026",
       "schoolSlug": "kansas",
       "school": "Kansas",
@@ -4869,10 +4781,10 @@
   "playerBoard": {
     "source": "Kansas Athletics roster + cumulative stats / ESPN roster",
     "note": "This Kansas-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Kansas's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 36,
+    "totalPlayers": 35,
     "roleCounts": {
       "Hitter": 13,
-      "Pitcher": 23
+      "Pitcher": 22
     },
     "players": [
       {
@@ -6663,74 +6575,6 @@
         "schoolSlug": "kansas",
         "compositeRole": "Pitcher",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/caleb-deer/17056",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "kansas-17057",
-        "name": "Darius Henderson",
-        "school": "Kansas",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "L/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Darius Henderson looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / L/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "L/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Kansas Athletics roster"
-        ],
-        "sourceSummary": "Kansas Athletics roster",
-        "schoolSlug": "kansas",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://kuathletics.com/sports/baseball/roster/darius-henderson/17057",
         "espnAthleteId": ""
       },
       {

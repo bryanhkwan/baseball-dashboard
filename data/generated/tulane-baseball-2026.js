@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.tulane2026 = {
-  "generatedAt": "2026-05-11T12:51:29.103Z",
+  "generatedAt": "2026-05-12T12:17:56.625Z",
   "season": 2026,
   "school": {
     "slug": "tulane",
@@ -109,7 +109,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
       "hitBatters": "59",
       "strikeoutsLooking": "77",
       "intentionalWalks": "9",
-      "inheritedRunners": "146",
+      "inheritedRunners": "145",
       "inheritedRunnersThatScored": "50",
       "sacrificeHitsAllowed": "21",
       "sacrificeFliesAllowed": "15",
@@ -4485,7 +4485,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "appearances": 14,
         "gamesCompleted": 0,
         "earnedRunAverage": 6.39,
-        "whip": 1.58,
+        "whip": 1.66,
         "wins": 1,
         "losses": 1,
         "saves": 0,
@@ -4495,7 +4495,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "hitsAllowed": 15,
         "runsAllowed": 10,
         "earnedRunsAllowed": 9,
-        "walksAllowed": 5,
+        "walksAllowed": 6,
         "strikeouts": 14,
         "doublesAllowed": 6,
         "triplesAllowed": 0,
@@ -4509,7 +4509,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
       },
       "fieldingStats": null,
       "evaluation": {
-        "score": 17,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4518,13 +4518,13 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 54.066985645933016,
-          "Command": 36,
+          "Command": 26.66666666666666,
           "Damage suppression": 0
         },
         "summary": "Jacob Moore looks like a RHP option who misses bats.",
         "summaryMetrics": [
           "ERA 6.39",
-          "WHIP 1.58",
+          "WHIP 1.66",
           "K/9 9.9"
         ],
         "statCards": [
@@ -4534,7 +4534,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.58"
+            "value": "1.66"
           },
           {
             "label": "K/9",
@@ -4542,7 +4542,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "BB/9",
-            "value": "3.6"
+            "value": "4.3"
           },
           {
             "label": "HR/9",
@@ -5101,7 +5101,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "appearances": 15,
         "gamesCompleted": 0,
         "earnedRunAverage": 7.95,
-        "whip": 1.93,
+        "whip": 1.91,
         "wins": 3,
         "losses": 5,
         "saves": 1,
@@ -5111,7 +5111,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "hitsAllowed": 73,
         "runsAllowed": 49,
         "earnedRunsAllowed": 48,
-        "walksAllowed": 32,
+        "walksAllowed": 31,
         "strikeouts": 48,
         "doublesAllowed": 19,
         "triplesAllowed": 0,
@@ -5154,13 +5154,13 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 35.91745677635247,
-          "Command": 10,
+          "Command": 10.96774193548387,
           "Damage suppression": 0
         },
         "summary": "Trey Cehajic gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "ERA 7.95",
-          "WHIP 1.93",
+          "WHIP 1.91",
           "K/9 8.0"
         ],
         "statCards": [
@@ -5170,7 +5170,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.93"
+            "value": "1.91"
           },
           {
             "label": "K/9",
@@ -5178,7 +5178,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "BB/9",
-            "value": "5.3"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
@@ -7354,7 +7354,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "position": "RHP",
         "classYear": "R-SR",
         "handedness": "R/R",
-        "score": 17,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -7362,7 +7362,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "summary": "Jacob Moore looks like a RHP option who misses bats.",
         "summaryMetrics": [
           "ERA 6.39",
-          "WHIP 1.58",
+          "WHIP 1.66",
           "K/9 9.9"
         ],
         "statCards": [
@@ -7372,7 +7372,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.58"
+            "value": "1.66"
           },
           {
             "label": "K/9",
@@ -7380,7 +7380,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "BB/9",
-            "value": "3.6"
+            "value": "4.3"
           },
           {
             "label": "HR/9",
@@ -7395,7 +7395,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 54.066985645933016,
-          "Command": 36,
+          "Command": 26.66666666666666,
           "Damage suppression": 0
         },
         "metaLine": "R-SR / R/R",
@@ -7706,7 +7706,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "summary": "Trey Cehajic gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "ERA 7.95",
-          "WHIP 1.93",
+          "WHIP 1.91",
           "K/9 8.0"
         ],
         "statCards": [
@@ -7716,7 +7716,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.93"
+            "value": "1.91"
           },
           {
             "label": "K/9",
@@ -7724,7 +7724,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "BB/9",
-            "value": "5.3"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
@@ -7739,7 +7739,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 35.91745677635247,
-          "Command": 10,
+          "Command": 10.96774193548387,
           "Damage suppression": 0
         },
         "metaLine": "GR / R/R",

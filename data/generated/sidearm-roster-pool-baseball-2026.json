@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T12:51:57.275Z",
+  "generatedAt": "2026-05-12T12:18:21.074Z",
   "season": 2026,
   "source": "Generated Sidearm baseball roster pool",
   "note": "This compact roster-only pool captures public school-site baseball rosters so non-appearing players can still enter coverage before they log a reachable NCAA boxscore.",
@@ -184,7 +184,7 @@
       "slug": "kansas",
       "name": "Kansas",
       "longName": "University of Kansas",
-      "rosterPlayers": 36,
+      "rosterPlayers": 35,
       "rosterUrl": "https://kuathletics.com/sports/baseball/roster"
     },
     {
@@ -514,10 +514,10 @@
     "schoolsRequested": 73,
     "schoolsLoaded": 72,
     "schoolsFailed": 1,
-    "totalPlayers": 2745,
+    "totalPlayers": 2744,
     "roleCounts": {
       "Hitter": 1371,
-      "Pitcher": 1374
+      "Pitcher": 1373
     },
     "failures": [
       {
@@ -17509,20 +17509,6 @@
       "Olathe East HS",
       "Kansas City Kansas CC",
       "https://kuathletics.com/sports/baseball/roster/caleb-deer/17056"
-    ],
-    [
-      "kansas-17057",
-      "kansas",
-      "Darius Henderson",
-      "Pitcher",
-      "RHP",
-      "SO",
-      "L/R",
-      "37",
-      "Raleigh, N.C.",
-      "Snow Canyon HS",
-      "Salt Lake CC",
-      "https://kuathletics.com/sports/baseball/roster/darius-henderson/17057"
     ],
     [
       "kansas-17026",

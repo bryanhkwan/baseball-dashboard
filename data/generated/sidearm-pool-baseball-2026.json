@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T12:51:37.286Z",
+  "generatedAt": "2026-05-12T12:18:03.598Z",
   "season": 2026,
   "source": "Generated Sidearm baseball school-site pool",
   "note": "This generated free player pool combines verified public roster and cumulative stats pages from multiple Sidearm baseball programs. It is broader than Toledo alone, but still not a full every-school national directory yet.",
@@ -191,7 +191,7 @@
       "slug": "bucknell",
       "name": "Bucknell",
       "longName": "Bucknell University",
-      "record": "25-22, 17-9",
+      "record": "26-22, 17-9",
       "totalPlayers": 37,
       "hitters": 17,
       "pitchers": 20,
@@ -413,10 +413,10 @@
       "name": "Kansas",
       "longName": "University of Kansas",
       "record": "37-15, 20-7",
-      "totalPlayers": 36,
+      "totalPlayers": 35,
       "hitters": 13,
-      "pitchers": 23,
-      "rosterPlayers": 36,
+      "pitchers": 22,
+      "rosterPlayers": 35,
       "playersWithAnyStats": 29,
       "statsUrl": "https://kuathletics.com/sports/baseball/stats/2026",
       "rosterUrl": "https://kuathletics.com/sports/baseball/roster"
@@ -943,18 +943,18 @@
     }
   ],
   "coverage": {
-    "totalPlayers": 2745,
+    "totalPlayers": 2744,
     "totalHitters": 1276,
-    "totalPitchers": 1469,
+    "totalPitchers": 1468,
     "schoolsCovered": 72
   },
   "playerBoard": {
     "source": "Generated Sidearm baseball school-site pool",
     "note": "This free generated pool comes from verified public school-site roster and cumulative stats pages across multiple Sidearm baseball programs.",
-    "totalPlayers": 2745,
+    "totalPlayers": 2744,
     "roleCounts": {
       "Hitter": 1276,
-      "Pitcher": 1469
+      "Pitcher": 1468
     },
     "players": [
       {
@@ -23083,29 +23083,29 @@
         "position": "OF",
         "classYear": "R-JR",
         "handedness": "S/R",
-        "score": 70,
+        "score": 72,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Prince DeBoskie profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .368",
-          "OBP .440",
-          "SLG .575"
+          "AVG .372",
+          "OBP .444",
+          "SLG .581"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".368"
+            "value": ".372"
           },
           {
             "label": "OBP",
-            "value": ".440"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": ".575"
+            "value": ".581"
           },
           {
             "label": "HR",
@@ -23121,9 +23121,9 @@
           }
         ],
         "components": {
-          "On-base": 88.88888888888889,
-          "Power": 67.10526315789474,
-          "Contact": 92.5,
+          "On-base": 91.1111111111111,
+          "Power": 68.6842105263158,
+          "Contact": 95,
           "Discipline": 16.66666666666666,
           "Speed": 53.333333333333336
         },
@@ -37619,22 +37619,22 @@
         },
         "summary": "Andrew Swenson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .185",
-          "OBP .327",
-          "SLG .252"
+          "AVG .186",
+          "OBP .326",
+          "SLG .250"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".185"
+            "value": ".186"
           },
           {
             "label": "OBP",
-            "value": ".327"
+            "value": ".326"
           },
           {
             "label": "SLG",
-            "value": ".252"
+            "value": ".250"
           },
           {
             "label": "HR",
@@ -37642,7 +37642,7 @@
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "18"
           },
           {
             "label": "SB",
@@ -37650,10 +37650,10 @@
           }
         ],
         "components": {
-          "On-base": 26.111111111111107,
+          "On-base": 25.555555555555546,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 17.32580037664783,
+          "Discipline": 19.209039548022595,
           "Speed": 10
         },
         "metaLine": "JR / R/R",
@@ -37688,22 +37688,22 @@
         },
         "summary": "Ty Lagoni profiles as a IF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .220",
-          "OBP .312",
-          "SLG .362"
+          "AVG .217",
+          "OBP .310",
+          "SLG .359"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".220"
+            "value": ".217"
           },
           {
             "label": "OBP",
-            "value": ".312"
+            "value": ".310"
           },
           {
             "label": "SLG",
-            "value": ".362"
+            "value": ".359"
           },
           {
             "label": "HR",
@@ -37719,10 +37719,10 @@
           }
         ],
         "components": {
-          "On-base": 17.777777777777764,
-          "Power": 11.052631578947365,
+          "On-base": 16.66666666666665,
+          "Power": 10.263157894736837,
           "Contact": 0,
-          "Discipline": 20.330969267139476,
+          "Discipline": 21.759259259259252,
           "Speed": 26.666666666666668
         },
         "metaLine": "JR / R/R",
@@ -37750,29 +37750,29 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 52,
+        "score": 50,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Michael Chiaravallo profiles as a OF piece who brings real extra-base damage.",
+        "summary": "Michael Chiaravallo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .323",
-          "OBP .395",
-          "SLG .554"
+          "AVG .318",
+          "OBP .390",
+          "SLG .545"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".323"
+            "value": ".318"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": ".390"
           },
           {
             "label": "SLG",
-            "value": ".554"
+            "value": ".545"
           },
           {
             "label": "HR",
@@ -37788,9 +37788,9 @@
           }
         ],
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 61.57894736842107,
-          "Contact": 64.375,
+          "On-base": 61.11111111111111,
+          "Power": 59.210526315789494,
+          "Contact": 61.25000000000001,
           "Discipline": 22.22222222222222,
           "Speed": 13.333333333333334
         },
@@ -37819,29 +37819,29 @@
         "position": "C",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 25,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Deacon Bowne gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .222",
-          "OBP .383",
-          "SLG .311"
+          "AVG .216",
+          "OBP .369",
+          "SLG .299"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".222"
+            "value": ".216"
           },
           {
             "label": "OBP",
-            "value": ".383"
+            "value": ".369"
           },
           {
             "label": "SLG",
-            "value": ".311"
+            "value": ".299"
           },
           {
             "label": "HR",
@@ -37857,10 +37857,10 @@
           }
         ],
         "components": {
-          "On-base": 57.22222222222222,
+          "On-base": 49.44444444444443,
           "Power": 0,
-          "Contact": 1.250000000000001,
-          "Discipline": 43.74999999999999,
+          "Contact": 0,
+          "Discipline": 34.83483483483483,
           "Speed": 0
         },
         "metaLine": "SO / R/R",
@@ -37888,29 +37888,29 @@
         "position": "1B/3B",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 55,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Lleyton Coupe profiles as a 1B/3B piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .301",
-          "OBP .411",
-          "SLG .495"
+          "AVG .300",
+          "OBP .403",
+          "SLG .480"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".301"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".411"
+            "value": ".403"
           },
           {
             "label": "SLG",
-            "value": ".495"
+            "value": ".480"
           },
           {
             "label": "HR",
@@ -37918,7 +37918,7 @@
           },
           {
             "label": "RBI",
-            "value": "16"
+            "value": "18"
           },
           {
             "label": "SB",
@@ -37926,10 +37926,10 @@
           }
         ],
         "components": {
-          "On-base": 72.77777777777776,
-          "Power": 46.05263157894737,
-          "Contact": 50.624999999999986,
-          "Discipline": 75.81699346405227,
+          "On-base": 68.33333333333333,
+          "Power": 42.10526315789473,
+          "Contact": 49.999999999999986,
+          "Discipline": 65.49707602339181,
           "Speed": 0
         },
         "metaLine": "SO / L/R",
@@ -38164,29 +38164,29 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 4,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Chris Morabito gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .067",
-          "OBP .263",
-          "SLG .067"
+          "AVG .056",
+          "OBP .227",
+          "SLG .056"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".067"
+            "value": ".056"
           },
           {
             "label": "OBP",
-            "value": ".263"
+            "value": ".227"
           },
           {
             "label": "SLG",
-            "value": ".067"
+            "value": ".056"
           },
           {
             "label": "HR",
@@ -38205,7 +38205,7 @@
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 25.39682539682539,
+          "Discipline": 19.44444444444444,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / L/R",
@@ -38233,29 +38233,29 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 33,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Billy Fluharty gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .369",
-          "SLG .378"
+          "AVG .293",
+          "OBP .360",
+          "SLG .367"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": ".293"
           },
           {
             "label": "OBP",
-            "value": ".369"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".378"
+            "value": ".367"
           },
           {
             "label": "HR",
@@ -38263,7 +38263,7 @@
           },
           {
             "label": "RBI",
-            "value": "19"
+            "value": "20"
           },
           {
             "label": "SB",
@@ -38271,10 +38271,10 @@
           }
         ],
         "components": {
-          "On-base": 49.44444444444443,
-          "Power": 15.263157894736842,
-          "Contact": 49.999999999999986,
-          "Discipline": 19.819819819819816,
+          "On-base": 44.44444444444443,
+          "Power": 12.368421052631577,
+          "Contact": 45.624999999999986,
+          "Discipline": 16.66666666666666,
           "Speed": 16.666666666666664
         },
         "metaLine": "JR / R/R",
@@ -38309,22 +38309,22 @@
         },
         "summary": "Ryan Facinelli gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .155",
-          "OBP .242",
-          "SLG .333"
+          "AVG .153",
+          "OBP .240",
+          "SLG .329"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".155"
+            "value": ".153"
           },
           {
             "label": "OBP",
-            "value": ".242"
+            "value": ".240"
           },
           {
             "label": "SLG",
-            "value": ".333"
+            "value": ".329"
           },
           {
             "label": "HR",
@@ -38341,7 +38341,7 @@
         ],
         "components": {
           "On-base": 0,
-          "Power": 3.421052631578951,
+          "Power": 2.3684210526315814,
           "Contact": 0,
           "Discipline": 0.5050505050505052,
           "Speed": 0
@@ -38440,29 +38440,29 @@
         "position": "IF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 31,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Zach Selfon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .274",
-          "OBP .366",
-          "SLG .298"
+          "AVG .272",
+          "OBP .371",
+          "SLG .295"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".274"
+            "value": ".272"
           },
           {
             "label": "OBP",
-            "value": ".366"
+            "value": ".371"
           },
           {
             "label": "SLG",
-            "value": ".298"
+            "value": ".295"
           },
           {
             "label": "HR",
@@ -38470,7 +38470,7 @@
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "21"
           },
           {
             "label": "SB",
@@ -38478,10 +38478,10 @@
           }
         ],
         "components": {
-          "On-base": 47.77777777777776,
+          "On-base": 50.55555555555554,
           "Power": 0,
-          "Contact": 33.750000000000014,
-          "Discipline": 68.68686868686868,
+          "Contact": 32.500000000000014,
+          "Discipline": 83.83838383838383,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / R/R",
@@ -38509,29 +38509,29 @@
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 6,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dante Pavone gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.53",
-          "WHIP 2.24",
-          "K/9 7.4"
+          "ERA 9.16",
+          "WHIP 2.30",
+          "K/9 8.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.53"
+            "value": "9.16"
           },
           {
             "label": "WHIP",
-            "value": "2.24"
+            "value": "2.30"
           },
           {
             "label": "K/9",
-            "value": "7.4"
+            "value": "8.2"
           },
           {
             "label": "BB/9",
@@ -38539,17 +38539,17 @@
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "0.48"
           },
           {
             "label": "IP",
-            "value": "17.0"
+            "value": "18.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 31.016042780748666,
+          "Miss bats": 38.14935064935065,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -38716,47 +38716,47 @@
         "position": "RHP",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 7,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "AJ Murray gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 10.80",
-          "WHIP 3.30",
-          "K/9 8.1"
+          "ERA 9.64",
+          "WHIP 3.00",
+          "K/9 5.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "10.80"
+            "value": "9.64"
           },
           {
             "label": "WHIP",
-            "value": "3.30"
+            "value": "3.00"
           },
           {
             "label": "K/9",
-            "value": "8.1"
+            "value": "5.8"
           },
           {
             "label": "BB/9",
-            "value": "16.2"
+            "value": "13.5"
           },
           {
             "label": "HR/9",
-            "value": "2.70"
+            "value": "1.93"
           },
           {
             "label": "IP",
-            "value": "3.3"
+            "value": "4.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 37.272727272727266,
+          "Miss bats": 16.233766233766232,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -38999,41 +38999,41 @@
         },
         "summary": "Everett Garber looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.05",
-          "WHIP 1.58",
-          "K/9 9.1"
+          "ERA 4.81",
+          "WHIP 1.56",
+          "K/9 9.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.05"
+            "value": "4.81"
           },
           {
             "label": "WHIP",
-            "value": "1.58"
+            "value": "1.56"
           },
           {
             "label": "K/9",
-            "value": "9.1"
+            "value": "9.2"
           },
           {
             "label": "BB/9",
-            "value": "4.9"
+            "value": "5.2"
           },
           {
             "label": "HR/9",
-            "value": "0.97"
+            "value": "0.92"
           },
           {
             "label": "IP",
-            "value": "46.3"
+            "value": "48.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 46.63178548070634,
-          "Command": 17.599999999999998,
+          "Miss bats": 47.6961394769614,
+          "Command": 15.714285714285712,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -39335,47 +39335,47 @@
         "position": "RHP",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 0,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Kobe Julks gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.71",
-          "WHIP 1.29",
-          "K/9 3.9"
+          "ERA 6.00",
+          "WHIP 1.67",
+          "K/9 6.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.71"
+            "value": "6.00"
           },
           {
             "label": "WHIP",
-            "value": "1.29"
+            "value": "1.67"
           },
           {
             "label": "K/9",
-            "value": "3.9"
+            "value": "6.0"
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "6.0"
           },
           {
             "label": "HR/9",
-            "value": "3.86"
+            "value": "3.00"
           },
           {
             "label": "IP",
-            "value": "2.3"
+            "value": "3.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 0,
+          "Miss bats": 18.181818181818183,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -39478,43 +39478,43 @@
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Brady Hoar looks like a RHP option who limits runs and keeps traffic under control.",
+        "summary": "Brady Hoar looks like a RHP option who keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.77",
-          "WHIP 1.14",
-          "K/9 6.0"
+          "ERA 4.61",
+          "WHIP 1.21",
+          "K/9 6.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.77"
+            "value": "4.61"
           },
           {
             "label": "WHIP",
-            "value": "1.14"
+            "value": "1.21"
           },
           {
             "label": "K/9",
-            "value": "6.0"
+            "value": "6.1"
           },
           {
             "label": "BB/9",
-            "value": "3.5"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
-            "value": "0.60"
+            "value": "0.53"
           },
           {
             "label": "IP",
-            "value": "59.7"
+            "value": "68.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 18.48654139156933,
-          "Command": 14.782608695652172,
+          "Miss bats": 18.713968957871398,
+          "Command": 16.799999999999997,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -39542,29 +39542,29 @@
         "position": "IF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 57,
+        "score": 56,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Michael Trommer profiles as a IF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .307",
-          "OBP .414",
-          "SLG .540"
+          "AVG .306",
+          "OBP .413",
+          "SLG .536"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".307"
+            "value": ".306"
           },
           {
             "label": "OBP",
-            "value": ".414"
+            "value": ".413"
           },
           {
             "label": "SLG",
-            "value": ".540"
+            "value": ".536"
           },
           {
             "label": "HR",
@@ -39572,7 +39572,7 @@
           },
           {
             "label": "RBI",
-            "value": "22"
+            "value": "23"
           },
           {
             "label": "SB",
@@ -39580,10 +39580,10 @@
           }
         ],
         "components": {
-          "On-base": 74.44444444444443,
-          "Power": 57.894736842105274,
-          "Contact": 54.37499999999999,
-          "Discipline": 54.93827160493826,
+          "On-base": 73.88888888888886,
+          "Power": 56.842105263157904,
+          "Contact": 53.75,
+          "Discipline": 55.85585585585584,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / L/R",
@@ -39611,47 +39611,47 @@
         "position": "LHP",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 3,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ryan DeLaney gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 11.57",
-          "WHIP 2.31",
-          "K/9 5.4"
+          "ERA 13.15",
+          "WHIP 2.46",
+          "K/9 4.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "11.57"
+            "value": "13.15"
           },
           {
             "label": "WHIP",
-            "value": "2.31"
+            "value": "2.46"
           },
           {
             "label": "K/9",
-            "value": "5.4"
+            "value": "4.8"
           },
           {
             "label": "BB/9",
-            "value": "5.4"
+            "value": "5.5"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "0.69"
           },
           {
             "label": "IP",
-            "value": "11.7"
+            "value": "13.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 12.727272727272732,
+          "Miss bats": 7.692307692307689,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -39755,22 +39755,22 @@
         },
         "summary": "Garrett Mathias profiles as a 1B piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .299",
-          "OBP .408",
-          "SLG .500"
+          "AVG .295",
+          "OBP .409",
+          "SLG .490"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".299"
+            "value": ".295"
           },
           {
             "label": "OBP",
-            "value": ".408"
+            "value": ".409"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".490"
           },
           {
             "label": "HR",
@@ -39786,10 +39786,10 @@
           }
         ],
         "components": {
-          "On-base": 71.11111111111109,
-          "Power": 47.36842105263158,
-          "Contact": 49.37499999999999,
-          "Discipline": 66.66666666666666,
+          "On-base": 71.66666666666664,
+          "Power": 44.73684210526316,
+          "Contact": 46.874999999999986,
+          "Discipline": 67.86786786786786,
           "Speed": 0
         },
         "metaLine": "FR / L/R",
@@ -39886,29 +39886,29 @@
         "position": "OF",
         "classYear": "SO",
         "handedness": "L/L",
-        "score": 46,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "John Calabrese gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .294",
-          "OBP .395",
-          "SLG .412"
+          "AVG .283",
+          "OBP .383",
+          "SLG .396"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".294"
+            "value": ".283"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": ".383"
           },
           {
             "label": "SLG",
-            "value": ".412"
+            "value": ".396"
           },
           {
             "label": "HR",
@@ -39924,9 +39924,9 @@
           }
         ],
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 24.21052631578947,
-          "Contact": 46.249999999999986,
+          "On-base": 57.22222222222222,
+          "Power": 20.000000000000007,
+          "Contact": 39.374999999999986,
           "Discipline": 75.81699346405227,
           "Speed": 3.3333333333333335
         },
@@ -40024,25 +40024,25 @@
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 15,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Hadley Maxwell looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 2.05",
-          "WHIP 1.37",
+          "ERA 1.98",
+          "WHIP 1.35",
           "K/9 9.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.05"
+            "value": "1.98"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "1.35"
           },
           {
             "label": "K/9",
@@ -40050,7 +40050,7 @@
           },
           {
             "label": "BB/9",
-            "value": "4.4"
+            "value": "4.6"
           },
           {
             "label": "HR/9",
@@ -40058,14 +40058,14 @@
           },
           {
             "label": "IP",
-            "value": "26.3"
+            "value": "27.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 53.73993095512084,
-          "Command": 24.615384615384617,
+          "Miss bats": 53.43680709534369,
+          "Command": 22.857142857142858,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -84512,74 +84512,6 @@
         "espnAthleteId": ""
       },
       {
-        "id": "kansas-17057",
-        "name": "Darius Henderson",
-        "school": "Kansas",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "L/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Darius Henderson looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / L/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "L/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Kansas Athletics roster"
-        ],
-        "sourceSummary": "Kansas Athletics roster",
-        "schoolSlug": "kansas",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://kuathletics.com/sports/baseball/roster/darius-henderson/17057",
-        "espnAthleteId": ""
-      },
-      {
         "id": "kansas-17026",
         "name": "Maddox Burkitt",
         "school": "Kansas",
@@ -96233,29 +96165,29 @@
         "position": "INF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 38,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Javon Hernandez profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .264",
-          "OBP .355",
-          "SLG .394"
+          "AVG .269",
+          "OBP .359",
+          "SLG .399"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".264"
+            "value": ".269"
           },
           {
             "label": "OBP",
-            "value": ".355"
+            "value": ".359"
           },
           {
             "label": "SLG",
-            "value": ".394"
+            "value": ".399"
           },
           {
             "label": "HR",
@@ -96271,9 +96203,9 @@
           }
         ],
         "components": {
-          "On-base": 41.66666666666664,
-          "Power": 19.473684210526322,
-          "Contact": 27.500000000000007,
+          "On-base": 43.888888888888864,
+          "Power": 20.78947368421053,
+          "Contact": 30.625000000000007,
           "Discipline": 45.87813620071684,
           "Speed": 80
         },
@@ -96647,29 +96579,29 @@
         "position": "OF",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 7,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Marcus Smith gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .213",
-          "OBP .293",
-          "SLG .338"
+          "AVG .225",
+          "OBP .304",
+          "SLG .350"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".213"
+            "value": ".225"
           },
           {
             "label": "OBP",
-            "value": ".293"
+            "value": ".304"
           },
           {
             "label": "SLG",
-            "value": ".338"
+            "value": ".350"
           },
           {
             "label": "HR",
@@ -96685,9 +96617,9 @@
           }
         ],
         "components": {
-          "On-base": 7.222222222222198,
-          "Power": 4.736842105263163,
-          "Contact": 0,
+          "On-base": 13.333333333333314,
+          "Power": 7.8947368421052575,
+          "Contact": 3.1250000000000027,
           "Discipline": 10.035842293906809,
           "Speed": 16.666666666666664
         },
@@ -125588,29 +125520,29 @@
         "position": "C",
         "classYear": "FR",
         "handedness": "HS",
-        "score": 38,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Shawn Romero gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .304",
-          "OBP .365",
-          "SLG .446"
+          "AVG .309",
+          "OBP .371",
+          "SLG .455"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".304"
+            "value": ".309"
           },
           {
             "label": "OBP",
-            "value": ".365"
+            "value": ".371"
           },
           {
             "label": "SLG",
-            "value": ".446"
+            "value": ".455"
           },
           {
             "label": "HR",
@@ -125626,10 +125558,10 @@
           }
         ],
         "components": {
-          "On-base": 47.22222222222221,
-          "Power": 33.15789473684211,
-          "Contact": 52.49999999999999,
-          "Discipline": 33.33333333333333,
+          "On-base": 50.55555555555554,
+          "Power": 35.52631578947369,
+          "Contact": 55.62499999999999,
+          "Discipline": 39.50617283950617,
           "Speed": 0
         },
         "metaLine": "FR / HS",
@@ -173875,7 +173807,7 @@
         "position": "RHP",
         "classYear": "R-SR",
         "handedness": "R/R",
-        "score": 17,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -173883,7 +173815,7 @@
         "summary": "Jacob Moore looks like a RHP option who misses bats.",
         "summaryMetrics": [
           "ERA 6.39",
-          "WHIP 1.58",
+          "WHIP 1.66",
           "K/9 9.9"
         ],
         "statCards": [
@@ -173893,7 +173825,7 @@
           },
           {
             "label": "WHIP",
-            "value": "1.58"
+            "value": "1.66"
           },
           {
             "label": "K/9",
@@ -173901,7 +173833,7 @@
           },
           {
             "label": "BB/9",
-            "value": "3.6"
+            "value": "4.3"
           },
           {
             "label": "HR/9",
@@ -173916,7 +173848,7 @@
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 54.066985645933016,
-          "Command": 36,
+          "Command": 26.66666666666666,
           "Damage suppression": 0
         },
         "metaLine": "R-SR / R/R",
@@ -174227,7 +174159,7 @@
         "summary": "Trey Cehajic gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "ERA 7.95",
-          "WHIP 1.93",
+          "WHIP 1.91",
           "K/9 8.0"
         ],
         "statCards": [
@@ -174237,7 +174169,7 @@
           },
           {
             "label": "WHIP",
-            "value": "1.93"
+            "value": "1.91"
           },
           {
             "label": "K/9",
@@ -174245,7 +174177,7 @@
           },
           {
             "label": "BB/9",
-            "value": "5.3"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
@@ -174260,7 +174192,7 @@
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 35.91745677635247,
-          "Command": 10,
+          "Command": 10.96774193548387,
           "Damage suppression": 0
         },
         "metaLine": "GR / R/R",

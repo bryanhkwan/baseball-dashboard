@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.pepperdine2026 = {
-  "generatedAt": "2026-05-11T12:51:04.926Z",
+  "generatedAt": "2026-05-12T12:17:37.286Z",
   "season": 2026,
   "school": {
     "slug": "pepperdine",
@@ -41,7 +41,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
   "teamSummary": {
     "record": "21-29, 15-9",
     "battingAverage": ".265",
-    "earnedRunAverage": "5.51",
+    "earnedRunAverage": "5.53",
     "wins": "21",
     "losses": "29",
     "hitting": {
@@ -77,7 +77,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "errors": "59",
       "passedBalls": "7",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "70",
+      "stolenBasesAgainst": "76",
       "caughtStealingBy": "11",
       "involvedInDoublePlays": "51",
       "involvedInTriplePlays": "0",
@@ -85,18 +85,18 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "fieldingPercentage": ".968"
     },
     "pitching": {
-      "orderOfAppearance": "0",
+      "orderOfAppearance": "15",
       "wins": "21",
       "saves": "40",
       "losses": "29",
-      "gamesStarted": "0",
+      "gamesStarted": "1",
       "gamesCompleted": "0",
       "shutouts": "2",
       "creditForCombinedShutout": "2",
       "inningsPitched": "431.1",
       "hitsAllowed": "482",
       "runsAllowed": "313",
-      "earnedRunsAllowed": "264",
+      "earnedRunsAllowed": "265",
       "walksAllowed": "188",
       "strikeouts": "342",
       "battersFaced": "2003",
@@ -109,8 +109,8 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "hitBatters": "75",
       "strikeoutsLooking": "71",
       "intentionalWalks": "2",
-      "inheritedRunners": "77",
-      "inheritedRunnersThatScored": "37",
+      "inheritedRunners": "83",
+      "inheritedRunnersThatScored": "41",
       "sacrificeHitsAllowed": "28",
       "sacrificeFliesAllowed": "20",
       "catchersInterferenceAllowed": "0",
@@ -118,7 +118,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "flyouts": "438",
       "groundouts": "419",
       "teamUnearnedRuns": "1",
-      "saveRecord": "18",
+      "saveRecord": "22",
       "pickoff": "2"
     }
   },
@@ -2169,11 +2169,11 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/romero.jpg",
         "gamesPlayed": 30,
         "gamesStarted": 15,
-        "battingAverage": 0.304,
-        "onBasePercentage": 0.365,
-        "sluggingPercentage": 0.446,
-        "ops": 0.811,
-        "atBats": 56,
+        "battingAverage": 0.309,
+        "onBasePercentage": 0.371,
+        "sluggingPercentage": 0.455,
+        "ops": 0.826,
+        "atBats": 55,
         "runs": 10,
         "hits": 17,
         "doubles": 2,
@@ -2183,7 +2183,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "totalBases": 25,
         "walks": 5,
         "hitByPitch": 1,
-        "strikeouts": 10,
+        "strikeouts": 9,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
@@ -2193,7 +2193,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "putouts": 123,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 66,
+        "plateAppearances": 65,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2220,36 +2220,36 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "totalChances": 135
       },
       "evaluation": {
-        "score": 38,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 47.22222222222221,
-          "Power": 33.15789473684211,
-          "Contact": 52.49999999999999,
-          "Discipline": 33.33333333333333,
+          "On-base": 50.55555555555554,
+          "Power": 35.52631578947369,
+          "Contact": 55.62499999999999,
+          "Discipline": 39.50617283950617,
           "Speed": 0
         },
         "summary": "Shawn Romero gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .304",
-          "OBP .365",
-          "SLG .446"
+          "AVG .309",
+          "OBP .371",
+          "SLG .455"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".304"
+            "value": ".309"
           },
           {
             "label": "OBP",
-            "value": ".365"
+            "value": ".371"
           },
           {
             "label": "SLG",
-            "value": ".446"
+            "value": ".455"
           },
           {
             "label": "HR",
@@ -6458,29 +6458,29 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "position": "C",
         "classYear": "FR",
         "handedness": "HS",
-        "score": 38,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Shawn Romero gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .304",
-          "OBP .365",
-          "SLG .446"
+          "AVG .309",
+          "OBP .371",
+          "SLG .455"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".304"
+            "value": ".309"
           },
           {
             "label": "OBP",
-            "value": ".365"
+            "value": ".371"
           },
           {
             "label": "SLG",
-            "value": ".446"
+            "value": ".455"
           },
           {
             "label": "HR",
@@ -6496,10 +6496,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           }
         ],
         "components": {
-          "On-base": 47.22222222222221,
-          "Power": 33.15789473684211,
-          "Contact": 52.49999999999999,
-          "Discipline": 33.33333333333333,
+          "On-base": 50.55555555555554,
+          "Power": 35.52631578947369,
+          "Contact": 55.62499999999999,
+          "Discipline": 39.50617283950617,
           "Speed": 0
         },
         "metaLine": "FR / HS",

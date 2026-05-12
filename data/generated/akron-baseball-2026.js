@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.akron2026 = {
-  "generatedAt": "2026-05-11T12:50:12.589Z",
+  "generatedAt": "2026-05-12T12:16:54.835Z",
   "season": 2026,
   "school": {
     "slug": "akron",
@@ -49,7 +49,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
     "wins": "21",
     "losses": "30",
     "hitting": {
-      "atBats": "1665",
+      "atBats": "1664",
       "runsScored": "342",
       "hits": "459",
       "runsBattedIn": "301",
@@ -63,7 +63,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "hitByPitch": "92",
       "stolenBases": "118",
       "caughtStealing": "24",
-      "sacrificeHits": "29",
+      "sacrificeHits": "30",
       "sacrificeFlies": "15",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
@@ -3246,11 +3246,11 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "imageUrl": "https://gozips.com/images/2026/1/13/24_Prince_DeBoskie.jpg",
         "gamesPlayed": 30,
         "gamesStarted": 21,
-        "battingAverage": 0.368,
-        "onBasePercentage": 0.44,
-        "sluggingPercentage": 0.575,
-        "ops": 1.015,
-        "atBats": 87,
+        "battingAverage": 0.372,
+        "onBasePercentage": 0.444,
+        "sluggingPercentage": 0.581,
+        "ops": 1.025,
+        "atBats": 86,
         "runs": 19,
         "hits": 32,
         "doubles": 7,
@@ -3264,7 +3264,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
-        "sacrificeHits": 0,
+        "sacrificeHits": 1,
         "stolenBases": 16,
         "stolenBasesAttempts": 16,
         "putouts": 37,
@@ -3297,36 +3297,36 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "totalChances": 37
       },
       "evaluation": {
-        "score": 70,
+        "score": 72,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 88.88888888888889,
-          "Power": 67.10526315789474,
-          "Contact": 92.5,
+          "On-base": 91.1111111111111,
+          "Power": 68.6842105263158,
+          "Contact": 95,
           "Discipline": 16.66666666666666,
           "Speed": 53.333333333333336
         },
         "summary": "Prince DeBoskie profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .368",
-          "OBP .440",
-          "SLG .575"
+          "AVG .372",
+          "OBP .444",
+          "SLG .581"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".368"
+            "value": ".372"
           },
           {
             "label": "OBP",
-            "value": ".440"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": ".575"
+            "value": ".581"
           },
           {
             "label": "HR",
@@ -6589,29 +6589,29 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "position": "OF",
         "classYear": "R-JR",
         "handedness": "S/R",
-        "score": 70,
+        "score": 72,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Prince DeBoskie profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .368",
-          "OBP .440",
-          "SLG .575"
+          "AVG .372",
+          "OBP .444",
+          "SLG .581"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".368"
+            "value": ".372"
           },
           {
             "label": "OBP",
-            "value": ".440"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": ".575"
+            "value": ".581"
           },
           {
             "label": "HR",
@@ -6627,9 +6627,9 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           }
         ],
         "components": {
-          "On-base": 88.88888888888889,
-          "Power": 67.10526315789474,
-          "Contact": 92.5,
+          "On-base": 91.1111111111111,
+          "Power": 68.6842105263158,
+          "Contact": 95,
           "Discipline": 16.66666666666666,
           "Speed": 53.333333333333336
         },

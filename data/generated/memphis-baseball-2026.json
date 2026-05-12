@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T12:50:49.121Z",
+  "generatedAt": "2026-05-12T12:17:25.965Z",
   "season": 2026,
   "school": {
     "slug": "memphis",
@@ -39,14 +39,14 @@
   },
   "teamSummary": {
     "record": "21-29, 12-12",
-    "battingAverage": ".264",
+    "battingAverage": ".265",
     "earnedRunAverage": "7.16",
     "wins": "21",
     "losses": "29",
     "hitting": {
       "atBats": "1706",
       "runsScored": "310",
-      "hits": "450",
+      "hits": "452",
       "runsBattedIn": "282",
       "doubles": "77",
       "triples": "6",
@@ -1039,18 +1039,18 @@
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Hernandez_4rHkw.jpg",
         "gamesPlayed": 50,
         "gamesStarted": 50,
-        "battingAverage": 0.264,
-        "onBasePercentage": 0.355,
-        "sluggingPercentage": 0.394,
-        "ops": 0.749,
+        "battingAverage": 0.269,
+        "onBasePercentage": 0.359,
+        "sluggingPercentage": 0.399,
+        "ops": 0.758,
         "atBats": 193,
         "runs": 44,
-        "hits": 51,
+        "hits": 52,
         "doubles": 11,
         "triples": 1,
         "homeRuns": 4,
         "runsBattedIn": 20,
-        "totalBases": 76,
+        "totalBases": 77,
         "walks": 19,
         "hitByPitch": 8,
         "strikeouts": 31,
@@ -1090,36 +1090,36 @@
         "totalChances": 191
       },
       "evaluation": {
-        "score": 38,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 41.66666666666664,
-          "Power": 19.473684210526322,
-          "Contact": 27.500000000000007,
+          "On-base": 43.888888888888864,
+          "Power": 20.78947368421053,
+          "Contact": 30.625000000000007,
           "Discipline": 45.87813620071684,
           "Speed": 80
         },
         "summary": "Javon Hernandez profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .264",
-          "OBP .355",
-          "SLG .394"
+          "AVG .269",
+          "OBP .359",
+          "SLG .399"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".264"
+            "value": ".269"
           },
           {
             "label": "OBP",
-            "value": ".355"
+            "value": ".359"
           },
           {
             "label": "SLG",
-            "value": ".394"
+            "value": ".399"
           },
           {
             "label": "HR",
@@ -1900,18 +1900,18 @@
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Smith_Marcus_eZ7OS.jpg",
         "gamesPlayed": 38,
         "gamesStarted": 21,
-        "battingAverage": 0.213,
-        "onBasePercentage": 0.293,
-        "sluggingPercentage": 0.338,
-        "ops": 0.631,
+        "battingAverage": 0.225,
+        "onBasePercentage": 0.304,
+        "sluggingPercentage": 0.35,
+        "ops": 0.654,
         "atBats": 80,
         "runs": 12,
-        "hits": 17,
+        "hits": 18,
         "doubles": 4,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 10,
-        "totalBases": 27,
+        "totalBases": 28,
         "walks": 9,
         "hitByPitch": 1,
         "strikeouts": 31,
@@ -1951,36 +1951,36 @@
         "totalChances": 51
       },
       "evaluation": {
-        "score": 7,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 7.222222222222198,
-          "Power": 4.736842105263163,
-          "Contact": 0,
+          "On-base": 13.333333333333314,
+          "Power": 7.8947368421052575,
+          "Contact": 3.1250000000000027,
           "Discipline": 10.035842293906809,
           "Speed": 16.666666666666664
         },
         "summary": "Marcus Smith gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .213",
-          "OBP .293",
-          "SLG .338"
+          "AVG .225",
+          "OBP .304",
+          "SLG .350"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".213"
+            "value": ".225"
           },
           {
             "label": "OBP",
-            "value": ".293"
+            "value": ".304"
           },
           {
             "label": "SLG",
-            "value": ".338"
+            "value": ".350"
           },
           {
             "label": "HR",
@@ -5818,29 +5818,29 @@
         "position": "INF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 38,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Javon Hernandez profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .264",
-          "OBP .355",
-          "SLG .394"
+          "AVG .269",
+          "OBP .359",
+          "SLG .399"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".264"
+            "value": ".269"
           },
           {
             "label": "OBP",
-            "value": ".355"
+            "value": ".359"
           },
           {
             "label": "SLG",
-            "value": ".394"
+            "value": ".399"
           },
           {
             "label": "HR",
@@ -5856,9 +5856,9 @@
           }
         ],
         "components": {
-          "On-base": 41.66666666666664,
-          "Power": 19.473684210526322,
-          "Contact": 27.500000000000007,
+          "On-base": 43.888888888888864,
+          "Power": 20.78947368421053,
+          "Contact": 30.625000000000007,
           "Discipline": 45.87813620071684,
           "Speed": 80
         },
@@ -6232,29 +6232,29 @@
         "position": "OF",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 7,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Marcus Smith gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .213",
-          "OBP .293",
-          "SLG .338"
+          "AVG .225",
+          "OBP .304",
+          "SLG .350"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".213"
+            "value": ".225"
           },
           {
             "label": "OBP",
-            "value": ".293"
+            "value": ".304"
           },
           {
             "label": "SLG",
-            "value": ".338"
+            "value": ".350"
           },
           {
             "label": "HR",
@@ -6270,9 +6270,9 @@
           }
         ],
         "components": {
-          "On-base": 7.222222222222198,
-          "Power": 4.736842105263163,
-          "Contact": 0,
+          "On-base": 13.333333333333314,
+          "Power": 7.8947368421052575,
+          "Contact": 3.1250000000000027,
           "Discipline": 10.035842293906809,
           "Speed": 16.666666666666664
         },

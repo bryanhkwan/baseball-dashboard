@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
-  "generatedAt": "2026-05-11T12:51:18.734Z",
+  "generatedAt": "2026-05-12T12:17:49.221Z",
   "season": 2026,
   "school": {
     "slug": "stephen-f-austin",
@@ -77,19 +77,19 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
       "errors": "61",
       "passedBalls": "2",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "51",
+      "stolenBasesAgainst": "52",
       "caughtStealingBy": "11",
-      "involvedInDoublePlays": "42",
+      "involvedInDoublePlays": "44",
       "involvedInTriplePlays": "0",
       "totalChances": "1869",
       "fieldingPercentage": ".967"
     },
     "pitching": {
-      "orderOfAppearance": "0",
+      "orderOfAppearance": "15",
       "wins": "27",
-      "saves": "41",
+      "saves": "42",
       "losses": "25",
-      "gamesStarted": "0",
+      "gamesStarted": "1",
       "gamesCompleted": "0",
       "shutouts": "0",
       "creditForCombinedShutout": "0",
