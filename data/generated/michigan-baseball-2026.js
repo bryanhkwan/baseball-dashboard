@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.michigan2026 = {
-  "generatedAt": "2026-05-12T12:17:29.260Z",
+  "generatedAt": "2026-05-13T12:24:26.268Z",
   "season": 2026,
   "school": {
     "slug": "michigan",
@@ -39,41 +39,41 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
     }
   },
   "teamSummary": {
-    "record": "32-18, 17-10",
-    "battingAverage": ".277",
-    "earnedRunAverage": "4.90",
+    "record": "32-19, 17-10",
+    "battingAverage": ".275",
+    "earnedRunAverage": "4.91",
     "wins": "32",
-    "losses": "18",
+    "losses": "19",
     "hitting": {
-      "atBats": "1680",
-      "runsScored": "302",
-      "hits": "465",
-      "runsBattedIn": "274",
-      "doubles": "89",
+      "atBats": "1711",
+      "runsScored": "305",
+      "hits": "471",
+      "runsBattedIn": "276",
+      "doubles": "90",
       "triples": "8",
       "homeRuns": "39",
-      "walks": "223",
+      "walks": "228",
       "intentionalWalks": "5",
-      "strikeouts": "402",
-      "strikeoutsLooking": "59",
-      "hitByPitch": "69",
-      "stolenBases": "48",
-      "caughtStealing": "21",
+      "strikeouts": "410",
+      "strikeoutsLooking": "61",
+      "hitByPitch": "71",
+      "stolenBases": "50",
+      "caughtStealing": "22",
       "sacrificeHits": "31",
-      "sacrificeFlies": "20",
+      "sacrificeFlies": "21",
       "reachedOnCatchersInteference": "4",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "380",
-      "flyOuts": "404",
-      "groundedIntoDoublePlay": "35",
+      "groundOuts": "390",
+      "flyOuts": "411",
+      "groundedIntoDoublePlay": "36",
       "pickedOff": "3",
-      "doublePlaysHitInto": "35",
+      "doublePlaysHitInto": "36",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1301",
-      "assists": "468",
+      "putouts": "1325",
+      "assists": "475",
       "errors": "39",
       "passedBalls": "1",
       "catchersInterference": "0",
@@ -81,42 +81,42 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
       "caughtStealingBy": "15",
       "involvedInDoublePlays": "36",
       "involvedInTriplePlays": "0",
-      "totalChances": "1808",
-      "fieldingPercentage": ".978"
+      "totalChances": "1839",
+      "fieldingPercentage": ".979"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "32",
-      "saves": "41",
-      "losses": "18",
+      "saves": "42",
+      "losses": "19",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "2",
       "creditForCombinedShutout": "1",
-      "inningsPitched": "433.2",
-      "hitsAllowed": "426",
-      "runsAllowed": "249",
-      "earnedRunsAllowed": "236",
-      "walksAllowed": "211",
-      "strikeouts": "391",
-      "battersFaced": "1960",
-      "opponentAtBats": "1652",
-      "doublesAllowed": "69",
+      "inningsPitched": "441.2",
+      "hitsAllowed": "434",
+      "runsAllowed": "254",
+      "earnedRunsAllowed": "241",
+      "walksAllowed": "212",
+      "strikeouts": "404",
+      "battersFaced": "1996",
+      "opponentAtBats": "1684",
+      "doublesAllowed": "70",
       "triplesAllowed": "12",
-      "homerunsAllowed": "46",
-      "wildPitches": "32",
+      "homerunsAllowed": "49",
+      "wildPitches": "33",
       "balks": "5",
-      "hitBatters": "62",
-      "strikeoutsLooking": "78",
+      "hitBatters": "65",
+      "strikeoutsLooking": "85",
       "intentionalWalks": "7",
       "inheritedRunners": "119",
-      "inheritedRunnersThatScored": "48",
+      "inheritedRunnersThatScored": "49",
       "sacrificeHitsAllowed": "18",
       "sacrificeFliesAllowed": "17",
       "catchersInterferenceAllowed": "0",
-      "pitches": "7272",
-      "flyouts": "426",
-      "groundouts": "411",
+      "pitches": "7402",
+      "flyouts": "430",
+      "groundouts": "418",
       "teamUnearnedRuns": "0",
       "saveRecord": "16",
       "pickoff": "0"
@@ -161,34 +161,34 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "0",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/evan-haeger/27517",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-haeger.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 41,
-        "battingAverage": 0.292,
-        "onBasePercentage": 0.433,
-        "sluggingPercentage": 0.526,
-        "ops": 0.959,
-        "atBats": 137,
+        "gamesPlayed": 47,
+        "gamesStarted": 42,
+        "battingAverage": 0.3,
+        "onBasePercentage": 0.44,
+        "sluggingPercentage": 0.536,
+        "ops": 0.976,
+        "atBats": 140,
         "runs": 31,
-        "hits": 40,
-        "doubles": 10,
+        "hits": 42,
+        "doubles": 11,
         "triples": 2,
         "homeRuns": 6,
-        "runsBattedIn": 24,
-        "totalBases": 72,
-        "walks": 32,
+        "runsBattedIn": 25,
+        "totalBases": 75,
+        "walks": 33,
         "hitByPitch": 2,
         "strikeouts": 41,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 4,
-        "stolenBases": 4,
-        "stolenBasesAttempts": 9,
-        "putouts": 98,
+        "stolenBases": 5,
+        "stolenBasesAttempts": 11,
+        "putouts": 99,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 189,
-        "caughtStealing": 5,
+        "plateAppearances": 196,
+        "caughtStealing": 6,
         "pickedOff": 0
       },
       "pitchingStats": null,
@@ -199,9 +199,9 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "0",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/evan-haeger/27517",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-haeger.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 37,
-        "putouts": 98,
+        "gamesPlayed": 41,
+        "gamesStarted": 38,
+        "putouts": 99,
         "assists": 2,
         "errors": 1,
         "fieldingPercentage": 0.99,
@@ -211,39 +211,39 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 101
+        "totalChances": 102
       },
       "evaluation": {
-        "score": 60,
+        "score": 63,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 84.99999999999999,
-          "Power": 54.21052631578949,
-          "Contact": 44.999999999999986,
-          "Discipline": 64.49864498644986,
-          "Speed": 13.333333333333334
+          "On-base": 88.88888888888889,
+          "Power": 56.842105263157904,
+          "Contact": 49.999999999999986,
+          "Discipline": 67.20867208672087,
+          "Speed": 16.666666666666664
         },
         "summary": "Evan Haeger profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .292",
-          "OBP .433",
-          "SLG .526"
+          "AVG .300",
+          "OBP .440",
+          "SLG .536"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".433"
+            "value": ".440"
           },
           {
             "label": "SLG",
-            "value": ".526"
+            "value": ".536"
           },
           {
             "label": "HR",
@@ -251,11 +251,11 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "25"
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "metaLine": "R-SO / N/A",
@@ -306,23 +306,23 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "2",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/brayden-jefferis/27457",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-jefferis.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 49,
-        "battingAverage": 0.351,
-        "onBasePercentage": 0.442,
-        "sluggingPercentage": 0.455,
-        "ops": 0.897,
-        "atBats": 191,
-        "runs": 26,
-        "hits": 67,
+        "gamesPlayed": 51,
+        "gamesStarted": 50,
+        "battingAverage": 0.349,
+        "onBasePercentage": 0.439,
+        "sluggingPercentage": 0.451,
+        "ops": 0.89,
+        "atBats": 195,
+        "runs": 27,
+        "hits": 68,
         "doubles": 8,
         "triples": 3,
         "homeRuns": 2,
         "runsBattedIn": 39,
-        "totalBases": 87,
+        "totalBases": 88,
         "walks": 22,
         "hitByPitch": 10,
-        "strikeouts": 23,
+        "strikeouts": 24,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
@@ -332,7 +332,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "putouts": 33,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 241,
+        "plateAppearances": 245,
         "caughtStealing": 4,
         "pickedOff": 1
       },
@@ -344,10 +344,10 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "2",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/brayden-jefferis/27457",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-jefferis.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 45,
+        "gamesPlayed": 47,
+        "gamesStarted": 46,
         "putouts": 33,
-        "assists": 101,
+        "assists": 103,
         "errors": 3,
         "fieldingPercentage": 0.978,
         "doublePlays": 7,
@@ -356,39 +356,39 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 137
+        "totalChances": 139
       },
       "evaluation": {
-        "score": 67,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 89.99999999999999,
-          "Power": 35.52631578947369,
-          "Contact": 81.87499999999999,
-          "Discipline": 84.05797101449275,
+          "On-base": 88.33333333333331,
+          "Power": 34.47368421052632,
+          "Contact": 80.62499999999999,
+          "Discipline": 79.6296296296296,
           "Speed": 23.333333333333332
         },
         "summary": "Brayden Jefferis profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .351",
-          "OBP .442",
-          "SLG .455"
+          "AVG .349",
+          "OBP .439",
+          "SLG .451"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".351"
+            "value": ".349"
           },
           {
             "label": "OBP",
-            "value": ".442"
+            "value": ".439"
           },
           {
             "label": "SLG",
-            "value": ".455"
+            "value": ".451"
           },
           {
             "label": "HR",
@@ -596,13 +596,13 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "4",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/noah-miller/27465",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-miller.jpg",
-        "gamesPlayed": 40,
+        "gamesPlayed": 41,
         "gamesStarted": 38,
-        "battingAverage": 0.289,
-        "onBasePercentage": 0.386,
-        "sluggingPercentage": 0.385,
-        "ops": 0.771,
-        "atBats": 135,
+        "battingAverage": 0.287,
+        "onBasePercentage": 0.384,
+        "sluggingPercentage": 0.382,
+        "ops": 0.766,
+        "atBats": 136,
         "runs": 17,
         "hits": 39,
         "doubles": 7,
@@ -612,7 +612,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "totalBases": 52,
         "walks": 14,
         "hitByPitch": 8,
-        "strikeouts": 25,
+        "strikeouts": 26,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 1,
@@ -622,7 +622,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "putouts": 275,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 162,
+        "plateAppearances": 163,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -649,36 +649,36 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "totalChances": 304
       },
       "evaluation": {
-        "score": 37,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 58.88888888888888,
-          "Power": 17.10526315789474,
-          "Contact": 43.124999999999986,
-          "Discipline": 40,
+          "On-base": 57.77777777777777,
+          "Power": 16.315789473684212,
+          "Contact": 41.874999999999986,
+          "Discipline": 37.606837606837594,
           "Speed": 6.666666666666667
         },
         "summary": "Noah Miller gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .289",
-          "OBP .386",
-          "SLG .385"
+          "AVG .287",
+          "OBP .384",
+          "SLG .382"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": ".287"
           },
           {
             "label": "OBP",
-            "value": ".386"
+            "value": ".384"
           },
           {
             "label": "SLG",
-            "value": ".385"
+            "value": ".382"
           },
           {
             "label": "HR",
@@ -742,31 +742,31 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "5",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/david-lally-jr/27461",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-lally.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 8,
-        "appearances": 13,
+        "gamesPlayed": 14,
+        "gamesStarted": 9,
+        "appearances": 14,
         "gamesCompleted": 1,
-        "earnedRunAverage": 4.23,
-        "whip": 1.27,
+        "earnedRunAverage": 4.4,
+        "whip": 1.26,
         "wins": 2,
-        "losses": 3,
+        "losses": 4,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 55.333333333333336,
-        "inningsPitchedDisplay": "55.1",
-        "hitsAllowed": 49,
-        "runsAllowed": 31,
-        "earnedRunsAllowed": 26,
-        "walksAllowed": 21,
-        "strikeouts": 46,
-        "doublesAllowed": 7,
+        "inningsPitched": 59.333333333333336,
+        "inningsPitchedDisplay": "59.1",
+        "hitsAllowed": 53,
+        "runsAllowed": 34,
+        "earnedRunsAllowed": 29,
+        "walksAllowed": 22,
+        "strikeouts": 52,
+        "doublesAllowed": 8,
         "triplesAllowed": 3,
-        "homeRunsAllowed": 8,
-        "opponentsAtBats": 208,
-        "wildPitches": 2,
-        "hitBatters": 8,
+        "homeRunsAllowed": 10,
+        "opponentsAtBats": 224,
+        "wildPitches": 3,
+        "hitBatters": 11,
         "balks": 1,
-        "opponentsBattingAverage": 0.236,
+        "opponentsBattingAverage": 0.237,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -791,7 +791,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "totalChances": 10
       },
       "evaluation": {
-        "score": 10,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -799,40 +799,40 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 31.653888280394305,
-          "Command": 23.809523809523814,
+          "Miss bats": 35.342185903983655,
+          "Command": 27.272727272727266,
           "Damage suppression": 0
         },
         "summary": "David Lally Jr. gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.23",
-          "WHIP 1.27",
-          "K/9 7.5"
+          "ERA 4.40",
+          "WHIP 1.26",
+          "K/9 7.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.23"
+            "value": "4.40"
           },
           {
             "label": "WHIP",
-            "value": "1.27"
+            "value": "1.26"
           },
           {
             "label": "K/9",
-            "value": "7.5"
+            "value": "7.9"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
-            "value": "1.30"
+            "value": "1.52"
           },
           {
             "label": "IP",
-            "value": "55.3"
+            "value": "59.3"
           }
         ],
         "metaLine": "SR / N/A",
@@ -1170,33 +1170,33 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "8",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/drew-culbertson/27524",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-culbertson.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 50,
-        "battingAverage": 0.204,
-        "onBasePercentage": 0.339,
-        "sluggingPercentage": 0.282,
-        "ops": 0.621,
-        "atBats": 142,
+        "gamesPlayed": 51,
+        "gamesStarted": 51,
+        "battingAverage": 0.201,
+        "onBasePercentage": 0.333,
+        "sluggingPercentage": 0.278,
+        "ops": 0.611,
+        "atBats": 144,
         "runs": 26,
         "hits": 29,
         "doubles": 3,
         "triples": 1,
         "homeRuns": 2,
-        "runsBattedIn": 17,
+        "runsBattedIn": 18,
         "totalBases": 40,
         "walks": 18,
         "hitByPitch": 11,
         "strikeouts": 47,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 0,
+        "sacrificeFlies": 1,
         "sacrificeHits": 10,
         "stolenBases": 6,
         "stolenBasesAttempts": 8,
         "putouts": 65,
         "assists": 0,
         "errors": 13,
-        "plateAppearances": 195,
+        "plateAppearances": 198,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -1208,28 +1208,28 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "8",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/drew-culbertson/27524",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-culbertson.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 50,
+        "gamesPlayed": 51,
+        "gamesStarted": 51,
         "putouts": 65,
-        "assists": 124,
+        "assists": 127,
         "errors": 13,
-        "fieldingPercentage": 0.936,
+        "fieldingPercentage": 0.937,
         "doublePlays": 24,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 202
+        "totalChances": 205
       },
       "evaluation": {
-        "score": 15,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 32.77777777777778,
+          "On-base": 29.44444444444444,
           "Power": 0,
           "Contact": 0,
           "Discipline": 20.330969267139476,
@@ -1237,22 +1237,22 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         },
         "summary": "Drew Culbertson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .204",
-          "OBP .339",
-          "SLG .282"
+          "AVG .201",
+          "OBP .333",
+          "SLG .278"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".204"
+            "value": ".201"
           },
           {
             "label": "OBP",
-            "value": ".339"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".282"
+            "value": ".278"
           },
           {
             "label": "HR",
@@ -1260,7 +1260,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "18"
           },
           {
             "label": "SB",
@@ -1600,31 +1600,31 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "12",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/max-debiec/27454",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-debiec.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 1,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.58,
-        "whip": 2,
+        "earnedRunAverage": 7.17,
+        "whip": 1.83,
         "wins": 0,
         "losses": 2,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 19,
-        "inningsPitchedDisplay": "19.0",
-        "hitsAllowed": 23,
-        "runsAllowed": 16,
-        "earnedRunsAllowed": 16,
+        "inningsPitched": 21.333333333333332,
+        "inningsPitchedDisplay": "21.1",
+        "hitsAllowed": 24,
+        "runsAllowed": 17,
+        "earnedRunsAllowed": 17,
         "walksAllowed": 15,
-        "strikeouts": 18,
+        "strikeouts": 21,
         "doublesAllowed": 7,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 72,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 80,
         "wildPitches": 2,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.319,
+        "opponentsBattingAverage": 0.3,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1649,7 +1649,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "totalChances": 4
       },
       "evaluation": {
-        "score": 9,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1657,40 +1657,40 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 41.148325358851686,
-          "Command": 3.9999999999999996,
+          "Miss bats": 44.17613636363637,
+          "Command": 7.999999999999999,
           "Damage suppression": 0
         },
         "summary": "Max Debiec gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.58",
-          "WHIP 2.00",
-          "K/9 8.5"
+          "ERA 7.17",
+          "WHIP 1.83",
+          "K/9 8.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.58"
+            "value": "7.17"
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "1.83"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "8.9"
           },
           {
             "label": "BB/9",
-            "value": "7.1"
+            "value": "6.3"
           },
           {
             "label": "HR/9",
-            "value": "0.95"
+            "value": "1.27"
           },
           {
             "label": "IP",
-            "value": "19.0"
+            "value": "21.3"
           }
         ],
         "metaLine": "SR / N/A",
@@ -1741,33 +1741,33 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "14",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/colby-turner/27473",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-turner.jpg",
-        "gamesPlayed": 49,
-        "gamesStarted": 49,
-        "battingAverage": 0.383,
-        "onBasePercentage": 0.445,
-        "sluggingPercentage": 0.677,
-        "ops": 1.122,
-        "atBats": 201,
+        "gamesPlayed": 50,
+        "gamesStarted": 50,
+        "battingAverage": 0.382,
+        "onBasePercentage": 0.449,
+        "sluggingPercentage": 0.672,
+        "ops": 1.121,
+        "atBats": 204,
         "runs": 53,
-        "hits": 77,
+        "hits": 78,
         "doubles": 17,
         "triples": 0,
         "homeRuns": 14,
         "runsBattedIn": 52,
-        "totalBases": 136,
-        "walks": 18,
+        "totalBases": 137,
+        "walks": 20,
         "hitByPitch": 7,
-        "strikeouts": 27,
+        "strikeouts": 28,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 7,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
-        "stolenBases": 10,
-        "stolenBasesAttempts": 13,
-        "putouts": 81,
+        "stolenBases": 11,
+        "stolenBasesAttempts": 14,
+        "putouts": 82,
         "assists": 0,
         "errors": 7,
-        "plateAppearances": 245,
+        "plateAppearances": 251,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -1779,51 +1779,51 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "14",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/colby-turner/27473",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-turner.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 46,
-        "putouts": 81,
-        "assists": 98,
+        "gamesPlayed": 47,
+        "gamesStarted": 47,
+        "putouts": 82,
+        "assists": 99,
         "errors": 7,
-        "fieldingPercentage": 0.962,
+        "fieldingPercentage": 0.963,
         "doublePlays": 17,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 186
+        "totalChances": 188
       },
       "evaluation": {
-        "score": 82,
+        "score": 84,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "components": {
-          "On-base": 91.66666666666666,
-          "Power": 93.94736842105266,
+          "On-base": 93.88888888888889,
+          "Power": 92.63157894736844,
           "Contact": 100,
-          "Discipline": 51.85185185185184,
-          "Speed": 33.33333333333333
+          "Discipline": 57.14285714285713,
+          "Speed": 36.666666666666664
         },
         "summary": "Colby Turner profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .383",
-          "OBP .445",
-          "SLG .677"
+          "AVG .382",
+          "OBP .449",
+          "SLG .672"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".383"
+            "value": ".382"
           },
           {
             "label": "OBP",
-            "value": ".445"
+            "value": ".449"
           },
           {
             "label": "SLG",
-            "value": ".677"
+            "value": ".672"
           },
           {
             "label": "HR",
@@ -1835,7 +1835,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
           },
           {
             "label": "SB",
-            "value": "10"
+            "value": "11"
           }
         ],
         "metaLine": "JR / N/A",
@@ -2032,31 +2032,31 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "17",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/gavin-devooght/27455",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-devooght.jpg",
-        "gamesPlayed": 23,
+        "gamesPlayed": 24,
         "gamesStarted": 0,
-        "appearances": 23,
+        "appearances": 24,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.42,
-        "whip": 1.55,
+        "earnedRunAverage": 4.46,
+        "whip": 1.57,
         "wins": 2,
         "losses": 3,
         "saves": 9,
         "shutouts": 0,
-        "inningsPitched": 36.666666666666664,
-        "inningsPitchedDisplay": "36.2",
-        "hitsAllowed": 36,
-        "runsAllowed": 19,
-        "earnedRunsAllowed": 18,
+        "inningsPitched": 38.333333333333336,
+        "inningsPitchedDisplay": "38.1",
+        "hitsAllowed": 39,
+        "runsAllowed": 20,
+        "earnedRunsAllowed": 19,
         "walksAllowed": 21,
-        "strikeouts": 30,
+        "strikeouts": 34,
         "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 140,
+        "opponentsAtBats": 148,
         "wildPitches": 3,
         "hitBatters": 7,
         "balks": 0,
-        "opponentsBattingAverage": 0.257,
+        "opponentsBattingAverage": 0.264,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2081,7 +2081,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "totalChances": 12
       },
       "evaluation": {
-        "score": 7,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2089,40 +2089,40 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 30.57851239669422,
-          "Command": 8.571428571428571,
+          "Miss bats": 36.20553359683794,
+          "Command": 12.380952380952381,
           "Damage suppression": 0
         },
         "summary": "Gavin DeVooght gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.42",
-          "WHIP 1.55",
-          "K/9 7.4"
+          "ERA 4.46",
+          "WHIP 1.57",
+          "K/9 8.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.42"
+            "value": "4.46"
           },
           {
             "label": "WHIP",
-            "value": "1.55"
+            "value": "1.57"
           },
           {
             "label": "K/9",
-            "value": "7.4"
+            "value": "8.0"
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
-            "value": "0.74"
+            "value": "0.70"
           },
           {
             "label": "IP",
-            "value": "36.7"
+            "value": "38.3"
           }
         ],
         "metaLine": "JR / N/A",
@@ -2173,33 +2173,33 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "18",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/brenden-stressler/27529",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-stressler.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 31,
-        "battingAverage": 0.246,
-        "onBasePercentage": 0.333,
+        "gamesPlayed": 37,
+        "gamesStarted": 32,
+        "battingAverage": 0.248,
+        "onBasePercentage": 0.338,
         "sluggingPercentage": 0.322,
-        "ops": 0.655,
-        "atBats": 118,
+        "ops": 0.66,
+        "atBats": 121,
         "runs": 17,
-        "hits": 29,
+        "hits": 30,
         "doubles": 3,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 13,
-        "totalBases": 38,
-        "walks": 14,
+        "totalBases": 39,
+        "walks": 15,
         "hitByPitch": 2,
-        "strikeouts": 33,
+        "strikeouts": 34,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 3,
-        "putouts": 45,
+        "putouts": 46,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 141,
+        "plateAppearances": 145,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -2211,47 +2211,47 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "18",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/brenden-stressler/27529",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-stressler.jpg",
-        "gamesPlayed": 23,
-        "gamesStarted": 21,
-        "putouts": 45,
+        "gamesPlayed": 24,
+        "gamesStarted": 22,
+        "putouts": 46,
         "assists": 1,
         "errors": 2,
-        "fieldingPercentage": 0.958,
+        "fieldingPercentage": 0.959,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 48
+        "totalChances": 49
       },
       "evaluation": {
-        "score": 16,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 29.44444444444444,
+          "On-base": 32.22222222222222,
           "Power": 0.5263157894736847,
-          "Contact": 16.249999999999996,
-          "Discipline": 24.915824915824913,
+          "Contact": 17.5,
+          "Discipline": 26.797385620915026,
           "Speed": 3.3333333333333335
         },
         "summary": "Brenden Stressler gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .246",
-          "OBP .333",
+          "AVG .248",
+          "OBP .338",
           "SLG .322"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".246"
+            "value": ".248"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".338"
           },
           {
             "label": "SLG",
@@ -2460,13 +2460,13 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "20",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/dane-morrow/27522",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-morrow.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 10,
-        "battingAverage": 0.277,
-        "onBasePercentage": 0.339,
-        "sluggingPercentage": 0.468,
-        "ops": 0.807,
-        "atBats": 47,
+        "gamesPlayed": 32,
+        "gamesStarted": 11,
+        "battingAverage": 0.26,
+        "onBasePercentage": 0.333,
+        "sluggingPercentage": 0.44,
+        "ops": 0.773,
+        "atBats": 50,
         "runs": 11,
         "hits": 13,
         "doubles": 3,
@@ -2474,19 +2474,19 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "homeRuns": 2,
         "runsBattedIn": 7,
         "totalBases": 22,
-        "walks": 6,
+        "walks": 7,
         "hitByPitch": 0,
-        "strikeouts": 18,
+        "strikeouts": 20,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 26,
+        "putouts": 27,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 59,
+        "plateAppearances": 63,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2498,9 +2498,9 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "20",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/dane-morrow/27522",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-morrow.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 7,
-        "putouts": 26,
+        "gamesPlayed": 15,
+        "gamesStarted": 8,
+        "putouts": 27,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -2510,39 +2510,39 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 27
+        "totalChances": 28
       },
       "evaluation": {
-        "score": 30,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 32.77777777777778,
-          "Power": 38.947368421052644,
-          "Contact": 35.625000000000014,
-          "Discipline": 14.814814814814808,
+          "On-base": 29.44444444444444,
+          "Power": 31.578947368421055,
+          "Contact": 25.000000000000007,
+          "Discipline": 16.66666666666666,
           "Speed": 10
         },
         "summary": "Dane Morrow gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .339",
-          "SLG .468"
+          "AVG .260",
+          "OBP .333",
+          "SLG .440"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".260"
           },
           {
             "label": "OBP",
-            "value": ".339"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".468"
+            "value": ".440"
           },
           {
             "label": "HR",
@@ -3034,13 +3034,13 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "24",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/elie-kligman/27514",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-kligman.jpg",
-        "gamesPlayed": 21,
-        "gamesStarted": 12,
-        "battingAverage": 0.245,
-        "onBasePercentage": 0.321,
-        "sluggingPercentage": 0.347,
-        "ops": 0.668,
-        "atBats": 49,
+        "gamesPlayed": 22,
+        "gamesStarted": 13,
+        "battingAverage": 0.231,
+        "onBasePercentage": 0.317,
+        "sluggingPercentage": 0.327,
+        "ops": 0.644,
+        "atBats": 52,
         "runs": 6,
         "hits": 12,
         "doubles": 2,
@@ -3049,18 +3049,18 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "runsBattedIn": 5,
         "totalBases": 17,
         "walks": 5,
-        "hitByPitch": 1,
+        "hitByPitch": 2,
         "strikeouts": 12,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
+        "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 100,
+        "putouts": 112,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 58,
+        "plateAppearances": 62,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3072,51 +3072,51 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "24",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/elie-kligman/27514",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-kligman.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 12,
-        "putouts": 100,
-        "assists": 15,
+        "gamesPlayed": 18,
+        "gamesStarted": 13,
+        "putouts": 112,
+        "assists": 16,
         "errors": 2,
-        "fieldingPercentage": 0.983,
+        "fieldingPercentage": 0.985,
         "doublePlays": 1,
         "stolenBasesAgainst": 9,
         "caughtStealingBy": 7,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 117
+        "totalChances": 130
       },
       "evaluation": {
-        "score": 16,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 22.777777777777768,
-          "Power": 7.10526315789473,
-          "Contact": 15.624999999999996,
+          "On-base": 20.555555555555543,
+          "Power": 1.8421052631578967,
+          "Contact": 6.875000000000006,
           "Discipline": 24.07407407407407,
           "Speed": 3.3333333333333335
         },
         "summary": "Elie Kligman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .245",
-          "OBP .321",
-          "SLG .347"
+          "AVG .231",
+          "OBP .317",
+          "SLG .327"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".245"
+            "value": ".231"
           },
           {
             "label": "OBP",
-            "value": ".321"
+            "value": ".317"
           },
           {
             "label": "SLG",
-            "value": ".347"
+            "value": ".327"
           },
           {
             "label": "HR",
@@ -3466,13 +3466,13 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "27",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/jack-laffitte/27525",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-laffitte.jpg",
-        "gamesPlayed": 31,
+        "gamesPlayed": 32,
         "gamesStarted": 6,
-        "battingAverage": 0.256,
-        "onBasePercentage": 0.408,
-        "sluggingPercentage": 0.282,
-        "ops": 0.69,
-        "atBats": 39,
+        "battingAverage": 0.25,
+        "onBasePercentage": 0.4,
+        "sluggingPercentage": 0.275,
+        "ops": 0.675,
+        "atBats": 40,
         "runs": 5,
         "hits": 10,
         "doubles": 1,
@@ -3489,10 +3489,10 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "sacrificeHits": 1,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 10,
+        "putouts": 13,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 50,
+        "plateAppearances": 51,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3504,9 +3504,9 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "27",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/jack-laffitte/27525",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-laffitte.jpg",
-        "gamesPlayed": 5,
+        "gamesPlayed": 6,
         "gamesStarted": 1,
-        "putouts": 10,
+        "putouts": 13,
         "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -3516,39 +3516,39 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 12
+        "totalChances": 15
       },
       "evaluation": {
-        "score": 41,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 71.11111111111109,
+          "On-base": 66.66666666666666,
           "Power": 0,
-          "Contact": 22.500000000000004,
+          "Contact": 18.75,
           "Discipline": 100,
           "Speed": 0
         },
         "summary": "Jack Laffitte profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .256",
-          "OBP .408",
-          "SLG .282"
+          "AVG .250",
+          "OBP .400",
+          "SLG .275"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".256"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".408"
+            "value": ".400"
           },
           {
             "label": "SLG",
-            "value": ".282"
+            "value": ".275"
           },
           {
             "label": "HR",
@@ -4266,14 +4266,14 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "35",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/matthew-ossenfort/27530",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-ossenfort.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 23,
-        "battingAverage": 0.265,
-        "onBasePercentage": 0.376,
-        "sluggingPercentage": 0.347,
-        "ops": 0.723,
-        "atBats": 98,
-        "runs": 17,
+        "gamesPlayed": 49,
+        "gamesStarted": 24,
+        "battingAverage": 0.26,
+        "onBasePercentage": 0.375,
+        "sluggingPercentage": 0.34,
+        "ops": 0.715,
+        "atBats": 100,
+        "runs": 18,
         "hits": 26,
         "doubles": 5,
         "triples": 0,
@@ -4281,7 +4281,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "runsBattedIn": 11,
         "totalBases": 34,
         "walks": 16,
-        "hitByPitch": 2,
+        "hitByPitch": 3,
         "strikeouts": 25,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
@@ -4289,10 +4289,10 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 232,
+        "putouts": 237,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 117,
+        "plateAppearances": 120,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4304,9 +4304,9 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "35",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/matthew-ossenfort/27530",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-ossenfort.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 23,
-        "putouts": 232,
+        "gamesPlayed": 44,
+        "gamesStarted": 24,
+        "putouts": 237,
         "assists": 5,
         "errors": 1,
         "fieldingPercentage": 0.996,
@@ -4316,39 +4316,39 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 238
+        "totalChances": 243
       },
       "evaluation": {
-        "score": 31,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 53.33333333333332,
-          "Power": 7.10526315789473,
-          "Contact": 28.125000000000007,
+          "On-base": 52.77777777777777,
+          "Power": 5.263157894736848,
+          "Contact": 25.000000000000007,
           "Discipline": 48.88888888888888,
           "Speed": 0
         },
         "summary": "Matthew Ossenfort gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .265",
-          "OBP .376",
-          "SLG .347"
+          "AVG .260",
+          "OBP .375",
+          "SLG .340"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".265"
+            "value": ".260"
           },
           {
             "label": "OBP",
-            "value": ".376"
+            "value": ".375"
           },
           {
             "label": "SLG",
-            "value": ".347"
+            "value": ".340"
           },
           {
             "label": "HR",
@@ -4786,23 +4786,23 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "40",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/cooper-mullens/27466",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-mullens.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 15,
-        "battingAverage": 0.296,
-        "onBasePercentage": 0.405,
-        "sluggingPercentage": 0.366,
-        "ops": 0.771,
-        "atBats": 71,
-        "runs": 16,
-        "hits": 21,
+        "gamesPlayed": 36,
+        "gamesStarted": 16,
+        "battingAverage": 0.289,
+        "onBasePercentage": 0.393,
+        "sluggingPercentage": 0.355,
+        "ops": 0.748,
+        "atBats": 76,
+        "runs": 17,
+        "hits": 22,
         "doubles": 5,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 8,
-        "totalBases": 26,
+        "totalBases": 27,
         "walks": 11,
         "hitByPitch": 2,
-        "strikeouts": 15,
+        "strikeouts": 16,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 0,
@@ -4812,7 +4812,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "putouts": 6,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 90,
+        "plateAppearances": 95,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4839,36 +4839,36 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "totalChances": 7
       },
       "evaluation": {
-        "score": 43,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 69.44444444444444,
-          "Power": 12.105263157894735,
-          "Contact": 47.499999999999986,
-          "Discipline": 59.25925925925923,
+          "On-base": 62.77777777777778,
+          "Power": 9.210526315789469,
+          "Contact": 43.124999999999986,
+          "Discipline": 54.166666666666664,
           "Speed": 6.666666666666667
         },
-        "summary": "Cooper Mullens profiles as a INF piece who gets on base at a high clip.",
+        "summary": "Cooper Mullens gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .296",
-          "OBP .405",
-          "SLG .366"
+          "AVG .289",
+          "OBP .393",
+          "SLG .355"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".296"
+            "value": ".289"
           },
           {
             "label": "OBP",
-            "value": ".405"
+            "value": ".393"
           },
           {
             "label": "SLG",
-            "value": ".366"
+            "value": ".355"
           },
           {
             "label": "HR",
@@ -5392,9 +5392,9 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "49",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/erik-puodziunas/27471",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-puodziunas.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 4,
-        "appearances": 10,
+        "appearances": 11,
         "gamesCompleted": 0,
         "earnedRunAverage": 4.91,
         "whip": 1.41,
@@ -5621,13 +5621,13 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "jersey": "51",
         "profileUrl": "https://mgoblue.com/sports/baseball/roster/joonsung-park/27470",
         "imageUrl": "https://mgoblue.com/images/2025/11/12/20251112-bsb-park.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 11,
-        "battingAverage": 0.244,
-        "onBasePercentage": 0.37,
-        "sluggingPercentage": 0.422,
-        "ops": 0.792,
-        "atBats": 45,
+        "battingAverage": 0.239,
+        "onBasePercentage": 0.364,
+        "sluggingPercentage": 0.413,
+        "ops": 0.777,
+        "atBats": 46,
         "runs": 8,
         "hits": 11,
         "doubles": 5,
@@ -5637,7 +5637,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "totalBases": 19,
         "walks": 8,
         "hitByPitch": 1,
-        "strikeouts": 17,
+        "strikeouts": 18,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
@@ -5647,7 +5647,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "putouts": 0,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 54,
+        "plateAppearances": 55,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -5674,36 +5674,36 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "totalChances": 1
       },
       "evaluation": {
-        "score": 30,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 49.999999999999986,
-          "Power": 26.842105263157894,
-          "Contact": 14.999999999999996,
-          "Discipline": 30.065359477124176,
+          "On-base": 46.66666666666665,
+          "Power": 24.47368421052631,
+          "Contact": 11.874999999999993,
+          "Discipline": 27.160493827160487,
           "Speed": 0
         },
         "summary": "Joonsung Park gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .244",
-          "OBP .370",
-          "SLG .422"
+          "AVG .239",
+          "OBP .364",
+          "SLG .413"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".244"
+            "value": ".239"
           },
           {
             "label": "OBP",
-            "value": ".370"
+            "value": ".364"
           },
           {
             "label": "SLG",
-            "value": ".422"
+            "value": ".413"
           },
           {
             "label": "HR",
@@ -5746,29 +5746,29 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "position": "OF",
         "classYear": "R-SO",
         "handedness": "N/A",
-        "score": 60,
+        "score": 63,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Evan Haeger profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .292",
-          "OBP .433",
-          "SLG .526"
+          "AVG .300",
+          "OBP .440",
+          "SLG .536"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".433"
+            "value": ".440"
           },
           {
             "label": "SLG",
-            "value": ".526"
+            "value": ".536"
           },
           {
             "label": "HR",
@@ -5776,19 +5776,19 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "25"
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "components": {
-          "On-base": 84.99999999999999,
-          "Power": 54.21052631578949,
-          "Contact": 44.999999999999986,
-          "Discipline": 64.49864498644986,
-          "Speed": 13.333333333333334
+          "On-base": 88.88888888888889,
+          "Power": 56.842105263157904,
+          "Contact": 49.999999999999986,
+          "Discipline": 67.20867208672087,
+          "Speed": 16.666666666666664
         },
         "metaLine": "R-SO / N/A",
         "detailBadges": [
@@ -5815,29 +5815,29 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 67,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Brayden Jefferis profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .351",
-          "OBP .442",
-          "SLG .455"
+          "AVG .349",
+          "OBP .439",
+          "SLG .451"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".351"
+            "value": ".349"
           },
           {
             "label": "OBP",
-            "value": ".442"
+            "value": ".439"
           },
           {
             "label": "SLG",
-            "value": ".455"
+            "value": ".451"
           },
           {
             "label": "HR",
@@ -5853,10 +5853,10 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
           }
         ],
         "components": {
-          "On-base": 89.99999999999999,
-          "Power": 35.52631578947369,
-          "Contact": 81.87499999999999,
-          "Discipline": 84.05797101449275,
+          "On-base": 88.33333333333331,
+          "Power": 34.47368421052632,
+          "Contact": 80.62499999999999,
+          "Discipline": 79.6296296296296,
           "Speed": 23.333333333333332
         },
         "metaLine": "SO / N/A",
@@ -5953,29 +5953,29 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "position": "C",
         "classYear": "R-SO",
         "handedness": "N/A",
-        "score": 37,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Noah Miller gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .289",
-          "OBP .386",
-          "SLG .385"
+          "AVG .287",
+          "OBP .384",
+          "SLG .382"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": ".287"
           },
           {
             "label": "OBP",
-            "value": ".386"
+            "value": ".384"
           },
           {
             "label": "SLG",
-            "value": ".385"
+            "value": ".382"
           },
           {
             "label": "HR",
@@ -5991,10 +5991,10 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
           }
         ],
         "components": {
-          "On-base": 58.88888888888888,
-          "Power": 17.10526315789474,
-          "Contact": 43.124999999999986,
-          "Discipline": 40,
+          "On-base": 57.77777777777777,
+          "Power": 16.315789473684212,
+          "Contact": 41.874999999999986,
+          "Discipline": 37.606837606837594,
           "Speed": 6.666666666666667
         },
         "metaLine": "R-SO / N/A",
@@ -6022,48 +6022,48 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 10,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "David Lally Jr. gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.23",
-          "WHIP 1.27",
-          "K/9 7.5"
+          "ERA 4.40",
+          "WHIP 1.26",
+          "K/9 7.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.23"
+            "value": "4.40"
           },
           {
             "label": "WHIP",
-            "value": "1.27"
+            "value": "1.26"
           },
           {
             "label": "K/9",
-            "value": "7.5"
+            "value": "7.9"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
-            "value": "1.30"
+            "value": "1.52"
           },
           {
             "label": "IP",
-            "value": "55.3"
+            "value": "59.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 31.653888280394305,
-          "Command": 23.809523809523814,
+          "Miss bats": 35.342185903983655,
+          "Command": 27.272727272727266,
           "Damage suppression": 0
         },
         "metaLine": "SR / N/A",
@@ -6229,29 +6229,29 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 15,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Drew Culbertson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .204",
-          "OBP .339",
-          "SLG .282"
+          "AVG .201",
+          "OBP .333",
+          "SLG .278"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".204"
+            "value": ".201"
           },
           {
             "label": "OBP",
-            "value": ".339"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".282"
+            "value": ".278"
           },
           {
             "label": "HR",
@@ -6259,7 +6259,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "18"
           },
           {
             "label": "SB",
@@ -6267,7 +6267,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
           }
         ],
         "components": {
-          "On-base": 32.77777777777778,
+          "On-base": 29.44444444444444,
           "Power": 0,
           "Contact": 0,
           "Discipline": 20.330969267139476,
@@ -6436,48 +6436,48 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 9,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Max Debiec gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.58",
-          "WHIP 2.00",
-          "K/9 8.5"
+          "ERA 7.17",
+          "WHIP 1.83",
+          "K/9 8.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.58"
+            "value": "7.17"
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "1.83"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "8.9"
           },
           {
             "label": "BB/9",
-            "value": "7.1"
+            "value": "6.3"
           },
           {
             "label": "HR/9",
-            "value": "0.95"
+            "value": "1.27"
           },
           {
             "label": "IP",
-            "value": "19.0"
+            "value": "21.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 41.148325358851686,
-          "Command": 3.9999999999999996,
+          "Miss bats": 44.17613636363637,
+          "Command": 7.999999999999999,
           "Damage suppression": 0
         },
         "metaLine": "SR / N/A",
@@ -6505,29 +6505,29 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 82,
+        "score": 84,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Colby Turner profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .383",
-          "OBP .445",
-          "SLG .677"
+          "AVG .382",
+          "OBP .449",
+          "SLG .672"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".383"
+            "value": ".382"
           },
           {
             "label": "OBP",
-            "value": ".445"
+            "value": ".449"
           },
           {
             "label": "SLG",
-            "value": ".677"
+            "value": ".672"
           },
           {
             "label": "HR",
@@ -6539,15 +6539,15 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
           },
           {
             "label": "SB",
-            "value": "10"
+            "value": "11"
           }
         ],
         "components": {
-          "On-base": 91.66666666666666,
-          "Power": 93.94736842105266,
+          "On-base": 93.88888888888889,
+          "Power": 92.63157894736844,
           "Contact": 100,
-          "Discipline": 51.85185185185184,
-          "Speed": 33.33333333333333
+          "Discipline": 57.14285714285713,
+          "Speed": 36.666666666666664
         },
         "metaLine": "JR / N/A",
         "detailBadges": [
@@ -6643,48 +6643,48 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 7,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Gavin DeVooght gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.42",
-          "WHIP 1.55",
-          "K/9 7.4"
+          "ERA 4.46",
+          "WHIP 1.57",
+          "K/9 8.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.42"
+            "value": "4.46"
           },
           {
             "label": "WHIP",
-            "value": "1.55"
+            "value": "1.57"
           },
           {
             "label": "K/9",
-            "value": "7.4"
+            "value": "8.0"
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
-            "value": "0.74"
+            "value": "0.70"
           },
           {
             "label": "IP",
-            "value": "36.7"
+            "value": "38.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 30.57851239669422,
-          "Command": 8.571428571428571,
+          "Miss bats": 36.20553359683794,
+          "Command": 12.380952380952381,
           "Damage suppression": 0
         },
         "metaLine": "JR / N/A",
@@ -6712,25 +6712,25 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 16,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brenden Stressler gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .246",
-          "OBP .333",
+          "AVG .248",
+          "OBP .338",
           "SLG .322"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".246"
+            "value": ".248"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".338"
           },
           {
             "label": "SLG",
@@ -6750,10 +6750,10 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
           }
         ],
         "components": {
-          "On-base": 29.44444444444444,
+          "On-base": 32.22222222222222,
           "Power": 0.5263157894736847,
-          "Contact": 16.249999999999996,
-          "Discipline": 24.915824915824913,
+          "Contact": 17.5,
+          "Discipline": 26.797385620915026,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / N/A",
@@ -6850,29 +6850,29 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "position": "INF",
         "classYear": "R-FR",
         "handedness": "N/A",
-        "score": 30,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dane Morrow gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .339",
-          "SLG .468"
+          "AVG .260",
+          "OBP .333",
+          "SLG .440"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".260"
           },
           {
             "label": "OBP",
-            "value": ".339"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".468"
+            "value": ".440"
           },
           {
             "label": "HR",
@@ -6888,10 +6888,10 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
           }
         ],
         "components": {
-          "On-base": 32.77777777777778,
-          "Power": 38.947368421052644,
-          "Contact": 35.625000000000014,
-          "Discipline": 14.814814814814808,
+          "On-base": 29.44444444444444,
+          "Power": 31.578947368421055,
+          "Contact": 25.000000000000007,
+          "Discipline": 16.66666666666666,
           "Speed": 10
         },
         "metaLine": "R-FR / N/A",
@@ -7126,29 +7126,29 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "position": "C",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 16,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Elie Kligman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .245",
-          "OBP .321",
-          "SLG .347"
+          "AVG .231",
+          "OBP .317",
+          "SLG .327"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".245"
+            "value": ".231"
           },
           {
             "label": "OBP",
-            "value": ".321"
+            "value": ".317"
           },
           {
             "label": "SLG",
-            "value": ".347"
+            "value": ".327"
           },
           {
             "label": "HR",
@@ -7164,9 +7164,9 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
           }
         ],
         "components": {
-          "On-base": 22.777777777777768,
-          "Power": 7.10526315789473,
-          "Contact": 15.624999999999996,
+          "On-base": 20.555555555555543,
+          "Power": 1.8421052631578967,
+          "Contact": 6.875000000000006,
           "Discipline": 24.07407407407407,
           "Speed": 3.3333333333333335
         },
@@ -7333,29 +7333,29 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 41,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Laffitte profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .256",
-          "OBP .408",
-          "SLG .282"
+          "AVG .250",
+          "OBP .400",
+          "SLG .275"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".256"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".408"
+            "value": ".400"
           },
           {
             "label": "SLG",
-            "value": ".282"
+            "value": ".275"
           },
           {
             "label": "HR",
@@ -7371,9 +7371,9 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
           }
         ],
         "components": {
-          "On-base": 71.11111111111109,
+          "On-base": 66.66666666666666,
           "Power": 0,
-          "Contact": 22.500000000000004,
+          "Contact": 18.75,
           "Discipline": 100,
           "Speed": 0
         },
@@ -7746,29 +7746,29 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 31,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Matthew Ossenfort gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .265",
-          "OBP .376",
-          "SLG .347"
+          "AVG .260",
+          "OBP .375",
+          "SLG .340"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".265"
+            "value": ".260"
           },
           {
             "label": "OBP",
-            "value": ".376"
+            "value": ".375"
           },
           {
             "label": "SLG",
-            "value": ".347"
+            "value": ".340"
           },
           {
             "label": "HR",
@@ -7784,9 +7784,9 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
           }
         ],
         "components": {
-          "On-base": 53.33333333333332,
-          "Power": 7.10526315789473,
-          "Contact": 28.125000000000007,
+          "On-base": 52.77777777777777,
+          "Power": 5.263157894736848,
+          "Contact": 25.000000000000007,
           "Discipline": 48.88888888888888,
           "Speed": 0
         },
@@ -8021,29 +8021,29 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "position": "INF",
         "classYear": "R-SO",
         "handedness": "N/A",
-        "score": 43,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cooper Mullens profiles as a INF piece who gets on base at a high clip.",
+        "summary": "Cooper Mullens gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .296",
-          "OBP .405",
-          "SLG .366"
+          "AVG .289",
+          "OBP .393",
+          "SLG .355"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".296"
+            "value": ".289"
           },
           {
             "label": "OBP",
-            "value": ".405"
+            "value": ".393"
           },
           {
             "label": "SLG",
-            "value": ".366"
+            "value": ".355"
           },
           {
             "label": "HR",
@@ -8059,10 +8059,10 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
           }
         ],
         "components": {
-          "On-base": 69.44444444444444,
-          "Power": 12.105263157894735,
-          "Contact": 47.499999999999986,
-          "Discipline": 59.25925925925923,
+          "On-base": 62.77777777777778,
+          "Power": 9.210526315789469,
+          "Contact": 43.124999999999986,
+          "Discipline": 54.166666666666664,
           "Speed": 6.666666666666667
         },
         "metaLine": "R-SO / N/A",
@@ -8501,29 +8501,29 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 30,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Joonsung Park gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .244",
-          "OBP .370",
-          "SLG .422"
+          "AVG .239",
+          "OBP .364",
+          "SLG .413"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".244"
+            "value": ".239"
           },
           {
             "label": "OBP",
-            "value": ".370"
+            "value": ".364"
           },
           {
             "label": "SLG",
-            "value": ".422"
+            "value": ".413"
           },
           {
             "label": "HR",
@@ -8539,10 +8539,10 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
           }
         ],
         "components": {
-          "On-base": 49.999999999999986,
-          "Power": 26.842105263157894,
-          "Contact": 14.999999999999996,
-          "Discipline": 30.065359477124176,
+          "On-base": 46.66666666666665,
+          "Power": 24.47368421052631,
+          "Contact": 11.874999999999993,
+          "Discipline": 27.160493827160487,
           "Speed": 0
         },
         "metaLine": "JR / N/A",

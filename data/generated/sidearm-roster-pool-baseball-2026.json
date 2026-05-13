@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T12:18:21.074Z",
+  "generatedAt": "2026-05-13T12:25:09.013Z",
   "season": 2026,
   "source": "Generated Sidearm baseball roster pool",
   "note": "This compact roster-only pool captures public school-site baseball rosters so non-appearing players can still enter coverage before they log a reachable NCAA boxscore.",
@@ -114,7 +114,7 @@
       "slug": "delaware",
       "name": "Delaware",
       "longName": "University of Delaware",
-      "rosterPlayers": 37,
+      "rosterPlayers": 36,
       "rosterUrl": "https://bluehens.com/sports/baseball/roster"
     },
     {
@@ -443,7 +443,7 @@
       "slug": "toledo",
       "name": "Toledo",
       "longName": "University of Toledo",
-      "rosterPlayers": 35,
+      "rosterPlayers": 34,
       "rosterUrl": "https://utrockets.com/sports/baseball/roster"
     },
     {
@@ -514,10 +514,10 @@
     "schoolsRequested": 73,
     "schoolsLoaded": 72,
     "schoolsFailed": 1,
-    "totalPlayers": 2744,
+    "totalPlayers": 2742,
     "roleCounts": {
-      "Hitter": 1371,
-      "Pitcher": 1373
+      "Hitter": 1370,
+      "Pitcher": 1372
     },
     "failures": [
       {
@@ -3537,20 +3537,6 @@
       "Whiteford",
       "Albion College",
       "https://utrockets.com/sports/baseball/roster/cole-giesige/10288"
-    ],
-    [
-      "toledo-10289",
-      "toledo",
-      "Luke Riha",
-      "Pitcher",
-      "RHP",
-      "FR",
-      "R/R",
-      "26",
-      "Fort Wayne, Ind.",
-      "Homestead",
-      "",
-      "https://utrockets.com/sports/baseball/roster/luke-riha/10289"
     ],
     [
       "toledo-10264",
@@ -12231,20 +12217,6 @@
       "Highland",
       "",
       "https://bluehens.com/sports/baseball/roster/vincent-davis/30232"
-    ],
-    [
-      "delaware-30517",
-      "delaware",
-      "Noah Burroughs",
-      "Hitter",
-      "OF",
-      "SO",
-      "",
-      "17",
-      "Millsboro, Del.",
-      "Sussex Central",
-      "",
-      "https://bluehens.com/sports/baseball/roster/noah-burroughs/30517"
     ],
     [
       "delaware-30518",

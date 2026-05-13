@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T12:17:10.055Z",
+  "generatedAt": "2026-05-13T12:24:09.166Z",
   "season": 2026,
   "school": {
     "slug": "delaware",
@@ -24,19 +24,23 @@
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 37,
+    "rosterPlayers": 36,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 14,
+    "playersWithHittingStats": 13,
     "playersWithPitchingStats": 18,
-    "playersWithFieldingStats": 28,
-    "mergedPlayersWithAnyStats": 31,
+    "playersWithFieldingStats": 27,
+    "mergedPlayersWithAnyStats": 30,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
-      "hitting": [],
+      "hitting": [
+        "Noah Burroughs"
+      ],
       "pitching": [
         "Tm"
       ],
-      "fielding": []
+      "fielding": [
+        "Noah Burroughs"
+      ]
     }
   },
   "teamSummary": {
@@ -2115,151 +2119,6 @@
         "detailBadges": [
           "INF/OF",
           "JR",
-          "N/A",
-          "Hitter"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats"
-      }
-    },
-    {
-      "id": "delaware-30517",
-      "schoolSlug": "delaware",
-      "school": "Delaware",
-      "schoolLongName": "University of Delaware",
-      "name": "Noah Burroughs",
-      "normalizedName": "noah burroughs",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfield",
-      "classYear": "SO",
-      "handedness": "N/A",
-      "jersey": "17",
-      "hometown": "Millsboro, Del.",
-      "highSchool": "Sussex Central",
-      "previousSchool": "",
-      "hometownHighSchool": "Millsboro, Del. / Sussex Central",
-      "profileUrl": "https://bluehens.com/sports/baseball/roster/noah-burroughs/30517",
-      "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Noah_Burroughs_LgkEE.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "30517",
-      "sources": [
-        "Delaware Athletics roster",
-        "Delaware cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "30517",
-        "name": "Noah Burroughs",
-        "normalizedName": "noah burroughs",
-        "jersey": "17",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/noah-burroughs/30517",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Noah_Burroughs_LgkEE.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 39,
-        "battingAverage": 0.22,
-        "onBasePercentage": 0.292,
-        "sluggingPercentage": 0.367,
-        "ops": 0.659,
-        "atBats": 150,
-        "runs": 19,
-        "hits": 33,
-        "doubles": 3,
-        "triples": 2,
-        "homeRuns": 5,
-        "runsBattedIn": 26,
-        "totalBases": 55,
-        "walks": 13,
-        "hitByPitch": 3,
-        "strikeouts": 45,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 6,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 0,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 3,
-        "putouts": 56,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 172,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "30517",
-        "name": "Noah Burroughs",
-        "normalizedName": "noah burroughs",
-        "jersey": "17",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/noah-burroughs/30517",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Noah_Burroughs_LgkEE.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 27,
-        "putouts": 56,
-        "assists": 6,
-        "errors": 2,
-        "fieldingPercentage": 0.969,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 64
-      },
-      "evaluation": {
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 6.666666666666641,
-          "Power": 12.368421052631577,
-          "Contact": 0,
-          "Discipline": 9.876543209876537,
-          "Speed": 6.666666666666667
-        },
-        "summary": "Noah Burroughs gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .220",
-          "OBP .292",
-          "SLG .367"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".220"
-          },
-          {
-            "label": "OBP",
-            "value": ".292"
-          },
-          {
-            "label": "SLG",
-            "value": ".367"
-          },
-          {
-            "label": "HR",
-            "value": "5"
-          },
-          {
-            "label": "RBI",
-            "value": "26"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "OF",
-          "SO",
           "N/A",
           "Hitter"
         ],
@@ -5073,9 +4932,9 @@
   "playerBoard": {
     "source": "Delaware Athletics roster + cumulative stats / ESPN roster",
     "note": "This Delaware-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Delaware's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 37,
+    "totalPlayers": 36,
     "roleCounts": {
-      "Hitter": 17,
+      "Hitter": 16,
       "Pitcher": 20
     },
     "players": [
@@ -6042,75 +5901,6 @@
         "schoolSlug": "delaware",
         "compositeRole": "Hitter",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/vincent-davis/30232",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "delaware-30517",
-        "name": "Noah Burroughs",
-        "school": "Delaware",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Noah Burroughs gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .220",
-          "OBP .292",
-          "SLG .367"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".220"
-          },
-          {
-            "label": "OBP",
-            "value": ".292"
-          },
-          {
-            "label": "SLG",
-            "value": ".367"
-          },
-          {
-            "label": "HR",
-            "value": "5"
-          },
-          {
-            "label": "RBI",
-            "value": "26"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 6.666666666666641,
-          "Power": 12.368421052631577,
-          "Contact": 0,
-          "Discipline": 9.876543209876537,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Delaware Athletics roster",
-          "Delaware cumulative stats"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats",
-        "schoolSlug": "delaware",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/noah-burroughs/30517",
         "espnAthleteId": ""
       },
       {
