@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.uconn2026 = {
-  "generatedAt": "2026-05-13T12:24:05.284Z",
+  "generatedAt": "2026-05-14T12:05:44.851Z",
   "season": 2026,
   "school": {
     "slug": "uconn",
@@ -25,17 +25,21 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 39,
+    "rosterPlayers": 38,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 16,
-    "playersWithPitchingStats": 21,
-    "playersWithFieldingStats": 31,
-    "mergedPlayersWithAnyStats": 36,
+    "playersWithPitchingStats": 20,
+    "playersWithFieldingStats": 30,
+    "mergedPlayersWithAnyStats": 35,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
       "hitting": [],
-      "pitching": [],
-      "fielding": []
+      "pitching": [
+        "38"
+      ],
+      "fielding": [
+        "38"
+      ]
     }
   },
   "teamSummary": {
@@ -4106,148 +4110,6 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
       }
     },
     {
-      "id": "uconn-15466",
-      "schoolSlug": "uconn",
-      "school": "Connecticut",
-      "schoolLongName": "University of Connecticut",
-      "name": "JT Caruso",
-      "normalizedName": "jt caruso",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left-Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "N/A",
-      "jersey": "38",
-      "hometown": "Mount Sinai, N.Y.",
-      "highSchool": "Mount Sinai",
-      "previousSchool": "Miami (FL)",
-      "hometownHighSchool": "Mount Sinai, N.Y. / Mount Sinai",
-      "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/jt-caruso/15466",
-      "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Caruso__JT_Suit.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "15466",
-      "sources": [
-        "Connecticut Athletics roster",
-        "Connecticut cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "15466",
-        "name": "JT Caruso",
-        "normalizedName": "jt caruso",
-        "jersey": "38",
-        "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/jt-caruso/15466",
-        "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Caruso__JT_Suit.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 0,
-        "appearances": 5,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 20.25,
-        "whip": 3,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 1.3333333333333333,
-        "inningsPitchedDisplay": "1.1",
-        "hitsAllowed": 2,
-        "runsAllowed": 4,
-        "earnedRunsAllowed": 3,
-        "walksAllowed": 2,
-        "strikeouts": 0,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 6,
-        "wildPitches": 0,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.333,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "15466",
-        "name": "JT Caruso",
-        "normalizedName": "jt caruso",
-        "jersey": "38",
-        "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/jt-caruso/15466",
-        "imageUrl": "https://uconnhuskies.com/images/2026/1/8/Caruso__JT_Suit.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "JT Caruso gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 20.25",
-          "WHIP 3.00",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "20.25"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.00"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "13.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "1.3"
-          }
-        ],
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "LHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "Connecticut Athletics roster + Connecticut cumulative stats"
-      }
-    },
-    {
       "id": "uconn-15476",
       "schoolSlug": "uconn",
       "school": "Connecticut",
@@ -5484,10 +5346,10 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
   "playerBoard": {
     "source": "Connecticut Athletics roster + cumulative stats / ESPN roster",
     "note": "This Connecticut-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Connecticut's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 39,
+    "totalPlayers": 38,
     "roleCounts": {
       "Hitter": 16,
-      "Pitcher": 23
+      "Pitcher": 22
     },
     "players": [
       {
@@ -7487,75 +7349,6 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "schoolSlug": "uconn",
         "compositeRole": "Pitcher",
         "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/oliver-pudvar/15477",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uconn-15466",
-        "name": "JT Caruso",
-        "school": "Connecticut",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "JT Caruso gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 20.25",
-          "WHIP 3.00",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "20.25"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.00"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "13.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "1.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "LHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Connecticut Athletics roster",
-          "Connecticut cumulative stats"
-        ],
-        "sourceSummary": "Connecticut Athletics roster + Connecticut cumulative stats",
-        "schoolSlug": "uconn",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/jt-caruso/15466",
         "espnAthleteId": ""
       },
       {

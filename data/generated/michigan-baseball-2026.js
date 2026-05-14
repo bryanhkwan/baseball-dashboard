@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.michigan2026 = {
-  "generatedAt": "2026-05-13T12:24:26.268Z",
+  "generatedAt": "2026-05-14T12:06:08.499Z",
   "season": 2026,
   "school": {
     "slug": "michigan",
@@ -1604,27 +1604,27 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "gamesStarted": 1,
         "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.17,
-        "whip": 1.83,
+        "earnedRunAverage": 7.91,
+        "whip": 2.02,
         "wins": 0,
         "losses": 2,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 21.333333333333332,
-        "inningsPitchedDisplay": "21.1",
+        "inningsPitched": 19.333333333333332,
+        "inningsPitchedDisplay": "19.1",
         "hitsAllowed": 24,
         "runsAllowed": 17,
         "earnedRunsAllowed": 17,
         "walksAllowed": 15,
-        "strikeouts": 21,
+        "strikeouts": 18,
         "doublesAllowed": 7,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 80,
+        "opponentsAtBats": 74,
         "wildPitches": 2,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.3,
+        "opponentsBattingAverage": 0.324,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1649,7 +1649,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "totalChances": 4
       },
       "evaluation": {
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1657,40 +1657,40 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 44.17613636363637,
-          "Command": 7.999999999999999,
+          "Miss bats": 39.811912225705335,
+          "Command": 3.9999999999999996,
           "Damage suppression": 0
         },
         "summary": "Max Debiec gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.17",
-          "WHIP 1.83",
-          "K/9 8.9"
+          "ERA 7.91",
+          "WHIP 2.02",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.17"
+            "value": "7.91"
           },
           {
             "label": "WHIP",
-            "value": "1.83"
+            "value": "2.02"
           },
           {
             "label": "K/9",
-            "value": "8.9"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "6.3"
+            "value": "7.0"
           },
           {
             "label": "HR/9",
-            "value": "1.27"
+            "value": "1.40"
           },
           {
             "label": "IP",
-            "value": "21.3"
+            "value": "19.3"
           }
         ],
         "metaLine": "SR / N/A",
@@ -5396,27 +5396,27 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "gamesStarted": 4,
         "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.91,
-        "whip": 1.41,
+        "earnedRunAverage": 4.5,
+        "whip": 1.29,
         "wins": 2,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 22,
-        "inningsPitchedDisplay": "22.0",
+        "inningsPitched": 24,
+        "inningsPitchedDisplay": "24.0",
         "hitsAllowed": 22,
         "runsAllowed": 12,
         "earnedRunsAllowed": 12,
         "walksAllowed": 9,
-        "strikeouts": 21,
+        "strikeouts": 24,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 87,
+        "opponentsAtBats": 93,
         "wildPitches": 2,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.253,
+        "opponentsBattingAverage": 0.237,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5441,7 +5441,7 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "totalChances": 1
       },
       "evaluation": {
-        "score": 13,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5449,40 +5449,40 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 41.73553719008265,
-          "Command": 26.66666666666667,
+          "Miss bats": 45.45454545454545,
+          "Command": 33.33333333333333,
           "Damage suppression": 0
         },
-        "summary": "Erik Puodziunas gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Erik Puodziunas looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.91",
-          "WHIP 1.41",
-          "K/9 8.6"
+          "ERA 4.50",
+          "WHIP 1.29",
+          "K/9 9.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.91"
+            "value": "4.50"
           },
           {
             "label": "WHIP",
-            "value": "1.41"
+            "value": "1.29"
           },
           {
             "label": "K/9",
-            "value": "8.6"
+            "value": "9.0"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
-            "value": "1.64"
+            "value": "1.50"
           },
           {
             "label": "IP",
-            "value": "22.0"
+            "value": "24.0"
           }
         ],
         "metaLine": "R-FR / N/A",
@@ -6436,48 +6436,48 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Max Debiec gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.17",
-          "WHIP 1.83",
-          "K/9 8.9"
+          "ERA 7.91",
+          "WHIP 2.02",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.17"
+            "value": "7.91"
           },
           {
             "label": "WHIP",
-            "value": "1.83"
+            "value": "2.02"
           },
           {
             "label": "K/9",
-            "value": "8.9"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "6.3"
+            "value": "7.0"
           },
           {
             "label": "HR/9",
-            "value": "1.27"
+            "value": "1.40"
           },
           {
             "label": "IP",
-            "value": "21.3"
+            "value": "19.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 44.17613636363637,
-          "Command": 7.999999999999999,
+          "Miss bats": 39.811912225705335,
+          "Command": 3.9999999999999996,
           "Damage suppression": 0
         },
         "metaLine": "SR / N/A",
@@ -8364,48 +8364,48 @@ window.__BASEBALL_DATASETS__.michigan2026 = {
         "position": "RHP",
         "classYear": "R-FR",
         "handedness": "N/A",
-        "score": 13,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Erik Puodziunas gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Erik Puodziunas looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.91",
-          "WHIP 1.41",
-          "K/9 8.6"
+          "ERA 4.50",
+          "WHIP 1.29",
+          "K/9 9.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.91"
+            "value": "4.50"
           },
           {
             "label": "WHIP",
-            "value": "1.41"
+            "value": "1.29"
           },
           {
             "label": "K/9",
-            "value": "8.6"
+            "value": "9.0"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
-            "value": "1.64"
+            "value": "1.50"
           },
           {
             "label": "IP",
-            "value": "22.0"
+            "value": "24.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 41.73553719008265,
-          "Command": 26.66666666666667,
+          "Miss bats": 45.45454545454545,
+          "Command": 33.33333333333333,
           "Damage suppression": 0
         },
         "metaLine": "R-FR / N/A",

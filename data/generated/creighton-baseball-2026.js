@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.creighton2026 = {
-  "generatedAt": "2026-05-13T12:24:06.218Z",
+  "generatedAt": "2026-05-14T12:05:45.631Z",
   "season": 2026,
   "school": {
     "slug": "creighton",

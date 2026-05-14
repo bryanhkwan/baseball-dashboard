@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T12:24:55.889Z",
+  "generatedAt": "2026-05-14T12:06:39.401Z",
   "season": 2026,
   "source": "Generated Sidearm baseball school-site pool",
   "note": "This generated free player pool combines verified public roster and cumulative stats pages from multiple Sidearm baseball programs. It is broader than Toledo alone, but still not a full every-school national directory yet.",
@@ -244,11 +244,11 @@
       "name": "Connecticut",
       "longName": "University of Connecticut",
       "record": "30-23, 13-5",
-      "totalPlayers": 39,
+      "totalPlayers": 38,
       "hitters": 16,
-      "pitchers": 23,
-      "rosterPlayers": 39,
-      "playersWithAnyStats": 36,
+      "pitchers": 22,
+      "rosterPlayers": 38,
+      "playersWithAnyStats": 35,
       "statsUrl": "https://uconnhuskies.com/sports/baseball/stats/2026",
       "rosterUrl": "https://uconnhuskies.com/sports/baseball/roster"
     },
@@ -943,18 +943,18 @@
     }
   ],
   "coverage": {
-    "totalPlayers": 2742,
+    "totalPlayers": 2741,
     "totalHitters": 1275,
-    "totalPitchers": 1467,
+    "totalPitchers": 1466,
     "schoolsCovered": 72
   },
   "playerBoard": {
     "source": "Generated Sidearm baseball school-site pool",
     "note": "This free generated pool comes from verified public school-site roster and cumulative stats pages across multiple Sidearm baseball programs.",
-    "totalPlayers": 2742,
+    "totalPlayers": 2741,
     "roleCounts": {
       "Hitter": 1275,
-      "Pitcher": 1467
+      "Pitcher": 1466
     },
     "players": [
       {
@@ -49172,75 +49172,6 @@
         "schoolSlug": "uconn",
         "compositeRole": "Pitcher",
         "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/oliver-pudvar/15477",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uconn-15466",
-        "name": "JT Caruso",
-        "school": "Connecticut",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "JT Caruso gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 20.25",
-          "WHIP 3.00",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "20.25"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.00"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "13.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "1.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "LHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Connecticut Athletics roster",
-          "Connecticut cumulative stats"
-        ],
-        "sourceSummary": "Connecticut Athletics roster + Connecticut cumulative stats",
-        "schoolSlug": "uconn",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uconnhuskies.com/sports/baseball/roster/jt-caruso/15466",
         "espnAthleteId": ""
       },
       {
@@ -104161,48 +104092,48 @@
         "position": "RHP",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Max Debiec gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.17",
-          "WHIP 1.83",
-          "K/9 8.9"
+          "ERA 7.91",
+          "WHIP 2.02",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.17"
+            "value": "7.91"
           },
           {
             "label": "WHIP",
-            "value": "1.83"
+            "value": "2.02"
           },
           {
             "label": "K/9",
-            "value": "8.9"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "6.3"
+            "value": "7.0"
           },
           {
             "label": "HR/9",
-            "value": "1.27"
+            "value": "1.40"
           },
           {
             "label": "IP",
-            "value": "21.3"
+            "value": "19.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 44.17613636363637,
-          "Command": 7.999999999999999,
+          "Miss bats": 39.811912225705335,
+          "Command": 3.9999999999999996,
           "Damage suppression": 0
         },
         "metaLine": "SR / N/A",
@@ -106089,48 +106020,48 @@
         "position": "RHP",
         "classYear": "R-FR",
         "handedness": "N/A",
-        "score": 13,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Erik Puodziunas gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Erik Puodziunas looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.91",
-          "WHIP 1.41",
-          "K/9 8.6"
+          "ERA 4.50",
+          "WHIP 1.29",
+          "K/9 9.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.91"
+            "value": "4.50"
           },
           {
             "label": "WHIP",
-            "value": "1.41"
+            "value": "1.29"
           },
           {
             "label": "K/9",
-            "value": "8.6"
+            "value": "9.0"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
-            "value": "1.64"
+            "value": "1.50"
           },
           {
             "label": "IP",
-            "value": "22.0"
+            "value": "24.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 41.73553719008265,
-          "Command": 26.66666666666667,
+          "Miss bats": 45.45454545454545,
+          "Command": 33.33333333333333,
           "Damage suppression": 0
         },
         "metaLine": "R-FR / N/A",

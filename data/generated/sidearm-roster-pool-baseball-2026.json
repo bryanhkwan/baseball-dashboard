@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T12:25:09.013Z",
+  "generatedAt": "2026-05-14T12:06:52.084Z",
   "season": 2026,
   "source": "Generated Sidearm baseball roster pool",
   "note": "This compact roster-only pool captures public school-site baseball rosters so non-appearing players can still enter coverage before they log a reachable NCAA boxscore.",
@@ -86,7 +86,7 @@
       "slug": "uconn",
       "name": "Connecticut",
       "longName": "University of Connecticut",
-      "rosterPlayers": 39,
+      "rosterPlayers": 38,
       "rosterUrl": "https://uconnhuskies.com/sports/baseball/roster"
     },
     {
@@ -514,10 +514,10 @@
     "schoolsRequested": 73,
     "schoolsLoaded": 72,
     "schoolsFailed": 1,
-    "totalPlayers": 2742,
+    "totalPlayers": 2741,
     "roleCounts": {
       "Hitter": 1370,
-      "Pitcher": 1372
+      "Pitcher": 1371
     },
     "failures": [
       {
@@ -10327,20 +10327,6 @@
       "Champlain Valley Union",
       "Manhattan College",
       "https://uconnhuskies.com/sports/baseball/roster/oliver-pudvar/15477"
-    ],
-    [
-      "uconn-15466",
-      "uconn",
-      "JT Caruso",
-      "Pitcher",
-      "LHP",
-      "JR",
-      "",
-      "38",
-      "Mount Sinai, N.Y.",
-      "Mount Sinai",
-      "Miami (FL)",
-      "https://uconnhuskies.com/sports/baseball/roster/jt-caruso/15466"
     ],
     [
       "uconn-15476",
