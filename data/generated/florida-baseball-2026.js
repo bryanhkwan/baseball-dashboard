@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.florida2026 = {
-  "generatedAt": "2026-05-14T12:05:51.000Z",
+  "generatedAt": "2026-05-15T12:08:55.961Z",
   "season": 2026,
   "school": {
     "slug": "florida",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.florida2026 = {
     }
   },
   "teamSummary": {
-    "record": "34-18, 15-12",
-    "battingAverage": ".271",
-    "earnedRunAverage": "4.00",
-    "wins": "34",
+    "record": "35-18, 16-12",
+    "battingAverage": ".270",
+    "earnedRunAverage": "4.06",
+    "wins": "35",
     "losses": "18",
     "hitting": {
-      "atBats": "1725",
-      "runsScored": "351",
-      "hits": "467",
-      "runsBattedIn": "324",
-      "doubles": "91",
+      "atBats": "1760",
+      "runsScored": "362",
+      "hits": "475",
+      "runsBattedIn": "334",
+      "doubles": "93",
       "triples": "8",
-      "homeRuns": "73",
-      "walks": "238",
+      "homeRuns": "74",
+      "walks": "251",
       "intentionalWalks": "10",
-      "strikeouts": "415",
-      "strikeoutsLooking": "139",
-      "hitByPitch": "71",
-      "stolenBases": "42",
+      "strikeouts": "424",
+      "strikeoutsLooking": "144",
+      "hitByPitch": "73",
+      "stolenBases": "44",
       "caughtStealing": "13",
       "sacrificeHits": "11",
       "sacrificeFlies": "31",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "372",
-      "flyOuts": "474",
-      "groundedIntoDoublePlay": "23",
+      "groundOuts": "381",
+      "flyOuts": "482",
+      "groundedIntoDoublePlay": "24",
       "pickedOff": "4",
-      "doublePlaysHitInto": "25",
+      "doublePlaysHitInto": "26",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1362",
-      "assists": "399",
-      "errors": "55",
+      "putouts": "1389",
+      "assists": "405",
+      "errors": "56",
       "passedBalls": "6",
       "catchersInterference": "1",
       "stolenBasesAgainst": "64",
       "caughtStealingBy": "17",
-      "involvedInDoublePlays": "29",
+      "involvedInDoublePlays": "30",
       "involvedInTriplePlays": "0",
-      "totalChances": "1816",
+      "totalChances": "1850",
       "fieldingPercentage": ".970"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "34",
+      "wins": "35",
       "saves": "14",
       "losses": "18",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "7",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "454.0",
-      "hitsAllowed": "407",
-      "runsAllowed": "237",
-      "earnedRunsAllowed": "202",
-      "walksAllowed": "165",
-      "strikeouts": "529",
-      "battersFaced": "1970",
-      "opponentAtBats": "1725",
-      "doublesAllowed": "74",
+      "inningsPitched": "463.0",
+      "hitsAllowed": "419",
+      "runsAllowed": "245",
+      "earnedRunsAllowed": "209",
+      "walksAllowed": "167",
+      "strikeouts": "543",
+      "battersFaced": "2012",
+      "opponentAtBats": "1764",
+      "doublesAllowed": "78",
       "triplesAllowed": "6",
-      "homerunsAllowed": "36",
-      "wildPitches": "37",
+      "homerunsAllowed": "38",
+      "wildPitches": "38",
       "balks": "0",
-      "hitBatters": "49",
-      "strikeoutsLooking": "134",
+      "hitBatters": "50",
+      "strikeoutsLooking": "137",
       "intentionalWalks": "1",
       "inheritedRunners": "9",
       "inheritedRunnersThatScored": "1",
       "sacrificeHitsAllowed": "14",
       "sacrificeFliesAllowed": "16",
       "catchersInterferenceAllowed": "1",
-      "pitches": "7720",
-      "flyouts": "401",
-      "groundouts": "380",
+      "pitches": "7891",
+      "flyouts": "407",
+      "groundouts": "386",
       "teamUnearnedRuns": "0",
       "saveRecord": "12",
       "pickoff": "4"
@@ -539,20 +539,20 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "3",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/kyle-jones/18070",
         "imageUrl": "https://floridagators.com/images/2025/11/14/Jones_Kyle.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 49,
-        "battingAverage": 0.311,
-        "onBasePercentage": 0.411,
-        "sluggingPercentage": 0.477,
-        "ops": 0.888,
-        "atBats": 193,
-        "runs": 50,
-        "hits": 60,
+        "gamesPlayed": 51,
+        "gamesStarted": 50,
+        "battingAverage": 0.318,
+        "onBasePercentage": 0.416,
+        "sluggingPercentage": 0.482,
+        "ops": 0.898,
+        "atBats": 195,
+        "runs": 51,
+        "hits": 62,
         "doubles": 15,
         "triples": 1,
         "homeRuns": 5,
-        "runsBattedIn": 34,
-        "totalBases": 92,
+        "runsBattedIn": 36,
+        "totalBases": 94,
         "walks": 29,
         "hitByPitch": 8,
         "strikeouts": 37,
@@ -565,7 +565,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "putouts": 99,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 262,
+        "plateAppearances": 264,
         "caughtStealing": 4,
         "pickedOff": 1
       },
@@ -592,36 +592,36 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "totalChances": 100
       },
       "evaluation": {
-        "score": 59,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 72.77777777777776,
-          "Power": 41.31578947368421,
-          "Contact": 56.875,
+          "On-base": 75.55555555555553,
+          "Power": 42.63157894736842,
+          "Contact": 61.25000000000001,
           "Discipline": 64.86486486486486,
           "Speed": 53.333333333333336
         },
         "summary": "Kyle Jones profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .311",
-          "OBP .411",
-          "SLG .477"
+          "AVG .318",
+          "OBP .416",
+          "SLG .482"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".311"
+            "value": ".318"
           },
           {
             "label": "OBP",
-            "value": ".411"
+            "value": ".416"
           },
           {
             "label": "SLG",
-            "value": ".477"
+            "value": ".482"
           },
           {
             "label": "HR",
@@ -629,7 +629,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "36"
           },
           {
             "label": "SB",
@@ -684,33 +684,33 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "4",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/cade-kurland/18072",
         "imageUrl": "https://floridagators.com/images/2025/11/14/Kurland_Cade.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 38,
-        "battingAverage": 0.262,
-        "onBasePercentage": 0.367,
-        "sluggingPercentage": 0.369,
-        "ops": 0.736,
-        "atBats": 141,
-        "runs": 24,
+        "gamesPlayed": 40,
+        "gamesStarted": 39,
+        "battingAverage": 0.259,
+        "onBasePercentage": 0.374,
+        "sluggingPercentage": 0.364,
+        "ops": 0.738,
+        "atBats": 143,
+        "runs": 26,
         "hits": 37,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 3,
-        "runsBattedIn": 18,
+        "runsBattedIn": 19,
         "totalBases": 52,
-        "walks": 16,
+        "walks": 19,
         "hitByPitch": 8,
-        "strikeouts": 30,
+        "strikeouts": 31,
         "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 2,
+        "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 41,
+        "putouts": 42,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 169,
+        "plateAppearances": 174,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -722,9 +722,9 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "4",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/cade-kurland/18072",
         "imageUrl": "https://floridagators.com/images/2025/11/14/Kurland_Cade.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 37,
-        "putouts": 41,
+        "gamesPlayed": 39,
+        "gamesStarted": 38,
+        "putouts": 42,
         "assists": 92,
         "errors": 1,
         "fieldingPercentage": 0.993,
@@ -734,39 +734,39 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 134
+        "totalChances": 135
       },
       "evaluation": {
-        "score": 29,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 48.333333333333314,
-          "Power": 12.894736842105262,
-          "Contact": 26.250000000000007,
-          "Discipline": 37.03703703703703,
+          "On-base": 52.222222222222214,
+          "Power": 11.57894736842105,
+          "Contact": 24.375000000000004,
+          "Discipline": 45.87813620071684,
           "Speed": 0
         },
         "summary": "Cade Kurland gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .262",
-          "OBP .367",
-          "SLG .369"
+          "AVG .259",
+          "OBP .374",
+          "SLG .364"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".262"
+            "value": ".259"
           },
           {
             "label": "OBP",
-            "value": ".367"
+            "value": ".374"
           },
           {
             "label": "SLG",
-            "value": ".369"
+            "value": ".364"
           },
           {
             "label": "HR",
@@ -774,7 +774,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "19"
           },
           {
             "label": "SB",
@@ -829,33 +829,33 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "5",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/blake-cyr/18068",
         "imageUrl": "https://floridagators.com/images/2025/11/14/Cyr_Blake.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 46,
-        "battingAverage": 0.329,
-        "onBasePercentage": 0.405,
-        "sluggingPercentage": 0.595,
-        "ops": 1,
-        "atBats": 173,
-        "runs": 41,
-        "hits": 57,
+        "gamesPlayed": 47,
+        "gamesStarted": 47,
+        "battingAverage": 0.33,
+        "onBasePercentage": 0.412,
+        "sluggingPercentage": 0.591,
+        "ops": 1.003,
+        "atBats": 176,
+        "runs": 43,
+        "hits": 58,
         "doubles": 13,
         "triples": 0,
         "homeRuns": 11,
-        "runsBattedIn": 47,
-        "totalBases": 103,
-        "walks": 14,
+        "runsBattedIn": 48,
+        "totalBases": 104,
+        "walks": 17,
         "hitByPitch": 12,
-        "strikeouts": 35,
+        "strikeouts": 36,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 6,
         "sacrificeHits": 1,
         "stolenBases": 6,
         "stolenBasesAttempts": 8,
-        "putouts": 85,
+        "putouts": 86,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 216,
+        "plateAppearances": 222,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -867,9 +867,9 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "5",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/blake-cyr/18068",
         "imageUrl": "https://floridagators.com/images/2025/11/14/Cyr_Blake.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "putouts": 85,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "putouts": 86,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -879,39 +879,39 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 86
+        "totalChances": 87
       },
       "evaluation": {
-        "score": 58,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 69.44444444444444,
-          "Power": 72.36842105263158,
-          "Contact": 68.125,
-          "Discipline": 22.22222222222222,
+          "On-base": 73.3333333333333,
+          "Power": 71.3157894736842,
+          "Contact": 68.75000000000001,
+          "Discipline": 30.246913580246908,
           "Speed": 20
         },
         "summary": "Blake Cyr profiles as a OF/INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .329",
-          "OBP .405",
-          "SLG .595"
+          "AVG .330",
+          "OBP .412",
+          "SLG .591"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".329"
+            "value": ".330"
           },
           {
             "label": "OBP",
-            "value": ".405"
+            "value": ".412"
           },
           {
             "label": "SLG",
-            "value": ".595"
+            "value": ".591"
           },
           {
             "label": "HR",
@@ -919,7 +919,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
           },
           {
             "label": "RBI",
-            "value": "47"
+            "value": "48"
           },
           {
             "label": "SB",
@@ -1326,33 +1326,33 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "10",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/ethan-surowiec/18091",
         "imageUrl": "https://floridagators.com/images/2025/11/14/Surowiec_Ethan.jpg",
-        "gamesPlayed": 52,
-        "gamesStarted": 52,
-        "battingAverage": 0.305,
-        "onBasePercentage": 0.405,
-        "sluggingPercentage": 0.488,
-        "ops": 0.893,
-        "atBats": 203,
-        "runs": 42,
-        "hits": 62,
+        "gamesPlayed": 53,
+        "gamesStarted": 53,
+        "battingAverage": 0.301,
+        "onBasePercentage": 0.399,
+        "sluggingPercentage": 0.493,
+        "ops": 0.892,
+        "atBats": 209,
+        "runs": 43,
+        "hits": 63,
         "doubles": 11,
         "triples": 1,
-        "homeRuns": 8,
-        "runsBattedIn": 47,
-        "totalBases": 99,
+        "homeRuns": 9,
+        "runsBattedIn": 51,
+        "totalBases": 103,
         "walks": 32,
         "hitByPitch": 2,
-        "strikeouts": 60,
+        "strikeouts": 62,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
-        "putouts": 194,
+        "putouts": 195,
         "assists": 0,
         "errors": 9,
-        "plateAppearances": 242,
+        "plateAppearances": 248,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1364,9 +1364,9 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "10",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/ethan-surowiec/18091",
         "imageUrl": "https://floridagators.com/images/2025/11/14/Surowiec_Ethan.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 50,
-        "putouts": 194,
+        "gamesPlayed": 51,
+        "gamesStarted": 51,
+        "putouts": 195,
         "assists": 44,
         "errors": 9,
         "fieldingPercentage": 0.964,
@@ -1376,47 +1376,47 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 247
+        "totalChances": 248
       },
       "evaluation": {
-        "score": 49,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 69.44444444444444,
-          "Power": 44.21052631578947,
-          "Contact": 53.124999999999986,
-          "Discipline": 37.03703703703703,
+          "On-base": 66.11111111111111,
+          "Power": 45.526315789473685,
+          "Contact": 50.624999999999986,
+          "Discipline": 35.12544802867383,
           "Speed": 6.666666666666667
         },
-        "summary": "Ethan Surowiec profiles as a INF piece who gets on base at a high clip.",
+        "summary": "Ethan Surowiec gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .305",
-          "OBP .405",
-          "SLG .488"
+          "AVG .301",
+          "OBP .399",
+          "SLG .493"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".305"
+            "value": ".301"
           },
           {
             "label": "OBP",
-            "value": ".405"
+            "value": ".399"
           },
           {
             "label": "SLG",
-            "value": ".488"
+            "value": ".493"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "47"
+            "value": "51"
           },
           {
             "label": "SB",
@@ -1471,33 +1471,33 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "11",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/brendan-lawson/18073",
         "imageUrl": "https://floridagators.com/images/2025/11/14/Lawson_Brendan.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 46,
-        "battingAverage": 0.289,
+        "gamesPlayed": 47,
+        "gamesStarted": 47,
+        "battingAverage": 0.288,
         "onBasePercentage": 0.498,
-        "sluggingPercentage": 0.631,
-        "ops": 1.129,
-        "atBats": 149,
-        "runs": 48,
-        "hits": 43,
+        "sluggingPercentage": 0.621,
+        "ops": 1.119,
+        "atBats": 153,
+        "runs": 49,
+        "hits": 44,
         "doubles": 8,
         "triples": 2,
         "homeRuns": 13,
         "runsBattedIn": 38,
-        "totalBases": 94,
-        "walks": 47,
-        "hitByPitch": 16,
-        "strikeouts": 37,
+        "totalBases": 95,
+        "walks": 48,
+        "hitByPitch": 17,
+        "strikeouts": 38,
         "intentionalWalks": 7,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
-        "stolenBases": 10,
-        "stolenBasesAttempts": 12,
-        "putouts": 40,
+        "stolenBases": 11,
+        "stolenBasesAttempts": 13,
+        "putouts": 43,
         "assists": 0,
         "errors": 12,
-        "plateAppearances": 227,
+        "plateAppearances": 234,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1509,19 +1509,19 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "11",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/brendan-lawson/18073",
         "imageUrl": "https://floridagators.com/images/2025/11/14/Lawson_Brendan.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "putouts": 40,
-        "assists": 73,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "putouts": 43,
+        "assists": 78,
         "errors": 12,
-        "fieldingPercentage": 0.904,
-        "doublePlays": 9,
+        "fieldingPercentage": 0.91,
+        "doublePlays": 10,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 125
+        "totalChances": 133
       },
       "evaluation": {
         "score": 78,
@@ -1531,21 +1531,21 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         },
         "components": {
           "On-base": 100,
-          "Power": 81.8421052631579,
-          "Contact": 43.124999999999986,
+          "Power": 79.21052631578948,
+          "Contact": 42.499999999999986,
           "Discipline": 100,
-          "Speed": 33.33333333333333
+          "Speed": 36.666666666666664
         },
         "summary": "Brendan Lawson profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .289",
+          "AVG .288",
           "OBP .498",
-          "SLG .631"
+          "SLG .621"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": ".288"
           },
           {
             "label": "OBP",
@@ -1553,7 +1553,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
           },
           {
             "label": "SLG",
-            "value": ".631"
+            "value": ".621"
           },
           {
             "label": "HR",
@@ -1565,7 +1565,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
           },
           {
             "label": "SB",
-            "value": "10"
+            "value": "11"
           }
         ],
         "metaLine": "SO / L/R",
@@ -1758,21 +1758,21 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "13",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/landon-stripling/18082",
         "imageUrl": "https://floridagators.com/images/2025/11/14/Stripling_Landon.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 24,
-        "battingAverage": 0.266,
-        "onBasePercentage": 0.336,
-        "sluggingPercentage": 0.457,
-        "ops": 0.793,
-        "atBats": 94,
-        "runs": 15,
-        "hits": 25,
-        "doubles": 6,
+        "gamesPlayed": 29,
+        "gamesStarted": 25,
+        "battingAverage": 0.276,
+        "onBasePercentage": 0.348,
+        "sluggingPercentage": 0.469,
+        "ops": 0.817,
+        "atBats": 98,
+        "runs": 16,
+        "hits": 27,
+        "doubles": 7,
         "triples": 0,
         "homeRuns": 4,
-        "runsBattedIn": 11,
-        "totalBases": 43,
-        "walks": 9,
+        "runsBattedIn": 12,
+        "totalBases": 46,
+        "walks": 10,
         "hitByPitch": 2,
         "strikeouts": 16,
         "intentionalWalks": 0,
@@ -1781,10 +1781,10 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 159,
+        "putouts": 163,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 107,
+        "plateAppearances": 112,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1796,51 +1796,51 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "13",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/landon-stripling/18082",
         "imageUrl": "https://floridagators.com/images/2025/11/14/Stripling_Landon.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 21,
-        "putouts": 159,
-        "assists": 13,
+        "gamesPlayed": 25,
+        "gamesStarted": 22,
+        "putouts": 163,
+        "assists": 14,
         "errors": 4,
-        "fieldingPercentage": 0.977,
-        "doublePlays": 13,
+        "fieldingPercentage": 0.978,
+        "doublePlays": 14,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 176
+        "totalChances": 181
       },
       "evaluation": {
-        "score": 30,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 31.11111111111111,
-          "Power": 36.05263157894738,
-          "Contact": 28.750000000000007,
-          "Discipline": 40.27777777777777,
+          "On-base": 37.77777777777775,
+          "Power": 39.210526315789465,
+          "Contact": 35.000000000000014,
+          "Discipline": 47.222222222222214,
           "Speed": 0
         },
         "summary": "Landon Stripling gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .266",
-          "OBP .336",
-          "SLG .457"
+          "AVG .276",
+          "OBP .348",
+          "SLG .469"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".266"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".336"
+            "value": ".348"
           },
           {
             "label": "SLG",
-            "value": ".457"
+            "value": ".469"
           },
           {
             "label": "HR",
@@ -1848,7 +1848,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
           },
           {
             "label": "RBI",
-            "value": "11"
+            "value": "12"
           },
           {
             "label": "SB",
@@ -1903,14 +1903,14 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "14",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/karson-bowen/18092",
         "imageUrl": "https://floridagators.com/images/2025/11/14/Bowen_Karson.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "battingAverage": 0.26,
-        "onBasePercentage": 0.343,
-        "sluggingPercentage": 0.41,
-        "ops": 0.753,
-        "atBats": 173,
-        "runs": 30,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "battingAverage": 0.253,
+        "onBasePercentage": 0.335,
+        "sluggingPercentage": 0.399,
+        "ops": 0.734,
+        "atBats": 178,
+        "runs": 31,
         "hits": 45,
         "doubles": 11,
         "triples": 0,
@@ -1919,17 +1919,17 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "totalBases": 71,
         "walks": 21,
         "hitByPitch": 3,
-        "strikeouts": 35,
+        "strikeouts": 36,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 4,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 411,
+        "putouts": 425,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 201,
+        "plateAppearances": 206,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1941,9 +1941,9 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "14",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/karson-bowen/18092",
         "imageUrl": "https://floridagators.com/images/2025/11/14/Bowen_Karson.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "putouts": 411,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "putouts": 425,
         "assists": 21,
         "errors": 3,
         "fieldingPercentage": 0.993,
@@ -1953,39 +1953,39 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 3,
         "catchersInterference": 0,
-        "totalChances": 435
+        "totalChances": 449
       },
       "evaluation": {
-        "score": 28,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 35,
-          "Power": 23.684210526315784,
-          "Contact": 25.000000000000007,
-          "Discipline": 44.444444444444436,
+          "On-base": 30.555555555555554,
+          "Power": 20.78947368421053,
+          "Contact": 20.625,
+          "Discipline": 42.59259259259259,
           "Speed": 0
         },
         "summary": "Karson Bowen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .260",
-          "OBP .343",
-          "SLG .410"
+          "AVG .253",
+          "OBP .335",
+          "SLG .399"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".260"
+            "value": ".253"
           },
           {
             "label": "OBP",
-            "value": ".343"
+            "value": ".335"
           },
           {
             "label": "SLG",
-            "value": ".410"
+            "value": ".399"
           },
           {
             "label": "HR",
@@ -2049,31 +2049,31 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "15",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/joshua-whritenour/18083",
         "imageUrl": "https://floridagators.com/images/2025/11/14/Whritenour_Joshua.jpg",
-        "gamesPlayed": 21,
+        "gamesPlayed": 22,
         "gamesStarted": 0,
-        "appearances": 21,
+        "appearances": 22,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.55,
-        "whip": 1.15,
+        "earnedRunAverage": 4.4,
+        "whip": 1.14,
         "wins": 3,
         "losses": 3,
         "saves": 7,
         "shutouts": 0,
-        "inningsPitched": 29.666666666666668,
-        "inningsPitchedDisplay": "29.2",
-        "hitsAllowed": 22,
+        "inningsPitched": 30.666666666666668,
+        "inningsPitchedDisplay": "30.2",
+        "hitsAllowed": 23,
         "runsAllowed": 18,
         "earnedRunsAllowed": 15,
         "walksAllowed": 12,
-        "strikeouts": 41,
-        "doublesAllowed": 3,
+        "strikeouts": 43,
+        "doublesAllowed": 4,
         "triplesAllowed": 1,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 110,
+        "opponentsAtBats": 114,
         "wildPitches": 3,
         "hitBatters": 6,
         "balks": 0,
-        "opponentsBattingAverage": 0.2,
+        "opponentsBattingAverage": 0.202,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2083,22 +2083,22 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "15",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/joshua-whritenour/18083",
         "imageUrl": "https://floridagators.com/images/2025/11/14/Whritenour_Joshua.jpg",
-        "gamesPlayed": 5,
+        "gamesPlayed": 6,
         "gamesStarted": 0,
-        "putouts": 2,
+        "putouts": 3,
         "assists": 1,
         "errors": 1,
-        "fieldingPercentage": 0.75,
+        "fieldingPercentage": 0.8,
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 4
+        "totalChances": 5
       },
       "evaluation": {
-        "score": 23,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2106,40 +2106,40 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 76.71092951991828,
-          "Command": 48.33333333333333,
+          "Miss bats": 78.3596837944664,
+          "Command": 51.666666666666686,
           "Damage suppression": 0
         },
         "summary": "Joshua Whritenour looks like a RHP option who misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.55",
-          "WHIP 1.15",
-          "K/9 12.4"
+          "ERA 4.40",
+          "WHIP 1.14",
+          "K/9 12.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.55"
+            "value": "4.40"
           },
           {
             "label": "WHIP",
-            "value": "1.15"
+            "value": "1.14"
           },
           {
             "label": "K/9",
-            "value": "12.4"
+            "value": "12.6"
           },
           {
             "label": "BB/9",
-            "value": "3.6"
+            "value": "3.5"
           },
           {
             "label": "HR/9",
-            "value": "1.52"
+            "value": "1.47"
           },
           {
             "label": "IP",
-            "value": "29.7"
+            "value": "30.7"
           }
         ],
         "metaLine": "R-FR / L/R",
@@ -2190,33 +2190,33 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "16",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/hayden-yost/18085",
         "imageUrl": "https://floridagators.com/images/2025/11/14/Yost_Hayden.jpg",
-        "gamesPlayed": 32,
+        "gamesPlayed": 33,
         "gamesStarted": 21,
-        "battingAverage": 0.222,
-        "onBasePercentage": 0.341,
-        "sluggingPercentage": 0.5,
-        "ops": 0.841,
-        "atBats": 72,
-        "runs": 18,
+        "battingAverage": 0.216,
+        "onBasePercentage": 0.348,
+        "sluggingPercentage": 0.486,
+        "ops": 0.834,
+        "atBats": 74,
+        "runs": 19,
         "hits": 16,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 6,
-        "runsBattedIn": 13,
+        "runsBattedIn": 14,
         "totalBases": 36,
-        "walks": 8,
-        "hitByPitch": 6,
+        "walks": 9,
+        "hitByPitch": 7,
         "strikeouts": 14,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
         "sacrificeHits": 1,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 50,
+        "stolenBases": 2,
+        "stolenBasesAttempts": 2,
+        "putouts": 51,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 90,
+        "plateAppearances": 95,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2228,9 +2228,9 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "16",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/hayden-yost/18085",
         "imageUrl": "https://floridagators.com/images/2025/11/14/Yost_Hayden.jpg",
-        "gamesPlayed": 21,
+        "gamesPlayed": 22,
         "gamesStarted": 18,
-        "putouts": 50,
+        "putouts": 51,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -2240,39 +2240,39 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 51
+        "totalChances": 52
       },
       "evaluation": {
-        "score": 29,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 33.88888888888889,
-          "Power": 47.36842105263158,
-          "Contact": 1.250000000000001,
-          "Discipline": 41.26984126984126,
-          "Speed": 3.3333333333333335
+          "On-base": 37.77777777777775,
+          "Power": 43.684210526315795,
+          "Contact": 0,
+          "Discipline": 49.2063492063492,
+          "Speed": 6.666666666666667
         },
         "summary": "Hayden Yost gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .222",
-          "OBP .341",
-          "SLG .500"
+          "AVG .216",
+          "OBP .348",
+          "SLG .486"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".222"
+            "value": ".216"
           },
           {
             "label": "OBP",
-            "value": ".341"
+            "value": ".348"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".486"
           },
           {
             "label": "HR",
@@ -2280,11 +2280,11 @@ window.__BASEBALL_DATASETS__.florida2026 = {
           },
           {
             "label": "RBI",
-            "value": "13"
+            "value": "14"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "metaLine": "JR / L/L",
@@ -2707,23 +2707,23 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "21",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/caden-mcdonald/18074",
         "imageUrl": "https://floridagators.com/images/2025/11/14/McDonald_Caden.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 11,
-        "battingAverage": 0.375,
-        "onBasePercentage": 0.444,
-        "sluggingPercentage": 0.771,
-        "ops": 1.215,
-        "atBats": 48,
-        "runs": 10,
-        "hits": 18,
-        "doubles": 4,
+        "gamesPlayed": 31,
+        "gamesStarted": 12,
+        "battingAverage": 0.358,
+        "onBasePercentage": 0.433,
+        "sluggingPercentage": 0.736,
+        "ops": 1.169,
+        "atBats": 53,
+        "runs": 11,
+        "hits": 19,
+        "doubles": 5,
         "triples": 0,
         "homeRuns": 5,
         "runsBattedIn": 15,
-        "totalBases": 37,
-        "walks": 5,
+        "totalBases": 39,
+        "walks": 6,
         "hitByPitch": 1,
-        "strikeouts": 14,
+        "strikeouts": 16,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
@@ -2733,7 +2733,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "putouts": 0,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 54,
+        "plateAppearances": 60,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2886,31 +2886,31 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "22",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/jackson-barberi/18064",
         "imageUrl": "https://floridagators.com/images/2025/11/14/Barberi_Jackson.jpg",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 0,
-        "appearances": 14,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2,
-        "whip": 0.96,
+        "earnedRunAverage": 2.2,
+        "whip": 0.98,
         "wins": 3,
         "losses": 2,
         "saves": 2,
         "shutouts": 0,
-        "inningsPitched": 27,
-        "inningsPitchedDisplay": "27.0",
-        "hitsAllowed": 14,
-        "runsAllowed": 8,
-        "earnedRunsAllowed": 6,
-        "walksAllowed": 12,
-        "strikeouts": 40,
+        "inningsPitched": 28.666666666666668,
+        "inningsPitchedDisplay": "28.2",
+        "hitsAllowed": 15,
+        "runsAllowed": 10,
+        "earnedRunsAllowed": 7,
+        "walksAllowed": 13,
+        "strikeouts": 43,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 98,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 104,
         "wildPitches": 4,
         "hitBatters": 0,
         "balks": 0,
-        "opponentsBattingAverage": 0.143,
+        "opponentsBattingAverage": 0.144,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2935,7 +2935,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 24,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2943,40 +2943,40 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 84.84848484848484,
-          "Command": 46.666666666666664,
+          "Miss bats": 86.36363636363636,
+          "Command": 46.15384615384615,
           "Damage suppression": 0
         },
         "summary": "Jackson Barberi looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.00",
-          "WHIP 0.96",
-          "K/9 13.3"
+          "ERA 2.20",
+          "WHIP 0.98",
+          "K/9 13.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.00"
+            "value": "2.20"
           },
           {
             "label": "WHIP",
-            "value": "0.96"
+            "value": "0.98"
           },
           {
             "label": "K/9",
-            "value": "13.3"
+            "value": "13.5"
           },
           {
             "label": "BB/9",
-            "value": "4.0"
+            "value": "4.1"
           },
           {
             "label": "HR/9",
-            "value": "0.33"
+            "value": "0.63"
           },
           {
             "label": "IP",
-            "value": "27.0"
+            "value": "28.7"
           }
         ],
         "metaLine": "SO / R/R",
@@ -3028,31 +3028,31 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "23",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/billy-barlow/18065",
         "imageUrl": "https://floridagators.com/images/2025/11/14/Barlow_Billy.jpg",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 2,
-        "appearances": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.4,
-        "whip": 1.6,
+        "earnedRunAverage": 5.31,
+        "whip": 1.57,
         "wins": 2,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 20,
-        "inningsPitchedDisplay": "20.0",
+        "inningsPitched": 20.333333333333332,
+        "inningsPitchedDisplay": "20.1",
         "hitsAllowed": 23,
         "runsAllowed": 16,
         "earnedRunsAllowed": 12,
         "walksAllowed": 9,
-        "strikeouts": 20,
+        "strikeouts": 21,
         "doublesAllowed": 6,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 83,
+        "opponentsAtBats": 85,
         "wildPitches": 0,
-        "hitBatters": 4,
+        "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.277,
+        "opponentsBattingAverage": 0.271,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3062,22 +3062,22 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "23",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/billy-barlow/18065",
         "imageUrl": "https://floridagators.com/images/2025/11/14/Barlow_Billy.jpg",
-        "gamesPlayed": 5,
+        "gamesPlayed": 6,
         "gamesStarted": 2,
         "putouts": 1,
         "assists": 2,
-        "errors": 1,
-        "fieldingPercentage": 0.75,
+        "errors": 2,
+        "fieldingPercentage": 0.6,
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 4
+        "totalChances": 5
       },
       "evaluation": {
-        "score": 13,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3085,28 +3085,28 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 24.444444444444446,
+          "Miss bats": 48.1371087928465,
+          "Command": 26.66666666666666,
           "Damage suppression": 0
         },
         "summary": "Billy Barlow looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 1.60",
-          "K/9 9.0"
+          "ERA 5.31",
+          "WHIP 1.57",
+          "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.40"
+            "value": "5.31"
           },
           {
             "label": "WHIP",
-            "value": "1.60"
+            "value": "1.57"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "9.3"
           },
           {
             "label": "BB/9",
@@ -3114,11 +3114,11 @@ window.__BASEBALL_DATASETS__.florida2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.45"
+            "value": "0.44"
           },
           {
             "label": "IP",
-            "value": "20.0"
+            "value": "20.3"
           }
         ],
         "metaLine": "R-SR / R/R",
@@ -3402,13 +3402,13 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "26",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/cash-strayer/18095",
         "imageUrl": "https://floridagators.com/images/2025/11/14/Strayer_Cash.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 27,
-        "battingAverage": 0.283,
-        "onBasePercentage": 0.372,
-        "sluggingPercentage": 0.446,
-        "ops": 0.818,
-        "atBats": 92,
+        "gamesPlayed": 30,
+        "gamesStarted": 28,
+        "battingAverage": 0.277,
+        "onBasePercentage": 0.381,
+        "sluggingPercentage": 0.436,
+        "ops": 0.817,
+        "atBats": 94,
         "runs": 20,
         "hits": 26,
         "doubles": 4,
@@ -3416,19 +3416,19 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "homeRuns": 3,
         "runsBattedIn": 22,
         "totalBases": 41,
-        "walks": 12,
+        "walks": 15,
         "hitByPitch": 4,
-        "strikeouts": 24,
+        "strikeouts": 25,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 5,
         "sacrificeHits": 1,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 39,
+        "putouts": 40,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 114,
+        "plateAppearances": 119,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3440,51 +3440,51 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "26",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/cash-strayer/18095",
         "imageUrl": "https://floridagators.com/images/2025/11/14/Strayer_Cash.jpg",
-        "gamesPlayed": 20,
-        "gamesStarted": 19,
-        "putouts": 39,
+        "gamesPlayed": 21,
+        "gamesStarted": 20,
+        "putouts": 40,
         "assists": 0,
         "errors": 1,
-        "fieldingPercentage": 0.975,
+        "fieldingPercentage": 0.976,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 40
+        "totalChances": 41
       },
       "evaluation": {
-        "score": 37,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 51.11111111111109,
-          "Power": 33.15789473684211,
-          "Contact": 39.374999999999986,
-          "Discipline": 33.33333333333333,
+          "On-base": 56.1111111111111,
+          "Power": 30.526315789473685,
+          "Contact": 35.625000000000014,
+          "Discipline": 44.444444444444436,
           "Speed": 0
         },
         "summary": "Cash Strayer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .283",
-          "OBP .372",
-          "SLG .446"
+          "AVG .277",
+          "OBP .381",
+          "SLG .436"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".283"
+            "value": ".277"
           },
           {
             "label": "OBP",
-            "value": ".372"
+            "value": ".381"
           },
           {
             "label": "SLG",
-            "value": ".446"
+            "value": ".436"
           },
           {
             "label": "HR",
@@ -4051,31 +4051,31 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "31",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/ricky-reeth/18098",
         "imageUrl": "https://floridagators.com/images/2025/11/14/Reeth_Ricky.jpg",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 0,
-        "appearances": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.7,
-        "whip": 1.35,
+        "earnedRunAverage": 3.6,
+        "whip": 1.45,
         "wins": 2,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
         "inningsPitched": 20,
         "inningsPitchedDisplay": "20.0",
-        "hitsAllowed": 22,
-        "runsAllowed": 9,
-        "earnedRunsAllowed": 6,
+        "hitsAllowed": 24,
+        "runsAllowed": 11,
+        "earnedRunsAllowed": 8,
         "walksAllowed": 5,
         "strikeouts": 19,
-        "doublesAllowed": 7,
+        "doublesAllowed": 8,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 76,
+        "opponentsAtBats": 78,
         "wildPitches": 1,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.289,
+        "opponentsBattingAverage": 0.308,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4114,18 +4114,18 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         },
         "summary": "Ricky Reeth looks like a RHP option who limits runs and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 2.70",
-          "WHIP 1.35",
+          "ERA 3.60",
+          "WHIP 1.45",
           "K/9 8.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.70"
+            "value": "3.60"
           },
           {
             "label": "WHIP",
-            "value": "1.35"
+            "value": "1.45"
           },
           {
             "label": "K/9",
@@ -5062,31 +5062,31 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "44",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/ernesto-lugo-canchola/18104",
         "imageUrl": "https://floridagators.com/images/2025/11/14/LugoCanchola_Ernesto.jpg",
-        "gamesPlayed": 24,
+        "gamesPlayed": 25,
         "gamesStarted": 0,
-        "appearances": 24,
+        "appearances": 25,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.55,
-        "whip": 1.18,
+        "earnedRunAverage": 4.45,
+        "whip": 1.19,
         "wins": 1,
         "losses": 0,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 29.666666666666668,
-        "inningsPitchedDisplay": "29.2",
+        "inningsPitched": 30.333333333333332,
+        "inningsPitchedDisplay": "30.1",
         "hitsAllowed": 26,
         "runsAllowed": 16,
         "earnedRunsAllowed": 15,
-        "walksAllowed": 9,
-        "strikeouts": 40,
+        "walksAllowed": 10,
+        "strikeouts": 41,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 7,
-        "opponentsAtBats": 115,
+        "opponentsAtBats": 117,
         "wildPitches": 5,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.226,
+        "opponentsBattingAverage": 0.222,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5111,7 +5111,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "totalChances": 3
       },
       "evaluation": {
-        "score": 26,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5119,40 +5119,40 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 73.95301327885598,
-          "Command": 68.88888888888889,
+          "Miss bats": 74.22577422577423,
+          "Command": 62.000000000000014,
           "Damage suppression": 0
         },
         "summary": "Ernesto Lugo-Canchola looks like a LHP option who misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.55",
-          "WHIP 1.18",
-          "K/9 12.1"
+          "ERA 4.45",
+          "WHIP 1.19",
+          "K/9 12.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.55"
+            "value": "4.45"
           },
           {
             "label": "WHIP",
-            "value": "1.18"
+            "value": "1.19"
           },
           {
             "label": "K/9",
-            "value": "12.1"
+            "value": "12.2"
           },
           {
             "label": "BB/9",
-            "value": "2.7"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "2.12"
+            "value": "2.08"
           },
           {
             "label": "IP",
-            "value": "29.7"
+            "value": "30.3"
           }
         ],
         "metaLine": "GR / L/L",
@@ -5292,31 +5292,31 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "jersey": "47",
         "profileUrl": "https://floridagators.com/sports/baseball/roster/aidan-king/18071",
         "imageUrl": "https://floridagators.com/images/2025/11/14/King_Aidan.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 13,
-        "appearances": 13,
+        "gamesPlayed": 14,
+        "gamesStarted": 14,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.19,
-        "whip": 0.89,
-        "wins": 7,
+        "earnedRunAverage": 2.5,
+        "whip": 0.93,
+        "wins": 8,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 74,
-        "inningsPitchedDisplay": "74.0",
-        "hitsAllowed": 50,
-        "runsAllowed": 26,
-        "earnedRunsAllowed": 18,
+        "inningsPitched": 79.33333333333333,
+        "inningsPitchedDisplay": "79.1",
+        "hitsAllowed": 58,
+        "runsAllowed": 30,
+        "earnedRunsAllowed": 22,
         "walksAllowed": 16,
-        "strikeouts": 77,
-        "doublesAllowed": 9,
+        "strikeouts": 84,
+        "doublesAllowed": 11,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 268,
-        "wildPitches": 3,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 291,
+        "wildPitches": 4,
         "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.187,
+        "opponentsBattingAverage": 0.199,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5341,7 +5341,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "totalChances": 13
       },
       "evaluation": {
-        "score": 22,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5349,40 +5349,40 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 48.77149877149877,
-          "Command": 76.25,
+          "Miss bats": 50.26737967914438,
+          "Command": 84.99999999999999,
           "Damage suppression": 0
         },
         "summary": "Aidan King looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.19",
-          "WHIP 0.89",
-          "K/9 9.4"
+          "ERA 2.50",
+          "WHIP 0.93",
+          "K/9 9.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.19"
+            "value": "2.50"
           },
           {
             "label": "WHIP",
-            "value": "0.89"
+            "value": "0.93"
           },
           {
             "label": "K/9",
-            "value": "9.4"
+            "value": "9.5"
           },
           {
             "label": "BB/9",
-            "value": "1.9"
+            "value": "1.8"
           },
           {
             "label": "HR/9",
-            "value": "0.24"
+            "value": "0.34"
           },
           {
             "label": "IP",
-            "value": "74.0"
+            "value": "79.3"
           }
         ],
         "metaLine": "SO / L/R",
@@ -5764,29 +5764,29 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "position": "OF",
         "classYear": "R-SO",
         "handedness": "R/R",
-        "score": 59,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Kyle Jones profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .311",
-          "OBP .411",
-          "SLG .477"
+          "AVG .318",
+          "OBP .416",
+          "SLG .482"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".311"
+            "value": ".318"
           },
           {
             "label": "OBP",
-            "value": ".411"
+            "value": ".416"
           },
           {
             "label": "SLG",
-            "value": ".477"
+            "value": ".482"
           },
           {
             "label": "HR",
@@ -5794,7 +5794,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "36"
           },
           {
             "label": "SB",
@@ -5802,9 +5802,9 @@ window.__BASEBALL_DATASETS__.florida2026 = {
           }
         ],
         "components": {
-          "On-base": 72.77777777777776,
-          "Power": 41.31578947368421,
-          "Contact": 56.875,
+          "On-base": 75.55555555555553,
+          "Power": 42.63157894736842,
+          "Contact": 61.25000000000001,
           "Discipline": 64.86486486486486,
           "Speed": 53.333333333333336
         },
@@ -5833,29 +5833,29 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "position": "INF",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 29,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cade Kurland gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .262",
-          "OBP .367",
-          "SLG .369"
+          "AVG .259",
+          "OBP .374",
+          "SLG .364"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".262"
+            "value": ".259"
           },
           {
             "label": "OBP",
-            "value": ".367"
+            "value": ".374"
           },
           {
             "label": "SLG",
-            "value": ".369"
+            "value": ".364"
           },
           {
             "label": "HR",
@@ -5863,7 +5863,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "19"
           },
           {
             "label": "SB",
@@ -5871,10 +5871,10 @@ window.__BASEBALL_DATASETS__.florida2026 = {
           }
         ],
         "components": {
-          "On-base": 48.333333333333314,
-          "Power": 12.894736842105262,
-          "Contact": 26.250000000000007,
-          "Discipline": 37.03703703703703,
+          "On-base": 52.222222222222214,
+          "Power": 11.57894736842105,
+          "Contact": 24.375000000000004,
+          "Discipline": 45.87813620071684,
           "Speed": 0
         },
         "metaLine": "R-JR / R/R",
@@ -5902,29 +5902,29 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "position": "OF/INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 58,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Blake Cyr profiles as a OF/INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .329",
-          "OBP .405",
-          "SLG .595"
+          "AVG .330",
+          "OBP .412",
+          "SLG .591"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".329"
+            "value": ".330"
           },
           {
             "label": "OBP",
-            "value": ".405"
+            "value": ".412"
           },
           {
             "label": "SLG",
-            "value": ".595"
+            "value": ".591"
           },
           {
             "label": "HR",
@@ -5932,7 +5932,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
           },
           {
             "label": "RBI",
-            "value": "47"
+            "value": "48"
           },
           {
             "label": "SB",
@@ -5940,10 +5940,10 @@ window.__BASEBALL_DATASETS__.florida2026 = {
           }
         ],
         "components": {
-          "On-base": 69.44444444444444,
-          "Power": 72.36842105263158,
-          "Contact": 68.125,
-          "Discipline": 22.22222222222222,
+          "On-base": 73.3333333333333,
+          "Power": 71.3157894736842,
+          "Contact": 68.75000000000001,
+          "Discipline": 30.246913580246908,
           "Speed": 20
         },
         "metaLine": "SR / R/R",
@@ -6177,37 +6177,37 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 49,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ethan Surowiec profiles as a INF piece who gets on base at a high clip.",
+        "summary": "Ethan Surowiec gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .305",
-          "OBP .405",
-          "SLG .488"
+          "AVG .301",
+          "OBP .399",
+          "SLG .493"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".305"
+            "value": ".301"
           },
           {
             "label": "OBP",
-            "value": ".405"
+            "value": ".399"
           },
           {
             "label": "SLG",
-            "value": ".488"
+            "value": ".493"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "47"
+            "value": "51"
           },
           {
             "label": "SB",
@@ -6215,10 +6215,10 @@ window.__BASEBALL_DATASETS__.florida2026 = {
           }
         ],
         "components": {
-          "On-base": 69.44444444444444,
-          "Power": 44.21052631578947,
-          "Contact": 53.124999999999986,
-          "Discipline": 37.03703703703703,
+          "On-base": 66.11111111111111,
+          "Power": 45.526315789473685,
+          "Contact": 50.624999999999986,
+          "Discipline": 35.12544802867383,
           "Speed": 6.666666666666667
         },
         "metaLine": "SO / R/R",
@@ -6253,14 +6253,14 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         },
         "summary": "Brendan Lawson profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .289",
+          "AVG .288",
           "OBP .498",
-          "SLG .631"
+          "SLG .621"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": ".288"
           },
           {
             "label": "OBP",
@@ -6268,7 +6268,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
           },
           {
             "label": "SLG",
-            "value": ".631"
+            "value": ".621"
           },
           {
             "label": "HR",
@@ -6280,15 +6280,15 @@ window.__BASEBALL_DATASETS__.florida2026 = {
           },
           {
             "label": "SB",
-            "value": "10"
+            "value": "11"
           }
         ],
         "components": {
           "On-base": 100,
-          "Power": 81.8421052631579,
-          "Contact": 43.124999999999986,
+          "Power": 79.21052631578948,
+          "Contact": 42.499999999999986,
           "Discipline": 100,
-          "Speed": 33.33333333333333
+          "Speed": 36.666666666666664
         },
         "metaLine": "SO / L/R",
         "detailBadges": [
@@ -6384,29 +6384,29 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 30,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Landon Stripling gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .266",
-          "OBP .336",
-          "SLG .457"
+          "AVG .276",
+          "OBP .348",
+          "SLG .469"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".266"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".336"
+            "value": ".348"
           },
           {
             "label": "SLG",
-            "value": ".457"
+            "value": ".469"
           },
           {
             "label": "HR",
@@ -6414,7 +6414,7 @@ window.__BASEBALL_DATASETS__.florida2026 = {
           },
           {
             "label": "RBI",
-            "value": "11"
+            "value": "12"
           },
           {
             "label": "SB",
@@ -6422,10 +6422,10 @@ window.__BASEBALL_DATASETS__.florida2026 = {
           }
         ],
         "components": {
-          "On-base": 31.11111111111111,
-          "Power": 36.05263157894738,
-          "Contact": 28.750000000000007,
-          "Discipline": 40.27777777777777,
+          "On-base": 37.77777777777775,
+          "Power": 39.210526315789465,
+          "Contact": 35.000000000000014,
+          "Discipline": 47.222222222222214,
           "Speed": 0
         },
         "metaLine": "JR / L/R",
@@ -6453,29 +6453,29 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "position": "C",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 28,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Karson Bowen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .260",
-          "OBP .343",
-          "SLG .410"
+          "AVG .253",
+          "OBP .335",
+          "SLG .399"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".260"
+            "value": ".253"
           },
           {
             "label": "OBP",
-            "value": ".343"
+            "value": ".335"
           },
           {
             "label": "SLG",
-            "value": ".410"
+            "value": ".399"
           },
           {
             "label": "HR",
@@ -6491,10 +6491,10 @@ window.__BASEBALL_DATASETS__.florida2026 = {
           }
         ],
         "components": {
-          "On-base": 35,
-          "Power": 23.684210526315784,
-          "Contact": 25.000000000000007,
-          "Discipline": 44.444444444444436,
+          "On-base": 30.555555555555554,
+          "Power": 20.78947368421053,
+          "Contact": 20.625,
+          "Discipline": 42.59259259259259,
           "Speed": 0
         },
         "metaLine": "SR / R/R",
@@ -6522,48 +6522,48 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "position": "RHP",
         "classYear": "R-FR",
         "handedness": "L/R",
-        "score": 23,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Joshua Whritenour looks like a RHP option who misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.55",
-          "WHIP 1.15",
-          "K/9 12.4"
+          "ERA 4.40",
+          "WHIP 1.14",
+          "K/9 12.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.55"
+            "value": "4.40"
           },
           {
             "label": "WHIP",
-            "value": "1.15"
+            "value": "1.14"
           },
           {
             "label": "K/9",
-            "value": "12.4"
+            "value": "12.6"
           },
           {
             "label": "BB/9",
-            "value": "3.6"
+            "value": "3.5"
           },
           {
             "label": "HR/9",
-            "value": "1.52"
+            "value": "1.47"
           },
           {
             "label": "IP",
-            "value": "29.7"
+            "value": "30.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 76.71092951991828,
-          "Command": 48.33333333333333,
+          "Miss bats": 78.3596837944664,
+          "Command": 51.666666666666686,
           "Damage suppression": 0
         },
         "metaLine": "R-FR / L/R",
@@ -6591,29 +6591,29 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 29,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Hayden Yost gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .222",
-          "OBP .341",
-          "SLG .500"
+          "AVG .216",
+          "OBP .348",
+          "SLG .486"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".222"
+            "value": ".216"
           },
           {
             "label": "OBP",
-            "value": ".341"
+            "value": ".348"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".486"
           },
           {
             "label": "HR",
@@ -6621,19 +6621,19 @@ window.__BASEBALL_DATASETS__.florida2026 = {
           },
           {
             "label": "RBI",
-            "value": "13"
+            "value": "14"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "components": {
-          "On-base": 33.88888888888889,
-          "Power": 47.36842105263158,
-          "Contact": 1.250000000000001,
-          "Discipline": 41.26984126984126,
-          "Speed": 3.3333333333333335
+          "On-base": 37.77777777777775,
+          "Power": 43.684210526315795,
+          "Contact": 0,
+          "Discipline": 49.2063492063492,
+          "Speed": 6.666666666666667
         },
         "metaLine": "JR / L/L",
         "detailBadges": [
@@ -6935,48 +6935,48 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 24,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jackson Barberi looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.00",
-          "WHIP 0.96",
-          "K/9 13.3"
+          "ERA 2.20",
+          "WHIP 0.98",
+          "K/9 13.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.00"
+            "value": "2.20"
           },
           {
             "label": "WHIP",
-            "value": "0.96"
+            "value": "0.98"
           },
           {
             "label": "K/9",
-            "value": "13.3"
+            "value": "13.5"
           },
           {
             "label": "BB/9",
-            "value": "4.0"
+            "value": "4.1"
           },
           {
             "label": "HR/9",
-            "value": "0.33"
+            "value": "0.63"
           },
           {
             "label": "IP",
-            "value": "27.0"
+            "value": "28.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 84.84848484848484,
-          "Command": 46.666666666666664,
+          "Miss bats": 86.36363636363636,
+          "Command": 46.15384615384615,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -7004,29 +7004,29 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "position": "RHP",
         "classYear": "R-SR",
         "handedness": "R/R",
-        "score": 13,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Billy Barlow looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 1.60",
-          "K/9 9.0"
+          "ERA 5.31",
+          "WHIP 1.57",
+          "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.40"
+            "value": "5.31"
           },
           {
             "label": "WHIP",
-            "value": "1.60"
+            "value": "1.57"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "9.3"
           },
           {
             "label": "BB/9",
@@ -7034,18 +7034,18 @@ window.__BASEBALL_DATASETS__.florida2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.45"
+            "value": "0.44"
           },
           {
             "label": "IP",
-            "value": "20.0"
+            "value": "20.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 24.444444444444446,
+          "Miss bats": 48.1371087928465,
+          "Command": 26.66666666666666,
           "Damage suppression": 0
         },
         "metaLine": "R-SR / R/R",
@@ -7210,29 +7210,29 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "position": "OF",
         "classYear": "FR",
         "handedness": "L/R",
-        "score": 37,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cash Strayer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .283",
-          "OBP .372",
-          "SLG .446"
+          "AVG .277",
+          "OBP .381",
+          "SLG .436"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".283"
+            "value": ".277"
           },
           {
             "label": "OBP",
-            "value": ".372"
+            "value": ".381"
           },
           {
             "label": "SLG",
-            "value": ".446"
+            "value": ".436"
           },
           {
             "label": "HR",
@@ -7248,10 +7248,10 @@ window.__BASEBALL_DATASETS__.florida2026 = {
           }
         ],
         "components": {
-          "On-base": 51.11111111111109,
-          "Power": 33.15789473684211,
-          "Contact": 39.374999999999986,
-          "Discipline": 33.33333333333333,
+          "On-base": 56.1111111111111,
+          "Power": 30.526315789473685,
+          "Contact": 35.625000000000014,
+          "Discipline": 44.444444444444436,
           "Speed": 0
         },
         "metaLine": "FR / L/R",
@@ -7561,18 +7561,18 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         },
         "summary": "Ricky Reeth looks like a RHP option who limits runs and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 2.70",
-          "WHIP 1.35",
+          "ERA 3.60",
+          "WHIP 1.45",
           "K/9 8.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.70"
+            "value": "3.60"
           },
           {
             "label": "WHIP",
-            "value": "1.35"
+            "value": "1.45"
           },
           {
             "label": "K/9",
@@ -8104,48 +8104,48 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "position": "LHP",
         "classYear": "GR",
         "handedness": "L/L",
-        "score": 26,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ernesto Lugo-Canchola looks like a LHP option who misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.55",
-          "WHIP 1.18",
-          "K/9 12.1"
+          "ERA 4.45",
+          "WHIP 1.19",
+          "K/9 12.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.55"
+            "value": "4.45"
           },
           {
             "label": "WHIP",
-            "value": "1.18"
+            "value": "1.19"
           },
           {
             "label": "K/9",
-            "value": "12.1"
+            "value": "12.2"
           },
           {
             "label": "BB/9",
-            "value": "2.7"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "2.12"
+            "value": "2.08"
           },
           {
             "label": "IP",
-            "value": "29.7"
+            "value": "30.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 73.95301327885598,
-          "Command": 68.88888888888889,
+          "Miss bats": 74.22577422577423,
+          "Command": 62.000000000000014,
           "Damage suppression": 0
         },
         "metaLine": "GR / L/L",
@@ -8241,48 +8241,48 @@ window.__BASEBALL_DATASETS__.florida2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 22,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Aidan King looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.19",
-          "WHIP 0.89",
-          "K/9 9.4"
+          "ERA 2.50",
+          "WHIP 0.93",
+          "K/9 9.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.19"
+            "value": "2.50"
           },
           {
             "label": "WHIP",
-            "value": "0.89"
+            "value": "0.93"
           },
           {
             "label": "K/9",
-            "value": "9.4"
+            "value": "9.5"
           },
           {
             "label": "BB/9",
-            "value": "1.9"
+            "value": "1.8"
           },
           {
             "label": "HR/9",
-            "value": "0.24"
+            "value": "0.34"
           },
           {
             "label": "IP",
-            "value": "74.0"
+            "value": "79.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 48.77149877149877,
-          "Command": 76.25,
+          "Miss bats": 50.26737967914438,
+          "Command": 84.99999999999999,
           "Damage suppression": 0
         },
         "metaLine": "SO / L/R",

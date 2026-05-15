@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.bowling-green2026 = {
-  "generatedAt": "2026-05-14T12:05:39.197Z",
+  "generatedAt": "2026-05-15T12:08:31.324Z",
   "season": 2026,
   "school": {
     "slug": "bowling-green",
@@ -41,84 +41,84 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
     }
   },
   "teamSummary": {
-    "record": "19-32, 12-18",
-    "battingAverage": ".244",
-    "earnedRunAverage": "6.45",
+    "record": "19-33, 12-19",
+    "battingAverage": ".245",
+    "earnedRunAverage": "6.44",
     "wins": "19",
-    "losses": "32",
+    "losses": "33",
     "hitting": {
-      "atBats": "1663",
-      "runsScored": "253",
-      "hits": "405",
-      "runsBattedIn": "229",
-      "doubles": "74",
+      "atBats": "1697",
+      "runsScored": "256",
+      "hits": "415",
+      "runsBattedIn": "232",
+      "doubles": "75",
       "triples": "10",
       "homeRuns": "43",
-      "walks": "183",
+      "walks": "187",
       "intentionalWalks": "0",
-      "strikeouts": "453",
+      "strikeouts": "460",
       "strikeoutsLooking": "117",
       "hitByPitch": "80",
       "stolenBases": "94",
       "caughtStealing": "27",
-      "sacrificeHits": "22",
+      "sacrificeHits": "25",
       "sacrificeFlies": "18",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "356",
-      "flyOuts": "447",
+      "groundOuts": "365",
+      "flyOuts": "458",
       "groundedIntoDoublePlay": "21",
       "pickedOff": "8",
       "doublePlaysHitInto": "26",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1294",
-      "assists": "402",
-      "errors": "52",
+      "putouts": "1318",
+      "assists": "407",
+      "errors": "54",
       "passedBalls": "6",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "80",
+      "stolenBasesAgainst": "84",
       "caughtStealingBy": "11",
       "involvedInDoublePlays": "29",
       "involvedInTriplePlays": "0",
-      "totalChances": "1748",
+      "totalChances": "1779",
       "fieldingPercentage": ".970"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "19",
-      "saves": "10",
-      "losses": "32",
+      "saves": "11",
+      "losses": "33",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "2",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "431.0",
-      "hitsAllowed": "523",
-      "runsAllowed": "366",
-      "earnedRunsAllowed": "309",
-      "walksAllowed": "197",
-      "strikeouts": "461",
-      "battersFaced": "2094",
-      "opponentAtBats": "1739",
-      "doublesAllowed": "106",
+      "inningsPitched": "439.0",
+      "hitsAllowed": "531",
+      "runsAllowed": "372",
+      "earnedRunsAllowed": "314",
+      "walksAllowed": "200",
+      "strikeouts": "471",
+      "battersFaced": "2132",
+      "opponentAtBats": "1771",
+      "doublesAllowed": "108",
       "triplesAllowed": "4",
-      "homerunsAllowed": "49",
-      "wildPitches": "42",
+      "homerunsAllowed": "50",
+      "wildPitches": "43",
       "balks": "2",
-      "hitBatters": "98",
-      "strikeoutsLooking": "132",
+      "hitBatters": "100",
+      "strikeoutsLooking": "136",
       "intentionalWalks": "2",
-      "inheritedRunners": "26",
+      "inheritedRunners": "27",
       "inheritedRunnersThatScored": "17",
       "sacrificeHitsAllowed": "34",
-      "sacrificeFliesAllowed": "26",
+      "sacrificeFliesAllowed": "27",
       "catchersInterferenceAllowed": "0",
-      "pitches": "7418",
-      "flyouts": "429",
-      "groundouts": "346",
+      "pitches": "7572",
+      "flyouts": "437",
+      "groundouts": "352",
       "teamUnearnedRuns": "0",
       "saveRecord": "3",
       "pickoff": "8"
@@ -825,21 +825,21 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "jersey": "10",
         "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/tj-takats/19819",
         "imageUrl": "https://bgsufalcons.com/images/2025/9/1/10_TJ_Takats.png",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "battingAverage": 0.22,
-        "onBasePercentage": 0.306,
-        "sluggingPercentage": 0.373,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "battingAverage": 0.221,
+        "onBasePercentage": 0.309,
+        "sluggingPercentage": 0.37,
         "ops": 0.679,
-        "atBats": 150,
+        "atBats": 154,
         "runs": 25,
-        "hits": 33,
+        "hits": 34,
         "doubles": 6,
         "triples": 1,
         "homeRuns": 5,
         "runsBattedIn": 25,
-        "totalBases": 56,
-        "walks": 15,
+        "totalBases": 57,
+        "walks": 16,
         "hitByPitch": 4,
         "strikeouts": 38,
         "intentionalWalks": 0,
@@ -848,10 +848,10 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "sacrificeHits": 1,
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
-        "putouts": 61,
+        "putouts": 63,
         "assists": 0,
-        "errors": 2,
-        "plateAppearances": 177,
+        "errors": 4,
+        "plateAppearances": 182,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -863,51 +863,51 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "jersey": "10",
         "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/tj-takats/19819",
         "imageUrl": "https://bgsufalcons.com/images/2025/9/1/10_TJ_Takats.png",
-        "gamesPlayed": 28,
-        "gamesStarted": 28,
-        "putouts": 61,
+        "gamesPlayed": 29,
+        "gamesStarted": 29,
+        "putouts": 63,
         "assists": 1,
-        "errors": 2,
-        "fieldingPercentage": 0.969,
+        "errors": 4,
+        "fieldingPercentage": 0.941,
         "doublePlays": 2,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 64
+        "totalChances": 68
       },
       "evaluation": {
-        "score": 13,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 14.444444444444427,
-          "Power": 13.94736842105263,
-          "Contact": 0,
-          "Discipline": 21.637426900584792,
+          "On-base": 16.111111111111097,
+          "Power": 13.157894736842104,
+          "Contact": 0.6250000000000006,
+          "Discipline": 24.561403508771924,
           "Speed": 20
         },
         "summary": "TJ Takats gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .220",
-          "OBP .306",
-          "SLG .373"
+          "AVG .221",
+          "OBP .309",
+          "SLG .370"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".220"
+            "value": ".221"
           },
           {
             "label": "OBP",
-            "value": ".306"
+            "value": ".309"
           },
           {
             "label": "SLG",
-            "value": ".373"
+            "value": ".370"
           },
           {
             "label": "HR",
@@ -1201,31 +1201,31 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "jersey": "13",
         "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ty-roder/19815",
         "imageUrl": "https://bgsufalcons.com/images/2025/9/1/13_Ty_Roder.png",
-        "gamesPlayed": 20,
+        "gamesPlayed": 21,
         "gamesStarted": 0,
-        "appearances": 20,
+        "appearances": 21,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.58,
-        "whip": 1.58,
+        "earnedRunAverage": 4.5,
+        "whip": 1.53,
         "wins": 3,
-        "losses": 2,
+        "losses": 3,
         "saves": 2,
         "shutouts": 0,
-        "inningsPitched": 35.333333333333336,
-        "inningsPitchedDisplay": "35.1",
-        "hitsAllowed": 42,
-        "runsAllowed": 20,
-        "earnedRunsAllowed": 18,
+        "inningsPitched": 38,
+        "inningsPitchedDisplay": "38.0",
+        "hitsAllowed": 44,
+        "runsAllowed": 22,
+        "earnedRunsAllowed": 19,
         "walksAllowed": 14,
-        "strikeouts": 36,
+        "strikeouts": 37,
         "doublesAllowed": 7,
         "triplesAllowed": 0,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 141,
+        "opponentsAtBats": 151,
         "wildPitches": 3,
-        "hitBatters": 7,
+        "hitBatters": 8,
         "balks": 0,
-        "opponentsBattingAverage": 0.298,
+        "opponentsBattingAverage": 0.291,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1258,40 +1258,40 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 46.99828473413378,
-          "Command": 31.428571428571423,
+          "Miss bats": 43.301435406698566,
+          "Command": 32.857142857142854,
           "Damage suppression": 0
         },
-        "summary": "Ty Roder looks like a RHP option who misses bats.",
+        "summary": "Ty Roder gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.58",
-          "WHIP 1.58",
-          "K/9 9.2"
+          "ERA 4.50",
+          "WHIP 1.53",
+          "K/9 8.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.58"
+            "value": "4.50"
           },
           {
             "label": "WHIP",
-            "value": "1.58"
+            "value": "1.53"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "8.8"
           },
           {
             "label": "BB/9",
-            "value": "3.6"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
-            "value": "1.27"
+            "value": "1.18"
           },
           {
             "label": "IP",
-            "value": "35.3"
+            "value": "38.0"
           }
         ],
         "metaLine": "R-SR / R/R",
@@ -1751,20 +1751,20 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "jersey": "17",
         "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carter-mottice/19814",
         "imageUrl": "https://bgsufalcons.com/images/2025/9/1/17_Carter_Mottice.png",
-        "gamesPlayed": 42,
-        "gamesStarted": 40,
-        "battingAverage": 0.214,
-        "onBasePercentage": 0.335,
-        "sluggingPercentage": 0.293,
-        "ops": 0.628,
-        "atBats": 140,
-        "runs": 14,
-        "hits": 30,
+        "gamesPlayed": 43,
+        "gamesStarted": 41,
+        "battingAverage": 0.236,
+        "onBasePercentage": 0.351,
+        "sluggingPercentage": 0.313,
+        "ops": 0.664,
+        "atBats": 144,
+        "runs": 15,
+        "hits": 34,
         "doubles": 6,
         "triples": 1,
         "homeRuns": 1,
         "runsBattedIn": 17,
-        "totalBases": 41,
+        "totalBases": 45,
         "walks": 18,
         "hitByPitch": 8,
         "strikeouts": 26,
@@ -1774,10 +1774,10 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "sacrificeHits": 2,
         "stolenBases": 6,
         "stolenBasesAttempts": 10,
-        "putouts": 83,
+        "putouts": 86,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 183,
+        "plateAppearances": 187,
         "caughtStealing": 4,
         "pickedOff": 0
       },
@@ -1789,51 +1789,51 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "jersey": "17",
         "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carter-mottice/19814",
         "imageUrl": "https://bgsufalcons.com/images/2025/9/1/17_Carter_Mottice.png",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "putouts": 83,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "putouts": 86,
         "assists": 1,
         "errors": 1,
-        "fieldingPercentage": 0.988,
+        "fieldingPercentage": 0.989,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 85
+        "totalChances": 88
       },
       "evaluation": {
-        "score": 19,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 30.555555555555554,
+          "On-base": 39.44444444444442,
           "Power": 0,
-          "Contact": 0,
+          "Contact": 9.999999999999991,
           "Discipline": 54.700854700854684,
           "Speed": 20
         },
         "summary": "Carter Mottice gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .214",
-          "OBP .335",
-          "SLG .293"
+          "AVG .236",
+          "OBP .351",
+          "SLG .313"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".214"
+            "value": ".236"
           },
           {
             "label": "OBP",
-            "value": ".335"
+            "value": ".351"
           },
           {
             "label": "SLG",
-            "value": ".293"
+            "value": ".313"
           },
           {
             "label": "HR",
@@ -1896,33 +1896,33 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "jersey": "18",
         "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/griffin-scheiderer/19825",
         "imageUrl": "https://bgsufalcons.com/images/2025/9/1/18_Griffin_Scheiderer.png",
-        "gamesPlayed": 46,
-        "gamesStarted": 44,
-        "battingAverage": 0.219,
+        "gamesPlayed": 47,
+        "gamesStarted": 45,
+        "battingAverage": 0.221,
         "onBasePercentage": 0.35,
-        "sluggingPercentage": 0.281,
-        "ops": 0.631,
-        "atBats": 146,
-        "runs": 25,
-        "hits": 32,
+        "sluggingPercentage": 0.282,
+        "ops": 0.632,
+        "atBats": 149,
+        "runs": 26,
+        "hits": 33,
         "doubles": 7,
         "triples": 1,
         "homeRuns": 0,
-        "runsBattedIn": 10,
-        "totalBases": 41,
+        "runsBattedIn": 11,
+        "totalBases": 42,
         "walks": 17,
         "hitByPitch": 13,
-        "strikeouts": 40,
+        "strikeouts": 41,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
-        "sacrificeHits": 3,
+        "sacrificeHits": 4,
         "stolenBases": 3,
         "stolenBasesAttempts": 7,
         "putouts": 55,
         "assists": 0,
         "errors": 7,
-        "plateAppearances": 191,
+        "plateAppearances": 195,
         "caughtStealing": 4,
         "pickedOff": 0
       },
@@ -1934,19 +1934,19 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "jersey": "18",
         "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/griffin-scheiderer/19825",
         "imageUrl": "https://bgsufalcons.com/images/2025/9/1/18_Griffin_Scheiderer.png",
-        "gamesPlayed": 38,
-        "gamesStarted": 37,
+        "gamesPlayed": 39,
+        "gamesStarted": 38,
         "putouts": 55,
-        "assists": 80,
+        "assists": 84,
         "errors": 7,
-        "fieldingPercentage": 0.951,
+        "fieldingPercentage": 0.952,
         "doublePlays": 10,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 142
+        "totalChances": 146
       },
       "evaluation": {
         "score": 17,
@@ -1957,20 +1957,20 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "components": {
           "On-base": 38.888888888888864,
           "Power": 0,
-          "Contact": 0,
-          "Discipline": 24.999999999999993,
+          "Contact": 0.6250000000000006,
+          "Discipline": 23.84823848238482,
           "Speed": 10
         },
         "summary": "Griffin Scheiderer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .219",
+          "AVG .221",
           "OBP .350",
-          "SLG .281"
+          "SLG .282"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".219"
+            "value": ".221"
           },
           {
             "label": "OBP",
@@ -1978,7 +1978,7 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
           },
           {
             "label": "SLG",
-            "value": ".281"
+            "value": ".282"
           },
           {
             "label": "HR",
@@ -1986,7 +1986,7 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
           },
           {
             "label": "RBI",
-            "value": "10"
+            "value": "11"
           },
           {
             "label": "SB",
@@ -2271,33 +2271,33 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "jersey": "21",
         "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/sam-seidel/19816",
         "imageUrl": "https://bgsufalcons.com/images/2025/9/1/21_Sam_Seidel.png",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "battingAverage": 0.243,
-        "onBasePercentage": 0.363,
-        "sluggingPercentage": 0.432,
-        "ops": 0.795,
-        "atBats": 169,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "battingAverage": 0.244,
+        "onBasePercentage": 0.369,
+        "sluggingPercentage": 0.436,
+        "ops": 0.805,
+        "atBats": 172,
         "runs": 27,
-        "hits": 41,
-        "doubles": 11,
+        "hits": 42,
+        "doubles": 12,
         "triples": 0,
         "homeRuns": 7,
-        "runsBattedIn": 26,
-        "totalBases": 73,
-        "walks": 25,
+        "runsBattedIn": 27,
+        "totalBases": 75,
+        "walks": 27,
         "hitByPitch": 7,
-        "strikeouts": 45,
+        "strikeouts": 46,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 18,
         "stolenBasesAttempts": 22,
-        "putouts": 73,
+        "putouts": 75,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 228,
+        "plateAppearances": 233,
         "caughtStealing": 4,
         "pickedOff": 2
       },
@@ -2309,10 +2309,10 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "jersey": "21",
         "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/sam-seidel/19816",
         "imageUrl": "https://bgsufalcons.com/images/2025/9/1/21_Sam_Seidel.png",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "putouts": 73,
-        "assists": 83,
+        "gamesPlayed": 44,
+        "gamesStarted": 44,
+        "putouts": 75,
+        "assists": 84,
         "errors": 4,
         "fieldingPercentage": 0.975,
         "doublePlays": 14,
@@ -2321,39 +2321,39 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 160
+        "totalChances": 163
       },
       "evaluation": {
-        "score": 37,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 46.11111111111109,
-          "Power": 29.47368421052632,
-          "Contact": 14.374999999999996,
-          "Discipline": 39.50617283950617,
+          "On-base": 49.44444444444443,
+          "Power": 30.526315789473685,
+          "Contact": 14.999999999999996,
+          "Discipline": 42.9951690821256,
           "Speed": 60
         },
         "summary": "Sam Seidel profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .243",
-          "OBP .363",
-          "SLG .432"
+          "AVG .244",
+          "OBP .369",
+          "SLG .436"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".243"
+            "value": ".244"
           },
           {
             "label": "OBP",
-            "value": ".363"
+            "value": ".369"
           },
           {
             "label": "SLG",
-            "value": ".432"
+            "value": ".436"
           },
           {
             "label": "HR",
@@ -2361,7 +2361,7 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
           },
           {
             "label": "RBI",
-            "value": "26"
+            "value": "27"
           },
           {
             "label": "SB",
@@ -2504,13 +2504,13 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "jersey": "23",
         "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/vinny-salvione/19827",
         "imageUrl": "https://bgsufalcons.com/images/2025/9/1/23_Vinny_Salvione.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 32,
-        "battingAverage": 0.252,
-        "onBasePercentage": 0.286,
-        "sluggingPercentage": 0.412,
-        "ops": 0.698,
-        "atBats": 131,
+        "gamesPlayed": 37,
+        "gamesStarted": 33,
+        "battingAverage": 0.248,
+        "onBasePercentage": 0.287,
+        "sluggingPercentage": 0.406,
+        "ops": 0.693,
+        "atBats": 133,
         "runs": 16,
         "hits": 33,
         "doubles": 7,
@@ -2518,19 +2518,19 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "homeRuns": 4,
         "runsBattedIn": 22,
         "totalBases": 54,
-        "walks": 5,
+        "walks": 6,
         "hitByPitch": 2,
-        "strikeouts": 26,
+        "strikeouts": 27,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
-        "sacrificeHits": 1,
+        "sacrificeHits": 2,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 89,
+        "putouts": 93,
         "assists": 0,
         "errors": 7,
-        "plateAppearances": 144,
+        "plateAppearances": 148,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -2542,19 +2542,19 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "jersey": "23",
         "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/vinny-salvione/19827",
         "imageUrl": "https://bgsufalcons.com/images/2025/9/1/23_Vinny_Salvione.png",
-        "gamesPlayed": 31,
-        "gamesStarted": 30,
-        "putouts": 89,
+        "gamesPlayed": 32,
+        "gamesStarted": 31,
+        "putouts": 93,
         "assists": 54,
         "errors": 7,
-        "fieldingPercentage": 0.953,
+        "fieldingPercentage": 0.955,
         "doublePlays": 16,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 150
+        "totalChances": 154
       },
       "evaluation": {
         "score": 12,
@@ -2563,30 +2563,30 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 3.3333333333333055,
-          "Power": 24.21052631578947,
-          "Contact": 20,
-          "Discipline": 0,
+          "On-base": 3.8888888888888618,
+          "Power": 22.631578947368432,
+          "Contact": 17.5,
+          "Discipline": 2.469135802469133,
           "Speed": 10
         },
         "summary": "Vinny Salvione gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .252",
-          "OBP .286",
-          "SLG .412"
+          "AVG .248",
+          "OBP .287",
+          "SLG .406"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".252"
+            "value": ".248"
           },
           {
             "label": "OBP",
-            "value": ".286"
+            "value": ".287"
           },
           {
             "label": "SLG",
-            "value": ".412"
+            "value": ".406"
           },
           {
             "label": "HR",
@@ -3362,33 +3362,33 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "jersey": "29",
         "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/lance-vickers/19831",
         "imageUrl": "https://bgsufalcons.com/images/2025/9/1/29_Lance_Vickers.png",
-        "gamesPlayed": 32,
-        "gamesStarted": 30,
-        "battingAverage": 0.279,
-        "onBasePercentage": 0.406,
-        "sluggingPercentage": 0.337,
-        "ops": 0.743,
-        "atBats": 104,
+        "gamesPlayed": 33,
+        "gamesStarted": 31,
+        "battingAverage": 0.278,
+        "onBasePercentage": 0.401,
+        "sluggingPercentage": 0.333,
+        "ops": 0.734,
+        "atBats": 108,
         "runs": 17,
-        "hits": 29,
+        "hits": 30,
         "doubles": 3,
         "triples": 0,
         "homeRuns": 1,
-        "runsBattedIn": 12,
-        "totalBases": 35,
+        "runsBattedIn": 13,
+        "totalBases": 36,
         "walks": 15,
         "hitByPitch": 10,
-        "strikeouts": 28,
+        "strikeouts": 29,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 4,
-        "sacrificeHits": 5,
+        "sacrificeHits": 6,
         "stolenBases": 11,
         "stolenBasesAttempts": 11,
         "putouts": 94,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 149,
+        "plateAppearances": 154,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -3415,36 +3415,36 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "totalChances": 103
       },
       "evaluation": {
-        "score": 39,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 70,
-          "Power": 4.47368421052632,
-          "Contact": 36.875000000000014,
-          "Discipline": 37.30158730158729,
+          "On-base": 67.22222222222223,
+          "Power": 3.421052631578951,
+          "Contact": 36.250000000000014,
+          "Discipline": 35.24904214559387,
           "Speed": 36.666666666666664
         },
         "summary": "Lance Vickers profiles as a C piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .279",
-          "OBP .406",
-          "SLG .337"
+          "AVG .278",
+          "OBP .401",
+          "SLG .333"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".279"
+            "value": ".278"
           },
           {
             "label": "OBP",
-            "value": ".406"
+            "value": ".401"
           },
           {
             "label": "SLG",
-            "value": ".337"
+            "value": ".333"
           },
           {
             "label": "HR",
@@ -3452,7 +3452,7 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "SB",
@@ -3738,31 +3738,31 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "jersey": "32",
         "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ethan-stade/19832",
         "imageUrl": "https://bgsufalcons.com/images/2025/9/1/32_Ethan_Stade.png",
-        "gamesPlayed": 13,
-        "gamesStarted": 9,
-        "appearances": 13,
+        "gamesPlayed": 14,
+        "gamesStarted": 10,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.22,
-        "whip": 1.09,
+        "earnedRunAverage": 4.36,
+        "whip": 1.14,
         "wins": 3,
         "losses": 4,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 59.666666666666664,
-        "inningsPitchedDisplay": "59.2",
-        "hitsAllowed": 48,
-        "runsAllowed": 36,
-        "earnedRunsAllowed": 28,
-        "walksAllowed": 17,
-        "strikeouts": 96,
-        "doublesAllowed": 11,
+        "inningsPitched": 64,
+        "inningsPitchedDisplay": "64.0",
+        "hitsAllowed": 53,
+        "runsAllowed": 39,
+        "earnedRunsAllowed": 31,
+        "walksAllowed": 20,
+        "strikeouts": 103,
+        "doublesAllowed": 13,
         "triplesAllowed": 1,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 224,
-        "wildPitches": 3,
-        "hitBatters": 13,
+        "opponentsAtBats": 241,
+        "wildPitches": 4,
+        "hitBatters": 14,
         "balks": 0,
-        "opponentsBattingAverage": 0.214,
+        "opponentsBattingAverage": 0.22,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3787,7 +3787,7 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "totalChances": 13
       },
       "evaluation": {
-        "score": 34,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3795,24 +3795,24 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 95.2767902488573,
-          "Command": 92.94117647058823,
+          "Miss bats": 95.3125,
+          "Command": 83,
           "Damage suppression": 0
         },
         "summary": "Ethan Stade looks like a LHP option who misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.22",
-          "WHIP 1.09",
+          "ERA 4.36",
+          "WHIP 1.14",
           "K/9 14.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.22"
+            "value": "4.36"
           },
           {
             "label": "WHIP",
-            "value": "1.09"
+            "value": "1.14"
           },
           {
             "label": "K/9",
@@ -3820,15 +3820,15 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
           },
           {
             "label": "BB/9",
-            "value": "2.6"
+            "value": "2.8"
           },
           {
             "label": "HR/9",
-            "value": "0.75"
+            "value": "0.70"
           },
           {
             "label": "IP",
-            "value": "59.7"
+            "value": "64.0"
           }
         ],
         "metaLine": "R-SR / L/L",
@@ -4021,20 +4021,20 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "jersey": "34",
         "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/zack-horky/19806",
         "imageUrl": "https://bgsufalcons.com/images/2025/9/1/34_Zack_Horky.png",
-        "gamesPlayed": 45,
-        "gamesStarted": 41,
-        "battingAverage": 0.258,
-        "onBasePercentage": 0.317,
-        "sluggingPercentage": 0.45,
-        "ops": 0.767,
-        "atBats": 151,
+        "gamesPlayed": 46,
+        "gamesStarted": 42,
+        "battingAverage": 0.256,
+        "onBasePercentage": 0.314,
+        "sluggingPercentage": 0.442,
+        "ops": 0.756,
+        "atBats": 156,
         "runs": 24,
-        "hits": 39,
+        "hits": 40,
         "doubles": 7,
         "triples": 2,
         "homeRuns": 6,
         "runsBattedIn": 24,
-        "totalBases": 68,
+        "totalBases": 69,
         "walks": 11,
         "hitByPitch": 3,
         "strikeouts": 64,
@@ -4044,10 +4044,10 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "sacrificeHits": 1,
         "stolenBases": 9,
         "stolenBasesAttempts": 14,
-        "putouts": 78,
+        "putouts": 81,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 187,
+        "plateAppearances": 192,
         "caughtStealing": 5,
         "pickedOff": 0
       },
@@ -4059,9 +4059,9 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "jersey": "34",
         "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/zack-horky/19806",
         "imageUrl": "https://bgsufalcons.com/images/2025/9/1/34_Zack_Horky.png",
-        "gamesPlayed": 34,
-        "gamesStarted": 33,
-        "putouts": 78,
+        "gamesPlayed": 35,
+        "gamesStarted": 34,
+        "putouts": 81,
         "assists": 1,
         "errors": 1,
         "fieldingPercentage": 0.988,
@@ -4071,39 +4071,39 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 80
+        "totalChances": 83
       },
       "evaluation": {
-        "score": 23,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 20.555555555555543,
-          "Power": 34.21052631578948,
-          "Contact": 23.750000000000004,
+          "On-base": 18.888888888888875,
+          "Power": 32.10526315789474,
+          "Contact": 22.500000000000004,
           "Discipline": 0,
           "Speed": 30
         },
         "summary": "Zack Horky profiles as a C/OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .258",
-          "OBP .317",
-          "SLG .450"
+          "AVG .256",
+          "OBP .314",
+          "SLG .442"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".258"
+            "value": ".256"
           },
           {
             "label": "OBP",
-            "value": ".317"
+            "value": ".314"
           },
           {
             "label": "SLG",
-            "value": ".450"
+            "value": ".442"
           },
           {
             "label": "HR",
@@ -4255,31 +4255,31 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "jersey": "36",
         "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ethan-papacek/19835",
         "imageUrl": "https://bgsufalcons.com/images/2025/9/1/36_Ethan_Papacek.png",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 0,
-        "appearances": 15,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.33,
-        "whip": 1.58,
+        "earnedRunAverage": 5.47,
+        "whip": 1.56,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 25.333333333333332,
-        "inningsPitchedDisplay": "25.1",
-        "hitsAllowed": 28,
-        "runsAllowed": 17,
-        "earnedRunsAllowed": 15,
+        "inningsPitched": 26.333333333333332,
+        "inningsPitchedDisplay": "26.1",
+        "hitsAllowed": 29,
+        "runsAllowed": 18,
+        "earnedRunsAllowed": 16,
         "walksAllowed": 12,
-        "strikeouts": 20,
+        "strikeouts": 22,
         "doublesAllowed": 8,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 98,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 103,
         "wildPitches": 4,
         "hitBatters": 8,
         "balks": 1,
-        "opponentsBattingAverage": 0.286,
+        "opponentsBattingAverage": 0.282,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4304,7 +4304,7 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "totalChances": 4
       },
       "evaluation": {
-        "score": 8,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4312,40 +4312,40 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 28.229665071770338,
-          "Command": 13.33333333333333,
+          "Miss bats": 31.990794016110474,
+          "Command": 16.66666666666666,
           "Damage suppression": 0
         },
         "summary": "Ethan Papacek gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.33",
-          "WHIP 1.58",
-          "K/9 7.1"
+          "ERA 5.47",
+          "WHIP 1.56",
+          "K/9 7.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.33"
+            "value": "5.47"
           },
           {
             "label": "WHIP",
-            "value": "1.58"
+            "value": "1.56"
           },
           {
             "label": "K/9",
-            "value": "7.1"
+            "value": "7.5"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "4.1"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "0.34"
           },
           {
             "label": "IP",
-            "value": "25.3"
+            "value": "26.3"
           }
         ],
         "metaLine": "R-JR / R/R",
@@ -4396,33 +4396,33 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "jersey": "38",
         "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/cooper-mckenzie/19812",
         "imageUrl": "https://bgsufalcons.com/images/2025/9/1/38_Cooper_McKenzie.png",
-        "gamesPlayed": 16,
-        "gamesStarted": 7,
-        "battingAverage": 0.037,
-        "onBasePercentage": 0.235,
-        "sluggingPercentage": 0.037,
-        "ops": 0.272,
-        "atBats": 27,
-        "runs": 2,
-        "hits": 1,
+        "gamesPlayed": 17,
+        "gamesStarted": 8,
+        "battingAverage": 0.065,
+        "onBasePercentage": 0.237,
+        "sluggingPercentage": 0.065,
+        "ops": 0.302,
+        "atBats": 31,
+        "runs": 3,
+        "hits": 2,
         "doubles": 0,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 0,
-        "totalBases": 1,
+        "totalBases": 2,
         "walks": 6,
         "hitByPitch": 1,
-        "strikeouts": 10,
+        "strikeouts": 11,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 68,
+        "putouts": 78,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 35,
+        "plateAppearances": 39,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4434,22 +4434,22 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "jersey": "38",
         "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/cooper-mckenzie/19812",
         "imageUrl": "https://bgsufalcons.com/images/2025/9/1/38_Cooper_McKenzie.png",
-        "gamesPlayed": 12,
-        "gamesStarted": 6,
-        "putouts": 68,
+        "gamesPlayed": 13,
+        "gamesStarted": 7,
+        "putouts": 78,
         "assists": 5,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 14,
+        "stolenBasesAgainst": 18,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 73
+        "totalChances": 83
       },
       "evaluation": {
-        "score": 7,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4458,27 +4458,27 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 44.444444444444436,
+          "Discipline": 38.38383838383837,
           "Speed": 3.3333333333333335
         },
         "summary": "Cooper McKenzie gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .037",
-          "OBP .235",
-          "SLG .037"
+          "AVG .065",
+          "OBP .237",
+          "SLG .065"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".037"
+            "value": ".065"
           },
           {
             "label": "OBP",
-            "value": ".235"
+            "value": ".237"
           },
           {
             "label": "SLG",
-            "value": ".037"
+            "value": ".065"
           },
           {
             "label": "HR",
@@ -4683,13 +4683,13 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "jersey": "40",
         "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/anthony-mitta/19836",
         "imageUrl": "https://bgsufalcons.com/images/2025/9/1/40_Anthony_Mitta.png",
-        "gamesPlayed": 47,
-        "gamesStarted": 47,
-        "battingAverage": 0.307,
-        "onBasePercentage": 0.379,
-        "sluggingPercentage": 0.441,
-        "ops": 0.82,
-        "atBats": 179,
+        "gamesPlayed": 48,
+        "gamesStarted": 48,
+        "battingAverage": 0.299,
+        "onBasePercentage": 0.37,
+        "sluggingPercentage": 0.429,
+        "ops": 0.799,
+        "atBats": 184,
         "runs": 23,
         "hits": 55,
         "doubles": 10,
@@ -4699,7 +4699,7 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "totalBases": 79,
         "walks": 18,
         "hitByPitch": 4,
-        "strikeouts": 41,
+        "strikeouts": 43,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 2,
@@ -4709,7 +4709,7 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "putouts": 147,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 218,
+        "plateAppearances": 223,
         "caughtStealing": 4,
         "pickedOff": 1
       },
@@ -4736,36 +4736,36 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "totalChances": 196
       },
       "evaluation": {
-        "score": 41,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 54.99999999999999,
-          "Power": 31.8421052631579,
-          "Contact": 54.37499999999999,
-          "Discipline": 26.55826558265582,
+          "On-base": 49.999999999999986,
+          "Power": 28.68421052631579,
+          "Contact": 49.37499999999999,
+          "Discipline": 24.28940568475452,
           "Speed": 20
         },
         "summary": "Anthony Mitta gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .307",
-          "OBP .379",
-          "SLG .441"
+          "AVG .299",
+          "OBP .370",
+          "SLG .429"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".307"
+            "value": ".299"
           },
           {
             "label": "OBP",
-            "value": ".379"
+            "value": ".370"
           },
           {
             "label": "SLG",
-            "value": ".441"
+            "value": ".429"
           },
           {
             "label": "HR",
@@ -5297,29 +5297,29 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "position": "1B/OF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 13,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "TJ Takats gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .220",
-          "OBP .306",
-          "SLG .373"
+          "AVG .221",
+          "OBP .309",
+          "SLG .370"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".220"
+            "value": ".221"
           },
           {
             "label": "OBP",
-            "value": ".306"
+            "value": ".309"
           },
           {
             "label": "SLG",
-            "value": ".373"
+            "value": ".370"
           },
           {
             "label": "HR",
@@ -5335,10 +5335,10 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
           }
         ],
         "components": {
-          "On-base": 14.444444444444427,
-          "Power": 13.94736842105263,
-          "Contact": 0,
-          "Discipline": 21.637426900584792,
+          "On-base": 16.111111111111097,
+          "Power": 13.157894736842104,
+          "Contact": 0.6250000000000006,
+          "Discipline": 24.561403508771924,
           "Speed": 20
         },
         "metaLine": "JR / L/L",
@@ -5508,43 +5508,43 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ty Roder looks like a RHP option who misses bats.",
+        "summary": "Ty Roder gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.58",
-          "WHIP 1.58",
-          "K/9 9.2"
+          "ERA 4.50",
+          "WHIP 1.53",
+          "K/9 8.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.58"
+            "value": "4.50"
           },
           {
             "label": "WHIP",
-            "value": "1.58"
+            "value": "1.53"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "8.8"
           },
           {
             "label": "BB/9",
-            "value": "3.6"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
-            "value": "1.27"
+            "value": "1.18"
           },
           {
             "label": "IP",
-            "value": "35.3"
+            "value": "38.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 46.99828473413378,
-          "Command": 31.428571428571423,
+          "Miss bats": 43.301435406698566,
+          "Command": 32.857142857142854,
           "Damage suppression": 0
         },
         "metaLine": "R-SR / R/R",
@@ -5779,29 +5779,29 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "L/L",
-        "score": 19,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Carter Mottice gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .214",
-          "OBP .335",
-          "SLG .293"
+          "AVG .236",
+          "OBP .351",
+          "SLG .313"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".214"
+            "value": ".236"
           },
           {
             "label": "OBP",
-            "value": ".335"
+            "value": ".351"
           },
           {
             "label": "SLG",
-            "value": ".293"
+            "value": ".313"
           },
           {
             "label": "HR",
@@ -5817,9 +5817,9 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
           }
         ],
         "components": {
-          "On-base": 30.555555555555554,
+          "On-base": 39.44444444444442,
           "Power": 0,
-          "Contact": 0,
+          "Contact": 9.999999999999991,
           "Discipline": 54.700854700854684,
           "Speed": 20
         },
@@ -5855,14 +5855,14 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         },
         "summary": "Griffin Scheiderer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .219",
+          "AVG .221",
           "OBP .350",
-          "SLG .281"
+          "SLG .282"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".219"
+            "value": ".221"
           },
           {
             "label": "OBP",
@@ -5870,7 +5870,7 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
           },
           {
             "label": "SLG",
-            "value": ".281"
+            "value": ".282"
           },
           {
             "label": "HR",
@@ -5878,7 +5878,7 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
           },
           {
             "label": "RBI",
-            "value": "10"
+            "value": "11"
           },
           {
             "label": "SB",
@@ -5888,8 +5888,8 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "components": {
           "On-base": 38.888888888888864,
           "Power": 0,
-          "Contact": 0,
-          "Discipline": 24.999999999999993,
+          "Contact": 0.6250000000000006,
+          "Discipline": 23.84823848238482,
           "Speed": 10
         },
         "metaLine": "FR / L/R",
@@ -6054,29 +6054,29 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 37,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Sam Seidel profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .243",
-          "OBP .363",
-          "SLG .432"
+          "AVG .244",
+          "OBP .369",
+          "SLG .436"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".243"
+            "value": ".244"
           },
           {
             "label": "OBP",
-            "value": ".363"
+            "value": ".369"
           },
           {
             "label": "SLG",
-            "value": ".432"
+            "value": ".436"
           },
           {
             "label": "HR",
@@ -6084,7 +6084,7 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
           },
           {
             "label": "RBI",
-            "value": "26"
+            "value": "27"
           },
           {
             "label": "SB",
@@ -6092,10 +6092,10 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
           }
         ],
         "components": {
-          "On-base": 46.11111111111109,
-          "Power": 29.47368421052632,
-          "Contact": 14.374999999999996,
-          "Discipline": 39.50617283950617,
+          "On-base": 49.44444444444443,
+          "Power": 30.526315789473685,
+          "Contact": 14.999999999999996,
+          "Discipline": 42.9951690821256,
           "Speed": 60
         },
         "metaLine": "SR / L/R",
@@ -6198,22 +6198,22 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         },
         "summary": "Vinny Salvione gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .252",
-          "OBP .286",
-          "SLG .412"
+          "AVG .248",
+          "OBP .287",
+          "SLG .406"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".252"
+            "value": ".248"
           },
           {
             "label": "OBP",
-            "value": ".286"
+            "value": ".287"
           },
           {
             "label": "SLG",
-            "value": ".412"
+            "value": ".406"
           },
           {
             "label": "HR",
@@ -6229,10 +6229,10 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
           }
         ],
         "components": {
-          "On-base": 3.3333333333333055,
-          "Power": 24.21052631578947,
-          "Contact": 20,
-          "Discipline": 0,
+          "On-base": 3.8888888888888618,
+          "Power": 22.631578947368432,
+          "Contact": 17.5,
+          "Discipline": 2.469135802469133,
           "Speed": 10
         },
         "metaLine": "JR / R/R",
@@ -6605,29 +6605,29 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 39,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Lance Vickers profiles as a C piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .279",
-          "OBP .406",
-          "SLG .337"
+          "AVG .278",
+          "OBP .401",
+          "SLG .333"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".279"
+            "value": ".278"
           },
           {
             "label": "OBP",
-            "value": ".406"
+            "value": ".401"
           },
           {
             "label": "SLG",
-            "value": ".337"
+            "value": ".333"
           },
           {
             "label": "HR",
@@ -6635,7 +6635,7 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "SB",
@@ -6643,10 +6643,10 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
           }
         ],
         "components": {
-          "On-base": 70,
-          "Power": 4.47368421052632,
-          "Contact": 36.875000000000014,
-          "Discipline": 37.30158730158729,
+          "On-base": 67.22222222222223,
+          "Power": 3.421052631578951,
+          "Contact": 36.250000000000014,
+          "Discipline": 35.24904214559387,
           "Speed": 36.666666666666664
         },
         "metaLine": "JR / R/R",
@@ -6811,25 +6811,25 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "position": "LHP",
         "classYear": "R-SR",
         "handedness": "L/L",
-        "score": 34,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ethan Stade looks like a LHP option who misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.22",
-          "WHIP 1.09",
+          "ERA 4.36",
+          "WHIP 1.14",
           "K/9 14.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.22"
+            "value": "4.36"
           },
           {
             "label": "WHIP",
-            "value": "1.09"
+            "value": "1.14"
           },
           {
             "label": "K/9",
@@ -6837,22 +6837,22 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
           },
           {
             "label": "BB/9",
-            "value": "2.6"
+            "value": "2.8"
           },
           {
             "label": "HR/9",
-            "value": "0.75"
+            "value": "0.70"
           },
           {
             "label": "IP",
-            "value": "59.7"
+            "value": "64.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 95.2767902488573,
-          "Command": 92.94117647058823,
+          "Miss bats": 95.3125,
+          "Command": 83,
           "Damage suppression": 0
         },
         "metaLine": "R-SR / L/L",
@@ -6949,29 +6949,29 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "position": "C/OF",
         "classYear": "R-SR",
         "handedness": "R/R",
-        "score": 23,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Zack Horky profiles as a C/OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .258",
-          "OBP .317",
-          "SLG .450"
+          "AVG .256",
+          "OBP .314",
+          "SLG .442"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".258"
+            "value": ".256"
           },
           {
             "label": "OBP",
-            "value": ".317"
+            "value": ".314"
           },
           {
             "label": "SLG",
-            "value": ".450"
+            "value": ".442"
           },
           {
             "label": "HR",
@@ -6987,9 +6987,9 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
           }
         ],
         "components": {
-          "On-base": 20.555555555555543,
-          "Power": 34.21052631578948,
-          "Contact": 23.750000000000004,
+          "On-base": 18.888888888888875,
+          "Power": 32.10526315789474,
+          "Contact": 22.500000000000004,
           "Discipline": 0,
           "Speed": 30
         },
@@ -7086,48 +7086,48 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "position": "RHP",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 8,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ethan Papacek gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.33",
-          "WHIP 1.58",
-          "K/9 7.1"
+          "ERA 5.47",
+          "WHIP 1.56",
+          "K/9 7.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.33"
+            "value": "5.47"
           },
           {
             "label": "WHIP",
-            "value": "1.58"
+            "value": "1.56"
           },
           {
             "label": "K/9",
-            "value": "7.1"
+            "value": "7.5"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "4.1"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "0.34"
           },
           {
             "label": "IP",
-            "value": "25.3"
+            "value": "26.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 28.229665071770338,
-          "Command": 13.33333333333333,
+          "Miss bats": 31.990794016110474,
+          "Command": 16.66666666666666,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / R/R",
@@ -7155,29 +7155,29 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "position": "C",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 7,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cooper McKenzie gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .037",
-          "OBP .235",
-          "SLG .037"
+          "AVG .065",
+          "OBP .237",
+          "SLG .065"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".037"
+            "value": ".065"
           },
           {
             "label": "OBP",
-            "value": ".235"
+            "value": ".237"
           },
           {
             "label": "SLG",
-            "value": ".037"
+            "value": ".065"
           },
           {
             "label": "HR",
@@ -7196,7 +7196,7 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 44.444444444444436,
+          "Discipline": 38.38383838383837,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / R/R",
@@ -7293,29 +7293,29 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
         "position": "INF",
         "classYear": "R-SR",
         "handedness": "L/R",
-        "score": 41,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Anthony Mitta gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .307",
-          "OBP .379",
-          "SLG .441"
+          "AVG .299",
+          "OBP .370",
+          "SLG .429"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".307"
+            "value": ".299"
           },
           {
             "label": "OBP",
-            "value": ".379"
+            "value": ".370"
           },
           {
             "label": "SLG",
-            "value": ".441"
+            "value": ".429"
           },
           {
             "label": "HR",
@@ -7331,10 +7331,10 @@ window.__BASEBALL_DATASETS__.bowling-green2026 = {
           }
         ],
         "components": {
-          "On-base": 54.99999999999999,
-          "Power": 31.8421052631579,
-          "Contact": 54.37499999999999,
-          "Discipline": 26.55826558265582,
+          "On-base": 49.999999999999986,
+          "Power": 28.68421052631579,
+          "Contact": 49.37499999999999,
+          "Discipline": 24.28940568475452,
           "Speed": 20
         },
         "metaLine": "R-SR / L/R",

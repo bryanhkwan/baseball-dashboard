@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.san-francisco2026 = {
-  "generatedAt": "2026-05-14T12:06:22.943Z",
+  "generatedAt": "2026-05-15T12:09:39.483Z",
   "season": 2026,
   "school": {
     "slug": "san-francisco",
@@ -39,87 +39,87 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
     }
   },
   "teamSummary": {
-    "record": "22-27, 13-11",
-    "battingAverage": ".241",
-    "earnedRunAverage": "5.95",
-    "wins": "22",
+    "record": "23-27, 14-11",
+    "battingAverage": ".245",
+    "earnedRunAverage": "5.84",
+    "wins": "23",
     "losses": "27",
     "hitting": {
-      "atBats": "1597",
-      "runsScored": "214",
-      "hits": "385",
-      "runsBattedIn": "201",
-      "doubles": "81",
+      "atBats": "1639",
+      "runsScored": "223",
+      "hits": "402",
+      "runsBattedIn": "209",
+      "doubles": "84",
       "triples": "5",
-      "homeRuns": "32",
-      "walks": "208",
+      "homeRuns": "36",
+      "walks": "211",
       "intentionalWalks": "2",
-      "strikeouts": "495",
-      "strikeoutsLooking": "130",
-      "hitByPitch": "68",
+      "strikeouts": "502",
+      "strikeoutsLooking": "132",
+      "hitByPitch": "71",
       "stolenBases": "35",
-      "caughtStealing": "5",
-      "sacrificeHits": "14",
+      "caughtStealing": "6",
+      "sacrificeHits": "15",
       "sacrificeFlies": "12",
       "reachedOnCatchersInteference": "7",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "350",
-      "flyOuts": "368",
+      "groundOuts": "356",
+      "flyOuts": "381",
       "groundedIntoDoublePlay": "32",
       "pickedOff": "1",
       "doublePlaysHitInto": "37",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1285",
-      "assists": "487",
-      "errors": "53",
+      "putouts": "1312",
+      "assists": "491",
+      "errors": "58",
       "passedBalls": "3",
       "catchersInterference": "0",
       "stolenBasesAgainst": "39",
       "caughtStealingBy": "25",
       "involvedInDoublePlays": "35",
       "involvedInTriplePlays": "0",
-      "totalChances": "1825",
-      "fieldingPercentage": ".971"
+      "totalChances": "1861",
+      "fieldingPercentage": ".969"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "22",
+      "wins": "23",
       "saves": "22",
       "losses": "27",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "2",
       "creditForCombinedShutout": "1",
-      "inningsPitched": "428.1",
-      "hitsAllowed": "476",
-      "runsAllowed": "316",
-      "earnedRunsAllowed": "283",
-      "walksAllowed": "218",
-      "strikeouts": "353",
-      "battersFaced": "1998",
-      "opponentAtBats": "1668",
-      "doublesAllowed": "109",
+      "inningsPitched": "437.1",
+      "hitsAllowed": "484",
+      "runsAllowed": "322",
+      "earnedRunsAllowed": "284",
+      "walksAllowed": "224",
+      "strikeouts": "365",
+      "battersFaced": "2040",
+      "opponentAtBats": "1703",
+      "doublesAllowed": "110",
       "triplesAllowed": "8",
-      "homerunsAllowed": "38",
-      "wildPitches": "30",
+      "homerunsAllowed": "39",
+      "wildPitches": "33",
       "balks": "8",
-      "hitBatters": "66",
-      "strikeoutsLooking": "67",
+      "hitBatters": "67",
+      "strikeoutsLooking": "73",
       "intentionalWalks": "1",
       "inheritedRunners": "27",
       "inheritedRunnersThatScored": "14",
       "sacrificeHitsAllowed": "26",
       "sacrificeFliesAllowed": "20",
       "catchersInterferenceAllowed": "0",
-      "pitches": "3215",
-      "flyouts": "404",
-      "groundouts": "457",
+      "pitches": "3386",
+      "flyouts": "412",
+      "groundouts": "464",
       "teamUnearnedRuns": "0",
       "saveRecord": "13",
-      "pickoff": "4"
+      "pickoff": "5"
     }
   },
   "players": [
@@ -161,20 +161,20 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "jersey": "1",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/isaiah-landry/6359",
         "imageUrl": "https://usfdons.com/images/2026/2/5/1_Isaiah_Landry_yXoNK.png",
-        "gamesPlayed": 30,
-        "gamesStarted": 29,
-        "battingAverage": 0.243,
-        "onBasePercentage": 0.333,
-        "sluggingPercentage": 0.417,
-        "ops": 0.75,
-        "atBats": 103,
-        "runs": 11,
-        "hits": 25,
-        "doubles": 8,
+        "gamesPlayed": 31,
+        "gamesStarted": 30,
+        "battingAverage": 0.25,
+        "onBasePercentage": 0.336,
+        "sluggingPercentage": 0.426,
+        "ops": 0.762,
+        "atBats": 108,
+        "runs": 12,
+        "hits": 27,
+        "doubles": 9,
         "triples": 2,
         "homeRuns": 2,
         "runsBattedIn": 14,
-        "totalBases": 43,
+        "totalBases": 46,
         "walks": 9,
         "hitByPitch": 5,
         "strikeouts": 31,
@@ -184,10 +184,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "sacrificeHits": 1,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 53,
+        "putouts": 56,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 121,
+        "plateAppearances": 126,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -199,51 +199,51 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "jersey": "1",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/isaiah-landry/6359",
         "imageUrl": "https://usfdons.com/images/2026/2/5/1_Isaiah_Landry_yXoNK.png",
-        "gamesPlayed": 26,
-        "gamesStarted": 26,
-        "putouts": 53,
+        "gamesPlayed": 27,
+        "gamesStarted": 27,
+        "putouts": 56,
         "assists": 2,
         "errors": 1,
-        "fieldingPercentage": 0.982,
+        "fieldingPercentage": 0.983,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 56
+        "totalChances": 59
       },
       "evaluation": {
-        "score": 21,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 29.44444444444444,
-          "Power": 25.52631578947368,
-          "Contact": 14.374999999999996,
+          "On-base": 31.11111111111111,
+          "Power": 27.89473684210526,
+          "Contact": 18.75,
           "Discipline": 10.035842293906809,
           "Speed": 10
         },
         "summary": "Isaiah Landry gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .243",
-          "OBP .333",
-          "SLG .417"
+          "AVG .250",
+          "OBP .336",
+          "SLG .426"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".243"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".336"
           },
           {
             "label": "SLG",
-            "value": ".417"
+            "value": ".426"
           },
           {
             "label": "HR",
@@ -306,13 +306,13 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "jersey": "2",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/myles-kallinger/6254",
         "imageUrl": "https://usfdons.com/images/2026/2/5/2_Myles_Kallinger_bXGon.png",
-        "gamesPlayed": 26,
+        "gamesPlayed": 27,
         "gamesStarted": 16,
-        "battingAverage": 0.265,
-        "onBasePercentage": 0.329,
-        "sluggingPercentage": 0.471,
-        "ops": 0.8,
-        "atBats": 68,
+        "battingAverage": 0.261,
+        "onBasePercentage": 0.325,
+        "sluggingPercentage": 0.464,
+        "ops": 0.789,
+        "atBats": 69,
         "runs": 13,
         "hits": 18,
         "doubles": 4,
@@ -332,7 +332,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "putouts": 27,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 85,
+        "plateAppearances": 86,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -359,36 +359,36 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "totalChances": 28
       },
       "evaluation": {
-        "score": 29,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 27.222222222222214,
-          "Power": 39.73684210526315,
-          "Contact": 28.125000000000007,
+          "On-base": 24.999999999999993,
+          "Power": 37.89473684210527,
+          "Contact": 25.625000000000004,
           "Discipline": 23.529411764705877,
           "Speed": 16.666666666666664
         },
         "summary": "Myles Kallinger gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .265",
-          "OBP .329",
-          "SLG .471"
+          "AVG .261",
+          "OBP .325",
+          "SLG .464"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".265"
+            "value": ".261"
           },
           {
             "label": "OBP",
-            "value": ".329"
+            "value": ".325"
           },
           {
             "label": "SLG",
-            "value": ".471"
+            "value": ".464"
           },
           {
             "label": "HR",
@@ -721,33 +721,33 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "jersey": "5",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/eddison-esquivel/6249",
         "imageUrl": "https://usfdons.com/images/2026/2/5/5_Eddison_Esquivel_FF2Yu.png",
-        "gamesPlayed": 49,
-        "gamesStarted": 49,
-        "battingAverage": 0.254,
-        "onBasePercentage": 0.376,
-        "sluggingPercentage": 0.341,
-        "ops": 0.717,
-        "atBats": 185,
-        "runs": 21,
-        "hits": 47,
+        "gamesPlayed": 50,
+        "gamesStarted": 50,
+        "battingAverage": 0.259,
+        "onBasePercentage": 0.381,
+        "sluggingPercentage": 0.376,
+        "ops": 0.757,
+        "atBats": 189,
+        "runs": 24,
+        "hits": 49,
         "doubles": 13,
         "triples": 0,
-        "homeRuns": 1,
-        "runsBattedIn": 18,
-        "totalBases": 63,
-        "walks": 26,
+        "homeRuns": 3,
+        "runsBattedIn": 22,
+        "totalBases": 71,
+        "walks": 27,
         "hitByPitch": 10,
-        "strikeouts": 48,
+        "strikeouts": 49,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 107,
+        "putouts": 108,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 224,
+        "plateAppearances": 229,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -759,9 +759,9 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "jersey": "5",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/eddison-esquivel/6249",
         "imageUrl": "https://usfdons.com/images/2026/2/5/5_Eddison_Esquivel_FF2Yu.png",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
-        "putouts": 107,
+        "gamesPlayed": 35,
+        "gamesStarted": 35,
+        "putouts": 108,
         "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -771,47 +771,47 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 109
+        "totalChances": 110
       },
       "evaluation": {
-        "score": 29,
+        "score": 33,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 53.33333333333332,
-          "Power": 5.526315789473689,
-          "Contact": 21.250000000000004,
-          "Discipline": 37.962962962962955,
+          "On-base": 56.1111111111111,
+          "Power": 14.73684210526316,
+          "Contact": 24.375000000000004,
+          "Discipline": 39.00226757369613,
           "Speed": 10
         },
         "summary": "Eddison Esquivel gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .254",
-          "OBP .376",
-          "SLG .341"
+          "AVG .259",
+          "OBP .381",
+          "SLG .376"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".254"
+            "value": ".259"
           },
           {
             "label": "OBP",
-            "value": ".376"
+            "value": ".381"
           },
           {
             "label": "SLG",
-            "value": ".341"
+            "value": ".376"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "3"
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -866,34 +866,34 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "jersey": "6",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/jared-lewis/6361",
         "imageUrl": "https://usfdons.com/images/2026/2/5/6_Jared_rhKDi.png",
-        "gamesPlayed": 38,
-        "gamesStarted": 35,
-        "battingAverage": 0.269,
+        "gamesPlayed": 39,
+        "gamesStarted": 36,
+        "battingAverage": 0.274,
         "onBasePercentage": 0.4,
-        "sluggingPercentage": 0.333,
-        "ops": 0.733,
-        "atBats": 108,
-        "runs": 15,
-        "hits": 29,
+        "sluggingPercentage": 0.336,
+        "ops": 0.736,
+        "atBats": 113,
+        "runs": 16,
+        "hits": 31,
         "doubles": 4,
         "triples": 0,
         "homeRuns": 1,
         "runsBattedIn": 17,
-        "totalBases": 36,
+        "totalBases": 38,
         "walks": 22,
         "hitByPitch": 3,
-        "strikeouts": 39,
+        "strikeouts": 41,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 2,
-        "sacrificeHits": 3,
+        "sacrificeHits": 4,
         "stolenBases": 3,
-        "stolenBasesAttempts": 3,
+        "stolenBasesAttempts": 4,
         "putouts": 64,
         "assists": 0,
         "errors": 13,
-        "plateAppearances": 141,
-        "caughtStealing": 0,
+        "plateAppearances": 149,
+        "caughtStealing": 1,
         "pickedOff": 0
       },
       "pitchingStats": null,
@@ -904,10 +904,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "jersey": "6",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/jared-lewis/6361",
         "imageUrl": "https://usfdons.com/images/2026/2/5/6_Jared_rhKDi.png",
-        "gamesPlayed": 34,
-        "gamesStarted": 33,
+        "gamesPlayed": 35,
+        "gamesStarted": 34,
         "putouts": 64,
-        "assists": 72,
+        "assists": 73,
         "errors": 13,
         "fieldingPercentage": 0.913,
         "doublePlays": 9,
@@ -916,31 +916,31 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 149
+        "totalChances": 150
       },
       "evaluation": {
-        "score": 34,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
           "On-base": 66.66666666666666,
-          "Power": 3.421052631578951,
-          "Contact": 30.625000000000007,
-          "Discipline": 40.455840455840445,
+          "Power": 4.210526315789478,
+          "Contact": 33.750000000000014,
+          "Discipline": 37.39837398373984,
           "Speed": 10
         },
         "summary": "Jared Lewis profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .269",
+          "AVG .274",
           "OBP .400",
-          "SLG .333"
+          "SLG .336"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".269"
+            "value": ".274"
           },
           {
             "label": "OBP",
@@ -948,7 +948,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           },
           {
             "label": "SLG",
-            "value": ".333"
+            "value": ".336"
           },
           {
             "label": "HR",
@@ -1011,13 +1011,13 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "jersey": "7",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/jordan-lewis/6255",
         "imageUrl": "https://usfdons.com/images/2026/2/5/7_Jordan_KEjwV.png",
-        "gamesPlayed": 21,
-        "gamesStarted": 13,
-        "battingAverage": 0.188,
-        "onBasePercentage": 0.328,
-        "sluggingPercentage": 0.271,
-        "ops": 0.599,
-        "atBats": 48,
+        "gamesPlayed": 22,
+        "gamesStarted": 14,
+        "battingAverage": 0.176,
+        "onBasePercentage": 0.333,
+        "sluggingPercentage": 0.255,
+        "ops": 0.588,
+        "atBats": 51,
         "runs": 6,
         "hits": 9,
         "doubles": 1,
@@ -1025,19 +1025,19 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "homeRuns": 1,
         "runsBattedIn": 5,
         "totalBases": 13,
-        "walks": 9,
-        "hitByPitch": 1,
-        "strikeouts": 18,
+        "walks": 10,
+        "hitByPitch": 2,
+        "strikeouts": 19,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
-        "putouts": 29,
+        "putouts": 32,
         "assists": 0,
-        "errors": 0,
-        "plateAppearances": 63,
+        "errors": 1,
+        "plateAppearances": 68,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1049,51 +1049,51 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "jersey": "7",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/jordan-lewis/6255",
         "imageUrl": "https://usfdons.com/images/2026/2/5/7_Jordan_KEjwV.png",
-        "gamesPlayed": 13,
-        "gamesStarted": 12,
-        "putouts": 29,
+        "gamesPlayed": 14,
+        "gamesStarted": 13,
+        "putouts": 32,
         "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
+        "errors": 1,
+        "fieldingPercentage": 0.971,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 31
+        "totalChances": 35
       },
       "evaluation": {
-        "score": 14,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 26.66666666666666,
+          "On-base": 29.44444444444444,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 33.33333333333333,
+          "Discipline": 36.25730994152046,
           "Speed": 6.666666666666667
         },
         "summary": "Jordan Lewis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .188",
-          "OBP .328",
-          "SLG .271"
+          "AVG .176",
+          "OBP .333",
+          "SLG .255"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".188"
+            "value": ".176"
           },
           {
             "label": "OBP",
-            "value": ".328"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".271"
+            "value": ".255"
           },
           {
             "label": "HR",
@@ -1440,20 +1440,20 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "jersey": "11",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/tyler-harries/6251",
         "imageUrl": "https://usfdons.com/images/2026/2/5/11_Tyler_Harries_dZhTS.png",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "battingAverage": 0.222,
-        "onBasePercentage": 0.348,
-        "sluggingPercentage": 0.282,
-        "ops": 0.63,
-        "atBats": 117,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "battingAverage": 0.23,
+        "onBasePercentage": 0.349,
+        "sluggingPercentage": 0.295,
+        "ops": 0.644,
+        "atBats": 122,
         "runs": 13,
-        "hits": 26,
-        "doubles": 4,
+        "hits": 28,
+        "doubles": 5,
         "triples": 0,
         "homeRuns": 1,
         "runsBattedIn": 16,
-        "totalBases": 33,
+        "totalBases": 36,
         "walks": 18,
         "hitByPitch": 5,
         "strikeouts": 31,
@@ -1463,10 +1463,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 22,
+        "putouts": 23,
         "assists": 0,
-        "errors": 3,
-        "plateAppearances": 141,
+        "errors": 4,
+        "plateAppearances": 146,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1478,51 +1478,51 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "jersey": "11",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/tyler-harries/6251",
         "imageUrl": "https://usfdons.com/images/2026/2/5/11_Tyler_Harries_dZhTS.png",
-        "gamesPlayed": 29,
-        "gamesStarted": 29,
-        "putouts": 22,
-        "assists": 75,
-        "errors": 3,
-        "fieldingPercentage": 0.97,
+        "gamesPlayed": 30,
+        "gamesStarted": 30,
+        "putouts": 23,
+        "assists": 76,
+        "errors": 4,
+        "fieldingPercentage": 0.961,
         "doublePlays": 8,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 100
+        "totalChances": 103
       },
       "evaluation": {
-        "score": 18,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 37.77777777777775,
+          "On-base": 38.33333333333331,
           "Power": 0,
-          "Contact": 1.250000000000001,
+          "Contact": 6.250000000000005,
           "Discipline": 42.29390681003584,
           "Speed": 0
         },
         "summary": "Tyler Harries gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .222",
-          "OBP .348",
-          "SLG .282"
+          "AVG .230",
+          "OBP .349",
+          "SLG .295"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".222"
+            "value": ".230"
           },
           {
             "label": "OBP",
-            "value": ".348"
+            "value": ".349"
           },
           {
             "label": "SLG",
-            "value": ".282"
+            "value": ".295"
           },
           {
             "label": "HR",
@@ -1585,33 +1585,33 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "jersey": "12",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/tj-rogers/6260",
         "imageUrl": "https://usfdons.com/images/2026/2/5/12_TJ_Rogers_Ehh8e.png",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "battingAverage": 0.24,
-        "onBasePercentage": 0.374,
-        "sluggingPercentage": 0.479,
-        "ops": 0.853,
-        "atBats": 167,
-        "runs": 30,
-        "hits": 40,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "battingAverage": 0.238,
+        "onBasePercentage": 0.373,
+        "sluggingPercentage": 0.488,
+        "ops": 0.861,
+        "atBats": 172,
+        "runs": 31,
+        "hits": 41,
         "doubles": 10,
         "triples": 0,
-        "homeRuns": 10,
-        "runsBattedIn": 21,
-        "totalBases": 80,
-        "walks": 30,
+        "homeRuns": 11,
+        "runsBattedIn": 24,
+        "totalBases": 84,
+        "walks": 31,
         "hitByPitch": 6,
-        "strikeouts": 61,
+        "strikeouts": 62,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 8,
         "stolenBasesAttempts": 8,
-        "putouts": 79,
+        "putouts": 80,
         "assists": 0,
-        "errors": 7,
-        "plateAppearances": 211,
+        "errors": 9,
+        "plateAppearances": 217,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -1623,19 +1623,19 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "jersey": "12",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/tj-rogers/6260",
         "imageUrl": "https://usfdons.com/images/2026/2/5/12_TJ_Rogers_Ehh8e.png",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "putouts": 79,
-        "assists": 138,
-        "errors": 7,
-        "fieldingPercentage": 0.969,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "putouts": 80,
+        "assists": 139,
+        "errors": 9,
+        "fieldingPercentage": 0.961,
         "doublePlays": 24,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 224
+        "totalChances": 228
       },
       "evaluation": {
         "score": 37,
@@ -1644,38 +1644,38 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 52.222222222222214,
-          "Power": 41.84210526315789,
-          "Contact": 12.499999999999993,
-          "Discipline": 32.42258652094717,
+          "On-base": 51.66666666666665,
+          "Power": 44.21052631578947,
+          "Contact": 11.249999999999991,
+          "Discipline": 33.33333333333333,
           "Speed": 26.666666666666668
         },
         "summary": "TJ Rogers profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .240",
-          "OBP .374",
-          "SLG .479"
+          "AVG .238",
+          "OBP .373",
+          "SLG .488"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".240"
+            "value": ".238"
           },
           {
             "label": "OBP",
-            "value": ".374"
+            "value": ".373"
           },
           {
             "label": "SLG",
-            "value": ".479"
+            "value": ".488"
           },
           {
             "label": "HR",
-            "value": "10"
+            "value": "11"
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "24"
           },
           {
             "label": "SB",
@@ -1731,31 +1731,31 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "jersey": "13",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/hunter-holzemer/6253",
         "imageUrl": "https://usfdons.com/images/2026/2/5/13_Hunter_Holzemer_BLYIm.png",
-        "gamesPlayed": 20,
+        "gamesPlayed": 21,
         "gamesStarted": 0,
-        "appearances": 20,
+        "appearances": 21,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.13,
-        "whip": 1.58,
+        "earnedRunAverage": 4.07,
+        "whip": 1.6,
         "wins": 5,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 24,
-        "inningsPitchedDisplay": "24.0",
+        "inningsPitched": 24.333333333333332,
+        "inningsPitchedDisplay": "24.1",
         "hitsAllowed": 30,
         "runsAllowed": 16,
         "earnedRunsAllowed": 11,
-        "walksAllowed": 8,
-        "strikeouts": 17,
+        "walksAllowed": 9,
+        "strikeouts": 18,
         "doublesAllowed": 8,
         "triplesAllowed": 1,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 99,
-        "wildPitches": 0,
+        "opponentsAtBats": 100,
+        "wildPitches": 1,
         "hitBatters": 4,
         "balks": 2,
-        "opponentsBattingAverage": 0.303,
+        "opponentsBattingAverage": 0.3,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1788,40 +1788,40 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 21.59090909090909,
-          "Command": 22.5,
+          "Miss bats": 24.159402241594023,
+          "Command": 20,
           "Damage suppression": 0
         },
-        "summary": "Hunter Holzemer looks like a LHP option who throws enough strikes.",
+        "summary": "Hunter Holzemer gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.13",
-          "WHIP 1.58",
-          "K/9 6.4"
+          "ERA 4.07",
+          "WHIP 1.60",
+          "K/9 6.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.13"
+            "value": "4.07"
           },
           {
             "label": "WHIP",
-            "value": "1.58"
+            "value": "1.60"
           },
           {
             "label": "K/9",
-            "value": "6.4"
+            "value": "6.7"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
-            "value": "1.13"
+            "value": "1.11"
           },
           {
             "label": "IP",
-            "value": "24.0"
+            "value": "24.3"
           }
         ],
         "metaLine": "SR / N/A",
@@ -2441,31 +2441,31 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "jersey": "18",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/nick-bacura/6366",
         "imageUrl": "https://usfdons.com/images/2026/2/5/18_Nick_Bacura_XK5lf.png",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 0,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.2,
-        "whip": 1.47,
+        "earnedRunAverage": 3.05,
+        "whip": 1.55,
         "wins": 1,
         "losses": 1,
         "saves": 8,
         "shutouts": 0,
-        "inningsPitched": 19.666666666666668,
-        "inningsPitchedDisplay": "19.2",
-        "hitsAllowed": 15,
-        "runsAllowed": 9,
+        "inningsPitched": 20.666666666666668,
+        "inningsPitchedDisplay": "20.2",
+        "hitsAllowed": 17,
+        "runsAllowed": 10,
         "earnedRunsAllowed": 7,
-        "walksAllowed": 14,
+        "walksAllowed": 15,
         "strikeouts": 20,
         "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 72,
-        "wildPitches": 2,
+        "opponentsAtBats": 77,
+        "wildPitches": 3,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.208,
+        "opponentsBattingAverage": 0.221,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2475,22 +2475,22 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "jersey": "18",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/nick-bacura/6366",
         "imageUrl": "https://usfdons.com/images/2026/2/5/18_Nick_Bacura_XK5lf.png",
-        "gamesPlayed": 2,
+        "gamesPlayed": 3,
         "gamesStarted": 0,
         "putouts": 0,
         "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
+        "errors": 1,
+        "fieldingPercentage": 0.5,
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 1
+        "totalChances": 2
       },
       "evaluation": {
-        "score": 11,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2498,40 +2498,40 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 46.841294298921405,
-          "Command": 8.571428571428568,
+          "Miss bats": 42.81524926686217,
+          "Command": 6.666666666666665,
           "Damage suppression": 0
         },
-        "summary": "Nick Bacura looks like a RHP option who limits runs and misses bats.",
+        "summary": "Nick Bacura looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.20",
-          "WHIP 1.47",
-          "K/9 9.2"
+          "ERA 3.05",
+          "WHIP 1.55",
+          "K/9 8.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.20"
+            "value": "3.05"
           },
           {
             "label": "WHIP",
-            "value": "1.47"
+            "value": "1.55"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "8.7"
           },
           {
             "label": "BB/9",
-            "value": "6.4"
+            "value": "6.5"
           },
           {
             "label": "HR/9",
-            "value": "0.46"
+            "value": "0.44"
           },
           {
             "label": "IP",
-            "value": "19.7"
+            "value": "20.7"
           }
         ],
         "metaLine": "GR / N/A",
@@ -4531,31 +4531,31 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "jersey": "35",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/kai-yovanovich/6262",
         "imageUrl": "https://usfdons.com/images/2026/2/5/35_Kai_Yovanovich_G6Kr6.png",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 0,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.1,
-        "whip": 0.97,
+        "earnedRunAverage": 1.95,
+        "whip": 0.94,
         "wins": 4,
         "losses": 0,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 25.666666666666668,
-        "inningsPitchedDisplay": "25.2",
+        "inningsPitched": 27.666666666666668,
+        "inningsPitchedDisplay": "27.2",
         "hitsAllowed": 13,
         "runsAllowed": 6,
         "earnedRunsAllowed": 6,
-        "walksAllowed": 12,
-        "strikeouts": 26,
+        "walksAllowed": 13,
+        "strikeouts": 30,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 83,
+        "opponentsAtBats": 89,
         "wildPitches": 1,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.157,
+        "opponentsBattingAverage": 0.146,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4580,7 +4580,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "totalChances": 5
       },
       "evaluation": {
-        "score": 13,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4588,28 +4588,28 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 46.517119244391964,
-          "Command": 23.333333333333332,
+          "Miss bats": 52.35487404162102,
+          "Command": 26.15384615384615,
           "Damage suppression": 0
         },
         "summary": "Kai Yovanovich looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.10",
-          "WHIP 0.97",
-          "K/9 9.1"
+          "ERA 1.95",
+          "WHIP 0.94",
+          "K/9 9.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.10"
+            "value": "1.95"
           },
           {
             "label": "WHIP",
-            "value": "0.97"
+            "value": "0.94"
           },
           {
             "label": "K/9",
-            "value": "9.1"
+            "value": "9.8"
           },
           {
             "label": "BB/9",
@@ -4617,11 +4617,11 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.35"
+            "value": "0.33"
           },
           {
             "label": "IP",
-            "value": "25.7"
+            "value": "27.7"
           }
         ],
         "metaLine": "GR / N/A",
@@ -5224,31 +5224,31 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "jersey": "40",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/gabriel-barrett/6244",
         "imageUrl": "https://usfdons.com/images/2026/2/5/40_Gabriel_Barrett_PTbwV.png",
-        "gamesPlayed": 13,
-        "gamesStarted": 12,
-        "appearances": 13,
+        "gamesPlayed": 14,
+        "gamesStarted": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.01,
-        "whip": 1.5,
-        "wins": 2,
+        "earnedRunAverage": 4.73,
+        "whip": 1.51,
+        "wins": 3,
         "losses": 5,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 64.66666666666667,
-        "inningsPitchedDisplay": "64.2",
-        "hitsAllowed": 84,
-        "runsAllowed": 38,
-        "earnedRunsAllowed": 36,
-        "walksAllowed": 13,
-        "strikeouts": 58,
-        "doublesAllowed": 19,
+        "inningsPitched": 70.33333333333333,
+        "inningsPitchedDisplay": "70.1",
+        "hitsAllowed": 90,
+        "runsAllowed": 43,
+        "earnedRunsAllowed": 37,
+        "walksAllowed": 16,
+        "strikeouts": 65,
+        "doublesAllowed": 20,
         "triplesAllowed": 3,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 266,
-        "wildPitches": 1,
-        "hitBatters": 8,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 289,
+        "wildPitches": 2,
+        "hitBatters": 9,
         "balks": 1,
-        "opponentsBattingAverage": 0.316,
+        "opponentsBattingAverage": 0.311,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5258,19 +5258,19 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "jersey": "40",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/gabriel-barrett/6244",
         "imageUrl": "https://usfdons.com/images/2026/2/5/40_Gabriel_Barrett_PTbwV.png",
-        "gamesPlayed": 8,
-        "gamesStarted": 8,
-        "putouts": 5,
-        "assists": 6,
+        "gamesPlayed": 9,
+        "gamesStarted": 9,
+        "putouts": 6,
+        "assists": 7,
         "errors": 2,
-        "fieldingPercentage": 0.846,
+        "fieldingPercentage": 0.867,
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 2,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 13
+        "totalChances": 15
       },
       "evaluation": {
         "score": 18,
@@ -5281,40 +5281,40 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 37.019681349578256,
-          "Command": 69.23076923076923,
+          "Miss bats": 39.25032313657906,
+          "Command": 61.249999999999986,
           "Damage suppression": 0
         },
         "summary": "Gabriel Barrett looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.01",
-          "WHIP 1.50",
-          "K/9 8.1"
+          "ERA 4.73",
+          "WHIP 1.51",
+          "K/9 8.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.01"
+            "value": "4.73"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.51"
           },
           {
             "label": "K/9",
-            "value": "8.1"
+            "value": "8.3"
           },
           {
             "label": "BB/9",
-            "value": "1.8"
+            "value": "2.0"
           },
           {
             "label": "HR/9",
-            "value": "0.28"
+            "value": "0.38"
           },
           {
             "label": "IP",
-            "value": "64.7"
+            "value": "70.3"
           }
         ],
         "metaLine": "SR / N/A",
@@ -5453,33 +5453,33 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "jersey": "50",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/trevor-harmon/6250",
         "imageUrl": "https://usfdons.com/images/2026/2/5/50_Trevor_Harmon_lEBee.png",
-        "gamesPlayed": 38,
-        "gamesStarted": 35,
-        "battingAverage": 0.274,
-        "onBasePercentage": 0.4,
-        "sluggingPercentage": 0.387,
-        "ops": 0.787,
-        "atBats": 124,
-        "runs": 19,
-        "hits": 34,
-        "doubles": 5,
+        "gamesPlayed": 39,
+        "gamesStarted": 36,
+        "battingAverage": 0.287,
+        "onBasePercentage": 0.41,
+        "sluggingPercentage": 0.426,
+        "ops": 0.836,
+        "atBats": 129,
+        "runs": 21,
+        "hits": 37,
+        "doubles": 6,
         "triples": 0,
-        "homeRuns": 3,
-        "runsBattedIn": 13,
-        "totalBases": 48,
+        "homeRuns": 4,
+        "runsBattedIn": 14,
+        "totalBases": 55,
         "walks": 16,
-        "hitByPitch": 10,
-        "strikeouts": 32,
+        "hitByPitch": 11,
+        "strikeouts": 34,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 289,
+        "putouts": 294,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 153,
+        "plateAppearances": 159,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -5491,9 +5491,9 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "jersey": "50",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/trevor-harmon/6250",
         "imageUrl": "https://usfdons.com/images/2026/2/5/50_Trevor_Harmon_lEBee.png",
-        "gamesPlayed": 35,
-        "gamesStarted": 34,
-        "putouts": 289,
+        "gamesPlayed": 36,
+        "gamesStarted": 35,
+        "putouts": 294,
         "assists": 15,
         "errors": 1,
         "fieldingPercentage": 0.997,
@@ -5503,47 +5503,47 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 305
+        "totalChances": 310
       },
       "evaluation": {
-        "score": 37,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 66.66666666666666,
-          "Power": 17.631578947368425,
-          "Contact": 33.750000000000014,
-          "Discipline": 33.33333333333333,
+          "On-base": 72.2222222222222,
+          "Power": 27.89473684210526,
+          "Contact": 41.874999999999986,
+          "Discipline": 30.065359477124176,
           "Speed": 0
         },
         "summary": "Trevor Harmon profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .274",
-          "OBP .400",
-          "SLG .387"
+          "AVG .287",
+          "OBP .410",
+          "SLG .426"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".274"
+            "value": ".287"
           },
           {
             "label": "OBP",
-            "value": ".400"
+            "value": ".410"
           },
           {
             "label": "SLG",
-            "value": ".387"
+            "value": ".426"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "4"
           },
           {
             "label": "RBI",
-            "value": "13"
+            "value": "14"
           },
           {
             "label": "SB",
@@ -5740,20 +5740,20 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "jersey": "83",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/zack-ramppen/6259",
         "imageUrl": "https://usfdons.com/images/2026/2/5/83_Zack_Ramppen_ASq0h.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 30,
-        "battingAverage": 0.288,
-        "onBasePercentage": 0.348,
-        "sluggingPercentage": 0.375,
-        "ops": 0.723,
-        "atBats": 104,
+        "gamesPlayed": 37,
+        "gamesStarted": 31,
+        "battingAverage": 0.312,
+        "onBasePercentage": 0.367,
+        "sluggingPercentage": 0.394,
+        "ops": 0.761,
+        "atBats": 109,
         "runs": 16,
-        "hits": 30,
+        "hits": 34,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 1,
         "runsBattedIn": 8,
-        "totalBases": 39,
+        "totalBases": 43,
         "walks": 4,
         "hitByPitch": 6,
         "strikeouts": 18,
@@ -5763,10 +5763,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "sacrificeHits": 2,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 217,
+        "putouts": 229,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 117,
+        "plateAppearances": 122,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -5778,51 +5778,51 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "jersey": "83",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/zack-ramppen/6259",
         "imageUrl": "https://usfdons.com/images/2026/2/5/83_Zack_Ramppen_ASq0h.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 30,
-        "putouts": 217,
+        "gamesPlayed": 37,
+        "gamesStarted": 31,
+        "putouts": 229,
         "assists": 29,
         "errors": 4,
-        "fieldingPercentage": 0.984,
+        "fieldingPercentage": 0.985,
         "doublePlays": 3,
         "stolenBasesAgainst": 20,
         "caughtStealingBy": 15,
         "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 250
+        "totalChances": 262
       },
       "evaluation": {
-        "score": 24,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 37.77777777777775,
-          "Power": 14.473684210526317,
-          "Contact": 42.499999999999986,
+          "On-base": 48.333333333333314,
+          "Power": 19.473684210526322,
+          "Contact": 57.49999999999999,
           "Discipline": 2.469135802469133,
           "Speed": 0
         },
         "summary": "Zack Ramppen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .288",
-          "OBP .348",
-          "SLG .375"
+          "AVG .312",
+          "OBP .367",
+          "SLG .394"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".288"
+            "value": ".312"
           },
           {
             "label": "OBP",
-            "value": ".348"
+            "value": ".367"
           },
           {
             "label": "SLG",
-            "value": ".375"
+            "value": ".394"
           },
           {
             "label": "HR",
@@ -5865,29 +5865,29 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 21,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Isaiah Landry gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .243",
-          "OBP .333",
-          "SLG .417"
+          "AVG .250",
+          "OBP .336",
+          "SLG .426"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".243"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".336"
           },
           {
             "label": "SLG",
-            "value": ".417"
+            "value": ".426"
           },
           {
             "label": "HR",
@@ -5903,9 +5903,9 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           }
         ],
         "components": {
-          "On-base": 29.44444444444444,
-          "Power": 25.52631578947368,
-          "Contact": 14.374999999999996,
+          "On-base": 31.11111111111111,
+          "Power": 27.89473684210526,
+          "Contact": 18.75,
           "Discipline": 10.035842293906809,
           "Speed": 10
         },
@@ -5934,29 +5934,29 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 29,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Myles Kallinger gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .265",
-          "OBP .329",
-          "SLG .471"
+          "AVG .261",
+          "OBP .325",
+          "SLG .464"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".265"
+            "value": ".261"
           },
           {
             "label": "OBP",
-            "value": ".329"
+            "value": ".325"
           },
           {
             "label": "SLG",
-            "value": ".471"
+            "value": ".464"
           },
           {
             "label": "HR",
@@ -5972,9 +5972,9 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           }
         ],
         "components": {
-          "On-base": 27.222222222222214,
-          "Power": 39.73684210526315,
-          "Contact": 28.125000000000007,
+          "On-base": 24.999999999999993,
+          "Power": 37.89473684210527,
+          "Contact": 25.625000000000004,
           "Discipline": 23.529411764705877,
           "Speed": 16.666666666666664
         },
@@ -6141,37 +6141,37 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 29,
+        "score": 33,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Eddison Esquivel gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .254",
-          "OBP .376",
-          "SLG .341"
+          "AVG .259",
+          "OBP .381",
+          "SLG .376"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".254"
+            "value": ".259"
           },
           {
             "label": "OBP",
-            "value": ".376"
+            "value": ".381"
           },
           {
             "label": "SLG",
-            "value": ".341"
+            "value": ".376"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "3"
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -6179,10 +6179,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           }
         ],
         "components": {
-          "On-base": 53.33333333333332,
-          "Power": 5.526315789473689,
-          "Contact": 21.250000000000004,
-          "Discipline": 37.962962962962955,
+          "On-base": 56.1111111111111,
+          "Power": 14.73684210526316,
+          "Contact": 24.375000000000004,
+          "Discipline": 39.00226757369613,
           "Speed": 10
         },
         "metaLine": "SO / N/A",
@@ -6210,21 +6210,21 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "position": "INF",
         "classYear": "R-JR",
         "handedness": "N/A",
-        "score": 34,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jared Lewis profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .269",
+          "AVG .274",
           "OBP .400",
-          "SLG .333"
+          "SLG .336"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".269"
+            "value": ".274"
           },
           {
             "label": "OBP",
@@ -6232,7 +6232,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           },
           {
             "label": "SLG",
-            "value": ".333"
+            "value": ".336"
           },
           {
             "label": "HR",
@@ -6249,9 +6249,9 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         ],
         "components": {
           "On-base": 66.66666666666666,
-          "Power": 3.421052631578951,
-          "Contact": 30.625000000000007,
-          "Discipline": 40.455840455840445,
+          "Power": 4.210526315789478,
+          "Contact": 33.750000000000014,
+          "Discipline": 37.39837398373984,
           "Speed": 10
         },
         "metaLine": "R-JR / N/A",
@@ -6279,29 +6279,29 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 14,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jordan Lewis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .188",
-          "OBP .328",
-          "SLG .271"
+          "AVG .176",
+          "OBP .333",
+          "SLG .255"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".188"
+            "value": ".176"
           },
           {
             "label": "OBP",
-            "value": ".328"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".271"
+            "value": ".255"
           },
           {
             "label": "HR",
@@ -6317,10 +6317,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           }
         ],
         "components": {
-          "On-base": 26.66666666666666,
+          "On-base": 29.44444444444444,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 33.33333333333333,
+          "Discipline": 36.25730994152046,
           "Speed": 6.666666666666667
         },
         "metaLine": "SR / N/A",
@@ -6486,29 +6486,29 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 18,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tyler Harries gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .222",
-          "OBP .348",
-          "SLG .282"
+          "AVG .230",
+          "OBP .349",
+          "SLG .295"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".222"
+            "value": ".230"
           },
           {
             "label": "OBP",
-            "value": ".348"
+            "value": ".349"
           },
           {
             "label": "SLG",
-            "value": ".282"
+            "value": ".295"
           },
           {
             "label": "HR",
@@ -6524,9 +6524,9 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           }
         ],
         "components": {
-          "On-base": 37.77777777777775,
+          "On-base": 38.33333333333331,
           "Power": 0,
-          "Contact": 1.250000000000001,
+          "Contact": 6.250000000000005,
           "Discipline": 42.29390681003584,
           "Speed": 0
         },
@@ -6562,30 +6562,30 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         },
         "summary": "TJ Rogers profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .240",
-          "OBP .374",
-          "SLG .479"
+          "AVG .238",
+          "OBP .373",
+          "SLG .488"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".240"
+            "value": ".238"
           },
           {
             "label": "OBP",
-            "value": ".374"
+            "value": ".373"
           },
           {
             "label": "SLG",
-            "value": ".479"
+            "value": ".488"
           },
           {
             "label": "HR",
-            "value": "10"
+            "value": "11"
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "24"
           },
           {
             "label": "SB",
@@ -6593,10 +6593,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           }
         ],
         "components": {
-          "On-base": 52.222222222222214,
-          "Power": 41.84210526315789,
-          "Contact": 12.499999999999993,
-          "Discipline": 32.42258652094717,
+          "On-base": 51.66666666666665,
+          "Power": 44.21052631578947,
+          "Contact": 11.249999999999991,
+          "Discipline": 33.33333333333333,
           "Speed": 26.666666666666668
         },
         "metaLine": "GR / N/A",
@@ -6629,43 +6629,43 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Hunter Holzemer looks like a LHP option who throws enough strikes.",
+        "summary": "Hunter Holzemer gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.13",
-          "WHIP 1.58",
-          "K/9 6.4"
+          "ERA 4.07",
+          "WHIP 1.60",
+          "K/9 6.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.13"
+            "value": "4.07"
           },
           {
             "label": "WHIP",
-            "value": "1.58"
+            "value": "1.60"
           },
           {
             "label": "K/9",
-            "value": "6.4"
+            "value": "6.7"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
-            "value": "1.13"
+            "value": "1.11"
           },
           {
             "label": "IP",
-            "value": "24.0"
+            "value": "24.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 21.59090909090909,
-          "Command": 22.5,
+          "Miss bats": 24.159402241594023,
+          "Command": 20,
           "Damage suppression": 0
         },
         "metaLine": "SR / N/A",
@@ -6969,48 +6969,48 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "position": "RHP",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 11,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Nick Bacura looks like a RHP option who limits runs and misses bats.",
+        "summary": "Nick Bacura looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.20",
-          "WHIP 1.47",
-          "K/9 9.2"
+          "ERA 3.05",
+          "WHIP 1.55",
+          "K/9 8.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.20"
+            "value": "3.05"
           },
           {
             "label": "WHIP",
-            "value": "1.47"
+            "value": "1.55"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "8.7"
           },
           {
             "label": "BB/9",
-            "value": "6.4"
+            "value": "6.5"
           },
           {
             "label": "HR/9",
-            "value": "0.46"
+            "value": "0.44"
           },
           {
             "label": "IP",
-            "value": "19.7"
+            "value": "20.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 46.841294298921405,
-          "Command": 8.571428571428568,
+          "Miss bats": 42.81524926686217,
+          "Command": 6.666666666666665,
           "Damage suppression": 0
         },
         "metaLine": "GR / N/A",
@@ -8003,29 +8003,29 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "position": "RHP",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 13,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Kai Yovanovich looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.10",
-          "WHIP 0.97",
-          "K/9 9.1"
+          "ERA 1.95",
+          "WHIP 0.94",
+          "K/9 9.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.10"
+            "value": "1.95"
           },
           {
             "label": "WHIP",
-            "value": "0.97"
+            "value": "0.94"
           },
           {
             "label": "K/9",
-            "value": "9.1"
+            "value": "9.8"
           },
           {
             "label": "BB/9",
@@ -8033,18 +8033,18 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.35"
+            "value": "0.33"
           },
           {
             "label": "IP",
-            "value": "25.7"
+            "value": "27.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 46.517119244391964,
-          "Command": 23.333333333333332,
+          "Miss bats": 52.35487404162102,
+          "Command": 26.15384615384615,
           "Damage suppression": 0
         },
         "metaLine": "GR / N/A",
@@ -8355,41 +8355,41 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         },
         "summary": "Gabriel Barrett looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.01",
-          "WHIP 1.50",
-          "K/9 8.1"
+          "ERA 4.73",
+          "WHIP 1.51",
+          "K/9 8.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.01"
+            "value": "4.73"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.51"
           },
           {
             "label": "K/9",
-            "value": "8.1"
+            "value": "8.3"
           },
           {
             "label": "BB/9",
-            "value": "1.8"
+            "value": "2.0"
           },
           {
             "label": "HR/9",
-            "value": "0.28"
+            "value": "0.38"
           },
           {
             "label": "IP",
-            "value": "64.7"
+            "value": "70.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 37.019681349578256,
-          "Command": 69.23076923076923,
+          "Miss bats": 39.25032313657906,
+          "Command": 61.249999999999986,
           "Damage suppression": 0
         },
         "metaLine": "SR / N/A",
@@ -8485,37 +8485,37 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 37,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Trevor Harmon profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .274",
-          "OBP .400",
-          "SLG .387"
+          "AVG .287",
+          "OBP .410",
+          "SLG .426"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".274"
+            "value": ".287"
           },
           {
             "label": "OBP",
-            "value": ".400"
+            "value": ".410"
           },
           {
             "label": "SLG",
-            "value": ".387"
+            "value": ".426"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "4"
           },
           {
             "label": "RBI",
-            "value": "13"
+            "value": "14"
           },
           {
             "label": "SB",
@@ -8523,10 +8523,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           }
         ],
         "components": {
-          "On-base": 66.66666666666666,
-          "Power": 17.631578947368425,
-          "Contact": 33.750000000000014,
-          "Discipline": 33.33333333333333,
+          "On-base": 72.2222222222222,
+          "Power": 27.89473684210526,
+          "Contact": 41.874999999999986,
+          "Discipline": 30.065359477124176,
           "Speed": 0
         },
         "metaLine": "JR / N/A",
@@ -8623,29 +8623,29 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "position": "C/INF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 24,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Zack Ramppen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .288",
-          "OBP .348",
-          "SLG .375"
+          "AVG .312",
+          "OBP .367",
+          "SLG .394"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".288"
+            "value": ".312"
           },
           {
             "label": "OBP",
-            "value": ".348"
+            "value": ".367"
           },
           {
             "label": "SLG",
-            "value": ".375"
+            "value": ".394"
           },
           {
             "label": "HR",
@@ -8661,9 +8661,9 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           }
         ],
         "components": {
-          "On-base": 37.77777777777775,
-          "Power": 14.473684210526317,
-          "Contact": 42.499999999999986,
+          "On-base": 48.333333333333314,
+          "Power": 19.473684210526322,
+          "Contact": 57.49999999999999,
           "Discipline": 2.469135802469133,
           "Speed": 0
         },
