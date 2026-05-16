@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T12:09:11.043Z",
+  "generatedAt": "2026-05-16T11:18:11.549Z",
   "season": 2026,
   "school": {
     "slug": "louisville",
@@ -38,84 +38,84 @@
     }
   },
   "teamSummary": {
-    "record": "28-26, 11-17",
-    "battingAverage": ".306",
-    "earnedRunAverage": "6.76",
-    "wins": "28",
+    "record": "29-26, 12-17",
+    "battingAverage": ".309",
+    "earnedRunAverage": "6.68",
+    "wins": "29",
     "losses": "26",
     "hitting": {
-      "atBats": "1851",
-      "runsScored": "458",
-      "hits": "567",
-      "runsBattedIn": "419",
-      "doubles": "101",
-      "triples": "12",
+      "atBats": "1890",
+      "runsScored": "470",
+      "hits": "584",
+      "runsBattedIn": "430",
+      "doubles": "107",
+      "triples": "13",
       "homeRuns": "85",
-      "walks": "289",
+      "walks": "295",
       "intentionalWalks": "10",
-      "strikeouts": "431",
-      "strikeoutsLooking": "103",
+      "strikeouts": "438",
+      "strikeoutsLooking": "104",
       "hitByPitch": "79",
-      "stolenBases": "122",
+      "stolenBases": "125",
       "caughtStealing": "27",
       "sacrificeHits": "22",
-      "sacrificeFlies": "22",
+      "sacrificeFlies": "23",
       "reachedOnCatchersInteference": "2",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "440",
-      "flyOuts": "414",
+      "groundOuts": "446",
+      "flyOuts": "422",
       "groundedIntoDoublePlay": "22",
       "pickedOff": "7",
-      "doublePlaysHitInto": "33",
+      "doublePlaysHitInto": "34",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1378",
-      "assists": "518",
+      "putouts": "1402",
+      "assists": "525",
       "errors": "50",
       "passedBalls": "8",
       "catchersInterference": "0",
       "stolenBasesAgainst": "29",
       "caughtStealingBy": "30",
-      "involvedInDoublePlays": "41",
+      "involvedInDoublePlays": "42",
       "involvedInTriplePlays": "0",
-      "totalChances": "1946",
-      "fieldingPercentage": ".974"
+      "totalChances": "1977",
+      "fieldingPercentage": ".975"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "28",
+      "wins": "29",
       "saves": "8",
       "losses": "26",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "2",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "459.1",
-      "hitsAllowed": "536",
-      "runsAllowed": "378",
-      "earnedRunsAllowed": "345",
-      "walksAllowed": "297",
-      "strikeouts": "459",
-      "battersFaced": "2244",
-      "opponentAtBats": "1830",
-      "doublesAllowed": "95",
+      "inningsPitched": "467.1",
+      "hitsAllowed": "542",
+      "runsAllowed": "380",
+      "earnedRunsAllowed": "347",
+      "walksAllowed": "304",
+      "strikeouts": "467",
+      "battersFaced": "2280",
+      "opponentAtBats": "1859",
+      "doublesAllowed": "96",
       "triplesAllowed": "4",
-      "homerunsAllowed": "68",
-      "wildPitches": "53",
+      "homerunsAllowed": "69",
+      "wildPitches": "54",
       "balks": "2",
       "hitBatters": "84",
-      "strikeoutsLooking": "147",
+      "strikeoutsLooking": "148",
       "intentionalWalks": "4",
       "inheritedRunners": "0",
       "inheritedRunnersThatScored": "0",
       "sacrificeHitsAllowed": "14",
       "sacrificeFliesAllowed": "19",
       "catchersInterferenceAllowed": "0",
-      "pitches": "8621",
-      "flyouts": "404",
-      "groundouts": "430",
+      "pitches": "8784",
+      "flyouts": "412",
+      "groundouts": "437",
       "teamUnearnedRuns": "0",
       "saveRecord": "8",
       "pickoff": "20"
@@ -160,20 +160,20 @@
         "jersey": "0",
         "profileUrl": "https://gocards.com/sports/baseball/roster/alex-alicea/17852",
         "imageUrl": "https://gocards.com/images/2026/2/9/alex_alicea_hs_26.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 38,
-        "battingAverage": 0.289,
-        "onBasePercentage": 0.352,
-        "sluggingPercentage": 0.403,
-        "ops": 0.755,
-        "atBats": 149,
-        "runs": 31,
-        "hits": 43,
+        "gamesPlayed": 42,
+        "gamesStarted": 39,
+        "battingAverage": 0.299,
+        "onBasePercentage": 0.359,
+        "sluggingPercentage": 0.409,
+        "ops": 0.768,
+        "atBats": 154,
+        "runs": 33,
+        "hits": 46,
         "doubles": 7,
         "triples": 2,
         "homeRuns": 2,
-        "runsBattedIn": 22,
-        "totalBases": 60,
+        "runsBattedIn": 23,
+        "totalBases": 63,
         "walks": 11,
         "hitByPitch": 4,
         "strikeouts": 21,
@@ -183,10 +183,10 @@
         "sacrificeHits": 4,
         "stolenBases": 9,
         "stolenBasesAttempts": 12,
-        "putouts": 36,
+        "putouts": 37,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 184,
+        "plateAppearances": 189,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -198,51 +198,51 @@
         "jersey": "0",
         "profileUrl": "https://gocards.com/sports/baseball/roster/alex-alicea/17852",
         "imageUrl": "https://gocards.com/images/2026/2/9/alex_alicea_hs_26.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 36,
-        "putouts": 36,
-        "assists": 76,
+        "gamesPlayed": 39,
+        "gamesStarted": 37,
+        "putouts": 37,
+        "assists": 77,
         "errors": 5,
-        "fieldingPercentage": 0.957,
+        "fieldingPercentage": 0.958,
         "doublePlays": 12,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 117
+        "totalChances": 119
       },
       "evaluation": {
-        "score": 34,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 39.99999999999997,
-          "Power": 21.8421052631579,
-          "Contact": 43.124999999999986,
+          "On-base": 43.888888888888864,
+          "Power": 23.42105263157894,
+          "Contact": 49.37499999999999,
           "Discipline": 35.978835978835974,
           "Speed": 30
         },
         "summary": "Alex Alicea profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .289",
-          "OBP .352",
-          "SLG .403"
+          "AVG .299",
+          "OBP .359",
+          "SLG .409"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": ".299"
           },
           {
             "label": "OBP",
-            "value": ".352"
+            "value": ".359"
           },
           {
             "label": "SLG",
-            "value": ".403"
+            "value": ".409"
           },
           {
             "label": "HR",
@@ -250,7 +250,7 @@
           },
           {
             "label": "RBI",
-            "value": "22"
+            "value": "23"
           },
           {
             "label": "SB",
@@ -450,33 +450,33 @@
         "jersey": "2",
         "profileUrl": "https://gocards.com/sports/baseball/roster/kade-elam/17922",
         "imageUrl": "https://gocards.com/images/2026/2/9/kade_elam_hs_26.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 52,
-        "battingAverage": 0.3,
-        "onBasePercentage": 0.357,
-        "sluggingPercentage": 0.473,
-        "ops": 0.83,
-        "atBats": 203,
-        "runs": 44,
-        "hits": 61,
-        "doubles": 12,
+        "gamesPlayed": 54,
+        "gamesStarted": 53,
+        "battingAverage": 0.298,
+        "onBasePercentage": 0.353,
+        "sluggingPercentage": 0.471,
+        "ops": 0.824,
+        "atBats": 208,
+        "runs": 45,
+        "hits": 62,
+        "doubles": 13,
         "triples": 1,
         "homeRuns": 7,
         "runsBattedIn": 35,
-        "totalBases": 96,
+        "totalBases": 98,
         "walks": 17,
         "hitByPitch": 3,
-        "strikeouts": 40,
+        "strikeouts": 41,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 4,
         "sacrificeHits": 1,
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
-        "putouts": 93,
+        "putouts": 96,
         "assists": 0,
         "errors": 8,
-        "plateAppearances": 232,
+        "plateAppearances": 237,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -488,51 +488,51 @@
         "jersey": "2",
         "profileUrl": "https://gocards.com/sports/baseball/roster/kade-elam/17922",
         "imageUrl": "https://gocards.com/images/2026/2/9/kade_elam_hs_26.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 50,
-        "putouts": 93,
-        "assists": 130,
+        "gamesPlayed": 51,
+        "gamesStarted": 51,
+        "putouts": 96,
+        "assists": 131,
         "errors": 8,
-        "fieldingPercentage": 0.965,
+        "fieldingPercentage": 0.966,
         "doublePlays": 30,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 231
+        "totalChances": 235
       },
       "evaluation": {
-        "score": 38,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 42.77777777777775,
-          "Power": 40.26315789473684,
-          "Contact": 49.999999999999986,
-          "Discipline": 24.999999999999993,
+          "On-base": 40.555555555555536,
+          "Power": 39.73684210526315,
+          "Contact": 48.749999999999986,
+          "Discipline": 23.84823848238482,
           "Speed": 13.333333333333334
         },
         "summary": "Kade Elam gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .357",
-          "SLG .473"
+          "AVG .298",
+          "OBP .353",
+          "SLG .471"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": ".298"
           },
           {
             "label": "OBP",
-            "value": ".357"
+            "value": ".353"
           },
           {
             "label": "SLG",
-            "value": ".473"
+            "value": ".471"
           },
           {
             "label": "HR",
@@ -882,33 +882,33 @@
         "jersey": "6",
         "profileUrl": "https://gocards.com/sports/baseball/roster/griffin-crain/17856",
         "imageUrl": "https://gocards.com/images/2026/2/9/griffin_crain_hs_26.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 46,
-        "battingAverage": 0.352,
-        "onBasePercentage": 0.476,
-        "sluggingPercentage": 0.473,
-        "ops": 0.949,
-        "atBats": 165,
-        "runs": 36,
-        "hits": 58,
-        "doubles": 12,
+        "gamesPlayed": 51,
+        "gamesStarted": 47,
+        "battingAverage": 0.357,
+        "onBasePercentage": 0.479,
+        "sluggingPercentage": 0.488,
+        "ops": 0.967,
+        "atBats": 168,
+        "runs": 38,
+        "hits": 60,
+        "doubles": 14,
         "triples": 1,
         "homeRuns": 2,
-        "runsBattedIn": 44,
-        "totalBases": 78,
-        "walks": 33,
+        "runsBattedIn": 47,
+        "totalBases": 82,
+        "walks": 34,
         "hitByPitch": 10,
         "strikeouts": 23,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 4,
+        "sacrificeFlies": 5,
         "sacrificeHits": 3,
         "stolenBases": 8,
         "stolenBasesAttempts": 12,
-        "putouts": 72,
+        "putouts": 74,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 232,
+        "plateAppearances": 237,
         "caughtStealing": 4,
         "pickedOff": 1
       },
@@ -920,51 +920,51 @@
         "jersey": "6",
         "profileUrl": "https://gocards.com/sports/baseball/roster/griffin-crain/17856",
         "imageUrl": "https://gocards.com/images/2026/2/9/griffin_crain_hs_26.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 40,
-        "putouts": 72,
-        "assists": 3,
+        "gamesPlayed": 42,
+        "gamesStarted": 41,
+        "putouts": 74,
+        "assists": 4,
         "errors": 3,
-        "fieldingPercentage": 0.962,
-        "doublePlays": 2,
+        "fieldingPercentage": 0.963,
+        "doublePlays": 3,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 78
+        "totalChances": 81
       },
       "evaluation": {
-        "score": 74,
+        "score": 76,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
           "On-base": 100,
-          "Power": 40.26315789473684,
-          "Contact": 82.49999999999999,
+          "Power": 44.21052631578947,
+          "Contact": 85.62499999999999,
           "Discipline": 100,
           "Speed": 26.666666666666668
         },
         "summary": "Griffin Crain profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .352",
-          "OBP .476",
-          "SLG .473"
+          "AVG .357",
+          "OBP .479",
+          "SLG .488"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".352"
+            "value": ".357"
           },
           {
             "label": "OBP",
-            "value": ".476"
+            "value": ".479"
           },
           {
             "label": "SLG",
-            "value": ".473"
+            "value": ".488"
           },
           {
             "label": "HR",
@@ -972,7 +972,7 @@
           },
           {
             "label": "RBI",
-            "value": "44"
+            "value": "47"
           },
           {
             "label": "SB",
@@ -1028,31 +1028,31 @@
         "jersey": "7",
         "profileUrl": "https://gocards.com/sports/baseball/roster/brandon-shannon/17925",
         "imageUrl": "https://gocards.com/images/2026/2/9/brandon_shannon_hs_26.jpg",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 1,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.52,
-        "whip": 1.81,
+        "earnedRunAverage": 5.87,
+        "whip": 1.89,
         "wins": 2,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 29.333333333333332,
-        "inningsPitchedDisplay": "29.1",
-        "hitsAllowed": 28,
-        "runsAllowed": 20,
-        "earnedRunsAllowed": 18,
-        "walksAllowed": 25,
-        "strikeouts": 33,
-        "doublesAllowed": 3,
+        "inningsPitched": 30.666666666666668,
+        "inningsPitchedDisplay": "30.2",
+        "hitsAllowed": 30,
+        "runsAllowed": 22,
+        "earnedRunsAllowed": 20,
+        "walksAllowed": 28,
+        "strikeouts": 36,
+        "doublesAllowed": 4,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 111,
-        "wildPitches": 6,
+        "homeRunsAllowed": 5,
+        "opponentsAtBats": 117,
+        "wildPitches": 7,
         "hitBatters": 6,
         "balks": 0,
-        "opponentsBattingAverage": 0.252,
+        "opponentsBattingAverage": 0.256,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1077,7 +1077,7 @@
         "totalChances": 8
       },
       "evaluation": {
-        "score": 12,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1085,40 +1085,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 55.68181818181818,
-          "Command": 6.399999999999998,
+          "Miss bats": 59.683794466403164,
+          "Command": 5.714285714285712,
           "Damage suppression": 0
         },
         "summary": "Brandon Shannon looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.52",
-          "WHIP 1.81",
-          "K/9 10.1"
+          "ERA 5.87",
+          "WHIP 1.89",
+          "K/9 10.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.52"
+            "value": "5.87"
           },
           {
             "label": "WHIP",
-            "value": "1.81"
+            "value": "1.89"
           },
           {
             "label": "K/9",
-            "value": "10.1"
+            "value": "10.6"
           },
           {
             "label": "BB/9",
-            "value": "7.7"
+            "value": "8.2"
           },
           {
             "label": "HR/9",
-            "value": "1.23"
+            "value": "1.47"
           },
           {
             "label": "IP",
-            "value": "29.3"
+            "value": "30.7"
           }
         ],
         "metaLine": "FR / R/R",
@@ -1596,31 +1596,31 @@
         "jersey": "11",
         "profileUrl": "https://gocards.com/sports/baseball/roster/ty-starke/17875",
         "imageUrl": "https://gocards.com/images/2026/2/9/ty_starke_hs_26.jpg",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 0,
-        "appearances": 19,
+        "appearances": 20,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.38,
-        "whip": 1.31,
+        "earnedRunAverage": 3.13,
+        "whip": 1.26,
         "wins": 1,
         "losses": 1,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 21.333333333333332,
-        "inningsPitchedDisplay": "21.1",
+        "inningsPitched": 23,
+        "inningsPitchedDisplay": "23.0",
         "hitsAllowed": 21,
         "runsAllowed": 9,
         "earnedRunsAllowed": 8,
-        "walksAllowed": 7,
-        "strikeouts": 15,
+        "walksAllowed": 8,
+        "strikeouts": 17,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 80,
+        "opponentsAtBats": 84,
         "wildPitches": 2,
         "hitBatters": 8,
         "balks": 0,
-        "opponentsBattingAverage": 0.263,
+        "opponentsBattingAverage": 0.25,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1653,32 +1653,32 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 21.164772727272727,
-          "Command": 22.857142857142858,
+          "Miss bats": 24.110671936758894,
+          "Command": 22.5,
           "Damage suppression": 0
         },
-        "summary": "Ty Starke looks like a LHP option who limits runs and throws enough strikes.",
+        "summary": "Ty Starke looks like a LHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.38",
-          "WHIP 1.31",
-          "K/9 6.3"
+          "ERA 3.13",
+          "WHIP 1.26",
+          "K/9 6.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.38"
+            "value": "3.13"
           },
           {
             "label": "WHIP",
-            "value": "1.31"
+            "value": "1.26"
           },
           {
             "label": "K/9",
-            "value": "6.3"
+            "value": "6.7"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "3.1"
           },
           {
             "label": "HR/9",
@@ -1686,7 +1686,7 @@
           },
           {
             "label": "IP",
-            "value": "21.3"
+            "value": "23.0"
           }
         ],
         "metaLine": "JR / L/L",
@@ -1737,33 +1737,33 @@
         "jersey": "13",
         "profileUrl": "https://gocards.com/sports/baseball/roster/tague-davis/17859",
         "imageUrl": "https://gocards.com/images/2026/2/9/tague_davis_hs_26.jpg",
-        "gamesPlayed": 54,
-        "gamesStarted": 54,
-        "battingAverage": 0.364,
-        "onBasePercentage": 0.457,
-        "sluggingPercentage": 0.88,
-        "ops": 1.337,
-        "atBats": 217,
+        "gamesPlayed": 55,
+        "gamesStarted": 55,
+        "battingAverage": 0.365,
+        "onBasePercentage": 0.456,
+        "sluggingPercentage": 0.878,
+        "ops": 1.334,
+        "atBats": 222,
         "runs": 68,
-        "hits": 79,
-        "doubles": 8,
+        "hits": 81,
+        "doubles": 10,
         "triples": 1,
         "homeRuns": 34,
-        "runsBattedIn": 93,
-        "totalBases": 191,
+        "runsBattedIn": 94,
+        "totalBases": 195,
         "walks": 36,
         "hitByPitch": 3,
-        "strikeouts": 64,
+        "strikeouts": 66,
         "intentionalWalks": 9,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
-        "putouts": 406,
+        "putouts": 411,
         "assists": 0,
         "errors": 7,
-        "plateAppearances": 262,
+        "plateAppearances": 267,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1808,19 +1808,19 @@
         "jersey": "13",
         "profileUrl": "https://gocards.com/sports/baseball/roster/tague-davis/17859",
         "imageUrl": "https://gocards.com/images/2026/2/9/tague_davis_hs_26.jpg",
-        "gamesPlayed": 54,
-        "gamesStarted": 54,
-        "putouts": 406,
+        "gamesPlayed": 55,
+        "gamesStarted": 55,
+        "putouts": 411,
         "assists": 39,
         "errors": 7,
         "fieldingPercentage": 0.985,
-        "doublePlays": 33,
+        "doublePlays": 34,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 452
+        "totalChances": 457
       },
       "evaluation": {
         "score": 17,
@@ -2061,31 +2061,31 @@
         "jersey": "15",
         "profileUrl": "https://gocards.com/sports/baseball/roster/colton-hartman/17865",
         "imageUrl": "https://gocards.com/images/2026/2/9/colton_hartman_hs_26.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 10,
-        "appearances": 13,
+        "gamesPlayed": 14,
+        "gamesStarted": 11,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.64,
-        "whip": 2.07,
-        "wins": 3,
+        "earnedRunAverage": 5.91,
+        "whip": 1.99,
+        "wins": 4,
         "losses": 2,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 40.666666666666664,
-        "inningsPitchedDisplay": "40.2",
-        "hitsAllowed": 54,
+        "inningsPitched": 45.666666666666664,
+        "inningsPitchedDisplay": "45.2",
+        "hitsAllowed": 58,
         "runsAllowed": 35,
         "earnedRunsAllowed": 30,
-        "walksAllowed": 30,
-        "strikeouts": 53,
+        "walksAllowed": 33,
+        "strikeouts": 56,
         "doublesAllowed": 10,
         "triplesAllowed": 0,
         "homeRunsAllowed": 8,
-        "opponentsAtBats": 170,
+        "opponentsAtBats": 189,
         "wildPitches": 2,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.318,
+        "opponentsBattingAverage": 0.307,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2110,7 +2110,7 @@
         "totalChances": 4
       },
       "evaluation": {
-        "score": 17,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2118,40 +2118,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 70.26825633383011,
-          "Command": 15.333333333333337,
+          "Miss bats": 63.96814863968149,
+          "Command": 13.939393939393934,
           "Damage suppression": 0
         },
         "summary": "Colton Hartman looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.64",
-          "WHIP 2.07",
-          "K/9 11.7"
+          "ERA 5.91",
+          "WHIP 1.99",
+          "K/9 11.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.64"
+            "value": "5.91"
           },
           {
             "label": "WHIP",
-            "value": "2.07"
+            "value": "1.99"
           },
           {
             "label": "K/9",
-            "value": "11.7"
+            "value": "11.0"
           },
           {
             "label": "BB/9",
-            "value": "6.6"
+            "value": "6.5"
           },
           {
             "label": "HR/9",
-            "value": "1.77"
+            "value": "1.58"
           },
           {
             "label": "IP",
-            "value": "40.7"
+            "value": "45.7"
           }
         ],
         "metaLine": "JR / L/L",
@@ -2347,33 +2347,33 @@
         "jersey": "17",
         "profileUrl": "https://gocards.com/sports/baseball/roster/collin-mowry/17870",
         "imageUrl": "https://gocards.com/images/2026/2/9/collin_mowry_hs_26.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 1,
-        "battingAverage": 0.3,
-        "onBasePercentage": 0.364,
-        "sluggingPercentage": 0.4,
-        "ops": 0.764,
-        "atBats": 10,
-        "runs": 4,
-        "hits": 3,
+        "gamesPlayed": 14,
+        "gamesStarted": 2,
+        "battingAverage": 0.308,
+        "onBasePercentage": 0.438,
+        "sluggingPercentage": 0.385,
+        "ops": 0.823,
+        "atBats": 13,
+        "runs": 6,
+        "hits": 4,
         "doubles": 1,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 0,
-        "totalBases": 4,
-        "walks": 1,
+        "totalBases": 5,
+        "walks": 3,
         "hitByPitch": 0,
-        "strikeouts": 2,
+        "strikeouts": 3,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 21,
+        "putouts": 29,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 11,
+        "plateAppearances": 16,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2385,9 +2385,9 @@
         "jersey": "17",
         "profileUrl": "https://gocards.com/sports/baseball/roster/collin-mowry/17870",
         "imageUrl": "https://gocards.com/images/2026/2/9/collin_mowry_hs_26.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 0,
-        "putouts": 21,
+        "gamesPlayed": 9,
+        "gamesStarted": 1,
+        "putouts": 29,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -2397,39 +2397,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 21
+        "totalChances": 29
       },
       "evaluation": {
-        "score": 34,
+        "score": 55,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 46.66666666666665,
-          "Power": 21.052631578947377,
-          "Contact": 49.999999999999986,
-          "Discipline": 33.33333333333333,
+          "On-base": 87.77777777777777,
+          "Power": 17.10526315789474,
+          "Contact": 54.99999999999999,
+          "Discipline": 88.88888888888889,
           "Speed": 0
         },
-        "summary": "Collin Mowry gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Collin Mowry profiles as a C piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .364",
-          "SLG .400"
+          "AVG .308",
+          "OBP .438",
+          "SLG .385"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": ".308"
           },
           {
             "label": "OBP",
-            "value": ".364"
+            "value": ".438"
           },
           {
             "label": "SLG",
-            "value": ".400"
+            "value": ".385"
           },
           {
             "label": "HR",
@@ -3415,33 +3415,33 @@
         "jersey": "27",
         "profileUrl": "https://gocards.com/sports/baseball/roster/bayram-hot/17866",
         "imageUrl": "https://gocards.com/images/2026/2/9/bayram_hot_hs_26.jpg",
-        "gamesPlayed": 54,
-        "gamesStarted": 54,
-        "battingAverage": 0.325,
-        "onBasePercentage": 0.443,
+        "gamesPlayed": 55,
+        "gamesStarted": 55,
+        "battingAverage": 0.324,
+        "onBasePercentage": 0.442,
         "sluggingPercentage": 0.51,
-        "ops": 0.953,
-        "atBats": 200,
-        "runs": 47,
-        "hits": 65,
-        "doubles": 13,
+        "ops": 0.952,
+        "atBats": 204,
+        "runs": 49,
+        "hits": 66,
+        "doubles": 14,
         "triples": 0,
         "homeRuns": 8,
-        "runsBattedIn": 37,
-        "totalBases": 102,
-        "walks": 29,
+        "runsBattedIn": 38,
+        "totalBases": 104,
+        "walks": 30,
         "hitByPitch": 14,
-        "strikeouts": 51,
+        "strikeouts": 52,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 1,
         "sacrificeHits": 5,
         "stolenBases": 16,
         "stolenBasesAttempts": 19,
-        "putouts": 35,
+        "putouts": 37,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 271,
+        "plateAppearances": 276,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -3453,19 +3453,19 @@
         "jersey": "27",
         "profileUrl": "https://gocards.com/sports/baseball/roster/bayram-hot/17866",
         "imageUrl": "https://gocards.com/images/2026/2/9/bayram_hot_hs_26.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "putouts": 35,
-        "assists": 107,
+        "gamesPlayed": 52,
+        "gamesStarted": 52,
+        "putouts": 37,
+        "assists": 111,
         "errors": 5,
-        "fieldingPercentage": 0.966,
+        "fieldingPercentage": 0.967,
         "doublePlays": 14,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 147
+        "totalChances": 153
       },
       "evaluation": {
         "score": 65,
@@ -3474,26 +3474,26 @@
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 90.55555555555554,
+          "On-base": 89.99999999999999,
           "Power": 50.000000000000014,
-          "Contact": 65.625,
-          "Discipline": 40.958605664488005,
+          "Contact": 65,
+          "Discipline": 41.88034188034187,
           "Speed": 53.333333333333336
         },
         "summary": "Bayram Hot profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .325",
-          "OBP .443",
+          "AVG .324",
+          "OBP .442",
           "SLG .510"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".325"
+            "value": ".324"
           },
           {
             "label": "OBP",
-            "value": ".443"
+            "value": ".442"
           },
           {
             "label": "SLG",
@@ -3505,7 +3505,7 @@
           },
           {
             "label": "RBI",
-            "value": "37"
+            "value": "38"
           },
           {
             "label": "SB",
@@ -3935,20 +3935,20 @@
         "jersey": "32",
         "profileUrl": "https://gocards.com/sports/baseball/roster/zion-rose/17872",
         "imageUrl": "https://gocards.com/images/2026/2/9/zion_rose_hs_26.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 32,
-        "battingAverage": 0.403,
-        "onBasePercentage": 0.484,
-        "sluggingPercentage": 0.628,
-        "ops": 1.112,
-        "atBats": 129,
-        "runs": 39,
-        "hits": 52,
+        "gamesPlayed": 34,
+        "gamesStarted": 33,
+        "battingAverage": 0.407,
+        "onBasePercentage": 0.485,
+        "sluggingPercentage": 0.622,
+        "ops": 1.107,
+        "atBats": 135,
+        "runs": 41,
+        "hits": 55,
         "doubles": 12,
         "triples": 1,
         "homeRuns": 5,
-        "runsBattedIn": 39,
-        "totalBases": 81,
+        "runsBattedIn": 41,
+        "totalBases": 84,
         "walks": 18,
         "hitByPitch": 6,
         "strikeouts": 15,
@@ -3956,12 +3956,12 @@
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 4,
         "sacrificeHits": 0,
-        "stolenBases": 21,
-        "stolenBasesAttempts": 24,
+        "stolenBases": 23,
+        "stolenBasesAttempts": 26,
         "putouts": 33,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 185,
+        "plateAppearances": 193,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -3995,29 +3995,29 @@
         },
         "components": {
           "On-base": 100,
-          "Power": 81.05263157894737,
+          "Power": 79.47368421052632,
           "Contact": 100,
           "Discipline": 100,
-          "Speed": 70
+          "Speed": 76.66666666666667
         },
         "summary": "Zion Rose profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .403",
-          "OBP .484",
-          "SLG .628"
+          "AVG .407",
+          "OBP .485",
+          "SLG .622"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".403"
+            "value": ".407"
           },
           {
             "label": "OBP",
-            "value": ".484"
+            "value": ".485"
           },
           {
             "label": "SLG",
-            "value": ".628"
+            "value": ".622"
           },
           {
             "label": "HR",
@@ -4025,11 +4025,11 @@
           },
           {
             "label": "RBI",
-            "value": "39"
+            "value": "41"
           },
           {
             "label": "SB",
-            "value": "21"
+            "value": "23"
           }
         ],
         "metaLine": "JR / R/R",
@@ -4719,23 +4719,23 @@
         "jersey": "41",
         "profileUrl": "https://gocards.com/sports/baseball/roster/ben-slanker/17935",
         "imageUrl": "https://gocards.com/images/2026/2/9/ben_slanker_hs_26.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 38,
-        "battingAverage": 0.284,
-        "onBasePercentage": 0.437,
-        "sluggingPercentage": 0.582,
-        "ops": 1.019,
-        "atBats": 134,
+        "gamesPlayed": 47,
+        "gamesStarted": 39,
+        "battingAverage": 0.288,
+        "onBasePercentage": 0.436,
+        "sluggingPercentage": 0.59,
+        "ops": 1.026,
+        "atBats": 139,
         "runs": 34,
-        "hits": 38,
+        "hits": 40,
         "doubles": 10,
-        "triples": 0,
+        "triples": 1,
         "homeRuns": 10,
-        "runsBattedIn": 44,
-        "totalBases": 78,
+        "runsBattedIn": 46,
+        "totalBases": 82,
         "walks": 35,
         "hitByPitch": 3,
-        "strikeouts": 29,
+        "strikeouts": 31,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 2,
@@ -4745,7 +4745,7 @@
         "putouts": 31,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 179,
+        "plateAppearances": 184,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -4772,36 +4772,36 @@
         "totalChances": 34
       },
       "evaluation": {
-        "score": 67,
+        "score": 68,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 87.22222222222221,
-          "Power": 68.94736842105263,
-          "Contact": 39.99999999999998,
+          "On-base": 86.66666666666666,
+          "Power": 71.05263157894737,
+          "Contact": 42.499999999999986,
           "Discipline": 100,
           "Speed": 0
         },
         "summary": "Ben Slanker profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .284",
-          "OBP .437",
-          "SLG .582"
+          "AVG .288",
+          "OBP .436",
+          "SLG .590"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".284"
+            "value": ".288"
           },
           {
             "label": "OBP",
-            "value": ".437"
+            "value": ".436"
           },
           {
             "label": "SLG",
-            "value": ".582"
+            "value": ".590"
           },
           {
             "label": "HR",
@@ -4809,7 +4809,7 @@
           },
           {
             "label": "RBI",
-            "value": "44"
+            "value": "46"
           },
           {
             "label": "SB",
@@ -5889,33 +5889,33 @@
         "jersey": "53",
         "profileUrl": "https://gocards.com/sports/baseball/roster/lucas-moore/17869",
         "imageUrl": "https://gocards.com/images/2026/2/9/lucas_moore_hs_26.jpg",
-        "gamesPlayed": 54,
-        "gamesStarted": 54,
-        "battingAverage": 0.264,
-        "onBasePercentage": 0.417,
-        "sluggingPercentage": 0.375,
-        "ops": 0.792,
-        "atBats": 208,
-        "runs": 57,
-        "hits": 55,
+        "gamesPlayed": 55,
+        "gamesStarted": 55,
+        "battingAverage": 0.27,
+        "onBasePercentage": 0.424,
+        "sluggingPercentage": 0.379,
+        "ops": 0.803,
+        "atBats": 211,
+        "runs": 58,
+        "hits": 57,
         "doubles": 6,
         "triples": 4,
         "homeRuns": 3,
-        "runsBattedIn": 32,
-        "totalBases": 78,
-        "walks": 42,
+        "runsBattedIn": 33,
+        "totalBases": 80,
+        "walks": 44,
         "hitByPitch": 13,
         "strikeouts": 46,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
         "sacrificeHits": 3,
-        "stolenBases": 35,
-        "stolenBasesAttempts": 42,
-        "putouts": 129,
+        "stolenBases": 36,
+        "stolenBasesAttempts": 43,
+        "putouts": 132,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 316,
+        "plateAppearances": 322,
         "caughtStealing": 7,
         "pickedOff": 1
       },
@@ -5927,9 +5927,9 @@
         "jersey": "53",
         "profileUrl": "https://gocards.com/sports/baseball/roster/lucas-moore/17869",
         "imageUrl": "https://gocards.com/images/2026/2/9/lucas_moore_hs_26.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 46,
-        "putouts": 129,
+        "gamesPlayed": 47,
+        "gamesStarted": 47,
+        "putouts": 132,
         "assists": 1,
         "errors": 2,
         "fieldingPercentage": 0.985,
@@ -5939,39 +5939,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 132
+        "totalChances": 135
       },
       "evaluation": {
-        "score": 54,
+        "score": 57,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 76.11111111111109,
-          "Power": 14.473684210526317,
-          "Contact": 27.500000000000007,
-          "Discipline": 79.22705314009659,
+          "On-base": 79.99999999999999,
+          "Power": 15.526315789473685,
+          "Contact": 31.25000000000001,
+          "Discipline": 84.05797101449275,
           "Speed": 100
         },
         "summary": "Lucas Moore profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .264",
-          "OBP .417",
-          "SLG .375"
+          "AVG .270",
+          "OBP .424",
+          "SLG .379"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".264"
+            "value": ".270"
           },
           {
             "label": "OBP",
-            "value": ".417"
+            "value": ".424"
           },
           {
             "label": "SLG",
-            "value": ".375"
+            "value": ".379"
           },
           {
             "label": "HR",
@@ -5979,11 +5979,11 @@
           },
           {
             "label": "RBI",
-            "value": "32"
+            "value": "33"
           },
           {
             "label": "SB",
-            "value": "35"
+            "value": "36"
           }
         ],
         "metaLine": "JR / L/R",
@@ -6014,29 +6014,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "S/R",
-        "score": 34,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Alex Alicea profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .289",
-          "OBP .352",
-          "SLG .403"
+          "AVG .299",
+          "OBP .359",
+          "SLG .409"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": ".299"
           },
           {
             "label": "OBP",
-            "value": ".352"
+            "value": ".359"
           },
           {
             "label": "SLG",
-            "value": ".403"
+            "value": ".409"
           },
           {
             "label": "HR",
@@ -6044,7 +6044,7 @@
           },
           {
             "label": "RBI",
-            "value": "22"
+            "value": "23"
           },
           {
             "label": "SB",
@@ -6052,9 +6052,9 @@
           }
         ],
         "components": {
-          "On-base": 39.99999999999997,
-          "Power": 21.8421052631579,
-          "Contact": 43.124999999999986,
+          "On-base": 43.888888888888864,
+          "Power": 23.42105263157894,
+          "Contact": 49.37499999999999,
           "Discipline": 35.978835978835974,
           "Speed": 30
         },
@@ -6152,29 +6152,29 @@
         "position": "INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 38,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Kade Elam gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .357",
-          "SLG .473"
+          "AVG .298",
+          "OBP .353",
+          "SLG .471"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": ".298"
           },
           {
             "label": "OBP",
-            "value": ".357"
+            "value": ".353"
           },
           {
             "label": "SLG",
-            "value": ".473"
+            "value": ".471"
           },
           {
             "label": "HR",
@@ -6190,10 +6190,10 @@
           }
         ],
         "components": {
-          "On-base": 42.77777777777775,
-          "Power": 40.26315789473684,
-          "Contact": 49.999999999999986,
-          "Discipline": 24.999999999999993,
+          "On-base": 40.555555555555536,
+          "Power": 39.73684210526315,
+          "Contact": 48.749999999999986,
+          "Discipline": 23.84823848238482,
           "Speed": 13.333333333333334
         },
         "metaLine": "FR / R/R",
@@ -6359,29 +6359,29 @@
         "position": "OF",
         "classYear": "SO",
         "handedness": "L/L",
-        "score": 74,
+        "score": 76,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Griffin Crain profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .352",
-          "OBP .476",
-          "SLG .473"
+          "AVG .357",
+          "OBP .479",
+          "SLG .488"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".352"
+            "value": ".357"
           },
           {
             "label": "OBP",
-            "value": ".476"
+            "value": ".479"
           },
           {
             "label": "SLG",
-            "value": ".473"
+            "value": ".488"
           },
           {
             "label": "HR",
@@ -6389,7 +6389,7 @@
           },
           {
             "label": "RBI",
-            "value": "44"
+            "value": "47"
           },
           {
             "label": "SB",
@@ -6398,8 +6398,8 @@
         ],
         "components": {
           "On-base": 100,
-          "Power": 40.26315789473684,
-          "Contact": 82.49999999999999,
+          "Power": 44.21052631578947,
+          "Contact": 85.62499999999999,
           "Discipline": 100,
           "Speed": 26.666666666666668
         },
@@ -6428,48 +6428,48 @@
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 12,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brandon Shannon looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.52",
-          "WHIP 1.81",
-          "K/9 10.1"
+          "ERA 5.87",
+          "WHIP 1.89",
+          "K/9 10.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.52"
+            "value": "5.87"
           },
           {
             "label": "WHIP",
-            "value": "1.81"
+            "value": "1.89"
           },
           {
             "label": "K/9",
-            "value": "10.1"
+            "value": "10.6"
           },
           {
             "label": "BB/9",
-            "value": "7.7"
+            "value": "8.2"
           },
           {
             "label": "HR/9",
-            "value": "1.23"
+            "value": "1.47"
           },
           {
             "label": "IP",
-            "value": "29.3"
+            "value": "30.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 55.68181818181818,
-          "Command": 6.399999999999998,
+          "Miss bats": 59.683794466403164,
+          "Command": 5.714285714285712,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -6709,28 +6709,28 @@
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ty Starke looks like a LHP option who limits runs and throws enough strikes.",
+        "summary": "Ty Starke looks like a LHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.38",
-          "WHIP 1.31",
-          "K/9 6.3"
+          "ERA 3.13",
+          "WHIP 1.26",
+          "K/9 6.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.38"
+            "value": "3.13"
           },
           {
             "label": "WHIP",
-            "value": "1.31"
+            "value": "1.26"
           },
           {
             "label": "K/9",
-            "value": "6.3"
+            "value": "6.7"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "3.1"
           },
           {
             "label": "HR/9",
@@ -6738,14 +6738,14 @@
           },
           {
             "label": "IP",
-            "value": "21.3"
+            "value": "23.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 21.164772727272727,
-          "Command": 22.857142857142858,
+          "Miss bats": 24.110671936758894,
+          "Command": 22.5,
           "Damage suppression": 0
         },
         "metaLine": "JR / L/L",
@@ -6911,48 +6911,48 @@
         "position": "LHP",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 17,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Colton Hartman looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.64",
-          "WHIP 2.07",
-          "K/9 11.7"
+          "ERA 5.91",
+          "WHIP 1.99",
+          "K/9 11.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.64"
+            "value": "5.91"
           },
           {
             "label": "WHIP",
-            "value": "2.07"
+            "value": "1.99"
           },
           {
             "label": "K/9",
-            "value": "11.7"
+            "value": "11.0"
           },
           {
             "label": "BB/9",
-            "value": "6.6"
+            "value": "6.5"
           },
           {
             "label": "HR/9",
-            "value": "1.77"
+            "value": "1.58"
           },
           {
             "label": "IP",
-            "value": "40.7"
+            "value": "45.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 70.26825633383011,
-          "Command": 15.333333333333337,
+          "Miss bats": 63.96814863968149,
+          "Command": 13.939393939393934,
           "Damage suppression": 0
         },
         "metaLine": "JR / L/L",
@@ -7049,29 +7049,29 @@
         "position": "C",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 34,
+        "score": 55,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Collin Mowry gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Collin Mowry profiles as a C piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .364",
-          "SLG .400"
+          "AVG .308",
+          "OBP .438",
+          "SLG .385"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": ".308"
           },
           {
             "label": "OBP",
-            "value": ".364"
+            "value": ".438"
           },
           {
             "label": "SLG",
-            "value": ".400"
+            "value": ".385"
           },
           {
             "label": "HR",
@@ -7087,10 +7087,10 @@
           }
         ],
         "components": {
-          "On-base": 46.66666666666665,
-          "Power": 21.052631578947377,
-          "Contact": 49.999999999999986,
-          "Discipline": 33.33333333333333,
+          "On-base": 87.77777777777777,
+          "Power": 17.10526315789474,
+          "Contact": 54.99999999999999,
+          "Discipline": 88.88888888888889,
           "Speed": 0
         },
         "metaLine": "SO / R/R",
@@ -7607,18 +7607,18 @@
         },
         "summary": "Bayram Hot profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .325",
-          "OBP .443",
+          "AVG .324",
+          "OBP .442",
           "SLG .510"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".325"
+            "value": ".324"
           },
           {
             "label": "OBP",
-            "value": ".443"
+            "value": ".442"
           },
           {
             "label": "SLG",
@@ -7630,7 +7630,7 @@
           },
           {
             "label": "RBI",
-            "value": "37"
+            "value": "38"
           },
           {
             "label": "SB",
@@ -7638,10 +7638,10 @@
           }
         ],
         "components": {
-          "On-base": 90.55555555555554,
+          "On-base": 89.99999999999999,
           "Power": 50.000000000000014,
-          "Contact": 65.625,
-          "Discipline": 40.958605664488005,
+          "Contact": 65,
+          "Discipline": 41.88034188034187,
           "Speed": 53.333333333333336
         },
         "metaLine": "SR / R/R",
@@ -7882,22 +7882,22 @@
         },
         "summary": "Zion Rose profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .403",
-          "OBP .484",
-          "SLG .628"
+          "AVG .407",
+          "OBP .485",
+          "SLG .622"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".403"
+            "value": ".407"
           },
           {
             "label": "OBP",
-            "value": ".484"
+            "value": ".485"
           },
           {
             "label": "SLG",
-            "value": ".628"
+            "value": ".622"
           },
           {
             "label": "HR",
@@ -7905,19 +7905,19 @@
           },
           {
             "label": "RBI",
-            "value": "39"
+            "value": "41"
           },
           {
             "label": "SB",
-            "value": "21"
+            "value": "23"
           }
         ],
         "components": {
           "On-base": 100,
-          "Power": 81.05263157894737,
+          "Power": 79.47368421052632,
           "Contact": 100,
           "Discipline": 100,
-          "Speed": 70
+          "Speed": 76.66666666666667
         },
         "metaLine": "JR / R/R",
         "detailBadges": [
@@ -8288,29 +8288,29 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 67,
+        "score": 68,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Ben Slanker profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .284",
-          "OBP .437",
-          "SLG .582"
+          "AVG .288",
+          "OBP .436",
+          "SLG .590"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".284"
+            "value": ".288"
           },
           {
             "label": "OBP",
-            "value": ".437"
+            "value": ".436"
           },
           {
             "label": "SLG",
-            "value": ".582"
+            "value": ".590"
           },
           {
             "label": "HR",
@@ -8318,7 +8318,7 @@
           },
           {
             "label": "RBI",
-            "value": "44"
+            "value": "46"
           },
           {
             "label": "SB",
@@ -8326,9 +8326,9 @@
           }
         ],
         "components": {
-          "On-base": 87.22222222222221,
-          "Power": 68.94736842105263,
-          "Contact": 39.99999999999998,
+          "On-base": 86.66666666666666,
+          "Power": 71.05263157894737,
+          "Contact": 42.499999999999986,
           "Discipline": 100,
           "Speed": 0
         },
@@ -8908,29 +8908,29 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 54,
+        "score": 57,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Lucas Moore profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .264",
-          "OBP .417",
-          "SLG .375"
+          "AVG .270",
+          "OBP .424",
+          "SLG .379"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".264"
+            "value": ".270"
           },
           {
             "label": "OBP",
-            "value": ".417"
+            "value": ".424"
           },
           {
             "label": "SLG",
-            "value": ".375"
+            "value": ".379"
           },
           {
             "label": "HR",
@@ -8938,18 +8938,18 @@
           },
           {
             "label": "RBI",
-            "value": "32"
+            "value": "33"
           },
           {
             "label": "SB",
-            "value": "35"
+            "value": "36"
           }
         ],
         "components": {
-          "On-base": 76.11111111111109,
-          "Power": 14.473684210526317,
-          "Contact": 27.500000000000007,
-          "Discipline": 79.22705314009659,
+          "On-base": 79.99999999999999,
+          "Power": 15.526315789473685,
+          "Contact": 31.25000000000001,
+          "Discipline": 84.05797101449275,
           "Speed": 100
         },
         "metaLine": "JR / L/R",

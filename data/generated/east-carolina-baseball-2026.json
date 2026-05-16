@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T12:08:53.095Z",
+  "generatedAt": "2026-05-16T11:18:03.798Z",
   "season": 2026,
   "school": {
     "slug": "east-carolina",
@@ -38,84 +38,84 @@
     }
   },
   "teamSummary": {
-    "record": "31-21-1, 15-10",
-    "battingAverage": ".295",
-    "earnedRunAverage": "4.56",
-    "wins": "31",
+    "record": "32-21-1, 16-10",
+    "battingAverage": ".296",
+    "earnedRunAverage": "4.49",
+    "wins": "32",
     "losses": "22",
     "hitting": {
-      "atBats": "1744",
-      "runsScored": "385",
-      "hits": "515",
-      "runsBattedIn": "351",
-      "doubles": "93",
+      "atBats": "1778",
+      "runsScored": "391",
+      "hits": "526",
+      "runsBattedIn": "357",
+      "doubles": "95",
       "triples": "9",
       "homeRuns": "52",
-      "walks": "227",
+      "walks": "232",
       "intentionalWalks": "6",
-      "strikeouts": "292",
+      "strikeouts": "294",
       "strikeoutsLooking": "43",
-      "hitByPitch": "73",
+      "hitByPitch": "75",
       "stolenBases": "39",
       "caughtStealing": "14",
-      "sacrificeHits": "30",
+      "sacrificeHits": "32",
       "sacrificeFlies": "23",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "403",
-      "flyOuts": "483",
-      "groundedIntoDoublePlay": "32",
+      "groundOuts": "416",
+      "flyOuts": "493",
+      "groundedIntoDoublePlay": "34",
       "pickedOff": "1",
-      "doublePlaysHitInto": "32",
+      "doublePlaysHitInto": "34",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1326",
-      "assists": "439",
+      "putouts": "1353",
+      "assists": "447",
       "errors": "46",
       "passedBalls": "7",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "39",
+      "stolenBasesAgainst": "40",
       "caughtStealingBy": "24",
-      "involvedInDoublePlays": "32",
+      "involvedInDoublePlays": "33",
       "involvedInTriplePlays": "0",
-      "totalChances": "1811",
+      "totalChances": "1846",
       "fieldingPercentage": ".975"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "31",
-      "saves": "50",
+      "wins": "32",
+      "saves": "51",
       "losses": "20",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "3",
       "creditForCombinedShutout": "4",
-      "inningsPitched": "442.0",
-      "hitsAllowed": "421",
-      "runsAllowed": "265",
-      "earnedRunsAllowed": "224",
-      "walksAllowed": "196",
-      "strikeouts": "487",
-      "battersFaced": "1995",
-      "opponentAtBats": "1677",
-      "doublesAllowed": "56",
+      "inningsPitched": "451.0",
+      "hitsAllowed": "427",
+      "runsAllowed": "266",
+      "earnedRunsAllowed": "225",
+      "walksAllowed": "198",
+      "strikeouts": "499",
+      "battersFaced": "2029",
+      "opponentAtBats": "1709",
+      "doublesAllowed": "57",
       "triplesAllowed": "4",
       "homerunsAllowed": "54",
-      "wildPitches": "36",
-      "balks": "2",
+      "wildPitches": "37",
+      "balks": "3",
       "hitBatters": "78",
-      "strikeoutsLooking": "62",
+      "strikeoutsLooking": "68",
       "intentionalWalks": "4",
-      "inheritedRunners": "130",
+      "inheritedRunners": "132",
       "inheritedRunnersThatScored": "54",
       "sacrificeHitsAllowed": "25",
       "sacrificeFliesAllowed": "18",
       "catchersInterferenceAllowed": "0",
-      "pitches": "7590",
-      "flyouts": "393",
-      "groundouts": "366",
+      "pitches": "7735",
+      "flyouts": "399",
+      "groundouts": "374",
       "teamUnearnedRuns": "0",
       "saveRecord": "13",
       "pickoff": "0"
@@ -538,25 +538,25 @@
         "jersey": "3",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/davin-whitaker/13920",
         "imageUrl": "https://ecupirates.com/images/2025/12/2/Whitaker_Davin_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 52,
-        "gamesStarted": 43,
-        "battingAverage": 0.331,
-        "onBasePercentage": 0.427,
-        "sluggingPercentage": 0.569,
-        "ops": 0.996,
-        "atBats": 160,
-        "runs": 43,
-        "hits": 53,
+        "gamesPlayed": 53,
+        "gamesStarted": 44,
+        "battingAverage": 0.335,
+        "onBasePercentage": 0.431,
+        "sluggingPercentage": 0.567,
+        "ops": 0.998,
+        "atBats": 164,
+        "runs": 44,
+        "hits": 55,
         "doubles": 8,
         "triples": 3,
         "homeRuns": 8,
-        "runsBattedIn": 40,
-        "totalBases": 91,
-        "walks": 23,
+        "runsBattedIn": 41,
+        "totalBases": 93,
+        "walks": 24,
         "hitByPitch": 6,
         "strikeouts": 35,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
+        "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 3,
         "sacrificeHits": 3,
         "stolenBases": 6,
@@ -564,7 +564,7 @@
         "putouts": 72,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 201,
+        "plateAppearances": 206,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -591,36 +591,36 @@
         "totalChances": 73
       },
       "evaluation": {
-        "score": 65,
+        "score": 66,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 81.66666666666666,
-          "Power": 65.52631578947367,
-          "Contact": 69.37500000000001,
-          "Discipline": 50.79365079365078,
+          "On-base": 83.88888888888889,
+          "Power": 64.99999999999999,
+          "Contact": 71.87500000000001,
+          "Discipline": 53.96825396825397,
           "Speed": 20
         },
         "summary": "Davin Whitaker profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .331",
-          "OBP .427",
-          "SLG .569"
+          "AVG .335",
+          "OBP .431",
+          "SLG .567"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".331"
+            "value": ".335"
           },
           {
             "label": "OBP",
-            "value": ".427"
+            "value": ".431"
           },
           {
             "label": "SLG",
-            "value": ".569"
+            "value": ".567"
           },
           {
             "label": "HR",
@@ -628,7 +628,7 @@
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "41"
           },
           {
             "label": "SB",
@@ -683,33 +683,33 @@
         "jersey": "4",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/nick-parham/13915",
         "imageUrl": "https://ecupirates.com/images/2025/12/2/Parham_Nick_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 20,
-        "battingAverage": 0.177,
-        "onBasePercentage": 0.25,
-        "sluggingPercentage": 0.323,
-        "ops": 0.573,
-        "atBats": 62,
+        "gamesPlayed": 36,
+        "gamesStarted": 21,
+        "battingAverage": 0.188,
+        "onBasePercentage": 0.257,
+        "sluggingPercentage": 0.328,
+        "ops": 0.585,
+        "atBats": 64,
         "runs": 12,
-        "hits": 11,
+        "hits": 12,
         "doubles": 3,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 8,
-        "totalBases": 20,
+        "totalBases": 21,
         "walks": 4,
         "hitByPitch": 2,
         "strikeouts": 22,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
-        "sacrificeHits": 4,
+        "sacrificeHits": 6,
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
-        "putouts": 29,
+        "putouts": 30,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 77,
+        "plateAppearances": 81,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -721,51 +721,51 @@
         "jersey": "4",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/nick-parham/13915",
         "imageUrl": "https://ecupirates.com/images/2025/12/2/Parham_Nick_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 18,
-        "putouts": 29,
-        "assists": 36,
+        "gamesPlayed": 25,
+        "gamesStarted": 19,
+        "putouts": 30,
+        "assists": 38,
         "errors": 4,
-        "fieldingPercentage": 0.942,
-        "doublePlays": 6,
+        "fieldingPercentage": 0.944,
+        "doublePlays": 7,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 69
+        "totalChances": 72
       },
       "evaluation": {
-        "score": 1,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
           "On-base": 0,
-          "Power": 0.7894736842105272,
+          "Power": 2.105263157894739,
           "Contact": 0,
           "Discipline": 0,
           "Speed": 10
         },
         "summary": "Nick Parham gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .177",
-          "OBP .250",
-          "SLG .323"
+          "AVG .188",
+          "OBP .257",
+          "SLG .328"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".177"
+            "value": ".188"
           },
           {
             "label": "OBP",
-            "value": ".250"
+            "value": ".257"
           },
           {
             "label": "SLG",
-            "value": ".323"
+            "value": ".328"
           },
           {
             "label": "HR",
@@ -1180,13 +1180,13 @@
         "jersey": "8",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/alex-bouche/13900",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Bouche_Alex_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 18,
-        "gamesStarted": 11,
-        "battingAverage": 0.262,
-        "onBasePercentage": 0.319,
-        "sluggingPercentage": 0.381,
-        "ops": 0.7,
-        "atBats": 42,
+        "gamesPlayed": 19,
+        "gamesStarted": 12,
+        "battingAverage": 0.256,
+        "onBasePercentage": 0.313,
+        "sluggingPercentage": 0.372,
+        "ops": 0.685,
+        "atBats": 43,
         "runs": 9,
         "hits": 11,
         "doubles": 2,
@@ -1203,10 +1203,10 @@
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 27,
+        "putouts": 31,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 49,
+        "plateAppearances": 50,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1251,51 +1251,51 @@
         "jersey": "8",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/alex-bouche/13900",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Bouche_Alex_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 2,
-        "putouts": 28,
+        "gamesPlayed": 11,
+        "gamesStarted": 3,
+        "putouts": 32,
         "assists": 5,
         "errors": 1,
-        "fieldingPercentage": 0.971,
+        "fieldingPercentage": 0.974,
         "doublePlays": 4,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 34
+        "totalChances": 38
       },
       "evaluation": {
-        "score": 16,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 21.666666666666657,
-          "Power": 16.05263157894737,
-          "Contact": 26.250000000000007,
+          "On-base": 18.333333333333318,
+          "Power": 13.684210526315788,
+          "Contact": 22.500000000000004,
           "Discipline": 0,
           "Speed": 0
         },
         "summary": "Alex Bouche gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .262",
-          "OBP .319",
-          "SLG .381"
+          "AVG .256",
+          "OBP .313",
+          "SLG .372"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".262"
+            "value": ".256"
           },
           {
             "label": "OBP",
-            "value": ".319"
+            "value": ".313"
           },
           {
             "label": "SLG",
-            "value": ".381"
+            "value": ".372"
           },
           {
             "label": "HR",
@@ -1500,20 +1500,20 @@
         "jersey": "10",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/colby-wallace/13919",
         "imageUrl": "https://ecupirates.com/images/2025/12/2/Wallace_Colby_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "battingAverage": 0.313,
-        "onBasePercentage": 0.365,
-        "sluggingPercentage": 0.399,
-        "ops": 0.764,
-        "atBats": 198,
-        "runs": 34,
-        "hits": 62,
+        "gamesPlayed": 54,
+        "gamesStarted": 54,
+        "battingAverage": 0.32,
+        "onBasePercentage": 0.371,
+        "sluggingPercentage": 0.404,
+        "ops": 0.775,
+        "atBats": 203,
+        "runs": 35,
+        "hits": 65,
         "doubles": 12,
         "triples": 1,
         "homeRuns": 1,
-        "runsBattedIn": 38,
-        "totalBases": 79,
+        "runsBattedIn": 40,
+        "totalBases": 82,
         "walks": 13,
         "hitByPitch": 5,
         "strikeouts": 21,
@@ -1526,7 +1526,7 @@
         "putouts": 43,
         "assists": 0,
         "errors": 8,
-        "plateAppearances": 229,
+        "plateAppearances": 234,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1571,10 +1571,10 @@
         "jersey": "10",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/colby-wallace/13919",
         "imageUrl": "https://ecupirates.com/images/2025/12/2/Wallace_Colby_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 50,
+        "gamesPlayed": 51,
+        "gamesStarted": 51,
         "putouts": 43,
-        "assists": 96,
+        "assists": 97,
         "errors": 8,
         "fieldingPercentage": 0.946,
         "doublePlays": 6,
@@ -1583,7 +1583,7 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 147
+        "totalChances": 148
       },
       "evaluation": {
         "score": 16,
@@ -1803,13 +1803,13 @@
         "jersey": "12",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/grady-lenahan/14130",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Lenahan_Grady_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "battingAverage": 0.306,
-        "onBasePercentage": 0.408,
-        "sluggingPercentage": 0.544,
-        "ops": 0.952,
-        "atBats": 147,
+        "gamesPlayed": 43,
+        "gamesStarted": 43,
+        "battingAverage": 0.298,
+        "onBasePercentage": 0.402,
+        "sluggingPercentage": 0.53,
+        "ops": 0.932,
+        "atBats": 151,
         "runs": 37,
         "hits": 45,
         "doubles": 10,
@@ -1818,7 +1818,7 @@
         "runsBattedIn": 40,
         "totalBases": 80,
         "walks": 12,
-        "hitByPitch": 16,
+        "hitByPitch": 17,
         "strikeouts": 19,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
@@ -1826,10 +1826,10 @@
         "sacrificeHits": 5,
         "stolenBases": 9,
         "stolenBasesAttempts": 10,
-        "putouts": 89,
+        "putouts": 91,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 195,
+        "plateAppearances": 200,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1841,9 +1841,9 @@
         "jersey": "12",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/grady-lenahan/14130",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Lenahan_Grady_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "putouts": 89,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "putouts": 91,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1853,39 +1853,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 89
+        "totalChances": 91
       },
       "evaluation": {
-        "score": 57,
+        "score": 55,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 71.11111111111109,
-          "Power": 58.94736842105265,
-          "Contact": 53.75,
+          "On-base": 67.77777777777779,
+          "Power": 55.26315789473686,
+          "Contact": 48.749999999999986,
           "Discipline": 47.95321637426899,
           "Speed": 30
         },
         "summary": "Grady Lenahan profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .306",
-          "OBP .408",
-          "SLG .544"
+          "AVG .298",
+          "OBP .402",
+          "SLG .530"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".306"
+            "value": ".298"
           },
           {
             "label": "OBP",
-            "value": ".408"
+            "value": ".402"
           },
           {
             "label": "SLG",
-            "value": ".544"
+            "value": ".530"
           },
           {
             "label": "HR",
@@ -1948,20 +1948,20 @@
         "jersey": "13",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/michael-kalinich/13909",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Kalinich_Michael_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 34,
+        "gamesPlayed": 35,
         "gamesStarted": 18,
-        "battingAverage": 0.239,
-        "onBasePercentage": 0.346,
-        "sluggingPercentage": 0.567,
-        "ops": 0.913,
-        "atBats": 67,
+        "battingAverage": 0.257,
+        "onBasePercentage": 0.358,
+        "sluggingPercentage": 0.586,
+        "ops": 0.944,
+        "atBats": 70,
         "runs": 10,
-        "hits": 16,
-        "doubles": 4,
+        "hits": 18,
+        "doubles": 5,
         "triples": 0,
         "homeRuns": 6,
-        "runsBattedIn": 23,
-        "totalBases": 38,
+        "runsBattedIn": 25,
+        "totalBases": 41,
         "walks": 11,
         "hitByPitch": 0,
         "strikeouts": 20,
@@ -1974,7 +1974,7 @@
         "putouts": 77,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 78,
+        "plateAppearances": 81,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2001,36 +2001,36 @@
         "totalChances": 86
       },
       "evaluation": {
-        "score": 36,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 36.666666666666636,
-          "Power": 64.99999999999999,
-          "Contact": 11.874999999999993,
+          "On-base": 43.333333333333314,
+          "Power": 70,
+          "Contact": 23.125000000000004,
           "Discipline": 38.88888888888889,
           "Speed": 0
         },
         "summary": "Michael Kalinich profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .239",
-          "OBP .346",
-          "SLG .567"
+          "AVG .257",
+          "OBP .358",
+          "SLG .586"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".239"
+            "value": ".257"
           },
           {
             "label": "OBP",
-            "value": ".346"
+            "value": ".358"
           },
           {
             "label": "SLG",
-            "value": ".567"
+            "value": ".586"
           },
           {
             "label": "HR",
@@ -2038,7 +2038,7 @@
           },
           {
             "label": "RBI",
-            "value": "23"
+            "value": "25"
           },
           {
             "label": "SB",
@@ -2364,31 +2364,31 @@
         "jersey": "18",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/ethan-norby/13914",
         "imageUrl": "https://ecupirates.com/images/2025/12/2/Norby_Ethan_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 13,
-        "appearances": 13,
+        "gamesPlayed": 14,
+        "gamesStarted": 14,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.8,
-        "whip": 1.46,
-        "wins": 5,
+        "earnedRunAverage": 4.52,
+        "whip": 1.4,
+        "wins": 6,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 69.33333333333333,
-        "inningsPitchedDisplay": "69.1",
-        "hitsAllowed": 78,
-        "runsAllowed": 42,
-        "earnedRunsAllowed": 37,
-        "walksAllowed": 23,
-        "strikeouts": 98,
-        "doublesAllowed": 8,
+        "inningsPitched": 75.66666666666667,
+        "inningsPitchedDisplay": "75.2",
+        "hitsAllowed": 82,
+        "runsAllowed": 43,
+        "earnedRunsAllowed": 38,
+        "walksAllowed": 24,
+        "strikeouts": 108,
+        "doublesAllowed": 9,
         "triplesAllowed": 0,
         "homeRunsAllowed": 9,
-        "opponentsAtBats": 280,
-        "wildPitches": 1,
+        "opponentsAtBats": 303,
+        "wildPitches": 2,
         "hitBatters": 17,
-        "balks": 1,
-        "opponentsBattingAverage": 0.279,
+        "balks": 2,
+        "opponentsBattingAverage": 0.271,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2398,22 +2398,22 @@
         "jersey": "18",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/ethan-norby/13914",
         "imageUrl": "https://ecupirates.com/images/2025/12/2/Norby_Ethan_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 7,
+        "gamesPlayed": 8,
+        "gamesStarted": 8,
         "putouts": 0,
-        "assists": 7,
+        "assists": 8,
         "errors": 1,
-        "fieldingPercentage": 0.875,
+        "fieldingPercentage": 0.889,
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 8
+        "totalChances": 9
       },
       "evaluation": {
-        "score": 26,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2421,40 +2421,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 79.28321678321679,
-          "Command": 65.21739130434781,
+          "Miss bats": 80.4164997997597,
+          "Command": 70,
           "Damage suppression": 0
         },
         "summary": "Ethan Norby looks like a LHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.80",
-          "WHIP 1.46",
-          "K/9 12.7"
+          "ERA 4.52",
+          "WHIP 1.40",
+          "K/9 12.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.80"
+            "value": "4.52"
           },
           {
             "label": "WHIP",
-            "value": "1.46"
+            "value": "1.40"
           },
           {
             "label": "K/9",
-            "value": "12.7"
+            "value": "12.8"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "2.9"
           },
           {
             "label": "HR/9",
-            "value": "1.17"
+            "value": "1.07"
           },
           {
             "label": "IP",
-            "value": "69.3"
+            "value": "75.7"
           }
         ],
         "metaLine": "JR / L/L",
@@ -2789,33 +2789,33 @@
         "jersey": "21",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/austin-irby/13906",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Irby_Austin_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 53,
+        "gamesPlayed": 54,
         "gamesStarted": 51,
-        "battingAverage": 0.239,
-        "onBasePercentage": 0.346,
-        "sluggingPercentage": 0.35,
-        "ops": 0.696,
-        "atBats": 180,
-        "runs": 31,
-        "hits": 43,
+        "battingAverage": 0.242,
+        "onBasePercentage": 0.35,
+        "sluggingPercentage": 0.352,
+        "ops": 0.702,
+        "atBats": 182,
+        "runs": 32,
+        "hits": 44,
         "doubles": 5,
         "triples": 0,
         "homeRuns": 5,
         "runsBattedIn": 33,
-        "totalBases": 63,
-        "walks": 22,
+        "totalBases": 64,
+        "walks": 23,
         "hitByPitch": 9,
         "strikeouts": 28,
         "intentionalWalks": 3,
-        "groundedIntoDoublePlay": 3,
+        "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 3,
         "sacrificeHits": 4,
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
-        "putouts": 328,
+        "putouts": 332,
         "assists": 0,
         "errors": 7,
-        "plateAppearances": 222,
+        "plateAppearances": 225,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2827,51 +2827,51 @@
         "jersey": "21",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/austin-irby/13906",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Irby_Austin_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 53,
+        "gamesPlayed": 54,
         "gamesStarted": 51,
-        "putouts": 328,
+        "putouts": 332,
         "assists": 29,
         "errors": 7,
         "fieldingPercentage": 0.981,
-        "doublePlays": 26,
+        "doublePlays": 27,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 364
+        "totalChances": 368
       },
       "evaluation": {
-        "score": 26,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 36.666666666666636,
-          "Power": 7.8947368421052575,
-          "Contact": 11.874999999999993,
-          "Discipline": 65.07936507936506,
+          "On-base": 38.888888888888864,
+          "Power": 8.421052631578942,
+          "Contact": 13.749999999999996,
+          "Discipline": 69.04761904761904,
           "Speed": 6.666666666666667
         },
         "summary": "Austin Irby gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .239",
-          "OBP .346",
-          "SLG .350"
+          "AVG .242",
+          "OBP .350",
+          "SLG .352"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".239"
+            "value": ".242"
           },
           {
             "label": "OBP",
-            "value": ".346"
+            "value": ".350"
           },
           {
             "label": "SLG",
-            "value": ".350"
+            "value": ".352"
           },
           {
             "label": "HR",
@@ -2934,13 +2934,13 @@
         "jersey": "24",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/walker-barron/13898",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Walker_Barron_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 49,
-        "gamesStarted": 46,
-        "battingAverage": 0.295,
-        "onBasePercentage": 0.382,
-        "sluggingPercentage": 0.445,
-        "ops": 0.827,
-        "atBats": 146,
+        "gamesPlayed": 50,
+        "gamesStarted": 47,
+        "battingAverage": 0.287,
+        "onBasePercentage": 0.377,
+        "sluggingPercentage": 0.433,
+        "ops": 0.81,
+        "atBats": 150,
         "runs": 30,
         "hits": 43,
         "doubles": 7,
@@ -2948,19 +2948,19 @@
         "homeRuns": 5,
         "runsBattedIn": 32,
         "totalBases": 65,
-        "walks": 17,
+        "walks": 18,
         "hitByPitch": 5,
-        "strikeouts": 25,
+        "strikeouts": 27,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
         "sacrificeHits": 3,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 400,
+        "putouts": 412,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 174,
+        "plateAppearances": 179,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2972,51 +2972,51 @@
         "jersey": "24",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/walker-barron/13898",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Walker_Barron_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 46,
-        "putouts": 400,
+        "gamesPlayed": 49,
+        "gamesStarted": 47,
+        "putouts": 412,
         "assists": 36,
         "errors": 4,
         "fieldingPercentage": 0.991,
         "doublePlays": 3,
-        "stolenBasesAgainst": 32,
+        "stolenBasesAgainst": 33,
         "caughtStealingBy": 20,
         "stolenBasesPercentage": null,
         "passedBalls": 5,
         "catchersInterference": 0,
-        "totalChances": 440
+        "totalChances": 452
       },
       "evaluation": {
-        "score": 43,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 56.66666666666666,
-          "Power": 32.89473684210527,
-          "Contact": 46.874999999999986,
-          "Discipline": 53.333333333333336,
+          "On-base": 53.88888888888887,
+          "Power": 29.73684210526316,
+          "Contact": 41.874999999999986,
+          "Discipline": 51.85185185185184,
           "Speed": 3.3333333333333335
         },
         "summary": "Walker Barron gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .295",
-          "OBP .382",
-          "SLG .445"
+          "AVG .287",
+          "OBP .377",
+          "SLG .433"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".295"
+            "value": ".287"
           },
           {
             "label": "OBP",
-            "value": ".382"
+            "value": ".377"
           },
           {
             "label": "SLG",
-            "value": ".445"
+            "value": ".433"
           },
           {
             "label": "HR",
@@ -3167,22 +3167,22 @@
         "jersey": "26",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/braden-burress/13901",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Burress_Braden_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "battingAverage": 0.337,
-        "onBasePercentage": 0.44,
-        "sluggingPercentage": 0.447,
-        "ops": 0.887,
-        "atBats": 208,
-        "runs": 56,
-        "hits": 70,
+        "gamesPlayed": 54,
+        "gamesStarted": 54,
+        "battingAverage": 0.336,
+        "onBasePercentage": 0.443,
+        "sluggingPercentage": 0.445,
+        "ops": 0.888,
+        "atBats": 211,
+        "runs": 58,
+        "hits": 71,
         "doubles": 10,
         "triples": 2,
         "homeRuns": 3,
         "runsBattedIn": 26,
-        "totalBases": 93,
-        "walks": 34,
-        "hitByPitch": 6,
+        "totalBases": 94,
+        "walks": 35,
+        "hitByPitch": 7,
         "strikeouts": 25,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
@@ -3190,10 +3190,10 @@
         "sacrificeHits": 2,
         "stolenBases": 10,
         "stolenBasesAttempts": 13,
-        "putouts": 85,
+        "putouts": 86,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 268,
+        "plateAppearances": 273,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -3205,19 +3205,19 @@
         "jersey": "26",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/braden-burress/13901",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Burress_Braden_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 50,
-        "putouts": 85,
-        "assists": 64,
+        "gamesPlayed": 51,
+        "gamesStarted": 51,
+        "putouts": 86,
+        "assists": 68,
         "errors": 4,
-        "fieldingPercentage": 0.974,
-        "doublePlays": 7,
+        "fieldingPercentage": 0.975,
+        "doublePlays": 8,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 153
+        "totalChances": 158
       },
       "evaluation": {
         "score": 68,
@@ -3226,30 +3226,30 @@
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 88.88888888888889,
-          "Power": 33.42105263157895,
-          "Contact": 73.125,
+          "On-base": 90.55555555555554,
+          "Power": 32.89473684210527,
+          "Contact": 72.50000000000001,
           "Discipline": 100,
           "Speed": 33.33333333333333
         },
         "summary": "Braden Burress profiles as a INF/OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .337",
-          "OBP .440",
-          "SLG .447"
+          "AVG .336",
+          "OBP .443",
+          "SLG .445"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".337"
+            "value": ".336"
           },
           {
             "label": "OBP",
-            "value": ".440"
+            "value": ".443"
           },
           {
             "label": "SLG",
-            "value": ".447"
+            "value": ".445"
           },
           {
             "label": "HR",
@@ -3599,20 +3599,20 @@
         "jersey": "29",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/brayden-bachman/14134",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Bachman_Brayden_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 7,
-        "battingAverage": 0.256,
-        "onBasePercentage": 0.354,
-        "sluggingPercentage": 0.462,
-        "ops": 0.816,
-        "atBats": 39,
+        "gamesPlayed": 25,
+        "gamesStarted": 8,
+        "battingAverage": 0.268,
+        "onBasePercentage": 0.36,
+        "sluggingPercentage": 0.488,
+        "ops": 0.848,
+        "atBats": 41,
         "runs": 8,
-        "hits": 10,
-        "doubles": 2,
+        "hits": 11,
+        "doubles": 3,
         "triples": 0,
         "homeRuns": 2,
-        "runsBattedIn": 7,
-        "totalBases": 18,
+        "runsBattedIn": 8,
+        "totalBases": 20,
         "walks": 6,
         "hitByPitch": 1,
         "strikeouts": 5,
@@ -3625,7 +3625,7 @@
         "putouts": 2,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 48,
+        "plateAppearances": 50,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3652,36 +3652,36 @@
         "totalChances": 2
       },
       "evaluation": {
-        "score": 41,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 41.111111111111086,
-          "Power": 37.36842105263159,
-          "Contact": 22.500000000000004,
+          "On-base": 44.44444444444443,
+          "Power": 44.21052631578947,
+          "Contact": 30.00000000000001,
           "Discipline": 100,
           "Speed": 0
         },
         "summary": "Brayden Bachman profiles as a OF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .256",
-          "OBP .354",
-          "SLG .462"
+          "AVG .268",
+          "OBP .360",
+          "SLG .488"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".256"
+            "value": ".268"
           },
           {
             "label": "OBP",
-            "value": ".354"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".462"
+            "value": ".488"
           },
           {
             "label": "HR",
@@ -3689,7 +3689,7 @@
           },
           {
             "label": "RBI",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "SB",
@@ -3870,31 +3870,31 @@
         "jersey": "33",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/joseph-webb/14136",
         "imageUrl": "https://ecupirates.com/images/2025/12/2/Webb_Joe_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 25,
+        "gamesPlayed": 26,
         "gamesStarted": 3,
-        "appearances": 25,
+        "appearances": 26,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.93,
-        "whip": 1.18,
+        "earnedRunAverage": 3.81,
+        "whip": 1.16,
         "wins": 6,
         "losses": 5,
         "saves": 2,
         "shutouts": 0,
-        "inningsPitched": 55,
-        "inningsPitchedDisplay": "55.0",
-        "hitsAllowed": 41,
+        "inningsPitched": 56.666666666666664,
+        "inningsPitchedDisplay": "56.2",
+        "hitsAllowed": 42,
         "runsAllowed": 32,
         "earnedRunsAllowed": 24,
         "walksAllowed": 24,
-        "strikeouts": 71,
+        "strikeouts": 73,
         "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 201,
+        "opponentsAtBats": 207,
         "wildPitches": 6,
         "hitBatters": 9,
         "balks": 0,
-        "opponentsBattingAverage": 0.204,
+        "opponentsBattingAverage": 0.203,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3927,24 +3927,24 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 69.25619834710744,
-          "Command": 39.16666666666667,
+          "Miss bats": 69.03743315508021,
+          "Command": 40.833333333333336,
           "Damage suppression": 0
         },
         "summary": "Joseph Webb looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.93",
-          "WHIP 1.18",
+          "ERA 3.81",
+          "WHIP 1.16",
           "K/9 11.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.93"
+            "value": "3.81"
           },
           {
             "label": "WHIP",
-            "value": "1.18"
+            "value": "1.16"
           },
           {
             "label": "K/9",
@@ -3952,15 +3952,15 @@
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "3.8"
           },
           {
             "label": "HR/9",
-            "value": "0.49"
+            "value": "0.48"
           },
           {
             "label": "IP",
-            "value": "55.0"
+            "value": "56.7"
           }
         ],
         "metaLine": "SR / R/R",
@@ -4242,31 +4242,31 @@
         "jersey": "37",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/ethan-rose/14139",
         "imageUrl": "https://ecupirates.com/images/2025/12/2/Rose_Ethan_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 23,
+        "gamesPlayed": 24,
         "gamesStarted": 1,
-        "appearances": 23,
+        "appearances": 24,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3,
-        "whip": 1.63,
+        "earnedRunAverage": 2.9,
+        "whip": 1.65,
         "wins": 3,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 30,
-        "inningsPitchedDisplay": "30.0",
-        "hitsAllowed": 32,
+        "inningsPitched": 31,
+        "inningsPitchedDisplay": "31.0",
+        "hitsAllowed": 33,
         "runsAllowed": 14,
         "earnedRunsAllowed": 10,
-        "walksAllowed": 17,
+        "walksAllowed": 18,
         "strikeouts": 18,
         "doublesAllowed": 6,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 117,
+        "opponentsAtBats": 120,
         "wildPitches": 1,
         "hitBatters": 7,
         "balks": 0,
-        "opponentsBattingAverage": 0.274,
+        "opponentsBattingAverage": 0.275,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4291,7 +4291,7 @@
         "totalChances": 9
       },
       "evaluation": {
-        "score": 3,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4299,32 +4299,32 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 12.727272727272732,
-          "Command": 1.1764705882352988,
+          "Miss bats": 11.143695014662756,
+          "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Ethan Rose looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.00",
-          "WHIP 1.63",
-          "K/9 5.4"
+          "ERA 2.90",
+          "WHIP 1.65",
+          "K/9 5.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.00"
+            "value": "2.90"
           },
           {
             "label": "WHIP",
-            "value": "1.63"
+            "value": "1.65"
           },
           {
             "label": "K/9",
-            "value": "5.4"
+            "value": "5.2"
           },
           {
             "label": "BB/9",
-            "value": "5.1"
+            "value": "5.2"
           },
           {
             "label": "HR/9",
@@ -4332,7 +4332,7 @@
           },
           {
             "label": "IP",
-            "value": "30.0"
+            "value": "31.0"
           }
         ],
         "metaLine": "FR / R/R",
@@ -5039,21 +5039,21 @@
         "jersey": "51",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-herring/13905",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Herring_Jack_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 52,
-        "gamesStarted": 52,
-        "battingAverage": 0.378,
-        "onBasePercentage": 0.513,
-        "sluggingPercentage": 0.606,
-        "ops": 1.119,
-        "atBats": 180,
-        "runs": 54,
+        "gamesPlayed": 53,
+        "gamesStarted": 53,
+        "battingAverage": 0.37,
+        "onBasePercentage": 0.506,
+        "sluggingPercentage": 0.592,
+        "ops": 1.098,
+        "atBats": 184,
+        "runs": 55,
         "hits": 68,
         "doubles": 15,
         "triples": 1,
         "homeRuns": 8,
         "runsBattedIn": 49,
         "totalBases": 109,
-        "walks": 49,
+        "walks": 50,
         "hitByPitch": 2,
         "strikeouts": 27,
         "intentionalWalks": 0,
@@ -5062,10 +5062,10 @@
         "sacrificeHits": 0,
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
-        "putouts": 48,
+        "putouts": 51,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 236,
+        "plateAppearances": 241,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -5077,51 +5077,51 @@
         "jersey": "51",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-herring/13905",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Herring_Jack_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 29,
-        "putouts": 48,
+        "gamesPlayed": 30,
+        "gamesStarted": 30,
+        "putouts": 51,
         "assists": 1,
         "errors": 1,
-        "fieldingPercentage": 0.98,
+        "fieldingPercentage": 0.981,
         "doublePlays": 2,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 50
+        "totalChances": 53
       },
       "evaluation": {
-        "score": 84,
+        "score": 82,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "components": {
           "On-base": 100,
-          "Power": 75.26315789473685,
-          "Contact": 98.75,
+          "Power": 71.57894736842105,
+          "Contact": 93.75,
           "Discipline": 100,
           "Speed": 6.666666666666667
         },
         "summary": "Jack Herring profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .378",
-          "OBP .513",
-          "SLG .606"
+          "AVG .370",
+          "OBP .506",
+          "SLG .592"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".378"
+            "value": ".370"
           },
           {
             "label": "OBP",
-            "value": ".513"
+            "value": ".506"
           },
           {
             "label": "SLG",
-            "value": ".606"
+            "value": ".592"
           },
           {
             "label": "HR",
@@ -5306,7 +5306,7 @@
         "jersey": "61",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/chance-hall/13904",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Hall_Chance_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 0,
         "battingAverage": 0.333,
         "onBasePercentage": 0.333,
@@ -5867,29 +5867,29 @@
         "position": "OF",
         "classYear": "R-SO",
         "handedness": "L/R",
-        "score": 65,
+        "score": 66,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Davin Whitaker profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .331",
-          "OBP .427",
-          "SLG .569"
+          "AVG .335",
+          "OBP .431",
+          "SLG .567"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".331"
+            "value": ".335"
           },
           {
             "label": "OBP",
-            "value": ".427"
+            "value": ".431"
           },
           {
             "label": "SLG",
-            "value": ".569"
+            "value": ".567"
           },
           {
             "label": "HR",
@@ -5897,7 +5897,7 @@
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "41"
           },
           {
             "label": "SB",
@@ -5905,10 +5905,10 @@
           }
         ],
         "components": {
-          "On-base": 81.66666666666666,
-          "Power": 65.52631578947367,
-          "Contact": 69.37500000000001,
-          "Discipline": 50.79365079365078,
+          "On-base": 83.88888888888889,
+          "Power": 64.99999999999999,
+          "Contact": 71.87500000000001,
+          "Discipline": 53.96825396825397,
           "Speed": 20
         },
         "metaLine": "R-SO / L/R",
@@ -5936,29 +5936,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 1,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nick Parham gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .177",
-          "OBP .250",
-          "SLG .323"
+          "AVG .188",
+          "OBP .257",
+          "SLG .328"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".177"
+            "value": ".188"
           },
           {
             "label": "OBP",
-            "value": ".250"
+            "value": ".257"
           },
           {
             "label": "SLG",
-            "value": ".323"
+            "value": ".328"
           },
           {
             "label": "HR",
@@ -5975,7 +5975,7 @@
         ],
         "components": {
           "On-base": 0,
-          "Power": 0.7894736842105272,
+          "Power": 2.105263157894739,
           "Contact": 0,
           "Discipline": 0,
           "Speed": 10
@@ -6211,29 +6211,29 @@
         "position": "UTL",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 16,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Alex Bouche gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .262",
-          "OBP .319",
-          "SLG .381"
+          "AVG .256",
+          "OBP .313",
+          "SLG .372"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".262"
+            "value": ".256"
           },
           {
             "label": "OBP",
-            "value": ".319"
+            "value": ".313"
           },
           {
             "label": "SLG",
-            "value": ".381"
+            "value": ".372"
           },
           {
             "label": "HR",
@@ -6249,9 +6249,9 @@
           }
         ],
         "components": {
-          "On-base": 21.666666666666657,
-          "Power": 16.05263157894737,
-          "Contact": 26.250000000000007,
+          "On-base": 18.333333333333318,
+          "Power": 13.684210526315788,
+          "Contact": 22.500000000000004,
           "Discipline": 0,
           "Speed": 0
         },
@@ -6487,29 +6487,29 @@
         "position": "OF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 57,
+        "score": 55,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "summary": "Grady Lenahan profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .306",
-          "OBP .408",
-          "SLG .544"
+          "AVG .298",
+          "OBP .402",
+          "SLG .530"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".306"
+            "value": ".298"
           },
           {
             "label": "OBP",
-            "value": ".408"
+            "value": ".402"
           },
           {
             "label": "SLG",
-            "value": ".544"
+            "value": ".530"
           },
           {
             "label": "HR",
@@ -6525,9 +6525,9 @@
           }
         ],
         "components": {
-          "On-base": 71.11111111111109,
-          "Power": 58.94736842105265,
-          "Contact": 53.75,
+          "On-base": 67.77777777777779,
+          "Power": 55.26315789473686,
+          "Contact": 48.749999999999986,
           "Discipline": 47.95321637426899,
           "Speed": 30
         },
@@ -6556,29 +6556,29 @@
         "position": "C",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 36,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Michael Kalinich profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .239",
-          "OBP .346",
-          "SLG .567"
+          "AVG .257",
+          "OBP .358",
+          "SLG .586"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".239"
+            "value": ".257"
           },
           {
             "label": "OBP",
-            "value": ".346"
+            "value": ".358"
           },
           {
             "label": "SLG",
-            "value": ".567"
+            "value": ".586"
           },
           {
             "label": "HR",
@@ -6586,7 +6586,7 @@
           },
           {
             "label": "RBI",
-            "value": "23"
+            "value": "25"
           },
           {
             "label": "SB",
@@ -6594,9 +6594,9 @@
           }
         ],
         "components": {
-          "On-base": 36.666666666666636,
-          "Power": 64.99999999999999,
-          "Contact": 11.874999999999993,
+          "On-base": 43.333333333333314,
+          "Power": 70,
+          "Contact": 23.125000000000004,
           "Discipline": 38.88888888888889,
           "Speed": 0
         },
@@ -6763,48 +6763,48 @@
         "position": "LHP",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 26,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ethan Norby looks like a LHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.80",
-          "WHIP 1.46",
-          "K/9 12.7"
+          "ERA 4.52",
+          "WHIP 1.40",
+          "K/9 12.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.80"
+            "value": "4.52"
           },
           {
             "label": "WHIP",
-            "value": "1.46"
+            "value": "1.40"
           },
           {
             "label": "K/9",
-            "value": "12.7"
+            "value": "12.8"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "2.9"
           },
           {
             "label": "HR/9",
-            "value": "1.17"
+            "value": "1.07"
           },
           {
             "label": "IP",
-            "value": "69.3"
+            "value": "75.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 79.28321678321679,
-          "Command": 65.21739130434781,
+          "Miss bats": 80.4164997997597,
+          "Command": 70,
           "Damage suppression": 0
         },
         "metaLine": "JR / L/L",
@@ -6970,29 +6970,29 @@
         "position": "INF",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 26,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Austin Irby gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .239",
-          "OBP .346",
-          "SLG .350"
+          "AVG .242",
+          "OBP .350",
+          "SLG .352"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".239"
+            "value": ".242"
           },
           {
             "label": "OBP",
-            "value": ".346"
+            "value": ".350"
           },
           {
             "label": "SLG",
-            "value": ".350"
+            "value": ".352"
           },
           {
             "label": "HR",
@@ -7008,10 +7008,10 @@
           }
         ],
         "components": {
-          "On-base": 36.666666666666636,
-          "Power": 7.8947368421052575,
-          "Contact": 11.874999999999993,
-          "Discipline": 65.07936507936506,
+          "On-base": 38.888888888888864,
+          "Power": 8.421052631578942,
+          "Contact": 13.749999999999996,
+          "Discipline": 69.04761904761904,
           "Speed": 6.666666666666667
         },
         "metaLine": "SO / L/R",
@@ -7039,29 +7039,29 @@
         "position": "C",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 43,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Walker Barron gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .295",
-          "OBP .382",
-          "SLG .445"
+          "AVG .287",
+          "OBP .377",
+          "SLG .433"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".295"
+            "value": ".287"
           },
           {
             "label": "OBP",
-            "value": ".382"
+            "value": ".377"
           },
           {
             "label": "SLG",
-            "value": ".445"
+            "value": ".433"
           },
           {
             "label": "HR",
@@ -7077,10 +7077,10 @@
           }
         ],
         "components": {
-          "On-base": 56.66666666666666,
-          "Power": 32.89473684210527,
-          "Contact": 46.874999999999986,
-          "Discipline": 53.333333333333336,
+          "On-base": 53.88888888888887,
+          "Power": 29.73684210526316,
+          "Contact": 41.874999999999986,
+          "Discipline": 51.85185185185184,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / R/R",
@@ -7183,22 +7183,22 @@
         },
         "summary": "Braden Burress profiles as a INF/OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .337",
-          "OBP .440",
-          "SLG .447"
+          "AVG .336",
+          "OBP .443",
+          "SLG .445"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".337"
+            "value": ".336"
           },
           {
             "label": "OBP",
-            "value": ".440"
+            "value": ".443"
           },
           {
             "label": "SLG",
-            "value": ".447"
+            "value": ".445"
           },
           {
             "label": "HR",
@@ -7214,9 +7214,9 @@
           }
         ],
         "components": {
-          "On-base": 88.88888888888889,
-          "Power": 33.42105263157895,
-          "Contact": 73.125,
+          "On-base": 90.55555555555554,
+          "Power": 32.89473684210527,
+          "Contact": 72.50000000000001,
           "Discipline": 100,
           "Speed": 33.33333333333333
         },
@@ -7383,29 +7383,29 @@
         "position": "OF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 41,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brayden Bachman profiles as a OF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .256",
-          "OBP .354",
-          "SLG .462"
+          "AVG .268",
+          "OBP .360",
+          "SLG .488"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".256"
+            "value": ".268"
           },
           {
             "label": "OBP",
-            "value": ".354"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".462"
+            "value": ".488"
           },
           {
             "label": "HR",
@@ -7413,7 +7413,7 @@
           },
           {
             "label": "RBI",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "SB",
@@ -7421,9 +7421,9 @@
           }
         ],
         "components": {
-          "On-base": 41.111111111111086,
-          "Power": 37.36842105263159,
-          "Contact": 22.500000000000004,
+          "On-base": 44.44444444444443,
+          "Power": 44.21052631578947,
+          "Contact": 30.00000000000001,
           "Discipline": 100,
           "Speed": 0
         },
@@ -7528,18 +7528,18 @@
         },
         "summary": "Joseph Webb looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.93",
-          "WHIP 1.18",
+          "ERA 3.81",
+          "WHIP 1.16",
           "K/9 11.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.93"
+            "value": "3.81"
           },
           {
             "label": "WHIP",
-            "value": "1.18"
+            "value": "1.16"
           },
           {
             "label": "K/9",
@@ -7547,22 +7547,22 @@
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "3.8"
           },
           {
             "label": "HR/9",
-            "value": "0.49"
+            "value": "0.48"
           },
           {
             "label": "IP",
-            "value": "55.0"
+            "value": "56.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 69.25619834710744,
-          "Command": 39.16666666666667,
+          "Miss bats": 69.03743315508021,
+          "Command": 40.833333333333336,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -7727,33 +7727,33 @@
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 3,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ethan Rose looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.00",
-          "WHIP 1.63",
-          "K/9 5.4"
+          "ERA 2.90",
+          "WHIP 1.65",
+          "K/9 5.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.00"
+            "value": "2.90"
           },
           {
             "label": "WHIP",
-            "value": "1.63"
+            "value": "1.65"
           },
           {
             "label": "K/9",
-            "value": "5.4"
+            "value": "5.2"
           },
           {
             "label": "BB/9",
-            "value": "5.1"
+            "value": "5.2"
           },
           {
             "label": "HR/9",
@@ -7761,14 +7761,14 @@
           },
           {
             "label": "IP",
-            "value": "30.0"
+            "value": "31.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 12.727272727272732,
-          "Command": 1.1764705882352988,
+          "Miss bats": 11.143695014662756,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -8140,29 +8140,29 @@
         "position": "OF",
         "classYear": "SR",
         "handedness": "S/L",
-        "score": 84,
+        "score": 82,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Jack Herring profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .378",
-          "OBP .513",
-          "SLG .606"
+          "AVG .370",
+          "OBP .506",
+          "SLG .592"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".378"
+            "value": ".370"
           },
           {
             "label": "OBP",
-            "value": ".513"
+            "value": ".506"
           },
           {
             "label": "SLG",
-            "value": ".606"
+            "value": ".592"
           },
           {
             "label": "HR",
@@ -8179,8 +8179,8 @@
         ],
         "components": {
           "On-base": 100,
-          "Power": 75.26315789473685,
-          "Contact": 98.75,
+          "Power": 71.57894736842105,
+          "Contact": 93.75,
           "Discipline": 100,
           "Speed": 6.666666666666667
         },

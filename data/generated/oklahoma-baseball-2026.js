@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.oklahoma2026 = {
-  "generatedAt": "2026-05-15T12:09:26.431Z",
+  "generatedAt": "2026-05-16T11:18:22.606Z",
   "season": 2026,
   "school": {
     "slug": "oklahoma",
@@ -45,7 +45,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
     "wins": "31",
     "losses": "19",
     "hitting": {
-      "atBats": "1602",
+      "atBats": "1601",
       "runsScored": "333",
       "hits": "452",
       "runsBattedIn": "317",
@@ -60,7 +60,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
       "stolenBases": "110",
       "caughtStealing": "19",
       "sacrificeHits": "12",
-      "sacrificeFlies": "24",
+      "sacrificeFlies": "25",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
@@ -100,7 +100,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
       "walksAllowed": "223",
       "strikeouts": "505",
       "battersFaced": "1883",
-      "opponentAtBats": "1573",
+      "opponentAtBats": "1572",
       "doublesAllowed": "66",
       "triplesAllowed": "5",
       "homerunsAllowed": "70",
@@ -112,7 +112,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
       "inheritedRunners": "3",
       "inheritedRunnersThatScored": "2",
       "sacrificeHitsAllowed": "11",
-      "sacrificeFliesAllowed": "10",
+      "sacrificeFliesAllowed": "11",
       "catchersInterferenceAllowed": "0",
       "pitches": "7658",
       "flyouts": "332",
@@ -163,11 +163,11 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "imageUrl": "https://soonersports.com/images/2025/9/9/Jason_Walk_Headshot.jpg",
         "gamesPlayed": 46,
         "gamesStarted": 45,
-        "battingAverage": 0.248,
+        "battingAverage": 0.25,
         "onBasePercentage": 0.36,
-        "sluggingPercentage": 0.349,
-        "ops": 0.709,
-        "atBats": 149,
+        "sluggingPercentage": 0.351,
+        "ops": 0.711,
+        "atBats": 148,
         "runs": 30,
         "hits": 37,
         "doubles": 6,
@@ -180,7 +180,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "strikeouts": 46,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
-        "sacrificeFlies": 0,
+        "sacrificeFlies": 1,
         "sacrificeHits": 3,
         "stolenBases": 14,
         "stolenBasesAttempts": 19,
@@ -214,28 +214,28 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "totalChances": 83
       },
       "evaluation": {
-        "score": 28,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
           "On-base": 44.44444444444443,
-          "Power": 7.631578947368414,
-          "Contact": 17.5,
+          "Power": 8.157894736842099,
+          "Contact": 18.75,
           "Discipline": 30.917874396135264,
           "Speed": 46.666666666666664
         },
         "summary": "Jason Walk profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .248",
+          "AVG .250",
           "OBP .360",
-          "SLG .349"
+          "SLG .351"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".248"
+            "value": ".250"
           },
           {
             "label": "OBP",
@@ -243,7 +243,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           },
           {
             "label": "SLG",
-            "value": ".349"
+            "value": ".351"
           },
           {
             "label": "HR",
@@ -3739,11 +3739,11 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "doublesAllowed": 6,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 195,
+        "opponentsAtBats": 194,
         "wildPitches": 3,
         "hitBatters": 9,
         "balks": 0,
-        "opponentsBattingAverage": 0.2,
+        "opponentsBattingAverage": 0.201,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5311,21 +5311,21 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "S/R",
-        "score": 28,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jason Walk profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .248",
+          "AVG .250",
           "OBP .360",
-          "SLG .349"
+          "SLG .351"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".248"
+            "value": ".250"
           },
           {
             "label": "OBP",
@@ -5333,7 +5333,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           },
           {
             "label": "SLG",
-            "value": ".349"
+            "value": ".351"
           },
           {
             "label": "HR",
@@ -5350,8 +5350,8 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         ],
         "components": {
           "On-base": 44.44444444444443,
-          "Power": 7.631578947368414,
-          "Contact": 17.5,
+          "Power": 8.157894736842099,
+          "Contact": 18.75,
           "Discipline": 30.917874396135264,
           "Speed": 46.666666666666664
         },

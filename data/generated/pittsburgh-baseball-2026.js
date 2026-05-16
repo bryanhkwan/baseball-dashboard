@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.pittsburgh2026 = {
-  "generatedAt": "2026-05-15T12:09:29.132Z",
+  "generatedAt": "2026-05-16T11:18:26.635Z",
   "season": 2026,
   "school": {
     "slug": "pittsburgh",
@@ -39,41 +39,41 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
     }
   },
   "teamSummary": {
-    "record": "30-21, 11-17",
-    "battingAverage": ".307",
-    "earnedRunAverage": "5.98",
+    "record": "30-22, 11-18",
+    "battingAverage": ".304",
+    "earnedRunAverage": "5.97",
     "wins": "30",
-    "losses": "21",
+    "losses": "22",
     "hitting": {
-      "atBats": "1689",
-      "runsScored": "439",
-      "hits": "519",
-      "runsBattedIn": "409",
-      "doubles": "87",
-      "triples": "11",
-      "homeRuns": "97",
-      "walks": "356",
+      "atBats": "1721",
+      "runsScored": "443",
+      "hits": "524",
+      "runsBattedIn": "413",
+      "doubles": "88",
+      "triples": "12",
+      "homeRuns": "99",
+      "walks": "363",
       "intentionalWalks": "13",
-      "strikeouts": "372",
-      "strikeoutsLooking": "80",
+      "strikeouts": "382",
+      "strikeoutsLooking": "83",
       "hitByPitch": "61",
-      "stolenBases": "46",
+      "stolenBases": "47",
       "caughtStealing": "10",
       "sacrificeHits": "11",
-      "sacrificeFlies": "23",
+      "sacrificeFlies": "24",
       "reachedOnCatchersInteference": "1",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "331",
-      "flyOuts": "448",
-      "groundedIntoDoublePlay": "40",
+      "groundOuts": "340",
+      "flyOuts": "456",
+      "groundedIntoDoublePlay": "42",
       "pickedOff": "4",
-      "doublePlaysHitInto": "41",
+      "doublePlaysHitInto": "43",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1259",
-      "assists": "439",
+      "putouts": "1289",
+      "assists": "445",
       "errors": "53",
       "passedBalls": "10",
       "catchersInterference": "0",
@@ -81,42 +81,42 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
       "caughtStealingBy": "16",
       "involvedInDoublePlays": "50",
       "involvedInTriplePlays": "0",
-      "totalChances": "1751",
+      "totalChances": "1787",
       "fieldingPercentage": ".970"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "30",
-      "saves": "43",
-      "losses": "21",
+      "saves": "44",
+      "losses": "22",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "1",
       "creditForCombinedShutout": "1",
-      "inningsPitched": "419.2",
-      "hitsAllowed": "463",
-      "runsAllowed": "318",
-      "earnedRunsAllowed": "279",
-      "walksAllowed": "206",
-      "strikeouts": "384",
-      "battersFaced": "1947",
-      "opponentAtBats": "1647",
-      "doublesAllowed": "75",
+      "inningsPitched": "429.2",
+      "hitsAllowed": "475",
+      "runsAllowed": "324",
+      "earnedRunsAllowed": "285",
+      "walksAllowed": "208",
+      "strikeouts": "393",
+      "battersFaced": "1993",
+      "opponentAtBats": "1689",
+      "doublesAllowed": "78",
       "triplesAllowed": "5",
-      "homerunsAllowed": "67",
-      "wildPitches": "42",
+      "homerunsAllowed": "68",
+      "wildPitches": "43",
       "balks": "2",
-      "hitBatters": "55",
-      "strikeoutsLooking": "53",
+      "hitBatters": "57",
+      "strikeoutsLooking": "54",
       "intentionalWalks": "4",
       "inheritedRunners": "89",
-      "inheritedRunnersThatScored": "52",
+      "inheritedRunnersThatScored": "55",
       "sacrificeHitsAllowed": "20",
       "sacrificeFliesAllowed": "18",
       "catchersInterferenceAllowed": "0",
-      "pitches": "7299",
-      "flyouts": "393",
-      "groundouts": "395",
+      "pitches": "7486",
+      "flyouts": "406",
+      "groundouts": "403",
       "teamUnearnedRuns": "0",
       "saveRecord": "8",
       "pickoff": "1"
@@ -161,13 +161,13 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "1",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/trey-fenderson/14798",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/Fenderson__Trey_BRv3w.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "battingAverage": 0.318,
-        "onBasePercentage": 0.388,
-        "sluggingPercentage": 0.465,
-        "ops": 0.853,
-        "atBats": 198,
+        "gamesPlayed": 52,
+        "gamesStarted": 52,
+        "battingAverage": 0.312,
+        "onBasePercentage": 0.381,
+        "sluggingPercentage": 0.455,
+        "ops": 0.836,
+        "atBats": 202,
         "runs": 42,
         "hits": 63,
         "doubles": 13,
@@ -177,7 +177,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "totalBases": 92,
         "walks": 23,
         "hitByPitch": 2,
-        "strikeouts": 39,
+        "strikeouts": 41,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 4,
@@ -187,7 +187,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "putouts": 98,
         "assists": 0,
         "errors": 12,
-        "plateAppearances": 249,
+        "plateAppearances": 253,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -199,10 +199,10 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "1",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/trey-fenderson/14798",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/Fenderson__Trey_BRv3w.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
+        "gamesPlayed": 52,
+        "gamesStarted": 52,
         "putouts": 98,
-        "assists": 129,
+        "assists": 131,
         "errors": 12,
         "fieldingPercentage": 0.95,
         "doublePlays": 37,
@@ -211,39 +211,39 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 239
+        "totalChances": 241
       },
       "evaluation": {
-        "score": 51,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 60,
-          "Power": 38.15789473684211,
-          "Contact": 61.25000000000001,
-          "Discipline": 43.3048433048433,
+          "On-base": 56.1111111111111,
+          "Power": 35.52631578947369,
+          "Contact": 57.49999999999999,
+          "Discipline": 40.108401084010836,
           "Speed": 46.666666666666664
         },
         "summary": "Trey Fenderson profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .318",
-          "OBP .388",
-          "SLG .465"
+          "AVG .312",
+          "OBP .381",
+          "SLG .455"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".318"
+            "value": ".312"
           },
           {
             "label": "OBP",
-            "value": ".388"
+            "value": ".381"
           },
           {
             "label": "SLG",
-            "value": ".465"
+            "value": ".455"
           },
           {
             "label": "HR",
@@ -306,33 +306,33 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "2",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/kai-wagner/14810",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/Wagner__Kai_ICVwT.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "battingAverage": 0.296,
-        "onBasePercentage": 0.435,
-        "sluggingPercentage": 0.484,
-        "ops": 0.919,
-        "atBats": 186,
-        "runs": 39,
+        "gamesPlayed": 52,
+        "gamesStarted": 52,
+        "battingAverage": 0.289,
+        "onBasePercentage": 0.43,
+        "sluggingPercentage": 0.474,
+        "ops": 0.904,
+        "atBats": 190,
+        "runs": 40,
         "hits": 55,
         "doubles": 9,
         "triples": 1,
         "homeRuns": 8,
         "runsBattedIn": 40,
         "totalBases": 90,
-        "walks": 44,
+        "walks": 45,
         "hitByPitch": 4,
         "strikeouts": 38,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
+        "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
-        "stolenBases": 4,
-        "stolenBasesAttempts": 4,
-        "putouts": 32,
+        "stolenBases": 5,
+        "stolenBasesAttempts": 5,
+        "putouts": 33,
         "assists": 0,
         "errors": 16,
-        "plateAppearances": 241,
+        "plateAppearances": 247,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -344,51 +344,51 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "2",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/kai-wagner/14810",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/Wagner__Kai_ICVwT.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "putouts": 32,
-        "assists": 75,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "putouts": 33,
+        "assists": 76,
         "errors": 16,
-        "fieldingPercentage": 0.87,
+        "fieldingPercentage": 0.872,
         "doublePlays": 5,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 123
+        "totalChances": 125
       },
       "evaluation": {
-        "score": 63,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 86.1111111111111,
-          "Power": 43.15789473684211,
-          "Contact": 47.499999999999986,
+          "On-base": 83.33333333333331,
+          "Power": 40.526315789473685,
+          "Contact": 43.124999999999986,
           "Discipline": 100,
-          "Speed": 13.333333333333334
+          "Speed": 16.666666666666664
         },
         "summary": "Kai Wagner profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .296",
-          "OBP .435",
-          "SLG .484"
+          "AVG .289",
+          "OBP .430",
+          "SLG .474"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".296"
+            "value": ".289"
           },
           {
             "label": "OBP",
-            "value": ".435"
+            "value": ".430"
           },
           {
             "label": "SLG",
-            "value": ".484"
+            "value": ".474"
           },
           {
             "label": "HR",
@@ -400,7 +400,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "metaLine": "R-JR / L/R",
@@ -451,20 +451,20 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "3",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/aj-nessler/14785",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/Nessler__AJ_5qXlg.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 50,
-        "battingAverage": 0.328,
-        "onBasePercentage": 0.433,
-        "sluggingPercentage": 0.515,
-        "ops": 0.948,
-        "atBats": 204,
-        "runs": 58,
-        "hits": 67,
+        "gamesPlayed": 51,
+        "gamesStarted": 51,
+        "battingAverage": 0.325,
+        "onBasePercentage": 0.429,
+        "sluggingPercentage": 0.517,
+        "ops": 0.946,
+        "atBats": 209,
+        "runs": 59,
+        "hits": 68,
         "doubles": 6,
-        "triples": 4,
+        "triples": 5,
         "homeRuns": 8,
         "runsBattedIn": 38,
-        "totalBases": 105,
+        "totalBases": 108,
         "walks": 34,
         "hitByPitch": 6,
         "strikeouts": 29,
@@ -474,10 +474,10 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "sacrificeHits": 0,
         "stolenBases": 12,
         "stolenBasesAttempts": 13,
-        "putouts": 99,
+        "putouts": 106,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 261,
+        "plateAppearances": 266,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -489,51 +489,51 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "3",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/aj-nessler/14785",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/Nessler__AJ_5qXlg.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "putouts": 99,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "putouts": 106,
         "assists": 3,
         "errors": 2,
-        "fieldingPercentage": 0.981,
+        "fieldingPercentage": 0.982,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 104
+        "totalChances": 111
       },
       "evaluation": {
-        "score": 71,
+        "score": 70,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 84.99999999999999,
-          "Power": 51.31578947368421,
-          "Contact": 67.5,
+          "On-base": 82.77777777777776,
+          "Power": 51.8421052631579,
+          "Contact": 65.625,
           "Discipline": 100,
           "Speed": 40
         },
         "summary": "AJ Nessler profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .433",
-          "SLG .515"
+          "AVG .325",
+          "OBP .429",
+          "SLG .517"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": ".325"
           },
           {
             "label": "OBP",
-            "value": ".433"
+            "value": ".429"
           },
           {
             "label": "SLG",
-            "value": ".515"
+            "value": ".517"
           },
           {
             "label": "HR",
@@ -741,33 +741,33 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "5",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/joey-baran/14794",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/Baran__Joey_e1PxM.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 42,
-        "battingAverage": 0.284,
-        "onBasePercentage": 0.452,
-        "sluggingPercentage": 0.454,
-        "ops": 0.906,
-        "atBats": 141,
-        "runs": 34,
-        "hits": 40,
-        "doubles": 6,
+        "gamesPlayed": 49,
+        "gamesStarted": 43,
+        "battingAverage": 0.292,
+        "onBasePercentage": 0.458,
+        "sluggingPercentage": 0.486,
+        "ops": 0.944,
+        "atBats": 144,
+        "runs": 35,
+        "hits": 42,
+        "doubles": 7,
         "triples": 0,
-        "homeRuns": 6,
-        "runsBattedIn": 37,
-        "totalBases": 64,
-        "walks": 33,
+        "homeRuns": 7,
+        "runsBattedIn": 39,
+        "totalBases": 70,
+        "walks": 34,
         "hitByPitch": 12,
-        "strikeouts": 30,
+        "strikeouts": 31,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 7,
         "sacrificeFlies": 2,
         "sacrificeHits": 5,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 116,
+        "putouts": 126,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 195,
+        "plateAppearances": 199,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -779,9 +779,9 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "5",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/joey-baran/14794",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/Baran__Joey_e1PxM.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 16,
-        "putouts": 116,
+        "gamesPlayed": 17,
+        "gamesStarted": 17,
+        "putouts": 126,
         "assists": 6,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -791,47 +791,47 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 6,
         "catchersInterference": 0,
-        "totalChances": 122
+        "totalChances": 132
       },
       "evaluation": {
-        "score": 61,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 95.55555555555554,
-          "Power": 35.26315789473685,
-          "Contact": 39.99999999999998,
-          "Discipline": 100,
+          "On-base": 98.88888888888889,
+          "Power": 43.684210526315795,
+          "Contact": 44.999999999999986,
+          "Discipline": 99.64157706093188,
           "Speed": 0
         },
         "summary": "Joey Baran profiles as a C piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .284",
-          "OBP .452",
-          "SLG .454"
+          "AVG .292",
+          "OBP .458",
+          "SLG .486"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".284"
+            "value": ".292"
           },
           {
             "label": "OBP",
-            "value": ".452"
+            "value": ".458"
           },
           {
             "label": "SLG",
-            "value": ".454"
+            "value": ".486"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "7"
           },
           {
             "label": "RBI",
-            "value": "37"
+            "value": "39"
           },
           {
             "label": "SB",
@@ -886,23 +886,23 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "6",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/anthony-lasala/14782",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/LaSala__Anthony_SvTYM.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 1,
-        "battingAverage": 0.286,
-        "onBasePercentage": 0.583,
-        "sluggingPercentage": 0.714,
-        "ops": 1.297,
-        "atBats": 7,
-        "runs": 1,
-        "hits": 2,
+        "gamesPlayed": 13,
+        "gamesStarted": 2,
+        "battingAverage": 0.273,
+        "onBasePercentage": 0.5,
+        "sluggingPercentage": 0.818,
+        "ops": 1.318,
+        "atBats": 11,
+        "runs": 2,
+        "hits": 3,
         "doubles": 0,
         "triples": 0,
-        "homeRuns": 1,
-        "runsBattedIn": 4,
-        "totalBases": 5,
+        "homeRuns": 2,
+        "runsBattedIn": 5,
+        "totalBases": 9,
         "walks": 4,
         "hitByPitch": 1,
-        "strikeouts": 0,
+        "strikeouts": 2,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -912,7 +912,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "putouts": 2,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 14,
+        "plateAppearances": 18,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -924,22 +924,22 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "6",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/anthony-lasala/14782",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/LaSala__Anthony_SvTYM.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 1,
+        "gamesPlayed": 7,
+        "gamesStarted": 2,
         "putouts": 2,
-        "assists": 8,
+        "assists": 9,
         "errors": 2,
-        "fieldingPercentage": 0.833,
+        "fieldingPercentage": 0.846,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 12
+        "totalChances": 13
       },
       "evaluation": {
-        "score": 79,
+        "score": 78,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
@@ -947,36 +947,36 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "components": {
           "On-base": 100,
           "Power": 100,
-          "Contact": 41.24999999999998,
+          "Contact": 33.12500000000001,
           "Discipline": 100,
           "Speed": 0
         },
         "summary": "Anthony LaSala profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .583",
-          "SLG .714"
+          "AVG .273",
+          "OBP .500",
+          "SLG .818"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".583"
+            "value": ".500"
           },
           {
             "label": "SLG",
-            "value": ".714"
+            "value": ".818"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "2"
           },
           {
             "label": "RBI",
-            "value": "4"
+            "value": "5"
           },
           {
             "label": "SB",
@@ -1031,13 +1031,13 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "7",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/mason-ligenza/14803",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/Ligenza__wQnUa.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 5,
-        "battingAverage": 0.29,
+        "gamesPlayed": 15,
+        "gamesStarted": 6,
+        "battingAverage": 0.273,
         "onBasePercentage": 0.333,
-        "sluggingPercentage": 0.742,
-        "ops": 1.075,
-        "atBats": 31,
+        "sluggingPercentage": 0.697,
+        "ops": 1.03,
+        "atBats": 33,
         "runs": 6,
         "hits": 9,
         "doubles": 2,
@@ -1045,7 +1045,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "homeRuns": 4,
         "runsBattedIn": 11,
         "totalBases": 23,
-        "walks": 2,
+        "walks": 3,
         "hitByPitch": 0,
         "strikeouts": 15,
         "intentionalWalks": 0,
@@ -1054,10 +1054,10 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 12,
+        "putouts": 16,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 33,
+        "plateAppearances": 36,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1069,9 +1069,9 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "7",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/mason-ligenza/14803",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/Ligenza__wQnUa.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 5,
-        "putouts": 12,
+        "gamesPlayed": 9,
+        "gamesStarted": 6,
+        "putouts": 16,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1081,31 +1081,31 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 12
+        "totalChances": 16
       },
       "evaluation": {
-        "score": 43,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
           "On-base": 29.44444444444444,
-          "Power": 100,
-          "Contact": 43.749999999999986,
+          "Power": 99.21052631578947,
+          "Contact": 33.12500000000001,
           "Discipline": 0,
           "Speed": 0
         },
         "summary": "Mason Ligenza profiles as a OF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .290",
+          "AVG .273",
           "OBP .333",
-          "SLG .742"
+          "SLG .697"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".273"
           },
           {
             "label": "OBP",
@@ -1113,7 +1113,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
           },
           {
             "label": "SLG",
-            "value": ".742"
+            "value": ".697"
           },
           {
             "label": "HR",
@@ -1554,7 +1554,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "12",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/derrick-tarpley-jr/14788",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/Tarpley_Jr.__Derrick_IRD2K.jpg",
-        "gamesPlayed": 34,
+        "gamesPlayed": 35,
         "gamesStarted": 20,
         "battingAverage": 0.203,
         "onBasePercentage": 0.42,
@@ -1699,7 +1699,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "13",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/julian-irizarry/14779",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/Irizarry__Julian_9K5fT.jpg",
-        "gamesPlayed": 34,
+        "gamesPlayed": 35,
         "gamesStarted": 29,
         "battingAverage": 0.28,
         "onBasePercentage": 0.381,
@@ -2392,13 +2392,13 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "18",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/sebastian-pisacreta/14786",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/Pisacreta__Sebastian_FX2KS.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "battingAverage": 0.276,
-        "onBasePercentage": 0.401,
-        "sluggingPercentage": 0.569,
-        "ops": 0.97,
-        "atBats": 181,
+        "gamesPlayed": 52,
+        "gamesStarted": 52,
+        "battingAverage": 0.27,
+        "onBasePercentage": 0.394,
+        "sluggingPercentage": 0.557,
+        "ops": 0.951,
+        "atBats": 185,
         "runs": 42,
         "hits": 50,
         "doubles": 9,
@@ -2408,7 +2408,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "totalBases": 103,
         "walks": 31,
         "hitByPitch": 8,
-        "strikeouts": 47,
+        "strikeouts": 50,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 7,
         "sacrificeFlies": 2,
@@ -2418,7 +2418,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "putouts": 270,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 225,
+        "plateAppearances": 229,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2445,36 +2445,36 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "totalChances": 302
       },
       "evaluation": {
-        "score": 52,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 67.22222222222223,
-          "Power": 65.52631578947367,
-          "Contact": 35.000000000000014,
-          "Discipline": 51.06382978723403,
+          "On-base": 63.33333333333333,
+          "Power": 62.3684210526316,
+          "Contact": 31.25000000000001,
+          "Discipline": 46.66666666666666,
           "Speed": 0
         },
-        "summary": "Sebastian Pisacreta profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Sebastian Pisacreta profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .276",
-          "OBP .401",
-          "SLG .569"
+          "AVG .270",
+          "OBP .394",
+          "SLG .557"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".276"
+            "value": ".270"
           },
           {
             "label": "OBP",
-            "value": ".401"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".569"
+            "value": ".557"
           },
           {
             "label": "HR",
@@ -2767,33 +2767,33 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "23",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/lorenzo-carrier/14772",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/Carrier__Lorenzo_GyCWo.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "battingAverage": 0.394,
-        "onBasePercentage": 0.546,
-        "sluggingPercentage": 0.8,
-        "ops": 1.346,
-        "atBats": 175,
+        "gamesPlayed": 52,
+        "gamesStarted": 52,
+        "battingAverage": 0.388,
+        "onBasePercentage": 0.539,
+        "sluggingPercentage": 0.787,
+        "ops": 1.326,
+        "atBats": 178,
         "runs": 60,
         "hits": 69,
         "doubles": 13,
         "triples": 2,
         "homeRuns": 18,
-        "runsBattedIn": 62,
+        "runsBattedIn": 63,
         "totalBases": 140,
-        "walks": 52,
+        "walks": 53,
         "hitByPitch": 9,
-        "strikeouts": 50,
+        "strikeouts": 51,
         "intentionalWalks": 13,
-        "groundedIntoDoublePlay": 5,
-        "sacrificeFlies": 2,
+        "groundedIntoDoublePlay": 6,
+        "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
-        "putouts": 76,
+        "putouts": 77,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 244,
+        "plateAppearances": 249,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2805,9 +2805,9 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "23",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/lorenzo-carrier/14772",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/Carrier__Lorenzo_GyCWo.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "putouts": 76,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "putouts": 77,
         "assists": 0,
         "errors": 1,
         "fieldingPercentage": 0.987,
@@ -2817,7 +2817,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 77
+        "totalChances": 78
       },
       "evaluation": {
         "score": 91,
@@ -2829,27 +2829,27 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
           "On-base": 100,
           "Power": 100,
           "Contact": 100,
-          "Discipline": 93.33333333333333,
+          "Discipline": 93.24618736383442,
           "Speed": 20
         },
         "summary": "Lorenzo Carrier profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .394",
-          "OBP .546",
-          "SLG .800"
+          "AVG .388",
+          "OBP .539",
+          "SLG .787"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".394"
+            "value": ".388"
           },
           {
             "label": "OBP",
-            "value": ".546"
+            "value": ".539"
           },
           {
             "label": "SLG",
-            "value": ".800"
+            "value": ".787"
           },
           {
             "label": "HR",
@@ -2857,7 +2857,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
           },
           {
             "label": "RBI",
-            "value": "62"
+            "value": "63"
           },
           {
             "label": "SB",
@@ -3055,31 +3055,31 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "26",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/drew-lafferty/14781",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/Lafferty__Drew_t5gBK.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 13,
-        "appearances": 13,
+        "gamesPlayed": 14,
+        "gamesStarted": 14,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.63,
-        "whip": 1.61,
+        "earnedRunAverage": 5.72,
+        "whip": 1.6,
         "wins": 4,
         "losses": 4,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 56,
-        "inningsPitchedDisplay": "56.0",
-        "hitsAllowed": 70,
-        "runsAllowed": 40,
-        "earnedRunsAllowed": 35,
-        "walksAllowed": 20,
-        "strikeouts": 37,
-        "doublesAllowed": 13,
+        "inningsPitched": 61.333333333333336,
+        "inningsPitchedDisplay": "61.1",
+        "hitsAllowed": 76,
+        "runsAllowed": 44,
+        "earnedRunsAllowed": 39,
+        "walksAllowed": 22,
+        "strikeouts": 41,
+        "doublesAllowed": 15,
         "triplesAllowed": 0,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 224,
-        "wildPitches": 4,
-        "hitBatters": 11,
+        "opponentsAtBats": 246,
+        "wildPitches": 5,
+        "hitBatters": 13,
         "balks": 1,
-        "opponentsBattingAverage": 0.313,
+        "opponentsBattingAverage": 0.309,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3089,10 +3089,10 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "26",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/drew-lafferty/14781",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/Lafferty__Drew_t5gBK.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 8,
+        "gamesPlayed": 9,
+        "gamesStarted": 9,
         "putouts": 3,
-        "assists": 5,
+        "assists": 6,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -3101,7 +3101,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 8
+        "totalChances": 9
       },
       "evaluation": {
         "score": 6,
@@ -3112,28 +3112,28 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 17.694805194805195,
-          "Command": 17,
+          "Miss bats": 18.3300395256917,
+          "Command": 17.272727272727277,
           "Damage suppression": 0
         },
         "summary": "Drew Lafferty gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.63",
-          "WHIP 1.61",
-          "K/9 5.9"
+          "ERA 5.72",
+          "WHIP 1.60",
+          "K/9 6.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.63"
+            "value": "5.72"
           },
           {
             "label": "WHIP",
-            "value": "1.61"
+            "value": "1.60"
           },
           {
             "label": "K/9",
-            "value": "5.9"
+            "value": "6.0"
           },
           {
             "label": "BB/9",
@@ -3141,11 +3141,11 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.80"
+            "value": "0.73"
           },
           {
             "label": "IP",
-            "value": "56.0"
+            "value": "61.3"
           }
         ],
         "metaLine": "R-JR / R/R",
@@ -3197,31 +3197,31 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "27",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/chase-kriebel/14801",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/Kriebel__vMfIc.jpg",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 3,
-        "appearances": 19,
+        "appearances": 20,
         "gamesCompleted": 0,
         "earnedRunAverage": 4.91,
-        "whip": 1.98,
+        "whip": 2.05,
         "wins": 2,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
         "inningsPitched": 14.666666666666666,
         "inningsPitchedDisplay": "14.2",
-        "hitsAllowed": 21,
+        "hitsAllowed": 22,
         "runsAllowed": 9,
         "earnedRunsAllowed": 8,
         "walksAllowed": 8,
         "strikeouts": 12,
-        "doublesAllowed": 4,
+        "doublesAllowed": 5,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 59,
+        "opponentsAtBats": 60,
         "wildPitches": 2,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.356,
+        "opponentsBattingAverage": 0.367,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3261,7 +3261,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "summary": "Chase Kriebel gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "ERA 4.91",
-          "WHIP 1.98",
+          "WHIP 2.05",
           "K/9 7.4"
         ],
         "statCards": [
@@ -3271,7 +3271,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.98"
+            "value": "2.05"
           },
           {
             "label": "K/9",
@@ -3626,31 +3626,31 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "30",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/david-leslie/14802",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/Leslie__NFiRl.jpg",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 10,
-        "appearances": 15,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.04,
-        "whip": 1.75,
+        "earnedRunAverage": 7.11,
+        "whip": 1.76,
         "wins": 2,
-        "losses": 4,
+        "losses": 5,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 53.666666666666664,
-        "inningsPitchedDisplay": "53.2",
-        "hitsAllowed": 69,
-        "runsAllowed": 48,
-        "earnedRunsAllowed": 42,
+        "inningsPitched": 55.666666666666664,
+        "inningsPitchedDisplay": "55.2",
+        "hitsAllowed": 73,
+        "runsAllowed": 50,
+        "earnedRunsAllowed": 44,
         "walksAllowed": 25,
-        "strikeouts": 56,
+        "strikeouts": 60,
         "doublesAllowed": 8,
         "triplesAllowed": 3,
-        "homeRunsAllowed": 8,
-        "opponentsAtBats": 222,
+        "homeRunsAllowed": 9,
+        "opponentsAtBats": 232,
         "wildPitches": 6,
         "hitBatters": 6,
         "balks": 0,
-        "opponentsBattingAverage": 0.311,
+        "opponentsBattingAverage": 0.315,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3675,7 +3675,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "totalChances": 11
       },
       "evaluation": {
-        "score": 14,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3683,40 +3683,40 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 49.01185770750989,
-          "Command": 24.799999999999994,
+          "Miss bats": 51.82362547632008,
+          "Command": 27.999999999999993,
           "Damage suppression": 0
         },
         "summary": "David Leslie looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 7.04",
-          "WHIP 1.75",
-          "K/9 9.4"
+          "ERA 7.11",
+          "WHIP 1.76",
+          "K/9 9.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.04"
+            "value": "7.11"
           },
           {
             "label": "WHIP",
-            "value": "1.75"
+            "value": "1.76"
           },
           {
             "label": "K/9",
-            "value": "9.4"
+            "value": "9.7"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "4.0"
           },
           {
             "label": "HR/9",
-            "value": "1.34"
+            "value": "1.46"
           },
           {
             "label": "IP",
-            "value": "53.7"
+            "value": "55.7"
           }
         ],
         "metaLine": "GR / R/R",
@@ -3997,13 +3997,13 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "33",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/carter-dierdorf/14797",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/Dierdorf__Carter_FsLq4.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 45,
-        "battingAverage": 0.275,
-        "onBasePercentage": 0.497,
-        "sluggingPercentage": 0.58,
-        "ops": 1.077,
-        "atBats": 131,
+        "gamesPlayed": 49,
+        "gamesStarted": 46,
+        "battingAverage": 0.271,
+        "onBasePercentage": 0.5,
+        "sluggingPercentage": 0.571,
+        "ops": 1.071,
+        "atBats": 133,
         "runs": 35,
         "hits": 36,
         "doubles": 7,
@@ -4011,19 +4011,19 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "homeRuns": 11,
         "runsBattedIn": 37,
         "totalBases": 76,
-        "walks": 52,
+        "walks": 55,
         "hitByPitch": 7,
-        "strikeouts": 32,
+        "strikeouts": 33,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
-        "putouts": 323,
+        "putouts": 330,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 196,
+        "plateAppearances": 201,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -4035,9 +4035,9 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "33",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/carter-dierdorf/14797",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/Dierdorf__Carter_FsLq4.jpg",
-        "gamesPlayed": 47,
-        "gamesStarted": 45,
-        "putouts": 323,
+        "gamesPlayed": 48,
+        "gamesStarted": 46,
+        "putouts": 330,
         "assists": 12,
         "errors": 2,
         "fieldingPercentage": 0.994,
@@ -4047,39 +4047,39 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 337
+        "totalChances": 344
       },
       "evaluation": {
-        "score": 71,
+        "score": 70,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
           "On-base": 100,
-          "Power": 68.42105263157895,
-          "Contact": 34.375000000000014,
+          "Power": 66.05263157894737,
+          "Contact": 31.875000000000007,
           "Discipline": 100,
           "Speed": 10
         },
         "summary": "Carter Dierdorf profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .275",
-          "OBP .497",
-          "SLG .580"
+          "AVG .271",
+          "OBP .500",
+          "SLG .571"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".275"
+            "value": ".271"
           },
           {
             "label": "OBP",
-            "value": ".497"
+            "value": ".500"
           },
           {
             "label": "SLG",
-            "value": ".580"
+            "value": ".571"
           },
           {
             "label": "HR",
@@ -4836,31 +4836,31 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "47",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/daniel-mcauliff/14783",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/McAuliff__Daniel_7BJT5.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 0,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.14,
-        "whip": 1.36,
+        "earnedRunAverage": 5.63,
+        "whip": 1.28,
         "wins": 3,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 29.333333333333332,
-        "inningsPitchedDisplay": "29.1",
-        "hitsAllowed": 30,
+        "inningsPitched": 32,
+        "inningsPitchedDisplay": "32.0",
+        "hitsAllowed": 31,
         "runsAllowed": 22,
         "earnedRunsAllowed": 20,
         "walksAllowed": 10,
-        "strikeouts": 33,
+        "strikeouts": 34,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 112,
+        "opponentsAtBats": 121,
         "wildPitches": 6,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.268,
+        "opponentsBattingAverage": 0.256,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4870,10 +4870,10 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "47",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/daniel-mcauliff/14783",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/McAuliff__Daniel_7BJT5.jpg",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 0,
         "putouts": 1,
-        "assists": 4,
+        "assists": 5,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -4882,7 +4882,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 5
+        "totalChances": 6
       },
       "evaluation": {
         "score": 18,
@@ -4893,40 +4893,40 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 55.68181818181818,
-          "Command": 46,
+          "Miss bats": 50.56818181818182,
+          "Command": 48,
           "Damage suppression": 0
         },
-        "summary": "Daniel McAuliff looks like a RHP option who misses bats.",
+        "summary": "Daniel McAuliff looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.14",
-          "WHIP 1.36",
-          "K/9 10.1"
+          "ERA 5.63",
+          "WHIP 1.28",
+          "K/9 9.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.14"
+            "value": "5.63"
           },
           {
             "label": "WHIP",
-            "value": "1.36"
+            "value": "1.28"
           },
           {
             "label": "K/9",
-            "value": "10.1"
+            "value": "9.6"
           },
           {
             "label": "BB/9",
-            "value": "3.1"
+            "value": "2.8"
           },
           {
             "label": "HR/9",
-            "value": "1.53"
+            "value": "1.41"
           },
           {
             "label": "IP",
-            "value": "29.3"
+            "value": "32.0"
           }
         ],
         "metaLine": "GR / R/R",
@@ -5119,20 +5119,20 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "jersey": "55",
         "profileUrl": "https://pittsburghpanthers.com/sports/baseball/roster/jackson-cooke/14773",
         "imageUrl": "https://pittsburghpanthers.com/images/2025/9/5/Cooke__Jackson_t2OP8.jpg",
-        "gamesPlayed": 26,
+        "gamesPlayed": 27,
         "gamesStarted": 12,
-        "battingAverage": 0.213,
-        "onBasePercentage": 0.387,
-        "sluggingPercentage": 0.553,
-        "ops": 0.94,
-        "atBats": 47,
+        "battingAverage": 0.229,
+        "onBasePercentage": 0.397,
+        "sluggingPercentage": 0.563,
+        "ops": 0.96,
+        "atBats": 48,
         "runs": 10,
-        "hits": 10,
+        "hits": 11,
         "doubles": 1,
         "triples": 0,
         "homeRuns": 5,
         "runsBattedIn": 16,
-        "totalBases": 26,
+        "totalBases": 27,
         "walks": 10,
         "hitByPitch": 4,
         "strikeouts": 10,
@@ -5145,7 +5145,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "putouts": 51,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 63,
+        "plateAppearances": 64,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -5172,36 +5172,36 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "totalChances": 51
       },
       "evaluation": {
-        "score": 48,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 59.444444444444436,
-          "Power": 61.315789473684234,
-          "Contact": 0,
+          "On-base": 65,
+          "Power": 63.947368421052616,
+          "Contact": 5.625000000000005,
           "Discipline": 88.88888888888889,
           "Speed": 3.3333333333333335
         },
         "summary": "Jackson Cooke profiles as a C/INF piece who brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .213",
-          "OBP .387",
-          "SLG .553"
+          "AVG .229",
+          "OBP .397",
+          "SLG .563"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".213"
+            "value": ".229"
           },
           {
             "label": "OBP",
-            "value": ".387"
+            "value": ".397"
           },
           {
             "label": "SLG",
-            "value": ".553"
+            "value": ".563"
           },
           {
             "label": "HR",
@@ -5244,29 +5244,29 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "position": "INF",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 51,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Trey Fenderson profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .318",
-          "OBP .388",
-          "SLG .465"
+          "AVG .312",
+          "OBP .381",
+          "SLG .455"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".318"
+            "value": ".312"
           },
           {
             "label": "OBP",
-            "value": ".388"
+            "value": ".381"
           },
           {
             "label": "SLG",
-            "value": ".465"
+            "value": ".455"
           },
           {
             "label": "HR",
@@ -5282,10 +5282,10 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
           }
         ],
         "components": {
-          "On-base": 60,
-          "Power": 38.15789473684211,
-          "Contact": 61.25000000000001,
-          "Discipline": 43.3048433048433,
+          "On-base": 56.1111111111111,
+          "Power": 35.52631578947369,
+          "Contact": 57.49999999999999,
+          "Discipline": 40.108401084010836,
           "Speed": 46.666666666666664
         },
         "metaLine": "R-JR / R/R",
@@ -5313,29 +5313,29 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "position": "INF",
         "classYear": "R-JR",
         "handedness": "L/R",
-        "score": 63,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Kai Wagner profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .296",
-          "OBP .435",
-          "SLG .484"
+          "AVG .289",
+          "OBP .430",
+          "SLG .474"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".296"
+            "value": ".289"
           },
           {
             "label": "OBP",
-            "value": ".435"
+            "value": ".430"
           },
           {
             "label": "SLG",
-            "value": ".484"
+            "value": ".474"
           },
           {
             "label": "HR",
@@ -5347,15 +5347,15 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "components": {
-          "On-base": 86.1111111111111,
-          "Power": 43.15789473684211,
-          "Contact": 47.499999999999986,
+          "On-base": 83.33333333333331,
+          "Power": 40.526315789473685,
+          "Contact": 43.124999999999986,
           "Discipline": 100,
-          "Speed": 13.333333333333334
+          "Speed": 16.666666666666664
         },
         "metaLine": "R-JR / L/R",
         "detailBadges": [
@@ -5382,29 +5382,29 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 71,
+        "score": 70,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "AJ Nessler profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .433",
-          "SLG .515"
+          "AVG .325",
+          "OBP .429",
+          "SLG .517"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": ".325"
           },
           {
             "label": "OBP",
-            "value": ".433"
+            "value": ".429"
           },
           {
             "label": "SLG",
-            "value": ".515"
+            "value": ".517"
           },
           {
             "label": "HR",
@@ -5420,9 +5420,9 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
           }
         ],
         "components": {
-          "On-base": 84.99999999999999,
-          "Power": 51.31578947368421,
-          "Contact": 67.5,
+          "On-base": 82.77777777777776,
+          "Power": 51.8421052631579,
+          "Contact": 65.625,
           "Discipline": 100,
           "Speed": 40
         },
@@ -5520,37 +5520,37 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "position": "C",
         "classYear": "GR",
         "handedness": "L/R",
-        "score": 61,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Joey Baran profiles as a C piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .284",
-          "OBP .452",
-          "SLG .454"
+          "AVG .292",
+          "OBP .458",
+          "SLG .486"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".284"
+            "value": ".292"
           },
           {
             "label": "OBP",
-            "value": ".452"
+            "value": ".458"
           },
           {
             "label": "SLG",
-            "value": ".454"
+            "value": ".486"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "7"
           },
           {
             "label": "RBI",
-            "value": "37"
+            "value": "39"
           },
           {
             "label": "SB",
@@ -5558,10 +5558,10 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
           }
         ],
         "components": {
-          "On-base": 95.55555555555554,
-          "Power": 35.26315789473685,
-          "Contact": 39.99999999999998,
-          "Discipline": 100,
+          "On-base": 98.88888888888889,
+          "Power": 43.684210526315795,
+          "Contact": 44.999999999999986,
+          "Discipline": 99.64157706093188,
           "Speed": 0
         },
         "metaLine": "GR / L/R",
@@ -5589,37 +5589,37 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 79,
+        "score": 78,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Anthony LaSala profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .583",
-          "SLG .714"
+          "AVG .273",
+          "OBP .500",
+          "SLG .818"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".583"
+            "value": ".500"
           },
           {
             "label": "SLG",
-            "value": ".714"
+            "value": ".818"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "2"
           },
           {
             "label": "RBI",
-            "value": "4"
+            "value": "5"
           },
           {
             "label": "SB",
@@ -5629,7 +5629,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "components": {
           "On-base": 100,
           "Power": 100,
-          "Contact": 41.24999999999998,
+          "Contact": 33.12500000000001,
           "Discipline": 100,
           "Speed": 0
         },
@@ -5658,21 +5658,21 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "position": "OF",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 43,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Mason Ligenza profiles as a OF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .290",
+          "AVG .273",
           "OBP .333",
-          "SLG .742"
+          "SLG .697"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".273"
           },
           {
             "label": "OBP",
@@ -5680,7 +5680,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
           },
           {
             "label": "SLG",
-            "value": ".742"
+            "value": ".697"
           },
           {
             "label": "HR",
@@ -5697,8 +5697,8 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         ],
         "components": {
           "On-base": 29.44444444444444,
-          "Power": 100,
-          "Contact": 43.749999999999986,
+          "Power": 99.21052631578947,
+          "Contact": 33.12500000000001,
           "Discipline": 0,
           "Speed": 0
         },
@@ -6347,29 +6347,29 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 52,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Sebastian Pisacreta profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Sebastian Pisacreta profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .276",
-          "OBP .401",
-          "SLG .569"
+          "AVG .270",
+          "OBP .394",
+          "SLG .557"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".276"
+            "value": ".270"
           },
           {
             "label": "OBP",
-            "value": ".401"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".569"
+            "value": ".557"
           },
           {
             "label": "HR",
@@ -6385,10 +6385,10 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
           }
         ],
         "components": {
-          "On-base": 67.22222222222223,
-          "Power": 65.52631578947367,
-          "Contact": 35.000000000000014,
-          "Discipline": 51.06382978723403,
+          "On-base": 63.33333333333333,
+          "Power": 62.3684210526316,
+          "Contact": 31.25000000000001,
+          "Discipline": 46.66666666666666,
           "Speed": 0
         },
         "metaLine": "JR / R/R",
@@ -6560,22 +6560,22 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         },
         "summary": "Lorenzo Carrier profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .394",
-          "OBP .546",
-          "SLG .800"
+          "AVG .388",
+          "OBP .539",
+          "SLG .787"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".394"
+            "value": ".388"
           },
           {
             "label": "OBP",
-            "value": ".546"
+            "value": ".539"
           },
           {
             "label": "SLG",
-            "value": ".800"
+            "value": ".787"
           },
           {
             "label": "HR",
@@ -6583,7 +6583,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
           },
           {
             "label": "RBI",
-            "value": "62"
+            "value": "63"
           },
           {
             "label": "SB",
@@ -6594,7 +6594,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
           "On-base": 100,
           "Power": 100,
           "Contact": 100,
-          "Discipline": 93.33333333333333,
+          "Discipline": 93.24618736383442,
           "Speed": 20
         },
         "metaLine": "R-SR / R/R",
@@ -6698,22 +6698,22 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         },
         "summary": "Drew Lafferty gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.63",
-          "WHIP 1.61",
-          "K/9 5.9"
+          "ERA 5.72",
+          "WHIP 1.60",
+          "K/9 6.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.63"
+            "value": "5.72"
           },
           {
             "label": "WHIP",
-            "value": "1.61"
+            "value": "1.60"
           },
           {
             "label": "K/9",
-            "value": "5.9"
+            "value": "6.0"
           },
           {
             "label": "BB/9",
@@ -6721,18 +6721,18 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.80"
+            "value": "0.73"
           },
           {
             "label": "IP",
-            "value": "56.0"
+            "value": "61.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 17.694805194805195,
-          "Command": 17,
+          "Miss bats": 18.3300395256917,
+          "Command": 17.272727272727277,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / R/R",
@@ -6768,7 +6768,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "summary": "Chase Kriebel gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "ERA 4.91",
-          "WHIP 1.98",
+          "WHIP 2.05",
           "K/9 7.4"
         ],
         "statCards": [
@@ -6778,7 +6778,7 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.98"
+            "value": "2.05"
           },
           {
             "label": "K/9",
@@ -6967,48 +6967,48 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "position": "RHP",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 14,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "David Leslie looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 7.04",
-          "WHIP 1.75",
-          "K/9 9.4"
+          "ERA 7.11",
+          "WHIP 1.76",
+          "K/9 9.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.04"
+            "value": "7.11"
           },
           {
             "label": "WHIP",
-            "value": "1.75"
+            "value": "1.76"
           },
           {
             "label": "K/9",
-            "value": "9.4"
+            "value": "9.7"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "4.0"
           },
           {
             "label": "HR/9",
-            "value": "1.34"
+            "value": "1.46"
           },
           {
             "label": "IP",
-            "value": "53.7"
+            "value": "55.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 49.01185770750989,
-          "Command": 24.799999999999994,
+          "Miss bats": 51.82362547632008,
+          "Command": 27.999999999999993,
           "Damage suppression": 0
         },
         "metaLine": "GR / R/R",
@@ -7173,29 +7173,29 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 71,
+        "score": 70,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Carter Dierdorf profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .275",
-          "OBP .497",
-          "SLG .580"
+          "AVG .271",
+          "OBP .500",
+          "SLG .571"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".275"
+            "value": ".271"
           },
           {
             "label": "OBP",
-            "value": ".497"
+            "value": ".500"
           },
           {
             "label": "SLG",
-            "value": ".580"
+            "value": ".571"
           },
           {
             "label": "HR",
@@ -7212,8 +7212,8 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 68.42105263157895,
-          "Contact": 34.375000000000014,
+          "Power": 66.05263157894737,
+          "Contact": 31.875000000000007,
           "Discipline": 100,
           "Speed": 10
         },
@@ -7658,43 +7658,43 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Daniel McAuliff looks like a RHP option who misses bats.",
+        "summary": "Daniel McAuliff looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.14",
-          "WHIP 1.36",
-          "K/9 10.1"
+          "ERA 5.63",
+          "WHIP 1.28",
+          "K/9 9.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.14"
+            "value": "5.63"
           },
           {
             "label": "WHIP",
-            "value": "1.36"
+            "value": "1.28"
           },
           {
             "label": "K/9",
-            "value": "10.1"
+            "value": "9.6"
           },
           {
             "label": "BB/9",
-            "value": "3.1"
+            "value": "2.8"
           },
           {
             "label": "HR/9",
-            "value": "1.53"
+            "value": "1.41"
           },
           {
             "label": "IP",
-            "value": "29.3"
+            "value": "32.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 55.68181818181818,
-          "Command": 46,
+          "Miss bats": 50.56818181818182,
+          "Command": 48,
           "Damage suppression": 0
         },
         "metaLine": "GR / R/R",
@@ -7791,29 +7791,29 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
         "position": "C/INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 48,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jackson Cooke profiles as a C/INF piece who brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .213",
-          "OBP .387",
-          "SLG .553"
+          "AVG .229",
+          "OBP .397",
+          "SLG .563"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".213"
+            "value": ".229"
           },
           {
             "label": "OBP",
-            "value": ".387"
+            "value": ".397"
           },
           {
             "label": "SLG",
-            "value": ".553"
+            "value": ".563"
           },
           {
             "label": "HR",
@@ -7829,9 +7829,9 @@ window.__BASEBALL_DATASETS__.pittsburgh2026 = {
           }
         ],
         "components": {
-          "On-base": 59.444444444444436,
-          "Power": 61.315789473684234,
-          "Contact": 0,
+          "On-base": 65,
+          "Power": 63.947368421052616,
+          "Contact": 5.625000000000005,
           "Discipline": 88.88888888888889,
           "Speed": 3.3333333333333335
         },

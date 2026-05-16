@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.creighton2026 = {
-  "generatedAt": "2026-05-15T12:08:41.863Z",
+  "generatedAt": "2026-05-16T11:17:59.606Z",
   "season": 2026,
   "school": {
     "slug": "creighton",
@@ -29,7 +29,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 15,
     "playersWithPitchingStats": 18,
-    "playersWithFieldingStats": 28,
+    "playersWithFieldingStats": 29,
     "mergedPlayersWithAnyStats": 32,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
@@ -39,23 +39,23 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
     }
   },
   "teamSummary": {
-    "record": "29-22, 13-6",
-    "battingAverage": ".276",
-    "earnedRunAverage": "5.50",
+    "record": "29-23, 13-7",
+    "battingAverage": ".275",
+    "earnedRunAverage": "5.44",
     "wins": "29",
-    "losses": "22",
+    "losses": "23",
     "hitting": {
-      "atBats": "1741",
-      "runsScored": "337",
-      "hits": "480",
-      "runsBattedIn": "310",
+      "atBats": "1775",
+      "runsScored": "339",
+      "hits": "488",
+      "runsBattedIn": "312",
       "doubles": "91",
       "triples": "7",
-      "homeRuns": "52",
-      "walks": "238",
+      "homeRuns": "54",
+      "walks": "239",
       "intentionalWalks": "3",
-      "strikeouts": "416",
-      "strikeoutsLooking": "121",
+      "strikeouts": "420",
+      "strikeoutsLooking": "123",
       "hitByPitch": "82",
       "stolenBases": "76",
       "caughtStealing": "15",
@@ -64,46 +64,46 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
       "reachedOnCatchersInteference": "3",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "408",
-      "flyOuts": "450",
+      "groundOuts": "421",
+      "flyOuts": "459",
       "groundedIntoDoublePlay": "34",
       "pickedOff": "6",
-      "doublePlaysHitInto": "42",
+      "doublePlaysHitInto": "43",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1341",
-      "assists": "475",
-      "errors": "39",
+      "putouts": "1365",
+      "assists": "485",
+      "errors": "41",
       "passedBalls": "9",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "64",
+      "stolenBasesAgainst": "65",
       "caughtStealingBy": "29",
-      "involvedInDoublePlays": "32",
+      "involvedInDoublePlays": "33",
       "involvedInTriplePlays": "0",
-      "totalChances": "1855",
-      "fieldingPercentage": ".979"
+      "totalChances": "1891",
+      "fieldingPercentage": ".978"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "28",
       "saves": "9",
-      "losses": "21",
+      "losses": "22",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "2",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "447.0",
-      "hitsAllowed": "447",
-      "runsAllowed": "303",
-      "earnedRunsAllowed": "273",
-      "walksAllowed": "236",
-      "strikeouts": "435",
-      "battersFaced": "2076",
-      "opponentAtBats": "1706",
-      "doublesAllowed": "97",
+      "inningsPitched": "455.0",
+      "hitsAllowed": "454",
+      "runsAllowed": "306",
+      "earnedRunsAllowed": "275",
+      "walksAllowed": "240",
+      "strikeouts": "440",
+      "battersFaced": "2112",
+      "opponentAtBats": "1737",
+      "doublesAllowed": "98",
       "triplesAllowed": "9",
-      "homerunsAllowed": "48",
+      "homerunsAllowed": "49",
       "wildPitches": "39",
       "balks": "2",
       "hitBatters": "88",
@@ -111,12 +111,12 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
       "intentionalWalks": "17",
       "inheritedRunners": "0",
       "inheritedRunnersThatScored": "0",
-      "sacrificeHitsAllowed": "27",
+      "sacrificeHitsAllowed": "28",
       "sacrificeFliesAllowed": "19",
       "catchersInterferenceAllowed": "0",
-      "pitches": "6841",
-      "flyouts": "419",
-      "groundouts": "429",
+      "pitches": "6988",
+      "flyouts": "426",
+      "groundouts": "440",
       "teamUnearnedRuns": "0",
       "saveRecord": "9",
       "pickoff": "0"
@@ -306,33 +306,33 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "2",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/connor-capece/8640",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/2_-_Connor_Capece-1.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 50,
-        "battingAverage": 0.293,
-        "onBasePercentage": 0.374,
-        "sluggingPercentage": 0.393,
-        "ops": 0.767,
-        "atBats": 191,
+        "gamesPlayed": 52,
+        "gamesStarted": 51,
+        "battingAverage": 0.292,
+        "onBasePercentage": 0.372,
+        "sluggingPercentage": 0.39,
+        "ops": 0.762,
+        "atBats": 195,
         "runs": 33,
-        "hits": 56,
+        "hits": 57,
         "doubles": 10,
         "triples": 0,
         "homeRuns": 3,
         "runsBattedIn": 48,
-        "totalBases": 75,
+        "totalBases": 76,
         "walks": 17,
         "hitByPitch": 10,
-        "strikeouts": 35,
+        "strikeouts": 37,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 7,
         "sacrificeFlies": 4,
         "sacrificeHits": 2,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 309,
+        "putouts": 315,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 225,
+        "plateAppearances": 229,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -344,51 +344,51 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "2",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/connor-capece/8640",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/2_-_Connor_Capece-1.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "putouts": 309,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "putouts": 315,
         "assists": 28,
         "errors": 6,
         "fieldingPercentage": 0.983,
         "doublePlays": 1,
-        "stolenBasesAgainst": 45,
+        "stolenBasesAgainst": 46,
         "caughtStealingBy": 19,
         "stolenBasesPercentage": null,
         "passedBalls": 7,
         "catchersInterference": 0,
-        "totalChances": 343
+        "totalChances": 349
       },
       "evaluation": {
-        "score": 35,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 52.222222222222214,
-          "Power": 19.21052631578948,
-          "Contact": 45.624999999999986,
-          "Discipline": 31.74603174603174,
+          "On-base": 51.11111111111109,
+          "Power": 18.421052631578952,
+          "Contact": 44.999999999999986,
+          "Discipline": 28.82882882882883,
           "Speed": 3.3333333333333335
         },
         "summary": "Connor Capece gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .293",
-          "OBP .374",
-          "SLG .393"
+          "AVG .292",
+          "OBP .372",
+          "SLG .390"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".293"
+            "value": ".292"
           },
           {
             "label": "OBP",
-            "value": ".374"
+            "value": ".372"
           },
           {
             "label": "SLG",
-            "value": ".393"
+            "value": ".390"
           },
           {
             "label": "HR",
@@ -451,13 +451,13 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "3",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/lew-rice/8729",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/3_-_Lew_Rice-1.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 39,
-        "battingAverage": 0.253,
-        "onBasePercentage": 0.348,
-        "sluggingPercentage": 0.338,
-        "ops": 0.686,
-        "atBats": 154,
+        "gamesPlayed": 47,
+        "gamesStarted": 40,
+        "battingAverage": 0.25,
+        "onBasePercentage": 0.344,
+        "sluggingPercentage": 0.333,
+        "ops": 0.677,
+        "atBats": 156,
         "runs": 24,
         "hits": 39,
         "doubles": 7,
@@ -474,10 +474,10 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "sacrificeHits": 1,
         "stolenBases": 5,
         "stolenBasesAttempts": 6,
-        "putouts": 64,
+        "putouts": 66,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 189,
+        "plateAppearances": 191,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -489,9 +489,9 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "3",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/lew-rice/8729",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/3_-_Lew_Rice-1.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 33,
-        "putouts": 64,
+        "gamesPlayed": 35,
+        "gamesStarted": 34,
+        "putouts": 66,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -501,39 +501,39 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 65
+        "totalChances": 67
       },
       "evaluation": {
-        "score": 26,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 37.77777777777775,
-          "Power": 4.736842105263163,
-          "Contact": 20.625,
+          "On-base": 35.55555555555553,
+          "Power": 3.421052631578951,
+          "Contact": 18.75,
           "Discipline": 49.46236559139784,
           "Speed": 16.666666666666664
         },
         "summary": "Lew Rice gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .253",
-          "OBP .348",
-          "SLG .338"
+          "AVG .250",
+          "OBP .344",
+          "SLG .333"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".253"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".348"
+            "value": ".344"
           },
           {
             "label": "SLG",
-            "value": ".338"
+            "value": ".333"
           },
           {
             "label": "HR",
@@ -596,20 +596,20 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "4",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/teddy-deters/8642",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/4_-_Teddy_Deters-1.jpg",
-        "gamesPlayed": 49,
-        "gamesStarted": 48,
-        "battingAverage": 0.287,
-        "onBasePercentage": 0.422,
-        "sluggingPercentage": 0.511,
-        "ops": 0.933,
-        "atBats": 178,
+        "gamesPlayed": 50,
+        "gamesStarted": 49,
+        "battingAverage": 0.297,
+        "onBasePercentage": 0.428,
+        "sluggingPercentage": 0.516,
+        "ops": 0.944,
+        "atBats": 182,
         "runs": 45,
-        "hits": 51,
+        "hits": 54,
         "doubles": 13,
         "triples": 0,
         "homeRuns": 9,
         "runsBattedIn": 34,
-        "totalBases": 91,
+        "totalBases": 94,
         "walks": 31,
         "hitByPitch": 13,
         "strikeouts": 52,
@@ -622,7 +622,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "putouts": 92,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 239,
+        "plateAppearances": 243,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -649,36 +649,36 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "totalChances": 94
       },
       "evaluation": {
-        "score": 55,
+        "score": 57,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 78.88888888888886,
-          "Power": 50.26315789473686,
-          "Contact": 41.874999999999986,
+          "On-base": 82.22222222222221,
+          "Power": 51.578947368421055,
+          "Contact": 48.12499999999999,
           "Discipline": 44.01709401709401,
           "Speed": 26.666666666666668
         },
         "summary": "Teddy Deters profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .287",
-          "OBP .422",
-          "SLG .511"
+          "AVG .297",
+          "OBP .428",
+          "SLG .516"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".287"
+            "value": ".297"
           },
           {
             "label": "OBP",
-            "value": ".422"
+            "value": ".428"
           },
           {
             "label": "SLG",
-            "value": ".511"
+            "value": ".516"
           },
           {
             "label": "HR",
@@ -741,13 +741,13 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "5",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/nate-mchugh/8652",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/5_-_Nate_McHugh-1.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "battingAverage": 0.311,
-        "onBasePercentage": 0.395,
-        "sluggingPercentage": 0.495,
-        "ops": 0.89,
-        "atBats": 212,
+        "gamesPlayed": 52,
+        "gamesStarted": 52,
+        "battingAverage": 0.306,
+        "onBasePercentage": 0.389,
+        "sluggingPercentage": 0.486,
+        "ops": 0.875,
+        "atBats": 216,
         "runs": 43,
         "hits": 66,
         "doubles": 12,
@@ -767,7 +767,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "putouts": 120,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 247,
+        "plateAppearances": 251,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -794,36 +794,36 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "totalChances": 141
       },
       "evaluation": {
-        "score": 50,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 46.05263157894737,
-          "Contact": 56.875,
+          "On-base": 60.55555555555555,
+          "Power": 43.684210526315795,
+          "Contact": 53.75,
           "Discipline": 46.40522875816993,
           "Speed": 6.666666666666667
         },
         "summary": "Nate McHugh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .311",
-          "OBP .395",
-          "SLG .495"
+          "AVG .306",
+          "OBP .389",
+          "SLG .486"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".311"
+            "value": ".306"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": ".389"
           },
           {
             "label": "SLG",
-            "value": ".495"
+            "value": ".486"
           },
           {
             "label": "HR",
@@ -886,20 +886,20 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "6",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/isaac-wachsmann/8730",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/6_-_Isaac_Wachsmann-1.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "battingAverage": 0.281,
-        "onBasePercentage": 0.388,
-        "sluggingPercentage": 0.521,
-        "ops": 0.909,
-        "atBats": 192,
-        "runs": 48,
-        "hits": 54,
+        "gamesPlayed": 52,
+        "gamesStarted": 52,
+        "battingAverage": 0.286,
+        "onBasePercentage": 0.39,
+        "sluggingPercentage": 0.551,
+        "ops": 0.941,
+        "atBats": 196,
+        "runs": 50,
+        "hits": 56,
         "doubles": 11,
         "triples": 1,
-        "homeRuns": 11,
-        "runsBattedIn": 45,
-        "totalBases": 100,
+        "homeRuns": 13,
+        "runsBattedIn": 47,
+        "totalBases": 108,
         "walks": 31,
         "hitByPitch": 5,
         "strikeouts": 45,
@@ -909,10 +909,10 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "sacrificeHits": 0,
         "stolenBases": 12,
         "stolenBasesAttempts": 13,
-        "putouts": 116,
+        "putouts": 118,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 246,
+        "plateAppearances": 250,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -924,9 +924,9 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "6",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/isaac-wachsmann/8730",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/6_-_Isaac_Wachsmann-1.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 46,
-        "putouts": 116,
+        "gamesPlayed": 47,
+        "gamesStarted": 47,
+        "putouts": 118,
         "assists": 2,
         "errors": 1,
         "fieldingPercentage": 0.992,
@@ -936,47 +936,47 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 119
+        "totalChances": 121
       },
       "evaluation": {
-        "score": 51,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 60,
-          "Power": 52.894736842105274,
-          "Contact": 38.125000000000014,
+          "On-base": 61.11111111111111,
+          "Power": 60.78947368421055,
+          "Contact": 41.24999999999998,
           "Discipline": 54.32098765432097,
           "Speed": 40
         },
-        "summary": "Isaac Wachsmann profiles as a OF piece who adds running-game pressure.",
+        "summary": "Isaac Wachsmann profiles as a OF piece who brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .281",
-          "OBP .388",
-          "SLG .521"
+          "AVG .286",
+          "OBP .390",
+          "SLG .551"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".281"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".388"
+            "value": ".390"
           },
           {
             "label": "SLG",
-            "value": ".521"
+            "value": ".551"
           },
           {
             "label": "HR",
-            "value": "11"
+            "value": "13"
           },
           {
             "label": "RBI",
-            "value": "45"
+            "value": "47"
           },
           {
             "label": "SB",
@@ -1031,7 +1031,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "7",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/jaxon-goldberg/8645",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/7_-_Jaxon_Goldberg-1.jpg",
-        "gamesPlayed": 6,
+        "gamesPlayed": 7,
         "gamesStarted": 0,
         "battingAverage": 0.2,
         "onBasePercentage": 0.333,
@@ -1054,7 +1054,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 0,
+        "putouts": 1,
         "assists": 0,
         "errors": 0,
         "plateAppearances": 6,
@@ -1062,7 +1062,27 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "pickedOff": 0
       },
       "pitchingStats": null,
-      "fieldingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "8645",
+        "name": "Jaxon Goldberg",
+        "normalizedName": "jaxon goldberg",
+        "jersey": "7",
+        "profileUrl": "https://gocreighton.com/sports/baseball/roster/jaxon-goldberg/8645",
+        "imageUrl": "https://gocreighton.com/images/2026/1/13/7_-_Jaxon_Goldberg-1.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 1,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 1
+      },
       "evaluation": {
         "score": 9,
         "fit": {
@@ -1389,13 +1409,13 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "11",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/ben-north/8654",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/11_-_Ben_North-1.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "battingAverage": 0.34,
-        "onBasePercentage": 0.466,
-        "sluggingPercentage": 0.581,
-        "ops": 1.047,
-        "atBats": 191,
+        "gamesPlayed": 52,
+        "gamesStarted": 52,
+        "battingAverage": 0.333,
+        "onBasePercentage": 0.459,
+        "sluggingPercentage": 0.569,
+        "ops": 1.028,
+        "atBats": 195,
         "runs": 50,
         "hits": 65,
         "doubles": 12,
@@ -1405,17 +1425,17 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "totalBases": 111,
         "walks": 33,
         "hitByPitch": 13,
-        "strikeouts": 53,
+        "strikeouts": 54,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 23,
         "stolenBasesAttempts": 26,
-        "putouts": 80,
+        "putouts": 83,
         "assists": 0,
         "errors": 9,
-        "plateAppearances": 269,
+        "plateAppearances": 273,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -1427,51 +1447,51 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "11",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/ben-north/8654",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/11_-_Ben_North-1.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 50,
-        "putouts": 80,
-        "assists": 142,
+        "gamesPlayed": 51,
+        "gamesStarted": 51,
+        "putouts": 83,
+        "assists": 148,
         "errors": 9,
-        "fieldingPercentage": 0.961,
-        "doublePlays": 25,
+        "fieldingPercentage": 0.963,
+        "doublePlays": 26,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 231
+        "totalChances": 240
       },
       "evaluation": {
-        "score": 78,
+        "score": 76,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 100,
-          "Power": 68.6842105263158,
-          "Contact": 75.00000000000001,
-          "Discipline": 46.96016771488469,
+          "On-base": 99.44444444444444,
+          "Power": 65.52631578947367,
+          "Contact": 70.625,
+          "Discipline": 45.67901234567901,
           "Speed": 76.66666666666667
         },
         "summary": "Ben North profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .340",
-          "OBP .466",
-          "SLG .581"
+          "AVG .333",
+          "OBP .459",
+          "SLG .569"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".340"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".466"
+            "value": ".459"
           },
           {
             "label": "SLG",
-            "value": ".581"
+            "value": ".569"
           },
           {
             "label": "HR",
@@ -1534,20 +1554,20 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "12",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/nick-venteicher/8660",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/12_-_Nick_Venteicher-1.jpg",
-        "gamesPlayed": 47,
-        "gamesStarted": 40,
+        "gamesPlayed": 48,
+        "gamesStarted": 41,
         "battingAverage": 0.238,
-        "onBasePercentage": 0.329,
-        "sluggingPercentage": 0.357,
-        "ops": 0.686,
-        "atBats": 143,
+        "onBasePercentage": 0.328,
+        "sluggingPercentage": 0.354,
+        "ops": 0.682,
+        "atBats": 147,
         "runs": 21,
-        "hits": 34,
+        "hits": 35,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 5,
         "runsBattedIn": 30,
-        "totalBases": 51,
+        "totalBases": 52,
         "walks": 16,
         "hitByPitch": 6,
         "strikeouts": 28,
@@ -1557,10 +1577,10 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "sacrificeHits": 6,
         "stolenBases": 7,
         "stolenBasesAttempts": 7,
-        "putouts": 66,
+        "putouts": 68,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 183,
+        "plateAppearances": 187,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -1572,10 +1592,10 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "12",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/nick-venteicher/8660",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/12_-_Nick_Venteicher-1.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 40,
-        "putouts": 66,
-        "assists": 105,
+        "gamesPlayed": 47,
+        "gamesStarted": 41,
+        "putouts": 68,
+        "assists": 106,
         "errors": 3,
         "fieldingPercentage": 0.983,
         "doublePlays": 19,
@@ -1584,7 +1604,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 174
+        "totalChances": 177
       },
       "evaluation": {
         "score": 21,
@@ -1593,8 +1613,8 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 27.222222222222214,
-          "Power": 9.736842105263154,
+          "On-base": 26.66666666666666,
+          "Power": 8.947368421052627,
           "Contact": 11.249999999999991,
           "Discipline": 41.26984126984126,
           "Speed": 23.333333333333332
@@ -1602,8 +1622,8 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "summary": "Nick Venteicher gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .238",
-          "OBP .329",
-          "SLG .357"
+          "OBP .328",
+          "SLG .354"
         ],
         "statCards": [
           {
@@ -1612,11 +1632,11 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           },
           {
             "label": "OBP",
-            "value": ".329"
+            "value": ".328"
           },
           {
             "label": "SLG",
-            "value": ".357"
+            "value": ".354"
           },
           {
             "label": "HR",
@@ -1963,13 +1983,13 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "15",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/rocco-gump/8733",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/15_-_Rocco_Gump-1.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "battingAverage": 0.243,
-        "onBasePercentage": 0.402,
-        "sluggingPercentage": 0.328,
-        "ops": 0.73,
-        "atBats": 189,
+        "gamesPlayed": 52,
+        "gamesStarted": 52,
+        "battingAverage": 0.24,
+        "onBasePercentage": 0.399,
+        "sluggingPercentage": 0.323,
+        "ops": 0.722,
+        "atBats": 192,
         "runs": 38,
         "hits": 46,
         "doubles": 11,
@@ -1977,7 +1997,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "homeRuns": 1,
         "runsBattedIn": 18,
         "totalBases": 62,
-        "walks": 31,
+        "walks": 32,
         "hitByPitch": 19,
         "strikeouts": 46,
         "intentionalWalks": 0,
@@ -1986,10 +2006,10 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "sacrificeHits": 4,
         "stolenBases": 9,
         "stolenBasesAttempts": 13,
-        "putouts": 41,
+        "putouts": 42,
         "assists": 0,
-        "errors": 4,
-        "plateAppearances": 260,
+        "errors": 5,
+        "plateAppearances": 264,
         "caughtStealing": 4,
         "pickedOff": 2
       },
@@ -2001,51 +2021,51 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "15",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/rocco-gump/8733",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/15_-_Rocco_Gump-1.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "putouts": 41,
-        "assists": 83,
-        "errors": 4,
-        "fieldingPercentage": 0.969,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "putouts": 42,
+        "assists": 84,
+        "errors": 5,
+        "fieldingPercentage": 0.962,
         "doublePlays": 7,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 128
+        "totalChances": 131
       },
       "evaluation": {
-        "score": 35,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 67.77777777777779,
-          "Power": 2.105263157894739,
-          "Contact": 14.374999999999996,
-          "Discipline": 52.65700483091786,
+          "On-base": 66.11111111111111,
+          "Power": 0.7894736842105272,
+          "Contact": 12.499999999999993,
+          "Discipline": 55.07246376811593,
           "Speed": 30
         },
-        "summary": "Rocco Gump profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Rocco Gump profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .243",
-          "OBP .402",
-          "SLG .328"
+          "AVG .240",
+          "OBP .399",
+          "SLG .323"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".243"
+            "value": ".240"
           },
           {
             "label": "OBP",
-            "value": ".402"
+            "value": ".399"
           },
           {
             "label": "SLG",
-            "value": ".328"
+            "value": ".323"
           },
           {
             "label": "HR",
@@ -2656,20 +2676,20 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "22",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/chris-baillargeon/8736",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/22_-_Chris_Baillargeon-1.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 48,
+        "gamesPlayed": 49,
+        "gamesStarted": 49,
         "battingAverage": 0.23,
-        "onBasePercentage": 0.317,
-        "sluggingPercentage": 0.345,
-        "ops": 0.662,
-        "atBats": 174,
+        "onBasePercentage": 0.315,
+        "sluggingPercentage": 0.343,
+        "ops": 0.658,
+        "atBats": 178,
         "runs": 25,
-        "hits": 40,
+        "hits": 41,
         "doubles": 8,
         "triples": 0,
         "homeRuns": 4,
         "runsBattedIn": 22,
-        "totalBases": 60,
+        "totalBases": 61,
         "walks": 21,
         "hitByPitch": 2,
         "strikeouts": 50,
@@ -2679,10 +2699,10 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "sacrificeHits": 2,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 315,
+        "putouts": 322,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 204,
+        "plateAppearances": 208,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2694,19 +2714,19 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "22",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/chris-baillargeon/8736",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/22_-_Chris_Baillargeon-1.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 46,
-        "putouts": 315,
+        "gamesPlayed": 47,
+        "gamesStarted": 47,
+        "putouts": 322,
         "assists": 18,
         "errors": 3,
         "fieldingPercentage": 0.991,
-        "doublePlays": 25,
+        "doublePlays": 26,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 336
+        "totalChances": 343
       },
       "evaluation": {
         "score": 13,
@@ -2715,8 +2735,8 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 20.555555555555543,
-          "Power": 6.578947368421045,
+          "On-base": 19.444444444444432,
+          "Power": 6.052631578947374,
           "Contact": 6.250000000000005,
           "Discipline": 24.44444444444444,
           "Speed": 3.3333333333333335
@@ -2724,8 +2744,8 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "summary": "Chris Baillargeon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .230",
-          "OBP .317",
-          "SLG .345"
+          "OBP .315",
+          "SLG .343"
         ],
         "statCards": [
           {
@@ -2734,11 +2754,11 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           },
           {
             "label": "OBP",
-            "value": ".317"
+            "value": ".315"
           },
           {
             "label": "SLG",
-            "value": ".345"
+            "value": ".343"
           },
           {
             "label": "HR",
@@ -2802,19 +2822,19 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "23",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/brian-gould/8759",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/23_-_Brian_Gould-1.jpg",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 1,
-        "appearances": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
         "earnedRunAverage": 12.06,
-        "whip": 2.36,
+        "whip": 2.43,
         "wins": 2,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
         "inningsPitched": 15.666666666666666,
         "inningsPitchedDisplay": "15.2",
-        "hitsAllowed": 26,
+        "hitsAllowed": 27,
         "runsAllowed": 23,
         "earnedRunsAllowed": 21,
         "walksAllowed": 11,
@@ -2822,11 +2842,11 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 68,
+        "opponentsAtBats": 69,
         "wildPitches": 4,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.382,
+        "opponentsBattingAverage": 0.391,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2866,7 +2886,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "summary": "Brian Gould looks like a RHP/UTL option who misses bats.",
         "summaryMetrics": [
           "ERA 12.06",
-          "WHIP 2.36",
+          "WHIP 2.43",
           "K/9 11.5"
         ],
         "statCards": [
@@ -2876,7 +2896,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           },
           {
             "label": "WHIP",
-            "value": "2.36"
+            "value": "2.43"
           },
           {
             "label": "K/9",
@@ -3086,18 +3106,18 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "27",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/anthony-unga/8659",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/27_-_Anthony_Unga-1.jpg",
-        "gamesPlayed": 8,
+        "gamesPlayed": 9,
         "gamesStarted": 0,
-        "appearances": 8,
+        "appearances": 9,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.73,
-        "whip": 1.36,
+        "earnedRunAverage": 5.56,
+        "whip": 1.32,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 11,
-        "inningsPitchedDisplay": "11.0",
+        "inningsPitched": 11.333333333333334,
+        "inningsPitchedDisplay": "11.1",
         "hitsAllowed": 11,
         "runsAllowed": 8,
         "earnedRunsAllowed": 7,
@@ -3106,11 +3126,11 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 43,
+        "opponentsAtBats": 44,
         "wildPitches": 1,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.256,
+        "opponentsBattingAverage": 0.25,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3143,40 +3163,40 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 60.33057851239669,
+          "Miss bats": 57.486631016042764,
           "Command": 45,
           "Damage suppression": 0
         },
         "summary": "Anthony Unga looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.73",
-          "WHIP 1.36",
-          "K/9 10.6"
+          "ERA 5.56",
+          "WHIP 1.32",
+          "K/9 10.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.73"
+            "value": "5.56"
           },
           {
             "label": "WHIP",
-            "value": "1.36"
+            "value": "1.32"
           },
           {
             "label": "K/9",
-            "value": "10.6"
+            "value": "10.3"
           },
           {
             "label": "BB/9",
-            "value": "3.3"
+            "value": "3.2"
           },
           {
             "label": "HR/9",
-            "value": "0.82"
+            "value": "0.79"
           },
           {
             "label": "IP",
-            "value": "11.0"
+            "value": "11.3"
           }
         ],
         "metaLine": "SO / R/R",
@@ -3373,31 +3393,31 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "29",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/eli-nissen/8653",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/29_-_Eli_Nissen-1.jpg",
-        "gamesPlayed": 20,
+        "gamesPlayed": 21,
         "gamesStarted": 7,
-        "appearances": 20,
+        "appearances": 21,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.71,
+        "earnedRunAverage": 4.64,
         "whip": 1.29,
         "wins": 0,
         "losses": 3,
         "saves": 2,
         "shutouts": 0,
-        "inningsPitched": 42,
-        "inningsPitchedDisplay": "42.0",
+        "inningsPitched": 42.666666666666664,
+        "inningsPitchedDisplay": "42.2",
         "hitsAllowed": 39,
         "runsAllowed": 24,
         "earnedRunsAllowed": 22,
-        "walksAllowed": 15,
-        "strikeouts": 28,
+        "walksAllowed": 16,
+        "strikeouts": 29,
         "doublesAllowed": 8,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 160,
+        "opponentsAtBats": 162,
         "wildPitches": 1,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.244,
+        "opponentsBattingAverage": 0.241,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3430,20 +3450,20 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 18.181818181818183,
-          "Command": 17.333333333333336,
+          "Miss bats": 19.24715909090909,
+          "Command": 16.25,
           "Damage suppression": 0
         },
         "summary": "Eli Nissen gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.71",
+          "ERA 4.64",
           "WHIP 1.29",
-          "K/9 6.0"
+          "K/9 6.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.71"
+            "value": "4.64"
           },
           {
             "label": "WHIP",
@@ -3451,19 +3471,19 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           },
           {
             "label": "K/9",
-            "value": "6.0"
+            "value": "6.1"
           },
           {
             "label": "BB/9",
-            "value": "3.2"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
-            "value": "0.64"
+            "value": "0.63"
           },
           {
             "label": "IP",
-            "value": "42.0"
+            "value": "42.7"
           }
         ],
         "metaLine": "R-SO / L/L",
@@ -3514,7 +3534,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "30",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/shane-curtin/8641",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/30_-_Shane_Curtin-1.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 0,
         "battingAverage": 0,
         "onBasePercentage": 0,
@@ -3551,31 +3571,31 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "30",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/shane-curtin/8641",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/30_-_Shane_Curtin-1.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 0,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.15,
-        "whip": 1.46,
+        "earnedRunAverage": 7.23,
+        "whip": 1.52,
         "wins": 0,
-        "losses": 3,
+        "losses": 4,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 22.666666666666668,
-        "inningsPitchedDisplay": "22.2",
-        "hitsAllowed": 26,
-        "runsAllowed": 18,
-        "earnedRunsAllowed": 18,
-        "walksAllowed": 7,
-        "strikeouts": 22,
+        "inningsPitched": 23.666666666666668,
+        "inningsPitchedDisplay": "23.2",
+        "hitsAllowed": 28,
+        "runsAllowed": 19,
+        "earnedRunsAllowed": 19,
+        "walksAllowed": 8,
+        "strikeouts": 23,
         "doublesAllowed": 8,
         "triplesAllowed": 1,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 90,
+        "opponentsAtBats": 94,
         "wildPitches": 1,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.289,
+        "opponentsBattingAverage": 0.298,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3585,19 +3605,19 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "30",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/shane-curtin/8641",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/30_-_Shane_Curtin-1.jpg",
-        "gamesPlayed": 3,
+        "gamesPlayed": 4,
         "gamesStarted": 0,
         "putouts": 0,
-        "assists": 1,
+        "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 2,
+        "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 1
+        "totalChances": 2
       },
       "evaluation": {
         "score": 15,
@@ -3608,24 +3628,24 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.04812834224598,
-          "Command": 42.857142857142854,
+          "Miss bats": 43.14980793854033,
+          "Command": 37.5,
           "Damage suppression": 0
         },
-        "summary": "Shane Curtin looks like a LHP option who throws enough strikes.",
+        "summary": "Shane Curtin gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.15",
-          "WHIP 1.46",
+          "ERA 7.23",
+          "WHIP 1.52",
           "K/9 8.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.15"
+            "value": "7.23"
           },
           {
             "label": "WHIP",
-            "value": "1.46"
+            "value": "1.52"
           },
           {
             "label": "K/9",
@@ -3633,15 +3653,15 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "0.40"
+            "value": "0.38"
           },
           {
             "label": "IP",
-            "value": "22.7"
+            "value": "23.7"
           }
         ],
         "metaLine": "SR / L/L",
@@ -3693,18 +3713,18 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "31",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/jimmy-burke/8639",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/31_-_Jimmy_Burke-1.jpg",
-        "gamesPlayed": 24,
+        "gamesPlayed": 25,
         "gamesStarted": 0,
-        "appearances": 24,
+        "appearances": 25,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.26,
-        "whip": 1.49,
+        "earnedRunAverage": 5.17,
+        "whip": 1.46,
         "wins": 1,
         "losses": 1,
         "saves": 2,
         "shutouts": 0,
-        "inningsPitched": 37.666666666666664,
-        "inningsPitchedDisplay": "37.2",
+        "inningsPitched": 38.333333333333336,
+        "inningsPitchedDisplay": "38.1",
         "hitsAllowed": 41,
         "runsAllowed": 22,
         "earnedRunsAllowed": 22,
@@ -3713,11 +3733,11 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 146,
+        "opponentsAtBats": 148,
         "wildPitches": 2,
         "hitBatters": 6,
         "balks": 0,
-        "opponentsBattingAverage": 0.281,
+        "opponentsBattingAverage": 0.277,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3750,40 +3770,40 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 33.1456154465004,
+          "Miss bats": 31.936758893280626,
           "Command": 22.666666666666664,
           "Damage suppression": 0
         },
         "summary": "Jimmy Burke gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.26",
-          "WHIP 1.49",
-          "K/9 7.6"
+          "ERA 5.17",
+          "WHIP 1.46",
+          "K/9 7.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.26"
+            "value": "5.17"
           },
           {
             "label": "WHIP",
-            "value": "1.49"
+            "value": "1.46"
           },
           {
             "label": "K/9",
-            "value": "7.6"
+            "value": "7.5"
           },
           {
             "label": "BB/9",
-            "value": "3.6"
+            "value": "3.5"
           },
           {
             "label": "HR/9",
-            "value": "1.19"
+            "value": "1.17"
           },
           {
             "label": "IP",
-            "value": "37.7"
+            "value": "38.3"
           }
         ],
         "metaLine": "R-SR / R/R",
@@ -3923,31 +3943,31 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "33",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/wilson-magers/8651",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/33_-_Wilson_Magers-1.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 6,
-        "appearances": 6,
+        "gamesPlayed": 7,
+        "gamesStarted": 7,
+        "appearances": 7,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.15,
-        "whip": 1.31,
+        "earnedRunAverage": 3.9,
+        "whip": 1.33,
         "wins": 2,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 26,
-        "inningsPitchedDisplay": "26.0",
-        "hitsAllowed": 22,
-        "runsAllowed": 16,
-        "earnedRunsAllowed": 12,
-        "walksAllowed": 12,
-        "strikeouts": 25,
-        "doublesAllowed": 4,
+        "inningsPitched": 30,
+        "inningsPitchedDisplay": "30.0",
+        "hitsAllowed": 26,
+        "runsAllowed": 18,
+        "earnedRunsAllowed": 13,
+        "walksAllowed": 14,
+        "strikeouts": 28,
+        "doublesAllowed": 5,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 97,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 114,
         "wildPitches": 4,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.227,
+        "opponentsBattingAverage": 0.228,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3957,22 +3977,22 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "33",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/wilson-magers/8651",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/33_-_Wilson_Magers-1.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 6,
+        "gamesPlayed": 7,
+        "gamesStarted": 7,
         "putouts": 1,
-        "assists": 4,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
+        "assists": 5,
+        "errors": 1,
+        "fieldingPercentage": 0.857,
+        "doublePlays": 1,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 2,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 5
+        "totalChances": 7
       },
       "evaluation": {
-        "score": 12,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3980,28 +4000,28 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 42.3076923076923,
-          "Command": 21.66666666666666,
+          "Miss bats": 40,
+          "Command": 20,
           "Damage suppression": 0
         },
-        "summary": "Wilson Magers gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Wilson Magers looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 4.15",
-          "WHIP 1.31",
-          "K/9 8.7"
+          "ERA 3.90",
+          "WHIP 1.33",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.15"
+            "value": "3.90"
           },
           {
             "label": "WHIP",
-            "value": "1.31"
+            "value": "1.33"
           },
           {
             "label": "K/9",
-            "value": "8.7"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
@@ -4009,11 +4029,11 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.69"
+            "value": "0.90"
           },
           {
             "label": "IP",
-            "value": "26.0"
+            "value": "30.0"
           }
         ],
         "metaLine": "SO / R/R",
@@ -4065,18 +4085,18 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "34",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/jakob-ruhl/8739",
         "imageUrl": "https://gocreighton.com/images/2026/1/13/34_-_Jakob_Ruhl-1.jpg",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 4,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.25,
-        "whip": 1.58,
+        "earnedRunAverage": 5.06,
+        "whip": 1.53,
         "wins": 3,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 36,
-        "inningsPitchedDisplay": "36.0",
+        "inningsPitched": 37.333333333333336,
+        "inningsPitchedDisplay": "37.1",
         "hitsAllowed": 42,
         "runsAllowed": 26,
         "earnedRunsAllowed": 21,
@@ -4085,11 +4105,11 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "doublesAllowed": 7,
         "triplesAllowed": 1,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 144,
+        "opponentsAtBats": 148,
         "wildPitches": 1,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.292,
+        "opponentsBattingAverage": 0.284,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4114,7 +4134,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "totalChances": 5
       },
       "evaluation": {
-        "score": 13,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4122,40 +4142,40 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.18181818181818,
+          "Miss bats": 40.340909090909086,
           "Command": 26.66666666666667,
           "Damage suppression": 0
         },
         "summary": "Jakob Ruhl gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.25",
-          "WHIP 1.58",
-          "K/9 8.8"
+          "ERA 5.06",
+          "WHIP 1.53",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.25"
+            "value": "5.06"
           },
           {
             "label": "WHIP",
-            "value": "1.58"
+            "value": "1.53"
           },
           {
             "label": "K/9",
-            "value": "8.8"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "1.25"
+            "value": "1.21"
           },
           {
             "label": "IP",
-            "value": "36.0"
+            "value": "37.3"
           }
         ],
         "metaLine": "FR / L/R",
@@ -4734,13 +4754,13 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "jersey": "43",
         "profileUrl": "https://gocreighton.com/sports/baseball/roster/cooper-fuchino/8643",
         "imageUrl": "https://gocreighton.com/images/2024/9/16/Cooper_Fuchino_24mug.jpg",
-        "gamesPlayed": 3,
+        "gamesPlayed": 4,
         "gamesStarted": 0,
         "battingAverage": 0,
         "onBasePercentage": 0,
         "sluggingPercentage": 0,
         "ops": 0,
-        "atBats": 3,
+        "atBats": 4,
         "runs": 0,
         "hits": 0,
         "doubles": 0,
@@ -4750,7 +4770,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "totalBases": 0,
         "walks": 0,
         "hitByPitch": 0,
-        "strikeouts": 2,
+        "strikeouts": 3,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -4760,7 +4780,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "putouts": 0,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 3,
+        "plateAppearances": 4,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -5192,29 +5212,29 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 35,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Connor Capece gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .293",
-          "OBP .374",
-          "SLG .393"
+          "AVG .292",
+          "OBP .372",
+          "SLG .390"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".293"
+            "value": ".292"
           },
           {
             "label": "OBP",
-            "value": ".374"
+            "value": ".372"
           },
           {
             "label": "SLG",
-            "value": ".393"
+            "value": ".390"
           },
           {
             "label": "HR",
@@ -5230,10 +5250,10 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           }
         ],
         "components": {
-          "On-base": 52.222222222222214,
-          "Power": 19.21052631578948,
-          "Contact": 45.624999999999986,
-          "Discipline": 31.74603174603174,
+          "On-base": 51.11111111111109,
+          "Power": 18.421052631578952,
+          "Contact": 44.999999999999986,
+          "Discipline": 28.82882882882883,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / R/R",
@@ -5261,29 +5281,29 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "position": "OF",
         "classYear": "GR",
         "handedness": "L/R",
-        "score": 26,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Lew Rice gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .253",
-          "OBP .348",
-          "SLG .338"
+          "AVG .250",
+          "OBP .344",
+          "SLG .333"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".253"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".348"
+            "value": ".344"
           },
           {
             "label": "SLG",
-            "value": ".338"
+            "value": ".333"
           },
           {
             "label": "HR",
@@ -5299,9 +5319,9 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           }
         ],
         "components": {
-          "On-base": 37.77777777777775,
-          "Power": 4.736842105263163,
-          "Contact": 20.625,
+          "On-base": 35.55555555555553,
+          "Power": 3.421052631578951,
+          "Contact": 18.75,
           "Discipline": 49.46236559139784,
           "Speed": 16.666666666666664
         },
@@ -5330,29 +5350,29 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "position": "OF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 55,
+        "score": 57,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Teddy Deters profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .287",
-          "OBP .422",
-          "SLG .511"
+          "AVG .297",
+          "OBP .428",
+          "SLG .516"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".287"
+            "value": ".297"
           },
           {
             "label": "OBP",
-            "value": ".422"
+            "value": ".428"
           },
           {
             "label": "SLG",
-            "value": ".511"
+            "value": ".516"
           },
           {
             "label": "HR",
@@ -5368,9 +5388,9 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           }
         ],
         "components": {
-          "On-base": 78.88888888888886,
-          "Power": 50.26315789473686,
-          "Contact": 41.874999999999986,
+          "On-base": 82.22222222222221,
+          "Power": 51.578947368421055,
+          "Contact": 48.12499999999999,
           "Discipline": 44.01709401709401,
           "Speed": 26.666666666666668
         },
@@ -5399,29 +5419,29 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "position": "C",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 50,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nate McHugh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .311",
-          "OBP .395",
-          "SLG .495"
+          "AVG .306",
+          "OBP .389",
+          "SLG .486"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".311"
+            "value": ".306"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": ".389"
           },
           {
             "label": "SLG",
-            "value": ".495"
+            "value": ".486"
           },
           {
             "label": "HR",
@@ -5437,9 +5457,9 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           }
         ],
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 46.05263157894737,
-          "Contact": 56.875,
+          "On-base": 60.55555555555555,
+          "Power": 43.684210526315795,
+          "Contact": 53.75,
           "Discipline": 46.40522875816993,
           "Speed": 6.666666666666667
         },
@@ -5468,37 +5488,37 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "position": "OF",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 51,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Isaac Wachsmann profiles as a OF piece who adds running-game pressure.",
+        "summary": "Isaac Wachsmann profiles as a OF piece who brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .281",
-          "OBP .388",
-          "SLG .521"
+          "AVG .286",
+          "OBP .390",
+          "SLG .551"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".281"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".388"
+            "value": ".390"
           },
           {
             "label": "SLG",
-            "value": ".521"
+            "value": ".551"
           },
           {
             "label": "HR",
-            "value": "11"
+            "value": "13"
           },
           {
             "label": "RBI",
-            "value": "45"
+            "value": "47"
           },
           {
             "label": "SB",
@@ -5506,9 +5526,9 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           }
         ],
         "components": {
-          "On-base": 60,
-          "Power": 52.894736842105274,
-          "Contact": 38.125000000000014,
+          "On-base": 61.11111111111111,
+          "Power": 60.78947368421055,
+          "Contact": 41.24999999999998,
           "Discipline": 54.32098765432097,
           "Speed": 40
         },
@@ -5743,29 +5763,29 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "position": "INF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 78,
+        "score": 76,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Ben North profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .340",
-          "OBP .466",
-          "SLG .581"
+          "AVG .333",
+          "OBP .459",
+          "SLG .569"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".340"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".466"
+            "value": ".459"
           },
           {
             "label": "SLG",
-            "value": ".581"
+            "value": ".569"
           },
           {
             "label": "HR",
@@ -5781,10 +5801,10 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           }
         ],
         "components": {
-          "On-base": 100,
-          "Power": 68.6842105263158,
-          "Contact": 75.00000000000001,
-          "Discipline": 46.96016771488469,
+          "On-base": 99.44444444444444,
+          "Power": 65.52631578947367,
+          "Contact": 70.625,
+          "Discipline": 45.67901234567901,
           "Speed": 76.66666666666667
         },
         "metaLine": "GR / R/R",
@@ -5820,8 +5840,8 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "summary": "Nick Venteicher gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .238",
-          "OBP .329",
-          "SLG .357"
+          "OBP .328",
+          "SLG .354"
         ],
         "statCards": [
           {
@@ -5830,11 +5850,11 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           },
           {
             "label": "OBP",
-            "value": ".329"
+            "value": ".328"
           },
           {
             "label": "SLG",
-            "value": ".357"
+            "value": ".354"
           },
           {
             "label": "HR",
@@ -5850,8 +5870,8 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           }
         ],
         "components": {
-          "On-base": 27.222222222222214,
-          "Power": 9.736842105263154,
+          "On-base": 26.66666666666666,
+          "Power": 8.947368421052627,
           "Contact": 11.249999999999991,
           "Discipline": 41.26984126984126,
           "Speed": 23.333333333333332
@@ -6019,29 +6039,29 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "position": "INF",
         "classYear": "GR",
         "handedness": "L/R",
-        "score": 35,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Rocco Gump profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Rocco Gump profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .243",
-          "OBP .402",
-          "SLG .328"
+          "AVG .240",
+          "OBP .399",
+          "SLG .323"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".243"
+            "value": ".240"
           },
           {
             "label": "OBP",
-            "value": ".402"
+            "value": ".399"
           },
           {
             "label": "SLG",
-            "value": ".328"
+            "value": ".323"
           },
           {
             "label": "HR",
@@ -6057,10 +6077,10 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           }
         ],
         "components": {
-          "On-base": 67.77777777777779,
-          "Power": 2.105263157894739,
-          "Contact": 14.374999999999996,
-          "Discipline": 52.65700483091786,
+          "On-base": 66.11111111111111,
+          "Power": 0.7894736842105272,
+          "Contact": 12.499999999999993,
+          "Discipline": 55.07246376811593,
           "Speed": 30
         },
         "metaLine": "GR / L/R",
@@ -6438,8 +6458,8 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "summary": "Chris Baillargeon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .230",
-          "OBP .317",
-          "SLG .345"
+          "OBP .315",
+          "SLG .343"
         ],
         "statCards": [
           {
@@ -6448,11 +6468,11 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           },
           {
             "label": "OBP",
-            "value": ".317"
+            "value": ".315"
           },
           {
             "label": "SLG",
-            "value": ".345"
+            "value": ".343"
           },
           {
             "label": "HR",
@@ -6468,8 +6488,8 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           }
         ],
         "components": {
-          "On-base": 20.555555555555543,
-          "Power": 6.578947368421045,
+          "On-base": 19.444444444444432,
+          "Power": 6.052631578947374,
           "Contact": 6.250000000000005,
           "Discipline": 24.44444444444444,
           "Speed": 3.3333333333333335
@@ -6507,7 +6527,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "summary": "Brian Gould looks like a RHP/UTL option who misses bats.",
         "summaryMetrics": [
           "ERA 12.06",
-          "WHIP 2.36",
+          "WHIP 2.43",
           "K/9 11.5"
         ],
         "statCards": [
@@ -6517,7 +6537,7 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           },
           {
             "label": "WHIP",
-            "value": "2.36"
+            "value": "2.43"
           },
           {
             "label": "K/9",
@@ -6644,40 +6664,40 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         },
         "summary": "Anthony Unga looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.73",
-          "WHIP 1.36",
-          "K/9 10.6"
+          "ERA 5.56",
+          "WHIP 1.32",
+          "K/9 10.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.73"
+            "value": "5.56"
           },
           {
             "label": "WHIP",
-            "value": "1.36"
+            "value": "1.32"
           },
           {
             "label": "K/9",
-            "value": "10.6"
+            "value": "10.3"
           },
           {
             "label": "BB/9",
-            "value": "3.3"
+            "value": "3.2"
           },
           {
             "label": "HR/9",
-            "value": "0.82"
+            "value": "0.79"
           },
           {
             "label": "IP",
-            "value": "11.0"
+            "value": "11.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 60.33057851239669,
+          "Miss bats": 57.486631016042764,
           "Command": 45,
           "Damage suppression": 0
         },
@@ -6782,14 +6802,14 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         },
         "summary": "Eli Nissen gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.71",
+          "ERA 4.64",
           "WHIP 1.29",
-          "K/9 6.0"
+          "K/9 6.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.71"
+            "value": "4.64"
           },
           {
             "label": "WHIP",
@@ -6797,26 +6817,26 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           },
           {
             "label": "K/9",
-            "value": "6.0"
+            "value": "6.1"
           },
           {
             "label": "BB/9",
-            "value": "3.2"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
-            "value": "0.64"
+            "value": "0.63"
           },
           {
             "label": "IP",
-            "value": "42.0"
+            "value": "42.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 18.181818181818183,
-          "Command": 17.333333333333336,
+          "Miss bats": 19.24715909090909,
+          "Command": 16.25,
           "Damage suppression": 0
         },
         "metaLine": "R-SO / L/L",
@@ -6849,20 +6869,20 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Shane Curtin looks like a LHP option who throws enough strikes.",
+        "summary": "Shane Curtin gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.15",
-          "WHIP 1.46",
+          "ERA 7.23",
+          "WHIP 1.52",
           "K/9 8.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.15"
+            "value": "7.23"
           },
           {
             "label": "WHIP",
-            "value": "1.46"
+            "value": "1.52"
           },
           {
             "label": "K/9",
@@ -6870,22 +6890,22 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "0.40"
+            "value": "0.38"
           },
           {
             "label": "IP",
-            "value": "22.7"
+            "value": "23.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.04812834224598,
-          "Command": 42.857142857142854,
+          "Miss bats": 43.14980793854033,
+          "Command": 37.5,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/L",
@@ -6920,40 +6940,40 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         },
         "summary": "Jimmy Burke gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.26",
-          "WHIP 1.49",
-          "K/9 7.6"
+          "ERA 5.17",
+          "WHIP 1.46",
+          "K/9 7.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.26"
+            "value": "5.17"
           },
           {
             "label": "WHIP",
-            "value": "1.49"
+            "value": "1.46"
           },
           {
             "label": "K/9",
-            "value": "7.6"
+            "value": "7.5"
           },
           {
             "label": "BB/9",
-            "value": "3.6"
+            "value": "3.5"
           },
           {
             "label": "HR/9",
-            "value": "1.19"
+            "value": "1.17"
           },
           {
             "label": "IP",
-            "value": "37.7"
+            "value": "38.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 33.1456154465004,
+          "Miss bats": 31.936758893280626,
           "Command": 22.666666666666664,
           "Damage suppression": 0
         },
@@ -7050,29 +7070,29 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 12,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Wilson Magers gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Wilson Magers looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 4.15",
-          "WHIP 1.31",
-          "K/9 8.7"
+          "ERA 3.90",
+          "WHIP 1.33",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.15"
+            "value": "3.90"
           },
           {
             "label": "WHIP",
-            "value": "1.31"
+            "value": "1.33"
           },
           {
             "label": "K/9",
-            "value": "8.7"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
@@ -7080,18 +7100,18 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.69"
+            "value": "0.90"
           },
           {
             "label": "IP",
-            "value": "26.0"
+            "value": "30.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 42.3076923076923,
-          "Command": 21.66666666666666,
+          "Miss bats": 40,
+          "Command": 20,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -7119,47 +7139,47 @@ window.__BASEBALL_DATASETS__.creighton2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "L/R",
-        "score": 13,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jakob Ruhl gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.25",
-          "WHIP 1.58",
-          "K/9 8.8"
+          "ERA 5.06",
+          "WHIP 1.53",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.25"
+            "value": "5.06"
           },
           {
             "label": "WHIP",
-            "value": "1.58"
+            "value": "1.53"
           },
           {
             "label": "K/9",
-            "value": "8.8"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "1.25"
+            "value": "1.21"
           },
           {
             "label": "IP",
-            "value": "36.0"
+            "value": "37.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.18181818181818,
+          "Miss bats": 40.340909090909086,
           "Command": 26.66666666666667,
           "Damage suppression": 0
         },

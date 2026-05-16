@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.tennessee2026 = {
-  "generatedAt": "2026-05-15T12:09:45.749Z",
+  "generatedAt": "2026-05-16T11:18:36.352Z",
   "season": 2026,
   "school": {
     "slug": "tennessee",
@@ -45,7 +45,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
     "wins": "36",
     "losses": "18",
     "hitting": {
-      "atBats": "1820",
+      "atBats": "1819",
       "runsScored": "393",
       "hits": "504",
       "runsBattedIn": "368",
@@ -60,7 +60,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
       "stolenBases": "34",
       "caughtStealing": "12",
       "sacrificeHits": "13",
-      "sacrificeFlies": "19",
+      "sacrificeFlies": "20",
       "reachedOnCatchersInteference": "4",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
@@ -100,7 +100,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
       "walksAllowed": "159",
       "strikeouts": "556",
       "battersFaced": "2043",
-      "opponentAtBats": "1808",
+      "opponentAtBats": "1807",
       "doublesAllowed": "74",
       "triplesAllowed": "2",
       "homerunsAllowed": "73",
@@ -112,7 +112,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
       "inheritedRunners": "0",
       "inheritedRunnersThatScored": "0",
       "sacrificeHitsAllowed": "11",
-      "sacrificeFliesAllowed": "8",
+      "sacrificeFliesAllowed": "9",
       "catchersInterferenceAllowed": "0",
       "pitches": "7869",
       "flyouts": "431",
@@ -486,11 +486,11 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "imageUrl": "https://utsports.com/images/2025/10/8/Marin_Manny.jpg",
         "gamesPlayed": 50,
         "gamesStarted": 47,
-        "battingAverage": 0.292,
+        "battingAverage": 0.294,
         "onBasePercentage": 0.344,
-        "sluggingPercentage": 0.489,
-        "ops": 0.833,
-        "atBats": 178,
+        "sluggingPercentage": 0.492,
+        "ops": 0.836,
+        "atBats": 177,
         "runs": 33,
         "hits": 52,
         "doubles": 8,
@@ -503,7 +503,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "strikeouts": 37,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
-        "sacrificeFlies": 2,
+        "sacrificeFlies": 3,
         "sacrificeHits": 2,
         "stolenBases": 5,
         "stolenBasesAttempts": 5,
@@ -537,28 +537,28 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "totalChances": 183
       },
       "evaluation": {
-        "score": 34,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
           "On-base": 35.55555555555553,
-          "Power": 44.473684210526315,
-          "Contact": 44.999999999999986,
+          "Power": 45.26315789473684,
+          "Contact": 46.249999999999986,
           "Discipline": 10.81081081081081,
           "Speed": 16.666666666666664
         },
         "summary": "Manny Marin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .292",
+          "AVG .294",
           "OBP .344",
-          "SLG .489"
+          "SLG .492"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".294"
           },
           {
             "label": "OBP",
@@ -566,7 +566,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           },
           {
             "label": "SLG",
-            "value": ".489"
+            "value": ".492"
           },
           {
             "label": "HR",
@@ -2810,11 +2810,11 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "doublesAllowed": 15,
         "triplesAllowed": 0,
         "homeRunsAllowed": 11,
-        "opponentsAtBats": 301,
+        "opponentsAtBats": 300,
         "wildPitches": 2,
         "hitBatters": 5,
         "balks": 1,
-        "opponentsBattingAverage": 0.252,
+        "opponentsBattingAverage": 0.253,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5593,21 +5593,21 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 34,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Manny Marin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .292",
+          "AVG .294",
           "OBP .344",
-          "SLG .489"
+          "SLG .492"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".294"
           },
           {
             "label": "OBP",
@@ -5615,7 +5615,7 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
           },
           {
             "label": "SLG",
-            "value": ".489"
+            "value": ".492"
           },
           {
             "label": "HR",
@@ -5632,8 +5632,8 @@ window.__BASEBALL_DATASETS__.tennessee2026 = {
         ],
         "components": {
           "On-base": 35.55555555555553,
-          "Power": 44.473684210526315,
-          "Contact": 44.999999999999986,
+          "Power": 45.26315789473684,
+          "Contact": 46.249999999999986,
           "Discipline": 10.81081081081081,
           "Speed": 16.666666666666664
         },
