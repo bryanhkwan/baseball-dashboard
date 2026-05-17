@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.memphis2026 = {
-  "generatedAt": "2026-05-16T11:18:14.095Z",
+  "generatedAt": "2026-05-17T11:33:35.689Z",
   "season": 2026,
   "school": {
     "slug": "memphis",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
     }
   },
   "teamSummary": {
-    "record": "22-31, 13-13",
-    "battingAverage": ".264",
-    "earnedRunAverage": "7.10",
+    "record": "22-32, 13-14",
+    "battingAverage": ".265",
+    "earnedRunAverage": "7.12",
     "wins": "22",
-    "losses": "31",
+    "losses": "32",
     "hitting": {
-      "atBats": "1815",
-      "runsScored": "330",
-      "hits": "480",
-      "runsBattedIn": "300",
+      "atBats": "1853",
+      "runsScored": "337",
+      "hits": "491",
+      "runsBattedIn": "307",
       "doubles": "80",
-      "triples": "6",
-      "homeRuns": "62",
-      "walks": "226",
+      "triples": "7",
+      "homeRuns": "63",
+      "walks": "229",
       "intentionalWalks": "5",
-      "strikeouts": "474",
-      "strikeoutsLooking": "84",
-      "hitByPitch": "65",
-      "stolenBases": "122",
+      "strikeouts": "479",
+      "strikeoutsLooking": "85",
+      "hitByPitch": "67",
+      "stolenBases": "124",
       "caughtStealing": "20",
       "sacrificeHits": "19",
-      "sacrificeFlies": "12",
+      "sacrificeFlies": "13",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "391",
-      "flyOuts": "437",
+      "groundOuts": "400",
+      "flyOuts": "450",
       "groundedIntoDoublePlay": "29",
       "pickedOff": "5",
       "doublePlaysHitInto": "30",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1384",
-      "assists": "446",
-      "errors": "50",
+      "putouts": "1410",
+      "assists": "458",
+      "errors": "51",
       "passedBalls": "8",
       "catchersInterference": "1",
-      "stolenBasesAgainst": "70",
+      "stolenBasesAgainst": "71",
       "caughtStealingBy": "12",
-      "involvedInDoublePlays": "31",
+      "involvedInDoublePlays": "33",
       "involvedInTriplePlays": "0",
-      "totalChances": "1880",
+      "totalChances": "1919",
       "fieldingPercentage": ".973"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "22",
       "saves": "39",
-      "losses": "31",
+      "losses": "32",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "0",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "461.1",
-      "hitsAllowed": "534",
-      "runsAllowed": "408",
-      "earnedRunsAllowed": "364",
-      "walksAllowed": "262",
-      "strikeouts": "383",
-      "battersFaced": "2238",
-      "opponentAtBats": "1837",
+      "inningsPitched": "470.0",
+      "hitsAllowed": "544",
+      "runsAllowed": "416",
+      "earnedRunsAllowed": "372",
+      "walksAllowed": "268",
+      "strikeouts": "387",
+      "battersFaced": "2279",
+      "opponentAtBats": "1870",
       "doublesAllowed": "113",
       "triplesAllowed": "10",
-      "homerunsAllowed": "73",
-      "wildPitches": "50",
+      "homerunsAllowed": "74",
+      "wildPitches": "51",
       "balks": "7",
-      "hitBatters": "69",
-      "strikeoutsLooking": "69",
+      "hitBatters": "70",
+      "strikeoutsLooking": "71",
       "intentionalWalks": "2",
       "inheritedRunners": "73",
       "inheritedRunnersThatScored": "35",
-      "sacrificeHitsAllowed": "36",
+      "sacrificeHitsAllowed": "37",
       "sacrificeFliesAllowed": "33",
       "catchersInterferenceAllowed": "1",
-      "pitches": "8640",
-      "flyouts": "515",
-      "groundouts": "410",
+      "pitches": "8788",
+      "flyouts": "523",
+      "groundouts": "422",
       "teamUnearnedRuns": "1",
       "saveRecord": "13",
       "pickoff": "0"
@@ -161,33 +161,33 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "jersey": "1",
         "profileUrl": "https://gotigersgo.com/sports/baseball/roster/michael-gupton/12377",
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Gupton_Michael_G75Tl.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "battingAverage": 0.284,
-        "onBasePercentage": 0.369,
-        "sluggingPercentage": 0.558,
-        "ops": 0.927,
-        "atBats": 197,
-        "runs": 41,
-        "hits": 56,
+        "gamesPlayed": 54,
+        "gamesStarted": 54,
+        "battingAverage": 0.287,
+        "onBasePercentage": 0.37,
+        "sluggingPercentage": 0.564,
+        "ops": 0.934,
+        "atBats": 202,
+        "runs": 43,
+        "hits": 58,
         "doubles": 11,
-        "triples": 2,
+        "triples": 3,
         "homeRuns": 13,
         "runsBattedIn": 42,
-        "totalBases": 110,
+        "totalBases": 114,
         "walks": 19,
         "hitByPitch": 8,
-        "strikeouts": 65,
+        "strikeouts": 66,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
-        "stolenBases": 15,
-        "stolenBasesAttempts": 17,
-        "putouts": 170,
+        "stolenBases": 16,
+        "stolenBasesAttempts": 18,
+        "putouts": 173,
         "assists": 0,
-        "errors": 4,
-        "plateAppearances": 244,
+        "errors": 5,
+        "plateAppearances": 250,
         "caughtStealing": 2,
         "pickedOff": 2
       },
@@ -199,51 +199,51 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "jersey": "1",
         "profileUrl": "https://gotigersgo.com/sports/baseball/roster/michael-gupton/12377",
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Gupton_Michael_G75Tl.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "putouts": 170,
+        "gamesPlayed": 54,
+        "gamesStarted": 54,
+        "putouts": 173,
         "assists": 0,
-        "errors": 4,
-        "fieldingPercentage": 0.977,
+        "errors": 5,
+        "fieldingPercentage": 0.972,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 174
+        "totalChances": 178
       },
       "evaluation": {
-        "score": 46,
+        "score": 47,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 49.44444444444443,
-          "Power": 62.63157894736844,
-          "Contact": 39.99999999999998,
-          "Discipline": 10.256410256410255,
-          "Speed": 50
+          "On-base": 49.999999999999986,
+          "Power": 64.21052631578947,
+          "Contact": 41.874999999999986,
+          "Discipline": 9.764309764309765,
+          "Speed": 53.333333333333336
         },
         "summary": "Michael Gupton profiles as a OF piece who brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .284",
-          "OBP .369",
-          "SLG .558"
+          "AVG .287",
+          "OBP .370",
+          "SLG .564"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".284"
+            "value": ".287"
           },
           {
             "label": "OBP",
-            "value": ".369"
+            "value": ".370"
           },
           {
             "label": "SLG",
-            "value": ".558"
+            "value": ".564"
           },
           {
             "label": "HR",
@@ -255,7 +255,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
           },
           {
             "label": "SB",
-            "value": "15"
+            "value": "16"
           }
         ],
         "metaLine": "SR / R/R",
@@ -306,33 +306,33 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "jersey": "2",
         "profileUrl": "https://gotigersgo.com/sports/baseball/roster/shane-cox/12361",
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Cox_Wj4Dy.jpg",
-        "gamesPlayed": 52,
-        "gamesStarted": 52,
-        "battingAverage": 0.272,
-        "onBasePercentage": 0.346,
-        "sluggingPercentage": 0.427,
-        "ops": 0.773,
-        "atBats": 206,
-        "runs": 30,
+        "gamesPlayed": 53,
+        "gamesStarted": 53,
+        "battingAverage": 0.267,
+        "onBasePercentage": 0.343,
+        "sluggingPercentage": 0.419,
+        "ops": 0.762,
+        "atBats": 210,
+        "runs": 31,
         "hits": 56,
         "doubles": 12,
         "triples": 1,
         "homeRuns": 6,
         "runsBattedIn": 31,
         "totalBases": 88,
-        "walks": 21,
+        "walks": 22,
         "hitByPitch": 3,
-        "strikeouts": 39,
+        "strikeouts": 40,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
         "sacrificeHits": 2,
         "stolenBases": 11,
         "stolenBasesAttempts": 13,
-        "putouts": 142,
+        "putouts": 146,
         "assists": 0,
         "errors": 11,
-        "plateAppearances": 248,
+        "plateAppearances": 253,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -344,51 +344,51 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "jersey": "2",
         "profileUrl": "https://gotigersgo.com/sports/baseball/roster/shane-cox/12361",
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Cox_Wj4Dy.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "putouts": 142,
-        "assists": 108,
+        "gamesPlayed": 52,
+        "gamesStarted": 52,
+        "putouts": 146,
+        "assists": 111,
         "errors": 11,
-        "fieldingPercentage": 0.958,
-        "doublePlays": 20,
+        "fieldingPercentage": 0.959,
+        "doublePlays": 21,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 261
+        "totalChances": 268
       },
       "evaluation": {
-        "score": 34,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 36.666666666666636,
-          "Power": 28.157894736842103,
-          "Contact": 32.500000000000014,
-          "Discipline": 37.606837606837594,
+          "On-base": 35,
+          "Power": 26.052631578947366,
+          "Contact": 29.375000000000007,
+          "Discipline": 38.88888888888889,
           "Speed": 36.666666666666664
         },
         "summary": "Shane Cox profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .272",
-          "OBP .346",
-          "SLG .427"
+          "AVG .267",
+          "OBP .343",
+          "SLG .419"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".272"
+            "value": ".267"
           },
           {
             "label": "OBP",
-            "value": ".346"
+            "value": ".343"
           },
           {
             "label": "SLG",
-            "value": ".427"
+            "value": ".419"
           },
           {
             "label": "HR",
@@ -1038,13 +1038,13 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "jersey": "7",
         "profileUrl": "https://gotigersgo.com/sports/baseball/roster/javon-hernandez/12378",
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Hernandez_4rHkw.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "battingAverage": 0.259,
-        "onBasePercentage": 0.366,
-        "sluggingPercentage": 0.383,
-        "ops": 0.749,
-        "atBats": 201,
+        "gamesPlayed": 54,
+        "gamesStarted": 54,
+        "battingAverage": 0.252,
+        "onBasePercentage": 0.358,
+        "sluggingPercentage": 0.374,
+        "ops": 0.732,
+        "atBats": 206,
         "runs": 47,
         "hits": 52,
         "doubles": 11,
@@ -1061,10 +1061,10 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "sacrificeHits": 3,
         "stolenBases": 24,
         "stolenBasesAttempts": 25,
-        "putouts": 77,
+        "putouts": 79,
         "assists": 0,
         "errors": 9,
-        "plateAppearances": 264,
+        "plateAppearances": 269,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1076,51 +1076,51 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "jersey": "7",
         "profileUrl": "https://gotigersgo.com/sports/baseball/roster/javon-hernandez/12378",
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Hernandez_4rHkw.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "putouts": 77,
-        "assists": 121,
+        "gamesPlayed": 54,
+        "gamesStarted": 54,
+        "putouts": 79,
+        "assists": 126,
         "errors": 9,
-        "fieldingPercentage": 0.957,
-        "doublePlays": 21,
+        "fieldingPercentage": 0.958,
+        "doublePlays": 23,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 207
+        "totalChances": 214
       },
       "evaluation": {
-        "score": 40,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 47.77777777777776,
-          "Power": 16.578947368421055,
-          "Contact": 24.375000000000004,
+          "On-base": 43.333333333333314,
+          "Power": 14.210526315789473,
+          "Contact": 20,
           "Discipline": 56.20915032679738,
           "Speed": 80
         },
         "summary": "Javon Hernandez profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .259",
-          "OBP .366",
-          "SLG .383"
+          "AVG .252",
+          "OBP .358",
+          "SLG .374"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".259"
+            "value": ".252"
           },
           {
             "label": "OBP",
-            "value": ".366"
+            "value": ".358"
           },
           {
             "label": "SLG",
-            "value": ".383"
+            "value": ".374"
           },
           {
             "label": "HR",
@@ -1183,23 +1183,23 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "jersey": "10",
         "profileUrl": "https://gotigersgo.com/sports/baseball/roster/freddy-rodriguez/12379",
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Rodriguez_Freddy_ARA6g.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "battingAverage": 0.278,
-        "onBasePercentage": 0.393,
-        "sluggingPercentage": 0.356,
-        "ops": 0.749,
-        "atBats": 205,
+        "gamesPlayed": 54,
+        "gamesStarted": 54,
+        "battingAverage": 0.281,
+        "onBasePercentage": 0.394,
+        "sluggingPercentage": 0.357,
+        "ops": 0.751,
+        "atBats": 210,
         "runs": 44,
-        "hits": 57,
+        "hits": 59,
         "doubles": 7,
         "triples": 0,
         "homeRuns": 3,
-        "runsBattedIn": 28,
-        "totalBases": 73,
+        "runsBattedIn": 30,
+        "totalBases": 75,
         "walks": 34,
         "hitByPitch": 5,
-        "strikeouts": 43,
+        "strikeouts": 44,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 0,
@@ -1209,7 +1209,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "putouts": 31,
         "assists": 0,
         "errors": 7,
-        "plateAppearances": 303,
+        "plateAppearances": 308,
         "caughtStealing": 5,
         "pickedOff": 1
       },
@@ -1221,51 +1221,51 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "jersey": "10",
         "profileUrl": "https://gotigersgo.com/sports/baseball/roster/freddy-rodriguez/12379",
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Rodriguez_Freddy_ARA6g.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 48,
+        "gamesPlayed": 49,
+        "gamesStarted": 49,
         "putouts": 31,
-        "assists": 79,
+        "assists": 80,
         "errors": 7,
-        "fieldingPercentage": 0.94,
+        "fieldingPercentage": 0.941,
         "doublePlays": 5,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 117
+        "totalChances": 118
       },
       "evaluation": {
-        "score": 48,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 62.77777777777778,
-          "Power": 9.47368421052631,
-          "Contact": 36.250000000000014,
-          "Discipline": 65.63307493540049,
+          "On-base": 63.33333333333333,
+          "Power": 9.736842105263154,
+          "Contact": 38.125000000000014,
+          "Discipline": 63.636363636363626,
           "Speed": 100
         },
         "summary": "Freddy Rodriguez profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .278",
-          "OBP .393",
-          "SLG .356"
+          "AVG .281",
+          "OBP .394",
+          "SLG .357"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".278"
+            "value": ".281"
           },
           {
             "label": "OBP",
-            "value": ".393"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".356"
+            "value": ".357"
           },
           {
             "label": "HR",
@@ -1273,7 +1273,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "30"
           },
           {
             "label": "SB",
@@ -1329,31 +1329,31 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "jersey": "11",
         "profileUrl": "https://gotigersgo.com/sports/baseball/roster/carson-fair/12380",
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Fair_Carson_1nBvo.jpg",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 0,
-        "appearances": 19,
+        "appearances": 20,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.95,
-        "whip": 1.13,
+        "earnedRunAverage": 3.91,
+        "whip": 1.3,
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "saves": 10,
         "shutouts": 0,
-        "inningsPitched": 21.333333333333332,
-        "inningsPitchedDisplay": "21.1",
-        "hitsAllowed": 11,
-        "runsAllowed": 9,
-        "earnedRunsAllowed": 7,
-        "walksAllowed": 13,
-        "strikeouts": 21,
+        "inningsPitched": 23,
+        "inningsPitchedDisplay": "23.0",
+        "hitsAllowed": 14,
+        "runsAllowed": 12,
+        "earnedRunsAllowed": 10,
+        "walksAllowed": 16,
+        "strikeouts": 24,
         "doublesAllowed": 4,
         "triplesAllowed": 1,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 70,
+        "opponentsAtBats": 78,
         "wildPitches": 2,
         "hitBatters": 5,
         "balks": 1,
-        "opponentsBattingAverage": 0.157,
+        "opponentsBattingAverage": 0.179,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1363,19 +1363,19 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "jersey": "11",
         "profileUrl": "https://gotigersgo.com/sports/baseball/roster/carson-fair/12380",
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Fair_Carson_1nBvo.jpg",
-        "gamesPlayed": 5,
+        "gamesPlayed": 6,
         "gamesStarted": 0,
-        "putouts": 0,
+        "putouts": 1,
         "assists": 3,
         "errors": 1,
-        "fieldingPercentage": 0.75,
+        "fieldingPercentage": 0.8,
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 4
+        "totalChances": 5
       },
       "evaluation": {
         "score": 11,
@@ -1386,32 +1386,32 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 44.17613636363637,
-          "Command": 12.307692307692308,
+          "Miss bats": 49.01185770750989,
+          "Command": 10,
           "Damage suppression": 0
         },
-        "summary": "Carson Fair looks like a RHP option who limits runs and keeps traffic under control.",
+        "summary": "Carson Fair looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 2.95",
-          "WHIP 1.13",
-          "K/9 8.9"
+          "ERA 3.91",
+          "WHIP 1.30",
+          "K/9 9.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.95"
+            "value": "3.91"
           },
           {
             "label": "WHIP",
-            "value": "1.13"
+            "value": "1.30"
           },
           {
             "label": "K/9",
-            "value": "8.9"
+            "value": "9.4"
           },
           {
             "label": "BB/9",
-            "value": "5.5"
+            "value": "6.3"
           },
           {
             "label": "HR/9",
@@ -1419,7 +1419,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
           },
           {
             "label": "IP",
-            "value": "21.3"
+            "value": "23.0"
           }
         ],
         "metaLine": "JR / R/R",
@@ -1470,13 +1470,13 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "jersey": "12",
         "profileUrl": "https://gotigersgo.com/sports/baseball/roster/webb-watson/12375",
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Watson_Webb_HvT3J.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 24,
-        "battingAverage": 0.224,
-        "onBasePercentage": 0.377,
-        "sluggingPercentage": 0.376,
-        "ops": 0.753,
-        "atBats": 85,
+        "gamesPlayed": 37,
+        "gamesStarted": 25,
+        "battingAverage": 0.216,
+        "onBasePercentage": 0.373,
+        "sluggingPercentage": 0.364,
+        "ops": 0.737,
+        "atBats": 88,
         "runs": 16,
         "hits": 19,
         "doubles": 4,
@@ -1484,19 +1484,19 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "homeRuns": 3,
         "runsBattedIn": 14,
         "totalBases": 32,
-        "walks": 14,
+        "walks": 15,
         "hitByPitch": 7,
-        "strikeouts": 29,
+        "strikeouts": 30,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 2,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
+        "stolenBases": 2,
+        "stolenBasesAttempts": 2,
         "putouts": 53,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 109,
+        "plateAppearances": 114,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1523,36 +1523,36 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "totalChances": 56
       },
       "evaluation": {
-        "score": 26,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 53.88888888888887,
-          "Power": 14.73684210526316,
-          "Contact": 2.500000000000002,
-          "Discipline": 31.417624521072796,
-          "Speed": 3.3333333333333335
+          "On-base": 51.66666666666665,
+          "Power": 11.57894736842105,
+          "Contact": 0,
+          "Discipline": 33.33333333333333,
+          "Speed": 6.666666666666667
         },
         "summary": "Webb Watson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .224",
-          "OBP .377",
-          "SLG .376"
+          "AVG .216",
+          "OBP .373",
+          "SLG .364"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".224"
+            "value": ".216"
           },
           {
             "label": "OBP",
-            "value": ".377"
+            "value": ".373"
           },
           {
             "label": "SLG",
-            "value": ".376"
+            "value": ".364"
           },
           {
             "label": "HR",
@@ -1564,7 +1564,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "metaLine": "R-FR / L/L",
@@ -1758,31 +1758,31 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "jersey": "15",
         "profileUrl": "https://gotigersgo.com/sports/baseball/roster/logan-rushing/12371",
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Rushing_RqPfw.jpg",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 4,
-        "appearances": 15,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.44,
-        "whip": 1.48,
+        "earnedRunAverage": 3.86,
+        "whip": 1.38,
         "wins": 2,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 26.333333333333332,
-        "inningsPitchedDisplay": "26.1",
-        "hitsAllowed": 30,
+        "inningsPitched": 30.333333333333332,
+        "inningsPitchedDisplay": "30.1",
+        "hitsAllowed": 32,
         "runsAllowed": 17,
         "earnedRunsAllowed": 13,
-        "walksAllowed": 9,
+        "walksAllowed": 10,
         "strikeouts": 27,
         "doublesAllowed": 6,
         "triplesAllowed": 0,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 109,
+        "opponentsAtBats": 121,
         "wildPitches": 1,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.275,
+        "opponentsBattingAverage": 0.264,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1807,7 +1807,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "totalChances": 5
       },
       "evaluation": {
-        "score": 16,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1815,40 +1815,40 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 47.52589182968931,
-          "Command": 40.00000000000001,
+          "Miss bats": 36.463536463536464,
+          "Command": 34,
           "Damage suppression": 0
         },
-        "summary": "Logan Rushing looks like a LHP option who misses bats.",
+        "summary": "Logan Rushing looks like a LHP option who limits runs and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.44",
-          "WHIP 1.48",
-          "K/9 9.2"
+          "ERA 3.86",
+          "WHIP 1.38",
+          "K/9 8.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.44"
+            "value": "3.86"
           },
           {
             "label": "WHIP",
-            "value": "1.48"
+            "value": "1.38"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "8.0"
           },
           {
             "label": "BB/9",
-            "value": "3.1"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "1.37"
+            "value": "1.19"
           },
           {
             "label": "IP",
-            "value": "26.3"
+            "value": "30.3"
           }
         ],
         "metaLine": "GR / R/L",
@@ -2045,31 +2045,31 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "jersey": "18",
         "profileUrl": "https://gotigersgo.com/sports/baseball/roster/seth-garner/12363",
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Garner_Seth_fEB1S.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 10,
-        "appearances": 13,
+        "gamesPlayed": 14,
+        "gamesStarted": 11,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.84,
-        "whip": 1.64,
+        "earnedRunAverage": 7.43,
+        "whip": 1.69,
         "wins": 1,
         "losses": 5,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 51.333333333333336,
-        "inningsPitchedDisplay": "51.1",
-        "hitsAllowed": 66,
-        "runsAllowed": 46,
-        "earnedRunsAllowed": 39,
-        "walksAllowed": 18,
-        "strikeouts": 39,
+        "inningsPitched": 53.333333333333336,
+        "inningsPitchedDisplay": "53.1",
+        "hitsAllowed": 71,
+        "runsAllowed": 51,
+        "earnedRunsAllowed": 44,
+        "walksAllowed": 19,
+        "strikeouts": 40,
         "doublesAllowed": 16,
         "triplesAllowed": 2,
-        "homeRunsAllowed": 10,
-        "opponentsAtBats": 216,
-        "wildPitches": 5,
-        "hitBatters": 4,
+        "homeRunsAllowed": 11,
+        "opponentsAtBats": 226,
+        "wildPitches": 6,
+        "hitBatters": 5,
         "balks": 1,
-        "opponentsBattingAverage": 0.306,
+        "opponentsBattingAverage": 0.314,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2079,19 +2079,19 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "jersey": "18",
         "profileUrl": "https://gotigersgo.com/sports/baseball/roster/seth-garner/12363",
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Garner_Seth_fEB1S.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 6,
+        "gamesPlayed": 9,
+        "gamesStarted": 7,
         "putouts": 2,
-        "assists": 9,
+        "assists": 10,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 2,
+        "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 11
+        "totalChances": 12
       },
       "evaluation": {
         "score": 9,
@@ -2102,24 +2102,24 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 25.796930342384883,
-          "Command": 23.333333333333332,
+          "Miss bats": 25,
+          "Command": 22.105263157894743,
           "Damage suppression": 0
         },
         "summary": "Seth Garner gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.84",
-          "WHIP 1.64",
+          "ERA 7.43",
+          "WHIP 1.69",
           "K/9 6.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.84"
+            "value": "7.43"
           },
           {
             "label": "WHIP",
-            "value": "1.64"
+            "value": "1.69"
           },
           {
             "label": "K/9",
@@ -2131,11 +2131,11 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.75"
+            "value": "1.86"
           },
           {
             "label": "IP",
-            "value": "51.3"
+            "value": "53.3"
           }
         ],
         "metaLine": "SR / R/R",
@@ -2328,20 +2328,20 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "jersey": "20",
         "profileUrl": "https://gotigersgo.com/sports/baseball/roster/trae-cassidy/12382",
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Cassidy_Trae_fyN7u.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 38,
-        "battingAverage": 0.266,
-        "onBasePercentage": 0.381,
-        "sluggingPercentage": 0.36,
-        "ops": 0.741,
-        "atBats": 139,
-        "runs": 22,
-        "hits": 37,
+        "gamesPlayed": 44,
+        "gamesStarted": 39,
+        "battingAverage": 0.264,
+        "onBasePercentage": 0.376,
+        "sluggingPercentage": 0.354,
+        "ops": 0.73,
+        "atBats": 144,
+        "runs": 23,
+        "hits": 38,
         "doubles": 7,
         "triples": 0,
         "homeRuns": 2,
-        "runsBattedIn": 22,
-        "totalBases": 50,
+        "runsBattedIn": 24,
+        "totalBases": 51,
         "walks": 23,
         "hitByPitch": 4,
         "strikeouts": 32,
@@ -2351,10 +2351,10 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "sacrificeHits": 0,
         "stolenBases": 5,
         "stolenBasesAttempts": 8,
-        "putouts": 247,
+        "putouts": 251,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 179,
+        "plateAppearances": 184,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -2366,51 +2366,51 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "jersey": "20",
         "profileUrl": "https://gotigersgo.com/sports/baseball/roster/trae-cassidy/12382",
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Cassidy_Trae_fyN7u.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 35,
-        "putouts": 247,
+        "gamesPlayed": 39,
+        "gamesStarted": 36,
+        "putouts": 251,
         "assists": 20,
         "errors": 3,
         "fieldingPercentage": 0.989,
         "doublePlays": 3,
-        "stolenBasesAgainst": 42,
+        "stolenBasesAgainst": 43,
         "caughtStealingBy": 9,
         "stolenBasesPercentage": null,
         "passedBalls": 6,
         "catchersInterference": 1,
-        "totalChances": 270
+        "totalChances": 274
       },
       "evaluation": {
-        "score": 36,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 56.1111111111111,
-          "Power": 10.526315789473681,
-          "Contact": 28.750000000000007,
+          "On-base": 53.33333333333332,
+          "Power": 8.947368421052627,
+          "Contact": 27.500000000000007,
           "Discipline": 57.638888888888886,
           "Speed": 16.666666666666664
         },
         "summary": "Trae Cassidy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .266",
-          "OBP .381",
-          "SLG .360"
+          "AVG .264",
+          "OBP .376",
+          "SLG .354"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".266"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".381"
+            "value": ".376"
           },
           {
             "label": "SLG",
-            "value": ".360"
+            "value": ".354"
           },
           {
             "label": "HR",
@@ -2418,7 +2418,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
           },
           {
             "label": "RBI",
-            "value": "22"
+            "value": "24"
           },
           {
             "label": "SB",
@@ -2474,31 +2474,31 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "jersey": "21",
         "profileUrl": "https://gotigersgo.com/sports/baseball/roster/charlie-smith/12373",
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Smith_Charlie_kcPUd.jpg",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 2,
-        "appearances": 19,
+        "appearances": 20,
         "gamesCompleted": 0,
-        "earnedRunAverage": 8.41,
-        "whip": 1.82,
+        "earnedRunAverage": 8.21,
+        "whip": 1.8,
         "wins": 1,
         "losses": 2,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 40.666666666666664,
-        "inningsPitchedDisplay": "40.2",
+        "inningsPitched": 41.666666666666664,
+        "inningsPitchedDisplay": "41.2",
         "hitsAllowed": 57,
         "runsAllowed": 42,
         "earnedRunsAllowed": 38,
-        "walksAllowed": 17,
+        "walksAllowed": 18,
         "strikeouts": 21,
         "doublesAllowed": 6,
         "triplesAllowed": 2,
         "homeRunsAllowed": 7,
-        "opponentsAtBats": 171,
+        "opponentsAtBats": 174,
         "wildPitches": 4,
         "hitBatters": 12,
         "balks": 1,
-        "opponentsBattingAverage": 0.333,
+        "opponentsBattingAverage": 0.328,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2508,10 +2508,10 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "jersey": "21",
         "profileUrl": "https://gotigersgo.com/sports/baseball/roster/charlie-smith/12373",
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Smith_Charlie_kcPUd.jpg",
-        "gamesPlayed": 8,
+        "gamesPlayed": 9,
         "gamesStarted": 0,
         "putouts": 1,
-        "assists": 5,
+        "assists": 6,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -2520,7 +2520,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 6
+        "totalChances": 7
       },
       "evaluation": {
         "score": 2,
@@ -2531,40 +2531,40 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 5.886736214605066,
-          "Command": 4.705882352941173,
+          "Miss bats": 4.8727272727272775,
+          "Command": 3.333333333333335,
           "Damage suppression": 0
         },
         "summary": "Charlie Smith gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 8.41",
-          "WHIP 1.82",
-          "K/9 4.6"
+          "ERA 8.21",
+          "WHIP 1.80",
+          "K/9 4.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.41"
+            "value": "8.21"
           },
           {
             "label": "WHIP",
-            "value": "1.82"
+            "value": "1.80"
           },
           {
             "label": "K/9",
-            "value": "4.6"
+            "value": "4.5"
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "3.9"
           },
           {
             "label": "HR/9",
-            "value": "1.55"
+            "value": "1.51"
           },
           {
             "label": "IP",
-            "value": "40.7"
+            "value": "41.7"
           }
         ],
         "metaLine": "SR / R/R",
@@ -2990,33 +2990,33 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "jersey": "25",
         "profileUrl": "https://gotigersgo.com/sports/baseball/roster/tyler-harrington/12402",
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Harrington_yKSrA.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 45,
-        "battingAverage": 0.267,
-        "onBasePercentage": 0.31,
-        "sluggingPercentage": 0.366,
-        "ops": 0.676,
-        "atBats": 172,
+        "gamesPlayed": 47,
+        "gamesStarted": 46,
+        "battingAverage": 0.273,
+        "onBasePercentage": 0.312,
+        "sluggingPercentage": 0.369,
+        "ops": 0.681,
+        "atBats": 176,
         "runs": 23,
-        "hits": 46,
+        "hits": 48,
         "doubles": 5,
         "triples": 0,
         "homeRuns": 4,
-        "runsBattedIn": 21,
-        "totalBases": 63,
+        "runsBattedIn": 22,
+        "totalBases": 65,
         "walks": 10,
         "hitByPitch": 1,
-        "strikeouts": 47,
+        "strikeouts": 48,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 1,
+        "sacrificeFlies": 2,
         "sacrificeHits": 1,
         "stolenBases": 3,
         "stolenBasesAttempts": 6,
-        "putouts": 336,
+        "putouts": 347,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 194,
+        "plateAppearances": 199,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -3028,51 +3028,51 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "jersey": "25",
         "profileUrl": "https://gotigersgo.com/sports/baseball/roster/tyler-harrington/12402",
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Harrington_yKSrA.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "putouts": 336,
-        "assists": 10,
+        "gamesPlayed": 44,
+        "gamesStarted": 44,
+        "putouts": 347,
+        "assists": 11,
         "errors": 2,
         "fieldingPercentage": 0.994,
-        "doublePlays": 23,
+        "doublePlays": 25,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 348
+        "totalChances": 360
       },
       "evaluation": {
-        "score": 15,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 16.66666666666665,
-          "Power": 12.105263157894735,
-          "Contact": 29.375000000000007,
-          "Discipline": 1.4184397163120555,
+          "On-base": 17.777777777777764,
+          "Power": 12.894736842105262,
+          "Contact": 33.12500000000001,
+          "Discipline": 0.9259259259259255,
           "Speed": 10
         },
         "summary": "Tyler Harrington gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .267",
-          "OBP .310",
-          "SLG .366"
+          "AVG .273",
+          "OBP .312",
+          "SLG .369"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".267"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".310"
+            "value": ".312"
           },
           {
             "label": "SLG",
-            "value": ".366"
+            "value": ".369"
           },
           {
             "label": "HR",
@@ -3080,7 +3080,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -4081,21 +4081,21 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "jersey": "34",
         "profileUrl": "https://gotigersgo.com/sports/baseball/roster/brady-mcabee/12390",
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/McAbee_u86ET.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 28,
-        "battingAverage": 0.306,
+        "gamesPlayed": 38,
+        "gamesStarted": 29,
+        "battingAverage": 0.304,
         "onBasePercentage": 0.415,
-        "sluggingPercentage": 0.528,
-        "ops": 0.943,
-        "atBats": 108,
-        "runs": 21,
-        "hits": 33,
+        "sluggingPercentage": 0.518,
+        "ops": 0.933,
+        "atBats": 112,
+        "runs": 22,
+        "hits": 34,
         "doubles": 3,
         "triples": 0,
         "homeRuns": 7,
         "runsBattedIn": 25,
-        "totalBases": 57,
-        "walks": 19,
+        "totalBases": 58,
+        "walks": 20,
         "hitByPitch": 2,
         "strikeouts": 27,
         "intentionalWalks": 1,
@@ -4107,7 +4107,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "putouts": 87,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 132,
+        "plateAppearances": 137,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4134,28 +4134,28 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "totalChances": 94
       },
       "evaluation": {
-        "score": 56,
+        "score": 55,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
           "On-base": 74.99999999999997,
-          "Power": 54.73684210526317,
-          "Contact": 53.75,
-          "Discipline": 55.96707818930041,
+          "Power": 52.10526315789474,
+          "Contact": 52.49999999999999,
+          "Discipline": 60.08230452674896,
           "Speed": 0
         },
         "summary": "Brady McAbee profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .306",
+          "AVG .304",
           "OBP .415",
-          "SLG .528"
+          "SLG .518"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".306"
+            "value": ".304"
           },
           {
             "label": "OBP",
@@ -4163,7 +4163,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
           },
           {
             "label": "SLG",
-            "value": ".528"
+            "value": ".518"
           },
           {
             "label": "HR",
@@ -5280,22 +5280,22 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "jersey": "50",
         "profileUrl": "https://gotigersgo.com/sports/baseball/roster/james-smith-iv/12374",
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Smith_qB21b.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "battingAverage": 0.289,
-        "onBasePercentage": 0.375,
-        "sluggingPercentage": 0.514,
-        "ops": 0.889,
-        "atBats": 173,
-        "runs": 28,
-        "hits": 50,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "battingAverage": 0.301,
+        "onBasePercentage": 0.39,
+        "sluggingPercentage": 0.54,
+        "ops": 0.93,
+        "atBats": 176,
+        "runs": 30,
+        "hits": 53,
         "doubles": 9,
         "triples": 0,
-        "homeRuns": 10,
-        "runsBattedIn": 50,
-        "totalBases": 89,
+        "homeRuns": 11,
+        "runsBattedIn": 52,
+        "totalBases": 95,
         "walks": 17,
-        "hitByPitch": 8,
+        "hitByPitch": 10,
         "strikeouts": 41,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 5,
@@ -5303,10 +5303,10 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "sacrificeHits": 1,
         "stolenBases": 5,
         "stolenBasesAttempts": 6,
-        "putouts": 36,
+        "putouts": 37,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 208,
+        "plateAppearances": 213,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -5318,19 +5318,19 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "jersey": "50",
         "profileUrl": "https://gotigersgo.com/sports/baseball/roster/james-smith-iv/12374",
         "imageUrl": "https://gotigersgo.com/images/2025/11/21/Smith_qB21b.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 15,
-        "putouts": 36,
+        "gamesPlayed": 16,
+        "gamesStarted": 16,
+        "putouts": 37,
         "assists": 0,
         "errors": 1,
-        "fieldingPercentage": 0.973,
+        "fieldingPercentage": 0.974,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 37
+        "totalChances": 38
       },
       "evaluation": {
         "score": 0,
@@ -5405,29 +5405,29 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 46,
+        "score": 47,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Michael Gupton profiles as a OF piece who brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .284",
-          "OBP .369",
-          "SLG .558"
+          "AVG .287",
+          "OBP .370",
+          "SLG .564"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".284"
+            "value": ".287"
           },
           {
             "label": "OBP",
-            "value": ".369"
+            "value": ".370"
           },
           {
             "label": "SLG",
-            "value": ".558"
+            "value": ".564"
           },
           {
             "label": "HR",
@@ -5439,15 +5439,15 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
           },
           {
             "label": "SB",
-            "value": "15"
+            "value": "16"
           }
         ],
         "components": {
-          "On-base": 49.44444444444443,
-          "Power": 62.63157894736844,
-          "Contact": 39.99999999999998,
-          "Discipline": 10.256410256410255,
-          "Speed": 50
+          "On-base": 49.999999999999986,
+          "Power": 64.21052631578947,
+          "Contact": 41.874999999999986,
+          "Discipline": 9.764309764309765,
+          "Speed": 53.333333333333336
         },
         "metaLine": "SR / R/R",
         "detailBadges": [
@@ -5474,29 +5474,29 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "position": "INF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 34,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Shane Cox profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .272",
-          "OBP .346",
-          "SLG .427"
+          "AVG .267",
+          "OBP .343",
+          "SLG .419"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".272"
+            "value": ".267"
           },
           {
             "label": "OBP",
-            "value": ".346"
+            "value": ".343"
           },
           {
             "label": "SLG",
-            "value": ".427"
+            "value": ".419"
           },
           {
             "label": "HR",
@@ -5512,10 +5512,10 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
           }
         ],
         "components": {
-          "On-base": 36.666666666666636,
-          "Power": 28.157894736842103,
-          "Contact": 32.500000000000014,
-          "Discipline": 37.606837606837594,
+          "On-base": 35,
+          "Power": 26.052631578947366,
+          "Contact": 29.375000000000007,
+          "Discipline": 38.88888888888889,
           "Speed": 36.666666666666664
         },
         "metaLine": "GR / R/R",
@@ -5819,29 +5819,29 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "position": "INF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 40,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Javon Hernandez profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .259",
-          "OBP .366",
-          "SLG .383"
+          "AVG .252",
+          "OBP .358",
+          "SLG .374"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".259"
+            "value": ".252"
           },
           {
             "label": "OBP",
-            "value": ".366"
+            "value": ".358"
           },
           {
             "label": "SLG",
-            "value": ".383"
+            "value": ".374"
           },
           {
             "label": "HR",
@@ -5857,9 +5857,9 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
           }
         ],
         "components": {
-          "On-base": 47.77777777777776,
-          "Power": 16.578947368421055,
-          "Contact": 24.375000000000004,
+          "On-base": 43.333333333333314,
+          "Power": 14.210526315789473,
+          "Contact": 20,
           "Discipline": 56.20915032679738,
           "Speed": 80
         },
@@ -5888,29 +5888,29 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 48,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Freddy Rodriguez profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .278",
-          "OBP .393",
-          "SLG .356"
+          "AVG .281",
+          "OBP .394",
+          "SLG .357"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".278"
+            "value": ".281"
           },
           {
             "label": "OBP",
-            "value": ".393"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".356"
+            "value": ".357"
           },
           {
             "label": "HR",
@@ -5918,7 +5918,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "30"
           },
           {
             "label": "SB",
@@ -5926,10 +5926,10 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
           }
         ],
         "components": {
-          "On-base": 62.77777777777778,
-          "Power": 9.47368421052631,
-          "Contact": 36.250000000000014,
-          "Discipline": 65.63307493540049,
+          "On-base": 63.33333333333333,
+          "Power": 9.736842105263154,
+          "Contact": 38.125000000000014,
+          "Discipline": 63.636363636363626,
           "Speed": 100
         },
         "metaLine": "SR / R/R",
@@ -5962,28 +5962,28 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Carson Fair looks like a RHP option who limits runs and keeps traffic under control.",
+        "summary": "Carson Fair looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 2.95",
-          "WHIP 1.13",
-          "K/9 8.9"
+          "ERA 3.91",
+          "WHIP 1.30",
+          "K/9 9.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.95"
+            "value": "3.91"
           },
           {
             "label": "WHIP",
-            "value": "1.13"
+            "value": "1.30"
           },
           {
             "label": "K/9",
-            "value": "8.9"
+            "value": "9.4"
           },
           {
             "label": "BB/9",
-            "value": "5.5"
+            "value": "6.3"
           },
           {
             "label": "HR/9",
@@ -5991,14 +5991,14 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
           },
           {
             "label": "IP",
-            "value": "21.3"
+            "value": "23.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 44.17613636363637,
-          "Command": 12.307692307692308,
+          "Miss bats": 49.01185770750989,
+          "Command": 10,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -6026,29 +6026,29 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "position": "OF",
         "classYear": "R-FR",
         "handedness": "L/L",
-        "score": 26,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Webb Watson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .224",
-          "OBP .377",
-          "SLG .376"
+          "AVG .216",
+          "OBP .373",
+          "SLG .364"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".224"
+            "value": ".216"
           },
           {
             "label": "OBP",
-            "value": ".377"
+            "value": ".373"
           },
           {
             "label": "SLG",
-            "value": ".376"
+            "value": ".364"
           },
           {
             "label": "HR",
@@ -6060,15 +6060,15 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "components": {
-          "On-base": 53.88888888888887,
-          "Power": 14.73684210526316,
-          "Contact": 2.500000000000002,
-          "Discipline": 31.417624521072796,
-          "Speed": 3.3333333333333335
+          "On-base": 51.66666666666665,
+          "Power": 11.57894736842105,
+          "Contact": 0,
+          "Discipline": 33.33333333333333,
+          "Speed": 6.666666666666667
         },
         "metaLine": "R-FR / L/L",
         "detailBadges": [
@@ -6164,48 +6164,48 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "position": "LHP",
         "classYear": "GR",
         "handedness": "R/L",
-        "score": 16,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Logan Rushing looks like a LHP option who misses bats.",
+        "summary": "Logan Rushing looks like a LHP option who limits runs and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.44",
-          "WHIP 1.48",
-          "K/9 9.2"
+          "ERA 3.86",
+          "WHIP 1.38",
+          "K/9 8.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.44"
+            "value": "3.86"
           },
           {
             "label": "WHIP",
-            "value": "1.48"
+            "value": "1.38"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "8.0"
           },
           {
             "label": "BB/9",
-            "value": "3.1"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "1.37"
+            "value": "1.19"
           },
           {
             "label": "IP",
-            "value": "26.3"
+            "value": "30.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 47.52589182968931,
-          "Command": 40.00000000000001,
+          "Miss bats": 36.463536463536464,
+          "Command": 34,
           "Damage suppression": 0
         },
         "metaLine": "GR / R/L",
@@ -6309,18 +6309,18 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         },
         "summary": "Seth Garner gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.84",
-          "WHIP 1.64",
+          "ERA 7.43",
+          "WHIP 1.69",
           "K/9 6.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.84"
+            "value": "7.43"
           },
           {
             "label": "WHIP",
-            "value": "1.64"
+            "value": "1.69"
           },
           {
             "label": "K/9",
@@ -6332,18 +6332,18 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.75"
+            "value": "1.86"
           },
           {
             "label": "IP",
-            "value": "51.3"
+            "value": "53.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 25.796930342384883,
-          "Command": 23.333333333333332,
+          "Miss bats": 25,
+          "Command": 22.105263157894743,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -6440,29 +6440,29 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 36,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Trae Cassidy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .266",
-          "OBP .381",
-          "SLG .360"
+          "AVG .264",
+          "OBP .376",
+          "SLG .354"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".266"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".381"
+            "value": ".376"
           },
           {
             "label": "SLG",
-            "value": ".360"
+            "value": ".354"
           },
           {
             "label": "HR",
@@ -6470,7 +6470,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
           },
           {
             "label": "RBI",
-            "value": "22"
+            "value": "24"
           },
           {
             "label": "SB",
@@ -6478,9 +6478,9 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
           }
         ],
         "components": {
-          "On-base": 56.1111111111111,
-          "Power": 10.526315789473681,
-          "Contact": 28.750000000000007,
+          "On-base": 53.33333333333332,
+          "Power": 8.947368421052627,
+          "Contact": 27.500000000000007,
           "Discipline": 57.638888888888886,
           "Speed": 16.666666666666664
         },
@@ -6516,41 +6516,41 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         },
         "summary": "Charlie Smith gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 8.41",
-          "WHIP 1.82",
-          "K/9 4.6"
+          "ERA 8.21",
+          "WHIP 1.80",
+          "K/9 4.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.41"
+            "value": "8.21"
           },
           {
             "label": "WHIP",
-            "value": "1.82"
+            "value": "1.80"
           },
           {
             "label": "K/9",
-            "value": "4.6"
+            "value": "4.5"
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "3.9"
           },
           {
             "label": "HR/9",
-            "value": "1.55"
+            "value": "1.51"
           },
           {
             "label": "IP",
-            "value": "40.7"
+            "value": "41.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 5.886736214605066,
-          "Command": 4.705882352941173,
+          "Miss bats": 4.8727272727272775,
+          "Command": 3.333333333333335,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -6784,29 +6784,29 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "position": "INF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 15,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tyler Harrington gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .267",
-          "OBP .310",
-          "SLG .366"
+          "AVG .273",
+          "OBP .312",
+          "SLG .369"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".267"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".310"
+            "value": ".312"
           },
           {
             "label": "SLG",
-            "value": ".366"
+            "value": ".369"
           },
           {
             "label": "HR",
@@ -6814,7 +6814,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -6822,10 +6822,10 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
           }
         ],
         "components": {
-          "On-base": 16.66666666666665,
-          "Power": 12.105263157894735,
-          "Contact": 29.375000000000007,
-          "Discipline": 1.4184397163120555,
+          "On-base": 17.777777777777764,
+          "Power": 12.894736842105262,
+          "Contact": 33.12500000000001,
+          "Discipline": 0.9259259259259255,
           "Speed": 10
         },
         "metaLine": "GR / R/R",
@@ -7335,21 +7335,21 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 56,
+        "score": 55,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Brady McAbee profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .306",
+          "AVG .304",
           "OBP .415",
-          "SLG .528"
+          "SLG .518"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".306"
+            "value": ".304"
           },
           {
             "label": "OBP",
@@ -7357,7 +7357,7 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
           },
           {
             "label": "SLG",
-            "value": ".528"
+            "value": ".518"
           },
           {
             "label": "HR",
@@ -7374,9 +7374,9 @@ window.__BASEBALL_DATASETS__.memphis2026 = {
         ],
         "components": {
           "On-base": 74.99999999999997,
-          "Power": 54.73684210526317,
-          "Contact": 53.75,
-          "Discipline": 55.96707818930041,
+          "Power": 52.10526315789474,
+          "Contact": 52.49999999999999,
+          "Discipline": 60.08230452674896,
           "Speed": 0
         },
         "metaLine": "JR / L/R",

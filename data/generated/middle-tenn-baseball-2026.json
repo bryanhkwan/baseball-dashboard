@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T11:17:42.004Z",
+  "generatedAt": "2026-05-17T11:32:55.631Z",
   "season": 2026,
   "school": {
     "slug": "middle-tenn",
@@ -39,84 +39,84 @@
     }
   },
   "teamSummary": {
-    "record": "26-28, 12-17",
-    "battingAverage": ".283",
-    "earnedRunAverage": "5.38",
+    "record": "26-29, 12-18",
+    "battingAverage": ".282",
+    "earnedRunAverage": "5.41",
     "wins": "26",
-    "losses": "28",
+    "losses": "29",
     "hitting": {
-      "atBats": "1797",
-      "runsScored": "353",
-      "hits": "508",
-      "runsBattedIn": "322",
-      "doubles": "102",
+      "atBats": "1832",
+      "runsScored": "360",
+      "hits": "517",
+      "runsBattedIn": "329",
+      "doubles": "105",
       "triples": "4",
-      "homeRuns": "68",
-      "walks": "238",
+      "homeRuns": "71",
+      "walks": "239",
       "intentionalWalks": "2",
-      "strikeouts": "338",
-      "strikeoutsLooking": "77",
-      "hitByPitch": "46",
+      "strikeouts": "349",
+      "strikeoutsLooking": "80",
+      "hitByPitch": "47",
       "stolenBases": "53",
-      "caughtStealing": "17",
+      "caughtStealing": "18",
       "sacrificeHits": "23",
       "sacrificeFlies": "13",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "468",
-      "flyOuts": "470",
+      "groundOuts": "472",
+      "flyOuts": "481",
       "groundedIntoDoublePlay": "33",
       "pickedOff": "7",
       "doublePlaysHitInto": "39",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1373",
-      "assists": "498",
-      "errors": "60",
-      "passedBalls": "11",
+      "putouts": "1400",
+      "assists": "506",
+      "errors": "61",
+      "passedBalls": "12",
       "catchersInterference": "2",
-      "stolenBasesAgainst": "61",
+      "stolenBasesAgainst": "63",
       "caughtStealingBy": "21",
-      "involvedInDoublePlays": "38",
+      "involvedInDoublePlays": "40",
       "involvedInTriplePlays": "0",
-      "totalChances": "1931",
+      "totalChances": "1967",
       "fieldingPercentage": ".969"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "26",
       "saves": "4",
-      "losses": "28",
+      "losses": "29",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "3",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "458.1",
-      "hitsAllowed": "497",
-      "runsAllowed": "331",
-      "earnedRunsAllowed": "274",
-      "walksAllowed": "230",
-      "strikeouts": "432",
-      "battersFaced": "2127",
-      "opponentAtBats": "1798",
-      "doublesAllowed": "77",
+      "inningsPitched": "467.1",
+      "hitsAllowed": "508",
+      "runsAllowed": "339",
+      "earnedRunsAllowed": "281",
+      "walksAllowed": "237",
+      "strikeouts": "438",
+      "battersFaced": "2172",
+      "opponentAtBats": "1835",
+      "doublesAllowed": "78",
       "triplesAllowed": "10",
-      "homerunsAllowed": "72",
-      "wildPitches": "50",
+      "homerunsAllowed": "74",
+      "wildPitches": "52",
       "balks": "4",
-      "hitBatters": "66",
-      "strikeoutsLooking": "132",
+      "hitBatters": "67",
+      "strikeoutsLooking": "134",
       "intentionalWalks": "2",
       "inheritedRunners": "20",
       "inheritedRunnersThatScored": "6",
       "sacrificeHitsAllowed": "20",
       "sacrificeFliesAllowed": "11",
       "catchersInterferenceAllowed": "0",
-      "pitches": "8061",
-      "flyouts": "421",
-      "groundouts": "443",
+      "pitches": "8236",
+      "flyouts": "433",
+      "groundouts": "450",
       "teamUnearnedRuns": "0",
       "saveRecord": "0",
       "pickoff": "5"
@@ -451,13 +451,13 @@
         "jersey": "4",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/cooper-clapp/14394",
         "imageUrl": "https://goblueraiders.com/images/2025/11/20/Clapp__Cooper_-_Web.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "battingAverage": 0.323,
-        "onBasePercentage": 0.422,
-        "sluggingPercentage": 0.559,
-        "ops": 0.981,
-        "atBats": 186,
+        "gamesPlayed": 54,
+        "gamesStarted": 54,
+        "battingAverage": 0.317,
+        "onBasePercentage": 0.419,
+        "sluggingPercentage": 0.55,
+        "ops": 0.969,
+        "atBats": 189,
         "runs": 41,
         "hits": 60,
         "doubles": 9,
@@ -465,19 +465,19 @@
         "homeRuns": 11,
         "runsBattedIn": 32,
         "totalBases": 104,
-        "walks": 33,
+        "walks": 34,
         "hitByPitch": 1,
-        "strikeouts": 35,
+        "strikeouts": 36,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 3,
         "sacrificeHits": 7,
         "stolenBases": 7,
         "stolenBasesAttempts": 10,
-        "putouts": 94,
+        "putouts": 97,
         "assists": 0,
         "errors": 7,
-        "plateAppearances": 243,
+        "plateAppearances": 247,
         "caughtStealing": 3,
         "pickedOff": 3
       },
@@ -489,51 +489,51 @@
         "jersey": "4",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/cooper-clapp/14394",
         "imageUrl": "https://goblueraiders.com/images/2025/11/20/Clapp__Cooper_-_Web.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "putouts": 94,
-        "assists": 119,
+        "gamesPlayed": 54,
+        "gamesStarted": 54,
+        "putouts": 97,
+        "assists": 122,
         "errors": 7,
-        "fieldingPercentage": 0.968,
-        "doublePlays": 30,
+        "fieldingPercentage": 0.969,
+        "doublePlays": 32,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 220
+        "totalChances": 226
       },
       "evaluation": {
-        "score": 67,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 78.88888888888886,
-          "Power": 62.89473684210528,
-          "Contact": 64.375,
-          "Discipline": 82.53968253968253,
+          "On-base": 77.2222222222222,
+          "Power": 60.526315789473706,
+          "Contact": 60.62499999999999,
+          "Discipline": 82.71604938271604,
           "Speed": 23.333333333333332
         },
         "summary": "Cooper Clapp profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .323",
-          "OBP .422",
-          "SLG .559"
+          "AVG .317",
+          "OBP .419",
+          "SLG .550"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".323"
+            "value": ".317"
           },
           {
             "label": "OBP",
-            "value": ".422"
+            "value": ".419"
           },
           {
             "label": "SLG",
-            "value": ".559"
+            "value": ".550"
           },
           {
             "label": "HR",
@@ -596,13 +596,13 @@
         "jersey": "5",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/matt-wolfe/14385",
         "imageUrl": "https://goblueraiders.com/images/2025/11/20/Wolfe__Matt_-_Web.jpg",
-        "gamesPlayed": 20,
+        "gamesPlayed": 21,
         "gamesStarted": 14,
-        "battingAverage": 0.176,
-        "onBasePercentage": 0.3,
-        "sluggingPercentage": 0.333,
-        "ops": 0.633,
-        "atBats": 51,
+        "battingAverage": 0.17,
+        "onBasePercentage": 0.29,
+        "sluggingPercentage": 0.321,
+        "ops": 0.611,
+        "atBats": 53,
         "runs": 7,
         "hits": 9,
         "doubles": 2,
@@ -612,7 +612,7 @@
         "totalBases": 17,
         "walks": 9,
         "hitByPitch": 0,
-        "strikeouts": 18,
+        "strikeouts": 20,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
@@ -622,7 +622,7 @@
         "putouts": 11,
         "assists": 0,
         "errors": 8,
-        "plateAppearances": 63,
+        "plateAppearances": 65,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -649,36 +649,36 @@
         "totalChances": 41
       },
       "evaluation": {
-        "score": 9,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 11.111111111111091,
-          "Power": 3.421052631578951,
+          "On-base": 5.55555555555553,
+          "Power": 0.26315789473684237,
           "Contact": 0,
-          "Discipline": 33.33333333333333,
+          "Discipline": 27.777777777777775,
           "Speed": 3.3333333333333335
         },
         "summary": "Matt Wolfe gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .176",
-          "OBP .300",
-          "SLG .333"
+          "AVG .170",
+          "OBP .290",
+          "SLG .321"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".176"
+            "value": ".170"
           },
           {
             "label": "OBP",
-            "value": ".300"
+            "value": ".290"
           },
           {
             "label": "SLG",
-            "value": ".333"
+            "value": ".321"
           },
           {
             "label": "HR",
@@ -866,33 +866,33 @@
         "jersey": "7",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/layne-akers/14387",
         "imageUrl": "https://goblueraiders.com/images/2025/11/20/Akers__Layne_-_Web.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 41,
-        "battingAverage": 0.308,
-        "onBasePercentage": 0.375,
+        "gamesPlayed": 44,
+        "gamesStarted": 42,
+        "battingAverage": 0.307,
+        "onBasePercentage": 0.372,
         "sluggingPercentage": 0.509,
-        "ops": 0.884,
-        "atBats": 159,
+        "ops": 0.881,
+        "atBats": 163,
         "runs": 28,
-        "hits": 49,
-        "doubles": 9,
+        "hits": 50,
+        "doubles": 10,
         "triples": 1,
         "homeRuns": 7,
         "runsBattedIn": 30,
-        "totalBases": 81,
+        "totalBases": 83,
         "walks": 14,
         "hitByPitch": 3,
-        "strikeouts": 38,
+        "strikeouts": 39,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 3,
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
-        "putouts": 32,
+        "putouts": 42,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 183,
+        "plateAppearances": 187,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -904,47 +904,47 @@
         "jersey": "7",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/layne-akers/14387",
         "imageUrl": "https://goblueraiders.com/images/2025/11/20/Akers__Layne_-_Web.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 5,
-        "putouts": 32,
+        "gamesPlayed": 6,
+        "gamesStarted": 6,
+        "putouts": 42,
         "assists": 1,
         "errors": 1,
-        "fieldingPercentage": 0.971,
-        "doublePlays": 2,
+        "fieldingPercentage": 0.977,
+        "doublePlays": 4,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 34
+        "totalChances": 44
       },
       "evaluation": {
-        "score": 44,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 52.77777777777777,
+          "On-base": 51.11111111111109,
           "Power": 49.736842105263165,
-          "Contact": 54.99999999999999,
-          "Discipline": 18.713450292397653,
+          "Contact": 54.37499999999999,
+          "Discipline": 17.66381766381766,
           "Speed": 13.333333333333334
         },
         "summary": "Layne Akers gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .308",
-          "OBP .375",
+          "AVG .307",
+          "OBP .372",
           "SLG .509"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".308"
+            "value": ".307"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".372"
           },
           {
             "label": "SLG",
@@ -1011,33 +1011,33 @@
         "jersey": "8",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/nathan-brewer/14392",
         "imageUrl": "https://goblueraiders.com/images/2025/11/20/Brewer__Nathan_-_Web.jpg",
-        "gamesPlayed": 52,
-        "gamesStarted": 52,
-        "battingAverage": 0.303,
-        "onBasePercentage": 0.378,
-        "sluggingPercentage": 0.569,
-        "ops": 0.947,
-        "atBats": 195,
-        "runs": 36,
-        "hits": 59,
+        "gamesPlayed": 53,
+        "gamesStarted": 53,
+        "battingAverage": 0.302,
+        "onBasePercentage": 0.376,
+        "sluggingPercentage": 0.563,
+        "ops": 0.939,
+        "atBats": 199,
+        "runs": 37,
+        "hits": 60,
         "doubles": 16,
         "triples": 0,
         "homeRuns": 12,
         "runsBattedIn": 44,
-        "totalBases": 111,
+        "totalBases": 112,
         "walks": 19,
         "hitByPitch": 6,
-        "strikeouts": 46,
+        "strikeouts": 48,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 6,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 9,
         "stolenBasesAttempts": 13,
-        "putouts": 80,
+        "putouts": 82,
         "assists": 0,
-        "errors": 3,
-        "plateAppearances": 239,
+        "errors": 4,
+        "plateAppearances": 243,
         "caughtStealing": 4,
         "pickedOff": 0
       },
@@ -1049,51 +1049,51 @@
         "jersey": "8",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/nathan-brewer/14392",
         "imageUrl": "https://goblueraiders.com/images/2025/11/20/Brewer__Nathan_-_Web.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "putouts": 80,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "putouts": 82,
         "assists": 2,
-        "errors": 3,
-        "fieldingPercentage": 0.965,
+        "errors": 4,
+        "fieldingPercentage": 0.955,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 85
+        "totalChances": 88
       },
       "evaluation": {
-        "score": 50,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 54.44444444444443,
-          "Power": 65.52631578947367,
-          "Contact": 51.87499999999999,
-          "Discipline": 23.67149758454106,
+          "On-base": 53.33333333333332,
+          "Power": 63.947368421052616,
+          "Contact": 51.24999999999999,
+          "Discipline": 21.759259259259252,
           "Speed": 30
         },
         "summary": "Nathan Brewer profiles as a OF piece who brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .303",
-          "OBP .378",
-          "SLG .569"
+          "AVG .302",
+          "OBP .376",
+          "SLG .563"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".303"
+            "value": ".302"
           },
           {
             "label": "OBP",
-            "value": ".378"
+            "value": ".376"
           },
           {
             "label": "SLG",
-            "value": ".569"
+            "value": ".563"
           },
           {
             "label": "HR",
@@ -1156,20 +1156,20 @@
         "jersey": "9",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/owen-nowak/14413",
         "imageUrl": "https://goblueraiders.com/images/2025/11/20/Nowak__Owen_-_Web.jpg",
-        "gamesPlayed": 54,
-        "gamesStarted": 54,
-        "battingAverage": 0.328,
-        "onBasePercentage": 0.45,
-        "sluggingPercentage": 0.478,
-        "ops": 0.928,
-        "atBats": 201,
-        "runs": 48,
-        "hits": 66,
+        "gamesPlayed": 55,
+        "gamesStarted": 55,
+        "battingAverage": 0.325,
+        "onBasePercentage": 0.445,
+        "sluggingPercentage": 0.485,
+        "ops": 0.93,
+        "atBats": 206,
+        "runs": 49,
+        "hits": 67,
         "doubles": 9,
         "triples": 0,
-        "homeRuns": 7,
-        "runsBattedIn": 36,
-        "totalBases": 96,
+        "homeRuns": 8,
+        "runsBattedIn": 37,
+        "totalBases": 100,
         "walks": 36,
         "hitByPitch": 10,
         "strikeouts": 10,
@@ -1179,10 +1179,10 @@
         "sacrificeHits": 2,
         "stolenBases": 8,
         "stolenBasesAttempts": 9,
-        "putouts": 126,
+        "putouts": 128,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 261,
+        "plateAppearances": 266,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -1194,9 +1194,9 @@
         "jersey": "9",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/owen-nowak/14413",
         "imageUrl": "https://goblueraiders.com/images/2025/11/20/Nowak__Owen_-_Web.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 50,
-        "putouts": 126,
+        "gamesPlayed": 51,
+        "gamesStarted": 51,
+        "putouts": 128,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1206,47 +1206,47 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 126
+        "totalChances": 128
       },
       "evaluation": {
-        "score": 70,
+        "score": 69,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 94.44444444444444,
-          "Power": 41.57894736842105,
-          "Contact": 67.5,
+          "On-base": 91.66666666666666,
+          "Power": 43.42105263157895,
+          "Contact": 65.625,
           "Discipline": 100,
           "Speed": 26.666666666666668
         },
         "summary": "Owen Nowak profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .450",
-          "SLG .478"
+          "AVG .325",
+          "OBP .445",
+          "SLG .485"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": ".325"
           },
           {
             "label": "OBP",
-            "value": ".450"
+            "value": ".445"
           },
           {
             "label": "SLG",
-            "value": ".478"
+            "value": ".485"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "36"
+            "value": "37"
           },
           {
             "label": "SB",
@@ -1443,13 +1443,13 @@
         "jersey": "11",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/clay-badylak/14363",
         "imageUrl": "https://goblueraiders.com/images/2025/11/20/Badylak__Clay_-_Web.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 50,
-        "battingAverage": 0.201,
-        "onBasePercentage": 0.314,
-        "sluggingPercentage": 0.255,
-        "ops": 0.569,
-        "atBats": 149,
+        "gamesPlayed": 51,
+        "gamesStarted": 51,
+        "battingAverage": 0.196,
+        "onBasePercentage": 0.307,
+        "sluggingPercentage": 0.248,
+        "ops": 0.555,
+        "atBats": 153,
         "runs": 27,
         "hits": 30,
         "doubles": 5,
@@ -1459,17 +1459,17 @@
         "totalBases": 38,
         "walks": 21,
         "hitByPitch": 4,
-        "strikeouts": 20,
+        "strikeouts": 22,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 4,
         "stolenBases": 5,
         "stolenBasesAttempts": 6,
-        "putouts": 50,
+        "putouts": 52,
         "assists": 0,
         "errors": 8,
-        "plateAppearances": 186,
+        "plateAppearances": 190,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1481,51 +1481,51 @@
         "jersey": "11",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/clay-badylak/14363",
         "imageUrl": "https://goblueraiders.com/images/2025/11/20/Badylak__Clay_-_Web.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 46,
-        "putouts": 50,
-        "assists": 117,
+        "gamesPlayed": 47,
+        "gamesStarted": 47,
+        "putouts": 52,
+        "assists": 119,
         "errors": 8,
-        "fieldingPercentage": 0.954,
-        "doublePlays": 16,
+        "fieldingPercentage": 0.955,
+        "doublePlays": 17,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 175
+        "totalChances": 179
       },
       "evaluation": {
-        "score": 21,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 18.888888888888875,
+          "On-base": 14.999999999999982,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 94.44444444444444,
+          "Discipline": 83.83838383838383,
           "Speed": 16.666666666666664
         },
-        "summary": "Clay Badylak profiles as a INF piece who controls at-bats.",
+        "summary": "Clay Badylak gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .201",
-          "OBP .314",
-          "SLG .255"
+          "AVG .196",
+          "OBP .307",
+          "SLG .248"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".201"
+            "value": ".196"
           },
           {
             "label": "OBP",
-            "value": ".314"
+            "value": ".307"
           },
           {
             "label": "SLG",
-            "value": ".255"
+            "value": ".248"
           },
           {
             "label": "HR",
@@ -1588,22 +1588,22 @@
         "jersey": "12",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/dean-o-neill/14412",
         "imageUrl": "https://goblueraiders.com/images/2025/12/4/O_Neill__Dean_-_Web.jpg",
-        "gamesPlayed": 54,
-        "gamesStarted": 54,
-        "battingAverage": 0.286,
-        "onBasePercentage": 0.347,
-        "sluggingPercentage": 0.5,
-        "ops": 0.847,
-        "atBats": 220,
-        "runs": 40,
-        "hits": 63,
-        "doubles": 12,
+        "gamesPlayed": 55,
+        "gamesStarted": 55,
+        "battingAverage": 0.291,
+        "onBasePercentage": 0.354,
+        "sluggingPercentage": 0.52,
+        "ops": 0.874,
+        "atBats": 223,
+        "runs": 43,
+        "hits": 65,
+        "doubles": 13,
         "triples": 1,
-        "homeRuns": 11,
-        "runsBattedIn": 50,
-        "totalBases": 110,
+        "homeRuns": 12,
+        "runsBattedIn": 51,
+        "totalBases": 116,
         "walks": 15,
-        "hitByPitch": 6,
+        "hitByPitch": 7,
         "strikeouts": 45,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
@@ -1611,10 +1611,10 @@
         "sacrificeHits": 2,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 378,
+        "putouts": 383,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 247,
+        "plateAppearances": 251,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1626,59 +1626,59 @@
         "jersey": "12",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/dean-o-neill/14412",
         "imageUrl": "https://goblueraiders.com/images/2025/12/4/O_Neill__Dean_-_Web.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 50,
-        "putouts": 378,
-        "assists": 16,
+        "gamesPlayed": 51,
+        "gamesStarted": 51,
+        "putouts": 383,
+        "assists": 17,
         "errors": 6,
         "fieldingPercentage": 0.985,
         "doublePlays": 25,
-        "stolenBasesAgainst": 24,
+        "stolenBasesAgainst": 26,
         "caughtStealingBy": 2,
         "stolenBasesPercentage": null,
-        "passedBalls": 5,
+        "passedBalls": 6,
         "catchersInterference": 0,
-        "totalChances": 400
+        "totalChances": 406
       },
       "evaluation": {
-        "score": 35,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 37.22222222222219,
-          "Power": 47.36842105263158,
-          "Contact": 41.24999999999998,
+          "On-base": 41.111111111111086,
+          "Power": 52.63157894736843,
+          "Contact": 44.374999999999986,
           "Discipline": 14.814814814814808,
           "Speed": 10
         },
         "summary": "Dean O'Neill gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .347",
-          "SLG .500"
+          "AVG .291",
+          "OBP .354",
+          "SLG .520"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".291"
           },
           {
             "label": "OBP",
-            "value": ".347"
+            "value": ".354"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".520"
           },
           {
             "label": "HR",
-            "value": "11"
+            "value": "12"
           },
           {
             "label": "RBI",
-            "value": "50"
+            "value": "51"
           },
           {
             "label": "SB",
@@ -1733,20 +1733,20 @@
         "jersey": "13",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/brett-rogers/14378",
         "imageUrl": "https://goblueraiders.com/images/2025/11/20/Rogers__Brett_-_Web.jpg",
-        "gamesPlayed": 54,
-        "gamesStarted": 54,
-        "battingAverage": 0.311,
-        "onBasePercentage": 0.428,
-        "sluggingPercentage": 0.413,
-        "ops": 0.841,
-        "atBats": 196,
-        "runs": 45,
-        "hits": 61,
-        "doubles": 12,
+        "gamesPlayed": 55,
+        "gamesStarted": 55,
+        "battingAverage": 0.315,
+        "onBasePercentage": 0.429,
+        "sluggingPercentage": 0.42,
+        "ops": 0.849,
+        "atBats": 200,
+        "runs": 46,
+        "hits": 63,
+        "doubles": 13,
         "triples": 1,
         "homeRuns": 2,
-        "runsBattedIn": 25,
-        "totalBases": 81,
+        "runsBattedIn": 26,
+        "totalBases": 84,
         "walks": 36,
         "hitByPitch": 4,
         "strikeouts": 41,
@@ -1756,10 +1756,10 @@
         "sacrificeHits": 0,
         "stolenBases": 12,
         "stolenBasesAttempts": 17,
-        "putouts": 95,
+        "putouts": 97,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 258,
+        "plateAppearances": 262,
         "caughtStealing": 5,
         "pickedOff": 1
       },
@@ -1771,51 +1771,51 @@
         "jersey": "13",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/brett-rogers/14378",
         "imageUrl": "https://goblueraiders.com/images/2025/11/20/Rogers__Brett_-_Web.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 46,
-        "putouts": 95,
+        "gamesPlayed": 47,
+        "gamesStarted": 47,
+        "putouts": 97,
         "assists": 3,
         "errors": 4,
-        "fieldingPercentage": 0.961,
+        "fieldingPercentage": 0.962,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 102
+        "totalChances": 104
       },
       "evaluation": {
-        "score": 57,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 82.22222222222221,
-          "Power": 24.47368421052631,
-          "Contact": 56.875,
+          "On-base": 82.77777777777776,
+          "Power": 26.31578947368421,
+          "Contact": 59.375,
           "Discipline": 75.33875338753386,
           "Speed": 40
         },
         "summary": "Brett Rogers profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .311",
-          "OBP .428",
-          "SLG .413"
+          "AVG .315",
+          "OBP .429",
+          "SLG .420"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".311"
+            "value": ".315"
           },
           {
             "label": "OBP",
-            "value": ".428"
+            "value": ".429"
           },
           {
             "label": "SLG",
-            "value": ".413"
+            "value": ".420"
           },
           {
             "label": "HR",
@@ -1823,7 +1823,7 @@
           },
           {
             "label": "RBI",
-            "value": "25"
+            "value": "26"
           },
           {
             "label": "SB",
@@ -2392,34 +2392,34 @@
         "jersey": "18",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/brett-vondohlen/14384",
         "imageUrl": "https://goblueraiders.com/images/2025/11/20/Vondohlen__Brett_-_Web.jpg",
-        "gamesPlayed": 54,
-        "gamesStarted": 54,
-        "battingAverage": 0.223,
-        "onBasePercentage": 0.306,
-        "sluggingPercentage": 0.352,
-        "ops": 0.658,
-        "atBats": 193,
-        "runs": 32,
-        "hits": 43,
+        "gamesPlayed": 55,
+        "gamesStarted": 55,
+        "battingAverage": 0.228,
+        "onBasePercentage": 0.309,
+        "sluggingPercentage": 0.371,
+        "ops": 0.68,
+        "atBats": 197,
+        "runs": 33,
+        "hits": 45,
         "doubles": 10,
         "triples": 0,
-        "homeRuns": 5,
-        "runsBattedIn": 30,
-        "totalBases": 68,
+        "homeRuns": 6,
+        "runsBattedIn": 34,
+        "totalBases": 73,
         "walks": 20,
         "hitByPitch": 4,
-        "strikeouts": 55,
+        "strikeouts": 56,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 2,
         "sacrificeHits": 1,
         "stolenBases": 2,
-        "stolenBasesAttempts": 2,
-        "putouts": 30,
+        "stolenBasesAttempts": 3,
+        "putouts": 31,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 222,
-        "caughtStealing": 0,
+        "plateAppearances": 228,
+        "caughtStealing": 1,
         "pickedOff": 1
       },
       "pitchingStats": null,
@@ -2430,10 +2430,10 @@
         "jersey": "18",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/brett-vondohlen/14384",
         "imageUrl": "https://goblueraiders.com/images/2025/11/20/Vondohlen__Brett_-_Web.jpg",
-        "gamesPlayed": 47,
-        "gamesStarted": 47,
-        "putouts": 30,
-        "assists": 110,
+        "gamesPlayed": 48,
+        "gamesStarted": 48,
+        "putouts": 31,
+        "assists": 112,
         "errors": 5,
         "fieldingPercentage": 0.966,
         "doublePlays": 9,
@@ -2442,47 +2442,47 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 145
+        "totalChances": 148
       },
       "evaluation": {
-        "score": 10,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 14.444444444444427,
-          "Power": 8.421052631578942,
-          "Contact": 1.8750000000000018,
-          "Discipline": 18.18181818181818,
+          "On-base": 16.111111111111097,
+          "Power": 13.421052631578947,
+          "Contact": 5.000000000000004,
+          "Discipline": 17.460317460317455,
           "Speed": 6.666666666666667
         },
         "summary": "Brett Vondohlen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .223",
-          "OBP .306",
-          "SLG .352"
+          "AVG .228",
+          "OBP .309",
+          "SLG .371"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".223"
+            "value": ".228"
           },
           {
             "label": "OBP",
-            "value": ".306"
+            "value": ".309"
           },
           {
             "label": "SLG",
-            "value": ".352"
+            "value": ".371"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "30"
+            "value": "34"
           },
           {
             "label": "SB",
@@ -2714,31 +2714,31 @@
         "jersey": "21",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/abel-albarran/14417",
         "imageUrl": "https://goblueraiders.com/images/2025/11/20/Albarran__Abel_-_Web.jpg",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 4,
-        "appearances": 14,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.12,
-        "whip": 1.75,
+        "earnedRunAverage": 6.89,
+        "whip": 1.82,
         "wins": 0,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 30.333333333333332,
-        "inningsPitchedDisplay": "30.1",
-        "hitsAllowed": 39,
-        "runsAllowed": 30,
+        "inningsPitched": 31.333333333333332,
+        "inningsPitchedDisplay": "31.1",
+        "hitsAllowed": 42,
+        "runsAllowed": 31,
         "earnedRunsAllowed": 24,
-        "walksAllowed": 14,
-        "strikeouts": 22,
+        "walksAllowed": 15,
+        "strikeouts": 23,
         "doublesAllowed": 9,
         "triplesAllowed": 0,
         "homeRunsAllowed": 7,
-        "opponentsAtBats": 128,
+        "opponentsAtBats": 134,
         "wildPitches": 5,
         "hitBatters": 5,
         "balks": 1,
-        "opponentsBattingAverage": 0.305,
+        "opponentsBattingAverage": 0.313,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2771,40 +2771,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 22.977022977022976,
-          "Command": 11.428571428571423,
+          "Miss bats": 23.694390715667314,
+          "Command": 10.666666666666668,
           "Damage suppression": 0
         },
         "summary": "Abel Albarran gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.12",
-          "WHIP 1.75",
-          "K/9 6.5"
+          "ERA 6.89",
+          "WHIP 1.82",
+          "K/9 6.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.12"
+            "value": "6.89"
           },
           {
             "label": "WHIP",
-            "value": "1.75"
+            "value": "1.82"
           },
           {
             "label": "K/9",
-            "value": "6.5"
+            "value": "6.6"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "4.3"
           },
           {
             "label": "HR/9",
-            "value": "2.08"
+            "value": "2.01"
           },
           {
             "label": "IP",
-            "value": "30.3"
+            "value": "31.3"
           }
         ],
         "metaLine": "JR / N/A",
@@ -2981,31 +2981,31 @@
         "jersey": "24",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/bryant-beranek/14364",
         "imageUrl": "https://goblueraiders.com/images/2025/11/20/Beranek__Bryant_-_Web.jpg",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 4,
-        "appearances": 19,
+        "appearances": 20,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.14,
-        "whip": 1.19,
+        "earnedRunAverage": 4.25,
+        "whip": 1.25,
         "wins": 1,
-        "losses": 2,
+        "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 41.333333333333336,
-        "inningsPitchedDisplay": "41.1",
-        "hitsAllowed": 43,
-        "runsAllowed": 19,
-        "earnedRunsAllowed": 19,
-        "walksAllowed": 6,
+        "inningsPitched": 42.333333333333336,
+        "inningsPitchedDisplay": "42.1",
+        "hitsAllowed": 45,
+        "runsAllowed": 20,
+        "earnedRunsAllowed": 20,
+        "walksAllowed": 8,
         "strikeouts": 28,
         "doublesAllowed": 5,
         "triplesAllowed": 0,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 155,
+        "opponentsAtBats": 159,
         "wildPitches": 2,
         "hitBatters": 8,
         "balks": 0,
-        "opponentsBattingAverage": 0.277,
+        "opponentsBattingAverage": 0.283,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3030,7 +3030,7 @@
         "totalChances": 9
       },
       "evaluation": {
-        "score": 16,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3038,40 +3038,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 19.06158357771261,
-          "Command": 73.33333333333334,
+          "Miss bats": 17.752326413743738,
+          "Command": 50.000000000000014,
           "Damage suppression": 0
         },
         "summary": "Bryant Beranek looks like a RHP option who throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.14",
-          "WHIP 1.19",
-          "K/9 6.1"
+          "ERA 4.25",
+          "WHIP 1.25",
+          "K/9 6.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.14"
+            "value": "4.25"
           },
           {
             "label": "WHIP",
-            "value": "1.19"
+            "value": "1.25"
           },
           {
             "label": "K/9",
-            "value": "6.1"
+            "value": "6.0"
           },
           {
             "label": "BB/9",
-            "value": "1.3"
+            "value": "1.7"
           },
           {
             "label": "HR/9",
-            "value": "1.09"
+            "value": "1.06"
           },
           {
             "label": "IP",
-            "value": "41.3"
+            "value": "42.3"
           }
         ],
         "metaLine": "SR / N/A",
@@ -3123,31 +3123,31 @@
         "jersey": "26",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/mason-dobbs/14472",
         "imageUrl": "https://goblueraiders.com/images/2025/11/20/Dobbs__Mason_-_Web.jpg",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 0,
-        "appearances": 15,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.4,
-        "whip": 1.65,
+        "earnedRunAverage": 6.75,
+        "whip": 1.8,
         "wins": 2,
         "losses": 2,
         "saves": 2,
         "shutouts": 0,
         "inningsPitched": 20,
         "inningsPitchedDisplay": "20.0",
-        "hitsAllowed": 23,
-        "runsAllowed": 14,
-        "earnedRunsAllowed": 12,
-        "walksAllowed": 10,
+        "hitsAllowed": 25,
+        "runsAllowed": 17,
+        "earnedRunsAllowed": 15,
+        "walksAllowed": 11,
         "strikeouts": 16,
         "doublesAllowed": 5,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 78,
+        "homeRunsAllowed": 5,
+        "opponentsAtBats": 80,
         "wildPitches": 1,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.295,
+        "opponentsBattingAverage": 0.313,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3172,7 +3172,7 @@
         "totalChances": 3
       },
       "evaluation": {
-        "score": 8,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3181,23 +3181,23 @@
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 29.090909090909093,
-          "Command": 12.000000000000002,
+          "Command": 9.090909090909092,
           "Damage suppression": 0
         },
         "summary": "Mason Dobbs gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 1.65",
+          "ERA 6.75",
+          "WHIP 1.80",
           "K/9 7.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.40"
+            "value": "6.75"
           },
           {
             "label": "WHIP",
-            "value": "1.65"
+            "value": "1.80"
           },
           {
             "label": "K/9",
@@ -3205,11 +3205,11 @@
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "5.0"
           },
           {
             "label": "HR/9",
-            "value": "1.35"
+            "value": "2.25"
           },
           {
             "label": "IP",
@@ -3833,31 +3833,31 @@
         "jersey": "32",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/drew-horn/14398",
         "imageUrl": "https://goblueraiders.com/images/2025/11/20/Horn__Drew_-_Web.jpg",
-        "gamesPlayed": 8,
+        "gamesPlayed": 9,
         "gamesStarted": 8,
-        "appearances": 8,
+        "appearances": 9,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.75,
-        "whip": 1.6,
+        "earnedRunAverage": 6.68,
+        "whip": 1.54,
         "wins": 2,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 30.666666666666668,
-        "inningsPitchedDisplay": "30.2",
-        "hitsAllowed": 36,
-        "runsAllowed": 25,
-        "earnedRunsAllowed": 23,
-        "walksAllowed": 13,
-        "strikeouts": 39,
+        "inningsPitched": 33.666666666666664,
+        "inningsPitchedDisplay": "33.2",
+        "hitsAllowed": 38,
+        "runsAllowed": 27,
+        "earnedRunsAllowed": 25,
+        "walksAllowed": 14,
+        "strikeouts": 41,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 10,
-        "opponentsAtBats": 122,
-        "wildPitches": 2,
-        "hitBatters": 6,
+        "opponentsAtBats": 132,
+        "wildPitches": 3,
+        "hitBatters": 7,
         "balks": 0,
-        "opponentsBattingAverage": 0.295,
+        "opponentsBattingAverage": 0.288,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3882,7 +3882,7 @@
         "totalChances": 2
       },
       "evaluation": {
-        "score": 20,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3890,40 +3890,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 67.68774703557312,
-          "Command": 40,
+          "Miss bats": 63.27632763276328,
+          "Command": 38.57142857142857,
           "Damage suppression": 0
         },
         "summary": "Drew Horn looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 1.60",
-          "K/9 11.4"
+          "ERA 6.68",
+          "WHIP 1.54",
+          "K/9 11.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "6.68"
           },
           {
             "label": "WHIP",
-            "value": "1.60"
+            "value": "1.54"
           },
           {
             "label": "K/9",
-            "value": "11.4"
+            "value": "11.0"
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "3.7"
           },
           {
             "label": "HR/9",
-            "value": "2.93"
+            "value": "2.67"
           },
           {
             "label": "IP",
-            "value": "30.7"
+            "value": "33.7"
           }
         ],
         "metaLine": "R-JR / N/A",
@@ -4219,31 +4219,31 @@
         "jersey": "35",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/cole-torbett/14382",
         "imageUrl": "https://goblueraiders.com/images/2025/11/20/Torbett__Cole_-_Web.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 4,
-        "appearances": 8,
+        "gamesPlayed": 9,
+        "gamesStarted": 5,
+        "appearances": 9,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.7,
-        "whip": 1.69,
+        "earnedRunAverage": 5.2,
+        "whip": 1.59,
         "wins": 2,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 23.666666666666668,
-        "inningsPitchedDisplay": "23.2",
-        "hitsAllowed": 28,
-        "runsAllowed": 18,
-        "earnedRunsAllowed": 15,
-        "walksAllowed": 12,
-        "strikeouts": 15,
-        "doublesAllowed": 6,
+        "inningsPitched": 27.666666666666668,
+        "inningsPitchedDisplay": "27.2",
+        "hitsAllowed": 30,
+        "runsAllowed": 19,
+        "earnedRunsAllowed": 16,
+        "walksAllowed": 14,
+        "strikeouts": 18,
+        "doublesAllowed": 7,
         "triplesAllowed": 1,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 93,
-        "wildPitches": 1,
+        "opponentsAtBats": 108,
+        "wildPitches": 2,
         "hitBatters": 6,
         "balks": 0,
-        "opponentsBattingAverage": 0.301,
+        "opponentsBattingAverage": 0.278,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4253,14 +4253,14 @@
         "jersey": "35",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/cole-torbett/14382",
         "imageUrl": "https://goblueraiders.com/images/2025/11/20/Torbett__Cole_-_Web.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 3,
+        "gamesPlayed": 7,
+        "gamesStarted": 4,
         "putouts": 1,
         "assists": 7,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 3,
+        "stolenBasesAgainst": 5,
         "caughtStealingBy": 2,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
@@ -4276,28 +4276,28 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 15.492957746478872,
-          "Command": 5,
+          "Miss bats": 16.867469879518072,
+          "Command": 5.714285714285716,
           "Damage suppression": 0
         },
         "summary": "Cole Torbett gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.70",
-          "WHIP 1.69",
-          "K/9 5.7"
+          "ERA 5.20",
+          "WHIP 1.59",
+          "K/9 5.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.70"
+            "value": "5.20"
           },
           {
             "label": "WHIP",
-            "value": "1.69"
+            "value": "1.59"
           },
           {
             "label": "K/9",
-            "value": "5.7"
+            "value": "5.9"
           },
           {
             "label": "BB/9",
@@ -4309,7 +4309,7 @@
           },
           {
             "label": "IP",
-            "value": "23.7"
+            "value": "27.7"
           }
         ],
         "metaLine": "R-JR / N/A",
@@ -4360,13 +4360,13 @@
         "jersey": "36",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/cale-vinson/14383",
         "imageUrl": "https://goblueraiders.com/images/2025/11/20/Vinson__Cale_-_Web.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 0,
+        "gamesPlayed": 6,
+        "gamesStarted": 1,
         "battingAverage": 0,
-        "onBasePercentage": 0.25,
+        "onBasePercentage": 0.2,
         "sluggingPercentage": 0,
-        "ops": 0.25,
-        "atBats": 5,
+        "ops": 0.2,
+        "atBats": 7,
         "runs": 1,
         "hits": 0,
         "doubles": 0,
@@ -4376,7 +4376,7 @@
         "totalBases": 0,
         "walks": 2,
         "hitByPitch": 0,
-        "strikeouts": 4,
+        "strikeouts": 6,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
@@ -4386,7 +4386,7 @@
         "putouts": 1,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 8,
+        "plateAppearances": 10,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4413,7 +4413,7 @@
         "totalChances": 2
       },
       "evaluation": {
-        "score": 5,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4422,13 +4422,13 @@
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 33.33333333333333,
+          "Discipline": 14.814814814814808,
           "Speed": 0
         },
         "summary": "Cale Vinson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .000",
-          "OBP .250",
+          "OBP .200",
           "SLG .000"
         ],
         "statCards": [
@@ -4438,7 +4438,7 @@
           },
           {
             "label": "OBP",
-            "value": ".250"
+            "value": ".200"
           },
           {
             "label": "SLG",
@@ -5441,29 +5441,29 @@
         "position": "INF",
         "classYear": "R-JR",
         "handedness": "N/A",
-        "score": 67,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Cooper Clapp profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .323",
-          "OBP .422",
-          "SLG .559"
+          "AVG .317",
+          "OBP .419",
+          "SLG .550"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".323"
+            "value": ".317"
           },
           {
             "label": "OBP",
-            "value": ".422"
+            "value": ".419"
           },
           {
             "label": "SLG",
-            "value": ".559"
+            "value": ".550"
           },
           {
             "label": "HR",
@@ -5479,10 +5479,10 @@
           }
         ],
         "components": {
-          "On-base": 78.88888888888886,
-          "Power": 62.89473684210528,
-          "Contact": 64.375,
-          "Discipline": 82.53968253968253,
+          "On-base": 77.2222222222222,
+          "Power": 60.526315789473706,
+          "Contact": 60.62499999999999,
+          "Discipline": 82.71604938271604,
           "Speed": 23.333333333333332
         },
         "metaLine": "R-JR / N/A",
@@ -5510,29 +5510,29 @@
         "position": "INF",
         "classYear": "R-JR",
         "handedness": "N/A",
-        "score": 9,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Matt Wolfe gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .176",
-          "OBP .300",
-          "SLG .333"
+          "AVG .170",
+          "OBP .290",
+          "SLG .321"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".176"
+            "value": ".170"
           },
           {
             "label": "OBP",
-            "value": ".300"
+            "value": ".290"
           },
           {
             "label": "SLG",
-            "value": ".333"
+            "value": ".321"
           },
           {
             "label": "HR",
@@ -5548,10 +5548,10 @@
           }
         ],
         "components": {
-          "On-base": 11.111111111111091,
-          "Power": 3.421052631578951,
+          "On-base": 5.55555555555553,
+          "Power": 0.26315789473684237,
           "Contact": 0,
-          "Discipline": 33.33333333333333,
+          "Discipline": 27.777777777777775,
           "Speed": 3.3333333333333335
         },
         "metaLine": "R-JR / N/A",
@@ -5648,25 +5648,25 @@
         "position": "UTL",
         "classYear": "R-FR",
         "handedness": "N/A",
-        "score": 44,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Layne Akers gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .308",
-          "OBP .375",
+          "AVG .307",
+          "OBP .372",
           "SLG .509"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".308"
+            "value": ".307"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".372"
           },
           {
             "label": "SLG",
@@ -5686,10 +5686,10 @@
           }
         ],
         "components": {
-          "On-base": 52.77777777777777,
+          "On-base": 51.11111111111109,
           "Power": 49.736842105263165,
-          "Contact": 54.99999999999999,
-          "Discipline": 18.713450292397653,
+          "Contact": 54.37499999999999,
+          "Discipline": 17.66381766381766,
           "Speed": 13.333333333333334
         },
         "metaLine": "R-FR / N/A",
@@ -5717,29 +5717,29 @@
         "position": "OF",
         "classYear": "R-JR",
         "handedness": "N/A",
-        "score": 50,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nathan Brewer profiles as a OF piece who brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .303",
-          "OBP .378",
-          "SLG .569"
+          "AVG .302",
+          "OBP .376",
+          "SLG .563"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".303"
+            "value": ".302"
           },
           {
             "label": "OBP",
-            "value": ".378"
+            "value": ".376"
           },
           {
             "label": "SLG",
-            "value": ".569"
+            "value": ".563"
           },
           {
             "label": "HR",
@@ -5755,10 +5755,10 @@
           }
         ],
         "components": {
-          "On-base": 54.44444444444443,
-          "Power": 65.52631578947367,
-          "Contact": 51.87499999999999,
-          "Discipline": 23.67149758454106,
+          "On-base": 53.33333333333332,
+          "Power": 63.947368421052616,
+          "Contact": 51.24999999999999,
+          "Discipline": 21.759259259259252,
           "Speed": 30
         },
         "metaLine": "R-JR / N/A",
@@ -5786,37 +5786,37 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 70,
+        "score": 69,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Owen Nowak profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .450",
-          "SLG .478"
+          "AVG .325",
+          "OBP .445",
+          "SLG .485"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": ".325"
           },
           {
             "label": "OBP",
-            "value": ".450"
+            "value": ".445"
           },
           {
             "label": "SLG",
-            "value": ".478"
+            "value": ".485"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "36"
+            "value": "37"
           },
           {
             "label": "SB",
@@ -5824,9 +5824,9 @@
           }
         ],
         "components": {
-          "On-base": 94.44444444444444,
-          "Power": 41.57894736842105,
-          "Contact": 67.5,
+          "On-base": 91.66666666666666,
+          "Power": 43.42105263157895,
+          "Contact": 65.625,
           "Discipline": 100,
           "Speed": 26.666666666666668
         },
@@ -5924,29 +5924,29 @@
         "position": "INF",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 21,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Clay Badylak profiles as a INF piece who controls at-bats.",
+        "summary": "Clay Badylak gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .201",
-          "OBP .314",
-          "SLG .255"
+          "AVG .196",
+          "OBP .307",
+          "SLG .248"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".201"
+            "value": ".196"
           },
           {
             "label": "OBP",
-            "value": ".314"
+            "value": ".307"
           },
           {
             "label": "SLG",
-            "value": ".255"
+            "value": ".248"
           },
           {
             "label": "HR",
@@ -5962,10 +5962,10 @@
           }
         ],
         "components": {
-          "On-base": 18.888888888888875,
+          "On-base": 14.999999999999982,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 94.44444444444444,
+          "Discipline": 83.83838383838383,
           "Speed": 16.666666666666664
         },
         "metaLine": "GR / N/A",
@@ -5993,37 +5993,37 @@
         "position": "C",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 35,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dean O'Neill gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .347",
-          "SLG .500"
+          "AVG .291",
+          "OBP .354",
+          "SLG .520"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".291"
           },
           {
             "label": "OBP",
-            "value": ".347"
+            "value": ".354"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".520"
           },
           {
             "label": "HR",
-            "value": "11"
+            "value": "12"
           },
           {
             "label": "RBI",
-            "value": "50"
+            "value": "51"
           },
           {
             "label": "SB",
@@ -6031,9 +6031,9 @@
           }
         ],
         "components": {
-          "On-base": 37.22222222222219,
-          "Power": 47.36842105263158,
-          "Contact": 41.24999999999998,
+          "On-base": 41.111111111111086,
+          "Power": 52.63157894736843,
+          "Contact": 44.374999999999986,
           "Discipline": 14.814814814814808,
           "Speed": 10
         },
@@ -6062,29 +6062,29 @@
         "position": "OF",
         "classYear": "R-SO",
         "handedness": "N/A",
-        "score": 57,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Brett Rogers profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .311",
-          "OBP .428",
-          "SLG .413"
+          "AVG .315",
+          "OBP .429",
+          "SLG .420"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".311"
+            "value": ".315"
           },
           {
             "label": "OBP",
-            "value": ".428"
+            "value": ".429"
           },
           {
             "label": "SLG",
-            "value": ".413"
+            "value": ".420"
           },
           {
             "label": "HR",
@@ -6092,7 +6092,7 @@
           },
           {
             "label": "RBI",
-            "value": "25"
+            "value": "26"
           },
           {
             "label": "SB",
@@ -6100,9 +6100,9 @@
           }
         ],
         "components": {
-          "On-base": 82.22222222222221,
-          "Power": 24.47368421052631,
-          "Contact": 56.875,
+          "On-base": 82.77777777777776,
+          "Power": 26.31578947368421,
+          "Contact": 59.375,
           "Discipline": 75.33875338753386,
           "Speed": 40
         },
@@ -6406,37 +6406,37 @@
         "position": "INF",
         "classYear": "R-JR",
         "handedness": "N/A",
-        "score": 10,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brett Vondohlen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .223",
-          "OBP .306",
-          "SLG .352"
+          "AVG .228",
+          "OBP .309",
+          "SLG .371"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".223"
+            "value": ".228"
           },
           {
             "label": "OBP",
-            "value": ".306"
+            "value": ".309"
           },
           {
             "label": "SLG",
-            "value": ".352"
+            "value": ".371"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "30"
+            "value": "34"
           },
           {
             "label": "SB",
@@ -6444,10 +6444,10 @@
           }
         ],
         "components": {
-          "On-base": 14.444444444444427,
-          "Power": 8.421052631578942,
-          "Contact": 1.8750000000000018,
-          "Discipline": 18.18181818181818,
+          "On-base": 16.111111111111097,
+          "Power": 13.421052631578947,
+          "Contact": 5.000000000000004,
+          "Discipline": 17.460317460317455,
           "Speed": 6.666666666666667
         },
         "metaLine": "R-JR / N/A",
@@ -6618,41 +6618,41 @@
         },
         "summary": "Abel Albarran gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.12",
-          "WHIP 1.75",
-          "K/9 6.5"
+          "ERA 6.89",
+          "WHIP 1.82",
+          "K/9 6.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.12"
+            "value": "6.89"
           },
           {
             "label": "WHIP",
-            "value": "1.75"
+            "value": "1.82"
           },
           {
             "label": "K/9",
-            "value": "6.5"
+            "value": "6.6"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "4.3"
           },
           {
             "label": "HR/9",
-            "value": "2.08"
+            "value": "2.01"
           },
           {
             "label": "IP",
-            "value": "30.3"
+            "value": "31.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 22.977022977022976,
-          "Command": 11.428571428571423,
+          "Miss bats": 23.694390715667314,
+          "Command": 10.666666666666668,
           "Damage suppression": 0
         },
         "metaLine": "JR / N/A",
@@ -6749,48 +6749,48 @@
         "position": "RHP",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 16,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Bryant Beranek looks like a RHP option who throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.14",
-          "WHIP 1.19",
-          "K/9 6.1"
+          "ERA 4.25",
+          "WHIP 1.25",
+          "K/9 6.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.14"
+            "value": "4.25"
           },
           {
             "label": "WHIP",
-            "value": "1.19"
+            "value": "1.25"
           },
           {
             "label": "K/9",
-            "value": "6.1"
+            "value": "6.0"
           },
           {
             "label": "BB/9",
-            "value": "1.3"
+            "value": "1.7"
           },
           {
             "label": "HR/9",
-            "value": "1.09"
+            "value": "1.06"
           },
           {
             "label": "IP",
-            "value": "41.3"
+            "value": "42.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 19.06158357771261,
-          "Command": 73.33333333333334,
+          "Miss bats": 17.752326413743738,
+          "Command": 50.000000000000014,
           "Damage suppression": 0
         },
         "metaLine": "SR / N/A",
@@ -6818,25 +6818,25 @@
         "position": "RHP",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 8,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Mason Dobbs gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 1.65",
+          "ERA 6.75",
+          "WHIP 1.80",
           "K/9 7.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.40"
+            "value": "6.75"
           },
           {
             "label": "WHIP",
-            "value": "1.65"
+            "value": "1.80"
           },
           {
             "label": "K/9",
@@ -6844,11 +6844,11 @@
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "5.0"
           },
           {
             "label": "HR/9",
-            "value": "1.35"
+            "value": "2.25"
           },
           {
             "label": "IP",
@@ -6859,7 +6859,7 @@
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 29.090909090909093,
-          "Command": 12.000000000000002,
+          "Command": 9.090909090909092,
           "Damage suppression": 0
         },
         "metaLine": "JR / N/A",
@@ -7163,48 +7163,48 @@
         "position": "RHP",
         "classYear": "R-JR",
         "handedness": "N/A",
-        "score": 20,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Drew Horn looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 1.60",
-          "K/9 11.4"
+          "ERA 6.68",
+          "WHIP 1.54",
+          "K/9 11.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "6.68"
           },
           {
             "label": "WHIP",
-            "value": "1.60"
+            "value": "1.54"
           },
           {
             "label": "K/9",
-            "value": "11.4"
+            "value": "11.0"
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "3.7"
           },
           {
             "label": "HR/9",
-            "value": "2.93"
+            "value": "2.67"
           },
           {
             "label": "IP",
-            "value": "30.7"
+            "value": "33.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 67.68774703557312,
-          "Command": 40,
+          "Miss bats": 63.27632763276328,
+          "Command": 38.57142857142857,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / N/A",
@@ -7377,22 +7377,22 @@
         },
         "summary": "Cole Torbett gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.70",
-          "WHIP 1.69",
-          "K/9 5.7"
+          "ERA 5.20",
+          "WHIP 1.59",
+          "K/9 5.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.70"
+            "value": "5.20"
           },
           {
             "label": "WHIP",
-            "value": "1.69"
+            "value": "1.59"
           },
           {
             "label": "K/9",
-            "value": "5.7"
+            "value": "5.9"
           },
           {
             "label": "BB/9",
@@ -7404,14 +7404,14 @@
           },
           {
             "label": "IP",
-            "value": "23.7"
+            "value": "27.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 15.492957746478872,
-          "Command": 5,
+          "Miss bats": 16.867469879518072,
+          "Command": 5.714285714285716,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / N/A",
@@ -7439,7 +7439,7 @@
         "position": "INF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 5,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -7447,7 +7447,7 @@
         "summary": "Cale Vinson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .000",
-          "OBP .250",
+          "OBP .200",
           "SLG .000"
         ],
         "statCards": [
@@ -7457,7 +7457,7 @@
           },
           {
             "label": "OBP",
-            "value": ".250"
+            "value": ".200"
           },
           {
             "label": "SLG",
@@ -7480,7 +7480,7 @@
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 33.33333333333333,
+          "Discipline": 14.814814814814808,
           "Speed": 0
         },
         "metaLine": "SR / N/A",

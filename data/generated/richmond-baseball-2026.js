@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.richmond2026 = {
-  "generatedAt": "2026-05-16T11:18:29.094Z",
+  "generatedAt": "2026-05-17T11:33:55.236Z",
   "season": 2026,
   "school": {
     "slug": "richmond",
@@ -43,84 +43,84 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
     }
   },
   "teamSummary": {
-    "record": "32-22, 19-10",
-    "battingAverage": ".279",
-    "earnedRunAverage": "5.11",
-    "wins": "32",
+    "record": "33-22, 20-10",
+    "battingAverage": ".283",
+    "earnedRunAverage": "5.41",
+    "wins": "33",
     "losses": "22",
     "hitting": {
-      "atBats": "1759",
-      "runsScored": "353",
-      "hits": "490",
-      "runsBattedIn": "334",
-      "doubles": "106",
+      "atBats": "1803",
+      "runsScored": "379",
+      "hits": "511",
+      "runsBattedIn": "359",
+      "doubles": "110",
       "triples": "6",
-      "homeRuns": "68",
-      "walks": "237",
+      "homeRuns": "71",
+      "walks": "247",
       "intentionalWalks": "6",
-      "strikeouts": "448",
+      "strikeouts": "452",
       "strikeoutsLooking": "87",
-      "hitByPitch": "116",
-      "stolenBases": "104",
+      "hitByPitch": "122",
+      "stolenBases": "105",
       "caughtStealing": "32",
-      "sacrificeHits": "25",
-      "sacrificeFlies": "17",
+      "sacrificeHits": "26",
+      "sacrificeFlies": "20",
       "reachedOnCatchersInteference": "2",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "387",
-      "flyOuts": "418",
+      "groundOuts": "398",
+      "flyOuts": "428",
       "groundedIntoDoublePlay": "37",
       "pickedOff": "10",
-      "doublePlaysHitInto": "41",
+      "doublePlaysHitInto": "43",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1416",
-      "assists": "479",
-      "errors": "54",
+      "putouts": "1443",
+      "assists": "486",
+      "errors": "57",
       "passedBalls": "3",
-      "catchersInterference": "0",
+      "catchersInterference": "1",
       "stolenBasesAgainst": "54",
       "caughtStealingBy": "28",
-      "involvedInDoublePlays": "30",
+      "involvedInDoublePlays": "31",
       "involvedInTriplePlays": "0",
-      "totalChances": "1949",
-      "fieldingPercentage": ".972"
+      "totalChances": "1986",
+      "fieldingPercentage": ".971"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "32",
+      "wins": "33",
       "saves": "38",
       "losses": "22",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "2",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "472.0",
-      "hitsAllowed": "447",
-      "runsAllowed": "299",
-      "earnedRunsAllowed": "268",
-      "walksAllowed": "217",
-      "strikeouts": "401",
-      "battersFaced": "2150",
-      "opponentAtBats": "1764",
-      "doublesAllowed": "95",
-      "triplesAllowed": "5",
-      "homerunsAllowed": "59",
-      "wildPitches": "51",
+      "inningsPitched": "481.0",
+      "hitsAllowed": "466",
+      "runsAllowed": "323",
+      "earnedRunsAllowed": "289",
+      "walksAllowed": "229",
+      "strikeouts": "405",
+      "battersFaced": "2211",
+      "opponentAtBats": "1807",
+      "doublesAllowed": "98",
+      "triplesAllowed": "6",
+      "homerunsAllowed": "61",
+      "wildPitches": "52",
       "balks": "2",
-      "hitBatters": "109",
-      "strikeoutsLooking": "73",
+      "hitBatters": "112",
+      "strikeoutsLooking": "75",
       "intentionalWalks": "10",
       "inheritedRunners": "103",
       "inheritedRunnersThatScored": "38",
       "sacrificeHitsAllowed": "35",
-      "sacrificeFliesAllowed": "25",
-      "catchersInterferenceAllowed": "0",
+      "sacrificeFliesAllowed": "27",
+      "catchersInterferenceAllowed": "1",
       "pitches": "7710",
-      "flyouts": "510",
-      "groundouts": "412",
+      "flyouts": "523",
+      "groundouts": "420",
       "teamUnearnedRuns": "0",
       "saveRecord": "15",
       "pickoff": "2"
@@ -310,33 +310,33 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "2",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/aidan-o-keefe/7812",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_O_Keefe_NzrUy.JPG",
-        "gamesPlayed": 50,
-        "gamesStarted": 35,
-        "battingAverage": 0.237,
-        "onBasePercentage": 0.37,
-        "sluggingPercentage": 0.342,
-        "ops": 0.712,
-        "atBats": 114,
-        "runs": 16,
-        "hits": 27,
+        "gamesPlayed": 51,
+        "gamesStarted": 36,
+        "battingAverage": 0.246,
+        "onBasePercentage": 0.375,
+        "sluggingPercentage": 0.347,
+        "ops": 0.722,
+        "atBats": 118,
+        "runs": 19,
+        "hits": 29,
         "doubles": 3,
         "triples": 0,
         "homeRuns": 3,
-        "runsBattedIn": 15,
-        "totalBases": 39,
-        "walks": 21,
+        "runsBattedIn": 16,
+        "totalBases": 41,
+        "walks": 22,
         "hitByPitch": 3,
         "strikeouts": 23,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 3,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 4,
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
         "putouts": 32,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 146,
+        "plateAppearances": 153,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -348,10 +348,10 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "2",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/aidan-o-keefe/7812",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_O_Keefe_NzrUy.JPG",
-        "gamesPlayed": 40,
-        "gamesStarted": 32,
+        "gamesPlayed": 41,
+        "gamesStarted": 33,
         "putouts": 32,
-        "assists": 71,
+        "assists": 72,
         "errors": 6,
         "fieldingPercentage": 0.945,
         "doublePlays": 6,
@@ -360,39 +360,39 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 109
+        "totalChances": 110
       },
       "evaluation": {
-        "score": 32,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 49.999999999999986,
-          "Power": 5.789473684210533,
-          "Contact": 10.624999999999991,
-          "Discipline": 79.22705314009659,
+          "On-base": 52.77777777777777,
+          "Power": 7.10526315789473,
+          "Contact": 16.249999999999996,
+          "Discipline": 84.05797101449275,
           "Speed": 10
         },
         "summary": "Aidan O'Keefe gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .237",
-          "OBP .370",
-          "SLG .342"
+          "AVG .246",
+          "OBP .375",
+          "SLG .347"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".237"
+            "value": ".246"
           },
           {
             "label": "OBP",
-            "value": ".370"
+            "value": ".375"
           },
           {
             "label": "SLG",
-            "value": ".342"
+            "value": ".347"
           },
           {
             "label": "HR",
@@ -400,7 +400,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           },
           {
             "label": "RBI",
-            "value": "15"
+            "value": "16"
           },
           {
             "label": "SB",
@@ -455,22 +455,22 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "3",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/michael-elko/7802",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Elko_Michael_nsyTu.JPG",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
+        "gamesPlayed": 52,
+        "gamesStarted": 52,
         "battingAverage": 0.339,
-        "onBasePercentage": 0.451,
-        "sluggingPercentage": 0.538,
-        "ops": 0.989,
-        "atBats": 186,
-        "runs": 48,
-        "hits": 63,
+        "onBasePercentage": 0.459,
+        "sluggingPercentage": 0.534,
+        "ops": 0.993,
+        "atBats": 189,
+        "runs": 51,
+        "hits": 64,
         "doubles": 12,
         "triples": 2,
         "homeRuns": 7,
         "runsBattedIn": 38,
-        "totalBases": 100,
-        "walks": 25,
-        "hitByPitch": 14,
+        "totalBases": 101,
+        "walks": 27,
+        "hitByPitch": 16,
         "strikeouts": 39,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 7,
@@ -478,10 +478,10 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "sacrificeHits": 3,
         "stolenBases": 26,
         "stolenBasesAttempts": 29,
-        "putouts": 95,
+        "putouts": 98,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 261,
+        "plateAppearances": 268,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -493,38 +493,38 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "3",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/michael-elko/7802",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Elko_Michael_nsyTu.JPG",
-        "gamesPlayed": 48,
-        "gamesStarted": 48,
-        "putouts": 95,
-        "assists": 99,
+        "gamesPlayed": 49,
+        "gamesStarted": 49,
+        "putouts": 98,
+        "assists": 101,
         "errors": 3,
         "fieldingPercentage": 0.985,
-        "doublePlays": 20,
+        "doublePlays": 21,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 197
+        "totalChances": 202
       },
       "evaluation": {
-        "score": 74,
+        "score": 76,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 95,
-          "Power": 57.36842105263159,
+          "On-base": 99.44444444444444,
+          "Power": 56.31578947368422,
           "Contact": 74.37500000000001,
-          "Discipline": 49.002849002849004,
+          "Discipline": 54.700854700854684,
           "Speed": 86.66666666666667
         },
         "summary": "Michael Elko profiles as a INF / C piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .339",
-          "OBP .451",
-          "SLG .538"
+          "OBP .459",
+          "SLG .534"
         ],
         "statCards": [
           {
@@ -533,11 +533,11 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           },
           {
             "label": "OBP",
-            "value": ".451"
+            "value": ".459"
           },
           {
             "label": "SLG",
-            "value": ".538"
+            "value": ".534"
           },
           {
             "label": "HR",
@@ -600,20 +600,20 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "4",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/rj-johnson-jr/8031",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Johnson_RJ_Zl2xJ.JPG",
-        "gamesPlayed": 50,
-        "gamesStarted": 40,
-        "battingAverage": 0.318,
-        "onBasePercentage": 0.443,
-        "sluggingPercentage": 0.527,
-        "ops": 0.97,
-        "atBats": 148,
-        "runs": 36,
-        "hits": 47,
+        "gamesPlayed": 51,
+        "gamesStarted": 41,
+        "battingAverage": 0.329,
+        "onBasePercentage": 0.447,
+        "sluggingPercentage": 0.548,
+        "ops": 0.995,
+        "atBats": 155,
+        "runs": 39,
+        "hits": 51,
         "doubles": 13,
         "triples": 0,
-        "homeRuns": 6,
-        "runsBattedIn": 34,
-        "totalBases": 78,
+        "homeRuns": 7,
+        "runsBattedIn": 40,
+        "totalBases": 85,
         "walks": 21,
         "hitByPitch": 13,
         "strikeouts": 33,
@@ -623,10 +623,10 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "sacrificeHits": 1,
         "stolenBases": 7,
         "stolenBasesAttempts": 10,
-        "putouts": 94,
+        "putouts": 96,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 197,
+        "plateAppearances": 204,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -638,59 +638,59 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "4",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/rj-johnson-jr/8031",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Johnson_RJ_Zl2xJ.JPG",
-        "gamesPlayed": 34,
-        "gamesStarted": 32,
-        "putouts": 94,
+        "gamesPlayed": 35,
+        "gamesStarted": 33,
+        "putouts": 96,
         "assists": 1,
         "errors": 2,
-        "fieldingPercentage": 0.979,
+        "fieldingPercentage": 0.98,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 97
+        "totalChances": 99
       },
       "evaluation": {
-        "score": 63,
+        "score": 67,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 90.55555555555554,
-          "Power": 54.47368421052633,
-          "Contact": 61.25000000000001,
+          "On-base": 92.77777777777777,
+          "Power": 60.00000000000002,
+          "Contact": 68.125,
           "Discipline": 48.48484848484848,
           "Speed": 23.333333333333332
         },
         "summary": "RJ Johnson Jr. profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .318",
-          "OBP .443",
-          "SLG .527"
+          "AVG .329",
+          "OBP .447",
+          "SLG .548"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".318"
+            "value": ".329"
           },
           {
             "label": "OBP",
-            "value": ".443"
+            "value": ".447"
           },
           {
             "label": "SLG",
-            "value": ".527"
+            "value": ".548"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "7"
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "40"
           },
           {
             "label": "SB",
@@ -745,7 +745,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "5",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/trevor-dosenbach/7801",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Dosenback_Trevor_daEIQ.JPG",
-        "gamesPlayed": 50,
+        "gamesPlayed": 51,
         "gamesStarted": 21,
         "battingAverage": 0.222,
         "onBasePercentage": 0.304,
@@ -1178,31 +1178,31 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "10",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/dylan-siesky/7816",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Siesky_6Svfu.JPG",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 0,
-        "appearances": 10,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.59,
-        "whip": 1.32,
+        "earnedRunAverage": 7.98,
+        "whip": 1.5,
         "wins": 3,
         "losses": 0,
         "saves": 2,
         "shutouts": 0,
-        "inningsPitched": 13.666666666666666,
-        "inningsPitchedDisplay": "13.2",
-        "hitsAllowed": 10,
-        "runsAllowed": 10,
-        "earnedRunsAllowed": 10,
+        "inningsPitched": 14.666666666666666,
+        "inningsPitchedDisplay": "14.2",
+        "hitsAllowed": 14,
+        "runsAllowed": 13,
+        "earnedRunsAllowed": 13,
         "walksAllowed": 8,
         "strikeouts": 12,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 47,
+        "opponentsAtBats": 52,
         "wildPitches": 2,
-        "hitBatters": 5,
+        "hitBatters": 6,
         "balks": 0,
-        "opponentsBattingAverage": 0.213,
+        "opponentsBattingAverage": 0.269,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1227,7 +1227,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 9,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1235,32 +1235,32 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 35.47671840354767,
+          "Miss bats": 30.57851239669422,
           "Command": 10,
           "Damage suppression": 0
         },
         "summary": "Dylan Siesky gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.59",
-          "WHIP 1.32",
-          "K/9 7.9"
+          "ERA 7.98",
+          "WHIP 1.50",
+          "K/9 7.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.59"
+            "value": "7.98"
           },
           {
             "label": "WHIP",
-            "value": "1.32"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "7.9"
+            "value": "7.4"
           },
           {
             "label": "BB/9",
-            "value": "5.3"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
@@ -1268,7 +1268,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           },
           {
             "label": "IP",
-            "value": "13.7"
+            "value": "14.7"
           }
         ],
         "metaLine": "GR / R/R",
@@ -1606,21 +1606,21 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "13",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/dylan-winebrenner/8033",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Winebreinner_jTOAR.JPG",
-        "gamesPlayed": 54,
-        "gamesStarted": 54,
-        "battingAverage": 0.353,
-        "onBasePercentage": 0.462,
-        "sluggingPercentage": 0.637,
-        "ops": 1.099,
-        "atBats": 204,
-        "runs": 53,
-        "hits": 72,
+        "gamesPlayed": 55,
+        "gamesStarted": 55,
+        "battingAverage": 0.356,
+        "onBasePercentage": 0.469,
+        "sluggingPercentage": 0.635,
+        "ops": 1.104,
+        "atBats": 208,
+        "runs": 57,
+        "hits": 74,
         "doubles": 11,
         "triples": 1,
         "homeRuns": 15,
-        "runsBattedIn": 53,
-        "totalBases": 130,
-        "walks": 22,
+        "runsBattedIn": 55,
+        "totalBases": 132,
+        "walks": 25,
         "hitByPitch": 21,
         "strikeouts": 42,
         "intentionalWalks": 4,
@@ -1629,10 +1629,10 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "sacrificeHits": 1,
         "stolenBases": 9,
         "stolenBasesAttempts": 16,
-        "putouts": 426,
+        "putouts": 433,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 274,
+        "plateAppearances": 281,
         "caughtStealing": 7,
         "pickedOff": 3
       },
@@ -1644,51 +1644,51 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "13",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/dylan-winebrenner/8033",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Winebreinner_jTOAR.JPG",
-        "gamesPlayed": 54,
-        "gamesStarted": 54,
-        "putouts": 426,
+        "gamesPlayed": 55,
+        "gamesStarted": 55,
+        "putouts": 433,
         "assists": 32,
         "errors": 2,
         "fieldingPercentage": 0.996,
-        "doublePlays": 11,
+        "doublePlays": 12,
         "stolenBasesAgainst": 37,
         "caughtStealingBy": 15,
         "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
-        "totalChances": 460
+        "totalChances": 467
       },
       "evaluation": {
-        "score": 77,
+        "score": 78,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
           "On-base": 100,
-          "Power": 83.42105263157896,
-          "Contact": 83.12499999999999,
-          "Discipline": 35.978835978835974,
+          "Power": 82.89473684210527,
+          "Contact": 84.99999999999999,
+          "Discipline": 43.91534391534391,
           "Speed": 30
         },
         "summary": "Dylan Winebrenner profiles as a C piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .353",
-          "OBP .462",
-          "SLG .637"
+          "AVG .356",
+          "OBP .469",
+          "SLG .635"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".353"
+            "value": ".356"
           },
           {
             "label": "OBP",
-            "value": ".462"
+            "value": ".469"
           },
           {
             "label": "SLG",
-            "value": ".637"
+            "value": ".635"
           },
           {
             "label": "HR",
@@ -1696,7 +1696,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           },
           {
             "label": "RBI",
-            "value": "53"
+            "value": "55"
           },
           {
             "label": "SB",
@@ -1751,33 +1751,33 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "14",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/ryan-recio/8119",
         "imageUrl": "https://richmondspiders.com/images/2026/1/15/IMG_0210.jpg",
-        "gamesPlayed": 45,
+        "gamesPlayed": 46,
         "gamesStarted": 36,
-        "battingAverage": 0.236,
-        "onBasePercentage": 0.355,
-        "sluggingPercentage": 0.52,
-        "ops": 0.875,
-        "atBats": 123,
-        "runs": 24,
-        "hits": 29,
-        "doubles": 8,
+        "battingAverage": 0.24,
+        "onBasePercentage": 0.363,
+        "sluggingPercentage": 0.528,
+        "ops": 0.891,
+        "atBats": 125,
+        "runs": 26,
+        "hits": 30,
+        "doubles": 9,
         "triples": 0,
         "homeRuns": 9,
-        "runsBattedIn": 26,
-        "totalBases": 64,
+        "runsBattedIn": 27,
+        "totalBases": 66,
         "walks": 19,
-        "hitByPitch": 6,
+        "hitByPitch": 8,
         "strikeouts": 38,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 4,
+        "sacrificeFlies": 5,
         "sacrificeHits": 1,
         "stolenBases": 4,
         "stolenBasesAttempts": 7,
         "putouts": 175,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 163,
+        "plateAppearances": 168,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -1804,36 +1804,36 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "totalChances": 204
       },
       "evaluation": {
-        "score": 35,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 41.66666666666664,
-          "Power": 52.63157894736843,
-          "Contact": 9.999999999999991,
+          "On-base": 46.11111111111109,
+          "Power": 54.73684210526317,
+          "Contact": 12.499999999999993,
           "Discipline": 33.33333333333333,
           "Speed": 13.333333333333334
         },
         "summary": "Ryan Recio gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .236",
-          "OBP .355",
-          "SLG .520"
+          "AVG .240",
+          "OBP .363",
+          "SLG .528"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".236"
+            "value": ".240"
           },
           {
             "label": "OBP",
-            "value": ".355"
+            "value": ".363"
           },
           {
             "label": "SLG",
-            "value": ".520"
+            "value": ".528"
           },
           {
             "label": "HR",
@@ -1841,7 +1841,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           },
           {
             "label": "RBI",
-            "value": "26"
+            "value": "27"
           },
           {
             "label": "SB",
@@ -1896,22 +1896,22 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "16",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/evan-wilson/8062",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Wilson_Evan_kHCvr.JPG",
-        "gamesPlayed": 42,
-        "gamesStarted": 37,
-        "battingAverage": 0.336,
-        "onBasePercentage": 0.47,
-        "sluggingPercentage": 0.627,
-        "ops": 1.097,
-        "atBats": 134,
-        "runs": 34,
-        "hits": 45,
-        "doubles": 12,
+        "gamesPlayed": 43,
+        "gamesStarted": 38,
+        "battingAverage": 0.343,
+        "onBasePercentage": 0.477,
+        "sluggingPercentage": 0.636,
+        "ops": 1.113,
+        "atBats": 140,
+        "runs": 36,
+        "hits": 48,
+        "doubles": 14,
         "triples": 0,
         "homeRuns": 9,
-        "runsBattedIn": 30,
-        "totalBases": 84,
-        "walks": 22,
-        "hitByPitch": 12,
+        "runsBattedIn": 36,
+        "totalBases": 89,
+        "walks": 23,
+        "hitByPitch": 13,
         "strikeouts": 23,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
@@ -1919,10 +1919,10 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "sacrificeHits": 2,
         "stolenBases": 8,
         "stolenBasesAttempts": 13,
-        "putouts": 59,
+        "putouts": 62,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 189,
+        "plateAppearances": 197,
         "caughtStealing": 5,
         "pickedOff": 2
       },
@@ -1967,9 +1967,9 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "16",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/evan-wilson/8062",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Wilson_Evan_kHCvr.JPG",
-        "gamesPlayed": 25,
-        "gamesStarted": 23,
-        "putouts": 59,
+        "gamesPlayed": 26,
+        "gamesStarted": 24,
+        "putouts": 62,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1979,7 +1979,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 60
+        "totalChances": 63
       },
       "evaluation": {
         "score": 7,
@@ -2074,33 +2074,33 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "17",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/rj-rickabaugh/7813",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Rickabaugh_RJ_H9Ey8.JPG",
-        "gamesPlayed": 40,
-        "gamesStarted": 29,
-        "battingAverage": 0.276,
+        "gamesPlayed": 41,
+        "gamesStarted": 30,
+        "battingAverage": 0.275,
         "onBasePercentage": 0.435,
-        "sluggingPercentage": 0.429,
-        "ops": 0.864,
-        "atBats": 98,
-        "runs": 18,
-        "hits": 27,
+        "sluggingPercentage": 0.422,
+        "ops": 0.857,
+        "atBats": 102,
+        "runs": 20,
+        "hits": 28,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 3,
-        "runsBattedIn": 20,
-        "totalBases": 42,
-        "walks": 22,
-        "hitByPitch": 8,
+        "runsBattedIn": 22,
+        "totalBases": 43,
+        "walks": 23,
+        "hitByPitch": 9,
         "strikeouts": 28,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 3,
+        "sacrificeFlies": 4,
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 5,
-        "putouts": 204,
+        "putouts": 208,
         "assists": 0,
-        "errors": 2,
-        "plateAppearances": 138,
+        "errors": 3,
+        "plateAppearances": 145,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -2112,19 +2112,19 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "17",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/rj-rickabaugh/7813",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Rickabaugh_RJ_H9Ey8.JPG",
-        "gamesPlayed": 35,
-        "gamesStarted": 29,
-        "putouts": 204,
-        "assists": 31,
-        "errors": 2,
-        "fieldingPercentage": 0.992,
+        "gamesPlayed": 36,
+        "gamesStarted": 30,
+        "putouts": 208,
+        "assists": 32,
+        "errors": 3,
+        "fieldingPercentage": 0.988,
         "doublePlays": 2,
         "stolenBasesAgainst": 16,
         "caughtStealingBy": 13,
         "stolenBasesPercentage": null,
         "passedBalls": 2,
-        "catchersInterference": 0,
-        "totalChances": 237
+        "catchersInterference": 1,
+        "totalChances": 243
       },
       "evaluation": {
         "score": 51,
@@ -2134,21 +2134,21 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         },
         "components": {
           "On-base": 86.1111111111111,
-          "Power": 28.68421052631579,
-          "Contact": 35.000000000000014,
-          "Discipline": 65.07936507936506,
+          "Power": 26.842105263157894,
+          "Contact": 34.375000000000014,
+          "Discipline": 69.04761904761904,
           "Speed": 10
         },
         "summary": "RJ Rickabaugh profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .276",
+          "AVG .275",
           "OBP .435",
-          "SLG .429"
+          "SLG .422"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".276"
+            "value": ".275"
           },
           {
             "label": "OBP",
@@ -2156,7 +2156,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           },
           {
             "label": "SLG",
-            "value": ".429"
+            "value": ".422"
           },
           {
             "label": "HR",
@@ -2164,7 +2164,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -2220,31 +2220,31 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "18",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/aaron-van-tuyle/8061",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Van-Tuyle_miVob.JPG",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 0,
-        "appearances": 14,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.91,
-        "whip": 1.36,
+        "earnedRunAverage": 7.2,
+        "whip": 1.6,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 14.666666666666666,
-        "inningsPitchedDisplay": "14.2",
-        "hitsAllowed": 13,
-        "runsAllowed": 8,
-        "earnedRunsAllowed": 8,
-        "walksAllowed": 7,
+        "inningsPitched": 15,
+        "inningsPitchedDisplay": "15.0",
+        "hitsAllowed": 15,
+        "runsAllowed": 12,
+        "earnedRunsAllowed": 12,
+        "walksAllowed": 9,
         "strikeouts": 12,
-        "doublesAllowed": 1,
+        "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 56,
+        "opponentsAtBats": 59,
         "wildPitches": 3,
-        "hitBatters": 4,
+        "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.232,
+        "opponentsBattingAverage": 0.254,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2269,7 +2269,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 8,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2277,40 +2277,40 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 30.57851239669422,
-          "Command": 14.285714285714285,
+          "Miss bats": 29.090909090909093,
+          "Command": 6.666666666666665,
           "Damage suppression": 0
         },
         "summary": "Aaron Van Tuyle gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.91",
-          "WHIP 1.36",
-          "K/9 7.4"
+          "ERA 7.20",
+          "WHIP 1.60",
+          "K/9 7.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.91"
+            "value": "7.20"
           },
           {
             "label": "WHIP",
-            "value": "1.36"
+            "value": "1.60"
           },
           {
             "label": "K/9",
-            "value": "7.4"
+            "value": "7.2"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "5.4"
           },
           {
             "label": "HR/9",
-            "value": "1.23"
+            "value": "1.20"
           },
           {
             "label": "IP",
-            "value": "14.7"
+            "value": "15.0"
           }
         ],
         "metaLine": "FR / R/R",
@@ -2362,31 +2362,31 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "19",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/angel-santiago-cruz/7815",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Santiago-Cruz_aomeB.JPG",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 2,
-        "appearances": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.75,
-        "whip": 1.85,
+        "earnedRunAverage": 7.97,
+        "whip": 1.97,
         "wins": 1,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 20,
-        "inningsPitchedDisplay": "20.0",
-        "hitsAllowed": 25,
-        "runsAllowed": 19,
-        "earnedRunsAllowed": 15,
-        "walksAllowed": 12,
-        "strikeouts": 20,
+        "inningsPitched": 20.333333333333332,
+        "inningsPitchedDisplay": "20.1",
+        "hitsAllowed": 27,
+        "runsAllowed": 22,
+        "earnedRunsAllowed": 18,
+        "walksAllowed": 13,
+        "strikeouts": 21,
         "doublesAllowed": 5,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 76,
+        "homeRunsAllowed": 5,
+        "opponentsAtBats": 79,
         "wildPitches": 1,
         "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.329,
+        "opponentsBattingAverage": 0.342,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2411,7 +2411,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "totalChances": 4
       },
       "evaluation": {
-        "score": 11,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2419,40 +2419,40 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 13.33333333333333,
+          "Miss bats": 48.1371087928465,
+          "Command": 12.307692307692305,
           "Damage suppression": 0
         },
         "summary": "Angel Santiago-Cruz looks like a RHP/INF option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 1.85",
-          "K/9 9.0"
+          "ERA 7.97",
+          "WHIP 1.97",
+          "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "7.97"
           },
           {
             "label": "WHIP",
-            "value": "1.85"
+            "value": "1.97"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "9.3"
           },
           {
             "label": "BB/9",
-            "value": "5.4"
+            "value": "5.8"
           },
           {
             "label": "HR/9",
-            "value": "1.80"
+            "value": "2.21"
           },
           {
             "label": "IP",
-            "value": "20.0"
+            "value": "20.3"
           }
         ],
         "metaLine": "SO / R/R",
@@ -3023,21 +3023,21 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "24",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/sean-scanlon/8035",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Scanlon_Sean_6wVZO.JPG",
-        "gamesPlayed": 45,
-        "gamesStarted": 34,
-        "battingAverage": 0.217,
-        "onBasePercentage": 0.34,
-        "sluggingPercentage": 0.426,
-        "ops": 0.766,
-        "atBats": 129,
-        "runs": 24,
+        "gamesPlayed": 46,
+        "gamesStarted": 35,
+        "battingAverage": 0.215,
+        "onBasePercentage": 0.342,
+        "sluggingPercentage": 0.423,
+        "ops": 0.765,
+        "atBats": 130,
+        "runs": 25,
         "hits": 28,
         "doubles": 9,
         "triples": 0,
         "homeRuns": 6,
         "runsBattedIn": 24,
         "totalBases": 55,
-        "walks": 14,
+        "walks": 15,
         "hitByPitch": 11,
         "strikeouts": 34,
         "intentionalWalks": 0,
@@ -3049,7 +3049,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "putouts": 0,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 159,
+        "plateAppearances": 161,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3062,30 +3062,30 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 33.33333333333333,
-          "Power": 27.89473684210526,
+          "On-base": 34.44444444444444,
+          "Power": 27.105263157894736,
           "Contact": 0,
-          "Discipline": 23.529411764705877,
+          "Discipline": 26.797385620915026,
           "Speed": 6.666666666666667
         },
         "summary": "Sean Scanlon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .217",
-          "OBP .340",
-          "SLG .426"
+          "AVG .215",
+          "OBP .342",
+          "SLG .423"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".217"
+            "value": ".215"
           },
           {
             "label": "OBP",
-            "value": ".340"
+            "value": ".342"
           },
           {
             "label": "SLG",
-            "value": ".426"
+            "value": ".423"
           },
           {
             "label": "HR",
@@ -3291,31 +3291,31 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "26",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/chayse-gruber/7805",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Gruber_Chayse_eIQ73.JPG",
-        "gamesPlayed": 16,
+        "gamesPlayed": 17,
         "gamesStarted": 1,
-        "appearances": 16,
+        "appearances": 17,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.25,
-        "whip": 1.35,
-        "wins": 3,
+        "earnedRunAverage": 4.6,
+        "whip": 1.38,
+        "wins": 4,
         "losses": 1,
         "saves": 3,
         "shutouts": 0,
-        "inningsPitched": 42.333333333333336,
-        "inningsPitchedDisplay": "42.1",
-        "hitsAllowed": 44,
-        "runsAllowed": 20,
-        "earnedRunsAllowed": 20,
-        "walksAllowed": 13,
-        "strikeouts": 36,
-        "doublesAllowed": 10,
+        "inningsPitched": 47,
+        "inningsPitchedDisplay": "47.0",
+        "hitsAllowed": 50,
+        "runsAllowed": 24,
+        "earnedRunsAllowed": 24,
+        "walksAllowed": 15,
+        "strikeouts": 39,
+        "doublesAllowed": 12,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 7,
-        "opponentsAtBats": 159,
+        "homeRunsAllowed": 8,
+        "opponentsAtBats": 179,
         "wildPitches": 4,
-        "hitBatters": 11,
+        "hitBatters": 12,
         "balks": 0,
-        "opponentsBattingAverage": 0.277,
+        "opponentsBattingAverage": 0.279,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3340,7 +3340,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "totalChances": 10
       },
       "evaluation": {
-        "score": 12,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3348,40 +3348,40 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 33.21403006442376,
-          "Command": 35.38461538461538,
+          "Miss bats": 31.52804642166344,
+          "Command": 31.999999999999996,
           "Damage suppression": 0
         },
         "summary": "Chayse Gruber looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.25",
-          "WHIP 1.35",
-          "K/9 7.7"
+          "ERA 4.60",
+          "WHIP 1.38",
+          "K/9 7.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.25"
+            "value": "4.60"
           },
           {
             "label": "WHIP",
-            "value": "1.35"
+            "value": "1.38"
           },
           {
             "label": "K/9",
-            "value": "7.7"
+            "value": "7.5"
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "2.9"
           },
           {
             "label": "HR/9",
-            "value": "1.49"
+            "value": "1.53"
           },
           {
             "label": "IP",
-            "value": "42.3"
+            "value": "47.0"
           }
         ],
         "metaLine": "SR / R/R",
@@ -3432,8 +3432,8 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "27",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/khristopher-morris/8036",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Morris_2tLcM.JPG",
-        "gamesPlayed": 21,
-        "gamesStarted": 16,
+        "gamesPlayed": 22,
+        "gamesStarted": 17,
         "battingAverage": 0.226,
         "onBasePercentage": 0.382,
         "sluggingPercentage": 0.434,
@@ -3469,31 +3469,31 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "27",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/khristopher-morris/8036",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Morris_2tLcM.JPG",
-        "gamesPlayed": 7,
-        "gamesStarted": 5,
-        "appearances": 7,
+        "gamesPlayed": 8,
+        "gamesStarted": 6,
+        "appearances": 8,
         "gamesCompleted": 0,
-        "earnedRunAverage": 8.49,
-        "whip": 1.89,
+        "earnedRunAverage": 9.49,
+        "whip": 2.03,
         "wins": 0,
         "losses": 1,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 11.666666666666666,
-        "inningsPitchedDisplay": "11.2",
-        "hitsAllowed": 16,
-        "runsAllowed": 15,
-        "earnedRunsAllowed": 11,
-        "walksAllowed": 6,
+        "inningsPitched": 12.333333333333334,
+        "inningsPitchedDisplay": "12.1",
+        "hitsAllowed": 18,
+        "runsAllowed": 19,
+        "earnedRunsAllowed": 13,
+        "walksAllowed": 7,
         "strikeouts": 9,
         "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 46,
-        "wildPitches": 2,
+        "opponentsAtBats": 50,
+        "wildPitches": 3,
         "hitBatters": 8,
         "balks": 1,
-        "opponentsBattingAverage": 0.348,
+        "opponentsBattingAverage": 0.36,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3518,7 +3518,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "totalChances": 31
       },
       "evaluation": {
-        "score": 7,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3526,40 +3526,40 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 26.753246753246756,
-          "Command": 10,
+          "Miss bats": 23.34152334152334,
+          "Command": 5.714285714285716,
           "Damage suppression": 0
         },
         "summary": "Khristopher Morris gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 8.49",
-          "WHIP 1.89",
-          "K/9 6.9"
+          "ERA 9.49",
+          "WHIP 2.03",
+          "K/9 6.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.49"
+            "value": "9.49"
           },
           {
             "label": "WHIP",
-            "value": "1.89"
+            "value": "2.03"
           },
           {
             "label": "K/9",
-            "value": "6.9"
+            "value": "6.6"
           },
           {
             "label": "BB/9",
-            "value": "4.6"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
-            "value": "0.77"
+            "value": "0.73"
           },
           {
             "label": "IP",
-            "value": "11.7"
+            "value": "12.3"
           }
         ],
         "metaLine": "GR / R/R",
@@ -4284,31 +4284,31 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "34",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/glenn-smith/7817",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Smith_iUhWL.JPG",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 7,
-        "appearances": 12,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 8.82,
-        "whip": 1.93,
+        "earnedRunAverage": 9.61,
+        "whip": 1.99,
         "wins": 1,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 32.666666666666664,
-        "inningsPitchedDisplay": "32.2",
-        "hitsAllowed": 39,
-        "runsAllowed": 35,
-        "earnedRunsAllowed": 32,
-        "walksAllowed": 24,
+        "inningsPitched": 34.666666666666664,
+        "inningsPitchedDisplay": "34.2",
+        "hitsAllowed": 42,
+        "runsAllowed": 40,
+        "earnedRunsAllowed": 37,
+        "walksAllowed": 27,
         "strikeouts": 24,
         "doublesAllowed": 8,
-        "triplesAllowed": 1,
+        "triplesAllowed": 2,
         "homeRunsAllowed": 8,
-        "opponentsAtBats": 120,
+        "opponentsAtBats": 128,
         "wildPitches": 1,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.325,
+        "opponentsBattingAverage": 0.328,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4333,7 +4333,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "totalChances": 9
       },
       "evaluation": {
-        "score": 5,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4341,40 +4341,40 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 23.747680890538035,
+          "Miss bats": 20.27972027972028,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Glenn Smith gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 8.82",
-          "WHIP 1.93",
-          "K/9 6.6"
+          "ERA 9.61",
+          "WHIP 1.99",
+          "K/9 6.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.82"
+            "value": "9.61"
           },
           {
             "label": "WHIP",
-            "value": "1.93"
+            "value": "1.99"
           },
           {
             "label": "K/9",
-            "value": "6.6"
+            "value": "6.2"
           },
           {
             "label": "BB/9",
-            "value": "6.6"
+            "value": "7.0"
           },
           {
             "label": "HR/9",
-            "value": "2.20"
+            "value": "2.08"
           },
           {
             "label": "IP",
-            "value": "32.7"
+            "value": "34.7"
           }
         ],
         "metaLine": "SO / R/R",
@@ -4425,33 +4425,33 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "35",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/chris-schaller/8060",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Schaller_IYXwe.JPG",
-        "gamesPlayed": 46,
-        "gamesStarted": 40,
-        "battingAverage": 0.309,
-        "onBasePercentage": 0.387,
-        "sluggingPercentage": 0.497,
-        "ops": 0.884,
-        "atBats": 149,
-        "runs": 27,
-        "hits": 46,
+        "gamesPlayed": 47,
+        "gamesStarted": 41,
+        "battingAverage": 0.321,
+        "onBasePercentage": 0.394,
+        "sluggingPercentage": 0.538,
+        "ops": 0.932,
+        "atBats": 156,
+        "runs": 30,
+        "hits": 50,
         "doubles": 14,
         "triples": 1,
-        "homeRuns": 4,
-        "runsBattedIn": 27,
-        "totalBases": 74,
+        "homeRuns": 6,
+        "runsBattedIn": 31,
+        "totalBases": 84,
         "walks": 7,
         "hitByPitch": 12,
-        "strikeouts": 38,
+        "strikeouts": 40,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 4,
-        "stolenBases": 13,
-        "stolenBasesAttempts": 16,
-        "putouts": 105,
+        "stolenBases": 14,
+        "stolenBasesAttempts": 17,
+        "putouts": 108,
         "assists": 0,
-        "errors": 2,
-        "plateAppearances": 191,
+        "errors": 3,
+        "plateAppearances": 199,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -4463,63 +4463,63 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "35",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/chris-schaller/8060",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Schaller_IYXwe.JPG",
-        "gamesPlayed": 36,
-        "gamesStarted": 34,
-        "putouts": 105,
+        "gamesPlayed": 37,
+        "gamesStarted": 35,
+        "putouts": 108,
         "assists": 2,
-        "errors": 2,
-        "fieldingPercentage": 0.982,
+        "errors": 3,
+        "fieldingPercentage": 0.973,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 109
+        "totalChances": 113
       },
       "evaluation": {
-        "score": 45,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 59.444444444444436,
-          "Power": 46.57894736842106,
-          "Contact": 55.62499999999999,
+          "On-base": 63.33333333333333,
+          "Power": 57.36842105263159,
+          "Contact": 63.125,
           "Discipline": 0,
-          "Speed": 43.333333333333336
+          "Speed": 46.666666666666664
         },
         "summary": "Chris Schaller profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .309",
-          "OBP .387",
-          "SLG .497"
+          "AVG .321",
+          "OBP .394",
+          "SLG .538"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".309"
+            "value": ".321"
           },
           {
             "label": "OBP",
-            "value": ".387"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".497"
+            "value": ".538"
           },
           {
             "label": "HR",
-            "value": "4"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "31"
           },
           {
             "label": "SB",
-            "value": "13"
+            "value": "14"
           }
         ],
         "metaLine": "FR / R/R",
@@ -4570,33 +4570,33 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "36",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/noah-haught/8043",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Haught_Noah_csFff.JPG",
-        "gamesPlayed": 49,
-        "gamesStarted": 44,
-        "battingAverage": 0.239,
-        "onBasePercentage": 0.327,
-        "sluggingPercentage": 0.303,
-        "ops": 0.63,
-        "atBats": 142,
-        "runs": 15,
-        "hits": 34,
-        "doubles": 7,
+        "gamesPlayed": 50,
+        "gamesStarted": 45,
+        "battingAverage": 0.25,
+        "onBasePercentage": 0.337,
+        "sluggingPercentage": 0.318,
+        "ops": 0.655,
+        "atBats": 148,
+        "runs": 18,
+        "hits": 37,
+        "doubles": 8,
         "triples": 1,
         "homeRuns": 0,
-        "runsBattedIn": 16,
-        "totalBases": 43,
-        "walks": 17,
+        "runsBattedIn": 19,
+        "totalBases": 47,
+        "walks": 18,
         "hitByPitch": 2,
-        "strikeouts": 35,
+        "strikeouts": 37,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
-        "putouts": 41,
+        "putouts": 46,
         "assists": 0,
-        "errors": 9,
-        "plateAppearances": 167,
+        "errors": 10,
+        "plateAppearances": 174,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -4641,19 +4641,19 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "36",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/noah-haught/8043",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Haught_Noah_csFff.JPG",
-        "gamesPlayed": 45,
-        "gamesStarted": 43,
-        "putouts": 41,
-        "assists": 92,
-        "errors": 9,
-        "fieldingPercentage": 0.937,
-        "doublePlays": 15,
+        "gamesPlayed": 46,
+        "gamesStarted": 44,
+        "putouts": 46,
+        "assists": 95,
+        "errors": 10,
+        "fieldingPercentage": 0.934,
+        "doublePlays": 16,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 142
+        "totalChances": 151
       },
       "evaluation": {
         "score": 3,
@@ -4837,12 +4837,12 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "48",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/bijan-anvar/8032",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Anvar_gxDeC.JPG",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 0,
-        "appearances": 19,
+        "appearances": 20,
         "gamesCompleted": 0,
         "earnedRunAverage": 3.22,
-        "whip": 1.25,
+        "whip": 1.39,
         "wins": 2,
         "losses": 0,
         "saves": 1,
@@ -4850,9 +4850,9 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "inningsPitched": 22.333333333333332,
         "inningsPitchedDisplay": "22.1",
         "hitsAllowed": 18,
-        "runsAllowed": 8,
+        "runsAllowed": 9,
         "earnedRunsAllowed": 8,
-        "walksAllowed": 10,
+        "walksAllowed": 13,
         "strikeouts": 21,
         "doublesAllowed": 4,
         "triplesAllowed": 0,
@@ -4886,7 +4886,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "totalChances": 4
       },
       "evaluation": {
-        "score": 12,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4895,13 +4895,13 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 40.56987788331073,
-          "Command": 22.000000000000004,
+          "Command": 12.307692307692308,
           "Damage suppression": 0
         },
-        "summary": "Bijan Anvar looks like a RHP option who limits runs and keeps traffic under control.",
+        "summary": "Bijan Anvar looks like a RHP option who limits runs.",
         "summaryMetrics": [
           "ERA 3.22",
-          "WHIP 1.25",
+          "WHIP 1.39",
           "K/9 8.5"
         ],
         "statCards": [
@@ -4911,7 +4911,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.25"
+            "value": "1.39"
           },
           {
             "label": "K/9",
@@ -4919,7 +4919,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           },
           {
             "label": "BB/9",
-            "value": "4.0"
+            "value": "5.2"
           },
           {
             "label": "HR/9",
@@ -5066,7 +5066,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "jersey": "52",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/reid-downs/8064",
         "imageUrl": "https://richmondspiders.com/images/2025/10/15/250911_UR_BB_Headshot_jpgs_250911_UR_BB_Downs_Reid_gAf9m.JPG",
-        "gamesPlayed": 27,
+        "gamesPlayed": 28,
         "gamesStarted": 2,
         "battingAverage": 0.176,
         "onBasePercentage": 0.263,
@@ -5808,29 +5808,29 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "position": "INF",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 32,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Aidan O'Keefe gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .237",
-          "OBP .370",
-          "SLG .342"
+          "AVG .246",
+          "OBP .375",
+          "SLG .347"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".237"
+            "value": ".246"
           },
           {
             "label": "OBP",
-            "value": ".370"
+            "value": ".375"
           },
           {
             "label": "SLG",
-            "value": ".342"
+            "value": ".347"
           },
           {
             "label": "HR",
@@ -5838,7 +5838,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           },
           {
             "label": "RBI",
-            "value": "15"
+            "value": "16"
           },
           {
             "label": "SB",
@@ -5846,10 +5846,10 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           }
         ],
         "components": {
-          "On-base": 49.999999999999986,
-          "Power": 5.789473684210533,
-          "Contact": 10.624999999999991,
-          "Discipline": 79.22705314009659,
+          "On-base": 52.77777777777777,
+          "Power": 7.10526315789473,
+          "Contact": 16.249999999999996,
+          "Discipline": 84.05797101449275,
           "Speed": 10
         },
         "metaLine": "R-JR / R/R",
@@ -5877,7 +5877,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "position": "INF / C",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 74,
+        "score": 76,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
@@ -5885,8 +5885,8 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "summary": "Michael Elko profiles as a INF / C piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .339",
-          "OBP .451",
-          "SLG .538"
+          "OBP .459",
+          "SLG .534"
         ],
         "statCards": [
           {
@@ -5895,11 +5895,11 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           },
           {
             "label": "OBP",
-            "value": ".451"
+            "value": ".459"
           },
           {
             "label": "SLG",
-            "value": ".538"
+            "value": ".534"
           },
           {
             "label": "HR",
@@ -5915,10 +5915,10 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           }
         ],
         "components": {
-          "On-base": 95,
-          "Power": 57.36842105263159,
+          "On-base": 99.44444444444444,
+          "Power": 56.31578947368422,
           "Contact": 74.37500000000001,
-          "Discipline": 49.002849002849004,
+          "Discipline": 54.700854700854684,
           "Speed": 86.66666666666667
         },
         "metaLine": "SR / L/R",
@@ -5946,37 +5946,37 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "position": "OF",
         "classYear": "GR",
         "handedness": "L/L",
-        "score": 63,
+        "score": 67,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "RJ Johnson Jr. profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .318",
-          "OBP .443",
-          "SLG .527"
+          "AVG .329",
+          "OBP .447",
+          "SLG .548"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".318"
+            "value": ".329"
           },
           {
             "label": "OBP",
-            "value": ".443"
+            "value": ".447"
           },
           {
             "label": "SLG",
-            "value": ".527"
+            "value": ".548"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "7"
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "40"
           },
           {
             "label": "SB",
@@ -5984,9 +5984,9 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           }
         ],
         "components": {
-          "On-base": 90.55555555555554,
-          "Power": 54.47368421052633,
-          "Contact": 61.25000000000001,
+          "On-base": 92.77777777777777,
+          "Power": 60.00000000000002,
+          "Contact": 68.125,
           "Discipline": 48.48484848484848,
           "Speed": 23.333333333333332
         },
@@ -6222,33 +6222,33 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "position": "RHP",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 9,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dylan Siesky gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.59",
-          "WHIP 1.32",
-          "K/9 7.9"
+          "ERA 7.98",
+          "WHIP 1.50",
+          "K/9 7.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.59"
+            "value": "7.98"
           },
           {
             "label": "WHIP",
-            "value": "1.32"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "7.9"
+            "value": "7.4"
           },
           {
             "label": "BB/9",
-            "value": "5.3"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
@@ -6256,13 +6256,13 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           },
           {
             "label": "IP",
-            "value": "13.7"
+            "value": "14.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 35.47671840354767,
+          "Miss bats": 30.57851239669422,
           "Command": 10,
           "Damage suppression": 0
         },
@@ -6429,29 +6429,29 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "position": "C",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 77,
+        "score": 78,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Dylan Winebrenner profiles as a C piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .353",
-          "OBP .462",
-          "SLG .637"
+          "AVG .356",
+          "OBP .469",
+          "SLG .635"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".353"
+            "value": ".356"
           },
           {
             "label": "OBP",
-            "value": ".462"
+            "value": ".469"
           },
           {
             "label": "SLG",
-            "value": ".637"
+            "value": ".635"
           },
           {
             "label": "HR",
@@ -6459,7 +6459,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           },
           {
             "label": "RBI",
-            "value": "53"
+            "value": "55"
           },
           {
             "label": "SB",
@@ -6468,9 +6468,9 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 83.42105263157896,
-          "Contact": 83.12499999999999,
-          "Discipline": 35.978835978835974,
+          "Power": 82.89473684210527,
+          "Contact": 84.99999999999999,
+          "Discipline": 43.91534391534391,
           "Speed": 30
         },
         "metaLine": "GR / R/R",
@@ -6498,29 +6498,29 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "position": "INF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 35,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ryan Recio gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .236",
-          "OBP .355",
-          "SLG .520"
+          "AVG .240",
+          "OBP .363",
+          "SLG .528"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".236"
+            "value": ".240"
           },
           {
             "label": "OBP",
-            "value": ".355"
+            "value": ".363"
           },
           {
             "label": "SLG",
-            "value": ".520"
+            "value": ".528"
           },
           {
             "label": "HR",
@@ -6528,7 +6528,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           },
           {
             "label": "RBI",
-            "value": "26"
+            "value": "27"
           },
           {
             "label": "SB",
@@ -6536,9 +6536,9 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           }
         ],
         "components": {
-          "On-base": 41.66666666666664,
-          "Power": 52.63157894736843,
-          "Contact": 9.999999999999991,
+          "On-base": 46.11111111111109,
+          "Power": 54.73684210526317,
+          "Contact": 12.499999999999993,
           "Discipline": 33.33333333333333,
           "Speed": 13.333333333333334
         },
@@ -6643,14 +6643,14 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         },
         "summary": "RJ Rickabaugh profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .276",
+          "AVG .275",
           "OBP .435",
-          "SLG .429"
+          "SLG .422"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".276"
+            "value": ".275"
           },
           {
             "label": "OBP",
@@ -6658,7 +6658,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           },
           {
             "label": "SLG",
-            "value": ".429"
+            "value": ".422"
           },
           {
             "label": "HR",
@@ -6666,7 +6666,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -6675,9 +6675,9 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         ],
         "components": {
           "On-base": 86.1111111111111,
-          "Power": 28.68421052631579,
-          "Contact": 35.000000000000014,
-          "Discipline": 65.07936507936506,
+          "Power": 26.842105263157894,
+          "Contact": 34.375000000000014,
+          "Discipline": 69.04761904761904,
           "Speed": 10
         },
         "metaLine": "R-JR / L/R",
@@ -6705,48 +6705,48 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 8,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Aaron Van Tuyle gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.91",
-          "WHIP 1.36",
-          "K/9 7.4"
+          "ERA 7.20",
+          "WHIP 1.60",
+          "K/9 7.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.91"
+            "value": "7.20"
           },
           {
             "label": "WHIP",
-            "value": "1.36"
+            "value": "1.60"
           },
           {
             "label": "K/9",
-            "value": "7.4"
+            "value": "7.2"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "5.4"
           },
           {
             "label": "HR/9",
-            "value": "1.23"
+            "value": "1.20"
           },
           {
             "label": "IP",
-            "value": "14.7"
+            "value": "15.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 30.57851239669422,
-          "Command": 14.285714285714285,
+          "Miss bats": 29.090909090909093,
+          "Command": 6.666666666666665,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -6774,48 +6774,48 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "position": "RHP/INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 11,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Angel Santiago-Cruz looks like a RHP/INF option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 1.85",
-          "K/9 9.0"
+          "ERA 7.97",
+          "WHIP 1.97",
+          "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "7.97"
           },
           {
             "label": "WHIP",
-            "value": "1.85"
+            "value": "1.97"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "9.3"
           },
           {
             "label": "BB/9",
-            "value": "5.4"
+            "value": "5.8"
           },
           {
             "label": "HR/9",
-            "value": "1.80"
+            "value": "2.21"
           },
           {
             "label": "IP",
-            "value": "20.0"
+            "value": "20.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 13.33333333333333,
+          "Miss bats": 48.1371087928465,
+          "Command": 12.307692307692305,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -7125,22 +7125,22 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         },
         "summary": "Sean Scanlon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .217",
-          "OBP .340",
-          "SLG .426"
+          "AVG .215",
+          "OBP .342",
+          "SLG .423"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".217"
+            "value": ".215"
           },
           {
             "label": "OBP",
-            "value": ".340"
+            "value": ".342"
           },
           {
             "label": "SLG",
-            "value": ".426"
+            "value": ".423"
           },
           {
             "label": "HR",
@@ -7156,10 +7156,10 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           }
         ],
         "components": {
-          "On-base": 33.33333333333333,
-          "Power": 27.89473684210526,
+          "On-base": 34.44444444444444,
+          "Power": 27.105263157894736,
           "Contact": 0,
-          "Discipline": 23.529411764705877,
+          "Discipline": 26.797385620915026,
           "Speed": 6.666666666666667
         },
         "metaLine": "GR / L/R",
@@ -7256,48 +7256,48 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 12,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Chayse Gruber looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.25",
-          "WHIP 1.35",
-          "K/9 7.7"
+          "ERA 4.60",
+          "WHIP 1.38",
+          "K/9 7.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.25"
+            "value": "4.60"
           },
           {
             "label": "WHIP",
-            "value": "1.35"
+            "value": "1.38"
           },
           {
             "label": "K/9",
-            "value": "7.7"
+            "value": "7.5"
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "2.9"
           },
           {
             "label": "HR/9",
-            "value": "1.49"
+            "value": "1.53"
           },
           {
             "label": "IP",
-            "value": "42.3"
+            "value": "47.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 33.21403006442376,
-          "Command": 35.38461538461538,
+          "Miss bats": 31.52804642166344,
+          "Command": 31.999999999999996,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -7325,48 +7325,48 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "position": "RHP/INF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 7,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Khristopher Morris gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 8.49",
-          "WHIP 1.89",
-          "K/9 6.9"
+          "ERA 9.49",
+          "WHIP 2.03",
+          "K/9 6.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.49"
+            "value": "9.49"
           },
           {
             "label": "WHIP",
-            "value": "1.89"
+            "value": "2.03"
           },
           {
             "label": "K/9",
-            "value": "6.9"
+            "value": "6.6"
           },
           {
             "label": "BB/9",
-            "value": "4.6"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
-            "value": "0.77"
+            "value": "0.73"
           },
           {
             "label": "IP",
-            "value": "11.7"
+            "value": "12.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 26.753246753246756,
-          "Command": 10,
+          "Miss bats": 23.34152334152334,
+          "Command": 5.714285714285716,
           "Damage suppression": 0
         },
         "metaLine": "GR / R/R",
@@ -7739,47 +7739,47 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 5,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Glenn Smith gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 8.82",
-          "WHIP 1.93",
-          "K/9 6.6"
+          "ERA 9.61",
+          "WHIP 1.99",
+          "K/9 6.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.82"
+            "value": "9.61"
           },
           {
             "label": "WHIP",
-            "value": "1.93"
+            "value": "1.99"
           },
           {
             "label": "K/9",
-            "value": "6.6"
+            "value": "6.2"
           },
           {
             "label": "BB/9",
-            "value": "6.6"
+            "value": "7.0"
           },
           {
             "label": "HR/9",
-            "value": "2.20"
+            "value": "2.08"
           },
           {
             "label": "IP",
-            "value": "32.7"
+            "value": "34.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 23.747680890538035,
+          "Miss bats": 20.27972027972028,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -7808,49 +7808,49 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "position": "OF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 45,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Chris Schaller profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .309",
-          "OBP .387",
-          "SLG .497"
+          "AVG .321",
+          "OBP .394",
+          "SLG .538"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".309"
+            "value": ".321"
           },
           {
             "label": "OBP",
-            "value": ".387"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".497"
+            "value": ".538"
           },
           {
             "label": "HR",
-            "value": "4"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "31"
           },
           {
             "label": "SB",
-            "value": "13"
+            "value": "14"
           }
         ],
         "components": {
-          "On-base": 59.444444444444436,
-          "Power": 46.57894736842106,
-          "Contact": 55.62499999999999,
+          "On-base": 63.33333333333333,
+          "Power": 57.36842105263159,
+          "Contact": 63.125,
           "Discipline": 0,
-          "Speed": 43.333333333333336
+          "Speed": 46.666666666666664
         },
         "metaLine": "FR / R/R",
         "detailBadges": [
@@ -8014,15 +8014,15 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
         "position": "RHP",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 12,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Bijan Anvar looks like a RHP option who limits runs and keeps traffic under control.",
+        "summary": "Bijan Anvar looks like a RHP option who limits runs.",
         "summaryMetrics": [
           "ERA 3.22",
-          "WHIP 1.25",
+          "WHIP 1.39",
           "K/9 8.5"
         ],
         "statCards": [
@@ -8032,7 +8032,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.25"
+            "value": "1.39"
           },
           {
             "label": "K/9",
@@ -8040,7 +8040,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           },
           {
             "label": "BB/9",
-            "value": "4.0"
+            "value": "5.2"
           },
           {
             "label": "HR/9",
@@ -8055,7 +8055,7 @@ window.__BASEBALL_DATASETS__.richmond2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 40.56987788331073,
-          "Command": 22.000000000000004,
+          "Command": 12.307692307692308,
           "Damage suppression": 0
         },
         "metaLine": "GR / R/R",

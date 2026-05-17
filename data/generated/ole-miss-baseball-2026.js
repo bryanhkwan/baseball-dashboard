@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.ole-miss2026 = {
-  "generatedAt": "2026-05-16T11:18:19.811Z",
+  "generatedAt": "2026-05-17T11:33:40.853Z",
   "season": 2026,
   "school": {
     "slug": "ole-miss",
@@ -39,41 +39,41 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
     }
   },
   "teamSummary": {
-    "record": "36-19, 15-14",
-    "battingAverage": ".269",
-    "earnedRunAverage": "4.33",
+    "record": "36-20, 15-15",
+    "battingAverage": ".267",
+    "earnedRunAverage": "4.37",
     "wins": "36",
-    "losses": "19",
+    "losses": "20",
     "hitting": {
-      "atBats": "1772",
-      "runsScored": "383",
-      "hits": "476",
-      "runsBattedIn": "360",
-      "doubles": "76",
+      "atBats": "1801",
+      "runsScored": "385",
+      "hits": "480",
+      "runsBattedIn": "362",
+      "doubles": "77",
       "triples": "1",
       "homeRuns": "97",
-      "walks": "294",
+      "walks": "297",
       "intentionalWalks": "2",
-      "strikeouts": "567",
-      "strikeoutsLooking": "173",
-      "hitByPitch": "68",
+      "strikeouts": "575",
+      "strikeoutsLooking": "175",
+      "hitByPitch": "69",
       "stolenBases": "44",
       "caughtStealing": "9",
       "sacrificeHits": "7",
-      "sacrificeFlies": "21",
+      "sacrificeFlies": "22",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "350",
-      "flyOuts": "387",
+      "groundOuts": "358",
+      "flyOuts": "397",
       "groundedIntoDoublePlay": "33",
       "pickedOff": "4",
       "doublePlaysHitInto": "40",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1422",
-      "assists": "439",
+      "putouts": "1446",
+      "assists": "441",
       "errors": "53",
       "passedBalls": "1",
       "catchersInterference": "0",
@@ -81,45 +81,45 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       "caughtStealingBy": "17",
       "involvedInDoublePlays": "28",
       "involvedInTriplePlays": "0",
-      "totalChances": "1914",
-      "fieldingPercentage": ".972"
+      "totalChances": "1940",
+      "fieldingPercentage": ".973"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "36",
       "saves": "16",
-      "losses": "19",
+      "losses": "20",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "3",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "474.0",
-      "hitsAllowed": "441",
-      "runsAllowed": "262",
-      "earnedRunsAllowed": "228",
-      "walksAllowed": "175",
-      "strikeouts": "618",
-      "battersFaced": "2061",
-      "opponentAtBats": "1806",
-      "doublesAllowed": "65",
+      "inningsPitched": "482.0",
+      "hitsAllowed": "452",
+      "runsAllowed": "268",
+      "earnedRunsAllowed": "234",
+      "walksAllowed": "178",
+      "strikeouts": "627",
+      "battersFaced": "2099",
+      "opponentAtBats": "1839",
+      "doublesAllowed": "67",
       "triplesAllowed": "5",
-      "homerunsAllowed": "71",
+      "homerunsAllowed": "72",
       "wildPitches": "26",
       "balks": "2",
-      "hitBatters": "50",
-      "strikeoutsLooking": "148",
-      "intentionalWalks": "4",
+      "hitBatters": "51",
+      "strikeoutsLooking": "150",
+      "intentionalWalks": "5",
       "inheritedRunners": "0",
       "inheritedRunnersThatScored": "0",
       "sacrificeHitsAllowed": "16",
-      "sacrificeFliesAllowed": "14",
+      "sacrificeFliesAllowed": "15",
       "catchersInterferenceAllowed": "0",
-      "pitches": "7952",
-      "flyouts": "361",
-      "groundouts": "389",
+      "pitches": "8114",
+      "flyouts": "374",
+      "groundouts": "390",
       "teamUnearnedRuns": "0",
       "saveRecord": "16",
-      "pickoff": "16"
+      "pickoff": "17"
     }
   },
   "players": [
@@ -161,12 +161,12 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "jersey": "1",
         "profileUrl": "https://olemisssports.com/sports/baseball/roster/brayden-randle/6159",
         "imageUrl": "https://olemisssports.com/images/2026/2/6/Brayden_Randle.jpg",
-        "gamesPlayed": 42,
+        "gamesPlayed": 43,
         "gamesStarted": 38,
         "battingAverage": 0.224,
-        "onBasePercentage": 0.314,
+        "onBasePercentage": 0.318,
         "sluggingPercentage": 0.343,
-        "ops": 0.657,
+        "ops": 0.661,
         "atBats": 134,
         "runs": 18,
         "hits": 30,
@@ -175,7 +175,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "homeRuns": 3,
         "runsBattedIn": 16,
         "totalBases": 46,
-        "walks": 14,
+        "walks": 15,
         "hitByPitch": 5,
         "strikeouts": 28,
         "intentionalWalks": 0,
@@ -187,7 +187,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "putouts": 41,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 164,
+        "plateAppearances": 165,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -214,22 +214,22 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "totalChances": 123
       },
       "evaluation": {
-        "score": 14,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 18.888888888888875,
+          "On-base": 21.1111111111111,
           "Power": 6.052631578947374,
           "Contact": 2.500000000000002,
-          "Discipline": 33.33333333333333,
+          "Discipline": 37.30158730158729,
           "Speed": 13.333333333333334
         },
         "summary": "Brayden Randle gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .224",
-          "OBP .314",
+          "OBP .318",
           "SLG .343"
         ],
         "statCards": [
@@ -239,7 +239,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           },
           {
             "label": "OBP",
-            "value": ".314"
+            "value": ".318"
           },
           {
             "label": "SLG",
@@ -684,20 +684,20 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "jersey": "6",
         "profileUrl": "https://olemisssports.com/sports/baseball/roster/owen-paino/6157",
         "imageUrl": "https://olemisssports.com/images/2026/2/6/Owen_Paino.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 26,
-        "battingAverage": 0.276,
-        "onBasePercentage": 0.413,
-        "sluggingPercentage": 0.483,
-        "ops": 0.896,
-        "atBats": 87,
-        "runs": 24,
-        "hits": 24,
+        "gamesPlayed": 38,
+        "gamesStarted": 27,
+        "battingAverage": 0.278,
+        "onBasePercentage": 0.411,
+        "sluggingPercentage": 0.478,
+        "ops": 0.889,
+        "atBats": 90,
+        "runs": 25,
+        "hits": 25,
         "doubles": 3,
         "triples": 0,
         "homeRuns": 5,
         "runsBattedIn": 20,
-        "totalBases": 42,
+        "totalBases": 43,
         "walks": 17,
         "hitByPitch": 4,
         "strikeouts": 36,
@@ -707,10 +707,10 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 18,
+        "putouts": 20,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 110,
+        "plateAppearances": 113,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -722,51 +722,51 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "jersey": "6",
         "profileUrl": "https://olemisssports.com/sports/baseball/roster/owen-paino/6157",
         "imageUrl": "https://olemisssports.com/images/2026/2/6/Owen_Paino.jpg",
-        "gamesPlayed": 21,
-        "gamesStarted": 18,
-        "putouts": 18,
+        "gamesPlayed": 22,
+        "gamesStarted": 19,
+        "putouts": 20,
         "assists": 37,
         "errors": 5,
-        "fieldingPercentage": 0.917,
+        "fieldingPercentage": 0.919,
         "doublePlays": 6,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 60
+        "totalChances": 62
       },
       "evaluation": {
-        "score": 46,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 73.88888888888886,
-          "Power": 42.89473684210526,
-          "Contact": 35.000000000000014,
+          "On-base": 72.77777777777776,
+          "Power": 41.57894736842105,
+          "Contact": 36.250000000000014,
           "Discipline": 30.246913580246908,
           "Speed": 3.3333333333333335
         },
         "summary": "Owen Paino profiles as a IF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .276",
-          "OBP .413",
-          "SLG .483"
+          "AVG .278",
+          "OBP .411",
+          "SLG .478"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".276"
+            "value": ".278"
           },
           {
             "label": "OBP",
-            "value": ".413"
+            "value": ".411"
           },
           {
             "label": "SLG",
-            "value": ".483"
+            "value": ".478"
           },
           {
             "label": "HR",
@@ -829,33 +829,33 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "jersey": "7",
         "profileUrl": "https://olemisssports.com/sports/baseball/roster/topher-jones/6169",
         "imageUrl": "https://olemisssports.com/images/2026/2/6/Topher_Jones.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 18,
-        "battingAverage": 0.222,
-        "onBasePercentage": 0.373,
-        "sluggingPercentage": 0.407,
-        "ops": 0.78,
-        "atBats": 54,
+        "gamesPlayed": 30,
+        "gamesStarted": 19,
+        "battingAverage": 0.232,
+        "onBasePercentage": 0.386,
+        "sluggingPercentage": 0.429,
+        "ops": 0.815,
+        "atBats": 56,
         "runs": 10,
-        "hits": 12,
-        "doubles": 1,
+        "hits": 13,
+        "doubles": 2,
         "triples": 0,
         "homeRuns": 3,
         "runsBattedIn": 5,
-        "totalBases": 22,
+        "totalBases": 24,
         "walks": 8,
-        "hitByPitch": 5,
-        "strikeouts": 22,
+        "hitByPitch": 6,
+        "strikeouts": 23,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 17,
+        "putouts": 21,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 67,
+        "plateAppearances": 70,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -867,9 +867,9 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "jersey": "7",
         "profileUrl": "https://olemisssports.com/sports/baseball/roster/topher-jones/6169",
         "imageUrl": "https://olemisssports.com/images/2026/2/6/Topher_Jones.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 8,
-        "putouts": 17,
+        "gamesPlayed": 10,
+        "gamesStarted": 9,
+        "putouts": 21,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -879,39 +879,39 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 18
+        "totalChances": 22
       },
       "evaluation": {
-        "score": 25,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 22.894736842105257,
-          "Contact": 1.250000000000001,
-          "Discipline": 18.18181818181818,
+          "On-base": 58.88888888888888,
+          "Power": 28.68421052631579,
+          "Contact": 7.500000000000007,
+          "Discipline": 16.425120772946855,
           "Speed": 0
         },
         "summary": "Topher Jones gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .222",
-          "OBP .373",
-          "SLG .407"
+          "AVG .232",
+          "OBP .386",
+          "SLG .429"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".222"
+            "value": ".232"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".386"
           },
           {
             "label": "SLG",
-            "value": ".407"
+            "value": ".429"
           },
           {
             "label": "HR",
@@ -1119,13 +1119,13 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "jersey": "9",
         "profileUrl": "https://olemisssports.com/sports/baseball/roster/hayden-federico/6151",
         "imageUrl": "https://olemisssports.com/images/2026/2/6/Hayden_Federico.jpg",
-        "gamesPlayed": 54,
-        "gamesStarted": 51,
-        "battingAverage": 0.286,
-        "onBasePercentage": 0.412,
-        "sluggingPercentage": 0.381,
-        "ops": 0.793,
-        "atBats": 168,
+        "gamesPlayed": 55,
+        "gamesStarted": 52,
+        "battingAverage": 0.281,
+        "onBasePercentage": 0.409,
+        "sluggingPercentage": 0.374,
+        "ops": 0.783,
+        "atBats": 171,
         "runs": 31,
         "hits": 48,
         "doubles": 7,
@@ -1133,19 +1133,19 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "homeRuns": 3,
         "runsBattedIn": 24,
         "totalBases": 64,
-        "walks": 28,
+        "walks": 29,
         "hitByPitch": 11,
-        "strikeouts": 26,
+        "strikeouts": 27,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 4,
         "sacrificeHits": 2,
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
-        "putouts": 95,
+        "putouts": 99,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 217,
+        "plateAppearances": 221,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -1157,9 +1157,9 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "jersey": "9",
         "profileUrl": "https://olemisssports.com/sports/baseball/roster/hayden-federico/6151",
         "imageUrl": "https://olemisssports.com/images/2026/2/6/Hayden_Federico.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "putouts": 95,
+        "gamesPlayed": 44,
+        "gamesStarted": 44,
+        "putouts": 99,
         "assists": 2,
         "errors": 1,
         "fieldingPercentage": 0.99,
@@ -1169,39 +1169,39 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 98
+        "totalChances": 102
       },
       "evaluation": {
-        "score": 50,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 73.3333333333333,
-          "Power": 16.05263157894737,
-          "Contact": 41.24999999999998,
-          "Discipline": 97.43589743589742,
+          "On-base": 71.66666666666664,
+          "Power": 14.210526315789473,
+          "Contact": 38.125000000000014,
+          "Discipline": 97.11934156378601,
           "Speed": 13.333333333333334
         },
         "summary": "Hayden Federico profiles as a OF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .412",
-          "SLG .381"
+          "AVG .281",
+          "OBP .409",
+          "SLG .374"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".281"
           },
           {
             "label": "OBP",
-            "value": ".412"
+            "value": ".409"
           },
           {
             "label": "SLG",
-            "value": ".381"
+            "value": ".374"
           },
           {
             "label": "HR",
@@ -1265,31 +1265,31 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "jersey": "10",
         "profileUrl": "https://olemisssports.com/sports/baseball/roster/cade-townsend/6164",
         "imageUrl": "https://olemisssports.com/images/2026/2/6/Cade_Townsend.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 12,
-        "appearances": 12,
+        "gamesPlayed": 13,
+        "gamesStarted": 13,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.25,
-        "whip": 1.01,
+        "earnedRunAverage": 3.81,
+        "whip": 1.12,
         "wins": 5,
-        "losses": 2,
+        "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 55.333333333333336,
-        "inningsPitchedDisplay": "55.1",
-        "hitsAllowed": 42,
-        "runsAllowed": 24,
-        "earnedRunsAllowed": 20,
-        "walksAllowed": 14,
-        "strikeouts": 77,
-        "doublesAllowed": 11,
+        "inningsPitched": 59,
+        "inningsPitchedDisplay": "59.0",
+        "hitsAllowed": 49,
+        "runsAllowed": 29,
+        "earnedRunsAllowed": 25,
+        "walksAllowed": 17,
+        "strikeouts": 81,
+        "doublesAllowed": 13,
         "triplesAllowed": 1,
         "homeRunsAllowed": 9,
-        "opponentsAtBats": 208,
+        "opponentsAtBats": 225,
         "wildPitches": 3,
-        "hitBatters": 3,
+        "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.202,
+        "opponentsBattingAverage": 0.218,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1314,7 +1314,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "totalChances": 4
       },
       "evaluation": {
-        "score": 30,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1322,40 +1322,40 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 77.49178532311063,
-          "Command": 90,
+          "Miss bats": 75.96302003081664,
+          "Command": 75.29411764705883,
           "Damage suppression": 0
         },
         "summary": "Cade Townsend looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.25",
-          "WHIP 1.01",
-          "K/9 12.5"
+          "ERA 3.81",
+          "WHIP 1.12",
+          "K/9 12.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.25"
+            "value": "3.81"
           },
           {
             "label": "WHIP",
-            "value": "1.01"
+            "value": "1.12"
           },
           {
             "label": "K/9",
-            "value": "12.5"
+            "value": "12.4"
           },
           {
             "label": "BB/9",
-            "value": "2.3"
+            "value": "2.6"
           },
           {
             "label": "HR/9",
-            "value": "1.46"
+            "value": "1.37"
           },
           {
             "label": "IP",
-            "value": "55.3"
+            "value": "59.0"
           }
         ],
         "metaLine": "SO / 1L",
@@ -1406,23 +1406,23 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "jersey": "12",
         "profileUrl": "https://olemisssports.com/sports/baseball/roster/dom-decker/6170",
         "imageUrl": "https://olemisssports.com/images/2026/2/6/Dom_Decker.jpg",
-        "gamesPlayed": 55,
-        "gamesStarted": 55,
+        "gamesPlayed": 56,
+        "gamesStarted": 56,
         "battingAverage": 0.268,
-        "onBasePercentage": 0.421,
-        "sluggingPercentage": 0.428,
-        "ops": 0.849,
-        "atBats": 194,
+        "onBasePercentage": 0.418,
+        "sluggingPercentage": 0.424,
+        "ops": 0.842,
+        "atBats": 198,
         "runs": 56,
-        "hits": 52,
+        "hits": 53,
         "doubles": 4,
         "triples": 0,
         "homeRuns": 9,
-        "runsBattedIn": 28,
-        "totalBases": 83,
+        "runsBattedIn": 29,
+        "totalBases": 84,
         "walks": 47,
         "hitByPitch": 7,
-        "strikeouts": 40,
+        "strikeouts": 41,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 4,
@@ -1432,7 +1432,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "putouts": 64,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 269,
+        "plateAppearances": 273,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1459,14 +1459,14 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "totalChances": 181
       },
       "evaluation": {
-        "score": 56,
+        "score": 55,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 78.33333333333331,
-          "Power": 28.421052631578945,
+          "On-base": 76.66666666666664,
+          "Power": 27.368421052631575,
           "Contact": 30.00000000000001,
           "Discipline": 100,
           "Speed": 40
@@ -1474,8 +1474,8 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "summary": "Dom Decker profiles as a IF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .268",
-          "OBP .421",
-          "SLG .428"
+          "OBP .418",
+          "SLG .424"
         ],
         "statCards": [
           {
@@ -1484,11 +1484,11 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           },
           {
             "label": "OBP",
-            "value": ".421"
+            "value": ".418"
           },
           {
             "label": "SLG",
-            "value": ".428"
+            "value": ".424"
           },
           {
             "label": "HR",
@@ -1496,7 +1496,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -2052,27 +2052,27 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "jersey": "19",
         "profileUrl": "https://olemisssports.com/sports/baseball/roster/walker-hooks/6154",
         "imageUrl": "https://olemisssports.com/images/2026/2/6/Walker_Hooks.jpg",
-        "gamesPlayed": 21,
+        "gamesPlayed": 22,
         "gamesStarted": 0,
-        "appearances": 21,
+        "appearances": 22,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.28,
-        "whip": 0.83,
+        "earnedRunAverage": 2.12,
+        "whip": 0.81,
         "wins": 3,
         "losses": 1,
         "saves": 7,
         "shutouts": 0,
-        "inningsPitched": 43.333333333333336,
-        "inningsPitchedDisplay": "43.1",
-        "hitsAllowed": 27,
+        "inningsPitched": 46.666666666666664,
+        "inningsPitchedDisplay": "46.2",
+        "hitsAllowed": 29,
         "runsAllowed": 15,
         "earnedRunsAllowed": 11,
         "walksAllowed": 9,
-        "strikeouts": 50,
+        "strikeouts": 53,
         "doublesAllowed": 4,
         "triplesAllowed": 1,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 149,
+        "opponentsAtBats": 160,
         "wildPitches": 1,
         "hitBatters": 2,
         "balks": 0,
@@ -2086,22 +2086,22 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "jersey": "19",
         "profileUrl": "https://olemisssports.com/sports/baseball/roster/walker-hooks/6154",
         "imageUrl": "https://olemisssports.com/images/2026/2/6/Walker_Hooks.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 0,
         "putouts": 4,
-        "assists": 7,
+        "assists": 8,
         "errors": 2,
-        "fieldingPercentage": 0.846,
+        "fieldingPercentage": 0.857,
         "doublePlays": 1,
         "stolenBasesAgainst": 9,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 13
+        "totalChances": 14
       },
       "evaluation": {
-        "score": 26,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2109,40 +2109,40 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 58.04195804195803,
-          "Command": 91.11111111111111,
+          "Miss bats": 56.558441558441565,
+          "Command": 97.77777777777776,
           "Damage suppression": 0
         },
         "summary": "Walker Hooks looks like a LHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.28",
-          "WHIP 0.83",
-          "K/9 10.4"
+          "ERA 2.12",
+          "WHIP 0.81",
+          "K/9 10.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.28"
+            "value": "2.12"
           },
           {
             "label": "WHIP",
-            "value": "0.83"
+            "value": "0.81"
           },
           {
             "label": "K/9",
-            "value": "10.4"
+            "value": "10.2"
           },
           {
             "label": "BB/9",
-            "value": "1.9"
+            "value": "1.7"
           },
           {
             "label": "HR/9",
-            "value": "0.83"
+            "value": "0.77"
           },
           {
             "label": "IP",
-            "value": "43.3"
+            "value": "46.7"
           }
         ],
         "metaLine": "SO / 1L",
@@ -2193,13 +2193,13 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "jersey": "20",
         "profileUrl": "https://olemisssports.com/sports/baseball/roster/collin-reuter/6161",
         "imageUrl": "https://olemisssports.com/images/2026/2/6/Collin_Reuter.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 44,
-        "battingAverage": 0.269,
-        "onBasePercentage": 0.369,
-        "sluggingPercentage": 0.474,
-        "ops": 0.843,
-        "atBats": 156,
+        "gamesPlayed": 49,
+        "gamesStarted": 45,
+        "battingAverage": 0.264,
+        "onBasePercentage": 0.363,
+        "sluggingPercentage": 0.465,
+        "ops": 0.828,
+        "atBats": 159,
         "runs": 25,
         "hits": 42,
         "doubles": 14,
@@ -2209,7 +2209,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "totalBases": 74,
         "walks": 20,
         "hitByPitch": 7,
-        "strikeouts": 65,
+        "strikeouts": 66,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 7,
         "sacrificeFlies": 4,
@@ -2219,7 +2219,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "putouts": 69,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 189,
+        "plateAppearances": 192,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2246,36 +2246,36 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "totalChances": 70
       },
       "evaluation": {
-        "score": 34,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 49.44444444444443,
-          "Power": 40.526315789473685,
-          "Contact": 30.625000000000007,
-          "Discipline": 11.965811965811964,
+          "On-base": 46.11111111111109,
+          "Power": 38.15789473684211,
+          "Contact": 27.500000000000007,
+          "Discipline": 11.447811447811446,
           "Speed": 6.666666666666667
         },
         "summary": "Collin Reuter gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .269",
-          "OBP .369",
-          "SLG .474"
+          "AVG .264",
+          "OBP .363",
+          "SLG .465"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".269"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".369"
+            "value": ".363"
           },
           {
             "label": "SLG",
-            "value": ".474"
+            "value": ".465"
           },
           {
             "label": "HR",
@@ -2623,31 +2623,31 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "jersey": "23",
         "profileUrl": "https://olemisssports.com/sports/baseball/roster/hudson-calhoun/6148",
         "imageUrl": "https://olemisssports.com/images/2026/2/6/Hudson_Calhoun.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 2,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.03,
-        "whip": 1.42,
+        "earnedRunAverage": 4.15,
+        "whip": 1.44,
         "wins": 3,
         "losses": 3,
         "saves": 2,
         "shutouts": 0,
-        "inningsPitched": 38,
-        "inningsPitchedDisplay": "38.0",
-        "hitsAllowed": 32,
-        "runsAllowed": 20,
-        "earnedRunsAllowed": 17,
+        "inningsPitched": 39,
+        "inningsPitchedDisplay": "39.0",
+        "hitsAllowed": 34,
+        "runsAllowed": 21,
+        "earnedRunsAllowed": 18,
         "walksAllowed": 22,
-        "strikeouts": 58,
+        "strikeouts": 60,
         "doublesAllowed": 3,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 7,
-        "opponentsAtBats": 142,
+        "homeRunsAllowed": 8,
+        "opponentsAtBats": 147,
         "wildPitches": 2,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.225,
+        "opponentsBattingAverage": 0.231,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2680,40 +2680,40 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 88.51674641148325,
-          "Command": 32.72727272727273,
+          "Miss bats": 89.5104895104895,
+          "Command": 34.545454545454554,
           "Damage suppression": 0
         },
         "summary": "Hudson Calhoun looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.03",
-          "WHIP 1.42",
-          "K/9 13.7"
+          "ERA 4.15",
+          "WHIP 1.44",
+          "K/9 13.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.03"
+            "value": "4.15"
           },
           {
             "label": "WHIP",
-            "value": "1.42"
+            "value": "1.44"
           },
           {
             "label": "K/9",
-            "value": "13.7"
+            "value": "13.8"
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
-            "value": "1.66"
+            "value": "1.85"
           },
           {
             "label": "IP",
-            "value": "38.0"
+            "value": "39.0"
           }
         ],
         "metaLine": "JR / 2L",
@@ -2764,20 +2764,20 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "jersey": "24",
         "profileUrl": "https://olemisssports.com/sports/baseball/roster/austin-fawley/6150",
         "imageUrl": "https://olemisssports.com/images/2026/2/6/Austin_Fawley.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 48,
+        "gamesPlayed": 49,
+        "gamesStarted": 49,
         "battingAverage": 0.239,
-        "onBasePercentage": 0.353,
-        "sluggingPercentage": 0.51,
-        "ops": 0.863,
-        "atBats": 155,
-        "runs": 26,
-        "hits": 37,
+        "onBasePercentage": 0.351,
+        "sluggingPercentage": 0.503,
+        "ops": 0.854,
+        "atBats": 159,
+        "runs": 27,
+        "hits": 38,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 12,
         "runsBattedIn": 36,
-        "totalBases": 79,
+        "totalBases": 80,
         "walks": 24,
         "hitByPitch": 4,
         "strikeouts": 64,
@@ -2787,10 +2787,10 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 526,
+        "putouts": 535,
         "assists": 0,
         "errors": 7,
-        "plateAppearances": 184,
+        "plateAppearances": 188,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2802,9 +2802,9 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "jersey": "24",
         "profileUrl": "https://olemisssports.com/sports/baseball/roster/austin-fawley/6150",
         "imageUrl": "https://olemisssports.com/images/2026/2/6/Austin_Fawley.jpg",
-        "gamesPlayed": 47,
-        "gamesStarted": 47,
-        "putouts": 526,
+        "gamesPlayed": 48,
+        "gamesStarted": 48,
+        "putouts": 535,
         "assists": 32,
         "errors": 7,
         "fieldingPercentage": 0.988,
@@ -2814,17 +2814,17 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
-        "totalChances": 565
+        "totalChances": 574
       },
       "evaluation": {
-        "score": 31,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 40.555555555555536,
-          "Power": 50.000000000000014,
+          "On-base": 39.44444444444442,
+          "Power": 48.15789473684211,
           "Contact": 11.874999999999993,
           "Discipline": 19.44444444444444,
           "Speed": 0
@@ -2832,8 +2832,8 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "summary": "Austin Fawley gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .239",
-          "OBP .353",
-          "SLG .510"
+          "OBP .351",
+          "SLG .503"
         ],
         "statCards": [
           {
@@ -2842,11 +2842,11 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           },
           {
             "label": "OBP",
-            "value": ".353"
+            "value": ".351"
           },
           {
             "label": "SLG",
-            "value": ".510"
+            "value": ".503"
           },
           {
             "label": "HR",
@@ -3142,13 +3142,13 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "jersey": "27",
         "profileUrl": "https://olemisssports.com/sports/baseball/roster/judd-utermark/6165",
         "imageUrl": "https://olemisssports.com/images/2026/2/6/Judd_Utermark.jpg",
-        "gamesPlayed": 55,
-        "gamesStarted": 55,
-        "battingAverage": 0.324,
-        "onBasePercentage": 0.429,
-        "sluggingPercentage": 0.662,
-        "ops": 1.091,
-        "atBats": 207,
+        "gamesPlayed": 56,
+        "gamesStarted": 56,
+        "battingAverage": 0.318,
+        "onBasePercentage": 0.422,
+        "sluggingPercentage": 0.649,
+        "ops": 1.071,
+        "atBats": 211,
         "runs": 66,
         "hits": 67,
         "doubles": 10,
@@ -3158,17 +3158,17 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "totalBases": 137,
         "walks": 32,
         "hitByPitch": 7,
-        "strikeouts": 67,
+        "strikeouts": 69,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 10,
         "stolenBasesAttempts": 11,
-        "putouts": 38,
+        "putouts": 39,
         "assists": 0,
         "errors": 13,
-        "plateAppearances": 259,
+        "plateAppearances": 263,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -3180,51 +3180,51 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "jersey": "27",
         "profileUrl": "https://olemisssports.com/sports/baseball/roster/judd-utermark/6165",
         "imageUrl": "https://olemisssports.com/images/2026/2/6/Judd_Utermark.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "putouts": 38,
-        "assists": 79,
+        "gamesPlayed": 52,
+        "gamesStarted": 52,
+        "putouts": 39,
+        "assists": 80,
         "errors": 13,
-        "fieldingPercentage": 0.9,
+        "fieldingPercentage": 0.902,
         "doublePlays": 3,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 130
+        "totalChances": 132
       },
       "evaluation": {
-        "score": 69,
+        "score": 66,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 82.77777777777776,
-          "Power": 90.00000000000003,
-          "Contact": 65,
-          "Discipline": 30.8457711442786,
+          "On-base": 78.88888888888886,
+          "Power": 86.57894736842107,
+          "Contact": 61.25000000000001,
+          "Discipline": 29.307568438003216,
           "Speed": 33.33333333333333
         },
         "summary": "Judd Utermark profiles as a IF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .324",
-          "OBP .429",
-          "SLG .662"
+          "AVG .318",
+          "OBP .422",
+          "SLG .649"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".324"
+            "value": ".318"
           },
           {
             "label": "OBP",
-            "value": ".429"
+            "value": ".422"
           },
           {
             "label": "SLG",
-            "value": ".662"
+            "value": ".649"
           },
           {
             "label": "HR",
@@ -3571,33 +3571,33 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "jersey": "32",
         "profileUrl": "https://olemisssports.com/sports/baseball/roster/tristan-bissetta/6179",
         "imageUrl": "https://olemisssports.com/images/2026/2/6/Tristan_Bissetta.jpg",
-        "gamesPlayed": 55,
-        "gamesStarted": 55,
-        "battingAverage": 0.293,
-        "onBasePercentage": 0.4,
-        "sluggingPercentage": 0.63,
-        "ops": 1.03,
-        "atBats": 208,
+        "gamesPlayed": 56,
+        "gamesStarted": 56,
+        "battingAverage": 0.289,
+        "onBasePercentage": 0.394,
+        "sluggingPercentage": 0.621,
+        "ops": 1.015,
+        "atBats": 211,
         "runs": 51,
         "hits": 61,
         "doubles": 10,
         "triples": 0,
         "homeRuns": 20,
-        "runsBattedIn": 55,
+        "runsBattedIn": 56,
         "totalBases": 131,
         "walks": 35,
         "hitByPitch": 2,
-        "strikeouts": 75,
+        "strikeouts": 76,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
+        "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 7,
         "stolenBasesAttempts": 9,
-        "putouts": 87,
+        "putouts": 89,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 256,
+        "plateAppearances": 260,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -3609,9 +3609,9 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "jersey": "32",
         "profileUrl": "https://olemisssports.com/sports/baseball/roster/tristan-bissetta/6179",
         "imageUrl": "https://olemisssports.com/images/2026/2/6/Tristan_Bissetta.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "putouts": 87,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "putouts": 89,
         "assists": 1,
         "errors": 1,
         "fieldingPercentage": 0.989,
@@ -3621,39 +3621,39 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 89
+        "totalChances": 91
       },
       "evaluation": {
-        "score": 57,
+        "score": 55,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 66.66666666666666,
-          "Power": 81.57894736842107,
-          "Contact": 45.624999999999986,
-          "Discipline": 29.629629629629623,
+          "On-base": 63.33333333333333,
+          "Power": 79.21052631578948,
+          "Contact": 43.124999999999986,
+          "Discipline": 28.947368421052627,
           "Speed": 23.333333333333332
         },
-        "summary": "Tristan Bissetta profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Tristan Bissetta profiles as a OF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .293",
-          "OBP .400",
-          "SLG .630"
+          "AVG .289",
+          "OBP .394",
+          "SLG .621"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".293"
+            "value": ".289"
           },
           {
             "label": "OBP",
-            "value": ".400"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".630"
+            "value": ".621"
           },
           {
             "label": "HR",
@@ -3661,7 +3661,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           },
           {
             "label": "RBI",
-            "value": "55"
+            "value": "56"
           },
           {
             "label": "SB",
@@ -4142,13 +4142,13 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "jersey": "36",
         "profileUrl": "https://olemisssports.com/sports/baseball/roster/will-furniss/6152",
         "imageUrl": "https://olemisssports.com/images/2026/2/6/Will_Furniss.jpg",
-        "gamesPlayed": 55,
-        "gamesStarted": 55,
-        "battingAverage": 0.327,
-        "onBasePercentage": 0.442,
-        "sluggingPercentage": 0.49,
-        "ops": 0.932,
-        "atBats": 196,
+        "gamesPlayed": 56,
+        "gamesStarted": 56,
+        "battingAverage": 0.322,
+        "onBasePercentage": 0.439,
+        "sluggingPercentage": 0.482,
+        "ops": 0.921,
+        "atBats": 199,
         "runs": 40,
         "hits": 64,
         "doubles": 11,
@@ -4156,19 +4156,19 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "homeRuns": 7,
         "runsBattedIn": 52,
         "totalBases": 96,
-        "walks": 35,
+        "walks": 36,
         "hitByPitch": 7,
-        "strikeouts": 49,
+        "strikeouts": 50,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 7,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 358,
+        "putouts": 360,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 240,
+        "plateAppearances": 244,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -4180,51 +4180,51 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "jersey": "36",
         "profileUrl": "https://olemisssports.com/sports/baseball/roster/will-furniss/6152",
         "imageUrl": "https://olemisssports.com/images/2026/2/6/Will_Furniss.jpg",
-        "gamesPlayed": 55,
-        "gamesStarted": 55,
-        "putouts": 358,
+        "gamesPlayed": 56,
+        "gamesStarted": 56,
+        "putouts": 360,
         "assists": 36,
         "errors": 5,
-        "fieldingPercentage": 0.987,
+        "fieldingPercentage": 0.988,
         "doublePlays": 25,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 399
+        "totalChances": 401
       },
       "evaluation": {
-        "score": 60,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 89.99999999999999,
-          "Power": 44.73684210526316,
-          "Contact": 66.875,
-          "Discipline": 57.14285714285713,
+          "On-base": 88.33333333333331,
+          "Power": 42.63157894736842,
+          "Contact": 63.75000000000001,
+          "Discipline": 57.77777777777777,
           "Speed": 0
         },
         "summary": "Will Furniss profiles as a IF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .327",
-          "OBP .442",
-          "SLG .490"
+          "AVG .322",
+          "OBP .439",
+          "SLG .482"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".327"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".442"
+            "value": ".439"
           },
           {
             "label": "SLG",
-            "value": ".490"
+            "value": ".482"
           },
           {
             "label": "HR",
@@ -5275,7 +5275,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "position": "IF",
         "classYear": "JR",
         "handedness": "2L",
-        "score": 14,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5283,7 +5283,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "summary": "Brayden Randle gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .224",
-          "OBP .314",
+          "OBP .318",
           "SLG .343"
         ],
         "statCards": [
@@ -5293,7 +5293,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           },
           {
             "label": "OBP",
-            "value": ".314"
+            "value": ".318"
           },
           {
             "label": "SLG",
@@ -5313,10 +5313,10 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           }
         ],
         "components": {
-          "On-base": 18.888888888888875,
+          "On-base": 21.1111111111111,
           "Power": 6.052631578947374,
           "Contact": 2.500000000000002,
-          "Discipline": 33.33333333333333,
+          "Discipline": 37.30158730158729,
           "Speed": 13.333333333333334
         },
         "metaLine": "JR / 2L",
@@ -5550,29 +5550,29 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "position": "IF",
         "classYear": "SO",
         "handedness": "1L",
-        "score": 46,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Owen Paino profiles as a IF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .276",
-          "OBP .413",
-          "SLG .483"
+          "AVG .278",
+          "OBP .411",
+          "SLG .478"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".276"
+            "value": ".278"
           },
           {
             "label": "OBP",
-            "value": ".413"
+            "value": ".411"
           },
           {
             "label": "SLG",
-            "value": ".483"
+            "value": ".478"
           },
           {
             "label": "HR",
@@ -5588,9 +5588,9 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           }
         ],
         "components": {
-          "On-base": 73.88888888888886,
-          "Power": 42.89473684210526,
-          "Contact": 35.000000000000014,
+          "On-base": 72.77777777777776,
+          "Power": 41.57894736842105,
+          "Contact": 36.250000000000014,
           "Discipline": 30.246913580246908,
           "Speed": 3.3333333333333335
         },
@@ -5619,29 +5619,29 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "position": "IF",
         "classYear": "SO",
         "handedness": "JC",
-        "score": 25,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Topher Jones gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .222",
-          "OBP .373",
-          "SLG .407"
+          "AVG .232",
+          "OBP .386",
+          "SLG .429"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".222"
+            "value": ".232"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".386"
           },
           {
             "label": "SLG",
-            "value": ".407"
+            "value": ".429"
           },
           {
             "label": "HR",
@@ -5657,10 +5657,10 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           }
         ],
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 22.894736842105257,
-          "Contact": 1.250000000000001,
-          "Discipline": 18.18181818181818,
+          "On-base": 58.88888888888888,
+          "Power": 28.68421052631579,
+          "Contact": 7.500000000000007,
+          "Discipline": 16.425120772946855,
           "Speed": 0
         },
         "metaLine": "SO / JC",
@@ -5757,29 +5757,29 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "1L",
-        "score": 50,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Hayden Federico profiles as a OF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .412",
-          "SLG .381"
+          "AVG .281",
+          "OBP .409",
+          "SLG .374"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".281"
           },
           {
             "label": "OBP",
-            "value": ".412"
+            "value": ".409"
           },
           {
             "label": "SLG",
-            "value": ".381"
+            "value": ".374"
           },
           {
             "label": "HR",
@@ -5795,10 +5795,10 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           }
         ],
         "components": {
-          "On-base": 73.3333333333333,
-          "Power": 16.05263157894737,
-          "Contact": 41.24999999999998,
-          "Discipline": 97.43589743589742,
+          "On-base": 71.66666666666664,
+          "Power": 14.210526315789473,
+          "Contact": 38.125000000000014,
+          "Discipline": 97.11934156378601,
           "Speed": 13.333333333333334
         },
         "metaLine": "SO / 1L",
@@ -5826,48 +5826,48 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "1L",
-        "score": 30,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cade Townsend looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.25",
-          "WHIP 1.01",
-          "K/9 12.5"
+          "ERA 3.81",
+          "WHIP 1.12",
+          "K/9 12.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.25"
+            "value": "3.81"
           },
           {
             "label": "WHIP",
-            "value": "1.01"
+            "value": "1.12"
           },
           {
             "label": "K/9",
-            "value": "12.5"
+            "value": "12.4"
           },
           {
             "label": "BB/9",
-            "value": "2.3"
+            "value": "2.6"
           },
           {
             "label": "HR/9",
-            "value": "1.46"
+            "value": "1.37"
           },
           {
             "label": "IP",
-            "value": "55.3"
+            "value": "59.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 77.49178532311063,
-          "Command": 90,
+          "Miss bats": 75.96302003081664,
+          "Command": 75.29411764705883,
           "Damage suppression": 0
         },
         "metaLine": "SO / 1L",
@@ -5895,7 +5895,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "position": "IF",
         "classYear": "JR",
         "handedness": "TR",
-        "score": 56,
+        "score": 55,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
@@ -5903,8 +5903,8 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "summary": "Dom Decker profiles as a IF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .268",
-          "OBP .421",
-          "SLG .428"
+          "OBP .418",
+          "SLG .424"
         ],
         "statCards": [
           {
@@ -5913,11 +5913,11 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           },
           {
             "label": "OBP",
-            "value": ".421"
+            "value": ".418"
           },
           {
             "label": "SLG",
-            "value": ".428"
+            "value": ".424"
           },
           {
             "label": "HR",
@@ -5925,7 +5925,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -5933,8 +5933,8 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           }
         ],
         "components": {
-          "On-base": 78.33333333333331,
-          "Power": 28.421052631578945,
+          "On-base": 76.66666666666664,
+          "Power": 27.368421052631575,
           "Contact": 30.00000000000001,
           "Discipline": 100,
           "Speed": 40
@@ -6239,48 +6239,48 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "position": "LHP",
         "classYear": "SO",
         "handedness": "1L",
-        "score": 26,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Walker Hooks looks like a LHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.28",
-          "WHIP 0.83",
-          "K/9 10.4"
+          "ERA 2.12",
+          "WHIP 0.81",
+          "K/9 10.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.28"
+            "value": "2.12"
           },
           {
             "label": "WHIP",
-            "value": "0.83"
+            "value": "0.81"
           },
           {
             "label": "K/9",
-            "value": "10.4"
+            "value": "10.2"
           },
           {
             "label": "BB/9",
-            "value": "1.9"
+            "value": "1.7"
           },
           {
             "label": "HR/9",
-            "value": "0.83"
+            "value": "0.77"
           },
           {
             "label": "IP",
-            "value": "43.3"
+            "value": "46.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 58.04195804195803,
-          "Command": 91.11111111111111,
+          "Miss bats": 56.558441558441565,
+          "Command": 97.77777777777776,
           "Damage suppression": 0
         },
         "metaLine": "SO / 1L",
@@ -6308,29 +6308,29 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "position": "C/IF",
         "classYear": "SR",
         "handedness": "1L",
-        "score": 34,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Collin Reuter gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .269",
-          "OBP .369",
-          "SLG .474"
+          "AVG .264",
+          "OBP .363",
+          "SLG .465"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".269"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".369"
+            "value": ".363"
           },
           {
             "label": "SLG",
-            "value": ".474"
+            "value": ".465"
           },
           {
             "label": "HR",
@@ -6346,10 +6346,10 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           }
         ],
         "components": {
-          "On-base": 49.44444444444443,
-          "Power": 40.526315789473685,
-          "Contact": 30.625000000000007,
-          "Discipline": 11.965811965811964,
+          "On-base": 46.11111111111109,
+          "Power": 38.15789473684211,
+          "Contact": 27.500000000000007,
+          "Discipline": 11.447811447811446,
           "Speed": 6.666666666666667
         },
         "metaLine": "SR / 1L",
@@ -6522,41 +6522,41 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         },
         "summary": "Hudson Calhoun looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.03",
-          "WHIP 1.42",
-          "K/9 13.7"
+          "ERA 4.15",
+          "WHIP 1.44",
+          "K/9 13.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.03"
+            "value": "4.15"
           },
           {
             "label": "WHIP",
-            "value": "1.42"
+            "value": "1.44"
           },
           {
             "label": "K/9",
-            "value": "13.7"
+            "value": "13.8"
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
-            "value": "1.66"
+            "value": "1.85"
           },
           {
             "label": "IP",
-            "value": "38.0"
+            "value": "39.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 88.51674641148325,
-          "Command": 32.72727272727273,
+          "Miss bats": 89.5104895104895,
+          "Command": 34.545454545454554,
           "Damage suppression": 0
         },
         "metaLine": "JR / 2L",
@@ -6584,7 +6584,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "1L",
-        "score": 31,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -6592,8 +6592,8 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "summary": "Austin Fawley gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .239",
-          "OBP .353",
-          "SLG .510"
+          "OBP .351",
+          "SLG .503"
         ],
         "statCards": [
           {
@@ -6602,11 +6602,11 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           },
           {
             "label": "OBP",
-            "value": ".353"
+            "value": ".351"
           },
           {
             "label": "SLG",
-            "value": ".510"
+            "value": ".503"
           },
           {
             "label": "HR",
@@ -6622,8 +6622,8 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           }
         ],
         "components": {
-          "On-base": 40.555555555555536,
-          "Power": 50.000000000000014,
+          "On-base": 39.44444444444442,
+          "Power": 48.15789473684211,
           "Contact": 11.874999999999993,
           "Discipline": 19.44444444444444,
           "Speed": 0
@@ -6790,29 +6790,29 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "position": "IF",
         "classYear": "SR",
         "handedness": "3L",
-        "score": 69,
+        "score": 66,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Judd Utermark profiles as a IF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .324",
-          "OBP .429",
-          "SLG .662"
+          "AVG .318",
+          "OBP .422",
+          "SLG .649"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".324"
+            "value": ".318"
           },
           {
             "label": "OBP",
-            "value": ".429"
+            "value": ".422"
           },
           {
             "label": "SLG",
-            "value": ".662"
+            "value": ".649"
           },
           {
             "label": "HR",
@@ -6828,10 +6828,10 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           }
         ],
         "components": {
-          "On-base": 82.77777777777776,
-          "Power": 90.00000000000003,
-          "Contact": 65,
-          "Discipline": 30.8457711442786,
+          "On-base": 78.88888888888886,
+          "Power": 86.57894736842107,
+          "Contact": 61.25000000000001,
+          "Discipline": 29.307568438003216,
           "Speed": 33.33333333333333
         },
         "metaLine": "SR / 3L",
@@ -6997,29 +6997,29 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "TR",
-        "score": 57,
+        "score": 55,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
-        "summary": "Tristan Bissetta profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Tristan Bissetta profiles as a OF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .293",
-          "OBP .400",
-          "SLG .630"
+          "AVG .289",
+          "OBP .394",
+          "SLG .621"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".293"
+            "value": ".289"
           },
           {
             "label": "OBP",
-            "value": ".400"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".630"
+            "value": ".621"
           },
           {
             "label": "HR",
@@ -7027,7 +7027,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           },
           {
             "label": "RBI",
-            "value": "55"
+            "value": "56"
           },
           {
             "label": "SB",
@@ -7035,10 +7035,10 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           }
         ],
         "components": {
-          "On-base": 66.66666666666666,
-          "Power": 81.57894736842107,
-          "Contact": 45.624999999999986,
-          "Discipline": 29.629629629629623,
+          "On-base": 63.33333333333333,
+          "Power": 79.21052631578948,
+          "Contact": 43.124999999999986,
+          "Discipline": 28.947368421052627,
           "Speed": 23.333333333333332
         },
         "metaLine": "SR / TR",
@@ -7273,29 +7273,29 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "position": "IF",
         "classYear": "SR",
         "handedness": "3L",
-        "score": 60,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Will Furniss profiles as a IF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .327",
-          "OBP .442",
-          "SLG .490"
+          "AVG .322",
+          "OBP .439",
+          "SLG .482"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".327"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".442"
+            "value": ".439"
           },
           {
             "label": "SLG",
-            "value": ".490"
+            "value": ".482"
           },
           {
             "label": "HR",
@@ -7311,10 +7311,10 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           }
         ],
         "components": {
-          "On-base": 89.99999999999999,
-          "Power": 44.73684210526316,
-          "Contact": 66.875,
-          "Discipline": 57.14285714285713,
+          "On-base": 88.33333333333331,
+          "Power": 42.63157894736842,
+          "Contact": 63.75000000000001,
+          "Discipline": 57.77777777777777,
           "Speed": 0
         },
         "metaLine": "SR / 3L",

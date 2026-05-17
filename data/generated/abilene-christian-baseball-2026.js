@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.abilene-christian2026 = {
-  "generatedAt": "2026-05-16T11:17:47.951Z",
+  "generatedAt": "2026-05-17T11:33:02.883Z",
   "season": 2026,
   "school": {
     "slug": "abilene-christian",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
     }
   },
   "teamSummary": {
-    "record": "25-28, 8-9",
-    "battingAverage": ".279",
-    "earnedRunAverage": "6.87",
+    "record": "25-29, 8-10",
+    "battingAverage": ".280",
+    "earnedRunAverage": "7.11",
     "wins": "25",
-    "losses": "28",
+    "losses": "29",
     "hitting": {
-      "atBats": "1788",
-      "runsScored": "387",
-      "hits": "498",
-      "runsBattedIn": "363",
-      "doubles": "102",
-      "triples": "4",
-      "homeRuns": "90",
-      "walks": "295",
+      "atBats": "1824",
+      "runsScored": "395",
+      "hits": "511",
+      "runsBattedIn": "371",
+      "doubles": "105",
+      "triples": "5",
+      "homeRuns": "91",
+      "walks": "296",
       "intentionalWalks": "12",
-      "strikeouts": "524",
-      "strikeoutsLooking": "110",
-      "hitByPitch": "88",
-      "stolenBases": "25",
+      "strikeouts": "533",
+      "strikeoutsLooking": "113",
+      "hitByPitch": "92",
+      "stolenBases": "28",
       "caughtStealing": "10",
       "sacrificeHits": "21",
       "sacrificeFlies": "15",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "336",
-      "flyOuts": "425",
+      "groundOuts": "339",
+      "flyOuts": "436",
       "groundedIntoDoublePlay": "32",
       "pickedOff": "5",
-      "doublePlaysHitInto": "33",
+      "doublePlaysHitInto": "34",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1368",
-      "assists": "472",
-      "errors": "56",
+      "putouts": "1390",
+      "assists": "480",
+      "errors": "59",
       "passedBalls": "23",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "124",
+      "stolenBasesAgainst": "125",
       "caughtStealingBy": "21",
-      "involvedInDoublePlays": "32",
+      "involvedInDoublePlays": "33",
       "involvedInTriplePlays": "0",
-      "totalChances": "1896",
-      "fieldingPercentage": ".970"
+      "totalChances": "1929",
+      "fieldingPercentage": ".969"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "25",
       "saves": "36",
-      "losses": "28",
+      "losses": "29",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "0",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "456.0",
-      "hitsAllowed": "510",
-      "runsAllowed": "387",
-      "earnedRunsAllowed": "348",
-      "walksAllowed": "276",
-      "strikeouts": "405",
-      "battersFaced": "2201",
-      "opponentAtBats": "1795",
-      "doublesAllowed": "111",
+      "inningsPitched": "463.1",
+      "hitsAllowed": "522",
+      "runsAllowed": "406",
+      "earnedRunsAllowed": "366",
+      "walksAllowed": "287",
+      "strikeouts": "412",
+      "battersFaced": "2252",
+      "opponentAtBats": "1828",
+      "doublesAllowed": "112",
       "triplesAllowed": "4",
-      "homerunsAllowed": "67",
+      "homerunsAllowed": "70",
       "wildPitches": "55",
       "balks": "4",
-      "hitBatters": "78",
-      "strikeoutsLooking": "62",
-      "intentionalWalks": "12",
+      "hitBatters": "83",
+      "strikeoutsLooking": "65",
+      "intentionalWalks": "13",
       "inheritedRunners": "91",
       "inheritedRunnersThatScored": "45",
-      "sacrificeHitsAllowed": "24",
-      "sacrificeFliesAllowed": "26",
+      "sacrificeHitsAllowed": "25",
+      "sacrificeFliesAllowed": "27",
       "catchersInterferenceAllowed": "0",
-      "pitches": "7965",
-      "flyouts": "477",
-      "groundouts": "408",
+      "pitches": "8151",
+      "flyouts": "484",
+      "groundouts": "415",
       "teamUnearnedRuns": "0",
       "saveRecord": "14",
       "pickoff": "1"
@@ -161,33 +161,33 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "0",
         "profileUrl": "https://acusports.com/sports/baseball/roster/jt-thompson/11230",
         "imageUrl": "https://acusports.com/images/2025/9/2/JT_Thompson.jpg",
-        "gamesPlayed": 52,
-        "gamesStarted": 47,
-        "battingAverage": 0.328,
-        "onBasePercentage": 0.422,
-        "sluggingPercentage": 0.42,
-        "ops": 0.842,
-        "atBats": 174,
-        "runs": 35,
-        "hits": 57,
-        "doubles": 13,
+        "gamesPlayed": 53,
+        "gamesStarted": 48,
+        "battingAverage": 0.337,
+        "onBasePercentage": 0.431,
+        "sluggingPercentage": 0.438,
+        "ops": 0.869,
+        "atBats": 178,
+        "runs": 37,
+        "hits": 60,
+        "doubles": 15,
         "triples": 0,
         "homeRuns": 1,
         "runsBattedIn": 28,
-        "totalBases": 73,
+        "totalBases": 78,
         "walks": 25,
-        "hitByPitch": 4,
+        "hitByPitch": 5,
         "strikeouts": 30,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
         "sacrificeHits": 9,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 6,
-        "putouts": 111,
+        "stolenBases": 5,
+        "stolenBasesAttempts": 8,
+        "putouts": 112,
         "assists": 0,
-        "errors": 4,
-        "plateAppearances": 222,
+        "errors": 6,
+        "plateAppearances": 229,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -199,51 +199,51 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "0",
         "profileUrl": "https://acusports.com/sports/baseball/roster/jt-thompson/11230",
         "imageUrl": "https://acusports.com/images/2025/9/2/JT_Thompson.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 47,
-        "putouts": 111,
-        "assists": 73,
-        "errors": 4,
-        "fieldingPercentage": 0.979,
-        "doublePlays": 19,
+        "gamesPlayed": 49,
+        "gamesStarted": 48,
+        "putouts": 112,
+        "assists": 76,
+        "errors": 6,
+        "fieldingPercentage": 0.969,
+        "doublePlays": 20,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 188
+        "totalChances": 194
       },
       "evaluation": {
-        "score": 55,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 78.88888888888886,
-          "Power": 26.31578947368421,
-          "Contact": 67.5,
+          "On-base": 83.88888888888889,
+          "Power": 31.05263157894737,
+          "Contact": 73.125,
           "Discipline": 70.37037037037037,
-          "Speed": 10
+          "Speed": 16.666666666666664
         },
         "summary": "JT Thompson profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .422",
-          "SLG .420"
+          "AVG .337",
+          "OBP .431",
+          "SLG .438"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": ".337"
           },
           {
             "label": "OBP",
-            "value": ".422"
+            "value": ".431"
           },
           {
             "label": "SLG",
-            "value": ".420"
+            "value": ".438"
           },
           {
             "label": "HR",
@@ -255,7 +255,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "5"
           }
         ],
         "metaLine": "SR / L/R",
@@ -306,22 +306,22 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "2",
         "profileUrl": "https://acusports.com/sports/baseball/roster/zandt-payne/11227",
         "imageUrl": "https://acusports.com/images/2025/9/2/Zandt_Payne.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "battingAverage": 0.312,
-        "onBasePercentage": 0.46,
+        "gamesPlayed": 54,
+        "gamesStarted": 54,
+        "battingAverage": 0.311,
+        "onBasePercentage": 0.459,
         "sluggingPercentage": 0.507,
-        "ops": 0.967,
-        "atBats": 205,
-        "runs": 62,
-        "hits": 64,
-        "doubles": 8,
+        "ops": 0.966,
+        "atBats": 209,
+        "runs": 64,
+        "hits": 65,
+        "doubles": 9,
         "triples": 1,
         "homeRuns": 10,
-        "runsBattedIn": 37,
-        "totalBases": 104,
+        "runsBattedIn": 38,
+        "totalBases": 106,
         "walks": 43,
-        "hitByPitch": 13,
+        "hitByPitch": 14,
         "strikeouts": 40,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
@@ -329,10 +329,10 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "sacrificeHits": 2,
         "stolenBases": 9,
         "stolenBasesAttempts": 9,
-        "putouts": 61,
+        "putouts": 62,
         "assists": 0,
         "errors": 7,
-        "plateAppearances": 272,
+        "plateAppearances": 277,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -344,47 +344,47 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "2",
         "profileUrl": "https://acusports.com/sports/baseball/roster/zandt-payne/11227",
         "imageUrl": "https://acusports.com/images/2025/9/2/Zandt_Payne.jpg",
-        "gamesPlayed": 52,
-        "gamesStarted": 52,
-        "putouts": 61,
-        "assists": 129,
+        "gamesPlayed": 53,
+        "gamesStarted": 53,
+        "putouts": 62,
+        "assists": 131,
         "errors": 7,
-        "fieldingPercentage": 0.964,
+        "fieldingPercentage": 0.965,
         "doublePlays": 20,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 197
+        "totalChances": 200
       },
       "evaluation": {
-        "score": 72,
+        "score": 71,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 100,
+          "On-base": 99.44444444444444,
           "Power": 49.21052631578948,
-          "Contact": 57.49999999999999,
+          "Contact": 56.875,
           "Discipline": 97.22222222222221,
           "Speed": 30
         },
         "summary": "Zandt Payne profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .312",
-          "OBP .460",
+          "AVG .311",
+          "OBP .459",
           "SLG .507"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".312"
+            "value": ".311"
           },
           {
             "label": "OBP",
-            "value": ".460"
+            "value": ".459"
           },
           {
             "label": "SLG",
@@ -396,7 +396,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           },
           {
             "label": "RBI",
-            "value": "37"
+            "value": "38"
           },
           {
             "label": "SB",
@@ -630,31 +630,31 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "4",
         "profileUrl": "https://acusports.com/sports/baseball/roster/caden-greanead/11219",
         "imageUrl": "https://acusports.com/images/2025/9/2/Caden_Greanead.jpg",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 0,
-        "appearances": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 11.42,
-        "whip": 3,
+        "earnedRunAverage": 9.9,
+        "whip": 2.7,
         "wins": 1,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 8.666666666666666,
-        "inningsPitchedDisplay": "8.2",
+        "inningsPitched": 10,
+        "inningsPitchedDisplay": "10.0",
         "hitsAllowed": 14,
         "runsAllowed": 12,
         "earnedRunsAllowed": 11,
-        "walksAllowed": 12,
-        "strikeouts": 8,
+        "walksAllowed": 13,
+        "strikeouts": 10,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 38,
+        "opponentsAtBats": 42,
         "wildPitches": 2,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.368,
+        "opponentsBattingAverage": 0.333,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -679,7 +679,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "totalChances": 1
       },
       "evaluation": {
-        "score": 8,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -687,40 +687,40 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.16083916083917,
+          "Miss bats": 45.45454545454545,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Caden Greanead gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Caden Greanead looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 11.42",
-          "WHIP 3.00",
-          "K/9 8.3"
+          "ERA 9.90",
+          "WHIP 2.70",
+          "K/9 9.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "11.42"
+            "value": "9.90"
           },
           {
             "label": "WHIP",
-            "value": "3.00"
+            "value": "2.70"
           },
           {
             "label": "K/9",
-            "value": "8.3"
+            "value": "9.0"
           },
           {
             "label": "BB/9",
-            "value": "12.5"
+            "value": "11.7"
           },
           {
             "label": "HR/9",
-            "value": "1.04"
+            "value": "0.90"
           },
           {
             "label": "IP",
-            "value": "8.7"
+            "value": "10.0"
           }
         ],
         "metaLine": "GR / R/R",
@@ -771,33 +771,33 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "5",
         "profileUrl": "https://acusports.com/sports/baseball/roster/nick-arias/11210",
         "imageUrl": "https://acusports.com/images/2025/9/2/AKA05333.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 46,
-        "battingAverage": 0.292,
-        "onBasePercentage": 0.433,
-        "sluggingPercentage": 0.494,
-        "ops": 0.927,
-        "atBats": 168,
-        "runs": 39,
-        "hits": 49,
+        "gamesPlayed": 49,
+        "gamesStarted": 47,
+        "battingAverage": 0.295,
+        "onBasePercentage": 0.432,
+        "sluggingPercentage": 0.491,
+        "ops": 0.923,
+        "atBats": 173,
+        "runs": 40,
+        "hits": 51,
         "doubles": 13,
         "triples": 0,
         "homeRuns": 7,
-        "runsBattedIn": 41,
-        "totalBases": 83,
+        "runsBattedIn": 42,
+        "totalBases": 85,
         "walks": 36,
         "hitByPitch": 8,
-        "strikeouts": 50,
+        "strikeouts": 51,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 3,
         "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 45,
+        "putouts": 47,
         "assists": 0,
-        "errors": 12,
-        "plateAppearances": 217,
+        "errors": 13,
+        "plateAppearances": 222,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -809,51 +809,51 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "5",
         "profileUrl": "https://acusports.com/sports/baseball/roster/nick-arias/11210",
         "imageUrl": "https://acusports.com/images/2025/9/2/AKA05333.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "putouts": 45,
-        "assists": 78,
-        "errors": 12,
-        "fieldingPercentage": 0.911,
-        "doublePlays": 3,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "putouts": 47,
+        "assists": 80,
+        "errors": 13,
+        "fieldingPercentage": 0.907,
+        "doublePlays": 4,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 135
+        "totalChances": 140
       },
       "evaluation": {
-        "score": 56,
+        "score": 55,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 84.99999999999999,
-          "Power": 45.78947368421053,
-          "Contact": 44.999999999999986,
-          "Discipline": 57.77777777777777,
+          "On-base": 84.44444444444443,
+          "Power": 45,
+          "Contact": 46.874999999999986,
+          "Discipline": 56.20915032679738,
           "Speed": 3.3333333333333335
         },
         "summary": "Nick Arias profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .292",
-          "OBP .433",
-          "SLG .494"
+          "AVG .295",
+          "OBP .432",
+          "SLG .491"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".295"
           },
           {
             "label": "OBP",
-            "value": ".433"
+            "value": ".432"
           },
           {
             "label": "SLG",
-            "value": ".494"
+            "value": ".491"
           },
           {
             "label": "HR",
@@ -861,7 +861,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           },
           {
             "label": "RBI",
-            "value": "41"
+            "value": "42"
           },
           {
             "label": "SB",
@@ -917,31 +917,31 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "6",
         "profileUrl": "https://acusports.com/sports/baseball/roster/carson-wallace/11231",
         "imageUrl": "https://acusports.com/images/2025/9/2/Carson_Wallace.jpg",
-        "gamesPlayed": 20,
+        "gamesPlayed": 21,
         "gamesStarted": 3,
-        "appearances": 20,
+        "appearances": 21,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.24,
+        "earnedRunAverage": 7.02,
         "whip": 1.95,
         "wins": 2,
         "losses": 1,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 32.333333333333336,
-        "inningsPitchedDisplay": "32.1",
+        "inningsPitched": 33.333333333333336,
+        "inningsPitchedDisplay": "33.1",
         "hitsAllowed": 32,
         "runsAllowed": 30,
         "earnedRunsAllowed": 26,
-        "walksAllowed": 31,
-        "strikeouts": 34,
+        "walksAllowed": 33,
+        "strikeouts": 36,
         "doublesAllowed": 9,
         "triplesAllowed": 1,
         "homeRunsAllowed": 6,
-        "opponentsAtBats": 124,
+        "opponentsAtBats": 128,
         "wildPitches": 5,
         "hitBatters": 8,
         "balks": 1,
-        "opponentsBattingAverage": 0.258,
+        "opponentsBattingAverage": 0.25,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -966,7 +966,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "totalChances": 4
       },
       "evaluation": {
-        "score": 10,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -974,20 +974,20 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 49.671977507029055,
-          "Command": 1.9354838709677449,
+          "Miss bats": 51.99999999999999,
+          "Command": 1.8181818181818168,
           "Damage suppression": 0
         },
         "summary": "Carson Wallace looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 7.24",
+          "ERA 7.02",
           "WHIP 1.95",
-          "K/9 9.5"
+          "K/9 9.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.24"
+            "value": "7.02"
           },
           {
             "label": "WHIP",
@@ -995,19 +995,19 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           },
           {
             "label": "K/9",
-            "value": "9.5"
+            "value": "9.7"
           },
           {
             "label": "BB/9",
-            "value": "8.6"
+            "value": "8.9"
           },
           {
             "label": "HR/9",
-            "value": "1.67"
+            "value": "1.62"
           },
           {
             "label": "IP",
-            "value": "32.3"
+            "value": "33.3"
           }
         ],
         "metaLine": "FR / L/L",
@@ -1058,7 +1058,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "7",
         "profileUrl": "https://acusports.com/sports/baseball/roster/brady-coe/11215",
         "imageUrl": "https://acusports.com/images/2025/9/2/Brady_Coe.jpg",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 0,
         "battingAverage": 0,
         "onBasePercentage": 0,
@@ -1095,31 +1095,31 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "7",
         "profileUrl": "https://acusports.com/sports/baseball/roster/brady-coe/11215",
         "imageUrl": "https://acusports.com/images/2025/9/2/Brady_Coe.jpg",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 1,
-        "appearances": 15,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4,
-        "whip": 1.37,
+        "earnedRunAverage": 5.53,
+        "whip": 1.45,
         "wins": 2,
-        "losses": 2,
+        "losses": 3,
         "saves": 4,
         "shutouts": 0,
-        "inningsPitched": 27,
-        "inningsPitchedDisplay": "27.0",
-        "hitsAllowed": 24,
-        "runsAllowed": 15,
-        "earnedRunsAllowed": 12,
-        "walksAllowed": 13,
-        "strikeouts": 25,
+        "inningsPitched": 27.666666666666668,
+        "inningsPitchedDisplay": "27.2",
+        "hitsAllowed": 25,
+        "runsAllowed": 21,
+        "earnedRunsAllowed": 17,
+        "walksAllowed": 15,
+        "strikeouts": 26,
         "doublesAllowed": 2,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 103,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 106,
         "wildPitches": 1,
-        "hitBatters": 3,
+        "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.233,
+        "opponentsBattingAverage": 0.236,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1144,7 +1144,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 11,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1152,40 +1152,40 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.3939393939394,
-          "Command": 18.461538461538467,
+          "Miss bats": 40.525739320920046,
+          "Command": 14.666666666666671,
           "Damage suppression": 0
         },
-        "summary": "Brady Coe looks like a INF / RHP option who limits runs.",
+        "summary": "Brady Coe gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.00",
-          "WHIP 1.37",
-          "K/9 8.3"
+          "ERA 5.53",
+          "WHIP 1.45",
+          "K/9 8.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.00"
+            "value": "5.53"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "1.45"
           },
           {
             "label": "K/9",
-            "value": "8.3"
+            "value": "8.5"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
-            "value": "0.33"
+            "value": "0.65"
           },
           {
             "label": "IP",
-            "value": "27.0"
+            "value": "27.7"
           }
         ],
         "metaLine": "SO / R/R",
@@ -1469,33 +1469,33 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "10",
         "profileUrl": "https://acusports.com/sports/baseball/roster/brady-gray/11218",
         "imageUrl": "https://acusports.com/images/2025/9/2/Brady_Gray.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 31,
+        "gamesPlayed": 36,
+        "gamesStarted": 32,
         "battingAverage": 0.25,
-        "onBasePercentage": 0.372,
-        "sluggingPercentage": 0.42,
-        "ops": 0.792,
-        "atBats": 112,
+        "onBasePercentage": 0.369,
+        "sluggingPercentage": 0.414,
+        "ops": 0.783,
+        "atBats": 116,
         "runs": 21,
-        "hits": 28,
+        "hits": 29,
         "doubles": 4,
         "triples": 0,
         "homeRuns": 5,
-        "runsBattedIn": 22,
-        "totalBases": 47,
+        "runsBattedIn": 23,
+        "totalBases": 48,
         "walks": 18,
         "hitByPitch": 5,
-        "strikeouts": 49,
+        "strikeouts": 51,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 226,
+        "putouts": 233,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 137,
+        "plateAppearances": 141,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -1507,38 +1507,38 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "10",
         "profileUrl": "https://acusports.com/sports/baseball/roster/brady-gray/11218",
         "imageUrl": "https://acusports.com/images/2025/9/2/Brady_Gray.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 31,
-        "putouts": 226,
-        "assists": 30,
+        "gamesPlayed": 34,
+        "gamesStarted": 32,
+        "putouts": 233,
+        "assists": 31,
         "errors": 4,
         "fieldingPercentage": 0.985,
         "doublePlays": 1,
-        "stolenBasesAgainst": 70,
+        "stolenBasesAgainst": 71,
         "caughtStealingBy": 8,
         "stolenBasesPercentage": null,
         "passedBalls": 10,
         "catchersInterference": 0,
-        "totalChances": 260
+        "totalChances": 268
       },
       "evaluation": {
-        "score": 29,
+        "score": 28,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 51.11111111111109,
-          "Power": 26.31578947368421,
+          "On-base": 49.44444444444443,
+          "Power": 24.736842105263154,
           "Contact": 18.75,
-          "Discipline": 18.594104308390023,
+          "Discipline": 16.993464052287578,
           "Speed": 0
         },
         "summary": "Brady Gray gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .250",
-          "OBP .372",
-          "SLG .420"
+          "OBP .369",
+          "SLG .414"
         ],
         "statCards": [
           {
@@ -1547,11 +1547,11 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           },
           {
             "label": "OBP",
-            "value": ".372"
+            "value": ".369"
           },
           {
             "label": "SLG",
-            "value": ".420"
+            "value": ".414"
           },
           {
             "label": "HR",
@@ -1559,7 +1559,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           },
           {
             "label": "RBI",
-            "value": "22"
+            "value": "23"
           },
           {
             "label": "SB",
@@ -1756,13 +1756,13 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "12",
         "profileUrl": "https://acusports.com/sports/baseball/roster/sam-hardcastle/11220",
         "imageUrl": "https://acusports.com/images/2025/9/2/Sam_Hardcastle.jpg",
-        "gamesPlayed": 23,
+        "gamesPlayed": 24,
         "gamesStarted": 13,
-        "battingAverage": 0.232,
-        "onBasePercentage": 0.295,
-        "sluggingPercentage": 0.411,
-        "ops": 0.706,
-        "atBats": 56,
+        "battingAverage": 0.228,
+        "onBasePercentage": 0.29,
+        "sluggingPercentage": 0.404,
+        "ops": 0.694,
+        "atBats": 57,
         "runs": 9,
         "hits": 13,
         "doubles": 1,
@@ -1772,7 +1772,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "totalBases": 23,
         "walks": 0,
         "hitByPitch": 5,
-        "strikeouts": 23,
+        "strikeouts": 24,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -1782,7 +1782,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "putouts": 13,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 61,
+        "plateAppearances": 62,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1809,36 +1809,36 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "totalChances": 38
       },
       "evaluation": {
-        "score": 10,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 8.33333333333331,
-          "Power": 23.947368421052627,
-          "Contact": 7.500000000000007,
+          "On-base": 5.55555555555553,
+          "Power": 22.105263157894743,
+          "Contact": 5.000000000000004,
           "Discipline": 0,
           "Speed": 0
         },
         "summary": "Sam Hardcastle gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .232",
-          "OBP .295",
-          "SLG .411"
+          "AVG .228",
+          "OBP .290",
+          "SLG .404"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".232"
+            "value": ".228"
           },
           {
             "label": "OBP",
-            "value": ".295"
+            "value": ".290"
           },
           {
             "label": "SLG",
-            "value": ".411"
+            "value": ".404"
           },
           {
             "label": "HR",
@@ -1901,21 +1901,21 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "14",
         "profileUrl": "https://acusports.com/sports/baseball/roster/diego-cardenas/11214",
         "imageUrl": "https://acusports.com/images/2025/9/2/Diego_Cardenas.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "battingAverage": 0.318,
-        "onBasePercentage": 0.429,
-        "sluggingPercentage": 0.725,
-        "ops": 1.154,
-        "atBats": 211,
-        "runs": 49,
-        "hits": 67,
+        "gamesPlayed": 54,
+        "gamesStarted": 54,
+        "battingAverage": 0.321,
+        "onBasePercentage": 0.432,
+        "sluggingPercentage": 0.735,
+        "ops": 1.167,
+        "atBats": 215,
+        "runs": 51,
+        "hits": 69,
         "doubles": 17,
         "triples": 0,
-        "homeRuns": 23,
-        "runsBattedIn": 64,
-        "totalBases": 153,
-        "walks": 37,
+        "homeRuns": 24,
+        "runsBattedIn": 66,
+        "totalBases": 158,
+        "walks": 38,
         "hitByPitch": 4,
         "strikeouts": 73,
         "intentionalWalks": 4,
@@ -1927,51 +1927,51 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "putouts": 0,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 252,
+        "plateAppearances": 257,
         "caughtStealing": 0,
         "pickedOff": 1
       },
       "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
-        "score": 68,
+        "score": 69,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 82.77777777777776,
+          "On-base": 84.44444444444443,
           "Power": 100,
-          "Contact": 61.25000000000001,
-          "Discipline": 34.09436834094368,
+          "Contact": 63.125,
+          "Discipline": 35.61643835616437,
           "Speed": 0
         },
         "summary": "Diego Cardenas profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .318",
-          "OBP .429",
-          "SLG .725"
+          "AVG .321",
+          "OBP .432",
+          "SLG .735"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".318"
+            "value": ".321"
           },
           {
             "label": "OBP",
-            "value": ".429"
+            "value": ".432"
           },
           {
             "label": "SLG",
-            "value": ".725"
+            "value": ".735"
           },
           {
             "label": "HR",
-            "value": "23"
+            "value": "24"
           },
           {
             "label": "RBI",
-            "value": "64"
+            "value": "66"
           },
           {
             "label": "SB",
@@ -2705,13 +2705,13 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "20",
         "profileUrl": "https://acusports.com/sports/baseball/roster/gavin-brzozowski/11236",
         "imageUrl": "https://acusports.com/images/2025/9/2/Gavin_Brzozowski.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 23,
-        "battingAverage": 0.223,
-        "onBasePercentage": 0.357,
-        "sluggingPercentage": 0.351,
-        "ops": 0.708,
-        "atBats": 94,
+        "gamesPlayed": 37,
+        "gamesStarted": 24,
+        "battingAverage": 0.216,
+        "onBasePercentage": 0.347,
+        "sluggingPercentage": 0.34,
+        "ops": 0.687,
+        "atBats": 97,
         "runs": 10,
         "hits": 21,
         "doubles": 6,
@@ -2721,17 +2721,17 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "totalBases": 33,
         "walks": 19,
         "hitByPitch": 1,
-        "strikeouts": 21,
+        "strikeouts": 22,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 66,
+        "putouts": 71,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 115,
+        "plateAppearances": 118,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2743,19 +2743,19 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "20",
         "profileUrl": "https://acusports.com/sports/baseball/roster/gavin-brzozowski/11236",
         "imageUrl": "https://acusports.com/images/2025/9/2/Gavin_Brzozowski.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 22,
-        "putouts": 66,
+        "gamesPlayed": 31,
+        "gamesStarted": 23,
+        "putouts": 71,
         "assists": 2,
         "errors": 2,
-        "fieldingPercentage": 0.971,
-        "doublePlays": 1,
+        "fieldingPercentage": 0.973,
+        "doublePlays": 2,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 70
+        "totalChances": 75
       },
       "evaluation": {
         "score": 0,
@@ -2851,31 +2851,31 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "21",
         "profileUrl": "https://acusports.com/sports/baseball/roster/oj-gonzalez/11217",
         "imageUrl": "https://acusports.com/images/2025/9/2/OJ_Gonzalez.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 0,
-        "appearances": 12,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 8.36,
-        "whip": 2.14,
+        "earnedRunAverage": 8.8,
+        "whip": 2.02,
         "wins": 1,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 14,
-        "inningsPitchedDisplay": "14.0",
-        "hitsAllowed": 22,
-        "runsAllowed": 15,
-        "earnedRunsAllowed": 13,
+        "inningsPitched": 15.333333333333334,
+        "inningsPitchedDisplay": "15.1",
+        "hitsAllowed": 23,
+        "runsAllowed": 17,
+        "earnedRunsAllowed": 15,
         "walksAllowed": 8,
-        "strikeouts": 8,
+        "strikeouts": 9,
         "doublesAllowed": 6,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 60,
+        "homeRunsAllowed": 4,
+        "opponentsAtBats": 65,
         "wildPitches": 0,
-        "hitBatters": 4,
+        "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.367,
+        "opponentsBattingAverage": 0.354,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2900,7 +2900,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "totalChances": 5
       },
       "evaluation": {
-        "score": 2,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2908,40 +2908,40 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 10.389610389610393,
-          "Command": 0,
+          "Miss bats": 11.660079051383399,
+          "Command": 2.5,
           "Damage suppression": 0
         },
         "summary": "OJ Gonzalez gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 8.36",
-          "WHIP 2.14",
-          "K/9 5.1"
+          "ERA 8.80",
+          "WHIP 2.02",
+          "K/9 5.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.36"
+            "value": "8.80"
           },
           {
             "label": "WHIP",
-            "value": "2.14"
+            "value": "2.02"
           },
           {
             "label": "K/9",
-            "value": "5.1"
+            "value": "5.3"
           },
           {
             "label": "BB/9",
-            "value": "5.1"
+            "value": "4.7"
           },
           {
             "label": "HR/9",
-            "value": "1.93"
+            "value": "2.35"
           },
           {
             "label": "IP",
-            "value": "14.0"
+            "value": "15.3"
           }
         ],
         "metaLine": "R-SO / R/R",
@@ -2992,33 +2992,33 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "22",
         "profileUrl": "https://acusports.com/sports/baseball/roster/brady-ladusau/11237",
         "imageUrl": "https://acusports.com/images/2025/9/2/Brady_Ladusau.jpg",
-        "gamesPlayed": 49,
-        "gamesStarted": 46,
-        "battingAverage": 0.288,
+        "gamesPlayed": 50,
+        "gamesStarted": 47,
+        "battingAverage": 0.292,
         "onBasePercentage": 0.398,
-        "sluggingPercentage": 0.429,
-        "ops": 0.827,
-        "atBats": 163,
+        "sluggingPercentage": 0.44,
+        "ops": 0.838,
+        "atBats": 168,
         "runs": 37,
-        "hits": 47,
+        "hits": 49,
         "doubles": 4,
-        "triples": 2,
+        "triples": 3,
         "homeRuns": 5,
-        "runsBattedIn": 31,
-        "totalBases": 70,
+        "runsBattedIn": 34,
+        "totalBases": 74,
         "walks": 20,
         "hitByPitch": 11,
-        "strikeouts": 41,
+        "strikeouts": 42,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 7,
-        "putouts": 83,
+        "putouts": 85,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 206,
+        "plateAppearances": 211,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -3030,43 +3030,43 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "22",
         "profileUrl": "https://acusports.com/sports/baseball/roster/brady-ladusau/11237",
         "imageUrl": "https://acusports.com/images/2025/9/2/Brady_Ladusau.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "putouts": 83,
+        "gamesPlayed": 40,
+        "gamesStarted": 40,
+        "putouts": 85,
         "assists": 0,
         "errors": 2,
-        "fieldingPercentage": 0.976,
+        "fieldingPercentage": 0.977,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 85
+        "totalChances": 87
       },
       "evaluation": {
-        "score": 42,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
           "On-base": 65.55555555555556,
-          "Power": 28.68421052631579,
-          "Contact": 42.499999999999986,
-          "Discipline": 31.978319783197822,
+          "Power": 31.578947368421055,
+          "Contact": 44.999999999999986,
+          "Discipline": 30.68783068783068,
           "Speed": 13.333333333333334
         },
         "summary": "Brady Ladusau gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .288",
+          "AVG .292",
           "OBP .398",
-          "SLG .429"
+          "SLG .440"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".288"
+            "value": ".292"
           },
           {
             "label": "OBP",
@@ -3074,7 +3074,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           },
           {
             "label": "SLG",
-            "value": ".429"
+            "value": ".440"
           },
           {
             "label": "HR",
@@ -3082,7 +3082,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           },
           {
             "label": "RBI",
-            "value": "31"
+            "value": "34"
           },
           {
             "label": "SB",
@@ -3280,31 +3280,31 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "24",
         "profileUrl": "https://acusports.com/sports/baseball/roster/david-jeon/11221",
         "imageUrl": "https://acusports.com/images/2025/9/2/David_Jeon.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 0,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 8.47,
-        "whip": 1.82,
+        "earnedRunAverage": 9.68,
+        "whip": 2.09,
         "wins": 2,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 17,
-        "inningsPitchedDisplay": "17.0",
-        "hitsAllowed": 19,
-        "runsAllowed": 16,
-        "earnedRunsAllowed": 16,
-        "walksAllowed": 12,
+        "inningsPitched": 17.666666666666668,
+        "inningsPitchedDisplay": "17.2",
+        "hitsAllowed": 22,
+        "runsAllowed": 19,
+        "earnedRunsAllowed": 19,
+        "walksAllowed": 15,
         "strikeouts": 14,
-        "doublesAllowed": 1,
+        "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 68,
+        "opponentsAtBats": 72,
         "wildPitches": 1,
         "hitBatters": 12,
         "balks": 0,
-        "opponentsBattingAverage": 0.279,
+        "opponentsBattingAverage": 0.306,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3329,7 +3329,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "totalChances": 6
       },
       "evaluation": {
-        "score": 7,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3337,40 +3337,40 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 31.016042780748666,
-          "Command": 3.333333333333335,
+          "Miss bats": 28.473413379073754,
+          "Command": 0,
           "Damage suppression": 0
         },
         "summary": "David Jeon gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 8.47",
-          "WHIP 1.82",
-          "K/9 7.4"
+          "ERA 9.68",
+          "WHIP 2.09",
+          "K/9 7.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.47"
+            "value": "9.68"
           },
           {
             "label": "WHIP",
-            "value": "1.82"
+            "value": "2.09"
           },
           {
             "label": "K/9",
-            "value": "7.4"
+            "value": "7.1"
           },
           {
             "label": "BB/9",
-            "value": "6.4"
+            "value": "7.6"
           },
           {
             "label": "HR/9",
-            "value": "0.53"
+            "value": "0.51"
           },
           {
             "label": "IP",
-            "value": "17.0"
+            "value": "17.7"
           }
         ],
         "metaLine": "SR / R/R",
@@ -3705,33 +3705,33 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "27",
         "profileUrl": "https://acusports.com/sports/baseball/roster/braden-regala/11228",
         "imageUrl": "https://acusports.com/images/2025/9/2/Braden_Regala.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 17,
+        "gamesPlayed": 26,
+        "gamesStarted": 18,
         "battingAverage": 0.245,
-        "onBasePercentage": 0.387,
-        "sluggingPercentage": 0.367,
-        "ops": 0.754,
-        "atBats": 49,
+        "onBasePercentage": 0.379,
+        "sluggingPercentage": 0.358,
+        "ops": 0.737,
+        "atBats": 53,
         "runs": 12,
-        "hits": 12,
+        "hits": 13,
         "doubles": 3,
         "triples": 0,
         "homeRuns": 1,
         "runsBattedIn": 8,
-        "totalBases": 18,
+        "totalBases": 19,
         "walks": 12,
         "hitByPitch": 0,
-        "strikeouts": 16,
+        "strikeouts": 18,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
-        "putouts": 36,
+        "putouts": 38,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 69,
+        "plateAppearances": 73,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -3743,9 +3743,9 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "27",
         "profileUrl": "https://acusports.com/sports/baseball/roster/braden-regala/11228",
         "imageUrl": "https://acusports.com/images/2025/9/2/Braden_Regala.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 14,
-        "putouts": 36,
+        "gamesPlayed": 17,
+        "gamesStarted": 15,
+        "putouts": 38,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -3755,26 +3755,26 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 36
+        "totalChances": 38
       },
       "evaluation": {
-        "score": 35,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 59.444444444444436,
-          "Power": 12.368421052631577,
+          "On-base": 54.99999999999999,
+          "Power": 9.999999999999995,
           "Contact": 15.624999999999996,
-          "Discipline": 61.11111111111111,
+          "Discipline": 51.85185185185184,
           "Speed": 13.333333333333334
         },
         "summary": "Braden Regala gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .245",
-          "OBP .387",
-          "SLG .367"
+          "OBP .379",
+          "SLG .358"
         ],
         "statCards": [
           {
@@ -3783,11 +3783,11 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           },
           {
             "label": "OBP",
-            "value": ".387"
+            "value": ".379"
           },
           {
             "label": "SLG",
-            "value": ".367"
+            "value": ".358"
           },
           {
             "label": "HR",
@@ -3850,33 +3850,33 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "28",
         "profileUrl": "https://acusports.com/sports/baseball/roster/reese-borho/11212",
         "imageUrl": "https://acusports.com/images/2025/9/2/Reese_Borho.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 12,
-        "battingAverage": 0.136,
-        "onBasePercentage": 0.271,
-        "sluggingPercentage": 0.22,
-        "ops": 0.491,
-        "atBats": 59,
-        "runs": 11,
-        "hits": 8,
+        "gamesPlayed": 41,
+        "gamesStarted": 13,
+        "battingAverage": 0.148,
+        "onBasePercentage": 0.297,
+        "sluggingPercentage": 0.23,
+        "ops": 0.527,
+        "atBats": 61,
+        "runs": 12,
+        "hits": 9,
         "doubles": 0,
         "triples": 1,
         "homeRuns": 1,
         "runsBattedIn": 5,
-        "totalBases": 13,
+        "totalBases": 14,
         "walks": 5,
-        "hitByPitch": 6,
-        "strikeouts": 27,
+        "hitByPitch": 8,
+        "strikeouts": 28,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 5,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 1,
-        "putouts": 27,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 2,
+        "putouts": 29,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 77,
+        "plateAppearances": 82,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -3888,9 +3888,9 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "28",
         "profileUrl": "https://acusports.com/sports/baseball/roster/reese-borho/11212",
         "imageUrl": "https://acusports.com/images/2025/9/2/Reese_Borho.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 11,
-        "putouts": 27,
+        "gamesPlayed": 18,
+        "gamesStarted": 12,
+        "putouts": 29,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -3900,39 +3900,39 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 28
+        "totalChances": 30
       },
       "evaluation": {
-        "score": 0,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 0,
+          "On-base": 9.444444444444422,
           "Power": 0,
           "Contact": 0,
           "Discipline": 0,
-          "Speed": 0
+          "Speed": 3.3333333333333335
         },
         "summary": "Reese Borho gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .136",
-          "OBP .271",
-          "SLG .220"
+          "AVG .148",
+          "OBP .297",
+          "SLG .230"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".136"
+            "value": ".148"
           },
           {
             "label": "OBP",
-            "value": ".271"
+            "value": ".297"
           },
           {
             "label": "SLG",
-            "value": ".220"
+            "value": ".230"
           },
           {
             "label": "HR",
@@ -3944,7 +3944,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           },
           {
             "label": "SB",
-            "value": "0"
+            "value": "1"
           }
         ],
         "metaLine": "JR / L/L",
@@ -4797,31 +4797,31 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "41",
         "profileUrl": "https://acusports.com/sports/baseball/roster/evan-whiteaker/11246",
         "imageUrl": "https://acusports.com/images/2025/9/2/Evan_Whitaker.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 4,
-        "appearances": 16,
+        "gamesPlayed": 17,
+        "gamesStarted": 5,
+        "appearances": 17,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.19,
-        "whip": 1.65,
+        "earnedRunAverage": 7.33,
+        "whip": 1.77,
         "wins": 4,
         "losses": 3,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 48,
-        "inningsPitchedDisplay": "48.0",
-        "hitsAllowed": 56,
-        "runsAllowed": 41,
-        "earnedRunsAllowed": 33,
-        "walksAllowed": 23,
-        "strikeouts": 42,
+        "inningsPitched": 50.333333333333336,
+        "inningsPitchedDisplay": "50.1",
+        "hitsAllowed": 63,
+        "runsAllowed": 49,
+        "earnedRunsAllowed": 41,
+        "walksAllowed": 26,
+        "strikeouts": 43,
         "doublesAllowed": 13,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 6,
-        "opponentsAtBats": 196,
+        "homeRunsAllowed": 7,
+        "opponentsAtBats": 209,
         "wildPitches": 4,
-        "hitBatters": 4,
+        "hitBatters": 6,
         "balks": 1,
-        "opponentsBattingAverage": 0.286,
+        "opponentsBattingAverage": 0.301,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4831,14 +4831,14 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "jersey": "41",
         "profileUrl": "https://acusports.com/sports/baseball/roster/evan-whiteaker/11246",
         "imageUrl": "https://acusports.com/images/2025/9/2/Evan_Whitaker.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 3,
+        "gamesPlayed": 11,
+        "gamesStarted": 4,
         "putouts": 2,
         "assists": 12,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 1,
-        "stolenBasesAgainst": 6,
+        "stolenBasesAgainst": 7,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
@@ -4846,7 +4846,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "totalChances": 14
       },
       "evaluation": {
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4854,40 +4854,40 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 35.22727272727273,
-          "Command": 16.52173913043478,
+          "Miss bats": 33.53401565322095,
+          "Command": 13.076923076923075,
           "Damage suppression": 0
         },
         "summary": "Evan Whiteaker gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.19",
-          "WHIP 1.65",
-          "K/9 7.9"
+          "ERA 7.33",
+          "WHIP 1.77",
+          "K/9 7.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.19"
+            "value": "7.33"
           },
           {
             "label": "WHIP",
-            "value": "1.65"
+            "value": "1.77"
           },
           {
             "label": "K/9",
-            "value": "7.9"
+            "value": "7.7"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "4.6"
           },
           {
             "label": "HR/9",
-            "value": "1.13"
+            "value": "1.25"
           },
           {
             "label": "IP",
-            "value": "48.0"
+            "value": "50.3"
           }
         ],
         "metaLine": "SR / R/R",
@@ -5205,29 +5205,29 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 55,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "JT Thompson profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .422",
-          "SLG .420"
+          "AVG .337",
+          "OBP .431",
+          "SLG .438"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": ".337"
           },
           {
             "label": "OBP",
-            "value": ".422"
+            "value": ".431"
           },
           {
             "label": "SLG",
-            "value": ".420"
+            "value": ".438"
           },
           {
             "label": "HR",
@@ -5239,15 +5239,15 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "5"
           }
         ],
         "components": {
-          "On-base": 78.88888888888886,
-          "Power": 26.31578947368421,
-          "Contact": 67.5,
+          "On-base": 83.88888888888889,
+          "Power": 31.05263157894737,
+          "Contact": 73.125,
           "Discipline": 70.37037037037037,
-          "Speed": 10
+          "Speed": 16.666666666666664
         },
         "metaLine": "SR / L/R",
         "detailBadges": [
@@ -5274,25 +5274,25 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "position": "INF",
         "classYear": "GR",
         "handedness": "S/R",
-        "score": 72,
+        "score": 71,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Zandt Payne profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .312",
-          "OBP .460",
+          "AVG .311",
+          "OBP .459",
           "SLG .507"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".312"
+            "value": ".311"
           },
           {
             "label": "OBP",
-            "value": ".460"
+            "value": ".459"
           },
           {
             "label": "SLG",
@@ -5304,7 +5304,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           },
           {
             "label": "RBI",
-            "value": "37"
+            "value": "38"
           },
           {
             "label": "SB",
@@ -5312,9 +5312,9 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           }
         ],
         "components": {
-          "On-base": 100,
+          "On-base": 99.44444444444444,
           "Power": 49.21052631578948,
-          "Contact": 57.49999999999999,
+          "Contact": 56.875,
           "Discipline": 97.22222222222221,
           "Speed": 30
         },
@@ -5412,47 +5412,47 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "position": "RHP",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 8,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Caden Greanead gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Caden Greanead looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 11.42",
-          "WHIP 3.00",
-          "K/9 8.3"
+          "ERA 9.90",
+          "WHIP 2.70",
+          "K/9 9.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "11.42"
+            "value": "9.90"
           },
           {
             "label": "WHIP",
-            "value": "3.00"
+            "value": "2.70"
           },
           {
             "label": "K/9",
-            "value": "8.3"
+            "value": "9.0"
           },
           {
             "label": "BB/9",
-            "value": "12.5"
+            "value": "11.7"
           },
           {
             "label": "HR/9",
-            "value": "1.04"
+            "value": "0.90"
           },
           {
             "label": "IP",
-            "value": "8.7"
+            "value": "10.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.16083916083917,
+          "Miss bats": 45.45454545454545,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -5481,29 +5481,29 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 56,
+        "score": 55,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Nick Arias profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .292",
-          "OBP .433",
-          "SLG .494"
+          "AVG .295",
+          "OBP .432",
+          "SLG .491"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".295"
           },
           {
             "label": "OBP",
-            "value": ".433"
+            "value": ".432"
           },
           {
             "label": "SLG",
-            "value": ".494"
+            "value": ".491"
           },
           {
             "label": "HR",
@@ -5511,7 +5511,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           },
           {
             "label": "RBI",
-            "value": "41"
+            "value": "42"
           },
           {
             "label": "SB",
@@ -5519,10 +5519,10 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           }
         ],
         "components": {
-          "On-base": 84.99999999999999,
-          "Power": 45.78947368421053,
-          "Contact": 44.999999999999986,
-          "Discipline": 57.77777777777777,
+          "On-base": 84.44444444444443,
+          "Power": 45,
+          "Contact": 46.874999999999986,
+          "Discipline": 56.20915032679738,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / R/R",
@@ -5550,21 +5550,21 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "position": "LHP",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 10,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Carson Wallace looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 7.24",
+          "ERA 7.02",
           "WHIP 1.95",
-          "K/9 9.5"
+          "K/9 9.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.24"
+            "value": "7.02"
           },
           {
             "label": "WHIP",
@@ -5572,26 +5572,26 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           },
           {
             "label": "K/9",
-            "value": "9.5"
+            "value": "9.7"
           },
           {
             "label": "BB/9",
-            "value": "8.6"
+            "value": "8.9"
           },
           {
             "label": "HR/9",
-            "value": "1.67"
+            "value": "1.62"
           },
           {
             "label": "IP",
-            "value": "32.3"
+            "value": "33.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 49.671977507029055,
-          "Command": 1.9354838709677449,
+          "Miss bats": 51.99999999999999,
+          "Command": 1.8181818181818168,
           "Damage suppression": 0
         },
         "metaLine": "FR / L/L",
@@ -5619,48 +5619,48 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "position": "INF / RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 11,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Brady Coe looks like a INF / RHP option who limits runs.",
+        "summary": "Brady Coe gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.00",
-          "WHIP 1.37",
-          "K/9 8.3"
+          "ERA 5.53",
+          "WHIP 1.45",
+          "K/9 8.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.00"
+            "value": "5.53"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "1.45"
           },
           {
             "label": "K/9",
-            "value": "8.3"
+            "value": "8.5"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
-            "value": "0.33"
+            "value": "0.65"
           },
           {
             "label": "IP",
-            "value": "27.0"
+            "value": "27.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.3939393939394,
-          "Command": 18.461538461538467,
+          "Miss bats": 40.525739320920046,
+          "Command": 14.666666666666671,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -5825,7 +5825,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "position": "C",
         "classYear": "SO",
         "handedness": "S/R",
-        "score": 29,
+        "score": 28,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5833,8 +5833,8 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "summary": "Brady Gray gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .250",
-          "OBP .372",
-          "SLG .420"
+          "OBP .369",
+          "SLG .414"
         ],
         "statCards": [
           {
@@ -5843,11 +5843,11 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           },
           {
             "label": "OBP",
-            "value": ".372"
+            "value": ".369"
           },
           {
             "label": "SLG",
-            "value": ".420"
+            "value": ".414"
           },
           {
             "label": "HR",
@@ -5855,7 +5855,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           },
           {
             "label": "RBI",
-            "value": "22"
+            "value": "23"
           },
           {
             "label": "SB",
@@ -5863,10 +5863,10 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           }
         ],
         "components": {
-          "On-base": 51.11111111111109,
-          "Power": 26.31578947368421,
+          "On-base": 49.44444444444443,
+          "Power": 24.736842105263154,
           "Contact": 18.75,
-          "Discipline": 18.594104308390023,
+          "Discipline": 16.993464052287578,
           "Speed": 0
         },
         "metaLine": "SO / S/R",
@@ -5963,29 +5963,29 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 10,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Sam Hardcastle gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .232",
-          "OBP .295",
-          "SLG .411"
+          "AVG .228",
+          "OBP .290",
+          "SLG .404"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".232"
+            "value": ".228"
           },
           {
             "label": "OBP",
-            "value": ".295"
+            "value": ".290"
           },
           {
             "label": "SLG",
-            "value": ".411"
+            "value": ".404"
           },
           {
             "label": "HR",
@@ -6001,9 +6001,9 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           }
         ],
         "components": {
-          "On-base": 8.33333333333331,
-          "Power": 23.947368421052627,
-          "Contact": 7.500000000000007,
+          "On-base": 5.55555555555553,
+          "Power": 22.105263157894743,
+          "Contact": 5.000000000000004,
           "Discipline": 0,
           "Speed": 0
         },
@@ -6032,37 +6032,37 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 68,
+        "score": 69,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Diego Cardenas profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .318",
-          "OBP .429",
-          "SLG .725"
+          "AVG .321",
+          "OBP .432",
+          "SLG .735"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".318"
+            "value": ".321"
           },
           {
             "label": "OBP",
-            "value": ".429"
+            "value": ".432"
           },
           {
             "label": "SLG",
-            "value": ".725"
+            "value": ".735"
           },
           {
             "label": "HR",
-            "value": "23"
+            "value": "24"
           },
           {
             "label": "RBI",
-            "value": "64"
+            "value": "66"
           },
           {
             "label": "SB",
@@ -6070,10 +6070,10 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           }
         ],
         "components": {
-          "On-base": 82.77777777777776,
+          "On-base": 84.44444444444443,
           "Power": 100,
-          "Contact": 61.25000000000001,
-          "Discipline": 34.09436834094368,
+          "Contact": 63.125,
+          "Discipline": 35.61643835616437,
           "Speed": 0
         },
         "metaLine": "SR / L/R",
@@ -6515,48 +6515,48 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "position": "RHP",
         "classYear": "R-SO",
         "handedness": "R/R",
-        "score": 2,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "OJ Gonzalez gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 8.36",
-          "WHIP 2.14",
-          "K/9 5.1"
+          "ERA 8.80",
+          "WHIP 2.02",
+          "K/9 5.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.36"
+            "value": "8.80"
           },
           {
             "label": "WHIP",
-            "value": "2.14"
+            "value": "2.02"
           },
           {
             "label": "K/9",
-            "value": "5.1"
+            "value": "5.3"
           },
           {
             "label": "BB/9",
-            "value": "5.1"
+            "value": "4.7"
           },
           {
             "label": "HR/9",
-            "value": "1.93"
+            "value": "2.35"
           },
           {
             "label": "IP",
-            "value": "14.0"
+            "value": "15.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 10.389610389610393,
-          "Command": 0,
+          "Miss bats": 11.660079051383399,
+          "Command": 2.5,
           "Damage suppression": 0
         },
         "metaLine": "R-SO / R/R",
@@ -6584,21 +6584,21 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "position": "OF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 42,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brady Ladusau gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .288",
+          "AVG .292",
           "OBP .398",
-          "SLG .429"
+          "SLG .440"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".288"
+            "value": ".292"
           },
           {
             "label": "OBP",
@@ -6606,7 +6606,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           },
           {
             "label": "SLG",
-            "value": ".429"
+            "value": ".440"
           },
           {
             "label": "HR",
@@ -6614,7 +6614,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           },
           {
             "label": "RBI",
-            "value": "31"
+            "value": "34"
           },
           {
             "label": "SB",
@@ -6623,9 +6623,9 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         ],
         "components": {
           "On-base": 65.55555555555556,
-          "Power": 28.68421052631579,
-          "Contact": 42.499999999999986,
-          "Discipline": 31.978319783197822,
+          "Power": 31.578947368421055,
+          "Contact": 44.999999999999986,
+          "Discipline": 30.68783068783068,
           "Speed": 13.333333333333334
         },
         "metaLine": "FR / R/R",
@@ -6722,48 +6722,48 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 7,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "David Jeon gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 8.47",
-          "WHIP 1.82",
-          "K/9 7.4"
+          "ERA 9.68",
+          "WHIP 2.09",
+          "K/9 7.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.47"
+            "value": "9.68"
           },
           {
             "label": "WHIP",
-            "value": "1.82"
+            "value": "2.09"
           },
           {
             "label": "K/9",
-            "value": "7.4"
+            "value": "7.1"
           },
           {
             "label": "BB/9",
-            "value": "6.4"
+            "value": "7.6"
           },
           {
             "label": "HR/9",
-            "value": "0.53"
+            "value": "0.51"
           },
           {
             "label": "IP",
-            "value": "17.0"
+            "value": "17.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 31.016042780748666,
-          "Command": 3.333333333333335,
+          "Miss bats": 28.473413379073754,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -6929,7 +6929,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "S/L",
-        "score": 35,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -6937,8 +6937,8 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "summary": "Braden Regala gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .245",
-          "OBP .387",
-          "SLG .367"
+          "OBP .379",
+          "SLG .358"
         ],
         "statCards": [
           {
@@ -6947,11 +6947,11 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           },
           {
             "label": "OBP",
-            "value": ".387"
+            "value": ".379"
           },
           {
             "label": "SLG",
-            "value": ".367"
+            "value": ".358"
           },
           {
             "label": "HR",
@@ -6967,10 +6967,10 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           }
         ],
         "components": {
-          "On-base": 59.444444444444436,
-          "Power": 12.368421052631577,
+          "On-base": 54.99999999999999,
+          "Power": 9.999999999999995,
           "Contact": 15.624999999999996,
-          "Discipline": 61.11111111111111,
+          "Discipline": 51.85185185185184,
           "Speed": 13.333333333333334
         },
         "metaLine": "SO / S/L",
@@ -6998,29 +6998,29 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 0,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Reese Borho gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .136",
-          "OBP .271",
-          "SLG .220"
+          "AVG .148",
+          "OBP .297",
+          "SLG .230"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".136"
+            "value": ".148"
           },
           {
             "label": "OBP",
-            "value": ".271"
+            "value": ".297"
           },
           {
             "label": "SLG",
-            "value": ".220"
+            "value": ".230"
           },
           {
             "label": "HR",
@@ -7032,15 +7032,15 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
           },
           {
             "label": "SB",
-            "value": "0"
+            "value": "1"
           }
         ],
         "components": {
-          "On-base": 0,
+          "On-base": 9.444444444444422,
           "Power": 0,
           "Contact": 0,
           "Discipline": 0,
-          "Speed": 0
+          "Speed": 3.3333333333333335
         },
         "metaLine": "JR / L/L",
         "detailBadges": [
@@ -7480,48 +7480,48 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Evan Whiteaker gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.19",
-          "WHIP 1.65",
-          "K/9 7.9"
+          "ERA 7.33",
+          "WHIP 1.77",
+          "K/9 7.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.19"
+            "value": "7.33"
           },
           {
             "label": "WHIP",
-            "value": "1.65"
+            "value": "1.77"
           },
           {
             "label": "K/9",
-            "value": "7.9"
+            "value": "7.7"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "4.6"
           },
           {
             "label": "HR/9",
-            "value": "1.13"
+            "value": "1.25"
           },
           {
             "label": "IP",
-            "value": "48.0"
+            "value": "50.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 35.22727272727273,
-          "Command": 16.52173913043478,
+          "Miss bats": 33.53401565322095,
+          "Command": 13.076923076923075,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
