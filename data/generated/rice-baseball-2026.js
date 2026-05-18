@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.rice2026 = {
-  "generatedAt": "2026-05-17T11:33:54.184Z",
+  "generatedAt": "2026-05-18T14:01:11.191Z",
   "season": 2026,
   "school": {
     "slug": "rice",
@@ -40,14 +40,14 @@ window.__BASEBALL_DATASETS__.rice2026 = {
   },
   "teamSummary": {
     "record": "34-22, 16-11",
-    "battingAverage": ".261",
+    "battingAverage": ".262",
     "earnedRunAverage": "4.65",
     "wins": "34",
     "losses": "22",
     "hitting": {
       "atBats": "1804",
       "runsScored": "315",
-      "hits": "471",
+      "hits": "472",
       "runsBattedIn": "290",
       "doubles": "87",
       "triples": "11",
@@ -2488,18 +2488,18 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "imageUrl": "https://riceowls.com/images/2025/9/1/13_BOEHM_GARET.png",
         "gamesPlayed": 49,
         "gamesStarted": 38,
-        "battingAverage": 0.253,
-        "onBasePercentage": 0.309,
-        "sluggingPercentage": 0.404,
-        "ops": 0.713,
+        "battingAverage": 0.26,
+        "onBasePercentage": 0.315,
+        "sluggingPercentage": 0.411,
+        "ops": 0.726,
         "atBats": 146,
         "runs": 23,
-        "hits": 37,
+        "hits": 38,
         "doubles": 8,
         "triples": 1,
         "homeRuns": 4,
         "runsBattedIn": 30,
-        "totalBases": 59,
+        "totalBases": 60,
         "walks": 12,
         "hitByPitch": 1,
         "strikeouts": 25,
@@ -2539,36 +2539,36 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "totalChances": 317
       },
       "evaluation": {
-        "score": 19,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 16.111111111111097,
-          "Power": 22.105263157894743,
-          "Contact": 20.625,
+          "On-base": 19.444444444444432,
+          "Power": 23.947368421052627,
+          "Contact": 25.000000000000007,
           "Discipline": 31.111111111111107,
           "Speed": 0
         },
         "summary": "Garet Boehm gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .253",
-          "OBP .309",
-          "SLG .404"
+          "AVG .260",
+          "OBP .315",
+          "SLG .411"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".253"
+            "value": ".260"
           },
           {
             "label": "OBP",
-            "value": ".309"
+            "value": ".315"
           },
           {
             "label": "SLG",
-            "value": ".404"
+            "value": ".411"
           },
           {
             "label": "HR",
@@ -6750,29 +6750,29 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R-R",
-        "score": 19,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Garet Boehm gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .253",
-          "OBP .309",
-          "SLG .404"
+          "AVG .260",
+          "OBP .315",
+          "SLG .411"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".253"
+            "value": ".260"
           },
           {
             "label": "OBP",
-            "value": ".309"
+            "value": ".315"
           },
           {
             "label": "SLG",
-            "value": ".404"
+            "value": ".411"
           },
           {
             "label": "HR",
@@ -6788,9 +6788,9 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           }
         ],
         "components": {
-          "On-base": 16.111111111111097,
-          "Power": 22.105263157894743,
-          "Contact": 20.625,
+          "On-base": 19.444444444444432,
+          "Power": 23.947368421052627,
+          "Contact": 25.000000000000007,
           "Discipline": 31.111111111111107,
           "Speed": 0
         },

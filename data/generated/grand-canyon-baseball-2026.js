@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.grand-canyon2026 = {
-  "generatedAt": "2026-05-17T11:33:26.397Z",
+  "generatedAt": "2026-05-18T14:00:49.084Z",
   "season": 2026,
   "school": {
     "slug": "grand-canyon",
@@ -86,7 +86,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "20",
+      "wins": "21",
       "saves": "45",
       "losses": "30",
       "gamesStarted": "0",
@@ -1099,7 +1099,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "jersey": "11",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/billy-scaldeferri/14285",
         "imageUrl": "https://gculopes.com/images/2025/9/18/Scaldeferri.jpg",
-        "gamesPlayed": 44,
+        "gamesPlayed": 45,
         "gamesStarted": 41,
         "battingAverage": 0.308,
         "onBasePercentage": 0.372,
@@ -5736,7 +5736,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "gamesCompleted": 0,
         "earnedRunAverage": 5.5,
         "whip": 1.39,
-        "wins": 5,
+        "wins": 6,
         "losses": 2,
         "saves": 1,
         "shutouts": 0,
