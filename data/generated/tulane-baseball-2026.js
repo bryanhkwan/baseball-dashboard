@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.tulane2026 = {
-  "generatedAt": "2026-05-18T14:01:22.105Z",
+  "generatedAt": "2026-05-19T13:32:41.327Z",
   "season": 2026,
   "school": {
     "slug": "tulane",
@@ -74,14 +74,14 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
     "fielding": {
       "putouts": "1426",
       "assists": "471",
-      "errors": "55",
+      "errors": "54",
       "passedBalls": "11",
       "catchersInterference": "0",
       "stolenBasesAgainst": "74",
       "caughtStealingBy": "11",
       "involvedInDoublePlays": "44",
       "involvedInTriplePlays": "0",
-      "totalChances": "1952",
+      "totalChances": "1951",
       "fieldingPercentage": ".972"
     },
     "pitching": {
@@ -94,7 +94,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
       "shutouts": "1",
       "creditForCombinedShutout": "1",
       "inningsPitched": "475.0",
-      "hitsAllowed": "528",
+      "hitsAllowed": "529",
       "runsAllowed": "346",
       "earnedRunsAllowed": "314",
       "walksAllowed": "263",
@@ -2194,7 +2194,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "stolenBasesAttempts": 2,
         "putouts": 9,
         "assists": 0,
-        "errors": 3,
+        "errors": 2,
         "plateAppearances": 31,
         "caughtStealing": 1,
         "pickedOff": 0
@@ -2211,15 +2211,15 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "gamesStarted": 5,
         "putouts": 9,
         "assists": 13,
-        "errors": 3,
-        "fieldingPercentage": 0.88,
+        "errors": 2,
+        "fieldingPercentage": 0.917,
         "doublePlays": 3,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 25
+        "totalChances": 24
       },
       "evaluation": {
         "score": 1,
@@ -3130,14 +3130,14 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "appearances": 23,
         "gamesCompleted": 0,
         "earnedRunAverage": 5.11,
-        "whip": 1.43,
+        "whip": 1.46,
         "wins": 3,
         "losses": 0,
         "saves": 1,
         "shutouts": 0,
         "inningsPitched": 37,
         "inningsPitchedDisplay": "37.0",
-        "hitsAllowed": 41,
+        "hitsAllowed": 42,
         "runsAllowed": 25,
         "earnedRunsAllowed": 21,
         "walksAllowed": 12,
@@ -3149,7 +3149,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "wildPitches": 0,
         "hitBatters": 4,
         "balks": 1,
-        "opponentsBattingAverage": 0.281,
+        "opponentsBattingAverage": 0.288,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3189,7 +3189,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "summary": "Jack Brafa looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA 5.11",
-          "WHIP 1.43",
+          "WHIP 1.46",
           "K/9 8.0"
         ],
         "statCards": [
@@ -3199,7 +3199,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.43"
+            "value": "1.46"
           },
           {
             "label": "K/9",
@@ -6673,7 +6673,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "summary": "Jack Brafa looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA 5.11",
-          "WHIP 1.43",
+          "WHIP 1.46",
           "K/9 8.0"
         ],
         "statCards": [
@@ -6683,7 +6683,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.43"
+            "value": "1.46"
           },
           {
             "label": "K/9",

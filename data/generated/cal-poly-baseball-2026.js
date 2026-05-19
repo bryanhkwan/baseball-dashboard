@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.cal-poly2026 = {
-  "generatedAt": "2026-05-18T14:00:37.195Z",
+  "generatedAt": "2026-05-19T13:31:35.359Z",
   "season": 2026,
   "school": {
     "slug": "cal-poly",
