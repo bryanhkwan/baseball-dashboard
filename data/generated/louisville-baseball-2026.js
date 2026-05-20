@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.louisville2026 = {
-  "generatedAt": "2026-05-19T13:31:57.540Z",
+  "generatedAt": "2026-05-20T12:40:21.274Z",
   "season": 2026,
   "school": {
     "slug": "louisville",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
     }
   },
   "teamSummary": {
-    "record": "30-26, 13-17",
-    "battingAverage": ".310",
-    "earnedRunAverage": "6.65",
+    "record": "30-27, 13-17",
+    "battingAverage": ".309",
+    "earnedRunAverage": "6.81",
     "wins": "30",
-    "losses": "26",
+    "losses": "27",
     "hitting": {
-      "atBats": "1924",
-      "runsScored": "480",
-      "hits": "596",
-      "runsBattedIn": "440",
+      "atBats": "1960",
+      "runsScored": "488",
+      "hits": "606",
+      "runsBattedIn": "448",
       "doubles": "111",
       "triples": "13",
       "homeRuns": "88",
-      "walks": "300",
+      "walks": "304",
       "intentionalWalks": "10",
-      "strikeouts": "445",
-      "strikeoutsLooking": "107",
+      "strikeouts": "458",
+      "strikeoutsLooking": "109",
       "hitByPitch": "80",
-      "stolenBases": "127",
+      "stolenBases": "128",
       "caughtStealing": "27",
-      "sacrificeHits": "23",
+      "sacrificeHits": "24",
       "sacrificeFlies": "24",
       "reachedOnCatchersInteference": "2",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "455",
-      "flyOuts": "429",
-      "groundedIntoDoublePlay": "22",
+      "groundOuts": "464",
+      "flyOuts": "433",
+      "groundedIntoDoublePlay": "23",
       "pickedOff": "8",
-      "doublePlaysHitInto": "34",
+      "doublePlaysHitInto": "35",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1429",
-      "assists": "538",
-      "errors": "51",
+      "putouts": "1456",
+      "assists": "547",
+      "errors": "52",
       "passedBalls": "8",
       "catchersInterference": "0",
       "stolenBasesAgainst": "29",
       "caughtStealingBy": "30",
-      "involvedInDoublePlays": "43",
+      "involvedInDoublePlays": "44",
       "involvedInTriplePlays": "0",
-      "totalChances": "2018",
+      "totalChances": "2055",
       "fieldingPercentage": ".975"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "30",
       "saves": "9",
-      "losses": "26",
+      "losses": "27",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "2",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "476.1",
-      "hitsAllowed": "553",
-      "runsAllowed": "385",
-      "earnedRunsAllowed": "352",
-      "walksAllowed": "306",
-      "strikeouts": "472",
-      "battersFaced": "2320",
-      "opponentAtBats": "1896",
-      "doublesAllowed": "96",
+      "inningsPitched": "485.1",
+      "hitsAllowed": "565",
+      "runsAllowed": "401",
+      "earnedRunsAllowed": "367",
+      "walksAllowed": "315",
+      "strikeouts": "485",
+      "battersFaced": "2369",
+      "opponentAtBats": "1935",
+      "doublesAllowed": "98",
       "triplesAllowed": "5",
-      "homerunsAllowed": "69",
-      "wildPitches": "55",
+      "homerunsAllowed": "72",
+      "wildPitches": "57",
       "balks": "2",
-      "hitBatters": "84",
-      "strikeoutsLooking": "150",
+      "hitBatters": "85",
+      "strikeoutsLooking": "151",
       "intentionalWalks": "4",
       "inheritedRunners": "0",
       "inheritedRunnersThatScored": "0",
       "sacrificeHitsAllowed": "14",
       "sacrificeFliesAllowed": "20",
       "catchersInterferenceAllowed": "0",
-      "pitches": "8934",
-      "flyouts": "419",
-      "groundouts": "451",
+      "pitches": "9138",
+      "flyouts": "423",
+      "groundouts": "460",
       "teamUnearnedRuns": "0",
       "saveRecord": "9",
       "pickoff": "20"
@@ -161,20 +161,20 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "jersey": "0",
         "profileUrl": "https://gocards.com/sports/baseball/roster/alex-alicea/17852",
         "imageUrl": "https://gocards.com/images/2026/2/9/alex_alicea_hs_26.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 40,
-        "battingAverage": 0.295,
-        "onBasePercentage": 0.358,
-        "sluggingPercentage": 0.404,
-        "ops": 0.762,
-        "atBats": 156,
-        "runs": 34,
-        "hits": 46,
+        "gamesPlayed": 44,
+        "gamesStarted": 41,
+        "battingAverage": 0.3,
+        "onBasePercentage": 0.362,
+        "sluggingPercentage": 0.406,
+        "ops": 0.768,
+        "atBats": 160,
+        "runs": 35,
+        "hits": 48,
         "doubles": 7,
         "triples": 2,
         "homeRuns": 2,
-        "runsBattedIn": 24,
-        "totalBases": 63,
+        "runsBattedIn": 25,
+        "totalBases": 65,
         "walks": 12,
         "hitByPitch": 4,
         "strikeouts": 21,
@@ -184,10 +184,10 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "sacrificeHits": 5,
         "stolenBases": 9,
         "stolenBasesAttempts": 12,
-        "putouts": 40,
+        "putouts": 43,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 193,
+        "plateAppearances": 197,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -199,51 +199,51 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "jersey": "0",
         "profileUrl": "https://gocards.com/sports/baseball/roster/alex-alicea/17852",
         "imageUrl": "https://gocards.com/images/2026/2/9/alex_alicea_hs_26.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 38,
-        "putouts": 40,
-        "assists": 79,
+        "gamesPlayed": 41,
+        "gamesStarted": 39,
+        "putouts": 43,
+        "assists": 83,
         "errors": 5,
-        "fieldingPercentage": 0.96,
-        "doublePlays": 13,
+        "fieldingPercentage": 0.962,
+        "doublePlays": 14,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 124
+        "totalChances": 131
       },
       "evaluation": {
-        "score": 37,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 43.333333333333314,
-          "Power": 22.105263157894743,
-          "Contact": 46.874999999999986,
+          "On-base": 45.555555555555536,
+          "Power": 22.631578947368432,
+          "Contact": 49.999999999999986,
           "Discipline": 41.26984126984126,
           "Speed": 30
         },
         "summary": "Alex Alicea profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .295",
-          "OBP .358",
-          "SLG .404"
+          "AVG .300",
+          "OBP .362",
+          "SLG .406"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".295"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".358"
+            "value": ".362"
           },
           {
             "label": "SLG",
-            "value": ".404"
+            "value": ".406"
           },
           {
             "label": "HR",
@@ -251,7 +251,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "25"
           },
           {
             "label": "SB",
@@ -306,13 +306,13 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "jersey": "1",
         "profileUrl": "https://gocards.com/sports/baseball/roster/aj-martin/17921",
         "imageUrl": "https://gocards.com/images/2026/2/9/aj_martin_hs_26.jpg",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 2,
-        "battingAverage": 0.1,
-        "onBasePercentage": 0.182,
-        "sluggingPercentage": 0.1,
-        "ops": 0.282,
-        "atBats": 10,
+        "battingAverage": 0.091,
+        "onBasePercentage": 0.167,
+        "sluggingPercentage": 0.091,
+        "ops": 0.258,
+        "atBats": 11,
         "runs": 1,
         "hits": 1,
         "doubles": 0,
@@ -322,7 +322,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "totalBases": 1,
         "walks": 1,
         "hitByPitch": 0,
-        "strikeouts": 1,
+        "strikeouts": 2,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -332,7 +332,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "putouts": 4,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 11,
+        "plateAppearances": 12,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -344,22 +344,22 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "jersey": "1",
         "profileUrl": "https://gocards.com/sports/baseball/roster/aj-martin/17921",
         "imageUrl": "https://gocards.com/images/2026/2/9/aj_martin_hs_26.jpg",
-        "gamesPlayed": 2,
+        "gamesPlayed": 3,
         "gamesStarted": 2,
         "putouts": 4,
-        "assists": 8,
+        "assists": 9,
         "errors": 1,
-        "fieldingPercentage": 0.923,
+        "fieldingPercentage": 0.929,
         "doublePlays": 2,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 13
+        "totalChances": 14
       },
       "evaluation": {
-        "score": 12,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -368,27 +368,27 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 88.88888888888889,
+          "Discipline": 33.33333333333333,
           "Speed": 0
         },
-        "summary": "AJ Martin profiles as a INF piece who controls at-bats.",
+        "summary": "AJ Martin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .100",
-          "OBP .182",
-          "SLG .100"
+          "AVG .091",
+          "OBP .167",
+          "SLG .091"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".100"
+            "value": ".091"
           },
           {
             "label": "OBP",
-            "value": ".182"
+            "value": ".167"
           },
           {
             "label": "SLG",
-            "value": ".100"
+            "value": ".091"
           },
           {
             "label": "HR",
@@ -883,21 +883,21 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "jersey": "6",
         "profileUrl": "https://gocards.com/sports/baseball/roster/griffin-crain/17856",
         "imageUrl": "https://gocards.com/images/2026/2/9/griffin_crain_hs_26.jpg",
-        "gamesPlayed": 52,
-        "gamesStarted": 48,
-        "battingAverage": 0.355,
-        "onBasePercentage": 0.477,
-        "sluggingPercentage": 0.483,
-        "ops": 0.96,
-        "atBats": 172,
-        "runs": 39,
-        "hits": 61,
+        "gamesPlayed": 53,
+        "gamesStarted": 49,
+        "battingAverage": 0.352,
+        "onBasePercentage": 0.476,
+        "sluggingPercentage": 0.477,
+        "ops": 0.953,
+        "atBats": 176,
+        "runs": 41,
+        "hits": 62,
         "doubles": 14,
         "triples": 1,
         "homeRuns": 2,
-        "runsBattedIn": 47,
-        "totalBases": 83,
-        "walks": 35,
+        "runsBattedIn": 48,
+        "totalBases": 84,
+        "walks": 36,
         "hitByPitch": 10,
         "strikeouts": 24,
         "intentionalWalks": 0,
@@ -909,7 +909,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "putouts": 77,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 242,
+        "plateAppearances": 247,
         "caughtStealing": 4,
         "pickedOff": 1
       },
@@ -936,36 +936,36 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "totalChances": 84
       },
       "evaluation": {
-        "score": 75,
+        "score": 74,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
           "On-base": 100,
-          "Power": 42.89473684210526,
-          "Contact": 84.37499999999999,
+          "Power": 41.31578947368421,
+          "Contact": 82.49999999999999,
           "Discipline": 100,
           "Speed": 26.666666666666668
         },
         "summary": "Griffin Crain profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .355",
-          "OBP .477",
-          "SLG .483"
+          "AVG .352",
+          "OBP .476",
+          "SLG .477"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".355"
+            "value": ".352"
           },
           {
             "label": "OBP",
-            "value": ".477"
+            "value": ".476"
           },
           {
             "label": "SLG",
-            "value": ".483"
+            "value": ".477"
           },
           {
             "label": "HR",
@@ -973,7 +973,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           },
           {
             "label": "RBI",
-            "value": "47"
+            "value": "48"
           },
           {
             "label": "SB",
@@ -1029,31 +1029,31 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "jersey": "7",
         "profileUrl": "https://gocards.com/sports/baseball/roster/brandon-shannon/17925",
         "imageUrl": "https://gocards.com/images/2026/2/9/brandon_shannon_hs_26.jpg",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 1,
-        "appearances": 19,
+        "appearances": 20,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.87,
-        "whip": 1.89,
+        "earnedRunAverage": 6.89,
+        "whip": 1.98,
         "wins": 2,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 30.666666666666668,
-        "inningsPitchedDisplay": "30.2",
-        "hitsAllowed": 30,
-        "runsAllowed": 22,
-        "earnedRunsAllowed": 20,
-        "walksAllowed": 28,
+        "inningsPitched": 31.333333333333332,
+        "inningsPitchedDisplay": "31.1",
+        "hitsAllowed": 31,
+        "runsAllowed": 26,
+        "earnedRunsAllowed": 24,
+        "walksAllowed": 31,
         "strikeouts": 36,
         "doublesAllowed": 4,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 117,
+        "homeRunsAllowed": 6,
+        "opponentsAtBats": 120,
         "wildPitches": 7,
         "hitBatters": 6,
         "balks": 0,
-        "opponentsBattingAverage": 0.256,
+        "opponentsBattingAverage": 0.258,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1078,7 +1078,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "totalChances": 8
       },
       "evaluation": {
-        "score": 13,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1086,40 +1086,40 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 59.683794466403164,
-          "Command": 5.714285714285712,
+          "Miss bats": 57.64023210831722,
+          "Command": 3.2258064516129044,
           "Damage suppression": 0
         },
         "summary": "Brandon Shannon looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.87",
-          "WHIP 1.89",
-          "K/9 10.6"
+          "ERA 6.89",
+          "WHIP 1.98",
+          "K/9 10.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.87"
+            "value": "6.89"
           },
           {
             "label": "WHIP",
-            "value": "1.89"
+            "value": "1.98"
           },
           {
             "label": "K/9",
-            "value": "10.6"
+            "value": "10.3"
           },
           {
             "label": "BB/9",
-            "value": "8.2"
+            "value": "8.9"
           },
           {
             "label": "HR/9",
-            "value": "1.47"
+            "value": "1.72"
           },
           {
             "label": "IP",
-            "value": "30.7"
+            "value": "31.3"
           }
         ],
         "metaLine": "FR / R/R",
@@ -1313,31 +1313,31 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "jersey": "9",
         "profileUrl": "https://gocards.com/sports/baseball/roster/jack-brown/17854",
         "imageUrl": "https://gocards.com/images/2026/2/9/jack_brown_hs_26.jpg",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 1,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.61,
-        "whip": 1.64,
+        "earnedRunAverage": 5.4,
+        "whip": 1.65,
         "wins": 4,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 25.666666666666668,
-        "inningsPitchedDisplay": "25.2",
-        "hitsAllowed": 27,
-        "runsAllowed": 18,
+        "inningsPitched": 26.666666666666668,
+        "inningsPitchedDisplay": "26.2",
+        "hitsAllowed": 28,
+        "runsAllowed": 19,
         "earnedRunsAllowed": 16,
-        "walksAllowed": 15,
-        "strikeouts": 19,
-        "doublesAllowed": 3,
+        "walksAllowed": 16,
+        "strikeouts": 21,
+        "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 95,
+        "opponentsAtBats": 100,
         "wildPitches": 1,
-        "hitBatters": 9,
+        "hitBatters": 10,
         "balks": 0,
-        "opponentsBattingAverage": 0.284,
+        "opponentsBattingAverage": 0.28,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1362,7 +1362,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "totalChances": 5
       },
       "evaluation": {
-        "score": 6,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1370,40 +1370,40 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 24.20306965761511,
-          "Command": 5.333333333333332,
+          "Miss bats": 28.068181818181813,
+          "Command": 6.25,
           "Damage suppression": 0
         },
         "summary": "Jack Brown gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.61",
-          "WHIP 1.64",
-          "K/9 6.7"
+          "ERA 5.40",
+          "WHIP 1.65",
+          "K/9 7.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.61"
+            "value": "5.40"
           },
           {
             "label": "WHIP",
-            "value": "1.64"
+            "value": "1.65"
           },
           {
             "label": "K/9",
-            "value": "6.7"
+            "value": "7.1"
           },
           {
             "label": "BB/9",
-            "value": "5.3"
+            "value": "5.4"
           },
           {
             "label": "HR/9",
-            "value": "0.70"
+            "value": "0.67"
           },
           {
             "label": "IP",
-            "value": "25.7"
+            "value": "26.7"
           }
         ],
         "metaLine": "SO / R/R",
@@ -1597,31 +1597,31 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "jersey": "11",
         "profileUrl": "https://gocards.com/sports/baseball/roster/ty-starke/17875",
         "imageUrl": "https://gocards.com/images/2026/2/9/ty_starke_hs_26.jpg",
-        "gamesPlayed": 20,
+        "gamesPlayed": 21,
         "gamesStarted": 0,
-        "appearances": 20,
+        "appearances": 21,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.13,
-        "whip": 1.26,
+        "earnedRunAverage": 4.18,
+        "whip": 1.35,
         "wins": 1,
         "losses": 1,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 23,
-        "inningsPitchedDisplay": "23.0",
+        "inningsPitched": 23.666666666666668,
+        "inningsPitchedDisplay": "23.2",
         "hitsAllowed": 21,
-        "runsAllowed": 9,
-        "earnedRunsAllowed": 8,
-        "walksAllowed": 8,
-        "strikeouts": 17,
+        "runsAllowed": 12,
+        "earnedRunsAllowed": 11,
+        "walksAllowed": 11,
+        "strikeouts": 18,
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 84,
-        "wildPitches": 2,
+        "opponentsAtBats": 86,
+        "wildPitches": 3,
         "hitBatters": 8,
         "balks": 0,
-        "opponentsBattingAverage": 0.25,
+        "opponentsBattingAverage": 0.244,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1646,7 +1646,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "totalChances": 8
       },
       "evaluation": {
-        "score": 8,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1654,32 +1654,32 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 24.110671936758894,
-          "Command": 22.5,
+          "Miss bats": 25.86427656850192,
+          "Command": 12.727272727272727,
           "Damage suppression": 0
         },
-        "summary": "Ty Starke looks like a LHP option who limits runs.",
+        "summary": "Ty Starke gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 3.13",
-          "WHIP 1.26",
-          "K/9 6.7"
+          "ERA 4.18",
+          "WHIP 1.35",
+          "K/9 6.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.13"
+            "value": "4.18"
           },
           {
             "label": "WHIP",
-            "value": "1.26"
+            "value": "1.35"
           },
           {
             "label": "K/9",
-            "value": "6.7"
+            "value": "6.8"
           },
           {
             "label": "BB/9",
-            "value": "3.1"
+            "value": "4.2"
           },
           {
             "label": "HR/9",
@@ -1687,7 +1687,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           },
           {
             "label": "IP",
-            "value": "23.0"
+            "value": "23.7"
           }
         ],
         "metaLine": "JR / L/L",
@@ -1738,33 +1738,33 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "jersey": "13",
         "profileUrl": "https://gocards.com/sports/baseball/roster/tague-davis/17859",
         "imageUrl": "https://gocards.com/images/2026/2/9/tague_davis_hs_26.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 56,
-        "battingAverage": 0.358,
-        "onBasePercentage": 0.448,
-        "sluggingPercentage": 0.863,
-        "ops": 1.311,
-        "atBats": 226,
+        "gamesPlayed": 57,
+        "gamesStarted": 57,
+        "battingAverage": 0.355,
+        "onBasePercentage": 0.443,
+        "sluggingPercentage": 0.848,
+        "ops": 1.291,
+        "atBats": 231,
         "runs": 68,
-        "hits": 81,
+        "hits": 82,
         "doubles": 10,
         "triples": 1,
         "homeRuns": 34,
-        "runsBattedIn": 96,
-        "totalBases": 195,
+        "runsBattedIn": 98,
+        "totalBases": 196,
         "walks": 36,
         "hitByPitch": 3,
-        "strikeouts": 67,
+        "strikeouts": 70,
         "intentionalWalks": 9,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
-        "putouts": 424,
+        "putouts": 432,
         "assists": 0,
-        "errors": 7,
-        "plateAppearances": 272,
+        "errors": 8,
+        "plateAppearances": 277,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1809,19 +1809,19 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "jersey": "13",
         "profileUrl": "https://gocards.com/sports/baseball/roster/tague-davis/17859",
         "imageUrl": "https://gocards.com/images/2026/2/9/tague_davis_hs_26.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 56,
-        "putouts": 424,
-        "assists": 39,
-        "errors": 7,
-        "fieldingPercentage": 0.985,
-        "doublePlays": 35,
+        "gamesPlayed": 57,
+        "gamesStarted": 57,
+        "putouts": 432,
+        "assists": 40,
+        "errors": 8,
+        "fieldingPercentage": 0.983,
+        "doublePlays": 36,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 470
+        "totalChances": 480
       },
       "evaluation": {
         "score": 17,
@@ -3008,31 +3008,31 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "jersey": "24",
         "profileUrl": "https://gocards.com/sports/baseball/roster/wyatt-danilowicz/17858",
         "imageUrl": "https://gocards.com/images/2026/2/9/wyatt_danilowicz_hs_26.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 13,
-        "appearances": 13,
+        "gamesPlayed": 14,
+        "gamesStarted": 14,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.35,
-        "whip": 1.46,
+        "earnedRunAverage": 6,
+        "whip": 1.51,
         "wins": 4,
-        "losses": 2,
+        "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 65.66666666666667,
-        "inningsPitchedDisplay": "65.2",
-        "hitsAllowed": 66,
-        "runsAllowed": 43,
-        "earnedRunsAllowed": 39,
-        "walksAllowed": 30,
-        "strikeouts": 77,
-        "doublesAllowed": 15,
+        "inningsPitched": 69,
+        "inningsPitchedDisplay": "69.0",
+        "hitsAllowed": 72,
+        "runsAllowed": 50,
+        "earnedRunsAllowed": 46,
+        "walksAllowed": 32,
+        "strikeouts": 84,
+        "doublesAllowed": 16,
         "triplesAllowed": 2,
-        "homeRunsAllowed": 7,
-        "opponentsAtBats": 253,
-        "wildPitches": 3,
+        "homeRunsAllowed": 9,
+        "opponentsAtBats": 269,
+        "wildPitches": 4,
         "hitBatters": 9,
         "balks": 0,
-        "opponentsBattingAverage": 0.261,
+        "opponentsBattingAverage": 0.268,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3057,7 +3057,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "totalChances": 16
       },
       "evaluation": {
-        "score": 17,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3065,40 +3065,40 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 59.575449930779875,
-          "Command": 31.33333333333333,
+          "Miss bats": 63.24110671936759,
+          "Command": 32.50000000000001,
           "Damage suppression": 0
         },
         "summary": "Wyatt Danilowicz looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.35",
-          "WHIP 1.46",
-          "K/9 10.6"
+          "ERA 6.00",
+          "WHIP 1.51",
+          "K/9 11.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.35"
+            "value": "6.00"
           },
           {
             "label": "WHIP",
-            "value": "1.46"
+            "value": "1.51"
           },
           {
             "label": "K/9",
-            "value": "10.6"
+            "value": "11.0"
           },
           {
             "label": "BB/9",
-            "value": "4.1"
+            "value": "4.2"
           },
           {
             "label": "HR/9",
-            "value": "0.96"
+            "value": "1.17"
           },
           {
             "label": "IP",
-            "value": "65.7"
+            "value": "69.0"
           }
         ],
         "metaLine": "SR / R/L",
@@ -3271,33 +3271,33 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "jersey": "26",
         "profileUrl": "https://gocards.com/sports/baseball/roster/jimmy-nugent/17931",
         "imageUrl": "https://gocards.com/images/2026/2/9/jimmy_nugent_hs_26.jpg",
-        "gamesPlayed": 47,
-        "gamesStarted": 46,
+        "gamesPlayed": 48,
+        "gamesStarted": 47,
         "battingAverage": 0.315,
-        "onBasePercentage": 0.439,
-        "sluggingPercentage": 0.6,
-        "ops": 1.039,
-        "atBats": 165,
-        "runs": 39,
-        "hits": 52,
+        "onBasePercentage": 0.44,
+        "sluggingPercentage": 0.595,
+        "ops": 1.035,
+        "atBats": 168,
+        "runs": 41,
+        "hits": 53,
         "doubles": 14,
         "triples": 0,
         "homeRuns": 11,
         "runsBattedIn": 39,
-        "totalBases": 99,
-        "walks": 29,
+        "totalBases": 100,
+        "walks": 30,
         "hitByPitch": 9,
-        "strikeouts": 51,
+        "strikeouts": 53,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 9,
         "stolenBasesAttempts": 13,
-        "putouts": 305,
+        "putouts": 318,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 222,
+        "plateAppearances": 226,
         "caughtStealing": 4,
         "pickedOff": 1
       },
@@ -3309,19 +3309,19 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "jersey": "26",
         "profileUrl": "https://gocards.com/sports/baseball/roster/jimmy-nugent/17931",
         "imageUrl": "https://gocards.com/images/2026/2/9/jimmy_nugent_hs_26.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 40,
-        "putouts": 305,
+        "gamesPlayed": 42,
+        "gamesStarted": 41,
+        "putouts": 318,
         "assists": 31,
         "errors": 4,
-        "fieldingPercentage": 0.988,
+        "fieldingPercentage": 0.989,
         "doublePlays": 2,
         "stolenBasesAgainst": 17,
         "caughtStealingBy": 12,
         "stolenBasesPercentage": null,
         "passedBalls": 5,
         "catchersInterference": 0,
-        "totalChances": 340
+        "totalChances": 353
       },
       "evaluation": {
         "score": 67,
@@ -3330,17 +3330,17 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 88.33333333333331,
-          "Power": 73.6842105263158,
+          "On-base": 88.88888888888889,
+          "Power": 72.36842105263158,
           "Contact": 59.375,
-          "Discipline": 40.958605664488005,
+          "Discipline": 40.67085953878406,
           "Speed": 30
         },
         "summary": "Jimmy Nugent profiles as a C piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .315",
-          "OBP .439",
-          "SLG .600"
+          "OBP .440",
+          "SLG .595"
         ],
         "statCards": [
           {
@@ -3349,11 +3349,11 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           },
           {
             "label": "OBP",
-            "value": ".439"
+            "value": ".440"
           },
           {
             "label": "SLG",
-            "value": ".600"
+            "value": ".595"
           },
           {
             "label": "HR",
@@ -3416,23 +3416,23 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "jersey": "27",
         "profileUrl": "https://gocards.com/sports/baseball/roster/bayram-hot/17866",
         "imageUrl": "https://gocards.com/images/2026/2/9/bayram_hot_hs_26.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 56,
-        "battingAverage": 0.337,
-        "onBasePercentage": 0.453,
-        "sluggingPercentage": 0.538,
-        "ops": 0.991,
-        "atBats": 208,
+        "gamesPlayed": 57,
+        "gamesStarted": 57,
+        "battingAverage": 0.33,
+        "onBasePercentage": 0.448,
+        "sluggingPercentage": 0.528,
+        "ops": 0.976,
+        "atBats": 212,
         "runs": 50,
         "hits": 70,
         "doubles": 15,
         "triples": 0,
         "homeRuns": 9,
-        "runsBattedIn": 40,
+        "runsBattedIn": 41,
         "totalBases": 112,
-        "walks": 30,
+        "walks": 31,
         "hitByPitch": 15,
-        "strikeouts": 52,
+        "strikeouts": 54,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 1,
@@ -3442,7 +3442,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "putouts": 37,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 282,
+        "plateAppearances": 287,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -3469,36 +3469,36 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "totalChances": 156
       },
       "evaluation": {
-        "score": 70,
+        "score": 68,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 96.1111111111111,
-          "Power": 57.36842105263159,
-          "Contact": 73.125,
-          "Discipline": 41.88034188034187,
+          "On-base": 93.33333333333333,
+          "Power": 54.73684210526317,
+          "Contact": 68.75000000000001,
+          "Discipline": 41.563786008230444,
           "Speed": 56.666666666666664
         },
         "summary": "Bayram Hot profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .337",
-          "OBP .453",
-          "SLG .538"
+          "AVG .330",
+          "OBP .448",
+          "SLG .528"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".337"
+            "value": ".330"
           },
           {
             "label": "OBP",
-            "value": ".453"
+            "value": ".448"
           },
           {
             "label": "SLG",
-            "value": ".538"
+            "value": ".528"
           },
           {
             "label": "HR",
@@ -3506,7 +3506,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "41"
           },
           {
             "label": "SB",
@@ -3791,14 +3791,14 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "jersey": "30",
         "profileUrl": "https://gocards.com/sports/baseball/roster/zach-davis/17932",
         "imageUrl": "https://gocards.com/images/2026/2/9/zach_davis_hs_26.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 16,
-        "battingAverage": 0.196,
-        "onBasePercentage": 0.292,
-        "sluggingPercentage": 0.214,
-        "ops": 0.506,
-        "atBats": 56,
-        "runs": 5,
+        "gamesPlayed": 30,
+        "gamesStarted": 17,
+        "battingAverage": 0.19,
+        "onBasePercentage": 0.284,
+        "sluggingPercentage": 0.207,
+        "ops": 0.491,
+        "atBats": 58,
+        "runs": 6,
         "hits": 11,
         "doubles": 1,
         "triples": 0,
@@ -3807,17 +3807,17 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "totalBases": 12,
         "walks": 6,
         "hitByPitch": 2,
-        "strikeouts": 13,
+        "strikeouts": 15,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
-        "sacrificeHits": 4,
+        "sacrificeHits": 5,
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
         "putouts": 23,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 73,
+        "plateAppearances": 76,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -3829,10 +3829,10 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "jersey": "30",
         "profileUrl": "https://gocards.com/sports/baseball/roster/zach-davis/17932",
         "imageUrl": "https://gocards.com/images/2026/2/9/zach_davis_hs_26.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 15,
+        "gamesPlayed": 23,
+        "gamesStarted": 16,
         "putouts": 23,
-        "assists": 41,
+        "assists": 44,
         "errors": 1,
         "fieldingPercentage": 0.985,
         "doublePlays": 6,
@@ -3841,39 +3841,39 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 65
+        "totalChances": 68
       },
       "evaluation": {
-        "score": 8,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 6.666666666666641,
+          "On-base": 2.2222222222221935,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 29.059829059829056,
+          "Discipline": 22.22222222222222,
           "Speed": 13.333333333333334
         },
         "summary": "Zach Davis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .196",
-          "OBP .292",
-          "SLG .214"
+          "AVG .190",
+          "OBP .284",
+          "SLG .207"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".196"
+            "value": ".190"
           },
           {
             "label": "OBP",
-            "value": ".292"
+            "value": ".284"
           },
           {
             "label": "SLG",
-            "value": ".214"
+            "value": ".207"
           },
           {
             "label": "HR",
@@ -3936,20 +3936,20 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "jersey": "32",
         "profileUrl": "https://gocards.com/sports/baseball/roster/zion-rose/17872",
         "imageUrl": "https://gocards.com/images/2026/2/9/zion_rose_hs_26.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 34,
-        "battingAverage": 0.41,
-        "onBasePercentage": 0.488,
-        "sluggingPercentage": 0.647,
-        "ops": 1.135,
-        "atBats": 139,
+        "gamesPlayed": 36,
+        "gamesStarted": 35,
+        "battingAverage": 0.417,
+        "onBasePercentage": 0.491,
+        "sluggingPercentage": 0.646,
+        "ops": 1.137,
+        "atBats": 144,
         "runs": 44,
-        "hits": 57,
+        "hits": 60,
         "doubles": 13,
         "triples": 1,
         "homeRuns": 6,
-        "runsBattedIn": 44,
-        "totalBases": 90,
+        "runsBattedIn": 47,
+        "totalBases": 93,
         "walks": 19,
         "hitByPitch": 6,
         "strikeouts": 15,
@@ -3957,12 +3957,12 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 4,
         "sacrificeHits": 0,
-        "stolenBases": 23,
-        "stolenBasesAttempts": 26,
+        "stolenBases": 24,
+        "stolenBasesAttempts": 27,
         "putouts": 35,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 198,
+        "plateAppearances": 204,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -3996,29 +3996,29 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         },
         "components": {
           "On-base": 100,
-          "Power": 86.05263157894738,
+          "Power": 85.78947368421053,
           "Contact": 100,
           "Discipline": 100,
-          "Speed": 76.66666666666667
+          "Speed": 80
         },
         "summary": "Zion Rose profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .410",
-          "OBP .488",
-          "SLG .647"
+          "AVG .417",
+          "OBP .491",
+          "SLG .646"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".410"
+            "value": ".417"
           },
           {
             "label": "OBP",
-            "value": ".488"
+            "value": ".491"
           },
           {
             "label": "SLG",
-            "value": ".647"
+            "value": ".646"
           },
           {
             "label": "HR",
@@ -4026,11 +4026,11 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           },
           {
             "label": "RBI",
-            "value": "44"
+            "value": "47"
           },
           {
             "label": "SB",
-            "value": "23"
+            "value": "24"
           }
         ],
         "metaLine": "JR / R/R",
@@ -4082,31 +4082,31 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "jersey": "34",
         "profileUrl": "https://gocards.com/sports/baseball/roster/zane-stahl/17933",
         "imageUrl": "https://gocards.com/images/2026/2/9/zane_stahl_hs_26.jpg",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 1,
-        "appearances": 14,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6,
-        "whip": 1.75,
+        "earnedRunAverage": 5.54,
+        "whip": 1.69,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 12,
-        "inningsPitchedDisplay": "12.0",
-        "hitsAllowed": 10,
+        "inningsPitched": 13,
+        "inningsPitchedDisplay": "13.0",
+        "hitsAllowed": 11,
         "runsAllowed": 8,
         "earnedRunsAllowed": 8,
         "walksAllowed": 11,
-        "strikeouts": 10,
+        "strikeouts": 11,
         "doublesAllowed": 3,
         "triplesAllowed": 1,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 44,
+        "opponentsAtBats": 48,
         "wildPitches": 4,
         "hitBatters": 0,
         "balks": 0,
-        "opponentsBattingAverage": 0.227,
+        "opponentsBattingAverage": 0.229,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4131,7 +4131,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 6,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4139,40 +4139,40 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 31.818181818181817,
+          "Miss bats": 32.86713286713287,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Zane Stahl gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.00",
-          "WHIP 1.75",
-          "K/9 7.5"
+          "ERA 5.54",
+          "WHIP 1.69",
+          "K/9 7.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.00"
+            "value": "5.54"
           },
           {
             "label": "WHIP",
-            "value": "1.75"
+            "value": "1.69"
           },
           {
             "label": "K/9",
-            "value": "7.5"
+            "value": "7.6"
           },
           {
             "label": "BB/9",
-            "value": "8.3"
+            "value": "7.6"
           },
           {
             "label": "HR/9",
-            "value": "0.75"
+            "value": "0.69"
           },
           {
             "label": "IP",
-            "value": "12.0"
+            "value": "13.0"
           }
         ],
         "metaLine": "FR / R/R",
@@ -4720,13 +4720,13 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "jersey": "41",
         "profileUrl": "https://gocards.com/sports/baseball/roster/ben-slanker/17935",
         "imageUrl": "https://gocards.com/images/2026/2/9/ben_slanker_hs_26.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 40,
-        "battingAverage": 0.28,
-        "onBasePercentage": 0.429,
-        "sluggingPercentage": 0.573,
-        "ops": 1.002,
-        "atBats": 143,
+        "gamesPlayed": 49,
+        "gamesStarted": 41,
+        "battingAverage": 0.27,
+        "onBasePercentage": 0.418,
+        "sluggingPercentage": 0.554,
+        "ops": 0.972,
+        "atBats": 148,
         "runs": 34,
         "hits": 40,
         "doubles": 10,
@@ -4736,9 +4736,9 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "totalBases": 82,
         "walks": 36,
         "hitByPitch": 3,
-        "strikeouts": 33,
+        "strikeouts": 36,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
+        "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
         "sacrificeHits": 1,
         "stolenBases": 0,
@@ -4746,7 +4746,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "putouts": 31,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 189,
+        "plateAppearances": 194,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -4773,36 +4773,36 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "totalChances": 34
       },
       "evaluation": {
-        "score": 64,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 82.77777777777776,
-          "Power": 66.57894736842105,
-          "Contact": 37.500000000000014,
-          "Discipline": 98.98989898989898,
+          "On-base": 76.66666666666664,
+          "Power": 61.57894736842107,
+          "Contact": 31.25000000000001,
+          "Discipline": 88.88888888888889,
           "Speed": 0
         },
         "summary": "Ben Slanker profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .280",
-          "OBP .429",
-          "SLG .573"
+          "AVG .270",
+          "OBP .418",
+          "SLG .554"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".280"
+            "value": ".270"
           },
           {
             "label": "OBP",
-            "value": ".429"
+            "value": ".418"
           },
           {
             "label": "SLG",
-            "value": ".573"
+            "value": ".554"
           },
           {
             "label": "HR",
@@ -5363,31 +5363,31 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "jersey": "47",
         "profileUrl": "https://gocards.com/sports/baseball/roster/aaron-england/17862",
         "imageUrl": "https://gocards.com/images/2026/2/9/aaron_england_hs_26.jpg",
-        "gamesPlayed": 20,
+        "gamesPlayed": 21,
         "gamesStarted": 0,
-        "appearances": 20,
+        "appearances": 21,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.4,
-        "whip": 1.53,
+        "earnedRunAverage": 4.35,
+        "whip": 1.52,
         "wins": 3,
         "losses": 2,
         "saves": 5,
         "shutouts": 0,
-        "inningsPitched": 28.666666666666668,
-        "inningsPitchedDisplay": "28.2",
-        "hitsAllowed": 24,
-        "runsAllowed": 14,
-        "earnedRunsAllowed": 14,
+        "inningsPitched": 31,
+        "inningsPitchedDisplay": "31.0",
+        "hitsAllowed": 27,
+        "runsAllowed": 15,
+        "earnedRunsAllowed": 15,
         "walksAllowed": 20,
-        "strikeouts": 25,
+        "strikeouts": 27,
         "doublesAllowed": 5,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 94,
+        "opponentsAtBats": 103,
         "wildPitches": 2,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.255,
+        "opponentsBattingAverage": 0.262,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5397,9 +5397,9 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "jersey": "47",
         "profileUrl": "https://gocards.com/sports/baseball/roster/aaron-england/17862",
         "imageUrl": "https://gocards.com/images/2026/2/9/aaron_england_hs_26.jpg",
-        "gamesPlayed": 8,
+        "gamesPlayed": 9,
         "gamesStarted": 0,
-        "putouts": 1,
+        "putouts": 2,
         "assists": 9,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -5409,7 +5409,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 10
+        "totalChances": 11
       },
       "evaluation": {
         "score": 8,
@@ -5420,24 +5420,24 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 34.989429175475685,
-          "Command": 5,
+          "Miss bats": 34.89736070381232,
+          "Command": 7.000000000000002,
           "Damage suppression": 0
         },
         "summary": "Aaron England gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.40",
-          "WHIP 1.53",
+          "ERA 4.35",
+          "WHIP 1.52",
           "K/9 7.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.40"
+            "value": "4.35"
           },
           {
             "label": "WHIP",
-            "value": "1.53"
+            "value": "1.52"
           },
           {
             "label": "K/9",
@@ -5445,15 +5445,15 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           },
           {
             "label": "BB/9",
-            "value": "6.3"
+            "value": "5.8"
           },
           {
             "label": "HR/9",
-            "value": "0.63"
+            "value": "0.58"
           },
           {
             "label": "IP",
-            "value": "28.7"
+            "value": "31.0"
           }
         ],
         "metaLine": "SO / L/L",
@@ -5890,21 +5890,21 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "jersey": "53",
         "profileUrl": "https://gocards.com/sports/baseball/roster/lucas-moore/17869",
         "imageUrl": "https://gocards.com/images/2026/2/9/lucas_moore_hs_26.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 56,
-        "battingAverage": 0.28,
-        "onBasePercentage": 0.432,
-        "sluggingPercentage": 0.402,
-        "ops": 0.834,
-        "atBats": 214,
-        "runs": 61,
-        "hits": 60,
+        "gamesPlayed": 57,
+        "gamesStarted": 57,
+        "battingAverage": 0.286,
+        "onBasePercentage": 0.437,
+        "sluggingPercentage": 0.406,
+        "ops": 0.843,
+        "atBats": 217,
+        "runs": 63,
+        "hits": 62,
         "doubles": 6,
         "triples": 4,
         "homeRuns": 4,
         "runsBattedIn": 35,
-        "totalBases": 86,
-        "walks": 45,
+        "totalBases": 88,
+        "walks": 46,
         "hitByPitch": 13,
         "strikeouts": 46,
         "intentionalWalks": 0,
@@ -5913,10 +5913,10 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "sacrificeHits": 3,
         "stolenBases": 37,
         "stolenBasesAttempts": 44,
-        "putouts": 132,
+        "putouts": 134,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 327,
+        "plateAppearances": 331,
         "caughtStealing": 7,
         "pickedOff": 1
       },
@@ -5928,9 +5928,9 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "jersey": "53",
         "profileUrl": "https://gocards.com/sports/baseball/roster/lucas-moore/17869",
         "imageUrl": "https://gocards.com/images/2026/2/9/lucas_moore_hs_26.jpg",
-        "gamesPlayed": 47,
-        "gamesStarted": 47,
-        "putouts": 132,
+        "gamesPlayed": 48,
+        "gamesStarted": 48,
+        "putouts": 134,
         "assists": 1,
         "errors": 2,
         "fieldingPercentage": 0.985,
@@ -5940,39 +5940,39 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 135
+        "totalChances": 137
       },
       "evaluation": {
-        "score": 61,
+        "score": 64,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 84.44444444444443,
-          "Power": 21.578947368421062,
-          "Contact": 37.500000000000014,
-          "Discipline": 86.4734299516908,
+          "On-base": 87.22222222222221,
+          "Power": 22.631578947368432,
+          "Contact": 41.24999999999998,
+          "Discipline": 88.88888888888889,
           "Speed": 100
         },
-        "summary": "Lucas Moore profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Lucas Moore profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .280",
-          "OBP .432",
-          "SLG .402"
+          "AVG .286",
+          "OBP .437",
+          "SLG .406"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".280"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".432"
+            "value": ".437"
           },
           {
             "label": "SLG",
-            "value": ".402"
+            "value": ".406"
           },
           {
             "label": "HR",
@@ -6015,29 +6015,29 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "S/R",
-        "score": 37,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Alex Alicea profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .295",
-          "OBP .358",
-          "SLG .404"
+          "AVG .300",
+          "OBP .362",
+          "SLG .406"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".295"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".358"
+            "value": ".362"
           },
           {
             "label": "SLG",
-            "value": ".404"
+            "value": ".406"
           },
           {
             "label": "HR",
@@ -6045,7 +6045,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "25"
           },
           {
             "label": "SB",
@@ -6053,9 +6053,9 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           }
         ],
         "components": {
-          "On-base": 43.333333333333314,
-          "Power": 22.105263157894743,
-          "Contact": 46.874999999999986,
+          "On-base": 45.555555555555536,
+          "Power": 22.631578947368432,
+          "Contact": 49.999999999999986,
           "Discipline": 41.26984126984126,
           "Speed": 30
         },
@@ -6084,29 +6084,29 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 12,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "AJ Martin profiles as a INF piece who controls at-bats.",
+        "summary": "AJ Martin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .100",
-          "OBP .182",
-          "SLG .100"
+          "AVG .091",
+          "OBP .167",
+          "SLG .091"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".100"
+            "value": ".091"
           },
           {
             "label": "OBP",
-            "value": ".182"
+            "value": ".167"
           },
           {
             "label": "SLG",
-            "value": ".100"
+            "value": ".091"
           },
           {
             "label": "HR",
@@ -6125,7 +6125,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 88.88888888888889,
+          "Discipline": 33.33333333333333,
           "Speed": 0
         },
         "metaLine": "SR / R/R",
@@ -6360,29 +6360,29 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "L/L",
-        "score": 75,
+        "score": 74,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Griffin Crain profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .355",
-          "OBP .477",
-          "SLG .483"
+          "AVG .352",
+          "OBP .476",
+          "SLG .477"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".355"
+            "value": ".352"
           },
           {
             "label": "OBP",
-            "value": ".477"
+            "value": ".476"
           },
           {
             "label": "SLG",
-            "value": ".483"
+            "value": ".477"
           },
           {
             "label": "HR",
@@ -6390,7 +6390,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           },
           {
             "label": "RBI",
-            "value": "47"
+            "value": "48"
           },
           {
             "label": "SB",
@@ -6399,8 +6399,8 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 42.89473684210526,
-          "Contact": 84.37499999999999,
+          "Power": 41.31578947368421,
+          "Contact": 82.49999999999999,
           "Discipline": 100,
           "Speed": 26.666666666666668
         },
@@ -6429,48 +6429,48 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 13,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brandon Shannon looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.87",
-          "WHIP 1.89",
-          "K/9 10.6"
+          "ERA 6.89",
+          "WHIP 1.98",
+          "K/9 10.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.87"
+            "value": "6.89"
           },
           {
             "label": "WHIP",
-            "value": "1.89"
+            "value": "1.98"
           },
           {
             "label": "K/9",
-            "value": "10.6"
+            "value": "10.3"
           },
           {
             "label": "BB/9",
-            "value": "8.2"
+            "value": "8.9"
           },
           {
             "label": "HR/9",
-            "value": "1.47"
+            "value": "1.72"
           },
           {
             "label": "IP",
-            "value": "30.7"
+            "value": "31.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 59.683794466403164,
-          "Command": 5.714285714285712,
+          "Miss bats": 57.64023210831722,
+          "Command": 3.2258064516129044,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -6567,48 +6567,48 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 6,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Brown gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.61",
-          "WHIP 1.64",
-          "K/9 6.7"
+          "ERA 5.40",
+          "WHIP 1.65",
+          "K/9 7.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.61"
+            "value": "5.40"
           },
           {
             "label": "WHIP",
-            "value": "1.64"
+            "value": "1.65"
           },
           {
             "label": "K/9",
-            "value": "6.7"
+            "value": "7.1"
           },
           {
             "label": "BB/9",
-            "value": "5.3"
+            "value": "5.4"
           },
           {
             "label": "HR/9",
-            "value": "0.70"
+            "value": "0.67"
           },
           {
             "label": "IP",
-            "value": "25.7"
+            "value": "26.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 24.20306965761511,
-          "Command": 5.333333333333332,
+          "Miss bats": 28.068181818181813,
+          "Command": 6.25,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -6705,33 +6705,33 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "position": "LHP",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 8,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ty Starke looks like a LHP option who limits runs.",
+        "summary": "Ty Starke gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 3.13",
-          "WHIP 1.26",
-          "K/9 6.7"
+          "ERA 4.18",
+          "WHIP 1.35",
+          "K/9 6.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.13"
+            "value": "4.18"
           },
           {
             "label": "WHIP",
-            "value": "1.26"
+            "value": "1.35"
           },
           {
             "label": "K/9",
-            "value": "6.7"
+            "value": "6.8"
           },
           {
             "label": "BB/9",
-            "value": "3.1"
+            "value": "4.2"
           },
           {
             "label": "HR/9",
@@ -6739,14 +6739,14 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           },
           {
             "label": "IP",
-            "value": "23.0"
+            "value": "23.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 24.110671936758894,
-          "Command": 22.5,
+          "Miss bats": 25.86427656850192,
+          "Command": 12.727272727272727,
           "Damage suppression": 0
         },
         "metaLine": "JR / L/L",
@@ -7394,48 +7394,48 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "position": "LHP",
         "classYear": "SR",
         "handedness": "R/L",
-        "score": 17,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Wyatt Danilowicz looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.35",
-          "WHIP 1.46",
-          "K/9 10.6"
+          "ERA 6.00",
+          "WHIP 1.51",
+          "K/9 11.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.35"
+            "value": "6.00"
           },
           {
             "label": "WHIP",
-            "value": "1.46"
+            "value": "1.51"
           },
           {
             "label": "K/9",
-            "value": "10.6"
+            "value": "11.0"
           },
           {
             "label": "BB/9",
-            "value": "4.1"
+            "value": "4.2"
           },
           {
             "label": "HR/9",
-            "value": "0.96"
+            "value": "1.17"
           },
           {
             "label": "IP",
-            "value": "65.7"
+            "value": "69.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 59.575449930779875,
-          "Command": 31.33333333333333,
+          "Miss bats": 63.24110671936759,
+          "Command": 32.50000000000001,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/L",
@@ -7540,8 +7540,8 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "summary": "Jimmy Nugent profiles as a C piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .315",
-          "OBP .439",
-          "SLG .600"
+          "OBP .440",
+          "SLG .595"
         ],
         "statCards": [
           {
@@ -7550,11 +7550,11 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           },
           {
             "label": "OBP",
-            "value": ".439"
+            "value": ".440"
           },
           {
             "label": "SLG",
-            "value": ".600"
+            "value": ".595"
           },
           {
             "label": "HR",
@@ -7570,10 +7570,10 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           }
         ],
         "components": {
-          "On-base": 88.33333333333331,
-          "Power": 73.6842105263158,
+          "On-base": 88.88888888888889,
+          "Power": 72.36842105263158,
           "Contact": 59.375,
-          "Discipline": 40.958605664488005,
+          "Discipline": 40.67085953878406,
           "Speed": 30
         },
         "metaLine": "JR / R/R",
@@ -7601,29 +7601,29 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 70,
+        "score": 68,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Bayram Hot profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .337",
-          "OBP .453",
-          "SLG .538"
+          "AVG .330",
+          "OBP .448",
+          "SLG .528"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".337"
+            "value": ".330"
           },
           {
             "label": "OBP",
-            "value": ".453"
+            "value": ".448"
           },
           {
             "label": "SLG",
-            "value": ".538"
+            "value": ".528"
           },
           {
             "label": "HR",
@@ -7631,7 +7631,7 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "41"
           },
           {
             "label": "SB",
@@ -7639,10 +7639,10 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           }
         ],
         "components": {
-          "On-base": 96.1111111111111,
-          "Power": 57.36842105263159,
-          "Contact": 73.125,
-          "Discipline": 41.88034188034187,
+          "On-base": 93.33333333333333,
+          "Power": 54.73684210526317,
+          "Contact": 68.75000000000001,
+          "Discipline": 41.563786008230444,
           "Speed": 56.666666666666664
         },
         "metaLine": "SR / R/R",
@@ -7807,29 +7807,29 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 8,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Zach Davis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .196",
-          "OBP .292",
-          "SLG .214"
+          "AVG .190",
+          "OBP .284",
+          "SLG .207"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".196"
+            "value": ".190"
           },
           {
             "label": "OBP",
-            "value": ".292"
+            "value": ".284"
           },
           {
             "label": "SLG",
-            "value": ".214"
+            "value": ".207"
           },
           {
             "label": "HR",
@@ -7845,10 +7845,10 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           }
         ],
         "components": {
-          "On-base": 6.666666666666641,
+          "On-base": 2.2222222222221935,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 29.059829059829056,
+          "Discipline": 22.22222222222222,
           "Speed": 13.333333333333334
         },
         "metaLine": "FR / R/R",
@@ -7883,22 +7883,22 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         },
         "summary": "Zion Rose profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .410",
-          "OBP .488",
-          "SLG .647"
+          "AVG .417",
+          "OBP .491",
+          "SLG .646"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".410"
+            "value": ".417"
           },
           {
             "label": "OBP",
-            "value": ".488"
+            "value": ".491"
           },
           {
             "label": "SLG",
-            "value": ".647"
+            "value": ".646"
           },
           {
             "label": "HR",
@@ -7906,19 +7906,19 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           },
           {
             "label": "RBI",
-            "value": "44"
+            "value": "47"
           },
           {
             "label": "SB",
-            "value": "23"
+            "value": "24"
           }
         ],
         "components": {
           "On-base": 100,
-          "Power": 86.05263157894738,
+          "Power": 85.78947368421053,
           "Contact": 100,
           "Discipline": 100,
-          "Speed": 76.66666666666667
+          "Speed": 80
         },
         "metaLine": "JR / R/R",
         "detailBadges": [
@@ -7945,47 +7945,47 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 6,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Zane Stahl gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.00",
-          "WHIP 1.75",
-          "K/9 7.5"
+          "ERA 5.54",
+          "WHIP 1.69",
+          "K/9 7.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.00"
+            "value": "5.54"
           },
           {
             "label": "WHIP",
-            "value": "1.75"
+            "value": "1.69"
           },
           {
             "label": "K/9",
-            "value": "7.5"
+            "value": "7.6"
           },
           {
             "label": "BB/9",
-            "value": "8.3"
+            "value": "7.6"
           },
           {
             "label": "HR/9",
-            "value": "0.75"
+            "value": "0.69"
           },
           {
             "label": "IP",
-            "value": "12.0"
+            "value": "13.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 31.818181818181817,
+          "Miss bats": 32.86713286713287,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -8289,29 +8289,29 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 64,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Ben Slanker profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .280",
-          "OBP .429",
-          "SLG .573"
+          "AVG .270",
+          "OBP .418",
+          "SLG .554"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".280"
+            "value": ".270"
           },
           {
             "label": "OBP",
-            "value": ".429"
+            "value": ".418"
           },
           {
             "label": "SLG",
-            "value": ".573"
+            "value": ".554"
           },
           {
             "label": "HR",
@@ -8327,10 +8327,10 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           }
         ],
         "components": {
-          "On-base": 82.77777777777776,
-          "Power": 66.57894736842105,
-          "Contact": 37.500000000000014,
-          "Discipline": 98.98989898989898,
+          "On-base": 76.66666666666664,
+          "Power": 61.57894736842107,
+          "Contact": 31.25000000000001,
+          "Discipline": 88.88888888888889,
           "Speed": 0
         },
         "metaLine": "JR / L/R",
@@ -8640,18 +8640,18 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         },
         "summary": "Aaron England gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.40",
-          "WHIP 1.53",
+          "ERA 4.35",
+          "WHIP 1.52",
           "K/9 7.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.40"
+            "value": "4.35"
           },
           {
             "label": "WHIP",
-            "value": "1.53"
+            "value": "1.52"
           },
           {
             "label": "K/9",
@@ -8659,22 +8659,22 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           },
           {
             "label": "BB/9",
-            "value": "6.3"
+            "value": "5.8"
           },
           {
             "label": "HR/9",
-            "value": "0.63"
+            "value": "0.58"
           },
           {
             "label": "IP",
-            "value": "28.7"
+            "value": "31.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 34.989429175475685,
-          "Command": 5,
+          "Miss bats": 34.89736070381232,
+          "Command": 7.000000000000002,
           "Damage suppression": 0
         },
         "metaLine": "SO / L/L",
@@ -8909,29 +8909,29 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 61,
+        "score": 64,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
-        "summary": "Lucas Moore profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Lucas Moore profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .280",
-          "OBP .432",
-          "SLG .402"
+          "AVG .286",
+          "OBP .437",
+          "SLG .406"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".280"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".432"
+            "value": ".437"
           },
           {
             "label": "SLG",
-            "value": ".402"
+            "value": ".406"
           },
           {
             "label": "HR",
@@ -8947,10 +8947,10 @@ window.__BASEBALL_DATASETS__.louisville2026 = {
           }
         ],
         "components": {
-          "On-base": 84.44444444444443,
-          "Power": 21.578947368421062,
-          "Contact": 37.500000000000014,
-          "Discipline": 86.4734299516908,
+          "On-base": 87.22222222222221,
+          "Power": 22.631578947368432,
+          "Contact": 41.24999999999998,
+          "Discipline": 88.88888888888889,
           "Speed": 100
         },
         "metaLine": "JR / L/R",

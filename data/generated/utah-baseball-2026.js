@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.utah2026 = {
-  "generatedAt": "2026-05-19T13:32:45.720Z",
+  "generatedAt": "2026-05-20T12:42:15.835Z",
   "season": 2026,
   "school": {
     "slug": "utah",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.utah2026 = {
     }
   },
   "teamSummary": {
-    "record": "26-24, 12-18",
-    "battingAverage": ".308",
-    "earnedRunAverage": "6.65",
+    "record": "26-25, 12-18",
+    "battingAverage": ".307",
+    "earnedRunAverage": "6.69",
     "wins": "26",
-    "losses": "24",
+    "losses": "25",
     "hitting": {
-      "atBats": "1730",
-      "runsScored": "364",
-      "hits": "533",
-      "runsBattedIn": "341",
-      "doubles": "100",
+      "atBats": "1766",
+      "runsScored": "369",
+      "hits": "543",
+      "runsBattedIn": "346",
+      "doubles": "102",
       "triples": "10",
-      "homeRuns": "63",
-      "walks": "204",
+      "homeRuns": "64",
+      "walks": "206",
       "intentionalWalks": "4",
-      "strikeouts": "371",
+      "strikeouts": "378",
       "strikeoutsLooking": "66",
       "hitByPitch": "75",
-      "stolenBases": "46",
+      "stolenBases": "47",
       "caughtStealing": "17",
       "sacrificeHits": "30",
-      "sacrificeFlies": "20",
+      "sacrificeFlies": "21",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "355",
-      "flyOuts": "446",
+      "groundOuts": "362",
+      "flyOuts": "458",
       "groundedIntoDoublePlay": "33",
       "pickedOff": "8",
       "doublePlaysHitInto": "34",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1296",
-      "assists": "438",
-      "errors": "51",
+      "putouts": "1323",
+      "assists": "447",
+      "errors": "52",
       "passedBalls": "8",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "31",
+      "stolenBasesAgainst": "33",
       "caughtStealingBy": "11",
-      "involvedInDoublePlays": "51",
+      "involvedInDoublePlays": "52",
       "involvedInTriplePlays": "0",
-      "totalChances": "1785",
+      "totalChances": "1822",
       "fieldingPercentage": ".971"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "26",
-      "saves": "43",
-      "losses": "24",
+      "saves": "44",
+      "losses": "25",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "0",
       "creditForCombinedShutout": "3",
-      "inningsPitched": "432.0",
-      "hitsAllowed": "534",
-      "runsAllowed": "360",
-      "earnedRunsAllowed": "319",
-      "walksAllowed": "205",
-      "strikeouts": "370",
-      "battersFaced": "2056",
-      "opponentAtBats": "1766",
-      "doublesAllowed": "105",
-      "triplesAllowed": "12",
-      "homerunsAllowed": "79",
-      "wildPitches": "29",
+      "inningsPitched": "441.0",
+      "hitsAllowed": "547",
+      "runsAllowed": "369",
+      "earnedRunsAllowed": "328",
+      "walksAllowed": "211",
+      "strikeouts": "371",
+      "battersFaced": "2100",
+      "opponentAtBats": "1803",
+      "doublesAllowed": "107",
+      "triplesAllowed": "13",
+      "homerunsAllowed": "80",
+      "wildPitches": "31",
       "balks": "1",
       "hitBatters": "51",
-      "strikeoutsLooking": "65",
+      "strikeoutsLooking": "66",
       "intentionalWalks": "8",
-      "inheritedRunners": "121",
-      "inheritedRunnersThatScored": "53",
+      "inheritedRunners": "123",
+      "inheritedRunnersThatScored": "54",
       "sacrificeHitsAllowed": "15",
-      "sacrificeFliesAllowed": "19",
+      "sacrificeFliesAllowed": "20",
       "catchersInterferenceAllowed": "0",
-      "pitches": "7698",
-      "flyouts": "455",
-      "groundouts": "396",
+      "pitches": "7867",
+      "flyouts": "469",
+      "groundouts": "405",
       "teamUnearnedRuns": "0",
       "saveRecord": "13",
       "pickoff": "0"
@@ -303,20 +303,20 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "2",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/matt-flaharty/17025",
         "imageUrl": "https://utahutes.com/images/2026/1/29/Flaharty__Matt_01.JPG",
-        "gamesPlayed": 47,
-        "gamesStarted": 46,
-        "battingAverage": 0.308,
-        "onBasePercentage": 0.359,
-        "sluggingPercentage": 0.473,
-        "ops": 0.832,
-        "atBats": 182,
+        "gamesPlayed": 48,
+        "gamesStarted": 47,
+        "battingAverage": 0.306,
+        "onBasePercentage": 0.356,
+        "sluggingPercentage": 0.468,
+        "ops": 0.824,
+        "atBats": 186,
         "runs": 38,
-        "hits": 56,
+        "hits": 57,
         "doubles": 10,
         "triples": 1,
         "homeRuns": 6,
         "runsBattedIn": 39,
-        "totalBases": 86,
+        "totalBases": 87,
         "walks": 12,
         "hitByPitch": 3,
         "strikeouts": 39,
@@ -329,7 +329,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "putouts": 63,
         "assists": 0,
         "errors": 13,
-        "plateAppearances": 213,
+        "plateAppearances": 217,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -341,51 +341,51 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "2",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/matt-flaharty/17025",
         "imageUrl": "https://utahutes.com/images/2026/1/29/Flaharty__Matt_01.JPG",
-        "gamesPlayed": 46,
-        "gamesStarted": 45,
+        "gamesPlayed": 47,
+        "gamesStarted": 46,
         "putouts": 63,
-        "assists": 127,
+        "assists": 129,
         "errors": 13,
-        "fieldingPercentage": 0.936,
+        "fieldingPercentage": 0.937,
         "doublePlays": 28,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 203
+        "totalChances": 205
       },
       "evaluation": {
-        "score": 38,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 43.888888888888864,
-          "Power": 40.26315789473684,
-          "Contact": 54.99999999999999,
+          "On-base": 42.2222222222222,
+          "Power": 38.947368421052644,
+          "Contact": 53.75,
           "Discipline": 11.965811965811964,
           "Speed": 23.333333333333332
         },
         "summary": "Matt Flaharty gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .308",
-          "OBP .359",
-          "SLG .473"
+          "AVG .306",
+          "OBP .356",
+          "SLG .468"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".308"
+            "value": ".306"
           },
           {
             "label": "OBP",
-            "value": ".359"
+            "value": ".356"
           },
           {
             "label": "SLG",
-            "value": ".473"
+            "value": ".468"
           },
           {
             "label": "HR",
@@ -593,13 +593,13 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "5",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/nevan-noonan/17047",
         "imageUrl": "https://utahutes.com/images/2026/1/29/Noonan__Nevan_01.JPG",
-        "gamesPlayed": 30,
-        "gamesStarted": 20,
-        "battingAverage": 0.198,
-        "onBasePercentage": 0.323,
-        "sluggingPercentage": 0.358,
-        "ops": 0.681,
-        "atBats": 81,
+        "gamesPlayed": 31,
+        "gamesStarted": 21,
+        "battingAverage": 0.188,
+        "onBasePercentage": 0.311,
+        "sluggingPercentage": 0.341,
+        "ops": 0.652,
+        "atBats": 85,
         "runs": 17,
         "hits": 16,
         "doubles": 4,
@@ -609,17 +609,17 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "totalBases": 29,
         "walks": 9,
         "hitByPitch": 7,
-        "strikeouts": 20,
+        "strikeouts": 21,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 32,
+        "putouts": 42,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 101,
+        "plateAppearances": 105,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -631,51 +631,51 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "5",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/nevan-noonan/17047",
         "imageUrl": "https://utahutes.com/images/2026/1/29/Noonan__Nevan_01.JPG",
-        "gamesPlayed": 18,
-        "gamesStarted": 17,
-        "putouts": 32,
+        "gamesPlayed": 19,
+        "gamesStarted": 18,
+        "putouts": 42,
         "assists": 48,
         "errors": 5,
-        "fieldingPercentage": 0.941,
-        "doublePlays": 12,
+        "fieldingPercentage": 0.947,
+        "doublePlays": 13,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 85
+        "totalChances": 95
       },
       "evaluation": {
-        "score": 15,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 23.88888888888888,
-          "Power": 9.999999999999995,
+          "On-base": 17.222222222222207,
+          "Power": 5.526315789473689,
           "Contact": 0,
-          "Discipline": 27.777777777777775,
+          "Discipline": 25.39682539682539,
           "Speed": 6.666666666666667
         },
         "summary": "Nevan Noonan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .198",
-          "OBP .323",
-          "SLG .358"
+          "AVG .188",
+          "OBP .311",
+          "SLG .341"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".198"
+            "value": ".188"
           },
           {
             "label": "OBP",
-            "value": ".323"
+            "value": ".311"
           },
           {
             "label": "SLG",
-            "value": ".358"
+            "value": ".341"
           },
           {
             "label": "HR",
@@ -739,31 +739,31 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "6",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/cameron-nielson/17036",
         "imageUrl": "https://utahutes.com/images/2026/1/29/Nielson__Cameron_01.JPG",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 3,
-        "appearances": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.25,
-        "whip": 1.75,
+        "earnedRunAverage": 6.2,
+        "whip": 1.86,
         "wins": 0,
         "losses": 0,
         "saves": 2,
         "shutouts": 0,
-        "inningsPitched": 24,
-        "inningsPitchedDisplay": "24.0",
-        "hitsAllowed": 34,
-        "runsAllowed": 16,
-        "earnedRunsAllowed": 14,
-        "walksAllowed": 8,
-        "strikeouts": 22,
+        "inningsPitched": 24.666666666666668,
+        "inningsPitchedDisplay": "24.2",
+        "hitsAllowed": 37,
+        "runsAllowed": 19,
+        "earnedRunsAllowed": 17,
+        "walksAllowed": 9,
+        "strikeouts": 23,
         "doublesAllowed": 6,
-        "triplesAllowed": 0,
+        "triplesAllowed": 1,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 102,
-        "wildPitches": 3,
+        "opponentsAtBats": 106,
+        "wildPitches": 4,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.333,
+        "opponentsBattingAverage": 0.349,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -796,40 +796,40 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 38.63636363636363,
-          "Command": 35,
+          "Miss bats": 39.92628992628992,
+          "Command": 31.111111111111107,
           "Damage suppression": 0
         },
-        "summary": "Cameron Nielson looks like a RHP option who throws enough strikes.",
+        "summary": "Cameron Nielson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.25",
-          "WHIP 1.75",
-          "K/9 8.3"
+          "ERA 6.20",
+          "WHIP 1.86",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.25"
+            "value": "6.20"
           },
           {
             "label": "WHIP",
-            "value": "1.75"
+            "value": "1.86"
           },
           {
             "label": "K/9",
-            "value": "8.3"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
-            "value": "1.13"
+            "value": "1.09"
           },
           {
             "label": "IP",
-            "value": "24.0"
+            "value": "24.7"
           }
         ],
         "metaLine": "R-SO / R/R",
@@ -1113,20 +1113,20 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "9",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/jake-long/17033",
         "imageUrl": "https://utahutes.com/images/2026/1/29/Long__Jake_01.JPG",
-        "gamesPlayed": 50,
-        "gamesStarted": 50,
-        "battingAverage": 0.369,
-        "onBasePercentage": 0.442,
-        "sluggingPercentage": 0.617,
-        "ops": 1.059,
-        "atBats": 206,
-        "runs": 46,
-        "hits": 76,
-        "doubles": 14,
+        "gamesPlayed": 51,
+        "gamesStarted": 51,
+        "battingAverage": 0.374,
+        "onBasePercentage": 0.445,
+        "sluggingPercentage": 0.626,
+        "ops": 1.071,
+        "atBats": 211,
+        "runs": 48,
+        "hits": 79,
+        "doubles": 16,
         "triples": 2,
         "homeRuns": 11,
-        "runsBattedIn": 56,
-        "totalBases": 127,
+        "runsBattedIn": 58,
+        "totalBases": 132,
         "walks": 25,
         "hitByPitch": 5,
         "strikeouts": 31,
@@ -1136,10 +1136,10 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "sacrificeHits": 2,
         "stolenBases": 5,
         "stolenBasesAttempts": 7,
-        "putouts": 89,
+        "putouts": 92,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 251,
+        "plateAppearances": 256,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1151,51 +1151,51 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "9",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/jake-long/17033",
         "imageUrl": "https://utahutes.com/images/2026/1/29/Long__Jake_01.JPG",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "putouts": 89,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "putouts": 92,
         "assists": 2,
         "errors": 3,
-        "fieldingPercentage": 0.968,
+        "fieldingPercentage": 0.969,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 94
+        "totalChances": 97
       },
       "evaluation": {
-        "score": 77,
+        "score": 79,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 89.99999999999999,
-          "Power": 78.15789473684211,
-          "Contact": 93.12499999999999,
+          "On-base": 91.66666666666666,
+          "Power": 80.52631578947368,
+          "Contact": 96.25,
           "Discipline": 67.38351254480285,
           "Speed": 16.666666666666664
         },
         "summary": "Jake Long profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .369",
-          "OBP .442",
-          "SLG .617"
+          "AVG .374",
+          "OBP .445",
+          "SLG .626"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".369"
+            "value": ".374"
           },
           {
             "label": "OBP",
-            "value": ".442"
+            "value": ".445"
           },
           {
             "label": "SLG",
-            "value": ".617"
+            "value": ".626"
           },
           {
             "label": "HR",
@@ -1203,7 +1203,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           },
           {
             "label": "RBI",
-            "value": "56"
+            "value": "58"
           },
           {
             "label": "SB",
@@ -1381,31 +1381,31 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "11",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/ryan-kittredge/17045",
         "imageUrl": "https://utahutes.com/images/2026/1/29/Kittridge__Ryan_01.JPG",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 4,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.4,
+        "earnedRunAverage": 6.75,
         "whip": 1.95,
         "wins": 1,
-        "losses": 0,
+        "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 32.333333333333336,
-        "inningsPitchedDisplay": "32.1",
-        "hitsAllowed": 50,
-        "runsAllowed": 24,
-        "earnedRunsAllowed": 23,
+        "inningsPitched": 33.333333333333336,
+        "inningsPitchedDisplay": "33.1",
+        "hitsAllowed": 52,
+        "runsAllowed": 26,
+        "earnedRunsAllowed": 25,
         "walksAllowed": 13,
         "strikeouts": 22,
-        "doublesAllowed": 10,
+        "doublesAllowed": 11,
         "triplesAllowed": 1,
         "homeRunsAllowed": 7,
-        "opponentsAtBats": 135,
+        "opponentsAtBats": 140,
         "wildPitches": 3,
         "hitBatters": 3,
         "balks": 1,
-        "opponentsBattingAverage": 0.37,
+        "opponentsBattingAverage": 0.371,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1438,20 +1438,20 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 19.306466729147136,
+          "Miss bats": 17.63636363636363,
           "Command": 13.846153846153847,
           "Damage suppression": 0
         },
         "summary": "Ryan Kittredge gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.40",
+          "ERA 6.75",
           "WHIP 1.95",
-          "K/9 6.1"
+          "K/9 5.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.40"
+            "value": "6.75"
           },
           {
             "label": "WHIP",
@@ -1459,19 +1459,19 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           },
           {
             "label": "K/9",
-            "value": "6.1"
+            "value": "5.9"
           },
           {
             "label": "BB/9",
-            "value": "3.6"
+            "value": "3.5"
           },
           {
             "label": "HR/9",
-            "value": "1.95"
+            "value": "1.89"
           },
           {
             "label": "IP",
-            "value": "32.3"
+            "value": "33.3"
           }
         ],
         "metaLine": "SR / R/R",
@@ -1523,31 +1523,31 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "13",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/justin-abercrombie/17042",
         "imageUrl": "https://utahutes.com/images/2026/1/29/Abercrombie__Justin_01.JPG",
-        "gamesPlayed": 16,
+        "gamesPlayed": 17,
         "gamesStarted": 3,
-        "appearances": 16,
+        "appearances": 17,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.86,
-        "whip": 1.86,
+        "earnedRunAverage": 7.48,
+        "whip": 1.81,
         "wins": 1,
         "losses": 3,
         "saves": 3,
         "shutouts": 0,
-        "inningsPitched": 26.333333333333332,
-        "inningsPitchedDisplay": "26.1",
+        "inningsPitched": 27.666666666666668,
+        "inningsPitchedDisplay": "27.2",
         "hitsAllowed": 36,
         "runsAllowed": 27,
         "earnedRunsAllowed": 23,
-        "walksAllowed": 13,
+        "walksAllowed": 14,
         "strikeouts": 24,
         "doublesAllowed": 12,
         "triplesAllowed": 0,
         "homeRunsAllowed": 7,
-        "opponentsAtBats": 110,
+        "opponentsAtBats": 114,
         "wildPitches": 2,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.327,
+        "opponentsBattingAverage": 0.316,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1572,7 +1572,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1580,40 +1580,40 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 38.20483314154201,
-          "Command": 16.923076923076923,
+          "Miss bats": 34.61117196056955,
+          "Command": 14.285714285714285,
           "Damage suppression": 0
         },
         "summary": "Justin Abercrombie gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.86",
-          "WHIP 1.86",
-          "K/9 8.2"
+          "ERA 7.48",
+          "WHIP 1.81",
+          "K/9 7.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.86"
+            "value": "7.48"
           },
           {
             "label": "WHIP",
-            "value": "1.86"
+            "value": "1.81"
           },
           {
             "label": "K/9",
-            "value": "8.2"
+            "value": "7.8"
           },
           {
             "label": "BB/9",
-            "value": "4.4"
+            "value": "4.6"
           },
           {
             "label": "HR/9",
-            "value": "2.39"
+            "value": "2.28"
           },
           {
             "label": "IP",
-            "value": "26.3"
+            "value": "27.7"
           }
         ],
         "metaLine": "SR / R/R",
@@ -1701,31 +1701,31 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "15",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/demitri-diamant/17023",
         "imageUrl": "https://utahutes.com/images/2026/1/29/Diamant__Demitri.JPG",
-        "gamesPlayed": 18,
-        "gamesStarted": 0,
-        "appearances": 18,
+        "gamesPlayed": 19,
+        "gamesStarted": 1,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.16,
-        "whip": 1.38,
+        "earnedRunAverage": 2.93,
+        "whip": 1.4,
         "wins": 2,
         "losses": 1,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 37,
-        "inningsPitchedDisplay": "37.0",
-        "hitsAllowed": 35,
+        "inningsPitched": 40,
+        "inningsPitchedDisplay": "40.0",
+        "hitsAllowed": 37,
         "runsAllowed": 16,
         "earnedRunsAllowed": 13,
-        "walksAllowed": 16,
+        "walksAllowed": 19,
         "strikeouts": 28,
-        "doublesAllowed": 8,
+        "doublesAllowed": 9,
         "triplesAllowed": 0,
         "homeRunsAllowed": 6,
-        "opponentsAtBats": 142,
+        "opponentsAtBats": 152,
         "wildPitches": 3,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.246,
+        "opponentsBattingAverage": 0.243,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1750,7 +1750,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "totalChances": 7
       },
       "evaluation": {
-        "score": 8,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1758,40 +1758,40 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 25.55282555282555,
-          "Command": 14.999999999999996,
+          "Miss bats": 20.909090909090907,
+          "Command": 9.473684210526315,
           "Damage suppression": 0
         },
         "summary": "Demitri Diamant looks like a INF/RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.16",
-          "WHIP 1.38",
-          "K/9 6.8"
+          "ERA 2.93",
+          "WHIP 1.40",
+          "K/9 6.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.16"
+            "value": "2.93"
           },
           {
             "label": "WHIP",
-            "value": "1.38"
+            "value": "1.40"
           },
           {
             "label": "K/9",
-            "value": "6.8"
+            "value": "6.3"
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "4.3"
           },
           {
             "label": "HR/9",
-            "value": "1.46"
+            "value": "1.35"
           },
           {
             "label": "IP",
-            "value": "37.0"
+            "value": "40.0"
           }
         ],
         "metaLine": "R-JR / R/R",
@@ -1843,31 +1843,31 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "16",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/kaden-soder/17095",
         "imageUrl": "https://utahutes.com/images/2026/1/29/Soder__Kaden_01.JPG",
-        "gamesPlayed": 13,
+        "gamesPlayed": 14,
         "gamesStarted": 0,
-        "appearances": 13,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.03,
-        "whip": 1.21,
+        "earnedRunAverage": 4.84,
+        "whip": 1.34,
         "wins": 3,
         "losses": 0,
         "saves": 1,
         "shutouts": 0,
         "inningsPitched": 22.333333333333332,
         "inningsPitchedDisplay": "22.1",
-        "hitsAllowed": 15,
-        "runsAllowed": 10,
-        "earnedRunsAllowed": 10,
+        "hitsAllowed": 18,
+        "runsAllowed": 12,
+        "earnedRunsAllowed": 12,
         "walksAllowed": 12,
         "strikeouts": 28,
         "doublesAllowed": 3,
         "triplesAllowed": 1,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 78,
-        "wildPitches": 1,
+        "opponentsAtBats": 81,
+        "wildPitches": 2,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.192,
+        "opponentsBattingAverage": 0.222,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1904,20 +1904,20 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           "Command": 26.66666666666667,
           "Damage suppression": 0
         },
-        "summary": "Kaden Soder looks like a RHP option who misses bats and keeps traffic under control.",
+        "summary": "Kaden Soder looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.03",
-          "WHIP 1.21",
+          "ERA 4.84",
+          "WHIP 1.34",
           "K/9 11.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.03"
+            "value": "4.84"
           },
           {
             "label": "WHIP",
-            "value": "1.21"
+            "value": "1.34"
           },
           {
             "label": "K/9",
@@ -2416,13 +2416,13 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "21",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/daniel-arambula/17043",
         "imageUrl": "https://utahutes.com/images/2026/1/29/Arambula__Daniel_01.JPG",
-        "gamesPlayed": 50,
-        "gamesStarted": 50,
-        "battingAverage": 0.273,
-        "onBasePercentage": 0.349,
-        "sluggingPercentage": 0.405,
-        "ops": 0.754,
-        "atBats": 205,
+        "gamesPlayed": 51,
+        "gamesStarted": 51,
+        "battingAverage": 0.268,
+        "onBasePercentage": 0.346,
+        "sluggingPercentage": 0.397,
+        "ops": 0.743,
+        "atBats": 209,
         "runs": 36,
         "hits": 56,
         "doubles": 7,
@@ -2430,9 +2430,9 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "homeRuns": 6,
         "runsBattedIn": 30,
         "totalBases": 83,
-        "walks": 20,
+        "walks": 21,
         "hitByPitch": 6,
-        "strikeouts": 44,
+        "strikeouts": 46,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 4,
@@ -2442,7 +2442,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "putouts": 33,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 247,
+        "plateAppearances": 252,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -2454,51 +2454,51 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "21",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/daniel-arambula/17043",
         "imageUrl": "https://utahutes.com/images/2026/1/29/Arambula__Daniel_01.JPG",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
         "putouts": 33,
-        "assists": 71,
+        "assists": 72,
         "errors": 6,
-        "fieldingPercentage": 0.945,
+        "fieldingPercentage": 0.946,
         "doublePlays": 12,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 110
+        "totalChances": 111
       },
       "evaluation": {
-        "score": 29,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 38.33333333333331,
-          "Power": 22.368421052631586,
-          "Contact": 33.12500000000001,
-          "Discipline": 28.282828282828277,
+          "On-base": 36.666666666666636,
+          "Power": 20.26315789473685,
+          "Contact": 30.00000000000001,
+          "Discipline": 28.502415458937193,
           "Speed": 10
         },
         "summary": "Daniel Arambula gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .273",
-          "OBP .349",
-          "SLG .405"
+          "AVG .268",
+          "OBP .346",
+          "SLG .397"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".273"
+            "value": ".268"
           },
           {
             "label": "OBP",
-            "value": ".349"
+            "value": ".346"
           },
           {
             "label": "SLG",
-            "value": ".405"
+            "value": ".397"
           },
           {
             "label": "HR",
@@ -2703,20 +2703,20 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "24",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/luke-jacobs/17096",
         "imageUrl": "https://utahutes.com/images/2026/1/29/Jacobs__Luke_01.JPG",
-        "gamesPlayed": 50,
-        "gamesStarted": 49,
-        "battingAverage": 0.29,
-        "onBasePercentage": 0.372,
-        "sluggingPercentage": 0.522,
-        "ops": 0.894,
-        "atBats": 207,
-        "runs": 49,
-        "hits": 60,
+        "gamesPlayed": 51,
+        "gamesStarted": 50,
+        "battingAverage": 0.297,
+        "onBasePercentage": 0.377,
+        "sluggingPercentage": 0.538,
+        "ops": 0.915,
+        "atBats": 212,
+        "runs": 51,
+        "hits": 63,
         "doubles": 18,
         "triples": 3,
-        "homeRuns": 8,
-        "runsBattedIn": 38,
-        "totalBases": 108,
+        "homeRuns": 9,
+        "runsBattedIn": 39,
+        "totalBases": 114,
         "walks": 24,
         "hitByPitch": 5,
         "strikeouts": 50,
@@ -2726,10 +2726,10 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "sacrificeHits": 2,
         "stolenBases": 1,
         "stolenBasesAttempts": 3,
-        "putouts": 102,
+        "putouts": 106,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 246,
+        "plateAppearances": 251,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -2741,59 +2741,59 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "24",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/luke-jacobs/17096",
         "imageUrl": "https://utahutes.com/images/2026/1/29/Jacobs__Luke_01.JPG",
-        "gamesPlayed": 43,
-        "gamesStarted": 42,
-        "putouts": 102,
-        "assists": 2,
+        "gamesPlayed": 44,
+        "gamesStarted": 43,
+        "putouts": 106,
+        "assists": 3,
         "errors": 2,
-        "fieldingPercentage": 0.981,
+        "fieldingPercentage": 0.982,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 106
+        "totalChances": 111
       },
       "evaluation": {
-        "score": 43,
+        "score": 46,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 51.11111111111109,
-          "Power": 53.15789473684212,
-          "Contact": 43.749999999999986,
+          "On-base": 53.88888888888887,
+          "Power": 57.36842105263159,
+          "Contact": 48.12499999999999,
           "Discipline": 31.111111111111107,
           "Speed": 3.3333333333333335
         },
         "summary": "Luke Jacobs gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .290",
-          "OBP .372",
-          "SLG .522"
+          "AVG .297",
+          "OBP .377",
+          "SLG .538"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".297"
           },
           {
             "label": "OBP",
-            "value": ".372"
+            "value": ".377"
           },
           {
             "label": "SLG",
-            "value": ".522"
+            "value": ".538"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "38"
+            "value": "39"
           },
           {
             "label": "SB",
@@ -2848,33 +2848,33 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "25",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/cal-miller/17104",
         "imageUrl": "https://utahutes.com/images/2026/1/29/Miller__Cal_01.JPG",
-        "gamesPlayed": 46,
-        "gamesStarted": 44,
+        "gamesPlayed": 47,
+        "gamesStarted": 45,
         "battingAverage": 0.345,
-        "onBasePercentage": 0.449,
-        "sluggingPercentage": 0.539,
-        "ops": 0.988,
-        "atBats": 165,
+        "onBasePercentage": 0.446,
+        "sluggingPercentage": 0.536,
+        "ops": 0.982,
+        "atBats": 168,
         "runs": 38,
-        "hits": 57,
+        "hits": 58,
         "doubles": 14,
         "triples": 0,
         "homeRuns": 6,
-        "runsBattedIn": 27,
-        "totalBases": 89,
+        "runsBattedIn": 29,
+        "totalBases": 90,
         "walks": 25,
         "hitByPitch": 7,
         "strikeouts": 37,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
-        "sacrificeFlies": 1,
+        "sacrificeFlies": 2,
         "sacrificeHits": 3,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 43,
+        "putouts": 44,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 204,
+        "plateAppearances": 208,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -2886,29 +2886,29 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "25",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/cal-miller/17104",
         "imageUrl": "https://utahutes.com/images/2026/1/29/Miller__Cal_01.JPG",
-        "gamesPlayed": 25,
-        "gamesStarted": 24,
-        "putouts": 43,
-        "assists": 64,
+        "gamesPlayed": 26,
+        "gamesStarted": 25,
+        "putouts": 44,
+        "assists": 69,
         "errors": 4,
-        "fieldingPercentage": 0.964,
-        "doublePlays": 18,
+        "fieldingPercentage": 0.966,
+        "doublePlays": 19,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 111
+        "totalChances": 117
       },
       "evaluation": {
-        "score": 67,
+        "score": 66,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 93.88888888888889,
-          "Power": 57.63157894736843,
+          "On-base": 92.22222222222221,
+          "Power": 56.842105263157904,
           "Contact": 78.12499999999997,
           "Discipline": 52.85285285285284,
           "Speed": 3.3333333333333335
@@ -2916,8 +2916,8 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "summary": "Cal Miller profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
           "AVG .345",
-          "OBP .449",
-          "SLG .539"
+          "OBP .446",
+          "SLG .536"
         ],
         "statCards": [
           {
@@ -2926,11 +2926,11 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           },
           {
             "label": "OBP",
-            "value": ".449"
+            "value": ".446"
           },
           {
             "label": "SLG",
-            "value": ".539"
+            "value": ".536"
           },
           {
             "label": "HR",
@@ -2938,7 +2938,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -2993,33 +2993,33 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "26",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/derek-smith/17039",
         "imageUrl": "https://utahutes.com/images/2026/1/29/Smith__Derek_01.JPG",
-        "gamesPlayed": 32,
-        "gamesStarted": 24,
-        "battingAverage": 0.163,
-        "onBasePercentage": 0.306,
-        "sluggingPercentage": 0.338,
-        "ops": 0.644,
-        "atBats": 80,
-        "runs": 11,
-        "hits": 13,
+        "gamesPlayed": 33,
+        "gamesStarted": 25,
+        "battingAverage": 0.167,
+        "onBasePercentage": 0.304,
+        "sluggingPercentage": 0.333,
+        "ops": 0.637,
+        "atBats": 84,
+        "runs": 12,
+        "hits": 14,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 4,
         "runsBattedIn": 14,
-        "totalBases": 27,
+        "totalBases": 28,
         "walks": 9,
         "hitByPitch": 8,
-        "strikeouts": 40,
+        "strikeouts": 42,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 180,
+        "putouts": 182,
         "assists": 0,
-        "errors": 2,
-        "plateAppearances": 99,
+        "errors": 3,
+        "plateAppearances": 103,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3031,51 +3031,51 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "26",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/derek-smith/17039",
         "imageUrl": "https://utahutes.com/images/2026/1/29/Smith__Derek_01.JPG",
-        "gamesPlayed": 30,
-        "gamesStarted": 24,
-        "putouts": 180,
+        "gamesPlayed": 31,
+        "gamesStarted": 25,
+        "putouts": 182,
         "assists": 12,
-        "errors": 2,
-        "fieldingPercentage": 0.99,
+        "errors": 3,
+        "fieldingPercentage": 0.985,
         "doublePlays": 3,
-        "stolenBasesAgainst": 14,
+        "stolenBasesAgainst": 16,
         "caughtStealingBy": 5,
         "stolenBasesPercentage": null,
         "passedBalls": 5,
         "catchersInterference": 0,
-        "totalChances": 194
+        "totalChances": 197
       },
       "evaluation": {
-        "score": 7,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 14.444444444444427,
-          "Power": 4.736842105263163,
+          "On-base": 13.333333333333314,
+          "Power": 3.421052631578951,
           "Contact": 0,
-          "Discipline": 2.777777777777777,
+          "Discipline": 1.5873015873015843,
           "Speed": 3.3333333333333335
         },
         "summary": "Derek Smith gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .163",
-          "OBP .306",
-          "SLG .338"
+          "AVG .167",
+          "OBP .304",
+          "SLG .333"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".163"
+            "value": ".167"
           },
           {
             "label": "OBP",
-            "value": ".306"
+            "value": ".304"
           },
           {
             "label": "SLG",
-            "value": ".338"
+            "value": ".333"
           },
           {
             "label": "HR",
@@ -3281,19 +3281,19 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "28",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/ian-culver/17021",
         "imageUrl": "https://utahutes.com/images/2026/1/29/Culver__Ian_01.JPG",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 0,
-        "appearances": 14,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.61,
+        "earnedRunAverage": 6.23,
         "whip": 2.08,
         "wins": 1,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 16.333333333333332,
-        "inningsPitchedDisplay": "16.1",
-        "hitsAllowed": 24,
+        "inningsPitched": 17.333333333333332,
+        "inningsPitchedDisplay": "17.1",
+        "hitsAllowed": 26,
         "runsAllowed": 14,
         "earnedRunsAllowed": 12,
         "walksAllowed": 10,
@@ -3301,11 +3301,11 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "doublesAllowed": 5,
         "triplesAllowed": 0,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 70,
+        "opponentsAtBats": 74,
         "wildPitches": 3,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.343,
+        "opponentsBattingAverage": 0.351,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3330,7 +3330,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "totalChances": 4
       },
       "evaluation": {
-        "score": 9,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3338,20 +3338,20 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 38.775510204081634,
+          "Miss bats": 34.44055944055945,
           "Command": 10,
           "Damage suppression": 0
         },
         "summary": "Ian Culver gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.61",
+          "ERA 6.23",
           "WHIP 2.08",
-          "K/9 8.3"
+          "K/9 7.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.61"
+            "value": "6.23"
           },
           {
             "label": "WHIP",
@@ -3359,19 +3359,19 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           },
           {
             "label": "K/9",
-            "value": "8.3"
+            "value": "7.8"
           },
           {
             "label": "BB/9",
-            "value": "5.5"
+            "value": "5.2"
           },
           {
             "label": "HR/9",
-            "value": "2.76"
+            "value": "2.60"
           },
           {
             "label": "IP",
-            "value": "16.3"
+            "value": "17.3"
           }
         ],
         "metaLine": "SR / R/R",
@@ -3689,20 +3689,20 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "32",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/blake-eckerle/17093",
         "imageUrl": "https://utahutes.com/images/2026/1/29/Eckerle__Blake_01.JPG",
-        "gamesPlayed": 27,
-        "gamesStarted": 17,
+        "gamesPlayed": 28,
+        "gamesStarted": 18,
         "battingAverage": 0.259,
-        "onBasePercentage": 0.328,
-        "sluggingPercentage": 0.352,
-        "ops": 0.68,
-        "atBats": 54,
+        "onBasePercentage": 0.323,
+        "sluggingPercentage": 0.345,
+        "ops": 0.668,
+        "atBats": 58,
         "runs": 6,
-        "hits": 14,
+        "hits": 15,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 1,
         "runsBattedIn": 7,
-        "totalBases": 19,
+        "totalBases": 20,
         "walks": 4,
         "hitByPitch": 2,
         "strikeouts": 8,
@@ -3710,12 +3710,12 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
         "sacrificeHits": 3,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 4,
+        "stolenBases": 4,
+        "stolenBasesAttempts": 5,
         "putouts": 56,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 69,
+        "plateAppearances": 74,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -3742,23 +3742,23 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "totalChances": 61
       },
       "evaluation": {
-        "score": 21,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 26.66666666666666,
-          "Power": 8.421052631578942,
+          "On-base": 23.88888888888888,
+          "Power": 6.578947368421045,
           "Contact": 24.375000000000004,
           "Discipline": 33.33333333333333,
-          "Speed": 10
+          "Speed": 13.333333333333334
         },
         "summary": "Blake Eckerle gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .259",
-          "OBP .328",
-          "SLG .352"
+          "OBP .323",
+          "SLG .345"
         ],
         "statCards": [
           {
@@ -3767,11 +3767,11 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           },
           {
             "label": "OBP",
-            "value": ".328"
+            "value": ".323"
           },
           {
             "label": "SLG",
-            "value": ".352"
+            "value": ".345"
           },
           {
             "label": "HR",
@@ -3783,7 +3783,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "4"
           }
         ],
         "metaLine": "FR / L/R",
@@ -3835,18 +3835,18 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "33",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/easton-jones/17029",
         "imageUrl": "https://utahutes.com/images/2026/1/29/Jones__Easton_01.JPG",
-        "gamesPlayed": 8,
+        "gamesPlayed": 9,
         "gamesStarted": 0,
-        "appearances": 8,
+        "appearances": 9,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.72,
-        "whip": 1.66,
+        "earnedRunAverage": 3.37,
+        "whip": 1.5,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 9.666666666666666,
-        "inningsPitchedDisplay": "9.2",
+        "inningsPitched": 10.666666666666666,
+        "inningsPitchedDisplay": "10.2",
         "hitsAllowed": 10,
         "runsAllowed": 7,
         "earnedRunsAllowed": 4,
@@ -3855,16 +3855,16 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "doublesAllowed": 0,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 38,
+        "opponentsAtBats": 41,
         "wildPitches": 0,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.263,
+        "opponentsBattingAverage": 0.244,
         "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
-        "score": 3,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3872,40 +3872,40 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 14.420062695924765,
+          "Miss bats": 9.659090909090908,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Easton Jones looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.72",
-          "WHIP 1.66",
-          "K/9 5.6"
+          "ERA 3.37",
+          "WHIP 1.50",
+          "K/9 5.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.72"
+            "value": "3.37"
           },
           {
             "label": "WHIP",
-            "value": "1.66"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "5.6"
+            "value": "5.1"
           },
           {
             "label": "BB/9",
-            "value": "5.6"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
-            "value": "0.93"
+            "value": "0.84"
           },
           {
             "label": "IP",
-            "value": "9.7"
+            "value": "10.7"
           }
         ],
         "metaLine": "SO / R/R",
@@ -4045,31 +4045,31 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "35",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/dylan-gazaway/17026",
         "imageUrl": "https://utahutes.com/images/2026/1/29/Gazaway__Dylan_01.JPG",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 1,
-        "appearances": 19,
+        "appearances": 20,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.75,
-        "whip": 1.64,
+        "earnedRunAverage": 7.05,
+        "whip": 1.65,
         "wins": 4,
         "losses": 1,
         "saves": 2,
         "shutouts": 0,
-        "inningsPitched": 36,
-        "inningsPitchedDisplay": "36.0",
-        "hitsAllowed": 39,
-        "runsAllowed": 30,
-        "earnedRunsAllowed": 27,
-        "walksAllowed": 20,
+        "inningsPitched": 37,
+        "inningsPitchedDisplay": "37.0",
+        "hitsAllowed": 40,
+        "runsAllowed": 32,
+        "earnedRunsAllowed": 29,
+        "walksAllowed": 21,
         "strikeouts": 34,
         "doublesAllowed": 8,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 10,
-        "opponentsAtBats": 142,
+        "homeRunsAllowed": 11,
+        "opponentsAtBats": 146,
         "wildPitches": 1,
         "hitBatters": 7,
         "balks": 0,
-        "opponentsBattingAverage": 0.275,
+        "opponentsBattingAverage": 0.274,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4102,40 +4102,40 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 40.909090909090914,
-          "Command": 13.999999999999998,
+          "Miss bats": 38.82063882063882,
+          "Command": 12.380952380952381,
           "Damage suppression": 0
         },
         "summary": "Dylan Gazaway gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 1.64",
-          "K/9 8.5"
+          "ERA 7.05",
+          "WHIP 1.65",
+          "K/9 8.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "7.05"
           },
           {
             "label": "WHIP",
-            "value": "1.64"
+            "value": "1.65"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "8.3"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
-            "value": "2.50"
+            "value": "2.68"
           },
           {
             "label": "IP",
-            "value": "36.0"
+            "value": "37.0"
           }
         ],
         "metaLine": "SR / R/R",
@@ -4734,13 +4734,13 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "53",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/jet-gilliam/17044",
         "imageUrl": "https://utahutes.com/images/2026/4/8/Gilliam__Jet_01.JPG",
-        "gamesPlayed": 50,
-        "gamesStarted": 49,
-        "battingAverage": 0.368,
-        "onBasePercentage": 0.45,
-        "sluggingPercentage": 0.508,
-        "ops": 0.958,
-        "atBats": 185,
+        "gamesPlayed": 51,
+        "gamesStarted": 50,
+        "battingAverage": 0.362,
+        "onBasePercentage": 0.446,
+        "sluggingPercentage": 0.5,
+        "ops": 0.946,
+        "atBats": 188,
         "runs": 41,
         "hits": 68,
         "doubles": 8,
@@ -4748,19 +4748,19 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "homeRuns": 6,
         "runsBattedIn": 36,
         "totalBases": 94,
-        "walks": 26,
+        "walks": 27,
         "hitByPitch": 4,
-        "strikeouts": 39,
+        "strikeouts": 41,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 8,
         "sacrificeFlies": 3,
         "sacrificeHits": 3,
         "stolenBases": 10,
         "stolenBasesAttempts": 11,
-        "putouts": 137,
+        "putouts": 144,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 233,
+        "plateAppearances": 237,
         "caughtStealing": 1,
         "pickedOff": 3
       },
@@ -4772,9 +4772,9 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "jersey": "53",
         "profileUrl": "https://utahutes.com/sports/baseball/roster/jet-gilliam/17044",
         "imageUrl": "https://utahutes.com/images/2026/4/8/Gilliam__Jet_01.JPG",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "putouts": 137,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "putouts": 144,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -4784,39 +4784,39 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 137
+        "totalChances": 144
       },
       "evaluation": {
-        "score": 70,
+        "score": 68,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 94.44444444444444,
-          "Power": 49.47368421052632,
-          "Contact": 92.5,
-          "Discipline": 51.85185185185184,
+          "On-base": 92.22222222222221,
+          "Power": 47.36842105263158,
+          "Contact": 88.75,
+          "Discipline": 50.94850948509485,
           "Speed": 33.33333333333333
         },
         "summary": "Jet Gilliam profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .368",
-          "OBP .450",
-          "SLG .508"
+          "AVG .362",
+          "OBP .446",
+          "SLG .500"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".368"
+            "value": ".362"
           },
           {
             "label": "OBP",
-            "value": ".450"
+            "value": ".446"
           },
           {
             "label": "SLG",
-            "value": ".508"
+            "value": ".500"
           },
           {
             "label": "HR",
@@ -4928,29 +4928,29 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "position": "INF",
         "classYear": "R-SR",
         "handedness": "L/R",
-        "score": 38,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Matt Flaharty gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .308",
-          "OBP .359",
-          "SLG .473"
+          "AVG .306",
+          "OBP .356",
+          "SLG .468"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".308"
+            "value": ".306"
           },
           {
             "label": "OBP",
-            "value": ".359"
+            "value": ".356"
           },
           {
             "label": "SLG",
-            "value": ".473"
+            "value": ".468"
           },
           {
             "label": "HR",
@@ -4966,9 +4966,9 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           }
         ],
         "components": {
-          "On-base": 43.888888888888864,
-          "Power": 40.26315789473684,
-          "Contact": 54.99999999999999,
+          "On-base": 42.2222222222222,
+          "Power": 38.947368421052644,
+          "Contact": 53.75,
           "Discipline": 11.965811965811964,
           "Speed": 23.333333333333332
         },
@@ -5066,29 +5066,29 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 15,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nevan Noonan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .198",
-          "OBP .323",
-          "SLG .358"
+          "AVG .188",
+          "OBP .311",
+          "SLG .341"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".198"
+            "value": ".188"
           },
           {
             "label": "OBP",
-            "value": ".323"
+            "value": ".311"
           },
           {
             "label": "SLG",
-            "value": ".358"
+            "value": ".341"
           },
           {
             "label": "HR",
@@ -5104,10 +5104,10 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           }
         ],
         "components": {
-          "On-base": 23.88888888888888,
-          "Power": 9.999999999999995,
+          "On-base": 17.222222222222207,
+          "Power": 5.526315789473689,
           "Contact": 0,
-          "Discipline": 27.777777777777775,
+          "Discipline": 25.39682539682539,
           "Speed": 6.666666666666667
         },
         "metaLine": "SR / R/R",
@@ -5140,43 +5140,43 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cameron Nielson looks like a RHP option who throws enough strikes.",
+        "summary": "Cameron Nielson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.25",
-          "WHIP 1.75",
-          "K/9 8.3"
+          "ERA 6.20",
+          "WHIP 1.86",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.25"
+            "value": "6.20"
           },
           {
             "label": "WHIP",
-            "value": "1.75"
+            "value": "1.86"
           },
           {
             "label": "K/9",
-            "value": "8.3"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
-            "value": "1.13"
+            "value": "1.09"
           },
           {
             "label": "IP",
-            "value": "24.0"
+            "value": "24.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 38.63636363636363,
-          "Command": 35,
+          "Miss bats": 39.92628992628992,
+          "Command": 31.111111111111107,
           "Damage suppression": 0
         },
         "metaLine": "R-SO / R/R",
@@ -5341,29 +5341,29 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 77,
+        "score": 79,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Jake Long profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .369",
-          "OBP .442",
-          "SLG .617"
+          "AVG .374",
+          "OBP .445",
+          "SLG .626"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".369"
+            "value": ".374"
           },
           {
             "label": "OBP",
-            "value": ".442"
+            "value": ".445"
           },
           {
             "label": "SLG",
-            "value": ".617"
+            "value": ".626"
           },
           {
             "label": "HR",
@@ -5371,7 +5371,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           },
           {
             "label": "RBI",
-            "value": "56"
+            "value": "58"
           },
           {
             "label": "SB",
@@ -5379,9 +5379,9 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           }
         ],
         "components": {
-          "On-base": 89.99999999999999,
-          "Power": 78.15789473684211,
-          "Contact": 93.12499999999999,
+          "On-base": 91.66666666666666,
+          "Power": 80.52631578947368,
+          "Contact": 96.25,
           "Discipline": 67.38351254480285,
           "Speed": 16.666666666666664
         },
@@ -5486,14 +5486,14 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         },
         "summary": "Ryan Kittredge gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.40",
+          "ERA 6.75",
           "WHIP 1.95",
-          "K/9 6.1"
+          "K/9 5.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.40"
+            "value": "6.75"
           },
           {
             "label": "WHIP",
@@ -5501,25 +5501,25 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           },
           {
             "label": "K/9",
-            "value": "6.1"
+            "value": "5.9"
           },
           {
             "label": "BB/9",
-            "value": "3.6"
+            "value": "3.5"
           },
           {
             "label": "HR/9",
-            "value": "1.95"
+            "value": "1.89"
           },
           {
             "label": "IP",
-            "value": "32.3"
+            "value": "33.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 19.306466729147136,
+          "Miss bats": 17.63636363636363,
           "Command": 13.846153846153847,
           "Damage suppression": 0
         },
@@ -5548,48 +5548,48 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "position": "INF/RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Justin Abercrombie gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.86",
-          "WHIP 1.86",
-          "K/9 8.2"
+          "ERA 7.48",
+          "WHIP 1.81",
+          "K/9 7.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.86"
+            "value": "7.48"
           },
           {
             "label": "WHIP",
-            "value": "1.86"
+            "value": "1.81"
           },
           {
             "label": "K/9",
-            "value": "8.2"
+            "value": "7.8"
           },
           {
             "label": "BB/9",
-            "value": "4.4"
+            "value": "4.6"
           },
           {
             "label": "HR/9",
-            "value": "2.39"
+            "value": "2.28"
           },
           {
             "label": "IP",
-            "value": "26.3"
+            "value": "27.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 38.20483314154201,
-          "Command": 16.923076923076923,
+          "Miss bats": 34.61117196056955,
+          "Command": 14.285714285714285,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -5617,48 +5617,48 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "position": "INF/RHP",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 8,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Demitri Diamant looks like a INF/RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.16",
-          "WHIP 1.38",
-          "K/9 6.8"
+          "ERA 2.93",
+          "WHIP 1.40",
+          "K/9 6.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.16"
+            "value": "2.93"
           },
           {
             "label": "WHIP",
-            "value": "1.38"
+            "value": "1.40"
           },
           {
             "label": "K/9",
-            "value": "6.8"
+            "value": "6.3"
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "4.3"
           },
           {
             "label": "HR/9",
-            "value": "1.46"
+            "value": "1.35"
           },
           {
             "label": "IP",
-            "value": "37.0"
+            "value": "40.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 25.55282555282555,
-          "Command": 14.999999999999996,
+          "Miss bats": 20.909090909090907,
+          "Command": 9.473684210526315,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / R/R",
@@ -5691,20 +5691,20 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Kaden Soder looks like a RHP option who misses bats and keeps traffic under control.",
+        "summary": "Kaden Soder looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.03",
-          "WHIP 1.21",
+          "ERA 4.84",
+          "WHIP 1.34",
           "K/9 11.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.03"
+            "value": "4.84"
           },
           {
             "label": "WHIP",
-            "value": "1.21"
+            "value": "1.34"
           },
           {
             "label": "K/9",
@@ -5962,29 +5962,29 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 29,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Daniel Arambula gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .273",
-          "OBP .349",
-          "SLG .405"
+          "AVG .268",
+          "OBP .346",
+          "SLG .397"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".273"
+            "value": ".268"
           },
           {
             "label": "OBP",
-            "value": ".349"
+            "value": ".346"
           },
           {
             "label": "SLG",
-            "value": ".405"
+            "value": ".397"
           },
           {
             "label": "HR",
@@ -6000,10 +6000,10 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           }
         ],
         "components": {
-          "On-base": 38.33333333333331,
-          "Power": 22.368421052631586,
-          "Contact": 33.12500000000001,
-          "Discipline": 28.282828282828277,
+          "On-base": 36.666666666666636,
+          "Power": 20.26315789473685,
+          "Contact": 30.00000000000001,
+          "Discipline": 28.502415458937193,
           "Speed": 10
         },
         "metaLine": "SO / R/R",
@@ -6100,37 +6100,37 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 43,
+        "score": 46,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Luke Jacobs gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .290",
-          "OBP .372",
-          "SLG .522"
+          "AVG .297",
+          "OBP .377",
+          "SLG .538"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".297"
           },
           {
             "label": "OBP",
-            "value": ".372"
+            "value": ".377"
           },
           {
             "label": "SLG",
-            "value": ".522"
+            "value": ".538"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "38"
+            "value": "39"
           },
           {
             "label": "SB",
@@ -6138,9 +6138,9 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           }
         ],
         "components": {
-          "On-base": 51.11111111111109,
-          "Power": 53.15789473684212,
-          "Contact": 43.749999999999986,
+          "On-base": 53.88888888888887,
+          "Power": 57.36842105263159,
+          "Contact": 48.12499999999999,
           "Discipline": 31.111111111111107,
           "Speed": 3.3333333333333335
         },
@@ -6169,7 +6169,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "L/R",
-        "score": 67,
+        "score": 66,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
@@ -6177,8 +6177,8 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "summary": "Cal Miller profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
           "AVG .345",
-          "OBP .449",
-          "SLG .539"
+          "OBP .446",
+          "SLG .536"
         ],
         "statCards": [
           {
@@ -6187,11 +6187,11 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           },
           {
             "label": "OBP",
-            "value": ".449"
+            "value": ".446"
           },
           {
             "label": "SLG",
-            "value": ".539"
+            "value": ".536"
           },
           {
             "label": "HR",
@@ -6199,7 +6199,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -6207,8 +6207,8 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           }
         ],
         "components": {
-          "On-base": 93.88888888888889,
-          "Power": 57.63157894736843,
+          "On-base": 92.22222222222221,
+          "Power": 56.842105263157904,
           "Contact": 78.12499999999997,
           "Discipline": 52.85285285285284,
           "Speed": 3.3333333333333335
@@ -6238,29 +6238,29 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "position": "C",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 7,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Derek Smith gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .163",
-          "OBP .306",
-          "SLG .338"
+          "AVG .167",
+          "OBP .304",
+          "SLG .333"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".163"
+            "value": ".167"
           },
           {
             "label": "OBP",
-            "value": ".306"
+            "value": ".304"
           },
           {
             "label": "SLG",
-            "value": ".338"
+            "value": ".333"
           },
           {
             "label": "HR",
@@ -6276,10 +6276,10 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           }
         ],
         "components": {
-          "On-base": 14.444444444444427,
-          "Power": 4.736842105263163,
+          "On-base": 13.333333333333314,
+          "Power": 3.421052631578951,
           "Contact": 0,
-          "Discipline": 2.777777777777777,
+          "Discipline": 1.5873015873015843,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / R/R",
@@ -6376,21 +6376,21 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 9,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ian Culver gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.61",
+          "ERA 6.23",
           "WHIP 2.08",
-          "K/9 8.3"
+          "K/9 7.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.61"
+            "value": "6.23"
           },
           {
             "label": "WHIP",
@@ -6398,25 +6398,25 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           },
           {
             "label": "K/9",
-            "value": "8.3"
+            "value": "7.8"
           },
           {
             "label": "BB/9",
-            "value": "5.5"
+            "value": "5.2"
           },
           {
             "label": "HR/9",
-            "value": "2.76"
+            "value": "2.60"
           },
           {
             "label": "IP",
-            "value": "16.3"
+            "value": "17.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 38.775510204081634,
+          "Miss bats": 34.44055944055945,
           "Command": 10,
           "Damage suppression": 0
         },
@@ -6583,7 +6583,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "position": "C",
         "classYear": "FR",
         "handedness": "L/R",
-        "score": 21,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -6591,8 +6591,8 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "summary": "Blake Eckerle gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .259",
-          "OBP .328",
-          "SLG .352"
+          "OBP .323",
+          "SLG .345"
         ],
         "statCards": [
           {
@@ -6601,11 +6601,11 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           },
           {
             "label": "OBP",
-            "value": ".328"
+            "value": ".323"
           },
           {
             "label": "SLG",
-            "value": ".352"
+            "value": ".345"
           },
           {
             "label": "HR",
@@ -6617,15 +6617,15 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "4"
           }
         ],
         "components": {
-          "On-base": 26.66666666666666,
-          "Power": 8.421052631578942,
+          "On-base": 23.88888888888888,
+          "Power": 6.578947368421045,
           "Contact": 24.375000000000004,
           "Discipline": 33.33333333333333,
-          "Speed": 10
+          "Speed": 13.333333333333334
         },
         "metaLine": "FR / L/R",
         "detailBadges": [
@@ -6652,47 +6652,47 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 3,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Easton Jones looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.72",
-          "WHIP 1.66",
-          "K/9 5.6"
+          "ERA 3.37",
+          "WHIP 1.50",
+          "K/9 5.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.72"
+            "value": "3.37"
           },
           {
             "label": "WHIP",
-            "value": "1.66"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "5.6"
+            "value": "5.1"
           },
           {
             "label": "BB/9",
-            "value": "5.6"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
-            "value": "0.93"
+            "value": "0.84"
           },
           {
             "label": "IP",
-            "value": "9.7"
+            "value": "10.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 14.420062695924765,
+          "Miss bats": 9.659090909090908,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -6796,41 +6796,41 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         },
         "summary": "Dylan Gazaway gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 1.64",
-          "K/9 8.5"
+          "ERA 7.05",
+          "WHIP 1.65",
+          "K/9 8.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "7.05"
           },
           {
             "label": "WHIP",
-            "value": "1.64"
+            "value": "1.65"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "8.3"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
-            "value": "2.50"
+            "value": "2.68"
           },
           {
             "label": "IP",
-            "value": "36.0"
+            "value": "37.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 40.909090909090914,
-          "Command": 13.999999999999998,
+          "Miss bats": 38.82063882063882,
+          "Command": 12.380952380952381,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -7134,29 +7134,29 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 70,
+        "score": 68,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Jet Gilliam profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .368",
-          "OBP .450",
-          "SLG .508"
+          "AVG .362",
+          "OBP .446",
+          "SLG .500"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".368"
+            "value": ".362"
           },
           {
             "label": "OBP",
-            "value": ".450"
+            "value": ".446"
           },
           {
             "label": "SLG",
-            "value": ".508"
+            "value": ".500"
           },
           {
             "label": "HR",
@@ -7172,10 +7172,10 @@ window.__BASEBALL_DATASETS__.utah2026 = {
           }
         ],
         "components": {
-          "On-base": 94.44444444444444,
-          "Power": 49.47368421052632,
-          "Contact": 92.5,
-          "Discipline": 51.85185185185184,
+          "On-base": 92.22222222222221,
+          "Power": 47.36842105263158,
+          "Contact": 88.75,
+          "Discipline": 50.94850948509485,
           "Speed": 33.33333333333333
         },
         "metaLine": "JR / R/R",

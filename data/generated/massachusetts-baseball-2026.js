@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.massachusetts2026 = {
-  "generatedAt": "2026-05-19T13:31:59.725Z",
+  "generatedAt": "2026-05-20T12:40:23.042Z",
   "season": 2026,
   "school": {
     "slug": "massachusetts",
@@ -55,7 +55,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
       "walks": "228",
       "intentionalWalks": "5",
       "strikeouts": "395",
-      "strikeoutsLooking": "115",
+      "strikeoutsLooking": "122",
       "hitByPitch": "61",
       "stolenBases": "82",
       "caughtStealing": "21",
@@ -66,7 +66,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
       "reachesOnAFieldersChoice": "0",
       "groundOuts": "332",
       "flyOuts": "431",
-      "groundedIntoDoublePlay": "23",
+      "groundedIntoDoublePlay": "22",
       "pickedOff": "5",
       "doublePlaysHitInto": "30",
       "triplePlaysHitInto": "0"
@@ -107,7 +107,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
       "wildPitches": "44",
       "balks": "5",
       "hitBatters": "83",
-      "strikeoutsLooking": "111",
+      "strikeoutsLooking": "115",
       "intentionalWalks": "0",
       "inheritedRunners": "58",
       "inheritedRunnersThatScored": "24",
@@ -1168,7 +1168,7 @@ window.__BASEBALL_DATASETS__.massachusetts2026 = {
         "hitByPitch": 4,
         "strikeouts": 37,
         "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 2,
+        "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 3,
         "sacrificeHits": 1,
         "stolenBases": 11,
