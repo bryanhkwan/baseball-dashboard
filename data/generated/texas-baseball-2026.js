@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.texas2026 = {
-  "generatedAt": "2026-05-20T12:41:48.644Z",
+  "generatedAt": "2026-05-21T13:33:15.275Z",
   "season": 2026,
   "school": {
     "slug": "texas",
@@ -25,7 +25,7 @@ window.__BASEBALL_DATASETS__.texas2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 41,
+    "rosterPlayers": 39,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 17,
     "playersWithPitchingStats": 17,
@@ -1994,94 +1994,6 @@ window.__BASEBALL_DATASETS__.texas2026 = {
           "Hitter"
         ],
         "sourceSummary": "Texas Athletics roster + Texas cumulative stats"
-      }
-    },
-    {
-      "id": "texas-15066",
-      "schoolSlug": "texas",
-      "school": "Texas",
-      "schoolLongName": "University of Texas",
-      "name": "Will Hill",
-      "normalizedName": "will hill",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "17",
-      "hometown": "Humble, Texas",
-      "highSchool": "Summer Creek",
-      "previousSchool": "",
-      "hometownHighSchool": "Humble, Texas / Summer Creek",
-      "profileUrl": "https://texassports.com/sports/baseball/roster/will-hill/15066",
-      "imageUrl": "https://texaslonghorns.com/images/2025/12/8/Hill_Will_Cropped-2026_u0NkT.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "15066",
-      "sources": [
-        "Texas Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Will Hill gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "OF",
-          "FR",
-          "R/R",
-          "Rostered"
-        ],
-        "sourceSummary": "Texas Athletics roster"
       }
     },
     {
@@ -5329,94 +5241,6 @@ window.__BASEBALL_DATASETS__.texas2026 = {
       }
     },
     {
-      "id": "texas-15095",
-      "schoolSlug": "texas",
-      "school": "Texas",
-      "schoolLongName": "University of Texas",
-      "name": "Jadyn Furgason",
-      "normalizedName": "jadyn furgason",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "95",
-      "hometown": "St. Louis, Mo.",
-      "highSchool": "St. John Vianney",
-      "previousSchool": "",
-      "hometownHighSchool": "St. Louis, Mo. / St. John Vianney",
-      "profileUrl": "https://texassports.com/sports/baseball/roster/jadyn-furgason/15095",
-      "imageUrl": "https://texaslonghorns.com/images/2025/12/8/Furgason_Jadyn_Cropped-2026_QTQ2a.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "15095",
-      "sources": [
-        "Texas Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Jadyn Furgason looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Texas Athletics roster"
-      }
-    },
-    {
       "id": "texas-15096",
       "schoolSlug": "texas",
       "school": "Texas",
@@ -5562,10 +5386,10 @@ window.__BASEBALL_DATASETS__.texas2026 = {
   "playerBoard": {
     "source": "Texas Athletics roster + cumulative stats / ESPN roster",
     "note": "This Texas-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Texas's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 41,
+    "totalPlayers": 39,
     "roleCounts": {
-      "Hitter": 18,
-      "Pitcher": 23
+      "Hitter": 17,
+      "Pitcher": 22
     },
     "players": [
       {
@@ -6463,74 +6287,6 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "schoolSlug": "texas",
         "compositeRole": "Hitter",
         "profileUrl": "https://texassports.com/sports/baseball/roster/josh-livingston/15065",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "texas-15066",
-        "name": "Will Hill",
-        "school": "Texas",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Will Hill gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "OF",
-          "FR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Texas Athletics roster"
-        ],
-        "sourceSummary": "Texas Athletics roster",
-        "schoolSlug": "texas",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://texassports.com/sports/baseball/roster/will-hill/15066",
         "espnAthleteId": ""
       },
       {
@@ -8251,74 +8007,6 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "schoolSlug": "texas",
         "compositeRole": "Pitcher",
         "profileUrl": "https://texassports.com/sports/baseball/roster/brett-crossland/15094",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "texas-15095",
-        "name": "Jadyn Furgason",
-        "school": "Texas",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jadyn Furgason looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Texas Athletics roster"
-        ],
-        "sourceSummary": "Texas Athletics roster",
-        "schoolSlug": "texas",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://texassports.com/sports/baseball/roster/jadyn-furgason/15095",
         "espnAthleteId": ""
       },
       {

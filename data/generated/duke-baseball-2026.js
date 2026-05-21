@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.duke2026 = {
-  "generatedAt": "2026-05-20T12:40:00.737Z",
+  "generatedAt": "2026-05-21T13:32:31.507Z",
   "season": 2026,
   "school": {
     "slug": "duke",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.duke2026 = {
     }
   },
   "teamSummary": {
-    "record": "26-30, 10-20",
-    "battingAverage": ".273",
-    "earnedRunAverage": "6.87",
+    "record": "26-31, 10-20",
+    "battingAverage": ".272",
+    "earnedRunAverage": "6.86",
     "wins": "26",
-    "losses": "30",
+    "losses": "31",
     "hitting": {
-      "atBats": "1805",
-      "runsScored": "372",
-      "hits": "492",
-      "runsBattedIn": "330",
-      "doubles": "86",
-      "triples": "13",
-      "homeRuns": "78",
-      "walks": "245",
+      "atBats": "1838",
+      "runsScored": "376",
+      "hits": "500",
+      "runsBattedIn": "334",
+      "doubles": "89",
+      "triples": "14",
+      "homeRuns": "79",
+      "walks": "248",
       "intentionalWalks": "3",
-      "strikeouts": "498",
-      "strikeoutsLooking": "66",
-      "hitByPitch": "65",
-      "stolenBases": "150",
+      "strikeouts": "508",
+      "strikeoutsLooking": "68",
+      "hitByPitch": "66",
+      "stolenBases": "152",
       "caughtStealing": "28",
       "sacrificeHits": "8",
       "sacrificeFlies": "21",
       "reachedOnCatchersInteference": "3",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "324",
-      "flyOuts": "450",
-      "groundedIntoDoublePlay": "29",
+      "groundOuts": "332",
+      "flyOuts": "455",
+      "groundedIntoDoublePlay": "30",
       "pickedOff": "19",
-      "doublePlaysHitInto": "33",
+      "doublePlaysHitInto": "35",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1396",
-      "assists": "505",
+      "putouts": "1420",
+      "assists": "514",
       "errors": "85",
       "passedBalls": "7",
       "catchersInterference": "1",
-      "stolenBasesAgainst": "134",
-      "caughtStealingBy": "10",
+      "stolenBasesAgainst": "136",
+      "caughtStealingBy": "12",
       "involvedInDoublePlays": "44",
       "involvedInTriplePlays": "0",
-      "totalChances": "1986",
-      "fieldingPercentage": ".957"
+      "totalChances": "2019",
+      "fieldingPercentage": ".958"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "26",
-      "saves": "50",
-      "losses": "30",
+      "saves": "51",
+      "losses": "31",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "1",
       "creditForCombinedShutout": "1",
-      "inningsPitched": "465.1",
-      "hitsAllowed": "491",
-      "runsAllowed": "417",
-      "earnedRunsAllowed": "355",
-      "walksAllowed": "289",
-      "strikeouts": "441",
-      "battersFaced": "2282",
-      "opponentAtBats": "1836",
-      "doublesAllowed": "87",
-      "triplesAllowed": "14",
-      "homerunsAllowed": "72",
+      "inningsPitched": "473.1",
+      "hitsAllowed": "499",
+      "runsAllowed": "423",
+      "earnedRunsAllowed": "361",
+      "walksAllowed": "295",
+      "strikeouts": "450",
+      "battersFaced": "2318",
+      "opponentAtBats": "1864",
+      "doublesAllowed": "89",
+      "triplesAllowed": "15",
+      "homerunsAllowed": "73",
       "wildPitches": "43",
       "balks": "11",
-      "hitBatters": "114",
-      "strikeoutsLooking": "59",
+      "hitBatters": "116",
+      "strikeoutsLooking": "60",
       "intentionalWalks": "5",
-      "inheritedRunners": "201",
-      "inheritedRunnersThatScored": "98",
+      "inheritedRunners": "205",
+      "inheritedRunnersThatScored": "100",
       "sacrificeHitsAllowed": "18",
       "sacrificeFliesAllowed": "22",
       "catchersInterferenceAllowed": "0",
-      "pitches": "8782",
-      "flyouts": "422",
-      "groundouts": "457",
+      "pitches": "8937",
+      "flyouts": "429",
+      "groundouts": "461",
       "teamUnearnedRuns": "0",
       "saveRecord": "7",
       "pickoff": "0"
@@ -306,23 +306,23 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "jersey": "2",
         "profileUrl": "https://goduke.com/sports/baseball/roster/adin-zorn/24042",
         "imageUrl": "https://goduke.com/images/2025/12/16/AdinZorn.png",
-        "gamesPlayed": 27,
-        "gamesStarted": 25,
-        "battingAverage": 0.232,
-        "onBasePercentage": 0.276,
-        "sluggingPercentage": 0.343,
-        "ops": 0.619,
-        "atBats": 99,
+        "gamesPlayed": 28,
+        "gamesStarted": 26,
+        "battingAverage": 0.233,
+        "onBasePercentage": 0.275,
+        "sluggingPercentage": 0.34,
+        "ops": 0.615,
+        "atBats": 103,
         "runs": 11,
-        "hits": 23,
+        "hits": 24,
         "doubles": 5,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 15,
-        "totalBases": 34,
+        "totalBases": 35,
         "walks": 6,
         "hitByPitch": 0,
-        "strikeouts": 14,
+        "strikeouts": 16,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 0,
@@ -332,7 +332,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "putouts": 38,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 106,
+        "plateAppearances": 110,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -359,36 +359,36 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "totalChances": 39
       },
       "evaluation": {
-        "score": 7,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
           "On-base": 0,
-          "Power": 6.052631578947374,
-          "Contact": 7.500000000000007,
-          "Discipline": 25.39682539682539,
+          "Power": 5.263157894736848,
+          "Contact": 8.125000000000007,
+          "Discipline": 19.44444444444444,
           "Speed": 3.3333333333333335
         },
         "summary": "Adin Zorn gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .232",
-          "OBP .276",
-          "SLG .343"
+          "AVG .233",
+          "OBP .275",
+          "SLG .340"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".232"
+            "value": ".233"
           },
           {
             "label": "OBP",
-            "value": ".276"
+            "value": ".275"
           },
           {
             "label": "SLG",
-            "value": ".343"
+            "value": ".340"
           },
           {
             "label": "HR",
@@ -451,14 +451,14 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "jersey": "3",
         "profileUrl": "https://goduke.com/sports/baseball/roster/coltin-quagliano/24043",
         "imageUrl": "https://goduke.com/images/2025/12/16/ColtinQuagliano.png",
-        "gamesPlayed": 55,
-        "gamesStarted": 55,
-        "battingAverage": 0.264,
-        "onBasePercentage": 0.345,
-        "sluggingPercentage": 0.313,
-        "ops": 0.658,
-        "atBats": 182,
-        "runs": 41,
+        "gamesPlayed": 56,
+        "gamesStarted": 56,
+        "battingAverage": 0.258,
+        "onBasePercentage": 0.338,
+        "sluggingPercentage": 0.306,
+        "ops": 0.644,
+        "atBats": 186,
+        "runs": 42,
         "hits": 48,
         "doubles": 6,
         "triples": 0,
@@ -469,7 +469,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "hitByPitch": 5,
         "strikeouts": 37,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 4,
+        "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 1,
         "sacrificeHits": 3,
         "stolenBases": 7,
@@ -477,7 +477,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "putouts": 33,
         "assists": 0,
         "errors": 11,
-        "plateAppearances": 223,
+        "plateAppearances": 227,
         "caughtStealing": 3,
         "pickedOff": 2
       },
@@ -504,36 +504,36 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "totalChances": 160
       },
       "evaluation": {
-        "score": 23,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 36.111111111111086,
+          "On-base": 32.22222222222222,
           "Power": 0,
-          "Contact": 27.500000000000007,
+          "Contact": 23.750000000000004,
           "Discipline": 31.83183183183183,
           "Speed": 23.333333333333332
         },
         "summary": "Coltin Quagliano gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .264",
-          "OBP .345",
-          "SLG .313"
+          "AVG .258",
+          "OBP .338",
+          "SLG .306"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".264"
+            "value": ".258"
           },
           {
             "label": "OBP",
-            "value": ".345"
+            "value": ".338"
           },
           {
             "label": "SLG",
-            "value": ".313"
+            "value": ".306"
           },
           {
             "label": "HR",
@@ -596,21 +596,21 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "jersey": "4",
         "profileUrl": "https://goduke.com/sports/baseball/roster/tyler-albright/24028",
         "imageUrl": "https://goduke.com/images/2025/12/16/TylerAlbright.png",
-        "gamesPlayed": 49,
-        "gamesStarted": 47,
-        "battingAverage": 0.232,
-        "onBasePercentage": 0.447,
-        "sluggingPercentage": 0.341,
-        "ops": 0.788,
-        "atBats": 138,
-        "runs": 32,
-        "hits": 32,
+        "gamesPlayed": 50,
+        "gamesStarted": 48,
+        "battingAverage": 0.241,
+        "onBasePercentage": 0.453,
+        "sluggingPercentage": 0.369,
+        "ops": 0.822,
+        "atBats": 141,
+        "runs": 33,
+        "hits": 34,
         "doubles": 6,
         "triples": 0,
-        "homeRuns": 3,
-        "runsBattedIn": 25,
-        "totalBases": 47,
-        "walks": 49,
+        "homeRuns": 4,
+        "runsBattedIn": 27,
+        "totalBases": 52,
+        "walks": 50,
         "hitByPitch": 7,
         "strikeouts": 51,
         "intentionalWalks": 1,
@@ -619,10 +619,10 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "sacrificeHits": 1,
         "stolenBases": 21,
         "stolenBasesAttempts": 26,
-        "putouts": 90,
+        "putouts": 93,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 229,
+        "plateAppearances": 233,
         "caughtStealing": 5,
         "pickedOff": 6
       },
@@ -634,59 +634,59 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "jersey": "4",
         "profileUrl": "https://goduke.com/sports/baseball/roster/tyler-albright/24028",
         "imageUrl": "https://goduke.com/images/2025/12/16/TylerAlbright.png",
-        "gamesPlayed": 39,
-        "gamesStarted": 38,
-        "putouts": 90,
-        "assists": 1,
+        "gamesPlayed": 40,
+        "gamesStarted": 39,
+        "putouts": 93,
+        "assists": 2,
         "errors": 2,
-        "fieldingPercentage": 0.978,
+        "fieldingPercentage": 0.979,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 93
+        "totalChances": 97
       },
       "evaluation": {
-        "score": 51,
+        "score": 56,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 92.77777777777777,
-          "Power": 5.526315789473689,
-          "Contact": 7.500000000000007,
-          "Discipline": 84.53159041394333,
+          "On-base": 96.1111111111111,
+          "Power": 12.894736842105262,
+          "Contact": 13.124999999999995,
+          "Discipline": 86.7102396514161,
           "Speed": 70
         },
         "summary": "Tyler Albright profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .232",
-          "OBP .447",
-          "SLG .341"
+          "AVG .241",
+          "OBP .453",
+          "SLG .369"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".232"
+            "value": ".241"
           },
           {
             "label": "OBP",
-            "value": ".447"
+            "value": ".453"
           },
           {
             "label": "SLG",
-            "value": ".341"
+            "value": ".369"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "4"
           },
           {
             "label": "RBI",
-            "value": "25"
+            "value": "27"
           },
           {
             "label": "SB",
@@ -741,33 +741,33 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "jersey": "5",
         "profileUrl": "https://goduke.com/sports/baseball/roster/matthew-strand/24044",
         "imageUrl": "https://goduke.com/images/2025/12/16/MatthewStrand.png",
-        "gamesPlayed": 46,
-        "gamesStarted": 46,
+        "gamesPlayed": 47,
+        "gamesStarted": 47,
         "battingAverage": 0.316,
-        "onBasePercentage": 0.396,
-        "sluggingPercentage": 0.626,
-        "ops": 1.022,
-        "atBats": 171,
+        "onBasePercentage": 0.398,
+        "sluggingPercentage": 0.632,
+        "ops": 1.03,
+        "atBats": 174,
         "runs": 35,
-        "hits": 54,
+        "hits": 55,
         "doubles": 9,
-        "triples": 1,
+        "triples": 2,
         "homeRuns": 14,
-        "runsBattedIn": 44,
-        "totalBases": 107,
-        "walks": 21,
+        "runsBattedIn": 45,
+        "totalBases": 110,
+        "walks": 22,
         "hitByPitch": 3,
-        "strikeouts": 50,
+        "strikeouts": 51,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 15,
         "stolenBasesAttempts": 15,
-        "putouts": 340,
+        "putouts": 349,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 212,
+        "plateAppearances": 216,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -779,38 +779,38 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "jersey": "5",
         "profileUrl": "https://goduke.com/sports/baseball/roster/matthew-strand/24044",
         "imageUrl": "https://goduke.com/images/2025/12/16/MatthewStrand.png",
-        "gamesPlayed": 46,
-        "gamesStarted": 46,
-        "putouts": 340,
-        "assists": 22,
+        "gamesPlayed": 47,
+        "gamesStarted": 47,
+        "putouts": 349,
+        "assists": 25,
         "errors": 6,
         "fieldingPercentage": 0.984,
         "doublePlays": 0,
-        "stolenBasesAgainst": 124,
-        "caughtStealingBy": 6,
+        "stolenBasesAgainst": 126,
+        "caughtStealingBy": 8,
         "stolenBasesPercentage": null,
         "passedBalls": 5,
         "catchersInterference": 1,
-        "totalChances": 368
+        "totalChances": 380
       },
       "evaluation": {
-        "score": 61,
+        "score": 62,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 64.44444444444444,
-          "Power": 80.52631578947368,
+          "On-base": 65.55555555555556,
+          "Power": 82.10526315789475,
           "Contact": 60,
-          "Discipline": 24.44444444444444,
+          "Discipline": 25.708061002178646,
           "Speed": 50
         },
         "summary": "Matthew Strand profiles as a C piece who brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .316",
-          "OBP .396",
-          "SLG .626"
+          "OBP .398",
+          "SLG .632"
         ],
         "statCards": [
           {
@@ -819,11 +819,11 @@ window.__BASEBALL_DATASETS__.duke2026 = {
           },
           {
             "label": "OBP",
-            "value": ".396"
+            "value": ".398"
           },
           {
             "label": "SLG",
-            "value": ".626"
+            "value": ".632"
           },
           {
             "label": "HR",
@@ -831,7 +831,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
           },
           {
             "label": "RBI",
-            "value": "44"
+            "value": "45"
           },
           {
             "label": "SB",
@@ -886,13 +886,13 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "jersey": "6",
         "profileUrl": "https://goduke.com/sports/baseball/roster/jake-lambdin/24045",
         "imageUrl": "https://goduke.com/images/2025/12/16/JakeLambdin.png",
-        "gamesPlayed": 55,
-        "gamesStarted": 55,
-        "battingAverage": 0.281,
-        "onBasePercentage": 0.383,
-        "sluggingPercentage": 0.503,
-        "ops": 0.886,
-        "atBats": 199,
+        "gamesPlayed": 56,
+        "gamesStarted": 56,
+        "battingAverage": 0.275,
+        "onBasePercentage": 0.375,
+        "sluggingPercentage": 0.49,
+        "ops": 0.865,
+        "atBats": 204,
         "runs": 50,
         "hits": 56,
         "doubles": 18,
@@ -902,17 +902,17 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "totalBases": 100,
         "walks": 25,
         "hitByPitch": 9,
-        "strikeouts": 43,
+        "strikeouts": 46,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 20,
         "stolenBasesAttempts": 24,
-        "putouts": 91,
+        "putouts": 94,
         "assists": 0,
         "errors": 19,
-        "plateAppearances": 265,
+        "plateAppearances": 270,
         "caughtStealing": 4,
         "pickedOff": 3
       },
@@ -924,51 +924,51 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "jersey": "6",
         "profileUrl": "https://goduke.com/sports/baseball/roster/jake-lambdin/24045",
         "imageUrl": "https://goduke.com/images/2025/12/16/JakeLambdin.png",
-        "gamesPlayed": 55,
-        "gamesStarted": 55,
-        "putouts": 91,
-        "assists": 140,
+        "gamesPlayed": 56,
+        "gamesStarted": 56,
+        "putouts": 94,
+        "assists": 141,
         "errors": 19,
-        "fieldingPercentage": 0.924,
+        "fieldingPercentage": 0.925,
         "doublePlays": 23,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 250
+        "totalChances": 254
       },
       "evaluation": {
-        "score": 50,
+        "score": 47,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 57.22222222222222,
-          "Power": 48.15789473684211,
-          "Contact": 38.125000000000014,
-          "Discipline": 42.37726098191214,
+          "On-base": 52.77777777777777,
+          "Power": 44.73684210526316,
+          "Contact": 34.375000000000014,
+          "Discipline": 38.164251207729464,
           "Speed": 66.66666666666666
         },
         "summary": "Jake Lambdin profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .281",
-          "OBP .383",
-          "SLG .503"
+          "AVG .275",
+          "OBP .375",
+          "SLG .490"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".281"
+            "value": ".275"
           },
           {
             "label": "OBP",
-            "value": ".383"
+            "value": ".375"
           },
           {
             "label": "SLG",
-            "value": ".503"
+            "value": ".490"
           },
           {
             "label": "HR",
@@ -1173,33 +1173,33 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "jersey": "8",
         "profileUrl": "https://goduke.com/sports/baseball/roster/rj-hamilton/24047",
         "imageUrl": "https://goduke.com/images/2025/12/16/RJHamilton.png",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "battingAverage": 0.328,
-        "onBasePercentage": 0.439,
-        "sluggingPercentage": 0.527,
-        "ops": 0.966,
-        "atBats": 186,
-        "runs": 49,
-        "hits": 61,
-        "doubles": 8,
+        "gamesPlayed": 54,
+        "gamesStarted": 54,
+        "battingAverage": 0.333,
+        "onBasePercentage": 0.444,
+        "sluggingPercentage": 0.54,
+        "ops": 0.984,
+        "atBats": 189,
+        "runs": 51,
+        "hits": 63,
+        "doubles": 10,
         "triples": 4,
         "homeRuns": 7,
         "runsBattedIn": 41,
-        "totalBases": 98,
-        "walks": 22,
+        "totalBases": 102,
+        "walks": 23,
         "hitByPitch": 17,
         "strikeouts": 45,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 3,
         "sacrificeHits": 4,
-        "stolenBases": 27,
-        "stolenBasesAttempts": 33,
-        "putouts": 87,
+        "stolenBases": 29,
+        "stolenBasesAttempts": 35,
+        "putouts": 89,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 271,
+        "plateAppearances": 277,
         "caughtStealing": 6,
         "pickedOff": 2
       },
@@ -1211,51 +1211,51 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "jersey": "8",
         "profileUrl": "https://goduke.com/sports/baseball/roster/rj-hamilton/24047",
         "imageUrl": "https://goduke.com/images/2025/12/16/RJHamilton.png",
-        "gamesPlayed": 49,
-        "gamesStarted": 49,
-        "putouts": 87,
+        "gamesPlayed": 50,
+        "gamesStarted": 50,
+        "putouts": 89,
         "assists": 43,
         "errors": 6,
-        "fieldingPercentage": 0.956,
+        "fieldingPercentage": 0.957,
         "doublePlays": 13,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 136
+        "totalChances": 138
       },
       "evaluation": {
-        "score": 68,
+        "score": 71,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 88.33333333333331,
-          "Power": 54.47368421052633,
-          "Contact": 67.5,
-          "Discipline": 32.09876543209876,
-          "Speed": 90
+          "On-base": 91.1111111111111,
+          "Power": 57.894736842105274,
+          "Contact": 70.625,
+          "Discipline": 34.56790123456789,
+          "Speed": 96.66666666666667
         },
         "summary": "RJ Hamilton profiles as a INF/OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .439",
-          "SLG .527"
+          "AVG .333",
+          "OBP .444",
+          "SLG .540"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".439"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": ".527"
+            "value": ".540"
           },
           {
             "label": "HR",
@@ -1267,7 +1267,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
           },
           {
             "label": "SB",
-            "value": "27"
+            "value": "29"
           }
         ],
         "metaLine": "JR / N/A",
@@ -1464,31 +1464,31 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "jersey": "10",
         "profileUrl": "https://goduke.com/sports/baseball/roster/aidan-weaver/24029",
         "imageUrl": "https://goduke.com/images/2025/12/16/AidanWeaver.png",
-        "gamesPlayed": 13,
-        "gamesStarted": 13,
-        "appearances": 13,
+        "gamesPlayed": 14,
+        "gamesStarted": 14,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.49,
-        "whip": 1.59,
+        "earnedRunAverage": 6.37,
+        "whip": 1.57,
         "wins": 4,
-        "losses": 8,
+        "losses": 9,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 59.666666666666664,
-        "inningsPitchedDisplay": "59.2",
-        "hitsAllowed": 63,
-        "runsAllowed": 44,
-        "earnedRunsAllowed": 43,
-        "walksAllowed": 32,
-        "strikeouts": 78,
-        "doublesAllowed": 14,
+        "inningsPitched": 65,
+        "inningsPitchedDisplay": "65.0",
+        "hitsAllowed": 66,
+        "runsAllowed": 47,
+        "earnedRunsAllowed": 46,
+        "walksAllowed": 36,
+        "strikeouts": 87,
+        "doublesAllowed": 16,
         "triplesAllowed": 0,
         "homeRunsAllowed": 8,
-        "opponentsAtBats": 239,
+        "opponentsAtBats": 255,
         "wildPitches": 7,
-        "hitBatters": 6,
+        "hitBatters": 8,
         "balks": 0,
-        "opponentsBattingAverage": 0.264,
+        "opponentsBattingAverage": 0.259,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1521,40 +1521,40 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 70.59421025901472,
-          "Command": 28.749999999999996,
+          "Miss bats": 73.14685314685315,
+          "Command": 28.333333333333332,
           "Damage suppression": 0
         },
         "summary": "Aidan Weaver looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.49",
-          "WHIP 1.59",
-          "K/9 11.8"
+          "ERA 6.37",
+          "WHIP 1.57",
+          "K/9 12.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.49"
+            "value": "6.37"
           },
           {
             "label": "WHIP",
-            "value": "1.59"
+            "value": "1.57"
           },
           {
             "label": "K/9",
-            "value": "11.8"
+            "value": "12.0"
           },
           {
             "label": "BB/9",
-            "value": "4.8"
+            "value": "5.0"
           },
           {
             "label": "HR/9",
-            "value": "1.21"
+            "value": "1.11"
           },
           {
             "label": "IP",
-            "value": "59.7"
+            "value": "65.0"
           }
         ],
         "metaLine": "SR / N/A",
@@ -3060,13 +3060,13 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "jersey": "22",
         "profileUrl": "https://goduke.com/sports/baseball/roster/brooks-perez/24055",
         "imageUrl": "https://goduke.com/images/2025/12/16/BrooksPerez.png",
-        "gamesPlayed": 40,
-        "gamesStarted": 35,
-        "battingAverage": 0.224,
-        "onBasePercentage": 0.421,
-        "sluggingPercentage": 0.336,
-        "ops": 0.757,
-        "atBats": 107,
+        "gamesPlayed": 41,
+        "gamesStarted": 36,
+        "battingAverage": 0.218,
+        "onBasePercentage": 0.416,
+        "sluggingPercentage": 0.327,
+        "ops": 0.743,
+        "atBats": 110,
         "runs": 20,
         "hits": 24,
         "doubles": 2,
@@ -3075,18 +3075,18 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "runsBattedIn": 12,
         "totalBases": 36,
         "walks": 33,
-        "hitByPitch": 4,
-        "strikeouts": 42,
+        "hitByPitch": 5,
+        "strikeouts": 44,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 14,
         "stolenBasesAttempts": 17,
-        "putouts": 286,
+        "putouts": 292,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 165,
+        "plateAppearances": 169,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -3098,9 +3098,9 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "jersey": "22",
         "profileUrl": "https://goduke.com/sports/baseball/roster/brooks-perez/24055",
         "imageUrl": "https://goduke.com/images/2025/12/16/BrooksPerez.png",
-        "gamesPlayed": 40,
-        "gamesStarted": 35,
-        "putouts": 286,
+        "gamesPlayed": 41,
+        "gamesStarted": 36,
+        "putouts": 292,
         "assists": 14,
         "errors": 4,
         "fieldingPercentage": 0.987,
@@ -3110,39 +3110,39 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 304
+        "totalChances": 310
       },
       "evaluation": {
-        "score": 40,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 78.33333333333331,
-          "Power": 4.210526315789478,
-          "Contact": 2.500000000000002,
-          "Discipline": 65.07936507936506,
+          "On-base": 75.55555555555553,
+          "Power": 1.8421052631578967,
+          "Contact": 0,
+          "Discipline": 61.11111111111111,
           "Speed": 46.666666666666664
         },
         "summary": "Brooks Perez profiles as a 1B/OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .224",
-          "OBP .421",
-          "SLG .336"
+          "AVG .218",
+          "OBP .416",
+          "SLG .327"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".224"
+            "value": ".218"
           },
           {
             "label": "OBP",
-            "value": ".421"
+            "value": ".416"
           },
           {
             "label": "SLG",
-            "value": ".336"
+            "value": ".327"
           },
           {
             "label": "HR",
@@ -4327,33 +4327,33 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "jersey": "32",
         "profileUrl": "https://goduke.com/sports/baseball/roster/collin-anderson/24064",
         "imageUrl": "https://goduke.com/images/2025/12/16/CollinAnderson.png",
-        "gamesPlayed": 43,
-        "gamesStarted": 39,
-        "battingAverage": 0.262,
-        "onBasePercentage": 0.341,
-        "sluggingPercentage": 0.436,
+        "gamesPlayed": 44,
+        "gamesStarted": 40,
+        "battingAverage": 0.261,
+        "onBasePercentage": 0.339,
+        "sluggingPercentage": 0.438,
         "ops": 0.777,
-        "atBats": 149,
+        "atBats": 153,
         "runs": 27,
-        "hits": 39,
-        "doubles": 6,
+        "hits": 40,
+        "doubles": 7,
         "triples": 1,
         "homeRuns": 6,
         "runsBattedIn": 23,
-        "totalBases": 65,
+        "totalBases": 67,
         "walks": 14,
         "hitByPitch": 5,
-        "strikeouts": 48,
+        "strikeouts": 49,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 8,
         "stolenBasesAttempts": 9,
-        "putouts": 57,
+        "putouts": 58,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 180,
+        "plateAppearances": 184,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -4365,51 +4365,51 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "jersey": "32",
         "profileUrl": "https://goduke.com/sports/baseball/roster/collin-anderson/24064",
         "imageUrl": "https://goduke.com/images/2025/12/16/CollinAnderson.png",
-        "gamesPlayed": 39,
-        "gamesStarted": 38,
-        "putouts": 57,
-        "assists": 124,
+        "gamesPlayed": 40,
+        "gamesStarted": 39,
+        "putouts": 58,
+        "assists": 127,
         "errors": 6,
-        "fieldingPercentage": 0.968,
+        "fieldingPercentage": 0.969,
         "doublePlays": 29,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 187
+        "totalChances": 191
       },
       "evaluation": {
-        "score": 28,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 33.88888888888889,
-          "Power": 30.526315789473685,
-          "Contact": 26.250000000000007,
-          "Discipline": 10.185185185185185,
+          "On-base": 32.77777777777778,
+          "Power": 31.05263157894737,
+          "Contact": 25.625000000000004,
+          "Discipline": 9.523809523809518,
           "Speed": 26.666666666666668
         },
         "summary": "Collin Anderson profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .262",
-          "OBP .341",
-          "SLG .436"
+          "AVG .261",
+          "OBP .339",
+          "SLG .438"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".262"
+            "value": ".261"
           },
           {
             "label": "OBP",
-            "value": ".341"
+            "value": ".339"
           },
           {
             "label": "SLG",
-            "value": ".436"
+            "value": ".438"
           },
           {
             "label": "HR",
@@ -4737,31 +4737,31 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "jersey": "37",
         "profileUrl": "https://goduke.com/sports/baseball/roster/jack-feehery/24036",
         "imageUrl": "https://goduke.com/images/2025/12/16/JackFeehery.png",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 0,
-        "appearances": 10,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.26,
-        "whip": 2.13,
+        "earnedRunAverage": 4.4,
+        "whip": 2.09,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 12.666666666666666,
-        "inningsPitchedDisplay": "12.2",
-        "hitsAllowed": 14,
-        "runsAllowed": 11,
-        "earnedRunsAllowed": 6,
-        "walksAllowed": 13,
+        "inningsPitched": 14.333333333333334,
+        "inningsPitchedDisplay": "14.1",
+        "hitsAllowed": 16,
+        "runsAllowed": 12,
+        "earnedRunsAllowed": 7,
+        "walksAllowed": 14,
         "strikeouts": 10,
         "doublesAllowed": 1,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 54,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 61,
         "wildPitches": 1,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.259,
+        "opponentsBattingAverage": 0.262,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4786,7 +4786,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "totalChances": 1
       },
       "evaluation": {
-        "score": 6,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4794,40 +4794,40 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 28.229665071770338,
+          "Miss bats": 20.71881606765327,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Jack Feehery gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.26",
-          "WHIP 2.13",
-          "K/9 7.1"
+          "ERA 4.40",
+          "WHIP 2.09",
+          "K/9 6.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.26"
+            "value": "4.40"
           },
           {
             "label": "WHIP",
-            "value": "2.13"
+            "value": "2.09"
           },
           {
             "label": "K/9",
-            "value": "7.1"
+            "value": "6.3"
           },
           {
             "label": "BB/9",
-            "value": "9.2"
+            "value": "8.8"
           },
           {
             "label": "HR/9",
-            "value": "0.71"
+            "value": "1.26"
           },
           {
             "label": "IP",
-            "value": "12.7"
+            "value": "14.3"
           }
         ],
         "metaLine": "SO / N/A",
@@ -4967,31 +4967,31 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "jersey": "43",
         "profileUrl": "https://goduke.com/sports/baseball/roster/marcello-mastroianni/24037",
         "imageUrl": "https://goduke.com/images/2025/12/16/MarcelloMastroianni.png",
-        "gamesPlayed": 24,
+        "gamesPlayed": 25,
         "gamesStarted": 0,
-        "appearances": 24,
+        "appearances": 25,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.47,
-        "whip": 1.59,
+        "earnedRunAverage": 6.96,
+        "whip": 1.7,
         "wins": 2,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 32,
-        "inningsPitchedDisplay": "32.0",
-        "hitsAllowed": 35,
-        "runsAllowed": 25,
-        "earnedRunsAllowed": 23,
-        "walksAllowed": 16,
+        "inningsPitched": 32.333333333333336,
+        "inningsPitchedDisplay": "32.1",
+        "hitsAllowed": 38,
+        "runsAllowed": 27,
+        "earnedRunsAllowed": 25,
+        "walksAllowed": 17,
         "strikeouts": 28,
         "doublesAllowed": 5,
-        "triplesAllowed": 1,
+        "triplesAllowed": 2,
         "homeRunsAllowed": 4,
-        "opponentsAtBats": 122,
+        "opponentsAtBats": 126,
         "wildPitches": 4,
         "hitBatters": 13,
         "balks": 3,
-        "opponentsBattingAverage": 0.287,
+        "opponentsBattingAverage": 0.302,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5024,40 +5024,40 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 35.22727272727273,
-          "Command": 15,
+          "Miss bats": 34.4892221180881,
+          "Command": 12.941176470588234,
           "Damage suppression": 0
         },
         "summary": "Marcello Mastroianni gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.47",
-          "WHIP 1.59",
-          "K/9 7.9"
+          "ERA 6.96",
+          "WHIP 1.70",
+          "K/9 7.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.47"
+            "value": "6.96"
           },
           {
             "label": "WHIP",
-            "value": "1.59"
+            "value": "1.70"
           },
           {
             "label": "K/9",
-            "value": "7.9"
+            "value": "7.8"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "4.7"
           },
           {
             "label": "HR/9",
-            "value": "1.13"
+            "value": "1.11"
           },
           {
             "label": "IP",
-            "value": "32.0"
+            "value": "32.3"
           }
         ],
         "metaLine": "JR / N/A",
@@ -5109,18 +5109,18 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "jersey": "44",
         "profileUrl": "https://goduke.com/sports/baseball/roster/jack-hedrick/24039",
         "imageUrl": "https://goduke.com/images/2025/12/16/JackHedrick.png",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 3,
-        "appearances": 15,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.91,
-        "whip": 1.7,
+        "earnedRunAverage": 6.8,
+        "whip": 1.68,
         "wins": 2,
         "losses": 0,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 41.666666666666664,
-        "inningsPitchedDisplay": "41.2",
+        "inningsPitched": 42.333333333333336,
+        "inningsPitchedDisplay": "42.1",
         "hitsAllowed": 52,
         "runsAllowed": 37,
         "earnedRunsAllowed": 32,
@@ -5129,11 +5129,11 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "doublesAllowed": 10,
         "triplesAllowed": 1,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 176,
+        "opponentsAtBats": 177,
         "wildPitches": 4,
         "hitBatters": 4,
         "balks": 1,
-        "opponentsBattingAverage": 0.295,
+        "opponentsBattingAverage": 0.294,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5143,22 +5143,22 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "jersey": "44",
         "profileUrl": "https://goduke.com/sports/baseball/roster/jack-hedrick/24039",
         "imageUrl": "https://goduke.com/images/2025/12/16/JackHedrick.png",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 0,
         "putouts": 3,
-        "assists": 3,
+        "assists": 4,
         "errors": 1,
-        "fieldingPercentage": 0.857,
+        "fieldingPercentage": 0.875,
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 7
+        "totalChances": 8
       },
       "evaluation": {
-        "score": 9,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5166,40 +5166,40 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 30.400000000000006,
+          "Miss bats": 29.348604151753754,
           "Command": 15.789473684210526,
           "Damage suppression": 0
         },
         "summary": "Jack Hedrick gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.91",
-          "WHIP 1.70",
-          "K/9 7.3"
+          "ERA 6.80",
+          "WHIP 1.68",
+          "K/9 7.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.91"
+            "value": "6.80"
           },
           {
             "label": "WHIP",
-            "value": "1.70"
+            "value": "1.68"
           },
           {
             "label": "K/9",
-            "value": "7.3"
+            "value": "7.2"
           },
           {
             "label": "BB/9",
-            "value": "4.1"
+            "value": "4.0"
           },
           {
             "label": "HR/9",
-            "value": "1.08"
+            "value": "1.06"
           },
           {
             "label": "IP",
-            "value": "41.7"
+            "value": "42.3"
           }
         ],
         "metaLine": "SO / N/A",
@@ -5659,23 +5659,23 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "jersey": "49",
         "profileUrl": "https://goduke.com/sports/baseball/roster/kaden-smith/24108",
         "imageUrl": "https://goduke.com/images/2026/1/30/KadenSmith.png",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "battingAverage": 0.288,
-        "onBasePercentage": 0.363,
-        "sluggingPercentage": 0.582,
-        "ops": 0.945,
-        "atBats": 170,
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "battingAverage": 0.287,
+        "onBasePercentage": 0.36,
+        "sluggingPercentage": 0.575,
+        "ops": 0.935,
+        "atBats": 174,
         "runs": 32,
-        "hits": 49,
+        "hits": 50,
         "doubles": 9,
         "triples": 1,
         "homeRuns": 13,
-        "runsBattedIn": 47,
-        "totalBases": 99,
+        "runsBattedIn": 48,
+        "totalBases": 100,
         "walks": 15,
         "hitByPitch": 6,
-        "strikeouts": 47,
+        "strikeouts": 48,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 2,
@@ -5685,43 +5685,43 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "putouts": 0,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 197,
+        "plateAppearances": 201,
         "caughtStealing": 1,
         "pickedOff": 0
       },
       "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
-        "score": 43,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 46.11111111111109,
-          "Power": 68.94736842105263,
-          "Contact": 42.499999999999986,
-          "Discipline": 13.238770685579196,
+          "On-base": 44.44444444444443,
+          "Power": 67.10526315789474,
+          "Contact": 41.874999999999986,
+          "Discipline": 12.499999999999996,
           "Speed": 6.666666666666667
         },
         "summary": "Kaden Smith profiles as a INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .288",
-          "OBP .363",
-          "SLG .582"
+          "AVG .287",
+          "OBP .360",
+          "SLG .575"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".288"
+            "value": ".287"
           },
           {
             "label": "OBP",
-            "value": ".363"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".582"
+            "value": ".575"
           },
           {
             "label": "HR",
@@ -5729,7 +5729,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
           },
           {
             "label": "RBI",
-            "value": "47"
+            "value": "48"
           },
           {
             "label": "SB",
@@ -6151,29 +6151,29 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 7,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Adin Zorn gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .232",
-          "OBP .276",
-          "SLG .343"
+          "AVG .233",
+          "OBP .275",
+          "SLG .340"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".232"
+            "value": ".233"
           },
           {
             "label": "OBP",
-            "value": ".276"
+            "value": ".275"
           },
           {
             "label": "SLG",
-            "value": ".343"
+            "value": ".340"
           },
           {
             "label": "HR",
@@ -6190,9 +6190,9 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         ],
         "components": {
           "On-base": 0,
-          "Power": 6.052631578947374,
-          "Contact": 7.500000000000007,
-          "Discipline": 25.39682539682539,
+          "Power": 5.263157894736848,
+          "Contact": 8.125000000000007,
+          "Discipline": 19.44444444444444,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / N/A",
@@ -6220,29 +6220,29 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "position": "INF",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 23,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Coltin Quagliano gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .264",
-          "OBP .345",
-          "SLG .313"
+          "AVG .258",
+          "OBP .338",
+          "SLG .306"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".264"
+            "value": ".258"
           },
           {
             "label": "OBP",
-            "value": ".345"
+            "value": ".338"
           },
           {
             "label": "SLG",
-            "value": ".313"
+            "value": ".306"
           },
           {
             "label": "HR",
@@ -6258,9 +6258,9 @@ window.__BASEBALL_DATASETS__.duke2026 = {
           }
         ],
         "components": {
-          "On-base": 36.111111111111086,
+          "On-base": 32.22222222222222,
           "Power": 0,
-          "Contact": 27.500000000000007,
+          "Contact": 23.750000000000004,
           "Discipline": 31.83183183183183,
           "Speed": 23.333333333333332
         },
@@ -6289,37 +6289,37 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 51,
+        "score": 56,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Tyler Albright profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .232",
-          "OBP .447",
-          "SLG .341"
+          "AVG .241",
+          "OBP .453",
+          "SLG .369"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".232"
+            "value": ".241"
           },
           {
             "label": "OBP",
-            "value": ".447"
+            "value": ".453"
           },
           {
             "label": "SLG",
-            "value": ".341"
+            "value": ".369"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "4"
           },
           {
             "label": "RBI",
-            "value": "25"
+            "value": "27"
           },
           {
             "label": "SB",
@@ -6327,10 +6327,10 @@ window.__BASEBALL_DATASETS__.duke2026 = {
           }
         ],
         "components": {
-          "On-base": 92.77777777777777,
-          "Power": 5.526315789473689,
-          "Contact": 7.500000000000007,
-          "Discipline": 84.53159041394333,
+          "On-base": 96.1111111111111,
+          "Power": 12.894736842105262,
+          "Contact": 13.124999999999995,
+          "Discipline": 86.7102396514161,
           "Speed": 70
         },
         "metaLine": "SR / N/A",
@@ -6358,7 +6358,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "position": "C",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 61,
+        "score": 62,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
@@ -6366,8 +6366,8 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "summary": "Matthew Strand profiles as a C piece who brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .316",
-          "OBP .396",
-          "SLG .626"
+          "OBP .398",
+          "SLG .632"
         ],
         "statCards": [
           {
@@ -6376,11 +6376,11 @@ window.__BASEBALL_DATASETS__.duke2026 = {
           },
           {
             "label": "OBP",
-            "value": ".396"
+            "value": ".398"
           },
           {
             "label": "SLG",
-            "value": ".626"
+            "value": ".632"
           },
           {
             "label": "HR",
@@ -6388,7 +6388,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
           },
           {
             "label": "RBI",
-            "value": "44"
+            "value": "45"
           },
           {
             "label": "SB",
@@ -6396,10 +6396,10 @@ window.__BASEBALL_DATASETS__.duke2026 = {
           }
         ],
         "components": {
-          "On-base": 64.44444444444444,
-          "Power": 80.52631578947368,
+          "On-base": 65.55555555555556,
+          "Power": 82.10526315789475,
           "Contact": 60,
-          "Discipline": 24.44444444444444,
+          "Discipline": 25.708061002178646,
           "Speed": 50
         },
         "metaLine": "GR / N/A",
@@ -6427,29 +6427,29 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 50,
+        "score": 47,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jake Lambdin profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .281",
-          "OBP .383",
-          "SLG .503"
+          "AVG .275",
+          "OBP .375",
+          "SLG .490"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".281"
+            "value": ".275"
           },
           {
             "label": "OBP",
-            "value": ".383"
+            "value": ".375"
           },
           {
             "label": "SLG",
-            "value": ".503"
+            "value": ".490"
           },
           {
             "label": "HR",
@@ -6465,10 +6465,10 @@ window.__BASEBALL_DATASETS__.duke2026 = {
           }
         ],
         "components": {
-          "On-base": 57.22222222222222,
-          "Power": 48.15789473684211,
-          "Contact": 38.125000000000014,
-          "Discipline": 42.37726098191214,
+          "On-base": 52.77777777777777,
+          "Power": 44.73684210526316,
+          "Contact": 34.375000000000014,
+          "Discipline": 38.164251207729464,
           "Speed": 66.66666666666666
         },
         "metaLine": "JR / N/A",
@@ -6565,29 +6565,29 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "position": "INF/OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 68,
+        "score": 71,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "RJ Hamilton profiles as a INF/OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .439",
-          "SLG .527"
+          "AVG .333",
+          "OBP .444",
+          "SLG .540"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".439"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": ".527"
+            "value": ".540"
           },
           {
             "label": "HR",
@@ -6599,15 +6599,15 @@ window.__BASEBALL_DATASETS__.duke2026 = {
           },
           {
             "label": "SB",
-            "value": "27"
+            "value": "29"
           }
         ],
         "components": {
-          "On-base": 88.33333333333331,
-          "Power": 54.47368421052633,
-          "Contact": 67.5,
-          "Discipline": 32.09876543209876,
-          "Speed": 90
+          "On-base": 91.1111111111111,
+          "Power": 57.894736842105274,
+          "Contact": 70.625,
+          "Discipline": 34.56790123456789,
+          "Speed": 96.66666666666667
         },
         "metaLine": "JR / N/A",
         "detailBadges": [
@@ -6710,41 +6710,41 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         },
         "summary": "Aidan Weaver looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.49",
-          "WHIP 1.59",
-          "K/9 11.8"
+          "ERA 6.37",
+          "WHIP 1.57",
+          "K/9 12.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.49"
+            "value": "6.37"
           },
           {
             "label": "WHIP",
-            "value": "1.59"
+            "value": "1.57"
           },
           {
             "label": "K/9",
-            "value": "11.8"
+            "value": "12.0"
           },
           {
             "label": "BB/9",
-            "value": "4.8"
+            "value": "5.0"
           },
           {
             "label": "HR/9",
-            "value": "1.21"
+            "value": "1.11"
           },
           {
             "label": "IP",
-            "value": "59.7"
+            "value": "65.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 70.59421025901472,
-          "Command": 28.749999999999996,
+          "Miss bats": 73.14685314685315,
+          "Command": 28.333333333333332,
           "Damage suppression": 0
         },
         "metaLine": "SR / N/A",
@@ -7529,29 +7529,29 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "position": "1B/OF",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 40,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brooks Perez profiles as a 1B/OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .224",
-          "OBP .421",
-          "SLG .336"
+          "AVG .218",
+          "OBP .416",
+          "SLG .327"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".224"
+            "value": ".218"
           },
           {
             "label": "OBP",
-            "value": ".421"
+            "value": ".416"
           },
           {
             "label": "SLG",
-            "value": ".336"
+            "value": ".327"
           },
           {
             "label": "HR",
@@ -7567,10 +7567,10 @@ window.__BASEBALL_DATASETS__.duke2026 = {
           }
         ],
         "components": {
-          "On-base": 78.33333333333331,
-          "Power": 4.210526315789478,
-          "Contact": 2.500000000000002,
-          "Discipline": 65.07936507936506,
+          "On-base": 75.55555555555553,
+          "Power": 1.8421052631578967,
+          "Contact": 0,
+          "Discipline": 61.11111111111111,
           "Speed": 46.666666666666664
         },
         "metaLine": "FR / N/A",
@@ -8150,29 +8150,29 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 28,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Collin Anderson profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .262",
-          "OBP .341",
-          "SLG .436"
+          "AVG .261",
+          "OBP .339",
+          "SLG .438"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".262"
+            "value": ".261"
           },
           {
             "label": "OBP",
-            "value": ".341"
+            "value": ".339"
           },
           {
             "label": "SLG",
-            "value": ".436"
+            "value": ".438"
           },
           {
             "label": "HR",
@@ -8188,10 +8188,10 @@ window.__BASEBALL_DATASETS__.duke2026 = {
           }
         ],
         "components": {
-          "On-base": 33.88888888888889,
-          "Power": 30.526315789473685,
-          "Contact": 26.250000000000007,
-          "Discipline": 10.185185185185185,
+          "On-base": 32.77777777777778,
+          "Power": 31.05263157894737,
+          "Contact": 25.625000000000004,
+          "Discipline": 9.523809523809518,
           "Speed": 26.666666666666668
         },
         "metaLine": "FR / N/A",
@@ -8357,47 +8357,47 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "position": "LHP",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 6,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Feehery gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.26",
-          "WHIP 2.13",
-          "K/9 7.1"
+          "ERA 4.40",
+          "WHIP 2.09",
+          "K/9 6.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.26"
+            "value": "4.40"
           },
           {
             "label": "WHIP",
-            "value": "2.13"
+            "value": "2.09"
           },
           {
             "label": "K/9",
-            "value": "7.1"
+            "value": "6.3"
           },
           {
             "label": "BB/9",
-            "value": "9.2"
+            "value": "8.8"
           },
           {
             "label": "HR/9",
-            "value": "0.71"
+            "value": "1.26"
           },
           {
             "label": "IP",
-            "value": "12.7"
+            "value": "14.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 28.229665071770338,
+          "Miss bats": 20.71881606765327,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -8501,41 +8501,41 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         },
         "summary": "Marcello Mastroianni gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.47",
-          "WHIP 1.59",
-          "K/9 7.9"
+          "ERA 6.96",
+          "WHIP 1.70",
+          "K/9 7.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.47"
+            "value": "6.96"
           },
           {
             "label": "WHIP",
-            "value": "1.59"
+            "value": "1.70"
           },
           {
             "label": "K/9",
-            "value": "7.9"
+            "value": "7.8"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "4.7"
           },
           {
             "label": "HR/9",
-            "value": "1.13"
+            "value": "1.11"
           },
           {
             "label": "IP",
-            "value": "32.0"
+            "value": "32.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 35.22727272727273,
-          "Command": 15,
+          "Miss bats": 34.4892221180881,
+          "Command": 12.941176470588234,
           "Damage suppression": 0
         },
         "metaLine": "JR / N/A",
@@ -8563,47 +8563,47 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 9,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Hedrick gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.91",
-          "WHIP 1.70",
-          "K/9 7.3"
+          "ERA 6.80",
+          "WHIP 1.68",
+          "K/9 7.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.91"
+            "value": "6.80"
           },
           {
             "label": "WHIP",
-            "value": "1.70"
+            "value": "1.68"
           },
           {
             "label": "K/9",
-            "value": "7.3"
+            "value": "7.2"
           },
           {
             "label": "BB/9",
-            "value": "4.1"
+            "value": "4.0"
           },
           {
             "label": "HR/9",
-            "value": "1.08"
+            "value": "1.06"
           },
           {
             "label": "IP",
-            "value": "41.7"
+            "value": "42.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 30.400000000000006,
+          "Miss bats": 29.348604151753754,
           "Command": 15.789473684210526,
           "Damage suppression": 0
         },
@@ -8839,29 +8839,29 @@ window.__BASEBALL_DATASETS__.duke2026 = {
         "position": "INF",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 43,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Kaden Smith profiles as a INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .288",
-          "OBP .363",
-          "SLG .582"
+          "AVG .287",
+          "OBP .360",
+          "SLG .575"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".288"
+            "value": ".287"
           },
           {
             "label": "OBP",
-            "value": ".363"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".582"
+            "value": ".575"
           },
           {
             "label": "HR",
@@ -8869,7 +8869,7 @@ window.__BASEBALL_DATASETS__.duke2026 = {
           },
           {
             "label": "RBI",
-            "value": "47"
+            "value": "48"
           },
           {
             "label": "SB",
@@ -8877,10 +8877,10 @@ window.__BASEBALL_DATASETS__.duke2026 = {
           }
         ],
         "components": {
-          "On-base": 46.11111111111109,
-          "Power": 68.94736842105263,
-          "Contact": 42.499999999999986,
-          "Discipline": 13.238770685579196,
+          "On-base": 44.44444444444443,
+          "Power": 67.10526315789474,
+          "Contact": 41.874999999999986,
+          "Discipline": 12.499999999999996,
           "Speed": 6.666666666666667
         },
         "metaLine": "GR / N/A",

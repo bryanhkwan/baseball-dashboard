@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.brown2026 = {
-  "generatedAt": "2026-05-20T12:39:34.970Z",
+  "generatedAt": "2026-05-21T13:32:20.292Z",
   "season": 2026,
   "school": {
     "slug": "brown",
@@ -27,10 +27,10 @@ window.__BASEBALL_DATASETS__.brown2026 = {
   "coverage": {
     "rosterPlayers": 40,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 16,
-    "playersWithPitchingStats": 16,
-    "playersWithFieldingStats": 26,
-    "mergedPlayersWithAnyStats": 31,
+    "playersWithHittingStats": 5,
+    "playersWithPitchingStats": 5,
+    "playersWithFieldingStats": 8,
+    "mergedPlayersWithAnyStats": 10,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
       "hitting": [],
@@ -269,13 +269,13 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       }
     },
     {
-      "id": "brown-21967",
+      "id": "brown-24041",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
       "name": "Matt Luigs",
       "normalizedName": "matt luigs",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
       "positionLong": "INF",
@@ -286,7 +286,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "Holy Innocents’ Episcopal School",
       "previousSchool": "",
       "hometownHighSchool": "Marietta, Ga. / Holy Innocents’ Episcopal School",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/matt-luigs/21967",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/matt-luigs/24041",
       "imageUrl": "https://brownbears.com/images/2026/2/10/Luigs-headshot-2026.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -294,628 +294,11 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21967",
+      "rosterBioId": "24041",
       "sources": [
-        "Brown Athletics roster",
-        "Brown cumulative stats"
+        "Brown Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "21967",
-        "name": "Matt Luigs",
-        "normalizedName": "matt luigs",
-        "jersey": "2",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/matt-luigs/21967",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Luigs-headshot-2026.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "battingAverage": 0.301,
-        "onBasePercentage": 0.402,
-        "sluggingPercentage": 0.369,
-        "ops": 0.771,
-        "atBats": 176,
-        "runs": 40,
-        "hits": 53,
-        "doubles": 6,
-        "triples": 3,
-        "homeRuns": 0,
-        "runsBattedIn": 18,
-        "totalBases": 65,
-        "walks": 24,
-        "hitByPitch": 7,
-        "strikeouts": 37,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 4,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 0,
-        "stolenBases": 21,
-        "stolenBasesAttempts": 24,
-        "putouts": 55,
-        "assists": 0,
-        "errors": 13,
-        "plateAppearances": 236,
-        "caughtStealing": 3,
-        "pickedOff": 2
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "21967",
-        "name": "Matt Luigs",
-        "normalizedName": "matt luigs",
-        "jersey": "2",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/matt-luigs/21967",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Luigs-headshot-2026.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "putouts": 55,
-        "assists": 117,
-        "errors": 13,
-        "fieldingPercentage": 0.93,
-        "doublePlays": 21,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 185
-      },
-      "evaluation": {
-        "score": 48,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 67.77777777777779,
-          "Power": 12.894736842105262,
-          "Contact": 50.624999999999986,
-          "Discipline": 49.849849849849846,
-          "Speed": 70
-        },
-        "summary": "Matt Luigs profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .301",
-          "OBP .402",
-          "SLG .369"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".301"
-          },
-          {
-            "label": "OBP",
-            "value": ".402"
-          },
-          {
-            "label": "SLG",
-            "value": ".369"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "18"
-          },
-          {
-            "label": "SB",
-            "value": "21"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats"
-      }
-    },
-    {
-      "id": "brown-21942",
-      "schoolSlug": "brown",
-      "school": "Brown",
-      "schoolLongName": "Brown University",
-      "name": "Andrew Hanlon",
-      "normalizedName": "andrew hanlon",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "C",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "3",
-      "hometown": "Fort Myers, Fla.",
-      "highSchool": "Bishop Verot",
-      "previousSchool": "",
-      "hometownHighSchool": "Fort Myers, Fla. / Bishop Verot",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/andrew-hanlon/21942",
-      "imageUrl": "https://brownbears.com/images/2026/2/10/Hanlon-headshot-2026.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "21942",
-      "sources": [
-        "Brown Athletics roster",
-        "Brown cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "21942",
-        "name": "Andrew Hanlon",
-        "normalizedName": "andrew hanlon",
-        "jersey": "3",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/andrew-hanlon/21942",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Hanlon-headshot-2026.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 20,
-        "battingAverage": 0.191,
-        "onBasePercentage": 0.282,
-        "sluggingPercentage": 0.235,
-        "ops": 0.517,
-        "atBats": 68,
-        "runs": 5,
-        "hits": 13,
-        "doubles": 3,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 6,
-        "totalBases": 16,
-        "walks": 7,
-        "hitByPitch": 2,
-        "strikeouts": 20,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 2,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 132,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 80,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "21942",
-        "name": "Andrew Hanlon",
-        "normalizedName": "andrew hanlon",
-        "jersey": "3",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/andrew-hanlon/21942",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Hanlon-headshot-2026.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 20,
-        "putouts": 132,
-        "assists": 22,
-        "errors": 2,
-        "fieldingPercentage": 0.987,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 46,
-        "caughtStealingBy": 13,
-        "stolenBasesPercentage": null,
-        "passedBalls": 4,
-        "catchersInterference": 0,
-        "totalChances": 156
-      },
-      "evaluation": {
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 1.1111111111110814,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 16.66666666666666,
-          "Speed": 0
-        },
-        "summary": "Andrew Hanlon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .191",
-          "OBP .282",
-          "SLG .235"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".191"
-          },
-          {
-            "label": "OBP",
-            "value": ".282"
-          },
-          {
-            "label": "SLG",
-            "value": ".235"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "6"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "C",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats"
-      }
-    },
-    {
-      "id": "brown-21935",
-      "schoolSlug": "brown",
-      "school": "Brown",
-      "schoolLongName": "Brown University",
-      "name": "Christian Butera",
-      "normalizedName": "christian butera",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "INF",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "4",
-      "hometown": "East Greenwich, R.I.",
-      "highSchool": "Bishop Hendricken",
-      "previousSchool": "",
-      "hometownHighSchool": "East Greenwich, R.I. / Bishop Hendricken",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/christian-butera/21935",
-      "imageUrl": "https://brownbears.com/images/2026/2/10/Butera-headshot-2026.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "21935",
-      "sources": [
-        "Brown Athletics roster",
-        "Brown cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "21935",
-        "name": "Christian Butera",
-        "normalizedName": "christian butera",
-        "jersey": "4",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/christian-butera/21935",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Butera-headshot-2026.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "battingAverage": 0.229,
-        "onBasePercentage": 0.344,
-        "sluggingPercentage": 0.359,
-        "ops": 0.703,
-        "atBats": 153,
-        "runs": 27,
-        "hits": 35,
-        "doubles": 7,
-        "triples": 2,
-        "homeRuns": 3,
-        "runsBattedIn": 26,
-        "totalBases": 55,
-        "walks": 16,
-        "hitByPitch": 12,
-        "strikeouts": 59,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 0,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 2,
-        "putouts": 357,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 185,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "21935",
-        "name": "Christian Butera",
-        "normalizedName": "christian butera",
-        "jersey": "4",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/christian-butera/21935",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Butera-headshot-2026.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "putouts": 357,
-        "assists": 32,
-        "errors": 2,
-        "fieldingPercentage": 0.995,
-        "doublePlays": 33,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 391
-      },
-      "evaluation": {
-        "score": 17,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 35.55555555555553,
-          "Power": 10.263157894736837,
-          "Contact": 5.625000000000005,
-          "Discipline": 7.9096045197740095,
-          "Speed": 6.666666666666667
-        },
-        "summary": "Christian Butera gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .229",
-          "OBP .344",
-          "SLG .359"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".229"
-          },
-          {
-            "label": "OBP",
-            "value": ".344"
-          },
-          {
-            "label": "SLG",
-            "value": ".359"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "26"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats"
-      }
-    },
-    {
-      "id": "brown-21934",
-      "schoolSlug": "brown",
-      "school": "Brown",
-      "schoolLongName": "Brown University",
-      "name": "Alex Benevento",
-      "normalizedName": "alex benevento",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "OF",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "5",
-      "hometown": "New Canaan, Conn.",
-      "highSchool": "New Canaan",
-      "previousSchool": "",
-      "hometownHighSchool": "New Canaan, Conn. / New Canaan",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/alex-benevento/21934",
-      "imageUrl": "https://brownbears.com/images/2026/2/10/Benevento-headshot-2026.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "21934",
-      "sources": [
-        "Brown Athletics roster",
-        "Brown cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "21934",
-        "name": "Alex Benevento",
-        "normalizedName": "alex benevento",
-        "jersey": "5",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/alex-benevento/21934",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Benevento-headshot-2026.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "battingAverage": 0.304,
-        "onBasePercentage": 0.412,
-        "sluggingPercentage": 0.484,
-        "ops": 0.896,
-        "atBats": 161,
-        "runs": 43,
-        "hits": 49,
-        "doubles": 9,
-        "triples": 1,
-        "homeRuns": 6,
-        "runsBattedIn": 33,
-        "totalBases": 78,
-        "walks": 24,
-        "hitByPitch": 9,
-        "strikeouts": 30,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 5,
-        "sacrificeHits": 2,
-        "stolenBases": 17,
-        "stolenBasesAttempts": 20,
-        "putouts": 105,
-        "assists": 0,
-        "errors": 4,
-        "plateAppearances": 224,
-        "caughtStealing": 3,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "21934",
-        "name": "Alex Benevento",
-        "normalizedName": "alex benevento",
-        "jersey": "5",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/alex-benevento/21934",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Benevento-headshot-2026.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "putouts": 105,
-        "assists": 7,
-        "errors": 4,
-        "fieldingPercentage": 0.966,
-        "doublePlays": 2,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 116
-      },
-      "evaluation": {
-        "score": 59,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "components": {
-          "On-base": 73.3333333333333,
-          "Power": 43.15789473684211,
-          "Contact": 52.49999999999999,
-          "Discipline": 66.66666666666666,
-          "Speed": 56.666666666666664
-        },
-        "summary": "Alex Benevento profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .304",
-          "OBP .412",
-          "SLG .484"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".304"
-          },
-          {
-            "label": "OBP",
-            "value": ".412"
-          },
-          {
-            "label": "SLG",
-            "value": ".484"
-          },
-          {
-            "label": "HR",
-            "value": "6"
-          },
-          {
-            "label": "RBI",
-            "value": "33"
-          },
-          {
-            "label": "SB",
-            "value": "17"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats"
-      }
-    },
-    {
-      "id": "brown-21948",
-      "schoolSlug": "brown",
-      "school": "Brown",
-      "schoolLongName": "Brown University",
-      "name": "Cam LaGrassa",
-      "normalizedName": "cam lagrassa",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF/OF",
-      "positionLong": "INF/OF",
-      "classYear": "SO",
-      "handedness": "L/R",
-      "jersey": "6",
-      "hometown": "Middleton, Mass.",
-      "highSchool": "St. John's Prep",
-      "previousSchool": "",
-      "hometownHighSchool": "Middleton, Mass. / St. John's Prep",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/cam-lagrassa/21948",
-      "imageUrl": "https://brownbears.com/images/2026/2/10/LaGrassa-headshot-2026.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "21948",
-      "sources": [
-        "Brown Athletics roster",
-        "Brown cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "21948",
-        "name": "Cam LaGrassa",
-        "normalizedName": "cam lagrassa",
-        "jersey": "6",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/cam-lagrassa/21948",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/LaGrassa-headshot-2026.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 5,
-        "battingAverage": 0.15,
-        "onBasePercentage": 0.15,
-        "sluggingPercentage": 0.15,
-        "ops": 0.3,
-        "atBats": 20,
-        "runs": 3,
-        "hits": 3,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 2,
-        "totalBases": 3,
-        "walks": 0,
-        "hitByPitch": 0,
-        "strikeouts": 7,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 2,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 23,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
@@ -929,26 +312,26 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "Power": 0,
           "Contact": 0,
           "Discipline": 0,
-          "Speed": 3.3333333333333335
+          "Speed": 0
         },
-        "summary": "Cam LaGrassa gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Matt Luigs gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .150",
-          "OBP .150",
-          "SLG .150"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".150"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".150"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".150"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -956,11 +339,363 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "RBI",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Brown Athletics roster"
+      }
+    },
+    {
+      "id": "brown-24037",
+      "schoolSlug": "brown",
+      "school": "Brown",
+      "schoolLongName": "Brown University",
+      "name": "Andrew Hanlon",
+      "normalizedName": "andrew hanlon",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "C",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "3",
+      "hometown": "Fort Myers, Fla.",
+      "highSchool": "Bishop Verot",
+      "previousSchool": "",
+      "hometownHighSchool": "Fort Myers, Fla. / Bishop Verot",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/andrew-hanlon/24037",
+      "imageUrl": "https://brownbears.com/images/2026/2/10/Hanlon-headshot-2026.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "24037",
+      "sources": [
+        "Brown Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Andrew Hanlon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Brown Athletics roster"
+      }
+    },
+    {
+      "id": "brown-24029",
+      "schoolSlug": "brown",
+      "school": "Brown",
+      "schoolLongName": "Brown University",
+      "name": "Christian Butera",
+      "normalizedName": "christian butera",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "INF",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "4",
+      "hometown": "East Greenwich, R.I.",
+      "highSchool": "Bishop Hendricken",
+      "previousSchool": "",
+      "hometownHighSchool": "East Greenwich, R.I. / Bishop Hendricken",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/christian-butera/24029",
+      "imageUrl": "https://brownbears.com/images/2026/2/10/Butera-headshot-2026.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "24029",
+      "sources": [
+        "Brown Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Christian Butera gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Brown Athletics roster"
+      }
+    },
+    {
+      "id": "brown-24027",
+      "schoolSlug": "brown",
+      "school": "Brown",
+      "schoolLongName": "Brown University",
+      "name": "Alex Benevento",
+      "normalizedName": "alex benevento",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "OF",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "5",
+      "hometown": "New Canaan, Conn.",
+      "highSchool": "New Canaan",
+      "previousSchool": "",
+      "hometownHighSchool": "New Canaan, Conn. / New Canaan",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/alex-benevento/24027",
+      "imageUrl": "https://brownbears.com/images/2026/2/10/Benevento-headshot-2026.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "24027",
+      "sources": [
+        "Brown Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Alex Benevento gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "OF",
+          "SO",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Brown Athletics roster"
+      }
+    },
+    {
+      "id": "brown-24040",
+      "schoolSlug": "brown",
+      "school": "Brown",
+      "schoolLongName": "Brown University",
+      "name": "Cam LaGrassa",
+      "normalizedName": "cam lagrassa",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF/OF",
+      "positionLong": "INF/OF",
+      "classYear": "SO",
+      "handedness": "L/R",
+      "jersey": "6",
+      "hometown": "Middleton, Mass.",
+      "highSchool": "St. John's Prep",
+      "previousSchool": "",
+      "hometownHighSchool": "Middleton, Mass. / St. John's Prep",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/cam-lagrassa/24040",
+      "imageUrl": "https://brownbears.com/images/2026/2/10/LaGrassa-headshot-2026.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "24040",
+      "sources": [
+        "Brown Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Cam LaGrassa gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
           }
         ],
         "metaLine": "SO / L/R",
@@ -968,19 +703,19 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "INF/OF",
           "SO",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats"
+        "sourceSummary": "Brown Athletics roster"
       }
     },
     {
-      "id": "brown-21950",
+      "id": "brown-24045",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
       "name": "Miles Newsome",
       "normalizedName": "miles newsome",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF/OF",
       "positionLong": "INF/OF",
@@ -991,7 +726,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "C.E. Jordan",
       "previousSchool": "",
       "hometownHighSchool": "Chapel Hill, N.C. / C.E. Jordan",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/miles-newsome/21950",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/miles-newsome/24045",
       "imageUrl": "https://brownbears.com/images/2026/2/10/Newsome-headshot-2026.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -999,81 +734,44 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21950",
+      "rosterBioId": "24045",
       "sources": [
-        "Brown Athletics roster",
-        "Brown cumulative stats"
+        "Brown Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "21950",
-        "name": "Miles Newsome",
-        "normalizedName": "miles newsome",
-        "jersey": "7",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/miles-newsome/21950",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Newsome-headshot-2026.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 3,
-        "battingAverage": 0.2,
-        "onBasePercentage": 0.4,
-        "sluggingPercentage": 0.267,
-        "ops": 0.667,
-        "atBats": 15,
-        "runs": 2,
-        "hits": 3,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 4,
-        "walks": 3,
-        "hitByPitch": 2,
-        "strikeouts": 5,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 1,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 22,
-        "caughtStealing": 0,
-        "pickedOff": 1
-      },
+      "hittingStats": null,
       "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
-        "score": 28,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 66.66666666666666,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 44.444444444444436,
-          "Speed": 3.3333333333333335
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Miles Newsome profiles as a INF/OF piece who gets on base at a high clip.",
+        "summary": "Miles Newsome gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .200",
-          "OBP .400",
-          "SLG .267"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".200"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".400"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".267"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -1085,7 +783,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
         "metaLine": "JR / R/R",
@@ -1093,19 +791,19 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "INF/OF",
           "JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats"
+        "sourceSummary": "Brown Athletics roster"
       }
     },
     {
-      "id": "brown-21941",
+      "id": "brown-24036",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
       "name": "Jack Edmunds",
       "normalizedName": "jack edmunds",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "C/OF",
       "positionLong": "C/OF",
@@ -1116,7 +814,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "Eastlake",
       "previousSchool": "",
       "hometownHighSchool": "Sammamish, Wash. / Eastlake",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/jack-edmunds/21941",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/jack-edmunds/24036",
       "imageUrl": "https://brownbears.com/images/2026/2/10/Edmunds-headshot-2026.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1124,109 +822,52 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21941",
+      "rosterBioId": "24036",
       "sources": [
-        "Brown Athletics roster",
-        "Brown cumulative stats"
+        "Brown Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "21941",
-        "name": "Jack Edmunds",
-        "normalizedName": "jack edmunds",
-        "jersey": "8",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/jack-edmunds/21941",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Edmunds-headshot-2026.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 33,
-        "battingAverage": 0.193,
-        "onBasePercentage": 0.292,
-        "sluggingPercentage": 0.36,
-        "ops": 0.652,
-        "atBats": 114,
-        "runs": 10,
-        "hits": 22,
-        "doubles": 4,
-        "triples": 0,
-        "homeRuns": 5,
-        "runsBattedIn": 18,
-        "totalBases": 41,
-        "walks": 13,
-        "hitByPitch": 3,
-        "strikeouts": 31,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 1,
-        "putouts": 109,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 132,
-        "caughtStealing": 1,
-        "pickedOff": 1
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "21941",
-        "name": "Jack Edmunds",
-        "normalizedName": "jack edmunds",
-        "jersey": "8",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/jack-edmunds/21941",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Edmunds-headshot-2026.jpg",
-        "gamesPlayed": 23,
-        "gamesStarted": 21,
-        "putouts": 109,
-        "assists": 11,
-        "errors": 1,
-        "fieldingPercentage": 0.992,
-        "doublePlays": 2,
-        "stolenBasesAgainst": 27,
-        "caughtStealingBy": 5,
-        "stolenBasesPercentage": null,
-        "passedBalls": 2,
-        "catchersInterference": 0,
-        "totalChances": 121
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 8,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 6.666666666666641,
-          "Power": 10.526315789473681,
+          "On-base": 0,
+          "Power": 0,
           "Contact": 0,
-          "Discipline": 24.37275985663082,
+          "Discipline": 0,
           "Speed": 0
         },
         "summary": "Jack Edmunds gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .193",
-          "OBP .292",
-          "SLG .360"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".193"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".292"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".360"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -1238,9 +879,9 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "C/OF",
           "SO",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats"
+        "sourceSummary": "Brown Athletics roster"
       }
     },
     {
@@ -1534,7 +1175,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       }
     },
     {
-      "id": "brown-22454",
+      "id": "brown-24032",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
@@ -1551,7 +1192,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "Palo Alto",
       "previousSchool": "",
       "hometownHighSchool": "Palo Alto, Calif. / Palo Alto",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/kanghee-cho/22454",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/kanghee-cho/24032",
       "imageUrl": "https://brownbears.com/images/2026/2/10/Cho-headshot-2026.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1559,7 +1200,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "22454",
+      "rosterBioId": "24032",
       "sources": [
         "Brown Athletics roster"
       ],
@@ -1622,7 +1263,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       }
     },
     {
-      "id": "brown-21955",
+      "id": "brown-24049",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
@@ -1639,7 +1280,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "Our Lady of Good Counsel",
       "previousSchool": "",
       "hometownHighSchool": "Olney, Md. / Our Lady of Good Counsel",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/jake-plainte/21955",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/jake-plainte/24049",
       "imageUrl": "https://brownbears.com/images/2026/2/10/Plainte-headshot-2026.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1647,69 +1288,15 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21955",
+      "rosterBioId": "24049",
       "sources": [
-        "Brown Athletics roster",
-        "Brown cumulative stats"
+        "Brown Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "21955",
-        "name": "Jake Plainte",
-        "normalizedName": "jake plainte",
-        "jersey": "12",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/jake-plainte/21955",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Plainte-headshot-2026.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "appearances": 3,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6.75,
-        "whip": 3.75,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 1.3333333333333333,
-        "inningsPitchedDisplay": "1.1",
-        "hitsAllowed": 2,
-        "runsAllowed": 1,
-        "earnedRunsAllowed": 1,
-        "walksAllowed": 3,
-        "strikeouts": 2,
-        "doublesAllowed": 0,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 5,
-        "wildPitches": 0,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.4,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "21955",
-        "name": "Jake Plainte",
-        "normalizedName": "jake plainte",
-        "jersey": "12",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/jake-plainte/21955",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Plainte-headshot-2026.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 5,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 17,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1717,32 +1304,32 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 86.36363636363636,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Jake Plainte looks like a LHP option who misses bats.",
+        "summary": "Jake Plainte looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 3.75",
-          "K/9 13.5"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "3.75"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "13.5"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "20.3"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -1750,7 +1337,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "IP",
-            "value": "1.3"
+            "value": "0.0"
           }
         ],
         "metaLine": "SO / R/L",
@@ -1760,17 +1347,17 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "R/L",
           "Pitcher"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats"
+        "sourceSummary": "Brown Athletics roster"
       }
     },
     {
-      "id": "brown-21936",
+      "id": "brown-24030",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
       "name": "Brandon Chang",
       "normalizedName": "brandon chang",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "C",
       "positionLong": "C",
@@ -1781,7 +1368,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "JSerra Catholic",
       "previousSchool": "",
       "hometownHighSchool": "Irvine, Calif. / JSerra Catholic",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/brandon-chang/21936",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/brandon-chang/24030",
       "imageUrl": "https://brownbears.com/images/2026/2/10/Chang-headshot-2026.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1789,72 +1376,15 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21936",
+      "rosterBioId": "24030",
       "sources": [
-        "Brown Athletics roster",
-        "Brown cumulative stats"
+        "Brown Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "21936",
-        "name": "Brandon Chang",
-        "normalizedName": "brandon chang",
-        "jersey": "13",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/brandon-chang/21936",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Chang-headshot-2026.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 10,
-        "battingAverage": 0.057,
-        "onBasePercentage": 0.214,
-        "sluggingPercentage": 0.057,
-        "ops": 0.271,
-        "atBats": 35,
-        "runs": 4,
-        "hits": 2,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 3,
-        "totalBases": 2,
-        "walks": 6,
-        "hitByPitch": 1,
-        "strikeouts": 7,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 1,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 3,
-        "putouts": 20,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 46,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "21936",
-        "name": "Brandon Chang",
-        "normalizedName": "brandon chang",
-        "jersey": "13",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/brandon-chang/21936",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Chang-headshot-2026.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 3,
-        "putouts": 20,
-        "assists": 5,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 2,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 4,
-        "stolenBasesPercentage": null,
-        "passedBalls": 1,
-        "catchersInterference": 0,
-        "totalChances": 25
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 11,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1863,27 +1393,27 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 73.01587301587298,
-          "Speed": 10
+          "Discipline": 0,
+          "Speed": 0
         },
         "summary": "Brandon Chang gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .057",
-          "OBP .214",
-          "SLG .057"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".057"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".214"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".057"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -1891,11 +1421,11 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "RBI",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "0"
           }
         ],
         "metaLine": "JR / R/R",
@@ -1903,9 +1433,9 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "C",
           "JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats"
+        "sourceSummary": "Brown Athletics roster"
       }
     },
     {
@@ -2034,13 +1564,13 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       }
     },
     {
-      "id": "brown-23426",
+      "id": "brown-24035",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
       "name": "Brady Dever",
       "normalizedName": "brady dever",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "OF",
@@ -2051,7 +1581,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "Fort Bend Christian Academy",
       "previousSchool": "",
       "hometownHighSchool": "Houston, Texas / Fort Bend Christian Academy",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/brady-dever/23426",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/brady-dever/24035",
       "imageUrl": "https://brownbears.com/images/2026/2/10/Dever-headshot-2026.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2059,101 +1589,44 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "23426",
+      "rosterBioId": "24035",
       "sources": [
-        "Brown Athletics roster",
-        "Brown cumulative stats"
+        "Brown Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "23426",
-        "name": "Brady Dever",
-        "normalizedName": "brady dever",
-        "jersey": "15",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/brady-dever/23426",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Dever-headshot-2026.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 11,
-        "battingAverage": 0.179,
-        "onBasePercentage": 0.405,
-        "sluggingPercentage": 0.25,
-        "ops": 0.655,
-        "atBats": 28,
-        "runs": 8,
-        "hits": 5,
-        "doubles": 2,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 5,
-        "totalBases": 7,
-        "walks": 11,
-        "hitByPitch": 1,
-        "strikeouts": 14,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 42,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "23426",
-        "name": "Brady Dever",
-        "normalizedName": "brady dever",
-        "jersey": "15",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/brady-dever/23426",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Dever-headshot-2026.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 1,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 31,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 69.44444444444444,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 65.07936507936506,
+          "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Brady Dever profiles as a OF piece who gets on base at a high clip.",
+        "summary": "Brady Dever gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .179",
-          "OBP .405",
-          "SLG .250"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".179"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".405"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".250"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -2161,7 +1634,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "RBI",
-            "value": "5"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -2173,9 +1646,9 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "OF",
           "JR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats"
+        "sourceSummary": "Brown Athletics roster"
       }
     },
     {
@@ -2588,7 +2061,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       }
     },
     {
-      "id": "brown-21962",
+      "id": "brown-24048",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
@@ -2605,7 +2078,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "Exeter",
       "previousSchool": "",
       "hometownHighSchool": "Newfields, N.H. / Exeter",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/camren-piwnicki/21962",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/camren-piwnicki/24048",
       "imageUrl": "https://brownbears.com/images/2026/2/10/Piwnicki-headshot-2026.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2613,69 +2086,15 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21962",
+      "rosterBioId": "24048",
       "sources": [
-        "Brown Athletics roster",
-        "Brown cumulative stats"
+        "Brown Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "21962",
-        "name": "Camren Piwnicki",
-        "normalizedName": "camren piwnicki",
-        "jersey": "21",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/camren-piwnicki/21962",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Piwnicki-headshot-2026.jpg",
-        "gamesPlayed": 20,
-        "gamesStarted": 1,
-        "appearances": 20,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.04,
-        "whip": 1.25,
-        "wins": 4,
-        "losses": 2,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 42.333333333333336,
-        "inningsPitchedDisplay": "42.1",
-        "hitsAllowed": 39,
-        "runsAllowed": 20,
-        "earnedRunsAllowed": 19,
-        "walksAllowed": 14,
-        "strikeouts": 23,
-        "doublesAllowed": 6,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 157,
-        "wildPitches": 4,
-        "hitBatters": 7,
-        "balks": 1,
-        "opponentsBattingAverage": 0.248,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "21962",
-        "name": "Camren Piwnicki",
-        "normalizedName": "camren piwnicki",
-        "jersey": "21",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/camren-piwnicki/21962",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Piwnicki-headshot-2026.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 0,
-        "putouts": 2,
-        "assists": 4,
-        "errors": 2,
-        "fieldingPercentage": 0.75,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 8
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 4,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2683,40 +2102,40 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 8.088761632068712,
-          "Command": 12.85714285714285,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Camren Piwnicki looks like a RHP option who throws enough strikes and keeps traffic under control.",
+        "summary": "Camren Piwnicki looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.04",
-          "WHIP 1.25",
-          "K/9 4.9"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.04"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.25"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "4.9"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.43"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "42.3"
+            "value": "0.0"
           }
         ],
         "metaLine": "FR / R/R",
@@ -2726,11 +2145,11 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats"
+        "sourceSummary": "Brown Athletics roster"
       }
     },
     {
-      "id": "brown-21947",
+      "id": "brown-24039",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
@@ -2747,7 +2166,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "Flower Mound",
       "previousSchool": "",
       "hometownHighSchool": "Flower Mound, Texas / Flower Mound",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/brenden-kline/21947",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/brenden-kline/24039",
       "imageUrl": "https://brownbears.com/images/2026/2/10/Kline-headshot-2026.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2755,69 +2174,15 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21947",
+      "rosterBioId": "24039",
       "sources": [
-        "Brown Athletics roster",
-        "Brown cumulative stats"
+        "Brown Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "21947",
-        "name": "Brenden Kline",
-        "normalizedName": "brenden kline",
-        "jersey": "22",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/brenden-kline/21947",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Kline-headshot-2026.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 0,
-        "appearances": 12,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.29,
-        "whip": 1.88,
-        "wins": 2,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 17,
-        "inningsPitchedDisplay": "17.0",
-        "hitsAllowed": 22,
-        "runsAllowed": 14,
-        "earnedRunsAllowed": 10,
-        "walksAllowed": 10,
-        "strikeouts": 9,
-        "doublesAllowed": 3,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 70,
-        "wildPitches": 0,
-        "hitBatters": 4,
-        "balks": 1,
-        "opponentsBattingAverage": 0.314,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "21947",
-        "name": "Brenden Kline",
-        "normalizedName": "brenden kline",
-        "jersey": "22",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/brenden-kline/21947",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Kline-headshot-2026.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 3,
-        "errors": 1,
-        "fieldingPercentage": 0.8,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 1,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2825,40 +2190,40 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 6.951871657754011,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Brenden Kline gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Brenden Kline looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.29",
-          "WHIP 1.88",
-          "K/9 4.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.29"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.88"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "4.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "5.3"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.53"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "17.0"
+            "value": "0.0"
           }
         ],
         "metaLine": "JR / R/R",
@@ -2868,11 +2233,11 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats"
+        "sourceSummary": "Brown Athletics roster"
       }
     },
     {
-      "id": "brown-21951",
+      "id": "brown-24046",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
@@ -2889,7 +2254,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "Fairfield Prep",
       "previousSchool": "",
       "hometownHighSchool": "Fairfield, Conn. / Fairfield Prep",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/ryan-oshinskie/21951",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/ryan-oshinskie/24046",
       "imageUrl": "https://brownbears.com/images/2026/2/10/Oshinskie-headshot-2026.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2897,7 +2262,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21951",
+      "rosterBioId": "24046",
       "sources": [
         "Brown Athletics roster"
       ],
@@ -2960,7 +2325,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       }
     },
     {
-      "id": "brown-23440",
+      "id": "brown-24031",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
@@ -2977,7 +2342,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "Ridgewood",
       "previousSchool": "",
       "hometownHighSchool": "Ridgewood, N.J. / Ridgewood",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/brendan-chanley/23440",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/brendan-chanley/24031",
       "imageUrl": "https://brownbears.com/images/2026/2/10/Chanley-headshot-2026.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2985,67 +2350,13 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "23440",
+      "rosterBioId": "24031",
       "sources": [
-        "Brown Athletics roster",
-        "Brown cumulative stats"
+        "Brown Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "23440",
-        "name": "Brendan Chanley",
-        "normalizedName": "brendan chanley",
-        "jersey": "24",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/brendan-chanley/23440",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Chanley-headshot-2026.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "appearances": 1,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 0,
-        "whip": 2,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 1,
-        "inningsPitchedDisplay": "1.0",
-        "hitsAllowed": 0,
-        "runsAllowed": 2,
-        "earnedRunsAllowed": 0,
-        "walksAllowed": 2,
-        "strikeouts": 0,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 4,
-        "wildPitches": 1,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "23440",
-        "name": "Brendan Chanley",
-        "normalizedName": "brendan chanley",
-        "jersey": "24",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/brendan-chanley/23440",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Chanley-headshot-2026.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
         "score": 0,
         "fit": {
@@ -3059,20 +2370,20 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Brendan Chanley looks like a RHP option who limits runs.",
+        "summary": "Brendan Chanley looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 2.00",
+          "ERA --",
+          "WHIP --",
           "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "0.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "--"
           },
           {
             "label": "K/9",
@@ -3080,7 +2391,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "BB/9",
-            "value": "18.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -3088,7 +2399,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "IP",
-            "value": "1.0"
+            "value": "0.0"
           }
         ],
         "metaLine": "JR / R/R",
@@ -3098,11 +2409,11 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats"
+        "sourceSummary": "Brown Athletics roster"
       }
     },
     {
-      "id": "brown-21965",
+      "id": "brown-24028",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
@@ -3119,7 +2430,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "Parkview",
       "previousSchool": "",
       "hometownHighSchool": "Lilburn, Ga. / Parkview",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/porter-berryman/21965",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/porter-berryman/24028",
       "imageUrl": "https://brownbears.com/images/2026/2/10/Berryman-headshot-2026.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3127,245 +2438,13 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21965",
+      "rosterBioId": "24028",
       "sources": [
-        "Brown Athletics roster",
-        "Brown cumulative stats"
+        "Brown Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "21965",
-        "name": "Porter Berryman",
-        "normalizedName": "porter berryman",
-        "jersey": "25",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/porter-berryman/21965",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Berryman-headshot-2026.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 1,
-        "appearances": 2,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.4,
-        "whip": 2.2,
-        "wins": 0,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 5,
-        "inningsPitchedDisplay": "5.0",
-        "hitsAllowed": 7,
-        "runsAllowed": 7,
-        "earnedRunsAllowed": 3,
-        "walksAllowed": 4,
-        "strikeouts": 7,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 22,
-        "wildPitches": 0,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.318,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "21965",
-        "name": "Porter Berryman",
-        "normalizedName": "porter berryman",
-        "jersey": "25",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/porter-berryman/21965",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Berryman-headshot-2026.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
-      "evaluation": {
-        "score": 18,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 78.18181818181817,
-          "Command": 15,
-          "Damage suppression": 0
-        },
-        "summary": "Porter Berryman looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 2.20",
-          "K/9 12.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.40"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.20"
-          },
-          {
-            "label": "K/9",
-            "value": "12.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "5.0"
-          }
-        ],
-        "metaLine": "FR / L/L",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "L/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats"
-      }
-    },
-    {
-      "id": "brown-21963",
-      "schoolSlug": "brown",
-      "school": "Brown",
-      "schoolLongName": "Brown University",
-      "name": "Harssh Ramayanam Venkkat",
-      "normalizedName": "harssh ramayanam venkkat",
-      "compositeRole": "Two-Way",
-      "role": "Pitcher",
-      "position": "INF/RHP",
-      "positionLong": "INF/RHP",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "26",
-      "hometown": "Fort Lee, N.J.",
-      "highSchool": "Bergen County Academies",
-      "previousSchool": "",
-      "hometownHighSchool": "Fort Lee, N.J. / Bergen County Academies",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/harssh-ramayanam-venkkat/21963",
-      "imageUrl": "https://brownbears.com/images/2026/2/10/Ramayanam-Venkkat-headshot-2026.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "21963",
-      "sources": [
-        "Brown Athletics roster",
-        "Brown cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "21963",
-        "name": "Harssh Ramayanam Venkkat",
-        "normalizedName": "harssh ramayanam venkkat",
-        "jersey": "26",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/harssh-ramayanam-venkkat/21963",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Ramayanam-Venkkat-headshot-2026.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 0,
-        "battingAverage": 0,
-        "onBasePercentage": 0.5,
-        "sluggingPercentage": 0,
-        "ops": 0.5,
-        "atBats": 1,
-        "runs": 0,
-        "hits": 0,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 0,
-        "walks": 0,
-        "hitByPitch": 1,
-        "strikeouts": 1,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 2,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": {
-        "rosterBioId": "21963",
-        "name": "Harssh Ramayanam Venkkat",
-        "normalizedName": "harssh ramayanam venkkat",
-        "jersey": "26",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/harssh-ramayanam-venkkat/21963",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Ramayanam-Venkkat-headshot-2026.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "appearances": 1,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 108,
-        "whip": 15,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 0.3333333333333333,
-        "inningsPitchedDisplay": "0.1",
-        "hitsAllowed": 2,
-        "runsAllowed": 4,
-        "earnedRunsAllowed": 4,
-        "walksAllowed": 3,
-        "strikeouts": 0,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 3,
-        "wildPitches": 0,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.667,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "21963",
-        "name": "Harssh Ramayanam Venkkat",
-        "normalizedName": "harssh ramayanam venkkat",
-        "jersey": "26",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/harssh-ramayanam-venkkat/21963",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Ramayanam-Venkkat-headshot-2026.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 2,
-        "errors": 1,
-        "fieldingPercentage": 0.75,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
         "score": 0,
         "fit": {
@@ -3379,20 +2458,20 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Harssh Ramayanam Venkkat gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Porter Berryman looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 108.00",
-          "WHIP 15.00",
+          "ERA --",
+          "WHIP --",
           "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "108.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "15.00"
+            "value": "--"
           },
           {
             "label": "K/9",
@@ -3400,15 +2479,103 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "BB/9",
-            "value": "81.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "27.00"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "0.3"
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Brown Athletics roster"
+      }
+    },
+    {
+      "id": "brown-24050",
+      "schoolSlug": "brown",
+      "school": "Brown",
+      "schoolLongName": "Brown University",
+      "name": "Harssh Ramayanam Venkkat",
+      "normalizedName": "harssh ramayanam venkkat",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "INF/RHP",
+      "positionLong": "INF/RHP",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "26",
+      "hometown": "Fort Lee, N.J.",
+      "highSchool": "Bergen County Academies",
+      "previousSchool": "",
+      "hometownHighSchool": "Fort Lee, N.J. / Bergen County Academies",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/harssh-ramayanam-venkkat/24050",
+      "imageUrl": "https://brownbears.com/images/2026/2/10/Ramayanam-Venkkat-headshot-2026.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "24050",
+      "sources": [
+        "Brown Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Harssh Ramayanam Venkkat looks like a INF/RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
           }
         ],
         "metaLine": "FR / R/R",
@@ -3416,19 +2583,19 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "INF/RHP",
           "FR",
           "R/R",
-          "Two-Way"
+          "Pitcher"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats"
+        "sourceSummary": "Brown Athletics roster"
       }
     },
     {
-      "id": "brown-21964",
+      "id": "brown-24043",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
       "name": "Alex Mihailovich",
       "normalizedName": "alex mihailovich",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
       "positionLong": "INF",
@@ -3439,7 +2606,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "Westminster School",
       "previousSchool": "",
       "hometownHighSchool": "Stamford, Conn. / Westminster School",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/alex-mihailovich/21964",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/alex-mihailovich/24043",
       "imageUrl": "https://brownbears.com/images/2026/2/10/Mihailovich-headshot-2026.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3447,81 +2614,44 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21964",
+      "rosterBioId": "24043",
       "sources": [
-        "Brown Athletics roster",
-        "Brown cumulative stats"
+        "Brown Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "21964",
-        "name": "Alex Mihailovich",
-        "normalizedName": "alex mihailovich",
-        "jersey": "27",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/alex-mihailovich/21964",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Mihailovich-headshot-2026.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 5,
-        "battingAverage": 0.15,
-        "onBasePercentage": 0.292,
-        "sluggingPercentage": 0.15,
-        "ops": 0.442,
-        "atBats": 20,
-        "runs": 2,
-        "hits": 3,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 1,
-        "totalBases": 3,
-        "walks": 4,
-        "hitByPitch": 0,
-        "strikeouts": 9,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 24,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
-        "score": 6,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 6.666666666666641,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 27.160493827160487,
+          "Discipline": 0,
           "Speed": 0
         },
         "summary": "Alex Mihailovich gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .150",
-          "OBP .292",
-          "SLG .150"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".150"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".292"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".150"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -3529,7 +2659,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "RBI",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -3541,9 +2671,9 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "INF",
           "FR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats"
+        "sourceSummary": "Brown Athletics roster"
       }
     },
     {
@@ -3777,7 +2907,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       }
     },
     {
-      "id": "brown-21961",
+      "id": "brown-24054",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
@@ -3794,7 +2924,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "Ruben S. Ayala",
       "previousSchool": "",
       "hometownHighSchool": "Chino Hills, Calif. / Ruben S. Ayala",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/bryan-yang/21961",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/bryan-yang/24054",
       "imageUrl": "https://brownbears.com/images/2026/2/10/Yang-headshot-2026.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3802,69 +2932,15 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21961",
+      "rosterBioId": "24054",
       "sources": [
-        "Brown Athletics roster",
-        "Brown cumulative stats"
+        "Brown Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "21961",
-        "name": "Bryan Yang",
-        "normalizedName": "bryan yang",
-        "jersey": "30",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/bryan-yang/21961",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Yang-headshot-2026.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 5,
-        "appearances": 9,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.87,
-        "whip": 1.79,
-        "wins": 2,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 30.666666666666668,
-        "inningsPitchedDisplay": "30.2",
-        "hitsAllowed": 39,
-        "runsAllowed": 24,
-        "earnedRunsAllowed": 20,
-        "walksAllowed": 16,
-        "strikeouts": 16,
-        "doublesAllowed": 6,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 124,
-        "wildPitches": 1,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.315,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "21961",
-        "name": "Bryan Yang",
-        "normalizedName": "bryan yang",
-        "jersey": "30",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/bryan-yang/21961",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Yang-headshot-2026.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 3,
-        "putouts": 0,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 5,
-        "caughtStealingBy": 4,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 1,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3872,40 +2948,40 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 6.324110671936754,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Bryan Yang gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Bryan Yang looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.87",
-          "WHIP 1.79",
-          "K/9 4.7"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.87"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.79"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "4.7"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "4.7"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.59"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "30.7"
+            "value": "0.0"
           }
         ],
         "metaLine": "SO / R/R",
@@ -3915,11 +2991,11 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats"
+        "sourceSummary": "Brown Athletics roster"
       }
     },
     {
-      "id": "brown-21946",
+      "id": "brown-24038",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
@@ -3936,7 +3012,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "The Rivers School",
       "previousSchool": "",
       "hometownHighSchool": "Dover, Mass. / The Rivers School",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/ian-keusch/21946",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/ian-keusch/24038",
       "imageUrl": "https://brownbears.com/images/2026/2/10/Keusch-headshot-2026.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3944,67 +3020,13 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21946",
+      "rosterBioId": "24038",
       "sources": [
-        "Brown Athletics roster",
-        "Brown cumulative stats"
+        "Brown Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "21946",
-        "name": "Ian Keusch",
-        "normalizedName": "ian keusch",
-        "jersey": "31",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/ian-keusch/21946",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Keusch-headshot-2026.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 2,
-        "appearances": 5,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.24,
-        "whip": 1.8,
-        "wins": 0,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 8.333333333333334,
-        "inningsPitchedDisplay": "8.1",
-        "hitsAllowed": 5,
-        "runsAllowed": 4,
-        "earnedRunsAllowed": 3,
-        "walksAllowed": 10,
-        "strikeouts": 1,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 28,
-        "wildPitches": 2,
-        "hitBatters": 3,
-        "balks": 1,
-        "opponentsBattingAverage": 0.179,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "21946",
-        "name": "Ian Keusch",
-        "normalizedName": "ian keusch",
-        "jersey": "31",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/ian-keusch/21946",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Keusch-headshot-2026.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 2,
-        "putouts": 0,
-        "assists": 2,
-        "errors": 1,
-        "fieldingPercentage": 0.667,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 5,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 3
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
         "score": 0,
         "fit": {
@@ -4018,28 +3040,28 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Ian Keusch looks like a RHP option who limits runs.",
+        "summary": "Ian Keusch looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.24",
-          "WHIP 1.80",
-          "K/9 1.1"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.24"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.80"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "1.1"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "10.8"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -4047,7 +3069,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "IP",
-            "value": "8.3"
+            "value": "0.0"
           }
         ],
         "metaLine": "SO / R/R",
@@ -4057,11 +3079,11 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats"
+        "sourceSummary": "Brown Athletics roster"
       }
     },
     {
-      "id": "brown-21966",
+      "id": "brown-24042",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
@@ -4078,7 +3100,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "The Westminster Schools",
       "previousSchool": "",
       "hometownHighSchool": "Atlanta, Ga. / The Westminster Schools",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/cal-mcburney/21966",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/cal-mcburney/24042",
       "imageUrl": "https://brownbears.com/images/2026/2/10/McBurney-headshot-2026.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4086,67 +3108,13 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21966",
+      "rosterBioId": "24042",
       "sources": [
-        "Brown Athletics roster",
-        "Brown cumulative stats"
+        "Brown Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "21966",
-        "name": "Cal McBurney",
-        "normalizedName": "cal mcburney",
-        "jersey": "32",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/cal-mcburney/21966",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/McBurney-headshot-2026.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 0,
-        "appearances": 5,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 11.57,
-        "whip": 3.43,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 4.666666666666667,
-        "inningsPitchedDisplay": "4.2",
-        "hitsAllowed": 10,
-        "runsAllowed": 8,
-        "earnedRunsAllowed": 6,
-        "walksAllowed": 6,
-        "strikeouts": 2,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 22,
-        "wildPitches": 2,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.455,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "21966",
-        "name": "Cal McBurney",
-        "normalizedName": "cal mcburney",
-        "jersey": "32",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/cal-mcburney/21966",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/McBurney-headshot-2026.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
         "score": 0,
         "fit": {
@@ -4160,28 +3128,28 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Cal McBurney gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Cal McBurney looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 11.57",
-          "WHIP 3.43",
-          "K/9 3.9"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "11.57"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "3.43"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "3.9"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "11.6"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -4189,7 +3157,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "IP",
-            "value": "4.7"
+            "value": "0.0"
           }
         ],
         "metaLine": "FR / R/R",
@@ -4199,7 +3167,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats"
+        "sourceSummary": "Brown Athletics roster"
       }
     },
     {
@@ -4345,7 +3313,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       }
     },
     {
-      "id": "brown-21968",
+      "id": "brown-24044",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
@@ -4362,7 +3330,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "San Juan Hills",
       "previousSchool": "",
       "hometownHighSchool": "Ladera Ranch, Calif. / San Juan Hills",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/drew-nelson/21968",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/drew-nelson/24044",
       "imageUrl": "https://brownbears.com/images/2026/2/10/Nelson-headshot-2026.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4370,69 +3338,15 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21968",
+      "rosterBioId": "24044",
       "sources": [
-        "Brown Athletics roster",
-        "Brown cumulative stats"
+        "Brown Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "21968",
-        "name": "Drew Nelson",
-        "normalizedName": "drew nelson",
-        "jersey": "34",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/drew-nelson/21968",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Nelson-headshot-2026.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 12,
-        "appearances": 12,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.93,
-        "whip": 1.41,
-        "wins": 6,
-        "losses": 3,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 71,
-        "inningsPitchedDisplay": "71.0",
-        "hitsAllowed": 75,
-        "runsAllowed": 37,
-        "earnedRunsAllowed": 31,
-        "walksAllowed": 25,
-        "strikeouts": 40,
-        "doublesAllowed": 10,
-        "triplesAllowed": 3,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 271,
-        "wildPitches": 8,
-        "hitBatters": 6,
-        "balks": 1,
-        "opponentsBattingAverage": 0.277,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "21968",
-        "name": "Drew Nelson",
-        "normalizedName": "drew nelson",
-        "jersey": "34",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/drew-nelson/21968",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Nelson-headshot-2026.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 11,
-        "putouts": 3,
-        "assists": 7,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 15,
-        "caughtStealingBy": 3,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 10
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 4,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4440,40 +3354,40 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 9.731113956466073,
-          "Command": 12.000000000000002,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Drew Nelson looks like a RHP option who limits runs.",
+        "summary": "Drew Nelson looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.93",
-          "WHIP 1.41",
-          "K/9 5.1"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.93"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.41"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "5.1"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.2"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.51"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "71.0"
+            "value": "0.0"
           }
         ],
         "metaLine": "FR / R/R",
@@ -4483,7 +3397,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats"
+        "sourceSummary": "Brown Athletics roster"
       }
     },
     {
@@ -4629,7 +3543,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       }
     },
     {
-      "id": "brown-21952",
+      "id": "brown-24047",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
@@ -4646,7 +3560,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "Bishop Hendricken",
       "previousSchool": "",
       "hometownHighSchool": "Warwick, R.I. / Bishop Hendricken",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/braxton-pearson/21952",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/braxton-pearson/24047",
       "imageUrl": "https://brownbears.com/images/2026/2/10/Pearson-headshot-2026.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4654,7 +3568,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21952",
+      "rosterBioId": "24047",
       "sources": [
         "Brown Athletics roster"
       ],
@@ -4717,7 +3631,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       }
     },
     {
-      "id": "brown-21960",
+      "id": "brown-24053",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
@@ -4734,7 +3648,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "McQuaid Jesuit",
       "previousSchool": "",
       "hometownHighSchool": "Pittsford, N.Y. / McQuaid Jesuit",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/matt-wilmarth/21960",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/matt-wilmarth/24053",
       "imageUrl": "https://brownbears.com/images/2026/2/10/Wilmarth-headshot-2026.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4742,69 +3656,15 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21960",
+      "rosterBioId": "24053",
       "sources": [
-        "Brown Athletics roster",
-        "Brown cumulative stats"
+        "Brown Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "21960",
-        "name": "Matt Wilmarth",
-        "normalizedName": "matt wilmarth",
-        "jersey": "38",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/matt-wilmarth/21960",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Wilmarth-headshot-2026.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 0,
-        "appearances": 14,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.4,
-        "whip": 1.75,
-        "wins": 0,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 21.666666666666668,
-        "inningsPitchedDisplay": "21.2",
-        "hitsAllowed": 27,
-        "runsAllowed": 14,
-        "earnedRunsAllowed": 13,
-        "walksAllowed": 11,
-        "strikeouts": 15,
-        "doublesAllowed": 4,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 87,
-        "wildPitches": 1,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.31,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "21960",
-        "name": "Matt Wilmarth",
-        "normalizedName": "matt wilmarth",
-        "jersey": "38",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/matt-wilmarth/21960",
-        "imageUrl": "https://brownbears.com/images/2026/2/10/Wilmarth-headshot-2026.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 4,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 5,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4812,40 +3672,40 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 20.27972027972028,
-          "Command": 7.272727272727275,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Matt Wilmarth gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Matt Wilmarth looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 1.75",
-          "K/9 6.2"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.40"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.75"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.2"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "4.6"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.66"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "21.7"
+            "value": "0.0"
           }
         ],
         "metaLine": "SO / R/R",
@@ -4855,11 +3715,11 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats"
+        "sourceSummary": "Brown Athletics roster"
       }
     },
     {
-      "id": "brown-21957",
+      "id": "brown-24051",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
@@ -4876,7 +3736,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "Franklin",
       "previousSchool": "",
       "hometownHighSchool": "Franklin, Mass. / Franklin",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/luke-sidwell/21957",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/luke-sidwell/24051",
       "imageUrl": "https://brownbears.com/images/2026/2/10/Sidwell-headshot-2026.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4884,7 +3744,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21957",
+      "rosterBioId": "24051",
       "sources": [
         "Brown Athletics roster"
       ],
@@ -4947,7 +3807,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       }
     },
     {
-      "id": "brown-21959",
+      "id": "brown-24052",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
@@ -4964,7 +3824,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "St. Elizabeth (Del.)",
       "previousSchool": "",
       "hometownHighSchool": "North East, Md. / St. Elizabeth (Del.)",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/luke-trout/21959",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/luke-trout/24052",
       "imageUrl": "https://brownbears.com/images/2026/2/10/Trout-headshot-2026.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4972,7 +3832,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21959",
+      "rosterBioId": "24052",
       "sources": [
         "Brown Athletics roster"
       ],
@@ -5035,7 +3895,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       }
     },
     {
-      "id": "brown-21932",
+      "id": "brown-24026",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
@@ -5052,7 +3912,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "The Westminster Schools",
       "previousSchool": "",
       "hometownHighSchool": "Atlanta, Ga. / The Westminster Schools",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/carter-barth/21932",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/carter-barth/24026",
       "imageUrl": "https://brownbears.com/images/2026/2/10/Barth-headshot-2026.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -5060,7 +3920,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21932",
+      "rosterBioId": "24026",
       "sources": [
         "Brown Athletics roster"
       ],
@@ -5378,36 +4238,36 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21967",
+        "id": "brown-24041",
         "name": "Matt Luigs",
         "school": "Brown",
         "role": "Hitter",
         "position": "INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 48,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Matt Luigs profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Matt Luigs gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .301",
-          "OBP .402",
-          "SLG .369"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".301"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".402"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".369"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -5415,68 +4275,67 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "21"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 67.77777777777779,
-          "Power": 12.894736842105262,
-          "Contact": 50.624999999999986,
-          "Discipline": 49.849849849849846,
-          "Speed": 70
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "metaLine": "FR / R/R",
         "detailBadges": [
           "INF",
           "FR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
+          "Brown Athletics roster"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
+        "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/matt-luigs/21967",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/matt-luigs/24041",
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21942",
+        "id": "brown-24037",
         "name": "Andrew Hanlon",
         "school": "Brown",
         "role": "Hitter",
         "position": "C",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 3,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Andrew Hanlon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .191",
-          "OBP .282",
-          "SLG .235"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".191"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".282"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".235"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -5484,7 +4343,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "RBI",
-            "value": "6"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -5492,10 +4351,10 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           }
         ],
         "components": {
-          "On-base": 1.1111111111110814,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 16.66666666666666,
+          "Discipline": 0,
           "Speed": 0
         },
         "metaLine": "JR / R/R",
@@ -5503,158 +4362,155 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "C",
           "JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
+          "Brown Athletics roster"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
+        "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/andrew-hanlon/21942",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/andrew-hanlon/24037",
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21935",
+        "id": "brown-24029",
         "name": "Christian Butera",
         "school": "Brown",
         "role": "Hitter",
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 17,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Christian Butera gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .229",
-          "OBP .344",
-          "SLG .359"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".229"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".344"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".359"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "26"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 35.55555555555553,
-          "Power": 10.263157894736837,
-          "Contact": 5.625000000000005,
-          "Discipline": 7.9096045197740095,
-          "Speed": 6.666666666666667
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "metaLine": "SO / R/R",
         "detailBadges": [
           "INF",
           "SO",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
+          "Brown Athletics roster"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
+        "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/christian-butera/21935",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/christian-butera/24029",
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21934",
+        "id": "brown-24027",
         "name": "Alex Benevento",
         "school": "Brown",
         "role": "Hitter",
         "position": "OF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 59,
+        "score": 0,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Alex Benevento profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Alex Benevento gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .304",
-          "OBP .412",
-          "SLG .484"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".304"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".412"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".484"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "33"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "17"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 73.3333333333333,
-          "Power": 43.15789473684211,
-          "Contact": 52.49999999999999,
-          "Discipline": 66.66666666666666,
-          "Speed": 56.666666666666664
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "metaLine": "SO / R/R",
         "detailBadges": [
           "OF",
           "SO",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
+          "Brown Athletics roster"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
+        "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/alex-benevento/21934",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/alex-benevento/24027",
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21948",
+        "id": "brown-24040",
         "name": "Cam LaGrassa",
         "school": "Brown",
         "role": "Hitter",
@@ -5668,22 +4524,22 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         },
         "summary": "Cam LaGrassa gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .150",
-          "OBP .150",
-          "SLG .150"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".150"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".150"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".150"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -5691,11 +4547,11 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "RBI",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
         "components": {
@@ -5703,56 +4559,55 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "Power": 0,
           "Contact": 0,
           "Discipline": 0,
-          "Speed": 3.3333333333333335
+          "Speed": 0
         },
         "metaLine": "SO / L/R",
         "detailBadges": [
           "INF/OF",
           "SO",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
+          "Brown Athletics roster"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
+        "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/cam-lagrassa/21948",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/cam-lagrassa/24040",
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21950",
+        "id": "brown-24045",
         "name": "Miles Newsome",
         "school": "Brown",
         "role": "Hitter",
         "position": "INF/OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 28,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Miles Newsome profiles as a INF/OF piece who gets on base at a high clip.",
+        "summary": "Miles Newsome gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .200",
-          "OBP .400",
-          "SLG .267"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".200"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".400"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".267"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -5764,72 +4619,71 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 66.66666666666666,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 44.444444444444436,
-          "Speed": 3.3333333333333335
+          "Discipline": 0,
+          "Speed": 0
         },
         "metaLine": "JR / R/R",
         "detailBadges": [
           "INF/OF",
           "JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
+          "Brown Athletics roster"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
+        "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/miles-newsome/21950",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/miles-newsome/24045",
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21941",
+        "id": "brown-24036",
         "name": "Jack Edmunds",
         "school": "Brown",
         "role": "Hitter",
         "position": "C/OF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 8,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Edmunds gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .193",
-          "OBP .292",
-          "SLG .360"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".193"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".292"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".360"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -5837,10 +4691,10 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           }
         ],
         "components": {
-          "On-base": 6.666666666666641,
-          "Power": 10.526315789473681,
+          "On-base": 0,
+          "Power": 0,
           "Contact": 0,
-          "Discipline": 24.37275985663082,
+          "Discipline": 0,
           "Speed": 0
         },
         "metaLine": "SO / R/R",
@@ -5848,16 +4702,15 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "C/OF",
           "SO",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
+          "Brown Athletics roster"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
+        "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/jack-edmunds/21941",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/jack-edmunds/24036",
         "espnAthleteId": ""
       },
       {
@@ -5999,7 +4852,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "brown-22454",
+        "id": "brown-24032",
         "name": "Kanghee Cho",
         "school": "Brown",
         "role": "Hitter",
@@ -6063,44 +4916,44 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
         "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/kanghee-cho/22454",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/kanghee-cho/24032",
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21955",
+        "id": "brown-24049",
         "name": "Jake Plainte",
         "school": "Brown",
         "role": "Pitcher",
         "position": "LHP",
         "classYear": "SO",
         "handedness": "R/L",
-        "score": 17,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jake Plainte looks like a LHP option who misses bats.",
+        "summary": "Jake Plainte looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 3.75",
-          "K/9 13.5"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "3.75"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "13.5"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "20.3"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -6108,13 +4961,13 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "IP",
-            "value": "1.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 86.36363636363636,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -6126,46 +4979,45 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
+          "Brown Athletics roster"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
+        "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/jake-plainte/21955",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/jake-plainte/24049",
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21936",
+        "id": "brown-24030",
         "name": "Brandon Chang",
         "school": "Brown",
         "role": "Hitter",
         "position": "C",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 11,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brandon Chang gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .057",
-          "OBP .214",
-          "SLG .057"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".057"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".214"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".057"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -6173,35 +5025,34 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "RBI",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "0"
           }
         ],
         "components": {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 73.01587301587298,
-          "Speed": 10
+          "Discipline": 0,
+          "Speed": 0
         },
         "metaLine": "JR / R/R",
         "detailBadges": [
           "C",
           "JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
+          "Brown Athletics roster"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
+        "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/brandon-chang/21936",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/brandon-chang/24030",
         "espnAthleteId": ""
       },
       {
@@ -6274,36 +5125,36 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "brown-23426",
+        "id": "brown-24035",
         "name": "Brady Dever",
         "school": "Brown",
         "role": "Hitter",
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 31,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Brady Dever profiles as a OF piece who gets on base at a high clip.",
+        "summary": "Brady Dever gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .179",
-          "OBP .405",
-          "SLG .250"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".179"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".405"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".250"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -6311,7 +5162,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "RBI",
-            "value": "5"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -6319,10 +5170,10 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           }
         ],
         "components": {
-          "On-base": 69.44444444444444,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 65.07936507936506,
+          "Discipline": 0,
           "Speed": 0
         },
         "metaLine": "JR / L/R",
@@ -6330,16 +5181,15 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "OF",
           "JR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
+          "Brown Athletics roster"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
+        "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/brady-dever/23426",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/brady-dever/24035",
         "espnAthleteId": ""
       },
       {
@@ -6550,55 +5400,55 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21962",
+        "id": "brown-24048",
         "name": "Camren Piwnicki",
         "school": "Brown",
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 4,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Camren Piwnicki looks like a RHP option who throws enough strikes and keeps traffic under control.",
+        "summary": "Camren Piwnicki looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.04",
-          "WHIP 1.25",
-          "K/9 4.9"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.04"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.25"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "4.9"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.43"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "42.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 8.088761632068712,
-          "Command": 12.85714285714285,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -6609,64 +5459,63 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
+          "Brown Athletics roster"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
+        "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/camren-piwnicki/21962",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/camren-piwnicki/24048",
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21947",
+        "id": "brown-24039",
         "name": "Brenden Kline",
         "school": "Brown",
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 1,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Brenden Kline gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Brenden Kline looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.29",
-          "WHIP 1.88",
-          "K/9 4.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.29"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.88"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "4.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "5.3"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.53"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "17.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 6.951871657754011,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -6678,17 +5527,16 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
+          "Brown Athletics roster"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
+        "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/brenden-kline/21947",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/brenden-kline/24039",
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21951",
+        "id": "brown-24046",
         "name": "Ryan Oshinskie",
         "school": "Brown",
         "role": "Pitcher",
@@ -6752,11 +5600,11 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/ryan-oshinskie/21951",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/ryan-oshinskie/24046",
         "espnAthleteId": ""
       },
       {
-        "id": "brown-23440",
+        "id": "brown-24031",
         "name": "Brendan Chanley",
         "school": "Brown",
         "role": "Pitcher",
@@ -6768,20 +5616,20 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Brendan Chanley looks like a RHP option who limits runs.",
+        "summary": "Brendan Chanley looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 2.00",
+          "ERA --",
+          "WHIP --",
           "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "0.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "--"
           },
           {
             "label": "K/9",
@@ -6789,7 +5637,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "BB/9",
-            "value": "18.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -6797,7 +5645,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "IP",
-            "value": "1.0"
+            "value": "0.0"
           }
         ],
         "components": {
@@ -6815,50 +5663,49 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
+          "Brown Athletics roster"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
+        "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/brendan-chanley/23440",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/brendan-chanley/24031",
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21965",
+        "id": "brown-24028",
         "name": "Porter Berryman",
         "school": "Brown",
         "role": "Pitcher",
         "position": "LHP",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 18,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Porter Berryman looks like a LHP option who misses bats.",
+        "summary": "Porter Berryman looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 2.20",
-          "K/9 12.6"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.40"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.20"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "12.6"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "7.2"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -6866,14 +5713,14 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "IP",
-            "value": "5.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 78.18181818181817,
-          "Command": 15,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "FR / L/L",
@@ -6884,17 +5731,16 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
+          "Brown Athletics roster"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
+        "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/porter-berryman/21965",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/porter-berryman/24028",
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21963",
+        "id": "brown-24050",
         "name": "Harssh Ramayanam Venkkat",
         "school": "Brown",
         "role": "Pitcher",
@@ -6906,20 +5752,20 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Harssh Ramayanam Venkkat gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Harssh Ramayanam Venkkat looks like a INF/RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 108.00",
-          "WHIP 15.00",
+          "ERA --",
+          "WHIP --",
           "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "108.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "15.00"
+            "value": "--"
           },
           {
             "label": "K/9",
@@ -6927,15 +5773,15 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "BB/9",
-            "value": "81.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "27.00"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "0.3"
+            "value": "0.0"
           }
         ],
         "components": {
@@ -6950,49 +5796,48 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "INF/RHP",
           "FR",
           "R/R",
-          "Two-Way"
+          "Pitcher"
         ],
         "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
+          "Brown Athletics roster"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
+        "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/harssh-ramayanam-venkkat/21963",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/harssh-ramayanam-venkkat/24050",
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21964",
+        "id": "brown-24043",
         "name": "Alex Mihailovich",
         "school": "Brown",
         "role": "Hitter",
         "position": "INF",
         "classYear": "FR",
         "handedness": "L/R",
-        "score": 6,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Alex Mihailovich gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .150",
-          "OBP .292",
-          "SLG .150"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".150"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".292"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".150"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -7000,7 +5845,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "RBI",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -7008,10 +5853,10 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           }
         ],
         "components": {
-          "On-base": 6.666666666666641,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 27.160493827160487,
+          "Discipline": 0,
           "Speed": 0
         },
         "metaLine": "FR / L/R",
@@ -7019,16 +5864,15 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "INF",
           "FR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
+          "Brown Athletics roster"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
+        "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/alex-mihailovich/21964",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/alex-mihailovich/24043",
         "espnAthleteId": ""
       },
       {
@@ -7169,77 +6013,8 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21961",
+        "id": "brown-24054",
         "name": "Bryan Yang",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Bryan Yang gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.87",
-          "WHIP 1.79",
-          "K/9 4.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.87"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.79"
-          },
-          {
-            "label": "K/9",
-            "value": "4.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.59"
-          },
-          {
-            "label": "IP",
-            "value": "30.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 6.324110671936754,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
-        ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/bryan-yang/21961",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-21946",
-        "name": "Ian Keusch",
         "school": "Brown",
         "role": "Pitcher",
         "position": "RHP",
@@ -7250,28 +6025,28 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ian Keusch looks like a RHP option who limits runs.",
+        "summary": "Bryan Yang looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.24",
-          "WHIP 1.80",
-          "K/9 1.1"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.24"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.80"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "1.1"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "10.8"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -7279,7 +6054,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "IP",
-            "value": "8.3"
+            "value": "0.0"
           }
         ],
         "components": {
@@ -7297,17 +6072,84 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
+          "Brown Athletics roster"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
+        "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/ian-keusch/21946",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/bryan-yang/24054",
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21966",
+        "id": "brown-24038",
+        "name": "Ian Keusch",
+        "school": "Brown",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ian Keusch looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Brown Athletics roster"
+        ],
+        "sourceSummary": "Brown Athletics roster",
+        "schoolSlug": "brown",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/ian-keusch/24038",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "brown-24042",
         "name": "Cal McBurney",
         "school": "Brown",
         "role": "Pitcher",
@@ -7319,28 +6161,28 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cal McBurney gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Cal McBurney looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 11.57",
-          "WHIP 3.43",
-          "K/9 3.9"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "11.57"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "3.43"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "3.9"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "11.6"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -7348,7 +6190,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           },
           {
             "label": "IP",
-            "value": "4.7"
+            "value": "0.0"
           }
         ],
         "components": {
@@ -7366,13 +6208,12 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
+          "Brown Athletics roster"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
+        "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/cal-mcburney/21966",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/cal-mcburney/24042",
         "espnAthleteId": ""
       },
       {
@@ -7445,55 +6286,55 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21968",
+        "id": "brown-24044",
         "name": "Drew Nelson",
         "school": "Brown",
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 4,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Drew Nelson looks like a RHP option who limits runs.",
+        "summary": "Drew Nelson looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.93",
-          "WHIP 1.41",
-          "K/9 5.1"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.93"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.41"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "5.1"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.2"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.51"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "71.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 9.731113956466073,
-          "Command": 12.000000000000002,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -7504,13 +6345,12 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
+          "Brown Athletics roster"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
+        "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/drew-nelson/21968",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/drew-nelson/24044",
         "espnAthleteId": ""
       },
       {
@@ -7583,7 +6423,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21952",
+        "id": "brown-24047",
         "name": "Braxton Pearson",
         "school": "Brown",
         "role": "Pitcher",
@@ -7647,59 +6487,59 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/braxton-pearson/21952",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/braxton-pearson/24047",
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21960",
+        "id": "brown-24053",
         "name": "Matt Wilmarth",
         "school": "Brown",
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 5,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Matt Wilmarth gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Matt Wilmarth looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 1.75",
-          "K/9 6.2"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.40"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.75"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.2"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "4.6"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.66"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "21.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 20.27972027972028,
-          "Command": 7.272727272727275,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -7710,17 +6550,16 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
+          "Brown Athletics roster"
         ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
+        "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/matt-wilmarth/21960",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/matt-wilmarth/24053",
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21957",
+        "id": "brown-24051",
         "name": "Luke Sidwell",
         "school": "Brown",
         "role": "Hitter",
@@ -7784,11 +6623,11 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
         "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/luke-sidwell/21957",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/luke-sidwell/24051",
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21959",
+        "id": "brown-24052",
         "name": "Luke Trout",
         "school": "Brown",
         "role": "Pitcher",
@@ -7852,11 +6691,11 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/luke-trout/21959",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/luke-trout/24052",
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21932",
+        "id": "brown-24026",
         "name": "Carter Barth",
         "school": "Brown",
         "role": "Pitcher",
@@ -7920,7 +6759,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/carter-barth/21932",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/carter-barth/24026",
         "espnAthleteId": ""
       },
       {

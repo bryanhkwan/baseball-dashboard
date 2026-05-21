@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.washington2026 = {
-  "generatedAt": "2026-05-20T12:42:22.319Z",
+  "generatedAt": "2026-05-21T13:33:23.859Z",
   "season": 2026,
   "school": {
     "slug": "washington",
@@ -39,24 +39,24 @@ window.__BASEBALL_DATASETS__.washington2026 = {
     }
   },
   "teamSummary": {
-    "record": "24-31, 12-18",
-    "battingAverage": ".265",
-    "earnedRunAverage": "5.30",
-    "wins": "24",
+    "record": "25-31, 12-18",
+    "battingAverage": ".264",
+    "earnedRunAverage": "5.22",
+    "wins": "25",
     "losses": "31",
     "hitting": {
-      "atBats": "1844",
-      "runsScored": "319",
-      "hits": "489",
-      "runsBattedIn": "285",
-      "doubles": "91",
+      "atBats": "1878",
+      "runsScored": "326",
+      "hits": "496",
+      "runsBattedIn": "292",
+      "doubles": "94",
       "triples": "20",
-      "homeRuns": "63",
-      "walks": "256",
+      "homeRuns": "65",
+      "walks": "263",
       "intentionalWalks": "3",
-      "strikeouts": "513",
-      "strikeoutsLooking": "114",
-      "hitByPitch": "52",
+      "strikeouts": "525",
+      "strikeoutsLooking": "119",
+      "hitByPitch": "53",
       "stolenBases": "71",
       "caughtStealing": "23",
       "sacrificeHits": "15",
@@ -64,61 +64,61 @@ window.__BASEBALL_DATASETS__.washington2026 = {
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "367",
-      "flyOuts": "458",
+      "groundOuts": "374",
+      "flyOuts": "464",
       "groundedIntoDoublePlay": "36",
       "pickedOff": "3",
-      "doublePlaysHitInto": "41",
+      "doublePlaysHitInto": "42",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1431",
-      "assists": "429",
-      "errors": "47",
+      "putouts": "1458",
+      "assists": "433",
+      "errors": "48",
       "passedBalls": "6",
       "catchersInterference": "0",
       "stolenBasesAgainst": "44",
       "caughtStealingBy": "16",
-      "involvedInDoublePlays": "28",
+      "involvedInDoublePlays": "29",
       "involvedInTriplePlays": "0",
-      "totalChances": "1907",
+      "totalChances": "1939",
       "fieldingPercentage": ".975"
     },
     "pitching": {
       "orderOfAppearance": "3",
-      "wins": "24",
-      "saves": "36",
+      "wins": "25",
+      "saves": "37",
       "losses": "31",
       "gamesStarted": "1",
       "gamesCompleted": "0",
       "shutouts": "2",
       "creditForCombinedShutout": "2",
-      "inningsPitched": "477.0",
-      "hitsAllowed": "472",
-      "runsAllowed": "310",
-      "earnedRunsAllowed": "281",
-      "walksAllowed": "206",
-      "strikeouts": "464",
-      "battersFaced": "2138",
-      "opponentAtBats": "1825",
+      "inningsPitched": "486.0",
+      "hitsAllowed": "480",
+      "runsAllowed": "311",
+      "earnedRunsAllowed": "282",
+      "walksAllowed": "211",
+      "strikeouts": "477",
+      "battersFaced": "2177",
+      "opponentAtBats": "1858",
       "doublesAllowed": "121",
       "triplesAllowed": "8",
       "homerunsAllowed": "53",
       "wildPitches": "27",
       "balks": "4",
       "hitBatters": "58",
-      "strikeoutsLooking": "107",
+      "strikeoutsLooking": "110",
       "intentionalWalks": "5",
       "inheritedRunners": "50",
       "inheritedRunnersThatScored": "25",
       "sacrificeHitsAllowed": "26",
-      "sacrificeFliesAllowed": "23",
+      "sacrificeFliesAllowed": "24",
       "catchersInterferenceAllowed": "0",
-      "pitches": "8058",
-      "flyouts": "511",
-      "groundouts": "378",
+      "pitches": "8212",
+      "flyouts": "521",
+      "groundouts": "380",
       "teamUnearnedRuns": "0",
-      "saveRecord": "10",
+      "saveRecord": "11",
       "pickoff": "4"
     }
   },
@@ -161,23 +161,23 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "jersey": "1",
         "profileUrl": "https://gohuskies.com/sports/baseball/roster/ty-cowan/17534",
         "imageUrl": "https://gohuskies.com/images/2026/1/26/_0040_1__Cowan__Ty_uw-bsb-media-day-2026-0103.jpg",
-        "gamesPlayed": 55,
-        "gamesStarted": 53,
-        "battingAverage": 0.224,
-        "onBasePercentage": 0.36,
-        "sluggingPercentage": 0.284,
-        "ops": 0.644,
-        "atBats": 183,
-        "runs": 23,
-        "hits": 41,
+        "gamesPlayed": 56,
+        "gamesStarted": 54,
+        "battingAverage": 0.226,
+        "onBasePercentage": 0.362,
+        "sluggingPercentage": 0.285,
+        "ops": 0.647,
+        "atBats": 186,
+        "runs": 24,
+        "hits": 42,
         "doubles": 11,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 15,
-        "totalBases": 52,
-        "walks": 30,
+        "totalBases": 53,
+        "walks": 31,
         "hitByPitch": 10,
-        "strikeouts": 25,
+        "strikeouts": 26,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 2,
@@ -186,8 +186,8 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "stolenBasesAttempts": 6,
         "putouts": 89,
         "assists": 0,
-        "errors": 3,
-        "plateAppearances": 237,
+        "errors": 4,
+        "plateAppearances": 241,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -199,19 +199,19 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "jersey": "1",
         "profileUrl": "https://gohuskies.com/sports/baseball/roster/ty-cowan/17534",
         "imageUrl": "https://gohuskies.com/images/2026/1/26/_0040_1__Cowan__Ty_uw-bsb-media-day-2026-0103.jpg",
-        "gamesPlayed": 55,
-        "gamesStarted": 53,
+        "gamesPlayed": 56,
+        "gamesStarted": 54,
         "putouts": 89,
-        "assists": 121,
-        "errors": 3,
-        "fieldingPercentage": 0.986,
-        "doublePlays": 22,
+        "assists": 122,
+        "errors": 4,
+        "fieldingPercentage": 0.981,
+        "doublePlays": 23,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 213
+        "totalChances": 215
       },
       "evaluation": {
         "score": 30,
@@ -220,30 +220,30 @@ window.__BASEBALL_DATASETS__.washington2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 44.44444444444443,
+          "On-base": 45.555555555555536,
           "Power": 0,
-          "Contact": 2.500000000000002,
+          "Contact": 3.7500000000000036,
           "Discipline": 100,
           "Speed": 10
         },
         "summary": "Ty Cowan profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .224",
-          "OBP .360",
-          "SLG .284"
+          "AVG .226",
+          "OBP .362",
+          "SLG .285"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".224"
+            "value": ".226"
           },
           {
             "label": "OBP",
-            "value": ".360"
+            "value": ".362"
           },
           {
             "label": "SLG",
-            "value": ".284"
+            "value": ".285"
           },
           {
             "label": "HR",
@@ -306,13 +306,13 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "jersey": "2",
         "profileUrl": "https://gohuskies.com/sports/baseball/roster/colton-bower/17521",
         "imageUrl": "https://gohuskies.com/images/2026/1/26/_0039_2__Bower__Colton_uw-bsb-media-day-2026-0072.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "battingAverage": 0.321,
-        "onBasePercentage": 0.39,
-        "sluggingPercentage": 0.693,
-        "ops": 1.083,
-        "atBats": 140,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "battingAverage": 0.31,
+        "onBasePercentage": 0.378,
+        "sluggingPercentage": 0.669,
+        "ops": 1.047,
+        "atBats": 145,
         "runs": 30,
         "hits": 45,
         "doubles": 10,
@@ -322,7 +322,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "totalBases": 97,
         "walks": 12,
         "hitByPitch": 5,
-        "strikeouts": 47,
+        "strikeouts": 49,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
@@ -332,7 +332,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "putouts": 158,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 164,
+        "plateAppearances": 169,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -359,36 +359,36 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "totalChances": 170
       },
       "evaluation": {
-        "score": 58,
+        "score": 53,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 61.11111111111111,
-          "Power": 98.1578947368421,
-          "Contact": 63.125,
-          "Discipline": 6.146572104018908,
+          "On-base": 54.44444444444443,
+          "Power": 91.84210526315792,
+          "Contact": 56.25,
+          "Discipline": 4.988662131519272,
           "Speed": 10
         },
         "summary": "Colton Bower profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .321",
-          "OBP .390",
-          "SLG .693"
+          "AVG .310",
+          "OBP .378",
+          "SLG .669"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".321"
+            "value": ".310"
           },
           {
             "label": "OBP",
-            "value": ".390"
+            "value": ".378"
           },
           {
             "label": "SLG",
-            "value": ".693"
+            "value": ".669"
           },
           {
             "label": "HR",
@@ -539,13 +539,13 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "jersey": "4",
         "profileUrl": "https://gohuskies.com/sports/baseball/roster/ethan-swidler/17536",
         "imageUrl": "https://gohuskies.com/images/2026/2/2/4__Swiddler__Ethan_.png",
-        "gamesPlayed": 42,
-        "gamesStarted": 39,
-        "battingAverage": 0.236,
-        "onBasePercentage": 0.345,
-        "sluggingPercentage": 0.364,
-        "ops": 0.709,
-        "atBats": 140,
+        "gamesPlayed": 43,
+        "gamesStarted": 40,
+        "battingAverage": 0.231,
+        "onBasePercentage": 0.343,
+        "sluggingPercentage": 0.357,
+        "ops": 0.7,
+        "atBats": 143,
         "runs": 20,
         "hits": 33,
         "doubles": 6,
@@ -553,19 +553,19 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "homeRuns": 4,
         "runsBattedIn": 15,
         "totalBases": 51,
-        "walks": 21,
+        "walks": 22,
         "hitByPitch": 3,
-        "strikeouts": 47,
+        "strikeouts": 49,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
         "sacrificeHits": 2,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 294,
+        "putouts": 307,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 167,
+        "plateAppearances": 171,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -577,51 +577,51 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "jersey": "4",
         "profileUrl": "https://gohuskies.com/sports/baseball/roster/ethan-swidler/17536",
         "imageUrl": "https://gohuskies.com/images/2026/2/2/4__Swiddler__Ethan_.png",
-        "gamesPlayed": 35,
-        "gamesStarted": 33,
-        "putouts": 294,
-        "assists": 15,
+        "gamesPlayed": 36,
+        "gamesStarted": 34,
+        "putouts": 307,
+        "assists": 16,
         "errors": 3,
-        "fieldingPercentage": 0.99,
+        "fieldingPercentage": 0.991,
         "doublePlays": 1,
         "stolenBasesAgainst": 29,
         "caughtStealingBy": 7,
         "stolenBasesPercentage": null,
         "passedBalls": 5,
         "catchersInterference": 0,
-        "totalChances": 312
+        "totalChances": 326
       },
       "evaluation": {
-        "score": 20,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 36.111111111111086,
-          "Power": 11.57894736842105,
-          "Contact": 9.999999999999991,
-          "Discipline": 27.42316784869975,
+          "On-base": 35,
+          "Power": 9.736842105263154,
+          "Contact": 6.875000000000006,
+          "Discipline": 27.664399092970516,
           "Speed": 0
         },
         "summary": "Ethan Swidler gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .236",
-          "OBP .345",
-          "SLG .364"
+          "AVG .231",
+          "OBP .343",
+          "SLG .357"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".236"
+            "value": ".231"
           },
           {
             "label": "OBP",
-            "value": ".345"
+            "value": ".343"
           },
           {
             "label": "SLG",
-            "value": ".364"
+            "value": ".357"
           },
           {
             "label": "HR",
@@ -829,33 +829,33 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "jersey": "7",
         "profileUrl": "https://gohuskies.com/sports/baseball/roster/blake-wilson/17533",
         "imageUrl": "https://gohuskies.com/images/2026/1/26/_0035_7__Wilson__Blake_uw-bsb-media-day-2026-0220.jpg",
-        "gamesPlayed": 49,
-        "gamesStarted": 44,
-        "battingAverage": 0.265,
-        "onBasePercentage": 0.332,
-        "sluggingPercentage": 0.376,
-        "ops": 0.708,
-        "atBats": 170,
-        "runs": 26,
-        "hits": 45,
-        "doubles": 7,
+        "gamesPlayed": 50,
+        "gamesStarted": 45,
+        "battingAverage": 0.269,
+        "onBasePercentage": 0.333,
+        "sluggingPercentage": 0.4,
+        "ops": 0.733,
+        "atBats": 175,
+        "runs": 27,
+        "hits": 47,
+        "doubles": 8,
         "triples": 3,
-        "homeRuns": 2,
-        "runsBattedIn": 18,
-        "totalBases": 64,
+        "homeRuns": 3,
+        "runsBattedIn": 20,
+        "totalBases": 70,
         "walks": 17,
         "hitByPitch": 1,
-        "strikeouts": 53,
+        "strikeouts": 56,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 6,
         "sacrificeFlies": 2,
         "sacrificeHits": 1,
         "stolenBases": 9,
         "stolenBasesAttempts": 11,
-        "putouts": 32,
+        "putouts": 33,
         "assists": 0,
         "errors": 10,
-        "plateAppearances": 204,
+        "plateAppearances": 209,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -867,59 +867,59 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "jersey": "7",
         "profileUrl": "https://gohuskies.com/sports/baseball/roster/blake-wilson/17533",
         "imageUrl": "https://gohuskies.com/images/2026/1/26/_0035_7__Wilson__Blake_uw-bsb-media-day-2026-0220.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 41,
-        "putouts": 32,
+        "gamesPlayed": 44,
+        "gamesStarted": 42,
+        "putouts": 33,
         "assists": 69,
         "errors": 10,
-        "fieldingPercentage": 0.91,
+        "fieldingPercentage": 0.911,
         "doublePlays": 6,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 111
+        "totalChances": 112
       },
       "evaluation": {
-        "score": 23,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 28.888888888888886,
-          "Power": 14.73684210526316,
-          "Contact": 28.125000000000007,
-          "Discipline": 13.417190775681338,
+          "On-base": 29.44444444444444,
+          "Power": 21.052631578947377,
+          "Contact": 30.625000000000007,
+          "Discipline": 11.507936507936503,
           "Speed": 30
         },
         "summary": "Blake Wilson profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .265",
-          "OBP .332",
-          "SLG .376"
+          "AVG .269",
+          "OBP .333",
+          "SLG .400"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".265"
+            "value": ".269"
           },
           {
             "label": "OBP",
-            "value": ".332"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".376"
+            "value": ".400"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "3"
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "20"
           },
           {
             "label": "SB",
@@ -1119,14 +1119,14 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "jersey": "10",
         "profileUrl": "https://gohuskies.com/sports/baseball/roster/braeden-terry/17530",
         "imageUrl": "https://gohuskies.com/images/2026/1/26/_0033_10__Terry__Braeden_uw-bsb-media-day-2026-0041.jpg",
-        "gamesPlayed": 54,
-        "gamesStarted": 53,
-        "battingAverage": 0.277,
-        "onBasePercentage": 0.396,
-        "sluggingPercentage": 0.419,
-        "ops": 0.815,
-        "atBats": 191,
-        "runs": 36,
+        "gamesPlayed": 55,
+        "gamesStarted": 54,
+        "battingAverage": 0.272,
+        "onBasePercentage": 0.392,
+        "sluggingPercentage": 0.41,
+        "ops": 0.802,
+        "atBats": 195,
+        "runs": 37,
         "hits": 53,
         "doubles": 10,
         "triples": 4,
@@ -1134,18 +1134,18 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "runsBattedIn": 26,
         "totalBases": 80,
         "walks": 33,
-        "hitByPitch": 7,
-        "strikeouts": 40,
+        "hitByPitch": 8,
+        "strikeouts": 41,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 4,
         "sacrificeHits": 1,
         "stolenBases": 2,
         "stolenBasesAttempts": 4,
-        "putouts": 84,
+        "putouts": 87,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 242,
+        "plateAppearances": 247,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1157,10 +1157,10 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "jersey": "10",
         "profileUrl": "https://gohuskies.com/sports/baseball/roster/braeden-terry/17530",
         "imageUrl": "https://gohuskies.com/images/2026/1/26/_0033_10__Terry__Braeden_uw-bsb-media-day-2026-0041.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "putouts": 84,
-        "assists": 3,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "putouts": 87,
+        "assists": 4,
         "errors": 2,
         "fieldingPercentage": 0.978,
         "doublePlays": 0,
@@ -1169,39 +1169,39 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 89
+        "totalChances": 93
       },
       "evaluation": {
-        "score": 44,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 64.44444444444444,
-          "Power": 26.052631578947366,
-          "Contact": 35.625000000000014,
-          "Discipline": 69.44444444444443,
+          "On-base": 62.22222222222222,
+          "Power": 23.684210526315784,
+          "Contact": 32.500000000000014,
+          "Discipline": 67.20867208672087,
           "Speed": 6.666666666666667
         },
         "summary": "Braeden Terry gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .396",
-          "SLG .419"
+          "AVG .272",
+          "OBP .392",
+          "SLG .410"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".272"
           },
           {
             "label": "OBP",
-            "value": ".396"
+            "value": ".392"
           },
           {
             "label": "SLG",
-            "value": ".419"
+            "value": ".410"
           },
           {
             "label": "HR",
@@ -1409,13 +1409,13 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "jersey": "12",
         "profileUrl": "https://gohuskies.com/sports/baseball/roster/casen-taggart/17529",
         "imageUrl": "https://gohuskies.com/images/2026/1/26/_0031_12__Taggart__Casen_uw-bsb-media-day-2026-1066.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 36,
-        "battingAverage": 0.223,
-        "onBasePercentage": 0.335,
-        "sluggingPercentage": 0.408,
-        "ops": 0.743,
-        "atBats": 130,
+        "gamesPlayed": 42,
+        "gamesStarted": 37,
+        "battingAverage": 0.218,
+        "onBasePercentage": 0.333,
+        "sluggingPercentage": 0.398,
+        "ops": 0.731,
+        "atBats": 133,
         "runs": 21,
         "hits": 29,
         "doubles": 5,
@@ -1423,19 +1423,19 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "homeRuns": 5,
         "runsBattedIn": 15,
         "totalBases": 53,
-        "walks": 23,
+        "walks": 24,
         "hitByPitch": 0,
-        "strikeouts": 41,
+        "strikeouts": 42,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
         "sacrificeHits": 1,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 234,
+        "putouts": 236,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 159,
+        "plateAppearances": 163,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1447,51 +1447,51 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "jersey": "12",
         "profileUrl": "https://gohuskies.com/sports/baseball/roster/casen-taggart/17529",
         "imageUrl": "https://gohuskies.com/images/2026/1/26/_0031_12__Taggart__Casen_uw-bsb-media-day-2026-1066.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 33,
-        "putouts": 234,
+        "gamesPlayed": 36,
+        "gamesStarted": 34,
+        "putouts": 236,
         "assists": 14,
         "errors": 2,
         "fieldingPercentage": 0.992,
-        "doublePlays": 16,
+        "doublePlays": 17,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 250
+        "totalChances": 252
       },
       "evaluation": {
-        "score": 23,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 30.555555555555554,
-          "Power": 23.1578947368421,
-          "Contact": 1.8750000000000018,
-          "Discipline": 40.108401084010836,
+          "On-base": 29.44444444444444,
+          "Power": 20.52631578947369,
+          "Contact": 0,
+          "Discipline": 41.26984126984126,
           "Speed": 10
         },
         "summary": "Casen Taggart gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .223",
-          "OBP .335",
-          "SLG .408"
+          "AVG .218",
+          "OBP .333",
+          "SLG .398"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".223"
+            "value": ".218"
           },
           {
             "label": "OBP",
-            "value": ".335"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".408"
+            "value": ".398"
           },
           {
             "label": "HR",
@@ -1554,33 +1554,33 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "jersey": "13",
         "profileUrl": "https://gohuskies.com/sports/baseball/roster/mic-paul/17541",
         "imageUrl": "https://gohuskies.com/images/2026/2/3/13__Paul__Mic.png",
-        "gamesPlayed": 53,
-        "gamesStarted": 52,
-        "battingAverage": 0.242,
-        "onBasePercentage": 0.395,
-        "sluggingPercentage": 0.371,
-        "ops": 0.766,
-        "atBats": 178,
-        "runs": 28,
-        "hits": 43,
+        "gamesPlayed": 54,
+        "gamesStarted": 53,
+        "battingAverage": 0.244,
+        "onBasePercentage": 0.404,
+        "sluggingPercentage": 0.372,
+        "ops": 0.776,
+        "atBats": 180,
+        "runs": 29,
+        "hits": 44,
         "doubles": 8,
         "triples": 3,
         "homeRuns": 3,
-        "runsBattedIn": 24,
-        "totalBases": 66,
-        "walks": 40,
+        "runsBattedIn": 26,
+        "totalBases": 67,
+        "walks": 43,
         "hitByPitch": 5,
-        "strikeouts": 56,
+        "strikeouts": 57,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
         "sacrificeHits": 1,
         "stolenBases": 11,
         "stolenBasesAttempts": 14,
-        "putouts": 128,
+        "putouts": 130,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 241,
+        "plateAppearances": 246,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -1592,9 +1592,9 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "jersey": "13",
         "profileUrl": "https://gohuskies.com/sports/baseball/roster/mic-paul/17541",
         "imageUrl": "https://gohuskies.com/images/2026/2/3/13__Paul__Mic.png",
-        "gamesPlayed": 48,
-        "gamesStarted": 48,
-        "putouts": 128,
+        "gamesPlayed": 49,
+        "gamesStarted": 49,
+        "putouts": 130,
         "assists": 3,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1604,39 +1604,39 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 131
+        "totalChances": 133
       },
       "evaluation": {
-        "score": 38,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 13.421052631578947,
-          "Contact": 13.749999999999996,
-          "Discipline": 57.14285714285713,
+          "On-base": 68.88888888888889,
+          "Power": 13.684210526315788,
+          "Contact": 14.999999999999996,
+          "Discipline": 61.598440545808955,
           "Speed": 36.666666666666664
         },
-        "summary": "Mic Paul profiles as a OF piece who adds running-game pressure.",
+        "summary": "Mic Paul profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .242",
-          "OBP .395",
-          "SLG .371"
+          "AVG .244",
+          "OBP .404",
+          "SLG .372"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".242"
+            "value": ".244"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": ".404"
           },
           {
             "label": "SLG",
-            "value": ".371"
+            "value": ".372"
           },
           {
             "label": "HR",
@@ -1644,7 +1644,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "26"
           },
           {
             "label": "SB",
@@ -1983,33 +1983,33 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "jersey": "19",
         "profileUrl": "https://gohuskies.com/sports/baseball/roster/jackson-hotchkiss/17524",
         "imageUrl": "https://gohuskies.com/images/2026/1/26/_0026_19__Hotchkiss__Jackson_EKLU0371.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 43,
-        "battingAverage": 0.348,
+        "gamesPlayed": 45,
+        "gamesStarted": 44,
+        "battingAverage": 0.346,
         "onBasePercentage": 0.423,
-        "sluggingPercentage": 0.73,
-        "ops": 1.153,
-        "atBats": 178,
-        "runs": 45,
-        "hits": 62,
+        "sluggingPercentage": 0.736,
+        "ops": 1.159,
+        "atBats": 182,
+        "runs": 47,
+        "hits": 63,
         "doubles": 9,
         "triples": 1,
-        "homeRuns": 19,
-        "runsBattedIn": 45,
-        "totalBases": 130,
-        "walks": 22,
+        "homeRuns": 20,
+        "runsBattedIn": 47,
+        "totalBases": 134,
+        "walks": 23,
         "hitByPitch": 4,
-        "strikeouts": 53,
+        "strikeouts": 54,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 4,
         "sacrificeHits": 0,
         "stolenBases": 7,
         "stolenBasesAttempts": 9,
-        "putouts": 66,
+        "putouts": 69,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 219,
+        "plateAppearances": 224,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -2021,22 +2021,22 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "jersey": "19",
         "profileUrl": "https://gohuskies.com/sports/baseball/roster/jackson-hotchkiss/17524",
         "imageUrl": "https://gohuskies.com/images/2026/1/26/_0026_19__Hotchkiss__Jackson_EKLU0371.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
-        "putouts": 66,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "putouts": 69,
         "assists": 2,
         "errors": 2,
-        "fieldingPercentage": 0.971,
+        "fieldingPercentage": 0.973,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 70
+        "totalChances": 73
       },
       "evaluation": {
-        "score": 72,
+        "score": 71,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
@@ -2044,20 +2044,20 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "components": {
           "On-base": 79.44444444444443,
           "Power": 100,
-          "Contact": 79.99999999999999,
-          "Discipline": 23.899371069182386,
+          "Contact": 78.74999999999999,
+          "Discipline": 25.10288065843621,
           "Speed": 23.333333333333332
         },
         "summary": "Jackson Hotchkiss profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .348",
+          "AVG .346",
           "OBP .423",
-          "SLG .730"
+          "SLG .736"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".348"
+            "value": ".346"
           },
           {
             "label": "OBP",
@@ -2065,15 +2065,15 @@ window.__BASEBALL_DATASETS__.washington2026 = {
           },
           {
             "label": "SLG",
-            "value": ".730"
+            "value": ".736"
           },
           {
             "label": "HR",
-            "value": "19"
+            "value": "20"
           },
           {
             "label": "RBI",
-            "value": "45"
+            "value": "47"
           },
           {
             "label": "SB",
@@ -2271,31 +2271,31 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "jersey": "21",
         "profileUrl": "https://gohuskies.com/sports/baseball/roster/jack-wade/17547",
         "imageUrl": "https://gohuskies.com/images/2026/1/26/_0024_21__Wade__Jack_uw-bsb-media-day-2026-0681.jpg",
-        "gamesPlayed": 16,
+        "gamesPlayed": 17,
         "gamesStarted": 1,
-        "appearances": 16,
+        "appearances": 17,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.2,
-        "whip": 1.82,
+        "earnedRunAverage": 6,
+        "whip": 1.86,
         "wins": 1,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 20.333333333333332,
-        "inningsPitchedDisplay": "20.1",
+        "inningsPitched": 21,
+        "inningsPitchedDisplay": "21.0",
         "hitsAllowed": 11,
         "runsAllowed": 15,
         "earnedRunsAllowed": 14,
-        "walksAllowed": 26,
-        "strikeouts": 32,
+        "walksAllowed": 28,
+        "strikeouts": 33,
         "doublesAllowed": 2,
         "triplesAllowed": 1,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 70,
+        "opponentsAtBats": 73,
         "wildPitches": 0,
         "hitBatters": 6,
         "balks": 0,
-        "opponentsBattingAverage": 0.157,
+        "opponentsBattingAverage": 0.151,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2328,40 +2328,40 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 92.39940387481373,
-          "Command": 4.615384615384617,
+          "Miss bats": 92.20779220779221,
+          "Command": 3.571428571428572,
           "Damage suppression": 0
         },
         "summary": "Jack Wade looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.20",
-          "WHIP 1.82",
-          "K/9 14.2"
+          "ERA 6.00",
+          "WHIP 1.86",
+          "K/9 14.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.20"
+            "value": "6.00"
           },
           {
             "label": "WHIP",
-            "value": "1.82"
+            "value": "1.86"
           },
           {
             "label": "K/9",
-            "value": "14.2"
+            "value": "14.1"
           },
           {
             "label": "BB/9",
-            "value": "11.5"
+            "value": "12.0"
           },
           {
             "label": "HR/9",
-            "value": "0.89"
+            "value": "0.86"
           },
           {
             "label": "IP",
-            "value": "20.3"
+            "value": "21.0"
           }
         ],
         "metaLine": "JR / L/L",
@@ -3220,31 +3220,31 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "jersey": "29",
         "profileUrl": "https://gohuskies.com/sports/baseball/roster/bryce-johnson/17553",
         "imageUrl": "https://gohuskies.com/images/2026/1/26/_0018_29__Johnson__Bryce_uw-bsb-media-day-2026-0926.jpg",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 2,
-        "appearances": 19,
+        "appearances": 20,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.16,
-        "whip": 1.58,
+        "earnedRunAverage": 5.8,
+        "whip": 1.51,
         "wins": 0,
         "losses": 4,
-        "saves": 2,
+        "saves": 3,
         "shutouts": 0,
-        "inningsPitched": 38,
-        "inningsPitchedDisplay": "38.0",
+        "inningsPitched": 40.333333333333336,
+        "inningsPitchedDisplay": "40.1",
         "hitsAllowed": 45,
         "runsAllowed": 32,
         "earnedRunsAllowed": 26,
-        "walksAllowed": 15,
-        "strikeouts": 36,
+        "walksAllowed": 16,
+        "strikeouts": 39,
         "doublesAllowed": 16,
         "triplesAllowed": 0,
         "homeRunsAllowed": 7,
-        "opponentsAtBats": 156,
+        "opponentsAtBats": 162,
         "wildPitches": 1,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.288,
+        "opponentsBattingAverage": 0.278,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3277,28 +3277,28 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 41.148325358851686,
-          "Command": 27.999999999999996,
+          "Miss bats": 42.74981217129978,
+          "Command": 28.750000000000007,
           "Damage suppression": 0
         },
         "summary": "Bryce Johnson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.16",
-          "WHIP 1.58",
-          "K/9 8.5"
+          "ERA 5.80",
+          "WHIP 1.51",
+          "K/9 8.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.16"
+            "value": "5.80"
           },
           {
             "label": "WHIP",
-            "value": "1.58"
+            "value": "1.51"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "8.7"
           },
           {
             "label": "BB/9",
@@ -3306,11 +3306,11 @@ window.__BASEBALL_DATASETS__.washington2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.66"
+            "value": "1.56"
           },
           {
             "label": "IP",
-            "value": "38.0"
+            "value": "40.3"
           }
         ],
         "metaLine": "SO / R/R",
@@ -4069,31 +4069,31 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "jersey": "39",
         "profileUrl": "https://gohuskies.com/sports/baseball/roster/jackson-thomas/17531",
         "imageUrl": "https://gohuskies.com/images/2026/1/26/_0012_39__Thomas__Jackson_uw-bsb-media-day-2026-1172.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 10,
-        "appearances": 13,
+        "gamesPlayed": 14,
+        "gamesStarted": 11,
+        "appearances": 14,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.13,
-        "whip": 1.37,
-        "wins": 2,
+        "earnedRunAverage": 4.76,
+        "whip": 1.4,
+        "wins": 3,
         "losses": 4,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 52.666666666666664,
-        "inningsPitchedDisplay": "52.2",
-        "hitsAllowed": 56,
-        "runsAllowed": 36,
-        "earnedRunsAllowed": 30,
-        "walksAllowed": 16,
-        "strikeouts": 42,
+        "inningsPitched": 58.666666666666664,
+        "inningsPitchedDisplay": "58.2",
+        "hitsAllowed": 64,
+        "runsAllowed": 37,
+        "earnedRunsAllowed": 31,
+        "walksAllowed": 18,
+        "strikeouts": 51,
         "doublesAllowed": 15,
         "triplesAllowed": 3,
         "homeRunsAllowed": 7,
-        "opponentsAtBats": 210,
+        "opponentsAtBats": 234,
         "wildPitches": 3,
         "hitBatters": 8,
         "balks": 0,
-        "opponentsBattingAverage": 0.267,
+        "opponentsBattingAverage": 0.274,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4118,7 +4118,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "totalChances": 7
       },
       "evaluation": {
-        "score": 11,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4126,40 +4126,40 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 28.883774453394707,
-          "Command": 32.5,
+          "Miss bats": 34.76239669421488,
+          "Command": 36.66666666666666,
           "Damage suppression": 0
         },
         "summary": "Jackson Thomas looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.13",
-          "WHIP 1.37",
-          "K/9 7.2"
+          "ERA 4.76",
+          "WHIP 1.40",
+          "K/9 7.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.13"
+            "value": "4.76"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "1.40"
           },
           {
             "label": "K/9",
-            "value": "7.2"
+            "value": "7.8"
           },
           {
             "label": "BB/9",
-            "value": "2.7"
+            "value": "2.8"
           },
           {
             "label": "HR/9",
-            "value": "1.20"
+            "value": "1.07"
           },
           {
             "label": "IP",
-            "value": "52.7"
+            "value": "58.7"
           }
         ],
         "metaLine": "GR / R/R",
@@ -4494,20 +4494,20 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "jersey": "51",
         "profileUrl": "https://gohuskies.com/sports/baseball/roster/sam-decarlo/17523",
         "imageUrl": "https://gohuskies.com/images/2026/1/26/_0009_51__DeCarlo__Sam_uw-bsb-media-day-2026-1232.jpg",
-        "gamesPlayed": 54,
-        "gamesStarted": 54,
-        "battingAverage": 0.292,
+        "gamesPlayed": 55,
+        "gamesStarted": 55,
+        "battingAverage": 0.295,
         "onBasePercentage": 0.389,
-        "sluggingPercentage": 0.47,
-        "ops": 0.859,
-        "atBats": 202,
-        "runs": 36,
-        "hits": 59,
-        "doubles": 11,
+        "sluggingPercentage": 0.478,
+        "ops": 0.867,
+        "atBats": 207,
+        "runs": 37,
+        "hits": 61,
+        "doubles": 13,
         "triples": 2,
         "homeRuns": 7,
-        "runsBattedIn": 36,
-        "totalBases": 95,
+        "runsBattedIn": 37,
+        "totalBases": 99,
         "walks": 31,
         "hitByPitch": 3,
         "strikeouts": 50,
@@ -4517,10 +4517,10 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "sacrificeHits": 0,
         "stolenBases": 10,
         "stolenBasesAttempts": 13,
-        "putouts": 80,
+        "putouts": 83,
         "assists": 0,
         "errors": 12,
-        "plateAppearances": 255,
+        "plateAppearances": 260,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -4532,19 +4532,19 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "jersey": "51",
         "profileUrl": "https://gohuskies.com/sports/baseball/roster/sam-decarlo/17523",
         "imageUrl": "https://gohuskies.com/images/2026/1/26/_0009_51__DeCarlo__Sam_uw-bsb-media-day-2026-1232.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "putouts": 80,
-        "assists": 113,
+        "gamesPlayed": 52,
+        "gamesStarted": 52,
+        "putouts": 83,
+        "assists": 114,
         "errors": 12,
-        "fieldingPercentage": 0.941,
-        "doublePlays": 16,
+        "fieldingPercentage": 0.943,
+        "doublePlays": 17,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 205
+        "totalChances": 209
       },
       "evaluation": {
         "score": 48,
@@ -4554,21 +4554,21 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         },
         "components": {
           "On-base": 60.55555555555555,
-          "Power": 39.47368421052631,
-          "Contact": 44.999999999999986,
+          "Power": 41.57894736842105,
+          "Contact": 46.874999999999986,
           "Discipline": 46.66666666666666,
           "Speed": 33.33333333333333
         },
         "summary": "Sam DeCarlo profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .292",
+          "AVG .295",
           "OBP .389",
-          "SLG .470"
+          "SLG .478"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".295"
           },
           {
             "label": "OBP",
@@ -4576,7 +4576,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
           },
           {
             "label": "SLG",
-            "value": ".470"
+            "value": ".478"
           },
           {
             "label": "HR",
@@ -4584,7 +4584,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
           },
           {
             "label": "RBI",
-            "value": "36"
+            "value": "37"
           },
           {
             "label": "SB",
@@ -4856,22 +4856,22 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         },
         "summary": "Ty Cowan profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .224",
-          "OBP .360",
-          "SLG .284"
+          "AVG .226",
+          "OBP .362",
+          "SLG .285"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".224"
+            "value": ".226"
           },
           {
             "label": "OBP",
-            "value": ".360"
+            "value": ".362"
           },
           {
             "label": "SLG",
-            "value": ".284"
+            "value": ".285"
           },
           {
             "label": "HR",
@@ -4887,9 +4887,9 @@ window.__BASEBALL_DATASETS__.washington2026 = {
           }
         ],
         "components": {
-          "On-base": 44.44444444444443,
+          "On-base": 45.555555555555536,
           "Power": 0,
-          "Contact": 2.500000000000002,
+          "Contact": 3.7500000000000036,
           "Discipline": 100,
           "Speed": 10
         },
@@ -4918,29 +4918,29 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "position": "C",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 58,
+        "score": 53,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "summary": "Colton Bower profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .321",
-          "OBP .390",
-          "SLG .693"
+          "AVG .310",
+          "OBP .378",
+          "SLG .669"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".321"
+            "value": ".310"
           },
           {
             "label": "OBP",
-            "value": ".390"
+            "value": ".378"
           },
           {
             "label": "SLG",
-            "value": ".693"
+            "value": ".669"
           },
           {
             "label": "HR",
@@ -4956,10 +4956,10 @@ window.__BASEBALL_DATASETS__.washington2026 = {
           }
         ],
         "components": {
-          "On-base": 61.11111111111111,
-          "Power": 98.1578947368421,
-          "Contact": 63.125,
-          "Discipline": 6.146572104018908,
+          "On-base": 54.44444444444443,
+          "Power": 91.84210526315792,
+          "Contact": 56.25,
+          "Discipline": 4.988662131519272,
           "Speed": 10
         },
         "metaLine": "R-JR / R/R",
@@ -5055,29 +5055,29 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "position": "C",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 20,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ethan Swidler gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .236",
-          "OBP .345",
-          "SLG .364"
+          "AVG .231",
+          "OBP .343",
+          "SLG .357"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".236"
+            "value": ".231"
           },
           {
             "label": "OBP",
-            "value": ".345"
+            "value": ".343"
           },
           {
             "label": "SLG",
-            "value": ".364"
+            "value": ".357"
           },
           {
             "label": "HR",
@@ -5093,10 +5093,10 @@ window.__BASEBALL_DATASETS__.washington2026 = {
           }
         ],
         "components": {
-          "On-base": 36.111111111111086,
-          "Power": 11.57894736842105,
-          "Contact": 9.999999999999991,
-          "Discipline": 27.42316784869975,
+          "On-base": 35,
+          "Power": 9.736842105263154,
+          "Contact": 6.875000000000006,
+          "Discipline": 27.664399092970516,
           "Speed": 0
         },
         "metaLine": "SR / R/R",
@@ -5193,37 +5193,37 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 23,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Blake Wilson profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .265",
-          "OBP .332",
-          "SLG .376"
+          "AVG .269",
+          "OBP .333",
+          "SLG .400"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".265"
+            "value": ".269"
           },
           {
             "label": "OBP",
-            "value": ".332"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".376"
+            "value": ".400"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "3"
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "20"
           },
           {
             "label": "SB",
@@ -5231,10 +5231,10 @@ window.__BASEBALL_DATASETS__.washington2026 = {
           }
         ],
         "components": {
-          "On-base": 28.888888888888886,
-          "Power": 14.73684210526316,
-          "Contact": 28.125000000000007,
-          "Discipline": 13.417190775681338,
+          "On-base": 29.44444444444444,
+          "Power": 21.052631578947377,
+          "Contact": 30.625000000000007,
+          "Discipline": 11.507936507936503,
           "Speed": 30
         },
         "metaLine": "JR / R/R",
@@ -5331,29 +5331,29 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "position": "OF",
         "classYear": "GR",
         "handedness": "L/L",
-        "score": 44,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Braeden Terry gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .396",
-          "SLG .419"
+          "AVG .272",
+          "OBP .392",
+          "SLG .410"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".272"
           },
           {
             "label": "OBP",
-            "value": ".396"
+            "value": ".392"
           },
           {
             "label": "SLG",
-            "value": ".419"
+            "value": ".410"
           },
           {
             "label": "HR",
@@ -5369,10 +5369,10 @@ window.__BASEBALL_DATASETS__.washington2026 = {
           }
         ],
         "components": {
-          "On-base": 64.44444444444444,
-          "Power": 26.052631578947366,
-          "Contact": 35.625000000000014,
-          "Discipline": 69.44444444444443,
+          "On-base": 62.22222222222222,
+          "Power": 23.684210526315784,
+          "Contact": 32.500000000000014,
+          "Discipline": 67.20867208672087,
           "Speed": 6.666666666666667
         },
         "metaLine": "GR / L/L",
@@ -5469,29 +5469,29 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "position": "INF/OF",
         "classYear": "GR",
         "handedness": "L/R",
-        "score": 23,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Casen Taggart gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .223",
-          "OBP .335",
-          "SLG .408"
+          "AVG .218",
+          "OBP .333",
+          "SLG .398"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".223"
+            "value": ".218"
           },
           {
             "label": "OBP",
-            "value": ".335"
+            "value": ".333"
           },
           {
             "label": "SLG",
-            "value": ".408"
+            "value": ".398"
           },
           {
             "label": "HR",
@@ -5507,10 +5507,10 @@ window.__BASEBALL_DATASETS__.washington2026 = {
           }
         ],
         "components": {
-          "On-base": 30.555555555555554,
-          "Power": 23.1578947368421,
-          "Contact": 1.8750000000000018,
-          "Discipline": 40.108401084010836,
+          "On-base": 29.44444444444444,
+          "Power": 20.52631578947369,
+          "Contact": 0,
+          "Discipline": 41.26984126984126,
           "Speed": 10
         },
         "metaLine": "GR / L/R",
@@ -5538,29 +5538,29 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 38,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Mic Paul profiles as a OF piece who adds running-game pressure.",
+        "summary": "Mic Paul profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .242",
-          "OBP .395",
-          "SLG .371"
+          "AVG .244",
+          "OBP .404",
+          "SLG .372"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".242"
+            "value": ".244"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": ".404"
           },
           {
             "label": "SLG",
-            "value": ".371"
+            "value": ".372"
           },
           {
             "label": "HR",
@@ -5568,7 +5568,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "26"
           },
           {
             "label": "SB",
@@ -5576,10 +5576,10 @@ window.__BASEBALL_DATASETS__.washington2026 = {
           }
         ],
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 13.421052631578947,
-          "Contact": 13.749999999999996,
-          "Discipline": 57.14285714285713,
+          "On-base": 68.88888888888889,
+          "Power": 13.684210526315788,
+          "Contact": 14.999999999999996,
+          "Discipline": 61.598440545808955,
           "Speed": 36.666666666666664
         },
         "metaLine": "JR / L/L",
@@ -5745,21 +5745,21 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 72,
+        "score": 71,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Jackson Hotchkiss profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .348",
+          "AVG .346",
           "OBP .423",
-          "SLG .730"
+          "SLG .736"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".348"
+            "value": ".346"
           },
           {
             "label": "OBP",
@@ -5767,15 +5767,15 @@ window.__BASEBALL_DATASETS__.washington2026 = {
           },
           {
             "label": "SLG",
-            "value": ".730"
+            "value": ".736"
           },
           {
             "label": "HR",
-            "value": "19"
+            "value": "20"
           },
           {
             "label": "RBI",
-            "value": "45"
+            "value": "47"
           },
           {
             "label": "SB",
@@ -5785,8 +5785,8 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "components": {
           "On-base": 79.44444444444443,
           "Power": 100,
-          "Contact": 79.99999999999999,
-          "Discipline": 23.899371069182386,
+          "Contact": 78.74999999999999,
+          "Discipline": 25.10288065843621,
           "Speed": 23.333333333333332
         },
         "metaLine": "SO / R/R",
@@ -5890,41 +5890,41 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         },
         "summary": "Jack Wade looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.20",
-          "WHIP 1.82",
-          "K/9 14.2"
+          "ERA 6.00",
+          "WHIP 1.86",
+          "K/9 14.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.20"
+            "value": "6.00"
           },
           {
             "label": "WHIP",
-            "value": "1.82"
+            "value": "1.86"
           },
           {
             "label": "K/9",
-            "value": "14.2"
+            "value": "14.1"
           },
           {
             "label": "BB/9",
-            "value": "11.5"
+            "value": "12.0"
           },
           {
             "label": "HR/9",
-            "value": "0.89"
+            "value": "0.86"
           },
           {
             "label": "IP",
-            "value": "20.3"
+            "value": "21.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 92.39940387481373,
-          "Command": 4.615384615384617,
+          "Miss bats": 92.20779220779221,
+          "Command": 3.571428571428572,
           "Damage suppression": 0
         },
         "metaLine": "JR / L/L",
@@ -6372,22 +6372,22 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         },
         "summary": "Bryce Johnson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.16",
-          "WHIP 1.58",
-          "K/9 8.5"
+          "ERA 5.80",
+          "WHIP 1.51",
+          "K/9 8.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.16"
+            "value": "5.80"
           },
           {
             "label": "WHIP",
-            "value": "1.58"
+            "value": "1.51"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "8.7"
           },
           {
             "label": "BB/9",
@@ -6395,18 +6395,18 @@ window.__BASEBALL_DATASETS__.washington2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.66"
+            "value": "1.56"
           },
           {
             "label": "IP",
-            "value": "38.0"
+            "value": "40.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 41.148325358851686,
-          "Command": 27.999999999999996,
+          "Miss bats": 42.74981217129978,
+          "Command": 28.750000000000007,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -6846,48 +6846,48 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "position": "RHP",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 11,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jackson Thomas looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.13",
-          "WHIP 1.37",
-          "K/9 7.2"
+          "ERA 4.76",
+          "WHIP 1.40",
+          "K/9 7.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.13"
+            "value": "4.76"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "1.40"
           },
           {
             "label": "K/9",
-            "value": "7.2"
+            "value": "7.8"
           },
           {
             "label": "BB/9",
-            "value": "2.7"
+            "value": "2.8"
           },
           {
             "label": "HR/9",
-            "value": "1.20"
+            "value": "1.07"
           },
           {
             "label": "IP",
-            "value": "52.7"
+            "value": "58.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 28.883774453394707,
-          "Command": 32.5,
+          "Miss bats": 34.76239669421488,
+          "Command": 36.66666666666666,
           "Damage suppression": 0
         },
         "metaLine": "GR / R/R",
@@ -7060,14 +7060,14 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         },
         "summary": "Sam DeCarlo profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .292",
+          "AVG .295",
           "OBP .389",
-          "SLG .470"
+          "SLG .478"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".295"
           },
           {
             "label": "OBP",
@@ -7075,7 +7075,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
           },
           {
             "label": "SLG",
-            "value": ".470"
+            "value": ".478"
           },
           {
             "label": "HR",
@@ -7083,7 +7083,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
           },
           {
             "label": "RBI",
-            "value": "36"
+            "value": "37"
           },
           {
             "label": "SB",
@@ -7092,8 +7092,8 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         ],
         "components": {
           "On-base": 60.55555555555555,
-          "Power": 39.47368421052631,
-          "Contact": 44.999999999999986,
+          "Power": 41.57894736842105,
+          "Contact": 46.874999999999986,
           "Discipline": 46.66666666666666,
           "Speed": 33.33333333333333
         },

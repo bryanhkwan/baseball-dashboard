@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.toledo2026 = {
-  "generatedAt": "2026-05-20T12:39:09.262Z",
+  "generatedAt": "2026-05-21T13:32:10.909Z",
   "season": 2026,
   "school": {
     "slug": "toledo",
@@ -42,84 +42,84 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
     }
   },
   "teamSummary": {
-    "record": "29-27, 21-12",
-    "battingAverage": ".306",
-    "earnedRunAverage": "5.47",
-    "wins": "29",
+    "record": "30-27, 21-12",
+    "battingAverage": ".307",
+    "earnedRunAverage": "5.40",
+    "wins": "30",
     "losses": "27",
     "hitting": {
-      "atBats": "1896",
-      "runsScored": "443",
-      "hits": "581",
-      "runsBattedIn": "410",
-      "doubles": "133",
+      "atBats": "1929",
+      "runsScored": "451",
+      "hits": "593",
+      "runsBattedIn": "418",
+      "doubles": "135",
       "triples": "10",
-      "homeRuns": "47",
-      "walks": "236",
+      "homeRuns": "48",
+      "walks": "239",
       "intentionalWalks": "7",
-      "strikeouts": "353",
-      "strikeoutsLooking": "97",
-      "hitByPitch": "133",
-      "stolenBases": "83",
+      "strikeouts": "361",
+      "strikeoutsLooking": "99",
+      "hitByPitch": "134",
+      "stolenBases": "85",
       "caughtStealing": "26",
-      "sacrificeHits": "26",
-      "sacrificeFlies": "31",
+      "sacrificeHits": "27",
+      "sacrificeFlies": "32",
       "reachedOnCatchersInteference": "1",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "448",
-      "flyOuts": "517",
-      "groundedIntoDoublePlay": "28",
+      "groundOuts": "455",
+      "flyOuts": "525",
+      "groundedIntoDoublePlay": "29",
       "pickedOff": "6",
-      "doublePlaysHitInto": "36",
+      "doublePlaysHitInto": "37",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1398",
-      "assists": "461",
-      "errors": "46",
+      "putouts": "1425",
+      "assists": "474",
+      "errors": "47",
       "passedBalls": "15",
       "catchersInterference": "0",
       "stolenBasesAgainst": "117",
       "caughtStealingBy": "30",
       "involvedInDoublePlays": "22",
       "involvedInTriplePlays": "0",
-      "totalChances": "1905",
+      "totalChances": "1946",
       "fieldingPercentage": ".976"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "29",
+      "wins": "30",
       "saves": "7",
       "losses": "27",
       "gamesStarted": "0",
-      "gamesCompleted": "0",
+      "gamesCompleted": "1",
       "shutouts": "2",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "466.0",
-      "hitsAllowed": "464",
-      "runsAllowed": "317",
-      "earnedRunsAllowed": "283",
-      "walksAllowed": "240",
-      "strikeouts": "504",
-      "battersFaced": "2132",
-      "opponentAtBats": "1798",
-      "doublesAllowed": "77",
+      "inningsPitched": "475.0",
+      "hitsAllowed": "472",
+      "runsAllowed": "319",
+      "earnedRunsAllowed": "285",
+      "walksAllowed": "244",
+      "strikeouts": "512",
+      "battersFaced": "2171",
+      "opponentAtBats": "1832",
+      "doublesAllowed": "79",
       "triplesAllowed": "8",
       "homerunsAllowed": "42",
       "wildPitches": "75",
       "balks": "4",
       "hitBatters": "69",
-      "strikeoutsLooking": "149",
+      "strikeoutsLooking": "152",
       "intentionalWalks": "3",
       "inheritedRunners": "3",
       "inheritedRunnersThatScored": "2",
       "sacrificeHitsAllowed": "11",
-      "sacrificeFliesAllowed": "14",
+      "sacrificeFliesAllowed": "15",
       "catchersInterferenceAllowed": "0",
-      "pitches": "8342",
-      "flyouts": "424",
-      "groundouts": "402",
+      "pitches": "8472",
+      "flyouts": "431",
+      "groundouts": "414",
       "teamUnearnedRuns": "0",
       "saveRecord": "2",
       "pickoff": "6"
@@ -164,14 +164,14 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "jersey": "1",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/drew-tajblik/10273",
         "imageUrl": "https://utrockets.com/images/2025/12/15/Drew_Tajblik_cropped.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 2,
         "battingAverage": 0.143,
         "onBasePercentage": 0.333,
         "sluggingPercentage": 0.143,
         "ops": 0.476,
         "atBats": 7,
-        "runs": 2,
+        "runs": 3,
         "hits": 1,
         "doubles": 0,
         "triples": 0,
@@ -454,20 +454,20 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "jersey": "4",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/ryan-sudbrook/10275",
         "imageUrl": "https://utrockets.com/images/2025/12/15/Ryan_Sudbrook_cropped.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 18,
-        "battingAverage": 0.214,
-        "onBasePercentage": 0.343,
+        "gamesPlayed": 30,
+        "gamesStarted": 19,
+        "battingAverage": 0.217,
+        "onBasePercentage": 0.338,
         "sluggingPercentage": 0.25,
-        "ops": 0.593,
-        "atBats": 56,
+        "ops": 0.588,
+        "atBats": 60,
         "runs": 16,
-        "hits": 12,
+        "hits": 13,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 0,
-        "runsBattedIn": 6,
-        "totalBases": 14,
+        "runsBattedIn": 7,
+        "totalBases": 15,
         "walks": 7,
         "hitByPitch": 4,
         "strikeouts": 8,
@@ -477,10 +477,10 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "sacrificeHits": 5,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 28,
+        "putouts": 30,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 73,
+        "plateAppearances": 77,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -492,28 +492,28 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "jersey": "4",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/ryan-sudbrook/10275",
         "imageUrl": "https://utrockets.com/images/2025/12/15/Ryan_Sudbrook_cropped.jpg",
-        "gamesPlayed": 21,
-        "gamesStarted": 17,
-        "putouts": 28,
-        "assists": 28,
+        "gamesPlayed": 22,
+        "gamesStarted": 18,
+        "putouts": 30,
+        "assists": 30,
         "errors": 3,
-        "fieldingPercentage": 0.949,
+        "fieldingPercentage": 0.952,
         "doublePlays": 4,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 59
+        "totalChances": 63
       },
       "evaluation": {
-        "score": 22,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 35,
+          "On-base": 32.22222222222222,
           "Power": 0,
           "Contact": 0,
           "Discipline": 74.99999999999999,
@@ -521,18 +521,18 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         },
         "summary": "Ryan Sudbrook gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .214",
-          "OBP .343",
+          "AVG .217",
+          "OBP .338",
           "SLG .250"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".214"
+            "value": ".217"
           },
           {
             "label": "OBP",
-            "value": ".343"
+            "value": ".338"
           },
           {
             "label": "SLG",
@@ -544,7 +544,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           },
           {
             "label": "RBI",
-            "value": "6"
+            "value": "7"
           },
           {
             "label": "SB",
@@ -599,20 +599,20 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "jersey": "5",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/charlie-scholvin/10267",
         "imageUrl": "https://utrockets.com/images/2025/12/15/Charlie_Scholvin_cropped.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 56,
+        "gamesPlayed": 57,
+        "gamesStarted": 57,
         "battingAverage": 0.374,
-        "onBasePercentage": 0.507,
-        "sluggingPercentage": 0.529,
-        "ops": 1.036,
-        "atBats": 206,
-        "runs": 64,
-        "hits": 77,
+        "onBasePercentage": 0.505,
+        "sluggingPercentage": 0.526,
+        "ops": 1.031,
+        "atBats": 211,
+        "runs": 65,
+        "hits": 79,
         "doubles": 16,
         "triples": 2,
         "homeRuns": 4,
         "runsBattedIn": 47,
-        "totalBases": 109,
+        "totalBases": 111,
         "walks": 28,
         "hitByPitch": 31,
         "strikeouts": 20,
@@ -620,12 +620,12 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 3,
         "sacrificeHits": 2,
-        "stolenBases": 24,
-        "stolenBasesAttempts": 28,
+        "stolenBases": 25,
+        "stolenBasesAttempts": 29,
         "putouts": 64,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 302,
+        "plateAppearances": 308,
         "caughtStealing": 4,
         "pickedOff": 1
       },
@@ -637,19 +637,19 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "jersey": "5",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/charlie-scholvin/10267",
         "imageUrl": "https://utrockets.com/images/2025/12/15/Charlie_Scholvin_cropped.jpg",
-        "gamesPlayed": 55,
-        "gamesStarted": 55,
+        "gamesPlayed": 56,
+        "gamesStarted": 56,
         "putouts": 64,
-        "assists": 107,
+        "assists": 111,
         "errors": 6,
-        "fieldingPercentage": 0.966,
+        "fieldingPercentage": 0.967,
         "doublePlays": 11,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 177
+        "totalChances": 181
       },
       "evaluation": {
         "score": 86,
@@ -659,16 +659,16 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         },
         "components": {
           "On-base": 100,
-          "Power": 55.000000000000014,
+          "Power": 54.21052631578949,
           "Contact": 96.25,
           "Discipline": 100,
-          "Speed": 80
+          "Speed": 83.33333333333334
         },
         "summary": "Charlie Scholvin profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .374",
-          "OBP .507",
-          "SLG .529"
+          "OBP .505",
+          "SLG .526"
         ],
         "statCards": [
           {
@@ -677,11 +677,11 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           },
           {
             "label": "OBP",
-            "value": ".507"
+            "value": ".505"
           },
           {
             "label": "SLG",
-            "value": ".529"
+            "value": ".526"
           },
           {
             "label": "HR",
@@ -693,7 +693,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           },
           {
             "label": "SB",
-            "value": "24"
+            "value": "25"
           }
         ],
         "metaLine": "JR / R/R",
@@ -744,20 +744,20 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "jersey": "6",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/preston-zumwalt/10276",
         "imageUrl": "https://utrockets.com/images/2025/12/15/Preston_Zumwalt_cropped.jpg",
-        "gamesPlayed": 28,
+        "gamesPlayed": 29,
         "gamesStarted": 17,
-        "battingAverage": 0.22,
-        "onBasePercentage": 0.342,
-        "sluggingPercentage": 0.339,
-        "ops": 0.681,
-        "atBats": 59,
+        "battingAverage": 0.233,
+        "onBasePercentage": 0.351,
+        "sluggingPercentage": 0.35,
+        "ops": 0.701,
+        "atBats": 60,
         "runs": 12,
-        "hits": 13,
+        "hits": 14,
         "doubles": 4,
         "triples": 0,
         "homeRuns": 1,
         "runsBattedIn": 16,
-        "totalBases": 20,
+        "totalBases": 21,
         "walks": 11,
         "hitByPitch": 1,
         "strikeouts": 22,
@@ -767,10 +767,10 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "sacrificeHits": 2,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 114,
+        "putouts": 116,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 75,
+        "plateAppearances": 76,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -782,9 +782,9 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "jersey": "6",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/preston-zumwalt/10276",
         "imageUrl": "https://utrockets.com/images/2025/12/15/Preston_Zumwalt_cropped.jpg",
-        "gamesPlayed": 22,
+        "gamesPlayed": 23,
         "gamesStarted": 17,
-        "putouts": 114,
+        "putouts": 116,
         "assists": 8,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -794,39 +794,39 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 122
+        "totalChances": 124
       },
       "evaluation": {
-        "score": 17,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 34.44444444444444,
-          "Power": 5.000000000000005,
-          "Contact": 0,
+          "On-base": 39.44444444444442,
+          "Power": 7.8947368421052575,
+          "Contact": 8.125000000000007,
           "Discipline": 33.33333333333333,
           "Speed": 0
         },
         "summary": "Preston Zumwalt gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .220",
-          "OBP .342",
-          "SLG .339"
+          "AVG .233",
+          "OBP .351",
+          "SLG .350"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".220"
+            "value": ".233"
           },
           {
             "label": "OBP",
-            "value": ".342"
+            "value": ".351"
           },
           {
             "label": "SLG",
-            "value": ".339"
+            "value": ".350"
           },
           {
             "label": "HR",
@@ -889,33 +889,33 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "jersey": "7",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/cade-baker/10277",
         "imageUrl": "https://utrockets.com/images/2025/12/15/Cade_Baker_cropped.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 56,
-        "battingAverage": 0.322,
-        "onBasePercentage": 0.404,
-        "sluggingPercentage": 0.515,
-        "ops": 0.919,
-        "atBats": 233,
-        "runs": 57,
-        "hits": 75,
-        "doubles": 21,
+        "gamesPlayed": 57,
+        "gamesStarted": 57,
+        "battingAverage": 0.325,
+        "onBasePercentage": 0.406,
+        "sluggingPercentage": 0.523,
+        "ops": 0.929,
+        "atBats": 237,
+        "runs": 59,
+        "hits": 77,
+        "doubles": 23,
         "triples": 0,
         "homeRuns": 8,
-        "runsBattedIn": 46,
-        "totalBases": 120,
+        "runsBattedIn": 47,
+        "totalBases": 124,
         "walks": 11,
         "hitByPitch": 24,
         "strikeouts": 28,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 4,
+        "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 4,
         "sacrificeHits": 1,
         "stolenBases": 18,
         "stolenBasesAttempts": 21,
-        "putouts": 124,
+        "putouts": 126,
         "assists": 0,
-        "errors": 1,
-        "plateAppearances": 297,
+        "errors": 2,
+        "plateAppearances": 301,
         "caughtStealing": 3,
         "pickedOff": 2
       },
@@ -927,51 +927,51 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "jersey": "7",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/cade-baker/10277",
         "imageUrl": "https://utrockets.com/images/2025/12/15/Cade_Baker_cropped.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 50,
-        "putouts": 124,
+        "gamesPlayed": 51,
+        "gamesStarted": 51,
+        "putouts": 126,
         "assists": 4,
-        "errors": 1,
-        "fieldingPercentage": 0.992,
+        "errors": 2,
+        "fieldingPercentage": 0.985,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 129
+        "totalChances": 132
       },
       "evaluation": {
-        "score": 56,
+        "score": 57,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 68.88888888888889,
-          "Power": 51.31578947368421,
-          "Contact": 63.75000000000001,
+          "On-base": 70,
+          "Power": 53.42105263157896,
+          "Contact": 65.625,
           "Discipline": 21.428571428571423,
           "Speed": 60
         },
         "summary": "Cade Baker profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .322",
-          "OBP .404",
-          "SLG .515"
+          "AVG .325",
+          "OBP .406",
+          "SLG .523"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".322"
+            "value": ".325"
           },
           {
             "label": "OBP",
-            "value": ".404"
+            "value": ".406"
           },
           {
             "label": "SLG",
-            "value": ".515"
+            "value": ".523"
           },
           {
             "label": "HR",
@@ -979,7 +979,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           },
           {
             "label": "RBI",
-            "value": "46"
+            "value": "47"
           },
           {
             "label": "SB",
@@ -1034,33 +1034,33 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "jersey": "8",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/troy-sudbrook/10269",
         "imageUrl": "https://utrockets.com/images/2025/12/15/Troy_Sudbrook_cropped.jpg",
-        "gamesPlayed": 55,
-        "gamesStarted": 55,
-        "battingAverage": 0.367,
-        "onBasePercentage": 0.466,
-        "sluggingPercentage": 0.66,
-        "ops": 1.126,
-        "atBats": 215,
-        "runs": 60,
-        "hits": 79,
+        "gamesPlayed": 56,
+        "gamesStarted": 56,
+        "battingAverage": 0.373,
+        "onBasePercentage": 0.468,
+        "sluggingPercentage": 0.673,
+        "ops": 1.141,
+        "atBats": 220,
+        "runs": 61,
+        "hits": 82,
         "doubles": 32,
         "triples": 2,
-        "homeRuns": 9,
-        "runsBattedIn": 66,
-        "totalBases": 142,
+        "homeRuns": 10,
+        "runsBattedIn": 68,
+        "totalBases": 148,
         "walks": 28,
         "hitByPitch": 15,
-        "strikeouts": 36,
+        "strikeouts": 37,
         "intentionalWalks": 6,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 4,
         "sacrificeHits": 3,
-        "stolenBases": 11,
-        "stolenBasesAttempts": 16,
+        "stolenBases": 12,
+        "stolenBasesAttempts": 17,
         "putouts": 37,
         "assists": 0,
         "errors": 8,
-        "plateAppearances": 287,
+        "plateAppearances": 293,
         "caughtStealing": 5,
         "pickedOff": 1
       },
@@ -1072,63 +1072,63 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "jersey": "8",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/troy-sudbrook/10269",
         "imageUrl": "https://utrockets.com/images/2025/12/15/Troy_Sudbrook_cropped.jpg",
-        "gamesPlayed": 47,
-        "gamesStarted": 47,
+        "gamesPlayed": 48,
+        "gamesStarted": 48,
         "putouts": 37,
-        "assists": 100,
+        "assists": 102,
         "errors": 8,
-        "fieldingPercentage": 0.945,
+        "fieldingPercentage": 0.946,
         "doublePlays": 8,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 145
+        "totalChances": 147
       },
       "evaluation": {
-        "score": 84,
+        "score": 86,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "components": {
           "On-base": 100,
-          "Power": 89.47368421052634,
-          "Contact": 91.875,
-          "Discipline": 64.19753086419752,
-          "Speed": 36.666666666666664
+          "Power": 92.89473684210529,
+          "Contact": 95.625,
+          "Discipline": 61.86186186186187,
+          "Speed": 40
         },
         "summary": "Troy Sudbrook profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .367",
-          "OBP .466",
-          "SLG .660"
+          "AVG .373",
+          "OBP .468",
+          "SLG .673"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".367"
+            "value": ".373"
           },
           {
             "label": "OBP",
-            "value": ".466"
+            "value": ".468"
           },
           {
             "label": "SLG",
-            "value": ".660"
+            "value": ".673"
           },
           {
             "label": "HR",
-            "value": "9"
+            "value": "10"
           },
           {
             "label": "RBI",
-            "value": "66"
+            "value": "68"
           },
           {
             "label": "SB",
-            "value": "11"
+            "value": "12"
           }
         ],
         "metaLine": "R-JR / L/R",
@@ -1469,33 +1469,33 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "jersey": "11",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/jacob-payne/10280",
         "imageUrl": "https://utrockets.com/images/2025/12/15/Jacob_Payne_cropped.jpg",
-        "gamesPlayed": 49,
-        "gamesStarted": 45,
-        "battingAverage": 0.27,
-        "onBasePercentage": 0.412,
-        "sluggingPercentage": 0.447,
-        "ops": 0.859,
-        "atBats": 159,
+        "gamesPlayed": 50,
+        "gamesStarted": 46,
+        "battingAverage": 0.272,
+        "onBasePercentage": 0.411,
+        "sluggingPercentage": 0.444,
+        "ops": 0.855,
+        "atBats": 162,
         "runs": 33,
-        "hits": 43,
+        "hits": 44,
         "doubles": 9,
         "triples": 2,
         "homeRuns": 5,
-        "runsBattedIn": 40,
-        "totalBases": 71,
+        "runsBattedIn": 42,
+        "totalBases": 72,
         "walks": 19,
         "hitByPitch": 20,
-        "strikeouts": 38,
+        "strikeouts": 40,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
-        "sacrificeHits": 0,
+        "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 379,
+        "putouts": 388,
         "assists": 0,
         "errors": 7,
-        "plateAppearances": 200,
+        "plateAppearances": 204,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1507,9 +1507,9 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "jersey": "11",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/jacob-payne/10280",
         "imageUrl": "https://utrockets.com/images/2025/12/15/Jacob_Payne_cropped.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 42,
-        "putouts": 379,
+        "gamesPlayed": 45,
+        "gamesStarted": 43,
+        "putouts": 388,
         "assists": 41,
         "errors": 7,
         "fieldingPercentage": 0.984,
@@ -1519,39 +1519,39 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 7,
         "catchersInterference": 0,
-        "totalChances": 427
+        "totalChances": 436
       },
       "evaluation": {
-        "score": 43,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 73.3333333333333,
-          "Power": 33.42105263157895,
-          "Contact": 31.25000000000001,
-          "Discipline": 33.33333333333333,
+          "On-base": 72.77777777777776,
+          "Power": 32.631578947368425,
+          "Contact": 32.500000000000014,
+          "Discipline": 30.555555555555546,
           "Speed": 3.3333333333333335
         },
         "summary": "Jacob Payne profiles as a C/1B piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .270",
-          "OBP .412",
-          "SLG .447"
+          "AVG .272",
+          "OBP .411",
+          "SLG .444"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".270"
+            "value": ".272"
           },
           {
             "label": "OBP",
-            "value": ".412"
+            "value": ".411"
           },
           {
             "label": "SLG",
-            "value": ".447"
+            "value": ".444"
           },
           {
             "label": "HR",
@@ -1559,7 +1559,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "42"
           },
           {
             "label": "SB",
@@ -1614,22 +1614,22 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "jersey": "12",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/jp-wagner/10271",
         "imageUrl": "https://utrockets.com/images/2025/12/15/JP_Wagner_cropped.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 33,
-        "battingAverage": 0.343,
-        "onBasePercentage": 0.429,
-        "sluggingPercentage": 0.457,
-        "ops": 0.886,
-        "atBats": 105,
-        "runs": 23,
+        "gamesPlayed": 44,
+        "gamesStarted": 34,
+        "battingAverage": 0.34,
+        "onBasePercentage": 0.438,
+        "sluggingPercentage": 0.453,
+        "ops": 0.891,
+        "atBats": 106,
+        "runs": 25,
         "hits": 36,
         "doubles": 7,
         "triples": 1,
         "homeRuns": 1,
         "runsBattedIn": 25,
         "totalBases": 48,
-        "walks": 8,
-        "hitByPitch": 10,
+        "walks": 10,
+        "hitByPitch": 11,
         "strikeouts": 11,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
@@ -1640,7 +1640,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "putouts": 109,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 135,
+        "plateAppearances": 139,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1667,36 +1667,36 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "totalChances": 125
       },
       "evaluation": {
-        "score": 58,
+        "score": 62,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 82.77777777777776,
-          "Power": 36.05263157894738,
-          "Contact": 76.87500000000001,
-          "Discipline": 58.58585858585859,
+          "On-base": 87.77777777777777,
+          "Power": 35.00000000000001,
+          "Contact": 75.00000000000001,
+          "Discipline": 78.78787878787877,
           "Speed": 3.3333333333333335
         },
         "summary": "JP Wagner profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .343",
-          "OBP .429",
-          "SLG .457"
+          "AVG .340",
+          "OBP .438",
+          "SLG .453"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".343"
+            "value": ".340"
           },
           {
             "label": "OBP",
-            "value": ".429"
+            "value": ".438"
           },
           {
             "label": "SLG",
-            "value": ".457"
+            "value": ".453"
           },
           {
             "label": "HR",
@@ -2191,13 +2191,13 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "jersey": "16",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/luke-walton/10272",
         "imageUrl": "https://utrockets.com/images/2025/12/15/Luke_Walton_cropped.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 26,
-        "battingAverage": 0.236,
+        "gamesPlayed": 43,
+        "gamesStarted": 27,
+        "battingAverage": 0.231,
         "onBasePercentage": 0.364,
-        "sluggingPercentage": 0.349,
-        "ops": 0.713,
-        "atBats": 106,
+        "sluggingPercentage": 0.343,
+        "ops": 0.707,
+        "atBats": 108,
         "runs": 17,
         "hits": 25,
         "doubles": 4,
@@ -2205,19 +2205,19 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "homeRuns": 2,
         "runsBattedIn": 17,
         "totalBases": 37,
-        "walks": 19,
+        "walks": 20,
         "hitByPitch": 3,
-        "strikeouts": 25,
+        "strikeouts": 26,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 13,
+        "putouts": 19,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 129,
+        "plateAppearances": 132,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2229,9 +2229,9 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "jersey": "16",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/luke-walton/10272",
         "imageUrl": "https://utrockets.com/images/2025/12/15/Luke_Walton_cropped.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 8,
-        "putouts": 13,
+        "gamesPlayed": 9,
+        "gamesStarted": 9,
+        "putouts": 19,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -2241,7 +2241,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 14
+        "totalChances": 20
       },
       "evaluation": {
         "score": 27,
@@ -2251,21 +2251,21 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         },
         "components": {
           "On-base": 46.66666666666665,
-          "Power": 7.631578947368414,
-          "Contact": 9.999999999999991,
-          "Discipline": 62.22222222222222,
+          "Power": 6.052631578947374,
+          "Contact": 6.875000000000006,
+          "Discipline": 63.247863247863236,
           "Speed": 0
         },
         "summary": "Luke Walton gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .236",
+          "AVG .231",
           "OBP .364",
-          "SLG .349"
+          "SLG .343"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".236"
+            "value": ".231"
           },
           {
             "label": "OBP",
@@ -2273,7 +2273,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           },
           {
             "label": "SLG",
-            "value": ".349"
+            "value": ".343"
           },
           {
             "label": "HR",
@@ -2336,33 +2336,33 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "jersey": "17",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/liam-arsich/10284",
         "imageUrl": "https://utrockets.com/images/2025/12/15/Liam_Arsich_cropped.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 49,
-        "battingAverage": 0.34,
-        "onBasePercentage": 0.416,
-        "sluggingPercentage": 0.508,
-        "ops": 0.924,
-        "atBats": 191,
+        "gamesPlayed": 52,
+        "gamesStarted": 50,
+        "battingAverage": 0.337,
+        "onBasePercentage": 0.412,
+        "sluggingPercentage": 0.5,
+        "ops": 0.912,
+        "atBats": 196,
         "runs": 41,
-        "hits": 65,
+        "hits": 66,
         "doubles": 15,
         "triples": 1,
         "homeRuns": 5,
         "runsBattedIn": 38,
-        "totalBases": 97,
+        "totalBases": 98,
         "walks": 21,
         "hitByPitch": 6,
-        "strikeouts": 36,
+        "strikeouts": 40,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 3,
         "sacrificeHits": 3,
         "stolenBases": 15,
         "stolenBasesAttempts": 19,
-        "putouts": 91,
+        "putouts": 94,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 247,
+        "plateAppearances": 252,
         "caughtStealing": 4,
         "pickedOff": 1
       },
@@ -2374,9 +2374,9 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "jersey": "17",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/liam-arsich/10284",
         "imageUrl": "https://utrockets.com/images/2025/12/15/Liam_Arsich_cropped.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "putouts": 91,
+        "gamesPlayed": 43,
+        "gamesStarted": 43,
+        "putouts": 94,
         "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -2386,39 +2386,39 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 93
+        "totalChances": 96
       },
       "evaluation": {
-        "score": 62,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 75.55555555555553,
-          "Power": 49.47368421052632,
-          "Contact": 75.00000000000001,
-          "Discipline": 42.59259259259259,
+          "On-base": 73.3333333333333,
+          "Power": 47.36842105263158,
+          "Contact": 73.125,
+          "Discipline": 36.11111111111111,
           "Speed": 50
         },
         "summary": "Liam Arsich profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .340",
-          "OBP .416",
-          "SLG .508"
+          "AVG .337",
+          "OBP .412",
+          "SLG .500"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".340"
+            "value": ".337"
           },
           {
             "label": "OBP",
-            "value": ".416"
+            "value": ".412"
           },
           {
             "label": "SLG",
-            "value": ".508"
+            "value": ".500"
           },
           {
             "label": "HR",
@@ -2623,33 +2623,33 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "jersey": "20",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/cole-cahill/10259",
         "imageUrl": "https://utrockets.com/images/2025/12/15/Cole_Cahill_cropped.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 27,
-        "battingAverage": 0.309,
-        "onBasePercentage": 0.347,
-        "sluggingPercentage": 0.464,
-        "ops": 0.811,
-        "atBats": 110,
-        "runs": 16,
-        "hits": 34,
+        "gamesPlayed": 42,
+        "gamesStarted": 28,
+        "battingAverage": 0.31,
+        "onBasePercentage": 0.344,
+        "sluggingPercentage": 0.46,
+        "ops": 0.804,
+        "atBats": 113,
+        "runs": 17,
+        "hits": 35,
         "doubles": 9,
         "triples": 1,
         "homeRuns": 2,
-        "runsBattedIn": 27,
-        "totalBases": 51,
+        "runsBattedIn": 29,
+        "totalBases": 52,
         "walks": 7,
         "hitByPitch": 1,
         "strikeouts": 16,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 3,
+        "sacrificeFlies": 4,
         "sacrificeHits": 0,
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
         "putouts": 129,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 125,
+        "plateAppearances": 129,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2676,36 +2676,36 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "totalChances": 142
       },
       "evaluation": {
-        "score": 36,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 37.22222222222219,
-          "Power": 37.89473684210527,
-          "Contact": 55.62499999999999,
+          "On-base": 35.55555555555553,
+          "Power": 36.842105263157904,
+          "Contact": 56.25,
           "Discipline": 26.388888888888886,
           "Speed": 6.666666666666667
         },
         "summary": "Cole Cahill gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .309",
-          "OBP .347",
-          "SLG .464"
+          "AVG .310",
+          "OBP .344",
+          "SLG .460"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".309"
+            "value": ".310"
           },
           {
             "label": "OBP",
-            "value": ".347"
+            "value": ".344"
           },
           {
             "label": "SLG",
-            "value": ".464"
+            "value": ".460"
           },
           {
             "label": "HR",
@@ -2713,7 +2713,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -3425,31 +3425,31 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "jersey": "27",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/nathan-leininger/10264",
         "imageUrl": "https://utrockets.com/images/2025/12/15/Nathan_Leininger_cropped.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 14,
-        "appearances": 14,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 2.9,
-        "whip": 1.14,
-        "wins": 8,
+        "gamesPlayed": 15,
+        "gamesStarted": 15,
+        "appearances": 15,
+        "gamesCompleted": 1,
+        "earnedRunAverage": 2.81,
+        "whip": 1.16,
+        "wins": 9,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 87,
-        "inningsPitchedDisplay": "87.0",
-        "hitsAllowed": 66,
-        "runsAllowed": 31,
-        "earnedRunsAllowed": 28,
-        "walksAllowed": 33,
-        "strikeouts": 82,
-        "doublesAllowed": 6,
+        "inningsPitched": 96,
+        "inningsPitchedDisplay": "96.0",
+        "hitsAllowed": 74,
+        "runsAllowed": 33,
+        "earnedRunsAllowed": 30,
+        "walksAllowed": 37,
+        "strikeouts": 90,
+        "doublesAllowed": 8,
         "triplesAllowed": 0,
         "homeRunsAllowed": 6,
-        "opponentsAtBats": 317,
+        "opponentsAtBats": 351,
         "wildPitches": 11,
         "hitBatters": 10,
         "balks": 1,
-        "opponentsBattingAverage": 0.208,
+        "opponentsBattingAverage": 0.211,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3459,19 +3459,19 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "jersey": "27",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/nathan-leininger/10264",
         "imageUrl": "https://utrockets.com/images/2025/12/15/Nathan_Leininger_cropped.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 14,
+        "gamesPlayed": 15,
+        "gamesStarted": 15,
         "putouts": 11,
-        "assists": 9,
+        "assists": 14,
         "errors": 1,
-        "fieldingPercentage": 0.952,
+        "fieldingPercentage": 0.962,
         "doublePlays": 0,
         "stolenBasesAgainst": 18,
         "caughtStealingBy": 5,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 21
+        "totalChances": 26
       },
       "evaluation": {
         "score": 13,
@@ -3482,40 +3482,40 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 40.75235109717868,
-          "Command": 29.6969696969697,
+          "Miss bats": 40.340909090909086,
+          "Command": 28.64864864864865,
           "Damage suppression": 0
         },
         "summary": "Nathan Leininger looks like a RHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.90",
-          "WHIP 1.14",
-          "K/9 8.5"
+          "ERA 2.81",
+          "WHIP 1.16",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.90"
+            "value": "2.81"
           },
           {
             "label": "WHIP",
-            "value": "1.14"
+            "value": "1.16"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "3.5"
           },
           {
             "label": "HR/9",
-            "value": "0.62"
+            "value": "0.56"
           },
           {
             "label": "IP",
-            "value": "87.0"
+            "value": "96.0"
           }
         ],
         "metaLine": "SR / R/R",
@@ -4685,7 +4685,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "jersey": "44",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/jackson-hiatt/10293",
         "imageUrl": "https://utrockets.com/images/2025/12/15/Jackson_Hiatt_cropped.jpg",
-        "gamesPlayed": 25,
+        "gamesPlayed": 26,
         "gamesStarted": 14,
         "battingAverage": 0.182,
         "onBasePercentage": 0.308,
@@ -4708,7 +4708,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 78,
+        "putouts": 81,
         "assists": 0,
         "errors": 0,
         "plateAppearances": 65,
@@ -4723,9 +4723,9 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "jersey": "44",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/jackson-hiatt/10293",
         "imageUrl": "https://utrockets.com/images/2025/12/15/Jackson_Hiatt_cropped.jpg",
-        "gamesPlayed": 16,
+        "gamesPlayed": 17,
         "gamesStarted": 12,
-        "putouts": 78,
+        "putouts": 81,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -4735,7 +4735,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 79
+        "totalChances": 82
       },
       "evaluation": {
         "score": 0,
@@ -5090,25 +5090,25 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 22,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ryan Sudbrook gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .214",
-          "OBP .343",
+          "AVG .217",
+          "OBP .338",
           "SLG .250"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".214"
+            "value": ".217"
           },
           {
             "label": "OBP",
-            "value": ".343"
+            "value": ".338"
           },
           {
             "label": "SLG",
@@ -5120,7 +5120,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           },
           {
             "label": "RBI",
-            "value": "6"
+            "value": "7"
           },
           {
             "label": "SB",
@@ -5128,7 +5128,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           }
         ],
         "components": {
-          "On-base": 35,
+          "On-base": 32.22222222222222,
           "Power": 0,
           "Contact": 0,
           "Discipline": 74.99999999999999,
@@ -5167,8 +5167,8 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "summary": "Charlie Scholvin profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .374",
-          "OBP .507",
-          "SLG .529"
+          "OBP .505",
+          "SLG .526"
         ],
         "statCards": [
           {
@@ -5177,11 +5177,11 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           },
           {
             "label": "OBP",
-            "value": ".507"
+            "value": ".505"
           },
           {
             "label": "SLG",
-            "value": ".529"
+            "value": ".526"
           },
           {
             "label": "HR",
@@ -5193,15 +5193,15 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           },
           {
             "label": "SB",
-            "value": "24"
+            "value": "25"
           }
         ],
         "components": {
           "On-base": 100,
-          "Power": 55.000000000000014,
+          "Power": 54.21052631578949,
           "Contact": 96.25,
           "Discipline": 100,
-          "Speed": 80
+          "Speed": 83.33333333333334
         },
         "metaLine": "JR / R/R",
         "detailBadges": [
@@ -5228,29 +5228,29 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 17,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Preston Zumwalt gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .220",
-          "OBP .342",
-          "SLG .339"
+          "AVG .233",
+          "OBP .351",
+          "SLG .350"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".220"
+            "value": ".233"
           },
           {
             "label": "OBP",
-            "value": ".342"
+            "value": ".351"
           },
           {
             "label": "SLG",
-            "value": ".339"
+            "value": ".350"
           },
           {
             "label": "HR",
@@ -5266,9 +5266,9 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           }
         ],
         "components": {
-          "On-base": 34.44444444444444,
-          "Power": 5.000000000000005,
-          "Contact": 0,
+          "On-base": 39.44444444444442,
+          "Power": 7.8947368421052575,
+          "Contact": 8.125000000000007,
           "Discipline": 33.33333333333333,
           "Speed": 0
         },
@@ -5297,29 +5297,29 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 56,
+        "score": 57,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Cade Baker profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .322",
-          "OBP .404",
-          "SLG .515"
+          "AVG .325",
+          "OBP .406",
+          "SLG .523"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".322"
+            "value": ".325"
           },
           {
             "label": "OBP",
-            "value": ".404"
+            "value": ".406"
           },
           {
             "label": "SLG",
-            "value": ".515"
+            "value": ".523"
           },
           {
             "label": "HR",
@@ -5327,7 +5327,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           },
           {
             "label": "RBI",
-            "value": "46"
+            "value": "47"
           },
           {
             "label": "SB",
@@ -5335,9 +5335,9 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           }
         ],
         "components": {
-          "On-base": 68.88888888888889,
-          "Power": 51.31578947368421,
-          "Contact": 63.75000000000001,
+          "On-base": 70,
+          "Power": 53.42105263157896,
+          "Contact": 65.625,
           "Discipline": 21.428571428571423,
           "Speed": 60
         },
@@ -5366,49 +5366,49 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "position": "INF",
         "classYear": "R-JR",
         "handedness": "L/R",
-        "score": 84,
+        "score": 86,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Troy Sudbrook profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .367",
-          "OBP .466",
-          "SLG .660"
+          "AVG .373",
+          "OBP .468",
+          "SLG .673"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".367"
+            "value": ".373"
           },
           {
             "label": "OBP",
-            "value": ".466"
+            "value": ".468"
           },
           {
             "label": "SLG",
-            "value": ".660"
+            "value": ".673"
           },
           {
             "label": "HR",
-            "value": "9"
+            "value": "10"
           },
           {
             "label": "RBI",
-            "value": "66"
+            "value": "68"
           },
           {
             "label": "SB",
-            "value": "11"
+            "value": "12"
           }
         ],
         "components": {
           "On-base": 100,
-          "Power": 89.47368421052634,
-          "Contact": 91.875,
-          "Discipline": 64.19753086419752,
-          "Speed": 36.666666666666664
+          "Power": 92.89473684210529,
+          "Contact": 95.625,
+          "Discipline": 61.86186186186187,
+          "Speed": 40
         },
         "metaLine": "R-JR / L/R",
         "detailBadges": [
@@ -5573,29 +5573,29 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "position": "C/1B",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 43,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jacob Payne profiles as a C/1B piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .270",
-          "OBP .412",
-          "SLG .447"
+          "AVG .272",
+          "OBP .411",
+          "SLG .444"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".270"
+            "value": ".272"
           },
           {
             "label": "OBP",
-            "value": ".412"
+            "value": ".411"
           },
           {
             "label": "SLG",
-            "value": ".447"
+            "value": ".444"
           },
           {
             "label": "HR",
@@ -5603,7 +5603,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "42"
           },
           {
             "label": "SB",
@@ -5611,10 +5611,10 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           }
         ],
         "components": {
-          "On-base": 73.3333333333333,
-          "Power": 33.42105263157895,
-          "Contact": 31.25000000000001,
-          "Discipline": 33.33333333333333,
+          "On-base": 72.77777777777776,
+          "Power": 32.631578947368425,
+          "Contact": 32.500000000000014,
+          "Discipline": 30.555555555555546,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / R/R",
@@ -5642,29 +5642,29 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 58,
+        "score": 62,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "JP Wagner profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .343",
-          "OBP .429",
-          "SLG .457"
+          "AVG .340",
+          "OBP .438",
+          "SLG .453"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".343"
+            "value": ".340"
           },
           {
             "label": "OBP",
-            "value": ".429"
+            "value": ".438"
           },
           {
             "label": "SLG",
-            "value": ".457"
+            "value": ".453"
           },
           {
             "label": "HR",
@@ -5680,10 +5680,10 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           }
         ],
         "components": {
-          "On-base": 82.77777777777776,
-          "Power": 36.05263157894738,
-          "Contact": 76.87500000000001,
-          "Discipline": 58.58585858585859,
+          "On-base": 87.77777777777777,
+          "Power": 35.00000000000001,
+          "Contact": 75.00000000000001,
+          "Discipline": 78.78787878787877,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / L/R",
@@ -5925,14 +5925,14 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         },
         "summary": "Luke Walton gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .236",
+          "AVG .231",
           "OBP .364",
-          "SLG .349"
+          "SLG .343"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".236"
+            "value": ".231"
           },
           {
             "label": "OBP",
@@ -5940,7 +5940,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           },
           {
             "label": "SLG",
-            "value": ".349"
+            "value": ".343"
           },
           {
             "label": "HR",
@@ -5957,9 +5957,9 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         ],
         "components": {
           "On-base": 46.66666666666665,
-          "Power": 7.631578947368414,
-          "Contact": 9.999999999999991,
-          "Discipline": 62.22222222222222,
+          "Power": 6.052631578947374,
+          "Contact": 6.875000000000006,
+          "Discipline": 63.247863247863236,
           "Speed": 0
         },
         "metaLine": "R-JR / L/L",
@@ -5987,29 +5987,29 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "position": "OF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 62,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Liam Arsich profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .340",
-          "OBP .416",
-          "SLG .508"
+          "AVG .337",
+          "OBP .412",
+          "SLG .500"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".340"
+            "value": ".337"
           },
           {
             "label": "OBP",
-            "value": ".416"
+            "value": ".412"
           },
           {
             "label": "SLG",
-            "value": ".508"
+            "value": ".500"
           },
           {
             "label": "HR",
@@ -6025,10 +6025,10 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           }
         ],
         "components": {
-          "On-base": 75.55555555555553,
-          "Power": 49.47368421052632,
-          "Contact": 75.00000000000001,
-          "Discipline": 42.59259259259259,
+          "On-base": 73.3333333333333,
+          "Power": 47.36842105263158,
+          "Contact": 73.125,
+          "Discipline": 36.11111111111111,
           "Speed": 50
         },
         "metaLine": "FR / R/R",
@@ -6125,29 +6125,29 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "position": "1B/OF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 36,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cole Cahill gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .309",
-          "OBP .347",
-          "SLG .464"
+          "AVG .310",
+          "OBP .344",
+          "SLG .460"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".309"
+            "value": ".310"
           },
           {
             "label": "OBP",
-            "value": ".347"
+            "value": ".344"
           },
           {
             "label": "SLG",
-            "value": ".464"
+            "value": ".460"
           },
           {
             "label": "HR",
@@ -6155,7 +6155,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           },
           {
             "label": "RBI",
-            "value": "27"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -6163,9 +6163,9 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           }
         ],
         "components": {
-          "On-base": 37.22222222222219,
-          "Power": 37.89473684210527,
-          "Contact": 55.62499999999999,
+          "On-base": 35.55555555555553,
+          "Power": 36.842105263157904,
+          "Contact": 56.25,
           "Discipline": 26.388888888888886,
           "Speed": 6.666666666666667
         },
@@ -6545,41 +6545,41 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         },
         "summary": "Nathan Leininger looks like a RHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.90",
-          "WHIP 1.14",
-          "K/9 8.5"
+          "ERA 2.81",
+          "WHIP 1.16",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.90"
+            "value": "2.81"
           },
           {
             "label": "WHIP",
-            "value": "1.14"
+            "value": "1.16"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "3.5"
           },
           {
             "label": "HR/9",
-            "value": "0.62"
+            "value": "0.56"
           },
           {
             "label": "IP",
-            "value": "87.0"
+            "value": "96.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 40.75235109717868,
-          "Command": 29.6969696969697,
+          "Miss bats": 40.340909090909086,
+          "Command": 28.64864864864865,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",

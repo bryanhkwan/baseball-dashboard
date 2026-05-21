@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
-  "generatedAt": "2026-05-20T12:41:39.338Z",
+  "generatedAt": "2026-05-21T13:33:12.144Z",
   "season": 2026,
   "school": {
     "slug": "st-thomas-mn",
@@ -185,7 +185,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 13,
-        "assists": 2,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 9,
         "caughtStealing": 0,
@@ -208,7 +208,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.833,
+        "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
         "totalChances": 15
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "stolenBases": 39,
         "stolenBasesAttempts": 44,
         "putouts": 92,
-        "assists": 68,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 297,
         "caughtStealing": 5,
@@ -475,7 +475,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 18,
-        "assists": 69,
+        "assists": 0,
         "errors": 5,
         "plateAppearances": 174,
         "caughtStealing": 0,
@@ -620,7 +620,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "stolenBases": 7,
         "stolenBasesAttempts": 13,
         "putouts": 86,
-        "assists": 3,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 205,
         "caughtStealing": 6,
@@ -765,7 +765,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 186,
-        "assists": 15,
+        "assists": 0,
         "errors": 4,
         "plateAppearances": 96,
         "caughtStealing": 0,
@@ -788,7 +788,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 62,
         "caughtStealingBy": 7,
-        "stolenBasesPercentage": 0.899,
+        "stolenBasesPercentage": null,
         "passedBalls": 8,
         "catchersInterference": 0,
         "totalChances": 205
@@ -910,7 +910,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 20,
-        "assists": 1,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 65,
         "caughtStealing": 0,
@@ -1055,7 +1055,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "stolenBases": 5,
         "stolenBasesAttempts": 5,
         "putouts": 68,
-        "assists": 36,
+        "assists": 0,
         "errors": 9,
         "plateAppearances": 190,
         "caughtStealing": 0,
@@ -1202,7 +1202,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "hitBatters": 12,
         "balks": 0,
         "opponentsBattingAverage": 0.251,
-        "walksHits": 104
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11600",
@@ -1220,7 +1220,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.778,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 10
@@ -1342,7 +1342,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "stolenBases": 18,
         "stolenBasesAttempts": 20,
         "putouts": 77,
-        "assists": 144,
+        "assists": 0,
         "errors": 23,
         "plateAppearances": 240,
         "caughtStealing": 2,
@@ -1577,7 +1577,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.382,
-        "walksHits": 19
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11570",
@@ -1595,7 +1595,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -1717,7 +1717,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 3,
-        "assists": 5,
+        "assists": 0,
         "errors": 0,
         "plateAppearances": 1,
         "caughtStealing": 0,
@@ -1755,7 +1755,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "hitBatters": 13,
         "balks": 2,
         "opponentsBattingAverage": 0.281,
-        "walksHits": 117
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11602",
@@ -1773,7 +1773,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 10,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 9
@@ -1895,7 +1895,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
         "putouts": 15,
-        "assists": 1,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 34,
         "caughtStealing": 0,
@@ -2040,7 +2040,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
         "putouts": 357,
-        "assists": 22,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 231,
         "caughtStealing": 0,
@@ -2273,7 +2273,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 174,
-        "assists": 18,
+        "assists": 0,
         "errors": 3,
         "plateAppearances": 137,
         "caughtStealing": 0,
@@ -2296,7 +2296,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "doublePlays": 2,
         "stolenBasesAgainst": 23,
         "caughtStealingBy": 3,
-        "stolenBasesPercentage": 0.885,
+        "stolenBasesPercentage": null,
         "passedBalls": 9,
         "catchersInterference": 0,
         "totalChances": 195
@@ -2565,7 +2565,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.303,
-        "walksHits": 55
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11573",
@@ -2583,7 +2583,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.6,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -2705,7 +2705,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
         "putouts": 56,
-        "assists": 4,
+        "assists": 0,
         "errors": 2,
         "plateAppearances": 130,
         "caughtStealing": 1,
@@ -2852,7 +2852,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "hitBatters": 8,
         "balks": 0,
         "opponentsBattingAverage": 0.327,
-        "walksHits": 49
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11591",
@@ -2870,7 +2870,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -3170,7 +3170,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "hitBatters": 5,
         "balks": 0,
         "opponentsBattingAverage": 0.333,
-        "walksHits": 26
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11599",
@@ -3348,7 +3348,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.167,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11598",
@@ -3490,7 +3490,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.386,
-        "walksHits": 29
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11605",
@@ -3508,7 +3508,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 2,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 3
@@ -3632,7 +3632,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "hitBatters": 6,
         "balks": 0,
         "opponentsBattingAverage": 0.343,
-        "walksHits": 50
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11585",
@@ -3650,7 +3650,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.857,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 5
@@ -4038,7 +4038,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.22,
-        "walksHits": 27
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11572",
@@ -4056,7 +4056,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
@@ -4268,7 +4268,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "hitBatters": 10,
         "balks": 2,
         "opponentsBattingAverage": 0.266,
-        "walksHits": 83
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11607",
@@ -4286,7 +4286,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "doublePlays": 1,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.833,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 14
@@ -4410,7 +4410,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.426,
-        "walksHits": 40
+        "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
@@ -4532,7 +4532,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "hitBatters": 1,
         "balks": 0,
         "opponentsBattingAverage": 0.4,
-        "walksHits": 4
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11601",
@@ -4550,7 +4550,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 0
@@ -4674,7 +4674,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "hitBatters": 4,
         "balks": 0,
         "opponentsBattingAverage": 0.305,
-        "walksHits": 60
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11603",
@@ -4692,7 +4692,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 2,
-        "stolenBasesPercentage": 0.333,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 7
@@ -4816,7 +4816,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "hitBatters": 3,
         "balks": 1,
         "opponentsBattingAverage": 0.3,
-        "walksHits": 21
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11586",
@@ -5103,7 +5103,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "hitBatters": 6,
         "balks": 1,
         "opponentsBattingAverage": 0.328,
-        "walksHits": 59
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11577",
@@ -5121,7 +5121,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 4
@@ -5245,7 +5245,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.208,
-        "walksHits": 14
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11606",
@@ -5263,7 +5263,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 1,
-        "stolenBasesPercentage": 0.75,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 2
@@ -5387,7 +5387,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "hitBatters": 2,
         "balks": 0,
         "opponentsBattingAverage": 0.327,
-        "walksHits": 26
+        "walksHits": 0
       },
       "fieldingStats": {
         "rosterBioId": "11582",
@@ -5405,7 +5405,7 @@ window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
         "doublePlays": 0,
         "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
-        "stolenBasesPercentage": 1,
+        "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 1
