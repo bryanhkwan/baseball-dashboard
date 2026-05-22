@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.rice2026 = {
-  "generatedAt": "2026-05-21T13:33:04.757Z",
+  "generatedAt": "2026-05-22T12:35:33.455Z",
   "season": 2026,
   "school": {
     "slug": "rice",
@@ -29,7 +29,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 18,
     "playersWithPitchingStats": 16,
-    "playersWithFieldingStats": 31,
+    "playersWithFieldingStats": 32,
     "mergedPlayersWithAnyStats": 34,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
@@ -39,87 +39,87 @@ window.__BASEBALL_DATASETS__.rice2026 = {
     }
   },
   "teamSummary": {
-    "record": "34-22, 16-11",
-    "battingAverage": ".262",
-    "earnedRunAverage": "4.65",
-    "wins": "34",
+    "record": "35-22, 16-11",
+    "battingAverage": ".263",
+    "earnedRunAverage": "4.62",
+    "wins": "35",
     "losses": "22",
     "hitting": {
-      "atBats": "1804",
-      "runsScored": "315",
-      "hits": "472",
-      "runsBattedIn": "290",
-      "doubles": "87",
+      "atBats": "1838",
+      "runsScored": "320",
+      "hits": "484",
+      "runsBattedIn": "294",
+      "doubles": "88",
       "triples": "11",
-      "homeRuns": "46",
+      "homeRuns": "47",
       "walks": "228",
       "intentionalWalks": "10",
-      "strikeouts": "376",
-      "strikeoutsLooking": "100",
+      "strikeouts": "388",
+      "strikeoutsLooking": "104",
       "hitByPitch": "74",
-      "stolenBases": "47",
+      "stolenBases": "49",
       "caughtStealing": "15",
-      "sacrificeHits": "36",
+      "sacrificeHits": "38",
       "sacrificeFlies": "28",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "432",
-      "flyOuts": "515",
+      "groundOuts": "435",
+      "flyOuts": "523",
       "groundedIntoDoublePlay": "34",
       "pickedOff": "2",
       "doublePlaysHitInto": "34",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1453",
-      "assists": "522",
-      "errors": "57",
+      "putouts": "1480",
+      "assists": "534",
+      "errors": "58",
       "passedBalls": "10",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "43",
-      "caughtStealingBy": "20",
+      "stolenBasesAgainst": "44",
+      "caughtStealingBy": "21",
       "involvedInDoublePlays": "48",
       "involvedInTriplePlays": "0",
-      "totalChances": "2032",
+      "totalChances": "2072",
       "fieldingPercentage": ".972"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "34",
+      "wins": "35",
       "saves": "47",
       "losses": "22",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "2",
       "creditForCombinedShutout": "1",
-      "inningsPitched": "484.1",
-      "hitsAllowed": "465",
-      "runsAllowed": "287",
-      "earnedRunsAllowed": "250",
-      "walksAllowed": "238",
-      "strikeouts": "382",
-      "battersFaced": "2182",
-      "opponentAtBats": "1825",
-      "doublesAllowed": "83",
+      "inningsPitched": "493.1",
+      "hitsAllowed": "478",
+      "runsAllowed": "291",
+      "earnedRunsAllowed": "253",
+      "walksAllowed": "239",
+      "strikeouts": "389",
+      "battersFaced": "2222",
+      "opponentAtBats": "1861",
+      "doublesAllowed": "87",
       "triplesAllowed": "6",
-      "homerunsAllowed": "59",
-      "wildPitches": "40",
+      "homerunsAllowed": "60",
+      "wildPitches": "41",
       "balks": "4",
       "hitBatters": "66",
-      "strikeoutsLooking": "73",
-      "intentionalWalks": "1",
+      "strikeoutsLooking": "75",
+      "intentionalWalks": "2",
       "inheritedRunners": "95",
       "inheritedRunnersThatScored": "43",
-      "sacrificeHitsAllowed": "25",
-      "sacrificeFliesAllowed": "26",
+      "sacrificeHitsAllowed": "27",
+      "sacrificeFliesAllowed": "27",
       "catchersInterferenceAllowed": "0",
-      "pitches": "8004",
-      "flyouts": "547",
-      "groundouts": "430",
+      "pitches": "8138",
+      "flyouts": "558",
+      "groundouts": "437",
       "teamUnearnedRuns": "0",
       "saveRecord": "14",
-      "pickoff": "3"
+      "pickoff": "4"
     }
   },
   "players": [
@@ -306,23 +306,23 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "2",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/cole-green/10375",
         "imageUrl": "https://riceowls.com/images/2025/9/1/2_GREEN_COLE.png",
-        "gamesPlayed": 55,
-        "gamesStarted": 55,
-        "battingAverage": 0.29,
-        "onBasePercentage": 0.359,
-        "sluggingPercentage": 0.458,
-        "ops": 0.817,
-        "atBats": 214,
+        "gamesPlayed": 56,
+        "gamesStarted": 56,
+        "battingAverage": 0.294,
+        "onBasePercentage": 0.361,
+        "sluggingPercentage": 0.459,
+        "ops": 0.82,
+        "atBats": 218,
         "runs": 34,
-        "hits": 62,
+        "hits": 64,
         "doubles": 13,
         "triples": 1,
         "homeRuns": 7,
         "runsBattedIn": 32,
-        "totalBases": 98,
+        "totalBases": 100,
         "walks": 15,
         "hitByPitch": 8,
-        "strikeouts": 46,
+        "strikeouts": 47,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
@@ -332,7 +332,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "putouts": 71,
         "assists": 0,
         "errors": 10,
-        "plateAppearances": 254,
+        "plateAppearances": 258,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -344,51 +344,51 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "2",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/cole-green/10375",
         "imageUrl": "https://riceowls.com/images/2025/9/1/2_GREEN_COLE.png",
-        "gamesPlayed": 54,
-        "gamesStarted": 54,
+        "gamesPlayed": 55,
+        "gamesStarted": 55,
         "putouts": 71,
-        "assists": 74,
+        "assists": 75,
         "errors": 10,
-        "fieldingPercentage": 0.935,
+        "fieldingPercentage": 0.936,
         "doublePlays": 9,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 155
+        "totalChances": 156
       },
       "evaluation": {
-        "score": 36,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 43.888888888888864,
-          "Power": 36.31578947368422,
-          "Contact": 43.749999999999986,
-          "Discipline": 14.00966183574879,
+          "On-base": 44.99999999999998,
+          "Power": 36.57894736842106,
+          "Contact": 46.249999999999986,
+          "Discipline": 13.238770685579196,
           "Speed": 30
         },
         "summary": "Cole Green profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .290",
-          "OBP .359",
-          "SLG .458"
+          "AVG .294",
+          "OBP .361",
+          "SLG .459"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".359"
+            "value": ".361"
           },
           {
             "label": "SLG",
-            "value": ".458"
+            "value": ".459"
           },
           {
             "label": "HR",
@@ -451,33 +451,33 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "3",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/jc-davis/10587",
         "imageUrl": "https://riceowls.com/images/2025/9/1/3_DAVIS_JC.png",
-        "gamesPlayed": 49,
-        "gamesStarted": 46,
+        "gamesPlayed": 50,
+        "gamesStarted": 47,
         "battingAverage": 0.335,
-        "onBasePercentage": 0.39,
-        "sluggingPercentage": 0.483,
-        "ops": 0.873,
-        "atBats": 176,
-        "runs": 39,
-        "hits": 59,
+        "onBasePercentage": 0.389,
+        "sluggingPercentage": 0.48,
+        "ops": 0.869,
+        "atBats": 179,
+        "runs": 40,
+        "hits": 60,
         "doubles": 11,
         "triples": 0,
         "homeRuns": 5,
         "runsBattedIn": 38,
-        "totalBases": 85,
+        "totalBases": 86,
         "walks": 16,
         "hitByPitch": 1,
-        "strikeouts": 15,
+        "strikeouts": 16,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
-        "sacrificeHits": 4,
+        "sacrificeHits": 5,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 78,
+        "putouts": 79,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 202,
+        "plateAppearances": 206,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -489,38 +489,38 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "3",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/jc-davis/10587",
         "imageUrl": "https://riceowls.com/images/2025/9/1/3_DAVIS_JC.png",
-        "gamesPlayed": 44,
-        "gamesStarted": 43,
-        "putouts": 78,
+        "gamesPlayed": 45,
+        "gamesStarted": 44,
+        "putouts": 79,
         "assists": 121,
         "errors": 5,
-        "fieldingPercentage": 0.975,
+        "fieldingPercentage": 0.976,
         "doublePlays": 32,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 204
+        "totalChances": 205
       },
       "evaluation": {
-        "score": 58,
+        "score": 57,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 61.11111111111111,
-          "Power": 42.89473684210526,
+          "On-base": 60.55555555555555,
+          "Power": 42.10526315789473,
           "Contact": 71.87500000000001,
-          "Discipline": 96.29629629629628,
+          "Discipline": 88.88888888888889,
           "Speed": 10
         },
         "summary": "JC Davis profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
           "AVG .335",
-          "OBP .390",
-          "SLG .483"
+          "OBP .389",
+          "SLG .480"
         ],
         "statCards": [
           {
@@ -529,11 +529,11 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           },
           {
             "label": "OBP",
-            "value": ".390"
+            "value": ".389"
           },
           {
             "label": "SLG",
-            "value": ".483"
+            "value": ".480"
           },
           {
             "label": "HR",
@@ -596,13 +596,13 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "4",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/zachary-daigre/10606",
         "imageUrl": "https://riceowls.com/images/2025/9/1/46_DAIGRE_ZAC.png",
-        "gamesPlayed": 48,
-        "gamesStarted": 18,
-        "battingAverage": 0.394,
-        "onBasePercentage": 0.474,
-        "sluggingPercentage": 0.424,
-        "ops": 0.898,
-        "atBats": 66,
+        "gamesPlayed": 49,
+        "gamesStarted": 19,
+        "battingAverage": 0.371,
+        "onBasePercentage": 0.451,
+        "sluggingPercentage": 0.4,
+        "ops": 0.851,
+        "atBats": 70,
         "runs": 17,
         "hits": 26,
         "doubles": 2,
@@ -612,17 +612,17 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "totalBases": 28,
         "walks": 7,
         "hitByPitch": 4,
-        "strikeouts": 11,
+        "strikeouts": 13,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 3,
         "stolenBases": 9,
         "stolenBasesAttempts": 11,
-        "putouts": 58,
+        "putouts": 61,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 94,
+        "plateAppearances": 98,
         "caughtStealing": 2,
         "pickedOff": 2
       },
@@ -634,51 +634,51 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "4",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/zachary-daigre/10606",
         "imageUrl": "https://riceowls.com/images/2025/9/1/46_DAIGRE_ZAC.png",
-        "gamesPlayed": 25,
-        "gamesStarted": 16,
-        "putouts": 58,
+        "gamesPlayed": 26,
+        "gamesStarted": 17,
+        "putouts": 61,
         "assists": 1,
         "errors": 1,
-        "fieldingPercentage": 0.983,
+        "fieldingPercentage": 0.984,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 60
+        "totalChances": 63
       },
       "evaluation": {
-        "score": 67,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 100,
-          "Power": 27.368421052631575,
-          "Contact": 100,
-          "Discipline": 48.48484848484848,
+          "On-base": 95,
+          "Power": 21.052631578947377,
+          "Contact": 94.375,
+          "Discipline": 37.606837606837594,
           "Speed": 30
         },
         "summary": "Zachary Daigre profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .394",
-          "OBP .474",
-          "SLG .424"
+          "AVG .371",
+          "OBP .451",
+          "SLG .400"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".394"
+            "value": ".371"
           },
           {
             "label": "OBP",
-            "value": ".474"
+            "value": ".451"
           },
           {
             "label": "SLG",
-            "value": ".424"
+            "value": ".400"
           },
           {
             "label": "HR",
@@ -741,13 +741,13 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "5",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/landis-davila/10605",
         "imageUrl": "https://riceowls.com/images/2025/9/1/43_DAVILA_LANDIS.png",
-        "gamesPlayed": 51,
-        "gamesStarted": 36,
-        "battingAverage": 0.248,
-        "onBasePercentage": 0.328,
-        "sluggingPercentage": 0.342,
-        "ops": 0.67,
-        "atBats": 117,
+        "gamesPlayed": 52,
+        "gamesStarted": 37,
+        "battingAverage": 0.246,
+        "onBasePercentage": 0.326,
+        "sluggingPercentage": 0.339,
+        "ops": 0.665,
+        "atBats": 118,
         "runs": 18,
         "hits": 29,
         "doubles": 3,
@@ -757,17 +757,17 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "totalBases": 40,
         "walks": 9,
         "hitByPitch": 7,
-        "strikeouts": 22,
+        "strikeouts": 23,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 4,
         "sacrificeHits": 4,
         "stolenBases": 5,
         "stolenBasesAttempts": 7,
-        "putouts": 119,
+        "putouts": 122,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 150,
+        "plateAppearances": 151,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -779,51 +779,51 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "5",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/landis-davila/10605",
         "imageUrl": "https://riceowls.com/images/2025/9/1/43_DAVILA_LANDIS.png",
-        "gamesPlayed": 40,
-        "gamesStarted": 34,
-        "putouts": 119,
+        "gamesPlayed": 41,
+        "gamesStarted": 35,
+        "putouts": 122,
         "assists": 0,
         "errors": 2,
-        "fieldingPercentage": 0.983,
+        "fieldingPercentage": 0.984,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 121
+        "totalChances": 124
       },
       "evaluation": {
-        "score": 18,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 26.66666666666666,
-          "Power": 5.789473684210533,
-          "Contact": 17.5,
-          "Discipline": 23.23232323232323,
+          "On-base": 25.555555555555546,
+          "Power": 5.000000000000005,
+          "Contact": 16.249999999999996,
+          "Discipline": 21.256038647342994,
           "Speed": 16.666666666666664
         },
         "summary": "Landis Davila gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .248",
-          "OBP .328",
-          "SLG .342"
+          "AVG .246",
+          "OBP .326",
+          "SLG .339"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".248"
+            "value": ".246"
           },
           {
             "label": "OBP",
-            "value": ".328"
+            "value": ".326"
           },
           {
             "label": "SLG",
-            "value": ".342"
+            "value": ".339"
           },
           {
             "label": "HR",
@@ -974,13 +974,13 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "7",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/michael-zito/10397",
         "imageUrl": "https://riceowls.com/images/2025/9/1/7_ZITO_MICHAEL.png",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 4,
-        "battingAverage": 0.158,
-        "onBasePercentage": 0.304,
-        "sluggingPercentage": 0.158,
-        "ops": 0.462,
-        "atBats": 19,
+        "battingAverage": 0.143,
+        "onBasePercentage": 0.28,
+        "sluggingPercentage": 0.143,
+        "ops": 0.423,
+        "atBats": 21,
         "runs": 2,
         "hits": 3,
         "doubles": 0,
@@ -990,53 +990,73 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "totalBases": 3,
         "walks": 3,
         "hitByPitch": 1,
-        "strikeouts": 4,
+        "strikeouts": 6,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 0,
+        "putouts": 1,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 24,
+        "plateAppearances": 26,
         "caughtStealing": 0,
         "pickedOff": 0
       },
       "pitchingStats": null,
-      "fieldingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "10397",
+        "name": "Michael Zito",
+        "normalizedName": "michael zito",
+        "jersey": "7",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/michael-zito/10397",
+        "imageUrl": "https://riceowls.com/images/2025/9/1/7_ZITO_MICHAEL.png",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 1,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 1
+      },
       "evaluation": {
-        "score": 13,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 13.333333333333314,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 61.11111111111111,
+          "Discipline": 33.33333333333333,
           "Speed": 3.3333333333333335
         },
         "summary": "Michael Zito gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .158",
-          "OBP .304",
-          "SLG .158"
+          "AVG .143",
+          "OBP .280",
+          "SLG .143"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".158"
+            "value": ".143"
           },
           {
             "label": "OBP",
-            "value": ".304"
+            "value": ".280"
           },
           {
             "label": "SLG",
-            "value": ".158"
+            "value": ".143"
           },
           {
             "label": "HR",
@@ -1099,20 +1119,20 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "8",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/kutter-gage-webb/10591",
         "imageUrl": "https://riceowls.com/images/2025/9/1/8_WEBB_KG.png",
-        "gamesPlayed": 55,
-        "gamesStarted": 54,
-        "battingAverage": 0.24,
-        "onBasePercentage": 0.373,
-        "sluggingPercentage": 0.386,
-        "ops": 0.759,
-        "atBats": 171,
-        "runs": 36,
-        "hits": 41,
+        "gamesPlayed": 56,
+        "gamesStarted": 55,
+        "battingAverage": 0.251,
+        "onBasePercentage": 0.38,
+        "sluggingPercentage": 0.411,
+        "ops": 0.791,
+        "atBats": 175,
+        "runs": 38,
+        "hits": 44,
         "doubles": 7,
         "triples": 0,
-        "homeRuns": 6,
-        "runsBattedIn": 33,
-        "totalBases": 66,
+        "homeRuns": 7,
+        "runsBattedIn": 36,
+        "totalBases": 72,
         "walks": 27,
         "hitByPitch": 13,
         "strikeouts": 44,
@@ -1120,12 +1140,12 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 6,
         "sacrificeHits": 3,
-        "stolenBases": 4,
-        "stolenBasesAttempts": 4,
-        "putouts": 159,
+        "stolenBases": 5,
+        "stolenBasesAttempts": 5,
+        "putouts": 160,
         "assists": 0,
-        "errors": 12,
-        "plateAppearances": 224,
+        "errors": 13,
+        "plateAppearances": 229,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1137,63 +1157,63 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "8",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/kutter-gage-webb/10591",
         "imageUrl": "https://riceowls.com/images/2025/9/1/8_WEBB_KG.png",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "putouts": 159,
-        "assists": 83,
-        "errors": 12,
-        "fieldingPercentage": 0.953,
+        "gamesPlayed": 52,
+        "gamesStarted": 52,
+        "putouts": 160,
+        "assists": 87,
+        "errors": 13,
+        "fieldingPercentage": 0.95,
         "doublePlays": 25,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 254
+        "totalChances": 260
       },
       "evaluation": {
-        "score": 31,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 17.368421052631582,
-          "Contact": 12.499999999999993,
+          "On-base": 55.55555555555555,
+          "Power": 23.947368421052627,
+          "Contact": 19.375,
           "Discipline": 45.95959595959595,
-          "Speed": 13.333333333333334
+          "Speed": 16.666666666666664
         },
         "summary": "Kutter-Gage Webb gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .240",
-          "OBP .373",
-          "SLG .386"
+          "AVG .251",
+          "OBP .380",
+          "SLG .411"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".240"
+            "value": ".251"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".380"
           },
           {
             "label": "SLG",
-            "value": ".386"
+            "value": ".411"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "7"
           },
           {
             "label": "RBI",
-            "value": "33"
+            "value": "36"
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "metaLine": "R-FR / L-R",
@@ -1389,33 +1409,33 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "10",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/colin-robson/10385",
         "imageUrl": "https://riceowls.com/images/2025/9/1/10_ROBSON_COLIN.png",
-        "gamesPlayed": 53,
-        "gamesStarted": 49,
-        "battingAverage": 0.309,
-        "onBasePercentage": 0.443,
-        "sluggingPercentage": 0.533,
-        "ops": 0.976,
-        "atBats": 165,
+        "gamesPlayed": 54,
+        "gamesStarted": 50,
+        "battingAverage": 0.308,
+        "onBasePercentage": 0.439,
+        "sluggingPercentage": 0.527,
+        "ops": 0.966,
+        "atBats": 169,
         "runs": 45,
-        "hits": 51,
+        "hits": 52,
         "doubles": 9,
         "triples": 2,
         "homeRuns": 8,
         "runsBattedIn": 22,
-        "totalBases": 88,
+        "totalBases": 89,
         "walks": 31,
         "hitByPitch": 11,
-        "strikeouts": 35,
+        "strikeouts": 37,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 3,
         "sacrificeHits": 6,
         "stolenBases": 9,
         "stolenBasesAttempts": 18,
-        "putouts": 95,
+        "putouts": 98,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 243,
+        "plateAppearances": 247,
         "caughtStealing": 9,
         "pickedOff": 0
       },
@@ -1427,51 +1447,51 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "10",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/colin-robson/10385",
         "imageUrl": "https://riceowls.com/images/2025/9/1/10_ROBSON_COLIN.png",
-        "gamesPlayed": 45,
-        "gamesStarted": 42,
-        "putouts": 95,
+        "gamesPlayed": 46,
+        "gamesStarted": 43,
+        "putouts": 98,
         "assists": 1,
         "errors": 3,
-        "fieldingPercentage": 0.97,
+        "fieldingPercentage": 0.971,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 99
+        "totalChances": 102
       },
       "evaluation": {
-        "score": 67,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 90.55555555555554,
-          "Power": 56.052631578947384,
-          "Contact": 55.62499999999999,
-          "Discipline": 76.19047619047618,
+          "On-base": 88.33333333333331,
+          "Power": 54.47368421052633,
+          "Contact": 54.99999999999999,
+          "Discipline": 70.87087087087085,
           "Speed": 30
         },
         "summary": "Colin Robson profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .309",
-          "OBP .443",
-          "SLG .533"
+          "AVG .308",
+          "OBP .439",
+          "SLG .527"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".309"
+            "value": ".308"
           },
           {
             "label": "OBP",
-            "value": ".443"
+            "value": ".439"
           },
           {
             "label": "SLG",
-            "value": ".533"
+            "value": ".527"
           },
           {
             "label": "HR",
@@ -1622,33 +1642,33 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "12",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/lorenzo-rios/10384",
         "imageUrl": "https://riceowls.com/images/2025/9/1/12_LORENZO_RIOS.png",
-        "gamesPlayed": 43,
-        "gamesStarted": 38,
-        "battingAverage": 0.217,
-        "onBasePercentage": 0.354,
-        "sluggingPercentage": 0.274,
-        "ops": 0.628,
-        "atBats": 106,
+        "gamesPlayed": 44,
+        "gamesStarted": 39,
+        "battingAverage": 0.229,
+        "onBasePercentage": 0.361,
+        "sluggingPercentage": 0.284,
+        "ops": 0.645,
+        "atBats": 109,
         "runs": 13,
-        "hits": 23,
+        "hits": 25,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 0,
-        "runsBattedIn": 9,
-        "totalBases": 29,
+        "runsBattedIn": 10,
+        "totalBases": 31,
         "walks": 15,
         "hitByPitch": 8,
-        "strikeouts": 30,
+        "strikeouts": 31,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
-        "sacrificeHits": 3,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 229,
+        "sacrificeHits": 4,
+        "stolenBases": 2,
+        "stolenBasesAttempts": 2,
+        "putouts": 236,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 134,
+        "plateAppearances": 139,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1660,51 +1680,51 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "12",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/lorenzo-rios/10384",
         "imageUrl": "https://riceowls.com/images/2025/9/1/12_LORENZO_RIOS.png",
-        "gamesPlayed": 38,
-        "gamesStarted": 36,
-        "putouts": 229,
-        "assists": 33,
+        "gamesPlayed": 39,
+        "gamesStarted": 37,
+        "putouts": 236,
+        "assists": 35,
         "errors": 1,
         "fieldingPercentage": 0.996,
         "doublePlays": 3,
-        "stolenBasesAgainst": 24,
+        "stolenBasesAgainst": 25,
         "caughtStealingBy": 9,
         "stolenBasesPercentage": null,
         "passedBalls": 5,
         "catchersInterference": 0,
-        "totalChances": 263
+        "totalChances": 272
       },
       "evaluation": {
-        "score": 18,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 41.111111111111086,
+          "On-base": 44.99999999999998,
           "Power": 0,
-          "Contact": 0,
-          "Discipline": 33.33333333333333,
-          "Speed": 3.3333333333333335
+          "Contact": 5.625000000000005,
+          "Discipline": 31.54121863799283,
+          "Speed": 6.666666666666667
         },
         "summary": "Lorenzo Rios gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .217",
-          "OBP .354",
-          "SLG .274"
+          "AVG .229",
+          "OBP .361",
+          "SLG .284"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".217"
+            "value": ".229"
           },
           {
             "label": "OBP",
-            "value": ".354"
+            "value": ".361"
           },
           {
             "label": "SLG",
-            "value": ".274"
+            "value": ".284"
           },
           {
             "label": "HR",
@@ -1712,11 +1732,11 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           },
           {
             "label": "RBI",
-            "value": "9"
+            "value": "10"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "metaLine": "SR / R-R",
@@ -1913,31 +1933,31 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "15",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/carson-kuhn/10603",
         "imageUrl": "https://riceowls.com/images/2025/9/1/41_KUHN_CARSON.png",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 0,
-        "appearances": 11,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.27,
-        "whip": 1.17,
+        "earnedRunAverage": 4.6,
+        "whip": 1.21,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 13.666666666666666,
-        "inningsPitchedDisplay": "13.2",
-        "hitsAllowed": 8,
+        "inningsPitched": 15.666666666666666,
+        "inningsPitchedDisplay": "15.2",
+        "hitsAllowed": 10,
         "runsAllowed": 8,
         "earnedRunsAllowed": 8,
-        "walksAllowed": 8,
-        "strikeouts": 13,
+        "walksAllowed": 9,
+        "strikeouts": 14,
         "doublesAllowed": 1,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 45,
-        "wildPitches": 2,
+        "opponentsAtBats": 52,
+        "wildPitches": 3,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.178,
+        "opponentsBattingAverage": 0.192,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1947,22 +1967,22 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "15",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/carson-kuhn/10603",
         "imageUrl": "https://riceowls.com/images/2025/9/1/41_KUHN_CARSON.png",
-        "gamesPlayed": 2,
+        "gamesPlayed": 3,
         "gamesStarted": 0,
         "putouts": 0,
-        "assists": 3,
+        "assists": 4,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
+        "stolenBasesAgainst": 1,
+        "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 3
+        "totalChances": 4
       },
       "evaluation": {
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1970,40 +1990,40 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 41.46341463414634,
-          "Command": 12.499999999999996,
+          "Miss bats": 36.750483558994205,
+          "Command": 11.111111111111116,
           "Damage suppression": 0
         },
         "summary": "Carson Kuhn looks like a LHP option who keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 5.27",
-          "WHIP 1.17",
-          "K/9 8.6"
+          "ERA 4.60",
+          "WHIP 1.21",
+          "K/9 8.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.27"
+            "value": "4.60"
           },
           {
             "label": "WHIP",
-            "value": "1.17"
+            "value": "1.21"
           },
           {
             "label": "K/9",
-            "value": "8.6"
+            "value": "8.0"
           },
           {
             "label": "BB/9",
-            "value": "5.3"
+            "value": "5.2"
           },
           {
             "label": "HR/9",
-            "value": "0.66"
+            "value": "0.57"
           },
           {
             "label": "IP",
-            "value": "13.7"
+            "value": "15.7"
           }
         ],
         "metaLine": "JR / L-L",
@@ -2054,13 +2074,13 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "16",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/paul-smith/10388",
         "imageUrl": "https://riceowls.com/images/2025/9/1/16_SMITH_PAUL.png",
-        "gamesPlayed": 55,
-        "gamesStarted": 52,
-        "battingAverage": 0.31,
-        "onBasePercentage": 0.432,
-        "sluggingPercentage": 0.582,
-        "ops": 1.014,
-        "atBats": 184,
+        "gamesPlayed": 56,
+        "gamesStarted": 53,
+        "battingAverage": 0.303,
+        "onBasePercentage": 0.424,
+        "sluggingPercentage": 0.569,
+        "ops": 0.993,
+        "atBats": 188,
         "runs": 38,
         "hits": 57,
         "doubles": 12,
@@ -2070,7 +2090,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "totalBases": 107,
         "walks": 37,
         "hitByPitch": 4,
-        "strikeouts": 33,
+        "strikeouts": 35,
         "intentionalWalks": 6,
         "groundedIntoDoublePlay": 7,
         "sacrificeFlies": 2,
@@ -2080,7 +2100,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "putouts": 24,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 228,
+        "plateAppearances": 232,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2107,36 +2127,36 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "totalChances": 26
       },
       "evaluation": {
-        "score": 69,
+        "score": 66,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 84.44444444444443,
-          "Power": 68.94736842105263,
-          "Contact": 56.25,
-          "Discipline": 100,
+          "On-base": 79.99999999999999,
+          "Power": 65.52631578947367,
+          "Contact": 51.87499999999999,
+          "Discipline": 95.23809523809523,
           "Speed": 3.3333333333333335
         },
         "summary": "Paul Smith profiles as a 1B/C piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .310",
-          "OBP .432",
-          "SLG .582"
+          "AVG .303",
+          "OBP .424",
+          "SLG .569"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".310"
+            "value": ".303"
           },
           {
             "label": "OBP",
-            "value": ".432"
+            "value": ".424"
           },
           {
             "label": "SLG",
-            "value": ".582"
+            "value": ".569"
           },
           {
             "label": "HR",
@@ -2486,20 +2506,20 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "21",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/garet-boehm/10592",
         "imageUrl": "https://riceowls.com/images/2025/9/1/13_BOEHM_GARET.png",
-        "gamesPlayed": 49,
-        "gamesStarted": 38,
-        "battingAverage": 0.26,
-        "onBasePercentage": 0.315,
-        "sluggingPercentage": 0.411,
-        "ops": 0.726,
-        "atBats": 146,
-        "runs": 23,
-        "hits": 38,
-        "doubles": 8,
+        "gamesPlayed": 50,
+        "gamesStarted": 39,
+        "battingAverage": 0.267,
+        "onBasePercentage": 0.319,
+        "sluggingPercentage": 0.42,
+        "ops": 0.739,
+        "atBats": 150,
+        "runs": 24,
+        "hits": 40,
+        "doubles": 9,
         "triples": 1,
         "homeRuns": 4,
         "runsBattedIn": 30,
-        "totalBases": 60,
+        "totalBases": 63,
         "walks": 12,
         "hitByPitch": 1,
         "strikeouts": 25,
@@ -2509,10 +2529,10 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "sacrificeHits": 3,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 298,
+        "putouts": 306,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 165,
+        "plateAppearances": 169,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2524,10 +2544,10 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "21",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/garet-boehm/10592",
         "imageUrl": "https://riceowls.com/images/2025/9/1/13_BOEHM_GARET.png",
-        "gamesPlayed": 41,
-        "gamesStarted": 38,
-        "putouts": 298,
-        "assists": 16,
+        "gamesPlayed": 42,
+        "gamesStarted": 39,
+        "putouts": 306,
+        "assists": 17,
         "errors": 3,
         "fieldingPercentage": 0.991,
         "doublePlays": 29,
@@ -2536,39 +2556,39 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 317
+        "totalChances": 326
       },
       "evaluation": {
-        "score": 21,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 19.444444444444432,
-          "Power": 23.947368421052627,
-          "Contact": 25.000000000000007,
+          "On-base": 21.666666666666657,
+          "Power": 26.31578947368421,
+          "Contact": 29.375000000000007,
           "Discipline": 31.111111111111107,
           "Speed": 0
         },
         "summary": "Garet Boehm gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .260",
-          "OBP .315",
-          "SLG .411"
+          "AVG .267",
+          "OBP .319",
+          "SLG .420"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".260"
+            "value": ".267"
           },
           {
             "label": "OBP",
-            "value": ".315"
+            "value": ".319"
           },
           {
             "label": "SLG",
-            "value": ".411"
+            "value": ".420"
           },
           {
             "label": "HR",
@@ -2632,31 +2652,31 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "23",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/tanner-wiggins/10594",
         "imageUrl": "https://riceowls.com/images/2025/9/1/23_WIGGINS_TANNER.png",
-        "gamesPlayed": 16,
-        "gamesStarted": 10,
-        "appearances": 16,
+        "gamesPlayed": 17,
+        "gamesStarted": 11,
+        "appearances": 17,
         "gamesCompleted": 1,
-        "earnedRunAverage": 4.02,
-        "whip": 1.39,
+        "earnedRunAverage": 4.1,
+        "whip": 1.4,
         "wins": 4,
         "losses": 2,
         "saves": 2,
         "shutouts": 1,
-        "inningsPitched": 78.33333333333333,
-        "inningsPitchedDisplay": "78.1",
-        "hitsAllowed": 93,
-        "runsAllowed": 37,
-        "earnedRunsAllowed": 35,
+        "inningsPitched": 83.33333333333333,
+        "inningsPitchedDisplay": "83.1",
+        "hitsAllowed": 101,
+        "runsAllowed": 41,
+        "earnedRunsAllowed": 38,
         "walksAllowed": 16,
-        "strikeouts": 49,
-        "doublesAllowed": 18,
+        "strikeouts": 54,
+        "doublesAllowed": 21,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 8,
-        "opponentsAtBats": 314,
+        "homeRunsAllowed": 9,
+        "opponentsAtBats": 336,
         "wildPitches": 4,
         "hitBatters": 9,
         "balks": 0,
-        "opponentsBattingAverage": 0.296,
+        "opponentsBattingAverage": 0.301,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2666,22 +2686,22 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "23",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/tanner-wiggins/10594",
         "imageUrl": "https://riceowls.com/images/2025/9/1/23_WIGGINS_TANNER.png",
-        "gamesPlayed": 15,
-        "gamesStarted": 10,
+        "gamesPlayed": 16,
+        "gamesStarted": 11,
         "putouts": 5,
-        "assists": 20,
+        "assists": 21,
         "errors": 1,
-        "fieldingPercentage": 0.962,
+        "fieldingPercentage": 0.963,
         "doublePlays": 2,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 26
+        "totalChances": 27
       },
       "evaluation": {
-        "score": 10,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2689,40 +2709,40 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 14.816247582205033,
-          "Command": 41.25,
+          "Miss bats": 16.65454545454546,
+          "Command": 47.5,
           "Damage suppression": 0
         },
         "summary": "Tanner Wiggins looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.02",
-          "WHIP 1.39",
-          "K/9 5.6"
+          "ERA 4.10",
+          "WHIP 1.40",
+          "K/9 5.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.02"
+            "value": "4.10"
           },
           {
             "label": "WHIP",
-            "value": "1.39"
+            "value": "1.40"
           },
           {
             "label": "K/9",
-            "value": "5.6"
+            "value": "5.8"
           },
           {
             "label": "BB/9",
-            "value": "1.8"
+            "value": "1.7"
           },
           {
             "label": "HR/9",
-            "value": "0.92"
+            "value": "0.97"
           },
           {
             "label": "IP",
-            "value": "78.3"
+            "value": "83.3"
           }
         ],
         "metaLine": "R-SO / R-R",
@@ -2773,20 +2793,20 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "24",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/jacob-devenny/10367",
         "imageUrl": "https://riceowls.com/images/2025/9/1/24_DEVENNY_JACOB.png",
-        "gamesPlayed": 30,
+        "gamesPlayed": 31,
         "gamesStarted": 15,
-        "battingAverage": 0.224,
-        "onBasePercentage": 0.292,
-        "sluggingPercentage": 0.241,
-        "ops": 0.533,
-        "atBats": 58,
-        "runs": 4,
-        "hits": 13,
+        "battingAverage": 0.237,
+        "onBasePercentage": 0.303,
+        "sluggingPercentage": 0.254,
+        "ops": 0.557,
+        "atBats": 59,
+        "runs": 5,
+        "hits": 14,
         "doubles": 1,
         "triples": 0,
         "homeRuns": 0,
         "runsBattedIn": 5,
-        "totalBases": 14,
+        "totalBases": 15,
         "walks": 2,
         "hitByPitch": 4,
         "strikeouts": 13,
@@ -2799,7 +2819,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "putouts": 35,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 66,
+        "plateAppearances": 67,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2811,10 +2831,10 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "24",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/jacob-devenny/10367",
         "imageUrl": "https://riceowls.com/images/2025/9/1/24_DEVENNY_JACOB.png",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 13,
         "putouts": 35,
-        "assists": 1,
+        "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -2823,39 +2843,39 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 36
+        "totalChances": 37
       },
       "evaluation": {
-        "score": 3,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 6.666666666666641,
+          "On-base": 12.77777777777776,
           "Power": 0,
-          "Contact": 2.500000000000002,
+          "Contact": 10.624999999999991,
           "Discipline": 0,
           "Speed": 0
         },
         "summary": "Jacob Devenny gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .224",
-          "OBP .292",
-          "SLG .241"
+          "AVG .237",
+          "OBP .303",
+          "SLG .254"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".224"
+            "value": ".237"
           },
           {
             "label": "OBP",
-            "value": ".292"
+            "value": ".303"
           },
           {
             "label": "SLG",
-            "value": ".241"
+            "value": ".254"
           },
           {
             "label": "HR",
@@ -4998,31 +5018,31 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "47",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/zachary-fetchel/10607",
         "imageUrl": "https://riceowls.com/images/2025/9/1/47_FETCHEL_ZACH.png",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 0,
-        "appearances": 7,
+        "appearances": 8,
         "gamesCompleted": 0,
-        "earnedRunAverage": 13.5,
-        "whip": 2.44,
-        "wins": 0,
+        "earnedRunAverage": 9.82,
+        "whip": 2.18,
+        "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 5.333333333333333,
-        "inningsPitchedDisplay": "5.1",
-        "hitsAllowed": 11,
+        "inningsPitched": 7.333333333333333,
+        "inningsPitchedDisplay": "7.1",
+        "hitsAllowed": 14,
         "runsAllowed": 9,
         "earnedRunsAllowed": 8,
         "walksAllowed": 2,
-        "strikeouts": 7,
-        "doublesAllowed": 3,
+        "strikeouts": 8,
+        "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 27,
+        "opponentsAtBats": 34,
         "wildPitches": 0,
         "hitBatters": 1,
         "balks": 1,
-        "opponentsBattingAverage": 0.407,
+        "opponentsBattingAverage": 0.412,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5032,22 +5052,22 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "jersey": "47",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/zachary-fetchel/10607",
         "imageUrl": "https://riceowls.com/images/2025/9/1/47_FETCHEL_ZACH.png",
-        "gamesPlayed": 2,
+        "gamesPlayed": 3,
         "gamesStarted": 0,
         "putouts": 0,
-        "assists": 2,
+        "assists": 3,
         "errors": 1,
-        "fieldingPercentage": 0.667,
+        "fieldingPercentage": 0.75,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 3
+        "totalChances": 4
       },
       "evaluation": {
-        "score": 22,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5055,40 +5075,40 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 71.02272727272727,
-          "Command": 50,
+          "Miss bats": 52.892561983471076,
+          "Command": 60,
           "Damage suppression": 0
         },
-        "summary": "Zachary Fetchel looks like a RHP option who misses bats.",
+        "summary": "Zachary Fetchel looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 2.44",
-          "K/9 11.8"
+          "ERA 9.82",
+          "WHIP 2.18",
+          "K/9 9.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "13.50"
+            "value": "9.82"
           },
           {
             "label": "WHIP",
-            "value": "2.44"
+            "value": "2.18"
           },
           {
             "label": "K/9",
-            "value": "11.8"
+            "value": "9.8"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "2.5"
           },
           {
             "label": "HR/9",
-            "value": "1.69"
+            "value": "1.23"
           },
           {
             "label": "IP",
-            "value": "5.3"
+            "value": "7.3"
           }
         ],
         "metaLine": "JR / R-R",
@@ -5648,29 +5668,29 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "R-R",
-        "score": 36,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cole Green profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .290",
-          "OBP .359",
-          "SLG .458"
+          "AVG .294",
+          "OBP .361",
+          "SLG .459"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".359"
+            "value": ".361"
           },
           {
             "label": "SLG",
-            "value": ".458"
+            "value": ".459"
           },
           {
             "label": "HR",
@@ -5686,10 +5706,10 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           }
         ],
         "components": {
-          "On-base": 43.888888888888864,
-          "Power": 36.31578947368422,
-          "Contact": 43.749999999999986,
-          "Discipline": 14.00966183574879,
+          "On-base": 44.99999999999998,
+          "Power": 36.57894736842106,
+          "Contact": 46.249999999999986,
+          "Discipline": 13.238770685579196,
           "Speed": 30
         },
         "metaLine": "SO / R-R",
@@ -5717,7 +5737,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R-R",
-        "score": 58,
+        "score": 57,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
@@ -5725,8 +5745,8 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "summary": "JC Davis profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
           "AVG .335",
-          "OBP .390",
-          "SLG .483"
+          "OBP .389",
+          "SLG .480"
         ],
         "statCards": [
           {
@@ -5735,11 +5755,11 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           },
           {
             "label": "OBP",
-            "value": ".390"
+            "value": ".389"
           },
           {
             "label": "SLG",
-            "value": ".483"
+            "value": ".480"
           },
           {
             "label": "HR",
@@ -5755,10 +5775,10 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           }
         ],
         "components": {
-          "On-base": 61.11111111111111,
-          "Power": 42.89473684210526,
+          "On-base": 60.55555555555555,
+          "Power": 42.10526315789473,
           "Contact": 71.87500000000001,
-          "Discipline": 96.29629629629628,
+          "Discipline": 88.88888888888889,
           "Speed": 10
         },
         "metaLine": "JR / R-R",
@@ -5786,29 +5806,29 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "L-R",
-        "score": 67,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Zachary Daigre profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .394",
-          "OBP .474",
-          "SLG .424"
+          "AVG .371",
+          "OBP .451",
+          "SLG .400"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".394"
+            "value": ".371"
           },
           {
             "label": "OBP",
-            "value": ".474"
+            "value": ".451"
           },
           {
             "label": "SLG",
-            "value": ".424"
+            "value": ".400"
           },
           {
             "label": "HR",
@@ -5824,10 +5844,10 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           }
         ],
         "components": {
-          "On-base": 100,
-          "Power": 27.368421052631575,
-          "Contact": 100,
-          "Discipline": 48.48484848484848,
+          "On-base": 95,
+          "Power": 21.052631578947377,
+          "Contact": 94.375,
+          "Discipline": 37.606837606837594,
           "Speed": 30
         },
         "metaLine": "JR / L-R",
@@ -5855,29 +5875,29 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "L-R",
-        "score": 18,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Landis Davila gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .248",
-          "OBP .328",
-          "SLG .342"
+          "AVG .246",
+          "OBP .326",
+          "SLG .339"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".248"
+            "value": ".246"
           },
           {
             "label": "OBP",
-            "value": ".328"
+            "value": ".326"
           },
           {
             "label": "SLG",
-            "value": ".342"
+            "value": ".339"
           },
           {
             "label": "HR",
@@ -5893,10 +5913,10 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           }
         ],
         "components": {
-          "On-base": 26.66666666666666,
-          "Power": 5.789473684210533,
-          "Contact": 17.5,
-          "Discipline": 23.23232323232323,
+          "On-base": 25.555555555555546,
+          "Power": 5.000000000000005,
+          "Contact": 16.249999999999996,
+          "Discipline": 21.256038647342994,
           "Speed": 16.666666666666664
         },
         "metaLine": "SO / L-R",
@@ -5992,29 +6012,29 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "R-R",
-        "score": 13,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Michael Zito gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .158",
-          "OBP .304",
-          "SLG .158"
+          "AVG .143",
+          "OBP .280",
+          "SLG .143"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".158"
+            "value": ".143"
           },
           {
             "label": "OBP",
-            "value": ".304"
+            "value": ".280"
           },
           {
             "label": "SLG",
-            "value": ".158"
+            "value": ".143"
           },
           {
             "label": "HR",
@@ -6030,10 +6050,10 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           }
         ],
         "components": {
-          "On-base": 13.333333333333314,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 61.11111111111111,
+          "Discipline": 33.33333333333333,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SO / R-R",
@@ -6061,49 +6081,49 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "position": "INF",
         "classYear": "R-FR",
         "handedness": "L-R",
-        "score": 31,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Kutter-Gage Webb gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .240",
-          "OBP .373",
-          "SLG .386"
+          "AVG .251",
+          "OBP .380",
+          "SLG .411"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".240"
+            "value": ".251"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".380"
           },
           {
             "label": "SLG",
-            "value": ".386"
+            "value": ".411"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "7"
           },
           {
             "label": "RBI",
-            "value": "33"
+            "value": "36"
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 17.368421052631582,
-          "Contact": 12.499999999999993,
+          "On-base": 55.55555555555555,
+          "Power": 23.947368421052627,
+          "Contact": 19.375,
           "Discipline": 45.95959595959595,
-          "Speed": 13.333333333333334
+          "Speed": 16.666666666666664
         },
         "metaLine": "R-FR / L-R",
         "detailBadges": [
@@ -6199,29 +6219,29 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "position": "OF",
         "classYear": "R-SO",
         "handedness": "L-R",
-        "score": 67,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Colin Robson profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .309",
-          "OBP .443",
-          "SLG .533"
+          "AVG .308",
+          "OBP .439",
+          "SLG .527"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".309"
+            "value": ".308"
           },
           {
             "label": "OBP",
-            "value": ".443"
+            "value": ".439"
           },
           {
             "label": "SLG",
-            "value": ".533"
+            "value": ".527"
           },
           {
             "label": "HR",
@@ -6237,10 +6257,10 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           }
         ],
         "components": {
-          "On-base": 90.55555555555554,
-          "Power": 56.052631578947384,
-          "Contact": 55.62499999999999,
-          "Discipline": 76.19047619047618,
+          "On-base": 88.33333333333331,
+          "Power": 54.47368421052633,
+          "Contact": 54.99999999999999,
+          "Discipline": 70.87087087087085,
           "Speed": 30
         },
         "metaLine": "R-SO / L-R",
@@ -6336,29 +6356,29 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "position": "C",
         "classYear": "SR",
         "handedness": "R-R",
-        "score": 18,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Lorenzo Rios gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .217",
-          "OBP .354",
-          "SLG .274"
+          "AVG .229",
+          "OBP .361",
+          "SLG .284"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".217"
+            "value": ".229"
           },
           {
             "label": "OBP",
-            "value": ".354"
+            "value": ".361"
           },
           {
             "label": "SLG",
-            "value": ".274"
+            "value": ".284"
           },
           {
             "label": "HR",
@@ -6366,19 +6386,19 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           },
           {
             "label": "RBI",
-            "value": "9"
+            "value": "10"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "components": {
-          "On-base": 41.111111111111086,
+          "On-base": 44.99999999999998,
           "Power": 0,
-          "Contact": 0,
-          "Discipline": 33.33333333333333,
-          "Speed": 3.3333333333333335
+          "Contact": 5.625000000000005,
+          "Discipline": 31.54121863799283,
+          "Speed": 6.666666666666667
         },
         "metaLine": "SR / R-R",
         "detailBadges": [
@@ -6474,48 +6494,48 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "position": "LHP",
         "classYear": "JR",
         "handedness": "L-L",
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Carson Kuhn looks like a LHP option who keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 5.27",
-          "WHIP 1.17",
-          "K/9 8.6"
+          "ERA 4.60",
+          "WHIP 1.21",
+          "K/9 8.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.27"
+            "value": "4.60"
           },
           {
             "label": "WHIP",
-            "value": "1.17"
+            "value": "1.21"
           },
           {
             "label": "K/9",
-            "value": "8.6"
+            "value": "8.0"
           },
           {
             "label": "BB/9",
-            "value": "5.3"
+            "value": "5.2"
           },
           {
             "label": "HR/9",
-            "value": "0.66"
+            "value": "0.57"
           },
           {
             "label": "IP",
-            "value": "13.7"
+            "value": "15.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 41.46341463414634,
-          "Command": 12.499999999999996,
+          "Miss bats": 36.750483558994205,
+          "Command": 11.111111111111116,
           "Damage suppression": 0
         },
         "metaLine": "JR / L-L",
@@ -6543,29 +6563,29 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "position": "1B/C",
         "classYear": "SR",
         "handedness": "S-R",
-        "score": 69,
+        "score": 66,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Paul Smith profiles as a 1B/C piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .310",
-          "OBP .432",
-          "SLG .582"
+          "AVG .303",
+          "OBP .424",
+          "SLG .569"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".310"
+            "value": ".303"
           },
           {
             "label": "OBP",
-            "value": ".432"
+            "value": ".424"
           },
           {
             "label": "SLG",
-            "value": ".582"
+            "value": ".569"
           },
           {
             "label": "HR",
@@ -6581,10 +6601,10 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           }
         ],
         "components": {
-          "On-base": 84.44444444444443,
-          "Power": 68.94736842105263,
-          "Contact": 56.25,
-          "Discipline": 100,
+          "On-base": 79.99999999999999,
+          "Power": 65.52631578947367,
+          "Contact": 51.87499999999999,
+          "Discipline": 95.23809523809523,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / S-R",
@@ -6750,29 +6770,29 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R-R",
-        "score": 21,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Garet Boehm gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .260",
-          "OBP .315",
-          "SLG .411"
+          "AVG .267",
+          "OBP .319",
+          "SLG .420"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".260"
+            "value": ".267"
           },
           {
             "label": "OBP",
-            "value": ".315"
+            "value": ".319"
           },
           {
             "label": "SLG",
-            "value": ".411"
+            "value": ".420"
           },
           {
             "label": "HR",
@@ -6788,9 +6808,9 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           }
         ],
         "components": {
-          "On-base": 19.444444444444432,
-          "Power": 23.947368421052627,
-          "Contact": 25.000000000000007,
+          "On-base": 21.666666666666657,
+          "Power": 26.31578947368421,
+          "Contact": 29.375000000000007,
           "Discipline": 31.111111111111107,
           "Speed": 0
         },
@@ -6819,48 +6839,48 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "position": "RHP",
         "classYear": "R-SO",
         "handedness": "R-R",
-        "score": 10,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tanner Wiggins looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.02",
-          "WHIP 1.39",
-          "K/9 5.6"
+          "ERA 4.10",
+          "WHIP 1.40",
+          "K/9 5.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.02"
+            "value": "4.10"
           },
           {
             "label": "WHIP",
-            "value": "1.39"
+            "value": "1.40"
           },
           {
             "label": "K/9",
-            "value": "5.6"
+            "value": "5.8"
           },
           {
             "label": "BB/9",
-            "value": "1.8"
+            "value": "1.7"
           },
           {
             "label": "HR/9",
-            "value": "0.92"
+            "value": "0.97"
           },
           {
             "label": "IP",
-            "value": "78.3"
+            "value": "83.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 14.816247582205033,
-          "Command": 41.25,
+          "Miss bats": 16.65454545454546,
+          "Command": 47.5,
           "Damage suppression": 0
         },
         "metaLine": "R-SO / R-R",
@@ -6888,29 +6908,29 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "L-R",
-        "score": 3,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jacob Devenny gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .224",
-          "OBP .292",
-          "SLG .241"
+          "AVG .237",
+          "OBP .303",
+          "SLG .254"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".224"
+            "value": ".237"
           },
           {
             "label": "OBP",
-            "value": ".292"
+            "value": ".303"
           },
           {
             "label": "SLG",
-            "value": ".241"
+            "value": ".254"
           },
           {
             "label": "HR",
@@ -6926,9 +6946,9 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           }
         ],
         "components": {
-          "On-base": 6.666666666666641,
+          "On-base": 12.77777777777776,
           "Power": 0,
-          "Contact": 2.500000000000002,
+          "Contact": 10.624999999999991,
           "Discipline": 0,
           "Speed": 0
         },
@@ -8058,48 +8078,48 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R-R",
-        "score": 22,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Zachary Fetchel looks like a RHP option who misses bats.",
+        "summary": "Zachary Fetchel looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 2.44",
-          "K/9 11.8"
+          "ERA 9.82",
+          "WHIP 2.18",
+          "K/9 9.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "13.50"
+            "value": "9.82"
           },
           {
             "label": "WHIP",
-            "value": "2.44"
+            "value": "2.18"
           },
           {
             "label": "K/9",
-            "value": "11.8"
+            "value": "9.8"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "2.5"
           },
           {
             "label": "HR/9",
-            "value": "1.69"
+            "value": "1.23"
           },
           {
             "label": "IP",
-            "value": "5.3"
+            "value": "7.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 71.02272727272727,
-          "Command": 50,
+          "Miss bats": 52.892561983471076,
+          "Command": 60,
           "Damage suppression": 0
         },
         "metaLine": "JR / R-R",

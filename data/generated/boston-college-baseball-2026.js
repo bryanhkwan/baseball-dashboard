@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.boston-college2026 = {
-  "generatedAt": "2026-05-21T13:32:18.069Z",
+  "generatedAt": "2026-05-22T12:34:43.884Z",
   "season": 2026,
   "school": {
     "slug": "boston-college",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
     }
   },
   "teamSummary": {
-    "record": "36-20, 17-13",
-    "battingAverage": ".277",
-    "earnedRunAverage": "4.80",
+    "record": "36-21, 17-13",
+    "battingAverage": ".275",
+    "earnedRunAverage": "4.86",
     "wins": "36",
-    "losses": "20",
+    "losses": "21",
     "hitting": {
-      "atBats": "1780",
-      "runsScored": "380",
-      "hits": "493",
-      "runsBattedIn": "344",
-      "doubles": "105",
+      "atBats": "1809",
+      "runsScored": "382",
+      "hits": "498",
+      "runsBattedIn": "346",
+      "doubles": "106",
       "triples": "19",
       "homeRuns": "40",
-      "walks": "266",
+      "walks": "271",
       "intentionalWalks": "6",
-      "strikeouts": "412",
-      "strikeoutsLooking": "81",
-      "hitByPitch": "81",
+      "strikeouts": "420",
+      "strikeoutsLooking": "86",
+      "hitByPitch": "82",
       "stolenBases": "139",
-      "caughtStealing": "20",
+      "caughtStealing": "21",
       "sacrificeHits": "45",
       "sacrificeFlies": "29",
       "reachedOnCatchersInteference": "2",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "430",
-      "flyOuts": "452",
-      "groundedIntoDoublePlay": "41",
+      "groundOuts": "433",
+      "flyOuts": "463",
+      "groundedIntoDoublePlay": "43",
       "pickedOff": "14",
-      "doublePlaysHitInto": "47",
+      "doublePlaysHitInto": "49",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1440",
-      "assists": "461",
+      "putouts": "1467",
+      "assists": "471",
       "errors": "48",
       "passedBalls": "8",
       "catchersInterference": "0",
       "stolenBasesAgainst": "44",
-      "caughtStealingBy": "18",
+      "caughtStealingBy": "19",
       "involvedInDoublePlays": "41",
       "involvedInTriplePlays": "0",
-      "totalChances": "1949",
-      "fieldingPercentage": ".975"
+      "totalChances": "1986",
+      "fieldingPercentage": ".976"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "36",
-      "saves": "45",
-      "losses": "20",
+      "saves": "46",
+      "losses": "21",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "2",
       "creditForCombinedShutout": "1",
-      "inningsPitched": "480.1",
-      "hitsAllowed": "486",
-      "runsAllowed": "286",
-      "earnedRunsAllowed": "256",
-      "walksAllowed": "231",
-      "strikeouts": "451",
-      "battersFaced": "2188",
-      "opponentAtBats": "1849",
-      "doublesAllowed": "88",
+      "inningsPitched": "489.1",
+      "hitsAllowed": "501",
+      "runsAllowed": "294",
+      "earnedRunsAllowed": "264",
+      "walksAllowed": "236",
+      "strikeouts": "458",
+      "battersFaced": "2236",
+      "opponentAtBats": "1889",
+      "doublesAllowed": "89",
       "triplesAllowed": "12",
-      "homerunsAllowed": "50",
-      "wildPitches": "37",
+      "homerunsAllowed": "52",
+      "wildPitches": "40",
       "balks": "7",
-      "hitBatters": "68",
-      "strikeoutsLooking": "104",
+      "hitBatters": "71",
+      "strikeoutsLooking": "106",
       "intentionalWalks": "6",
-      "inheritedRunners": "62",
-      "inheritedRunnersThatScored": "41",
+      "inheritedRunners": "66",
+      "inheritedRunnersThatScored": "42",
       "sacrificeHitsAllowed": "17",
       "sacrificeFliesAllowed": "23",
       "catchersInterferenceAllowed": "0",
-      "pitches": "7722",
-      "flyouts": "499",
-      "groundouts": "405",
+      "pitches": "7883",
+      "flyouts": "506",
+      "groundouts": "416",
       "teamUnearnedRuns": "0",
       "saveRecord": "17",
       "pickoff": "1"
@@ -306,21 +306,21 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "2",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/ty-mainolfi/26426",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Mainolfi_Uncropped.png",
-        "gamesPlayed": 56,
-        "gamesStarted": 55,
-        "battingAverage": 0.324,
-        "onBasePercentage": 0.415,
-        "sluggingPercentage": 0.44,
-        "ops": 0.855,
-        "atBats": 216,
-        "runs": 52,
+        "gamesPlayed": 57,
+        "gamesStarted": 56,
+        "battingAverage": 0.32,
+        "onBasePercentage": 0.412,
+        "sluggingPercentage": 0.434,
+        "ops": 0.846,
+        "atBats": 219,
+        "runs": 53,
         "hits": 70,
         "doubles": 16,
         "triples": 3,
         "homeRuns": 1,
         "runsBattedIn": 47,
         "totalBases": 95,
-        "walks": 30,
+        "walks": 31,
         "hitByPitch": 5,
         "strikeouts": 33,
         "intentionalWalks": 0,
@@ -332,7 +332,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "putouts": 97,
         "assists": 0,
         "errors": 9,
-        "plateAppearances": 279,
+        "plateAppearances": 283,
         "caughtStealing": 2,
         "pickedOff": 2
       },
@@ -344,10 +344,10 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "2",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/ty-mainolfi/26426",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Mainolfi_Uncropped.png",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
+        "gamesPlayed": 52,
+        "gamesStarted": 52,
         "putouts": 97,
-        "assists": 117,
+        "assists": 119,
         "errors": 9,
         "fieldingPercentage": 0.96,
         "doublePlays": 25,
@@ -356,39 +356,39 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 223
+        "totalChances": 225
       },
       "evaluation": {
-        "score": 61,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 74.99999999999997,
-          "Power": 31.578947368421055,
-          "Contact": 65,
-          "Discipline": 78.78787878787877,
+          "On-base": 73.3333333333333,
+          "Power": 30,
+          "Contact": 62.5,
+          "Discipline": 82.15488215488216,
           "Speed": 63.33333333333333
         },
         "summary": "Ty Mainolfi profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .324",
-          "OBP .415",
-          "SLG .440"
+          "AVG .320",
+          "OBP .412",
+          "SLG .434"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".324"
+            "value": ".320"
           },
           {
             "label": "OBP",
-            "value": ".415"
+            "value": ".412"
           },
           {
             "label": "SLG",
-            "value": ".440"
+            "value": ".434"
           },
           {
             "label": "HR",
@@ -844,31 +844,31 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "8",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/aj-colarusso/26392",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Colarusso_Uncropped.png",
-        "gamesPlayed": 14,
-        "gamesStarted": 14,
-        "appearances": 14,
+        "gamesPlayed": 15,
+        "gamesStarted": 15,
+        "appearances": 15,
         "gamesCompleted": 1,
-        "earnedRunAverage": 4.18,
-        "whip": 1.3,
+        "earnedRunAverage": 4.62,
+        "whip": 1.36,
         "wins": 5,
-        "losses": 3,
+        "losses": 4,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 71,
-        "inningsPitchedDisplay": "71.0",
-        "hitsAllowed": 71,
-        "runsAllowed": 44,
-        "earnedRunsAllowed": 33,
-        "walksAllowed": 21,
-        "strikeouts": 66,
+        "inningsPitched": 76,
+        "inningsPitchedDisplay": "76.0",
+        "hitsAllowed": 81,
+        "runsAllowed": 50,
+        "earnedRunsAllowed": 39,
+        "walksAllowed": 22,
+        "strikeouts": 71,
         "doublesAllowed": 9,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 10,
-        "opponentsAtBats": 279,
-        "wildPitches": 0,
-        "hitBatters": 4,
+        "homeRunsAllowed": 12,
+        "opponentsAtBats": 303,
+        "wildPitches": 3,
+        "hitBatters": 6,
         "balks": 3,
-        "opponentsBattingAverage": 0.254,
+        "opponentsBattingAverage": 0.267,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -901,24 +901,24 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.692701664532656,
-          "Command": 42.857142857142854,
+          "Miss bats": 40.07177033492822,
+          "Command": 44.54545454545455,
           "Damage suppression": 0
         },
         "summary": "A.J. Colarusso looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.18",
-          "WHIP 1.30",
+          "ERA 4.62",
+          "WHIP 1.36",
           "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.18"
+            "value": "4.62"
           },
           {
             "label": "WHIP",
-            "value": "1.30"
+            "value": "1.36"
           },
           {
             "label": "K/9",
@@ -926,15 +926,15 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           },
           {
             "label": "BB/9",
-            "value": "2.7"
+            "value": "2.6"
           },
           {
             "label": "HR/9",
-            "value": "1.27"
+            "value": "1.42"
           },
           {
             "label": "IP",
-            "value": "71.0"
+            "value": "76.0"
           }
         ],
         "metaLine": "SR / L/L",
@@ -1073,13 +1073,13 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "10",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/colin-larson/26403",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Larson_Uncropped.png",
-        "gamesPlayed": 54,
-        "gamesStarted": 50,
-        "battingAverage": 0.228,
-        "onBasePercentage": 0.417,
-        "sluggingPercentage": 0.346,
-        "ops": 0.763,
-        "atBats": 136,
+        "gamesPlayed": 55,
+        "gamesStarted": 51,
+        "battingAverage": 0.225,
+        "onBasePercentage": 0.412,
+        "sluggingPercentage": 0.341,
+        "ops": 0.753,
+        "atBats": 138,
         "runs": 33,
         "hits": 31,
         "doubles": 3,
@@ -1089,7 +1089,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "totalBases": 47,
         "walks": 36,
         "hitByPitch": 8,
-        "strikeouts": 50,
+        "strikeouts": 52,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -1099,7 +1099,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "putouts": 117,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 209,
+        "plateAppearances": 211,
         "caughtStealing": 1,
         "pickedOff": 3
       },
@@ -1126,36 +1126,36 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "totalChances": 121
       },
       "evaluation": {
-        "score": 42,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 76.11111111111109,
-          "Power": 6.842105263157887,
-          "Contact": 5.000000000000004,
-          "Discipline": 57.77777777777777,
+          "On-base": 73.3333333333333,
+          "Power": 5.526315789473689,
+          "Contact": 3.1250000000000027,
+          "Discipline": 54.700854700854684,
           "Speed": 70
         },
         "summary": "Colin Larson profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .228",
-          "OBP .417",
-          "SLG .346"
+          "AVG .225",
+          "OBP .412",
+          "SLG .341"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".228"
+            "value": ".225"
           },
           {
             "label": "OBP",
-            "value": ".417"
+            "value": ".412"
           },
           {
             "label": "SLG",
-            "value": ".346"
+            "value": ".341"
           },
           {
             "label": "HR",
@@ -1218,13 +1218,13 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "11",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/gunnar-johnson/26400",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Johnson_Uncropped.png",
-        "gamesPlayed": 44,
-        "gamesStarted": 35,
-        "battingAverage": 0.254,
-        "onBasePercentage": 0.362,
-        "sluggingPercentage": 0.397,
-        "ops": 0.759,
-        "atBats": 126,
+        "gamesPlayed": 45,
+        "gamesStarted": 36,
+        "battingAverage": 0.246,
+        "onBasePercentage": 0.353,
+        "sluggingPercentage": 0.385,
+        "ops": 0.738,
+        "atBats": 130,
         "runs": 15,
         "hits": 32,
         "doubles": 12,
@@ -1234,17 +1234,17 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "totalBases": 50,
         "walks": 15,
         "hitByPitch": 7,
-        "strikeouts": 33,
+        "strikeouts": 34,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 1,
         "sacrificeHits": 4,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 249,
+        "putouts": 257,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 156,
+        "plateAppearances": 160,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1256,51 +1256,51 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "11",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/gunnar-johnson/26400",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Johnson_Uncropped.png",
-        "gamesPlayed": 39,
-        "gamesStarted": 33,
-        "putouts": 249,
-        "assists": 28,
+        "gamesPlayed": 40,
+        "gamesStarted": 34,
+        "putouts": 257,
+        "assists": 30,
         "errors": 2,
         "fieldingPercentage": 0.993,
         "doublePlays": 0,
         "stolenBasesAgainst": 22,
-        "caughtStealingBy": 10,
+        "caughtStealingBy": 11,
         "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 279
+        "totalChances": 289
       },
       "evaluation": {
-        "score": 29,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 45.555555555555536,
-          "Power": 20.26315789473685,
-          "Contact": 21.250000000000004,
-          "Discipline": 28.282828282828277,
+          "On-base": 40.555555555555536,
+          "Power": 17.10526315789474,
+          "Contact": 16.249999999999996,
+          "Discipline": 26.797385620915026,
           "Speed": 10
         },
         "summary": "Gunnar Johnson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .254",
-          "OBP .362",
-          "SLG .397"
+          "AVG .246",
+          "OBP .353",
+          "SLG .385"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".254"
+            "value": ".246"
           },
           {
             "label": "OBP",
-            "value": ".362"
+            "value": ".353"
           },
           {
             "label": "SLG",
-            "value": ".397"
+            "value": ".385"
           },
           {
             "label": "HR",
@@ -1363,13 +1363,13 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "12",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/owen-deshazo/26393",
         "imageUrl": "https://bceagles.com/images/2026/3/22/Owen_Final.png",
-        "gamesPlayed": 26,
+        "gamesPlayed": 27,
         "gamesStarted": 12,
-        "battingAverage": 0.179,
-        "onBasePercentage": 0.244,
-        "sluggingPercentage": 0.308,
-        "ops": 0.552,
-        "atBats": 39,
+        "battingAverage": 0.175,
+        "onBasePercentage": 0.239,
+        "sluggingPercentage": 0.3,
+        "ops": 0.539,
+        "atBats": 40,
         "runs": 12,
         "hits": 7,
         "doubles": 2,
@@ -1379,7 +1379,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "totalBases": 12,
         "walks": 3,
         "hitByPitch": 1,
-        "strikeouts": 15,
+        "strikeouts": 16,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
@@ -1389,7 +1389,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "putouts": 15,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 50,
+        "plateAppearances": 51,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1430,22 +1430,22 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         },
         "summary": "Owen DeShazo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .179",
-          "OBP .244",
-          "SLG .308"
+          "AVG .175",
+          "OBP .239",
+          "SLG .300"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".179"
+            "value": ".175"
           },
           {
             "label": "OBP",
-            "value": ".244"
+            "value": ".239"
           },
           {
             "label": "SLG",
-            "value": ".308"
+            "value": ".300"
           },
           {
             "label": "HR",
@@ -1508,34 +1508,34 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "14",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/luke-gallo/26421",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Gallo_Uncropped.png",
-        "gamesPlayed": 50,
-        "gamesStarted": 45,
+        "gamesPlayed": 51,
+        "gamesStarted": 46,
         "battingAverage": 0.336,
-        "onBasePercentage": 0.441,
-        "sluggingPercentage": 0.443,
+        "onBasePercentage": 0.443,
+        "sluggingPercentage": 0.441,
         "ops": 0.884,
-        "atBats": 149,
+        "atBats": 152,
         "runs": 24,
-        "hits": 50,
+        "hits": 51,
         "doubles": 8,
         "triples": 1,
         "homeRuns": 2,
         "runsBattedIn": 36,
-        "totalBases": 66,
-        "walks": 18,
+        "totalBases": 67,
+        "walks": 19,
         "hitByPitch": 11,
-        "strikeouts": 20,
+        "strikeouts": 21,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 1,
         "sacrificeHits": 8,
         "stolenBases": 9,
-        "stolenBasesAttempts": 10,
-        "putouts": 32,
+        "stolenBasesAttempts": 11,
+        "putouts": 36,
         "assists": 0,
         "errors": 8,
-        "plateAppearances": 199,
-        "caughtStealing": 1,
+        "plateAppearances": 205,
+        "caughtStealing": 2,
         "pickedOff": 1
       },
       "pitchingStats": null,
@@ -1546,19 +1546,19 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "14",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/luke-gallo/26421",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Gallo_Uncropped.png",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "putouts": 32,
-        "assists": 85,
+        "gamesPlayed": 44,
+        "gamesStarted": 44,
+        "putouts": 36,
+        "assists": 86,
         "errors": 8,
-        "fieldingPercentage": 0.936,
+        "fieldingPercentage": 0.938,
         "doublePlays": 13,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 125
+        "totalChances": 130
       },
       "evaluation": {
         "score": 64,
@@ -1567,17 +1567,17 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 89.44444444444444,
-          "Power": 32.36842105263158,
+          "On-base": 90.55555555555554,
+          "Power": 31.8421052631579,
           "Contact": 72.50000000000001,
-          "Discipline": 77.77777777777776,
+          "Discipline": 78.30687830687829,
           "Speed": 30
         },
         "summary": "Luke Gallo profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .336",
-          "OBP .441",
-          "SLG .443"
+          "OBP .443",
+          "SLG .441"
         ],
         "statCards": [
           {
@@ -1586,11 +1586,11 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           },
           {
             "label": "OBP",
-            "value": ".441"
+            "value": ".443"
           },
           {
             "label": "SLG",
-            "value": ".443"
+            "value": ".441"
           },
           {
             "label": "HR",
@@ -1798,21 +1798,21 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "16",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/julio-solier/26410",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Solier_Uncropped.png",
-        "gamesPlayed": 55,
-        "gamesStarted": 55,
-        "battingAverage": 0.356,
-        "onBasePercentage": 0.431,
+        "gamesPlayed": 56,
+        "gamesStarted": 56,
+        "battingAverage": 0.357,
+        "onBasePercentage": 0.436,
         "sluggingPercentage": 0.473,
-        "ops": 0.904,
-        "atBats": 222,
+        "ops": 0.909,
+        "atBats": 224,
         "runs": 54,
-        "hits": 79,
+        "hits": 80,
         "doubles": 13,
         "triples": 5,
         "homeRuns": 1,
         "runsBattedIn": 31,
-        "totalBases": 105,
-        "walks": 27,
+        "totalBases": 106,
+        "walks": 29,
         "hitByPitch": 4,
         "strikeouts": 43,
         "intentionalWalks": 0,
@@ -1824,7 +1824,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "putouts": 56,
         "assists": 0,
         "errors": 9,
-        "plateAppearances": 295,
+        "plateAppearances": 299,
         "caughtStealing": 4,
         "pickedOff": 1
       },
@@ -1836,47 +1836,47 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "16",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/julio-solier/26410",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Solier_Uncropped.png",
-        "gamesPlayed": 52,
-        "gamesStarted": 52,
+        "gamesPlayed": 53,
+        "gamesStarted": 53,
         "putouts": 56,
-        "assists": 119,
+        "assists": 123,
         "errors": 9,
-        "fieldingPercentage": 0.951,
+        "fieldingPercentage": 0.952,
         "doublePlays": 20,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 184
+        "totalChances": 188
       },
       "evaluation": {
-        "score": 69,
+        "score": 70,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 83.88888888888889,
+          "On-base": 86.66666666666666,
           "Power": 40.26315789473684,
-          "Contact": 84.99999999999999,
-          "Discipline": 47.545219638242884,
+          "Contact": 85.62499999999999,
+          "Discipline": 52.71317829457364,
           "Speed": 93.33333333333333
         },
         "summary": "Julio Solier profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .356",
-          "OBP .431",
+          "AVG .357",
+          "OBP .436",
           "SLG .473"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".356"
+            "value": ".357"
           },
           {
             "label": "OBP",
-            "value": ".431"
+            "value": ".436"
           },
           {
             "label": "SLG",
@@ -2085,25 +2085,25 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "18",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/kyle-wolff/26416",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Wolff_Uncropped.png",
-        "gamesPlayed": 37,
-        "gamesStarted": 29,
-        "battingAverage": 0.212,
-        "onBasePercentage": 0.308,
-        "sluggingPercentage": 0.495,
-        "ops": 0.803,
-        "atBats": 99,
+        "gamesPlayed": 38,
+        "gamesStarted": 30,
+        "battingAverage": 0.223,
+        "onBasePercentage": 0.315,
+        "sluggingPercentage": 0.505,
+        "ops": 0.82,
+        "atBats": 103,
         "runs": 12,
-        "hits": 21,
-        "doubles": 7,
+        "hits": 23,
+        "doubles": 8,
         "triples": 0,
         "homeRuns": 7,
-        "runsBattedIn": 28,
-        "totalBases": 49,
+        "runsBattedIn": 29,
+        "totalBases": 52,
         "walks": 11,
         "hitByPitch": 5,
         "strikeouts": 21,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
+        "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 5,
         "sacrificeHits": 1,
         "stolenBases": 0,
@@ -2111,7 +2111,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "putouts": 51,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 121,
+        "plateAppearances": 125,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2138,36 +2138,36 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "totalChances": 54
       },
       "evaluation": {
-        "score": 22,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 15.55555555555554,
-          "Power": 46.05263157894737,
-          "Contact": 0,
+          "On-base": 19.444444444444432,
+          "Power": 48.684210526315795,
+          "Contact": 1.8750000000000018,
           "Discipline": 35.978835978835974,
           "Speed": 0
         },
         "summary": "Kyle Wolff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .212",
-          "OBP .308",
-          "SLG .495"
+          "AVG .223",
+          "OBP .315",
+          "SLG .505"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".212"
+            "value": ".223"
           },
           {
             "label": "OBP",
-            "value": ".308"
+            "value": ".315"
           },
           {
             "label": "SLG",
-            "value": ".495"
+            "value": ".505"
           },
           {
             "label": "HR",
@@ -2175,7 +2175,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -2230,7 +2230,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "19",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/ben-williams/26415",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Williams_Uncropped.png",
-        "gamesPlayed": 39,
+        "gamesPlayed": 40,
         "gamesStarted": 20,
         "battingAverage": 0.194,
         "onBasePercentage": 0.293,
@@ -2663,31 +2663,31 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "23",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/brady-miller/26405",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Miller_Uncropped.png",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 12,
-        "appearances": 12,
+        "appearances": 13,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.9,
-        "whip": 1.47,
+        "earnedRunAverage": 5.79,
+        "whip": 1.5,
         "wins": 2,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 50.333333333333336,
-        "inningsPitchedDisplay": "50.1",
-        "hitsAllowed": 53,
+        "inningsPitched": 51.333333333333336,
+        "inningsPitchedDisplay": "51.1",
+        "hitsAllowed": 55,
         "runsAllowed": 37,
         "earnedRunsAllowed": 33,
-        "walksAllowed": 21,
+        "walksAllowed": 22,
         "strikeouts": 53,
         "doublesAllowed": 12,
         "triplesAllowed": 2,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 195,
+        "opponentsAtBats": 199,
         "wildPitches": 1,
         "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.272,
+        "opponentsBattingAverage": 0.276,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2712,7 +2712,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "totalChances": 7
       },
       "evaluation": {
-        "score": 15,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2720,40 +2720,40 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 49.789283564117994,
-          "Command": 30.476190476190474,
+          "Miss bats": 48.11097992916174,
+          "Command": 28.181818181818187,
           "Damage suppression": 0
         },
         "summary": "Brady Miller looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.90",
-          "WHIP 1.47",
-          "K/9 9.5"
+          "ERA 5.79",
+          "WHIP 1.50",
+          "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.90"
+            "value": "5.79"
           },
           {
             "label": "WHIP",
-            "value": "1.47"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "9.5"
+            "value": "9.3"
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "3.9"
           },
           {
             "label": "HR/9",
-            "value": "0.89"
+            "value": "0.88"
           },
           {
             "label": "IP",
-            "value": "50.3"
+            "value": "51.3"
           }
         ],
         "metaLine": "SO / R/L",
@@ -2983,31 +2983,31 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "25",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/chase-hartsell/26424",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Hartsell_Uncropped.png",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 1,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.88,
-        "whip": 1.62,
+        "earnedRunAverage": 5.74,
+        "whip": 1.61,
         "wins": 3,
         "losses": 0,
         "saves": 0,
         "shutouts": 1,
-        "inningsPitched": 26,
-        "inningsPitchedDisplay": "26.0",
+        "inningsPitched": 26.666666666666668,
+        "inningsPitchedDisplay": "26.2",
         "hitsAllowed": 29,
         "runsAllowed": 18,
         "earnedRunsAllowed": 17,
-        "walksAllowed": 13,
+        "walksAllowed": 14,
         "strikeouts": 28,
         "doublesAllowed": 13,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 104,
+        "opponentsAtBats": 106,
         "wildPitches": 3,
         "hitBatters": 9,
         "balks": 0,
-        "opponentsBattingAverage": 0.279,
+        "opponentsBattingAverage": 0.274,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3032,7 +3032,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "totalChances": 1
       },
       "evaluation": {
-        "score": 14,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3040,40 +3040,40 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.74825174825174,
-          "Command": 23.076923076923077,
+          "Miss bats": 49.54545454545454,
+          "Command": 20,
           "Damage suppression": 0
         },
         "summary": "Chase Hartsell looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.88",
-          "WHIP 1.62",
-          "K/9 9.7"
+          "ERA 5.74",
+          "WHIP 1.61",
+          "K/9 9.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.88"
+            "value": "5.74"
           },
           {
             "label": "WHIP",
-            "value": "1.62"
+            "value": "1.61"
           },
           {
             "label": "K/9",
-            "value": "9.7"
+            "value": "9.4"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "4.7"
           },
           {
             "label": "HR/9",
-            "value": "0.35"
+            "value": "0.34"
           },
           {
             "label": "IP",
-            "value": "26.0"
+            "value": "26.7"
           }
         ],
         "metaLine": "FR / R/R",
@@ -3496,13 +3496,13 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "31",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/carter-hendrickson/26425",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Hendrickson_Uncropped.png",
-        "gamesPlayed": 31,
-        "gamesStarted": 30,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.437,
-        "sluggingPercentage": 0.386,
-        "ops": 0.823,
-        "atBats": 88,
+        "gamesPlayed": 32,
+        "gamesStarted": 31,
+        "battingAverage": 0.242,
+        "onBasePercentage": 0.426,
+        "sluggingPercentage": 0.374,
+        "ops": 0.8,
+        "atBats": 91,
         "runs": 28,
         "hits": 22,
         "doubles": 7,
@@ -3519,10 +3519,10 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "sacrificeHits": 6,
         "stolenBases": 12,
         "stolenBasesAttempts": 15,
-        "putouts": 61,
+        "putouts": 63,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 143,
+        "plateAppearances": 146,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -3534,9 +3534,9 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "31",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/carter-hendrickson/26425",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Hendrickson_Uncropped.png",
-        "gamesPlayed": 26,
-        "gamesStarted": 26,
-        "putouts": 61,
+        "gamesPlayed": 27,
+        "gamesStarted": 27,
+        "putouts": 63,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -3546,39 +3546,39 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 61
+        "totalChances": 63
       },
       "evaluation": {
-        "score": 52,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 87.22222222222221,
-          "Power": 17.368421052631582,
-          "Contact": 18.75,
+          "On-base": 81.11111111111109,
+          "Power": 14.210526315789473,
+          "Contact": 13.749999999999996,
           "Discipline": 88.88888888888889,
           "Speed": 40
         },
         "summary": "Carter Hendrickson profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .437",
-          "SLG .386"
+          "AVG .242",
+          "OBP .426",
+          "SLG .374"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".242"
           },
           {
             "label": "OBP",
-            "value": ".437"
+            "value": ".426"
           },
           {
             "label": "SLG",
-            "value": ".386"
+            "value": ".374"
           },
           {
             "label": "HR",
@@ -3642,31 +3642,31 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "32",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/sean-hard/26397",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Hard_Uncropped.png",
-        "gamesPlayed": 14,
+        "gamesPlayed": 15,
         "gamesStarted": 2,
-        "appearances": 14,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.26,
-        "whip": 1.58,
+        "earnedRunAverage": 4.56,
+        "whip": 1.64,
         "wins": 3,
         "losses": 1,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 25.333333333333332,
-        "inningsPitchedDisplay": "25.1",
+        "inningsPitched": 25.666666666666668,
+        "inningsPitchedDisplay": "25.2",
         "hitsAllowed": 21,
-        "runsAllowed": 12,
-        "earnedRunsAllowed": 12,
-        "walksAllowed": 19,
+        "runsAllowed": 13,
+        "earnedRunsAllowed": 13,
+        "walksAllowed": 21,
         "strikeouts": 30,
         "doublesAllowed": 8,
         "triplesAllowed": 3,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 91,
+        "opponentsAtBats": 92,
         "wildPitches": 6,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.231,
+        "opponentsBattingAverage": 0.228,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3691,7 +3691,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "totalChances": 5
       },
       "evaluation": {
-        "score": 14,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3699,40 +3699,40 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 60.52631578947369,
-          "Command": 11.578947368421058,
+          "Miss bats": 59.268004722550174,
+          "Command": 8.571428571428571,
           "Damage suppression": 0
         },
         "summary": "Sean Hard looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.26",
-          "WHIP 1.58",
-          "K/9 10.7"
+          "ERA 4.56",
+          "WHIP 1.64",
+          "K/9 10.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.26"
+            "value": "4.56"
           },
           {
             "label": "WHIP",
-            "value": "1.58"
+            "value": "1.64"
           },
           {
             "label": "K/9",
-            "value": "10.7"
+            "value": "10.5"
           },
           {
             "label": "BB/9",
-            "value": "6.8"
+            "value": "7.4"
           },
           {
             "label": "HR/9",
-            "value": "0.71"
+            "value": "0.70"
           },
           {
             "label": "IP",
-            "value": "25.3"
+            "value": "25.7"
           }
         ],
         "metaLine": "GR / R/R",
@@ -4244,31 +4244,31 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "37",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/john-kwiatkowski/26402",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Kwiatkowski_Uncropped.png",
-        "gamesPlayed": 21,
+        "gamesPlayed": 22,
         "gamesStarted": 0,
-        "appearances": 21,
+        "appearances": 22,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.11,
-        "whip": 1.66,
+        "earnedRunAverage": 5.04,
+        "whip": 1.68,
         "wins": 5,
         "losses": 0,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 24.666666666666668,
-        "inningsPitchedDisplay": "24.2",
-        "hitsAllowed": 31,
+        "inningsPitched": 25,
+        "inningsPitchedDisplay": "25.0",
+        "hitsAllowed": 32,
         "runsAllowed": 14,
         "earnedRunsAllowed": 14,
         "walksAllowed": 10,
-        "strikeouts": 21,
+        "strikeouts": 22,
         "doublesAllowed": 4,
         "triplesAllowed": 1,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 100,
+        "opponentsAtBats": 102,
         "wildPitches": 2,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.31,
+        "opponentsBattingAverage": 0.314,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4293,7 +4293,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "totalChances": 9
       },
       "evaluation": {
-        "score": 10,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4301,28 +4301,28 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 33.292383292383285,
-          "Command": 21.999999999999993,
+          "Miss bats": 35.63636363636364,
+          "Command": 23.999999999999993,
           "Damage suppression": 0
         },
         "summary": "John Kwiatkowski gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.11",
-          "WHIP 1.66",
-          "K/9 7.7"
+          "ERA 5.04",
+          "WHIP 1.68",
+          "K/9 7.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.11"
+            "value": "5.04"
           },
           {
             "label": "WHIP",
-            "value": "1.66"
+            "value": "1.68"
           },
           {
             "label": "K/9",
-            "value": "7.7"
+            "value": "7.9"
           },
           {
             "label": "BB/9",
@@ -4330,11 +4330,11 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.73"
+            "value": "0.72"
           },
           {
             "label": "IP",
-            "value": "24.7"
+            "value": "25.0"
           }
         ],
         "metaLine": "SR / L/L",
@@ -4385,33 +4385,33 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "38",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/jack-toomey/26413",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Toomey_Headshot.png",
-        "gamesPlayed": 46,
-        "gamesStarted": 45,
-        "battingAverage": 0.327,
-        "onBasePercentage": 0.458,
-        "sluggingPercentage": 0.547,
-        "ops": 1.005,
-        "atBats": 159,
-        "runs": 49,
-        "hits": 52,
+        "gamesPlayed": 47,
+        "gamesStarted": 46,
+        "battingAverage": 0.325,
+        "onBasePercentage": 0.454,
+        "sluggingPercentage": 0.54,
+        "ops": 0.994,
+        "atBats": 163,
+        "runs": 50,
+        "hits": 53,
         "doubles": 14,
         "triples": 6,
         "homeRuns": 3,
-        "runsBattedIn": 24,
-        "totalBases": 87,
+        "runsBattedIn": 25,
+        "totalBases": 88,
         "walks": 36,
         "hitByPitch": 4,
-        "strikeouts": 39,
+        "strikeouts": 40,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
+        "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
         "sacrificeHits": 1,
         "stolenBases": 18,
         "stolenBasesAttempts": 19,
-        "putouts": 90,
+        "putouts": 94,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 222,
+        "plateAppearances": 226,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -4423,51 +4423,51 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "38",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/jack-toomey/26413",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Toomey_Headshot.png",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "putouts": 90,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "putouts": 94,
         "assists": 1,
         "errors": 1,
-        "fieldingPercentage": 0.989,
+        "fieldingPercentage": 0.99,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 92
+        "totalChances": 96
       },
       "evaluation": {
-        "score": 76,
+        "score": 75,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 98.88888888888889,
-          "Power": 59.73684210526318,
-          "Contact": 66.875,
-          "Discipline": 80.34188034188034,
+          "On-base": 96.66666666666667,
+          "Power": 57.894736842105274,
+          "Contact": 65.625,
+          "Discipline": 77.77777777777776,
           "Speed": 60
         },
         "summary": "Jack Toomey profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .327",
-          "OBP .458",
-          "SLG .547"
+          "AVG .325",
+          "OBP .454",
+          "SLG .540"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".327"
+            "value": ".325"
           },
           {
             "label": "OBP",
-            "value": ".458"
+            "value": ".454"
           },
           {
             "label": "SLG",
-            "value": ".547"
+            "value": ".540"
           },
           {
             "label": "HR",
@@ -4475,7 +4475,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "25"
           },
           {
             "label": "SB",
@@ -4794,13 +4794,13 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "44",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/nick-wang/26414",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Wang_Uncropped.png",
-        "gamesPlayed": 56,
-        "gamesStarted": 56,
-        "battingAverage": 0.306,
-        "onBasePercentage": 0.413,
-        "sluggingPercentage": 0.602,
-        "ops": 1.015,
-        "atBats": 206,
+        "gamesPlayed": 57,
+        "gamesStarted": 57,
+        "battingAverage": 0.303,
+        "onBasePercentage": 0.414,
+        "sluggingPercentage": 0.596,
+        "ops": 1.01,
+        "atBats": 208,
         "runs": 46,
         "hits": 63,
         "doubles": 11,
@@ -4808,19 +4808,19 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "homeRuns": 16,
         "runsBattedIn": 61,
         "totalBases": 124,
-        "walks": 37,
-        "hitByPitch": 7,
-        "strikeouts": 45,
+        "walks": 38,
+        "hitByPitch": 8,
+        "strikeouts": 46,
         "intentionalWalks": 4,
         "groundedIntoDoublePlay": 8,
         "sacrificeFlies": 9,
         "sacrificeHits": 0,
         "stolenBases": 11,
         "stolenBasesAttempts": 12,
-        "putouts": 280,
+        "putouts": 289,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 272,
+        "plateAppearances": 276,
         "caughtStealing": 1,
         "pickedOff": 3
       },
@@ -4832,9 +4832,9 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "44",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/nick-wang/26414",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Wang_Uncropped.png",
-        "gamesPlayed": 48,
-        "gamesStarted": 48,
-        "putouts": 280,
+        "gamesPlayed": 49,
+        "gamesStarted": 49,
+        "putouts": 289,
         "assists": 16,
         "errors": 3,
         "fieldingPercentage": 0.99,
@@ -4844,39 +4844,39 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 299
+        "totalChances": 308
       },
       "evaluation": {
-        "score": 66,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 73.88888888888886,
-          "Power": 74.21052631578947,
-          "Contact": 53.75,
-          "Discipline": 69.1358024691358,
+          "On-base": 74.44444444444443,
+          "Power": 72.63157894736842,
+          "Contact": 51.87499999999999,
+          "Discipline": 69.56521739130433,
           "Speed": 36.666666666666664
         },
         "summary": "Nick Wang profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .306",
-          "OBP .413",
-          "SLG .602"
+          "AVG .303",
+          "OBP .414",
+          "SLG .596"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".306"
+            "value": ".303"
           },
           {
             "label": "OBP",
-            "value": ".413"
+            "value": ".414"
           },
           {
             "label": "SLG",
-            "value": ".602"
+            "value": ".596"
           },
           {
             "label": "HR",
@@ -5082,31 +5082,31 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "46",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/kyle-kipp/26401",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Kipp_Uncropped.png",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 0,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
         "earnedRunAverage": 5.3,
-        "whip": 1.35,
+        "whip": 1.34,
         "wins": 2,
         "losses": 3,
         "saves": 4,
         "shutouts": 0,
-        "inningsPitched": 35.666666666666664,
-        "inningsPitchedDisplay": "35.2",
-        "hitsAllowed": 32,
-        "runsAllowed": 21,
-        "earnedRunsAllowed": 21,
+        "inningsPitched": 37.333333333333336,
+        "inningsPitchedDisplay": "37.1",
+        "hitsAllowed": 34,
+        "runsAllowed": 22,
+        "earnedRunsAllowed": 22,
         "walksAllowed": 16,
-        "strikeouts": 28,
-        "doublesAllowed": 5,
+        "strikeouts": 29,
+        "doublesAllowed": 6,
         "triplesAllowed": 1,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 133,
+        "opponentsAtBats": 140,
         "wildPitches": 3,
-        "hitBatters": 4,
+        "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.241,
+        "opponentsBattingAverage": 0.243,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5116,10 +5116,10 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "46",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/kyle-kipp/26401",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Kipp_Uncropped.png",
-        "gamesPlayed": 4,
+        "gamesPlayed": 5,
         "gamesStarted": 0,
         "putouts": 0,
-        "assists": 5,
+        "assists": 6,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -5128,7 +5128,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 5
+        "totalChances": 6
       },
       "evaluation": {
         "score": 8,
@@ -5139,15 +5139,15 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 27.86745964316058,
-          "Command": 15,
+          "Miss bats": 27.191558441558435,
+          "Command": 16.25,
           "Damage suppression": 0
         },
         "summary": "Kyle Kipp gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "ERA 5.30",
-          "WHIP 1.35",
-          "K/9 7.1"
+          "WHIP 1.34",
+          "K/9 7.0"
         ],
         "statCards": [
           {
@@ -5156,23 +5156,23 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.35"
+            "value": "1.34"
           },
           {
             "label": "K/9",
-            "value": "7.1"
+            "value": "7.0"
           },
           {
             "label": "BB/9",
-            "value": "4.0"
+            "value": "3.9"
           },
           {
             "label": "HR/9",
-            "value": "1.26"
+            "value": "1.21"
           },
           {
             "label": "IP",
-            "value": "35.7"
+            "value": "37.3"
           }
         ],
         "metaLine": "JR / R/R",
@@ -5629,13 +5629,13 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "jersey": "55",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/danny-surowiec/26412",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Suroweic_Uncropped.png",
-        "gamesPlayed": 43,
+        "gamesPlayed": 44,
         "gamesStarted": 30,
-        "battingAverage": 0.215,
-        "onBasePercentage": 0.364,
-        "sluggingPercentage": 0.308,
-        "ops": 0.672,
-        "atBats": 107,
+        "battingAverage": 0.213,
+        "onBasePercentage": 0.361,
+        "sluggingPercentage": 0.306,
+        "ops": 0.667,
+        "atBats": 108,
         "runs": 16,
         "hits": 23,
         "doubles": 4,
@@ -5645,7 +5645,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "totalBases": 33,
         "walks": 17,
         "hitByPitch": 8,
-        "strikeouts": 31,
+        "strikeouts": 32,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 0,
@@ -5655,7 +5655,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "putouts": 93,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 138,
+        "plateAppearances": 139,
         "caughtStealing": 1,
         "pickedOff": 2
       },
@@ -5682,36 +5682,36 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "totalChances": 102
       },
       "evaluation": {
-        "score": 22,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 46.66666666666665,
+          "On-base": 44.99999999999998,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 38.709677419354826,
+          "Discipline": 36.80555555555555,
           "Speed": 13.333333333333334
         },
         "summary": "Danny Surowiec gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .215",
-          "OBP .364",
-          "SLG .308"
+          "AVG .213",
+          "OBP .361",
+          "SLG .306"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".215"
+            "value": ".213"
           },
           {
             "label": "OBP",
-            "value": ".364"
+            "value": ".361"
           },
           {
             "label": "SLG",
-            "value": ".308"
+            "value": ".306"
           },
           {
             "label": "HR",
@@ -5823,29 +5823,29 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 61,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Ty Mainolfi profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .324",
-          "OBP .415",
-          "SLG .440"
+          "AVG .320",
+          "OBP .412",
+          "SLG .434"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".324"
+            "value": ".320"
           },
           {
             "label": "OBP",
-            "value": ".415"
+            "value": ".412"
           },
           {
             "label": "SLG",
-            "value": ".440"
+            "value": ".434"
           },
           {
             "label": "HR",
@@ -5861,10 +5861,10 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           }
         ],
         "components": {
-          "On-base": 74.99999999999997,
-          "Power": 31.578947368421055,
-          "Contact": 65,
-          "Discipline": 78.78787878787877,
+          "On-base": 73.3333333333333,
+          "Power": 30,
+          "Contact": 62.5,
+          "Discipline": 82.15488215488216,
           "Speed": 63.33333333333333
         },
         "metaLine": "SO / L/R",
@@ -6106,18 +6106,18 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         },
         "summary": "A.J. Colarusso looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.18",
-          "WHIP 1.30",
+          "ERA 4.62",
+          "WHIP 1.36",
           "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.18"
+            "value": "4.62"
           },
           {
             "label": "WHIP",
-            "value": "1.30"
+            "value": "1.36"
           },
           {
             "label": "K/9",
@@ -6125,22 +6125,22 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           },
           {
             "label": "BB/9",
-            "value": "2.7"
+            "value": "2.6"
           },
           {
             "label": "HR/9",
-            "value": "1.27"
+            "value": "1.42"
           },
           {
             "label": "IP",
-            "value": "71.0"
+            "value": "76.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.692701664532656,
-          "Command": 42.857142857142854,
+          "Miss bats": 40.07177033492822,
+          "Command": 44.54545454545455,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/L",
@@ -6236,29 +6236,29 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "L/L",
-        "score": 42,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Colin Larson profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .228",
-          "OBP .417",
-          "SLG .346"
+          "AVG .225",
+          "OBP .412",
+          "SLG .341"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".228"
+            "value": ".225"
           },
           {
             "label": "OBP",
-            "value": ".417"
+            "value": ".412"
           },
           {
             "label": "SLG",
-            "value": ".346"
+            "value": ".341"
           },
           {
             "label": "HR",
@@ -6274,10 +6274,10 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           }
         ],
         "components": {
-          "On-base": 76.11111111111109,
-          "Power": 6.842105263157887,
-          "Contact": 5.000000000000004,
-          "Discipline": 57.77777777777777,
+          "On-base": 73.3333333333333,
+          "Power": 5.526315789473689,
+          "Contact": 3.1250000000000027,
+          "Discipline": 54.700854700854684,
           "Speed": 70
         },
         "metaLine": "SO / L/L",
@@ -6305,29 +6305,29 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "position": "C",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 29,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Gunnar Johnson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .254",
-          "OBP .362",
-          "SLG .397"
+          "AVG .246",
+          "OBP .353",
+          "SLG .385"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".254"
+            "value": ".246"
           },
           {
             "label": "OBP",
-            "value": ".362"
+            "value": ".353"
           },
           {
             "label": "SLG",
-            "value": ".397"
+            "value": ".385"
           },
           {
             "label": "HR",
@@ -6343,10 +6343,10 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           }
         ],
         "components": {
-          "On-base": 45.555555555555536,
-          "Power": 20.26315789473685,
-          "Contact": 21.250000000000004,
-          "Discipline": 28.282828282828277,
+          "On-base": 40.555555555555536,
+          "Power": 17.10526315789474,
+          "Contact": 16.249999999999996,
+          "Discipline": 26.797385620915026,
           "Speed": 10
         },
         "metaLine": "GR / R/R",
@@ -6381,22 +6381,22 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         },
         "summary": "Owen DeShazo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .179",
-          "OBP .244",
-          "SLG .308"
+          "AVG .175",
+          "OBP .239",
+          "SLG .300"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".179"
+            "value": ".175"
           },
           {
             "label": "OBP",
-            "value": ".244"
+            "value": ".239"
           },
           {
             "label": "SLG",
-            "value": ".308"
+            "value": ".300"
           },
           {
             "label": "HR",
@@ -6451,8 +6451,8 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "summary": "Luke Gallo profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .336",
-          "OBP .441",
-          "SLG .443"
+          "OBP .443",
+          "SLG .441"
         ],
         "statCards": [
           {
@@ -6461,11 +6461,11 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           },
           {
             "label": "OBP",
-            "value": ".441"
+            "value": ".443"
           },
           {
             "label": "SLG",
-            "value": ".443"
+            "value": ".441"
           },
           {
             "label": "HR",
@@ -6481,10 +6481,10 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           }
         ],
         "components": {
-          "On-base": 89.44444444444444,
-          "Power": 32.36842105263158,
+          "On-base": 90.55555555555554,
+          "Power": 31.8421052631579,
           "Contact": 72.50000000000001,
-          "Discipline": 77.77777777777776,
+          "Discipline": 78.30687830687829,
           "Speed": 30
         },
         "metaLine": "FR / R/R",
@@ -6581,25 +6581,25 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 69,
+        "score": 70,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Julio Solier profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .356",
-          "OBP .431",
+          "AVG .357",
+          "OBP .436",
           "SLG .473"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".356"
+            "value": ".357"
           },
           {
             "label": "OBP",
-            "value": ".431"
+            "value": ".436"
           },
           {
             "label": "SLG",
@@ -6619,10 +6619,10 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           }
         ],
         "components": {
-          "On-base": 83.88888888888889,
+          "On-base": 86.66666666666666,
           "Power": 40.26315789473684,
-          "Contact": 84.99999999999999,
-          "Discipline": 47.545219638242884,
+          "Contact": 85.62499999999999,
+          "Discipline": 52.71317829457364,
           "Speed": 93.33333333333333
         },
         "metaLine": "SO / R/R",
@@ -6719,29 +6719,29 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/L",
-        "score": 22,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Kyle Wolff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .212",
-          "OBP .308",
-          "SLG .495"
+          "AVG .223",
+          "OBP .315",
+          "SLG .505"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".212"
+            "value": ".223"
           },
           {
             "label": "OBP",
-            "value": ".308"
+            "value": ".315"
           },
           {
             "label": "SLG",
-            "value": ".495"
+            "value": ".505"
           },
           {
             "label": "HR",
@@ -6749,7 +6749,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -6757,9 +6757,9 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           }
         ],
         "components": {
-          "On-base": 15.55555555555554,
-          "Power": 46.05263157894737,
-          "Contact": 0,
+          "On-base": 19.444444444444432,
+          "Power": 48.684210526315795,
+          "Contact": 1.8750000000000018,
           "Discipline": 35.978835978835974,
           "Speed": 0
         },
@@ -6995,48 +6995,48 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "position": "LHP",
         "classYear": "SO",
         "handedness": "R/L",
-        "score": 15,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brady Miller looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.90",
-          "WHIP 1.47",
-          "K/9 9.5"
+          "ERA 5.79",
+          "WHIP 1.50",
+          "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.90"
+            "value": "5.79"
           },
           {
             "label": "WHIP",
-            "value": "1.47"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "9.5"
+            "value": "9.3"
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "3.9"
           },
           {
             "label": "HR/9",
-            "value": "0.89"
+            "value": "0.88"
           },
           {
             "label": "IP",
-            "value": "50.3"
+            "value": "51.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 49.789283564117994,
-          "Command": 30.476190476190474,
+          "Miss bats": 48.11097992916174,
+          "Command": 28.181818181818187,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/L",
@@ -7133,48 +7133,48 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 14,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Chase Hartsell looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.88",
-          "WHIP 1.62",
-          "K/9 9.7"
+          "ERA 5.74",
+          "WHIP 1.61",
+          "K/9 9.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.88"
+            "value": "5.74"
           },
           {
             "label": "WHIP",
-            "value": "1.62"
+            "value": "1.61"
           },
           {
             "label": "K/9",
-            "value": "9.7"
+            "value": "9.4"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "4.7"
           },
           {
             "label": "HR/9",
-            "value": "0.35"
+            "value": "0.34"
           },
           {
             "label": "IP",
-            "value": "26.0"
+            "value": "26.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.74825174825174,
-          "Command": 23.076923076923077,
+          "Miss bats": 49.54545454545454,
+          "Command": 20,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -7408,29 +7408,29 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "position": "OF",
         "classYear": "GR",
         "handedness": "R/L",
-        "score": 52,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Carter Hendrickson profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .437",
-          "SLG .386"
+          "AVG .242",
+          "OBP .426",
+          "SLG .374"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".242"
           },
           {
             "label": "OBP",
-            "value": ".437"
+            "value": ".426"
           },
           {
             "label": "SLG",
-            "value": ".386"
+            "value": ".374"
           },
           {
             "label": "HR",
@@ -7446,9 +7446,9 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           }
         ],
         "components": {
-          "On-base": 87.22222222222221,
-          "Power": 17.368421052631582,
-          "Contact": 18.75,
+          "On-base": 81.11111111111109,
+          "Power": 14.210526315789473,
+          "Contact": 13.749999999999996,
           "Discipline": 88.88888888888889,
           "Speed": 40
         },
@@ -7477,48 +7477,48 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "position": "RHP",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 14,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Sean Hard looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.26",
-          "WHIP 1.58",
-          "K/9 10.7"
+          "ERA 4.56",
+          "WHIP 1.64",
+          "K/9 10.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.26"
+            "value": "4.56"
           },
           {
             "label": "WHIP",
-            "value": "1.58"
+            "value": "1.64"
           },
           {
             "label": "K/9",
-            "value": "10.7"
+            "value": "10.5"
           },
           {
             "label": "BB/9",
-            "value": "6.8"
+            "value": "7.4"
           },
           {
             "label": "HR/9",
-            "value": "0.71"
+            "value": "0.70"
           },
           {
             "label": "IP",
-            "value": "25.3"
+            "value": "25.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 60.52631578947369,
-          "Command": 11.578947368421058,
+          "Miss bats": 59.268004722550174,
+          "Command": 8.571428571428571,
           "Damage suppression": 0
         },
         "metaLine": "GR / R/R",
@@ -7820,29 +7820,29 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "position": "LHP",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 10,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "John Kwiatkowski gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.11",
-          "WHIP 1.66",
-          "K/9 7.7"
+          "ERA 5.04",
+          "WHIP 1.68",
+          "K/9 7.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.11"
+            "value": "5.04"
           },
           {
             "label": "WHIP",
-            "value": "1.66"
+            "value": "1.68"
           },
           {
             "label": "K/9",
-            "value": "7.7"
+            "value": "7.9"
           },
           {
             "label": "BB/9",
@@ -7850,18 +7850,18 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.73"
+            "value": "0.72"
           },
           {
             "label": "IP",
-            "value": "24.7"
+            "value": "25.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 33.292383292383285,
-          "Command": 21.999999999999993,
+          "Miss bats": 35.63636363636364,
+          "Command": 23.999999999999993,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/L",
@@ -7889,29 +7889,29 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 76,
+        "score": 75,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Jack Toomey profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .327",
-          "OBP .458",
-          "SLG .547"
+          "AVG .325",
+          "OBP .454",
+          "SLG .540"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".327"
+            "value": ".325"
           },
           {
             "label": "OBP",
-            "value": ".458"
+            "value": ".454"
           },
           {
             "label": "SLG",
-            "value": ".547"
+            "value": ".540"
           },
           {
             "label": "HR",
@@ -7919,7 +7919,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "25"
           },
           {
             "label": "SB",
@@ -7927,10 +7927,10 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           }
         ],
         "components": {
-          "On-base": 98.88888888888889,
-          "Power": 59.73684210526318,
-          "Contact": 66.875,
-          "Discipline": 80.34188034188034,
+          "On-base": 96.66666666666667,
+          "Power": 57.894736842105274,
+          "Contact": 65.625,
+          "Discipline": 77.77777777777776,
           "Speed": 60
         },
         "metaLine": "SR / R/R",
@@ -8096,29 +8096,29 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "position": "INF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 66,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Nick Wang profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .306",
-          "OBP .413",
-          "SLG .602"
+          "AVG .303",
+          "OBP .414",
+          "SLG .596"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".306"
+            "value": ".303"
           },
           {
             "label": "OBP",
-            "value": ".413"
+            "value": ".414"
           },
           {
             "label": "SLG",
-            "value": ".602"
+            "value": ".596"
           },
           {
             "label": "HR",
@@ -8134,10 +8134,10 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           }
         ],
         "components": {
-          "On-base": 73.88888888888886,
-          "Power": 74.21052631578947,
-          "Contact": 53.75,
-          "Discipline": 69.1358024691358,
+          "On-base": 74.44444444444443,
+          "Power": 72.63157894736842,
+          "Contact": 51.87499999999999,
+          "Discipline": 69.56521739130433,
           "Speed": 36.666666666666664
         },
         "metaLine": "GR / R/R",
@@ -8242,8 +8242,8 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "summary": "Kyle Kipp gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "ERA 5.30",
-          "WHIP 1.35",
-          "K/9 7.1"
+          "WHIP 1.34",
+          "K/9 7.0"
         ],
         "statCards": [
           {
@@ -8252,30 +8252,30 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.35"
+            "value": "1.34"
           },
           {
             "label": "K/9",
-            "value": "7.1"
+            "value": "7.0"
           },
           {
             "label": "BB/9",
-            "value": "4.0"
+            "value": "3.9"
           },
           {
             "label": "HR/9",
-            "value": "1.26"
+            "value": "1.21"
           },
           {
             "label": "IP",
-            "value": "35.7"
+            "value": "37.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 27.86745964316058,
-          "Command": 15,
+          "Miss bats": 27.191558441558435,
+          "Command": 16.25,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -8510,29 +8510,29 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 22,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Danny Surowiec gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .215",
-          "OBP .364",
-          "SLG .308"
+          "AVG .213",
+          "OBP .361",
+          "SLG .306"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".215"
+            "value": ".213"
           },
           {
             "label": "OBP",
-            "value": ".364"
+            "value": ".361"
           },
           {
             "label": "SLG",
-            "value": ".308"
+            "value": ".306"
           },
           {
             "label": "HR",
@@ -8548,10 +8548,10 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           }
         ],
         "components": {
-          "On-base": 46.66666666666665,
+          "On-base": 44.99999999999998,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 38.709677419354826,
+          "Discipline": 36.80555555555555,
           "Speed": 13.333333333333334
         },
         "metaLine": "SO / L/R",

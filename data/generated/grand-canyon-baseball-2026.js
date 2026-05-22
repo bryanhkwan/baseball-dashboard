@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.grand-canyon2026 = {
-  "generatedAt": "2026-05-21T13:32:38.835Z",
+  "generatedAt": "2026-05-22T12:35:03.399Z",
   "season": 2026,
   "school": {
     "slug": "grand-canyon",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T13:33:09.044Z",
+  "generatedAt": "2026-05-22T12:35:37.645Z",
   "season": 2026,
   "school": {
     "slug": "san-francisco",
@@ -38,84 +38,84 @@
     }
   },
   "teamSummary": {
-    "record": "25-28, 15-12",
+    "record": "25-29, 15-12",
     "battingAverage": ".252",
-    "earnedRunAverage": "5.71",
+    "earnedRunAverage": "5.76",
     "wins": "25",
-    "losses": "28",
+    "losses": "29",
     "hitting": {
-      "atBats": "1749",
-      "runsScored": "247",
-      "hits": "440",
-      "runsBattedIn": "232",
-      "doubles": "94",
+      "atBats": "1784",
+      "runsScored": "251",
+      "hits": "449",
+      "runsBattedIn": "236",
+      "doubles": "98",
       "triples": "6",
-      "homeRuns": "37",
-      "walks": "227",
+      "homeRuns": "38",
+      "walks": "230",
       "intentionalWalks": "3",
-      "strikeouts": "526",
-      "strikeoutsLooking": "139",
-      "hitByPitch": "76",
+      "strikeouts": "534",
+      "strikeoutsLooking": "141",
+      "hitByPitch": "77",
       "stolenBases": "36",
       "caughtStealing": "6",
       "sacrificeHits": "16",
-      "sacrificeFlies": "14",
+      "sacrificeFlies": "15",
       "reachedOnCatchersInteference": "9",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "375",
-      "flyOuts": "410",
+      "groundOuts": "382",
+      "flyOuts": "422",
       "groundedIntoDoublePlay": "33",
       "pickedOff": "3",
       "doublePlaysHitInto": "39",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1390",
-      "assists": "525",
-      "errors": "63",
+      "putouts": "1415",
+      "assists": "541",
+      "errors": "64",
       "passedBalls": "3",
       "catchersInterference": "0",
       "stolenBasesAgainst": "41",
       "caughtStealingBy": "25",
-      "involvedInDoublePlays": "37",
+      "involvedInDoublePlays": "38",
       "involvedInTriplePlays": "1",
-      "totalChances": "1978",
+      "totalChances": "2020",
       "fieldingPercentage": ".968"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "25",
-      "saves": "24",
-      "losses": "28",
+      "saves": "25",
+      "losses": "29",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "2",
       "creditForCombinedShutout": "1",
-      "inningsPitched": "463.1",
-      "hitsAllowed": "505",
-      "runsAllowed": "335",
-      "earnedRunsAllowed": "294",
-      "walksAllowed": "229",
-      "strikeouts": "382",
-      "battersFaced": "2148",
-      "opponentAtBats": "1799",
+      "inningsPitched": "471.2",
+      "hitsAllowed": "515",
+      "runsAllowed": "343",
+      "earnedRunsAllowed": "302",
+      "walksAllowed": "234",
+      "strikeouts": "386",
+      "battersFaced": "2187",
+      "opponentAtBats": "1832",
       "doublesAllowed": "117",
       "triplesAllowed": "9",
-      "homerunsAllowed": "42",
+      "homerunsAllowed": "44",
       "wildPitches": "33",
       "balks": "8",
       "hitBatters": "72",
-      "strikeoutsLooking": "76",
+      "strikeoutsLooking": "77",
       "intentionalWalks": "1",
       "inheritedRunners": "29",
       "inheritedRunnersThatScored": "14",
-      "sacrificeHitsAllowed": "27",
+      "sacrificeHitsAllowed": "28",
       "sacrificeFliesAllowed": "21",
       "catchersInterferenceAllowed": "0",
-      "pitches": "3776",
-      "flyouts": "431",
-      "groundouts": "502",
+      "pitches": "3909",
+      "flyouts": "434",
+      "groundouts": "517",
       "teamUnearnedRuns": "0",
       "saveRecord": "15",
       "pickoff": "5"
@@ -160,21 +160,21 @@
         "jersey": "1",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/isaiah-landry/6359",
         "imageUrl": "https://usfdons.com/images/2026/2/5/1_Isaiah_Landry_yXoNK.png",
-        "gamesPlayed": 34,
-        "gamesStarted": 33,
-        "battingAverage": 0.252,
-        "onBasePercentage": 0.346,
-        "sluggingPercentage": 0.42,
-        "ops": 0.766,
-        "atBats": 119,
-        "runs": 14,
-        "hits": 30,
-        "doubles": 10,
+        "gamesPlayed": 35,
+        "gamesStarted": 34,
+        "battingAverage": 0.254,
+        "onBasePercentage": 0.35,
+        "sluggingPercentage": 0.426,
+        "ops": 0.776,
+        "atBats": 122,
+        "runs": 15,
+        "hits": 31,
+        "doubles": 11,
         "triples": 2,
         "homeRuns": 2,
         "runsBattedIn": 17,
-        "totalBases": 50,
-        "walks": 11,
+        "totalBases": 52,
+        "walks": 12,
         "hitByPitch": 6,
         "strikeouts": 33,
         "intentionalWalks": 0,
@@ -186,7 +186,7 @@
         "putouts": 56,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 140,
+        "plateAppearances": 144,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -213,36 +213,36 @@
         "totalChances": 59
       },
       "evaluation": {
-        "score": 25,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 36.666666666666636,
-          "Power": 26.31578947368421,
-          "Contact": 20,
-          "Discipline": 14.814814814814808,
+          "On-base": 38.888888888888864,
+          "Power": 27.89473684210526,
+          "Contact": 21.250000000000004,
+          "Discipline": 18.18181818181818,
           "Speed": 10
         },
         "summary": "Isaiah Landry gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .252",
-          "OBP .346",
-          "SLG .420"
+          "AVG .254",
+          "OBP .350",
+          "SLG .426"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".252"
+            "value": ".254"
           },
           {
             "label": "OBP",
-            "value": ".346"
+            "value": ".350"
           },
           {
             "label": "SLG",
-            "value": ".420"
+            "value": ".426"
           },
           {
             "label": "HR",
@@ -720,20 +720,20 @@
         "jersey": "5",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/eddison-esquivel/6249",
         "imageUrl": "https://usfdons.com/images/2026/2/5/5_Eddison_Esquivel_FF2Yu.png",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
+        "gamesPlayed": 54,
+        "gamesStarted": 54,
         "battingAverage": 0.255,
-        "onBasePercentage": 0.378,
-        "sluggingPercentage": 0.365,
-        "ops": 0.743,
-        "atBats": 200,
-        "runs": 27,
-        "hits": 51,
+        "onBasePercentage": 0.376,
+        "sluggingPercentage": 0.363,
+        "ops": 0.739,
+        "atBats": 204,
+        "runs": 28,
+        "hits": 52,
         "doubles": 13,
         "triples": 0,
         "homeRuns": 3,
         "runsBattedIn": 23,
-        "totalBases": 73,
+        "totalBases": 74,
         "walks": 29,
         "hitByPitch": 11,
         "strikeouts": 51,
@@ -743,10 +743,10 @@
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 112,
+        "putouts": 113,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 244,
+        "plateAppearances": 248,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -758,9 +758,9 @@
         "jersey": "5",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/eddison-esquivel/6249",
         "imageUrl": "https://usfdons.com/images/2026/2/5/5_Eddison_Esquivel_FF2Yu.png",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "putouts": 112,
+        "gamesPlayed": 39,
+        "gamesStarted": 39,
+        "putouts": 113,
         "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -770,7 +770,7 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 114
+        "totalChances": 115
       },
       "evaluation": {
         "score": 31,
@@ -779,8 +779,8 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 54.44444444444443,
-          "Power": 11.842105263157892,
+          "On-base": 53.33333333333332,
+          "Power": 11.315789473684207,
           "Contact": 21.875000000000004,
           "Discipline": 40.958605664488005,
           "Speed": 10
@@ -788,8 +788,8 @@
         "summary": "Eddison Esquivel gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .255",
-          "OBP .378",
-          "SLG .365"
+          "OBP .376",
+          "SLG .363"
         ],
         "statCards": [
           {
@@ -798,11 +798,11 @@
           },
           {
             "label": "OBP",
-            "value": ".378"
+            "value": ".376"
           },
           {
             "label": "SLG",
-            "value": ".365"
+            "value": ".363"
           },
           {
             "label": "HR",
@@ -865,33 +865,33 @@
         "jersey": "6",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/jared-lewis/6361",
         "imageUrl": "https://usfdons.com/images/2026/2/5/6_Jared_rhKDi.png",
-        "gamesPlayed": 42,
-        "gamesStarted": 39,
+        "gamesPlayed": 43,
+        "gamesStarted": 40,
         "battingAverage": 0.271,
         "onBasePercentage": 0.389,
-        "sluggingPercentage": 0.333,
-        "ops": 0.722,
-        "atBats": 129,
+        "sluggingPercentage": 0.331,
+        "ops": 0.72,
+        "atBats": 133,
         "runs": 19,
-        "hits": 35,
+        "hits": 36,
         "doubles": 5,
         "triples": 0,
         "homeRuns": 1,
         "runsBattedIn": 18,
-        "totalBases": 43,
-        "walks": 23,
+        "totalBases": 44,
+        "walks": 24,
         "hitByPitch": 3,
-        "strikeouts": 45,
+        "strikeouts": 47,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 2,
         "sacrificeHits": 4,
         "stolenBases": 3,
         "stolenBasesAttempts": 4,
-        "putouts": 69,
+        "putouts": 71,
         "assists": 0,
-        "errors": 14,
-        "plateAppearances": 166,
+        "errors": 15,
+        "plateAppearances": 171,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -903,19 +903,19 @@
         "jersey": "6",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/jared-lewis/6361",
         "imageUrl": "https://usfdons.com/images/2026/2/5/6_Jared_rhKDi.png",
-        "gamesPlayed": 38,
-        "gamesStarted": 37,
-        "putouts": 69,
-        "assists": 82,
-        "errors": 14,
-        "fieldingPercentage": 0.915,
-        "doublePlays": 11,
+        "gamesPlayed": 39,
+        "gamesStarted": 38,
+        "putouts": 71,
+        "assists": 86,
+        "errors": 15,
+        "fieldingPercentage": 0.913,
+        "doublePlays": 12,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 165
+        "totalChances": 172
       },
       "evaluation": {
         "score": 32,
@@ -925,16 +925,16 @@
         },
         "components": {
           "On-base": 60.55555555555555,
-          "Power": 3.421052631578951,
+          "Power": 2.8947368421052664,
           "Contact": 31.875000000000007,
-          "Discipline": 34.56790123456789,
+          "Discipline": 34.51536643026004,
           "Speed": 10
         },
         "summary": "Jared Lewis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .271",
           "OBP .389",
-          "SLG .333"
+          "SLG .331"
         ],
         "statCards": [
           {
@@ -947,7 +947,7 @@
           },
           {
             "label": "SLG",
-            "value": ".333"
+            "value": ".331"
           },
           {
             "label": "HR",
@@ -1439,33 +1439,33 @@
         "jersey": "11",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/tyler-harries/6251",
         "imageUrl": "https://usfdons.com/images/2026/2/5/11_Tyler_Harries_dZhTS.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "battingAverage": 0.254,
-        "onBasePercentage": 0.373,
-        "sluggingPercentage": 0.336,
-        "ops": 0.709,
-        "atBats": 134,
+        "gamesPlayed": 37,
+        "gamesStarted": 37,
+        "battingAverage": 0.248,
+        "onBasePercentage": 0.364,
+        "sluggingPercentage": 0.328,
+        "ops": 0.692,
+        "atBats": 137,
         "runs": 15,
         "hits": 34,
         "doubles": 8,
         "triples": 0,
         "homeRuns": 1,
-        "runsBattedIn": 21,
+        "runsBattedIn": 22,
         "totalBases": 45,
         "walks": 21,
         "hitByPitch": 5,
-        "strikeouts": 32,
+        "strikeouts": 33,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 1,
+        "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
         "putouts": 23,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 161,
+        "plateAppearances": 165,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1477,51 +1477,51 @@
         "jersey": "11",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/tyler-harries/6251",
         "imageUrl": "https://usfdons.com/images/2026/2/5/11_Tyler_Harries_dZhTS.png",
-        "gamesPlayed": 32,
-        "gamesStarted": 32,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
         "putouts": 23,
-        "assists": 82,
+        "assists": 85,
         "errors": 4,
-        "fieldingPercentage": 0.963,
+        "fieldingPercentage": 0.964,
         "doublePlays": 8,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 109
+        "totalChances": 112
       },
       "evaluation": {
-        "score": 29,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 4.210526315789478,
-          "Contact": 21.250000000000004,
-          "Discipline": 50.69444444444443,
+          "On-base": 46.66666666666665,
+          "Power": 2.105263157894739,
+          "Contact": 17.5,
+          "Discipline": 48.48484848484848,
           "Speed": 0
         },
         "summary": "Tyler Harries gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .254",
-          "OBP .373",
-          "SLG .336"
+          "AVG .248",
+          "OBP .364",
+          "SLG .328"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".254"
+            "value": ".248"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".364"
           },
           {
             "label": "SLG",
-            "value": ".336"
+            "value": ".328"
           },
           {
             "label": "HR",
@@ -1529,7 +1529,7 @@
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -1584,23 +1584,23 @@
         "jersey": "12",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/tj-rogers/6260",
         "imageUrl": "https://usfdons.com/images/2026/2/5/12_TJ_Rogers_Ehh8e.png",
-        "gamesPlayed": 49,
-        "gamesStarted": 49,
+        "gamesPlayed": 50,
+        "gamesStarted": 50,
         "battingAverage": 0.251,
-        "onBasePercentage": 0.388,
-        "sluggingPercentage": 0.503,
-        "ops": 0.891,
-        "atBats": 183,
+        "onBasePercentage": 0.389,
+        "sluggingPercentage": 0.497,
+        "ops": 0.886,
+        "atBats": 187,
         "runs": 35,
-        "hits": 46,
+        "hits": 47,
         "doubles": 11,
         "triples": 1,
         "homeRuns": 11,
-        "runsBattedIn": 26,
-        "totalBases": 92,
-        "walks": 34,
+        "runsBattedIn": 27,
+        "totalBases": 93,
+        "walks": 35,
         "hitByPitch": 7,
-        "strikeouts": 66,
+        "strikeouts": 67,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
@@ -1610,7 +1610,7 @@
         "putouts": 84,
         "assists": 0,
         "errors": 11,
-        "plateAppearances": 232,
+        "plateAppearances": 237,
         "caughtStealing": 0,
         "pickedOff": 2
       },
@@ -1622,19 +1622,19 @@
         "jersey": "12",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/tj-rogers/6260",
         "imageUrl": "https://usfdons.com/images/2026/2/5/12_TJ_Rogers_Ehh8e.png",
-        "gamesPlayed": 49,
-        "gamesStarted": 49,
+        "gamesPlayed": 50,
+        "gamesStarted": 50,
         "putouts": 84,
-        "assists": 150,
+        "assists": 156,
         "errors": 11,
-        "fieldingPercentage": 0.955,
-        "doublePlays": 26,
+        "fieldingPercentage": 0.956,
+        "doublePlays": 27,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 245
+        "totalChances": 251
       },
       "evaluation": {
         "score": 43,
@@ -1643,17 +1643,17 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 60,
-          "Power": 48.15789473684211,
+          "On-base": 60.55555555555555,
+          "Power": 46.57894736842106,
           "Contact": 19.375,
-          "Discipline": 35.01683501683501,
+          "Discipline": 35.82089552238805,
           "Speed": 26.666666666666668
         },
         "summary": "TJ Rogers profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
           "AVG .251",
-          "OBP .388",
-          "SLG .503"
+          "OBP .389",
+          "SLG .497"
         ],
         "statCards": [
           {
@@ -1662,11 +1662,11 @@
           },
           {
             "label": "OBP",
-            "value": ".388"
+            "value": ".389"
           },
           {
             "label": "SLG",
-            "value": ".503"
+            "value": ".497"
           },
           {
             "label": "HR",
@@ -1674,7 +1674,7 @@
           },
           {
             "label": "RBI",
-            "value": "26"
+            "value": "27"
           },
           {
             "label": "SB",
@@ -2582,31 +2582,31 @@
         "jersey": "20",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/gauge-lockhart/6367",
         "imageUrl": "https://usfdons.com/images/2026/2/5/20_Gauge_Lockhart_dz8WM.png",
-        "gamesPlayed": 14,
-        "gamesStarted": 14,
-        "appearances": 14,
+        "gamesPlayed": 15,
+        "gamesStarted": 15,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.75,
-        "whip": 1.3,
+        "earnedRunAverage": 4.93,
+        "whip": 1.34,
         "wins": 3,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 60.666666666666664,
-        "inningsPitchedDisplay": "60.2",
-        "hitsAllowed": 46,
-        "runsAllowed": 35,
-        "earnedRunsAllowed": 32,
-        "walksAllowed": 33,
-        "strikeouts": 46,
+        "inningsPitched": 65.66666666666667,
+        "inningsPitchedDisplay": "65.2",
+        "hitsAllowed": 52,
+        "runsAllowed": 39,
+        "earnedRunsAllowed": 36,
+        "walksAllowed": 36,
+        "strikeouts": 48,
         "doublesAllowed": 11,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 215,
+        "homeRunsAllowed": 5,
+        "opponentsAtBats": 235,
         "wildPitches": 2,
         "hitBatters": 12,
         "balks": 1,
-        "opponentsBattingAverage": 0.214,
+        "opponentsBattingAverage": 0.221,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2616,10 +2616,10 @@
         "jersey": "20",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/gauge-lockhart/6367",
         "imageUrl": "https://usfdons.com/images/2026/2/5/20_Gauge_Lockhart_dz8WM.png",
-        "gamesPlayed": 12,
-        "gamesStarted": 12,
-        "putouts": 7,
-        "assists": 6,
+        "gamesPlayed": 13,
+        "gamesStarted": 13,
+        "putouts": 8,
+        "assists": 7,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -2628,7 +2628,7 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 13
+        "totalChances": 15
       },
       "evaluation": {
         "score": 6,
@@ -2639,28 +2639,28 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 25.674325674325683,
-          "Command": 7.878787878787881,
+          "Miss bats": 23.442547300415313,
+          "Command": 6.66666666666667,
           "Damage suppression": 0
         },
         "summary": "Gauge Lockhart gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.75",
-          "WHIP 1.30",
-          "K/9 6.8"
+          "ERA 4.93",
+          "WHIP 1.34",
+          "K/9 6.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.75"
+            "value": "4.93"
           },
           {
             "label": "WHIP",
-            "value": "1.30"
+            "value": "1.34"
           },
           {
             "label": "K/9",
-            "value": "6.8"
+            "value": "6.6"
           },
           {
             "label": "BB/9",
@@ -2668,11 +2668,11 @@
           },
           {
             "label": "HR/9",
-            "value": "0.59"
+            "value": "0.69"
           },
           {
             "label": "IP",
-            "value": "60.7"
+            "value": "65.7"
           }
         ],
         "metaLine": "GR / N/A",
@@ -3368,20 +3368,20 @@
         "jersey": "26",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/jayden-garrison/6370",
         "imageUrl": "https://usfdons.com/images/2026/2/5/26_Jayden_Garrison_OAUv1.png",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "battingAverage": 0.189,
-        "onBasePercentage": 0.311,
-        "sluggingPercentage": 0.308,
-        "ops": 0.619,
-        "atBats": 159,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "battingAverage": 0.19,
+        "onBasePercentage": 0.309,
+        "sluggingPercentage": 0.313,
+        "ops": 0.622,
+        "atBats": 163,
         "runs": 21,
-        "hits": 30,
-        "doubles": 8,
+        "hits": 31,
+        "doubles": 9,
         "triples": 1,
         "homeRuns": 3,
         "runsBattedIn": 17,
-        "totalBases": 49,
+        "totalBases": 51,
         "walks": 24,
         "hitByPitch": 5,
         "strikeouts": 59,
@@ -3391,10 +3391,10 @@
         "sacrificeHits": 2,
         "stolenBases": 5,
         "stolenBasesAttempts": 5,
-        "putouts": 115,
+        "putouts": 117,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 197,
+        "plateAppearances": 201,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3406,19 +3406,19 @@
         "jersey": "26",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/jayden-garrison/6370",
         "imageUrl": "https://usfdons.com/images/2026/2/5/26_Jayden_Garrison_OAUv1.png",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "putouts": 115,
+        "gamesPlayed": 44,
+        "gamesStarted": 44,
+        "putouts": 117,
         "assists": 0,
         "errors": 5,
-        "fieldingPercentage": 0.958,
+        "fieldingPercentage": 0.959,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 120
+        "totalChances": 122
       },
       "evaluation": {
         "score": 10,
@@ -3427,7 +3427,7 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 17.222222222222207,
+          "On-base": 16.111111111111097,
           "Power": 0,
           "Contact": 0,
           "Discipline": 22.975517890772128,
@@ -3435,22 +3435,22 @@
         },
         "summary": "Jayden Garrison gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .189",
-          "OBP .311",
-          "SLG .308"
+          "AVG .190",
+          "OBP .309",
+          "SLG .313"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".189"
+            "value": ".190"
           },
           {
             "label": "OBP",
-            "value": ".311"
+            "value": ".309"
           },
           {
             "label": "SLG",
-            "value": ".308"
+            "value": ".313"
           },
           {
             "label": "HR",
@@ -4530,31 +4530,31 @@
         "jersey": "35",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/kai-yovanovich/6262",
         "imageUrl": "https://usfdons.com/images/2026/2/5/35_Kai_Yovanovich_G6Kr6.png",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 0,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 1.95,
-        "whip": 0.94,
+        "earnedRunAverage": 2.9,
+        "whip": 1.03,
         "wins": 4,
-        "losses": 0,
+        "losses": 1,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 27.666666666666668,
-        "inningsPitchedDisplay": "27.2",
-        "hitsAllowed": 13,
-        "runsAllowed": 6,
-        "earnedRunsAllowed": 6,
-        "walksAllowed": 13,
-        "strikeouts": 30,
+        "inningsPitched": 31,
+        "inningsPitchedDisplay": "31.0",
+        "hitsAllowed": 17,
+        "runsAllowed": 10,
+        "earnedRunsAllowed": 10,
+        "walksAllowed": 15,
+        "strikeouts": 32,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 89,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 102,
         "wildPitches": 1,
         "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.146,
+        "opponentsBattingAverage": 0.167,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4564,22 +4564,22 @@
         "jersey": "35",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/kai-yovanovich/6262",
         "imageUrl": "https://usfdons.com/images/2026/2/5/35_Kai_Yovanovich_G6Kr6.png",
-        "gamesPlayed": 5,
+        "gamesPlayed": 6,
         "gamesStarted": 0,
-        "putouts": 2,
+        "putouts": 4,
         "assists": 2,
         "errors": 1,
-        "fieldingPercentage": 0.8,
+        "fieldingPercentage": 0.857,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 5
+        "totalChances": 7
       },
       "evaluation": {
-        "score": 15,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4587,40 +4587,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 52.35487404162102,
-          "Command": 26.15384615384615,
+          "Miss bats": 48.093841642228746,
+          "Command": 22.666666666666675,
           "Damage suppression": 0
         },
         "summary": "Kai Yovanovich looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.95",
-          "WHIP 0.94",
-          "K/9 9.8"
+          "ERA 2.90",
+          "WHIP 1.03",
+          "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.95"
+            "value": "2.90"
           },
           {
             "label": "WHIP",
-            "value": "0.94"
+            "value": "1.03"
           },
           {
             "label": "K/9",
-            "value": "9.8"
+            "value": "9.3"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "4.4"
           },
           {
             "label": "HR/9",
-            "value": "0.33"
+            "value": "0.58"
           },
           {
             "label": "IP",
-            "value": "27.7"
+            "value": "31.0"
           }
         ],
         "metaLine": "GR / N/A",
@@ -5452,33 +5452,33 @@
         "jersey": "50",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/trevor-harmon/6250",
         "imageUrl": "https://usfdons.com/images/2026/2/5/50_Trevor_Harmon_lEBee.png",
-        "gamesPlayed": 42,
-        "gamesStarted": 39,
-        "battingAverage": 0.296,
-        "onBasePercentage": 0.415,
-        "sluggingPercentage": 0.458,
-        "ops": 0.873,
-        "atBats": 142,
-        "runs": 24,
-        "hits": 42,
+        "gamesPlayed": 43,
+        "gamesStarted": 40,
+        "battingAverage": 0.293,
+        "onBasePercentage": 0.409,
+        "sluggingPercentage": 0.469,
+        "ops": 0.878,
+        "atBats": 147,
+        "runs": 25,
+        "hits": 43,
         "doubles": 8,
         "triples": 0,
-        "homeRuns": 5,
-        "runsBattedIn": 18,
-        "totalBases": 65,
+        "homeRuns": 6,
+        "runsBattedIn": 19,
+        "totalBases": 69,
         "walks": 18,
         "hitByPitch": 11,
-        "strikeouts": 37,
+        "strikeouts": 39,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 1,
-        "putouts": 331,
+        "putouts": 344,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 174,
+        "plateAppearances": 179,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -5490,59 +5490,59 @@
         "jersey": "50",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/trevor-harmon/6250",
         "imageUrl": "https://usfdons.com/images/2026/2/5/50_Trevor_Harmon_lEBee.png",
-        "gamesPlayed": 39,
-        "gamesStarted": 38,
-        "putouts": 331,
-        "assists": 18,
+        "gamesPlayed": 40,
+        "gamesStarted": 39,
+        "putouts": 344,
+        "assists": 20,
         "errors": 1,
         "fieldingPercentage": 0.997,
-        "doublePlays": 23,
+        "doublePlays": 24,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 350
+        "totalChances": 365
       },
       "evaluation": {
-        "score": 46,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 74.99999999999997,
-          "Power": 36.31578947368422,
-          "Contact": 47.499999999999986,
-          "Discipline": 31.83183183183183,
+          "On-base": 71.66666666666664,
+          "Power": 39.210526315789465,
+          "Contact": 45.624999999999986,
+          "Discipline": 29.059829059829056,
           "Speed": 0
         },
         "summary": "Trevor Harmon profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .296",
-          "OBP .415",
-          "SLG .458"
+          "AVG .293",
+          "OBP .409",
+          "SLG .469"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".296"
+            "value": ".293"
           },
           {
             "label": "OBP",
-            "value": ".415"
+            "value": ".409"
           },
           {
             "label": "SLG",
-            "value": ".458"
+            "value": ".469"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "19"
           },
           {
             "label": "SB",
@@ -5739,22 +5739,22 @@
         "jersey": "83",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/zack-ramppen/6259",
         "imageUrl": "https://usfdons.com/images/2026/2/5/83_Zack_Ramppen_ASq0h.png",
-        "gamesPlayed": 40,
-        "gamesStarted": 34,
-        "battingAverage": 0.311,
-        "onBasePercentage": 0.363,
-        "sluggingPercentage": 0.402,
-        "ops": 0.765,
-        "atBats": 122,
+        "gamesPlayed": 41,
+        "gamesStarted": 35,
+        "battingAverage": 0.32,
+        "onBasePercentage": 0.374,
+        "sluggingPercentage": 0.416,
+        "ops": 0.79,
+        "atBats": 125,
         "runs": 18,
-        "hits": 38,
-        "doubles": 8,
+        "hits": 40,
+        "doubles": 9,
         "triples": 0,
         "homeRuns": 1,
-        "runsBattedIn": 13,
-        "totalBases": 49,
+        "runsBattedIn": 14,
+        "totalBases": 52,
         "walks": 5,
-        "hitByPitch": 6,
+        "hitByPitch": 7,
         "strikeouts": 18,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 7,
@@ -5762,10 +5762,10 @@
         "sacrificeHits": 2,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 248,
+        "putouts": 252,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 137,
+        "plateAppearances": 141,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -5777,51 +5777,51 @@
         "jersey": "83",
         "profileUrl": "https://usfdons.com/sports/baseball/roster/zack-ramppen/6259",
         "imageUrl": "https://usfdons.com/images/2026/2/5/83_Zack_Ramppen_ASq0h.png",
-        "gamesPlayed": 40,
-        "gamesStarted": 34,
-        "putouts": 248,
+        "gamesPlayed": 41,
+        "gamesStarted": 35,
+        "putouts": 252,
         "assists": 29,
         "errors": 5,
-        "fieldingPercentage": 0.982,
+        "fieldingPercentage": 0.983,
         "doublePlays": 3,
         "stolenBasesAgainst": 22,
         "caughtStealingBy": 15,
         "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 282
+        "totalChances": 286
       },
       "evaluation": {
-        "score": 32,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 46.11111111111109,
-          "Power": 21.578947368421062,
-          "Contact": 56.875,
+          "On-base": 52.222222222222214,
+          "Power": 25.26315789473684,
+          "Contact": 62.5,
           "Discipline": 8.641975308641975,
           "Speed": 0
         },
         "summary": "Zack Ramppen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .311",
-          "OBP .363",
-          "SLG .402"
+          "AVG .320",
+          "OBP .374",
+          "SLG .416"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".311"
+            "value": ".320"
           },
           {
             "label": "OBP",
-            "value": ".363"
+            "value": ".374"
           },
           {
             "label": "SLG",
-            "value": ".402"
+            "value": ".416"
           },
           {
             "label": "HR",
@@ -5829,7 +5829,7 @@
           },
           {
             "label": "RBI",
-            "value": "13"
+            "value": "14"
           },
           {
             "label": "SB",
@@ -5864,29 +5864,29 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 25,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Isaiah Landry gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .252",
-          "OBP .346",
-          "SLG .420"
+          "AVG .254",
+          "OBP .350",
+          "SLG .426"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".252"
+            "value": ".254"
           },
           {
             "label": "OBP",
-            "value": ".346"
+            "value": ".350"
           },
           {
             "label": "SLG",
-            "value": ".420"
+            "value": ".426"
           },
           {
             "label": "HR",
@@ -5902,10 +5902,10 @@
           }
         ],
         "components": {
-          "On-base": 36.666666666666636,
-          "Power": 26.31578947368421,
-          "Contact": 20,
-          "Discipline": 14.814814814814808,
+          "On-base": 38.888888888888864,
+          "Power": 27.89473684210526,
+          "Contact": 21.250000000000004,
+          "Discipline": 18.18181818181818,
           "Speed": 10
         },
         "metaLine": "JR / N/A",
@@ -6148,8 +6148,8 @@
         "summary": "Eddison Esquivel gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .255",
-          "OBP .378",
-          "SLG .365"
+          "OBP .376",
+          "SLG .363"
         ],
         "statCards": [
           {
@@ -6158,11 +6158,11 @@
           },
           {
             "label": "OBP",
-            "value": ".378"
+            "value": ".376"
           },
           {
             "label": "SLG",
-            "value": ".365"
+            "value": ".363"
           },
           {
             "label": "HR",
@@ -6178,8 +6178,8 @@
           }
         ],
         "components": {
-          "On-base": 54.44444444444443,
-          "Power": 11.842105263157892,
+          "On-base": 53.33333333333332,
+          "Power": 11.315789473684207,
           "Contact": 21.875000000000004,
           "Discipline": 40.958605664488005,
           "Speed": 10
@@ -6218,7 +6218,7 @@
         "summaryMetrics": [
           "AVG .271",
           "OBP .389",
-          "SLG .333"
+          "SLG .331"
         ],
         "statCards": [
           {
@@ -6231,7 +6231,7 @@
           },
           {
             "label": "SLG",
-            "value": ".333"
+            "value": ".331"
           },
           {
             "label": "HR",
@@ -6248,9 +6248,9 @@
         ],
         "components": {
           "On-base": 60.55555555555555,
-          "Power": 3.421052631578951,
+          "Power": 2.8947368421052664,
           "Contact": 31.875000000000007,
-          "Discipline": 34.56790123456789,
+          "Discipline": 34.51536643026004,
           "Speed": 10
         },
         "metaLine": "R-JR / N/A",
@@ -6485,29 +6485,29 @@
         "position": "INF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 29,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tyler Harries gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .254",
-          "OBP .373",
-          "SLG .336"
+          "AVG .248",
+          "OBP .364",
+          "SLG .328"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".254"
+            "value": ".248"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".364"
           },
           {
             "label": "SLG",
-            "value": ".336"
+            "value": ".328"
           },
           {
             "label": "HR",
@@ -6515,7 +6515,7 @@
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -6523,10 +6523,10 @@
           }
         ],
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 4.210526315789478,
-          "Contact": 21.250000000000004,
-          "Discipline": 50.69444444444443,
+          "On-base": 46.66666666666665,
+          "Power": 2.105263157894739,
+          "Contact": 17.5,
+          "Discipline": 48.48484848484848,
           "Speed": 0
         },
         "metaLine": "SR / N/A",
@@ -6562,8 +6562,8 @@
         "summary": "TJ Rogers profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
           "AVG .251",
-          "OBP .388",
-          "SLG .503"
+          "OBP .389",
+          "SLG .497"
         ],
         "statCards": [
           {
@@ -6572,11 +6572,11 @@
           },
           {
             "label": "OBP",
-            "value": ".388"
+            "value": ".389"
           },
           {
             "label": "SLG",
-            "value": ".503"
+            "value": ".497"
           },
           {
             "label": "HR",
@@ -6584,7 +6584,7 @@
           },
           {
             "label": "RBI",
-            "value": "26"
+            "value": "27"
           },
           {
             "label": "SB",
@@ -6592,10 +6592,10 @@
           }
         ],
         "components": {
-          "On-base": 60,
-          "Power": 48.15789473684211,
+          "On-base": 60.55555555555555,
+          "Power": 46.57894736842106,
           "Contact": 19.375,
-          "Discipline": 35.01683501683501,
+          "Discipline": 35.82089552238805,
           "Speed": 26.666666666666668
         },
         "metaLine": "GR / N/A",
@@ -7044,22 +7044,22 @@
         },
         "summary": "Gauge Lockhart gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.75",
-          "WHIP 1.30",
-          "K/9 6.8"
+          "ERA 4.93",
+          "WHIP 1.34",
+          "K/9 6.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.75"
+            "value": "4.93"
           },
           {
             "label": "WHIP",
-            "value": "1.30"
+            "value": "1.34"
           },
           {
             "label": "K/9",
-            "value": "6.8"
+            "value": "6.6"
           },
           {
             "label": "BB/9",
@@ -7067,18 +7067,18 @@
           },
           {
             "label": "HR/9",
-            "value": "0.59"
+            "value": "0.69"
           },
           {
             "label": "IP",
-            "value": "60.7"
+            "value": "65.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 25.674325674325683,
-          "Command": 7.878787878787881,
+          "Miss bats": 23.442547300415313,
+          "Command": 6.66666666666667,
           "Damage suppression": 0
         },
         "metaLine": "GR / N/A",
@@ -7457,22 +7457,22 @@
         },
         "summary": "Jayden Garrison gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .189",
-          "OBP .311",
-          "SLG .308"
+          "AVG .190",
+          "OBP .309",
+          "SLG .313"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".189"
+            "value": ".190"
           },
           {
             "label": "OBP",
-            "value": ".311"
+            "value": ".309"
           },
           {
             "label": "SLG",
-            "value": ".308"
+            "value": ".313"
           },
           {
             "label": "HR",
@@ -7488,7 +7488,7 @@
           }
         ],
         "components": {
-          "On-base": 17.222222222222207,
+          "On-base": 16.111111111111097,
           "Power": 0,
           "Contact": 0,
           "Discipline": 22.975517890772128,
@@ -8002,48 +8002,48 @@
         "position": "RHP",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 15,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Kai Yovanovich looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.95",
-          "WHIP 0.94",
-          "K/9 9.8"
+          "ERA 2.90",
+          "WHIP 1.03",
+          "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.95"
+            "value": "2.90"
           },
           {
             "label": "WHIP",
-            "value": "0.94"
+            "value": "1.03"
           },
           {
             "label": "K/9",
-            "value": "9.8"
+            "value": "9.3"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "4.4"
           },
           {
             "label": "HR/9",
-            "value": "0.33"
+            "value": "0.58"
           },
           {
             "label": "IP",
-            "value": "27.7"
+            "value": "31.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 52.35487404162102,
-          "Command": 26.15384615384615,
+          "Miss bats": 48.093841642228746,
+          "Command": 22.666666666666675,
           "Damage suppression": 0
         },
         "metaLine": "GR / N/A",
@@ -8484,37 +8484,37 @@
         "position": "C",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 46,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Trevor Harmon profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .296",
-          "OBP .415",
-          "SLG .458"
+          "AVG .293",
+          "OBP .409",
+          "SLG .469"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".296"
+            "value": ".293"
           },
           {
             "label": "OBP",
-            "value": ".415"
+            "value": ".409"
           },
           {
             "label": "SLG",
-            "value": ".458"
+            "value": ".469"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "19"
           },
           {
             "label": "SB",
@@ -8522,10 +8522,10 @@
           }
         ],
         "components": {
-          "On-base": 74.99999999999997,
-          "Power": 36.31578947368422,
-          "Contact": 47.499999999999986,
-          "Discipline": 31.83183183183183,
+          "On-base": 71.66666666666664,
+          "Power": 39.210526315789465,
+          "Contact": 45.624999999999986,
+          "Discipline": 29.059829059829056,
           "Speed": 0
         },
         "metaLine": "JR / N/A",
@@ -8622,29 +8622,29 @@
         "position": "C/INF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 32,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Zack Ramppen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .311",
-          "OBP .363",
-          "SLG .402"
+          "AVG .320",
+          "OBP .374",
+          "SLG .416"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".311"
+            "value": ".320"
           },
           {
             "label": "OBP",
-            "value": ".363"
+            "value": ".374"
           },
           {
             "label": "SLG",
-            "value": ".402"
+            "value": ".416"
           },
           {
             "label": "HR",
@@ -8652,7 +8652,7 @@
           },
           {
             "label": "RBI",
-            "value": "13"
+            "value": "14"
           },
           {
             "label": "SB",
@@ -8660,9 +8660,9 @@
           }
         ],
         "components": {
-          "On-base": 46.11111111111109,
-          "Power": 21.578947368421062,
-          "Contact": 56.875,
+          "On-base": 52.222222222222214,
+          "Power": 25.26315789473684,
+          "Contact": 62.5,
           "Discipline": 8.641975308641975,
           "Speed": 0
         },
