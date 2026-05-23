@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.uab2026 = {
-  "generatedAt": "2026-05-22T12:35:52.230Z",
+  "generatedAt": "2026-05-23T11:37:04.674Z",
   "season": 2026,
   "school": {
     "slug": "uab",
@@ -39,41 +39,41 @@ window.__BASEBALL_DATASETS__.uab2026 = {
     }
   },
   "teamSummary": {
-    "record": "31-25, 15-12",
+    "record": "32-25, 15-12",
     "battingAverage": ".288",
-    "earnedRunAverage": "7.01",
-    "wins": "31",
+    "earnedRunAverage": "7.00",
+    "wins": "32",
     "losses": "25",
     "hitting": {
-      "atBats": "1854",
-      "runsScored": "415",
-      "hits": "534",
-      "runsBattedIn": "374",
-      "doubles": "91",
-      "triples": "7",
-      "homeRuns": "80",
-      "walks": "282",
+      "atBats": "1887",
+      "runsScored": "424",
+      "hits": "543",
+      "runsBattedIn": "381",
+      "doubles": "93",
+      "triples": "8",
+      "homeRuns": "81",
+      "walks": "289",
       "intentionalWalks": "6",
-      "strikeouts": "378",
-      "strikeoutsLooking": "126",
-      "hitByPitch": "85",
-      "stolenBases": "93",
+      "strikeouts": "385",
+      "strikeoutsLooking": "130",
+      "hitByPitch": "89",
+      "stolenBases": "94",
       "caughtStealing": "25",
-      "sacrificeHits": "26",
-      "sacrificeFlies": "29",
+      "sacrificeHits": "29",
+      "sacrificeFlies": "30",
       "reachedOnCatchersInteference": "6",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "428",
-      "flyOuts": "517",
+      "groundOuts": "435",
+      "flyOuts": "529",
       "groundedIntoDoublePlay": "39",
       "pickedOff": "9",
       "doublePlaysHitInto": "46",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1432",
-      "assists": "553",
+      "putouts": "1459",
+      "assists": "563",
       "errors": "59",
       "passedBalls": "8",
       "catchersInterference": "3",
@@ -81,42 +81,42 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "caughtStealingBy": "15",
       "involvedInDoublePlays": "37",
       "involvedInTriplePlays": "0",
-      "totalChances": "2044",
-      "fieldingPercentage": ".971"
+      "totalChances": "2081",
+      "fieldingPercentage": ".972"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "31",
+      "wins": "32",
       "saves": "18",
       "losses": "25",
       "gamesStarted": "0",
       "gamesCompleted": "1",
       "shutouts": "1",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "477.1",
-      "hitsAllowed": "582",
-      "runsAllowed": "426",
-      "earnedRunsAllowed": "372",
-      "walksAllowed": "238",
-      "strikeouts": "347",
-      "battersFaced": "2278",
-      "opponentAtBats": "1937",
+      "inningsPitched": "486.1",
+      "hitsAllowed": "590",
+      "runsAllowed": "432",
+      "earnedRunsAllowed": "378",
+      "walksAllowed": "241",
+      "strikeouts": "354",
+      "battersFaced": "2315",
+      "opponentAtBats": "1971",
       "doublesAllowed": "114",
       "triplesAllowed": "12",
-      "homerunsAllowed": "89",
-      "wildPitches": "31",
+      "homerunsAllowed": "93",
+      "wildPitches": "32",
       "balks": "2",
       "hitBatters": "50",
-      "strikeoutsLooking": "92",
+      "strikeoutsLooking": "93",
       "intentionalWalks": "1",
       "inheritedRunners": "19",
       "inheritedRunnersThatScored": "18",
       "sacrificeHitsAllowed": "27",
       "sacrificeFliesAllowed": "23",
       "catchersInterferenceAllowed": "3",
-      "pitches": "8239",
-      "flyouts": "510",
-      "groundouts": "511",
+      "pitches": "8384",
+      "flyouts": "519",
+      "groundouts": "521",
       "teamUnearnedRuns": "0",
       "saveRecord": "12",
       "pickoff": "7"
@@ -161,21 +161,21 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "1",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/kevin-hall-jr/11498",
         "imageUrl": "https://uabsports.com/images/2026/1/16/060A1192.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 50,
-        "battingAverage": 0.28,
-        "onBasePercentage": 0.387,
-        "sluggingPercentage": 0.451,
-        "ops": 0.838,
-        "atBats": 193,
-        "runs": 51,
-        "hits": 54,
+        "gamesPlayed": 52,
+        "gamesStarted": 51,
+        "battingAverage": 0.278,
+        "onBasePercentage": 0.386,
+        "sluggingPercentage": 0.444,
+        "ops": 0.83,
+        "atBats": 198,
+        "runs": 52,
+        "hits": 55,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 9,
         "runsBattedIn": 43,
-        "totalBases": 87,
-        "walks": 24,
+        "totalBases": 88,
+        "walks": 25,
         "hitByPitch": 11,
         "strikeouts": 25,
         "intentionalWalks": 0,
@@ -184,10 +184,10 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "sacrificeHits": 3,
         "stolenBases": 19,
         "stolenBasesAttempts": 24,
-        "putouts": 135,
+        "putouts": 138,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 268,
+        "plateAppearances": 274,
         "caughtStealing": 5,
         "pickedOff": 1
       },
@@ -199,19 +199,19 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "1",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/kevin-hall-jr/11498",
         "imageUrl": "https://uabsports.com/images/2026/1/16/060A1192.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 43,
-        "putouts": 135,
-        "assists": 5,
+        "gamesPlayed": 44,
+        "gamesStarted": 44,
+        "putouts": 138,
+        "assists": 6,
         "errors": 3,
-        "fieldingPercentage": 0.979,
+        "fieldingPercentage": 0.98,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 143
+        "totalChances": 147
       },
       "evaluation": {
         "score": 53,
@@ -220,30 +220,30 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 59.444444444444436,
-          "Power": 34.47368421052632,
-          "Contact": 37.500000000000014,
-          "Discipline": 84.44444444444443,
+          "On-base": 58.88888888888888,
+          "Power": 32.631578947368425,
+          "Contact": 36.250000000000014,
+          "Discipline": 88.88888888888889,
           "Speed": 63.33333333333333
         },
-        "summary": "Kevin Hall Jr. profiles as a OF piece who adds running-game pressure.",
+        "summary": "Kevin Hall Jr. profiles as a OF piece who controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .280",
-          "OBP .387",
-          "SLG .451"
+          "AVG .278",
+          "OBP .386",
+          "SLG .444"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".280"
+            "value": ".278"
           },
           {
             "label": "OBP",
-            "value": ".387"
+            "value": ".386"
           },
           {
             "label": "SLG",
-            "value": ".451"
+            "value": ".444"
           },
           {
             "label": "HR",
@@ -306,8 +306,8 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "2",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/mason-steele/11522",
         "imageUrl": "https://uabsports.com/images/2026/1/16/Mason_Steele_v2Vuu.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 14,
+        "gamesPlayed": 23,
+        "gamesStarted": 15,
         "battingAverage": 0.222,
         "onBasePercentage": 0.417,
         "sluggingPercentage": 0.333,
@@ -343,31 +343,31 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "2",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/mason-steele/11522",
         "imageUrl": "https://uabsports.com/images/2026/1/16/Mason_Steele_v2Vuu.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 13,
-        "appearances": 13,
+        "gamesPlayed": 14,
+        "gamesStarted": 14,
+        "appearances": 14,
         "gamesCompleted": 1,
-        "earnedRunAverage": 4.86,
-        "whip": 1.21,
+        "earnedRunAverage": 4.66,
+        "whip": 1.15,
         "wins": 6,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 70.33333333333333,
-        "inningsPitchedDisplay": "70.1",
-        "hitsAllowed": 60,
-        "runsAllowed": 44,
-        "earnedRunsAllowed": 38,
-        "walksAllowed": 25,
-        "strikeouts": 61,
+        "inningsPitched": 75.33333333333333,
+        "inningsPitchedDisplay": "75.1",
+        "hitsAllowed": 61,
+        "runsAllowed": 45,
+        "earnedRunsAllowed": 39,
+        "walksAllowed": 26,
+        "strikeouts": 68,
         "doublesAllowed": 11,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 10,
-        "opponentsAtBats": 262,
+        "homeRunsAllowed": 11,
+        "opponentsAtBats": 278,
         "wildPitches": 9,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.229,
+        "opponentsBattingAverage": 0.219,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -392,7 +392,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "totalChances": 17
       },
       "evaluation": {
-        "score": 12,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -400,40 +400,40 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 34.597156398104275,
-          "Command": 28.799999999999997,
+          "Miss bats": 37.48994368463395,
+          "Command": 32.3076923076923,
           "Damage suppression": 0
         },
         "summary": "Mason Steele looks like a OF/RHP option who keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.86",
-          "WHIP 1.21",
-          "K/9 7.8"
+          "ERA 4.66",
+          "WHIP 1.15",
+          "K/9 8.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.86"
+            "value": "4.66"
           },
           {
             "label": "WHIP",
-            "value": "1.21"
+            "value": "1.15"
           },
           {
             "label": "K/9",
-            "value": "7.8"
+            "value": "8.1"
           },
           {
             "label": "BB/9",
-            "value": "3.2"
+            "value": "3.1"
           },
           {
             "label": "HR/9",
-            "value": "1.28"
+            "value": "1.31"
           },
           {
             "label": "IP",
-            "value": "70.3"
+            "value": "75.3"
           }
         ],
         "metaLine": "JR / N/A",
@@ -1162,14 +1162,14 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "8",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/alex-cheeseman/11491",
         "imageUrl": "https://uabsports.com/images/2026/1/16/Alex_Cheeseman.jpg",
-        "gamesPlayed": 26,
+        "gamesPlayed": 27,
         "gamesStarted": 5,
         "battingAverage": 0.19,
         "onBasePercentage": 0.414,
         "sluggingPercentage": 0.238,
         "ops": 0.652,
         "atBats": 21,
-        "runs": 8,
+        "runs": 9,
         "hits": 4,
         "doubles": 1,
         "triples": 0,
@@ -1200,19 +1200,19 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "8",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/alex-cheeseman/11491",
         "imageUrl": "https://uabsports.com/images/2026/1/16/Alex_Cheeseman.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 5,
         "putouts": 13,
-        "assists": 14,
+        "assists": 15,
         "errors": 3,
-        "fieldingPercentage": 0.9,
+        "fieldingPercentage": 0.903,
         "doublePlays": 2,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 30
+        "totalChances": 31
       },
       "evaluation": {
         "score": 28,
@@ -1395,21 +1395,21 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "10",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/wesley-helms/11501",
         "imageUrl": "https://uabsports.com/images/2026/1/16/Wesley_V1ede.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 56,
-        "battingAverage": 0.319,
-        "onBasePercentage": 0.395,
-        "sluggingPercentage": 0.438,
-        "ops": 0.833,
-        "atBats": 210,
-        "runs": 36,
-        "hits": 67,
-        "doubles": 7,
+        "gamesPlayed": 57,
+        "gamesStarted": 57,
+        "battingAverage": 0.322,
+        "onBasePercentage": 0.399,
+        "sluggingPercentage": 0.444,
+        "ops": 0.843,
+        "atBats": 214,
+        "runs": 37,
+        "hits": 69,
+        "doubles": 8,
         "triples": 0,
         "homeRuns": 6,
-        "runsBattedIn": 38,
-        "totalBases": 92,
-        "walks": 27,
+        "runsBattedIn": 40,
+        "totalBases": 95,
+        "walks": 28,
         "hitByPitch": 2,
         "strikeouts": 22,
         "intentionalWalks": 0,
@@ -1418,10 +1418,10 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "sacrificeHits": 1,
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
-        "putouts": 454,
+        "putouts": 463,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 250,
+        "plateAppearances": 255,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1433,10 +1433,10 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "10",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/wesley-helms/11501",
         "imageUrl": "https://uabsports.com/images/2026/1/16/Wesley_V1ede.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 56,
-        "putouts": 454,
-        "assists": 39,
+        "gamesPlayed": 57,
+        "gamesStarted": 57,
+        "putouts": 463,
+        "assists": 40,
         "errors": 2,
         "fieldingPercentage": 0.996,
         "doublePlays": 34,
@@ -1445,39 +1445,39 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 495
+        "totalChances": 505
       },
       "evaluation": {
-        "score": 55,
+        "score": 56,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 31.05263157894737,
-          "Contact": 61.875,
+          "On-base": 66.11111111111111,
+          "Power": 32.631578947368425,
+          "Contact": 63.75000000000001,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },
         "summary": "Wesley Helms profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .319",
-          "OBP .395",
-          "SLG .438"
+          "AVG .322",
+          "OBP .399",
+          "SLG .444"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".319"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": ".399"
           },
           {
             "label": "SLG",
-            "value": ".438"
+            "value": ".444"
           },
           {
             "label": "HR",
@@ -1485,7 +1485,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           },
           {
             "label": "RBI",
-            "value": "38"
+            "value": "40"
           },
           {
             "label": "SB",
@@ -1541,31 +1541,31 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "12",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/konner-keplinger/11508",
         "imageUrl": "https://uabsports.com/images/2026/1/16/Konner_Keplinger_YK9zR.jpg",
-        "gamesPlayed": 24,
+        "gamesPlayed": 25,
         "gamesStarted": 3,
-        "appearances": 24,
+        "appearances": 25,
         "gamesCompleted": 0,
-        "earnedRunAverage": 7.79,
-        "whip": 1.86,
+        "earnedRunAverage": 8.13,
+        "whip": 1.95,
         "wins": 2,
         "losses": 1,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 32.333333333333336,
-        "inningsPitchedDisplay": "32.1",
-        "hitsAllowed": 43,
-        "runsAllowed": 35,
-        "earnedRunsAllowed": 28,
-        "walksAllowed": 17,
+        "inningsPitched": 34.333333333333336,
+        "inningsPitchedDisplay": "34.1",
+        "hitsAllowed": 48,
+        "runsAllowed": 38,
+        "earnedRunsAllowed": 31,
+        "walksAllowed": 19,
         "strikeouts": 22,
         "doublesAllowed": 9,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 10,
-        "opponentsAtBats": 132,
-        "wildPitches": 1,
+        "homeRunsAllowed": 11,
+        "opponentsAtBats": 142,
+        "wildPitches": 2,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.326,
+        "opponentsBattingAverage": 0.338,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1575,22 +1575,22 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "12",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/konner-keplinger/11508",
         "imageUrl": "https://uabsports.com/images/2026/1/16/Konner_Keplinger_YK9zR.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 3,
-        "putouts": 1,
+        "putouts": 2,
         "assists": 9,
         "errors": 3,
-        "fieldingPercentage": 0.769,
+        "fieldingPercentage": 0.786,
         "doublePlays": 0,
         "stolenBasesAgainst": 3,
         "caughtStealingBy": 4,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 13
+        "totalChances": 14
       },
       "evaluation": {
-        "score": 5,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1598,40 +1598,40 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 19.306466729147136,
-          "Command": 5.8823529411764675,
+          "Miss bats": 16.063548102383045,
+          "Command": 3.1578947368421018,
           "Damage suppression": 0
         },
         "summary": "Konner Keplinger gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.79",
-          "WHIP 1.86",
-          "K/9 6.1"
+          "ERA 8.13",
+          "WHIP 1.95",
+          "K/9 5.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.79"
+            "value": "8.13"
           },
           {
             "label": "WHIP",
-            "value": "1.86"
+            "value": "1.95"
           },
           {
             "label": "K/9",
-            "value": "6.1"
+            "value": "5.8"
           },
           {
             "label": "BB/9",
-            "value": "4.7"
+            "value": "5.0"
           },
           {
             "label": "HR/9",
-            "value": "2.78"
+            "value": "2.88"
           },
           {
             "label": "IP",
-            "value": "32.3"
+            "value": "34.3"
           }
         ],
         "metaLine": "R-SO / N/A",
@@ -1682,22 +1682,22 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "13",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/john-paul-head/11499",
         "imageUrl": "https://uabsports.com/images/2026/1/16/JP_Head_sFASD.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "battingAverage": 0.315,
-        "onBasePercentage": 0.439,
-        "sluggingPercentage": 0.67,
-        "ops": 1.109,
-        "atBats": 200,
-        "runs": 51,
-        "hits": 63,
+        "gamesPlayed": 54,
+        "gamesStarted": 54,
+        "battingAverage": 0.322,
+        "onBasePercentage": 0.452,
+        "sluggingPercentage": 0.683,
+        "ops": 1.135,
+        "atBats": 202,
+        "runs": 52,
+        "hits": 65,
         "doubles": 9,
-        "triples": 1,
+        "triples": 2,
         "homeRuns": 20,
         "runsBattedIn": 54,
-        "totalBases": 134,
-        "walks": 41,
-        "hitByPitch": 4,
+        "totalBases": 138,
+        "walks": 42,
+        "hitByPitch": 7,
         "strikeouts": 45,
         "intentionalWalks": 4,
         "groundedIntoDoublePlay": 4,
@@ -1708,7 +1708,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "putouts": 78,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 262,
+        "plateAppearances": 268,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -1735,36 +1735,36 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "totalChances": 83
       },
       "evaluation": {
-        "score": 77,
+        "score": 82,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Priority",
+          "className": "fit-priority"
         },
         "components": {
-          "On-base": 88.33333333333331,
-          "Power": 92.10526315789475,
-          "Contact": 59.375,
-          "Discipline": 79.01234567901233,
+          "On-base": 95.55555555555554,
+          "Power": 95.5263157894737,
+          "Contact": 63.75000000000001,
+          "Discipline": 81.48148148148148,
           "Speed": 33.33333333333333
         },
         "summary": "John Paul Head profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .315",
-          "OBP .439",
-          "SLG .670"
+          "AVG .322",
+          "OBP .452",
+          "SLG .683"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".315"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".439"
+            "value": ".452"
           },
           {
             "label": "SLG",
-            "value": ".670"
+            "value": ".683"
           },
           {
             "label": "HR",
@@ -1915,33 +1915,33 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "17",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/alex-dupuy/11494",
         "imageUrl": "https://uabsports.com/images/2026/1/16/Alex_Dupuy.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 56,
-        "battingAverage": 0.271,
-        "onBasePercentage": 0.387,
-        "sluggingPercentage": 0.444,
-        "ops": 0.831,
-        "atBats": 207,
-        "runs": 52,
-        "hits": 56,
+        "gamesPlayed": 57,
+        "gamesStarted": 57,
+        "battingAverage": 0.27,
+        "onBasePercentage": 0.384,
+        "sluggingPercentage": 0.455,
+        "ops": 0.839,
+        "atBats": 211,
+        "runs": 53,
+        "hits": 57,
         "doubles": 12,
         "triples": 0,
-        "homeRuns": 8,
-        "runsBattedIn": 36,
-        "totalBases": 92,
+        "homeRuns": 9,
+        "runsBattedIn": 38,
+        "totalBases": 96,
         "walks": 23,
         "hitByPitch": 19,
-        "strikeouts": 55,
+        "strikeouts": 56,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 4,
+        "sacrificeFlies": 5,
         "sacrificeHits": 4,
         "stolenBases": 10,
         "stolenBasesAttempts": 13,
-        "putouts": 42,
+        "putouts": 43,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 273,
+        "plateAppearances": 278,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -1986,19 +1986,19 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "17",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/alex-dupuy/11494",
         "imageUrl": "https://uabsports.com/images/2026/1/16/Alex_Dupuy.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "putouts": 42,
-        "assists": 114,
+        "gamesPlayed": 52,
+        "gamesStarted": 52,
+        "putouts": 43,
+        "assists": 117,
         "errors": 5,
-        "fieldingPercentage": 0.969,
+        "fieldingPercentage": 0.97,
         "doublePlays": 10,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 161
+        "totalChances": 165
       },
       "evaluation": {
         "score": 40,
@@ -2007,38 +2007,38 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 59.444444444444436,
-          "Power": 32.631578947368425,
-          "Contact": 31.875000000000007,
-          "Discipline": 24.242424242424235,
+          "On-base": 57.77777777777777,
+          "Power": 35.52631578947369,
+          "Contact": 31.25000000000001,
+          "Discipline": 23.412698412698408,
           "Speed": 33.33333333333333
         },
         "summary": "Alex Dupuy profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .271",
-          "OBP .387",
-          "SLG .444"
+          "AVG .270",
+          "OBP .384",
+          "SLG .455"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".271"
+            "value": ".270"
           },
           {
             "label": "OBP",
-            "value": ".387"
+            "value": ".384"
           },
           {
             "label": "SLG",
-            "value": ".444"
+            "value": ".455"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "36"
+            "value": "38"
           },
           {
             "label": "SB",
@@ -2377,33 +2377,33 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "20",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/baylor-roberts/11518",
         "imageUrl": "https://uabsports.com/images/2026/1/16/Baylor_Roberts_K1GnJ.jpg",
-        "gamesPlayed": 55,
-        "gamesStarted": 54,
-        "battingAverage": 0.231,
-        "onBasePercentage": 0.298,
-        "sluggingPercentage": 0.346,
-        "ops": 0.644,
-        "atBats": 182,
-        "runs": 30,
+        "gamesPlayed": 56,
+        "gamesStarted": 55,
+        "battingAverage": 0.227,
+        "onBasePercentage": 0.297,
+        "sluggingPercentage": 0.341,
+        "ops": 0.638,
+        "atBats": 185,
+        "runs": 31,
         "hits": 42,
         "doubles": 5,
         "triples": 2,
         "homeRuns": 4,
-        "runsBattedIn": 29,
+        "runsBattedIn": 30,
         "totalBases": 63,
-        "walks": 13,
+        "walks": 14,
         "hitByPitch": 6,
-        "strikeouts": 49,
+        "strikeouts": 51,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 4,
-        "sacrificeHits": 7,
-        "stolenBases": 10,
-        "stolenBasesAttempts": 12,
-        "putouts": 85,
+        "sacrificeHits": 8,
+        "stolenBases": 11,
+        "stolenBasesAttempts": 13,
+        "putouts": 87,
         "assists": 0,
         "errors": 15,
-        "plateAppearances": 226,
+        "plateAppearances": 232,
         "caughtStealing": 2,
         "pickedOff": 2
       },
@@ -2415,51 +2415,51 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "20",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/baylor-roberts/11518",
         "imageUrl": "https://uabsports.com/images/2026/1/16/Baylor_Roberts_K1GnJ.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "putouts": 85,
-        "assists": 139,
+        "gamesPlayed": 54,
+        "gamesStarted": 54,
+        "putouts": 87,
+        "assists": 140,
         "errors": 15,
-        "fieldingPercentage": 0.937,
+        "fieldingPercentage": 0.938,
         "doublePlays": 26,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 239
+        "totalChances": 242
       },
       "evaluation": {
-        "score": 11,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 9.999999999999979,
-          "Power": 6.842105263157887,
-          "Contact": 6.875000000000006,
-          "Discipline": 7.2562358276643995,
-          "Speed": 33.33333333333333
+          "On-base": 9.444444444444422,
+          "Power": 5.526315789473689,
+          "Contact": 4.3750000000000036,
+          "Discipline": 8.278867102396514,
+          "Speed": 36.666666666666664
         },
         "summary": "Baylor Roberts profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .231",
-          "OBP .298",
-          "SLG .346"
+          "AVG .227",
+          "OBP .297",
+          "SLG .341"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".231"
+            "value": ".227"
           },
           {
             "label": "OBP",
-            "value": ".298"
+            "value": ".297"
           },
           {
             "label": "SLG",
-            "value": ".346"
+            "value": ".341"
           },
           {
             "label": "HR",
@@ -2467,11 +2467,11 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           },
           {
             "label": "RBI",
-            "value": "29"
+            "value": "30"
           },
           {
             "label": "SB",
-            "value": "10"
+            "value": "11"
           }
         ],
         "metaLine": "FR / N/A",
@@ -2610,33 +2610,33 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "22",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/andrew-hunt/11505",
         "imageUrl": "https://uabsports.com/images/2026/1/16/Andrew_Hunt_W6rqq.jpg",
-        "gamesPlayed": 54,
-        "gamesStarted": 52,
+        "gamesPlayed": 55,
+        "gamesStarted": 53,
         "battingAverage": 0.312,
-        "onBasePercentage": 0.447,
-        "sluggingPercentage": 0.478,
-        "ops": 0.925,
-        "atBats": 186,
-        "runs": 48,
-        "hits": 58,
-        "doubles": 13,
+        "onBasePercentage": 0.45,
+        "sluggingPercentage": 0.481,
+        "ops": 0.931,
+        "atBats": 189,
+        "runs": 50,
+        "hits": 59,
+        "doubles": 14,
         "triples": 0,
         "homeRuns": 6,
-        "runsBattedIn": 43,
-        "totalBases": 89,
-        "walks": 40,
-        "hitByPitch": 8,
-        "strikeouts": 35,
+        "runsBattedIn": 44,
+        "totalBases": 91,
+        "walks": 41,
+        "hitByPitch": 9,
+        "strikeouts": 37,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 11,
         "stolenBasesAttempts": 16,
-        "putouts": 99,
+        "putouts": 100,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 258,
+        "plateAppearances": 263,
         "caughtStealing": 5,
         "pickedOff": 1
       },
@@ -2648,9 +2648,9 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "22",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/andrew-hunt/11505",
         "imageUrl": "https://uabsports.com/images/2026/1/16/Andrew_Hunt_W6rqq.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 43,
-        "putouts": 99,
+        "gamesPlayed": 45,
+        "gamesStarted": 44,
+        "putouts": 100,
         "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -2660,7 +2660,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 101
+        "totalChances": 102
       },
       "evaluation": {
         "score": 69,
@@ -2669,8 +2669,8 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 92.77777777777777,
-          "Power": 41.57894736842105,
+          "On-base": 94.44444444444444,
+          "Power": 42.368421052631575,
           "Contact": 57.49999999999999,
           "Discipline": 100,
           "Speed": 36.666666666666664
@@ -2678,8 +2678,8 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "summary": "Andrew Hunt profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .312",
-          "OBP .447",
-          "SLG .478"
+          "OBP .450",
+          "SLG .481"
         ],
         "statCards": [
           {
@@ -2688,11 +2688,11 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           },
           {
             "label": "OBP",
-            "value": ".447"
+            "value": ".450"
           },
           {
             "label": "SLG",
-            "value": ".478"
+            "value": ".481"
           },
           {
             "label": "HR",
@@ -2700,7 +2700,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           },
           {
             "label": "RBI",
-            "value": "43"
+            "value": "44"
           },
           {
             "label": "SB",
@@ -2755,19 +2755,19 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "23",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/austin-pierzynski/11515",
         "imageUrl": "https://uabsports.com/images/2026/1/16/Austin_Pierzynski_9F1hq.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 35,
-        "battingAverage": 0.24,
-        "onBasePercentage": 0.343,
-        "sluggingPercentage": 0.455,
-        "ops": 0.798,
-        "atBats": 121,
+        "gamesPlayed": 38,
+        "gamesStarted": 36,
+        "battingAverage": 0.234,
+        "onBasePercentage": 0.336,
+        "sluggingPercentage": 0.444,
+        "ops": 0.78,
+        "atBats": 124,
         "runs": 21,
         "hits": 29,
         "doubles": 3,
         "triples": 1,
         "homeRuns": 7,
-        "runsBattedIn": 17,
+        "runsBattedIn": 18,
         "totalBases": 55,
         "walks": 14,
         "hitByPitch": 5,
@@ -2775,13 +2775,13 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 0,
-        "sacrificeHits": 6,
+        "sacrificeHits": 8,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 211,
+        "putouts": 218,
         "assists": 0,
         "errors": 10,
-        "plateAppearances": 149,
+        "plateAppearances": 154,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2793,51 +2793,51 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "23",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/austin-pierzynski/11515",
         "imageUrl": "https://uabsports.com/images/2026/1/16/Austin_Pierzynski_9F1hq.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 35,
-        "putouts": 211,
+        "gamesPlayed": 38,
+        "gamesStarted": 36,
+        "putouts": 218,
         "assists": 21,
         "errors": 10,
-        "fieldingPercentage": 0.959,
+        "fieldingPercentage": 0.96,
         "doublePlays": 0,
         "stolenBasesAgainst": 46,
         "caughtStealingBy": 7,
         "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 2,
-        "totalChances": 242
+        "totalChances": 249
       },
       "evaluation": {
-        "score": 30,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 35,
-          "Power": 35.52631578947369,
-          "Contact": 12.499999999999993,
+          "On-base": 31.11111111111111,
+          "Power": 32.631578947368425,
+          "Contact": 8.750000000000007,
           "Discipline": 45.41062801932367,
           "Speed": 10
         },
         "summary": "Austin Pierzynski gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .240",
-          "OBP .343",
-          "SLG .455"
+          "AVG .234",
+          "OBP .336",
+          "SLG .444"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".240"
+            "value": ".234"
           },
           {
             "label": "OBP",
-            "value": ".343"
+            "value": ".336"
           },
           {
             "label": "SLG",
-            "value": ".455"
+            "value": ".444"
           },
           {
             "label": "HR",
@@ -2845,7 +2845,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "18"
           },
           {
             "label": "SB",
@@ -3185,31 +3185,31 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "26",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/riley-miller/11513",
         "imageUrl": "https://uabsports.com/images/2026/1/16/Riley_Miller_Xafvj.jpg",
-        "gamesPlayed": 23,
+        "gamesPlayed": 24,
         "gamesStarted": 0,
-        "appearances": 23,
+        "appearances": 24,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.8,
-        "whip": 1.74,
-        "wins": 4,
+        "earnedRunAverage": 5.95,
+        "whip": 1.7,
+        "wins": 5,
         "losses": 0,
         "saves": 3,
         "shutouts": 0,
-        "inningsPitched": 40.333333333333336,
-        "inningsPitchedDisplay": "40.1",
-        "hitsAllowed": 48,
-        "runsAllowed": 26,
-        "earnedRunsAllowed": 26,
+        "inningsPitched": 42.333333333333336,
+        "inningsPitchedDisplay": "42.1",
+        "hitsAllowed": 50,
+        "runsAllowed": 28,
+        "earnedRunsAllowed": 28,
         "walksAllowed": 22,
         "strikeouts": 25,
         "doublesAllowed": 11,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 158,
+        "homeRunsAllowed": 7,
+        "opponentsAtBats": 166,
         "wildPitches": 3,
         "hitBatters": 0,
         "balks": 1,
-        "opponentsBattingAverage": 0.304,
+        "opponentsBattingAverage": 0.301,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3242,40 +3242,40 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 14.35011269722013,
+          "Miss bats": 11.954187544738721,
           "Command": 2.727272727272725,
           "Damage suppression": 0
         },
         "summary": "Riley Miller gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.80",
-          "WHIP 1.74",
-          "K/9 5.6"
+          "ERA 5.95",
+          "WHIP 1.70",
+          "K/9 5.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.80"
+            "value": "5.95"
           },
           {
             "label": "WHIP",
-            "value": "1.74"
+            "value": "1.70"
           },
           {
             "label": "K/9",
-            "value": "5.6"
+            "value": "5.3"
           },
           {
             "label": "BB/9",
-            "value": "4.9"
+            "value": "4.7"
           },
           {
             "label": "HR/9",
-            "value": "1.12"
+            "value": "1.49"
           },
           {
             "label": "IP",
-            "value": "40.3"
+            "value": "42.3"
           }
         ],
         "metaLine": "R-FR / N/A",
@@ -3326,33 +3326,33 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "27",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/brady-waugh/11525",
         "imageUrl": "https://uabsports.com/images/2026/1/16/Brady_xXqTd.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 56,
+        "gamesPlayed": 57,
+        "gamesStarted": 57,
         "battingAverage": 0.322,
-        "onBasePercentage": 0.424,
-        "sluggingPercentage": 0.495,
-        "ops": 0.919,
-        "atBats": 202,
+        "onBasePercentage": 0.428,
+        "sluggingPercentage": 0.493,
+        "ops": 0.921,
+        "atBats": 205,
         "runs": 42,
-        "hits": 65,
+        "hits": 66,
         "doubles": 12,
         "triples": 1,
         "homeRuns": 7,
         "runsBattedIn": 48,
-        "totalBases": 100,
-        "walks": 36,
+        "totalBases": 101,
+        "walks": 38,
         "hitByPitch": 3,
-        "strikeouts": 32,
+        "strikeouts": 33,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 4,
         "sacrificeHits": 3,
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
-        "putouts": 83,
+        "putouts": 84,
         "assists": 0,
         "errors": 7,
-        "plateAppearances": 254,
+        "plateAppearances": 259,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -3364,29 +3364,29 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "27",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/brady-waugh/11525",
         "imageUrl": "https://uabsports.com/images/2026/1/16/Brady_xXqTd.jpg",
-        "gamesPlayed": 52,
-        "gamesStarted": 52,
-        "putouts": 83,
-        "assists": 137,
+        "gamesPlayed": 53,
+        "gamesStarted": 53,
+        "putouts": 84,
+        "assists": 140,
         "errors": 7,
-        "fieldingPercentage": 0.969,
+        "fieldingPercentage": 0.97,
         "doublePlays": 22,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 227
+        "totalChances": 231
       },
       "evaluation": {
-        "score": 65,
+        "score": 66,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 79.99999999999999,
-          "Power": 46.05263157894737,
+          "On-base": 82.22222222222221,
+          "Power": 45.526315789473685,
           "Contact": 63.75000000000001,
           "Discipline": 100,
           "Speed": 20
@@ -3394,8 +3394,8 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "summary": "Brady Waugh profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
           "AVG .322",
-          "OBP .424",
-          "SLG .495"
+          "OBP .428",
+          "SLG .493"
         ],
         "statCards": [
           {
@@ -3404,11 +3404,11 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           },
           {
             "label": "OBP",
-            "value": ".424"
+            "value": ".428"
           },
           {
             "label": "SLG",
-            "value": ".495"
+            "value": ".493"
           },
           {
             "label": "HR",
@@ -4590,33 +4590,33 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "44",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/landon-beaver/11490",
         "imageUrl": "https://uabsports.com/images/2026/1/16/Landon_Beaver_lwHL3.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 56,
-        "battingAverage": 0.317,
-        "onBasePercentage": 0.454,
-        "sluggingPercentage": 0.5,
-        "ops": 0.954,
-        "atBats": 202,
-        "runs": 49,
-        "hits": 64,
+        "gamesPlayed": 57,
+        "gamesStarted": 57,
+        "battingAverage": 0.313,
+        "onBasePercentage": 0.447,
+        "sluggingPercentage": 0.49,
+        "ops": 0.937,
+        "atBats": 208,
+        "runs": 50,
+        "hits": 65,
         "doubles": 16,
         "triples": 0,
         "homeRuns": 7,
         "runsBattedIn": 33,
-        "totalBases": 101,
+        "totalBases": 102,
         "walks": 44,
         "hitByPitch": 10,
-        "strikeouts": 39,
+        "strikeouts": 40,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 4,
         "sacrificeHits": 1,
         "stolenBases": 12,
         "stolenBasesAttempts": 16,
-        "putouts": 53,
+        "putouts": 55,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 281,
+        "plateAppearances": 287,
         "caughtStealing": 4,
         "pickedOff": 3
       },
@@ -4628,9 +4628,9 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "jersey": "44",
         "profileUrl": "https://uabsports.com/sports/baseball/roster/landon-beaver/11490",
         "imageUrl": "https://uabsports.com/images/2026/1/16/Landon_Beaver_lwHL3.jpg",
-        "gamesPlayed": 23,
-        "gamesStarted": 23,
-        "putouts": 53,
+        "gamesPlayed": 24,
+        "gamesStarted": 24,
+        "putouts": 55,
         "assists": 1,
         "errors": 1,
         "fieldingPercentage": 0.982,
@@ -4640,39 +4640,39 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 55
+        "totalChances": 57
       },
       "evaluation": {
-        "score": 72,
+        "score": 70,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 96.66666666666667,
-          "Power": 47.36842105263158,
-          "Contact": 60.62499999999999,
+          "On-base": 92.77777777777777,
+          "Power": 44.73684210526316,
+          "Contact": 58.12499999999999,
           "Discipline": 100,
           "Speed": 40
         },
         "summary": "Landon Beaver profiles as a OF/1B piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .317",
-          "OBP .454",
-          "SLG .500"
+          "AVG .313",
+          "OBP .447",
+          "SLG .490"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".317"
+            "value": ".313"
           },
           {
             "label": "OBP",
-            "value": ".454"
+            "value": ".447"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".490"
           },
           {
             "label": "HR",
@@ -4808,24 +4808,24 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Kevin Hall Jr. profiles as a OF piece who adds running-game pressure.",
+        "summary": "Kevin Hall Jr. profiles as a OF piece who controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .280",
-          "OBP .387",
-          "SLG .451"
+          "AVG .278",
+          "OBP .386",
+          "SLG .444"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".280"
+            "value": ".278"
           },
           {
             "label": "OBP",
-            "value": ".387"
+            "value": ".386"
           },
           {
             "label": "SLG",
-            "value": ".451"
+            "value": ".444"
           },
           {
             "label": "HR",
@@ -4841,10 +4841,10 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           }
         ],
         "components": {
-          "On-base": 59.444444444444436,
-          "Power": 34.47368421052632,
-          "Contact": 37.500000000000014,
-          "Discipline": 84.44444444444443,
+          "On-base": 58.88888888888888,
+          "Power": 32.631578947368425,
+          "Contact": 36.250000000000014,
+          "Discipline": 88.88888888888889,
           "Speed": 63.33333333333333
         },
         "metaLine": "JR / N/A",
@@ -4872,48 +4872,48 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "position": "OF/RHP",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 12,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Mason Steele looks like a OF/RHP option who keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.86",
-          "WHIP 1.21",
-          "K/9 7.8"
+          "ERA 4.66",
+          "WHIP 1.15",
+          "K/9 8.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.86"
+            "value": "4.66"
           },
           {
             "label": "WHIP",
-            "value": "1.21"
+            "value": "1.15"
           },
           {
             "label": "K/9",
-            "value": "7.8"
+            "value": "8.1"
           },
           {
             "label": "BB/9",
-            "value": "3.2"
+            "value": "3.1"
           },
           {
             "label": "HR/9",
-            "value": "1.28"
+            "value": "1.31"
           },
           {
             "label": "IP",
-            "value": "70.3"
+            "value": "75.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 34.597156398104275,
-          "Command": 28.799999999999997,
+          "Miss bats": 37.48994368463395,
+          "Command": 32.3076923076923,
           "Damage suppression": 0
         },
         "metaLine": "JR / N/A",
@@ -5422,29 +5422,29 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "position": "INF",
         "classYear": "R-SR",
         "handedness": "N/A",
-        "score": 55,
+        "score": 56,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Wesley Helms profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .319",
-          "OBP .395",
-          "SLG .438"
+          "AVG .322",
+          "OBP .399",
+          "SLG .444"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".319"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": ".399"
           },
           {
             "label": "SLG",
-            "value": ".438"
+            "value": ".444"
           },
           {
             "label": "HR",
@@ -5452,7 +5452,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           },
           {
             "label": "RBI",
-            "value": "38"
+            "value": "40"
           },
           {
             "label": "SB",
@@ -5460,9 +5460,9 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           }
         ],
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 31.05263157894737,
-          "Contact": 61.875,
+          "On-base": 66.11111111111111,
+          "Power": 32.631578947368425,
+          "Contact": 63.75000000000001,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },
@@ -5491,48 +5491,48 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "position": "LHP",
         "classYear": "R-SO",
         "handedness": "N/A",
-        "score": 5,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Konner Keplinger gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.79",
-          "WHIP 1.86",
-          "K/9 6.1"
+          "ERA 8.13",
+          "WHIP 1.95",
+          "K/9 5.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.79"
+            "value": "8.13"
           },
           {
             "label": "WHIP",
-            "value": "1.86"
+            "value": "1.95"
           },
           {
             "label": "K/9",
-            "value": "6.1"
+            "value": "5.8"
           },
           {
             "label": "BB/9",
-            "value": "4.7"
+            "value": "5.0"
           },
           {
             "label": "HR/9",
-            "value": "2.78"
+            "value": "2.88"
           },
           {
             "label": "IP",
-            "value": "32.3"
+            "value": "34.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 19.306466729147136,
-          "Command": 5.8823529411764675,
+          "Miss bats": 16.063548102383045,
+          "Command": 3.1578947368421018,
           "Damage suppression": 0
         },
         "metaLine": "R-SO / N/A",
@@ -5560,29 +5560,29 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 77,
+        "score": 82,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Priority",
+          "className": "fit-priority"
         },
         "summary": "John Paul Head profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .315",
-          "OBP .439",
-          "SLG .670"
+          "AVG .322",
+          "OBP .452",
+          "SLG .683"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".315"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".439"
+            "value": ".452"
           },
           {
             "label": "SLG",
-            "value": ".670"
+            "value": ".683"
           },
           {
             "label": "HR",
@@ -5598,10 +5598,10 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           }
         ],
         "components": {
-          "On-base": 88.33333333333331,
-          "Power": 92.10526315789475,
-          "Contact": 59.375,
-          "Discipline": 79.01234567901233,
+          "On-base": 95.55555555555554,
+          "Power": 95.5263157894737,
+          "Contact": 63.75000000000001,
+          "Discipline": 81.48148148148148,
           "Speed": 33.33333333333333
         },
         "metaLine": "SO / N/A",
@@ -5704,30 +5704,30 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         },
         "summary": "Alex Dupuy profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .271",
-          "OBP .387",
-          "SLG .444"
+          "AVG .270",
+          "OBP .384",
+          "SLG .455"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".271"
+            "value": ".270"
           },
           {
             "label": "OBP",
-            "value": ".387"
+            "value": ".384"
           },
           {
             "label": "SLG",
-            "value": ".444"
+            "value": ".455"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "36"
+            "value": "38"
           },
           {
             "label": "SB",
@@ -5735,10 +5735,10 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           }
         ],
         "components": {
-          "On-base": 59.444444444444436,
-          "Power": 32.631578947368425,
-          "Contact": 31.875000000000007,
-          "Discipline": 24.242424242424235,
+          "On-base": 57.77777777777777,
+          "Power": 35.52631578947369,
+          "Contact": 31.25000000000001,
+          "Discipline": 23.412698412698408,
           "Speed": 33.33333333333333
         },
         "metaLine": "JR / N/A",
@@ -5904,29 +5904,29 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 11,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Baylor Roberts profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .231",
-          "OBP .298",
-          "SLG .346"
+          "AVG .227",
+          "OBP .297",
+          "SLG .341"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".231"
+            "value": ".227"
           },
           {
             "label": "OBP",
-            "value": ".298"
+            "value": ".297"
           },
           {
             "label": "SLG",
-            "value": ".346"
+            "value": ".341"
           },
           {
             "label": "HR",
@@ -5934,19 +5934,19 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           },
           {
             "label": "RBI",
-            "value": "29"
+            "value": "30"
           },
           {
             "label": "SB",
-            "value": "10"
+            "value": "11"
           }
         ],
         "components": {
-          "On-base": 9.999999999999979,
-          "Power": 6.842105263157887,
-          "Contact": 6.875000000000006,
-          "Discipline": 7.2562358276643995,
-          "Speed": 33.33333333333333
+          "On-base": 9.444444444444422,
+          "Power": 5.526315789473689,
+          "Contact": 4.3750000000000036,
+          "Discipline": 8.278867102396514,
+          "Speed": 36.666666666666664
         },
         "metaLine": "FR / N/A",
         "detailBadges": [
@@ -6049,8 +6049,8 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "summary": "Andrew Hunt profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .312",
-          "OBP .447",
-          "SLG .478"
+          "OBP .450",
+          "SLG .481"
         ],
         "statCards": [
           {
@@ -6059,11 +6059,11 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           },
           {
             "label": "OBP",
-            "value": ".447"
+            "value": ".450"
           },
           {
             "label": "SLG",
-            "value": ".478"
+            "value": ".481"
           },
           {
             "label": "HR",
@@ -6071,7 +6071,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           },
           {
             "label": "RBI",
-            "value": "43"
+            "value": "44"
           },
           {
             "label": "SB",
@@ -6079,8 +6079,8 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           }
         ],
         "components": {
-          "On-base": 92.77777777777777,
-          "Power": 41.57894736842105,
+          "On-base": 94.44444444444444,
+          "Power": 42.368421052631575,
           "Contact": 57.49999999999999,
           "Discipline": 100,
           "Speed": 36.666666666666664
@@ -6110,29 +6110,29 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "position": "C",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 30,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Austin Pierzynski gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .240",
-          "OBP .343",
-          "SLG .455"
+          "AVG .234",
+          "OBP .336",
+          "SLG .444"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".240"
+            "value": ".234"
           },
           {
             "label": "OBP",
-            "value": ".343"
+            "value": ".336"
           },
           {
             "label": "SLG",
-            "value": ".455"
+            "value": ".444"
           },
           {
             "label": "HR",
@@ -6140,7 +6140,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "18"
           },
           {
             "label": "SB",
@@ -6148,9 +6148,9 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           }
         ],
         "components": {
-          "On-base": 35,
-          "Power": 35.52631578947369,
-          "Contact": 12.499999999999993,
+          "On-base": 31.11111111111111,
+          "Power": 32.631578947368425,
+          "Contact": 8.750000000000007,
           "Discipline": 45.41062801932367,
           "Speed": 10
         },
@@ -6324,40 +6324,40 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         },
         "summary": "Riley Miller gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.80",
-          "WHIP 1.74",
-          "K/9 5.6"
+          "ERA 5.95",
+          "WHIP 1.70",
+          "K/9 5.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.80"
+            "value": "5.95"
           },
           {
             "label": "WHIP",
-            "value": "1.74"
+            "value": "1.70"
           },
           {
             "label": "K/9",
-            "value": "5.6"
+            "value": "5.3"
           },
           {
             "label": "BB/9",
-            "value": "4.9"
+            "value": "4.7"
           },
           {
             "label": "HR/9",
-            "value": "1.12"
+            "value": "1.49"
           },
           {
             "label": "IP",
-            "value": "40.3"
+            "value": "42.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 14.35011269722013,
+          "Miss bats": 11.954187544738721,
           "Command": 2.727272727272725,
           "Damage suppression": 0
         },
@@ -6386,7 +6386,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 65,
+        "score": 66,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
@@ -6394,8 +6394,8 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "summary": "Brady Waugh profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
           "AVG .322",
-          "OBP .424",
-          "SLG .495"
+          "OBP .428",
+          "SLG .493"
         ],
         "statCards": [
           {
@@ -6404,11 +6404,11 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           },
           {
             "label": "OBP",
-            "value": ".424"
+            "value": ".428"
           },
           {
             "label": "SLG",
-            "value": ".495"
+            "value": ".493"
           },
           {
             "label": "HR",
@@ -6424,8 +6424,8 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           }
         ],
         "components": {
-          "On-base": 79.99999999999999,
-          "Power": 46.05263157894737,
+          "On-base": 82.22222222222221,
+          "Power": 45.526315789473685,
           "Contact": 63.75000000000001,
           "Discipline": 100,
           "Speed": 20
@@ -7073,29 +7073,29 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "position": "OF/1B",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 72,
+        "score": 70,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Landon Beaver profiles as a OF/1B piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .317",
-          "OBP .454",
-          "SLG .500"
+          "AVG .313",
+          "OBP .447",
+          "SLG .490"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".317"
+            "value": ".313"
           },
           {
             "label": "OBP",
-            "value": ".454"
+            "value": ".447"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".490"
           },
           {
             "label": "HR",
@@ -7111,9 +7111,9 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           }
         ],
         "components": {
-          "On-base": 96.66666666666667,
-          "Power": 47.36842105263158,
-          "Contact": 60.62499999999999,
+          "On-base": 92.77777777777777,
+          "Power": 44.73684210526316,
+          "Contact": 58.12499999999999,
           "Discipline": 100,
           "Speed": 40
         },

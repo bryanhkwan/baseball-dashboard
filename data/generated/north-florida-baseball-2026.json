@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T12:35:23.799Z",
+  "generatedAt": "2026-05-23T11:36:36.463Z",
   "season": 2026,
   "school": {
     "slug": "north-florida",
@@ -26,98 +26,108 @@
   "coverage": {
     "rosterPlayers": 39,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 20,
-    "playersWithPitchingStats": 16,
-    "playersWithFieldingStats": 34,
-    "mergedPlayersWithAnyStats": 36,
+    "playersWithHittingStats": 24,
+    "playersWithPitchingStats": 17,
+    "playersWithFieldingStats": 35,
+    "mergedPlayersWithAnyStats": 37,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
-      "hitting": [],
-      "pitching": [],
-      "fielding": []
+      "hitting": [
+        "39",
+        "2",
+        "12"
+      ],
+      "pitching": [
+        "27"
+      ],
+      "fielding": [
+        "2",
+        "12",
+        "39"
+      ]
     }
   },
   "teamSummary": {
-    "record": "31-22, 22-8",
-    "battingAverage": ".261",
-    "earnedRunAverage": "4.59",
-    "wins": "31",
+    "record": "31-23, 22-8",
+    "battingAverage": ".263",
+    "earnedRunAverage": "4.58",
+    "wins": "32",
     "losses": "22",
     "hitting": {
-      "atBats": "1711",
-      "runsScored": "322",
-      "hits": "447",
-      "runsBattedIn": "293",
-      "doubles": "101",
+      "atBats": "1751",
+      "runsScored": "333",
+      "hits": "460",
+      "runsBattedIn": "303",
+      "doubles": "105",
       "triples": "4",
-      "homeRuns": "50",
-      "walks": "252",
+      "homeRuns": "51",
+      "walks": "258",
       "intentionalWalks": "7",
-      "strikeouts": "446",
-      "strikeoutsLooking": "114",
+      "strikeouts": "458",
+      "strikeoutsLooking": "118",
       "hitByPitch": "54",
-      "stolenBases": "77",
+      "stolenBases": "78",
       "caughtStealing": "13",
       "sacrificeHits": "6",
       "sacrificeFlies": "24",
       "reachedOnCatchersInteference": "1",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "378",
-      "flyOuts": "429",
+      "groundOuts": "382",
+      "flyOuts": "433",
       "groundedIntoDoublePlay": "29",
       "pickedOff": "6",
       "doublePlaysHitInto": "35",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1348",
-      "assists": "474",
+      "putouts": "1375",
+      "assists": "483",
       "errors": "64",
       "passedBalls": "13",
       "catchersInterference": "1",
       "stolenBasesAgainst": "48",
       "caughtStealingBy": "14",
-      "involvedInDoublePlays": "43",
+      "involvedInDoublePlays": "44",
       "involvedInTriplePlays": "0",
-      "totalChances": "1886",
-      "fieldingPercentage": ".966"
+      "totalChances": "1922",
+      "fieldingPercentage": ".967"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "31",
-      "saves": "14",
+      "wins": "32",
+      "saves": "15",
       "losses": "22",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "2",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "449.1",
-      "hitsAllowed": "418",
-      "runsAllowed": "267",
-      "earnedRunsAllowed": "229",
-      "walksAllowed": "210",
-      "strikeouts": "442",
-      "battersFaced": "2024",
-      "opponentAtBats": "1689",
+      "inningsPitched": "458.1",
+      "hitsAllowed": "426",
+      "runsAllowed": "271",
+      "earnedRunsAllowed": "233",
+      "walksAllowed": "213",
+      "strikeouts": "447",
+      "battersFaced": "2063",
+      "opponentAtBats": "1720",
       "doublesAllowed": "90",
-      "triplesAllowed": "7",
-      "homerunsAllowed": "32",
-      "wildPitches": "32",
+      "triplesAllowed": "8",
+      "homerunsAllowed": "33",
+      "wildPitches": "33",
       "balks": "1",
-      "hitBatters": "72",
+      "hitBatters": "74",
       "strikeoutsLooking": "96",
       "intentionalWalks": "3",
-      "inheritedRunners": "17",
-      "inheritedRunnersThatScored": "16",
-      "sacrificeHitsAllowed": "30",
-      "sacrificeFliesAllowed": "22",
+      "inheritedRunners": "19",
+      "inheritedRunnersThatScored": "17",
+      "sacrificeHitsAllowed": "32",
+      "sacrificeFliesAllowed": "23",
       "catchersInterferenceAllowed": "1",
-      "pitches": "3667",
-      "flyouts": "410",
-      "groundouts": "428",
+      "pitches": "3816",
+      "flyouts": "423",
+      "groundouts": "434",
       "teamUnearnedRuns": "0",
-      "saveRecord": "7",
+      "saveRecord": "8",
       "pickoff": "5"
     }
   },
@@ -450,33 +460,33 @@
         "jersey": "4",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/carter-white/14901",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/4_CarterWhite.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 48,
-        "battingAverage": 0.291,
-        "onBasePercentage": 0.372,
-        "sluggingPercentage": 0.552,
-        "ops": 0.924,
-        "atBats": 172,
+        "gamesPlayed": 51,
+        "gamesStarted": 49,
+        "battingAverage": 0.295,
+        "onBasePercentage": 0.377,
+        "sluggingPercentage": 0.551,
+        "ops": 0.928,
+        "atBats": 176,
         "runs": 34,
-        "hits": 50,
+        "hits": 52,
         "doubles": 11,
         "triples": 2,
         "homeRuns": 10,
-        "runsBattedIn": 50,
-        "totalBases": 95,
-        "walks": 22,
+        "runsBattedIn": 51,
+        "totalBases": 97,
+        "walks": 23,
         "hitByPitch": 2,
         "strikeouts": 41,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 3,
         "sacrificeHits": 1,
-        "stolenBases": 7,
-        "stolenBasesAttempts": 8,
-        "putouts": 90,
+        "stolenBases": 8,
+        "stolenBasesAttempts": 9,
+        "putouts": 93,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 209,
+        "plateAppearances": 215,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -488,51 +498,51 @@
         "jersey": "4",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/carter-white/14901",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/4_CarterWhite.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "putouts": 90,
+        "gamesPlayed": 38,
+        "gamesStarted": 38,
+        "putouts": 93,
         "assists": 3,
         "errors": 2,
-        "fieldingPercentage": 0.979,
+        "fieldingPercentage": 0.98,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 95
+        "totalChances": 98
       },
       "evaluation": {
-        "score": 48,
+        "score": 50,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 51.11111111111109,
-          "Power": 61.05263157894739,
-          "Contact": 44.374999999999986,
-          "Discipline": 37.39837398373984,
-          "Speed": 23.333333333333332
+          "On-base": 53.88888888888887,
+          "Power": 60.78947368421055,
+          "Contact": 46.874999999999986,
+          "Discipline": 40.108401084010836,
+          "Speed": 26.666666666666668
         },
-        "summary": "Carter White profiles as a OF piece who brings real extra-base damage.",
+        "summary": "Carter White profiles as a OF piece who brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .291",
-          "OBP .372",
-          "SLG .552"
+          "AVG .295",
+          "OBP .377",
+          "SLG .551"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".291"
+            "value": ".295"
           },
           {
             "label": "OBP",
-            "value": ".372"
+            "value": ".377"
           },
           {
             "label": "SLG",
-            "value": ".552"
+            "value": ".551"
           },
           {
             "label": "HR",
@@ -540,11 +550,11 @@
           },
           {
             "label": "RBI",
-            "value": "50"
+            "value": "51"
           },
           {
             "label": "SB",
-            "value": "7"
+            "value": "8"
           }
         ],
         "metaLine": "R-SO / L/R",
@@ -595,23 +605,23 @@
         "jersey": "5",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/cal-leonard/14893",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/5_CalLeonard.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "battingAverage": 0,
-        "onBasePercentage": 0.333,
-        "sluggingPercentage": 0,
-        "ops": 0.333,
-        "atBats": 2,
-        "runs": 1,
-        "hits": 0,
+        "gamesPlayed": 4,
+        "gamesStarted": 1,
+        "battingAverage": 0.286,
+        "onBasePercentage": 0.375,
+        "sluggingPercentage": 0.286,
+        "ops": 0.661,
+        "atBats": 7,
+        "runs": 2,
+        "hits": 2,
         "doubles": 0,
         "triples": 0,
         "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 0,
+        "runsBattedIn": 1,
+        "totalBases": 2,
         "walks": 1,
         "hitByPitch": 0,
-        "strikeouts": 1,
+        "strikeouts": 3,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -621,43 +631,43 @@
         "putouts": 0,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 3,
+        "plateAppearances": 8,
         "caughtStealing": 0,
         "pickedOff": 0
       },
       "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
-        "score": 22,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 29.44444444444444,
+          "On-base": 52.77777777777777,
           "Power": 0,
-          "Contact": 0,
-          "Discipline": 88.88888888888889,
+          "Contact": 41.24999999999998,
+          "Discipline": 14.814814814814808,
           "Speed": 0
         },
-        "summary": "Cal Leonard profiles as a UTL piece who controls at-bats.",
+        "summary": "Cal Leonard gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .333",
-          "SLG .000"
+          "AVG .286",
+          "OBP .375",
+          "SLG .286"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".375"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": ".286"
           },
           {
             "label": "HR",
@@ -665,7 +675,7 @@
           },
           {
             "label": "RBI",
-            "value": "0"
+            "value": "1"
           },
           {
             "label": "SB",
@@ -979,7 +989,7 @@
       "schoolLongName": "University of North Florida",
       "name": "Boone Hosey",
       "normalizedName": "boone hosey",
-      "compositeRole": "Hitter",
+      "compositeRole": "Two-Way",
       "role": "Hitter",
       "position": "UTL",
       "positionLong": "Utility",
@@ -1040,7 +1050,40 @@
         "caughtStealing": 1,
         "pickedOff": 2
       },
-      "pitchingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "14905",
+        "name": "Boone Hosey",
+        "normalizedName": "boone hosey",
+        "jersey": "8",
+        "profileUrl": "https://unfospreys.com/sports/baseball/roster/boone-hosey/14905",
+        "imageUrl": "https://unfospreys.com/images/2025/10/8/8_BooneHosey.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 1,
+        "appearances": 1,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 1.35,
+        "whip": 0.9,
+        "wins": 1,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 6.666666666666667,
+        "inningsPitchedDisplay": "6.2",
+        "hitsAllowed": 5,
+        "runsAllowed": 1,
+        "earnedRunsAllowed": 1,
+        "walksAllowed": 1,
+        "strikeouts": 4,
+        "doublesAllowed": 0,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 1,
+        "opponentsAtBats": 23,
+        "wildPitches": 0,
+        "hitBatters": 0,
+        "balks": 0,
+        "opponentsBattingAverage": 0.217,
+        "walksHits": 0
+      },
       "fieldingStats": {
         "rosterBioId": "14905",
         "name": "Boone Hosey",
@@ -1048,10 +1091,10 @@
         "jersey": "8",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/boone-hosey/14905",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/8_BooneHosey.jpg",
-        "gamesPlayed": 19,
-        "gamesStarted": 18,
+        "gamesPlayed": 20,
+        "gamesStarted": 19,
         "putouts": 112,
-        "assists": 11,
+        "assists": 13,
         "errors": 2,
         "fieldingPercentage": 0.984,
         "doublePlays": 1,
@@ -1060,7 +1103,7 @@
         "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 0,
-        "totalChances": 125
+        "totalChances": 127
       },
       "evaluation": {
         "score": 63,
@@ -1112,7 +1155,7 @@
           "UTL",
           "R-JR",
           "R/R",
-          "Hitter"
+          "Two-Way"
         ],
         "sourceSummary": "North Florida Athletics roster + North Florida cumulative stats"
       }
@@ -2170,33 +2213,33 @@
         "jersey": "17",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/drew-buchanan/14908",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/17_DrewBuchanan.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 34,
-        "battingAverage": 0.173,
-        "onBasePercentage": 0.281,
-        "sluggingPercentage": 0.282,
-        "ops": 0.563,
-        "atBats": 110,
-        "runs": 11,
-        "hits": 19,
-        "doubles": 3,
+        "gamesPlayed": 46,
+        "gamesStarted": 35,
+        "battingAverage": 0.175,
+        "onBasePercentage": 0.286,
+        "sluggingPercentage": 0.289,
+        "ops": 0.575,
+        "atBats": 114,
+        "runs": 12,
+        "hits": 20,
+        "doubles": 4,
         "triples": 0,
         "homeRuns": 3,
-        "runsBattedIn": 18,
-        "totalBases": 31,
-        "walks": 8,
+        "runsBattedIn": 20,
+        "totalBases": 33,
+        "walks": 9,
         "hitByPitch": 9,
-        "strikeouts": 43,
+        "strikeouts": 44,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
-        "putouts": 32,
+        "putouts": 33,
         "assists": 0,
         "errors": 8,
-        "plateAppearances": 135,
+        "plateAppearances": 140,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -2208,19 +2251,19 @@
         "jersey": "17",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/drew-buchanan/14908",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/17_DrewBuchanan.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 33,
-        "putouts": 32,
-        "assists": 66,
+        "gamesPlayed": 36,
+        "gamesStarted": 34,
+        "putouts": 33,
+        "assists": 68,
         "errors": 8,
-        "fieldingPercentage": 0.925,
+        "fieldingPercentage": 0.927,
         "doublePlays": 9,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 106
+        "totalChances": 109
       },
       "evaluation": {
         "score": 2,
@@ -2229,30 +2272,30 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 0.5555555555555561,
+          "On-base": 3.3333333333333055,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 0,
+          "Discipline": 0.5050505050505052,
           "Speed": 13.333333333333334
         },
         "summary": "Drew Buchanan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .173",
-          "OBP .281",
-          "SLG .282"
+          "AVG .175",
+          "OBP .286",
+          "SLG .289"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".173"
+            "value": ".175"
           },
           {
             "label": "OBP",
-            "value": ".281"
+            "value": ".286"
           },
           {
             "label": "SLG",
-            "value": ".282"
+            "value": ".289"
           },
           {
             "label": "HR",
@@ -2260,7 +2303,7 @@
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "20"
           },
           {
             "label": "SB",
@@ -2461,31 +2504,31 @@
         "jersey": "19",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/devin-diggs/14910",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/19_DevinDiggs.jpg",
-        "gamesPlayed": 16,
+        "gamesPlayed": 17,
         "gamesStarted": 1,
-        "appearances": 16,
+        "appearances": 17,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.3,
-        "whip": 1.13,
+        "earnedRunAverage": 4.11,
+        "whip": 1.11,
         "wins": 2,
         "losses": 1,
-        "saves": 3,
+        "saves": 4,
         "shutouts": 0,
-        "inningsPitched": 29.333333333333332,
-        "inningsPitchedDisplay": "29.1",
-        "hitsAllowed": 23,
+        "inningsPitched": 30.666666666666668,
+        "inningsPitchedDisplay": "30.2",
+        "hitsAllowed": 24,
         "runsAllowed": 18,
         "earnedRunsAllowed": 14,
         "walksAllowed": 10,
-        "strikeouts": 32,
+        "strikeouts": 33,
         "doublesAllowed": 4,
         "triplesAllowed": 1,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 107,
-        "wildPitches": 3,
-        "hitBatters": 7,
+        "opponentsAtBats": 111,
+        "wildPitches": 4,
+        "hitBatters": 8,
         "balks": 0,
-        "opponentsBattingAverage": 0.215,
+        "opponentsBattingAverage": 0.216,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2518,40 +2561,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 52.892561983471076,
-          "Command": 43.99999999999999,
+          "Miss bats": 51.6798418972332,
+          "Command": 46.00000000000001,
           "Damage suppression": 0
         },
-        "summary": "Devin Diggs looks like a RHP option who misses bats and keeps traffic under control.",
+        "summary": "Devin Diggs looks like a RHP option who misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.30",
-          "WHIP 1.13",
-          "K/9 9.8"
+          "ERA 4.11",
+          "WHIP 1.11",
+          "K/9 9.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.30"
+            "value": "4.11"
           },
           {
             "label": "WHIP",
-            "value": "1.13"
+            "value": "1.11"
           },
           {
             "label": "K/9",
-            "value": "9.8"
+            "value": "9.7"
           },
           {
             "label": "BB/9",
-            "value": "3.1"
+            "value": "2.9"
           },
           {
             "label": "HR/9",
-            "value": "0.61"
+            "value": "0.59"
           },
           {
             "label": "IP",
-            "value": "29.3"
+            "value": "30.7"
           }
         ],
         "metaLine": "FR / R/R",
@@ -3166,7 +3209,43 @@
         "North Florida Athletics roster",
         "North Florida cumulative stats"
       ],
-      "hittingStats": null,
+      "hittingStats": {
+        "rosterBioId": "14912",
+        "name": "Ed Wagner",
+        "normalizedName": "ed wagner",
+        "jersey": "25",
+        "profileUrl": "https://unfospreys.com/sports/baseball/roster/ed-wagner/14912",
+        "imageUrl": "https://unfospreys.com/images/2025/10/8/25_EdWagner_TwVdi.jpg",
+        "gamesPlayed": 2,
+        "gamesStarted": 1,
+        "battingAverage": 0,
+        "onBasePercentage": 0,
+        "sluggingPercentage": 0,
+        "ops": 0,
+        "atBats": 0,
+        "runs": 1,
+        "hits": 0,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 0,
+        "totalBases": 0,
+        "walks": 0,
+        "hitByPitch": 0,
+        "strikeouts": 0,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 0,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 0,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
       "pitchingStats": {
         "rosterBioId": "14912",
         "name": "Ed Wagner",
@@ -4207,7 +4286,7 @@
       "schoolLongName": "University of North Florida",
       "name": "Brandon Adams",
       "normalizedName": "brandon adams",
-      "compositeRole": "Pitcher",
+      "compositeRole": "Two-Way",
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
@@ -4231,7 +4310,43 @@
         "North Florida Athletics roster",
         "North Florida cumulative stats"
       ],
-      "hittingStats": null,
+      "hittingStats": {
+        "rosterBioId": "14878",
+        "name": "Brandon Adams",
+        "normalizedName": "brandon adams",
+        "jersey": "34",
+        "profileUrl": "https://unfospreys.com/sports/baseball/roster/brandon-adams/14878",
+        "imageUrl": "https://unfospreys.com/images/2025/10/8/34_BrandonAdams.jpg",
+        "gamesPlayed": 17,
+        "gamesStarted": 1,
+        "battingAverage": 0.333,
+        "onBasePercentage": 0.6,
+        "sluggingPercentage": 0.667,
+        "ops": 1.267,
+        "atBats": 3,
+        "runs": 2,
+        "hits": 1,
+        "doubles": 1,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 1,
+        "totalBases": 2,
+        "walks": 2,
+        "hitByPitch": 0,
+        "strikeouts": 2,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 4,
+        "assists": 0,
+        "errors": 1,
+        "plateAppearances": 5,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
       "pitchingStats": {
         "rosterBioId": "14878",
         "name": "Brandon Adams",
@@ -4273,19 +4388,19 @@
         "jersey": "34",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/brandon-adams/14878",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/34_BrandonAdams.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 0,
-        "putouts": 3,
+        "gamesPlayed": 10,
+        "gamesStarted": 1,
+        "putouts": 5,
         "assists": 2,
         "errors": 1,
-        "fieldingPercentage": 0.833,
+        "fieldingPercentage": 0.875,
         "doublePlays": 0,
         "stolenBasesAgainst": 6,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 6
+        "totalChances": 8
       },
       "evaluation": {
         "score": 26,
@@ -4337,7 +4452,7 @@
           "RHP",
           "SR",
           "R/R",
-          "Pitcher"
+          "Two-Way"
         ],
         "sourceSummary": "North Florida Athletics roster + North Florida cumulative stats"
       }
@@ -4724,7 +4839,7 @@
       "schoolLongName": "University of North Florida",
       "name": "Tommy Groom",
       "normalizedName": "tommy groom",
-      "compositeRole": "Pitcher",
+      "compositeRole": "Two-Way",
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
@@ -4748,7 +4863,43 @@
         "North Florida Athletics roster",
         "North Florida cumulative stats"
       ],
-      "hittingStats": null,
+      "hittingStats": {
+        "rosterBioId": "14890",
+        "name": "Tommy Groom",
+        "normalizedName": "tommy groom",
+        "jersey": "40",
+        "profileUrl": "https://unfospreys.com/sports/baseball/roster/tommy-groom/14890",
+        "imageUrl": "https://unfospreys.com/images/2025/10/8/40_TommyGroom.jpg",
+        "gamesPlayed": 4,
+        "gamesStarted": 4,
+        "battingAverage": 0,
+        "onBasePercentage": 0,
+        "sluggingPercentage": 0,
+        "ops": 0,
+        "atBats": 5,
+        "runs": 1,
+        "hits": 0,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 0,
+        "totalBases": 0,
+        "walks": 0,
+        "hitByPitch": 0,
+        "strikeouts": 2,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 9,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 5,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
       "pitchingStats": {
         "rosterBioId": "14890",
         "name": "Tommy Groom",
@@ -4790,19 +4941,19 @@
         "jersey": "40",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/tommy-groom/14890",
         "imageUrl": "https://unfospreys.com/images/2025/10/8/40_TommyGroom.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 1,
-        "putouts": 0,
+        "gamesPlayed": 2,
+        "gamesStarted": 2,
+        "putouts": 9,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
-        "doublePlays": 0,
+        "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 1
+        "totalChances": 10
       },
       "evaluation": {
         "score": 0,
@@ -4854,7 +5005,7 @@
           "RHP",
           "GR",
           "R/R",
-          "Pitcher"
+          "Two-Way"
         ],
         "sourceSummary": "North Florida Athletics roster + North Florida cumulative stats"
       }
@@ -5316,11 +5467,68 @@
       "espnThrows": "",
       "rosterBioId": "14899",
       "sources": [
-        "North Florida Athletics roster"
+        "North Florida Athletics roster",
+        "North Florida cumulative stats"
       ],
-      "hittingStats": null,
+      "hittingStats": {
+        "rosterBioId": "14899",
+        "name": "Jacob Thomas",
+        "normalizedName": "jacob thomas",
+        "jersey": "44",
+        "profileUrl": "https://unfospreys.com/sports/baseball/roster/jacob-thomas/14899",
+        "imageUrl": "https://unfospreys.com/images/2025/10/8/44_JacobThomas.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 1,
+        "battingAverage": 0.6,
+        "onBasePercentage": 0.6,
+        "sluggingPercentage": 1.2,
+        "ops": 1.8,
+        "atBats": 5,
+        "runs": 1,
+        "hits": 3,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 3,
+        "totalBases": 6,
+        "walks": 0,
+        "hitByPitch": 0,
+        "strikeouts": 1,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 3,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 5,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
       "pitchingStats": null,
-      "fieldingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "14899",
+        "name": "Jacob Thomas",
+        "normalizedName": "jacob thomas",
+        "jersey": "44",
+        "profileUrl": "https://unfospreys.com/sports/baseball/roster/jacob-thomas/14899",
+        "imageUrl": "https://unfospreys.com/images/2025/10/8/44_JacobThomas.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 1,
+        "putouts": 3,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 3
+      },
       "evaluation": {
         "score": 0,
         "fit": {
@@ -5373,7 +5581,7 @@
           "L/L",
           "Pitcher"
         ],
-        "sourceSummary": "North Florida Athletics roster"
+        "sourceSummary": "North Florida Athletics roster + North Florida cumulative stats"
       }
     },
     {
@@ -5674,29 +5882,29 @@
         "position": "OF",
         "classYear": "R-SO",
         "handedness": "L/R",
-        "score": 48,
+        "score": 50,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Carter White profiles as a OF piece who brings real extra-base damage.",
+        "summary": "Carter White profiles as a OF piece who brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .291",
-          "OBP .372",
-          "SLG .552"
+          "AVG .295",
+          "OBP .377",
+          "SLG .551"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".291"
+            "value": ".295"
           },
           {
             "label": "OBP",
-            "value": ".372"
+            "value": ".377"
           },
           {
             "label": "SLG",
-            "value": ".552"
+            "value": ".551"
           },
           {
             "label": "HR",
@@ -5704,19 +5912,19 @@
           },
           {
             "label": "RBI",
-            "value": "50"
+            "value": "51"
           },
           {
             "label": "SB",
-            "value": "7"
+            "value": "8"
           }
         ],
         "components": {
-          "On-base": 51.11111111111109,
-          "Power": 61.05263157894739,
-          "Contact": 44.374999999999986,
-          "Discipline": 37.39837398373984,
-          "Speed": 23.333333333333332
+          "On-base": 53.88888888888887,
+          "Power": 60.78947368421055,
+          "Contact": 46.874999999999986,
+          "Discipline": 40.108401084010836,
+          "Speed": 26.666666666666668
         },
         "metaLine": "R-SO / L/R",
         "detailBadges": [
@@ -5743,29 +5951,29 @@
         "position": "UTL",
         "classYear": "R-JR",
         "handedness": "L/R",
-        "score": 22,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cal Leonard profiles as a UTL piece who controls at-bats.",
+        "summary": "Cal Leonard gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .333",
-          "SLG .000"
+          "AVG .286",
+          "OBP .375",
+          "SLG .286"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".375"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": ".286"
           },
           {
             "label": "HR",
@@ -5773,7 +5981,7 @@
           },
           {
             "label": "RBI",
-            "value": "0"
+            "value": "1"
           },
           {
             "label": "SB",
@@ -5781,10 +5989,10 @@
           }
         ],
         "components": {
-          "On-base": 29.44444444444444,
+          "On-base": 52.77777777777777,
           "Power": 0,
-          "Contact": 0,
-          "Discipline": 88.88888888888889,
+          "Contact": 41.24999999999998,
+          "Discipline": 14.814814814814808,
           "Speed": 0
         },
         "metaLine": "R-JR / L/R",
@@ -5999,7 +6207,7 @@
           "UTL",
           "R-JR",
           "R/R",
-          "Hitter"
+          "Two-Way"
         ],
         "leaderboards": [
           "North Florida Athletics roster",
@@ -6007,7 +6215,7 @@
         ],
         "sourceSummary": "North Florida Athletics roster + North Florida cumulative stats",
         "schoolSlug": "north-florida",
-        "compositeRole": "Hitter",
+        "compositeRole": "Two-Way",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/boone-hosey/14905",
         "espnAthleteId": ""
       },
@@ -6509,22 +6717,22 @@
         },
         "summary": "Drew Buchanan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .173",
-          "OBP .281",
-          "SLG .282"
+          "AVG .175",
+          "OBP .286",
+          "SLG .289"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".173"
+            "value": ".175"
           },
           {
             "label": "OBP",
-            "value": ".281"
+            "value": ".286"
           },
           {
             "label": "SLG",
-            "value": ".282"
+            "value": ".289"
           },
           {
             "label": "HR",
@@ -6532,7 +6740,7 @@
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "20"
           },
           {
             "label": "SB",
@@ -6540,10 +6748,10 @@
           }
         ],
         "components": {
-          "On-base": 0.5555555555555561,
+          "On-base": 3.3333333333333055,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 0,
+          "Discipline": 0.5050505050505052,
           "Speed": 13.333333333333334
         },
         "metaLine": "FR / R/R",
@@ -6645,43 +6853,43 @@
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Devin Diggs looks like a RHP option who misses bats and keeps traffic under control.",
+        "summary": "Devin Diggs looks like a RHP option who misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.30",
-          "WHIP 1.13",
-          "K/9 9.8"
+          "ERA 4.11",
+          "WHIP 1.11",
+          "K/9 9.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.30"
+            "value": "4.11"
           },
           {
             "label": "WHIP",
-            "value": "1.13"
+            "value": "1.11"
           },
           {
             "label": "K/9",
-            "value": "9.8"
+            "value": "9.7"
           },
           {
             "label": "BB/9",
-            "value": "3.1"
+            "value": "2.9"
           },
           {
             "label": "HR/9",
-            "value": "0.61"
+            "value": "0.59"
           },
           {
             "label": "IP",
-            "value": "29.3"
+            "value": "30.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 52.892561983471076,
-          "Command": 43.99999999999999,
+          "Miss bats": 51.6798418972332,
+          "Command": 46.00000000000001,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -7585,7 +7793,7 @@
           "RHP",
           "SR",
           "R/R",
-          "Pitcher"
+          "Two-Way"
         ],
         "leaderboards": [
           "North Florida Athletics roster",
@@ -7593,7 +7801,7 @@
         ],
         "sourceSummary": "North Florida Athletics roster + North Florida cumulative stats",
         "schoolSlug": "north-florida",
-        "compositeRole": "Pitcher",
+        "compositeRole": "Two-Way",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/brandon-adams/14878",
         "espnAthleteId": ""
       },
@@ -7860,7 +8068,7 @@
           "RHP",
           "GR",
           "R/R",
-          "Pitcher"
+          "Two-Way"
         ],
         "leaderboards": [
           "North Florida Athletics roster",
@@ -7868,7 +8076,7 @@
         ],
         "sourceSummary": "North Florida Athletics roster + North Florida cumulative stats",
         "schoolSlug": "north-florida",
-        "compositeRole": "Pitcher",
+        "compositeRole": "Two-Way",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/tommy-groom/14890",
         "espnAthleteId": ""
       },
@@ -8139,9 +8347,10 @@
           "Pitcher"
         ],
         "leaderboards": [
-          "North Florida Athletics roster"
+          "North Florida Athletics roster",
+          "North Florida cumulative stats"
         ],
-        "sourceSummary": "North Florida Athletics roster",
+        "sourceSummary": "North Florida Athletics roster + North Florida cumulative stats",
         "schoolSlug": "north-florida",
         "compositeRole": "Pitcher",
         "profileUrl": "https://unfospreys.com/sports/baseball/roster/jacob-thomas/14899",
