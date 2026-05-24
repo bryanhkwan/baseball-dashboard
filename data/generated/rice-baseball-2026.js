@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.rice2026 = {
-  "generatedAt": "2026-05-23T11:36:43.202Z",
+  "generatedAt": "2026-05-24T11:42:51.188Z",
   "season": 2026,
   "school": {
     "slug": "rice",
@@ -27,10 +27,10 @@ window.__BASEBALL_DATASETS__.rice2026 = {
   "coverage": {
     "rosterPlayers": 41,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 19,
+    "playersWithHittingStats": 18,
     "playersWithPitchingStats": 16,
-    "playersWithFieldingStats": 33,
-    "mergedPlayersWithAnyStats": 35,
+    "playersWithFieldingStats": 32,
+    "mergedPlayersWithAnyStats": 34,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
       "hitting": [],
@@ -855,7 +855,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "schoolLongName": "Rice University",
       "name": "LJ Layhew",
       "normalizedName": "lj layhew",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "C",
       "positionLong": "",
@@ -876,68 +876,11 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "espnThrows": "",
       "rosterBioId": "10590",
       "sources": [
-        "Rice Athletics roster",
-        "Rice cumulative stats"
+        "Rice Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "10590",
-        "name": "LJ Layhew",
-        "normalizedName": "lj layhew",
-        "jersey": "6",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/lj-layhew/10590",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/6_LAYHEW_LJ.png",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "battingAverage": 0,
-        "onBasePercentage": 0,
-        "sluggingPercentage": 0,
-        "ops": 0,
-        "atBats": 1,
-        "runs": 0,
-        "hits": 0,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 0,
-        "walks": 0,
-        "hitByPitch": 0,
-        "strikeouts": 0,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 2,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 1,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "10590",
-        "name": "LJ Layhew",
-        "normalizedName": "lj layhew",
-        "jersey": "6",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/lj-layhew/10590",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/6_LAYHEW_LJ.png",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 2,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
+      "fieldingStats": null,
       "evaluation": {
         "score": 0,
         "fit": {
@@ -953,22 +896,22 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         },
         "summary": "LJ Layhew gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -988,9 +931,9 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           "C",
           "FR",
           "S-R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Rice Athletics roster + Rice cumulative stats"
+        "sourceSummary": "Rice Athletics roster"
       }
     },
     {
@@ -2420,11 +2363,11 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "imageUrl": "https://riceowls.com/images/2025/9/1/19_ANDERSON_ARIC.png",
         "gamesPlayed": 29,
         "gamesStarted": 16,
-        "battingAverage": 0.17,
-        "onBasePercentage": 0.297,
-        "sluggingPercentage": 0.264,
-        "ops": 0.561,
-        "atBats": 53,
+        "battingAverage": 0.167,
+        "onBasePercentage": 0.292,
+        "sluggingPercentage": 0.259,
+        "ops": 0.551,
+        "atBats": 54,
         "runs": 7,
         "hits": 9,
         "doubles": 3,
@@ -2441,10 +2384,10 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "sacrificeHits": 2,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 95,
+        "putouts": 97,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 66,
+        "plateAppearances": 67,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2458,7 +2401,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "imageUrl": "https://riceowls.com/images/2025/9/1/19_ANDERSON_ARIC.png",
         "gamesPlayed": 27,
         "gamesStarted": 16,
-        "putouts": 95,
+        "putouts": 97,
         "assists": 21,
         "errors": 3,
         "fieldingPercentage": 0.975,
@@ -2468,16 +2411,16 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 0,
-        "totalChances": 119
+        "totalChances": 121
       },
       "evaluation": {
-        "score": 13,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 9.444444444444422,
+          "On-base": 6.666666666666641,
           "Power": 0,
           "Contact": 0,
           "Discipline": 70.37037037037037,
@@ -2485,22 +2428,22 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         },
         "summary": "Aric Anderson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .170",
-          "OBP .297",
-          "SLG .264"
+          "AVG .167",
+          "OBP .292",
+          "SLG .259"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".170"
+            "value": ".167"
           },
           {
             "label": "OBP",
-            "value": ".297"
+            "value": ".292"
           },
           {
             "label": "SLG",
-            "value": ".264"
+            "value": ".259"
           },
           {
             "label": "HR",
@@ -6008,22 +5951,22 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         },
         "summary": "LJ Layhew gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -6050,15 +5993,14 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           "C",
           "FR",
           "S-R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Rice Athletics roster",
-          "Rice cumulative stats"
+          "Rice Athletics roster"
         ],
-        "sourceSummary": "Rice Athletics roster + Rice cumulative stats",
+        "sourceSummary": "Rice Athletics roster",
         "schoolSlug": "rice",
-        "compositeRole": "Hitter",
+        "compositeRole": "Rostered",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/lj-layhew/10590",
         "espnAthleteId": ""
       },
@@ -6759,29 +6701,29 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "position": "C",
         "classYear": "SR",
         "handedness": "L-R",
-        "score": 13,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Aric Anderson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .170",
-          "OBP .297",
-          "SLG .264"
+          "AVG .167",
+          "OBP .292",
+          "SLG .259"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".170"
+            "value": ".167"
           },
           {
             "label": "OBP",
-            "value": ".297"
+            "value": ".292"
           },
           {
             "label": "SLG",
-            "value": ".264"
+            "value": ".259"
           },
           {
             "label": "HR",
@@ -6797,7 +6739,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           }
         ],
         "components": {
-          "On-base": 9.444444444444422,
+          "On-base": 6.666666666666641,
           "Power": 0,
           "Contact": 0,
           "Discipline": 70.37037037037037,

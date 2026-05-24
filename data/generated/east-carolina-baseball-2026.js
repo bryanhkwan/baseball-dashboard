@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.east-carolina2026 = {
-  "generatedAt": "2026-05-23T11:36:10.101Z",
+  "generatedAt": "2026-05-24T11:42:24.090Z",
   "season": 2026,
   "school": {
     "slug": "east-carolina",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
     }
   },
   "teamSummary": {
-    "record": "34-21-1, 17-10",
+    "record": "35-22-1, 17-10",
     "battingAverage": ".298",
-    "earnedRunAverage": "4.39",
-    "wins": "34",
-    "losses": "22",
+    "earnedRunAverage": "4.38",
+    "wins": "35",
+    "losses": "23",
     "hitting": {
-      "atBats": "1843",
-      "runsScored": "408",
-      "hits": "549",
-      "runsBattedIn": "372",
-      "doubles": "103",
-      "triples": "10",
-      "homeRuns": "55",
-      "walks": "238",
+      "atBats": "1908",
+      "runsScored": "423",
+      "hits": "568",
+      "runsBattedIn": "386",
+      "doubles": "106",
+      "triples": "11",
+      "homeRuns": "56",
+      "walks": "251",
       "intentionalWalks": "6",
-      "strikeouts": "302",
-      "strikeoutsLooking": "45",
-      "hitByPitch": "79",
-      "stolenBases": "41",
-      "caughtStealing": "15",
-      "sacrificeHits": "33",
+      "strikeouts": "324",
+      "strikeoutsLooking": "52",
+      "hitByPitch": "81",
+      "stolenBases": "42",
+      "caughtStealing": "16",
+      "sacrificeHits": "36",
       "sacrificeFlies": "23",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "432",
-      "flyOuts": "511",
+      "groundOuts": "446",
+      "flyOuts": "522",
       "groundedIntoDoublePlay": "34",
       "pickedOff": "1",
-      "doublePlaysHitInto": "36",
+      "doublePlaysHitInto": "37",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1401",
-      "assists": "458",
+      "putouts": "1449",
+      "assists": "472",
       "errors": "50",
       "passedBalls": "7",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "42",
-      "caughtStealingBy": "24",
-      "involvedInDoublePlays": "33",
+      "stolenBasesAgainst": "44",
+      "caughtStealingBy": "26",
+      "involvedInDoublePlays": "34",
       "involvedInTriplePlays": "0",
-      "totalChances": "1909",
-      "fieldingPercentage": ".974"
+      "totalChances": "1971",
+      "fieldingPercentage": ".975"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "34",
+      "wins": "35",
       "saves": "53",
-      "losses": "21",
+      "losses": "22",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "3",
       "creditForCombinedShutout": "4",
-      "inningsPitched": "467.0",
-      "hitsAllowed": "437",
-      "runsAllowed": "271",
-      "earnedRunsAllowed": "228",
-      "walksAllowed": "203",
-      "strikeouts": "518",
-      "battersFaced": "2094",
-      "opponentAtBats": "1768",
+      "inningsPitched": "483.0",
+      "hitsAllowed": "444",
+      "runsAllowed": "278",
+      "earnedRunsAllowed": "235",
+      "walksAllowed": "217",
+      "strikeouts": "536",
+      "battersFaced": "2167",
+      "opponentAtBats": "1818",
       "doublesAllowed": "58",
       "triplesAllowed": "4",
-      "homerunsAllowed": "54",
-      "wildPitches": "41",
+      "homerunsAllowed": "55",
+      "wildPitches": "44",
       "balks": "3",
-      "hitBatters": "78",
-      "strikeoutsLooking": "75",
+      "hitBatters": "85",
+      "strikeoutsLooking": "83",
       "intentionalWalks": "4",
       "inheritedRunners": "132",
       "inheritedRunnersThatScored": "54",
-      "sacrificeHitsAllowed": "26",
-      "sacrificeFliesAllowed": "18",
+      "sacrificeHitsAllowed": "27",
+      "sacrificeFliesAllowed": "19",
       "catchersInterferenceAllowed": "0",
-      "pitches": "7984",
-      "flyouts": "413",
-      "groundouts": "388",
+      "pitches": "8263",
+      "flyouts": "429",
+      "groundouts": "399",
       "teamUnearnedRuns": "0",
       "saveRecord": "14",
       "pickoff": "0"
@@ -161,13 +161,13 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "0",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/jeff-sabater/14127",
         "imageUrl": "https://ecupirates.com/images/2025/12/2/Sabater_Jeff_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 36,
+        "gamesPlayed": 37,
         "gamesStarted": 23,
-        "battingAverage": 0.341,
-        "onBasePercentage": 0.443,
-        "sluggingPercentage": 0.378,
-        "ops": 0.821,
-        "atBats": 82,
+        "battingAverage": 0.337,
+        "onBasePercentage": 0.439,
+        "sluggingPercentage": 0.373,
+        "ops": 0.812,
+        "atBats": 83,
         "runs": 23,
         "hits": 28,
         "doubles": 3,
@@ -177,7 +177,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "totalBases": 31,
         "walks": 10,
         "hitByPitch": 5,
-        "strikeouts": 19,
+        "strikeouts": 20,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 0,
@@ -187,7 +187,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "putouts": 33,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 110,
+        "plateAppearances": 111,
         "caughtStealing": 4,
         "pickedOff": 0
       },
@@ -214,36 +214,36 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "totalChances": 33
       },
       "evaluation": {
-        "score": 53,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 90.55555555555554,
-          "Power": 15.263157894736842,
-          "Contact": 75.62500000000001,
-          "Discipline": 36.25730994152046,
+          "On-base": 88.33333333333331,
+          "Power": 13.94736842105263,
+          "Contact": 73.125,
+          "Discipline": 33.33333333333333,
           "Speed": 10
         },
         "summary": "Jeff Sabater profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .341",
-          "OBP .443",
-          "SLG .378"
+          "AVG .337",
+          "OBP .439",
+          "SLG .373"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".341"
+            "value": ".337"
           },
           {
             "label": "OBP",
-            "value": ".443"
+            "value": ".439"
           },
           {
             "label": "SLG",
-            "value": ".378"
+            "value": ".373"
           },
           {
             "label": "HR",
@@ -539,33 +539,33 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "3",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/davin-whitaker/13920",
         "imageUrl": "https://ecupirates.com/images/2025/12/2/Whitaker_Davin_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 55,
-        "gamesStarted": 46,
-        "battingAverage": 0.345,
-        "onBasePercentage": 0.436,
-        "sluggingPercentage": 0.585,
-        "ops": 1.021,
-        "atBats": 171,
-        "runs": 47,
+        "gamesPlayed": 57,
+        "gamesStarted": 48,
+        "battingAverage": 0.335,
+        "onBasePercentage": 0.437,
+        "sluggingPercentage": 0.568,
+        "ops": 1.005,
+        "atBats": 176,
+        "runs": 49,
         "hits": 59,
         "doubles": 8,
         "triples": 3,
         "homeRuns": 9,
         "runsBattedIn": 43,
         "totalBases": 100,
-        "walks": 24,
-        "hitByPitch": 6,
-        "strikeouts": 37,
+        "walks": 26,
+        "hitByPitch": 8,
+        "strikeouts": 39,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 3,
         "sacrificeHits": 4,
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
-        "putouts": 73,
+        "putouts": 78,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 214,
+        "plateAppearances": 223,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -577,9 +577,9 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "3",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/davin-whitaker/13920",
         "imageUrl": "https://ecupirates.com/images/2025/12/2/Whitaker_Davin_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 37,
-        "putouts": 73,
+        "gamesPlayed": 43,
+        "gamesStarted": 39,
+        "putouts": 78,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -589,39 +589,39 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 74
+        "totalChances": 79
       },
       "evaluation": {
-        "score": 69,
+        "score": 67,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 86.66666666666666,
-          "Power": 69.73684210526315,
-          "Contact": 78.12499999999997,
-          "Discipline": 49.849849849849846,
+          "On-base": 87.22222222222221,
+          "Power": 65.26315789473684,
+          "Contact": 71.87500000000001,
+          "Discipline": 51.85185185185184,
           "Speed": 20
         },
         "summary": "Davin Whitaker profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .345",
-          "OBP .436",
-          "SLG .585"
+          "AVG .335",
+          "OBP .437",
+          "SLG .568"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".345"
+            "value": ".335"
           },
           {
             "label": "OBP",
-            "value": ".436"
+            "value": ".437"
           },
           {
             "label": "SLG",
-            "value": ".585"
+            "value": ".568"
           },
           {
             "label": "HR",
@@ -684,34 +684,34 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "4",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/nick-parham/13915",
         "imageUrl": "https://ecupirates.com/images/2025/12/2/Parham_Nick_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 23,
-        "battingAverage": 0.191,
-        "onBasePercentage": 0.276,
+        "gamesPlayed": 40,
+        "gamesStarted": 25,
+        "battingAverage": 0.203,
+        "onBasePercentage": 0.289,
         "sluggingPercentage": 0.338,
-        "ops": 0.614,
-        "atBats": 68,
+        "ops": 0.627,
+        "atBats": 74,
         "runs": 14,
-        "hits": 13,
+        "hits": 15,
         "doubles": 4,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 8,
-        "totalBases": 23,
-        "walks": 5,
+        "totalBases": 25,
+        "walks": 6,
         "hitByPitch": 3,
-        "strikeouts": 22,
+        "strikeouts": 26,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
-        "sacrificeHits": 6,
+        "sacrificeHits": 7,
         "stolenBases": 3,
-        "stolenBasesAttempts": 4,
+        "stolenBasesAttempts": 5,
         "putouts": 32,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 87,
-        "caughtStealing": 1,
+        "plateAppearances": 97,
+        "caughtStealing": 2,
         "pickedOff": 0
       },
       "pitchingStats": null,
@@ -737,32 +737,32 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "totalChances": 78
       },
       "evaluation": {
-        "score": 3,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 0,
+          "On-base": 4.999999999999974,
           "Power": 4.736842105263163,
           "Contact": 0,
-          "Discipline": 3.0303030303030276,
+          "Discipline": 3.4188034188034186,
           "Speed": 10
         },
         "summary": "Nick Parham gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .191",
-          "OBP .276",
+          "AVG .203",
+          "OBP .289",
           "SLG .338"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".191"
+            "value": ".203"
           },
           {
             "label": "OBP",
-            "value": ".276"
+            "value": ".289"
           },
           {
             "label": "SLG",
@@ -1501,33 +1501,33 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "10",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/colby-wallace/13919",
         "imageUrl": "https://ecupirates.com/images/2025/12/2/Wallace_Colby_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 56,
-        "battingAverage": 0.321,
-        "onBasePercentage": 0.369,
-        "sluggingPercentage": 0.406,
-        "ops": 0.775,
-        "atBats": 212,
+        "gamesPlayed": 58,
+        "gamesStarted": 58,
+        "battingAverage": 0.317,
+        "onBasePercentage": 0.367,
+        "sluggingPercentage": 0.404,
+        "ops": 0.771,
+        "atBats": 218,
         "runs": 37,
-        "hits": 68,
-        "doubles": 13,
+        "hits": 69,
+        "doubles": 14,
         "triples": 1,
         "homeRuns": 1,
-        "runsBattedIn": 42,
-        "totalBases": 86,
-        "walks": 13,
+        "runsBattedIn": 45,
+        "totalBases": 88,
+        "walks": 14,
         "hitByPitch": 5,
-        "strikeouts": 21,
+        "strikeouts": 25,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 6,
         "sacrificeFlies": 3,
-        "sacrificeHits": 4,
+        "sacrificeHits": 6,
         "stolenBases": 3,
         "stolenBasesAttempts": 6,
-        "putouts": 44,
+        "putouts": 45,
         "assists": 0,
         "errors": 8,
-        "plateAppearances": 246,
+        "plateAppearances": 255,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -1572,19 +1572,19 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "10",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/colby-wallace/13919",
         "imageUrl": "https://ecupirates.com/images/2025/12/2/Wallace_Colby_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "putouts": 44,
-        "assists": 99,
+        "gamesPlayed": 55,
+        "gamesStarted": 55,
+        "putouts": 45,
+        "assists": 104,
         "errors": 8,
-        "fieldingPercentage": 0.947,
+        "fieldingPercentage": 0.949,
         "doublePlays": 6,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 151
+        "totalChances": 157
       },
       "evaluation": {
         "score": 16,
@@ -1804,33 +1804,33 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "12",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/grady-lenahan/14130",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Lenahan_Grady_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "battingAverage": 0.313,
-        "onBasePercentage": 0.409,
-        "sluggingPercentage": 0.544,
-        "ops": 0.953,
-        "atBats": 160,
-        "runs": 40,
-        "hits": 50,
+        "gamesPlayed": 47,
+        "gamesStarted": 47,
+        "battingAverage": 0.314,
+        "onBasePercentage": 0.412,
+        "sluggingPercentage": 0.55,
+        "ops": 0.962,
+        "atBats": 169,
+        "runs": 43,
+        "hits": 53,
         "doubles": 12,
         "triples": 2,
-        "homeRuns": 7,
-        "runsBattedIn": 43,
-        "totalBases": 87,
-        "walks": 12,
+        "homeRuns": 8,
+        "runsBattedIn": 46,
+        "totalBases": 93,
+        "walks": 14,
         "hitByPitch": 17,
-        "strikeouts": 20,
+        "strikeouts": 21,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 4,
         "sacrificeHits": 5,
-        "stolenBases": 10,
-        "stolenBasesAttempts": 11,
-        "putouts": 96,
+        "stolenBases": 11,
+        "stolenBasesAttempts": 12,
+        "putouts": 100,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 210,
+        "plateAppearances": 222,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1842,9 +1842,9 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "12",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/grady-lenahan/14130",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Lenahan_Grady_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "putouts": 96,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "putouts": 100,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1854,51 +1854,51 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 96
+        "totalChances": 100
       },
       "evaluation": {
-        "score": 58,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 71.66666666666664,
-          "Power": 58.94736842105265,
-          "Contact": 58.12499999999999,
-          "Discipline": 44.444444444444436,
-          "Speed": 33.33333333333333
+          "On-base": 73.3333333333333,
+          "Power": 60.526315789473706,
+          "Contact": 58.75,
+          "Discipline": 51.85185185185184,
+          "Speed": 36.666666666666664
         },
-        "summary": "Grady Lenahan profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Grady Lenahan profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .313",
-          "OBP .409",
-          "SLG .544"
+          "AVG .314",
+          "OBP .412",
+          "SLG .550"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".313"
+            "value": ".314"
           },
           {
             "label": "OBP",
-            "value": ".409"
+            "value": ".412"
           },
           {
             "label": "SLG",
-            "value": ".544"
+            "value": ".550"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "43"
+            "value": "46"
           },
           {
             "label": "SB",
-            "value": "10"
+            "value": "11"
           }
         ],
         "metaLine": "FR / R/R",
@@ -1949,23 +1949,23 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "13",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/michael-kalinich/13909",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Kalinich_Michael_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 19,
-        "battingAverage": 0.263,
-        "onBasePercentage": 0.371,
-        "sluggingPercentage": 0.618,
-        "ops": 0.989,
-        "atBats": 76,
-        "runs": 12,
-        "hits": 20,
+        "gamesPlayed": 39,
+        "gamesStarted": 20,
+        "battingAverage": 0.272,
+        "onBasePercentage": 0.392,
+        "sluggingPercentage": 0.605,
+        "ops": 0.997,
+        "atBats": 81,
+        "runs": 15,
+        "hits": 22,
         "doubles": 6,
         "triples": 0,
         "homeRuns": 7,
-        "runsBattedIn": 28,
-        "totalBases": 47,
-        "walks": 13,
+        "runsBattedIn": 30,
+        "totalBases": 49,
+        "walks": 16,
         "hitByPitch": 0,
-        "strikeouts": 21,
+        "strikeouts": 22,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -1975,7 +1975,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "putouts": 78,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 89,
+        "plateAppearances": 97,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2002,36 +2002,36 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "totalChances": 87
       },
       "evaluation": {
-        "score": 48,
+        "score": 53,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 50.55555555555554,
-          "Power": 78.42105263157896,
-          "Contact": 26.875000000000004,
-          "Discipline": 46.56084656084655,
+          "On-base": 62.22222222222222,
+          "Power": 75,
+          "Contact": 32.500000000000014,
+          "Discipline": 58.58585858585859,
           "Speed": 0
         },
         "summary": "Michael Kalinich profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .263",
-          "OBP .371",
-          "SLG .618"
+          "AVG .272",
+          "OBP .392",
+          "SLG .605"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".263"
+            "value": ".272"
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": ".392"
           },
           {
             "label": "SLG",
-            "value": ".618"
+            "value": ".605"
           },
           {
             "label": "HR",
@@ -2039,7 +2039,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "30"
           },
           {
             "label": "SB",
@@ -2094,20 +2094,20 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "14",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/matt-lashley/14131",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Lashley_Matt_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 42,
+        "gamesPlayed": 43,
         "gamesStarted": 30,
-        "battingAverage": 0.282,
-        "onBasePercentage": 0.398,
-        "sluggingPercentage": 0.382,
-        "ops": 0.78,
-        "atBats": 110,
-        "runs": 18,
-        "hits": 31,
+        "battingAverage": 0.288,
+        "onBasePercentage": 0.403,
+        "sluggingPercentage": 0.387,
+        "ops": 0.79,
+        "atBats": 111,
+        "runs": 19,
+        "hits": 32,
         "doubles": 5,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 17,
-        "totalBases": 42,
+        "totalBases": 43,
         "walks": 16,
         "hitByPitch": 6,
         "strikeouts": 16,
@@ -2120,7 +2120,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "putouts": 33,
         "assists": 0,
         "errors": 9,
-        "plateAppearances": 136,
+        "plateAppearances": 137,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2147,36 +2147,36 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "totalChances": 106
       },
       "evaluation": {
-        "score": 45,
+        "score": 47,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 65.55555555555556,
-          "Power": 16.315789473684212,
-          "Contact": 38.74999999999998,
+          "On-base": 68.33333333333333,
+          "Power": 17.631578947368425,
+          "Contact": 42.499999999999986,
           "Discipline": 88.88888888888889,
           "Speed": 0
         },
-        "summary": "Matt Lashley profiles as a INF piece who controls at-bats.",
+        "summary": "Matt Lashley profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .282",
-          "OBP .398",
-          "SLG .382"
+          "AVG .288",
+          "OBP .403",
+          "SLG .387"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".282"
+            "value": ".288"
           },
           {
             "label": "OBP",
-            "value": ".398"
+            "value": ".403"
           },
           {
             "label": "SLG",
-            "value": ".382"
+            "value": ".387"
           },
           {
             "label": "HR",
@@ -2790,33 +2790,33 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "21",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/austin-irby/13906",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Irby_Austin_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 52,
-        "battingAverage": 0.243,
+        "gamesPlayed": 58,
+        "gamesStarted": 54,
+        "battingAverage": 0.24,
         "onBasePercentage": 0.348,
-        "sluggingPercentage": 0.349,
-        "ops": 0.697,
-        "atBats": 189,
-        "runs": 33,
-        "hits": 46,
-        "doubles": 5,
+        "sluggingPercentage": 0.347,
+        "ops": 0.695,
+        "atBats": 196,
+        "runs": 34,
+        "hits": 47,
+        "doubles": 6,
         "triples": 0,
         "homeRuns": 5,
-        "runsBattedIn": 34,
-        "totalBases": 66,
-        "walks": 23,
+        "runsBattedIn": 36,
+        "totalBases": 68,
+        "walks": 25,
         "hitByPitch": 9,
-        "strikeouts": 28,
+        "strikeouts": 30,
         "intentionalWalks": 3,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 3,
         "sacrificeHits": 4,
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
-        "putouts": 342,
+        "putouts": 353,
         "assists": 0,
         "errors": 7,
-        "plateAppearances": 232,
+        "plateAppearances": 241,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2828,19 +2828,19 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "21",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/austin-irby/13906",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Irby_Austin_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 52,
-        "putouts": 342,
+        "gamesPlayed": 58,
+        "gamesStarted": 54,
+        "putouts": 353,
         "assists": 30,
         "errors": 7,
         "fieldingPercentage": 0.982,
-        "doublePlays": 27,
+        "doublePlays": 28,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 379
+        "totalChances": 390
       },
       "evaluation": {
         "score": 27,
@@ -2850,21 +2850,21 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         },
         "components": {
           "On-base": 37.77777777777775,
-          "Power": 7.631578947368414,
-          "Contact": 14.374999999999996,
-          "Discipline": 69.04761904761904,
+          "Power": 7.10526315789473,
+          "Contact": 12.499999999999993,
+          "Discipline": 70.37037037037037,
           "Speed": 6.666666666666667
         },
         "summary": "Austin Irby gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .243",
+          "AVG .240",
           "OBP .348",
-          "SLG .349"
+          "SLG .347"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".243"
+            "value": ".240"
           },
           {
             "label": "OBP",
@@ -2872,7 +2872,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "SLG",
-            "value": ".349"
+            "value": ".347"
           },
           {
             "label": "HR",
@@ -2880,7 +2880,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "36"
           },
           {
             "label": "SB",
@@ -2935,33 +2935,33 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "24",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/walker-barron/13898",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Walker_Barron_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 52,
-        "gamesStarted": 49,
-        "battingAverage": 0.276,
+        "gamesPlayed": 54,
+        "gamesStarted": 51,
+        "battingAverage": 0.28,
         "onBasePercentage": 0.368,
-        "sluggingPercentage": 0.417,
-        "ops": 0.785,
-        "atBats": 156,
-        "runs": 30,
-        "hits": 43,
+        "sluggingPercentage": 0.415,
+        "ops": 0.783,
+        "atBats": 164,
+        "runs": 31,
+        "hits": 46,
         "doubles": 7,
         "triples": 0,
         "homeRuns": 5,
-        "runsBattedIn": 32,
-        "totalBases": 65,
+        "runsBattedIn": 34,
+        "totalBases": 68,
         "walks": 19,
         "hitByPitch": 5,
-        "strikeouts": 29,
+        "strikeouts": 31,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
         "sacrificeHits": 3,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 429,
+        "putouts": 447,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 186,
+        "plateAppearances": 194,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2973,19 +2973,19 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "24",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/walker-barron/13898",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Walker_Barron_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 49,
-        "putouts": 429,
-        "assists": 38,
+        "gamesPlayed": 53,
+        "gamesStarted": 51,
+        "putouts": 447,
+        "assists": 39,
         "errors": 5,
-        "fieldingPercentage": 0.989,
+        "fieldingPercentage": 0.99,
         "doublePlays": 3,
-        "stolenBasesAgainst": 35,
-        "caughtStealingBy": 20,
+        "stolenBasesAgainst": 37,
+        "caughtStealingBy": 21,
         "stolenBasesPercentage": null,
         "passedBalls": 5,
         "catchersInterference": 0,
-        "totalChances": 472
+        "totalChances": 491
       },
       "evaluation": {
         "score": 36,
@@ -2995,21 +2995,21 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         },
         "components": {
           "On-base": 48.88888888888887,
-          "Power": 25.52631578947368,
-          "Contact": 35.000000000000014,
-          "Discipline": 50.574712643678154,
+          "Power": 24.999999999999996,
+          "Contact": 37.500000000000014,
+          "Discipline": 45.87813620071684,
           "Speed": 3.3333333333333335
         },
         "summary": "Walker Barron gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .276",
+          "AVG .280",
           "OBP .368",
-          "SLG .417"
+          "SLG .415"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".276"
+            "value": ".280"
           },
           {
             "label": "OBP",
@@ -3017,7 +3017,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "SLG",
-            "value": ".417"
+            "value": ".415"
           },
           {
             "label": "HR",
@@ -3025,7 +3025,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "RBI",
-            "value": "32"
+            "value": "34"
           },
           {
             "label": "SB",
@@ -3168,33 +3168,33 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "26",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/braden-burress/13901",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Burress_Braden_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 56,
-        "battingAverage": 0.335,
-        "onBasePercentage": 0.443,
-        "sluggingPercentage": 0.45,
-        "ops": 0.893,
-        "atBats": 218,
-        "runs": 60,
-        "hits": 73,
-        "doubles": 10,
-        "triples": 3,
+        "gamesPlayed": 58,
+        "gamesStarted": 58,
+        "battingAverage": 0.348,
+        "onBasePercentage": 0.451,
+        "sluggingPercentage": 0.471,
+        "ops": 0.922,
+        "atBats": 227,
+        "runs": 63,
+        "hits": 79,
+        "doubles": 11,
+        "triples": 4,
         "homeRuns": 3,
-        "runsBattedIn": 28,
-        "totalBases": 98,
+        "runsBattedIn": 30,
+        "totalBases": 107,
         "walks": 36,
         "hitByPitch": 8,
-        "strikeouts": 25,
+        "strikeouts": 26,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 2,
         "sacrificeHits": 2,
         "stolenBases": 10,
         "stolenBasesAttempts": 13,
-        "putouts": 92,
+        "putouts": 95,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 282,
+        "plateAppearances": 291,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -3206,51 +3206,51 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "26",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/braden-burress/13901",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Burress_Braden_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "putouts": 92,
-        "assists": 72,
+        "gamesPlayed": 55,
+        "gamesStarted": 55,
+        "putouts": 95,
+        "assists": 76,
         "errors": 5,
-        "fieldingPercentage": 0.97,
+        "fieldingPercentage": 0.972,
         "doublePlays": 8,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 169
+        "totalChances": 176
       },
       "evaluation": {
-        "score": 68,
+        "score": 72,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 90.55555555555554,
-          "Power": 34.21052631578948,
-          "Contact": 71.87500000000001,
+          "On-base": 95,
+          "Power": 39.73684210526315,
+          "Contact": 79.99999999999999,
           "Discipline": 100,
           "Speed": 33.33333333333333
         },
         "summary": "Braden Burress profiles as a INF/OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .335",
-          "OBP .443",
-          "SLG .450"
+          "AVG .348",
+          "OBP .451",
+          "SLG .471"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".335"
+            "value": ".348"
           },
           {
             "label": "OBP",
-            "value": ".443"
+            "value": ".451"
           },
           {
             "label": "SLG",
-            "value": ".450"
+            "value": ".471"
           },
           {
             "label": "HR",
@@ -3258,7 +3258,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "30"
           },
           {
             "label": "SB",
@@ -3600,13 +3600,13 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "29",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/brayden-bachman/14134",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Bachman_Brayden_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 9,
-        "battingAverage": 0.262,
-        "onBasePercentage": 0.353,
-        "sluggingPercentage": 0.476,
-        "ops": 0.829,
-        "atBats": 42,
+        "gamesPlayed": 27,
+        "gamesStarted": 10,
+        "battingAverage": 0.256,
+        "onBasePercentage": 0.346,
+        "sluggingPercentage": 0.465,
+        "ops": 0.811,
+        "atBats": 43,
         "runs": 8,
         "hits": 11,
         "doubles": 3,
@@ -3616,7 +3616,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "totalBases": 20,
         "walks": 6,
         "hitByPitch": 1,
-        "strikeouts": 6,
+        "strikeouts": 7,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
@@ -3626,7 +3626,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "putouts": 2,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 51,
+        "plateAppearances": 52,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3653,36 +3653,36 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 41,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 40.555555555555536,
-          "Power": 41.05263157894737,
-          "Contact": 26.250000000000007,
-          "Discipline": 88.88888888888889,
+          "On-base": 36.666666666666636,
+          "Power": 38.15789473684211,
+          "Contact": 22.500000000000004,
+          "Discipline": 73.01587301587298,
           "Speed": 0
         },
-        "summary": "Brayden Bachman profiles as a OF piece who controls at-bats.",
+        "summary": "Brayden Bachman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .262",
-          "OBP .353",
-          "SLG .476"
+          "AVG .256",
+          "OBP .346",
+          "SLG .465"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".262"
+            "value": ".256"
           },
           {
             "label": "OBP",
-            "value": ".353"
+            "value": ".346"
           },
           {
             "label": "SLG",
-            "value": ".476"
+            "value": ".465"
           },
           {
             "label": "HR",
@@ -3871,31 +3871,31 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "33",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/joseph-webb/14136",
         "imageUrl": "https://ecupirates.com/images/2025/12/2/Webb_Joe_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 3,
-        "appearances": 27,
+        "gamesPlayed": 28,
+        "gamesStarted": 4,
+        "appearances": 28,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.75,
-        "whip": 1.18,
+        "earnedRunAverage": 3.67,
+        "whip": 1.17,
         "wins": 6,
         "losses": 5,
         "saves": 2,
         "shutouts": 0,
-        "inningsPitched": 57.666666666666664,
-        "inningsPitchedDisplay": "57.2",
+        "inningsPitched": 61.333333333333336,
+        "inningsPitchedDisplay": "61.1",
         "hitsAllowed": 43,
-        "runsAllowed": 32,
-        "earnedRunsAllowed": 24,
-        "walksAllowed": 25,
-        "strikeouts": 75,
+        "runsAllowed": 33,
+        "earnedRunsAllowed": 25,
+        "walksAllowed": 29,
+        "strikeouts": 79,
         "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 3,
-        "opponentsAtBats": 211,
-        "wildPitches": 6,
+        "opponentsAtBats": 221,
+        "wildPitches": 8,
         "hitBatters": 9,
         "balks": 0,
-        "opponentsBattingAverage": 0.204,
+        "opponentsBattingAverage": 0.195,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3920,7 +3920,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "totalChances": 14
       },
       "evaluation": {
-        "score": 20,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3928,40 +3928,40 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 70.04729374671572,
-          "Command": 40,
+          "Miss bats": 69.02173913043478,
+          "Command": 34.482758620689665,
           "Damage suppression": 0
         },
         "summary": "Joseph Webb looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.75",
-          "WHIP 1.18",
-          "K/9 11.7"
+          "ERA 3.67",
+          "WHIP 1.17",
+          "K/9 11.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.75"
+            "value": "3.67"
           },
           {
             "label": "WHIP",
-            "value": "1.18"
+            "value": "1.17"
           },
           {
             "label": "K/9",
-            "value": "11.7"
+            "value": "11.6"
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "4.3"
           },
           {
             "label": "HR/9",
-            "value": "0.47"
+            "value": "0.44"
           },
           {
             "label": "IP",
-            "value": "57.7"
+            "value": "61.3"
           }
         ],
         "metaLine": "SR / R/R",
@@ -4243,31 +4243,31 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "37",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/ethan-rose/14139",
         "imageUrl": "https://ecupirates.com/images/2025/12/2/Rose_Ethan_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 24,
+        "gamesPlayed": 26,
         "gamesStarted": 1,
-        "appearances": 24,
+        "appearances": 26,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.9,
-        "whip": 1.65,
+        "earnedRunAverage": 3.48,
+        "whip": 1.69,
         "wins": 3,
-        "losses": 1,
+        "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 31,
-        "inningsPitchedDisplay": "31.0",
-        "hitsAllowed": 33,
-        "runsAllowed": 14,
-        "earnedRunsAllowed": 10,
-        "walksAllowed": 18,
-        "strikeouts": 18,
+        "inningsPitched": 33.666666666666664,
+        "inningsPitchedDisplay": "33.2",
+        "hitsAllowed": 34,
+        "runsAllowed": 17,
+        "earnedRunsAllowed": 13,
+        "walksAllowed": 23,
+        "strikeouts": 21,
         "doublesAllowed": 6,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 120,
+        "opponentsAtBats": 129,
         "wildPitches": 1,
-        "hitBatters": 7,
+        "hitBatters": 8,
         "balks": 0,
-        "opponentsBattingAverage": 0.275,
+        "opponentsBattingAverage": 0.264,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4277,22 +4277,22 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "37",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/ethan-rose/14139",
         "imageUrl": "https://ecupirates.com/images/2025/12/2/Rose_Ethan_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 8,
+        "gamesPlayed": 9,
         "gamesStarted": 0,
         "putouts": 3,
-        "assists": 5,
+        "assists": 7,
         "errors": 1,
-        "fieldingPercentage": 0.889,
+        "fieldingPercentage": 0.909,
         "doublePlays": 2,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 9
+        "totalChances": 11
       },
       "evaluation": {
-        "score": 2,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4300,32 +4300,32 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 11.143695014662756,
+          "Miss bats": 14.671467146714676,
           "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Ethan Rose looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 2.90",
-          "WHIP 1.65",
-          "K/9 5.2"
+          "ERA 3.48",
+          "WHIP 1.69",
+          "K/9 5.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.90"
+            "value": "3.48"
           },
           {
             "label": "WHIP",
-            "value": "1.65"
+            "value": "1.69"
           },
           {
             "label": "K/9",
-            "value": "5.2"
+            "value": "5.6"
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "6.1"
           },
           {
             "label": "HR/9",
@@ -4333,7 +4333,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "IP",
-            "value": "31.0"
+            "value": "33.7"
           }
         ],
         "metaLine": "FR / R/R",
@@ -4385,31 +4385,31 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "43",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/luke-payne/14140",
         "imageUrl": "https://ecupirates.com/images/2025/12/2/Payne_Luke_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 6,
-        "appearances": 14,
+        "gamesPlayed": 15,
+        "gamesStarted": 7,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.82,
+        "earnedRunAverage": 5.1,
         "whip": 1.57,
         "wins": 3,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 28,
-        "inningsPitchedDisplay": "28.0",
-        "hitsAllowed": 24,
-        "runsAllowed": 19,
-        "earnedRunsAllowed": 15,
-        "walksAllowed": 20,
-        "strikeouts": 27,
+        "inningsPitched": 30,
+        "inningsPitchedDisplay": "30.0",
+        "hitsAllowed": 25,
+        "runsAllowed": 21,
+        "earnedRunsAllowed": 17,
+        "walksAllowed": 22,
+        "strikeouts": 28,
         "doublesAllowed": 2,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 102,
+        "homeRunsAllowed": 6,
+        "opponentsAtBats": 108,
         "wildPitches": 6,
-        "hitBatters": 8,
+        "hitBatters": 10,
         "balks": 0,
-        "opponentsBattingAverage": 0.235,
+        "opponentsBattingAverage": 0.231,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4434,7 +4434,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "totalChances": 6
       },
       "evaluation": {
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4442,20 +4442,20 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 42.532467532467535,
-          "Command": 7.000000000000002,
+          "Miss bats": 40,
+          "Command": 5.454545454545459,
           "Damage suppression": 0
         },
         "summary": "Luke Payne gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.82",
+          "ERA 5.10",
           "WHIP 1.57",
-          "K/9 8.7"
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.82"
+            "value": "5.10"
           },
           {
             "label": "WHIP",
@@ -4463,19 +4463,19 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "K/9",
-            "value": "8.7"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "6.4"
+            "value": "6.6"
           },
           {
             "label": "HR/9",
-            "value": "1.61"
+            "value": "1.80"
           },
           {
             "label": "IP",
-            "value": "28.0"
+            "value": "30.0"
           }
         ],
         "metaLine": "JR / R/R",
@@ -4899,29 +4899,29 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "50",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/charlie-hoagland/14143",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Hoagland_Charlie_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 16,
+        "gamesPlayed": 17,
         "gamesStarted": 0,
-        "appearances": 16,
+        "appearances": 17,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.68,
-        "whip": 1.53,
+        "earnedRunAverage": 5.4,
+        "whip": 1.48,
         "wins": 0,
         "losses": 2,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 19,
-        "inningsPitchedDisplay": "19.0",
-        "hitsAllowed": 19,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 12,
-        "walksAllowed": 10,
-        "strikeouts": 17,
+        "inningsPitched": 21.666666666666668,
+        "inningsPitchedDisplay": "21.2",
+        "hitsAllowed": 21,
+        "runsAllowed": 14,
+        "earnedRunsAllowed": 13,
+        "walksAllowed": 11,
+        "strikeouts": 22,
         "doublesAllowed": 2,
         "triplesAllowed": 1,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 75,
+        "opponentsAtBats": 83,
         "wildPitches": 2,
-        "hitBatters": 4,
+        "hitBatters": 7,
         "balks": 0,
         "opponentsBattingAverage": 0.253,
         "walksHits": 0
@@ -4933,22 +4933,22 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "50",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/charlie-hoagland/14143",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Hoagland_Charlie_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 2,
+        "gamesPlayed": 3,
         "gamesStarted": 0,
         "putouts": 1,
-        "assists": 1,
+        "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
+        "stolenBasesAgainst": 2,
+        "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 2
+        "totalChances": 3
       },
       "evaluation": {
-        "score": 10,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4956,40 +4956,40 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.84210526315789,
-          "Command": 14.000000000000004,
+          "Miss bats": 46.71328671328671,
+          "Command": 20,
           "Damage suppression": 0
         },
-        "summary": "Charlie Hoagland gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Charlie Hoagland looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.68",
-          "WHIP 1.53",
-          "K/9 8.1"
+          "ERA 5.40",
+          "WHIP 1.48",
+          "K/9 9.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.68"
+            "value": "5.40"
           },
           {
             "label": "WHIP",
-            "value": "1.53"
+            "value": "1.48"
           },
           {
             "label": "K/9",
-            "value": "8.1"
+            "value": "9.1"
           },
           {
             "label": "BB/9",
-            "value": "4.7"
+            "value": "4.6"
           },
           {
             "label": "HR/9",
-            "value": "0.95"
+            "value": "0.83"
           },
           {
             "label": "IP",
-            "value": "19.0"
+            "value": "21.7"
           }
         ],
         "metaLine": "FR / R/L",
@@ -5040,33 +5040,33 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "51",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-herring/13905",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Herring_Jack_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 55,
-        "gamesStarted": 55,
-        "battingAverage": 0.372,
-        "onBasePercentage": 0.508,
-        "sluggingPercentage": 0.613,
-        "ops": 1.121,
-        "atBats": 191,
-        "runs": 56,
+        "gamesPlayed": 57,
+        "gamesStarted": 57,
+        "battingAverage": 0.359,
+        "onBasePercentage": 0.498,
+        "sluggingPercentage": 0.591,
+        "ops": 1.089,
+        "atBats": 198,
+        "runs": 57,
         "hits": 71,
         "doubles": 17,
         "triples": 1,
         "homeRuns": 9,
         "runsBattedIn": 51,
         "totalBases": 117,
-        "walks": 51,
+        "walks": 53,
         "hitByPitch": 3,
-        "strikeouts": 28,
+        "strikeouts": 31,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 8,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 2,
         "stolenBasesAttempts": 3,
-        "putouts": 52,
+        "putouts": 58,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 250,
+        "plateAppearances": 259,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -5078,51 +5078,51 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "51",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-herring/13905",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Herring_Jack_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 31,
-        "putouts": 52,
-        "assists": 1,
+        "gamesPlayed": 33,
+        "gamesStarted": 33,
+        "putouts": 58,
+        "assists": 2,
         "errors": 1,
-        "fieldingPercentage": 0.981,
-        "doublePlays": 2,
+        "fieldingPercentage": 0.984,
+        "doublePlays": 3,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 54
+        "totalChances": 61
       },
       "evaluation": {
-        "score": 84,
+        "score": 81,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "components": {
           "On-base": 100,
-          "Power": 77.10526315789474,
-          "Contact": 95,
+          "Power": 71.3157894736842,
+          "Contact": 86.87499999999999,
           "Discipline": 100,
           "Speed": 6.666666666666667
         },
         "summary": "Jack Herring profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .372",
-          "OBP .508",
-          "SLG .613"
+          "AVG .359",
+          "OBP .498",
+          "SLG .591"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".372"
+            "value": ".359"
           },
           {
             "label": "OBP",
-            "value": ".508"
+            "value": ".498"
           },
           {
             "label": "SLG",
-            "value": ".613"
+            "value": ".591"
           },
           {
             "label": "HR",
@@ -5186,36 +5186,36 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "55",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/thomas-paxton/14144",
         "imageUrl": "https://ecupirates.com/images/2025/12/2/Paxton_Thomas_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 6,
+        "gamesPlayed": 7,
         "gamesStarted": 0,
-        "appearances": 6,
+        "appearances": 7,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.86,
-        "whip": 1.43,
-        "wins": 0,
+        "earnedRunAverage": 2.79,
+        "whip": 1.34,
+        "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 7,
-        "inningsPitchedDisplay": "7.0",
-        "hitsAllowed": 10,
+        "inningsPitched": 9.666666666666666,
+        "inningsPitchedDisplay": "9.2",
+        "hitsAllowed": 12,
         "runsAllowed": 3,
         "earnedRunsAllowed": 3,
-        "walksAllowed": 0,
-        "strikeouts": 4,
+        "walksAllowed": 1,
+        "strikeouts": 9,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 29,
-        "wildPitches": 0,
+        "opponentsAtBats": 39,
+        "wildPitches": 1,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.345,
+        "opponentsBattingAverage": 0.308,
         "walksHits": 0
       },
       "fieldingStats": null,
       "evaluation": {
-        "score": 18,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5223,32 +5223,32 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 10.389610389610393,
+          "Miss bats": 39.811912225705335,
           "Command": 100,
           "Damage suppression": 0
         },
         "summary": "Thomas Paxton looks like a RHP option who limits runs and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.86",
-          "WHIP 1.43",
-          "K/9 5.1"
+          "ERA 2.79",
+          "WHIP 1.34",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.86"
+            "value": "2.79"
           },
           {
             "label": "WHIP",
-            "value": "1.43"
+            "value": "1.34"
           },
           {
             "label": "K/9",
-            "value": "5.1"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "0.0"
+            "value": "0.9"
           },
           {
             "label": "HR/9",
@@ -5256,7 +5256,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "IP",
-            "value": "7.0"
+            "value": "9.7"
           }
         ],
         "metaLine": "JR / R/R",
@@ -5307,7 +5307,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "61",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/chance-hall/13904",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Hall_Chance_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 0,
         "battingAverage": 0.333,
         "onBasePercentage": 0.333,
@@ -5541,31 +5541,31 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "99",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/gavin-marley/14146",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Marley_Gavin_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 22,
+        "gamesPlayed": 23,
         "gamesStarted": 0,
-        "appearances": 22,
+        "appearances": 23,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.62,
-        "whip": 1.36,
+        "earnedRunAverage": 3.37,
+        "whip": 1.33,
         "wins": 1,
         "losses": 0,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 32.333333333333336,
-        "inningsPitchedDisplay": "32.1",
-        "hitsAllowed": 26,
+        "inningsPitched": 34.666666666666664,
+        "inningsPitchedDisplay": "34.2",
+        "hitsAllowed": 27,
         "runsAllowed": 17,
         "earnedRunsAllowed": 13,
-        "walksAllowed": 18,
+        "walksAllowed": 19,
         "strikeouts": 38,
         "doublesAllowed": 6,
         "triplesAllowed": 1,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 115,
+        "opponentsAtBats": 122,
         "wildPitches": 3,
-        "hitBatters": 8,
+        "hitBatters": 9,
         "balks": 0,
-        "opponentsBattingAverage": 0.226,
+        "opponentsBattingAverage": 0.221,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5575,7 +5575,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "jersey": "99",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/gavin-marley/14146",
         "imageUrl": "https://ecupirates.com/images/2025/12/1/Marley_Gavin_COAT_TIE_MUG_2025-1.jpg",
-        "gamesPlayed": 6,
+        "gamesPlayed": 7,
         "gamesStarted": 0,
         "putouts": 1,
         "assists": 6,
@@ -5583,14 +5583,14 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "fieldingPercentage": 0.875,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
+        "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
         "totalChances": 8
       },
       "evaluation": {
-        "score": 16,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5598,40 +5598,40 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 59.79381443298969,
-          "Command": 22.222222222222225,
+          "Miss bats": 53.321678321678334,
+          "Command": 20,
           "Damage suppression": 0
         },
         "summary": "Gavin Marley looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 3.62",
-          "WHIP 1.36",
-          "K/9 10.6"
+          "ERA 3.37",
+          "WHIP 1.33",
+          "K/9 9.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.62"
+            "value": "3.37"
           },
           {
             "label": "WHIP",
-            "value": "1.36"
+            "value": "1.33"
           },
           {
             "label": "K/9",
-            "value": "10.6"
+            "value": "9.9"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
-            "value": "0.56"
+            "value": "0.52"
           },
           {
             "label": "IP",
-            "value": "32.3"
+            "value": "34.7"
           }
         ],
         "metaLine": "R-JR / R/R",
@@ -5662,29 +5662,29 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "position": "OF",
         "classYear": "GR",
         "handedness": "L/R",
-        "score": 53,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jeff Sabater profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .341",
-          "OBP .443",
-          "SLG .378"
+          "AVG .337",
+          "OBP .439",
+          "SLG .373"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".341"
+            "value": ".337"
           },
           {
             "label": "OBP",
-            "value": ".443"
+            "value": ".439"
           },
           {
             "label": "SLG",
-            "value": ".378"
+            "value": ".373"
           },
           {
             "label": "HR",
@@ -5700,10 +5700,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           }
         ],
         "components": {
-          "On-base": 90.55555555555554,
-          "Power": 15.263157894736842,
-          "Contact": 75.62500000000001,
-          "Discipline": 36.25730994152046,
+          "On-base": 88.33333333333331,
+          "Power": 13.94736842105263,
+          "Contact": 73.125,
+          "Discipline": 33.33333333333333,
           "Speed": 10
         },
         "metaLine": "GR / L/R",
@@ -5868,29 +5868,29 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "position": "OF",
         "classYear": "R-SO",
         "handedness": "L/R",
-        "score": 69,
+        "score": 67,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Davin Whitaker profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .345",
-          "OBP .436",
-          "SLG .585"
+          "AVG .335",
+          "OBP .437",
+          "SLG .568"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".345"
+            "value": ".335"
           },
           {
             "label": "OBP",
-            "value": ".436"
+            "value": ".437"
           },
           {
             "label": "SLG",
-            "value": ".585"
+            "value": ".568"
           },
           {
             "label": "HR",
@@ -5906,10 +5906,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           }
         ],
         "components": {
-          "On-base": 86.66666666666666,
-          "Power": 69.73684210526315,
-          "Contact": 78.12499999999997,
-          "Discipline": 49.849849849849846,
+          "On-base": 87.22222222222221,
+          "Power": 65.26315789473684,
+          "Contact": 71.87500000000001,
+          "Discipline": 51.85185185185184,
           "Speed": 20
         },
         "metaLine": "R-SO / L/R",
@@ -5937,25 +5937,25 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 3,
+        "score": 4,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nick Parham gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .191",
-          "OBP .276",
+          "AVG .203",
+          "OBP .289",
           "SLG .338"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".191"
+            "value": ".203"
           },
           {
             "label": "OBP",
-            "value": ".276"
+            "value": ".289"
           },
           {
             "label": "SLG",
@@ -5975,10 +5975,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           }
         ],
         "components": {
-          "On-base": 0,
+          "On-base": 4.999999999999974,
           "Power": 4.736842105263163,
           "Contact": 0,
-          "Discipline": 3.0303030303030276,
+          "Discipline": 3.4188034188034186,
           "Speed": 10
         },
         "metaLine": "JR / L/R",
@@ -6488,49 +6488,49 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "position": "OF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 58,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
-        "summary": "Grady Lenahan profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Grady Lenahan profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .313",
-          "OBP .409",
-          "SLG .544"
+          "AVG .314",
+          "OBP .412",
+          "SLG .550"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".313"
+            "value": ".314"
           },
           {
             "label": "OBP",
-            "value": ".409"
+            "value": ".412"
           },
           {
             "label": "SLG",
-            "value": ".544"
+            "value": ".550"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "43"
+            "value": "46"
           },
           {
             "label": "SB",
-            "value": "10"
+            "value": "11"
           }
         ],
         "components": {
-          "On-base": 71.66666666666664,
-          "Power": 58.94736842105265,
-          "Contact": 58.12499999999999,
-          "Discipline": 44.444444444444436,
-          "Speed": 33.33333333333333
+          "On-base": 73.3333333333333,
+          "Power": 60.526315789473706,
+          "Contact": 58.75,
+          "Discipline": 51.85185185185184,
+          "Speed": 36.666666666666664
         },
         "metaLine": "FR / R/R",
         "detailBadges": [
@@ -6557,29 +6557,29 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "position": "C",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 48,
+        "score": 53,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Michael Kalinich profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .263",
-          "OBP .371",
-          "SLG .618"
+          "AVG .272",
+          "OBP .392",
+          "SLG .605"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".263"
+            "value": ".272"
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": ".392"
           },
           {
             "label": "SLG",
-            "value": ".618"
+            "value": ".605"
           },
           {
             "label": "HR",
@@ -6587,7 +6587,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "30"
           },
           {
             "label": "SB",
@@ -6595,10 +6595,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           }
         ],
         "components": {
-          "On-base": 50.55555555555554,
-          "Power": 78.42105263157896,
-          "Contact": 26.875000000000004,
-          "Discipline": 46.56084656084655,
+          "On-base": 62.22222222222222,
+          "Power": 75,
+          "Contact": 32.500000000000014,
+          "Discipline": 58.58585858585859,
           "Speed": 0
         },
         "metaLine": "SO / L/R",
@@ -6626,29 +6626,29 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 45,
+        "score": 47,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Matt Lashley profiles as a INF piece who controls at-bats.",
+        "summary": "Matt Lashley profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .282",
-          "OBP .398",
-          "SLG .382"
+          "AVG .288",
+          "OBP .403",
+          "SLG .387"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".282"
+            "value": ".288"
           },
           {
             "label": "OBP",
-            "value": ".398"
+            "value": ".403"
           },
           {
             "label": "SLG",
-            "value": ".382"
+            "value": ".387"
           },
           {
             "label": "HR",
@@ -6664,9 +6664,9 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           }
         ],
         "components": {
-          "On-base": 65.55555555555556,
-          "Power": 16.315789473684212,
-          "Contact": 38.74999999999998,
+          "On-base": 68.33333333333333,
+          "Power": 17.631578947368425,
+          "Contact": 42.499999999999986,
           "Discipline": 88.88888888888889,
           "Speed": 0
         },
@@ -6978,14 +6978,14 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         },
         "summary": "Austin Irby gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .243",
+          "AVG .240",
           "OBP .348",
-          "SLG .349"
+          "SLG .347"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".243"
+            "value": ".240"
           },
           {
             "label": "OBP",
@@ -6993,7 +6993,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "SLG",
-            "value": ".349"
+            "value": ".347"
           },
           {
             "label": "HR",
@@ -7001,7 +7001,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "36"
           },
           {
             "label": "SB",
@@ -7010,9 +7010,9 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         ],
         "components": {
           "On-base": 37.77777777777775,
-          "Power": 7.631578947368414,
-          "Contact": 14.374999999999996,
-          "Discipline": 69.04761904761904,
+          "Power": 7.10526315789473,
+          "Contact": 12.499999999999993,
+          "Discipline": 70.37037037037037,
           "Speed": 6.666666666666667
         },
         "metaLine": "SO / L/R",
@@ -7047,14 +7047,14 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         },
         "summary": "Walker Barron gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .276",
+          "AVG .280",
           "OBP .368",
-          "SLG .417"
+          "SLG .415"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".276"
+            "value": ".280"
           },
           {
             "label": "OBP",
@@ -7062,7 +7062,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "SLG",
-            "value": ".417"
+            "value": ".415"
           },
           {
             "label": "HR",
@@ -7070,7 +7070,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "RBI",
-            "value": "32"
+            "value": "34"
           },
           {
             "label": "SB",
@@ -7079,9 +7079,9 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         ],
         "components": {
           "On-base": 48.88888888888887,
-          "Power": 25.52631578947368,
-          "Contact": 35.000000000000014,
-          "Discipline": 50.574712643678154,
+          "Power": 24.999999999999996,
+          "Contact": 37.500000000000014,
+          "Discipline": 45.87813620071684,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / R/R",
@@ -7177,29 +7177,29 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "position": "INF/OF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 68,
+        "score": 72,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Braden Burress profiles as a INF/OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .335",
-          "OBP .443",
-          "SLG .450"
+          "AVG .348",
+          "OBP .451",
+          "SLG .471"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".335"
+            "value": ".348"
           },
           {
             "label": "OBP",
-            "value": ".443"
+            "value": ".451"
           },
           {
             "label": "SLG",
-            "value": ".450"
+            "value": ".471"
           },
           {
             "label": "HR",
@@ -7207,7 +7207,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "30"
           },
           {
             "label": "SB",
@@ -7215,9 +7215,9 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           }
         ],
         "components": {
-          "On-base": 90.55555555555554,
-          "Power": 34.21052631578948,
-          "Contact": 71.87500000000001,
+          "On-base": 95,
+          "Power": 39.73684210526315,
+          "Contact": 79.99999999999999,
           "Discipline": 100,
           "Speed": 33.33333333333333
         },
@@ -7384,29 +7384,29 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "position": "OF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 41,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Brayden Bachman profiles as a OF piece who controls at-bats.",
+        "summary": "Brayden Bachman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .262",
-          "OBP .353",
-          "SLG .476"
+          "AVG .256",
+          "OBP .346",
+          "SLG .465"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".262"
+            "value": ".256"
           },
           {
             "label": "OBP",
-            "value": ".353"
+            "value": ".346"
           },
           {
             "label": "SLG",
-            "value": ".476"
+            "value": ".465"
           },
           {
             "label": "HR",
@@ -7422,10 +7422,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           }
         ],
         "components": {
-          "On-base": 40.555555555555536,
-          "Power": 41.05263157894737,
-          "Contact": 26.250000000000007,
-          "Discipline": 88.88888888888889,
+          "On-base": 36.666666666666636,
+          "Power": 38.15789473684211,
+          "Contact": 22.500000000000004,
+          "Discipline": 73.01587301587298,
           "Speed": 0
         },
         "metaLine": "FR / R/R",
@@ -7522,48 +7522,48 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 20,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Joseph Webb looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.75",
-          "WHIP 1.18",
-          "K/9 11.7"
+          "ERA 3.67",
+          "WHIP 1.17",
+          "K/9 11.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.75"
+            "value": "3.67"
           },
           {
             "label": "WHIP",
-            "value": "1.18"
+            "value": "1.17"
           },
           {
             "label": "K/9",
-            "value": "11.7"
+            "value": "11.6"
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "4.3"
           },
           {
             "label": "HR/9",
-            "value": "0.47"
+            "value": "0.44"
           },
           {
             "label": "IP",
-            "value": "57.7"
+            "value": "61.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 70.04729374671572,
-          "Command": 40,
+          "Miss bats": 69.02173913043478,
+          "Command": 34.482758620689665,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -7728,33 +7728,33 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 2,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ethan Rose looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 2.90",
-          "WHIP 1.65",
-          "K/9 5.2"
+          "ERA 3.48",
+          "WHIP 1.69",
+          "K/9 5.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.90"
+            "value": "3.48"
           },
           {
             "label": "WHIP",
-            "value": "1.65"
+            "value": "1.69"
           },
           {
             "label": "K/9",
-            "value": "5.2"
+            "value": "5.6"
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "6.1"
           },
           {
             "label": "HR/9",
@@ -7762,13 +7762,13 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "IP",
-            "value": "31.0"
+            "value": "33.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 11.143695014662756,
+          "Miss bats": 14.671467146714676,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -7797,21 +7797,21 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "position": "LHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Luke Payne gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.82",
+          "ERA 5.10",
           "WHIP 1.57",
-          "K/9 8.7"
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.82"
+            "value": "5.10"
           },
           {
             "label": "WHIP",
@@ -7819,26 +7819,26 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "K/9",
-            "value": "8.7"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "6.4"
+            "value": "6.6"
           },
           {
             "label": "HR/9",
-            "value": "1.61"
+            "value": "1.80"
           },
           {
             "label": "IP",
-            "value": "28.0"
+            "value": "30.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 42.532467532467535,
-          "Command": 7.000000000000002,
+          "Miss bats": 40,
+          "Command": 5.454545454545459,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -8072,48 +8072,48 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "position": "LHP",
         "classYear": "FR",
         "handedness": "R/L",
-        "score": 10,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Charlie Hoagland gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Charlie Hoagland looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.68",
-          "WHIP 1.53",
-          "K/9 8.1"
+          "ERA 5.40",
+          "WHIP 1.48",
+          "K/9 9.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.68"
+            "value": "5.40"
           },
           {
             "label": "WHIP",
-            "value": "1.53"
+            "value": "1.48"
           },
           {
             "label": "K/9",
-            "value": "8.1"
+            "value": "9.1"
           },
           {
             "label": "BB/9",
-            "value": "4.7"
+            "value": "4.6"
           },
           {
             "label": "HR/9",
-            "value": "0.95"
+            "value": "0.83"
           },
           {
             "label": "IP",
-            "value": "19.0"
+            "value": "21.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.84210526315789,
-          "Command": 14.000000000000004,
+          "Miss bats": 46.71328671328671,
+          "Command": 20,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/L",
@@ -8141,29 +8141,29 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "S/L",
-        "score": 84,
+        "score": 81,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Jack Herring profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .372",
-          "OBP .508",
-          "SLG .613"
+          "AVG .359",
+          "OBP .498",
+          "SLG .591"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".372"
+            "value": ".359"
           },
           {
             "label": "OBP",
-            "value": ".508"
+            "value": ".498"
           },
           {
             "label": "SLG",
-            "value": ".613"
+            "value": ".591"
           },
           {
             "label": "HR",
@@ -8180,8 +8180,8 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 77.10526315789474,
-          "Contact": 95,
+          "Power": 71.3157894736842,
+          "Contact": 86.87499999999999,
           "Discipline": 100,
           "Speed": 6.666666666666667
         },
@@ -8210,33 +8210,33 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 18,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Thomas Paxton looks like a RHP option who limits runs and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.86",
-          "WHIP 1.43",
-          "K/9 5.1"
+          "ERA 2.79",
+          "WHIP 1.34",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.86"
+            "value": "2.79"
           },
           {
             "label": "WHIP",
-            "value": "1.43"
+            "value": "1.34"
           },
           {
             "label": "K/9",
-            "value": "5.1"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "0.0"
+            "value": "0.9"
           },
           {
             "label": "HR/9",
@@ -8244,13 +8244,13 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "IP",
-            "value": "7.0"
+            "value": "9.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 10.389610389610393,
+          "Miss bats": 39.811912225705335,
           "Command": 100,
           "Damage suppression": 0
         },
@@ -8416,48 +8416,48 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "position": "RHP",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 16,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Gavin Marley looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 3.62",
-          "WHIP 1.36",
-          "K/9 10.6"
+          "ERA 3.37",
+          "WHIP 1.33",
+          "K/9 9.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.62"
+            "value": "3.37"
           },
           {
             "label": "WHIP",
-            "value": "1.36"
+            "value": "1.33"
           },
           {
             "label": "K/9",
-            "value": "10.6"
+            "value": "9.9"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
-            "value": "0.56"
+            "value": "0.52"
           },
           {
             "label": "IP",
-            "value": "32.3"
+            "value": "34.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 59.79381443298969,
-          "Command": 22.222222222222225,
+          "Miss bats": 53.321678321678334,
+          "Command": 20,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / R/R",
