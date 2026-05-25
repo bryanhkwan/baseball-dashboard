@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.brown2026 = {
-  "generatedAt": "2026-05-24T11:42:14.193Z",
+  "generatedAt": "2026-05-25T13:43:20.512Z",
   "season": 2026,
   "school": {
     "slug": "brown",
@@ -3983,7 +3983,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       }
     },
     {
-      "id": "brown-21937",
+      "id": "brown-24033",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
@@ -4000,7 +4000,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "",
       "previousSchool": "",
       "hometownHighSchool": "",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/logan-choquette/21937",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/logan-choquette/24033",
       "imageUrl": "",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4008,7 +4008,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21937",
+      "rosterBioId": "24033",
       "sources": [
         "Brown Athletics roster"
       ],
@@ -4071,7 +4071,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       }
     },
     {
-      "id": "brown-21938",
+      "id": "brown-24034",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
@@ -4088,7 +4088,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "highSchool": "",
       "previousSchool": "",
       "hometownHighSchool": "",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/nolan-choquette/21938",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/nolan-choquette/24034",
       "imageUrl": "",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4096,7 +4096,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21938",
+      "rosterBioId": "24034",
       "sources": [
         "Brown Athletics roster"
       ],
@@ -6763,7 +6763,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21937",
+        "id": "brown-24033",
         "name": "Logan Choquette",
         "school": "Brown",
         "role": "Hitter",
@@ -6827,11 +6827,11 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
         "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/logan-choquette/21937",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/logan-choquette/24033",
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21938",
+        "id": "brown-24034",
         "name": "Nolan Choquette",
         "school": "Brown",
         "role": "Hitter",
@@ -6895,7 +6895,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
         "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/nolan-choquette/21938",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/nolan-choquette/24034",
         "espnAthleteId": ""
       }
     ]

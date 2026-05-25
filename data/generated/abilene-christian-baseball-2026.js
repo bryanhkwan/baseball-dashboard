@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.abilene-christian2026 = {
-  "generatedAt": "2026-05-24T11:42:07.497Z",
+  "generatedAt": "2026-05-25T13:43:14.997Z",
   "season": 2026,
   "school": {
     "slug": "abilene-christian",

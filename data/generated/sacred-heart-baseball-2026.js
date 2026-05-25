@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.sacred-heart2026 = {
-  "generatedAt": "2026-05-24T11:42:54.031Z",
+  "generatedAt": "2026-05-25T13:44:09.187Z",
   "season": 2026,
   "school": {
     "slug": "sacred-heart",
