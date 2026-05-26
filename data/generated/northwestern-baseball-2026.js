@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.northwestern2026 = {
-  "generatedAt": "2026-05-25T13:44:00.002Z",
+  "generatedAt": "2026-05-26T12:49:33.573Z",
   "season": 2026,
   "school": {
     "slug": "northwestern",

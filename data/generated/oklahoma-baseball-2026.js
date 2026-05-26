@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.oklahoma2026 = {
-  "generatedAt": "2026-05-25T13:44:00.937Z",
+  "generatedAt": "2026-05-26T12:49:34.491Z",
   "season": 2026,
   "school": {
     "slug": "oklahoma",
@@ -5180,8 +5180,8 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
       "normalizedName": "cord rager",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "LHP/INF",
-      "positionLong": "Left Handed Pitcher/Infield",
+      "position": "LHP",
+      "positionLong": "Left Handed Pitcher",
       "classYear": "FR",
       "handedness": "L/L",
       "jersey": "99",
@@ -5271,7 +5271,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           "Command": 54.44444444444445,
           "Damage suppression": 0
         },
-        "summary": "Cord Rager looks like a LHP/INF option who misses bats and keeps traffic under control.",
+        "summary": "Cord Rager looks like a LHP option who misses bats and keeps traffic under control.",
         "summaryMetrics": [
           "ERA 5.88",
           "WHIP 1.15",
@@ -5305,7 +5305,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         ],
         "metaLine": "FR / L/L",
         "detailBadges": [
-          "LHP/INF",
+          "LHP",
           "FR",
           "L/L",
           "Pitcher"
@@ -7810,7 +7810,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         "name": "Cord Rager",
         "school": "Oklahoma",
         "role": "Pitcher",
-        "position": "LHP/INF",
+        "position": "LHP",
         "classYear": "FR",
         "handedness": "L/L",
         "score": 23,
@@ -7818,7 +7818,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cord Rager looks like a LHP/INF option who misses bats and keeps traffic under control.",
+        "summary": "Cord Rager looks like a LHP option who misses bats and keeps traffic under control.",
         "summaryMetrics": [
           "ERA 5.88",
           "WHIP 1.15",
@@ -7859,7 +7859,7 @@ window.__BASEBALL_DATASETS__.oklahoma2026 = {
         },
         "metaLine": "FR / L/L",
         "detailBadges": [
-          "LHP/INF",
+          "LHP",
           "FR",
           "L/L",
           "Pitcher"

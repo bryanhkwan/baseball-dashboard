@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.lehigh2026 = {
-  "generatedAt": "2026-05-25T13:43:47.005Z",
+  "generatedAt": "2026-05-26T12:49:22.417Z",
   "season": 2026,
   "school": {
     "slug": "lehigh",

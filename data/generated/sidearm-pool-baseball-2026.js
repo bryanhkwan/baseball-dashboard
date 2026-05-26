@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
-  "generatedAt": "2026-05-25T13:44:28.203Z",
+  "generatedAt": "2026-05-26T12:50:01.440Z",
   "season": 2026,
   "source": "Generated Sidearm baseball school-site pool",
   "note": "This generated free player pool combines verified public roster and cumulative stats pages from multiple Sidearm baseball programs. It is broader than Toledo alone, but still not a full every-school national directory yet.",
@@ -180,11 +180,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "name": "Brown",
       "longName": "Brown University",
       "record": "23-20, 13-8",
-      "totalPlayers": 40,
+      "totalPlayers": 39,
       "hitters": 19,
-      "pitchers": 21,
-      "rosterPlayers": 40,
-      "playersWithAnyStats": 10,
+      "pitchers": 20,
+      "rosterPlayers": 39,
+      "playersWithAnyStats": 0,
       "statsUrl": "https://brownbears.com/sports/baseball/stats/2026",
       "rosterUrl": "https://brownbears.com/sports/baseball/roster"
     },
@@ -944,18 +944,18 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
     }
   ],
   "coverage": {
-    "totalPlayers": 2739,
+    "totalPlayers": 2738,
     "totalHitters": 1274,
-    "totalPitchers": 1465,
+    "totalPitchers": 1464,
     "schoolsCovered": 72
   },
   "playerBoard": {
     "source": "Generated Sidearm baseball school-site pool",
     "note": "This free generated pool comes from verified public school-site roster and cumulative stats pages across multiple Sidearm baseball programs.",
-    "totalPlayers": 2739,
+    "totalPlayers": 2738,
     "roleCounts": {
       "Hitter": 1274,
-      "Pitcher": 1465
+      "Pitcher": 1464
     },
     "players": [
       {
@@ -34717,81 +34717,12 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21953",
-        "name": "Mika Petersen",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
-        "handedness": "L/L",
-        "score": 69,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "summary": "Mika Petersen profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .343",
-          "OBP .430",
-          "SLG .548"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".343"
-          },
-          {
-            "label": "OBP",
-            "value": ".430"
-          },
-          {
-            "label": "SLG",
-            "value": ".548"
-          },
-          {
-            "label": "HR",
-            "value": "6"
-          },
-          {
-            "label": "RBI",
-            "value": "34"
-          },
-          {
-            "label": "SB",
-            "value": "13"
-          }
-        ],
-        "components": {
-          "On-base": 83.33333333333331,
-          "Power": 60.00000000000002,
-          "Contact": 76.87500000000001,
-          "Discipline": 62.06896551724137,
-          "Speed": 43.333333333333336
-        },
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "L/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
-        ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
-        "schoolSlug": "brown",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/mika-petersen/21953",
-        "espnAthleteId": ""
-      },
-      {
         "id": "brown-24041",
         "name": "Matt Luigs",
         "school": "Brown",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -34837,10 +34768,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "INF",
-          "FR",
+          "SO",
           "R/R",
           "Rostered"
         ],
@@ -34859,7 +34790,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "school": "Brown",
         "role": "Hitter",
         "position": "C",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -34905,10 +34836,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "C",
-          "JR",
+          "SR",
           "R/R",
           "Rostered"
         ],
@@ -34927,7 +34858,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "school": "Brown",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -34973,10 +34904,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "INF",
-          "SO",
+          "JR",
           "R/R",
           "Rostered"
         ],
@@ -34995,7 +34926,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "school": "Brown",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -35041,10 +34972,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "OF",
-          "SO",
+          "JR",
           "R/R",
           "Rostered"
         ],
@@ -35063,7 +34994,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "school": "Brown",
         "role": "Hitter",
         "position": "INF/OF",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "L/R",
         "score": 0,
         "fit": {
@@ -35109,10 +35040,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / L/R",
+        "metaLine": "JR / L/R",
         "detailBadges": [
           "INF/OF",
-          "SO",
+          "JR",
           "L/R",
           "Rostered"
         ],
@@ -35131,7 +35062,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "school": "Brown",
         "role": "Hitter",
         "position": "INF/OF",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -35177,10 +35108,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "INF/OF",
-          "JR",
+          "SR",
           "R/R",
           "Rostered"
         ],
@@ -35199,7 +35130,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "school": "Brown",
         "role": "Hitter",
         "position": "C/OF",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -35245,10 +35176,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "C/OF",
-          "SO",
+          "JR",
           "R/R",
           "Rostered"
         ],
@@ -35262,150 +35193,12 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21949",
-        "name": "Logan Meusy",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 47,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Logan Meusy profiles as a OF piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .284",
-          "OBP .424",
-          "SLG .411"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".284"
-          },
-          {
-            "label": "OBP",
-            "value": ".424"
-          },
-          {
-            "label": "SLG",
-            "value": ".411"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "23"
-          },
-          {
-            "label": "SB",
-            "value": "7"
-          }
-        ],
-        "components": {
-          "On-base": 79.99999999999999,
-          "Power": 23.947368421052627,
-          "Contact": 39.99999999999998,
-          "Discipline": 41.26984126984126,
-          "Speed": 23.333333333333332
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
-        ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
-        "schoolSlug": "brown",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/logan-meusy/21949",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-21944",
-        "name": "Mark Henshon",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 48,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Mark Henshon profiles as a INF piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .291",
-          "OBP .400",
-          "SLG .388"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".291"
-          },
-          {
-            "label": "OBP",
-            "value": ".400"
-          },
-          {
-            "label": "SLG",
-            "value": ".388"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "32"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 66.66666666666666,
-          "Power": 17.894736842105267,
-          "Contact": 44.374999999999986,
-          "Discipline": 100,
-          "Speed": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
-        ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
-        "schoolSlug": "brown",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/mark-henshon/21944",
-        "espnAthleteId": ""
-      },
-      {
         "id": "brown-24032",
         "name": "Kanghee Cho",
         "school": "Brown",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -35451,10 +35244,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "OF",
-          "FR",
+          "SO",
           "R/R",
           "Rostered"
         ],
@@ -35473,7 +35266,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "school": "Brown",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/L",
         "score": 0,
         "fit": {
@@ -35519,10 +35312,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / R/L",
+        "metaLine": "JR / R/L",
         "detailBadges": [
           "LHP",
-          "SO",
+          "JR",
           "R/L",
           "Pitcher"
         ],
@@ -35541,7 +35334,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "school": "Brown",
         "role": "Hitter",
         "position": "C",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -35587,10 +35380,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "C",
-          "JR",
+          "SR",
           "R/R",
           "Rostered"
         ],
@@ -35604,81 +35397,12 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21958",
-        "name": "Zack Siegal",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Zack Siegal gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".000"
-          },
-          {
-            "label": "OBP",
-            "value": ".000"
-          },
-          {
-            "label": "SLG",
-            "value": ".000"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
-        ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
-        "schoolSlug": "brown",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/zack-siegal/21958",
-        "espnAthleteId": ""
-      },
-      {
         "id": "brown-24035",
         "name": "Brady Dever",
         "school": "Brown",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "L/R",
         "score": 0,
         "fit": {
@@ -35724,10 +35448,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "JR / L/R",
+        "metaLine": "SR / L/R",
         "detailBadges": [
           "OF",
-          "JR",
+          "SR",
           "L/R",
           "Rostered"
         ],
@@ -35741,219 +35465,12 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21940",
-        "name": "Peter Dubie",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Peter Dubie gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 4.55",
-          "WHIP 1.42",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.55"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.42"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.69"
-          },
-          {
-            "label": "IP",
-            "value": "65.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.037105751391465,
-          "Command": 18.235294117647054,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
-        ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/peter-dubie/21940",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-21939",
-        "name": "DJ Dillehay",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 31,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "DJ Dillehay gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .272",
-          "OBP .357",
-          "SLG .405"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".272"
-          },
-          {
-            "label": "OBP",
-            "value": ".357"
-          },
-          {
-            "label": "SLG",
-            "value": ".405"
-          },
-          {
-            "label": "HR",
-            "value": "5"
-          },
-          {
-            "label": "RBI",
-            "value": "41"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 42.77777777777775,
-          "Power": 22.368421052631586,
-          "Contact": 32.500000000000014,
-          "Discipline": 33.33333333333333,
-          "Speed": 10
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
-        ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
-        "schoolSlug": "brown",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/dj-dillehay/21939",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-21954",
-        "name": "Olivia Pichardo",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "OF/RHP",
-        "classYear": "SR",
-        "handedness": "L/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Olivia Pichardo looks like a OF/RHP option who limits runs and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 0.00",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "0.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "0.00"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "OF/RHP",
-          "SR",
-          "L/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
-        ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/olivia-pichardo/21954",
-        "espnAthleteId": ""
-      },
-      {
         "id": "brown-24048",
         "name": "Camren Piwnicki",
         "school": "Brown",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -35999,10 +35516,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "R/R",
           "Pitcher"
         ],
@@ -36021,7 +35538,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "school": "Brown",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -36067,10 +35584,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "R/R",
           "Pitcher"
         ],
@@ -36089,7 +35606,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "school": "Brown",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -36135,10 +35652,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "R/R",
           "Pitcher"
         ],
@@ -36157,7 +35674,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "school": "Brown",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -36203,10 +35720,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "R/R",
           "Pitcher"
         ],
@@ -36225,7 +35742,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "school": "Brown",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "L/L",
         "score": 0,
         "fit": {
@@ -36271,10 +35788,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / L/L",
+        "metaLine": "SO / L/L",
         "detailBadges": [
           "LHP",
-          "FR",
+          "SO",
           "L/L",
           "Pitcher"
         ],
@@ -36293,7 +35810,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "school": "Brown",
         "role": "Pitcher",
         "position": "INF/RHP",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -36339,10 +35856,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "INF/RHP",
-          "FR",
+          "SO",
           "R/R",
           "Pitcher"
         ],
@@ -36361,7 +35878,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "school": "Brown",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "L/R",
         "score": 0,
         "fit": {
@@ -36407,10 +35924,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / L/R",
+        "metaLine": "SO / L/R",
         "detailBadges": [
           "INF",
-          "FR",
+          "SO",
           "L/R",
           "Rostered"
         ],
@@ -36424,149 +35941,12 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21956",
-        "name": "Dylan Reid",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Dylan Reid looks like a RHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 3.77",
-          "WHIP 1.29",
-          "K/9 7.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.77"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.29"
-          },
-          {
-            "label": "K/9",
-            "value": "7.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.60"
-          },
-          {
-            "label": "IP",
-            "value": "59.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 28.08532249873032,
-          "Command": 13.571428571428568,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
-        ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/dylan-reid/21956",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-21933",
-        "name": "Stiles Begnaud",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Stiles Begnaud looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/stiles-begnaud/21933",
-        "espnAthleteId": ""
-      },
-      {
         "id": "brown-24054",
         "name": "Bryan Yang",
         "school": "Brown",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -36612,10 +35992,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
@@ -36634,7 +36014,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "school": "Brown",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -36680,10 +36060,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
@@ -36702,7 +36082,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "school": "Brown",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -36748,10 +36128,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "R/R",
           "Pitcher"
         ],
@@ -36765,81 +36145,12 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21945",
-        "name": "Christian Keel",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Christian Keel looks like a RHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 3.86",
-          "WHIP 1.41",
-          "K/9 8.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.86"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.41"
-          },
-          {
-            "label": "K/9",
-            "value": "8.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.23"
-          },
-          {
-            "label": "IP",
-            "value": "39.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 39.95416348357525,
-          "Command": 7.407407407407404,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
-        ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/christian-keel/21945",
-        "espnAthleteId": ""
-      },
-      {
         "id": "brown-24044",
         "name": "Drew Nelson",
         "school": "Brown",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -36885,10 +36196,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "R/R",
           "Pitcher"
         ],
@@ -36902,81 +36213,12 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "brown-21943",
-        "name": "Ty Harris",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "L/L",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ty Harris looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 3.00",
-          "K/9 10.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "13.50"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.00"
-          },
-          {
-            "label": "K/9",
-            "value": "10.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "13.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.70"
-          },
-          {
-            "label": "IP",
-            "value": "3.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 61.818181818181806,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster",
-          "Brown cumulative stats"
-        ],
-        "sourceSummary": "Brown Athletics roster + Brown cumulative stats",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/ty-harris/21943",
-        "espnAthleteId": ""
-      },
-      {
         "id": "brown-24047",
         "name": "Braxton Pearson",
         "school": "Brown",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -37022,10 +36264,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
@@ -37044,7 +36286,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "school": "Brown",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -37090,10 +36332,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
@@ -37112,7 +36354,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "school": "Brown",
         "role": "Hitter",
         "position": "INF/OF",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "L/R",
         "score": 0,
         "fit": {
@@ -37158,10 +36400,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "JR / L/R",
+        "metaLine": "SR / L/R",
         "detailBadges": [
           "INF/OF",
-          "JR",
+          "SR",
           "L/R",
           "Rostered"
         ],
@@ -37180,7 +36422,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "school": "Brown",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -37226,10 +36468,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
@@ -37248,7 +36490,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "school": "Brown",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -37294,10 +36536,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
@@ -37308,6 +36550,74 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "brown",
         "compositeRole": "Pitcher",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/carter-barth/24026",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "brown-24055",
+        "name": "Joey Benoit",
+        "school": "Brown",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Joey Benoit gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Brown Athletics roster"
+        ],
+        "sourceSummary": "Brown Athletics roster",
+        "schoolSlug": "brown",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/joey-benoit/24055",
         "espnAthleteId": ""
       },
       {
@@ -37444,6 +36754,618 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "brown",
         "compositeRole": "Rostered",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/nolan-choquette/24034",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "brown-24056",
+        "name": "Jake Chung",
+        "school": "Brown",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jake Chung looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Brown Athletics roster"
+        ],
+        "sourceSummary": "Brown Athletics roster",
+        "schoolSlug": "brown",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/jake-chung/24056",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "brown-24057",
+        "name": "Morrie Fried",
+        "school": "Brown",
+        "role": "Hitter",
+        "position": "INF/OF",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Morrie Fried gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF/OF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Brown Athletics roster"
+        ],
+        "sourceSummary": "Brown Athletics roster",
+        "schoolSlug": "brown",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/morrie-fried/24057",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "brown-24058",
+        "name": "Henry Gahagan",
+        "school": "Brown",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "S/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Henry Gahagan looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / S/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "S/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Brown Athletics roster"
+        ],
+        "sourceSummary": "Brown Athletics roster",
+        "schoolSlug": "brown",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/henry-gahagan/24058",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "brown-24059",
+        "name": "Nate Kempton",
+        "school": "Brown",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nate Kempton looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Brown Athletics roster"
+        ],
+        "sourceSummary": "Brown Athletics roster",
+        "schoolSlug": "brown",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/nate-kempton/24059",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "brown-24060",
+        "name": "Neil MacKinnon",
+        "school": "Brown",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Neil MacKinnon looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Brown Athletics roster"
+        ],
+        "sourceSummary": "Brown Athletics roster",
+        "schoolSlug": "brown",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/neil-mackinnon/24060",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "brown-24061",
+        "name": "Dane Purdy",
+        "school": "Brown",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Dane Purdy looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Brown Athletics roster"
+        ],
+        "sourceSummary": "Brown Athletics roster",
+        "schoolSlug": "brown",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/dane-purdy/24061",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "brown-24062",
+        "name": "Cooper Russell",
+        "school": "Brown",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cooper Russell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Brown Athletics roster"
+        ],
+        "sourceSummary": "Brown Athletics roster",
+        "schoolSlug": "brown",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/cooper-russell/24062",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "brown-24063",
+        "name": "Logan Studer",
+        "school": "Brown",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Logan Studer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "C",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Brown Athletics roster"
+        ],
+        "sourceSummary": "Brown Athletics roster",
+        "schoolSlug": "brown",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/logan-studer/24063",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "brown-24064",
+        "name": "Sean Walsh",
+        "school": "Brown",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Sean Walsh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / L/R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Brown Athletics roster"
+        ],
+        "sourceSummary": "Brown Athletics roster",
+        "schoolSlug": "brown",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/sean-walsh/24064",
         "espnAthleteId": ""
       },
       {
@@ -121499,7 +121421,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "name": "Cord Rager",
         "school": "Oklahoma",
         "role": "Pitcher",
-        "position": "LHP/INF",
+        "position": "LHP",
         "classYear": "FR",
         "handedness": "L/L",
         "score": 23,
@@ -121507,7 +121429,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cord Rager looks like a LHP/INF option who misses bats and keeps traffic under control.",
+        "summary": "Cord Rager looks like a LHP option who misses bats and keeps traffic under control.",
         "summaryMetrics": [
           "ERA 5.88",
           "WHIP 1.15",
@@ -121548,7 +121470,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "metaLine": "FR / L/L",
         "detailBadges": [
-          "LHP/INF",
+          "LHP",
           "FR",
           "L/L",
           "Pitcher"
