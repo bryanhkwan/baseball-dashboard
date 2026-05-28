@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
-  "generatedAt": "2026-05-27T13:48:56.242Z",
+  "generatedAt": "2026-05-28T11:28:31.904Z",
   "season": 2026,
   "source": "Generated Sidearm baseball school-site pool",
   "note": "This generated free player pool combines verified public roster and cumulative stats pages from multiple Sidearm baseball programs. It is broader than Toledo alone, but still not a full every-school national directory yet.",
@@ -126455,29 +126455,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "1B/OF",
         "classYear": "SO",
         "handedness": "1V",
-        "score": 9,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Zach Woodson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .130",
-          "OBP .310",
-          "SLG .217"
+          "AVG .128",
+          "OBP .305",
+          "SLG .213"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".130"
+            "value": ".128"
           },
           {
             "label": "OBP",
-            "value": ".310"
+            "value": ".305"
           },
           {
             "label": "SLG",
-            "value": ".217"
+            "value": ".213"
           },
           {
             "label": "HR",
@@ -126493,10 +126493,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 16.66666666666665,
+          "On-base": 13.88888888888887,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 23.529411764705877,
+          "Discipline": 20.98765432098765,
           "Speed": 0
         },
         "metaLine": "SO / 1V",

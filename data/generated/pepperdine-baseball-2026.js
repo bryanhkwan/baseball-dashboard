@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.pepperdine2026 = {
-  "generatedAt": "2026-05-27T13:48:26.295Z",
+  "generatedAt": "2026-05-28T11:27:58.012Z",
   "season": 2026,
   "school": {
     "slug": "pepperdine",
@@ -41,7 +41,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
   "teamSummary": {
     "record": "21-33, 15-12",
     "battingAverage": ".260",
-    "earnedRunAverage": "5.70",
+    "earnedRunAverage": "5.68",
     "wins": "21",
     "losses": "33",
     "hitting": {
@@ -77,7 +77,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "errors": "62",
       "passedBalls": "7",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "87",
+      "stolenBasesAgainst": "81",
       "caughtStealingBy": "14",
       "involvedInDoublePlays": "53",
       "involvedInTriplePlays": "0",
@@ -85,18 +85,18 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "fieldingPercentage": ".969"
     },
     "pitching": {
-      "orderOfAppearance": "30",
+      "orderOfAppearance": "15",
       "wins": "21",
       "saves": "42",
       "losses": "33",
-      "gamesStarted": "2",
+      "gamesStarted": "1",
       "gamesCompleted": "0",
       "shutouts": "2",
       "creditForCombinedShutout": "2",
       "inningsPitched": "462.2",
       "hitsAllowed": "525",
       "runsAllowed": "344",
-      "earnedRunsAllowed": "293",
+      "earnedRunsAllowed": "292",
       "walksAllowed": "201",
       "strikeouts": "370",
       "battersFaced": "2156",
@@ -109,8 +109,8 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "hitBatters": "83",
       "strikeoutsLooking": "81",
       "intentionalWalks": "2",
-      "inheritedRunners": "89",
-      "inheritedRunnersThatScored": "46",
+      "inheritedRunners": "83",
+      "inheritedRunnersThatScored": "42",
       "sacrificeHitsAllowed": "29",
       "sacrificeFliesAllowed": "20",
       "catchersInterferenceAllowed": "0",
@@ -118,7 +118,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "flyouts": "464",
       "groundouts": "453",
       "teamUnearnedRuns": "1",
-      "saveRecord": "22",
+      "saveRecord": "18",
       "pickoff": "2"
     }
   },
@@ -1354,7 +1354,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "9",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/max-aude/5519",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/aude.jpg",
-        "gamesPlayed": 34,
+        "gamesPlayed": 35,
         "gamesStarted": 27,
         "battingAverage": 0.261,
         "onBasePercentage": 0.33,
@@ -1377,7 +1377,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 167,
+        "putouts": 169,
         "assists": 0,
         "errors": 6,
         "plateAppearances": 97,
@@ -1392,9 +1392,9 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "9",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/max-aude/5519",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/aude.jpg",
-        "gamesPlayed": 31,
+        "gamesPlayed": 32,
         "gamesStarted": 27,
-        "putouts": 167,
+        "putouts": 169,
         "assists": 24,
         "errors": 6,
         "fieldingPercentage": 0.97,
@@ -1404,7 +1404,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 4,
         "catchersInterference": 0,
-        "totalChances": 197
+        "totalChances": 199
       },
       "evaluation": {
         "score": 23,
@@ -2190,7 +2190,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "sacrificeHits": 3,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 130,
+        "putouts": 128,
         "assists": 0,
         "errors": 2,
         "plateAppearances": 68,
@@ -2207,7 +2207,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/romero.jpg",
         "gamesPlayed": 29,
         "gamesStarted": 16,
-        "putouts": 130,
+        "putouts": 128,
         "assists": 12,
         "errors": 2,
         "fieldingPercentage": 0.986,
@@ -2217,7 +2217,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 144
+        "totalChances": 142
       },
       "evaluation": {
         "score": 40,
@@ -4655,13 +4655,13 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "jersey": "39",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/zach-woodson/5546",
         "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/woodson.jpg",
-        "gamesPlayed": 24,
+        "gamesPlayed": 25,
         "gamesStarted": 12,
-        "battingAverage": 0.13,
-        "onBasePercentage": 0.31,
-        "sluggingPercentage": 0.217,
-        "ops": 0.527,
-        "atBats": 46,
+        "battingAverage": 0.128,
+        "onBasePercentage": 0.305,
+        "sluggingPercentage": 0.213,
+        "ops": 0.518,
+        "atBats": 47,
         "runs": 4,
         "hits": 6,
         "doubles": 1,
@@ -4671,7 +4671,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "totalBases": 10,
         "walks": 7,
         "hitByPitch": 5,
-        "strikeouts": 17,
+        "strikeouts": 18,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -4681,7 +4681,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "putouts": 21,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 58,
+        "plateAppearances": 59,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4708,36 +4708,36 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "totalChances": 23
       },
       "evaluation": {
-        "score": 9,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 16.66666666666665,
+          "On-base": 13.88888888888887,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 23.529411764705877,
+          "Discipline": 20.98765432098765,
           "Speed": 0
         },
         "summary": "Zach Woodson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .130",
-          "OBP .310",
-          "SLG .217"
+          "AVG .128",
+          "OBP .305",
+          "SLG .213"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".130"
+            "value": ".128"
           },
           {
             "label": "OBP",
-            "value": ".310"
+            "value": ".305"
           },
           {
             "label": "SLG",
-            "value": ".217"
+            "value": ".213"
           },
           {
             "label": "HR",
@@ -7697,29 +7697,29 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "position": "1B/OF",
         "classYear": "SO",
         "handedness": "1V",
-        "score": 9,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Zach Woodson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .130",
-          "OBP .310",
-          "SLG .217"
+          "AVG .128",
+          "OBP .305",
+          "SLG .213"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".130"
+            "value": ".128"
           },
           {
             "label": "OBP",
-            "value": ".310"
+            "value": ".305"
           },
           {
             "label": "SLG",
-            "value": ".217"
+            "value": ".213"
           },
           {
             "label": "HR",
@@ -7735,10 +7735,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           }
         ],
         "components": {
-          "On-base": 16.66666666666665,
+          "On-base": 13.88888888888887,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 23.529411764705877,
+          "Discipline": 20.98765432098765,
           "Speed": 0
         },
         "metaLine": "SO / 1V",

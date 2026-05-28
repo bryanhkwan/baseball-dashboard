@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.uab2026 = {
-  "generatedAt": "2026-05-27T13:48:50.786Z",
+  "generatedAt": "2026-05-28T11:28:24.965Z",
   "season": 2026,
   "school": {
     "slug": "uab",
@@ -55,7 +55,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "walks": "297",
       "intentionalWalks": "6",
       "strikeouts": "392",
-      "strikeoutsLooking": "132",
+      "strikeoutsLooking": "135",
       "hitByPitch": "89",
       "stolenBases": "100",
       "caughtStealing": "25",
@@ -107,7 +107,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "wildPitches": "33",
       "balks": "2",
       "hitBatters": "52",
-      "strikeoutsLooking": "95",
+      "strikeoutsLooking": "97",
       "intentionalWalks": "1",
       "inheritedRunners": "19",
       "inheritedRunnersThatScored": "18",
