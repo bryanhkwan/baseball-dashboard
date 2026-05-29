@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.middle-tenn2026 = {
-  "generatedAt": "2026-05-28T11:26:53.825Z",
+  "generatedAt": "2026-05-29T11:24:52.301Z",
   "season": 2026,
   "school": {
     "slug": "middle-tenn",

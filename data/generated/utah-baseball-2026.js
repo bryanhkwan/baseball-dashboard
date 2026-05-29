@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.utah2026 = {
-  "generatedAt": "2026-05-28T11:28:27.609Z",
+  "generatedAt": "2026-05-29T11:27:14.884Z",
   "season": 2026,
   "school": {
     "slug": "utah",
@@ -55,7 +55,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
       "walks": "206",
       "intentionalWalks": "4",
       "strikeouts": "378",
-      "strikeoutsLooking": "66",
+      "strikeoutsLooking": "69",
       "hitByPitch": "75",
       "stolenBases": "47",
       "caughtStealing": "17",
@@ -74,14 +74,14 @@ window.__BASEBALL_DATASETS__.utah2026 = {
     "fielding": {
       "putouts": "1323",
       "assists": "447",
-      "errors": "52",
+      "errors": "53",
       "passedBalls": "8",
       "catchersInterference": "0",
       "stolenBasesAgainst": "33",
       "caughtStealingBy": "11",
       "involvedInDoublePlays": "52",
       "involvedInTriplePlays": "0",
-      "totalChances": "1822",
+      "totalChances": "1823",
       "fieldingPercentage": ".971"
     },
     "pitching": {
@@ -107,7 +107,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
       "wildPitches": "31",
       "balks": "1",
       "hitBatters": "51",
-      "strikeoutsLooking": "66",
+      "strikeoutsLooking": "69",
       "intentionalWalks": "8",
       "inheritedRunners": "123",
       "inheritedRunnersThatScored": "54",
@@ -1138,7 +1138,7 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "stolenBasesAttempts": 7,
         "putouts": 92,
         "assists": 0,
-        "errors": 3,
+        "errors": 4,
         "plateAppearances": 256,
         "caughtStealing": 2,
         "pickedOff": 0
@@ -1155,15 +1155,15 @@ window.__BASEBALL_DATASETS__.utah2026 = {
         "gamesStarted": 41,
         "putouts": 92,
         "assists": 2,
-        "errors": 3,
-        "fieldingPercentage": 0.969,
+        "errors": 4,
+        "fieldingPercentage": 0.959,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 97
+        "totalChances": 98
       },
       "evaluation": {
         "score": 79,
