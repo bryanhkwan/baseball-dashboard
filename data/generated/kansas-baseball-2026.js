@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.kansas2026 = {
-  "generatedAt": "2026-05-29T11:25:35.897Z",
+  "generatedAt": "2026-05-30T10:51:16.844Z",
   "season": 2026,
   "school": {
     "slug": "kansas",
@@ -39,24 +39,24 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
     }
   },
   "teamSummary": {
-    "record": "42-16, 22-8",
+    "record": "43-16, 22-8",
     "battingAverage": ".289",
-    "earnedRunAverage": "5.33",
-    "wins": "42",
+    "earnedRunAverage": "5.29",
+    "wins": "43",
     "losses": "16",
     "hitting": {
-      "atBats": "2019",
-      "runsScored": "448",
-      "hits": "583",
-      "runsBattedIn": "424",
-      "doubles": "113",
+      "atBats": "2053",
+      "runsScored": "454",
+      "hits": "593",
+      "runsBattedIn": "430",
+      "doubles": "115",
       "triples": "14",
-      "homeRuns": "102",
-      "walks": "318",
-      "intentionalWalks": "5",
-      "strikeouts": "491",
-      "strikeoutsLooking": "93",
-      "hitByPitch": "64",
+      "homeRuns": "105",
+      "walks": "323",
+      "intentionalWalks": "6",
+      "strikeouts": "499",
+      "strikeoutsLooking": "97",
+      "hitByPitch": "65",
       "stolenBases": "39",
       "caughtStealing": "4",
       "sacrificeHits": "11",
@@ -64,61 +64,61 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "385",
-      "flyOuts": "526",
+      "groundOuts": "391",
+      "flyOuts": "536",
       "groundedIntoDoublePlay": "33",
       "pickedOff": "4",
       "doublePlaysHitInto": "37",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1531",
-      "assists": "505",
-      "errors": "55",
+      "putouts": "1558",
+      "assists": "518",
+      "errors": "56",
       "passedBalls": "7",
       "catchersInterference": "0",
       "stolenBasesAgainst": "59",
-      "caughtStealingBy": "14",
+      "caughtStealingBy": "15",
       "involvedInDoublePlays": "34",
       "involvedInTriplePlays": "0",
-      "totalChances": "2091",
+      "totalChances": "2132",
       "fieldingPercentage": ".974"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "42",
-      "saves": "52",
+      "wins": "43",
+      "saves": "53",
       "losses": "16",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "2",
       "creditForCombinedShutout": "2",
-      "inningsPitched": "510.1",
-      "hitsAllowed": "508",
-      "runsAllowed": "333",
-      "earnedRunsAllowed": "302",
-      "walksAllowed": "228",
-      "strikeouts": "565",
-      "battersFaced": "2309",
-      "opponentAtBats": "1966",
-      "doublesAllowed": "98",
-      "triplesAllowed": "15",
-      "homerunsAllowed": "63",
+      "inningsPitched": "519.1",
+      "hitsAllowed": "515",
+      "runsAllowed": "336",
+      "earnedRunsAllowed": "305",
+      "walksAllowed": "229",
+      "strikeouts": "577",
+      "battersFaced": "2344",
+      "opponentAtBats": "2000",
+      "doublesAllowed": "99",
+      "triplesAllowed": "16",
+      "homerunsAllowed": "64",
       "wildPitches": "33",
       "balks": "2",
       "hitBatters": "72",
-      "strikeoutsLooking": "94",
+      "strikeoutsLooking": "97",
       "intentionalWalks": "3",
       "inheritedRunners": "117",
       "inheritedRunnersThatScored": "49",
       "sacrificeHitsAllowed": "21",
       "sacrificeFliesAllowed": "20",
       "catchersInterferenceAllowed": "0",
-      "pitches": "8921",
-      "flyouts": "424",
-      "groundouts": "470",
+      "pitches": "9055",
+      "flyouts": "428",
+      "groundouts": "481",
       "teamUnearnedRuns": "0",
-      "saveRecord": "13",
+      "saveRecord": "14",
       "pickoff": "1"
     }
   },
@@ -161,24 +161,24 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "jersey": "2",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/tyson-leblanc/17035",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/LeBlanc_Tyson.JPG.jpg",
-        "gamesPlayed": 58,
-        "gamesStarted": 58,
-        "battingAverage": 0.339,
-        "onBasePercentage": 0.421,
-        "sluggingPercentage": 0.678,
-        "ops": 1.099,
-        "atBats": 236,
-        "runs": 59,
-        "hits": 80,
+        "gamesPlayed": 59,
+        "gamesStarted": 59,
+        "battingAverage": 0.342,
+        "onBasePercentage": 0.424,
+        "sluggingPercentage": 0.688,
+        "ops": 1.112,
+        "atBats": 240,
+        "runs": 60,
+        "hits": 82,
         "doubles": 11,
         "triples": 3,
-        "homeRuns": 21,
-        "runsBattedIn": 60,
-        "totalBases": 160,
-        "walks": 34,
+        "homeRuns": 22,
+        "runsBattedIn": 62,
+        "totalBases": 165,
+        "walks": 35,
         "hitByPitch": 3,
         "strikeouts": 48,
-        "intentionalWalks": 1,
+        "intentionalWalks": 2,
         "groundedIntoDoublePlay": 7,
         "sacrificeFlies": 5,
         "sacrificeHits": 5,
@@ -187,7 +187,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "putouts": 65,
         "assists": 0,
         "errors": 12,
-        "plateAppearances": 295,
+        "plateAppearances": 300,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -199,10 +199,10 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "jersey": "2",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/tyson-leblanc/17035",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/LeBlanc_Tyson.JPG.jpg",
-        "gamesPlayed": 57,
-        "gamesStarted": 57,
+        "gamesPlayed": 58,
+        "gamesStarted": 58,
         "putouts": 65,
-        "assists": 137,
+        "assists": 139,
         "errors": 12,
         "fieldingPercentage": 0.944,
         "doublePlays": 20,
@@ -211,47 +211,47 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 214
+        "totalChances": 216
       },
       "evaluation": {
-        "score": 74,
+        "score": 76,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 78.33333333333331,
-          "Power": 94.2105263157895,
-          "Contact": 74.37500000000001,
-          "Discipline": 56.48148148148147,
+          "On-base": 79.99999999999999,
+          "Power": 96.84210526315789,
+          "Contact": 76.25000000000001,
+          "Discipline": 58.796296296296276,
           "Speed": 33.33333333333333
         },
         "summary": "Tyson LeBlanc profiles as a INF/OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .339",
-          "OBP .421",
-          "SLG .678"
+          "AVG .342",
+          "OBP .424",
+          "SLG .688"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".339"
+            "value": ".342"
           },
           {
             "label": "OBP",
-            "value": ".421"
+            "value": ".424"
           },
           {
             "label": "SLG",
-            "value": ".678"
+            "value": ".688"
           },
           {
             "label": "HR",
-            "value": "21"
+            "value": "22"
           },
           {
             "label": "RBI",
-            "value": "60"
+            "value": "62"
           },
           {
             "label": "SB",
@@ -576,13 +576,13 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "jersey": "5",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/tyson-owens/17037",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Owens_Tyson.JPG.jpg",
-        "gamesPlayed": 52,
-        "gamesStarted": 50,
-        "battingAverage": 0.282,
-        "onBasePercentage": 0.41,
-        "sluggingPercentage": 0.574,
-        "ops": 0.984,
-        "atBats": 188,
+        "gamesPlayed": 53,
+        "gamesStarted": 51,
+        "battingAverage": 0.275,
+        "onBasePercentage": 0.402,
+        "sluggingPercentage": 0.56,
+        "ops": 0.962,
+        "atBats": 193,
         "runs": 47,
         "hits": 53,
         "doubles": 9,
@@ -592,17 +592,17 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "totalBases": 108,
         "walks": 34,
         "hitByPitch": 7,
-        "strikeouts": 51,
+        "strikeouts": 52,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 0,
         "sacrificeHits": 2,
         "stolenBases": 6,
         "stolenBasesAttempts": 7,
-        "putouts": 87,
+        "putouts": 90,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 239,
+        "plateAppearances": 244,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -614,51 +614,51 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "jersey": "5",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/tyson-owens/17037",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Owens_Tyson.JPG.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "putouts": 87,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "putouts": 90,
         "assists": 3,
         "errors": 2,
-        "fieldingPercentage": 0.978,
+        "fieldingPercentage": 0.979,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 92
+        "totalChances": 95
       },
       "evaluation": {
-        "score": 57,
+        "score": 53,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 72.2222222222222,
-          "Power": 66.84210526315789,
-          "Contact": 38.74999999999998,
-          "Discipline": 51.85185185185184,
+          "On-base": 67.77777777777779,
+          "Power": 63.157894736842124,
+          "Contact": 34.375000000000014,
+          "Discipline": 50.42735042735041,
           "Speed": 20
         },
         "summary": "Tyson Owens profiles as a OF/C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .282",
-          "OBP .410",
-          "SLG .574"
+          "AVG .275",
+          "OBP .402",
+          "SLG .560"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".282"
+            "value": ".275"
           },
           {
             "label": "OBP",
-            "value": ".410"
+            "value": ".402"
           },
           {
             "label": "SLG",
-            "value": ".574"
+            "value": ".560"
           },
           {
             "label": "HR",
@@ -721,20 +721,20 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "jersey": "7",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/dylan-schlotterback/17039",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Schlotterback_Dylan.JPG.jpg",
-        "gamesPlayed": 58,
-        "gamesStarted": 56,
+        "gamesPlayed": 59,
+        "gamesStarted": 57,
         "battingAverage": 0.274,
-        "onBasePercentage": 0.388,
-        "sluggingPercentage": 0.396,
-        "ops": 0.784,
-        "atBats": 197,
-        "runs": 39,
-        "hits": 54,
+        "onBasePercentage": 0.386,
+        "sluggingPercentage": 0.393,
+        "ops": 0.779,
+        "atBats": 201,
+        "runs": 40,
+        "hits": 55,
         "doubles": 15,
         "triples": 0,
         "homeRuns": 3,
         "runsBattedIn": 30,
-        "totalBases": 78,
+        "totalBases": 79,
         "walks": 32,
         "hitByPitch": 6,
         "strikeouts": 45,
@@ -747,7 +747,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "putouts": 27,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 241,
+        "plateAppearances": 245,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -759,10 +759,10 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "jersey": "7",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/dylan-schlotterback/17039",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Schlotterback_Dylan.JPG.jpg",
-        "gamesPlayed": 52,
-        "gamesStarted": 51,
+        "gamesPlayed": 53,
+        "gamesStarted": 52,
         "putouts": 27,
-        "assists": 99,
+        "assists": 101,
         "errors": 3,
         "fieldingPercentage": 0.977,
         "doublePlays": 8,
@@ -771,7 +771,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 129
+        "totalChances": 131
       },
       "evaluation": {
         "score": 39,
@@ -780,8 +780,8 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 60,
-          "Power": 20.000000000000007,
+          "On-base": 58.88888888888888,
+          "Power": 19.21052631578948,
           "Contact": 33.750000000000014,
           "Discipline": 56.79012345679011,
           "Speed": 6.666666666666667
@@ -789,8 +789,8 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "summary": "Dylan Schlotterback gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .274",
-          "OBP .388",
-          "SLG .396"
+          "OBP .386",
+          "SLG .393"
         ],
         "statCards": [
           {
@@ -799,11 +799,11 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
           },
           {
             "label": "OBP",
-            "value": ".388"
+            "value": ".386"
           },
           {
             "label": "SLG",
-            "value": ".396"
+            "value": ".393"
           },
           {
             "label": "HR",
@@ -954,23 +954,23 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "jersey": "9",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/cade-baldridge/17041",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Baldridge_Cade.JPG.jpg",
-        "gamesPlayed": 58,
-        "gamesStarted": 58,
-        "battingAverage": 0.318,
-        "onBasePercentage": 0.406,
-        "sluggingPercentage": 0.457,
-        "ops": 0.863,
-        "atBats": 245,
+        "gamesPlayed": 59,
+        "gamesStarted": 59,
+        "battingAverage": 0.325,
+        "onBasePercentage": 0.413,
+        "sluggingPercentage": 0.466,
+        "ops": 0.879,
+        "atBats": 249,
         "runs": 48,
-        "hits": 78,
-        "doubles": 13,
+        "hits": 81,
+        "doubles": 14,
         "triples": 0,
         "homeRuns": 7,
-        "runsBattedIn": 42,
-        "totalBases": 112,
-        "walks": 24,
+        "runsBattedIn": 43,
+        "totalBases": 116,
+        "walks": 25,
         "hitByPitch": 13,
-        "strikeouts": 51,
+        "strikeouts": 52,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
@@ -979,8 +979,8 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "stolenBasesAttempts": 7,
         "putouts": 96,
         "assists": 0,
-        "errors": 2,
-        "plateAppearances": 292,
+        "errors": 3,
+        "plateAppearances": 297,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -992,51 +992,51 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "jersey": "9",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/cade-baldridge/17041",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Baldridge_Cade.JPG.jpg",
-        "gamesPlayed": 55,
-        "gamesStarted": 55,
+        "gamesPlayed": 56,
+        "gamesStarted": 56,
         "putouts": 96,
-        "assists": 97,
-        "errors": 2,
-        "fieldingPercentage": 0.99,
+        "assists": 100,
+        "errors": 3,
+        "fieldingPercentage": 0.985,
         "doublePlays": 15,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 195
+        "totalChances": 199
       },
       "evaluation": {
-        "score": 49,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 70,
-          "Power": 36.05263157894738,
-          "Contact": 61.25000000000001,
-          "Discipline": 30.065359477124176,
+          "On-base": 73.88888888888886,
+          "Power": 38.42105263157896,
+          "Contact": 65.625,
+          "Discipline": 31.196581196581192,
           "Speed": 20
         },
         "summary": "Cade Baldridge profiles as a INF/OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .318",
-          "OBP .406",
-          "SLG .457"
+          "AVG .325",
+          "OBP .413",
+          "SLG .466"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".318"
+            "value": ".325"
           },
           {
             "label": "OBP",
-            "value": ".406"
+            "value": ".413"
           },
           {
             "label": "SLG",
-            "value": ".457"
+            "value": ".466"
           },
           {
             "label": "HR",
@@ -1044,7 +1044,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
           },
           {
             "label": "RBI",
-            "value": "42"
+            "value": "43"
           },
           {
             "label": "SB",
@@ -1099,13 +1099,13 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "jersey": "10",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/savion-flowers/17042",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Flowers_Savion.JPG.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 3,
-        "battingAverage": 0.3,
-        "onBasePercentage": 0.364,
-        "sluggingPercentage": 0.45,
-        "ops": 0.814,
-        "atBats": 20,
+        "gamesPlayed": 12,
+        "gamesStarted": 4,
+        "battingAverage": 0.273,
+        "onBasePercentage": 0.36,
+        "sluggingPercentage": 0.409,
+        "ops": 0.769,
+        "atBats": 22,
         "runs": 6,
         "hits": 6,
         "doubles": 0,
@@ -1113,9 +1113,9 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "homeRuns": 1,
         "runsBattedIn": 5,
         "totalBases": 9,
-        "walks": 2,
+        "walks": 3,
         "hitByPitch": 0,
-        "strikeouts": 5,
+        "strikeouts": 7,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 0,
@@ -1125,7 +1125,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "putouts": 1,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 22,
+        "plateAppearances": 25,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1152,36 +1152,36 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "totalChances": 1
       },
       "evaluation": {
-        "score": 36,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 46.66666666666665,
-          "Power": 34.21052631578948,
-          "Contact": 49.999999999999986,
-          "Discipline": 22.22222222222222,
+          "On-base": 44.44444444444443,
+          "Power": 23.42105263157894,
+          "Contact": 33.12500000000001,
+          "Discipline": 25.39682539682539,
           "Speed": 0
         },
         "summary": "Savion Flowers gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .364",
-          "SLG .450"
+          "AVG .273",
+          "OBP .360",
+          "SLG .409"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".364"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".450"
+            "value": ".409"
           },
           {
             "label": "HR",
@@ -1387,31 +1387,31 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "jersey": "12",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/dominic-voegele/17032",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Voegele_Dom.JPG.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 15,
-        "appearances": 15,
+        "gamesPlayed": 16,
+        "gamesStarted": 16,
+        "appearances": 16,
         "gamesCompleted": 1,
-        "earnedRunAverage": 6.01,
-        "whip": 1.41,
-        "wins": 5,
+        "earnedRunAverage": 5.85,
+        "whip": 1.39,
+        "wins": 6,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 85.33333333333333,
-        "inningsPitchedDisplay": "85.1",
-        "hitsAllowed": 87,
-        "runsAllowed": 58,
-        "earnedRunsAllowed": 57,
-        "walksAllowed": 33,
-        "strikeouts": 108,
-        "doublesAllowed": 18,
-        "triplesAllowed": 4,
-        "homeRunsAllowed": 12,
-        "opponentsAtBats": 339,
+        "inningsPitched": 92.33333333333333,
+        "inningsPitchedDisplay": "92.1",
+        "hitsAllowed": 94,
+        "runsAllowed": 61,
+        "earnedRunsAllowed": 60,
+        "walksAllowed": 34,
+        "strikeouts": 117,
+        "doublesAllowed": 19,
+        "triplesAllowed": 5,
+        "homeRunsAllowed": 13,
+        "opponentsAtBats": 367,
         "wildPitches": 5,
         "hitBatters": 6,
         "balks": 0,
-        "opponentsBattingAverage": 0.257,
+        "opponentsBattingAverage": 0.256,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1421,10 +1421,10 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "jersey": "12",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/dominic-voegele/17032",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Voegele_Dom.JPG.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 8,
+        "gamesPlayed": 9,
+        "gamesStarted": 9,
         "putouts": 4,
-        "assists": 5,
+        "assists": 9,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 1,
@@ -1433,7 +1433,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 9
+        "totalChances": 13
       },
       "evaluation": {
         "score": 21,
@@ -1444,24 +1444,24 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 67.1875,
-          "Command": 45.45454545454546,
+          "Miss bats": 67.31211027239908,
+          "Command": 48.82352941176471,
           "Damage suppression": 0
         },
         "summary": "Dominic Voegele looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.01",
-          "WHIP 1.41",
+          "ERA 5.85",
+          "WHIP 1.39",
           "K/9 11.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.01"
+            "value": "5.85"
           },
           {
             "label": "WHIP",
-            "value": "1.41"
+            "value": "1.39"
           },
           {
             "label": "K/9",
@@ -1469,7 +1469,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
           },
           {
             "label": "BB/9",
-            "value": "3.5"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
@@ -1477,7 +1477,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
           },
           {
             "label": "IP",
-            "value": "85.3"
+            "value": "92.3"
           }
         ],
         "metaLine": "JR / R/R",
@@ -1670,33 +1670,33 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "jersey": "16",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/josh-dykhoff/17046",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Dykhoff_Joshua.JPG.jpg",
-        "gamesPlayed": 57,
-        "gamesStarted": 53,
-        "battingAverage": 0.298,
-        "onBasePercentage": 0.378,
-        "sluggingPercentage": 0.6,
-        "ops": 0.978,
-        "atBats": 205,
-        "runs": 47,
+        "gamesPlayed": 58,
+        "gamesStarted": 54,
+        "battingAverage": 0.293,
+        "onBasePercentage": 0.379,
+        "sluggingPercentage": 0.591,
+        "ops": 0.97,
+        "atBats": 208,
+        "runs": 48,
         "hits": 61,
         "doubles": 11,
         "triples": 3,
         "homeRuns": 15,
         "runsBattedIn": 53,
         "totalBases": 123,
-        "walks": 28,
+        "walks": 30,
         "hitByPitch": 1,
-        "strikeouts": 58,
+        "strikeouts": 59,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 4,
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 446,
+        "putouts": 458,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 241,
+        "plateAppearances": 246,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1741,9 +1741,9 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "jersey": "16",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/josh-dykhoff/17046",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Dykhoff_Joshua.JPG.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 53,
-        "putouts": 446,
+        "gamesPlayed": 57,
+        "gamesStarted": 54,
+        "putouts": 458,
         "assists": 39,
         "errors": 6,
         "fieldingPercentage": 0.988,
@@ -1753,7 +1753,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 491
+        "totalChances": 503
       },
       "evaluation": {
         "score": 0,
@@ -2132,33 +2132,33 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "jersey": "21",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/augusto-mungarrieta/17048",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Mungarrieta_Augusto.JPG.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 50,
+        "gamesPlayed": 57,
+        "gamesStarted": 51,
         "battingAverage": 0.3,
-        "onBasePercentage": 0.392,
-        "sluggingPercentage": 0.59,
-        "ops": 0.982,
-        "atBats": 200,
-        "runs": 37,
-        "hits": 60,
+        "onBasePercentage": 0.394,
+        "sluggingPercentage": 0.601,
+        "ops": 0.995,
+        "atBats": 203,
+        "runs": 38,
+        "hits": 61,
         "doubles": 13,
         "triples": 0,
-        "homeRuns": 15,
-        "runsBattedIn": 47,
-        "totalBases": 118,
+        "homeRuns": 16,
+        "runsBattedIn": 49,
+        "totalBases": 122,
         "walks": 20,
-        "hitByPitch": 13,
-        "strikeouts": 62,
+        "hitByPitch": 14,
+        "strikeouts": 64,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 4,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 492,
+        "putouts": 503,
         "assists": 0,
         "errors": 8,
-        "plateAppearances": 238,
+        "plateAppearances": 242,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -2170,38 +2170,38 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "jersey": "21",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/augusto-mungarrieta/17048",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Mungarrieta_Augusto.JPG.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 50,
-        "putouts": 492,
-        "assists": 39,
+        "gamesPlayed": 57,
+        "gamesStarted": 51,
+        "putouts": 503,
+        "assists": 41,
         "errors": 8,
-        "fieldingPercentage": 0.985,
+        "fieldingPercentage": 0.986,
         "doublePlays": 3,
         "stolenBasesAgainst": 56,
-        "caughtStealingBy": 13,
+        "caughtStealingBy": 14,
         "stolenBasesPercentage": null,
         "passedBalls": 5,
         "catchersInterference": 0,
-        "totalChances": 539
+        "totalChances": 552
       },
       "evaluation": {
-        "score": 50,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 62.22222222222222,
-          "Power": 71.05263157894737,
+          "On-base": 63.33333333333333,
+          "Power": 73.94736842105264,
           "Contact": 49.999999999999986,
-          "Discipline": 13.62007168458781,
+          "Discipline": 12.499999999999996,
           "Speed": 3.3333333333333335
         },
         "summary": "Augusto Mungarrieta profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
           "AVG .300",
-          "OBP .392",
-          "SLG .590"
+          "OBP .394",
+          "SLG .601"
         ],
         "statCards": [
           {
@@ -2210,19 +2210,19 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
           },
           {
             "label": "OBP",
-            "value": ".392"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".590"
+            "value": ".601"
           },
           {
             "label": "HR",
-            "value": "15"
+            "value": "16"
           },
           {
             "label": "RBI",
-            "value": "47"
+            "value": "49"
           },
           {
             "label": "SB",
@@ -2277,23 +2277,23 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "jersey": "23",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/dariel-osoria/17029",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Osaria_Dariel.JPG.jpg",
-        "gamesPlayed": 49,
-        "gamesStarted": 49,
-        "battingAverage": 0.225,
-        "onBasePercentage": 0.368,
-        "sluggingPercentage": 0.401,
-        "ops": 0.769,
-        "atBats": 182,
-        "runs": 45,
-        "hits": 41,
-        "doubles": 9,
+        "gamesPlayed": 50,
+        "gamesStarted": 50,
+        "battingAverage": 0.231,
+        "onBasePercentage": 0.37,
+        "sluggingPercentage": 0.425,
+        "ops": 0.795,
+        "atBats": 186,
+        "runs": 46,
+        "hits": 43,
+        "doubles": 10,
         "triples": 1,
-        "homeRuns": 7,
-        "runsBattedIn": 40,
-        "totalBases": 73,
+        "homeRuns": 8,
+        "runsBattedIn": 41,
+        "totalBases": 79,
         "walks": 37,
         "hitByPitch": 8,
-        "strikeouts": 36,
+        "strikeouts": 37,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 7,
@@ -2303,7 +2303,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "putouts": 17,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 238,
+        "plateAppearances": 242,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2330,44 +2330,44 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "totalChances": 59
       },
       "evaluation": {
-        "score": 36,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 48.88888888888887,
-          "Power": 21.31578947368422,
-          "Contact": 3.1250000000000027,
-          "Discipline": 91.97530864197529,
+          "On-base": 49.999999999999986,
+          "Power": 27.631578947368418,
+          "Contact": 6.875000000000006,
+          "Discipline": 88.88888888888889,
           "Speed": 13.333333333333334
         },
         "summary": "Dariel Osoria profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .225",
-          "OBP .368",
-          "SLG .401"
+          "AVG .231",
+          "OBP .370",
+          "SLG .425"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".225"
+            "value": ".231"
           },
           {
             "label": "OBP",
-            "value": ".368"
+            "value": ".370"
           },
           {
             "label": "SLG",
-            "value": ".401"
+            "value": ".425"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "41"
           },
           {
             "label": "SB",
@@ -2564,20 +2564,20 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "jersey": "26",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/brady-ballinger/17025",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Ballinger_Brady.JPG.jpg",
-        "gamesPlayed": 55,
+        "gamesPlayed": 56,
         "gamesStarted": 55,
-        "battingAverage": 0.286,
-        "onBasePercentage": 0.398,
-        "sluggingPercentage": 0.476,
-        "ops": 0.874,
-        "atBats": 210,
-        "runs": 49,
-        "hits": 60,
+        "battingAverage": 0.289,
+        "onBasePercentage": 0.4,
+        "sluggingPercentage": 0.479,
+        "ops": 0.879,
+        "atBats": 211,
+        "runs": 50,
+        "hits": 61,
         "doubles": 13,
         "triples": 3,
         "homeRuns": 7,
         "runsBattedIn": 43,
-        "totalBases": 100,
+        "totalBases": 101,
         "walks": 40,
         "hitByPitch": 5,
         "strikeouts": 45,
@@ -2587,10 +2587,10 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 2,
-        "putouts": 124,
+        "putouts": 125,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 268,
+        "plateAppearances": 269,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -2602,9 +2602,9 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "jersey": "26",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/brady-ballinger/17025",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Ballinger_Brady.JPG.jpg",
-        "gamesPlayed": 45,
+        "gamesPlayed": 46,
         "gamesStarted": 45,
-        "putouts": 124,
+        "putouts": 125,
         "assists": 4,
         "errors": 1,
         "fieldingPercentage": 0.992,
@@ -2614,39 +2614,39 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 129
+        "totalChances": 130
       },
       "evaluation": {
-        "score": 50,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 65.55555555555556,
-          "Power": 41.05263157894737,
-          "Contact": 41.24999999999998,
+          "On-base": 66.66666666666666,
+          "Power": 41.84210526315789,
+          "Contact": 43.124999999999986,
           "Discipline": 76.54320987654319,
           "Speed": 3.3333333333333335
         },
-        "summary": "Brady Ballinger gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Brady Ballinger profiles as a INF/OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .398",
-          "SLG .476"
+          "AVG .289",
+          "OBP .400",
+          "SLG .479"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".289"
           },
           {
             "label": "OBP",
-            "value": ".398"
+            "value": ".400"
           },
           {
             "label": "SLG",
-            "value": ".476"
+            "value": ".479"
           },
           {
             "label": "HR",
@@ -2798,31 +2798,31 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "jersey": "29",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/boede-rahe/17050",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Rahe_Boede.JPG.jpg",
-        "gamesPlayed": 27,
+        "gamesPlayed": 28,
         "gamesStarted": 2,
-        "appearances": 27,
+        "appearances": 28,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.96,
-        "whip": 1.18,
+        "earnedRunAverage": 3.81,
+        "whip": 1.13,
         "wins": 6,
         "losses": 1,
-        "saves": 9,
+        "saves": 10,
         "shutouts": 0,
-        "inningsPitched": 50,
-        "inningsPitchedDisplay": "50.0",
+        "inningsPitched": 52,
+        "inningsPitchedDisplay": "52.0",
         "hitsAllowed": 43,
         "runsAllowed": 23,
         "earnedRunsAllowed": 22,
         "walksAllowed": 16,
-        "strikeouts": 65,
+        "strikeouts": 68,
         "doublesAllowed": 12,
         "triplesAllowed": 0,
         "homeRunsAllowed": 6,
-        "opponentsAtBats": 190,
+        "opponentsAtBats": 196,
         "wildPitches": 4,
         "hitBatters": 0,
         "balks": 0,
-        "opponentsBattingAverage": 0.226,
+        "opponentsBattingAverage": 0.219,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2847,7 +2847,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "totalChances": 10
       },
       "evaluation": {
-        "score": 24,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2855,40 +2855,40 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 70,
-          "Command": 61.25000000000001,
+          "Miss bats": 70.62937062937064,
+          "Command": 65,
           "Damage suppression": 0
         },
         "summary": "Boede Rahe looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.96",
-          "WHIP 1.18",
-          "K/9 11.7"
+          "ERA 3.81",
+          "WHIP 1.13",
+          "K/9 11.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.96"
+            "value": "3.81"
           },
           {
             "label": "WHIP",
-            "value": "1.18"
+            "value": "1.13"
           },
           {
             "label": "K/9",
-            "value": "11.7"
+            "value": "11.8"
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "2.8"
           },
           {
             "label": "HR/9",
-            "value": "1.08"
+            "value": "1.04"
           },
           {
             "label": "IP",
-            "value": "50.0"
+            "value": "52.0"
           }
         ],
         "metaLine": "R-JR / R/R",
@@ -3027,13 +3027,13 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "jersey": "31",
         "profileUrl": "https://kuathletics.com/sports/baseball/roster/jordan-bach/17052",
         "imageUrl": "https://kuathletics.com/images/2025/10/8/Bach_Jordan.JPG.jpg",
-        "gamesPlayed": 58,
-        "gamesStarted": 58,
-        "battingAverage": 0.295,
-        "onBasePercentage": 0.427,
-        "sluggingPercentage": 0.466,
-        "ops": 0.893,
-        "atBats": 234,
+        "gamesPlayed": 59,
+        "gamesStarted": 59,
+        "battingAverage": 0.29,
+        "onBasePercentage": 0.421,
+        "sluggingPercentage": 0.458,
+        "ops": 0.879,
+        "atBats": 238,
         "runs": 54,
         "hits": 69,
         "doubles": 15,
@@ -3053,7 +3053,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "putouts": 78,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 299,
+        "plateAppearances": 303,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -3080,36 +3080,36 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "totalChances": 83
       },
       "evaluation": {
-        "score": 57,
+        "score": 55,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 81.66666666666666,
-          "Power": 38.42105263157896,
-          "Contact": 46.874999999999986,
+          "On-base": 78.33333333333331,
+          "Power": 36.31578947368422,
+          "Contact": 43.749999999999986,
           "Discipline": 74.99999999999999,
           "Speed": 20
         },
         "summary": "Jordan Bach profiles as a OF/C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .295",
-          "OBP .427",
-          "SLG .466"
+          "AVG .290",
+          "OBP .421",
+          "SLG .458"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".295"
+            "value": ".290"
           },
           {
             "label": "OBP",
-            "value": ".427"
+            "value": ".421"
           },
           {
             "label": "SLG",
-            "value": ".466"
+            "value": ".458"
           },
           {
             "label": "HR",
@@ -4816,37 +4816,37 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "position": "INF/OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 74,
+        "score": 76,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Tyson LeBlanc profiles as a INF/OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .339",
-          "OBP .421",
-          "SLG .678"
+          "AVG .342",
+          "OBP .424",
+          "SLG .688"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".339"
+            "value": ".342"
           },
           {
             "label": "OBP",
-            "value": ".421"
+            "value": ".424"
           },
           {
             "label": "SLG",
-            "value": ".678"
+            "value": ".688"
           },
           {
             "label": "HR",
-            "value": "21"
+            "value": "22"
           },
           {
             "label": "RBI",
-            "value": "60"
+            "value": "62"
           },
           {
             "label": "SB",
@@ -4854,10 +4854,10 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
           }
         ],
         "components": {
-          "On-base": 78.33333333333331,
-          "Power": 94.2105263157895,
-          "Contact": 74.37500000000001,
-          "Discipline": 56.48148148148147,
+          "On-base": 79.99999999999999,
+          "Power": 96.84210526315789,
+          "Contact": 76.25000000000001,
+          "Discipline": 58.796296296296276,
           "Speed": 33.33333333333333
         },
         "metaLine": "JR / R/R",
@@ -5023,29 +5023,29 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "position": "OF/C",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 57,
+        "score": 53,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "summary": "Tyson Owens profiles as a OF/C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .282",
-          "OBP .410",
-          "SLG .574"
+          "AVG .275",
+          "OBP .402",
+          "SLG .560"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".282"
+            "value": ".275"
           },
           {
             "label": "OBP",
-            "value": ".410"
+            "value": ".402"
           },
           {
             "label": "SLG",
-            "value": ".574"
+            "value": ".560"
           },
           {
             "label": "HR",
@@ -5061,10 +5061,10 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
           }
         ],
         "components": {
-          "On-base": 72.2222222222222,
-          "Power": 66.84210526315789,
-          "Contact": 38.74999999999998,
-          "Discipline": 51.85185185185184,
+          "On-base": 67.77777777777779,
+          "Power": 63.157894736842124,
+          "Contact": 34.375000000000014,
+          "Discipline": 50.42735042735041,
           "Speed": 20
         },
         "metaLine": "SO / L/R",
@@ -5100,8 +5100,8 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "summary": "Dylan Schlotterback gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .274",
-          "OBP .388",
-          "SLG .396"
+          "OBP .386",
+          "SLG .393"
         ],
         "statCards": [
           {
@@ -5110,11 +5110,11 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
           },
           {
             "label": "OBP",
-            "value": ".388"
+            "value": ".386"
           },
           {
             "label": "SLG",
-            "value": ".396"
+            "value": ".393"
           },
           {
             "label": "HR",
@@ -5130,8 +5130,8 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
           }
         ],
         "components": {
-          "On-base": 60,
-          "Power": 20.000000000000007,
+          "On-base": 58.88888888888888,
+          "Power": 19.21052631578948,
           "Contact": 33.750000000000014,
           "Discipline": 56.79012345679011,
           "Speed": 6.666666666666667
@@ -5229,29 +5229,29 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "position": "INF/OF",
         "classYear": "JR",
         "handedness": "S/R",
-        "score": 49,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cade Baldridge profiles as a INF/OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .318",
-          "OBP .406",
-          "SLG .457"
+          "AVG .325",
+          "OBP .413",
+          "SLG .466"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".318"
+            "value": ".325"
           },
           {
             "label": "OBP",
-            "value": ".406"
+            "value": ".413"
           },
           {
             "label": "SLG",
-            "value": ".457"
+            "value": ".466"
           },
           {
             "label": "HR",
@@ -5259,7 +5259,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
           },
           {
             "label": "RBI",
-            "value": "42"
+            "value": "43"
           },
           {
             "label": "SB",
@@ -5267,10 +5267,10 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
           }
         ],
         "components": {
-          "On-base": 70,
-          "Power": 36.05263157894738,
-          "Contact": 61.25000000000001,
-          "Discipline": 30.065359477124176,
+          "On-base": 73.88888888888886,
+          "Power": 38.42105263157896,
+          "Contact": 65.625,
+          "Discipline": 31.196581196581192,
           "Speed": 20
         },
         "metaLine": "JR / S/R",
@@ -5298,29 +5298,29 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 36,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Savion Flowers gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .364",
-          "SLG .450"
+          "AVG .273",
+          "OBP .360",
+          "SLG .409"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".364"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".450"
+            "value": ".409"
           },
           {
             "label": "HR",
@@ -5336,10 +5336,10 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
           }
         ],
         "components": {
-          "On-base": 46.66666666666665,
-          "Power": 34.21052631578948,
-          "Contact": 49.999999999999986,
-          "Discipline": 22.22222222222222,
+          "On-base": 44.44444444444443,
+          "Power": 23.42105263157894,
+          "Contact": 33.12500000000001,
+          "Discipline": 25.39682539682539,
           "Speed": 0
         },
         "metaLine": "SO / L/R",
@@ -5443,18 +5443,18 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         },
         "summary": "Dominic Voegele looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.01",
-          "WHIP 1.41",
+          "ERA 5.85",
+          "WHIP 1.39",
           "K/9 11.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.01"
+            "value": "5.85"
           },
           {
             "label": "WHIP",
-            "value": "1.41"
+            "value": "1.39"
           },
           {
             "label": "K/9",
@@ -5462,7 +5462,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
           },
           {
             "label": "BB/9",
-            "value": "3.5"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
@@ -5470,14 +5470,14 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
           },
           {
             "label": "IP",
-            "value": "85.3"
+            "value": "92.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 67.1875,
-          "Command": 45.45454545454546,
+          "Miss bats": 67.31211027239908,
+          "Command": 48.82352941176471,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -5781,7 +5781,7 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 50,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5789,8 +5789,8 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "summary": "Augusto Mungarrieta profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
           "AVG .300",
-          "OBP .392",
-          "SLG .590"
+          "OBP .394",
+          "SLG .601"
         ],
         "statCards": [
           {
@@ -5799,19 +5799,19 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
           },
           {
             "label": "OBP",
-            "value": ".392"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".590"
+            "value": ".601"
           },
           {
             "label": "HR",
-            "value": "15"
+            "value": "16"
           },
           {
             "label": "RBI",
-            "value": "47"
+            "value": "49"
           },
           {
             "label": "SB",
@@ -5819,10 +5819,10 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
           }
         ],
         "components": {
-          "On-base": 62.22222222222222,
-          "Power": 71.05263157894737,
+          "On-base": 63.33333333333333,
+          "Power": 73.94736842105264,
           "Contact": 49.999999999999986,
-          "Discipline": 13.62007168458781,
+          "Discipline": 12.499999999999996,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / R/R",
@@ -5850,37 +5850,37 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 36,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dariel Osoria profiles as a INF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .225",
-          "OBP .368",
-          "SLG .401"
+          "AVG .231",
+          "OBP .370",
+          "SLG .425"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".225"
+            "value": ".231"
           },
           {
             "label": "OBP",
-            "value": ".368"
+            "value": ".370"
           },
           {
             "label": "SLG",
-            "value": ".401"
+            "value": ".425"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "41"
           },
           {
             "label": "SB",
@@ -5888,10 +5888,10 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
           }
         ],
         "components": {
-          "On-base": 48.88888888888887,
-          "Power": 21.31578947368422,
-          "Contact": 3.1250000000000027,
-          "Discipline": 91.97530864197529,
+          "On-base": 49.999999999999986,
+          "Power": 27.631578947368418,
+          "Contact": 6.875000000000006,
+          "Discipline": 88.88888888888889,
           "Speed": 13.333333333333334
         },
         "metaLine": "SR / R/R",
@@ -5988,29 +5988,29 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "position": "INF/OF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 50,
+        "score": 51,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Brady Ballinger gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Brady Ballinger profiles as a INF/OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .398",
-          "SLG .476"
+          "AVG .289",
+          "OBP .400",
+          "SLG .479"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".289"
           },
           {
             "label": "OBP",
-            "value": ".398"
+            "value": ".400"
           },
           {
             "label": "SLG",
-            "value": ".476"
+            "value": ".479"
           },
           {
             "label": "HR",
@@ -6026,9 +6026,9 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
           }
         ],
         "components": {
-          "On-base": 65.55555555555556,
-          "Power": 41.05263157894737,
-          "Contact": 41.24999999999998,
+          "On-base": 66.66666666666666,
+          "Power": 41.84210526315789,
+          "Contact": 43.124999999999986,
           "Discipline": 76.54320987654319,
           "Speed": 3.3333333333333335
         },
@@ -6125,48 +6125,48 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "position": "RHP",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 24,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Boede Rahe looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.96",
-          "WHIP 1.18",
-          "K/9 11.7"
+          "ERA 3.81",
+          "WHIP 1.13",
+          "K/9 11.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.96"
+            "value": "3.81"
           },
           {
             "label": "WHIP",
-            "value": "1.18"
+            "value": "1.13"
           },
           {
             "label": "K/9",
-            "value": "11.7"
+            "value": "11.8"
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "2.8"
           },
           {
             "label": "HR/9",
-            "value": "1.08"
+            "value": "1.04"
           },
           {
             "label": "IP",
-            "value": "50.0"
+            "value": "52.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 70,
-          "Command": 61.25000000000001,
+          "Miss bats": 70.62937062937064,
+          "Command": 65,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / R/R",
@@ -6262,29 +6262,29 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
         "position": "OF/C",
         "classYear": "GR",
         "handedness": "L/R",
-        "score": 57,
+        "score": 55,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "summary": "Jordan Bach profiles as a OF/C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .295",
-          "OBP .427",
-          "SLG .466"
+          "AVG .290",
+          "OBP .421",
+          "SLG .458"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".295"
+            "value": ".290"
           },
           {
             "label": "OBP",
-            "value": ".427"
+            "value": ".421"
           },
           {
             "label": "SLG",
-            "value": ".466"
+            "value": ".458"
           },
           {
             "label": "HR",
@@ -6300,9 +6300,9 @@ window.__BASEBALL_DATASETS__.kansas2026 = {
           }
         ],
         "components": {
-          "On-base": 81.66666666666666,
-          "Power": 38.42105263157896,
-          "Contact": 46.874999999999986,
+          "On-base": 78.33333333333331,
+          "Power": 36.31578947368422,
+          "Contact": 43.749999999999986,
           "Discipline": 74.99999999999999,
           "Speed": 20
         },
