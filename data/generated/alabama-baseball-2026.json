@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T10:50:52.406Z",
+  "generatedAt": "2026-05-31T10:55:05.514Z",
   "season": 2026,
   "school": {
     "slug": "alabama",
@@ -38,71 +38,71 @@
     }
   },
   "teamSummary": {
-    "record": "38-19, 18-12",
-    "battingAverage": ".255",
-    "earnedRunAverage": "4.26",
-    "wins": "38",
+    "record": "39-19, 18-12",
+    "battingAverage": ".256",
+    "earnedRunAverage": "4.18",
+    "wins": "39",
     "losses": "19",
     "hitting": {
-      "atBats": "1837",
-      "runsScored": "376",
-      "hits": "469",
-      "runsBattedIn": "346",
-      "doubles": "92",
-      "triples": "9",
-      "homeRuns": "74",
-      "walks": "275",
+      "atBats": "1874",
+      "runsScored": "383",
+      "hits": "480",
+      "runsBattedIn": "353",
+      "doubles": "93",
+      "triples": "10",
+      "homeRuns": "76",
+      "walks": "279",
       "intentionalWalks": "8",
-      "strikeouts": "522",
-      "strikeoutsLooking": "158",
-      "hitByPitch": "93",
-      "stolenBases": "83",
+      "strikeouts": "529",
+      "strikeoutsLooking": "160",
+      "hitByPitch": "97",
+      "stolenBases": "85",
       "caughtStealing": "8",
       "sacrificeHits": "14",
       "sacrificeFlies": "26",
       "reachedOnCatchersInteference": "2",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "410",
-      "flyOuts": "444",
-      "groundedIntoDoublePlay": "26",
+      "groundOuts": "415",
+      "flyOuts": "458",
+      "groundedIntoDoublePlay": "27",
       "pickedOff": "3",
-      "doublePlaysHitInto": "29",
+      "doublePlaysHitInto": "30",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1470",
-      "assists": "498",
-      "errors": "74",
+      "putouts": "1497",
+      "assists": "511",
+      "errors": "80",
       "passedBalls": "10",
       "catchersInterference": "1",
       "stolenBasesAgainst": "53",
       "caughtStealingBy": "17",
-      "involvedInDoublePlays": "44",
+      "involvedInDoublePlays": "47",
       "involvedInTriplePlays": "0",
-      "totalChances": "2042",
-      "fieldingPercentage": ".964"
+      "totalChances": "2088",
+      "fieldingPercentage": ".962"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "38",
-      "saves": "14",
+      "wins": "39",
+      "saves": "15",
       "losses": "19",
       "gamesStarted": "0",
       "gamesCompleted": "1",
       "shutouts": "2",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "490.0",
-      "hitsAllowed": "452",
-      "runsAllowed": "281",
+      "inningsPitched": "499.0",
+      "hitsAllowed": "462",
+      "runsAllowed": "286",
       "earnedRunsAllowed": "232",
-      "walksAllowed": "197",
-      "strikeouts": "490",
-      "battersFaced": "2143",
-      "opponentAtBats": "1846",
-      "doublesAllowed": "79",
+      "walksAllowed": "201",
+      "strikeouts": "496",
+      "battersFaced": "2185",
+      "opponentAtBats": "1882",
+      "doublesAllowed": "81",
       "triplesAllowed": "4",
-      "homerunsAllowed": "52",
+      "homerunsAllowed": "53",
       "wildPitches": "29",
       "balks": "2",
       "hitBatters": "58",
@@ -111,13 +111,13 @@
       "inheritedRunners": "7",
       "inheritedRunnersThatScored": "3",
       "sacrificeHitsAllowed": "23",
-      "sacrificeFliesAllowed": "18",
+      "sacrificeFliesAllowed": "20",
       "catchersInterferenceAllowed": "1",
-      "pitches": "8158",
-      "flyouts": "437",
-      "groundouts": "462",
+      "pitches": "8315",
+      "flyouts": "445",
+      "groundouts": "472",
       "teamUnearnedRuns": "0",
-      "saveRecord": "13",
+      "saveRecord": "14",
       "pickoff": "9"
     }
   },
@@ -160,20 +160,20 @@
         "jersey": "1",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/justin-lebron/17284",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Lebron__Justin.png",
-        "gamesPlayed": 55,
-        "gamesStarted": 55,
-        "battingAverage": 0.264,
-        "onBasePercentage": 0.379,
-        "sluggingPercentage": 0.528,
-        "ops": 0.907,
-        "atBats": 212,
-        "runs": 53,
-        "hits": 56,
+        "gamesPlayed": 56,
+        "gamesStarted": 56,
+        "battingAverage": 0.272,
+        "onBasePercentage": 0.383,
+        "sluggingPercentage": 0.544,
+        "ops": 0.927,
+        "atBats": 217,
+        "runs": 55,
+        "hits": 59,
         "doubles": 11,
         "triples": 0,
-        "homeRuns": 15,
-        "runsBattedIn": 44,
-        "totalBases": 112,
+        "homeRuns": 16,
+        "runsBattedIn": 46,
+        "totalBases": 118,
         "walks": 26,
         "hitByPitch": 15,
         "strikeouts": 52,
@@ -181,12 +181,12 @@
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
-        "stolenBases": 38,
-        "stolenBasesAttempts": 39,
-        "putouts": 83,
+        "stolenBases": 40,
+        "stolenBasesAttempts": 41,
+        "putouts": 87,
         "assists": 0,
         "errors": 18,
-        "plateAppearances": 296,
+        "plateAppearances": 303,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -198,63 +198,63 @@
         "jersey": "1",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/justin-lebron/17284",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Lebron__Justin.png",
-        "gamesPlayed": 54,
-        "gamesStarted": 54,
-        "putouts": 83,
-        "assists": 143,
+        "gamesPlayed": 55,
+        "gamesStarted": 55,
+        "putouts": 87,
+        "assists": 148,
         "errors": 18,
-        "fieldingPercentage": 0.926,
-        "doublePlays": 31,
+        "fieldingPercentage": 0.929,
+        "doublePlays": 33,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 244
+        "totalChances": 253
       },
       "evaluation": {
-        "score": 51,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 54.99999999999999,
-          "Power": 54.73684210526317,
-          "Contact": 27.500000000000007,
+          "On-base": 57.22222222222222,
+          "Power": 58.94736842105265,
+          "Contact": 32.500000000000014,
           "Discipline": 33.33333333333333,
           "Speed": 100
         },
         "summary": "Justin Lebron profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .264",
-          "OBP .379",
-          "SLG .528"
+          "AVG .272",
+          "OBP .383",
+          "SLG .544"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".264"
+            "value": ".272"
           },
           {
             "label": "OBP",
-            "value": ".379"
+            "value": ".383"
           },
           {
             "label": "SLG",
-            "value": ".528"
+            "value": ".544"
           },
           {
             "label": "HR",
-            "value": "15"
+            "value": "16"
           },
           {
             "label": "RBI",
-            "value": "44"
+            "value": "46"
           },
           {
             "label": "SB",
-            "value": "38"
+            "value": "40"
           }
         ],
         "metaLine": "JR / R-R",
@@ -450,13 +450,13 @@
         "jersey": "4",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/brennan-holt/17411",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Holt__Brennan.png",
-        "gamesPlayed": 57,
-        "gamesStarted": 57,
-        "battingAverage": 0.24,
-        "onBasePercentage": 0.387,
-        "sluggingPercentage": 0.324,
-        "ops": 0.711,
-        "atBats": 179,
+        "gamesPlayed": 58,
+        "gamesStarted": 58,
+        "battingAverage": 0.235,
+        "onBasePercentage": 0.383,
+        "sluggingPercentage": 0.317,
+        "ops": 0.7,
+        "atBats": 183,
         "runs": 34,
         "hits": 43,
         "doubles": 7,
@@ -465,7 +465,7 @@
         "runsBattedIn": 20,
         "totalBases": 58,
         "walks": 31,
-        "hitByPitch": 13,
+        "hitByPitch": 14,
         "strikeouts": 60,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
@@ -473,10 +473,10 @@
         "sacrificeHits": 2,
         "stolenBases": 15,
         "stolenBasesAttempts": 17,
-        "putouts": 92,
+        "putouts": 96,
         "assists": 0,
-        "errors": 8,
-        "plateAppearances": 246,
+        "errors": 10,
+        "plateAppearances": 251,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -488,51 +488,51 @@
         "jersey": "4",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/brennan-holt/17411",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Holt__Brennan.png",
-        "gamesPlayed": 57,
-        "gamesStarted": 57,
-        "putouts": 92,
-        "assists": 131,
-        "errors": 8,
-        "fieldingPercentage": 0.965,
-        "doublePlays": 25,
+        "gamesPlayed": 58,
+        "gamesStarted": 58,
+        "putouts": 96,
+        "assists": 137,
+        "errors": 10,
+        "fieldingPercentage": 0.959,
+        "doublePlays": 27,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 231
+        "totalChances": 243
       },
       "evaluation": {
-        "score": 31,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 59.444444444444436,
-          "Power": 1.0526315789473695,
-          "Contact": 12.499999999999993,
+          "On-base": 57.22222222222222,
+          "Power": 0,
+          "Contact": 9.374999999999991,
           "Discipline": 35.18518518518518,
           "Speed": 50
         },
         "summary": "Brennan Holt profiles as a INF/OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .240",
-          "OBP .387",
-          "SLG .324"
+          "AVG .235",
+          "OBP .383",
+          "SLG .317"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".240"
+            "value": ".235"
           },
           {
             "label": "OBP",
-            "value": ".387"
+            "value": ".383"
           },
           {
             "label": "SLG",
-            "value": ".324"
+            "value": ".317"
           },
           {
             "label": "HR",
@@ -829,31 +829,31 @@
         "jersey": "7",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/matthew-heiberger/17291",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Heiberger__Matthew.png",
-        "gamesPlayed": 23,
+        "gamesPlayed": 24,
         "gamesStarted": 0,
-        "appearances": 23,
+        "appearances": 24,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.31,
-        "whip": 1.42,
+        "earnedRunAverage": 3.05,
+        "whip": 1.43,
         "wins": 3,
         "losses": 2,
-        "saves": 4,
+        "saves": 5,
         "shutouts": 0,
-        "inningsPitched": 35.333333333333336,
-        "inningsPitchedDisplay": "35.1",
-        "hitsAllowed": 31,
-        "runsAllowed": 19,
+        "inningsPitched": 38.333333333333336,
+        "inningsPitchedDisplay": "38.1",
+        "hitsAllowed": 35,
+        "runsAllowed": 22,
         "earnedRunsAllowed": 13,
-        "walksAllowed": 19,
-        "strikeouts": 30,
-        "doublesAllowed": 6,
+        "walksAllowed": 20,
+        "strikeouts": 31,
+        "doublesAllowed": 7,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 128,
+        "homeRunsAllowed": 5,
+        "opponentsAtBats": 142,
         "wildPitches": 1,
         "hitBatters": 7,
         "balks": 0,
-        "opponentsBattingAverage": 0.242,
+        "opponentsBattingAverage": 0.246,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -886,40 +886,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 33.10463121783876,
-          "Command": 11.578947368421053,
+          "Miss bats": 29.80237154150197,
+          "Command": 11.000000000000002,
           "Damage suppression": 0
         },
         "summary": "Matthew Heiberger looks like a LHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.31",
-          "WHIP 1.42",
-          "K/9 7.6"
+          "ERA 3.05",
+          "WHIP 1.43",
+          "K/9 7.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.31"
+            "value": "3.05"
           },
           {
             "label": "WHIP",
-            "value": "1.42"
+            "value": "1.43"
           },
           {
             "label": "K/9",
-            "value": "7.6"
+            "value": "7.3"
           },
           {
             "label": "BB/9",
-            "value": "4.8"
+            "value": "4.7"
           },
           {
             "label": "HR/9",
-            "value": "1.02"
+            "value": "1.17"
           },
           {
             "label": "IP",
-            "value": "35.3"
+            "value": "38.3"
           }
         ],
         "metaLine": "JR / L-L",
@@ -1112,20 +1112,20 @@
         "jersey": "9",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/bryce-fowler/17290",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Fowler__Bryce.png",
-        "gamesPlayed": 56,
-        "gamesStarted": 56,
-        "battingAverage": 0.324,
-        "onBasePercentage": 0.425,
-        "sluggingPercentage": 0.495,
-        "ops": 0.92,
-        "atBats": 216,
-        "runs": 53,
-        "hits": 70,
+        "gamesPlayed": 57,
+        "gamesStarted": 57,
+        "battingAverage": 0.326,
+        "onBasePercentage": 0.424,
+        "sluggingPercentage": 0.502,
+        "ops": 0.926,
+        "atBats": 221,
+        "runs": 54,
+        "hits": 72,
         "doubles": 17,
-        "triples": 1,
+        "triples": 2,
         "homeRuns": 6,
         "runsBattedIn": 38,
-        "totalBases": 107,
+        "totalBases": 111,
         "walks": 32,
         "hitByPitch": 8,
         "strikeouts": 56,
@@ -1135,10 +1135,10 @@
         "sacrificeHits": 0,
         "stolenBases": 15,
         "stolenBasesAttempts": 17,
-        "putouts": 129,
+        "putouts": 131,
         "assists": 0,
-        "errors": 3,
-        "plateAppearances": 279,
+        "errors": 4,
+        "plateAppearances": 284,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1150,51 +1150,51 @@
         "jersey": "9",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/bryce-fowler/17290",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Fowler__Bryce.png",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "putouts": 129,
+        "gamesPlayed": 52,
+        "gamesStarted": 52,
+        "putouts": 131,
         "assists": 3,
-        "errors": 3,
-        "fieldingPercentage": 0.978,
+        "errors": 4,
+        "fieldingPercentage": 0.971,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 135
+        "totalChances": 138
       },
       "evaluation": {
-        "score": 60,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 80.55555555555554,
-          "Power": 46.05263157894737,
-          "Contact": 65,
+          "On-base": 79.99999999999999,
+          "Power": 47.89473684210527,
+          "Contact": 66.25000000000001,
           "Discipline": 41.26984126984126,
           "Speed": 50
         },
         "summary": "Bryce Fowler profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .324",
-          "OBP .425",
-          "SLG .495"
+          "AVG .326",
+          "OBP .424",
+          "SLG .502"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".324"
+            "value": ".326"
           },
           {
             "label": "OBP",
-            "value": ".425"
+            "value": ".424"
           },
           {
             "label": "SLG",
-            "value": ".495"
+            "value": ".502"
           },
           {
             "label": "HR",
@@ -1257,33 +1257,33 @@
         "jersey": "10",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/brady-neal/17298",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Neal__Brady.png",
-        "gamesPlayed": 55,
-        "gamesStarted": 52,
-        "battingAverage": 0.335,
+        "gamesPlayed": 56,
+        "gamesStarted": 53,
+        "battingAverage": 0.333,
         "onBasePercentage": 0.443,
-        "sluggingPercentage": 0.573,
-        "ops": 1.016,
-        "atBats": 185,
+        "sluggingPercentage": 0.566,
+        "ops": 1.009,
+        "atBats": 189,
         "runs": 37,
-        "hits": 62,
+        "hits": 63,
         "doubles": 15,
         "triples": 1,
         "homeRuns": 9,
         "runsBattedIn": 45,
-        "totalBases": 106,
+        "totalBases": 107,
         "walks": 32,
-        "hitByPitch": 8,
-        "strikeouts": 42,
+        "hitByPitch": 9,
+        "strikeouts": 44,
         "intentionalWalks": 3,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 5,
         "sacrificeHits": 2,
         "stolenBases": 4,
         "stolenBasesAttempts": 6,
-        "putouts": 210,
+        "putouts": 216,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 240,
+        "plateAppearances": 245,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1295,43 +1295,43 @@
         "jersey": "10",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/brady-neal/17298",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Neal__Brady.png",
-        "gamesPlayed": 47,
-        "gamesStarted": 45,
-        "putouts": 210,
+        "gamesPlayed": 48,
+        "gamesStarted": 46,
+        "putouts": 216,
         "assists": 16,
         "errors": 5,
-        "fieldingPercentage": 0.978,
+        "fieldingPercentage": 0.979,
         "doublePlays": 2,
         "stolenBasesAgainst": 13,
         "caughtStealingBy": 5,
         "stolenBasesPercentage": null,
         "passedBalls": 5,
         "catchersInterference": 0,
-        "totalChances": 231
+        "totalChances": 237
       },
       "evaluation": {
-        "score": 69,
+        "score": 68,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
           "On-base": 90.55555555555554,
-          "Power": 66.57894736842105,
-          "Contact": 71.87500000000001,
-          "Discipline": 62.43386243386243,
+          "Power": 64.73684210526315,
+          "Contact": 70.625,
+          "Discipline": 58.58585858585859,
           "Speed": 13.333333333333334
         },
         "summary": "Brady Neal profiles as a C/INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .335",
+          "AVG .333",
           "OBP .443",
-          "SLG .573"
+          "SLG .566"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".335"
+            "value": ".333"
           },
           {
             "label": "OBP",
@@ -1339,7 +1339,7 @@
           },
           {
             "label": "SLG",
-            "value": ".573"
+            "value": ".566"
           },
           {
             "label": "HR",
@@ -1686,13 +1686,13 @@
         "jersey": "13",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/luke-vaughn/17304",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Vaughn__Luke.png",
-        "gamesPlayed": 49,
-        "gamesStarted": 46,
-        "battingAverage": 0.224,
-        "onBasePercentage": 0.373,
-        "sluggingPercentage": 0.476,
-        "ops": 0.849,
-        "atBats": 147,
+        "gamesPlayed": 50,
+        "gamesStarted": 47,
+        "battingAverage": 0.22,
+        "onBasePercentage": 0.374,
+        "sluggingPercentage": 0.467,
+        "ops": 0.841,
+        "atBats": 150,
         "runs": 36,
         "hits": 33,
         "doubles": 8,
@@ -1700,8 +1700,8 @@
         "homeRuns": 9,
         "runsBattedIn": 30,
         "totalBases": 70,
-        "walks": 25,
-        "hitByPitch": 11,
+        "walks": 26,
+        "hitByPitch": 12,
         "strikeouts": 33,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
@@ -1709,10 +1709,10 @@
         "sacrificeHits": 2,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 346,
+        "putouts": 354,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 187,
+        "plateAppearances": 192,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1724,19 +1724,19 @@
         "jersey": "13",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/luke-vaughn/17304",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Vaughn__Luke.png",
-        "gamesPlayed": 48,
-        "gamesStarted": 46,
-        "putouts": 346,
+        "gamesPlayed": 49,
+        "gamesStarted": 47,
+        "putouts": 354,
         "assists": 12,
         "errors": 4,
         "fieldingPercentage": 0.989,
-        "doublePlays": 34,
+        "doublePlays": 37,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 362
+        "totalChances": 370
       },
       "evaluation": {
         "score": 36,
@@ -1745,30 +1745,30 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 41.05263157894737,
-          "Contact": 2.500000000000002,
-          "Discipline": 61.95286195286195,
+          "On-base": 52.222222222222214,
+          "Power": 38.6842105263158,
+          "Contact": 0,
+          "Discipline": 65.31986531986531,
           "Speed": 0
         },
         "summary": "Luke Vaughn gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .224",
-          "OBP .373",
-          "SLG .476"
+          "AVG .220",
+          "OBP .374",
+          "SLG .467"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".224"
+            "value": ".220"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".374"
           },
           {
             "label": "SLG",
-            "value": ".476"
+            "value": ".467"
           },
           {
             "label": "HR",
@@ -1831,23 +1831,23 @@
         "jersey": "14",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/peyton-steele/17302",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Steele__Peyton.png",
-        "gamesPlayed": 44,
-        "gamesStarted": 37,
-        "battingAverage": 0.225,
-        "onBasePercentage": 0.311,
-        "sluggingPercentage": 0.318,
-        "ops": 0.629,
-        "atBats": 129,
+        "gamesPlayed": 45,
+        "gamesStarted": 38,
+        "battingAverage": 0.218,
+        "onBasePercentage": 0.307,
+        "sluggingPercentage": 0.308,
+        "ops": 0.615,
+        "atBats": 133,
         "runs": 20,
         "hits": 29,
         "doubles": 4,
         "triples": 1,
         "homeRuns": 2,
-        "runsBattedIn": 22,
+        "runsBattedIn": 23,
         "totalBases": 41,
-        "walks": 16,
+        "walks": 17,
         "hitByPitch": 1,
-        "strikeouts": 45,
+        "strikeouts": 46,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 2,
@@ -1857,7 +1857,7 @@
         "putouts": 66,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 148,
+        "plateAppearances": 153,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -1884,36 +1884,36 @@
         "totalChances": 69
       },
       "evaluation": {
-        "score": 8,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 17.222222222222207,
+          "On-base": 14.999999999999982,
           "Power": 0,
-          "Contact": 3.1250000000000027,
-          "Discipline": 17.28395061728395,
+          "Contact": 0,
+          "Discipline": 18.84057971014492,
           "Speed": 0
         },
         "summary": "Peyton Steele gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .225",
-          "OBP .311",
-          "SLG .318"
+          "AVG .218",
+          "OBP .307",
+          "SLG .308"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".225"
+            "value": ".218"
           },
           {
             "label": "OBP",
-            "value": ".311"
+            "value": ".307"
           },
           {
             "label": "SLG",
-            "value": ".318"
+            "value": ".308"
           },
           {
             "label": "HR",
@@ -1921,7 +1921,7 @@
           },
           {
             "label": "RBI",
-            "value": "22"
+            "value": "23"
           },
           {
             "label": "SB",
@@ -2585,27 +2585,27 @@
         "jersey": "20",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/zane-adams/17285",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Adams__Zane.png",
-        "gamesPlayed": 14,
-        "gamesStarted": 14,
-        "appearances": 14,
+        "gamesPlayed": 15,
+        "gamesStarted": 15,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.36,
-        "whip": 1.34,
-        "wins": 6,
+        "earnedRunAverage": 4.04,
+        "whip": 1.35,
+        "wins": 7,
         "losses": 4,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 76.33333333333333,
-        "inningsPitchedDisplay": "76.1",
-        "hitsAllowed": 78,
-        "runsAllowed": 40,
+        "inningsPitched": 82.33333333333333,
+        "inningsPitchedDisplay": "82.1",
+        "hitsAllowed": 84,
+        "runsAllowed": 42,
         "earnedRunsAllowed": 37,
-        "walksAllowed": 24,
-        "strikeouts": 85,
-        "doublesAllowed": 14,
+        "walksAllowed": 27,
+        "strikeouts": 90,
+        "doublesAllowed": 15,
         "triplesAllowed": 1,
         "homeRunsAllowed": 8,
-        "opponentsAtBats": 296,
+        "opponentsAtBats": 318,
         "wildPitches": 3,
         "hitBatters": 3,
         "balks": 0,
@@ -2619,22 +2619,22 @@
         "jersey": "20",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/zane-adams/17285",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Adams__Zane.png",
-        "gamesPlayed": 11,
-        "gamesStarted": 11,
+        "gamesPlayed": 12,
+        "gamesStarted": 12,
         "putouts": 2,
-        "assists": 7,
-        "errors": 2,
-        "fieldingPercentage": 0.818,
-        "doublePlays": 0,
+        "assists": 8,
+        "errors": 3,
+        "fieldingPercentage": 0.769,
+        "doublePlays": 1,
         "stolenBasesAgainst": 11,
         "caughtStealingBy": 3,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 11
+        "totalChances": 13
       },
       "evaluation": {
-        "score": 19,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2642,40 +2642,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 54.743946010321565,
-          "Command": 50.83333333333333,
+          "Miss bats": 53.07324254692677,
+          "Command": 46.66666666666668,
           "Damage suppression": 0
         },
         "summary": "Zane Adams looks like a LHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.36",
-          "WHIP 1.34",
-          "K/9 10.0"
+          "ERA 4.04",
+          "WHIP 1.35",
+          "K/9 9.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.36"
+            "value": "4.04"
           },
           {
             "label": "WHIP",
-            "value": "1.34"
+            "value": "1.35"
           },
           {
             "label": "K/9",
-            "value": "10.0"
+            "value": "9.8"
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "0.94"
+            "value": "0.87"
           },
           {
             "label": "IP",
-            "value": "76.3"
+            "value": "82.3"
           }
         ],
         "metaLine": "JR / L-L",
@@ -2959,7 +2959,7 @@
         "jersey": "23",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/chase-kroberger/17400",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Kroberger__Chase.png",
-        "gamesPlayed": 21,
+        "gamesPlayed": 22,
         "gamesStarted": 6,
         "battingAverage": 0.148,
         "onBasePercentage": 0.258,
@@ -3993,21 +3993,21 @@
         "jersey": "32",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/jason-torres/17303",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Torres__Jason.png",
-        "gamesPlayed": 57,
-        "gamesStarted": 57,
-        "battingAverage": 0.236,
-        "onBasePercentage": 0.359,
-        "sluggingPercentage": 0.39,
-        "ops": 0.749,
-        "atBats": 195,
-        "runs": 26,
-        "hits": 46,
-        "doubles": 7,
+        "gamesPlayed": 58,
+        "gamesStarted": 58,
+        "battingAverage": 0.242,
+        "onBasePercentage": 0.368,
+        "sluggingPercentage": 0.399,
+        "ops": 0.767,
+        "atBats": 198,
+        "runs": 28,
+        "hits": 48,
+        "doubles": 8,
         "triples": 1,
         "homeRuns": 7,
-        "runsBattedIn": 45,
-        "totalBases": 76,
-        "walks": 34,
+        "runsBattedIn": 46,
+        "totalBases": 79,
+        "walks": 36,
         "hitByPitch": 5,
         "strikeouts": 55,
         "intentionalWalks": 1,
@@ -4016,10 +4016,10 @@
         "sacrificeHits": 5,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 23,
+        "putouts": 24,
         "assists": 0,
-        "errors": 6,
-        "plateAppearances": 242,
+        "errors": 8,
+        "plateAppearances": 247,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4031,51 +4031,51 @@
         "jersey": "32",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/jason-torres/17303",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Torres__Jason.png",
-        "gamesPlayed": 47,
-        "gamesStarted": 47,
-        "putouts": 23,
-        "assists": 96,
-        "errors": 6,
-        "fieldingPercentage": 0.952,
-        "doublePlays": 7,
+        "gamesPlayed": 48,
+        "gamesStarted": 48,
+        "putouts": 24,
+        "assists": 97,
+        "errors": 8,
+        "fieldingPercentage": 0.938,
+        "doublePlays": 8,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 125
+        "totalChances": 129
       },
       "evaluation": {
-        "score": 27,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 43.888888888888864,
-          "Power": 18.421052631578952,
-          "Contact": 9.999999999999991,
-          "Discipline": 46.46464646464645,
+          "On-base": 48.88888888888887,
+          "Power": 20.78947368421053,
+          "Contact": 13.749999999999996,
+          "Discipline": 50.5050505050505,
           "Speed": 0
         },
         "summary": "Jason Torres gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .236",
-          "OBP .359",
-          "SLG .390"
+          "AVG .242",
+          "OBP .368",
+          "SLG .399"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".236"
+            "value": ".242"
           },
           {
             "label": "OBP",
-            "value": ".359"
+            "value": ".368"
           },
           {
             "label": "SLG",
-            "value": ".390"
+            "value": ".399"
           },
           {
             "label": "HR",
@@ -4083,7 +4083,7 @@
           },
           {
             "label": "RBI",
-            "value": "45"
+            "value": "46"
           },
           {
             "label": "SB",
@@ -4138,23 +4138,23 @@
         "jersey": "33",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/john-lemm/17413",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Lemm__John.png",
-        "gamesPlayed": 52,
-        "gamesStarted": 49,
-        "battingAverage": 0.241,
-        "onBasePercentage": 0.373,
-        "sluggingPercentage": 0.46,
-        "ops": 0.833,
-        "atBats": 174,
-        "runs": 38,
-        "hits": 42,
+        "gamesPlayed": 53,
+        "gamesStarted": 50,
+        "battingAverage": 0.247,
+        "onBasePercentage": 0.378,
+        "sluggingPercentage": 0.461,
+        "ops": 0.839,
+        "atBats": 178,
+        "runs": 39,
+        "hits": 44,
         "doubles": 9,
         "triples": 1,
         "homeRuns": 9,
         "runsBattedIn": 31,
-        "totalBases": 80,
+        "totalBases": 82,
         "walks": 30,
-        "hitByPitch": 7,
-        "strikeouts": 48,
+        "hitByPitch": 8,
+        "strikeouts": 50,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
@@ -4164,7 +4164,7 @@
         "putouts": 288,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 214,
+        "plateAppearances": 219,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4191,36 +4191,36 @@
         "totalChances": 310
       },
       "evaluation": {
-        "score": 35,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 36.842105263157904,
-          "Contact": 13.124999999999995,
-          "Discipline": 47.222222222222214,
+          "On-base": 54.44444444444443,
+          "Power": 37.10526315789475,
+          "Contact": 16.875,
+          "Discipline": 44.444444444444436,
           "Speed": 3.3333333333333335
         },
         "summary": "John Lemm gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .241",
-          "OBP .373",
-          "SLG .460"
+          "AVG .247",
+          "OBP .378",
+          "SLG .461"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".241"
+            "value": ".247"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".378"
           },
           {
             "label": "SLG",
-            "value": ".460"
+            "value": ".461"
           },
           {
             "label": "HR",
@@ -4919,33 +4919,33 @@
         "jersey": "42",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/eric-hines/17398",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Hines__Eric.png",
-        "gamesPlayed": 33,
-        "gamesStarted": 28,
-        "battingAverage": 0.279,
-        "onBasePercentage": 0.336,
-        "sluggingPercentage": 0.514,
-        "ops": 0.85,
-        "atBats": 111,
-        "runs": 22,
-        "hits": 31,
+        "gamesPlayed": 34,
+        "gamesStarted": 29,
+        "battingAverage": 0.276,
+        "onBasePercentage": 0.331,
+        "sluggingPercentage": 0.526,
+        "ops": 0.857,
+        "atBats": 116,
+        "runs": 23,
+        "hits": 32,
         "doubles": 3,
         "triples": 1,
-        "homeRuns": 7,
-        "runsBattedIn": 20,
-        "totalBases": 57,
+        "homeRuns": 8,
+        "runsBattedIn": 23,
+        "totalBases": 61,
         "walks": 5,
         "hitByPitch": 5,
-        "strikeouts": 42,
+        "strikeouts": 44,
         "intentionalWalks": 2,
-        "groundedIntoDoublePlay": 0,
+        "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 23,
+        "putouts": 25,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 122,
+        "plateAppearances": 127,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4957,59 +4957,59 @@
         "jersey": "42",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/eric-hines/17398",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Hines__Eric.png",
-        "gamesPlayed": 16,
-        "gamesStarted": 13,
-        "putouts": 23,
+        "gamesPlayed": 17,
+        "gamesStarted": 14,
+        "putouts": 25,
         "assists": 0,
         "errors": 2,
-        "fieldingPercentage": 0.92,
+        "fieldingPercentage": 0.926,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 25
+        "totalChances": 27
       },
       "evaluation": {
-        "score": 30,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 31.11111111111111,
-          "Power": 51.05263157894737,
-          "Contact": 36.875000000000014,
+          "On-base": 28.33333333333333,
+          "Power": 54.21052631578949,
+          "Contact": 35.000000000000014,
           "Discipline": 0,
           "Speed": 0
         },
         "summary": "Eric Hines gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .279",
-          "OBP .336",
-          "SLG .514"
+          "AVG .276",
+          "OBP .331",
+          "SLG .526"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".279"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".336"
+            "value": ".331"
           },
           {
             "label": "SLG",
-            "value": ".514"
+            "value": ".526"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "23"
           },
           {
             "label": "SB",
@@ -5858,47 +5858,47 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "R-R",
-        "score": 51,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Justin Lebron profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .264",
-          "OBP .379",
-          "SLG .528"
+          "AVG .272",
+          "OBP .383",
+          "SLG .544"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".264"
+            "value": ".272"
           },
           {
             "label": "OBP",
-            "value": ".379"
+            "value": ".383"
           },
           {
             "label": "SLG",
-            "value": ".528"
+            "value": ".544"
           },
           {
             "label": "HR",
-            "value": "15"
+            "value": "16"
           },
           {
             "label": "RBI",
-            "value": "44"
+            "value": "46"
           },
           {
             "label": "SB",
-            "value": "38"
+            "value": "40"
           }
         ],
         "components": {
-          "On-base": 54.99999999999999,
-          "Power": 54.73684210526317,
-          "Contact": 27.500000000000007,
+          "On-base": 57.22222222222222,
+          "Power": 58.94736842105265,
+          "Contact": 32.500000000000014,
           "Discipline": 33.33333333333333,
           "Speed": 100
         },
@@ -5996,29 +5996,29 @@
         "position": "INF/OF",
         "classYear": "GR",
         "handedness": "L-R",
-        "score": 31,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brennan Holt profiles as a INF/OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .240",
-          "OBP .387",
-          "SLG .324"
+          "AVG .235",
+          "OBP .383",
+          "SLG .317"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".240"
+            "value": ".235"
           },
           {
             "label": "OBP",
-            "value": ".387"
+            "value": ".383"
           },
           {
             "label": "SLG",
-            "value": ".324"
+            "value": ".317"
           },
           {
             "label": "HR",
@@ -6034,9 +6034,9 @@
           }
         ],
         "components": {
-          "On-base": 59.444444444444436,
-          "Power": 1.0526315789473695,
-          "Contact": 12.499999999999993,
+          "On-base": 57.22222222222222,
+          "Power": 0,
+          "Contact": 9.374999999999991,
           "Discipline": 35.18518518518518,
           "Speed": 50
         },
@@ -6209,41 +6209,41 @@
         },
         "summary": "Matthew Heiberger looks like a LHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.31",
-          "WHIP 1.42",
-          "K/9 7.6"
+          "ERA 3.05",
+          "WHIP 1.43",
+          "K/9 7.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.31"
+            "value": "3.05"
           },
           {
             "label": "WHIP",
-            "value": "1.42"
+            "value": "1.43"
           },
           {
             "label": "K/9",
-            "value": "7.6"
+            "value": "7.3"
           },
           {
             "label": "BB/9",
-            "value": "4.8"
+            "value": "4.7"
           },
           {
             "label": "HR/9",
-            "value": "1.02"
+            "value": "1.17"
           },
           {
             "label": "IP",
-            "value": "35.3"
+            "value": "38.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 33.10463121783876,
-          "Command": 11.578947368421053,
+          "Miss bats": 29.80237154150197,
+          "Command": 11.000000000000002,
           "Damage suppression": 0
         },
         "metaLine": "JR / L-L",
@@ -6340,29 +6340,29 @@
         "position": "OF",
         "classYear": "R-SR",
         "handedness": "L-L",
-        "score": 60,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Bryce Fowler profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .324",
-          "OBP .425",
-          "SLG .495"
+          "AVG .326",
+          "OBP .424",
+          "SLG .502"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".324"
+            "value": ".326"
           },
           {
             "label": "OBP",
-            "value": ".425"
+            "value": ".424"
           },
           {
             "label": "SLG",
-            "value": ".495"
+            "value": ".502"
           },
           {
             "label": "HR",
@@ -6378,9 +6378,9 @@
           }
         ],
         "components": {
-          "On-base": 80.55555555555554,
-          "Power": 46.05263157894737,
-          "Contact": 65,
+          "On-base": 79.99999999999999,
+          "Power": 47.89473684210527,
+          "Contact": 66.25000000000001,
           "Discipline": 41.26984126984126,
           "Speed": 50
         },
@@ -6409,21 +6409,21 @@
         "position": "C/INF",
         "classYear": "SR",
         "handedness": "L-R",
-        "score": 69,
+        "score": 68,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Brady Neal profiles as a C/INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .335",
+          "AVG .333",
           "OBP .443",
-          "SLG .573"
+          "SLG .566"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".335"
+            "value": ".333"
           },
           {
             "label": "OBP",
@@ -6431,7 +6431,7 @@
           },
           {
             "label": "SLG",
-            "value": ".573"
+            "value": ".566"
           },
           {
             "label": "HR",
@@ -6448,9 +6448,9 @@
         ],
         "components": {
           "On-base": 90.55555555555554,
-          "Power": 66.57894736842105,
-          "Contact": 71.87500000000001,
-          "Discipline": 62.43386243386243,
+          "Power": 64.73684210526315,
+          "Contact": 70.625,
+          "Discipline": 58.58585858585859,
           "Speed": 13.333333333333334
         },
         "metaLine": "SR / L-R",
@@ -6623,22 +6623,22 @@
         },
         "summary": "Luke Vaughn gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .224",
-          "OBP .373",
-          "SLG .476"
+          "AVG .220",
+          "OBP .374",
+          "SLG .467"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".224"
+            "value": ".220"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".374"
           },
           {
             "label": "SLG",
-            "value": ".476"
+            "value": ".467"
           },
           {
             "label": "HR",
@@ -6654,10 +6654,10 @@
           }
         ],
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 41.05263157894737,
-          "Contact": 2.500000000000002,
-          "Discipline": 61.95286195286195,
+          "On-base": 52.222222222222214,
+          "Power": 38.6842105263158,
+          "Contact": 0,
+          "Discipline": 65.31986531986531,
           "Speed": 0
         },
         "metaLine": "R-SO / R-R",
@@ -6685,29 +6685,29 @@
         "position": "OF",
         "classYear": "SO",
         "handedness": "R-R",
-        "score": 8,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Peyton Steele gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .225",
-          "OBP .311",
-          "SLG .318"
+          "AVG .218",
+          "OBP .307",
+          "SLG .308"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".225"
+            "value": ".218"
           },
           {
             "label": "OBP",
-            "value": ".311"
+            "value": ".307"
           },
           {
             "label": "SLG",
-            "value": ".318"
+            "value": ".308"
           },
           {
             "label": "HR",
@@ -6715,7 +6715,7 @@
           },
           {
             "label": "RBI",
-            "value": "22"
+            "value": "23"
           },
           {
             "label": "SB",
@@ -6723,10 +6723,10 @@
           }
         ],
         "components": {
-          "On-base": 17.222222222222207,
+          "On-base": 14.999999999999982,
           "Power": 0,
-          "Contact": 3.1250000000000027,
-          "Discipline": 17.28395061728395,
+          "Contact": 0,
+          "Discipline": 18.84057971014492,
           "Speed": 0
         },
         "metaLine": "SO / R-R",
@@ -7097,48 +7097,48 @@
         "position": "LHP",
         "classYear": "JR",
         "handedness": "L-L",
-        "score": 19,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Zane Adams looks like a LHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.36",
-          "WHIP 1.34",
-          "K/9 10.0"
+          "ERA 4.04",
+          "WHIP 1.35",
+          "K/9 9.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.36"
+            "value": "4.04"
           },
           {
             "label": "WHIP",
-            "value": "1.34"
+            "value": "1.35"
           },
           {
             "label": "K/9",
-            "value": "10.0"
+            "value": "9.8"
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "0.94"
+            "value": "0.87"
           },
           {
             "label": "IP",
-            "value": "76.3"
+            "value": "82.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 54.743946010321565,
-          "Command": 50.83333333333333,
+          "Miss bats": 53.07324254692677,
+          "Command": 46.66666666666668,
           "Damage suppression": 0
         },
         "metaLine": "JR / L-L",
@@ -7853,29 +7853,29 @@
         "position": "INF",
         "classYear": "SR",
         "handedness": "R-R",
-        "score": 27,
+        "score": 31,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jason Torres gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .236",
-          "OBP .359",
-          "SLG .390"
+          "AVG .242",
+          "OBP .368",
+          "SLG .399"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".236"
+            "value": ".242"
           },
           {
             "label": "OBP",
-            "value": ".359"
+            "value": ".368"
           },
           {
             "label": "SLG",
-            "value": ".390"
+            "value": ".399"
           },
           {
             "label": "HR",
@@ -7883,7 +7883,7 @@
           },
           {
             "label": "RBI",
-            "value": "45"
+            "value": "46"
           },
           {
             "label": "SB",
@@ -7891,10 +7891,10 @@
           }
         ],
         "components": {
-          "On-base": 43.888888888888864,
-          "Power": 18.421052631578952,
-          "Contact": 9.999999999999991,
-          "Discipline": 46.46464646464645,
+          "On-base": 48.88888888888887,
+          "Power": 20.78947368421053,
+          "Contact": 13.749999999999996,
+          "Discipline": 50.5050505050505,
           "Speed": 0
         },
         "metaLine": "SR / R-R",
@@ -7922,29 +7922,29 @@
         "position": "C",
         "classYear": "SR",
         "handedness": "L-R",
-        "score": 35,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "John Lemm gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .241",
-          "OBP .373",
-          "SLG .460"
+          "AVG .247",
+          "OBP .378",
+          "SLG .461"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".241"
+            "value": ".247"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".378"
           },
           {
             "label": "SLG",
-            "value": ".460"
+            "value": ".461"
           },
           {
             "label": "HR",
@@ -7960,10 +7960,10 @@
           }
         ],
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 36.842105263157904,
-          "Contact": 13.124999999999995,
-          "Discipline": 47.222222222222214,
+          "On-base": 54.44444444444443,
+          "Power": 37.10526315789475,
+          "Contact": 16.875,
+          "Discipline": 44.444444444444436,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / L-R",
@@ -8335,37 +8335,37 @@
         "position": "OF",
         "classYear": "FR",
         "handedness": "R-R",
-        "score": 30,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Eric Hines gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .279",
-          "OBP .336",
-          "SLG .514"
+          "AVG .276",
+          "OBP .331",
+          "SLG .526"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".279"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".336"
+            "value": ".331"
           },
           {
             "label": "SLG",
-            "value": ".514"
+            "value": ".526"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "23"
           },
           {
             "label": "SB",
@@ -8373,9 +8373,9 @@
           }
         ],
         "components": {
-          "On-base": 31.11111111111111,
-          "Power": 51.05263157894737,
-          "Contact": 36.875000000000014,
+          "On-base": 28.33333333333333,
+          "Power": 54.21052631578949,
+          "Contact": 35.000000000000014,
           "Discipline": 0,
           "Speed": 0
         },

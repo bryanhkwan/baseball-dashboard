@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-30T10:50:55.104Z",
+  "generatedAt": "2026-05-31T10:55:09.013Z",
   "season": 2026,
   "school": {
     "slug": "boston-college",
@@ -38,86 +38,86 @@
     }
   },
   "teamSummary": {
-    "record": "36-22, 17-13",
-    "battingAverage": ".275",
-    "earnedRunAverage": "4.84",
-    "wins": "36",
+    "record": "37-22, 17-13",
+    "battingAverage": ".276",
+    "earnedRunAverage": "4.83",
+    "wins": "37",
     "losses": "22",
     "hitting": {
-      "atBats": "1843",
-      "runsScored": "385",
-      "hits": "507",
-      "runsBattedIn": "349",
-      "doubles": "106",
+      "atBats": "1876",
+      "runsScored": "393",
+      "hits": "517",
+      "runsBattedIn": "357",
+      "doubles": "108",
       "triples": "19",
-      "homeRuns": "43",
-      "walks": "271",
+      "homeRuns": "45",
+      "walks": "275",
       "intentionalWalks": "6",
-      "strikeouts": "428",
-      "strikeoutsLooking": "88",
-      "hitByPitch": "84",
+      "strikeouts": "432",
+      "strikeoutsLooking": "91",
+      "hitByPitch": "85",
       "stolenBases": "139",
       "caughtStealing": "21",
-      "sacrificeHits": "46",
+      "sacrificeHits": "49",
       "sacrificeFlies": "29",
       "reachedOnCatchersInteference": "2",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "441",
-      "flyOuts": "472",
+      "groundOuts": "449",
+      "flyOuts": "486",
       "groundedIntoDoublePlay": "43",
       "pickedOff": "14",
-      "doublePlaysHitInto": "49",
+      "doublePlaysHitInto": "50",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1494",
-      "assists": "483",
-      "errors": "48",
+      "putouts": "1521",
+      "assists": "489",
+      "errors": "49",
       "passedBalls": "8",
       "catchersInterference": "0",
       "stolenBasesAgainst": "44",
       "caughtStealingBy": "20",
       "involvedInDoublePlays": "43",
       "involvedInTriplePlays": "0",
-      "totalChances": "2025",
+      "totalChances": "2059",
       "fieldingPercentage": ".976"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "36",
-      "saves": "46",
+      "wins": "37",
+      "saves": "47",
       "losses": "22",
       "gamesStarted": "0",
       "gamesCompleted": "0",
       "shutouts": "2",
       "creditForCombinedShutout": "1",
-      "inningsPitched": "498.1",
-      "hitsAllowed": "514",
-      "runsAllowed": "298",
-      "earnedRunsAllowed": "268",
-      "walksAllowed": "239",
-      "strikeouts": "467",
-      "battersFaced": "2278",
-      "opponentAtBats": "1926",
-      "doublesAllowed": "94",
+      "inningsPitched": "507.1",
+      "hitsAllowed": "522",
+      "runsAllowed": "302",
+      "earnedRunsAllowed": "272",
+      "walksAllowed": "240",
+      "strikeouts": "480",
+      "battersFaced": "2315",
+      "opponentAtBats": "1962",
+      "doublesAllowed": "96",
       "triplesAllowed": "12",
-      "homerunsAllowed": "52",
+      "homerunsAllowed": "54",
       "wildPitches": "40",
       "balks": "7",
       "hitBatters": "72",
-      "strikeoutsLooking": "109",
+      "strikeoutsLooking": "115",
       "intentionalWalks": "6",
       "inheritedRunners": "66",
       "inheritedRunnersThatScored": "42",
       "sacrificeHitsAllowed": "18",
       "sacrificeFliesAllowed": "23",
       "catchersInterferenceAllowed": "0",
-      "pitches": "8019",
-      "flyouts": "513",
-      "groundouts": "424",
+      "pitches": "8150",
+      "flyouts": "520",
+      "groundouts": "431",
       "teamUnearnedRuns": "0",
-      "saveRecord": "17",
+      "saveRecord": "18",
       "pickoff": "1"
     }
   },
@@ -305,33 +305,33 @@
         "jersey": "2",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/ty-mainolfi/26426",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Mainolfi_Uncropped.png",
-        "gamesPlayed": 58,
-        "gamesStarted": 57,
-        "battingAverage": 0.323,
-        "onBasePercentage": 0.414,
-        "sluggingPercentage": 0.435,
-        "ops": 0.849,
-        "atBats": 223,
+        "gamesPlayed": 59,
+        "gamesStarted": 58,
+        "battingAverage": 0.322,
+        "onBasePercentage": 0.411,
+        "sluggingPercentage": 0.432,
+        "ops": 0.843,
+        "atBats": 227,
         "runs": 53,
-        "hits": 72,
+        "hits": 73,
         "doubles": 16,
         "triples": 3,
         "homeRuns": 1,
-        "runsBattedIn": 47,
-        "totalBases": 97,
+        "runsBattedIn": 49,
+        "totalBases": 98,
         "walks": 31,
         "hitByPitch": 5,
         "strikeouts": 34,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 10,
         "sacrificeFlies": 2,
-        "sacrificeHits": 3,
+        "sacrificeHits": 4,
         "stolenBases": 19,
         "stolenBasesAttempts": 21,
-        "putouts": 100,
+        "putouts": 103,
         "assists": 0,
         "errors": 9,
-        "plateAppearances": 287,
+        "plateAppearances": 292,
         "caughtStealing": 2,
         "pickedOff": 2
       },
@@ -343,51 +343,51 @@
         "jersey": "2",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/ty-mainolfi/26426",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Mainolfi_Uncropped.png",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "putouts": 100,
+        "gamesPlayed": 54,
+        "gamesStarted": 54,
+        "putouts": 103,
         "assists": 123,
         "errors": 9,
-        "fieldingPercentage": 0.961,
+        "fieldingPercentage": 0.962,
         "doublePlays": 27,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 232
+        "totalChances": 235
       },
       "evaluation": {
-        "score": 61,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 74.44444444444443,
-          "Power": 30.263157894736842,
-          "Contact": 64.375,
+          "On-base": 72.77777777777776,
+          "Power": 29.47368421052632,
+          "Contact": 63.75000000000001,
           "Discipline": 79.08496732026141,
           "Speed": 63.33333333333333
         },
         "summary": "Ty Mainolfi profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .323",
-          "OBP .414",
-          "SLG .435"
+          "AVG .322",
+          "OBP .411",
+          "SLG .432"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".323"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".414"
+            "value": ".411"
           },
           {
             "label": "SLG",
-            "value": ".435"
+            "value": ".432"
           },
           {
             "label": "HR",
@@ -395,7 +395,7 @@
           },
           {
             "label": "RBI",
-            "value": "47"
+            "value": "49"
           },
           {
             "label": "SB",
@@ -1072,7 +1072,7 @@
         "jersey": "10",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/colin-larson/26403",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Larson_Uncropped.png",
-        "gamesPlayed": 56,
+        "gamesPlayed": 57,
         "gamesStarted": 52,
         "battingAverage": 0.221,
         "onBasePercentage": 0.408,
@@ -1217,33 +1217,33 @@
         "jersey": "11",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/gunnar-johnson/26400",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Johnson_Uncropped.png",
-        "gamesPlayed": 46,
-        "gamesStarted": 37,
-        "battingAverage": 0.248,
-        "onBasePercentage": 0.357,
-        "sluggingPercentage": 0.383,
-        "ops": 0.74,
-        "atBats": 133,
+        "gamesPlayed": 47,
+        "gamesStarted": 38,
+        "battingAverage": 0.25,
+        "onBasePercentage": 0.356,
+        "sluggingPercentage": 0.382,
+        "ops": 0.738,
+        "atBats": 136,
         "runs": 15,
-        "hits": 33,
+        "hits": 34,
         "doubles": 12,
         "triples": 0,
         "homeRuns": 2,
         "runsBattedIn": 31,
-        "totalBases": 51,
+        "totalBases": 52,
         "walks": 15,
         "hitByPitch": 8,
         "strikeouts": 34,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 1,
-        "sacrificeHits": 4,
+        "sacrificeHits": 5,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 266,
+        "putouts": 279,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 164,
+        "plateAppearances": 168,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1255,19 +1255,19 @@
         "jersey": "11",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/gunnar-johnson/26400",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Johnson_Uncropped.png",
-        "gamesPlayed": 41,
-        "gamesStarted": 35,
-        "putouts": 266,
+        "gamesPlayed": 42,
+        "gamesStarted": 36,
+        "putouts": 279,
         "assists": 32,
         "errors": 2,
-        "fieldingPercentage": 0.993,
+        "fieldingPercentage": 0.994,
         "doublePlays": 0,
         "stolenBasesAgainst": 22,
         "caughtStealingBy": 12,
         "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 300
+        "totalChances": 313
       },
       "evaluation": {
         "score": 26,
@@ -1276,30 +1276,30 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 42.77777777777775,
-          "Power": 16.578947368421055,
-          "Contact": 17.5,
+          "On-base": 42.2222222222222,
+          "Power": 16.315789473684212,
+          "Contact": 18.75,
           "Discipline": 26.797385620915026,
           "Speed": 10
         },
         "summary": "Gunnar Johnson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .248",
-          "OBP .357",
-          "SLG .383"
+          "AVG .250",
+          "OBP .356",
+          "SLG .382"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".248"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".357"
+            "value": ".356"
           },
           {
             "label": "SLG",
-            "value": ".383"
+            "value": ".382"
           },
           {
             "label": "HR",
@@ -1507,33 +1507,33 @@
         "jersey": "14",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/luke-gallo/26421",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Gallo_Uncropped.png",
-        "gamesPlayed": 52,
-        "gamesStarted": 47,
-        "battingAverage": 0.329,
-        "onBasePercentage": 0.439,
-        "sluggingPercentage": 0.432,
-        "ops": 0.871,
-        "atBats": 155,
-        "runs": 24,
+        "gamesPlayed": 53,
+        "gamesStarted": 48,
+        "battingAverage": 0.321,
+        "onBasePercentage": 0.432,
+        "sluggingPercentage": 0.421,
+        "ops": 0.853,
+        "atBats": 159,
+        "runs": 25,
         "hits": 51,
         "doubles": 8,
         "triples": 1,
         "homeRuns": 2,
         "runsBattedIn": 36,
         "totalBases": 67,
-        "walks": 19,
+        "walks": 20,
         "hitByPitch": 12,
-        "strikeouts": 22,
+        "strikeouts": 23,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 1,
         "sacrificeHits": 8,
         "stolenBases": 9,
         "stolenBasesAttempts": 11,
-        "putouts": 37,
+        "putouts": 38,
         "assists": 0,
-        "errors": 8,
-        "plateAppearances": 209,
+        "errors": 9,
+        "plateAppearances": 214,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -1545,51 +1545,51 @@
         "jersey": "14",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/luke-gallo/26421",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Gallo_Uncropped.png",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "putouts": 37,
-        "assists": 89,
-        "errors": 8,
-        "fieldingPercentage": 0.94,
+        "gamesPlayed": 46,
+        "gamesStarted": 46,
+        "putouts": 38,
+        "assists": 91,
+        "errors": 9,
+        "fieldingPercentage": 0.935,
         "doublePlays": 13,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 134
+        "totalChances": 138
       },
       "evaluation": {
-        "score": 62,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 88.33333333333331,
-          "Power": 29.47368421052632,
-          "Contact": 68.125,
-          "Discipline": 73.73737373737373,
+          "On-base": 84.44444444444443,
+          "Power": 26.57894736842105,
+          "Contact": 63.125,
+          "Discipline": 74.39613526570045,
           "Speed": 30
         },
         "summary": "Luke Gallo profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .329",
-          "OBP .439",
-          "SLG .432"
+          "AVG .321",
+          "OBP .432",
+          "SLG .421"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".329"
+            "value": ".321"
           },
           {
             "label": "OBP",
-            "value": ".439"
+            "value": ".432"
           },
           {
             "label": "SLG",
-            "value": ".432"
+            "value": ".421"
           },
           {
             "label": "HR",
@@ -1797,22 +1797,22 @@
         "jersey": "16",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/julio-solier/26410",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Solier_Uncropped.png",
-        "gamesPlayed": 57,
-        "gamesStarted": 57,
-        "battingAverage": 0.358,
-        "onBasePercentage": 0.436,
-        "sluggingPercentage": 0.498,
-        "ops": 0.934,
-        "atBats": 229,
-        "runs": 56,
-        "hits": 82,
-        "doubles": 13,
+        "gamesPlayed": 58,
+        "gamesStarted": 58,
+        "battingAverage": 0.361,
+        "onBasePercentage": 0.439,
+        "sluggingPercentage": 0.506,
+        "ops": 0.945,
+        "atBats": 233,
+        "runs": 57,
+        "hits": 84,
+        "doubles": 15,
         "triples": 5,
         "homeRuns": 3,
-        "runsBattedIn": 33,
-        "totalBases": 114,
+        "runsBattedIn": 34,
+        "totalBases": 118,
         "walks": 29,
-        "hitByPitch": 4,
+        "hitByPitch": 5,
         "strikeouts": 44,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
@@ -1820,10 +1820,10 @@
         "sacrificeHits": 4,
         "stolenBases": 28,
         "stolenBasesAttempts": 32,
-        "putouts": 57,
+        "putouts": 59,
         "assists": 0,
         "errors": 9,
-        "plateAppearances": 304,
+        "plateAppearances": 309,
         "caughtStealing": 4,
         "pickedOff": 1
       },
@@ -1835,51 +1835,51 @@
         "jersey": "16",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/julio-solier/26410",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Solier_Uncropped.png",
-        "gamesPlayed": 54,
-        "gamesStarted": 54,
-        "putouts": 57,
-        "assists": 126,
+        "gamesPlayed": 55,
+        "gamesStarted": 55,
+        "putouts": 59,
+        "assists": 129,
         "errors": 9,
-        "fieldingPercentage": 0.953,
+        "fieldingPercentage": 0.954,
         "doublePlays": 21,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 192
+        "totalChances": 197
       },
       "evaluation": {
-        "score": 72,
+        "score": 73,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 86.66666666666666,
-          "Power": 46.842105263157904,
-          "Contact": 86.25,
+          "On-base": 88.33333333333331,
+          "Power": 48.94736842105264,
+          "Contact": 88.12499999999999,
           "Discipline": 51.010101010100996,
           "Speed": 93.33333333333333
         },
         "summary": "Julio Solier profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .358",
-          "OBP .436",
-          "SLG .498"
+          "AVG .361",
+          "OBP .439",
+          "SLG .506"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".358"
+            "value": ".361"
           },
           {
             "label": "OBP",
-            "value": ".436"
+            "value": ".439"
           },
           {
             "label": "SLG",
-            "value": ".498"
+            "value": ".506"
           },
           {
             "label": "HR",
@@ -1887,7 +1887,7 @@
           },
           {
             "label": "RBI",
-            "value": "33"
+            "value": "34"
           },
           {
             "label": "SB",
@@ -2084,21 +2084,21 @@
         "jersey": "18",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/kyle-wolff/26416",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Wolff_Uncropped.png",
-        "gamesPlayed": 39,
-        "gamesStarted": 31,
-        "battingAverage": 0.224,
-        "onBasePercentage": 0.313,
-        "sluggingPercentage": 0.495,
-        "ops": 0.808,
-        "atBats": 107,
-        "runs": 12,
-        "hits": 24,
+        "gamesPlayed": 40,
+        "gamesStarted": 32,
+        "battingAverage": 0.236,
+        "onBasePercentage": 0.326,
+        "sluggingPercentage": 0.5,
+        "ops": 0.826,
+        "atBats": 110,
+        "runs": 14,
+        "hits": 26,
         "doubles": 8,
         "triples": 0,
         "homeRuns": 7,
         "runsBattedIn": 29,
-        "totalBases": 53,
-        "walks": 11,
+        "totalBases": 55,
+        "walks": 12,
         "hitByPitch": 5,
         "strikeouts": 22,
         "intentionalWalks": 0,
@@ -2110,7 +2110,7 @@
         "putouts": 51,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 129,
+        "plateAppearances": 133,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2137,36 +2137,36 @@
         "totalChances": 54
       },
       "evaluation": {
-        "score": 23,
+        "score": 28,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 18.333333333333318,
-          "Power": 46.05263157894737,
-          "Contact": 2.500000000000002,
-          "Discipline": 33.33333333333333,
+          "On-base": 25.555555555555546,
+          "Power": 47.36842105263158,
+          "Contact": 9.999999999999991,
+          "Discipline": 38.38383838383837,
           "Speed": 0
         },
         "summary": "Kyle Wolff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .224",
-          "OBP .313",
-          "SLG .495"
+          "AVG .236",
+          "OBP .326",
+          "SLG .500"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".224"
+            "value": ".236"
           },
           {
             "label": "OBP",
-            "value": ".313"
+            "value": ".326"
           },
           {
             "label": "SLG",
-            "value": ".495"
+            "value": ".500"
           },
           {
             "label": "HR",
@@ -2229,33 +2229,33 @@
         "jersey": "19",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/ben-williams/26415",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Williams_Uncropped.png",
-        "gamesPlayed": 41,
-        "gamesStarted": 20,
-        "battingAverage": 0.194,
-        "onBasePercentage": 0.293,
-        "sluggingPercentage": 0.236,
-        "ops": 0.529,
-        "atBats": 72,
-        "runs": 17,
+        "gamesPlayed": 42,
+        "gamesStarted": 21,
+        "battingAverage": 0.189,
+        "onBasePercentage": 0.294,
+        "sluggingPercentage": 0.23,
+        "ops": 0.524,
+        "atBats": 74,
+        "runs": 18,
         "hits": 14,
         "doubles": 3,
         "triples": 0,
         "homeRuns": 0,
-        "runsBattedIn": 7,
+        "runsBattedIn": 8,
         "totalBases": 17,
-        "walks": 9,
+        "walks": 10,
         "hitByPitch": 1,
-        "strikeouts": 33,
+        "strikeouts": 35,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
-        "sacrificeHits": 4,
+        "sacrificeHits": 5,
         "stolenBases": 7,
         "stolenBasesAttempts": 10,
-        "putouts": 57,
+        "putouts": 58,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 99,
+        "plateAppearances": 103,
         "caughtStealing": 3,
         "pickedOff": 0
       },
@@ -2267,9 +2267,9 @@
         "jersey": "19",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/ben-williams/26415",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Williams_Uncropped.png",
-        "gamesPlayed": 26,
-        "gamesStarted": 20,
-        "putouts": 57,
+        "gamesPlayed": 27,
+        "gamesStarted": 21,
+        "putouts": 58,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -2279,7 +2279,7 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 57
+        "totalChances": 58
       },
       "evaluation": {
         "score": 6,
@@ -2288,30 +2288,30 @@
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 7.222222222222198,
+          "On-base": 7.777777777777755,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 8.080808080808076,
+          "Discipline": 9.523809523809518,
           "Speed": 23.333333333333332
         },
         "summary": "Ben Williams gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .194",
-          "OBP .293",
-          "SLG .236"
+          "AVG .189",
+          "OBP .294",
+          "SLG .230"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".194"
+            "value": ".189"
           },
           {
             "label": "OBP",
-            "value": ".293"
+            "value": ".294"
           },
           {
             "label": "SLG",
-            "value": ".236"
+            "value": ".230"
           },
           {
             "label": "HR",
@@ -2319,7 +2319,7 @@
           },
           {
             "label": "RBI",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "SB",
@@ -2375,31 +2375,31 @@
         "jersey": "21",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/tyler-mudd/26406",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Mudd_Uncropped.png",
-        "gamesPlayed": 16,
-        "gamesStarted": 13,
-        "appearances": 16,
+        "gamesPlayed": 17,
+        "gamesStarted": 14,
+        "appearances": 17,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.7,
-        "whip": 1.5,
-        "wins": 4,
+        "earnedRunAverage": 4.72,
+        "whip": 1.44,
+        "wins": 5,
         "losses": 4,
         "saves": 1,
         "shutouts": 1,
-        "inningsPitched": 59.333333333333336,
-        "inningsPitchedDisplay": "59.1",
-        "hitsAllowed": 68,
-        "runsAllowed": 34,
-        "earnedRunsAllowed": 31,
+        "inningsPitched": 66.66666666666667,
+        "inningsPitchedDisplay": "66.2",
+        "hitsAllowed": 75,
+        "runsAllowed": 38,
+        "earnedRunsAllowed": 35,
         "walksAllowed": 21,
-        "strikeouts": 37,
-        "doublesAllowed": 7,
+        "strikeouts": 47,
+        "doublesAllowed": 8,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 11,
-        "opponentsAtBats": 238,
+        "homeRunsAllowed": 13,
+        "opponentsAtBats": 268,
         "wildPitches": 0,
         "hitBatters": 6,
         "balks": 1,
-        "opponentsBattingAverage": 0.286,
+        "opponentsBattingAverage": 0.28,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2409,22 +2409,22 @@
         "jersey": "21",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/tyler-mudd/26406",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Mudd_Uncropped.png",
-        "gamesPlayed": 6,
-        "gamesStarted": 6,
+        "gamesPlayed": 7,
+        "gamesStarted": 7,
         "putouts": 2,
-        "assists": 6,
+        "assists": 7,
         "errors": 1,
-        "fieldingPercentage": 0.889,
+        "fieldingPercentage": 0.9,
         "doublePlays": 0,
         "stolenBasesAgainst": 1,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 9
+        "totalChances": 10
       },
       "evaluation": {
-        "score": 5,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2432,40 +2432,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 14.657814096016342,
-          "Command": 15.238095238095243,
+          "Miss bats": 21.318181818181817,
+          "Command": 24.761904761904763,
           "Damage suppression": 0
         },
-        "summary": "Tyler Mudd gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Tyler Mudd looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.70",
-          "WHIP 1.50",
-          "K/9 5.6"
+          "ERA 4.72",
+          "WHIP 1.44",
+          "K/9 6.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.70"
+            "value": "4.72"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.44"
           },
           {
             "label": "K/9",
-            "value": "5.6"
+            "value": "6.3"
           },
           {
             "label": "BB/9",
-            "value": "3.2"
+            "value": "2.8"
           },
           {
             "label": "HR/9",
-            "value": "1.67"
+            "value": "1.75"
           },
           {
             "label": "IP",
-            "value": "59.3"
+            "value": "66.7"
           }
         ],
         "metaLine": "GR / L/L",
@@ -2982,12 +2982,12 @@
         "jersey": "25",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/chase-hartsell/26424",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Hartsell_Uncropped.png",
-        "gamesPlayed": 19,
+        "gamesPlayed": 20,
         "gamesStarted": 1,
-        "appearances": 19,
+        "appearances": 20,
         "gamesCompleted": 0,
         "earnedRunAverage": 5.74,
-        "whip": 1.61,
+        "whip": 1.65,
         "wins": 3,
         "losses": 0,
         "saves": 0,
@@ -2997,7 +2997,7 @@
         "hitsAllowed": 29,
         "runsAllowed": 18,
         "earnedRunsAllowed": 17,
-        "walksAllowed": 14,
+        "walksAllowed": 15,
         "strikeouts": 28,
         "doublesAllowed": 13,
         "triplesAllowed": 0,
@@ -3040,13 +3040,13 @@
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 49.54545454545454,
-          "Command": 20,
+          "Command": 17.33333333333333,
           "Damage suppression": 0
         },
         "summary": "Chase Hartsell looks like a RHP option who misses bats.",
         "summaryMetrics": [
           "ERA 5.74",
-          "WHIP 1.61",
+          "WHIP 1.65",
           "K/9 9.4"
         ],
         "statCards": [
@@ -3056,7 +3056,7 @@
           },
           {
             "label": "WHIP",
-            "value": "1.61"
+            "value": "1.65"
           },
           {
             "label": "K/9",
@@ -3064,7 +3064,7 @@
           },
           {
             "label": "BB/9",
-            "value": "4.7"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
@@ -3495,33 +3495,33 @@
         "jersey": "31",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/carter-hendrickson/26425",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Hendrickson_Uncropped.png",
-        "gamesPlayed": 33,
-        "gamesStarted": 32,
-        "battingAverage": 0.232,
-        "onBasePercentage": 0.413,
-        "sluggingPercentage": 0.358,
-        "ops": 0.771,
-        "atBats": 95,
-        "runs": 28,
-        "hits": 22,
+        "gamesPlayed": 34,
+        "gamesStarted": 33,
+        "battingAverage": 0.242,
+        "onBasePercentage": 0.415,
+        "sluggingPercentage": 0.394,
+        "ops": 0.809,
+        "atBats": 99,
+        "runs": 30,
+        "hits": 24,
         "doubles": 7,
         "triples": 1,
-        "homeRuns": 1,
-        "runsBattedIn": 16,
-        "totalBases": 34,
+        "homeRuns": 2,
+        "runsBattedIn": 18,
+        "totalBases": 39,
         "walks": 17,
         "hitByPitch": 13,
-        "strikeouts": 17,
+        "strikeouts": 18,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
         "sacrificeHits": 6,
         "stolenBases": 12,
         "stolenBasesAttempts": 15,
-        "putouts": 66,
+        "putouts": 67,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 150,
+        "plateAppearances": 154,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -3533,9 +3533,9 @@
         "jersey": "31",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/carter-hendrickson/26425",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Hendrickson_Uncropped.png",
-        "gamesPlayed": 28,
-        "gamesStarted": 28,
-        "putouts": 66,
+        "gamesPlayed": 29,
+        "gamesStarted": 29,
+        "putouts": 67,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -3545,47 +3545,47 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 66
+        "totalChances": 67
       },
       "evaluation": {
-        "score": 44,
+        "score": 47,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 73.88888888888886,
-          "Power": 9.999999999999995,
-          "Contact": 7.500000000000007,
-          "Discipline": 88.88888888888889,
+          "On-base": 74.99999999999997,
+          "Power": 19.473684210526322,
+          "Contact": 13.749999999999996,
+          "Discipline": 82.71604938271604,
           "Speed": 40
         },
-        "summary": "Carter Hendrickson profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
+        "summary": "Carter Hendrickson profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .232",
-          "OBP .413",
-          "SLG .358"
+          "AVG .242",
+          "OBP .415",
+          "SLG .394"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".232"
+            "value": ".242"
           },
           {
             "label": "OBP",
-            "value": ".413"
+            "value": ".415"
           },
           {
             "label": "SLG",
-            "value": ".358"
+            "value": ".394"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "2"
           },
           {
             "label": "RBI",
-            "value": "16"
+            "value": "18"
           },
           {
             "label": "SB",
@@ -4384,21 +4384,21 @@
         "jersey": "38",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/jack-toomey/26413",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Toomey_Headshot.png",
-        "gamesPlayed": 48,
-        "gamesStarted": 47,
-        "battingAverage": 0.323,
-        "onBasePercentage": 0.45,
-        "sluggingPercentage": 0.551,
-        "ops": 1.001,
-        "atBats": 167,
-        "runs": 51,
-        "hits": 54,
+        "gamesPlayed": 49,
+        "gamesStarted": 48,
+        "battingAverage": 0.322,
+        "onBasePercentage": 0.449,
+        "sluggingPercentage": 0.561,
+        "ops": 1.01,
+        "atBats": 171,
+        "runs": 52,
+        "hits": 55,
         "doubles": 14,
         "triples": 6,
-        "homeRuns": 4,
-        "runsBattedIn": 26,
-        "totalBases": 92,
-        "walks": 36,
+        "homeRuns": 5,
+        "runsBattedIn": 27,
+        "totalBases": 96,
+        "walks": 37,
         "hitByPitch": 4,
         "strikeouts": 41,
         "intentionalWalks": 0,
@@ -4407,10 +4407,10 @@
         "sacrificeHits": 1,
         "stolenBases": 18,
         "stolenBasesAttempts": 19,
-        "putouts": 96,
+        "putouts": 97,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 230,
+        "plateAppearances": 235,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -4422,9 +4422,9 @@
         "jersey": "38",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/jack-toomey/26413",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Toomey_Headshot.png",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "putouts": 96,
+        "gamesPlayed": 41,
+        "gamesStarted": 41,
+        "putouts": 97,
         "assists": 1,
         "errors": 1,
         "fieldingPercentage": 0.99,
@@ -4434,47 +4434,47 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 98
+        "totalChances": 99
       },
       "evaluation": {
-        "score": 74,
+        "score": 75,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 94.44444444444444,
-          "Power": 60.78947368421055,
-          "Contact": 64.375,
-          "Discipline": 75.33875338753386,
+          "On-base": 93.88888888888889,
+          "Power": 63.421052631578966,
+          "Contact": 63.75000000000001,
+          "Discipline": 78.04878048780486,
           "Speed": 60
         },
         "summary": "Jack Toomey profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .323",
-          "OBP .450",
-          "SLG .551"
+          "AVG .322",
+          "OBP .449",
+          "SLG .561"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".323"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".450"
+            "value": ".449"
           },
           {
             "label": "SLG",
-            "value": ".551"
+            "value": ".561"
           },
           {
             "label": "HR",
-            "value": "4"
+            "value": "5"
           },
           {
             "label": "RBI",
-            "value": "26"
+            "value": "27"
           },
           {
             "label": "SB",
@@ -4793,20 +4793,20 @@
         "jersey": "44",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/nick-wang/26414",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Wang_Uncropped.png",
-        "gamesPlayed": 58,
-        "gamesStarted": 58,
-        "battingAverage": 0.302,
-        "onBasePercentage": 0.412,
-        "sluggingPercentage": 0.59,
-        "ops": 1.002,
-        "atBats": 212,
+        "gamesPlayed": 59,
+        "gamesStarted": 59,
+        "battingAverage": 0.3,
+        "onBasePercentage": 0.408,
+        "sluggingPercentage": 0.581,
+        "ops": 0.989,
+        "atBats": 217,
         "runs": 46,
-        "hits": 64,
+        "hits": 65,
         "doubles": 11,
         "triples": 1,
         "homeRuns": 16,
-        "runsBattedIn": 61,
-        "totalBases": 125,
+        "runsBattedIn": 62,
+        "totalBases": 126,
         "walks": 38,
         "hitByPitch": 8,
         "strikeouts": 47,
@@ -4816,10 +4816,10 @@
         "sacrificeHits": 0,
         "stolenBases": 11,
         "stolenBasesAttempts": 12,
-        "putouts": 295,
+        "putouts": 300,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 280,
+        "plateAppearances": 285,
         "caughtStealing": 1,
         "pickedOff": 3
       },
@@ -4831,51 +4831,51 @@
         "jersey": "44",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/nick-wang/26414",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Wang_Uncropped.png",
-        "gamesPlayed": 50,
-        "gamesStarted": 50,
-        "putouts": 295,
+        "gamesPlayed": 51,
+        "gamesStarted": 51,
+        "putouts": 300,
         "assists": 16,
         "errors": 3,
-        "fieldingPercentage": 0.99,
+        "fieldingPercentage": 0.991,
         "doublePlays": 29,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 314
+        "totalChances": 319
       },
       "evaluation": {
-        "score": 64,
+        "score": 63,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 73.3333333333333,
-          "Power": 71.05263157894737,
-          "Contact": 51.24999999999999,
+          "On-base": 71.11111111111109,
+          "Power": 68.6842105263158,
+          "Contact": 49.999999999999986,
           "Discipline": 67.61229314420801,
           "Speed": 36.666666666666664
         },
         "summary": "Nick Wang profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .302",
-          "OBP .412",
-          "SLG .590"
+          "AVG .300",
+          "OBP .408",
+          "SLG .581"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".302"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".412"
+            "value": ".408"
           },
           {
             "label": "SLG",
-            "value": ".590"
+            "value": ".581"
           },
           {
             "label": "HR",
@@ -4883,7 +4883,7 @@
           },
           {
             "label": "RBI",
-            "value": "61"
+            "value": "62"
           },
           {
             "label": "SB",
@@ -5081,31 +5081,31 @@
         "jersey": "46",
         "profileUrl": "https://bceagles.com/sports/baseball/roster/kyle-kipp/26401",
         "imageUrl": "https://bceagles.com/images/2026/1/23/Kipp_Uncropped.png",
-        "gamesPlayed": 18,
+        "gamesPlayed": 19,
         "gamesStarted": 0,
-        "appearances": 18,
+        "appearances": 19,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.3,
-        "whip": 1.34,
+        "earnedRunAverage": 5.08,
+        "whip": 1.31,
         "wins": 2,
         "losses": 3,
-        "saves": 4,
+        "saves": 5,
         "shutouts": 0,
-        "inningsPitched": 37.333333333333336,
-        "inningsPitchedDisplay": "37.1",
-        "hitsAllowed": 34,
+        "inningsPitched": 39,
+        "inningsPitchedDisplay": "39.0",
+        "hitsAllowed": 35,
         "runsAllowed": 22,
         "earnedRunsAllowed": 22,
         "walksAllowed": 16,
-        "strikeouts": 29,
-        "doublesAllowed": 6,
+        "strikeouts": 32,
+        "doublesAllowed": 7,
         "triplesAllowed": 1,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 140,
+        "opponentsAtBats": 146,
         "wildPitches": 3,
         "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.243,
+        "opponentsBattingAverage": 0.24,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5130,7 +5130,7 @@
         "totalChances": 6
       },
       "evaluation": {
-        "score": 8,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5138,40 +5138,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 27.191558441558435,
-          "Command": 16.25,
+          "Miss bats": 30.76923076923077,
+          "Command": 20,
           "Damage suppression": 0
         },
         "summary": "Kyle Kipp gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.30",
-          "WHIP 1.34",
-          "K/9 7.0"
+          "ERA 5.08",
+          "WHIP 1.31",
+          "K/9 7.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.30"
+            "value": "5.08"
           },
           {
             "label": "WHIP",
-            "value": "1.34"
+            "value": "1.31"
           },
           {
             "label": "K/9",
-            "value": "7.0"
+            "value": "7.4"
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "3.7"
           },
           {
             "label": "HR/9",
-            "value": "1.21"
+            "value": "1.15"
           },
           {
             "label": "IP",
-            "value": "37.3"
+            "value": "39.0"
           }
         ],
         "metaLine": "JR / R/R",
@@ -5822,29 +5822,29 @@
         "position": "INF",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 61,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Ty Mainolfi profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .323",
-          "OBP .414",
-          "SLG .435"
+          "AVG .322",
+          "OBP .411",
+          "SLG .432"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".323"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".414"
+            "value": ".411"
           },
           {
             "label": "SLG",
-            "value": ".435"
+            "value": ".432"
           },
           {
             "label": "HR",
@@ -5852,7 +5852,7 @@
           },
           {
             "label": "RBI",
-            "value": "47"
+            "value": "49"
           },
           {
             "label": "SB",
@@ -5860,9 +5860,9 @@
           }
         ],
         "components": {
-          "On-base": 74.44444444444443,
-          "Power": 30.263157894736842,
-          "Contact": 64.375,
+          "On-base": 72.77777777777776,
+          "Power": 29.47368421052632,
+          "Contact": 63.75000000000001,
           "Discipline": 79.08496732026141,
           "Speed": 63.33333333333333
         },
@@ -6311,22 +6311,22 @@
         },
         "summary": "Gunnar Johnson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .248",
-          "OBP .357",
-          "SLG .383"
+          "AVG .250",
+          "OBP .356",
+          "SLG .382"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".248"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".357"
+            "value": ".356"
           },
           {
             "label": "SLG",
-            "value": ".383"
+            "value": ".382"
           },
           {
             "label": "HR",
@@ -6342,9 +6342,9 @@
           }
         ],
         "components": {
-          "On-base": 42.77777777777775,
-          "Power": 16.578947368421055,
-          "Contact": 17.5,
+          "On-base": 42.2222222222222,
+          "Power": 16.315789473684212,
+          "Contact": 18.75,
           "Discipline": 26.797385620915026,
           "Speed": 10
         },
@@ -6442,29 +6442,29 @@
         "position": "INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 62,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Luke Gallo profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .329",
-          "OBP .439",
-          "SLG .432"
+          "AVG .321",
+          "OBP .432",
+          "SLG .421"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".329"
+            "value": ".321"
           },
           {
             "label": "OBP",
-            "value": ".439"
+            "value": ".432"
           },
           {
             "label": "SLG",
-            "value": ".432"
+            "value": ".421"
           },
           {
             "label": "HR",
@@ -6480,10 +6480,10 @@
           }
         ],
         "components": {
-          "On-base": 88.33333333333331,
-          "Power": 29.47368421052632,
-          "Contact": 68.125,
-          "Discipline": 73.73737373737373,
+          "On-base": 84.44444444444443,
+          "Power": 26.57894736842105,
+          "Contact": 63.125,
+          "Discipline": 74.39613526570045,
           "Speed": 30
         },
         "metaLine": "FR / R/R",
@@ -6580,29 +6580,29 @@
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 72,
+        "score": 73,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Julio Solier profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .358",
-          "OBP .436",
-          "SLG .498"
+          "AVG .361",
+          "OBP .439",
+          "SLG .506"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".358"
+            "value": ".361"
           },
           {
             "label": "OBP",
-            "value": ".436"
+            "value": ".439"
           },
           {
             "label": "SLG",
-            "value": ".498"
+            "value": ".506"
           },
           {
             "label": "HR",
@@ -6610,7 +6610,7 @@
           },
           {
             "label": "RBI",
-            "value": "33"
+            "value": "34"
           },
           {
             "label": "SB",
@@ -6618,9 +6618,9 @@
           }
         ],
         "components": {
-          "On-base": 86.66666666666666,
-          "Power": 46.842105263157904,
-          "Contact": 86.25,
+          "On-base": 88.33333333333331,
+          "Power": 48.94736842105264,
+          "Contact": 88.12499999999999,
           "Discipline": 51.010101010100996,
           "Speed": 93.33333333333333
         },
@@ -6718,29 +6718,29 @@
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/L",
-        "score": 23,
+        "score": 28,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Kyle Wolff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .224",
-          "OBP .313",
-          "SLG .495"
+          "AVG .236",
+          "OBP .326",
+          "SLG .500"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".224"
+            "value": ".236"
           },
           {
             "label": "OBP",
-            "value": ".313"
+            "value": ".326"
           },
           {
             "label": "SLG",
-            "value": ".495"
+            "value": ".500"
           },
           {
             "label": "HR",
@@ -6756,10 +6756,10 @@
           }
         ],
         "components": {
-          "On-base": 18.333333333333318,
-          "Power": 46.05263157894737,
-          "Contact": 2.500000000000002,
-          "Discipline": 33.33333333333333,
+          "On-base": 25.555555555555546,
+          "Power": 47.36842105263158,
+          "Contact": 9.999999999999991,
+          "Discipline": 38.38383838383837,
           "Speed": 0
         },
         "metaLine": "SR / R/L",
@@ -6794,22 +6794,22 @@
         },
         "summary": "Ben Williams gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .194",
-          "OBP .293",
-          "SLG .236"
+          "AVG .189",
+          "OBP .294",
+          "SLG .230"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".194"
+            "value": ".189"
           },
           {
             "label": "OBP",
-            "value": ".293"
+            "value": ".294"
           },
           {
             "label": "SLG",
-            "value": ".236"
+            "value": ".230"
           },
           {
             "label": "HR",
@@ -6817,7 +6817,7 @@
           },
           {
             "label": "RBI",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "SB",
@@ -6825,10 +6825,10 @@
           }
         ],
         "components": {
-          "On-base": 7.222222222222198,
+          "On-base": 7.777777777777755,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 8.080808080808076,
+          "Discipline": 9.523809523809518,
           "Speed": 23.333333333333332
         },
         "metaLine": "SO / R/R",
@@ -6856,48 +6856,48 @@
         "position": "LHP",
         "classYear": "GR",
         "handedness": "L/L",
-        "score": 5,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Tyler Mudd gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Tyler Mudd looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.70",
-          "WHIP 1.50",
-          "K/9 5.6"
+          "ERA 4.72",
+          "WHIP 1.44",
+          "K/9 6.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.70"
+            "value": "4.72"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.44"
           },
           {
             "label": "K/9",
-            "value": "5.6"
+            "value": "6.3"
           },
           {
             "label": "BB/9",
-            "value": "3.2"
+            "value": "2.8"
           },
           {
             "label": "HR/9",
-            "value": "1.67"
+            "value": "1.75"
           },
           {
             "label": "IP",
-            "value": "59.3"
+            "value": "66.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 14.657814096016342,
-          "Command": 15.238095238095243,
+          "Miss bats": 21.318181818181817,
+          "Command": 24.761904761904763,
           "Damage suppression": 0
         },
         "metaLine": "GR / L/L",
@@ -7140,7 +7140,7 @@
         "summary": "Chase Hartsell looks like a RHP option who misses bats.",
         "summaryMetrics": [
           "ERA 5.74",
-          "WHIP 1.61",
+          "WHIP 1.65",
           "K/9 9.4"
         ],
         "statCards": [
@@ -7150,7 +7150,7 @@
           },
           {
             "label": "WHIP",
-            "value": "1.61"
+            "value": "1.65"
           },
           {
             "label": "K/9",
@@ -7158,7 +7158,7 @@
           },
           {
             "label": "BB/9",
-            "value": "4.7"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
@@ -7173,7 +7173,7 @@
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 49.54545454545454,
-          "Command": 20,
+          "Command": 17.33333333333333,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -7407,37 +7407,37 @@
         "position": "OF",
         "classYear": "GR",
         "handedness": "R/L",
-        "score": 44,
+        "score": 47,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Carter Hendrickson profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
+        "summary": "Carter Hendrickson profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .232",
-          "OBP .413",
-          "SLG .358"
+          "AVG .242",
+          "OBP .415",
+          "SLG .394"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".232"
+            "value": ".242"
           },
           {
             "label": "OBP",
-            "value": ".413"
+            "value": ".415"
           },
           {
             "label": "SLG",
-            "value": ".358"
+            "value": ".394"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "2"
           },
           {
             "label": "RBI",
-            "value": "16"
+            "value": "18"
           },
           {
             "label": "SB",
@@ -7445,10 +7445,10 @@
           }
         ],
         "components": {
-          "On-base": 73.88888888888886,
-          "Power": 9.999999999999995,
-          "Contact": 7.500000000000007,
-          "Discipline": 88.88888888888889,
+          "On-base": 74.99999999999997,
+          "Power": 19.473684210526322,
+          "Contact": 13.749999999999996,
+          "Discipline": 82.71604938271604,
           "Speed": 40
         },
         "metaLine": "GR / R/L",
@@ -7888,37 +7888,37 @@
         "position": "OF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 74,
+        "score": 75,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Jack Toomey profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .323",
-          "OBP .450",
-          "SLG .551"
+          "AVG .322",
+          "OBP .449",
+          "SLG .561"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".323"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".450"
+            "value": ".449"
           },
           {
             "label": "SLG",
-            "value": ".551"
+            "value": ".561"
           },
           {
             "label": "HR",
-            "value": "4"
+            "value": "5"
           },
           {
             "label": "RBI",
-            "value": "26"
+            "value": "27"
           },
           {
             "label": "SB",
@@ -7926,10 +7926,10 @@
           }
         ],
         "components": {
-          "On-base": 94.44444444444444,
-          "Power": 60.78947368421055,
-          "Contact": 64.375,
-          "Discipline": 75.33875338753386,
+          "On-base": 93.88888888888889,
+          "Power": 63.421052631578966,
+          "Contact": 63.75000000000001,
+          "Discipline": 78.04878048780486,
           "Speed": 60
         },
         "metaLine": "SR / R/R",
@@ -8095,29 +8095,29 @@
         "position": "INF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 64,
+        "score": 63,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Nick Wang profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .302",
-          "OBP .412",
-          "SLG .590"
+          "AVG .300",
+          "OBP .408",
+          "SLG .581"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".302"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".412"
+            "value": ".408"
           },
           {
             "label": "SLG",
-            "value": ".590"
+            "value": ".581"
           },
           {
             "label": "HR",
@@ -8125,7 +8125,7 @@
           },
           {
             "label": "RBI",
-            "value": "61"
+            "value": "62"
           },
           {
             "label": "SB",
@@ -8133,9 +8133,9 @@
           }
         ],
         "components": {
-          "On-base": 73.3333333333333,
-          "Power": 71.05263157894737,
-          "Contact": 51.24999999999999,
+          "On-base": 71.11111111111109,
+          "Power": 68.6842105263158,
+          "Contact": 49.999999999999986,
           "Discipline": 67.61229314420801,
           "Speed": 36.666666666666664
         },
@@ -8233,48 +8233,48 @@
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 8,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Kyle Kipp gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.30",
-          "WHIP 1.34",
-          "K/9 7.0"
+          "ERA 5.08",
+          "WHIP 1.31",
+          "K/9 7.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.30"
+            "value": "5.08"
           },
           {
             "label": "WHIP",
-            "value": "1.34"
+            "value": "1.31"
           },
           {
             "label": "K/9",
-            "value": "7.0"
+            "value": "7.4"
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "3.7"
           },
           {
             "label": "HR/9",
-            "value": "1.21"
+            "value": "1.15"
           },
           {
             "label": "IP",
-            "value": "37.3"
+            "value": "39.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 27.191558441558435,
-          "Command": 16.25,
+          "Miss bats": 30.76923076923077,
+          "Command": 20,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
