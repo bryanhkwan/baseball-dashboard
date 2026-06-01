@@ -1,6 +1,6 @@
 export default {
   "source": "Mid-American Conference standings page",
-  "fetchedAt": "2026-05-25T14:34:44.239Z",
+  "fetchedAt": "2026-06-01T17:17:34.617Z",
   "conference": {
     "id": "mac",
     "name": "Mid-American Conference",
@@ -41,22 +41,6 @@ export default {
     },
     {
       "rank": 3,
-      "teamId": "northern-illinois",
-      "displayName": "Northern Illinois",
-      "fullName": "Northern Illinois",
-      "abbreviation": "",
-      "logo": "",
-      "conferenceRecord": "21-12",
-      "conferencePct": ".636",
-      "overallRecord": "35-17",
-      "overallPct": ".673",
-      "homeRecord": "12-5",
-      "awayRecord": "19-12",
-      "neutralRecord": "4-0",
-      "streak": "W4"
-    },
-    {
-      "rank": 4,
       "teamId": "toledo",
       "displayName": "Toledo",
       "fullName": "Toledo",
@@ -70,6 +54,22 @@ export default {
       "awayRecord": "13-19",
       "neutralRecord": "4-2",
       "streak": "L1"
+    },
+    {
+      "rank": 4,
+      "teamId": "northern-illinois",
+      "displayName": "Northern Illinois",
+      "fullName": "Northern Illinois",
+      "abbreviation": "",
+      "logo": "",
+      "conferenceRecord": "21-13",
+      "conferencePct": ".618",
+      "overallRecord": "36-20",
+      "overallPct": ".643",
+      "homeRecord": "12-5",
+      "awayRecord": "19-13",
+      "neutralRecord": "5-2",
+      "streak": "L2"
     },
     {
       "rank": 5,
